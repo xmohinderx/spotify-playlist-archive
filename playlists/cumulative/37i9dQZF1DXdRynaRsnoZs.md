@@ -4,7 +4,7 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-73 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/0cma9eATlERoy7bhmBZ0M3)
+76 songs - 3 hr 7 min - [published](https://open.spotify.com/playlist/0cma9eATlERoy7bhmBZ0M3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Do You Want To Build A Snowman?](https://open.spotify.com/track/2vwIMdSn7LSjFk5YleHKqF) | [Ivan Clarke](https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W) | [A Baby Changes Everything](https://open.spotify.com/album/1YHiGXAmqHP3ykTBezP5FV) | 3:08 | 2021-12-22 |  |
 | [Do You Want to Build a Snowman?](https://open.spotify.com/track/1fbnn3frhDoCMsM0QEogJK) | [Ralph Aachen](https://open.spotify.com/artist/0dJtjZpWliouisclYavoGF) | [Do You Want to Build a Snowman?](https://open.spotify.com/album/66qwp0fTQzjZGsx5zFSNeB) | 3:16 | 2021-12-22 | 2022-10-15 |
 | [Emmanuel](https://open.spotify.com/track/26FxkfhUC6opL8Kr7ej5nM) | [Will Ackerman](https://open.spotify.com/artist/5MHSgzpt7607DgUgvOTlLd) | [Windham Hill Holiday Guitar Collection](https://open.spotify.com/album/0wMljJkbo5ZcspfK2VzMgz) | 2:25 | 2021-12-22 |  |
+| [Ett Barn är fött](https://open.spotify.com/track/7lDL4Kc3wYxpbdGQ8qINdy) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Ett Barn är fött](https://open.spotify.com/album/1BY9US3wbFcwvDbXDJtoQD) | 2:10 | 2022-10-24 |  |
 | [Feliz Navidad](https://open.spotify.com/track/1Du3glA0jYeBg2G1WJSQ7a) | [Jesus D'Silva](https://open.spotify.com/artist/5ymtH0MZbCoCdAtst1ceOC) | [Feliz Navidad](https://open.spotify.com/album/4NFKrRFZyFy0MrILKJzJqp) | 3:25 | 2021-12-22 |  |
 | [Frosty the Snowman](https://open.spotify.com/track/5QLExSTWr6iDncCkWh7pfe) | [Shannon Stuart](https://open.spotify.com/artist/5vGxYS3YeeSFrXGEjFEDTj) | [A Joyous Christmas](https://open.spotify.com/album/0lzvUeQSMEAhZnASLb4RKB) | 3:05 | 2021-12-22 |  |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/1sq51KAUXYEgP4WzniBu2k) | [Canciones de cuna para bebés](https://open.spotify.com/artist/6Gfi15EDPykTGmyJwlZJyg), [Musica Para Dormir Bebes](https://open.spotify.com/artist/4ykkRDXhReJHr41RrruDKo), [MÚSICA PARA NIÑOS](https://open.spotify.com/artist/1RP6w1culo2vykXGaiYdrQ) | [Musica navideña para bebes: Canciones de cuna de navidad](https://open.spotify.com/album/6oN5vGmcFmFqbtM9FkGUzy) | 2:40 | 2021-12-22 | 2022-10-15 |
@@ -50,6 +51,7 @@
 | [I'll Be Home For Christmas](https://open.spotify.com/track/5yP4hR7u50mtconpLCYNNe) | [Peter Blitz](https://open.spotify.com/artist/7xDyVoAplSi3NTi27ZSssX) | [I'll Be Home For Christmas](https://open.spotify.com/album/3JFPYFs2QU4WBwHu7UHxcv) | 2:35 | 2021-12-22 | 2022-10-15 |
 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/6YxMWJd7FWGYh3HbpBvjd9) | [Jeff Wahl](https://open.spotify.com/artist/3z975VInlGLspa4qHMmZwM) | [Christmas Guitar](https://open.spotify.com/album/3DhGSShEDNgIqqecW8EqnR) | 2:15 | 2021-12-22 |  |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/33CwvvehOkrLRCG0cySKLi) | [Mood Of Harps](https://open.spotify.com/artist/0GvtayC9qA80kdronm7y5Q) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/0tIWFiV6KbzbzPwmRUozVf) | 2:14 | 2022-10-14 |  |
+| [Jingle Bells](https://open.spotify.com/track/14gnIb4UfQhrhnU7Wht94p) | [Tom Blund](https://open.spotify.com/artist/715D4M785npyWgVKLgtXdX) | [Jingle Bells](https://open.spotify.com/album/52Bg9Trlc6ruhgaJ0I65AS) | 2:48 | 2022-10-24 |  |
 | [Joy To The World](https://open.spotify.com/track/23CDgb2xHfuKlWDaFbrnoR) | [Baby Sleep Music](https://open.spotify.com/artist/6a1uY4qTyJ5hXs0eOxRQnL), [Monarch Baby Lullaby Institute](https://open.spotify.com/artist/78xDLQc4yprjfXlrEXkEYQ), [Christmas Music Lullabies](https://open.spotify.com/artist/0cob7zfjKrTWDDqKQaJKXz) | [Christmas Baby: Christmas Music,Christmas Carols, Holiday Music, Baby Lullabies & Baby Lullaby Music](https://open.spotify.com/album/6lodGpWBpMc6JO6nEpqxIN) | 2:07 | 2021-12-22 | 2022-10-15 |
 | [Joy to the World \(Instrumental\)](https://open.spotify.com/track/2XG2tfepUFV6ujKSLFmL7u) | [Rockabye Lullaby](https://open.spotify.com/artist/3y0d6ljlxup7X9hZKSdKbr) | [Christmas Lullabies Vol 3](https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n) | 3:56 | 2021-12-22 |  |
 | [Let It Snow Let It Snow Let It Snow](https://open.spotify.com/track/15a8V1kcwfqimlHRe5n6Yl) | [Universe Mind](https://open.spotify.com/artist/2awxN1MZogaVe4XxP4NNjG) | [Christmas Lullabies](https://open.spotify.com/album/5gcFtGz8MFUST69lxrvVol) | 3:14 | 2021-12-22 |  |
@@ -64,6 +66,7 @@
 | [Silent Night](https://open.spotify.com/track/4VhASbTfw1zBh7kzMFtFAC) | [Liam Simon](https://open.spotify.com/artist/2z660oi3KO1WylKrZlxi6y) | [A Joyful Christmas](https://open.spotify.com/album/4TWNCHyFgjy0lDT17EH9wm) | 2:28 | 2021-12-22 | 2022-10-15 |
 | [Silent Night](https://open.spotify.com/track/4JV9zSuayX7Ee7sE5N4g0C) | [Tetra String Quartet](https://open.spotify.com/artist/2BbGMsh39jP6OWlY9JQDv7) | [Tetra String Quartet Christmas](https://open.spotify.com/album/27c7vgqaJ2SQgO41lZacXK) | 3:20 | 2021-12-22 | 2022-10-15 |
 | [Silent Night](https://open.spotify.com/track/58nFp57WdGVDm5hXNtnfLW) | [US Two](https://open.spotify.com/artist/6diA719p2OaW6zQnXCbRO9) | [Silent Night](https://open.spotify.com/album/7knQWBv9dQ3HUgZ3zHB6rH) | 3:03 | 2021-12-22 | 2022-10-15 |
+| [Silver Bells](https://open.spotify.com/track/2aGgTEJFKaodysFjnViaXg) | [Gabriel Atkinson](https://open.spotify.com/artist/3STDUdNiJtmSG8yzbE76bq) | [Silver Bells](https://open.spotify.com/album/3fXsUAjOcpW0OBXd0NBgT3) | 1:42 | 2022-10-24 |  |
 | [Silver Bells \- Piano](https://open.spotify.com/track/5HGeOWobPDjZZ3vc0tUA0x) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [we're home for Christmas \(Piano\)](https://open.spotify.com/album/0ne2v4nlcqGxX9BdEONxcY) | 2:24 | 2022-10-14 |  |
 | [Sussex Carol](https://open.spotify.com/track/1vCKQqP4EIInHeXIAmaaKi) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:25 | 2021-12-22 |  |
 | [The Chipmunk Song](https://open.spotify.com/track/7jmrDlg68Otsi3oxZcmJBP) | [Shannon Stuart](https://open.spotify.com/artist/5vGxYS3YeeSFrXGEjFEDTj) | [A Joyous Christmas](https://open.spotify.com/album/0lzvUeQSMEAhZnASLb4RKB) | 2:57 | 2021-12-22 |  |

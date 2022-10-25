@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-227 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
+228 songs - 16 hr 41 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Cariñito](https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cariñito](https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ) | 3:41 | 2021-11-26 |  |
 | [Caruyú](https://open.spotify.com/track/6vEUlFK0x0SxQbeic5jqXj) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 2:32 | 2021-11-26 | 2022-07-17 |
 | [Ch'usay](https://open.spotify.com/track/704xWR1nWpxhFRBbB8sboj) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Ch'usay](https://open.spotify.com/album/7Hg4cvK4F8Hw4Rt5OF8ucY) | 5:07 | 2021-11-26 | 2022-07-29 |
+| [Chapinero](https://open.spotify.com/track/004JVePzMr05q3vP462QPa) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Bennu](https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo) | 3:42 | 2022-04-15 |  |
 | [Chapinero](https://open.spotify.com/track/0yENDAPqNW1hksxq9KUt8n) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Bennu](https://open.spotify.com/album/0ap1ioMSBoEr7eWqwU2DxH) | 3:42 | 2022-02-18 | 2022-10-13 |
 | [Chicha Roja](https://open.spotify.com/track/0esDz0sbnDJWdx1U4p3Bqk) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Magnetismo \(Deluxe Edition\)](https://open.spotify.com/album/1rLP76C2lAZQYezqKCBTLU) | 3:05 | 2022-04-15 | 2022-04-19 |
 | [Chinito Rulo \(Remix\)](https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8) | [Shushupe](https://open.spotify.com/artist/3S0VTthgRWMUNhLEmmbEa4), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Chinito Rulo \(Remix\)](https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS) | 3:07 | 2021-11-26 | 2022-07-24 |
@@ -170,7 +171,7 @@
 | [Qué Bonito](https://open.spotify.com/track/6oxVrlxeTwhmOroYJkrAad) | [Primo Son](https://open.spotify.com/artist/4hhlnDWkZV8hvYWiHyS7kb) | [Qué Bonito](https://open.spotify.com/album/14OCSNKGtGObRtdf7OKidp) | 3:46 | 2022-04-15 | 2022-04-21 |
 | [Reasons to Fight \(feat\. Ziggy Marley\)](https://open.spotify.com/track/1828klsRwI6LODnQ7dg5jG) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 5:13 | 2021-11-26 | 2022-07-29 |
 | [Resiliencia](https://open.spotify.com/track/1sYbjIz5jBAqE8n9nbdDDI) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resiliencia](https://open.spotify.com/album/6WiwJthVBqLR7rd5tQ4jzz) | 4:49 | 2021-11-26 | 2022-07-28 |
-| [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 | 2021-11-26 |  |
+| [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 | 2021-11-26 | 2022-10-25 |
 | [Roma \- En Vivo](https://open.spotify.com/track/4eqttIGVlY0K0ZHM2ktQqM) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [En Vivo Desde Acosmo Sound \- Malmö, Suecia](https://open.spotify.com/album/3znRk8OoMxqCjJX6AMhsHw) | 6:25 | 2021-11-26 | 2022-02-10 |
 | [Rosa](https://open.spotify.com/track/1sSUq2MY9J8SI5VJvDqCip) | [Black Mambo](https://open.spotify.com/artist/0wNHERYaIvq0Q6fPWrEyYJ), [Casablanca](https://open.spotify.com/artist/7fjEmxeL2TjPLZ5sUGN1wl) | [Rosa](https://open.spotify.com/album/4fFsdDkjzE5YCHAywV12ms) | 4:04 | 2021-11-26 | 2022-01-22 |
 | [Sakoneta](https://open.spotify.com/track/49Dq0m0JDGJJfz8VqxIt81) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA) | [Sakoneta](https://open.spotify.com/album/0KKaGCuDZAyrrkH40KBnEI) | 4:45 | 2021-11-26 | 2022-07-28 |

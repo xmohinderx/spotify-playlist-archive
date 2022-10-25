@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Serri \(세리\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: JO YURI \(조유리\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-323 songs - 18 hr 16 min - [published](https://open.spotify.com/playlist/54sOlxCE1pFDWuNfDv9xNV)
+324 songs - 18 hr 19 min - [published](https://open.spotify.com/playlist/54sOlxCE1pFDWuNfDv9xNV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [FRESH](https://open.spotify.com/track/4Az5BSC0ud7E5Dx3xoI8Mh) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [FRESH](https://open.spotify.com/album/4pyOB4Ao8xUYXyfOd8Sj1f) | 3:27 | 2021-11-29 | 2022-06-25 |
 | [frozen](https://open.spotify.com/track/5zNzvVBEuk8EEQslNTe42B) | [LOONA/yyxy](https://open.spotify.com/artist/5JPKwLsHGaPIlxqHiF29e4) | [beauty&thebeat](https://open.spotify.com/album/2kyVSOU7qUn6c3WqHjhMB1) | 3:27 | 2021-11-29 | 2022-07-26 |
 | [FUN!](https://open.spotify.com/track/2yEjyto6ztOMGffProMlgX) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/242r7I1BKR3nyDKwieT43f) | 3:03 | 2022-03-29 | 2022-04-21 |
-| [FUN!](https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/3uMKUGH8pf5hzeyw44aiTF) | 3:03 | 2022-07-28 |  |
+| [FUN!](https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/3uMKUGH8pf5hzeyw44aiTF) | 3:03 | 2022-07-28 | 2022-10-25 |
 | [Gee \- Live](https://open.spotify.com/track/3f5tqrL3PfRrfxFwoYrOhQ) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Into The New World \(The First Asia Tour\)](https://open.spotify.com/album/3gQKLh7YC3VjvO3AMDVuJt) | 3:21 | 2022-03-29 | 2022-05-18 |
 | [Glass Bead](https://open.spotify.com/track/2rFRa1eJ8RqlINbJCZwdtt) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 1st Mini Album 'Season Of Glass'](https://open.spotify.com/album/3yOVupLmLpD7Qosl08ow0u) | 3:23 | 2021-11-29 | 2022-07-20 |
 | [Glass Shoes](https://open.spotify.com/track/1VNuUzsWTp1WGf3mMeItvp) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Fromis\_9 PRE\-DEBUT Single](https://open.spotify.com/album/3tm1tbyC1FgCrtMraqJXBr) | 3:11 | 2021-11-29 | 2022-07-29 |
@@ -146,7 +146,7 @@
 | [Let Me In](https://open.spotify.com/track/4KJ8wgT7D6ZsSmVlXjEptF) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Let Me In](https://open.spotify.com/album/6Bdam86JkTBRhCz7Rohz1i) | 3:11 | 2021-11-29 | 2022-07-26 |
 | [LIFE IS A PARTY](https://open.spotify.com/track/1xG5krI48MsenYWnbfimxK) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 5th Mini Album <PARALLEL>](https://open.spotify.com/album/2cGPXPXZxEBr6LniuA3ewf) | 2:59 | 2022-03-29 | 2022-04-17 |
 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Life's Too Short](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) | 2:58 | 2022-06-24 |  |
-| [LIKE](https://open.spotify.com/track/38d2AabK6k4Ct4iQk80MI5) | [Serri](https://open.spotify.com/artist/38oZ3lMBfgejBalxm1GDgc) | [SLEEP](https://open.spotify.com/album/7roSNEb22dwOVwdxbqL9By) | 3:06 | 2022-10-08 |  |
+| [LIKE](https://open.spotify.com/track/38d2AabK6k4Ct4iQk80MI5) | [Serri](https://open.spotify.com/artist/38oZ3lMBfgejBalxm1GDgc) | [SLEEP](https://open.spotify.com/album/7roSNEb22dwOVwdxbqL9By) | 3:06 | 2022-10-08 | 2022-10-25 |
 | [LIKEY](https://open.spotify.com/track/4g7hiqTP5eXt75XU5WSMMA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [twicetagram](https://open.spotify.com/album/7dOZAeST5qCpfpQRAHq9sa) | 3:27 | 2021-11-29 | 2022-07-28 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-11-29 |  |
 | [Listen to my word\(A\-ing\)](https://open.spotify.com/track/3jxoRPeed8f84PLTuKJeR7) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI), [Haha](https://open.spotify.com/artist/3lY2yvsj2BSiYSA8PcPGqF), [SKULL](https://open.spotify.com/artist/7qKWQnE3S7v8m3rLwMVdGg) | [LISTEN TO MY WORD](https://open.spotify.com/album/6ZlnuAuYdtlcZ8aIRjWV8J) | 3:30 | 2022-04-04 | 2022-04-21 |
@@ -160,6 +160,7 @@
 | [Love Me Out Loud](https://open.spotify.com/track/1zFT6Z2zT4Z4kUFnerd9lE) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:24 | 2022-07-12 | 2022-08-02 |
 | [Love O'clock](https://open.spotify.com/track/5KVKiMVV9OlJzc22DzGEEr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 3:56 | 2021-11-29 | 2022-07-19 |
 | [LOVE WHISPER](https://open.spotify.com/track/1xwnvVY9gHdo69PuGQkG1U) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 5th Mini Album <PARALLEL>](https://open.spotify.com/album/2cGPXPXZxEBr6LniuA3ewf) | 3:31 | 2021-11-29 | 2022-07-06 |
+| [Loveable](https://open.spotify.com/track/087TC6IfJ8z7fBItvglRRs) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Op.22 Y\-Waltz : in Minor](https://open.spotify.com/album/2CMx2ufebKtglecf9Q1F90) | 2:56 | 2022-10-25 |  |
 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 | 2022-07-07 | 2022-07-09 |
 | [Lucky](https://open.spotify.com/track/7eirSc5kjfrK1R7Wo06pos) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.3 Chococo Factory](https://open.spotify.com/album/4FcriwGRWvBmjw1NYD87dO) | 3:04 | 2022-04-04 | 2022-04-14 |
 | [Luv Star](https://open.spotify.com/track/7DtzD0e13U040fJjyDeTnE) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [SNOWFLAKE](https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp) | 3:08 | 2022-04-04 | 2022-04-19 |
@@ -224,7 +225,7 @@
 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 | 2021-11-29 |  |
 | [REDSUN](https://open.spotify.com/track/1jJlwj28RdKzfF2r8Zoz3f) | [Conch](https://open.spotify.com/artist/1Wi58TGvGgV38POMcpUOUv) | [REDSUN](https://open.spotify.com/album/1JofVGiNaETwZsFwrmfrBw) | 2:43 | 2022-06-20 | 2022-07-05 |
 | [Renaissance](https://open.spotify.com/track/73tK3X9QfFjSjby77aeKye) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Dream your dream](https://open.spotify.com/album/6PfJc6U6hFSmFs0AxaTEeY) | 3:41 | 2021-11-29 | 2022-06-12 |
-| [RING X RING](https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception : chapter one](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) | 3:20 | 2021-11-29 | 2022-10-23 |
+| [RING X RING](https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception : chapter one](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) | 3:20 | 2021-11-29 |  |
 | [Rock U](https://open.spotify.com/track/1UH0rFRBSBEtgtUdqNKFK5) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [The Best Of KARA](https://open.spotify.com/album/1hbLjh2GLYu56RMNIy5kRr) | 3:31 | 2022-03-29 | 2022-04-21 |
 | [Rollin' Rollin'](https://open.spotify.com/track/3Ds44Sf36tCFKmkV1IDr88) | [Love Potion](https://open.spotify.com/artist/2rGLBQaH5FnBgyl5VOgRZY) | [PRODUCE 48 \- 30 Girls 6 Concepts](https://open.spotify.com/album/1WzVAxZWm3JDNbI0jzk0dF) | 2:55 | 2021-11-29 | 2022-04-26 |
 | [Rough](https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 3rd Mini Album 'SNOWFLAKE'](https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp) | 3:29 | 2021-11-29 |  |

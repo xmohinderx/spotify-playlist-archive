@@ -2920,6 +2920,32 @@
     },
     {
       "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/4BlOpO1r4PS3zQ6pK5Otp1"
+      },
+      "artists": [
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "MENJU",
+          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172121,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/24Zq6jOHkjoPOQn42ZyRJs"
+    },
+    {
+      "album": {
         "name": "Dark Red",
         "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
       },
@@ -3461,7 +3487,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 97392,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
@@ -12323,7 +12349,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -16723,7 +16749,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 237837,
       "name": "\u041f\u043e \u0431\u0430\u0440\u0430\u043c",
       "url": "https://open.spotify.com/track/4zOLAk87gHl97sbqmntbJG"

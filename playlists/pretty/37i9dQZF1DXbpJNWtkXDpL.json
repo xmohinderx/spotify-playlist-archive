@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a La Santa Grifa, nuestro artista Radar!",
-  "num_followers": 60756,
+  "num_followers": 60775,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDM5MDI0NSwwMDAwMDAwMGQ2YTlmNmJmNzc3OGUzNjAwOWQ3NTk5YjY4ZDU3NDky",
+  "snapshot_id": "MTY2NDM5MDI0NSwwMDAwMDAwMDc0ZjliMjNjNTBhNTlhOGM3OGI3MGIzYTliZmViY2Vj",
   "tracks": [
     {
       "added_at": "2022-09-09 02:13:33",
@@ -177,22 +177,6 @@
       "url": "https://open.spotify.com/track/6L2vmngcyjUFuwRBCJCNqA"
     },
     {
-      "added_at": "2022-08-01 05:00:00",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
-    },
-    {
       "added_at": "2022-05-13 21:33:14",
       "album": {
         "name": "Soy de Sinaloa",
@@ -207,6 +191,22 @@
       "duration_ms": 161690,
       "name": "Soy de Sinaloa",
       "url": "https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K"
+    },
+    {
+      "added_at": "2022-08-01 05:00:00",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2022-06-07 05:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Mientras Duermes",
-        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 187447,
-      "name": "Mientras Duermes",
-      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "Por Unos Centavos",
         "url": "https://open.spotify.com/album/4L7tjJ5ChwXcY4jYCsaHHm"
       },
@@ -297,10 +281,42 @@
       "url": "https://open.spotify.com/track/3cTmJcHYrOKRadRRuD4TGp"
     },
     {
+      "added_at": "2022-08-01 05:00:00",
+      "album": {
+        "name": "como me encanta",
+        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 321662,
+      "name": "como me encanta",
+      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
+    },
+    {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "En Ciudades 878",
-        "url": "https://open.spotify.com/album/58MFyeFtgjKRbpZ9klzzx3"
+        "name": "Mientras Duermes",
+        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 187447,
+      "name": "Mientras Duermes",
+      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Consumo",
+        "url": "https://open.spotify.com/album/4USFiLBxSrjMfuXuZaxv4T"
       },
       "artists": [
         {
@@ -308,9 +324,9 @@
           "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
         }
       ],
-      "duration_ms": 257782,
-      "name": "Un Porro",
-      "url": "https://open.spotify.com/track/6Mhqj9OEN4w77nwDrX2w89"
+      "duration_ms": 212230,
+      "name": "Consumo",
+      "url": "https://open.spotify.com/track/39Yj12OXiBmQf7JmNh6gnI"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -327,22 +343,6 @@
       "duration_ms": 163411,
       "name": "siempre te voy a querer",
       "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
-    },
-    {
-      "added_at": "2022-08-01 05:00:00",
-      "album": {
-        "name": "como me encanta",
-        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 321662,
-      "name": "como me encanta",
-      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -375,94 +375,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 148370,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Divergentes Inc.",
-          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
-        }
-      ],
-      "duration_ms": 211542,
-      "name": "Mu\u00e9vete",
-      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
-    },
-    {
-      "added_at": "2022-08-26 05:00:00",
-      "album": {
-        "name": "Dinero, Fama y Poder",
-        "url": "https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 154115,
-      "name": "Dinero, Fama y Poder",
-      "url": "https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Consumo",
-        "url": "https://open.spotify.com/album/4USFiLBxSrjMfuXuZaxv4T"
-      },
-      "artists": [
-        {
-          "name": "Jauria Santa",
-          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
-        }
-      ],
-      "duration_ms": 212230,
-      "name": "Consumo",
-      "url": "https://open.spotify.com/track/39Yj12OXiBmQf7JmNh6gnI"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "t\u00fa vales la pena",
-        "url": "https://open.spotify.com/album/5WjmPd7foWYVCiyxpJnk4r"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        },
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 147180,
-      "name": "t\u00fa vales la pena",
-      "url": "https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "K\u00f3digos",
         "url": "https://open.spotify.com/album/0b5audVuKMeEU2EW1Dl4CS"
       },
@@ -487,18 +399,58 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
-        "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
       },
       "artists": [
         {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Divergentes Inc.",
+          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
         }
       ],
-      "duration_ms": 196363,
-      "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
-      "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
+      "duration_ms": 211542,
+      "name": "Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 148370,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "t\u00fa vales la pena",
+        "url": "https://open.spotify.com/album/5WjmPd7foWYVCiyxpJnk4r"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        },
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 147180,
+      "name": "t\u00fa vales la pena",
+      "url": "https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt"
     },
     {
       "added_at": "2022-08-26 05:00:00",
@@ -517,10 +469,10 @@
       "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
-      "added_at": "2022-05-13 21:33:14",
+      "added_at": "2022-08-26 05:00:00",
       "album": {
-        "name": "H\u00edbrido",
-        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
+        "name": "Dinero, Fama y Poder",
+        "url": "https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL"
       },
       "artists": [
         {
@@ -528,9 +480,41 @@
           "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 174286,
-      "name": "Hoy Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7jKegvohKUhAEh0PxoKnxG"
+      "duration_ms": 154115,
+      "name": "Dinero, Fama y Poder",
+      "url": "https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "En Ciudades 878",
+        "url": "https://open.spotify.com/album/58MFyeFtgjKRbpZ9klzzx3"
+      },
+      "artists": [
+        {
+          "name": "Jauria Santa",
+          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
+        }
+      ],
+      "duration_ms": 257782,
+      "name": "Un Porro",
+      "url": "https://open.spotify.com/track/6Mhqj9OEN4w77nwDrX2w89"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
+        "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
+      "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -571,6 +555,22 @@
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "H\u00edbrido",
+        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 174286,
+      "name": "Hoy Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7jKegvohKUhAEh0PxoKnxG"
     },
     {
       "added_at": "2022-06-07 05:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Que Si Fumo Tanto",
-        "url": "https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL"
-      },
-      "artists": [
-        {
-          "name": "Jauria Santa",
-          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
-        }
-      ],
-      "duration_ms": 220009,
-      "name": "Que Si Fumo Tanto",
-      "url": "https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "Fabulosa de Paris",
         "url": "https://open.spotify.com/album/7xrhpUxZuo4Qdj7NEnG2EJ"
       },
@@ -665,24 +649,20 @@
       "url": "https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr"
     },
     {
-      "added_at": "2022-06-03 15:10:16",
+      "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "El Tony",
-        "url": "https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu"
+        "name": "Que Si Fumo Tanto",
+        "url": "https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Daniel Vazquez",
-          "url": "https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS"
+          "name": "Jauria Santa",
+          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
         }
       ],
-      "duration_ms": 165442,
-      "name": "El Tony",
-      "url": "https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i"
+      "duration_ms": 220009,
+      "name": "Que Si Fumo Tanto",
+      "url": "https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM"
     },
     {
       "added_at": "2022-08-08 18:21:16",
@@ -769,6 +749,42 @@
       "url": "https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5"
     },
     {
+      "added_at": "2022-06-03 15:10:16",
+      "album": {
+        "name": "El Tony",
+        "url": "https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Daniel Vazquez",
+          "url": "https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS"
+        }
+      ],
+      "duration_ms": 165442,
+      "name": "El Tony",
+      "url": "https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Uh La La",
+        "url": "https://open.spotify.com/album/37E856Cum11u0LJognB6Xp"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Uh La La",
+      "url": "https://open.spotify.com/track/238haksMvqT5hcKtznBLop"
+    },
+    {
       "added_at": "2022-05-13 21:33:14",
       "album": {
         "name": "911",
@@ -791,18 +807,38 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Uh La La",
-        "url": "https://open.spotify.com/album/37E856Cum11u0LJognB6Xp"
+        "name": "Dm",
+        "url": "https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA"
       },
       "artists": [
         {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
         }
       ],
-      "duration_ms": 210857,
-      "name": "Uh La La",
-      "url": "https://open.spotify.com/track/238haksMvqT5hcKtznBLop"
+      "duration_ms": 183956,
+      "name": "Dm",
+      "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
+    },
+    {
+      "added_at": "2022-09-09 02:13:33",
+      "album": {
+        "name": "Los d\u00edas grises",
+        "url": "https://open.spotify.com/album/1BiOsRrV9gfQy0v3ewhGE8"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 139489,
+      "name": "Los d\u00edas grises",
+      "url": "https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -823,26 +859,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Dm",
-        "url": "https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "Dm",
-      "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "Confirmo (En Vivo)",
         "url": "https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 160173,
       "name": "Confirmo - En Vivo",
       "url": "https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt"
-    },
-    {
-      "added_at": "2022-09-09 02:13:33",
-      "album": {
-        "name": "Los d\u00edas grises",
-        "url": "https://open.spotify.com/album/1BiOsRrV9gfQy0v3ewhGE8"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 139489,
-      "name": "Los d\u00edas grises",
-      "url": "https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG"
     },
     {
       "added_at": "2022-05-13 21:33:14",

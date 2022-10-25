@@ -4,7 +4,7 @@
 
 > Left of center indie/alternative LGBTQQIA+ artists\. Cover: serpentwithfeet
 
-153 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/1o8ms1O56QTOUykDBE7miG)
+154 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/1o8ms1O56QTOUykDBE7miG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Pussy Is God](https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Pussy Is God](https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0) | 3:25 | 2021-06-22 | 2022-06-01 |
 | [Queen](https://open.spotify.com/track/4rPzJZqLHE1b5rx6WbFvqe) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Queen](https://open.spotify.com/album/6RGVxi5a7hDGRSEnG1U0xt) | 3:16 | 2021-06-22 | 2022-07-29 |
 | [Queen](https://open.spotify.com/track/5Y5WLk0oI5MZSJMyK88upb) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Queen](https://open.spotify.com/album/34lYIGfJoCuFH8D1YRRFIp) | 3:16 | 2022-06-06 |  |
+| [QUEEN BEE](https://open.spotify.com/track/3faVsOc6GJnh01unAc8D7I) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic) | 2:28 | 2022-06-06 |  |
 | [QUEEN BEE](https://open.spotify.com/track/4Oecz6LI7bVFnDufMJqHMw) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/6lmFyx2YERrRXaGBnMw8bL) | 2:28 | 2022-06-06 | 2022-10-13 |
 | [QUEEN BEE](https://open.spotify.com/track/610e5WBvyN2PL1DTlwca4E) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [QUEEN BEE](https://open.spotify.com/album/3tH8bW2JNQML1IQU9Si0Bs) | 2:28 | 2021-06-22 | 2022-08-05 |
 | [religion \(u can lay your hands on me\)](https://open.spotify.com/track/3sPpFnxfeb2grY6cH9JYk9) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [forevher](https://open.spotify.com/album/336iT9Zlon2t5PozcmH8Hu) | 4:07 | 2021-06-22 | 2022-07-29 |
@@ -147,7 +148,7 @@
 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 | 2022-06-01 |  |
 | [Time I Love to Waste](https://open.spotify.com/track/7v6rH68U9wPAzRzYNmgtCx) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Time I Love to Waste](https://open.spotify.com/album/70RPD5nHqcFwQMJFs6hBsU) | 3:17 | 2021-06-22 | 2022-06-01 |
 | [True Love](https://open.spotify.com/track/4P8ZXHQkYsHpmz6MDMtoQd) | [Better Person](https://open.spotify.com/artist/0PbRHFtbXsxQfOHl6m86dd) | [Something to Lose](https://open.spotify.com/album/6tJnsbq2C5zamibnV59MMe) | 3:45 | 2021-06-22 | 2022-06-01 |
-| [umbrellar](https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [umbrellar](https://open.spotify.com/album/3QUdaLdeNzvVrVpOmIfRyn) | 2:35 | 2021-06-22 |  |
+| [umbrellar](https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [umbrellar](https://open.spotify.com/album/3QUdaLdeNzvVrVpOmIfRyn) | 2:35 | 2021-06-22 | 2022-10-25 |
 | [Ur Gonna Wish U Believed Me](https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Ur Gonna Wish U Believed Me](https://open.spotify.com/album/7Ddogby9L1bwm8sPaKfCf6) | 4:31 | 2021-06-22 |  |
 | [Vacation](https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Holdly](https://open.spotify.com/album/6F4S4TL7KECkwJkMD9ziCW) | 3:47 | 2022-06-01 |  |
 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 | 2022-06-24 |  |

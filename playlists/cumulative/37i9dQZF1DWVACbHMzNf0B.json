@@ -52,6 +52,24 @@
     },
     {
       "album": {
+        "name": "141 (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175102,
+      "name": "141 - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
+    },
+    {
+      "album": {
         "name": "200 COPAS (Short Version)",
         "url": "https://open.spotify.com/album/0BkCyY7jYD6pCfbMMyIdci"
       },
@@ -357,7 +375,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 182080,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE"
@@ -445,7 +463,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 188093,
       "name": "CAMBIA!",
       "url": "https://open.spotify.com/track/5cNJO43VKHxD0XGbkhboZu"
@@ -787,7 +805,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 204506,
       "name": "Dinero Sobre Amor",
       "url": "https://open.spotify.com/track/5TZyQ3eHWw5uBesFJ9irEQ"
@@ -893,6 +911,32 @@
       "duration_ms": 172321,
       "name": "El D\u00eda Que Te Fuiste",
       "url": "https://open.spotify.com/track/5ckWeqMScCK2BUrZZlBjZt"
+    },
+    {
+      "album": {
+        "name": "El Gavil\u00e1n",
+        "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175295,
+      "name": "El Gavil\u00e1n",
+      "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
     },
     {
       "album": {
@@ -1165,7 +1209,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 193552,
       "name": "Fino Licor - Feat. Piso 21",
       "url": "https://open.spotify.com/track/64fVcCq6n2uN8HOq88uEph"
@@ -1375,7 +1419,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 188412,
       "name": "La Falta",
       "url": "https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R"
@@ -1570,6 +1614,28 @@
     },
     {
       "album": {
+        "name": "Los Collares",
+        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148793,
+      "name": "Los Collares",
+      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
+    },
+    {
+      "album": {
         "name": "Humo en la Trampa 2",
         "url": "https://open.spotify.com/album/48081X2ns6kHKFS84IowXl"
       },
@@ -1665,7 +1731,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 198018,
       "name": "Me Falta la Mitad",
       "url": "https://open.spotify.com/track/6kYCW00ZxqKBbtx7y4r4Dd"
@@ -1797,7 +1863,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 150000,
       "name": "Nataaoki",
       "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
@@ -2118,6 +2184,46 @@
     },
     {
       "album": {
+        "name": "Prenda del Alma - Spotify Singles",
+        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258579,
+      "name": "Prenda del Alma - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
+    },
+    {
+      "album": {
+        "name": "Puro Campe\u00f3n",
+        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196437,
+      "name": "Puro Campe\u00f3n",
+      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
+    },
+    {
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
       },
@@ -2177,6 +2283,28 @@
       "duration_ms": 220463,
       "name": "Quemonito",
       "url": "https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Agon\u00eda",
+        "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152923,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
     },
     {
       "album": {
@@ -2261,6 +2389,24 @@
       "duration_ms": 254231,
       "name": "Se Te Acab\u00f3 La Suerte",
       "url": "https://open.spotify.com/track/3T0Sq7GJ9gXi5j6j33Ahnv"
+    },
+    {
+      "album": {
+        "name": "Selfies",
+        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180007,
+      "name": "Selfies",
+      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
     },
     {
       "album": {
@@ -2555,7 +2701,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 220090,
       "name": "Tranquilito - Remix",
       "url": "https://open.spotify.com/track/1nUj6NRv9nq9pEIdl6ZOoc"
@@ -2691,6 +2837,28 @@
       "duration_ms": 200666,
       "name": "Un Tequila",
       "url": "https://open.spotify.com/track/46oKtyuygvaG2idMMddImO"
+    },
+    {
+      "album": {
+        "name": "Vamos Para Arriba",
+        "url": "https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172227,
+      "name": "Vamos Para Arriba",
+      "url": "https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Lizzy McAlpine",
-  "num_followers": 136460,
+  "num_followers": 136514,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjcxNTYwMCwwMDAwMDAwMGViNDhlY2QxMzlmYzUwM2M5YjljNjUzYmNhMGJhMzcy",
+  "snapshot_id": "MTY0NjcxNTYwMCwwMDAwMDAwMDI5ZWMyYmI5MGNiZmE2MmNjNzViYWQ4ZWJkMDZlYTFm",
   "tracks": [
     {
       "added_at": "2022-03-08 05:00:00",
@@ -137,22 +137,6 @@
       "url": "https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ"
     },
     {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
-        "name": "folklore (deluxe version)",
-        "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 252880,
-      "name": "invisible string",
-      "url": "https://open.spotify.com/track/2ehRU518I0hYqMGQnk4lDY"
-    },
-    {
       "added_at": "2022-03-08 05:00:00",
       "album": {
         "name": "Fat Funny Friend",
@@ -167,6 +151,22 @@
       "duration_ms": 199764,
       "name": "Fat Funny Friend",
       "url": "https://open.spotify.com/track/7z3NjKBqjv3d1ykXCFQxaT"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "folklore (deluxe version)",
+        "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 252880,
+      "name": "invisible string",
+      "url": "https://open.spotify.com/track/2ehRU518I0hYqMGQnk4lDY"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -403,6 +403,22 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "The Trouble with Wanting",
+      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -427,18 +443,18 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
       "artists": [
         {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 235586,
-      "name": "The Trouble with Wanting",
-      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
+      "duration_ms": 235035,
+      "name": "Pancakes for Dinner",
+      "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -483,22 +499,6 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 235035,
-      "name": "Pancakes for Dinner",
-      "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
         "name": "Vagabon",
         "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 207078,
       "name": "Every Woman",
       "url": "https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "In the Waiting",
+        "url": "https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 198403,
+      "name": "For Now",
+      "url": "https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -533,22 +549,6 @@
       "url": "https://open.spotify.com/track/3f5qREySyxn04acVAQadPg"
     },
     {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
-        "name": "In the Waiting",
-        "url": "https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 198403,
-      "name": "For Now",
-      "url": "https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds"
-    },
-    {
       "added_at": "2022-03-08 05:00:00",
       "album": {
         "name": "Note to Self",
@@ -563,22 +563,6 @@
       "duration_ms": 210280,
       "name": "Control",
       "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -599,6 +583,22 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
         "name": "Joan Shelley",
         "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 194066,
       "name": "Where I\u2019ll Find You",
       "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
+      },
+      "artists": [
+        {
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -631,18 +647,18 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Fisherman's Woman",
-        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
       },
       "artists": [
         {
-          "name": "Emil\u00edana Torrini",
-          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
         }
       ],
-      "duration_ms": 184533,
-      "name": "Sunny Road",
-      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
+      "duration_ms": 195845,
+      "name": "Drinking Song",
+      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -663,18 +679,18 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "I Need to Start a Garden",
-        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+        "name": "Not Even Happiness",
+        "url": "https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0"
       },
       "artists": [
         {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+          "name": "Julie Byrne",
+          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
         }
       ],
-      "duration_ms": 195845,
-      "name": "Drinking Song",
-      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
+      "duration_ms": 242387,
+      "name": "Follow My Voice",
+      "url": "https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -695,22 +711,6 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Not Even Happiness",
-        "url": "https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0"
-      },
-      "artists": [
-        {
-          "name": "Julie Byrne",
-          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
-        }
-      ],
-      "duration_ms": 242387,
-      "name": "Follow My Voice",
-      "url": "https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
         "name": "FLOWERS for VASES / descansos",
         "url": "https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 191949,
       "name": "Over Those Hills",
       "url": "https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184301,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -755,22 +771,6 @@
       "duration_ms": 199384,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184301,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -851,6 +851,22 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
+        "name": "About U: One Year On",
+        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 291538,
+      "name": "I Know A Place - Acoustic",
+      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
         "name": "Queen of Silver Linings",
         "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 233013,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
-        "name": "About U: One Year On",
-        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 291538,
-      "name": "I Know A Place - Acoustic",
-      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
+        "name": "Tender Warriors Club",
+        "url": "https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM"
+      },
+      "artists": [
+        {
+          "name": "Lady Lamb",
+          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
+        }
+      ],
+      "duration_ms": 114120,
+      "name": "Crater Lake",
+      "url": "https://open.spotify.com/track/7K0QvWgBNLf52UHhJxDJD0"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Tender Warriors Club",
-        "url": "https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM"
+        "name": "Awake Me (Acoustic)",
+        "url": "https://open.spotify.com/album/78Du9LnVvLDyWbISr3dSCR"
       },
       "artists": [
         {
-          "name": "Lady Lamb",
-          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
         }
       ],
-      "duration_ms": 114120,
-      "name": "Crater Lake",
-      "url": "https://open.spotify.com/track/7K0QvWgBNLf52UHhJxDJD0"
+      "duration_ms": 312789,
+      "name": "Awake Me - Acoustic",
+      "url": "https://open.spotify.com/track/5XrJkrEfUx0UeTWzQeqO1k"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Awake Me (Acoustic)",
-        "url": "https://open.spotify.com/album/78Du9LnVvLDyWbISr3dSCR"
+        "name": "Memories Are Now",
+        "url": "https://open.spotify.com/album/3kDXlfIujTkCsbgmjy0Jwo"
       },
       "artists": [
         {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+          "name": "Jesca Hoop",
+          "url": "https://open.spotify.com/artist/0fqE57gXXTTqxXlFYVNG2u"
         }
       ],
-      "duration_ms": 312789,
-      "name": "Awake Me - Acoustic",
-      "url": "https://open.spotify.com/track/5XrJkrEfUx0UeTWzQeqO1k"
+      "duration_ms": 213503,
+      "name": "Pegasi",
+      "url": "https://open.spotify.com/track/2meI5rJH6LtLQ5cuNdje5g"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -1319,22 +1335,6 @@
       "duration_ms": 222024,
       "name": "Let Me Hurt (Acoustic)",
       "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
-        "name": "Memories Are Now",
-        "url": "https://open.spotify.com/album/3kDXlfIujTkCsbgmjy0Jwo"
-      },
-      "artists": [
-        {
-          "name": "Jesca Hoop",
-          "url": "https://open.spotify.com/artist/0fqE57gXXTTqxXlFYVNG2u"
-        }
-      ],
-      "duration_ms": 213503,
-      "name": "Pegasi",
-      "url": "https://open.spotify.com/track/2meI5rJH6LtLQ5cuNdje5g"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -1481,20 +1481,20 @@
       "url": "https://open.spotify.com/track/0fRulaanc2K4rmlPhh2MBe"
     },
     {
-      "added_at": "2022-03-08 05:00:00",
+      "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "the sum of the in-between",
-        "url": "https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
       },
       "artists": [
         {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 167426,
-      "name": "eight hours",
-      "url": "https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv"
+      "duration_ms": 181880,
+      "name": "Save This Heart",
+      "url": "https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8"
     }
   ],
   "unique_name": "Women of Acoustic",

@@ -734,6 +734,24 @@
     },
     {
       "album": {
+        "name": "Denbi",
+        "url": "https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr"
+      },
+      "artists": [
+        {
+          "name": "OUENZA",
+          "url": "https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Denbi",
+      "url": "https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV"
+    },
+    {
+      "album": {
         "name": "Dime Porque",
         "url": "https://open.spotify.com/album/4F52Ar98sgSN12heKH3e7v"
       },

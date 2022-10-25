@@ -1909,6 +1909,24 @@
     {
       "album": {
         "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
+      },
+      "artists": [
+        {
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221493,
+      "name": "Heartbreak - Radio Edit",
+      "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
+    },
+    {
+      "album": {
+        "name": "Heartbreak",
         "url": "https://open.spotify.com/album/2Fn9AUKeLQFo1lLfpNe2m7"
       },
       "artists": [
@@ -4189,7 +4207,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 223520,
       "name": "You're Not Alone - Vocal Radio Edit",
       "url": "https://open.spotify.com/track/6k8cUsxbFMNoArTr2M0hEA"

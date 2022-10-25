@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-156 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/2huVTNU2fzUcSwfsB8l29J)
+158 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/2huVTNU2fzUcSwfsB8l29J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 | 2022-07-25 |  |
 | [Better with You \- Acoustic](https://open.spotify.com/track/2AARwDC2ylbWF61qXrteHK) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Better with You \(Acoustic\)](https://open.spotify.com/album/1c4I4b4Lp7XayJqcWVCnoG) | 3:28 | 2022-08-08 | 2022-10-13 |
 | [Blue](https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Blue](https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG) | 3:11 | 2022-05-30 |  |
+| [Blue](https://open.spotify.com/track/7uhaG1MmBzH5KU6X0TMNBJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Blue](https://open.spotify.com/album/4c8A95egg8m0QCgWYxGisw) | 3:27 | 2022-10-25 |  |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-07-25 |  |
 | [Candle In The Wind \- 2018 Version](https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 3:18 | 2022-07-25 |  |
 | [Catholic Country](https://open.spotify.com/track/4sIGvv9NQzQ9JCpKXRANb3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 3:01 | 2022-07-25 |  |
@@ -49,7 +50,7 @@
 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 | 2022-07-25 | 2022-08-09 |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 | 2022-07-25 |  |
 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2022-08-08 |  |
-| [Friends](https://open.spotify.com/track/2x1xhwGKm41AUMd4ziuq70) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Friends](https://open.spotify.com/album/01iEjRypuKMgwDVw2jKxAz) | 2:11 | 2022-10-17 |  |
+| [Friends](https://open.spotify.com/track/2x1xhwGKm41AUMd4ziuq70) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Friends](https://open.spotify.com/album/01iEjRypuKMgwDVw2jKxAz) | 2:11 | 2022-10-17 | 2022-10-25 |
 | [God Only Knows](https://open.spotify.com/track/2I2gBMNuQAbuqcEvdmoZlF) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Dreams](https://open.spotify.com/album/5aP1PNb01SVRJNcaoOuItH) | 2:18 | 2022-06-13 | 2022-06-20 |
 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 | 2022-07-25 |  |
 | [Good Things](https://open.spotify.com/track/17NLm3j22FlfCmgsaGmxdG) | [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Good Things](https://open.spotify.com/album/3pl19UkHDuzOMRVXklLsLO) | 2:50 | 2022-05-30 | 2022-07-29 |
@@ -73,6 +74,7 @@
 | [I Was Alone](https://open.spotify.com/track/2869Nt4e2bG24nOuiEOCb7) | [Hagai Batara](https://open.spotify.com/artist/26SU2uS2zWABOZEs6X8zMi) | [I Was Alone](https://open.spotify.com/album/1yIiUY0DDGERMmLhTFiDl6) | 3:16 | 2022-05-30 | 2022-07-13 |
 | [I'd Better Be On Time](https://open.spotify.com/track/4fJd2X6qUJ8MH31ds7apsI) | [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [I'd Better Be On Time](https://open.spotify.com/album/1ZImsKF37x5tAFW0gCTbeQ) | 4:16 | 2022-05-30 | 2022-07-29 |
 | [I'll Stay For You](https://open.spotify.com/track/2nQoRAIcwvXgc6FRar5YvM) | [Abdul & The Coffee Theory](https://open.spotify.com/artist/7rTRICDeckWVatQYWZM93J) | [I'll Stay For You](https://open.spotify.com/album/7tqwV9aPYylsnO81lSD4PU) | 3:17 | 2022-05-30 | 2022-07-29 |
+| [i'm sorry](https://open.spotify.com/track/6WVcHr4xidTULfA2GJh2ZR) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [i'm sorry](https://open.spotify.com/album/5aWgEPJqCnnc2wdmMHWc7B) | 3:44 | 2022-10-25 |  |
 | [Intentions \- Acoustic](https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Intentions \(Acoustic\)](https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc) | 2:40 | 2022-05-30 |  |
 | [January](https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [January](https://open.spotify.com/album/0e3TGReFAa5Hatq0CDT0Tk) | 3:16 | 2022-08-08 |  |
 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 | 2022-07-25 |  |
@@ -161,7 +163,7 @@
 | [Written in the Sand](https://open.spotify.com/track/2A69wys3S9uiPSmn6UZWJn) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 3:04 | 2022-07-25 | 2022-08-09 |
 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6) | 4:17 | 2022-09-05 | 2022-10-08 |
 | [You Are The Reason \- Acoustic, 1 Mic 1 Take/Live From Abbey Road Studios](https://open.spotify.com/track/2L5V8TQCEq5n3CLrjGbWE8) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [You Are The Reason \(Acoustic, 1 Mic 1 Take/Live From Abbey Road Studios\)](https://open.spotify.com/album/5TY5e5pUCFkAkCyFGFzn3P) | 3:48 | 2022-08-08 |  |
-| [You Belong To Somebody Else](https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [You Belong To Somebody Else](https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW) | 3:19 | 2022-08-08 |  |
+| [You Belong To Somebody Else](https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [You Belong To Somebody Else](https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW) | 3:19 | 2022-08-08 | 2022-10-25 |
 | [you won't be there for me](https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5) | 3:02 | 2022-05-30 |  |
 | [—star.](https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [—star.](https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP) | 2:33 | 2022-05-30 |  |
 

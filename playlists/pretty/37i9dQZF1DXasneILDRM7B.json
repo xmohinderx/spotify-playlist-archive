@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems. Cover: Paramore",
-  "num_followers": 1028891,
+  "num_followers": 1029526,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMDVkM2Q5Mzk4NjcyM2UyNGQ2MWFiN2I1MmMyODU4OGI3",
+  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMDExNWEwYjJkYWZlZDUyNWEyZDFlNTgwYzgwMjM1NjYy",
   "tracks": [
     {
       "added_at": "2022-06-16 15:49:01",
@@ -139,38 +139,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Still into You",
-      "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 161920,
-      "name": "Teenagers",
-      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -191,18 +159,34 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Enema Of The State",
-        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 167066,
-      "name": "All The Small Things",
-      "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
+      "duration_ms": 161920,
+      "name": "Teenagers",
+      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "Still into You",
+      "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -223,6 +207,22 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
+        "name": "Enema Of The State",
+        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "All The Small Things",
+      "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
@@ -235,22 +235,6 @@
       "duration_ms": 204000,
       "name": "Sk8er Boi",
       "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 311106,
-      "name": "Welcome to the Black Parade",
-      "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -271,6 +255,22 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 311106,
+      "name": "Welcome to the Black Parade",
+      "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
@@ -283,6 +283,22 @@
       "duration_ms": 177826,
       "name": "You're Gonna Go Far, Kid",
       "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -303,22 +319,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Take Off Your Pants And Jacket",
-        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "First Date",
-      "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -335,34 +335,18 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+        "name": "Take Off Your Pants And Jacket",
+        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 204733,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
+      "duration_ms": 171533,
+      "name": "First Date",
+      "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -403,6 +387,22 @@
       "duration_ms": 169397,
       "name": "I Think I'm OKAY (with YUNGBLUD & Travis Barker)",
       "url": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -471,26 +471,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 171620,
-      "name": "forget me too (feat. Halsey)",
-      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Take Off Your Pants And Jacket",
         "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
       },
@@ -503,22 +483,6 @@
       "duration_ms": 171600,
       "name": "The Rock Show",
       "url": "https://open.spotify.com/track/2ydUT1pFhuLDnouelIv4WH"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 299226,
-      "name": "Famous Last Words",
-      "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -551,6 +515,42 @@
       "duration_ms": 202496,
       "name": "She Looks So Perfect",
       "url": "https://open.spotify.com/track/1gugDOSMREb34Xo0c1PlxM"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 299226,
+      "name": "Famous Last Words",
+      "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 171620,
+      "name": "forget me too (feat. Halsey)",
+      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 205158,
-      "name": "bloody valentine",
-      "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "When The World Comes Down",
         "url": "https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 213106,
       "name": "Gives You Hell",
       "url": "https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 205158,
+      "name": "bloody valentine",
+      "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -683,6 +683,22 @@
       "duration_ms": 193000,
       "name": "1985",
       "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Dirty Little Secret",
+      "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -767,22 +783,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Dirty Little Secret",
-      "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -831,38 +831,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "With Confidence",
-        "url": "https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 177220,
-      "name": "What You Make It",
-      "url": "https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
-        "name": "A Lesson In Romantics",
-        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Jamie All Over",
-      "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "The All-American Rejects",
         "url": "https://open.spotify.com/album/0TvOeelcHQXYgPcyQiLhyR"
       },
@@ -879,6 +847,22 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
+        "name": "With Confidence",
+        "url": "https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 177220,
+      "name": "What You Make It",
+      "url": "https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
@@ -891,6 +875,38 @@
       "duration_ms": 220480,
       "name": "That's What You Get",
       "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Too Weird to Live, Too Rare to Die!",
+        "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "This Is Gospel",
+      "url": "https://open.spotify.com/track/3yZQk5PC52CCmT4ZaTIKvv"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "A Lesson In Romantics",
+        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Jamie All Over",
+      "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -923,22 +939,6 @@
       "duration_ms": 198000,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
-        "name": "Too Weird to Live, Too Rare to Die!",
-        "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "This Is Gospel",
-      "url": "https://open.spotify.com/track/3yZQk5PC52CCmT4ZaTIKvv"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Palm Trees and Power Lines",
-        "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
-      },
-      "artists": [
-        {
-          "name": "Sugarcult",
-          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
-        }
-      ],
-      "duration_ms": 226080,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "A Fever You Can't Sweat Out",
         "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 200226,
       "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
       "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Palm Trees and Power Lines",
+        "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
+      },
+      "artists": [
+        {
+          "name": "Sugarcult",
+          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
+        }
+      ],
+      "duration_ms": 226080,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 190986,
-      "name": "Know Your Enemy",
-      "url": "https://open.spotify.com/track/5qtwzv99vOr5UTwnTixn7j"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Drunk Enough To Dance",
         "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 197800,
       "name": "Girl All the Bad Guys Want",
       "url": "https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 190986,
+      "name": "Know Your Enemy",
+      "url": "https://open.spotify.com/track/5qtwzv99vOr5UTwnTixn7j"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Double Dare",
-        "url": "https://open.spotify.com/album/1uh8SiLASOMowO5TWEYmbw"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 191544,
-      "name": "Stupid for You",
-      "url": "https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Good Charlotte",
         "url": "https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 203026,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Double Dare",
+        "url": "https://open.spotify.com/album/1uh8SiLASOMowO5TWEYmbw"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 191544,
+      "name": "Stupid for You",
+      "url": "https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Lights And Sounds",
-        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Lights And Sounds",
-      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Box Car Racer",
         "url": "https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 216689,
       "name": "Kids In The Dark",
       "url": "https://open.spotify.com/track/50oS45iNMFp7pKIQRAWIUP"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Lights And Sounds",
+        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Lights And Sounds",
+      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
     },
     {
       "added_at": "2022-06-16 15:49:01",

@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: <a href=\"https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg?si=xCx4Iw6eRwWSDCBpAtKEbQ\">Pheelz</a>",
-  "num_followers": 551974,
+  "num_followers": 552088,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMGViZTJkNDdjMGMzYjgwYzlkODMzYjA4ZDIzZTMzYjgy",
+  "snapshot_id": "MTY2MDg4MTY2MCwwMDAwMDAwMDI1YTAwMDg5ZDQ4NWRlZGRlZmY2NDk3NTdiYTZlNTc1",
   "tracks": [
     {
       "added_at": "2022-08-19 04:01:00",
@@ -151,6 +151,26 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -167,6 +187,22 @@
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 207474,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -195,42 +231,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 207474,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Finesse",
-        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Call Me Every Day (feat. Wizkid)",
         "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
@@ -247,6 +247,22 @@
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -271,22 +287,6 @@
       "duration_ms": 203383,
       "name": "MOVE (feat. Grace Jones & Tems)",
       "url": "https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Last Last",
-        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -371,26 +371,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Propeller (feat. Dave & BNXN)",
-        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
       },
       "artists": [
         {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         },
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 204440,
-      "name": "Propeller (feat. Dave & BNXN)",
-      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -423,26 +419,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 187111,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "The Beauty of Becoming",
         "url": "https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7"
       },
@@ -459,6 +435,30 @@
       "duration_ms": 185461,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/6XM53PbvlzhuNtJZtpl7RP"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Propeller (feat. Dave & BNXN)",
+        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Propeller (feat. Dave & BNXN)",
+      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        }
-      ],
-      "duration_ms": 211050,
-      "name": "Cloak & Dagger (feat. J Hus)",
-      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Come Over (Remix)",
         "url": "https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 145652,
       "name": "Come Over (Remix)",
       "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -695,22 +695,6 @@
       "duration_ms": 222529,
       "name": "ALREADY",
       "url": "https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "M\u00e9chante",
-        "url": "https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "M\u00e9chante",
-      "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -743,6 +727,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "M\u00e9chante",
+        "url": "https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 171493,
+      "name": "M\u00e9chante",
+      "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -759,42 +759,6 @@
       "duration_ms": 230721,
       "name": "Time N Affection",
       "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Joro",
-        "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 262736,
-      "name": "Joro",
-      "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Real Life (feat. Stormzy)",
-      "url": "https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -819,18 +783,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
+        "name": "Joro",
+        "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 187873,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
+      "duration_ms": 262736,
+      "name": "Joro",
+      "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -891,6 +855,42 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Real Life (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 187873,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "EDNA",
         "url": "https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU"
       },
@@ -927,38 +927,6 @@
       "duration_ms": 193758,
       "name": "High",
       "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 188741,
-      "name": "Anybody",
-      "url": "https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 168742,
-      "name": "woman",
-      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1031,6 +999,38 @@
       "duration_ms": 182400,
       "name": "Crazy Tings",
       "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 188741,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Big Thug Boys",
-        "url": "https://open.spotify.com/album/79PtaeN11NuACxUaeipBom"
-      },
-      "artists": [
-        {
-          "name": "AV",
-          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
-        }
-      ],
-      "duration_ms": 171998,
-      "name": "Big Thug Boys",
-      "url": "https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 185600,
       "name": "Point and Kill",
       "url": "https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Big Thug Boys",
+        "url": "https://open.spotify.com/album/79PtaeN11NuACxUaeipBom"
+      },
+      "artists": [
+        {
+          "name": "AV",
+          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
+        }
+      ],
+      "duration_ms": 171998,
+      "name": "Big Thug Boys",
+      "url": "https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Get Layd",
-        "url": "https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 171730,
-      "name": "Lo Lo",
-      "url": "https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "Heat Of The Moment",
         "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
       },
@@ -1411,26 +1395,6 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "D & G (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
         "name": "TW20 50",
         "url": "https://open.spotify.com/album/1VVeLNCUGQSYL1GLek67gv"
       },
@@ -1447,6 +1411,42 @@
       "duration_ms": 188826,
       "name": "THE SUN (Prod. Gesaffelstein)",
       "url": "https://open.spotify.com/track/2OEKjBfuCdVPLLUgUf90ZM"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "Get Layd",
+        "url": "https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 171730,
+      "name": "Lo Lo",
+      "url": "https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "D & G (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1559,6 +1559,38 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/0yIBWDZAjdoFcCjiY62dI2"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 187782,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/0N83qk5axJe71xNDXeViFQ"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
+        "name": "What Have We Done",
+        "url": "https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 175215,
+      "name": "Godly",
+      "url": "https://open.spotify.com/track/33dN3Nd9aRz4nzha4oIGnX"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/0vNvd6GC6cy7BKyP2dqPZY"
       },
@@ -1579,18 +1611,18 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "What Have We Done",
-        "url": "https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n"
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 175215,
-      "name": "Godly",
-      "url": "https://open.spotify.com/track/33dN3Nd9aRz4nzha4oIGnX"
+      "duration_ms": 146367,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1615,8 +1647,8 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/0yIBWDZAjdoFcCjiY62dI2"
+        "name": "Ginger Me",
+        "url": "https://open.spotify.com/album/1jAYq6eDQAyDFvuJDWdsS4"
       },
       "artists": [
         {
@@ -1624,25 +1656,9 @@
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 187782,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/0N83qk5axJe71xNDXeViFQ"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/6s2ae4utKXWlRMahAvuaaY"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 146367,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
+      "duration_ms": 205892,
+      "name": "Ginger Me",
+      "url": "https://open.spotify.com/track/28QpG4RmYhxq2YxjmQ06Ch"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1727,6 +1743,26 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
+        "name": "Lenu (Remix)",
+        "url": "https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "Lenu - Remix",
+      "url": "https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1"
+    },
+    {
+      "added_at": "2022-08-19 04:01:00",
+      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/2Rn7vIl03xF1ZFdB2VhtOk"
       },
@@ -1767,22 +1803,6 @@
       "duration_ms": 212405,
       "name": "Dream Girl - Global Remix",
       "url": "https://open.spotify.com/track/5Etwr8GddDDAwuTK84m5JI"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Ginger Me",
-        "url": "https://open.spotify.com/album/1jAYq6eDQAyDFvuJDWdsS4"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 205892,
-      "name": "Ginger Me",
-      "url": "https://open.spotify.com/track/28QpG4RmYhxq2YxjmQ06Ch"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1831,22 +1851,22 @@
     {
       "added_at": "2022-08-19 04:01:00",
       "album": {
-        "name": "Lenu (Remix)",
-        "url": "https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb"
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
       "artists": [
         {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
         }
       ],
-      "duration_ms": 213266,
-      "name": "Lenu - Remix",
-      "url": "https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1"
+      "duration_ms": 207473,
+      "name": "FYN",
+      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
     },
     {
       "added_at": "2022-08-19 04:01:00",
@@ -1879,26 +1899,6 @@
       "duration_ms": 225146,
       "name": "4AM",
       "url": "https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5"
-    },
-    {
-      "added_at": "2022-08-19 04:01:00",
-      "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 207473,
-      "name": "FYN",
-      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
     },
     {
       "added_at": "2022-08-19 04:01:00",

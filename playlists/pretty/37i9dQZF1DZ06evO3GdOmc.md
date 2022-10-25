@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 
 > This is Casting Crowns\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,476 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,535 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 49 | [At Calvary \- Live](https://open.spotify.com/track/5lFbpKvhMEeVqzgRziBYXR) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 4:47 |
 | 50 | [American Dream](https://open.spotify.com/track/2OO0hAm1v0uRkqJCupGu4n) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 4:10 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDA3MTVkMzgwZDc0YjYyMjQxNGY2M2U1NGQwYmExZTkxZg==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDBmZWFlMTlkYjQwMGI1MWY5ZGU2MTYxOGQ1NDI3MDQzMw==`

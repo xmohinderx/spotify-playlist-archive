@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Baby Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,275,389 likes - 111 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,275,784 likes - 111 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 44 | [The Reason](https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W) | 3:24 |
 | 45 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 |
 | 46 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 |
-| 47 | [Only Love](https://open.spotify.com/track/76KzsJ4emV8BsE4CgwFxeo) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Only Love](https://open.spotify.com/album/3FmERkFWALx6fbh8fcSKx2) | 2:47 |
+| 47 | [Only Love](https://open.spotify.com/track/0dOuhQQVPnCBkvmCr5PeVH) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 2:47 |
 | 48 | [Waiting Line](https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [edbl & friends \- James Berkeley](https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C) | 3:25 |
 | 49 | [No Loot](https://open.spotify.com/track/5Xq1L2ILS866R5R6udOp3P) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Self Explanatory](https://open.spotify.com/album/6GDRF8EqwmHYR7k5CxvNU4) | 2:43 |
 | 50 | [Such A Thing](https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 3:25 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 110 | [A Mess \(feat\. Lucky Daye\)](https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:53 |
 | 111 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDJlMThhZmU1ZDAxMWFjN2MxNDFkZTIzZWY3ODVlOWVk`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDkzMzdjNmE5OTBlYjFhYzllYWU4ZjAzNWEzMTllNTMy`

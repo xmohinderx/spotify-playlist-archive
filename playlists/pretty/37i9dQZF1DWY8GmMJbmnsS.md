@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 
 > All of your classic soul ballads, right here\. Cover: Percy Sledge
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,191 likes - 33 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,225 likes - 33 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 | 5 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
 | 6 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 |
 | 7 | [It's A Man's, Man's, Man's World](https://open.spotify.com/track/3SQ9Hb9rfpJ02AWfaOPhpy) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [It's A Man's Man's Man's World](https://open.spotify.com/album/3WQOQKNq8COxy0Ozv6YBb1) | 2:47 |
-| 8 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 |
-| 9 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 |
-| 10 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
+| 8 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
+| 9 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 |
+| 10 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 |
 | 11 | [You Make Me Feel Brand New](https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Rockin' Roll Baby](https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz) | 4:48 |
 | 12 | [Who's Lovin' You](https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Diana Ross Presents The Jackson 5](https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1) | 3:55 |
 | 13 | [Ooo Baby Baby](https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:44 |
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 | 26 | [Sideshow](https://open.spotify.com/track/0fopVbPW7N5BK0sOybQCq2) | [Blue Magic](https://open.spotify.com/artist/7tLLSEaHMMJPbsYAz8MkEw) | [Blue Magic](https://open.spotify.com/album/3DU0VQcgElO1cBHWk669BE) | 4:11 |
 | 27 | [Cupid](https://open.spotify.com/track/6VqVieqjDEwS3mByMq4OzB) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [30 Greatest Hits: Portrait of a Legend 1951\-1964](https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ) | 2:38 |
 | 28 | [To Be Loved](https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [He's So Fine](https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w) | 2:34 |
-| 29 | [Hey There Lonely Girl](https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB) | [Eddie Holman](https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32) | [I Love You](https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r) | 3:36 |
-| 30 | [The Dark End of the Street](https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0) | [James Carr](https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS) | [You Got My Mind Messed Up](https://open.spotify.com/album/1akOJm6k5Y4Kp0NdoBNa8j) | 2:33 |
+| 29 | [The Dark End of the Street](https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0) | [James Carr](https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS) | [You Got My Mind Messed Up](https://open.spotify.com/album/1akOJm6k5Y4Kp0NdoBNa8j) | 2:33 |
+| 30 | [Hey There Lonely Girl](https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB) | [Eddie Holman](https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32) | [I Love You](https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r) | 3:36 |
 | 31 | [Woman To Woman](https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1) | [Shirley Brown](https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV) | [Woman to Woman \[Stax Remasters\]](https://open.spotify.com/album/7Ib8kokMjls2C5CsKhAy1I) | 3:58 |
 | 32 | [This Magic Moment](https://open.spotify.com/track/7pOWWGpUc3T05IXfymgIP3) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Up on the Roof: The Best of the Drifters](https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3) | 2:26 |
 | 33 | [Turn off the Lights](https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 5:54 |
 
-Snapshot ID: `MTY0NjY2NDc0NiwwMDAwMDAwMDRjNWM0YTMxMGRiMzY4ZmI1MWFlNjgzZWNiNmM2Nzg4`
+Snapshot ID: `MTY0NjY2NDc0NiwwMDAwMDAwMDM5YTQwMTUyZTg3OTQyMjRlZjNjMGE4ODhhZjMwMGVh`

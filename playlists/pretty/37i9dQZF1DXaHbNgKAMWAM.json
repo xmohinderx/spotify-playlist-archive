@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 7655,
+  "num_followers": 7685,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODcyNSwwMDAwMDAwMDUxYjlkNzFkNzkzMjNkODQ3MTAxYTNjMjNhOTE4OWU3",
+  "snapshot_id": "MTY2NTExODcyNSwwMDAwMDAwMDM2MGNiMjVjNzUzMTFhODRjMzM4ZGZlMDM5YjNkYzc2",
   "tracks": [
     {
       "added_at": "2022-10-05 05:53:59",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "I'm In Love",
-        "url": "https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "I'm In Love",
-      "url": "https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
         "name": "Puberty Book\u2160 Bom",
         "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 217044,
       "name": "Bom",
       "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -253,6 +253,22 @@
       "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
+      "added_at": "2022-10-25 02:01:32",
+      "album": {
+        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 199295,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
+    },
+    {
       "added_at": "2022-10-05 05:53:59",
       "album": {
         "name": "Tree",
@@ -267,22 +283,6 @@
       "duration_ms": 232558,
       "name": "Tree",
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
-    },
-    {
-      "added_at": "2022-10-24 02:09:50",
-      "album": {
-        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 199295,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -395,26 +395,6 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "Evening",
-        "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Evening (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 195042,
       "name": "About You",
       "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
+        "name": "Evening",
+        "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Evening (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
+        "name": "It\u2032s You",
+        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "It\u2032s You",
+      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
         "name": "I LUV U (with Mirani)",
         "url": "https://open.spotify.com/album/0qEIU0KfIbHijGpo2GkaG1"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "It\u2032s You",
-        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "It\u2032s You",
-      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
+    },
+    {
+      "added_at": "2022-10-25 02:01:32",
+      "album": {
+        "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "Tell Me You Love Me",
+      "url": "https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -665,22 +681,6 @@
       "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
     },
     {
-      "added_at": "2022-10-24 02:09:50",
-      "album": {
-        "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
-        "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
-      },
-      "artists": [
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "Tell Me You Love Me",
-      "url": "https://open.spotify.com/track/1nEmHBLW5KexRCAPnDN5vg"
-    },
-    {
       "added_at": "2022-10-05 05:53:59",
       "album": {
         "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "SPRING (Original Soundtrack from Watcha's original show 'Our Season: Spring with Park Jae Chan')",
-        "url": "https://open.spotify.com/album/0FHf6xPUIGsnYwxOhCuhzP"
-      },
-      "artists": [
-        {
-          "name": "JAECHAN",
-          "url": "https://open.spotify.com/artist/2ggXDRbe4d24r7MD54kVbE"
-        }
-      ],
-      "duration_ms": 230750,
-      "name": "Our Season",
-      "url": "https://open.spotify.com/track/0AZS7hgLM2Iv69X1ZfKebV"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 220186,
       "name": "You Move Me (feat. SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
+        "name": "SPRING (Original Soundtrack from Watcha's original show 'Our Season: Spring with Park Jae Chan')",
+        "url": "https://open.spotify.com/album/0FHf6xPUIGsnYwxOhCuhzP"
+      },
+      "artists": [
+        {
+          "name": "JAECHAN",
+          "url": "https://open.spotify.com/artist/2ggXDRbe4d24r7MD54kVbE"
+        }
+      ],
+      "duration_ms": 230750,
+      "name": "Our Season",
+      "url": "https://open.spotify.com/track/0AZS7hgLM2Iv69X1ZfKebV"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP"
-      },
-      "artists": [
-        {
-          "name": "Unchan",
-          "url": "https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
         "name": "INTERVIEW",
         "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
       },
@@ -877,7 +861,23 @@
       "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
     },
     {
-      "added_at": "2022-10-24 02:09:50",
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP"
+      },
+      "artists": [
+        {
+          "name": "Unchan",
+          "url": "https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
+    },
+    {
+      "added_at": "2022-10-25 02:01:32",
       "album": {
         "name": "Some Day in the 21century",
         "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "When I look at you",
-        "url": "https://open.spotify.com/album/1Lewh4YU2QMpV9dKtlnIys"
+        "name": "The Love",
+        "url": "https://open.spotify.com/album/1retTjvT8CC2hzab0L2crW"
       },
       "artists": [
         {
-          "name": "Park Boram",
-          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
         }
       ],
-      "duration_ms": 189680,
-      "name": "When I look at you",
-      "url": "https://open.spotify.com/track/5jQbDUv1BDClbgVaAW8T1U"
+      "duration_ms": 210333,
+      "name": "The Love",
+      "url": "https://open.spotify.com/track/6XTTvNy1FG2kqTkTf41lTF"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

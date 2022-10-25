@@ -375,7 +375,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 210725,
       "name": "Chi Chi",
       "url": "https://open.spotify.com/track/6t8JfhZG9HV4mSI1FbVWff"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 173013,
       "name": "Dolce",
       "url": "https://open.spotify.com/track/37qPzPVOfxSDI7QOF2oZFB"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 240013,
       "name": "Flex",
       "url": "https://open.spotify.com/track/04xd1RYPYlaWAavY7NnyTt"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 170589,
       "name": "La Torta",
       "url": "https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e"
@@ -1424,6 +1424,32 @@
     },
     {
       "album": {
+        "name": "Mama Wanna Mambo (feat. Natti Natasha & Arturo Sandoval)",
+        "url": "https://open.spotify.com/album/2jZogCViwgsWToJonWfeLY"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176584,
+      "name": "Mama Wanna Mambo (feat. Natti Natasha & Arturo Sandoval)",
+      "url": "https://open.spotify.com/track/6OsokAcHaqTIJTMcRqp8nO"
+    },
+    {
+      "album": {
         "name": "Mambo (feat. Sean Paul, El Alfa, Sfera Ebbasta & Play-N-Skillz)",
         "url": "https://open.spotify.com/album/37G3F4ZFICzvfCXZ0vOLPu"
       },
@@ -1551,6 +1577,28 @@
       "duration_ms": 173231,
       "name": "Mojito",
       "url": "https://open.spotify.com/track/2mQ2xgCWPSrlm1eJJdAjfw"
+    },
+    {
+      "album": {
+        "name": "Monoton\u00eda",
+        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158804,
+      "name": "Monoton\u00eda",
+      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
     },
     {
       "album": {
@@ -1899,7 +1947,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 222868,
       "name": "Poderosa",
       "url": "https://open.spotify.com/track/1Hs0fpydWBjawdgCocPaC7"
@@ -2025,7 +2073,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 172968,
       "name": "QUE SE JODA",
       "url": "https://open.spotify.com/track/5CdmlxPbX9OFHhNvby0ah6"

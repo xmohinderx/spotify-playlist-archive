@@ -4,7 +4,7 @@
 
 > 01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100
 
-98 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/3QfjFdmBC3jioryCEPHkRe)
+100 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/3QfjFdmBC3jioryCEPHkRe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bury](https://open.spotify.com/track/4336Bwzy1TUIGZeO7YKfxG) | [Mire.](https://open.spotify.com/artist/1tERo1AaIEC4X7PKG8futp) | [A Meaning of Love](https://open.spotify.com/album/0TgDjPWkpbfdu2RkyKAy3a) | 3:55 | 2022-05-19 |  |
 | [Business Class](https://open.spotify.com/track/6562NxLaKG87YFbsUHFBKu) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Business Class](https://open.spotify.com/album/6Q73cei1BLUT7RdFR7dDvX) | 4:42 | 2022-07-01 | 2022-10-14 |
 | [Chrome Country](https://open.spotify.com/track/5G54EXkOheyrrT3CDM07Mm) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [R Plus Seven](https://open.spotify.com/album/68PRq4zj7YXMwiUq6FNGvR) | 5:05 | 2022-05-19 |  |
-| [Core](https://open.spotify.com/track/6Knx4Tp8hE7IlYtde2dCYI) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [VOID](https://open.spotify.com/album/5UWAfUBImV6jcswkXkXZOs) | 3:56 | 2022-05-19 |  |
+| [Core](https://open.spotify.com/track/6Knx4Tp8hE7IlYtde2dCYI) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [VOID](https://open.spotify.com/album/5UWAfUBImV6jcswkXkXZOs) | 3:56 | 2022-05-19 | 2022-10-25 |
 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 | 2022-05-19 |  |
 | [Crow \(DJ\-Kicks\) \- Mixed](https://open.spotify.com/track/4s5zfEwFuufmA9KLDHF8ft) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [DJ\-Kicks \(Forest Swords\) \[DJ Mix\]](https://open.spotify.com/album/3YCh0CPUNvjvnuaJ459MZv) | 3:34 | 2022-05-19 | 2022-10-14 |
 | [Crystals](https://open.spotify.com/track/3KwzRfEeKhK5ADT9iPFHe2) | [M\|O\|O\|N](https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT) | [MOON E.P.](https://open.spotify.com/album/1e0tqn3caRoNqZU6YosOLa) | 4:49 | 2022-05-19 |  |
@@ -44,13 +44,14 @@
 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 | 2022-05-19 |  |
 | [Genesis](https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 3:54 | 2022-05-19 |  |
 | [Ghost](https://open.spotify.com/track/4orMsymF399H3xKBc0AIhx) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 3:05 | 2022-05-19 |  |
-| [Hacker](https://open.spotify.com/track/7y8X0Z04gJCKtfrnSAMywJ) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 4:35 | 2022-05-19 |  |
+| [Hacker](https://open.spotify.com/track/7y8X0Z04gJCKtfrnSAMywJ) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 4:35 | 2022-05-19 | 2022-10-25 |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-05-19 |  |
 | [Hell](https://open.spotify.com/track/7dQ847NQosTZ9gztaaBtn7) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Soundtrack To A Death](https://open.spotify.com/album/5FbhsjMFQXjb1BqbVtTrHc) | 2:04 | 2022-05-19 |  |
 | [Hell on Earth](https://open.spotify.com/track/0c5nIZsdOZOaaFE0OQuoyU) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [Road to Nowhere](https://open.spotify.com/album/6E965scR4udFDoAnUgQjNC) | 6:28 | 2022-05-19 |  |
 | [Hey Boy Hey Girl](https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 4:50 | 2022-05-19 |  |
 | [Hypnocurrency](https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Hypnocurrency](https://open.spotify.com/album/28WW07Sx0IrAXAb1xDDnD3) | 4:52 | 2022-05-19 | 2022-10-13 |
 | [Hypnocurrency](https://open.spotify.com/track/6H3uEl6cwtz6w8w1vTbAxE) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Hypnocurrency](https://open.spotify.com/album/42JmDtuxBI5cOjCojXkf2P) | 4:52 | 2022-09-03 |  |
+| [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-10-24 |  |
 | [I Was Never There](https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 4:01 | 2022-05-19 |  |
 | [Illest Alive](https://open.spotify.com/track/6OsAdrgNaI7yeXVccv0Cq3) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 4:09 | 2022-05-19 |  |
 | [In Motion](https://open.spotify.com/track/50CgC2wKmbWm4WLQKY87oP) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [The Social Network](https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa) | 4:56 | 2022-05-19 | 2022-10-14 |
@@ -86,6 +87,7 @@
 | [Some Minds \(feat\. Andrew Wyatt\)](https://open.spotify.com/track/65oGVYJfdT6mYIdmmb6q3c) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Some Minds \(feat\. Andrew Wyatt\)](https://open.spotify.com/album/63SwZU3t9Bqb45SVWoPprT) | 4:23 | 2022-05-19 |  |
 | [Someday](https://open.spotify.com/track/7LA4E5n1SvGb2Srzh6bCZ8) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [The Weight](https://open.spotify.com/album/5zB9HVERRys2UNiyNszxIP) | 5:44 | 2022-05-19 | 2022-10-14 |
 | [Spaced](https://open.spotify.com/track/4dz8WzdifDQPWqHq2jWRKA) | [The Toxic Avenger](https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s) | [Globe, Vol\. 3](https://open.spotify.com/album/0vSQUrgafUyXCBaDiReL4q) | 4:48 | 2022-05-19 |  |
+| [Spitfire](https://open.spotify.com/track/0ERv9Zf4AJJdQ1sIztb15v) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Always Outnumbered, Never Outgunned](https://open.spotify.com/album/6kjD6MJ95xECin1kxGeAlM) | 5:07 | 2022-10-24 |  |
 | [Stand\-Upon The Earth](https://open.spotify.com/track/4DjNXYgBmoKE5JnY0P3sft) | [jinkasei](https://open.spotify.com/artist/4nrZ7yhBckcZ3QsPzF3EHV), [1rokit](https://open.spotify.com/artist/6E5AX6DUZsGLaIW5NzEqqQ) | [Hyperscapism](https://open.spotify.com/album/2lx14hf7n6ys3Rbm1Zew6e) | 4:06 | 2022-07-07 |  |
 | [Stress](https://open.spotify.com/track/1YdbiBOWvFUi6Zko3HXyEG) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:58 | 2022-05-19 | 2022-07-02 |
 | [Suffer With Me](https://open.spotify.com/track/3nfj9Fdbl30TvcZE9sU0Vx) | [líue](https://open.spotify.com/artist/3xFXCUS8RN65oCwsO4PJRI) | [Suffer With Me](https://open.spotify.com/album/6G8FJ9OgqUFa5p7qxhAqki) | 3:27 | 2022-05-19 |  |

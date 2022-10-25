@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ENg5TiKRg4.md) - [plain]
 
 > Happy Pop\-Rock Tunes to start your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,990 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,031 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ENg5TiKRg4.md) - [plain]
 | 13 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 |
 | 14 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 | 15 | [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 |
-| 16 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
-| 17 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
+| 16 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
+| 17 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
 | 18 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 |
 | 19 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 |
 | 20 | [A Thousand Years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ENg5TiKRg4.md) - [plain]
 | 29 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
 | 30 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 |
 | 31 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 |
-| 32 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
-| 33 | [Me And My Broken Heart](https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S) | [Rixton](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) | [Let The Road](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) | 3:13 |
+| 32 | [Me And My Broken Heart](https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S) | [Rixton](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) | [Let The Road](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) | 3:13 |
+| 33 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
 | 34 | [Liar](https://open.spotify.com/track/1IOKsAAYmx50IgZYbpfYk5) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Liar](https://open.spotify.com/album/3deKKEgUnpDY0lZegJGN89) | 3:43 |
-| 35 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
+| 35 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
 | 36 | [Moneymaker](https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Moneymaker](https://open.spotify.com/album/1K8g8sM4GzVOWBfYrlh41Y) | 2:17 |
 | 37 | [Glad You Came](https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:17 |
 | 38 | [Darby Crashing Your Party](https://open.spotify.com/track/2LpbBDD1Qrn8lGGi8B6BxW) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Darby Crashing Your Party](https://open.spotify.com/album/1CeF4JeD01o7FbPRmDu25J) | 2:24 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ENg5TiKRg4.md) - [plain]
 | 40 | [get off the car](https://open.spotify.com/track/24mTyVgk93IvEfQuG2IeEV) | [NOT WONK](https://open.spotify.com/artist/12f2uQ7TswXKZRFvJuELAb) | [dimen](https://open.spotify.com/album/7jFjo6QaBGyv4l6DYz3l9U) | 2:56 |
 | 41 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
 | 42 | [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 |
-| 43 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 |
-| 44 | [Good Time](https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Midsummer Station](https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p) | 3:25 |
+| 43 | [Good Time](https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Midsummer Station](https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p) | 3:25 |
+| 44 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 |
 | 45 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 |
 | 46 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 |
 | 47 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ENg5TiKRg4.md) - [plain]
 | 49 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
 | 50 | [Someone To You](https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Where The Shadow Ends](https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD) | 3:39 |
 
-Snapshot ID: `MTY2NjEwNTIwMCwwMDAwMDAwMGYxOTg1YTJiMzNkYmQ4MjE4NjkxN2NlNjUzZDgxNzUw`
+Snapshot ID: `MTY2NjEwNTIwMCwwMDAwMDAwMDVmMDM0MTlkNWQyZmM2NDNjMjZjZjg4ZDE1NWVmNjgy`

@@ -4,7 +4,7 @@
 
 > Hora de bailar con esta fiesta tropical\. Dance the night away with your favorite tropical tunes.
 
-166 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/5QMdEzMY3IyIgD8gxoZv86)
+167 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/5QMdEzMY3IyIgD8gxoZv86)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Ella Y Yo \- Featuring Don Omar](https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:27 | 2022-02-05 |  |
 | [Entre Tu Cuerpo y el Mio](https://open.spotify.com/track/20js1xS9eDxHcHVoVQASPO) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Los Vecinos](https://open.spotify.com/artist/3wwEkvc5v1R19fMX5fCj7a) | [20 Exitos Originales](https://open.spotify.com/album/76bNdLqQnSnzU145Com1b1) | 4:58 | 2022-02-05 | 2022-07-28 |
 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 | 2022-02-05 |  |
-| [Ese Hombre](https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 4:40 | 2022-02-05 |  |
+| [Ese Hombre](https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 4:40 | 2022-02-05 | 2022-10-25 |
 | [Esta Pegao](https://open.spotify.com/track/7f698P4uIhoNM4E3XkgvL3) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 4:44 | 2022-02-05 |  |
 | [Fabricando Fantasías \- Salsa Version](https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Fabricando Fantasías](https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8) | 4:32 | 2022-02-05 |  |
 | [Felices los 4 \(feat\. Marc Anthony\) \- Salsa Version](https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 4:02 | 2022-02-05 |  |
@@ -109,6 +109,7 @@
 | [MAFIOSA](https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MAFIOSA](https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH) | 4:26 | 2022-02-05 |  |
 | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/track/0afpbPmRHldjP59YRslQz9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/album/5g7QwZJvDLvaSGjqFVex0d) | 4:24 | 2022-02-05 |  |
 | [Me Enamoro de Ella](https://open.spotify.com/track/0ZDEjIdK1X0lyYqfQQVcL5) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Grandes Éxitos](https://open.spotify.com/album/4s5XIe1XcDrddgQVACTY8O) | 4:16 | 2022-02-05 | 2022-07-29 |
+| [Me Enamoro de Ella](https://open.spotify.com/track/5hQufMNvbNYBn4F0CiYq0E) | [Juan Luis Guerra y 440](https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP) | [Mientras Más Lo Pienso….Tú](https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq) | 4:17 | 2022-08-17 |  |
 | [Merenguero Hasta la Tambora \- Radio Version](https://open.spotify.com/track/6IGgyTBzPgG0c8RHz2PZ4Z) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [Mis Favoritas](https://open.spotify.com/album/0BcspqaDGksQoDQkKSGCdO) | 3:04 | 2022-02-05 | 2022-05-07 |
 | [Micaela](https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 4:44 | 2022-02-05 |  |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-02-05 |  |

@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-541 songs - 1 day 9 hr 11 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
+542 songs - 1 day 9 hr 14 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [9](https://open.spotify.com/track/6zPmJ8DI5vuB1G9WjVjMfU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Nine](https://open.spotify.com/album/7Kpv6XWZhGCwX6PSR4vWaX) | 5:14 | 2021-06-25 | 2022-04-21 |
 | [9](https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [3](https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl) | 4:13 | 2020-10-16 | 2022-09-30 |
 | [97 Avalon](https://open.spotify.com/track/37f1s7mlrRXKoHmFn53wmY) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [97 Avalon](https://open.spotify.com/album/1J7dujPQV4tAQpObLon2hb) | 6:04 | 2022-03-29 | 2022-07-19 |
-| [A Dream of You](https://open.spotify.com/track/0LqZuRAroDVnV6LjDUGap1) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [A Dream of You](https://open.spotify.com/album/3waAzK2NOo6v0RD8kgc2Bz) | 4:18 | 2020-10-05\* |  |
+| [A Dream of You](https://open.spotify.com/track/0LqZuRAroDVnV6LjDUGap1) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [A Dream of You](https://open.spotify.com/album/3waAzK2NOo6v0RD8kgc2Bz) | 4:18 | 2020-10-05\* | 2022-10-25 |
 | [A Place Like This](https://open.spotify.com/track/1jRHh8JcdUV9zTiAmyzhU9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [A Place Like This](https://open.spotify.com/album/0LncwHODjl9isM9pzVmuOS) | 4:21 | 2021-03-22 | 2021-05-28 |
 | [Abusey Junction](https://open.spotify.com/track/6G6gPQ4bGqNj7ZMGUpIDfa) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/69O30wRnJwMunRrM6IgSsO) | 7:04 | 2020-12-31 | 2022-04-19 |
 | [ACOUSCOUS](https://open.spotify.com/track/64lmE7hixqSVxMsk5nvG8e) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [ACOUSCOUS](https://open.spotify.com/album/03OuqhFoYm9Odja6riHELI) | 3:57 | 2021-03-14 | 2022-07-29 |
@@ -128,6 +128,7 @@
 | [Cruel World](https://open.spotify.com/track/0iByHgOtRyd96SFdlXP2Xc) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [Cruel World](https://open.spotify.com/album/2ewne648qmoxjdcSUTIMQK) | 5:06 | 2020-10-16 | 2022-04-18 |
 | [Crush](https://open.spotify.com/track/2y7JqO7Jc7ErdOmxpvifRF) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Crush](https://open.spotify.com/album/5m3edD6VcJ23DxiLPwjDaB) | 4:26 | 2021-03-14 | 2022-04-21 |
 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 | 2021-05-04 | 2022-07-28 |
+| [Crush](https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/0gAyvJCgGfm5AqcRvAV3Ob) | 3:24 | 2022-10-07 |  |
 | [Curls](https://open.spotify.com/track/3NLm801woJocONz1NmPJZR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Curls](https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup) | 3:17 | 2020-10-05\* |  |
 | [cz](https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [cz](https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf) | 3:48 | 2020-10-05\* | 2022-04-13 |
 | [Dance on the Rain](https://open.spotify.com/track/7LfjFGlaC9kktbEsfSQThH) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Dance on the Rain](https://open.spotify.com/album/0XbBAwdTn0ahj3prcY0HlQ) | 3:39 | 2022-03-07 | 2022-04-03 |

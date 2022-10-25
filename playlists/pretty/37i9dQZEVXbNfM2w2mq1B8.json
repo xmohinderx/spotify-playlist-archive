@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
-  "num_followers": 11871,
+  "num_followers": 11873,
   "original_name": "Top 50 - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzE5ODg4MzA4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzE5OTIyNzM2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "Alcohol",
         "url": "https://open.spotify.com/album/57UKx4LXqW0P7PmT9OHXw8"
@@ -49,7 +49,31 @@
       "url": "https://open.spotify.com/track/1Oxshg4204lRdcogzvdP4x"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/4BlOpO1r4PS3zQ6pK5Otp1"
+      },
+      "artists": [
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "MENJU",
+          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "duration_ms": 172121,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/24Zq6jOHkjoPOQn42ZyRJs"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -65,7 +89,7 @@
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "7 Dni",
         "url": "https://open.spotify.com/album/0YQhcMLoLUsXyg2veNuj8H"
@@ -81,7 +105,23 @@
       "url": "https://open.spotify.com/track/56dILgPraSNLKcd89hxXaq"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "Queen Radio: Volume 1",
+        "url": "https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -90,14 +130,54 @@
         {
           "name": "Taylor Swift",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 164801,
-      "name": "Vigilante Shit",
-      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
+      "duration_ms": 256124,
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "LOTUS",
         "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
@@ -125,63 +205,7 @@
       "url": "https://open.spotify.com/track/5qX0V96jKJ6zC8UImlXKmO"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 256124,
-      "name": "Snow On The Beach (feat. Lana Del Rey)",
-      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -197,23 +221,23 @@
       "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
-        "name": "Queen Radio: Volume 1",
-        "url": "https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
+      "duration_ms": 164801,
+      "name": "Vigilante Shit",
+      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -229,7 +253,23 @@
       "url": "https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "Ustnite ti mrasni",
+        "url": "https://open.spotify.com/album/0YaFAOACGiIuKix5Kwc8fP"
+      },
+      "artists": [
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Ustnite ti mrasni",
+      "url": "https://open.spotify.com/track/2z0cwGTvP2Dqx5p2Ia0c9U"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -245,27 +285,7 @@
       "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "ISKAM PAK",
-        "url": "https://open.spotify.com/album/0Rqg4AxSWVGLukKyox7vun"
-      },
-      "artists": [
-        {
-          "name": "EMIL TRF",
-          "url": "https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB"
-        },
-        {
-          "name": "V:RGO",
-          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
-        }
-      ],
-      "duration_ms": 182504,
-      "name": "ISKAM PAK",
-      "url": "https://open.spotify.com/track/3bkd2gMPwfjBD9tRSrn7dU"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -281,7 +301,7 @@
       "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "\u041a\u0430\u043c\u044a\u043a \u0438 \u041d\u043e\u0436\u0438\u0446\u0430",
         "url": "https://open.spotify.com/album/5EaqcHDCXGlEMXqeQIkaPo"
@@ -301,23 +321,23 @@
       "url": "https://open.spotify.com/track/4mzILuYOfli6QWsPdc9iCS"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
-        "name": "Ustnite ti mrasni",
-        "url": "https://open.spotify.com/album/0YaFAOACGiIuKix5Kwc8fP"
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
       "artists": [
         {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 187746,
-      "name": "Ustnite ti mrasni",
-      "url": "https://open.spotify.com/track/2z0cwGTvP2Dqx5p2Ia0c9U"
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -333,7 +353,7 @@
       "url": "https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "LOTUS",
         "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
@@ -357,23 +377,43 @@
       "url": "https://open.spotify.com/track/6eOG7lOgVEWKqhWFRL2O4j"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+        "name": "ISKAM PAK",
+        "url": "https://open.spotify.com/album/0Rqg4AxSWVGLukKyox7vun"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "EMIL TRF",
+          "url": "https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB"
+        },
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
         }
       ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+      "duration_ms": 182504,
+      "name": "ISKAM PAK",
+      "url": "https://open.spotify.com/track/3bkd2gMPwfjBD9tRSrn7dU"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 194165,
+      "name": "Bejeweled",
+      "url": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "Krasiv geroy",
         "url": "https://open.spotify.com/album/4cFfpJg1tx82Z7A7dlJ97v"
@@ -393,7 +433,7 @@
       "url": "https://open.spotify.com/track/6UyMkM4523bYKwHIIrfuJu"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -409,55 +449,7 @@
       "url": "https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 194165,
-      "name": "Bejeweled",
-      "url": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "LOTUS",
         "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
@@ -477,7 +469,39 @@
       "url": "https://open.spotify.com/track/4B4f0Jno4VnQA2a7R1kWgX"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "\u041f\u0438\u0441\u0442\u043e\u043b\u0435\u0442",
         "url": "https://open.spotify.com/album/4d2IGg5C8bhKmfcx3vZboq"
@@ -497,7 +521,7 @@
       "url": "https://open.spotify.com/track/3bEbRxixvEVlEVIgvepXcg"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "Welcome to Bulgaria",
         "url": "https://open.spotify.com/album/2TPo2ncfb5dOKAgS09D1yC"
@@ -521,75 +545,7 @@
       "url": "https://open.spotify.com/track/04zqsdXIs6fCpvKgl0AYY7"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/6Auc4VblNN0M9jD0dsbfnz"
-      },
-      "artists": [
-        {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        }
-      ],
-      "duration_ms": 223216,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/4sO11a54gXayms6GDyqKep"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "DJIGIT DRILL",
-        "url": "https://open.spotify.com/album/4wGp4QSiLic1jFqIUvVrJS"
-      },
-      "artists": [
-        {
-          "name": "FYRE",
-          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
-        }
-      ],
-      "duration_ms": 186142,
-      "name": "DJIGIT DRILL",
-      "url": "https://open.spotify.com/track/23HAp6WM0phD5RqDyxtr6b"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
@@ -605,43 +561,7 @@
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "Sladkoto zlo",
-        "url": "https://open.spotify.com/album/7v1bD7rUtU56j72aXNhJHp"
-      },
-      "artists": [
-        {
-          "name": "Preslava",
-          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
-        },
-        {
-          "name": "Konstantin",
-          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
-        }
-      ],
-      "duration_ms": 225957,
-      "name": "Sladkoto zlo",
-      "url": "https://open.spotify.com/track/16rryuFZpdvWzKllkUw0ri"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
@@ -661,75 +581,23 @@
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
         }
       ],
-      "duration_ms": 191039,
-      "name": "Mastermind",
-      "url": "https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH"
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 247962,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "\u0427\u0443\u043f\u043a\u0438 \u0432 \u043a\u0440\u044a\u0441\u0442\u0430",
-        "url": "https://open.spotify.com/album/4S8oWdBdBhTZvSCkTD1d94"
-      },
-      "artists": [
-        {
-          "name": "Fiki",
-          "url": "https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1"
-        }
-      ],
-      "duration_ms": 295657,
-      "name": "\u0427\u0443\u043f\u043a\u0438 \u0432 \u043a\u0440\u044a\u0441\u0442\u0430",
-      "url": "https://open.spotify.com/track/3FkA5BCzxB4SeQ7fSzUmJE"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "Mangava Tut",
-        "url": "https://open.spotify.com/album/0cV79ZKtvQg9Vkj4ol3uW4"
-      },
-      "artists": [
-        {
-          "name": "Preslava",
-          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
-        },
-        {
-          "name": "Sofi Marinova",
-          "url": "https://open.spotify.com/artist/0uQufSOI58CZsze92brlhq"
-        }
-      ],
-      "duration_ms": 263642,
-      "name": "Mangava Tut",
-      "url": "https://open.spotify.com/track/4DxgAA7IHwrmYDRzf0xvht"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/6GNZ5EkrLzHFhKw8R5pzOE"
@@ -745,27 +613,23 @@
       "url": "https://open.spotify.com/track/6kN80cMcK1Gu1rJ82Xr6vt"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
-        "name": "LOTUS",
-        "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "V:RGO",
-          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
-        },
-        {
-          "name": "Atanas Kolev",
-          "url": "https://open.spotify.com/artist/10iUgMo6V58HTpiZrEnNQu"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 212445,
-      "name": "NEIZBEJNO POLOJENIE",
-      "url": "https://open.spotify.com/track/4NQK5RwcwoQCjsMONIiXEo"
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
@@ -785,7 +649,163 @@
       "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/6Auc4VblNN0M9jD0dsbfnz"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "duration_ms": 223216,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/4sO11a54gXayms6GDyqKep"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "LOTUS",
+        "url": "https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Atanas Kolev",
+          "url": "https://open.spotify.com/artist/10iUgMo6V58HTpiZrEnNQu"
+        }
+      ],
+      "duration_ms": 212445,
+      "name": "NEIZBEJNO POLOJENIE",
+      "url": "https://open.spotify.com/track/4NQK5RwcwoQCjsMONIiXEo"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "DJIGIT DRILL",
+        "url": "https://open.spotify.com/album/4wGp4QSiLic1jFqIUvVrJS"
+      },
+      "artists": [
+        {
+          "name": "FYRE",
+          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
+        }
+      ],
+      "duration_ms": 186142,
+      "name": "DJIGIT DRILL",
+      "url": "https://open.spotify.com/track/23HAp6WM0phD5RqDyxtr6b"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 191039,
+      "name": "Mastermind",
+      "url": "https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 247962,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "Sladkoto zlo",
+        "url": "https://open.spotify.com/album/7v1bD7rUtU56j72aXNhJHp"
+      },
+      "artists": [
+        {
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+        },
+        {
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
+        }
+      ],
+      "duration_ms": 225957,
+      "name": "Sladkoto zlo",
+      "url": "https://open.spotify.com/track/16rryuFZpdvWzKllkUw0ri"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "\u0427\u0443\u043f\u043a\u0438 \u0432 \u043a\u0440\u044a\u0441\u0442\u0430",
+        "url": "https://open.spotify.com/album/4S8oWdBdBhTZvSCkTD1d94"
+      },
+      "artists": [
+        {
+          "name": "Fiki",
+          "url": "https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1"
+        }
+      ],
+      "duration_ms": 295657,
+      "name": "\u0427\u0443\u043f\u043a\u0438 \u0432 \u043a\u0440\u044a\u0441\u0442\u0430",
+      "url": "https://open.spotify.com/track/3FkA5BCzxB4SeQ7fSzUmJE"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "\u041d\u0430\u0448\u0430\u0442\u0430",
         "url": "https://open.spotify.com/album/4Wbs7T5xkCSeCv7tgugC4C"
@@ -821,87 +841,7 @@
       "url": "https://open.spotify.com/track/1fTNb11PK6Ode6hx4bC8pl"
     },
     {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "\u0424\u0435\u043d\u0438\u043a\u0441",
-        "url": "https://open.spotify.com/album/1RMfMLNhXhXPZjJaaiHtuu"
-      },
-      "artists": [
-        {
-          "name": "ANNA ASTI",
-          "url": "https://open.spotify.com/artist/40YXr3tdSqFv0kfmgjj8vP"
-        }
-      ],
-      "duration_ms": 237837,
-      "name": "\u041f\u043e \u0431\u0430\u0440\u0430\u043c",
-      "url": "https://open.spotify.com/track/4zOLAk87gHl97sbqmntbJG"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 188496,
-      "name": "Sweet Nothing",
-      "url": "https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "\u041a\u043e\u0433\u0430\u0442\u043e \u0442\u0435 \u043d\u044f\u043c\u0430",
-        "url": "https://open.spotify.com/album/2KXJRrSDs3ob5LiyeXKEgR"
-      },
-      "artists": [
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/4OxMKohjemdbOjJHVGoudN"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "\u041a\u043e\u0433\u0430\u0442\u043e \u0442\u0435 \u043d\u044f\u043c\u0430",
-      "url": "https://open.spotify.com/track/7CW8Z1qou9zFwABZAv0Vui"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
-    },
-    {
-      "added_at": "2022-10-24 00:58:28",
+      "added_at": "2022-10-24 10:32:16",
       "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
@@ -919,6 +859,78 @@
       "duration_ms": 350320,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "Mangava Tut",
+        "url": "https://open.spotify.com/album/0cV79ZKtvQg9Vkj4ol3uW4"
+      },
+      "artists": [
+        {
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+        },
+        {
+          "name": "Sofi Marinova",
+          "url": "https://open.spotify.com/artist/0uQufSOI58CZsze92brlhq"
+        }
+      ],
+      "duration_ms": 263642,
+      "name": "Mangava Tut",
+      "url": "https://open.spotify.com/track/4DxgAA7IHwrmYDRzf0xvht"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 188496,
+      "name": "Sweet Nothing",
+      "url": "https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "\u041a\u043e\u0433\u0430\u0442\u043e \u0442\u0435 \u043d\u044f\u043c\u0430",
+        "url": "https://open.spotify.com/album/2KXJRrSDs3ob5LiyeXKEgR"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/4OxMKohjemdbOjJHVGoudN"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "\u041a\u043e\u0433\u0430\u0442\u043e \u0442\u0435 \u043d\u044f\u043c\u0430",
+      "url": "https://open.spotify.com/track/7CW8Z1qou9zFwABZAv0Vui"
+    },
+    {
+      "added_at": "2022-10-24 10:32:16",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
     }
   ],
   "unique_name": "Top 50 - Bulgaria",

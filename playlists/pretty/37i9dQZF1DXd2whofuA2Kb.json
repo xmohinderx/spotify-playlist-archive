@@ -1,12 +1,12 @@
 {
   "description": "Because once you were a hipster, and now you are an indie parent.",
-  "num_followers": 23353,
+  "num_followers": 23446,
   "original_name": "Raised on Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjE2NiwwMDAwMDAwMDBmZTQ3NmVlMWViZmJmZTA3Yjk4Y2IxZDFiMDU4N2Rj",
+  "snapshot_id": "MTY0OTc5NjE2NiwwMDAwMDAwMDg2MTAwZTVmMzhiYjUyOWNlMjAzNzYxNDRjODA3NjRk",
   "tracks": [
     {
       "added_at": "2022-01-10 20:54:40",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 290706,
       "name": "Fake Plastic Trees",
       "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov"
-      },
-      "artists": [
-        {
-          "name": "OK Go",
-          "url": "https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz"
-        }
-      ],
-      "duration_ms": 179813,
-      "name": "Here It Goes Again",
-      "url": "https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 251266,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov"
+      },
+      "artists": [
+        {
+          "name": "OK Go",
+          "url": "https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz"
+        }
+      ],
+      "duration_ms": 179813,
+      "name": "Here It Goes Again",
+      "url": "https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/2msN7XBgV3JCjQ7Tq3t7i9"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "ocean eyes",
+      "url": "https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
         "name": "Real Love Baby",
         "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
       },
@@ -891,18 +907,18 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/2msN7XBgV3JCjQ7Tq3t7i9"
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 200560,
-      "name": "ocean eyes",
-      "url": "https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU"
+      "duration_ms": 239146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -935,22 +951,6 @@
       "duration_ms": 231840,
       "name": "You Are the Best Thing",
       "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Give Up (Deluxe 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b"
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
       "artists": [
         {
-          "name": "The Postal Service",
-          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 266506,
-      "name": "Such Great Heights - Remastered",
-      "url": "https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI"
+      "duration_ms": 161680,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
     }
   ],
   "unique_name": "Raised on Indie",

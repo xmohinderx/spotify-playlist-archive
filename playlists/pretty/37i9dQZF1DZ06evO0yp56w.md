@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 
 > This is Muse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,941 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,124 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 9 | [Plug in Baby](https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 3:38 |
 | 10 | [Knights of Cydonia](https://open.spotify.com/track/7ouMYWpwJ422jRcDASZB7P) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 6:06 |
 | 11 | [Undisclosed Desires](https://open.spotify.com/track/0It6VJoMAare1zdV2wxqZq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 3:55 |
-| 12 | [We Are Fucking Fucked](https://open.spotify.com/track/5IumuUJqNO7K5SvniuDrBz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:36 |
+| 12 | [Won’t Stand Down](https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:29 |
 | 13 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 14 | [Feeling Good](https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 3:18 |
 | 15 | [Pressure](https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:55 |
-| 16 | [Won’t Stand Down](https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:29 |
+| 16 | [We Are Fucking Fucked](https://open.spotify.com/track/5IumuUJqNO7K5SvniuDrBz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:36 |
 | 17 | [Unintended](https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:57 |
 | 18 | [Resistance](https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:46 |
 | 19 | [Panic Station](https://open.spotify.com/track/1tjHKKI0r82IB5KL29whHs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 3:04 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 44 | [MK Ultra](https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 4:06 |
 | 45 | [Algorithm](https://open.spotify.com/track/7f0vVL3xi4i78Rv5Ptn2s1) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 4:05 |
 | 46 | [Animals](https://open.spotify.com/track/2raJLzvNRvipP8cJuchk6U) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:22 |
-| 47 | [Showbiz](https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 5:17 |
+| 47 | [Invincible](https://open.spotify.com/track/2zmR3FG7iOGDAdwrVPzdg9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 5:01 |
 | 48 | [Unnatural Selection](https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 6:54 |
-| 49 | [Invincible](https://open.spotify.com/track/2zmR3FG7iOGDAdwrVPzdg9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 5:01 |
+| 49 | [Showbiz](https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 5:17 |
 | 50 | [Follow Me](https://open.spotify.com/track/6r9tjMWLv8fNdZKKTnqCEr) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 3:50 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDA5MTYyYWY2Y2ZjMmFmMDczYWZjOGRkODE1NzNmODkxZA==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDA2NDlhZWZjMjY5YzU2MmMwMTY1OGZkN2IyOGRlYjkwYg==`

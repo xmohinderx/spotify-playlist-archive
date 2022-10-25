@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,994 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 987,099 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 47 | [Like That](https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7) | [Seamus D](https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw) | [Like That](https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm) | 3:00 |
 | 48 | [Deep Inside](https://open.spotify.com/track/3NiB3v3elOuAy4Ij51F4Sl) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Deep Inside](https://open.spotify.com/album/5cgcl6FTzwH7a809sDZtrs) | 3:22 |
 | 49 | [Chemistry](https://open.spotify.com/track/23E8Vr8RGP54IoP0n4Lr4Z) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C), [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Chemistry](https://open.spotify.com/album/7M2PgMJyOQ2Pc3FTwNkPBz) | 2:46 |
-| 50 | [Cut Me Loose \- Edit](https://open.spotify.com/track/0dSTbC1TcahlWOZV5C5OhI) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Cut Me Loose \(Edit\)](https://open.spotify.com/album/1UWmbDu7nphgNFGPjuZrSR) | 3:22 |
+| 50 | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/track/5C29RTtzXBODKoZn0aB4zb) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/album/7ut4PfRhGtazFoK7UOMxbs) | 2:16 |
 
-Snapshot ID: `MTY2NDI5MDk3OSwwMDAwMDAwMDQ2YmJjMjA4ZDM2NDBhYWEzMTZmZTJjOWYyN2RjM2Vl`
+Snapshot ID: `MTY2NDI5MDk3OSwwMDAwMDAwMGNiZDg5MDgyMGRkNjI4NDkyYWZhYjNlMWZkM2I2ODdi`

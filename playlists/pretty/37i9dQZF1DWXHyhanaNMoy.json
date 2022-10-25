@@ -1,13 +1,29 @@
 {
-  "description": "Hier alleen magic en motion! Cover: Antoon & Dopebwoy",
-  "num_followers": 305933,
+  "description": "Nieuwe Broederliefde vandaag! Hier alleen maar good vibes en motion.",
+  "num_followers": 305944,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjUwODUxNSwwMDAwMDAwMDM5ZjRkZTQyMTlmZjUzZTMyM2ZhMzUyYmE4OWIyOGI1",
+  "snapshot_id": "MTY2NjY0ODgwMCwwMDAwMDAwMGM4MDg3ZjM2ZTgyOGFlOTQ0YWQxODkwNDc0Njg0NWUy",
   "tracks": [
+    {
+      "added_at": "2022-10-24 22:00:00",
+      "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/70TkeQlSOxAjMRGpYCNJc8"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 200759,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/0MoVSGtczr71BiUMaAGLdu"
+    },
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {

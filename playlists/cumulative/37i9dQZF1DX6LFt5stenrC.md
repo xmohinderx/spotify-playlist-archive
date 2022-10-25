@@ -4,7 +4,7 @@
 
 > Songs from your family's favorite TV shows.
 
-104 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/1tbHCLwQujb8LsLzNBqLFl)
+105 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/1tbHCLwQujb8LsLzNBqLFl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Bacon Pancakes \(feat\. John DiMaggio\)](https://open.spotify.com/track/3CT99LPgxJ52AQse2LPi2U) | [Adventure Time](https://open.spotify.com/artist/3Op7D6tFVJCOHW6EAV0ck1), [John DiMaggio](https://open.spotify.com/artist/04jyrvfZFrbSjUlEXwsA53) | [Adventure Time, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/7irFTapPhttGWfJxgaH9pW) | 0:33 | 2022-04-15 |  |
 | [Barbie Dreamhouse Adventures Theme Song](https://open.spotify.com/track/3cD5x5Y7ia2Kr9A46tlo82) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [Barbie Dreamhouse Adventures Theme Song](https://open.spotify.com/album/3g3haWnvgJVPcNEphO4uiV) | 2:01 | 2022-04-15 |  |
 | [Bartleby Finnegan](https://open.spotify.com/track/05iojOqYgGy4SU89O5paby) | [True and the Rainbow Kingdom](https://open.spotify.com/artist/6ufVQnyyFBLj8YzcKG3OYl) | [True Tunes](https://open.spotify.com/album/1PNn0XkjppVpSmZSkbXfnQ) | 2:26 | 2022-04-15 | 2022-10-20 |
-| [Better Together](https://open.spotify.com/track/06XmduRx6Fhod8FnjyK9lh) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS) | [Disney Junior Music: Mickey Mouse Funhouse Vol\. 1](https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX) | 1:18 | 2022-04-15 |  |
+| [Better Together](https://open.spotify.com/track/06XmduRx6Fhod8FnjyK9lh) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS) | [Disney Junior Music: Mickey Mouse Funhouse Vol\. 1](https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX) | 1:18 | 2022-04-15 | 2022-10-25 |
 | [Bikes Are Fun](https://open.spotify.com/track/26o1vonuhyw3zKnBgjtCZt) | [Yo Gabba Gabba](https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF) | [Summer Games Superstars](https://open.spotify.com/album/2MCnAy0jbVZxosjGKiZxXE) | 3:52 | 2022-04-15 | 2022-07-25 |
 | [Blaze and the Monster Machines Theme Song](https://open.spotify.com/track/1GzfnrqhJFsm2UK7dHRCea) | [Blaze and the Monster Machines](https://open.spotify.com/artist/4WVT8k6aMXbGw9KgGqTk0l) | [Rockin' Ride\-Along Songs](https://open.spotify.com/album/6gQCF7uOLmdFvqopFRVvIS) | 0:31 | 2022-04-15 |  |
 | [Blaze and the Monster Machines Theme Song](https://open.spotify.com/track/6uaSSpEyVqcoEBLbaoiUZ6) | [Blaze and the Monster Machines](https://open.spotify.com/artist/4WVT8k6aMXbGw9KgGqTk0l) | [Rockin' Ride\-Along Songs](https://open.spotify.com/album/1isb3iavBKHs5oXLtzkIA5) | 0:31 | 2022-04-15 | 2022-10-13 |
@@ -81,6 +81,7 @@
 | [Sesame Street Theme \- 2019 Mix](https://open.spotify.com/track/0A03kYvR7okcxYmqshk7lA) | [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: What's the Number?](https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km) | 1:53 | 2022-04-15 |  |
 | [Shake It Up \- From "Shake It Up"](https://open.spotify.com/track/1oLcpJA9TfwwejiEM9C5gi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Shake It Up \(From "Shake It Up"\)](https://open.spotify.com/album/4RYzLsns7p8y1CA8jUBFoB) | 3:00 | 2022-04-15 |  |
 | [Shimmer and Shine Theme Song \- Extended Version](https://open.spotify.com/track/10v3ba3brdnOTfHgjTULyC) | [Shimmer and Shine](https://open.spotify.com/artist/6EACW7fkHHUd8wJEGUY9MR) | [Shimmer and Shine: Groove Zahramay!](https://open.spotify.com/album/5wWDNNCRp5rkcktZounG1e) | 2:35 | 2022-04-15 | 2022-10-13 |
+| [Shimmer and Shine Theme Song \- Extended Version](https://open.spotify.com/track/4EYwZTTaJ9kQJyIJnCODvM) | [Shimmer and Shine](https://open.spotify.com/artist/6EACW7fkHHUd8wJEGUY9MR) | [Shimmer and Shine: Groove Zahramay!](https://open.spotify.com/album/7hs3ZOSqQvXTOgCwJAzY2p) | 2:35 | 2022-04-15 |  |
 | [Shine On Everyone](https://open.spotify.com/track/7nTCmhPnplDQ21oOyeh5wd) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Shine On Everyone](https://open.spotify.com/album/5M4wisJxzqcU0GVQaOFv9E) | 1:41 | 2022-04-15 | 2022-07-29 |
 | [Sid the Science Kid Theme Song](https://open.spotify.com/track/131DnrFnS9XAKQX0LG70AJ) | [Jim Henson's Sid the Science Kid](https://open.spotify.com/artist/24J1jPqrTfwaASivMTPuHd) | [Work Your Body](https://open.spotify.com/album/66hZhoeuuTFV9gMpv1ZzwY) | 0:33 | 2022-04-15 | 2022-07-29 |
 | [SpongeBob SquarePants Theme](https://open.spotify.com/track/1L76g7YKUBaOobB192tZBz) | [Painty The Pirate and Kids](https://open.spotify.com/artist/6crTzJTM4gbjjqF1FKFMw1) | [Spongebob Squarepants: Original Theme Highlights](https://open.spotify.com/album/7rGK4xRxVlmDuV7dKsGZZn) | 0:45 | 2022-04-15 | 2022-07-29 |

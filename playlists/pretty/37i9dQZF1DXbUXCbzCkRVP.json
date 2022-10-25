@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 19950,
+  "num_followers": 20012,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2MjkyNywwMDAwMDAwMDI1MDg4NjNmYzhhMDY2ZWZkYTMwMzljNjNjNGYyNjkz",
+  "snapshot_id": "MTY2NTc2MjkyNywwMDAwMDAwMGFhZWY0NDM3ODk5MzM0OWE1YThkMTc2ZjRhM2UwZjRk",
   "tracks": [
     {
       "added_at": "2022-10-14 15:55:27",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "Stand Back!",
-        "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Christo Redemptor",
-      "url": "https://open.spotify.com/track/2KmDMUum37jq4TFaHXD3JY"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 279400,
       "name": "Rude Mood",
       "url": "https://open.spotify.com/track/03NejRMxYMMCFo2Ylsia6l"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "Stand Back!",
+        "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Christo Redemptor",
+      "url": "https://open.spotify.com/track/2KmDMUum37jq4TFaHXD3JY"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
+      },
+      "artists": [
+        {
+          "name": "Brian Grey",
+          "url": "https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS"
+        }
+      ],
+      "duration_ms": 279232,
+      "name": "Smooth Night",
+      "url": "https://open.spotify.com/track/2SSwokelCpWlRssUkFqd94"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
-      },
-      "artists": [
-        {
-          "name": "Brian Grey",
-          "url": "https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS"
-        }
-      ],
-      "duration_ms": 279232,
-      "name": "Smooth Night",
-      "url": "https://open.spotify.com/track/2SSwokelCpWlRssUkFqd94"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
         "name": "For Collectors Only (The Wham Of That Memphis Man)",
         "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 132333,
       "name": "Wham!",
       "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
-        "name": "Blues On The South Side",
-        "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
-      },
-      "artists": [
-        {
-          "name": "Homesick James",
-          "url": "https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Homesick's Shuffle",
-      "url": "https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -539,6 +523,22 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
+        "name": "Blues On The South Side",
+        "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
+      },
+      "artists": [
+        {
+          "name": "Homesick James",
+          "url": "https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Homesick's Shuffle",
+      "url": "https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
         "name": "King Of The Blues Guitar (Reissue)",
         "url": "https://open.spotify.com/album/4btZS65kvBlUlw7xSnzehz"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 167666,
       "name": "Cold Feet",
       "url": "https://open.spotify.com/track/3nmd5lsusqNE1bhcpHwAOH"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
-        "name": "Second Album",
-        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
-      },
-      "artists": [
-        {
-          "name": "Roy Buchanan",
-          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Tribute To Elmore James",
-      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -603,6 +587,22 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
+        "name": "Second Album",
+        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
+      },
+      "artists": [
+        {
+          "name": "Roy Buchanan",
+          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Tribute To Elmore James",
+      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 134106,
       "name": "Chitlin Con Carne",
       "url": "https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Jam On A Monday Morning",
+      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -659,38 +675,6 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Jam On A Monday Morning",
-      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "Phillips Goes Bananas",
-      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
@@ -723,6 +707,38 @@
       "duration_ms": 188800,
       "name": "Sweet Ginny",
       "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Phillips Goes Bananas",
+      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "The Guitar And Banjo Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 144373,
+      "name": "Slow Drag (Cincinnati Flow Rag) - Instrumental",
+      "url": "https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -783,34 +799,18 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "The Guitar And Banjo Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
       "artists": [
         {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 144373,
-      "name": "Slow Drag (Cincinnati Flow Rag) - Instrumental",
-      "url": "https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
-        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
-        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
-      },
-      "artists": [
-        {
-          "name": "Little Sonny",
-          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "The Creeper Returns",
-      "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
+      "duration_ms": 194106,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
+        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Little Sonny",
+          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
         }
       ],
-      "duration_ms": 194106,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
+      "duration_ms": 253733,
+      "name": "The Creeper Returns",
+      "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
     },
     {
       "added_at": "2022-10-14 15:55:27",

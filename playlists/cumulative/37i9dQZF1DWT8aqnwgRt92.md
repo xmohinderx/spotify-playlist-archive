@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-308 songs - 19 hr 47 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+309 songs - 19 hr 50 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Gohan dayo! Dadadadan!!](https://open.spotify.com/track/2yHoptGrLliwAOl2rBAhYn) | [SURACYANZU](https://open.spotify.com/artist/08wDtWVhHhqmOwc6Y5FW4w) | [Gohan dayo! Dadadadan!!](https://open.spotify.com/album/38wshlFD90KUwScoxw6los) | 3:51 | 2022-07-28 | 2022-09-30 |
 | [Gold](https://open.spotify.com/track/4O0WiQ8T3Kxv0Tq6xxTDKj) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Gold](https://open.spotify.com/album/2eBuJfQEdp3hhFG2ej0sL0) | 2:56 | 2022-06-14 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/2tpiDrtRmRq5ZdQLQVaDmz) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Gold](https://open.spotify.com/album/0AMQOXe131J5SlkABq1ass) | 2:56 | 2022-05-28 | 2022-06-29 |
-| [GOOD DAY](https://open.spotify.com/track/31fHBQWCMDUJdHuG41EzRp) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック](https://open.spotify.com/album/2XV23pZFYRgvDvr9qU7iiV) | 2:32 | 2022-10-08 |  |
+| [GOOD DAY](https://open.spotify.com/track/31fHBQWCMDUJdHuG41EzRp) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック](https://open.spotify.com/album/2XV23pZFYRgvDvr9qU7iiV) | 2:32 | 2022-10-08 | 2022-10-25 |
+| [GOOD DAY \- inspired by SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/track/1reF4pkXyJRSbC3FGSi1TB) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [GOOD DAY \- inspired by SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/album/6mSYsjSBR2PdZ8jOvePpXr) | 2:32 | 2022-10-20 |  |
 | [Good For](https://open.spotify.com/track/1xQ0uoIrGX8Gsq8s1hZTiV) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Good For](https://open.spotify.com/album/1RrXyKwwvq0X3f02W4zdMc) | 4:21 | 2022-05-28 | 2022-07-06 |
 | [Good Morning \[New\] World!](https://open.spotify.com/track/1yUV3xzgaFWG2Koe9Sfcwd) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [Good Morning \[New\] World!](https://open.spotify.com/album/4XJU7VESD3DYIkO8g2iGpE) | 4:18 | 2022-07-12 | 2022-10-05 |
 | [Growing up](https://open.spotify.com/track/1YXgEhut1Mo2Y44IgsvP7f) | [7ORDER](https://open.spotify.com/artist/2RitDQzohyR2zJXoqovut4) | [Growing up](https://open.spotify.com/album/45CvOi9Mgco3LIA6TtMue7) | 4:16 | 2022-10-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 8060,
+  "num_followers": 8069,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGU1ZTE0MDY2ZGJhZDQxYmExMzMwYjBiZjNhOGRiNjhk",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDU4NmRlZTNhNGFlNmQ1N2NiNmUwNWJhZGMwNTcwMzBm",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Brik Pan Brik",
         "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
       },
@@ -159,6 +175,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/6z720xQ3VQnESEKUDISzno"
+      },
+      "artists": [
+        {
+          "name": "DJ Spider",
+          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
+        },
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        }
+      ],
+      "duration_ms": 136663,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/5dNlxKgi1aVsi5sTuOcN4P"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6"
       },
@@ -183,42 +219,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/6z720xQ3VQnESEKUDISzno"
-      },
-      "artists": [
-        {
-          "name": "DJ Spider",
-          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
-        },
-        {
-          "name": "Klassik Frescobar",
-          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
-        }
-      ],
-      "duration_ms": 136663,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/5dNlxKgi1aVsi5sTuOcN4P"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Mobster",
         "url": "https://open.spotify.com/album/5G06lp7pqVUmyFMR51B3kO"
       },
@@ -231,6 +231,22 @@
       "duration_ms": 193226,
       "name": "Mobster",
       "url": "https://open.spotify.com/track/00mDz9iEvKOdLHNmvucEhs"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Practice",
+        "url": "https://open.spotify.com/album/5Pr8mUUQqZb8bKS8N5B977"
+      },
+      "artists": [
+        {
+          "name": "GBM Nutron",
+          "url": "https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Practice",
+      "url": "https://open.spotify.com/track/0lLdIhIPkqfpnYmcFPmoDm"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -271,22 +287,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Practice",
-        "url": "https://open.spotify.com/album/5Pr8mUUQqZb8bKS8N5B977"
-      },
-      "artists": [
-        {
-          "name": "GBM Nutron",
-          "url": "https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Practice",
-      "url": "https://open.spotify.com/track/0lLdIhIPkqfpnYmcFPmoDm"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Lifestyle Riddim",
         "url": "https://open.spotify.com/album/0osc1Nc5V2f1rhGYP35Tgg"
       },
@@ -315,22 +315,6 @@
       "duration_ms": 133746,
       "name": "Boss Lady (Sign Me Up)",
       "url": "https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -383,6 +367,22 @@
       "duration_ms": 218228,
       "name": "Wotless",
       "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Demon Girl",
-        "url": "https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lee Sparta",
-          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
-        }
-      ],
-      "duration_ms": 202422,
-      "name": "Demon Girl",
-      "url": "https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "iShal",
         "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 216405,
       "name": "Splinters",
       "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Demon Girl",
+        "url": "https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+        }
+      ],
+      "duration_ms": 202422,
+      "name": "Demon Girl",
+      "url": "https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
-      },
-      "artists": [
-        {
-          "name": "Daddy1",
-          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
-        }
-      ],
-      "duration_ms": 175216,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "The Wedding Album",
         "url": "https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ"
       },
@@ -683,46 +667,34 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Conch Shell",
-        "url": "https://open.spotify.com/album/2Np7QomldZGz81VIVtzVEQ"
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
       },
       "artists": [
         {
-          "name": "Skinny Fabulous",
-          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Iwer George",
-          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
+          "name": "Daddy1",
+          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
         }
       ],
-      "duration_ms": 192198,
-      "name": "Conch Shell",
-      "url": "https://open.spotify.com/track/2gPuVcELwDqeurkrzW8stq"
+      "duration_ms": 175216,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Stage Gone Bad",
-        "url": "https://open.spotify.com/album/6PrUIGQ2hHkLLnpebac6m5"
+        "name": "Caution Riddim",
+        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
       },
       "artists": [
         {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Iwer George",
-          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
         }
       ],
-      "duration_ms": 193893,
-      "name": "Stage Gone Bad",
-      "url": "https://open.spotify.com/track/7Jdsj4nNANukieGgE5IMmd"
+      "duration_ms": 193488,
+      "name": "Fattt",
+      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -771,54 +743,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Caution Riddim",
-        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
+        "name": "Stage Gone Bad",
+        "url": "https://open.spotify.com/album/6PrUIGQ2hHkLLnpebac6m5"
       },
       "artists": [
         {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        }
-      ],
-      "duration_ms": 193488,
-      "name": "Fattt",
-      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Caution Riddim",
-        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
-      },
-      "artists": [
-        {
-          "name": "Skinny Fabulous",
-          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
-        }
-      ],
-      "duration_ms": 189022,
-      "name": "Up & Up",
-      "url": "https://open.spotify.com/track/6Lm3yZ7ZHNyHJmNlxuCrge"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Private Zess",
-        "url": "https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6"
-      },
-      "artists": [
-        {
-          "name": "K Lion",
-          "url": "https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi"
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
         },
         {
-          "name": "Lr",
-          "url": "https://open.spotify.com/artist/09lMeNRN7IAcfmSwJdEekK"
+          "name": "Iwer George",
+          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
         }
       ],
-      "duration_ms": 168888,
-      "name": "Private Zess",
-      "url": "https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN"
+      "duration_ms": 193893,
+      "name": "Stage Gone Bad",
+      "url": "https://open.spotify.com/track/7Jdsj4nNANukieGgE5IMmd"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -847,22 +787,46 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Stink Behavior",
-        "url": "https://open.spotify.com/album/65lZPDKwuVzWbdxrQ0xH8T"
+        "name": "Conch Shell",
+        "url": "https://open.spotify.com/album/2Np7QomldZGz81VIVtzVEQ"
       },
       "artists": [
         {
-          "name": "Teddy Rhymez",
-          "url": "https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p"
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
         },
         {
           "name": "Machel Montano",
           "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Iwer George",
+          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
         }
       ],
-      "duration_ms": 211022,
-      "name": "Stink Behavior",
-      "url": "https://open.spotify.com/track/5XxrykKafHg34icuJEN5tf"
+      "duration_ms": 192198,
+      "name": "Conch Shell",
+      "url": "https://open.spotify.com/track/2gPuVcELwDqeurkrzW8stq"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Private Zess",
+        "url": "https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6"
+      },
+      "artists": [
+        {
+          "name": "K Lion",
+          "url": "https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi"
+        },
+        {
+          "name": "Lr",
+          "url": "https://open.spotify.com/artist/09lMeNRN7IAcfmSwJdEekK"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Private Zess",
+      "url": "https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -879,6 +843,26 @@
       "duration_ms": 230711,
       "name": "Captain",
       "url": "https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Stink Behavior",
+        "url": "https://open.spotify.com/album/65lZPDKwuVzWbdxrQ0xH8T"
+      },
+      "artists": [
+        {
+          "name": "Teddy Rhymez",
+          "url": "https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Stink Behavior",
+      "url": "https://open.spotify.com/track/5XxrykKafHg34icuJEN5tf"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -911,6 +895,22 @@
       "duration_ms": 187026,
       "name": "Guh Down",
       "url": "https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Caution Riddim",
+        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
+      },
+      "artists": [
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        }
+      ],
+      "duration_ms": 189022,
+      "name": "Up & Up",
+      "url": "https://open.spotify.com/track/6Lm3yZ7ZHNyHJmNlxuCrge"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -999,26 +999,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Bend Yuh Back",
-        "url": "https://open.spotify.com/album/46tZ8IWlrpYgB9EDCa3Rfb"
+        "name": "Darkseid Riddim",
+        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
       },
       "artists": [
         {
-          "name": "Skinny Fabulous",
-          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
-        },
-        {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
-        },
-        {
-          "name": "Dan Evens",
-          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
         }
       ],
-      "duration_ms": 154909,
-      "name": "Bend Yuh Back",
-      "url": "https://open.spotify.com/track/6d9GMNNJpGEjrH8OFDGEXN"
+      "duration_ms": 214738,
+      "name": "Nasty Up",
+      "url": "https://open.spotify.com/track/1ZTihlaGPnfLrOXbOFyj15"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1039,22 +1031,6 @@
       "duration_ms": 203499,
       "name": "Rough Wine",
       "url": "https://open.spotify.com/track/7lpwFH6GQr6q6A3nZKPwBH"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Darkseid Riddim",
-        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
-      },
-      "artists": [
-        {
-          "name": "Problem Child",
-          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
-        }
-      ],
-      "duration_ms": 214738,
-      "name": "Nasty Up",
-      "url": "https://open.spotify.com/track/1ZTihlaGPnfLrOXbOFyj15"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1087,6 +1063,30 @@
       "duration_ms": 190560,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Bend Yuh Back",
+        "url": "https://open.spotify.com/album/46tZ8IWlrpYgB9EDCa3Rfb"
+      },
+      "artists": [
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        },
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        },
+        {
+          "name": "Dan Evens",
+          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
+        }
+      ],
+      "duration_ms": 154909,
+      "name": "Bend Yuh Back",
+      "url": "https://open.spotify.com/track/6d9GMNNJpGEjrH8OFDGEXN"
     },
     {
       "added_at": "2022-02-24 18:00:00",

@@ -586,6 +586,28 @@
     },
     {
       "album": {
+        "name": "Find Your Way",
+        "url": "https://open.spotify.com/album/4wDEWSRuqO6k4RgOolYy2h"
+      },
+      "artists": [
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328033,
+      "name": "Find Your Way",
+      "url": "https://open.spotify.com/track/0HbW183P72KHki0wJsv99I"
+    },
+    {
+      "album": {
         "name": "Garden (Calibre Remix)",
         "url": "https://open.spotify.com/album/6xPaNRGXlr2L0brkk8ab8N"
       },
@@ -927,7 +949,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 246896,
       "name": "Long as You Can",
       "url": "https://open.spotify.com/track/4DP59Vpv73jNlpGiWOV8m8"

@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Jose Manuel en portada.
 
-142 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/2ALAGcMDhkZpzbgbQ32l2h)
+144 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/2ALAGcMDhkZpzbgbQ32l2h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 | 2022-07-01 |  |
 | [Confiar En Mi](https://open.spotify.com/track/3wVm1plAjtErQGzWeAsNT4) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Confiar En Mi](https://open.spotify.com/album/07pKI6CF1hD9kTgLGQrNhp) | 4:44 | 2022-07-01 | 2022-08-06 |
 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 | 2022-02-01 |  |
-| [Cuando Se Ama a Una Mujer](https://open.spotify.com/track/0sQYmLOa5trLFpUWbHxpZ9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Cuando Se Ama a Una Mujer](https://open.spotify.com/album/6Hgro2Y0AyPo8NJc9hPxiw) | 3:36 | 2022-06-24 |  |
+| [Cuando Se Ama a Una Mujer](https://open.spotify.com/track/0sQYmLOa5trLFpUWbHxpZ9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Cuando Se Ama a Una Mujer](https://open.spotify.com/album/6Hgro2Y0AyPo8NJc9hPxiw) | 3:36 | 2022-06-24 | 2022-10-25 |
 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 | 2022-04-18 |  |
 | [Cuando Tú Me Miras](https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:35 | 2022-02-01 |  |
 | [De Aquí Para Allá](https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [De Aquí Para Allá](https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q) | 3:36 | 2022-09-23 |  |
@@ -87,7 +87,7 @@
 | [Lo Lindo de Mi Ex](https://open.spotify.com/track/4f0FzBzq8rtqtbiHRQSJl8) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Lo Lindo de Mi Ex](https://open.spotify.com/album/0LQOlTuQnTJWCnWGSaGnFa) | 2:12 | 2022-04-05 |  |
 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 | 2022-06-17 |  |
 | [Lo Que Te Pasa](https://open.spotify.com/track/4Qwx5RaF7EnOMXsY7eXH51) | [Isaac Torres y Su Alianza](https://open.spotify.com/artist/1qnlff2Qvu3aOW5NsRDVkb) | [Lo Que Te Pasa](https://open.spotify.com/album/24rdiWOxJwLyNoX87V0mgI) | 2:54 | 2022-04-22 | 2022-07-29 |
-| [Lo Que Tengo](https://open.spotify.com/track/070GBOfqp5VnGB6ZRMHQro) | [Los De La Zona](https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg) | [Lo Que Tengo](https://open.spotify.com/album/7FwxdmcTfkZkZOGRJcgF9g) | 3:44 | 2022-08-05 |  |
+| [Lo Que Tengo](https://open.spotify.com/track/070GBOfqp5VnGB6ZRMHQro) | [Los De La Zona](https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg) | [Lo Que Tengo](https://open.spotify.com/album/7FwxdmcTfkZkZOGRJcgF9g) | 3:44 | 2022-08-05 | 2022-10-25 |
 | [Maldito Olvido](https://open.spotify.com/track/4A75U7EeJPMcY0e2k0AdRB) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF), [Reflejo Nuevo](https://open.spotify.com/artist/5HOOxSdjMwgdg5jKIzHAU9) | [Maldito Olvido](https://open.spotify.com/album/2FQl8STaVhL0j6ph9zIsPS) | 3:34 | 2022-07-12 |  |
 | [Marcando La Diferencia](https://open.spotify.com/track/1EUPd55xAcY49hU59aJD5N) | [Victor Eme](https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6) | [Marcando La Diferencia](https://open.spotify.com/album/2AFLpxDXYur6ODyh5eSGHa) | 2:59 | 2022-04-18 |  |
 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 | 2022-02-01 |  |
@@ -96,6 +96,7 @@
 | [Mi Todo](https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Mi Todo](https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9) | 4:01 | 2022-02-22 |  |
 | [Miedo](https://open.spotify.com/track/5GEnSZnHLmhqulhSseeBNQ) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Renacer](https://open.spotify.com/album/6DlpxVdn2Pzyu0UISlJDDs) | 3:22 | 2022-07-01 | 2022-09-24 |
 | [Mientras Duermes](https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mientras Duermes](https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j) | 3:07 | 2022-02-25 |  |
+| [Mía Un Año](https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mía Un Año](https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT) | 2:54 | 2022-10-24 |  |
 | [Nieves de Enero](https://open.spotify.com/track/1GxYyP3rMCMtB3e7EWqU3f) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Nieves de Enero](https://open.spotify.com/album/275MAQJMWo7LMUEmwaHtBe) | 4:23 | 2022-06-03 | 2022-09-24 |
 | [No Es Por Acá](https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Es Por Acá](https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k) | 2:47 | 2022-08-05 |  |
 | [No Falta Mas Tiempo](https://open.spotify.com/track/6xmtB0oKuEFvwm7jnGkNdg) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [No Falta Mas Tiempo](https://open.spotify.com/album/26ZmTzkhby5ov3PFa3o5jY) | 2:46 | 2022-07-01 |  |
@@ -143,6 +144,7 @@
 | [Vida Prestada](https://open.spotify.com/track/086IbayM2Ya7pAXx3ojqp6) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Vida Prestada](https://open.spotify.com/album/67XIm7lVT0ZvCxs7YuJYun) | 3:57 | 2022-07-01 |  |
 | [Voy a Mi Paso](https://open.spotify.com/track/75daErwWpFQEjUqIMFEsOY) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0) | [Voy a Mi Paso](https://open.spotify.com/album/7xiQtJCTl2wAOzV3cN8HOk) | 2:58 | 2022-07-01 | 2022-07-27 |
 | [Y Si Se Quiere Ir](https://open.spotify.com/track/2qWX4mvuOfCvGgHAV1sWQO) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Y Si Se Quiere Ir](https://open.spotify.com/album/6o7M6eInloIKefh7YsXEJR) | 3:19 | 2022-02-01 |  |
+| [Y Yo Voy](https://open.spotify.com/track/1ld0TsEKmNTl3FptSEu0dI) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Y Yo Voy](https://open.spotify.com/album/7qnA2gzuQmvSI07ddFCiIu) | 2:57 | 2022-10-24 |  |
 | [Ya acabó \- Con Becky G](https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ya acabó \(Con Becky G\)](https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc) | 2:56 | 2022-05-06 |  |
 | [Ya Está Decidido](https://open.spotify.com/track/13SSMMhu2iI1oDSXwFSaiw) | [Clave 702](https://open.spotify.com/artist/3dBuaGsQYVTgxHkNxBNyL2) | [Ya Está Decidido](https://open.spotify.com/album/6bBvfl8NCNMYCL3vhyIHM4) | 3:57 | 2022-08-05 | 2022-09-24 |
 | [Ya Te Supere \- En Vivo](https://open.spotify.com/track/788e0doWXCkDlnufoDndcy) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Peda en la Banqueta](https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS) | 3:05 | 2021-12-27 |  |

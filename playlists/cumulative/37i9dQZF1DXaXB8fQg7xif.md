@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-791 songs - 1 day 19 hr 47 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
+792 songs - 1 day 19 hr 51 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [Let It Ring](https://open.spotify.com/track/0yY1faDhnUIM9gCbOCqcbi) | [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU), [STV](https://open.spotify.com/artist/0qdXQNv7vUjk3Rgsqfhcil) | [Let It Ring](https://open.spotify.com/album/67dAXzPgqBrt34R0Ona6AI) | 3:02 | 2020-05-22\* | 2021-12-21 |
 | [Let Me Take You](https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Let Me Take You](https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F) | 2:34 | 2022-07-29 |  |
 | [Let Me Think About It \(Celebration Mix\)](https://open.spotify.com/track/2HnbQUKe1joI2tSFuUhqZs) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let Me Think About It \(Celebration Mix\)](https://open.spotify.com/album/10ssKCFicKpOuP05TxLQhc) | 2:32 | 2020-05-22\* | 2022-04-19 |
-| [Let Them Know](https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Let Them Know](https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB) | 2:28 | 2021-12-31 |  |
+| [Let Them Know](https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Let Them Know](https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB) | 2:28 | 2021-12-31 | 2022-10-25 |
 | [Let You Go](https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:54 | 2022-04-01 |  |
 | [Let's Go Dancing](https://open.spotify.com/track/6FMphYgkefCrVXG5Wd8Xep) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [Let's Go Dancing](https://open.spotify.com/album/3xWjUnEDKSEgQ3mAU0yjTF) | 3:50 | 2021-04-19 | 2022-04-18 |
 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 | 2022-04-15 |  |
@@ -645,6 +645,7 @@
 | [Sinner](https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/0r0BHXYjOcX5vviQJbdpaT) | 3:58 | 2022-04-01 | 2022-04-21 |
 | [Slow Down](https://open.spotify.com/track/66HB3QjqHIl9VF4O7ojyEB) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Slow Down](https://open.spotify.com/album/3amvTG1sQqcGwCE1vOsDNg) | 3:11 | 2022-04-01 | 2022-06-23 |
 | [Slow Down \(feat\. Jorja Smith\) \- Vintage Culture & Slow Motion Remix](https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I) | [Slow Down \(feat\. Jorja Smith\) \[Vintage Culture & Slow Motion Remix\]](https://open.spotify.com/album/3AvjrWwSEgfZs0Ic7Srt8b) | 3:01 | 2020-11-03 | 2021-10-13 |
+| [Smack Yo'](https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Smack Yo'](https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm) | 4:05 | 2022-10-07 |  |
 | [So Hot \- MK x Nightlapse Remix](https://open.spotify.com/track/41hcstGzn592p7hyWMfOjv) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [So Hot \(MK x Nightlapse Remix\)](https://open.spotify.com/album/0w3CDtEsEhQtZzOCSeGrLL) | 3:45 | 2020-08-04 | 2021-12-21 |
 | [So Into You](https://open.spotify.com/track/4h5I5Y4HZzLNFveiLyXABZ) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv) | [So Into You](https://open.spotify.com/album/48wX1Mat1ZZE5yhjH5PoC4) | 2:40 | 2020-12-12 | 2021-12-11 |
 | [Soda Pop](https://open.spotify.com/track/1KuYN9iWN7tO7dSxGnxZOc) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Sky Sky](https://open.spotify.com/artist/1qHWLwufRLQk2pVywVbBBp) | [Soda Pop](https://open.spotify.com/album/6Tlma5hptae75mA5jSMWfG) | 2:44 | 2021-12-17 | 2022-07-21 |

@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🪩
 
-270 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
+271 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Coffee Breath](https://open.spotify.com/track/2I9zHCCeKJRKMgJ6UJFN9W) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/7q0mdGYnuhBbn1hb4rNmG4) | 2:43 | 2021-06-08 | 2022-07-29 |
 | [Coffee Stained Smile](https://open.spotify.com/track/3VmuRlPx5dLJEmZcIiY6LQ) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Coffee Stained Smile](https://open.spotify.com/album/3VsVKGZW2klawfXy08IsZm) | 3:00 | 2021-12-10 | 2022-07-28 |
 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 | 2021-12-23 | 2022-07-29 |
-| [Comfort Crowd](https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:54 | 2021-06-08 |  |
+| [Comfort Crowd](https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:54 | 2021-06-08 | 2022-10-25 |
 | [controlla](https://open.spotify.com/track/7woCxOw0jmj65ohlQ3x0tH) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/5tfqUZ5RcSWcYn5mWYQ4PK) | 1:48 | 2021-06-08 | 2022-04-16 |
 | [Corduroy Dreams](https://open.spotify.com/track/02tvc9CFnTyHuSRlGeNv9w) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 3:26 | 2021-06-08 | 2022-10-14 |
 | [Cotton Candy Skies](https://open.spotify.com/track/4yWCiMOk150jbE3NPuhXHu) | [Esthie](https://open.spotify.com/artist/5IrblMK9l8xH7vPTkN8SxR) | [Cotton Candy Skies](https://open.spotify.com/album/10SexaHKbNzujvSr4FItnk) | 2:00 | 2021-06-08 | 2022-04-14 |
@@ -263,6 +263,7 @@
 | [We Can't Be Friends](https://open.spotify.com/track/7ydeKIGuAdxqkp7OsWGZx6) | [Dream Koala](https://open.spotify.com/artist/0tWnElR8nnWIsopg1o3xmg) | [We Can't Be Friends](https://open.spotify.com/album/0vTlDMlYYDOOandvUG5Nq2) | 3:28 | 2021-06-08 | 2022-04-21 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2021-06-08 | 2022-10-13 |
 | [we fell in love in october](https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu) | 3:04 | 2022-09-09 | 2022-10-21 |
+| [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2022-09-09 |  |
 | [What Dreams Are Made Of](https://open.spotify.com/track/4kU3W9CBmw5s7f5R5A8Axt) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [MOJO](https://open.spotify.com/album/1xtL6ok6dwZ473pkdzgUy2) | 4:25 | 2022-02-23 | 2022-07-29 |
 | [Whatever](https://open.spotify.com/track/5P33O56sPwgfqfyEo0iFN4) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [I Used To Think Forever](https://open.spotify.com/album/0M1Ygc3UCvSBitcjWEi1Yo) | 2:20 | 2021-07-23 | 2022-04-18 |
 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 | 2021-08-03 |  |

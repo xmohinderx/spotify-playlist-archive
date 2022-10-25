@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 
 > Summertime sadness everyday
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,731 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,742 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 | 16 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
 | 17 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 |
 | 18 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 |
-| 19 | [Butter](https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 2:44 |
+| 19 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 |
 | 20 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
-| 21 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 |
-| 22 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
-| 23 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 |
+| 21 | [Butter](https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 2:44 |
+| 22 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 |
+| 23 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
 | 24 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 |
-| 25 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
-| 26 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
+| 25 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
+| 26 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
 | 27 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 |
 | 28 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 |
 | 29 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 | 48 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 |
 | 49 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 |
 | 50 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 |
-| 51 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
-| 52 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 |
+| 51 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 |
+| 52 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
 | 53 | [Better](https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2) | 3:49 |
 | 54 | [motive \(with Doja Cat\)](https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:47 |
 | 55 | [Swimming Pools \(Drank\)](https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Swimming Pools \(Drank\)](https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH) | 4:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 | 59 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 |
 | 60 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 |
 
-Snapshot ID: `MTY2MzI1ODk3MiwwMDAwMDAwMDhlZTk2YjVlNGQxZjU4YTM2NGVlYTk2ZDhiNzE2YWE1`
+Snapshot ID: `MTY2MzI1ODk3MiwwMDAwMDAwMGVjZDhlNjBiOTcwNGY3MmNkZjg1YzJhZmY3Mzc3NjM3`

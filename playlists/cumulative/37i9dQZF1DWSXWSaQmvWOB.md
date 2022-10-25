@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-570 songs - 1 day 10 hr 55 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+571 songs - 1 day 10 hr 58 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [I NEED YOU](https://open.spotify.com/track/0Rz33FuYUwWW0pcw2v9gI9) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [I NEED YOU](https://open.spotify.com/album/1m8ZRSrh5k7K7OiIbOwj4T) | 2:37 | 2021-02-01 | 2021-04-17 |
 | [I See Fire](https://open.spotify.com/track/5lwvVpNRG0GsjxwE2cIMZc) | [Paa Kofi](https://open.spotify.com/artist/3wR1dAQNUCIYpjXJJmMNB3) | [I See Fire](https://open.spotify.com/album/4nh6dRVrhAbnrUUpE55mIF) | 3:07 | 2021-01-23 | 2021-04-23 |
 | [I Want You](https://open.spotify.com/track/6yDZ0JtlNLqA9xV7dVkgt0) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [See Me](https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE) | 4:08 | 2021-07-30 | 2022-01-14 |
+| [I Was Wrong](https://open.spotify.com/track/4yoLMdIgClcRvbYcQ1csAw) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [I Was Wrong](https://open.spotify.com/album/6lBhE1J8sZ8e0nfAQ4vy33) | 3:08 | 2022-10-14 |  |
 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 | 2021-07-10 | 2022-09-23 |
 | [I'll Be Your Radio](https://open.spotify.com/track/76f11kO65Ot49WSz0pQ5SQ) | [Jarrod Lawson](https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f), [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Be The Change](https://open.spotify.com/album/2BLdsdbOgGAAdA7JKMQIqx) | 4:25 | 2020-10-30 | 2021-04-23 |
 | [I'LL WAIT FOR YOU.](https://open.spotify.com/track/609yUX7Hb8mTqT68uI78FS) | [Meryn](https://open.spotify.com/artist/4Z4JR0Yr1J5H1eqIX3OJog) | [I'LL WAIT FOR YOU.](https://open.spotify.com/album/49kdLgHK2YVFnIiRSKi6z1) | 4:22 | 2020-04-24 | 2020-06-05 |
@@ -411,7 +412,7 @@
 | [Rise](https://open.spotify.com/track/6ZKs0LHSpN5fA17tA3lqIT) | [Safa Liron](https://open.spotify.com/artist/7DAy6NPOtahk5F2aOgEjZw), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Rise](https://open.spotify.com/album/2mhIpzfMTGU01Owrq3ydin) | 2:38 | 2021-07-31 | 2021-09-24 |
 | [Rise \- A COLORS SHOW](https://open.spotify.com/track/5MDKKxviGiWc0LHg7N5JKL) | [Parker Louis](https://open.spotify.com/artist/5Zo2GpQdYsiYf7YYZCTBSD) | [Rise \- A COLORS SHOW](https://open.spotify.com/album/0RDldqqrBC9ftaa0yAgSB7) | 2:50 | 2020-06-02 | 2021-04-23 |
 | [River](https://open.spotify.com/track/7kQsiMaQD3hveS6ejQNOw8) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [River](https://open.spotify.com/album/27zVikKFB0moOYXJanIOct) | 3:49 | 2022-09-22 |  |
-| [Rolling Back](https://open.spotify.com/track/0UePeoAMCh1Y8lwN5sC122) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Rolling Back](https://open.spotify.com/album/53VP4DNgyffY1BtCs42oEK) | 3:43 | 2022-09-29 |  |
+| [Rolling Back](https://open.spotify.com/track/0UePeoAMCh1Y8lwN5sC122) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Rolling Back](https://open.spotify.com/album/53VP4DNgyffY1BtCs42oEK) | 3:43 | 2022-09-29 | 2022-10-25 |
 | [Rome](https://open.spotify.com/track/4tIQSUOeS5lUt0z9bo7I7H) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Rome](https://open.spotify.com/album/63PWuzq9CUkvVjHTfZXPqe) | 3:47 | 2020-03-25\* | 2020-07-03 |
 | [Royal \(Recall\)](https://open.spotify.com/track/3B6NAE4xPwzeGDMy0yMNY2) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Royal \(Recall\)](https://open.spotify.com/album/6DWmlOGZadzy75IdJ6NOop) | 2:54 | 2021-02-28 | 2021-04-23 |
 | [Royal Cologne](https://open.spotify.com/track/1Ms9FqdbzWzDkv6KSJE10U) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Royal Cologne](https://open.spotify.com/album/4FTJg1p495RegTI5viSwQr) | 3:56 | 2021-07-10 | 2022-07-20 |

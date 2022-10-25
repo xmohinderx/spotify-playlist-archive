@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,256 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,268 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 21 | [Bad Blood](https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:55 |
 | 22 | [Fantasy File](https://open.spotify.com/track/5dSlrUiUVTPDAbH5GE0Gll) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:21 |
 | 23 | [Prisoner](https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:11 |
-| 24 | [Do Not Disturb](https://open.spotify.com/track/5a8eKLK3XvwrkgRXpchNAW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:00 |
+| 24 | [In My Time of Need](https://open.spotify.com/track/4JIGrn55PH4BNnoofFKnYc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 5:38 |
 | 25 | [Shake It Off](https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 4:06 |
-| 26 | [In My Time of Need](https://open.spotify.com/track/4JIGrn55PH4BNnoofFKnYc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 5:38 |
+| 26 | [Do Not Disturb](https://open.spotify.com/track/5a8eKLK3XvwrkgRXpchNAW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:00 |
 | 27 | [Doylestown Girl](https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:54 |
-| 28 | [Fuck The Rain](https://open.spotify.com/track/6QZteBMevNynnZFzCxoG0I) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:33 |
-| 29 | [Hall of Shame](https://open.spotify.com/track/1BdDHMSD1LtJ9fGCMee0D8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:33 |
-| 30 | [All You Had To Do Was Stay](https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 3:30 |
+| 28 | [Hall of Shame](https://open.spotify.com/track/1BdDHMSD1LtJ9fGCMee0D8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:33 |
+| 29 | [All You Had To Do Was Stay](https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 3:30 |
+| 30 | [Fuck The Rain](https://open.spotify.com/track/6QZteBMevNynnZFzCxoG0I) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:33 |
 | 31 | [I Can't Remember](https://open.spotify.com/track/23gqNeMwhNIDeO7ZJhe7ab) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:11 |
 | 32 | [So Alive](https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 3:58 |
 | 33 | [When She Smiles](https://open.spotify.com/track/5W7x9V7Jh2Wd4rXZfqvltN) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:41 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 43 | [Haunted House](https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 2:42 |
 | 44 | [Firecracker](https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 2:51 |
 | 45 | [English Girls Approximately](https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:40 |
-| 46 | [Romeo & Juliet](https://open.spotify.com/track/73jnBpdPr7JcvXrRgRuN19) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:42 |
-| 47 | [Chin Up, Cheer Up](https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:58 |
+| 46 | [Chin Up, Cheer Up](https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:58 |
+| 47 | [Romeo & Juliet](https://open.spotify.com/track/73jnBpdPr7JcvXrRgRuN19) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:42 |
 | 48 | [Oh My God, Whatever, Etc.](https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:31 |
 | 49 | [The Rescue Blues](https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:38 |
-| 50 | [Run](https://open.spotify.com/track/3Tsa7IQlaD0WDGMEE4DaCD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:37 |
+| 50 | [Style](https://open.spotify.com/track/4HRcQ151h3D8lZFvDMgObi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 2:44 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDAwZWY3YWY5ZWYzMThkNmI3ZDE2Y2U5Yzc5ZmNkNzIzNg==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDA3NzFhZjVhMDU0ZTliY2MyZThmYTczM2Q1ZDJhZTQyZA==`

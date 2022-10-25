@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Knuckle Puck
 
-832 songs - 1 day 20 hr 28 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+833 songs - 1 day 20 hr 31 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Birdcage](https://open.spotify.com/track/2dU8wkeyvbMUUM3mwun5IX) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Birdcage](https://open.spotify.com/album/0O5hPKodswyqouT4iSH9ae) | 3:23 | 2021-12-10 | 2022-06-25 |
 | [Bitter](https://open.spotify.com/track/4GOQLGfeCednzst9gy1M7S) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Bitter](https://open.spotify.com/album/4Up0H6lEZYeooXEQJzhe63) | 3:11 | 2021-12-10 | 2022-06-25 |
 | [Black Confetti](https://open.spotify.com/track/0WaTwKJGHKJQ6Tv9e2rSGk) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Black Confetti](https://open.spotify.com/album/4OzfmOuozt9Rlosxrtktzi) | 2:53 | 2022-05-20 | 2022-08-03 |
+| [Blistered World](https://open.spotify.com/track/5qGZW9TilPRhXIYDB1amjE) | [Plasma Canvas](https://open.spotify.com/artist/6bhi8CRvRAb6FxLk2zaMGQ) | [Blistered World](https://open.spotify.com/album/70mjHoRyTAkG4RcXi265ku) | 3:05 | 2022-10-25 |  |
 | [Bloodhound for Oblivion](https://open.spotify.com/track/5NDKH3pjVtgiXt5PgjeONS) | [Relic Hearts](https://open.spotify.com/artist/1gmrjw85YvHI6jrbFkoN3n) | [Volatile](https://open.spotify.com/album/4j6sM622OZ4QUUm3ybI6zL) | 3:11 | 2022-03-25 | 2022-04-19 |
 | [Bloody Nose](https://open.spotify.com/track/0mG20jgAJkaFEMZoWm0mOU) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [breathe](https://open.spotify.com/album/2F2RkJb7kGZitRS6C8O2XT) | 2:48 | 2022-03-25 | 2022-06-21 |
 | [bloody valentine](https://open.spotify.com/track/1bWEngw5tAF7vWByrf5Oy5) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [bloody valentine](https://open.spotify.com/album/268JRqKvCGhDrbqH74sDFz) | 3:25 | 2021-12-10 | 2022-05-20 |
@@ -254,7 +255,7 @@
 | [Featuring Mark Hoppus](https://open.spotify.com/track/1r6RgVsrQ6ccNnjrn8tb6c) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Featuring Mark Hoppus](https://open.spotify.com/album/2hwaTAYA0HjFGYqWXUNVdb) | 2:53 | 2021-12-10 | 2022-07-29 |
 | [Featuring Mark Hoppus](https://open.spotify.com/track/41hMYBgv6teOnu64kn4Ylb) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [I Won’t Reach Out to You](https://open.spotify.com/album/5xSwJaRKEx137KQmidxkw6) | 2:53 | 2022-07-08 |  |
 | [Feel A Thing](https://open.spotify.com/track/2KXudYjDXkUbbLzN5VXT7N) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Feel A Thing](https://open.spotify.com/album/5JcDvYT7w6o6Mz9Yv7aVFw) | 3:26 | 2021-12-10 | 2022-07-29 |
-| [Feel Something](https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [Feel Something](https://open.spotify.com/album/6PsHXh69M2FYNf9inMrra5) | 3:00 | 2022-05-20 |  |
+| [Feel Something](https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [Feel Something](https://open.spotify.com/album/6PsHXh69M2FYNf9inMrra5) | 3:00 | 2022-05-20 | 2022-10-25 |
 | [Fentanyl](https://open.spotify.com/track/6mj0AwKCkLXDUIIHJx40La) | [Miss Fortune](https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l) | [Fentanyl](https://open.spotify.com/album/5YaSEkuyUZtNci5ScygwTz) | 3:45 | 2021-12-10 | 2022-07-28 |
 | [Fight It](https://open.spotify.com/track/4zYdOhICwdBYkSTG2W4v6p) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Elijah Midjord](https://open.spotify.com/artist/1bCclRGmTIDEfKmcW0bv95) | [Fight It](https://open.spotify.com/album/6SUG8ZmGOHJ6wYSsLpzYde) | 2:20 | 2021-12-10 | 2022-07-28 |
 | [Figure Eight](https://open.spotify.com/track/4JbNlNqFMVs1vBOFAutXcK) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Figure Eight](https://open.spotify.com/album/0eU9qAlZt7kIEZnonBtixO) | 3:21 | 2021-12-10 | 2022-07-29 |

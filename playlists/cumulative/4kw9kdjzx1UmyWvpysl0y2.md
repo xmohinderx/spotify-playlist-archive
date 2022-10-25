@@ -4,12 +4,13 @@
 
 > Brand new music from Monstercat, all in one place.
 
-294 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+295 songs - 17 hr 15 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1975](https://open.spotify.com/track/5bQqkBDFptj1oNKoVDVsGI) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Paranoid Optimist](https://open.spotify.com/album/2XuM7DMo1S8BueOOxBuiYl) | 2:11 | 2022-05-06 | 2022-07-19 |
 | [2hard2letgo](https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo](https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp) | 3:46 | 2022-06-07 | 2022-08-20 |
+| [2Nite](https://open.spotify.com/track/6Jw4guwTyYoV8bsMhK1mTG) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [2Nite](https://open.spotify.com/album/6UnSBFydjgagyhNaN2JJ1o) | 3:47 | 2022-10-24 |  |
 | [505](https://open.spotify.com/track/3KHdPiJC74XETgP6lCce3S) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN), [Guilt Chip](https://open.spotify.com/artist/1PWCOmvvW8kVMRvPDyLC2P) | [505](https://open.spotify.com/album/7o2wHfozPCR2KuIWE6q4at) | 3:00 | 2022-05-30 | 2022-08-11 |
 | [A Cookie From Space](https://open.spotify.com/track/7q2h3i7mn0mpO847Yo4rUC) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bliss](https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk) | [A Cookie From Space](https://open.spotify.com/album/1QbTncSh1e7wfVvJXLEX4G) | 10:19 | 2022-07-07 | 2022-09-17 |
 | [A Moment Apart](https://open.spotify.com/track/4GWnEGVm89z7WSQ3BEuAN0) | [Matrx](https://open.spotify.com/artist/3UWM8Rb3JjZegw71LpCT6M) | [A Moment Apart](https://open.spotify.com/album/6tRgBvbPBZXCOaTPtv1Juz) | 3:34 | 2021-11-19 | 2022-02-19 |
@@ -125,7 +126,7 @@
 | [Hate U/Miss U](https://open.spotify.com/track/0RX7vFXvhylgh1xoPAjmPL) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Lani Daye](https://open.spotify.com/artist/1fYnA1IkOOJ3mtWl02xKk3) | [Hate U/Miss U](https://open.spotify.com/album/1cLVwfsFCR0tqndu3YaNEO) | 2:25 | 2022-03-08 | 2022-05-20 |
 | [Haze](https://open.spotify.com/track/4VjALfCVxHTUB1Te6FEWUY) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Haze](https://open.spotify.com/album/4UF3ppHDuxCNrupmlGx9gZ) | 4:36 | 2022-09-28 |  |
 | [Heartbeat](https://open.spotify.com/track/26g9KhoTTaEG4IM1uTkwZ4) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Heartbeat](https://open.spotify.com/album/5ZP5RXBdCFckiXwXN6tWp8) | 3:13 | 2022-08-30 |  |
-| [Here For Now](https://open.spotify.com/track/4cU8YjbtwlAFBlPlKBaJ8W) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Here For Now](https://open.spotify.com/album/2imHKzs8s94B6vGL0DTtlf) | 3:49 | 2022-08-11 |  |
+| [Here For Now](https://open.spotify.com/track/4cU8YjbtwlAFBlPlKBaJ8W) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Here For Now](https://open.spotify.com/album/2imHKzs8s94B6vGL0DTtlf) | 3:49 | 2022-08-11 | 2022-10-25 |
 | [Higher Peaks](https://open.spotify.com/track/1PpLf7d6YnJ4SyjqmXR5VG) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Higher Peaks](https://open.spotify.com/album/0jGDUCzOBcximXf2HnHfuv) | 5:07 | 2022-06-10 | 2022-08-23 |
 | [Hold Up](https://open.spotify.com/track/2Q0zaBd4u0mwEd7KNppKEf) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Hold Up](https://open.spotify.com/album/0EHxZE2tTIlOXkWuUSpXXJ) | 2:59 | 2022-01-28 | 2022-04-13 |
 | [Hope](https://open.spotify.com/track/1a0SYFyOM3Vr1EEm77W2k5) | [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Hope](https://open.spotify.com/album/4orkNzqYfSdlJYDBjCC4kT) | 3:20 | 2022-08-10 | 2022-10-21 |

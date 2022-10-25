@@ -2446,6 +2446,24 @@
     },
     {
       "album": {
+        "name": "Gold Shadow",
+        "url": "https://open.spotify.com/album/3ONqRU4a6LR16GJ80ld0Gz"
+      },
+      "artists": [
+        {
+          "name": "Asaf Avidan",
+          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156993,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt"
+    },
+    {
+      "album": {
         "name": "Half Mile Harvest",
         "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
       },
@@ -2565,7 +2583,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 233356,
       "name": "Place Names",
       "url": "https://open.spotify.com/track/7g43lO9P1diIwalJSdAhDx"

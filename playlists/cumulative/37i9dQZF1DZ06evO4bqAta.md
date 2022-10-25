@@ -4,7 +4,7 @@
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-64 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/153GK6uVRuhJewKLGkWHlb)
+65 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/153GK6uVRuhJewKLGkWHlb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [All the Tired Horses](https://open.spotify.com/track/4nBjbqj7nKd7Rsa7HJ3VtX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Self Portrait](https://open.spotify.com/album/3bXEPGWxOplvbLwyasRSW3) | 3:13 | 2022-09-29 | 2022-10-08 |
 | [Autumn Leaves](https://open.spotify.com/track/3tKCYhzgnMEExDtetcZknP) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Shadows in the Night](https://open.spotify.com/album/2mVpSZrllFAWhOgCoyz8ow) | 2:58 | 2022-09-24 | 2022-10-13 |
 | [Ballad of a Thin Man](https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 5:56 | 2022-09-24 |  |
-| [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:45 | 2022-09-24 |  |
+| [Black Rider](https://open.spotify.com/track/2PqGXNc6kQp4iDRpi6SF5U) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 4:12 | 2022-10-24 |  |
+| [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:45 | 2022-09-24 | 2022-10-25 |
 | [Boots of Spanish Leather](https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 4:37 | 2022-09-24 |  |
 | [Buckets of Rain](https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 3:23 | 2022-09-24 |  |
 | [Changing of the Guards](https://open.spotify.com/track/2vVpjZxlSiqR5wr2YeZPB2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Street\-Legal](https://open.spotify.com/album/0bd6oCsp5JoJ5erpMzHu1U) | 6:37 | 2022-09-24 |  |
@@ -46,7 +47,7 @@
 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 | 2022-09-24 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/6rfGPGghQL7SJmZPXprXIc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Time Out Of Mind](https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt) | 3:31 | 2022-09-24 |  |
 | [Man in the Long Black Coat](https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 4:33 | 2022-09-25 |  |
-| [Masters of War](https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 4:31 | 2022-09-24 |  |
+| [Masters of War](https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 4:31 | 2022-09-24 | 2022-10-25 |
 | [Meet Me in the Morning](https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:18 | 2022-09-24 |  |
 | [Most of the Time](https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 5:04 | 2022-09-24 |  |
 | [Mr\. Tambourine Man](https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 5:30 | 2022-09-24 |  |
@@ -63,7 +64,7 @@
 | [She Belongs to Me](https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:46 | 2022-09-24 |  |
 | [Shelter from the Storm](https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:01 | 2022-09-24 |  |
 | [Simple Twist of Fate](https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:16 | 2022-09-24 |  |
-| [Song to Woody](https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan](https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K) | 2:40 | 2022-09-25 | 2022-10-24 |
+| [Song to Woody](https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan](https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K) | 2:40 | 2022-09-25 |  |
 | [Stuck Inside of Mobile with the Memphis Blues Again](https://open.spotify.com/track/1NYTj6JEw3IOh4ggiBh82h) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 7:03 | 2022-09-24 |  |
 | [Subterranean Homesick Blues](https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:21 | 2022-09-24 |  |
 | [Tangled up in Blue](https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:41 | 2022-09-24 |  |

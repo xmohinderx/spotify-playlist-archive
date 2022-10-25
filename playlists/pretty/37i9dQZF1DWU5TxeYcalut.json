@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Letieres Leite, Orkestra Rumpilezz, Caetano Veloso",
-  "num_followers": 145050,
+  "num_followers": 145094,
   "original_name": "Jazz Brasileiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTI2MCwwMDAwMDAwMDM5ODdmODRjOTllY2RkMzhiYTFlNjdlODFmZDE2ZmI2",
+  "snapshot_id": "MTY1NzI0OTI2MCwwMDAwMDAwMGI0ODk5Zjc1NjMxNmI0MWExYWFkOTYyOWZjYWRiOGUw",
   "tracks": [
     {
       "added_at": "2022-07-08 03:01:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
+        "name": "Dindi",
+        "url": "https://open.spotify.com/album/0CdeJdevVTntUkuwLBRoYH"
+      },
+      "artists": [
+        {
+          "name": "Andrea Rodeguero",
+          "url": "https://open.spotify.com/artist/1L6sdSmaA8PkSO3Qgz86Gg"
+        }
+      ],
+      "duration_ms": 271569,
+      "name": "Dindi",
+      "url": "https://open.spotify.com/track/1MSJDpRYmt0ZVcfTUVYHjb"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
         "name": "Afro+sambas",
         "url": "https://open.spotify.com/album/2E4n2bzp40z1akpP3EmRZA"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 296346,
       "name": "Caxanga",
       "url": "https://open.spotify.com/track/00zXlQzPHRh1rwq7v2CvC5"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Dindi",
-        "url": "https://open.spotify.com/album/0CdeJdevVTntUkuwLBRoYH"
-      },
-      "artists": [
-        {
-          "name": "Andrea Rodeguero",
-          "url": "https://open.spotify.com/artist/1L6sdSmaA8PkSO3Qgz86Gg"
-        }
-      ],
-      "duration_ms": 271569,
-      "name": "Dindi",
-      "url": "https://open.spotify.com/track/1MSJDpRYmt0ZVcfTUVYHjb"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -643,30 +643,26 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Rodopio",
-        "url": "https://open.spotify.com/album/7vffZYl4azgpaoYc4KIE1E"
+        "name": "Caminantes",
+        "url": "https://open.spotify.com/album/4WRn0U1uiC5rjYpAKZXkc3"
       },
       "artists": [
         {
-          "name": "Dani Gurgel",
-          "url": "https://open.spotify.com/artist/2j5N97IBFhpmtZ7n7qTLZw"
+          "name": "Yamandu Costa",
+          "url": "https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV"
         },
         {
-          "name": "Debora Gurgel",
-          "url": "https://open.spotify.com/artist/4yMK2n4V4BuobNJfW6agFT"
+          "name": "Martin Sued",
+          "url": "https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI"
         },
         {
-          "name": "Thiago Rabello",
-          "url": "https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB"
-        },
-        {
-          "name": "Sidiel Vieira",
-          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
+          "name": "Luis Guerreiro",
+          "url": "https://open.spotify.com/artist/4c2pFClxxIDe4fLaRdnoEb"
         }
       ],
-      "duration_ms": 225573,
-      "name": "Rodopio",
-      "url": "https://open.spotify.com/track/2V9L1lqYBZH3HAr5pCIimi"
+      "duration_ms": 211000,
+      "name": "Caminantes",
+      "url": "https://open.spotify.com/track/4jVsgg9KLBQvLiYCvcLFDj"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -691,6 +687,34 @@
       "duration_ms": 359869,
       "name": "Rala Coxa",
       "url": "https://open.spotify.com/track/1nfItvLmyX2YO2q0D6E6Jq"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Rodopio",
+        "url": "https://open.spotify.com/album/7vffZYl4azgpaoYc4KIE1E"
+      },
+      "artists": [
+        {
+          "name": "Dani Gurgel",
+          "url": "https://open.spotify.com/artist/2j5N97IBFhpmtZ7n7qTLZw"
+        },
+        {
+          "name": "Debora Gurgel",
+          "url": "https://open.spotify.com/artist/4yMK2n4V4BuobNJfW6agFT"
+        },
+        {
+          "name": "Thiago Rabello",
+          "url": "https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB"
+        },
+        {
+          "name": "Sidiel Vieira",
+          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
+        }
+      ],
+      "duration_ms": 225573,
+      "name": "Rodopio",
+      "url": "https://open.spotify.com/track/2V9L1lqYBZH3HAr5pCIimi"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -787,38 +811,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Palavra Alada 1",
-        "url": "https://open.spotify.com/album/7k4B1RcDhKchDEBccyEuc0"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Lessa",
-          "url": "https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG"
-        },
-        {
-          "name": "Antonio Guerra",
-          "url": "https://open.spotify.com/artist/4Imrv92w23I0R2Balg2jfe"
-        },
-        {
-          "name": "Eduardo Neves",
-          "url": "https://open.spotify.com/artist/0LDFteo60bsWrBUrVGEoBO"
-        },
-        {
-          "name": "Guto Wirtti",
-          "url": "https://open.spotify.com/artist/6G67mNrm0BRXVgdOOMk5nV"
-        },
-        {
-          "name": "Xande Figueiredo",
-          "url": "https://open.spotify.com/artist/5llL3DKCM5TNEkDe0uvSoT"
-        }
-      ],
-      "duration_ms": 143943,
-      "name": "Mouro Blues, Pt. 1",
-      "url": "https://open.spotify.com/track/29HSB9GpZipH9NplXpL2DR"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Sobrevoo",
         "url": "https://open.spotify.com/album/2Z5ifSnsQqzCJgamuzU8xo"
       },
@@ -855,58 +847,62 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Danae",
-        "url": "https://open.spotify.com/album/3Phq9Nnokd3nQZDs58U1BM"
+        "name": "Tutu",
+        "url": "https://open.spotify.com/album/5tkAxQfIAESg769YqmhD9E"
       },
       "artists": [
         {
-          "name": "Beto Braga",
-          "url": "https://open.spotify.com/artist/3WTydG1gUdND4uShUQAB5h"
+          "name": "Ramiro Pinheiro",
+          "url": "https://open.spotify.com/artist/3OXQ3e6cnm6HYisXCRpPRV"
         },
         {
-          "name": "Ro Fonseca",
-          "url": "https://open.spotify.com/artist/5LB9eJ1uC0ISpUVlSDZ97f"
+          "name": "Nicolas Correa",
+          "url": "https://open.spotify.com/artist/02nidPTL0cY85yB3Ojlcer"
         },
         {
-          "name": "Sidiel Vieira",
-          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
+          "name": "Pablo Gim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0yFBbk3AXlFjyooa8aBb3b"
         },
         {
-          "name": "Ricardo Mosca",
-          "url": "https://open.spotify.com/artist/6IZo3cI3wA5SAWjiGtq28e"
-        },
-        {
-          "name": "Salom\u00e3o Soares",
-          "url": "https://open.spotify.com/artist/40XnTnhTeDygOCDiVSMdBL"
+          "name": "Rodrigo Balduino",
+          "url": "https://open.spotify.com/artist/4b4AdGBWHhVXtIIaRKY0eh"
         }
       ],
-      "duration_ms": 378053,
-      "name": "Peixe Pequeno",
-      "url": "https://open.spotify.com/track/4q8s1hfmPsDlSJGaIQzOlJ"
+      "duration_ms": 229213,
+      "name": "Tutu",
+      "url": "https://open.spotify.com/track/4DeBe2DKjYutgq1upkkRlL"
     },
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Caminantes",
-        "url": "https://open.spotify.com/album/4WRn0U1uiC5rjYpAKZXkc3"
+        "name": "Palavra Alada 1",
+        "url": "https://open.spotify.com/album/7k4B1RcDhKchDEBccyEuc0"
       },
       "artists": [
         {
-          "name": "Yamandu Costa",
-          "url": "https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV"
+          "name": "Rodrigo Lessa",
+          "url": "https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG"
         },
         {
-          "name": "Martin Sued",
-          "url": "https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI"
+          "name": "Antonio Guerra",
+          "url": "https://open.spotify.com/artist/4Imrv92w23I0R2Balg2jfe"
         },
         {
-          "name": "Luis Guerreiro",
-          "url": "https://open.spotify.com/artist/4c2pFClxxIDe4fLaRdnoEb"
+          "name": "Eduardo Neves",
+          "url": "https://open.spotify.com/artist/0LDFteo60bsWrBUrVGEoBO"
+        },
+        {
+          "name": "Guto Wirtti",
+          "url": "https://open.spotify.com/artist/6G67mNrm0BRXVgdOOMk5nV"
+        },
+        {
+          "name": "Xande Figueiredo",
+          "url": "https://open.spotify.com/artist/5llL3DKCM5TNEkDe0uvSoT"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Caminantes",
-      "url": "https://open.spotify.com/track/4jVsgg9KLBQvLiYCvcLFDj"
+      "duration_ms": 143943,
+      "name": "Mouro Blues, Pt. 1",
+      "url": "https://open.spotify.com/track/29HSB9GpZipH9NplXpL2DR"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -947,30 +943,34 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Tutu",
-        "url": "https://open.spotify.com/album/5tkAxQfIAESg769YqmhD9E"
+        "name": "Danae",
+        "url": "https://open.spotify.com/album/3Phq9Nnokd3nQZDs58U1BM"
       },
       "artists": [
         {
-          "name": "Ramiro Pinheiro",
-          "url": "https://open.spotify.com/artist/3OXQ3e6cnm6HYisXCRpPRV"
+          "name": "Beto Braga",
+          "url": "https://open.spotify.com/artist/3WTydG1gUdND4uShUQAB5h"
         },
         {
-          "name": "Nicolas Correa",
-          "url": "https://open.spotify.com/artist/02nidPTL0cY85yB3Ojlcer"
+          "name": "Ro Fonseca",
+          "url": "https://open.spotify.com/artist/5LB9eJ1uC0ISpUVlSDZ97f"
         },
         {
-          "name": "Pablo Gim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0yFBbk3AXlFjyooa8aBb3b"
+          "name": "Sidiel Vieira",
+          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
         },
         {
-          "name": "Rodrigo Balduino",
-          "url": "https://open.spotify.com/artist/4b4AdGBWHhVXtIIaRKY0eh"
+          "name": "Ricardo Mosca",
+          "url": "https://open.spotify.com/artist/6IZo3cI3wA5SAWjiGtq28e"
+        },
+        {
+          "name": "Salom\u00e3o Soares",
+          "url": "https://open.spotify.com/artist/40XnTnhTeDygOCDiVSMdBL"
         }
       ],
-      "duration_ms": 229213,
-      "name": "Tutu",
-      "url": "https://open.spotify.com/track/4DeBe2DKjYutgq1upkkRlL"
+      "duration_ms": 378053,
+      "name": "Peixe Pequeno",
+      "url": "https://open.spotify.com/track/4q8s1hfmPsDlSJGaIQzOlJ"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1027,6 +1027,54 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
+        "name": "Mano a Mano Trio Toca Jo\u00e3o Bosco",
+        "url": "https://open.spotify.com/album/61W48IvRqMEkSGTmg6KbWP"
+      },
+      "artists": [
+        {
+          "name": "Mano a Mano Trio",
+          "url": "https://open.spotify.com/artist/13q3nLjAg1Nn29qsdqa8CI"
+        }
+      ],
+      "duration_ms": 244074,
+      "name": "Cobra Criada",
+      "url": "https://open.spotify.com/track/2w8B70jJCeITnYLDPaQiJh"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "In The Still Of The Night",
+        "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 289434,
+      "name": "In The Still Of The Night",
+      "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/3qDkfJRfLXWr0Swgvbj1cl"
+      },
+      "artists": [
+        {
+          "name": "Heitor Vallim",
+          "url": "https://open.spotify.com/artist/4C1BoCnzollGndaOX1S3kR"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "La Setenta",
+      "url": "https://open.spotify.com/track/43azAoVJSP6G4x5j0QiW5F"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
         "name": "Palavra Alada 2",
         "url": "https://open.spotify.com/album/3smdnNbcdc4c9QXb5HQDPw"
       },
@@ -1055,50 +1103,26 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Mano a Mano Trio Toca Jo\u00e3o Bosco",
-        "url": "https://open.spotify.com/album/61W48IvRqMEkSGTmg6KbWP"
+        "name": "M\u00fasica Disfar\u00e7ada de Gente",
+        "url": "https://open.spotify.com/album/7E0MGmfOTV3l0UOSnYib5r"
       },
       "artists": [
         {
-          "name": "Mano a Mano Trio",
-          "url": "https://open.spotify.com/artist/13q3nLjAg1Nn29qsdqa8CI"
-        }
-      ],
-      "duration_ms": 244074,
-      "name": "Cobra Criada",
-      "url": "https://open.spotify.com/track/2w8B70jJCeITnYLDPaQiJh"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/3qDkfJRfLXWr0Swgvbj1cl"
-      },
-      "artists": [
+          "name": "GUANDUO",
+          "url": "https://open.spotify.com/artist/00MF73V9qT6c5DkFyTgI12"
+        },
         {
-          "name": "Heitor Vallim",
-          "url": "https://open.spotify.com/artist/4C1BoCnzollGndaOX1S3kR"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "La Setenta",
-      "url": "https://open.spotify.com/track/43azAoVJSP6G4x5j0QiW5F"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Chico Macedo 4teto",
-        "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
-      },
-      "artists": [
+          "name": "Pedro Franco",
+          "url": "https://open.spotify.com/artist/4F1Nh4ePuhI8bNvmS8z7nc"
+        },
         {
-          "name": "Chico Macedo",
-          "url": "https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt"
+          "name": "M\u00e1rcio Bahia",
+          "url": "https://open.spotify.com/artist/459tuZRjLSRk5TqSKlEGEw"
         }
       ],
-      "duration_ms": 304880,
-      "name": "Sampa",
-      "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
+      "duration_ms": 313880,
+      "name": "Francamente",
+      "url": "https://open.spotify.com/track/07eg0ksM1tEVextuGzUfd8"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1139,22 +1163,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "In The Still Of The Night",
-        "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 289434,
-      "name": "In The Still Of The Night",
-      "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Um Dia de Sol",
         "url": "https://open.spotify.com/album/7pM76uWwQpiFLtnAnFMTHt"
       },
@@ -1167,6 +1175,22 @@
       "duration_ms": 231666,
       "name": "Um Dia de Sol",
       "url": "https://open.spotify.com/track/7JLWHxhfQCcKrLp36egd0C"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Chico Macedo 4teto",
+        "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
+      },
+      "artists": [
+        {
+          "name": "Chico Macedo",
+          "url": "https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "Sampa",
+      "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1215,30 +1239,6 @@
       "duration_ms": 202026,
       "name": "Costa da Mina",
       "url": "https://open.spotify.com/track/6jYmO2yig7sEPtIFPsAVTM"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "M\u00fasica Disfar\u00e7ada de Gente",
-        "url": "https://open.spotify.com/album/7E0MGmfOTV3l0UOSnYib5r"
-      },
-      "artists": [
-        {
-          "name": "GUANDUO",
-          "url": "https://open.spotify.com/artist/00MF73V9qT6c5DkFyTgI12"
-        },
-        {
-          "name": "Pedro Franco",
-          "url": "https://open.spotify.com/artist/4F1Nh4ePuhI8bNvmS8z7nc"
-        },
-        {
-          "name": "M\u00e1rcio Bahia",
-          "url": "https://open.spotify.com/artist/459tuZRjLSRk5TqSKlEGEw"
-        }
-      ],
-      "duration_ms": 313880,
-      "name": "Francamente",
-      "url": "https://open.spotify.com/track/07eg0ksM1tEVextuGzUfd8"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1303,6 +1303,58 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
+        "name": "Amilton Godoy 80 Anos",
+        "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
+      },
+      "artists": [
+        {
+          "name": "Amilton Godoy",
+          "url": "https://open.spotify.com/artist/6eBb2VD12O0Xk5WlNwP7YF"
+        },
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+        },
+        {
+          "name": "Sidiel Vieira",
+          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
+        }
+      ],
+      "duration_ms": 166933,
+      "name": "Ponteio 49",
+      "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "MOA",
+        "url": "https://open.spotify.com/album/2qIm0HQn8TwvYzy4jReHDz"
+      },
+      "artists": [
+        {
+          "name": "\u00c1gar-\u00c1gar TRIO",
+          "url": "https://open.spotify.com/artist/54OZDPo1qOuCCXlDpdjB6O"
+        },
+        {
+          "name": "Lucas Brogiolo",
+          "url": "https://open.spotify.com/artist/1d9qwScL2GQ8LDb2XwJFwc"
+        },
+        {
+          "name": "Jussan Cluxnei",
+          "url": "https://open.spotify.com/artist/3s3InuUpVj7AqDzsA83a05"
+        },
+        {
+          "name": "Lucas Bonetti",
+          "url": "https://open.spotify.com/artist/5giBwOhPlNTS6qWktS2sgK"
+        }
+      ],
+      "duration_ms": 259320,
+      "name": "Sete Coisas",
+      "url": "https://open.spotify.com/track/0lOxv2511HsJZZZZgnkUye"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
         "name": "Someone To Watch Over Me (Meet Tetel)",
         "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
       },
@@ -1339,66 +1391,26 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Posl\u00fadio",
-        "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
+        "name": "Choro Universal",
+        "url": "https://open.spotify.com/album/4trFnHIZG5awOetJXeqAKU"
       },
       "artists": [
         {
-          "name": "Henrique Mota",
-          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
+          "name": "Andre Marques",
+          "url": "https://open.spotify.com/artist/7ekmKn4Qnzao93UDyr2DPr"
         },
         {
-          "name": "Neto de Souza",
-          "url": "https://open.spotify.com/artist/0a6qVGT9VyXhdvxHJUysc0"
+          "name": "Marcel Bottaro",
+          "url": "https://open.spotify.com/artist/1aPBR2PKGmJc3j9nCl7pzJ"
         },
         {
-          "name": "Ivan Lopes",
-          "url": "https://open.spotify.com/artist/7jaiNUOrQ3EI1jgqPzhAol"
+          "name": "Rodrigo Dig\u00e3o Braz",
+          "url": "https://open.spotify.com/artist/1D0xkaglbjoTUhcvYAAXRn"
         }
       ],
-      "duration_ms": 451777,
-      "name": "Posl\u00fadio",
-      "url": "https://open.spotify.com/track/6az1hCHoNmfyx5RjfNqiY2"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Amilton Godoy 80 Anos",
-        "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
-      },
-      "artists": [
-        {
-          "name": "Amilton Godoy",
-          "url": "https://open.spotify.com/artist/6eBb2VD12O0Xk5WlNwP7YF"
-        },
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
-        },
-        {
-          "name": "Sidiel Vieira",
-          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
-        }
-      ],
-      "duration_ms": 166933,
-      "name": "Ponteio 49",
-      "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Can\u00e7\u00e3o da Odalisca",
-        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
-      },
-      "artists": [
-        {
-          "name": "Caetano Brasil",
-          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
-        }
-      ],
-      "duration_ms": 365120,
-      "name": "Can\u00e7\u00e3o da Odalisca",
-      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
+      "duration_ms": 473410,
+      "name": "BH",
+      "url": "https://open.spotify.com/track/0DAZbzl6FHufvWxFy73GwY"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1431,30 +1443,42 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "MOA",
-        "url": "https://open.spotify.com/album/2qIm0HQn8TwvYzy4jReHDz"
+        "name": "Posl\u00fadio",
+        "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
       },
       "artists": [
         {
-          "name": "\u00c1gar-\u00c1gar TRIO",
-          "url": "https://open.spotify.com/artist/54OZDPo1qOuCCXlDpdjB6O"
+          "name": "Henrique Mota",
+          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
         },
         {
-          "name": "Lucas Brogiolo",
-          "url": "https://open.spotify.com/artist/1d9qwScL2GQ8LDb2XwJFwc"
+          "name": "Neto de Souza",
+          "url": "https://open.spotify.com/artist/0a6qVGT9VyXhdvxHJUysc0"
         },
         {
-          "name": "Jussan Cluxnei",
-          "url": "https://open.spotify.com/artist/3s3InuUpVj7AqDzsA83a05"
-        },
-        {
-          "name": "Lucas Bonetti",
-          "url": "https://open.spotify.com/artist/5giBwOhPlNTS6qWktS2sgK"
+          "name": "Ivan Lopes",
+          "url": "https://open.spotify.com/artist/7jaiNUOrQ3EI1jgqPzhAol"
         }
       ],
-      "duration_ms": 259320,
-      "name": "Sete Coisas",
-      "url": "https://open.spotify.com/track/0lOxv2511HsJZZZZgnkUye"
+      "duration_ms": 451777,
+      "name": "Posl\u00fadio",
+      "url": "https://open.spotify.com/track/6az1hCHoNmfyx5RjfNqiY2"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Can\u00e7\u00e3o da Odalisca",
+        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
+      },
+      "artists": [
+        {
+          "name": "Caetano Brasil",
+          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
+        }
+      ],
+      "duration_ms": 365120,
+      "name": "Can\u00e7\u00e3o da Odalisca",
+      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1471,50 +1495,6 @@
       "duration_ms": 183106,
       "name": "Coisa No. 10",
       "url": "https://open.spotify.com/track/7HqQRraGY6iHIjgxwFdjaA"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Choro Universal",
-        "url": "https://open.spotify.com/album/4trFnHIZG5awOetJXeqAKU"
-      },
-      "artists": [
-        {
-          "name": "Andre Marques",
-          "url": "https://open.spotify.com/artist/7ekmKn4Qnzao93UDyr2DPr"
-        },
-        {
-          "name": "Marcel Bottaro",
-          "url": "https://open.spotify.com/artist/1aPBR2PKGmJc3j9nCl7pzJ"
-        },
-        {
-          "name": "Rodrigo Dig\u00e3o Braz",
-          "url": "https://open.spotify.com/artist/1D0xkaglbjoTUhcvYAAXRn"
-        }
-      ],
-      "duration_ms": 473410,
-      "name": "BH",
-      "url": "https://open.spotify.com/track/0DAZbzl6FHufvWxFy73GwY"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Clim\u00e3o",
-        "url": "https://open.spotify.com/album/45j1UtPcqzwclLJlZcFjBm"
-      },
-      "artists": [
-        {
-          "name": "RP Project",
-          "url": "https://open.spotify.com/artist/2G96dMRTHqkjyMbCO9htbY"
-        },
-        {
-          "name": "Walmir Gil",
-          "url": "https://open.spotify.com/artist/3nOhlQgPhTYWJ9WOvyFygs"
-        }
-      ],
-      "duration_ms": 430563,
-      "name": "Clim\u00e3o",
-      "url": "https://open.spotify.com/track/6ovDXiIzy40XMI85632P48"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1539,6 +1519,26 @@
       "duration_ms": 397500,
       "name": "Espera",
       "url": "https://open.spotify.com/track/7yYfJBV4nnzPF8deMDvo2T"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Clim\u00e3o",
+        "url": "https://open.spotify.com/album/45j1UtPcqzwclLJlZcFjBm"
+      },
+      "artists": [
+        {
+          "name": "RP Project",
+          "url": "https://open.spotify.com/artist/2G96dMRTHqkjyMbCO9htbY"
+        },
+        {
+          "name": "Walmir Gil",
+          "url": "https://open.spotify.com/artist/3nOhlQgPhTYWJ9WOvyFygs"
+        }
+      ],
+      "duration_ms": 430563,
+      "name": "Clim\u00e3o",
+      "url": "https://open.spotify.com/track/6ovDXiIzy40XMI85632P48"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1579,22 +1579,6 @@
       "duration_ms": 322546,
       "name": "Cozinhando Pedra",
       "url": "https://open.spotify.com/track/4ZEByegTUjaI2Fh8jJNXz7"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "\u00a1\u00c1ndale!",
-        "url": "https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu"
-      },
-      "artists": [
-        {
-          "name": "the flux trio",
-          "url": "https://open.spotify.com/artist/5Y9M3zHzDU3SFeVOl1fnS2"
-        }
-      ],
-      "duration_ms": 202272,
-      "name": "\u00a1\u00c1ndale!",
-      "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1651,26 +1635,18 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Agora Aqui",
-        "url": "https://open.spotify.com/album/6giXpWWXGUJrie8noezK8y"
+        "name": "\u00a1\u00c1ndale!",
+        "url": "https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu"
       },
       "artists": [
         {
-          "name": "Luca Raele",
-          "url": "https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3"
-        },
-        {
-          "name": "Celio Barros",
-          "url": "https://open.spotify.com/artist/5rJUkXxDb72alAgvPCoDPX"
-        },
-        {
-          "name": "Andr\u00e9 Mehmari",
-          "url": "https://open.spotify.com/artist/5uTXmfA6bngEMrjgul7mwu"
+          "name": "the flux trio",
+          "url": "https://open.spotify.com/artist/5Y9M3zHzDU3SFeVOl1fnS2"
         }
       ],
-      "duration_ms": 212416,
-      "name": "Talvez Certamente",
-      "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
+      "duration_ms": 202272,
+      "name": "\u00a1\u00c1ndale!",
+      "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1691,58 +1667,26 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Reviravolta",
-        "url": "https://open.spotify.com/album/7gyPUqSn2UEK5WZ9NoYWFb"
+        "name": "Agora Aqui",
+        "url": "https://open.spotify.com/album/6giXpWWXGUJrie8noezK8y"
       },
       "artists": [
         {
-          "name": "Z\u00e9li Silva",
-          "url": "https://open.spotify.com/artist/4jio39DG0XFxnaScND06to"
+          "name": "Luca Raele",
+          "url": "https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3"
         },
         {
-          "name": "Z\u00e9li Silva Quarteto",
-          "url": "https://open.spotify.com/artist/5X8d8k9Va0BBjVTRUFAn3E"
-        }
-      ],
-      "duration_ms": 266226,
-      "name": "Novidade",
-      "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Entroncamento",
-        "url": "https://open.spotify.com/album/5qaCctJXbwVrDFfTtAvos8"
-      },
-      "artists": [
-        {
-          "name": "Julio Borba",
-          "url": "https://open.spotify.com/artist/3TkBma5TBJFpZtQJdyebg3"
+          "name": "Celio Barros",
+          "url": "https://open.spotify.com/artist/5rJUkXxDb72alAgvPCoDPX"
         },
         {
-          "name": "Santiago Beis",
-          "url": "https://open.spotify.com/artist/3IRcEtiCBca4XC0EtHXehO"
+          "name": "Andr\u00e9 Mehmari",
+          "url": "https://open.spotify.com/artist/5uTXmfA6bngEMrjgul7mwu"
         }
       ],
-      "duration_ms": 253167,
-      "name": "Nos Dias de Hoje",
-      "url": "https://open.spotify.com/track/1VYiUSDJG4a5JMcs6slKH8"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
+      "duration_ms": 212416,
+      "name": "Talvez Certamente",
+      "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1771,26 +1715,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Mudan\u00e7as",
-        "url": "https://open.spotify.com/album/36KuzwqyNnhwHRbFsKBB7p"
-      },
-      "artists": [
-        {
-          "name": "Jorginho Neto",
-          "url": "https://open.spotify.com/artist/0VvWlL07E17nYkS6Lz9VvG"
-        },
-        {
-          "name": "Vanessa Moreno",
-          "url": "https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4"
-        }
-      ],
-      "duration_ms": 448742,
-      "name": "Mudan\u00e7as",
-      "url": "https://open.spotify.com/track/00w0oCE7pW4egD1I8cv8gR"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "When the Answer Is a Question",
         "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
       },
@@ -1815,6 +1739,82 @@
       "duration_ms": 457386,
       "name": "When the Answer Is a Question",
       "url": "https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Reviravolta",
+        "url": "https://open.spotify.com/album/7gyPUqSn2UEK5WZ9NoYWFb"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9li Silva",
+          "url": "https://open.spotify.com/artist/4jio39DG0XFxnaScND06to"
+        },
+        {
+          "name": "Z\u00e9li Silva Quarteto",
+          "url": "https://open.spotify.com/artist/5X8d8k9Va0BBjVTRUFAn3E"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Novidade",
+      "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Entroncamento",
+        "url": "https://open.spotify.com/album/5qaCctJXbwVrDFfTtAvos8"
+      },
+      "artists": [
+        {
+          "name": "Julio Borba",
+          "url": "https://open.spotify.com/artist/3TkBma5TBJFpZtQJdyebg3"
+        },
+        {
+          "name": "Santiago Beis",
+          "url": "https://open.spotify.com/artist/3IRcEtiCBca4XC0EtHXehO"
+        }
+      ],
+      "duration_ms": 253167,
+      "name": "Nos Dias de Hoje",
+      "url": "https://open.spotify.com/track/1VYiUSDJG4a5JMcs6slKH8"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Mudan\u00e7as",
+        "url": "https://open.spotify.com/album/36KuzwqyNnhwHRbFsKBB7p"
+      },
+      "artists": [
+        {
+          "name": "Jorginho Neto",
+          "url": "https://open.spotify.com/artist/0VvWlL07E17nYkS6Lz9VvG"
+        },
+        {
+          "name": "Vanessa Moreno",
+          "url": "https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4"
+        }
+      ],
+      "duration_ms": 448742,
+      "name": "Mudan\u00e7as",
+      "url": "https://open.spotify.com/track/00w0oCE7pW4egD1I8cv8gR"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1903,42 +1903,26 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "AMF",
-        "url": "https://open.spotify.com/album/3dB8a8vroSsE20RMZmJuBf"
+        "name": "Rosi",
+        "url": "https://open.spotify.com/album/6ERXnIhZoR4lPSQzAbp7Kq"
       },
       "artists": [
         {
-          "name": "Ana Azevedo",
-          "url": "https://open.spotify.com/artist/2frZmyP2Y7Hx6le3nOVlHn"
+          "name": "Rubinho Antunes",
+          "url": "https://open.spotify.com/artist/0Odq6rEmYDIkPqGjBuq4zh"
         },
         {
-          "name": "Augusto Mattoso",
-          "url": "https://open.spotify.com/artist/0luiQsbwEuJHz0MjyajJ4Y"
+          "name": "Nailor \"Proveta\" Azevedo",
+          "url": "https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu"
         },
         {
-          "name": "Andr\u00e9 Fr\u00f3es",
-          "url": "https://open.spotify.com/artist/0WYPjKev7drYwzpy8GuRje"
+          "name": "Rosicler Barbosa",
+          "url": "https://open.spotify.com/artist/2KoXlrmnYSzAECUSgEvAYI"
         }
       ],
-      "duration_ms": 334890,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/12pbppQGlnGQHd4cRxEYDO"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Cinepoesia: Samba do \u00c1rvore",
-        "url": "https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9a Freire",
-          "url": "https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo"
-        }
-      ],
-      "duration_ms": 163169,
-      "name": "Cinepoesia: Samba do \u00c1rvore",
-      "url": "https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4"
+      "duration_ms": 239992,
+      "name": "Rosi",
+      "url": "https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1979,26 +1963,78 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Rosi",
-        "url": "https://open.spotify.com/album/6ERXnIhZoR4lPSQzAbp7Kq"
+        "name": "AMF",
+        "url": "https://open.spotify.com/album/3dB8a8vroSsE20RMZmJuBf"
       },
       "artists": [
         {
-          "name": "Rubinho Antunes",
-          "url": "https://open.spotify.com/artist/0Odq6rEmYDIkPqGjBuq4zh"
+          "name": "Ana Azevedo",
+          "url": "https://open.spotify.com/artist/2frZmyP2Y7Hx6le3nOVlHn"
         },
         {
-          "name": "Nailor \"Proveta\" Azevedo",
-          "url": "https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu"
+          "name": "Augusto Mattoso",
+          "url": "https://open.spotify.com/artist/0luiQsbwEuJHz0MjyajJ4Y"
         },
         {
-          "name": "Rosicler Barbosa",
-          "url": "https://open.spotify.com/artist/2KoXlrmnYSzAECUSgEvAYI"
+          "name": "Andr\u00e9 Fr\u00f3es",
+          "url": "https://open.spotify.com/artist/0WYPjKev7drYwzpy8GuRje"
         }
       ],
-      "duration_ms": 239992,
-      "name": "Rosi",
-      "url": "https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE"
+      "duration_ms": 334890,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/12pbppQGlnGQHd4cRxEYDO"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Cinepoesia: Samba do \u00c1rvore",
+        "url": "https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Freire",
+          "url": "https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo"
+        }
+      ],
+      "duration_ms": 163169,
+      "name": "Cinepoesia: Samba do \u00c1rvore",
+      "url": "https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Domingo 27/09",
+        "url": "https://open.spotify.com/album/0rbqkW5qWily7iUgNmsyTt"
+      },
+      "artists": [
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+        },
+        {
+          "name": "Edu Ribeiro Trio",
+          "url": "https://open.spotify.com/artist/6QNvvDRH7pvXLT6P9BbrYp"
+        }
+      ],
+      "duration_ms": 502746,
+      "name": "Domingo 27/09",
+      "url": "https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Epifonia",
+        "url": "https://open.spotify.com/album/45ZWDe2VvpzRpgEcrxWeSv"
+      },
+      "artists": [
+        {
+          "name": "Lucas Bueno Dias",
+          "url": "https://open.spotify.com/artist/6MTTPwmxyN5R9WlSbyc2aH"
+        }
+      ],
+      "duration_ms": 357646,
+      "name": "Mestre Samuca",
+      "url": "https://open.spotify.com/track/65gPXksYSYJLkJcNkM2FJ2"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -2031,42 +2067,6 @@
       "duration_ms": 360375,
       "name": "Dale!",
       "url": "https://open.spotify.com/track/7yoPPkk8PZ5HSbLkDD9kSL"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Epifonia",
-        "url": "https://open.spotify.com/album/45ZWDe2VvpzRpgEcrxWeSv"
-      },
-      "artists": [
-        {
-          "name": "Lucas Bueno Dias",
-          "url": "https://open.spotify.com/artist/6MTTPwmxyN5R9WlSbyc2aH"
-        }
-      ],
-      "duration_ms": 357646,
-      "name": "Mestre Samuca",
-      "url": "https://open.spotify.com/track/65gPXksYSYJLkJcNkM2FJ2"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Domingo 27/09",
-        "url": "https://open.spotify.com/album/0rbqkW5qWily7iUgNmsyTt"
-      },
-      "artists": [
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
-        },
-        {
-          "name": "Edu Ribeiro Trio",
-          "url": "https://open.spotify.com/artist/6QNvvDRH7pvXLT6P9BbrYp"
-        }
-      ],
-      "duration_ms": 502746,
-      "name": "Domingo 27/09",
-      "url": "https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds"
     },
     {
       "added_at": "2022-07-08 03:01:00",

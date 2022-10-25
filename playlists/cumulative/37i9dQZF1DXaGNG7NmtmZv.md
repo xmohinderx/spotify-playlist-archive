@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Always \- A Friend For Life](https://open.spotify.com/track/4eKXxBigaMftkFQQphl1eO) | [Warzone](https://open.spotify.com/artist/7cvibKo9n0RsgKaW4p4RVO) | [Lower East Side](https://open.spotify.com/album/3Ri754L0sioGyPUkRONKFl) | 2:15 | 2020-12-08 |  |
+| [Always \- A Friend For Life](https://open.spotify.com/track/4eKXxBigaMftkFQQphl1eO) | [Warzone](https://open.spotify.com/artist/7cvibKo9n0RsgKaW4p4RVO) | [Lower East Side](https://open.spotify.com/album/3Ri754L0sioGyPUkRONKFl) | 2:15 | 2020-12-08 | 2022-10-25 |
 | [Always a Friend for Life](https://open.spotify.com/track/07jyJOIEqrz3sYofOLZBs5) | [Warzone](https://open.spotify.com/artist/7cvibKo9n0RsgKaW4p4RVO) | [The Victory Years](https://open.spotify.com/album/0k2JyzHuoT8gyidouFzMhj) | 2:15 | 2020-12-08 | 2022-07-28 |
 | [Animal Farm](https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa) | [The Hope Conspiracy](https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d) | [Death Knows Your Name](https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK) | 3:40 | 2020-12-08 |  |
 | [Animal Farm](https://open.spotify.com/track/7z6t9FzbkML9y9iIxqqldr) | [The Hope Conspiracy](https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d) | [Death Knows Your Name](https://open.spotify.com/album/0Q0PHWclqhQgGXUVr5Y6u5) | 3:40 | 2020-12-08 | 2022-07-29 |
@@ -40,7 +40,7 @@
 | [Get It Away](https://open.spotify.com/track/4G3XY6LeHc54ZEmHw5qNWE) | [SS Decontrol](https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a) | [Get It Away](https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ) | 2:46 | 2020-12-08 | 2022-07-29 |
 | [Get This Right!](https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Dedication](https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G) | 3:30 | 2020-12-08 |  |
 | [Glue](https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp) | [SS Decontrol](https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a) | [Get It Away](https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ) | 1:18 | 2020-12-08 | 2022-08-05 |
-| [Gomorrah's Season Ends](https://open.spotify.com/track/3FUkmuhMgkxwvYuV8lvGwU) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Gomorrah's Season Ends](https://open.spotify.com/album/05mqPyEEjTfvM3TDWkt11k) | 3:29 | 2020-12-08 | 2022-10-18 |
+| [Gomorrah's Season Ends](https://open.spotify.com/track/3FUkmuhMgkxwvYuV8lvGwU) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Gomorrah's Season Ends](https://open.spotify.com/album/05mqPyEEjTfvM3TDWkt11k) | 3:29 | 2020-12-08 |  |
 | [Gomorrah's Season Ends](https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Gomorrah's Season Ends](https://open.spotify.com/album/2PYmeJV6SMsT8YrhNBC2Vi) | 3:29 | 2020-12-08 | 2022-07-29 |
 | [Gotta Go](https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD) | [Agnostic Front](https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT) | [Something's Gotta Give](https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ) | 3:34 | 2020-12-08 |  |
 | [Gravity Wins Again](https://open.spotify.com/track/6BtPf07BVx4QNWvopvOyW6) | [One King Down](https://open.spotify.com/artist/782HAMHn2gK7WqWZZ7aJ9D) | [Gravity Wins Again \- EP](https://open.spotify.com/album/4Vj5PyRGUJKyG3OyydLJnJ) | 2:26 | 2020-12-08 | 2022-07-28 |

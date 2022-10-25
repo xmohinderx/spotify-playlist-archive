@@ -1,12 +1,12 @@
 {
   "description": "A collision of punk, metal, hardcore and everything in between. Cover: Drug Church",
-  "num_followers": 439040,
+  "num_followers": 439089,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDcxMTUxNCwwMDAwMDAwMGI4Zjk1ZGMyNjE4ZTAwODAyN2QyZGNkMDg2MjMxMDNm",
+  "snapshot_id": "MTY2NDcxMTUxNCwwMDAwMDAwMGY1OWVhMWUzYzIxNTUwMzk5ZTZkODJjMzNiZmUyMTQ2",
   "tracks": [
     {
       "added_at": "2022-04-01 16:19:20",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Like A Villain",
+        "url": "https://open.spotify.com/album/0MarSikaOlnWAKSfpDaC1g"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 210685,
+      "name": "Like A Villain",
+      "url": "https://open.spotify.com/track/2yAfzkn1JFekLsqVDDualq"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Holy Hell",
         "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 184285,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Like A Villain",
-        "url": "https://open.spotify.com/album/0MarSikaOlnWAKSfpDaC1g"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 210685,
-      "name": "Like A Villain",
-      "url": "https://open.spotify.com/track/2yAfzkn1JFekLsqVDDualq"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -587,38 +587,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Like a Shadow",
-      "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "They Don't Want What We Want (And They Don't Care)",
-        "url": "https://open.spotify.com/album/1N0zHaJXe7t5hmGcCSiz38"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 195390,
-      "name": "They Don't Want What We Want (And They Don't Care)",
-      "url": "https://open.spotify.com/track/4mRjkI6oIwbSCACGICcZKr"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "How It Feels to Be Lost",
         "url": "https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 182679,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/58Eyr2rZWIYM19qhpals74"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Like a Shadow",
+      "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -667,6 +651,38 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 221241,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "They Don't Want What We Want (And They Don't Care)",
+        "url": "https://open.spotify.com/album/1N0zHaJXe7t5hmGcCSiz38"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 195390,
+      "name": "They Don't Want What We Want (And They Don't Care)",
+      "url": "https://open.spotify.com/track/4mRjkI6oIwbSCACGICcZKr"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Restless Heart, Keep Running",
         "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 208920,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 221241,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "It's Over",
-        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Order In Decline",
         "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
@@ -859,22 +843,6 @@
       "duration_ms": 198358,
       "name": "A Death In The Family",
       "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Nothing is True & Everything is Possible",
-        "url": "https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH"
-      },
-      "artists": [
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        }
-      ],
-      "duration_ms": 226900,
-      "name": "satellites* *",
-      "url": "https://open.spotify.com/track/1sIRKUbxmRBfu3qvp2Q9FS"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -899,18 +867,34 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "My Descend",
-        "url": "https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6"
+        "name": "Nothing is True & Everything is Possible",
+        "url": "https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH"
       },
       "artists": [
         {
-          "name": "Glass Tides",
-          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Empty Thoughts",
-      "url": "https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W"
+      "duration_ms": 226900,
+      "name": "satellites* *",
+      "url": "https://open.spotify.com/track/1sIRKUbxmRBfu3qvp2Q9FS"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "It's Over",
+        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -927,6 +911,22 @@
       "duration_ms": 229896,
       "name": "Hypochondria",
       "url": "https://open.spotify.com/track/0Ta1d0OUwjTANXIu0gz8a9"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "My Descend",
+        "url": "https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6"
+      },
+      "artists": [
+        {
+          "name": "Glass Tides",
+          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Empty Thoughts",
+      "url": "https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Barely Alive",
-        "url": "https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W"
-      },
-      "artists": [
-        {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
-        }
-      ],
-      "duration_ms": 213934,
-      "name": "Red",
-      "url": "https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "New Age Filth",
         "url": "https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 196427,
       "name": "Bury a Lie",
       "url": "https://open.spotify.com/track/1RNS0ntWy01bZpPkrjJAyt"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Barely Alive",
+        "url": "https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "duration_ms": 213934,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Familiar Drugs",
+        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 258718,
+      "name": "Familiar Drugs",
+      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Reverberating Silence",
         "url": "https://open.spotify.com/album/4J5uVKPMdxp2bJwyePzQVC"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 236793,
       "name": "Closer to Comfort",
       "url": "https://open.spotify.com/track/1KLmiSyLPgqc13H4gTBdoU"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Familiar Drugs",
-        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 258718,
-      "name": "Familiar Drugs",
-      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/4RXlpjOyqLytU4JtJhB5Hk"
+      },
+      "artists": [
+        {
+          "name": "Lilac Kings",
+          "url": "https://open.spotify.com/artist/01pBL0us3fnmy2SHHmgYQT"
+        }
+      ],
+      "duration_ms": 158444,
+      "name": "Drive Me Home",
+      "url": "https://open.spotify.com/track/36dmS2axjtjqO7MIIfx6WU"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 218466,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/4RXlpjOyqLytU4JtJhB5Hk"
-      },
-      "artists": [
-        {
-          "name": "Lilac Kings",
-          "url": "https://open.spotify.com/artist/01pBL0us3fnmy2SHHmgYQT"
-        }
-      ],
-      "duration_ms": 158444,
-      "name": "Drive Me Home",
-      "url": "https://open.spotify.com/track/36dmS2axjtjqO7MIIfx6WU"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Back Then",
-        "url": "https://open.spotify.com/album/6R6wqSrVxGIG6yp3b1QTfX"
-      },
-      "artists": [
-        {
-          "name": "Amoura",
-          "url": "https://open.spotify.com/artist/5HnOeFjaoIdjavGtQluzbh"
-        }
-      ],
-      "duration_ms": 222937,
-      "name": "Back Then",
-      "url": "https://open.spotify.com/track/2dfj52tghhrk33hKJtFDx9"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Burn It Down",
         "url": "https://open.spotify.com/album/4CAwR5GCqpfDAHE85WsAqK"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 190000,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/21iym8UpADqnG2p5GrzHrb"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Back Then",
+        "url": "https://open.spotify.com/album/6R6wqSrVxGIG6yp3b1QTfX"
+      },
+      "artists": [
+        {
+          "name": "Amoura",
+          "url": "https://open.spotify.com/artist/5HnOeFjaoIdjavGtQluzbh"
+        }
+      ],
+      "duration_ms": 222937,
+      "name": "Back Then",
+      "url": "https://open.spotify.com/track/2dfj52tghhrk33hKJtFDx9"
     },
     {
       "added_at": "2022-04-01 16:19:20",

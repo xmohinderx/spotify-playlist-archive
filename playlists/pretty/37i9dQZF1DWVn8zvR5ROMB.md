@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Scotty McCreery, Elle King, Spencer Crandall and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,445 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,618 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 2 | [Try Jesus](https://open.spotify.com/track/0rSuM2IqezwEBOOadZkX1D) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Try Jesus](https://open.spotify.com/album/6edvYYzME5Brx8QGh8vkPQ) | 3:06 |
 | 3 | [Our Forever](https://open.spotify.com/track/3fq5h4eWQNP3fBqXZRyC5F) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/5CbbfVTtYGmnVn6rLrgklf) | 3:19 |
 | 4 | [Over For You](https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You](https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2) | 3:05 |
-| 5 | [I Still Love You \(with Billy Currington\)](https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [I Still Love You \(with Billy Currington\)](https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe) | 3:44 |
+| 5 | [I Still Love You](https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [I Still Love You](https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe) | 3:44 |
 | 6 | [Wish You Were The One](https://open.spotify.com/track/7350LOdDNax72K821W4oQF) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Wish You Were The One](https://open.spotify.com/album/2f56Ld9gl7DKGk8liDuOZn) | 3:03 |
 | 7 | [Good At Lyin'](https://open.spotify.com/track/21SPlJdoTNJtJ3HwORjpHW) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Manchester](https://open.spotify.com/album/6PFPixnm8VDrnOEejRyr76) | 3:32 |
 | 8 | [Heartbreak Heaven](https://open.spotify.com/track/5nVSqyLtSPQwU4jTqSLJhl) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck) | [Heartbreak Heaven](https://open.spotify.com/album/1rPsDWRVwHwR183Kq4rM41) | 2:49 |

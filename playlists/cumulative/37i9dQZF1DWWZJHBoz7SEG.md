@@ -4,7 +4,7 @@
 
 > ¡Shakira y Ozuna; Arctic Monkeys, Yuridia, Taylor Swift, y más!
 
-1,906 songs - 4 day 9 hr 30 min - [published](https://open.spotify.com/playlist/0cF57aJLHrApDaSD7aCtGt)
+1,907 songs - 4 day 9 hr 33 min - [published](https://open.spotify.com/playlist/0cF57aJLHrApDaSD7aCtGt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,7 +740,8 @@
 | [Hurts to Love](https://open.spotify.com/track/3tsAL3n0hVLr2oxkola22n) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Hurts to Love](https://open.spotify.com/album/1oOqEgr0F5v6pSMJ26KPQY) | 4:05 | 2022-02-18 | 2022-02-26 |
 | [Hypnotized](https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [Hypnotized](https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U) | 3:02 | 2022-07-08 | 2022-07-16 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-05-13 | 2022-05-20 |
-| [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 | 2022-10-21 |  |
+| [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 | 2022-10-21 |  |
+| [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 | 2022-10-21 | 2022-10-25 |
 | [i can't help it](https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [i can't help it](https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK) | 2:57 | 2022-08-26 | 2022-09-03 |
 | [I Do You](https://open.spotify.com/track/17KHjO7bkixVLpA1ODDBSF) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [I Do You](https://open.spotify.com/album/7Fgk8mCjmJmMAnOLnOJL9S) | 3:44 | 2022-10-21 |  |
 | [I Don't Like Myself](https://open.spotify.com/track/3soSAbnGLuJeARGmegvMFJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:05 | 2022-07-01 | 2022-07-09 |

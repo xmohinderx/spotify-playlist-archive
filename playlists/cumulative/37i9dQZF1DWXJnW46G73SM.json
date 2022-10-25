@@ -1526,6 +1526,32 @@
     },
     {
       "album": {
+        "name": "Ghasb Anny",
+        "url": "https://open.spotify.com/album/0XAMmhfNF6ezT5eEYPYKSy"
+      },
+      "artists": [
+        {
+          "name": "Zap Tharwat",
+          "url": "https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv"
+        },
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        },
+        {
+          "name": "Sary Hany",
+          "url": "https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264109,
+      "name": "Ghasb Anny",
+      "url": "https://open.spotify.com/track/20MpmTGEcFIfMxxqobnxnl"
+    },
+    {
+      "album": {
         "name": "Ghayart El Tarekh",
         "url": "https://open.spotify.com/album/6grY10EzNruoWcBvo2MxKG"
       },

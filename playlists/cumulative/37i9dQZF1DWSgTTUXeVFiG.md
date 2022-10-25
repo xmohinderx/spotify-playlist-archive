@@ -4,7 +4,7 @@
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-56 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/4aFhuCpQYr4sVtONw9TY5C)
+57 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/4aFhuCpQYr4sVtONw9TY5C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Juanito Alimaña \- Live](https://open.spotify.com/track/6ZBmiKpvm0Wkv8oxstW9f2) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 8:42 | 2022-03-18 |  |
 | [La Cita](https://open.spotify.com/track/6OEyQCvf7ZJjMTgEfdqN3C) | [Alberto Barros](https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul) | [Lo Mejor de Alberto Barros, Vol\. 2](https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ) | 4:54 | 2022-03-18 |  |
 | [La Murga \- Live](https://open.spotify.com/track/0rcL0bGZpeN9stj0dHE3f0) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 7:02 | 2022-03-18 | 2022-10-10 |
-| [La Vida Es Un Carnaval \- En Vivo Desde Hartford, Connecticut/1999](https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Night Of Salsa](https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h) | 6:41 | 2022-03-18 |  |
+| [La Vida Es Un Carnaval \- En Vivo Desde Hartford, Connecticut/1999](https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Night Of Salsa](https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h) | 6:41 | 2022-03-18 | 2022-10-25 |
 | [Llorarás \- Live](https://open.spotify.com/track/4WlDisUidB4F0KxxoIjODp) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor De Celia Cruz & Oscar D´León En Concierto](https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX) | 4:33 | 2022-03-18 |  |
 | [Lo Mio Es Amor \- En Vivo](https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 7:00 | 2022-03-18 |  |
 | [Me Gusta El Son \- Live](https://open.spotify.com/track/7xdo44K01QFyEWKVeeOn5Z) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Live At The Red Garter, Vol\. 1](https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM) | 8:17 | 2022-03-18 |  |
@@ -52,6 +52,7 @@
 | [Probablemente \- Live](https://open.spotify.com/track/3uaiF0P7A9yo7aMsrE7Xlw) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Reencuentro \(Live In Lima\) \- Vol\. 2](https://open.spotify.com/album/5mGJ0vT7EfK2MXLkuLSQP6) | 5:24 | 2022-03-18 |  |
 | [Quiero Morir en Tu Piel \- En Vivo](https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 7:04 | 2022-03-18 |  |
 | [Quiéreme Tal Como Soy \- Live](https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [30 Años de Power](https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI) | 5:30 | 2022-03-18 | 2022-10-18 |
+| [Sabor Sabor \- Live](https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Live At The Red Garter, Vol\. 1](https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM) | 5:20 | 2022-03-18 |  |
 | [Salsa Caliente del Japón \- Live Version](https://open.spotify.com/track/5p7HPyHbMdOV7ytBzS9J2r) | [Orquesta De La Luz](https://open.spotify.com/artist/4UHqyF418ynCEjB7fdRhLm) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 | 2022-03-18 |  |
 | [Señor Sereno \- En Vivo](https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Ismael Miranda \(En Vivo\)](https://open.spotify.com/album/40DjMiB2wSxUTCuXiX1Egk) | 5:30 | 2022-03-18 |  |
 | [Señora Ley \(En Vivo\)](https://open.spotify.com/track/0vB3uI6JFXYT6Vq2HRZ4b4) | [Conjunto Clásico](https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0) | [Ray Castro Presenta...20 Super Exitos Del Conjunto Clasico Con Tito Nieves](https://open.spotify.com/album/77g1XIygGh7vez8lkOKaLL) | 5:12 | 2022-03-18 |  |

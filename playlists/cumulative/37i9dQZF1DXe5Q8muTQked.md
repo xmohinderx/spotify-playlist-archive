@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-611 songs - 1 day 13 hr 41 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
+612 songs - 1 day 13 hr 44 min - [published](https://open.spotify.com/playlist/4ZekyI25JTzcwoswovlyqc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [California](https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI) | 2:47 | 2022-06-10 |  |
 | [California](https://open.spotify.com/track/4KUFJ7phSi40lh1ChmFgb9) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/1og5RxTX9bM7v7yw5qOFqC) | 2:47 | 2021-10-20 | 2022-07-28 |
 | [California Dreamin \- Acoustic Mix](https://open.spotify.com/track/4FmVtdjLVhzHpNuBhMF8Wj) | [Freischwimmer](https://open.spotify.com/artist/185m2EJWTIm36MdqguiU8T) | [California Dreamin](https://open.spotify.com/album/561Ly3AThHF8GOSY0tm0Al) | 3:28 | 2021-10-20 | 2022-07-29 |
+| [California Dreamin'](https://open.spotify.com/track/2gMIw3s1WT1jEMplHwD4e2) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [California Airport Love](https://open.spotify.com/album/02OgL5XHVxJvXqZMpaqWkB) | 3:08 | 2022-06-10 |  |
 | [California Dreamin'](https://open.spotify.com/track/41uHv2ZIT0YDUHoyNzvRQ1) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [California Airport Love](https://open.spotify.com/album/4a8neICiUnSWTBd5SP2sn9) | 3:08 | 2022-06-10 | 2022-10-13 |
 | [Can't Get You out of My Head](https://open.spotify.com/track/290jcyCDiqqBVNr1laLyU0) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Covers, Ch\. 1](https://open.spotify.com/album/1rrhJksiU70SoQKseCPYn5) | 2:36 | 2021-10-20 | 2022-05-25 |
 | [Can't Get You out of My Head](https://open.spotify.com/track/3b3c2r2sga1NJWjSLbFk74) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Covers, Ch\. 1](https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8) | 2:36 | 2022-06-10 |  |
@@ -284,7 +285,7 @@
 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 | 2022-06-10 |  |
 | [I Would Die 4 U](https://open.spotify.com/track/38k2TOcAnlRoziKjLc3Ogd) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [The Return \(Love Comes Back\)](https://open.spotify.com/album/1UMLgFRhqyikYGgSxnkWSa) | 3:00 | 2021-10-20 | 2022-07-29 |
 | [I Would Die 4 U](https://open.spotify.com/track/7exBqqAMs0t2xDETXYvBAH) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [I Would Die 4 U](https://open.spotify.com/album/6DcwJRj8l5BvOpVjt7pLxS) | 3:00 | 2022-06-10 |  |
-| [I'll Keep It With Mine](https://open.spotify.com/track/5yeK60qK7eN7UuCvfu8hvi) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:17 | 2022-06-10 |  |
+| [I'll Keep It With Mine](https://open.spotify.com/track/5yeK60qK7eN7UuCvfu8hvi) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:17 | 2022-06-10 | 2022-10-25 |
 | [I'll Stand by You](https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [I'll Stand by You](https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE) | 3:24 | 2021-10-20 |  |
 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/1rMzXMqvereQvS5417Ju3H) | [Keith McInally](https://open.spotify.com/artist/5ZJI40RFLH8wwxWMSKQhL1) | [Covers](https://open.spotify.com/album/1VwTpYxt1EVs3Z1XUwdtLn) | 3:53 | 2021-10-20 | 2022-07-29 |
 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0) | 3:32 | 2021-10-20 | 2022-07-29 |

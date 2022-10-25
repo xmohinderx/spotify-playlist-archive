@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 548229,
+  "num_followers": 548452,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM2MTA0NCwwMDAwMDAwMDJmMWNjYzcwYTk1MDI3Y2RmZDgyNGU4ZGZhNzAzOTI5",
+  "snapshot_id": "MTY2NjM2MTA0NCwwMDAwMDAwMDZiNzc1YTA4ZGY2ZTNjMDhkMWQ5NGY1MTc0NWU0NWUw",
   "tracks": [
     {
       "added_at": "2022-10-21 14:04:04",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-10-21 14:04:04",
       "album": {
-        "name": "Piece of Mind (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "The Trooper - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
-    },
-    {
-      "added_at": "2022-10-21 14:04:04",
-      "album": {
         "name": "Screaming For Vengeance (Expanded Edition)",
         "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2022-10-21 14:04:04",
       "album": {
-        "name": "ATTENTION ATTENTION",
-        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+        "name": "Piece of Mind (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 207986,
-      "name": "DEVIL",
-      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
+      "duration_ms": 252733,
+      "name": "The Trooper - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
     },
     {
       "added_at": "2022-10-21 14:04:04",
@@ -647,6 +631,22 @@
       "duration_ms": 269733,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC"
+    },
+    {
+      "added_at": "2022-10-21 14:04:04",
+      "album": {
+        "name": "ATTENTION ATTENTION",
+        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
     },
     {
       "added_at": "2022-10-21 14:04:04",

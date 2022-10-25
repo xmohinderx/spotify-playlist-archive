@@ -8116,6 +8116,24 @@
     },
     {
       "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/1x676W6ARASsW9BR4txWeK"
       },

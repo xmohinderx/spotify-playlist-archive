@@ -4,7 +4,7 @@
 
 > Proudly South African classics\. Cover: <a href="https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3\-HGc030gg">Johnny Clegg</a>
 
-134 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
+135 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 | 2019-02-03 |  |
 | [Blues for a Hip King](https://open.spotify.com/track/6JvT7KcHNeGIzGQUUAdUkA) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ) | [Senzo](https://open.spotify.com/album/2g6zjVX3L0VbyiMuowr5H5) | 6:02 | 2019-02-12 | 2022-07-21 |
 | [Born in a Taxi](https://open.spotify.com/track/3fJ75JKYcfOerkRGj29Plh) | [Blk Sonshine](https://open.spotify.com/artist/3aIW4Jy6FDJrp2a9s1aUZl) | [Blk Sonshine](https://open.spotify.com/album/1qefGgNkasaqJqZquJFahP) | 2:40 | 2019-02-12 | 2022-07-29 |
-| [Bula Boot](https://open.spotify.com/track/0jXSQJ2oamQ9YcW4Ugq8Mm) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Chizboy](https://open.spotify.com/album/1aY6VgE2UhKtmGesDYB4Il) | 5:32 | 2019-02-03 |  |
+| [Bula Boot](https://open.spotify.com/track/0jXSQJ2oamQ9YcW4Ugq8Mm) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Chizboy](https://open.spotify.com/album/1aY6VgE2UhKtmGesDYB4Il) | 5:32 | 2019-02-03 | 2022-10-25 |
 | [Burn Out](https://open.spotify.com/track/1wzXBdFFWIOEKzVG9JmbEm) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/19uCaDMs2fpsvwG5eMqaFG) | 4:54 | 2018-09-23 | 2022-09-25 |
 | [Burn Out](https://open.spotify.com/track/38AtqB4TsqKPnE8yl9xnVh) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Best Of](https://open.spotify.com/album/5I0B6IcTYae0LW5gkLW1Ko) | 4:54 | 2018-09-23 | 2022-07-29 |
 | [Burn Out](https://open.spotify.com/track/42pZrEQeTK8wFryruynyhP) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/2ugAbmeyoFb9qTNQRwcOSe) | 4:54 | 2021-06-27 | 2022-10-14 |
@@ -110,6 +110,7 @@
 | [Special Star](https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 5:53 | 2018-09-23 |  |
 | [Stimela SaseZola](https://open.spotify.com/track/1Vbc4UsmKC29bVYGqAsnd2) | [Mbongeni Ngema](https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1) | [Greatest Moments Of](https://open.spotify.com/album/3y0ixLWaRNxVUhT1YFOCNR) | 5:10 | 2018-09-23 | 2022-10-15 |
 | [Stimela Sasezola](https://open.spotify.com/track/26UCZAfUYfAsE25ls7gS1m) | [Mbongeni Ngema](https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1) | [Greatest Moments Of](https://open.spotify.com/album/3uuvZpYJEHZIiAgE3E51AI) | 5:10 | 2018-09-23 | 2022-09-26 |
+| [Stimela SaseZola](https://open.spotify.com/track/4sgQGJhzo5kLMCCa9vaRil) | [Mbongeni Ngema](https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1) | [The Ultimate Collection: Mbongeni Ngema](https://open.spotify.com/album/6pFattd30V5QtQimALPrdH) | 5:10 | 2018-09-23 |  |
 | [Stimela Sasezola](https://open.spotify.com/track/68O06gQtUDGaFl3PDqRaf2) | [Mbongeni Ngema](https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1) | [Greatest Moments Of](https://open.spotify.com/album/0cr8APEEsGPL0rDCj48Grc) | 5:10 | 2018-09-23 | 2022-07-29 |
 | [Thathi Sgubu](https://open.spotify.com/track/2OCDwRtjbmAVZaiF93pDn3) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [XX \- Celebrating 20 Years Of Kalawa Jazmee](https://open.spotify.com/album/2tOX9Qfl3lZcc8JlWEiokT) | 5:20 | 2019-02-03 | 2022-07-29 |
 | [Thathi Sgubu](https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Kalawa Jazmee Classics: Bongo Maffin](https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c) | 5:20 | 2019-02-03 |  |

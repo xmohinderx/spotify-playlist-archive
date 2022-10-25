@@ -1,12 +1,12 @@
 {
   "description": "Will you be my anti-valentine?",
-  "num_followers": 78070,
+  "num_followers": 78080,
   "original_name": "Anti-Valentine's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzMyNzExNCwwMDAwMDAwMDcwM2UzNGYyYTMwZGM1YWE4ZDY2ZTFhOTkzMzM3Nzcw",
+  "snapshot_id": "MTY0MzMyNzExNCwwMDAwMDAwMDhiMDY0MDQyNWEyNGU1YjBiYzkzNTE4YWRmMTEzMjFm",
   "tracks": [
     {
       "added_at": "2022-01-25 16:27:07",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Happier Than Ever (Edit)",
+        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 151444,
+      "name": "Happier Than Ever - Edit",
+      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -159,18 +159,18 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Happier Than Ever (Edit)",
-        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 151444,
-      "name": "Happier Than Ever - Edit",
-      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 191600,
       "name": "Needed Me",
       "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "Late Registration",
         "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 207626,
       "name": "Gold Digger",
       "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "no tears left to cry",
+      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "Without Me",
         "url": "https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 190440,
-      "name": "break up with your girlfriend, i'm bored",
-      "url": "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "Red (Big Machine Radio Release Special)",
         "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
       },
@@ -455,6 +471,22 @@
       "duration_ms": 219720,
       "name": "I Knew You Were Trouble.",
       "url": "https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 190440,
+      "name": "break up with your girlfriend, i'm bored",
+      "url": "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -491,22 +523,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Hotline Bling",
-      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "First Steps",
         "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
       },
@@ -519,6 +535,22 @@
       "duration_ms": 129599,
       "name": "Go Fuck Yourself",
       "url": "https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Take A Bow",
+      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -543,22 +575,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Take A Bow",
-      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 193143,
       "name": "bury a friend",
       "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "no tears left to cry",
-      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "Tell Me You Love Me",
+        "url": "https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/0yvPEnB032fojLfVluFjUv"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 285106,
       "name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "Tell Me You Love Me",
-        "url": "https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Sorry Not Sorry",
-      "url": "https://open.spotify.com/track/0yvPEnB032fojLfVluFjUv"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 288333,
-      "name": "Cry Me a River",
-      "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "Trilogy",
         "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 312426,
       "name": "The Morning",
       "url": "https://open.spotify.com/track/6u0dQik0aif7FQlrhycG1L"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 288333,
+      "name": "Cry Me a River",
+      "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 205473,
+      "name": "You should be sad",
+      "url": "https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "STELLA & STEVE",
         "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 221493,
       "name": "How to Be a Heartbreaker",
       "url": "https://open.spotify.com/track/2sEk5R8ErGIFxbZ7rX6S2S"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 205473,
-      "name": "You should be sad",
-      "url": "https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
         "name": "Lesley Gore Sings Of Mixed-Up Hearts",
         "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 220589,
       "name": "Rare",
       "url": "https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "B'Day",
-        "url": "https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "Irreplaceable",
-      "url": "https://open.spotify.com/track/1G7DcLzPnopdZjLkev0K4e"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk"
       },
@@ -1415,22 +1399,6 @@
       "duration_ms": 267200,
       "name": "That Don't Impress Me Much - Dance Mix",
       "url": "https://open.spotify.com/track/4OzQg5IcAkBxQV6Awq2T0y"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
-        "name": "skinny dipping",
-        "url": "https://open.spotify.com/album/2NbUBAN5Mv7KAacJHOtC49"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "skinny dipping",
-      "url": "https://open.spotify.com/track/7u6HtmuMeuiVdwwFul5xHi"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1451,18 +1419,34 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Dedicated",
-        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
+        "name": "skinny dipping",
+        "url": "https://open.spotify.com/album/2NbUBAN5Mv7KAacJHOtC49"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 184533,
-      "name": "Party For One",
-      "url": "https://open.spotify.com/track/7KW3XQV5Or5CF57MYVj5h4"
+      "duration_ms": 177750,
+      "name": "skinny dipping",
+      "url": "https://open.spotify.com/track/7u6HtmuMeuiVdwwFul5xHi"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "B'Day",
+        "url": "https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "Irreplaceable",
+      "url": "https://open.spotify.com/track/1G7DcLzPnopdZjLkev0K4e"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1479,6 +1463,22 @@
       "duration_ms": 160397,
       "name": "BOYSHIT",
       "url": "https://open.spotify.com/track/3YmgsYX80v0EtBZekgcB6w"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Dedicated",
+        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Party For One",
+      "url": "https://open.spotify.com/track/7KW3XQV5Or5CF57MYVj5h4"
     },
     {
       "added_at": "2022-01-25 16:27:07",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-01-25 16:27:07",
       "album": {
-        "name": "Kiss (Deluxe)",
-        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Tonight I\u2019m Getting Over You",
-      "url": "https://open.spotify.com/track/471JtpRQ0oox9OoZcbB8OO"
-    },
-    {
-      "added_at": "2022-01-25 16:27:07",
-      "album": {
         "name": "Caution",
         "url": "https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 187761,
       "name": "My Girlfriends Are My Boyfriend (feat. Saweetie)",
       "url": "https://open.spotify.com/track/32RYWfI39DxH8S1KtMS2wt"
+    },
+    {
+      "added_at": "2022-01-25 16:27:07",
+      "album": {
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "Tonight I\u2019m Getting Over You",
+      "url": "https://open.spotify.com/track/471JtpRQ0oox9OoZcbB8OO"
     },
     {
       "added_at": "2022-01-25 16:27:07",

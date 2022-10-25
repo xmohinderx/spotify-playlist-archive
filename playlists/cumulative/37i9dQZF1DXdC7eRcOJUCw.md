@@ -4,7 +4,7 @@
 
 > Estas damas sí que tienen carácter\. Adriana Ríos en portada.
 
-152 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/28qg7h7VtnPvoLfHcWoH3E)
+154 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/28qg7h7VtnPvoLfHcWoH3E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [El Herradero](https://open.spotify.com/track/0eruhuXt2G3Vp539IAL0KA) | [Angeles Ochoa](https://open.spotify.com/artist/2prMnWB5tOQxIU1tUlqAnu) | [Divas Rancheras](https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM) | 3:26 | 2021-11-26 |  |
 | [El Puente Roto \- Tema Remasterizado](https://open.spotify.com/track/6wnDVV9h7318nHps7MVsd1) | [Irma Serrano](https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6) | [La Gran Colección del 60 Aniversario CBS \- Irma Serrano](https://open.spotify.com/album/6RpmQdyqrhvwJJD4rIVMXP) | 2:37 | 2021-11-26 |  |
 | [Ella Qué Te Dio](https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:48 | 2021-11-26 |  |
-| [En Realidad](https://open.spotify.com/track/0yig7Mn3nsz17bRgyeameH) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [En Realidad](https://open.spotify.com/album/4RX4z2boimAXPxgEif3YKM) | 3:25 | 2021-11-26 |  |
+| [En Realidad](https://open.spotify.com/track/0yig7Mn3nsz17bRgyeameH) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [En Realidad](https://open.spotify.com/album/4RX4z2boimAXPxgEif3YKM) | 3:25 | 2021-11-26 | 2022-10-25 |
 | [Entiende Que Ya](https://open.spotify.com/track/6LaHhcm92gEEO2CYxUJ340) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Entiende Que Ya](https://open.spotify.com/album/2Djw2FPXQABcAuF56np2CJ) | 2:47 | 2021-11-26 |  |
 | [Es Demasiado Tarde \- Remasterizado](https://open.spotify.com/track/0XJmLEViRKNxRxi0ixOJao) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 4:11 | 2021-11-26 | 2022-04-19 |
 | [Esta situación](https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:27 | 2021-11-26 |  |
@@ -69,7 +69,7 @@
 | [La Hija de Nadie](https://open.spotify.com/track/1TXIr8k01UXF0v6ckLVMUX) | [Yolanda Del Rio](https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC) | [La Hija De Nadie](https://open.spotify.com/album/0aOOYEl1uxLRX0x6uX2moJ) | 2:49 | 2021-11-26 |  |
 | [La Llorona](https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Mariachi Juvenil de Tecalitlán](https://open.spotify.com/artist/6cA9ikC3OTYlqwOIufwgM1) | [Frida \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li) | 2:20 | 2021-11-26 | 2022-04-19 |
 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 | 2022-10-07 |  |
-| [La Malagueña](https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 5:24 | 2021-11-26 |  |
+| [La Malagueña](https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 5:24 | 2021-11-26 | 2022-10-25 |
 | [La Martina](https://open.spotify.com/track/28iBqPLLYLrvqfcfCmFc7C) | [Irma Serrano](https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6) | [Corridos Famosos con la Tigresa](https://open.spotify.com/album/6WRc4nhcfAQPyq0y2LBH6j) | 3:00 | 2021-11-26 | 2022-07-29 |
 | [La Martina \- Remasterizado](https://open.spotify.com/track/4HicPbKIPTeb4RRRxqSSzN) | [Irma Serrano](https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6) | [La Gran Colección del 60 Aniversario CBS \- Irma Serrano](https://open.spotify.com/album/6RpmQdyqrhvwJJD4rIVMXP) | 3:01 | 2022-06-08 | 2022-10-08 |
 | [La Que Baje La Guardia](https://open.spotify.com/track/5xYb8SYGvX0Nqf3XN2RqxI) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Cuando El Corazón Se Cruza](https://open.spotify.com/album/6n9By9pSssKzD2z4orrkZ2) | 3:51 | 2022-06-08 |  |
@@ -114,6 +114,7 @@
 | [Que Te Vaya Bonito](https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 2:51 | 2021-11-26 |  |
 | [Que te Vaya Bonito](https://open.spotify.com/track/26s97B2gSEVy1vhPmLALmr) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Reina de la Canción Mexicana](https://open.spotify.com/album/4BLddBWl0kBBxGQnQQ9Sas) | 2:58 | 2021-11-26 | 2022-07-29 |
 | [Que Te Vaya Bonito](https://open.spotify.com/track/4EPxEtHdumGMnUEROmrE3z) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Reina de la Canción Mexicana](https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd) | 2:58 | 2022-06-08 |  |
+| [Qué Agonía](https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía](https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v) | 2:32 | 2022-10-25 |  |
 | [Qué Bonito](https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:05 | 2021-11-26 | 2022-10-08 |
 | [Qué Ironía](https://open.spotify.com/track/4OBNBGe8w5un8KJbONIhYF) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Qué Ironía](https://open.spotify.com/album/0t0aSpLPZ8jaJ498eog6Lr) | 3:49 | 2021-11-26 |  |
 | [Qué Manera de Perder](https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:28 | 2021-11-26 |  |
@@ -132,6 +133,7 @@
 | [Te Solté La Rienda](https://open.spotify.com/track/6x6IUdWGMh5N3Is2WjmLcE) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Interpreta a José Alfredo Jimenez](https://open.spotify.com/album/1Weu2CZyvIIvuSZ9RAPJHF) | 2:53 | 2022-06-08 |  |
 | [Tres Veces Te Engañe](https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Tres Veces Te Engañe](https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz) | 3:19 | 2021-11-26 |  |
 | [Tus Maletas En La Puerta](https://open.spotify.com/track/2aZhicClWLsJFQSkbLFMbL) | [Yolanda Del Rio](https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC) | [Serie Platino](https://open.spotify.com/album/4kCW29zMjnbmK9jUDtgCry) | 2:31 | 2021-11-26 |  |
+| [Tómbola](https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Tómbola](https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g) | 2:45 | 2022-10-25 |  |
 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:03 | 2022-06-08 |  |
 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/15uu7J5uhauYJ9hGtJ077N) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 3:04 | 2021-11-26 | 2022-07-29 |
 | [Tú Lo Decidiste](https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:49 | 2021-11-26 |  |

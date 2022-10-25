@@ -4,7 +4,7 @@
 
 > pov: you're crying and dancing at the same time.
 
-160 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/5yJ1kqJQQB8BoI0Fit0lvH)
+161 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/5yJ1kqJQQB8BoI0Fit0lvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 | 2022-07-08 |  |
 | [Brillo](https://open.spotify.com/track/3vgiIJW3iSQRRvgYiW86i9) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Vibras](https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT) | 2:39 | 2022-03-21 | 2022-07-09 |
 | [Brujería](https://open.spotify.com/track/335X50bC4WpFbQmMGBxi6a) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Brujería](https://open.spotify.com/album/5oaQ0wLZfmH8V7swwzZwHl) | 2:48 | 2022-07-08 | 2022-07-26 |
+| [BRUTAL \- Spotify Singles](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL \- Spotify Singles](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-24 |  |
 | [C14TORCE IV](https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE IV](https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY) | 2:53 | 2022-03-21 | 2022-04-20 |
 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 | 2022-07-08 |  |
 | [CON TAL](https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w) | [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [CON TAL](https://open.spotify.com/album/1wJYAtnHZRBqt8H3cwRwBm) | 2:54 | 2022-03-21 | 2022-07-09 |

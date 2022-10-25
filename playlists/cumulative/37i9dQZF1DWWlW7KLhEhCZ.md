@@ -4,7 +4,7 @@
 
 > Lançamentos e novos nomes do trap nacional\. Foto: BIN, MC Ryan SP
 
-386 songs - 18 hr 6 min - [published](https://open.spotify.com/playlist/4OQp0dXIgEe6I8MlQwrCOG)
+388 songs - 18 hr 10 min - [published](https://open.spotify.com/playlist/4OQp0dXIgEe6I8MlQwrCOG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Espelho Meu](https://open.spotify.com/track/5i0ngsSwZMnYAZ9dLSg69f) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Espelho Meu](https://open.spotify.com/album/1mjgSHNATnRWSqO7YJ7P9k) | 2:12 | 2022-03-18 | 2022-06-18 |
 | [Essa noite eu sonhei](https://open.spotify.com/track/4wa6BOuVT6sM5PFbFW1Qni) | [Tchellin](https://open.spotify.com/artist/6mZ79Ylob8TtxWoEUPUzOL), [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Essa noite eu sonhei](https://open.spotify.com/album/7jDQ3aVGpL3U4dz7CenM2K) | 2:28 | 2022-06-24 | 2022-07-23 |
 | [Esse é Meu Ano](https://open.spotify.com/track/3t3jLFM8FMhI73opTlDWo6) | [Haitam](https://open.spotify.com/artist/3J0t4JNgTyjwqRaXo5pNlW), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Esse é Meu Ano](https://open.spotify.com/album/3bRY7MmlkSyEKa2N0tGAcn) | 2:58 | 2022-03-18 | 2022-04-02 |
+| [Eu Falo Não](https://open.spotify.com/track/3z19LCfZ3LlasNpqjDWx3P) | [Gabriel Henriques](https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Eu Falo Não](https://open.spotify.com/album/4WBSeIGjIE7lJ5aFywpCwj) | 2:26 | 2022-10-24 |  |
 | [Exibido](https://open.spotify.com/track/4Exjs0i5CFfKpIegAqcYOg) | [Mvk](https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Exibido](https://open.spotify.com/album/0tK8meVFOCcUPOOyFfueJs) | 2:22 | 2022-07-15 |  |
 | [Extraordinário](https://open.spotify.com/track/0wwH6s0lqkZSdQl5c2b6J5) | [Optus](https://open.spotify.com/artist/1SnJ30TfzRpjfBzzje8dxZ), [Martzinnn](https://open.spotify.com/artist/5xP2vfEqjTbd7ozWAABsHX) | [Extraordinário](https://open.spotify.com/album/2jabFd22dTs6Lxbuzrm8yF) | 3:17 | 2022-05-02 | 2022-05-07 |
 | [Falso Amigo](https://open.spotify.com/track/5ygDhelMwTgnNXFuVHap8M) | [Pedro Medz](https://open.spotify.com/artist/4qPshkDVlRqhZKRkz6tzmv) | [Falso Amigo](https://open.spotify.com/album/3JcI7e3kmbcbB1vr01l00b) | 3:57 | 2022-08-26 | 2022-09-03 |
@@ -277,7 +278,8 @@
 | [Paraíso Periférico](https://open.spotify.com/track/0piW8h3hjHkKfEJu6LzU7j) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Paraíso Periférico](https://open.spotify.com/album/1TQdoLB4Ys0i4qCw693kZR) | 2:51 | 2022-03-18 |  |
 | [Paris Freestyle](https://open.spotify.com/track/4EXFwEHrLu96jUv7DU3QpB) | [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8) | [Paris Freestyle](https://open.spotify.com/album/7gt8VhApO0EWExp2kEGIVE) | 2:33 | 2022-06-10 | 2022-07-16 |
 | [PASSADO](https://open.spotify.com/track/6fWUqbAIfEknljRnpgeIzb) | [Jafari](https://open.spotify.com/artist/3sZ3yyZzWVAf2GrH0Ixdpr), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD), [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM) | [MACONHA E TYPE BEATS](https://open.spotify.com/album/6r73QhfeHV2Le8x4fBSIkA) | 3:22 | 2022-07-08 | 2022-07-23 |
-| [Passado](https://open.spotify.com/track/35yTzGZiPJA3CallyJy1Ek) | [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [DJ JR No Beat](https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb) | [Passagem](https://open.spotify.com/album/3B6EVijO887Zc17CBTvXBS) | 2:25 | 2022-09-30 |  |
+| [Passado](https://open.spotify.com/track/1n8b0UZ8sR0ydKqRzalMqi) | [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [DJ JR No Beat](https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb) | [Passagem](https://open.spotify.com/album/5JrResfPd6NY6d4OWmtFyO) | 2:25 | 2022-10-24 |  |
+| [Passado](https://open.spotify.com/track/35yTzGZiPJA3CallyJy1Ek) | [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [DJ JR No Beat](https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb) | [Passagem](https://open.spotify.com/album/3B6EVijO887Zc17CBTvXBS) | 2:25 | 2022-09-30 | 2022-10-25 |
 | [Passarinho](https://open.spotify.com/track/2ttyjM3eBEhjMf5i8KstUa) | [Raycco](https://open.spotify.com/artist/4EiUouIqWkYsbRy641SgAJ) | [Último Grito](https://open.spotify.com/album/6KLLQxZcWBOiPkFkJoP3vh) | 2:54 | 2022-09-23 | 2022-10-01 |
 | [Paz na Favela](https://open.spotify.com/track/220zG3I9W8e9Qy3g2AKTP6) | [Mc DG da Coruja](https://open.spotify.com/artist/7gQu7sh7oNcduKJcYf9XDe), [PVHITS](https://open.spotify.com/artist/3HokfPZXqlOaKtLrCWz0gb) | [Paz na Favela](https://open.spotify.com/album/7niwd28VXCfuyMsMVdmddG) | 3:00 | 2022-05-13 | 2022-06-11 |
 | [Pensando Grande](https://open.spotify.com/track/4Lq2pqR7fKMkWGikBD6LjU) | [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD), [Yoka](https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC) | [Pensando Grande](https://open.spotify.com/album/70MTVcbcTvlMEoN9uYQP4H) | 2:20 | 2022-10-14 |  |

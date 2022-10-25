@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,094 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,110 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 25 | [Mi Cruz de Dolor](https://open.spotify.com/track/20E4GJqIyCVjNW9UiCmvoE) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Norteñas Consentidas en la Voz de Lalo Mora](https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU) | 3:37 |
 | 26 | [Bonita \- Norteña Version](https://open.spotify.com/track/0B6rjFyCQZvxUk58juuk00) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Visión 20.20 Éxitos](https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1) | 2:55 |
 | 27 | [Ojitos a Mi Gusto](https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:40 |
-| 28 | [Bajo Mil Llaves \- En Vivo](https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [En Vivo \(En Vivo \- México / 2005\)](https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s) | 2:48 |
-| 29 | [La Casita De Adobe](https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Casita De Adobe](https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ) | 3:11 |
+| 28 | [La Casita De Adobe](https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Casita De Adobe](https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ) | 3:11 |
+| 29 | [Bajo Mil Llaves \- En Vivo](https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [En Vivo \(En Vivo \- México / 2005\)](https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s) | 2:48 |
 | 30 | [La Carga Ladeada](https://open.spotify.com/track/1RhGBWA0En6KadlMY0a9rh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:43 |
-| 31 | [Hermosisimo Lucero](https://open.spotify.com/track/3dkgdxG4wDk3UQkVETh7YU) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [15 Éxitos del Recuerdo, Vol\. 2](https://open.spotify.com/album/5UGuEWfqs1JU8ZnUrpfjsX) | 3:40 |
-| 32 | [Se Vale Llorar](https://open.spotify.com/track/18OIUIhJegQ6KiMcekvBLo) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [X Aniversario](https://open.spotify.com/album/10KZI5H0ZTDzM69n8gYUe9) | 3:16 |
+| 31 | [Se Vale Llorar](https://open.spotify.com/track/18OIUIhJegQ6KiMcekvBLo) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [X Aniversario](https://open.spotify.com/album/10KZI5H0ZTDzM69n8gYUe9) | 3:16 |
+| 32 | [Hermosisimo Lucero](https://open.spotify.com/track/3dkgdxG4wDk3UQkVETh7YU) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [15 Éxitos del Recuerdo, Vol\. 2](https://open.spotify.com/album/5UGuEWfqs1JU8ZnUrpfjsX) | 3:40 |
 | 33 | [Necesito Odiarte](https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE) | 3:01 |
 | 34 | [Cariño Santo](https://open.spotify.com/track/6nt93dU2QlPMrVrEWfKKlj) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [12 Éxitos Con Sax al Estilo De: Lalo Mora](https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS) | 3:37 |
 | 35 | [Los Sauces Llorones](https://open.spotify.com/track/1gQKLdg3OAADtn3H0Bu9J1) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 3:19 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 37 | [En Mil Pedazos](https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [También De Los Ranchos Bajan](https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj) | 3:14 |
 | 38 | [Lucio Peña](https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:19 |
 | 39 | [Con el Brazo Derecho](https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:42 |
-| 40 | [Herida De Amor](https://open.spotify.com/track/1bq6FVl1BWHIDC4MkirNyg) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE) | 3:35 |
-| 41 | [Leonardo Reyes](https://open.spotify.com/track/1Xsr3iof8yaviVyTbpp0m6) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [12 Corridos](https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4) | 2:54 |
+| 40 | [Leonardo Reyes](https://open.spotify.com/track/1Xsr3iof8yaviVyTbpp0m6) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [12 Corridos](https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4) | 2:54 |
+| 41 | [Herida De Amor](https://open.spotify.com/track/1bq6FVl1BWHIDC4MkirNyg) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE) | 3:35 |
 | 42 | [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/4bSkZ266UEFGDDeAjyqu2G) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Ama a Su Público \(En Vivo\)](https://open.spotify.com/album/41u7D6sCeN75276OJs8FgM) | 3:33 |
 | 43 | [Mi Casa Nueva](https://open.spotify.com/track/0Z9CrDJJ78ZcCJIBBcxzu7) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Con Guitarras](https://open.spotify.com/album/4blQXogvGZUxRz3zbELk71) | 2:58 |
 | 44 | [Que Me Perdone Dios](https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corazón Indeseable](https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 49 | [Lupe Rubalcava AKA Corrido De Lupe Rubalcava](https://open.spotify.com/track/6EDnuILfWDWBXsFrTmDt8L) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:04 |
 | 50 | [Ferrari](https://open.spotify.com/track/5RU4aCfWgiDxrTqWLZTlsW) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Vinniys](https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr) | 1:35 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDA3YWI4YjM0ZmZlYjk4Y2RmYWEyMTk5NmRiZTJmMDcyZA==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDA3NDgxZjdlZmM4NmRiYWYxZTk2NWQ0N2EwNDUxZWU0Nw==`

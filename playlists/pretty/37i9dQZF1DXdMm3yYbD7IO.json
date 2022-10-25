@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 132782,
+  "num_followers": 132843,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ1NjM5MSwwMDAwMDAwMDcwMGI2YWU2ZWQ0ZmUxNzM4MzE2ZTUzNWZhYTcxNWRm",
+  "snapshot_id": "MTY2NTQ1NjM5MSwwMDAwMDAwMDgwMGRiNjlhOGI2ZWU5OTUyYjc2NWRjNzQ5ZDQ3ZDUw",
   "tracks": [
     {
       "added_at": "2022-10-11 02:46:31",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-10-11 02:46:31",
       "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2022-10-11 02:46:31",
+      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 261853,
       "name": "Poison",
       "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
-    },
-    {
-      "added_at": "2022-10-11 02:46:31",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2022-10-11 02:46:31",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-10-11 02:46:31",
       "album": {
+        "name": "Pump Up The Jam",
+        "url": "https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4"
+      },
+      "artists": [
+        {
+          "name": "Technotronic",
+          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
+        }
+      ],
+      "duration_ms": 320306,
+      "name": "Pump Up The Jam",
+      "url": "https://open.spotify.com/track/21qnJAMtzC6S5SESuqQLEK"
+    },
+    {
+      "added_at": "2022-10-11 02:46:31",
+      "album": {
         "name": "Totally Krossed Out",
         "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
       },
@@ -439,18 +455,18 @@
     {
       "added_at": "2022-10-11 02:46:31",
       "album": {
-        "name": "Pump Up The Jam",
-        "url": "https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4"
+        "name": "Hot, Cool & Vicious",
+        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
       },
       "artists": [
         {
-          "name": "Technotronic",
-          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
         }
       ],
-      "duration_ms": 320306,
-      "name": "Pump Up The Jam",
-      "url": "https://open.spotify.com/track/21qnJAMtzC6S5SESuqQLEK"
+      "duration_ms": 272133,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
     },
     {
       "added_at": "2022-10-11 02:46:31",
@@ -471,22 +487,6 @@
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
-    },
-    {
-      "added_at": "2022-10-11 02:46:31",
-      "album": {
-        "name": "Hot, Cool & Vicious",
-        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 272133,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
     },
     {
       "added_at": "2022-10-11 02:46:31",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-10-11 02:46:31",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
-    },
-    {
-      "added_at": "2022-10-11 02:46:31",
-      "album": {
         "name": "My Promise",
         "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 230760,
       "name": "I Like To Move It (feat. The Mad Stuntman) - Erick \"More\" Album Mix",
       "url": "https://open.spotify.com/track/6dHTkQYY3zdR9i9Nj0IGVW"
+    },
+    {
+      "added_at": "2022-10-11 02:46:31",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
     },
     {
       "added_at": "2022-10-11 02:46:31",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-10-11 02:46:31",
       "album": {
-        "name": "'N Sync",
-        "url": "https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Tearin' up My Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C"
-    },
-    {
-      "added_at": "2022-10-11 02:46:31",
-      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 216626,
       "name": "Lollipop (Candyman)",
       "url": "https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE"
+    },
+    {
+      "added_at": "2022-10-11 02:46:31",
+      "album": {
+        "name": "'N Sync",
+        "url": "https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Tearin' up My Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C"
     },
     {
       "added_at": "2022-10-11 02:46:31",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-10-11 02:46:31",
       "album": {
-        "name": "This Is Your Night",
-        "url": "https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA"
-      },
-      "artists": [
-        {
-          "name": "Amber",
-          "url": "https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "This Is Your Night",
-      "url": "https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV"
-    },
-    {
-      "added_at": "2022-10-11 02:46:31",
-      "album": {
         "name": "Fiesta Macarena",
         "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2022-10-11 02:46:31",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+        "name": "This Is Your Night",
+        "url": "https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA"
       },
       "artists": [
         {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+          "name": "Amber",
+          "url": "https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
-      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
+      "duration_ms": 238160,
+      "name": "This Is Your Night",
+      "url": "https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV"
     },
     {
       "added_at": "2022-10-11 02:46:31",
@@ -1267,6 +1251,22 @@
       "duration_ms": 289560,
       "name": "Vogue - Edit",
       "url": "https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn"
+    },
+    {
+      "added_at": "2022-10-11 02:46:31",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
     }
   ],
   "unique_name": "90's Workout",

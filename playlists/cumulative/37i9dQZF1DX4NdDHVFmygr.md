@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-169 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+170 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Crushi](https://open.spotify.com/track/1o6J9yEGafI0rbKfksplwF) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Crushi](https://open.spotify.com/album/1JO7MjScs6ZjUad2lBzKgA) | 3:02 | 2022-07-11 |  |
 | [Daba Yhan Moulana Feat Mom](https://open.spotify.com/track/01W5D1N6caqRwfz348c46b) | [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [Daba Yhan Moulana Feat Mom](https://open.spotify.com/album/6R3bqtQa9D4EnKIkFRuweA) | 3:41 | 2022-07-06 |  |
 | [De9at l9elb](https://open.spotify.com/track/3WzncgOidVpqkak5Ee4b1n) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [De9at l9elb](https://open.spotify.com/album/4AqUJTIVVpHmoGonhlp7Gr) | 2:34 | 2022-01-15 |  |
+| [Denbi](https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Denbi](https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr) | 2:56 | 2022-10-24 |  |
 | [Dime Porque](https://open.spotify.com/track/6yd5mN94Oi7OOZ4mGA7Co1) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Dime Porque](https://open.spotify.com/album/4F52Ar98sgSN12heKH3e7v) | 3:01 | 2022-06-02 |  |
 | [Douga](https://open.spotify.com/track/7H8cWXov4JefpfvzXiXt6B) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Douga](https://open.spotify.com/album/4moiez6TVp0ta4iGHf3Ms5) | 3:20 | 2022-06-17 |  |
 | [Douka](https://open.spotify.com/track/4XLGewxYfYfvaajEtRgDVy) | [Adil Assil](https://open.spotify.com/artist/5idudw3rFRe9uVUCus4Kp1) | [Douka](https://open.spotify.com/album/6FDpxxCHJwACZIzmtnRRch) | 3:12 | 2022-02-22 |  |

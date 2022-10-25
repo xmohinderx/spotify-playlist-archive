@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Silvana Estrada.",
-  "num_followers": 96117,
+  "num_followers": 96207,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyODQwMCwwMDAwMDAwMGRmNjMxNTZkMzViODU2N2EzM2Q5YjUwMjM1ZjUwM2I0",
+  "snapshot_id": "MTY2NjMyODQwMCwwMDAwMDAwMGZiZmFkN2VjY2EzZDgyMmE2MzIzYmJmN2Q1MjdhMmY5",
   "tracks": [
     {
       "added_at": "2022-10-21 05:00:00",
@@ -711,6 +711,26 @@
     {
       "added_at": "2022-10-21 05:00:00",
       "album": {
+        "name": "Vas a encontrarte (feat. Guitarricadelafuente)",
+        "url": "https://open.spotify.com/album/2tj9cT4X2ZZcOevz6limO7"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        },
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Vas a encontrarte (feat. Guitarricadelafuente) - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57"
+    },
+    {
+      "added_at": "2022-10-21 05:00:00",
+      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -723,6 +743,26 @@
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0"
+    },
+    {
+      "added_at": "2022-10-21 05:00:00",
+      "album": {
+        "name": "La Mirada",
+        "url": "https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "La Mirada",
+      "url": "https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb"
     },
     {
       "added_at": "2022-10-21 05:00:00",
@@ -759,46 +799,6 @@
       "duration_ms": 214405,
       "name": "Tu Ciudad",
       "url": "https://open.spotify.com/track/67Z5GMzR0MjCJ5sLtxZjHb"
-    },
-    {
-      "added_at": "2022-10-21 05:00:00",
-      "album": {
-        "name": "La Mirada",
-        "url": "https://open.spotify.com/album/3FZkTuYvjUBlFTzQ3GlNUC"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "La Mirada",
-      "url": "https://open.spotify.com/track/3fjbG2xC1znbKyeysQCNgb"
-    },
-    {
-      "added_at": "2022-10-21 05:00:00",
-      "album": {
-        "name": "Vas a encontrarte (feat. Guitarricadelafuente)",
-        "url": "https://open.spotify.com/album/2tj9cT4X2ZZcOevz6limO7"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        },
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Vas a encontrarte (feat. Guitarricadelafuente) - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57"
     },
     {
       "added_at": "2022-10-21 05:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-10-21 05:00:00",
       "album": {
-        "name": "Las Curanderas",
-        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
-      },
-      "artists": [
-        {
-          "name": "Laura Murcia",
-          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
-        }
-      ],
-      "duration_ms": 206061,
-      "name": "Las Curanderas",
-      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
-    },
-    {
-      "added_at": "2022-10-21 05:00:00",
-      "album": {
         "name": "la corriente",
         "url": "https://open.spotify.com/album/2KgE1HMACwm7Q0L0KmwrR5"
       },
@@ -891,18 +875,34 @@
     {
       "added_at": "2022-10-21 05:00:00",
       "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+        "name": "Las Curanderas",
+        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
       },
       "artists": [
         {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+          "name": "Laura Murcia",
+          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
         }
       ],
-      "duration_ms": 310216,
-      "name": "Nariz Con Ra\u00edz",
-      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
+      "duration_ms": 206061,
+      "name": "Las Curanderas",
+      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
+    },
+    {
+      "added_at": "2022-10-21 05:00:00",
+      "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 196984,
+      "name": "Temes",
+      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
     },
     {
       "added_at": "2022-10-21 05:00:00",
@@ -927,34 +927,18 @@
     {
       "added_at": "2022-10-21 05:00:00",
       "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
         }
       ],
-      "duration_ms": 196984,
-      "name": "Temes",
-      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
-    },
-    {
-      "added_at": "2022-10-21 05:00:00",
-      "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
+      "duration_ms": 310216,
+      "name": "Nariz Con Ra\u00edz",
+      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
     },
     {
       "added_at": "2022-10-21 05:00:00",
@@ -979,18 +963,38 @@
     {
       "added_at": "2022-10-21 05:00:00",
       "album": {
-        "name": "La Malquerida",
-        "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
+        "name": "El Viejo Comunista",
+        "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 485717,
-      "name": "La Malquerida - En Vivo",
-      "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
+      "duration_ms": 297000,
+      "name": "El Viejo Comunista",
+      "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
+    },
+    {
+      "added_at": "2022-10-21 05:00:00",
+      "album": {
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2022-10-21 05:00:00",
@@ -1011,22 +1015,18 @@
     {
       "added_at": "2022-10-21 05:00:00",
       "album": {
-        "name": "El Viejo Comunista",
-        "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
+        "name": "La Malquerida",
+        "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
       },
       "artists": [
         {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 297000,
-      "name": "El Viejo Comunista",
-      "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
+      "duration_ms": 485717,
+      "name": "La Malquerida - En Vivo",
+      "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
     },
     {
       "added_at": "2022-10-21 05:00:00",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2022-10-21 05:00:00",
       "album": {
+        "name": "Yo Soy",
+        "url": "https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 216891,
+      "name": "Yo Soy",
+      "url": "https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB"
+    },
+    {
+      "added_at": "2022-10-21 05:00:00",
+      "album": {
         "name": "Al Margen de Ojal\u00e1",
         "url": "https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus"
       },
@@ -1287,26 +1307,6 @@
     {
       "added_at": "2022-10-21 05:00:00",
       "album": {
-        "name": "Yo Soy",
-        "url": "https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 216891,
-      "name": "Yo Soy",
-      "url": "https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB"
-    },
-    {
-      "added_at": "2022-10-21 05:00:00",
-      "album": {
         "name": "Pasajeros",
         "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
       },
@@ -1323,26 +1323,6 @@
       "duration_ms": 312413,
       "name": "Nin\u0303a de mis ojos",
       "url": "https://open.spotify.com/track/6VhLNiAEbawLpsUgBIZt5P"
-    },
-    {
-      "added_at": "2022-10-21 05:00:00",
-      "album": {
-        "name": "Bossanova",
-        "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
-      },
-      "artists": [
-        {
-          "name": "Zenon Pereyra",
-          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 201878,
-      "name": "Bossanova",
-      "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
     },
     {
       "added_at": "2022-10-21 05:00:00",
@@ -1367,22 +1347,22 @@
     {
       "added_at": "2022-10-21 05:00:00",
       "album": {
-        "name": "Lo Primero",
-        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
+        "name": "Bossanova",
+        "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
       },
       "artists": [
         {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+          "name": "Zenon Pereyra",
+          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
         },
         {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 180778,
-      "name": "Un D\u00eda Lo Encontr\u00e9",
-      "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
+      "duration_ms": 201878,
+      "name": "Bossanova",
+      "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
     },
     {
       "added_at": "2022-10-21 05:00:00",
@@ -1399,6 +1379,26 @@
       "duration_ms": 167752,
       "name": "Rumba en Cahuita",
       "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
+    },
+    {
+      "added_at": "2022-10-21 05:00:00",
+      "album": {
+        "name": "Lo Primero",
+        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        },
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 180778,
+      "name": "Un D\u00eda Lo Encontr\u00e9",
+      "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
     },
     {
       "added_at": "2022-10-21 05:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-10-21 05:00:00",
       "album": {
-        "name": "Sana Sana",
-        "url": "https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 302976,
-      "name": "Sana Sana",
-      "url": "https://open.spotify.com/track/341SLEDngz2H0kE52OTXao"
-    },
-    {
-      "added_at": "2022-10-21 05:00:00",
-      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2022-10-21 05:00:00",
       "album": {
-        "name": "P A L A B R A",
-        "url": "https://open.spotify.com/album/5YOEvlFVR8UxB90TOvMHds"
+        "name": "Sana Sana",
+        "url": "https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9"
       },
       "artists": [
         {
-          "name": "Noelia Recalde",
-          "url": "https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         }
       ],
-      "duration_ms": 201053,
-      "name": "Contacto Directo",
-      "url": "https://open.spotify.com/track/5dZ4bUdscVr4lr3iNVfvYW"
+      "duration_ms": 302976,
+      "name": "Sana Sana",
+      "url": "https://open.spotify.com/track/341SLEDngz2H0kE52OTXao"
     },
     {
       "added_at": "2022-10-21 05:00:00",
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2022-10-21 05:00:00",
       "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+        "name": "P A L A B R A",
+        "url": "https://open.spotify.com/album/5YOEvlFVR8UxB90TOvMHds"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Noelia Recalde",
+          "url": "https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv"
         }
       ],
-      "duration_ms": 202680,
-      "name": "En Las Olas",
-      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
+      "duration_ms": 201053,
+      "name": "Contacto Directo",
+      "url": "https://open.spotify.com/track/5dZ4bUdscVr4lr3iNVfvYW"
     },
     {
       "added_at": "2022-10-21 05:00:00",
@@ -1575,6 +1559,22 @@
       "duration_ms": 240449,
       "name": "Moment\u00e1nea",
       "url": "https://open.spotify.com/track/1eLXjariIFQNSwzXoTNWBl"
+    },
+    {
+      "added_at": "2022-10-21 05:00:00",
+      "album": {
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "En Las Olas",
+      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
     },
     {
       "added_at": "2022-10-21 05:00:00",
@@ -1691,38 +1691,6 @@
     {
       "added_at": "2022-10-21 05:00:00",
       "album": {
-        "name": "Renacido",
-        "url": "https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg"
-      },
-      "artists": [
-        {
-          "name": "Lucas Hill",
-          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
-        }
-      ],
-      "duration_ms": 253986,
-      "name": "Renacido",
-      "url": "https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA"
-    },
-    {
-      "added_at": "2022-10-21 05:00:00",
-      "album": {
-        "name": "Bugambilia",
-        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 134956,
-      "name": "Paciencia",
-      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
-    },
-    {
-      "added_at": "2022-10-21 05:00:00",
-      "album": {
         "name": "La Sangre del Mundo",
         "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
       },
@@ -1739,22 +1707,6 @@
       "duration_ms": 264160,
       "name": "Coplas (feat. Perot\u00e1 Ching\u00f3)",
       "url": "https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9"
-    },
-    {
-      "added_at": "2022-10-21 05:00:00",
-      "album": {
-        "name": "Kumbayeo (Lado A)",
-        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Orquesta natural",
-      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
     },
     {
       "added_at": "2022-10-21 05:00:00",
@@ -1807,6 +1759,54 @@
       "duration_ms": 201346,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
+    },
+    {
+      "added_at": "2022-10-21 05:00:00",
+      "album": {
+        "name": "Renacido",
+        "url": "https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hill",
+          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
+        }
+      ],
+      "duration_ms": 253986,
+      "name": "Renacido",
+      "url": "https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA"
+    },
+    {
+      "added_at": "2022-10-21 05:00:00",
+      "album": {
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 134956,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
+    },
+    {
+      "added_at": "2022-10-21 05:00:00",
+      "album": {
+        "name": "Kumbayeo (Lado A)",
+        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Orquesta natural",
+      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
     }
   ],
   "unique_name": "Cancionistas",

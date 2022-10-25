@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-79 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
+80 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/track/3KArCRSFdHcVxN0z7tlX0F) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Batz Ninja](https://open.spotify.com/artist/6hpQHbMfl5l28hhWtCnSOG), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/album/7M1FD7Ji63zxEUpaZD5E1D) | 3:41 | 2021-11-12 |  |
 | [De Longe\. \- Acústico](https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [De Longe\. \(Acústico\)](https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk) | 3:26 | 2021-11-12 |  |
 | [De Manhã](https://open.spotify.com/track/73Er6bXtcym9mAJKqUuuP9) | [ProBeats](https://open.spotify.com/artist/590XVk6EtJK8V6G8S3ByVP), [Pedro Oldi](https://open.spotify.com/artist/0oqXUq2U1sd2ssSVYVwOgC), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [De Manhã](https://open.spotify.com/album/2AaLrOFuY9h2Rir8SU56nm) | 2:16 | 2022-09-09 | 2022-09-24 |
+| [De Volta](https://open.spotify.com/track/2Pe37qEd4Ds7QuuFyyRKgn) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Jef Rodriguez](https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo) | [De Volta](https://open.spotify.com/album/46H9YGkAhQNNBcoW67ZwFQ) | 2:34 | 2022-10-24 |  |
 | [Deixa Queimar](https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf) | [Gabi Terreiro](https://open.spotify.com/artist/47h0ARjXa0XT33CgBF0o2G), [Theus Terreiro](https://open.spotify.com/artist/20lXAO0WbrxNENfAnsj1wg), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Elementar](https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq) | 2:50 | 2021-11-12 |  |
 | [Deixe Me Ir \- Acústico](https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy) | [Deixe Me Ir \(Acústico\)](https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr) | 3:33 | 2021-11-12 |  |
 | [Doses](https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr) | [K.E](https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI) | [Doses](https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd) | 3:26 | 2021-11-12 |  |
@@ -66,7 +67,7 @@
 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 | 2021-11-12 |  |
 | [Probleminha Diário \(Papasessions \#7\)](https://open.spotify.com/track/3fT7cJoa7RqsvNZnEC45EC) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD) | [Probleminha Diário \(Papasessions \#7\)](https://open.spotify.com/album/7A8XaIPQmaZtvgo25ut9i8) | 4:05 | 2021-11-12 |  |
 | [Qualquer Maneira](https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Qualquer Maneira](https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r) | 5:31 | 2021-11-12 |  |
-| [Reggaezin Do LotHzin](https://open.spotify.com/track/7DMbWO0qRvliv85AneFv2M) | [LotH](https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a) | [Reggaezin Do LotHzin](https://open.spotify.com/album/6mQpdAV0b0CIiz5TA3gcyy) | 2:47 | 2022-07-29 |  |
+| [Reggaezin Do LotHzin](https://open.spotify.com/track/7DMbWO0qRvliv85AneFv2M) | [LotH](https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a) | [Reggaezin Do LotHzin](https://open.spotify.com/album/6mQpdAV0b0CIiz5TA3gcyy) | 2:47 | 2022-07-29 | 2022-10-25 |
 | [Rosas Rositas](https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Rosas Rositas](https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt) | 5:09 | 2021-11-12 |  |
 | [Rosé](https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj) | 3:32 | 2022-06-24 |  |
 | [Rosé](https://open.spotify.com/track/3P4UaGYj01Sg0eajkM6jne) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6MqxgbPunGcsyH5AkEhD5Y) | 3:32 | 2021-11-12 | 2022-07-29 |

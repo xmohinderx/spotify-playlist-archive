@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 260148,
       "name": "Part Of The Band",
       "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
@@ -931,6 +931,36 @@
       "duration_ms": 216560,
       "name": "When You Love Someone",
       "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
+    },
+    {
+      "album": {
+        "name": "Where I Go (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201026,
+      "name": "Where I Go (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
     },
     {
       "album": {

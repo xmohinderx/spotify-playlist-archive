@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 19351,
+  "num_followers": 19404,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMzMjk3OCwwMDAwMDAwMGQxZjJhMDBhZGZiMjg3MWQwNzJlMzIxZTEzYTcyNDYw",
+  "snapshot_id": "MTY2NjMzMjk3OCwwMDAwMDAwMDFiYzA1ZmZjMGQ3MDQ3MjBhY2ZkNDM1ZTJhNzI1YWZj",
   "tracks": [
     {
       "added_at": "2022-06-16 23:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "Infinity (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
         "url": "https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 251286,
       "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
       "url": "https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Infinity (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "LV N ATTN",
@@ -795,6 +779,22 @@
       "duration_ms": 213991,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -833,6 +833,22 @@
       "url": "https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6"
     },
     {
+      "added_at": "2022-09-23 06:29:30",
+      "album": {
+        "name": "Xtra Cool",
+        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "No Wahala",
@@ -863,26 +879,6 @@
       "duration_ms": 151640,
       "name": "Peru",
       "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Sungba (Remix) [feat. Burna Boy]",
-        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sungba (feat. Burna Boy) - Remix",
-      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -933,20 +929,24 @@
       "url": "https://open.spotify.com/track/0KLY7SCQuVA4Hk1nzk61p4"
     },
     {
-      "added_at": "2022-09-23 06:29:30",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Xtra Cool",
-        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
+        "name": "Sungba (Remix) [feat. Burna Boy]",
+        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Xtra Cool",
-      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+      "duration_ms": 210000,
+      "name": "Sungba (feat. Burna Boy) - Remix",
+      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -983,6 +983,26 @@
       "duration_ms": 180563,
       "name": "attention",
       "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Dada (feat. Davido) [Remix]",
+        "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "Dada (feat. Davido) [Remix]",
+      "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
     },
     {
       "added_at": "2022-06-23 23:00:00",
@@ -1057,26 +1077,6 @@
       "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Dada (feat. Davido) [Remix]",
-        "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "Dada (feat. Davido) [Remix]",
-      "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
-    },
-    {
       "added_at": "2022-09-30 07:00:51",
       "album": {
         "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
-    },
-    {
       "added_at": "2022-06-23 23:00:00",
       "album": {
         "name": "SHOWING OFF HER BODY (with Davido)",
@@ -1185,20 +1169,20 @@
       "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-07-14 23:00:00",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 125030,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj"
+      "duration_ms": 183056,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
     },
     {
       "added_at": "2022-10-07 05:54:24",
@@ -1219,6 +1203,78 @@
       "duration_ms": 150857,
       "name": "Back In Uni",
       "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 125030,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Realms",
+        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 156083,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Loading (feat. Bad Boy Timz)",
+      "url": "https://open.spotify.com/track/558ULLj8yY2vT8XGtgY0q9"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "PALAZZO",
+        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 186002,
+      "name": "PALAZZO",
+      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -1249,138 +1305,6 @@
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Loading (feat. Bad Boy Timz)",
-      "url": "https://open.spotify.com/track/558ULLj8yY2vT8XGtgY0q9"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Realms",
-        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 156083,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Holy Father",
-        "url": "https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Holy Father",
-      "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 160799,
-      "name": "One Woman",
-      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "PALAZZO",
-        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "PALAZZO",
-      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 206775,
-      "name": "Snapchat",
-      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Baddest Boy (Remix)",
-        "url": "https://open.spotify.com/album/2aNveWp5zVMduvpZwAZTpf"
-      },
-      "artists": [
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 144065,
-      "name": "Baddest Boy - Remix",
-      "url": "https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1"
-    },
-    {
       "added_at": "2022-09-23 06:29:30",
       "album": {
         "name": "Patek",
@@ -1405,20 +1329,80 @@
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     },
     {
-      "added_at": "2022-09-19 07:19:33",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "LEADER!",
-        "url": "https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC"
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 141958,
-      "name": "LEADER!",
-      "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 206775,
+      "name": "Snapchat",
+      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Holy Father",
+        "url": "https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Baddest Boy (Remix)",
+        "url": "https://open.spotify.com/album/2aNveWp5zVMduvpZwAZTpf"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "Baddest Boy - Remix",
+      "url": "https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1443,22 +1427,34 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Champion Sound",
-        "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 237876,
-      "name": "Champion Sound",
-      "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": "2022-09-19 07:19:33",
+      "album": {
+        "name": "LEADER!",
+        "url": "https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 141958,
+      "name": "LEADER!",
+      "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1475,6 +1471,26 @@
       "duration_ms": 179417,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/7tzOeM0LbXJYMzjny2D45r"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Champion Sound",
+        "url": "https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        }
+      ],
+      "duration_ms": 237876,
+      "name": "Champion Sound",
+      "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1509,6 +1525,22 @@
       "url": "https://open.spotify.com/track/3PnkEOvEKu7s2qQJ5mHpNl"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o"
+    },
+    {
       "added_at": "2022-07-14 23:00:00",
       "album": {
         "name": "Like (feat. Kizz Daniel)",
@@ -1531,42 +1563,6 @@
       "duration_ms": 150545,
       "name": "Like (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Don't Call Me (feat. Zinoleesky)",
-        "url": "https://open.spotify.com/album/2fvt1NxBjoCXfLrUlnsqkD"
-      },
-      "artists": [
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 178983,
-      "name": "Don't Call Me (feat. Zinoleesky)",
-      "url": "https://open.spotify.com/track/2XuLnQELesgnkCGZbSJHO0"
     }
   ],
   "unique_name": "Party Dey!",

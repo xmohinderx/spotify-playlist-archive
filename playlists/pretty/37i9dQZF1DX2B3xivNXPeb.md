@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,673 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,703 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 24 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 |
 | 25 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |
 | 26 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
-| 27 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
-| 28 | [Breathe Deeper](https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:12 |
-| 29 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 |
+| 27 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 |
+| 28 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
+| 29 | [Breathe Deeper](https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:12 |
 | 30 | [Friends](https://open.spotify.com/track/18RdChpgvaAO7GXDjLks2B) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Glorious](https://open.spotify.com/album/4vzUW9Ehl9eFz59bvzazJ0) | 2:58 |
-| 31 | [Shake It Out](https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:37 |
-| 32 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 |
-| 33 | [Pretty Shining People](https://open.spotify.com/track/2JVwsN6viHjR9t5pCPQ4Br) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:32 |
+| 31 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 |
+| 32 | [Pretty Shining People](https://open.spotify.com/track/2JVwsN6viHjR9t5pCPQ4Br) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:32 |
+| 33 | [Shake It Out](https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:37 |
 | 34 | [Shot in the Dark](https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:09 |
 | 35 | [Broke Boy](https://open.spotify.com/track/7IFFuUYZTa5CUNz099dUqB) | [Malia Civetz](https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo) | [Broke Boy \(Stripped\)](https://open.spotify.com/album/2ucYRTvbEdi5ThvEZ4kUBe) | 2:53 |
 | 36 | [Fired Up](https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Fired Up](https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP) | 3:21 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 53 | [This City Remix \(feat\. Anne\-Marie\)](https://open.spotify.com/track/1FtIOsS879PVgtHKw3C6Vs) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [This City Remix \(feat\. Anne\-Marie\)](https://open.spotify.com/album/1CaqKGLTbEJzGTikKtoQi6) | 3:17 |
 | 54 | [Tell Me](https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Collage 1](https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs) | 3:20 |
 | 55 | [honey](https://open.spotify.com/track/3MMLO6TUL07tze9IXud0Vc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [honey](https://open.spotify.com/album/2cohgImotWDHJ3P1ZuVDpw) | 4:14 |
-| 56 | [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 |
-| 57 | [Sunday Morning](https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Phases EP](https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG) | 3:20 |
+| 56 | [Sunday Morning](https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Phases EP](https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG) | 3:20 |
+| 57 | [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 |
 | 58 | [\(Lover\) You Don't Treat Me No Good](https://open.spotify.com/track/1wdQiMzfdRiufsCKWH2anl) | [D\. Pritzker](https://open.spotify.com/artist/7hSWOsjh4uFNAS6c3gcm25), [Sonia Dada](https://open.spotify.com/artist/1aTjB39eq6n3HcA8MbGpGp) | [Sonia Dada](https://open.spotify.com/album/5pvGQ3nohEcX2yJ1hAyX7u) | 4:07 |
 | 59 | [la la la that’s how it goes](https://open.spotify.com/track/5Pw4Q2Z2NttJtISFFxe9MK) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/3DG5MS8iKYcJROCnb1DYDf) | 3:39 |
 | 60 | [High](https://open.spotify.com/track/7zB3ZhA5v33pA4rCdKKGqq) | [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [Postcards From Heaven](https://open.spotify.com/album/1Pl9C2X0IiwBUyRqAwpbV1) | 5:10 |
 
-Snapshot ID: `MTY0NDg0NjY4MCwwMDAwMDAwMGU5N2UxZmE3MmYwMTYzNTA0MTc1NjNiMDc0MjAyZmVk`
+Snapshot ID: `MTY0NDg0NjY4MCwwMDAwMDAwMDMwOTUyYjU0NGRjNWI5YjFjZDU0YTFlZWY0ZjE1Y2E3`

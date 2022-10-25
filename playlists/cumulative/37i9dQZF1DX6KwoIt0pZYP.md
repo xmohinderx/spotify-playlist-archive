@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-386 songs - 21 hr 34 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
+387 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Between](https://open.spotify.com/track/2gvnarE4HaKoYjBAjWPPe0) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [The Chase](https://open.spotify.com/album/5wSaWEn5pI90bczSQP6U8f) | 2:48 | 2022-03-29 | 2022-04-20 |
 | [Beyond](https://open.spotify.com/track/0Eo54xCp6agPUoddGv9Ta5) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Beyond](https://open.spotify.com/album/5GFXvWabokOiYcbaI3Vo3g) | 2:44 | 2022-01-28 | 2022-07-10 |
 | [Bing Bong Love Song](https://open.spotify.com/track/2QaYMOWsraUKljpfSOVJAf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Bing Bong Love Song](https://open.spotify.com/album/4MuTKimimHG4JUMaI3S1LW) | 2:18 | 2022-07-22 | 2022-08-13 |
-| [Binibini \(Last Day On Earth\) \(feat\. James TW\)](https://open.spotify.com/track/6j9kSGlYLZdZ9sZkY9DjzY) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Binibini \(Last Day On Earth\)](https://open.spotify.com/album/0MsGCH9D7oBrAO9QrwZGXs) | 3:39 | 2022-01-28 |  |
+| [Binibini \(Last Day On Earth\) \(feat\. James TW\)](https://open.spotify.com/track/6j9kSGlYLZdZ9sZkY9DjzY) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Binibini \(Last Day On Earth\)](https://open.spotify.com/album/0MsGCH9D7oBrAO9QrwZGXs) | 3:39 | 2022-01-28 | 2022-10-25 |
 | [Birdy](https://open.spotify.com/track/5hBpxb5JtyfqLWOlIaZ9YY) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/77yXxEndm5eQyRQUQweAsY) | 4:33 | 2022-01-28 | 2022-07-25 |
 | [Black & Blue](https://open.spotify.com/track/0nG9UdOvcxq16buOenF8a0) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [Black & Blue](https://open.spotify.com/album/0GU8nszlbBQiyt1GLmKCQZ) | 3:17 | 2022-08-12 | 2022-08-20 |
 | [blame on you](https://open.spotify.com/track/5dGUfQBSrgMA5SQ2H4Bx1Y) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Vol.5](https://open.spotify.com/album/2OGD6TvczAOm8AJk0V21cU) | 2:44 | 2022-03-29 | 2022-04-17 |
@@ -372,6 +372,7 @@
 | [Wine](https://open.spotify.com/track/1sp745hELNnYUHowtyvAvn) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [Wine](https://open.spotify.com/album/2VlVUCmoqWKd15SOiSeJAS) | 5:50 | 2022-01-28 | 2022-07-26 |
 | [Wintertime Is Over](https://open.spotify.com/track/6hAWz1CnpMd8a7JmkJiigT) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [ANT](https://open.spotify.com/artist/64ZqV2zqmap4c0HqxzAoYv) | [Wintertime Is Over](https://open.spotify.com/album/0MzjNHWmx9BwvnK0WOVOiY) | 3:09 | 2022-06-17 | 2022-08-13 |
 | [Wish That I Could Tell Me](https://open.spotify.com/track/2KIaV1i6atL8QHTGNhhPHu) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [Wish That I Could Tell Me](https://open.spotify.com/album/2BgA7q06Jq8dgK9bphiBsm) | 4:09 | 2022-10-14 |  |
+| [Wishful Thinking](https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Wishful Thinking](https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d) | 3:06 | 2022-10-14 |  |
 | [Wishful Thinking](https://open.spotify.com/track/1VOpd2D30gx8CIXVFcb37Y) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Wishful Thinking](https://open.spotify.com/album/4q6HSxSGsjT8jEah5Kyyie) | 3:06 | 2022-05-09 | 2022-10-13 |
 | [Won't Stop](https://open.spotify.com/track/4pF9dg6CsvSPyScJvymAZe) | [Tabitha Nauser](https://open.spotify.com/artist/7EY3xvBhvVnAGIN4hyGIUk) | [Won't Stop](https://open.spotify.com/album/2JLSP63x2czSKnZnzBKGfJ) | 3:37 | 2022-02-11 | 2022-05-20 |
 | [worst of me](https://open.spotify.com/track/1gfoaJKL6eZDr4w7lyboHc) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [worst of me](https://open.spotify.com/album/0uXaZ9LlHXSujIm7HhpONn) | 2:37 | 2022-01-28 | 2022-07-25 |

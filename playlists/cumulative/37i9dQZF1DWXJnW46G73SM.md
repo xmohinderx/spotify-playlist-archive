@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: شارموفرز و حسن شاكوش
 
-237 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+238 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-12-23 | 2022-01-21 |
 | [Gehaz Tasgeel](https://open.spotify.com/track/31kJfQ4nHd7tuxNnfBfWe8) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Gehaz Tasgeel](https://open.spotify.com/album/6Acw13zVdVC2jfZ9vr94dL) | 3:05 | 2021-12-23 | 2022-02-18 |
 | [Ghadara](https://open.spotify.com/track/09IDaUSiljvpgn8Maga1le) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [Ghadara](https://open.spotify.com/album/1nBeYWpShZ8LRON2jX26Ho) | 3:18 | 2022-10-13 |  |
+| [Ghasb Anny](https://open.spotify.com/track/20MpmTGEcFIfMxxqobnxnl) | [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Ghasb Anny](https://open.spotify.com/album/0XAMmhfNF6ezT5eEYPYKSy) | 4:24 | 2022-10-24 |  |
 | [Ghayart El Tarekh](https://open.spotify.com/track/7KKXMHZZbl3j2u6NgMKnrq) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Ghayart El Tarekh](https://open.spotify.com/album/6grY10EzNruoWcBvo2MxKG) | 3:50 | 2021-12-23 | 2022-02-02 |
 | [Ghi T9al \(Et2al\)](https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:38 | 2022-10-20 |  |
 | [Good Morning Baby](https://open.spotify.com/track/3XklYy1kjbs0y0HL5s56gU) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [Good Morning Baby](https://open.spotify.com/album/41rVNCKFx5rMKUKRKcyLdg) | 2:31 | 2022-05-04 | 2022-08-21 |

@@ -1764,6 +1764,24 @@
     },
     {
       "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "album": {
         "name": "eee",
         "url": "https://open.spotify.com/album/7rnN1mCHS0lELUTV48yDyZ"
       },

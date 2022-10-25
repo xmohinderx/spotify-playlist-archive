@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-277 songs - 18 hr 51 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
+278 songs - 18 hr 55 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Let's Do It](https://open.spotify.com/track/67fFApZyHZ9LjsvkUQJShY) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/1B9CLt71zBlS87qDLXqcqQ) | 3:05 | 2022-01-20 | 2022-07-29 |
 | [Let's Do It](https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:05 | 2022-07-14 |  |
 | [Let's Fall in Love](https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [That Towering Feeling](https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos) | 1:58 | 2022-01-20 |  |
-| [Let’s Fall In Love](https://open.spotify.com/track/6YCIFKFWx0pxMEUl8Vko6l) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [The Art Of Elegance](https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo) | 3:09 | 2022-01-20 |  |
+| [Let’s Fall In Love](https://open.spotify.com/track/6YCIFKFWx0pxMEUl8Vko6l) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [The Art Of Elegance](https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo) | 3:09 | 2022-01-20 | 2022-10-25 |
 | [Love Song](https://open.spotify.com/track/5Kl1fxp9mTCwtqDaxfDV7i) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Sunset In The Blue \(Deluxe Version\)](https://open.spotify.com/album/7vSwamY5i4hhnRSnpyLsAx) | 5:25 | 2022-01-20 |  |
 | [Love Tastes Like Strawberries](https://open.spotify.com/track/61jFe9N3u046ORguFBVAQa) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Love Tastes Like Strawberries](https://open.spotify.com/album/3oOqTn2s7bE9Ye7GTmKO6m) | 3:38 | 2022-02-11 | 2022-10-08 |
 | [Lucky To Be Me](https://open.spotify.com/track/1NeeobDoLiJb8U7X10vw3t) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Over The Years](https://open.spotify.com/album/3XE2b9grofAamuVk72wdn5) | 7:29 | 2022-01-20 | 2022-10-08 |
@@ -185,6 +185,7 @@
 | [Nice Work If You Can Get It](https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM) | [Kristina Ray](https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU) | 3:25 | 2022-01-20 |  |
 | [Night And Day](https://open.spotify.com/track/65cIgw9x1CGjpn1ar351Rl) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Stardust...The Great American Songbook III](https://open.spotify.com/album/7Eq9kjeFYGjUAlEgDrAiOU) | 3:08 | 2022-01-20 | 2022-10-08 |
 | [Night Light](https://open.spotify.com/track/1cBn9zq9u8tWJnQAedBAXO) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 4:02 | 2022-08-29 | 2022-09-01 |
+| [Night Light](https://open.spotify.com/track/586XY9PKIeyOtclmPvF1yS) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 4:02 | 2022-10-20 |  |
 | [Night Light](https://open.spotify.com/track/5TKbqeJxocoYASpXQCibS5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 4:02 | 2022-08-29 | 2022-10-13 |
 | [Nightjar in the Northern Sky](https://open.spotify.com/track/3Lm4Il6xzIbfZ0XmneRCRA) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Nightjar in the Northern Sky](https://open.spotify.com/album/0r36MHOZz9hrzGQF6m6Ylr) | 4:47 | 2022-01-20 | 2022-07-29 |
 | [Nightjar in the Northern Sky](https://open.spotify.com/track/5fCsD2cRqXf0q5JAGTrmez) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Nightjar in the Northern Sky](https://open.spotify.com/album/5xFn6wFCZJ3DTJwzEzaFEV) | 4:47 | 2022-07-14 | 2022-10-12 |

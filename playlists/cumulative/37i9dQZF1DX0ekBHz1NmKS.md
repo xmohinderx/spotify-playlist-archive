@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-583 songs - 1 day 7 hr 2 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+584 songs - 1 day 7 hr 6 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [All My Heroes](https://open.spotify.com/track/3kznrAMtKVUCyIwd6RPnYN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/7tbUp2NTr7CxIgIF04Kf5U) | 3:25 | 2022-03-10 | 2022-05-11 |
 | [Alla måste älska mig](https://open.spotify.com/track/3xahTikNV7Arb70nJcavwM) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Alla måste älska mig](https://open.spotify.com/album/7DViMnpL50xK4xAUYmECH1) | 2:44 | 2022-06-09 | 2022-07-28 |
 | [Allt det vackra](https://open.spotify.com/track/3IrNhMvzard7nCKgfe18IW) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden \(del 2\)](https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP) | 3:24 | 2021-12-16 | 2022-03-11 |
-| [Allt jag kan](https://open.spotify.com/track/7oBOc7PJvCvPTbwQEXgkBd) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG), [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Emily](https://open.spotify.com/album/0jiIw5BInP2WWcilBfQUJ2) | 2:58 | 2022-06-23 | 2022-10-20 |
+| [Allt jag kan](https://open.spotify.com/track/7oBOc7PJvCvPTbwQEXgkBd) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG), [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Emily](https://open.spotify.com/album/0jiIw5BInP2WWcilBfQUJ2) | 2:58 | 2022-06-23 |  |
 | [Allt som är bra tar slut](https://open.spotify.com/track/2iF61pNmL69bH2EgkjDePN) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Allt som är bra tar slut](https://open.spotify.com/album/2RI9f4DdEZFeFfJdYz471K) | 2:27 | 2022-04-22 |  |
 | [Allt är som det ska](https://open.spotify.com/track/37sOZJZ6K2OTwI2IWfEHKw) | [Maydar](https://open.spotify.com/artist/0pufHUD9Nj4HnRY5PWnH3y) | [Gav allt och det får räcka](https://open.spotify.com/album/4VN1X12HIJTpnkDOagc1mH) | 3:11 | 2022-04-28 | 2022-07-26 |
 | [Alone with Me](https://open.spotify.com/track/4LvpvKYAJY7S4oWygjyCbS) | [Bella Skyller](https://open.spotify.com/artist/5c8mQlkuj5vXcRsPvdAdjD) | [Alone with Me](https://open.spotify.com/album/6h1jgOTerKJ2t8xFF2Or7E) | 3:28 | 2022-03-17 | 2022-05-08 |
@@ -122,6 +122,7 @@
 | [Do Yourself A Favor](https://open.spotify.com/track/3z6JKCqhbQn3ugsudRGYvj) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Do Yourself A Favor](https://open.spotify.com/album/2600bCiDKk5STWQQAjiU5Y) | 2:35 | 2021-12-16 | 2021-12-22 |
 | [Dom Kallar Mig För…](https://open.spotify.com/track/6RCOwKoJ4FFnPTT4cAoHWl) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh) | [Dom Kallar Mig För…](https://open.spotify.com/album/5E2K65cY1XssPNMQjPQrwZ) | 3:26 | 2021-12-16 | 2022-03-11 |
 | [DOM SKA VETA](https://open.spotify.com/track/1pmGoAvlHYVrJHM5TJwshR) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/48vIZKupNW6lDWwjCyCgeA) | 1:55 | 2021-12-16 | 2022-03-10 |
+| [Don't Lay It All On Me](https://open.spotify.com/track/1HRqrNwbigZTSvx4F6zyOb) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Don't Lay It All On Me](https://open.spotify.com/album/6cXnkR2AXOQyAAnOLe3OfH) | 3:51 | 2022-10-15 |  |
 | [Don't Want To Know](https://open.spotify.com/track/5sZaLWNPVqcqRv0JFj4uY1) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Don't Want To Know](https://open.spotify.com/album/0bQfhNwmDbFTLpY6EYOJZF) | 2:23 | 2022-03-10 | 2022-04-21 |
 | [Don't You Dare](https://open.spotify.com/track/4pPlZhhuHGACJewIvWNEMG) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Don't You Dare](https://open.spotify.com/album/7jZ5uylJxeg5TA1jHy32LQ) | 2:53 | 2022-05-26 | 2022-07-28 |
 | [Dragonfly](https://open.spotify.com/track/6iwcTqL7734NG9OOkRcoCm) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Dragonfly](https://open.spotify.com/album/6gIx9WqJJsZ3SRVBha3iI5) | 3:08 | 2022-09-29 |  |
@@ -181,7 +182,7 @@
 | [Förlora mig](https://open.spotify.com/track/7LKZIASzyTpIuUiJ6ed2Ra) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [Förlora mig](https://open.spotify.com/album/1ss6cOzXB9SEIPLc4sDtGY) | 2:03 | 2022-05-19 | 2022-07-29 |
 | [Förlorat mot världen](https://open.spotify.com/track/0b7wXTM7SXxES4TicoyWEr) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt \(Kapitel 1\)](https://open.spotify.com/album/3WwG3XxkNpTD59sm4QiyoE) | 3:06 | 2021-12-16 | 2022-03-02 |
 | [Försent för mig](https://open.spotify.com/track/6dX26pB0ZQGZHN0NkWhTMF) | [Leo Berg](https://open.spotify.com/artist/5FUB3v35PcriAp7DWHfQVK) | [Försent för mig](https://open.spotify.com/album/7rXTdoTOtJIXdI6je3y8vp) | 3:08 | 2022-04-28 | 2022-07-14 |
-| [Förstår Det Nu](https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Förstår Det Nu](https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp) | 3:52 | 2022-06-30 |  |
+| [Förstår Det Nu](https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Förstår Det Nu](https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp) | 3:52 | 2022-06-30 | 2022-10-25 |
 | [Ge mig ett tecken](https://open.spotify.com/track/47rIgHqtTANAsbomEMKAZn) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Ge mig ett tecken](https://open.spotify.com/album/6fGHPpUiSpHau74zXUfBza) | 2:54 | 2022-03-10 | 2022-07-29 |
 | [Gemini](https://open.spotify.com/track/12cm3pn2krN7RgN0pLlwtY) | [Sahara Hotnights](https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE) | [Gemini](https://open.spotify.com/album/7GD6EPBfQtoZddrwvQTkmL) | 3:12 | 2022-04-01 | 2022-07-28 |
 | [Generational Love](https://open.spotify.com/track/2qK0gymuVZPpwzA4IeV7mt) | [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [PoP Poetry](https://open.spotify.com/album/37Xup1418QGS4CEFVpsaYu) | 3:18 | 2022-09-22 | 2022-10-07 |
@@ -372,7 +373,7 @@
 | [Om det ändå räckte att ångra sig](https://open.spotify.com/track/6sDB6B9NkOy0LdLGhPKOu6) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Djur och människa](https://open.spotify.com/album/4Q6QpBgnx0XhGEgZHTC0hd) | 3:03 | 2022-06-09 |  |
 | [Once in a While \[smile\]](https://open.spotify.com/track/0KfZG5q5Dwzfkb1DItAczm) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Once in a While \[smile\]](https://open.spotify.com/album/42htWiHQEafnwwNsiQev0s) | 2:59 | 2022-09-08 |  |
 | [One More Time](https://open.spotify.com/track/4rQSkio3a0iiLSEuoWMwOF) | [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [One More Time](https://open.spotify.com/album/6oG8wiEJIcBjXehs0lbiLN) | 2:57 | 2022-04-07 | 2022-07-27 |
-| [Ordning & Reda](https://open.spotify.com/track/7ALAfr3jpBnXKZ3g1hdlH3) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw) | [Ordning & Reda](https://open.spotify.com/album/6S6sAs5yDpBxJiHUy9b8NB) | 2:21 | 2022-06-30 |  |
+| [Ordning & Reda](https://open.spotify.com/track/7ALAfr3jpBnXKZ3g1hdlH3) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw) | [Ordning & Reda](https://open.spotify.com/album/6S6sAs5yDpBxJiHUy9b8NB) | 2:21 | 2022-06-30 | 2022-10-25 |
 | [Oron](https://open.spotify.com/track/50yVZ2s5nmodWAvKGDdnxT) | [O!](https://open.spotify.com/artist/7nza9FCmRyw0Kha7Sqv2K6) | [Oron](https://open.spotify.com/album/4NHcks6sxG0wXXFv7CBjhL) | 2:40 | 2022-04-01 | 2022-04-21 |
 | [Oscillating Love](https://open.spotify.com/track/3OkCg0FmQic1z61kpzMmkI) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [Oscillating Love](https://open.spotify.com/album/0px93W1pVB6l4matH0a2TK) | 4:58 | 2021-12-16 | 2022-02-06 |
 | [Our Night](https://open.spotify.com/track/7FBjqWG2unTeEHV2Hi6Mcg) | [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Motik](https://open.spotify.com/artist/0bbGuJjcgH3cS4EyF8PhhX), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Our Night](https://open.spotify.com/album/1OTQVr8JLKQ3vwBjSDb3Ry) | 2:45 | 2021-12-16 | 2021-12-25 |

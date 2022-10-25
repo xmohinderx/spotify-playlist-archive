@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 152492,
       "name": "A Promise",
       "url": "https://open.spotify.com/track/12mPhV7uZAyDaR2oXMTu6Z"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 152985,
       "name": "Alba",
       "url": "https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf"
@@ -1789,6 +1789,24 @@
       "duration_ms": 190723,
       "name": "Amihan",
       "url": "https://open.spotify.com/track/4Si7JHUD6XLygvGzNFyBMa"
+    },
+    {
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/1iHJbuAZ4PXIQCRNrXSTtu"
+      },
+      "artists": [
+        {
+          "name": "Elisa Avaria",
+          "url": "https://open.spotify.com/artist/19l9DOMaVO3If07e0zMTBp"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155174,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/4uHzzAb1p6gK5unlp64Vrg"
     },
     {
       "album": {
@@ -2495,6 +2513,24 @@
       "duration_ms": 177000,
       "name": "Away",
       "url": "https://open.spotify.com/track/2mpDoMepkxUD7GusdybNIq"
+    },
+    {
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG"
+      },
+      "artists": [
+        {
+          "name": "Ryley Moss",
+          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144905,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE"
     },
     {
       "album": {
@@ -4389,6 +4425,24 @@
       "duration_ms": 140733,
       "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
       "url": "https://open.spotify.com/track/2AkcjsKlRbIBYGAgpQVFii"
+    },
+    {
+      "album": {
+        "name": "Con Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5J12GR7RKMZGO96J7JIZnp"
+      },
+      "artists": [
+        {
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146679,
+      "name": "Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/5Wp5IP3REfgDJnxKeUOfb3"
     },
     {
       "album": {
@@ -6629,7 +6683,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 160009,
       "name": "Fallboard",
       "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
@@ -7810,6 +7864,24 @@
     },
     {
       "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Pascoal",
+          "url": "https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219565,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL"
+    },
+    {
+      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/0XirurPx9hImK25nVbAGXo"
       },
@@ -8779,7 +8851,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 162250,
       "name": "Homestead",
       "url": "https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab"
@@ -8797,7 +8869,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 151624,
       "name": "Homeward",
       "url": "https://open.spotify.com/track/6p8tAo2HjobS7Me75EJcBq"
@@ -13490,6 +13562,24 @@
     },
     {
       "album": {
+        "name": "Millenia",
+        "url": "https://open.spotify.com/album/6MD0p68SjDkCbwK7amg5nx"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154933,
+      "name": "Millenia",
+      "url": "https://open.spotify.com/track/5KikhbdQUWeO0CsloJVCPK"
+    },
+    {
+      "album": {
         "name": "Mimetismo",
         "url": "https://open.spotify.com/album/1I1H1XcRBbl0KfUeVFSSA3"
       },
@@ -14315,7 +14405,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 150250,
       "name": "Mystique",
       "url": "https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA"
@@ -15234,6 +15324,24 @@
     },
     {
       "album": {
+        "name": "Heart Open & Oak Bluffs",
+        "url": "https://open.spotify.com/album/0WUh561iRu6szlrM5pB2eW"
+      },
+      "artists": [
+        {
+          "name": "Elinaura",
+          "url": "https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117016,
+      "name": "Oaks Bluffs",
+      "url": "https://open.spotify.com/track/0jSUVrvKQ0qF8ee1usL34M"
+    },
+    {
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/23bNIKhaP1ggWvYroajgWk"
       },
@@ -15919,7 +16027,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 164522,
       "name": "Oyasumi Nasai",
       "url": "https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK"
@@ -17367,6 +17475,24 @@
       "duration_ms": 119619,
       "name": "Radiant",
       "url": "https://open.spotify.com/track/5WAuzGamm8rl9rY0ZxTZ5h"
+    },
+    {
+      "album": {
+        "name": "Leap Of Faith",
+        "url": "https://open.spotify.com/album/4DCBMQJDtO07ku18JAFk1Z"
+      },
+      "artists": [
+        {
+          "name": "Dylan John Sparkes",
+          "url": "https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk"
     },
     {
       "album": {
@@ -20891,7 +21017,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 126000,
       "name": "Styx",
       "url": "https://open.spotify.com/track/5GpUw9Az0LB37zYMrLb97b"
@@ -21993,7 +22119,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 171000,
       "name": "The Far West",
       "url": "https://open.spotify.com/track/3nI7ooi7HA8oRVSgCKvcE7"
@@ -22123,6 +22249,24 @@
       "duration_ms": 120746,
       "name": "The Hourglass",
       "url": "https://open.spotify.com/track/6t4LgOBZsf14olwgwYRcCS"
+    },
+    {
+      "album": {
+        "name": "The Last Leaf Falls",
+        "url": "https://open.spotify.com/album/78dDhf9UBUZlGQIExQWYDn"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125667,
+      "name": "The Last Leaf Falls",
+      "url": "https://open.spotify.com/track/79v9cKSakZbCRZI0r0QrV7"
     },
     {
       "album": {
@@ -22335,7 +22479,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 124750,
       "name": "The oak",
       "url": "https://open.spotify.com/track/5JcvLTlhEtDl3lPFs95xRM"
@@ -24463,7 +24607,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 169374,
       "name": "Volga",
       "url": "https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p"
@@ -25745,7 +25889,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 130500,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/6nAIhrJFemcnHMrtfWcQ7k"

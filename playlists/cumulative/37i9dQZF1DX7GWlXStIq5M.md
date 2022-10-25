@@ -4,7 +4,7 @@
 
 > Hip Hop nacional e gringo para acompanhar gamers e gaming.
 
-235 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/73qzmtM6uDZBs8ROQmiLzF)
+236 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/73qzmtM6uDZBs8ROQmiLzF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bailão](https://open.spotify.com/track/2hgfeYKzJIaUlrhk6oP3wc) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L) | [Bailão](https://open.spotify.com/album/7sZwY31f8pBNa5KvlFfSYR) | 3:30 | 2020-10-20 | 2022-07-24 |
 | [ball w/o you](https://open.spotify.com/track/4UW4GsTVETXP2mzXfMT2iC) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was \(Deluxe\)](https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl) | 3:15 | 2020-10-20 | 2022-07-25 |
 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 | 2020-10-20 |  |
-| [Balão](https://open.spotify.com/track/4QFzCjkQl2c7wrzVrOu2sz) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Celebridade](https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa) | 4:13 | 2020-10-20 |  |
+| [Balão](https://open.spotify.com/track/4QFzCjkQl2c7wrzVrOu2sz) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Celebridade](https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa) | 4:13 | 2020-10-20 | 2022-10-25 |
 | [Balão](https://open.spotify.com/track/6nc3d5wRTTzkZo29kZRr5r) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Balão](https://open.spotify.com/album/3ExChVUPgeX4QKS0kqLYNz) | 4:13 | 2020-10-20 | 2022-07-29 |
 | [Banco](https://open.spotify.com/track/7MPQNyAX02uIEQCRsC4sgc) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa) | [Banco](https://open.spotify.com/album/60iZnmmLOgY1LpkCinkELW) | 4:14 | 2020-10-20 |  |
 | [Bandido Artista](https://open.spotify.com/track/10QoaVwkMEQPgqq21cw4Iq) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Ícone](https://open.spotify.com/album/4AQFmyYck7Rf10CHW2w2Pr) | 3:34 | 2020-10-20 | 2022-07-28 |
@@ -147,6 +147,7 @@
 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 | 2020-10-20 |  |
 | [Nosso Jeito](https://open.spotify.com/track/0JHcoeYllu3QHCtuCUrqYf) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Nosso Jeito](https://open.spotify.com/album/5HczXa5wbSx9VZ21cORK7B) | 3:10 | 2020-10-20 | 2022-07-28 |
 | [Não conversamos, mas](https://open.spotify.com/track/6IiO96wuVwJhvXZVUwjGeX) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Futuruz](https://open.spotify.com/album/7v3QqNKdhBQ6n3IrjZO5mq) | 3:15 | 2020-10-20 | 2022-07-29 |
+| [Não Me Sinto Mal Mais](https://open.spotify.com/track/2YJtRdd9duQ0bEDMKZ79Hw) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Não Me Sinto Mal Mais](https://open.spotify.com/album/38xxqYIupf9TLEPjhAShBP) | 4:25 | 2020-10-20 |  |
 | [Não Me Sinto Mal Mais](https://open.spotify.com/track/563yuGweEqRVQtjfsDVRyK) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Não Me Sinto Mal Mais](https://open.spotify.com/album/3GkFmC2guCvyAkcaS95nhc) | 4:25 | 2020-10-20 | 2022-08-27 |
 | [Não Volto](https://open.spotify.com/track/0coMyavxt9GBli4voSWNgs) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Marginal Supply](https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ) | [Não Volto](https://open.spotify.com/album/0fCXdqv9FuTBhCujTgurSB) | 2:50 | 2020-10-20 | 2022-07-26 |
 | [O Cara de Óculos](https://open.spotify.com/track/1chg0t03u3PDcYwABCYWKG) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Bia Nogueira](https://open.spotify.com/artist/337gunwEwXj6BjKbSo3Uo6), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Histórias da Minha Área](https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k) | 4:10 | 2020-10-20 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Don't stress out\. Stay relaxed with these easy, upbeat songs.
 
-356 songs - 21 hr 36 min - [published](https://open.spotify.com/playlist/37RWAGQot1VZ0VVt7JhYiV)
+357 songs - 21 hr 40 min - [published](https://open.spotify.com/playlist/37RWAGQot1VZ0VVt7JhYiV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 | 2019-07-29\* | 2019-12-10 |
 | [Bridges](https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5) | 3:36 | 2019-08-21 | 2022-06-10 |
 | [Brighter Day](https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Brighter Day](https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT) | 3:13 | 2022-04-19 | 2022-08-13 |
-| [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 | 2021-10-30 |  |
+| [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 | 2021-10-30 | 2022-10-25 |
 | [Budapest](https://open.spotify.com/track/7q0aQpiLv5tIsupcgQ3Ny4) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage](https://open.spotify.com/album/7L4ZwpSwKQCerDQv9C4O1M) | 3:20 | 2019-07-29\* | 2021-12-21 |
 | [Calm Yourself Down](https://open.spotify.com/track/5Bdmiyetb619RJdTPkEKLc) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi), [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Calm Yourself Down](https://open.spotify.com/album/5xx8BTKXLgkOlXbaAwTS66) | 3:15 | 2020-06-17 | 2022-07-29 |
 | [Can You Handle My Love??](https://open.spotify.com/track/7GKMstqz3UYkFvlX93qCyz) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Can You Handle My Love??](https://open.spotify.com/album/5HuxJH43h3FTR8W258lhps) | 4:16 | 2021-12-08 | 2022-07-24 |
@@ -184,6 +184,7 @@
 | [Look For The Good \- Single Version](https://open.spotify.com/track/4zJFcrgCxvA5boYpEqjjtT) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Wise Woman / Look For The Good \(Single Version\)](https://open.spotify.com/album/24syghxD5exa3QDGedRZbt) | 3:59 | 2020-05-13 | 2021-06-22 |
 | [Lost in My Mind](https://open.spotify.com/track/2A4eOWCeNZHFQnLEEJKuZX) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:19 | 2022-07-18 | 2022-10-14 |
 | [Lost in My Mind](https://open.spotify.com/track/3gvAGvbMCRvVDDp8ZaIPV5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 4:19 | 2019-07-29\* | 2022-07-15 |
+| [Lost in My Mind](https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:19 | 2022-10-14 |  |
 | [Love Is Everywhere \(Beware\)](https://open.spotify.com/track/4hrJhMznNddR7UThDKHSJy) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Love Is Everywhere \(Beware\)](https://open.spotify.com/album/0xZgWQ2PZZnFK6T1Lr0OMv) | 3:33 | 2019-08-30 | 2022-07-10 |
 | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/track/12AjLo4LKBxkxtNBXZrDgZ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Diane Keaton](https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7) | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/album/0MinLMVdEPsMarTkzH9NRv) | 2:34 | 2022-10-14 |  |
 | [Love Is Love](https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Love Is Love](https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45) | 3:06 | 2019-10-27 | 2022-07-29 |

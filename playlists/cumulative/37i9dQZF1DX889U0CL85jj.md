@@ -4,7 +4,7 @@
 
 > Just chill.
 
-362 songs - 20 hr 50 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+363 songs - 20 hr 54 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Greener](https://open.spotify.com/track/3aD8EF1sWXIZgbcxsOqg3T) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Greener](https://open.spotify.com/album/4qvcbIXO49k3UQIKXRpomK) | 3:54 | 2022-04-08 | 2022-07-29 |
 | [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 | 2022-06-10 |  |
 | [Half Moon Glow](https://open.spotify.com/track/6IFjS91zi3L02UZe5PsRCE) | [Lo\-Fang](https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA), [Amber Hurst\-Martin](https://open.spotify.com/artist/6A0NCDQ2E9fmXDFXb6gruo), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu), [Lucky Paul](https://open.spotify.com/artist/0mA9yf79tVso6NpcNOuKmc), [Tree Frogs](https://open.spotify.com/artist/6JtWtEF3nBeyrLKmI6M6Lv) | [Half Moon Glow](https://open.spotify.com/album/5fQ4NNeCLAIOK7WUkl6JNn) | 6:36 | 2020-04-24 | 2022-01-22 |
-| [Happen](https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Happen](https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6) | 4:13 | 2022-08-19 |  |
+| [Happen](https://open.spotify.com/track/3x5GkihYMx1wdoXVFAwRyZ) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 4:13 | 2022-08-19 |  |
+| [Happen](https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Happen](https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6) | 4:13 | 2022-08-19 | 2022-10-25 |
 | [Hate That I Love You](https://open.spotify.com/track/31ShnB0jPGQB2xySyuhtQZ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Hate That I Love You](https://open.spotify.com/album/7Kkj3M3Nq9Rf1ELfTCTcBx) | 3:32 | 2020-02-28 | 2022-07-29 |
 | [Hate That I Love You](https://open.spotify.com/track/3b1hMSra86BaMQRROVk4JD) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:32 | 2022-06-10 |  |
 | [Haze](https://open.spotify.com/track/5exIfj2rzMhySsDBSrFUih) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Haze](https://open.spotify.com/album/1yIdC4MzIeBaetGPU765Du) | 3:47 | 2019-09-26 | 2022-01-22 |

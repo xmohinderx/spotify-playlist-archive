@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks by independent artists and labels. Updates every Wednesday. Cover: Blondshell, Artwork: Robin Clifford Ellis ",
-  "num_followers": 154166,
+  "num_followers": 154218,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjE1MjAwMCwwMDAwMDAwMGJmYjZjNDM5YTI1NzEzZjMyZTkyZDAxODEyZWI5N2Rl",
+  "snapshot_id": "MTY2NjY1Nzk1OSwwMDAwMDAwMGZiNGVjYzI1N2MzMTVkMjgyZWJmMGU3OTM2MWYzYTdk",
   "tracks": [
     {
       "added_at": "2022-10-19 04:00:00",
@@ -25,20 +25,20 @@
       "url": "https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh"
     },
     {
-      "added_at": "2022-10-19 04:00:00",
+      "added_at": "2022-10-25 00:32:39",
       "album": {
-        "name": "Meet Me at the Gloaming",
-        "url": "https://open.spotify.com/album/2h503WD2Ll2p8oEbBx6LmK"
+        "name": "Hopeless Romantic",
+        "url": "https://open.spotify.com/album/7CmfAlV0BPcIH4EhyIA3aO"
       },
       "artists": [
         {
-          "name": "A.O. Gerber",
-          "url": "https://open.spotify.com/artist/2OywDp0ldLitUL5iM8phSf"
+          "name": "02Apollo",
+          "url": "https://open.spotify.com/artist/4P0hC4yq6wYrDANYRNjsGn"
         }
       ],
-      "duration_ms": 240640,
-      "name": "Walk in the Dark",
-      "url": "https://open.spotify.com/track/3g3bipEmAdh12uRH2pGpLe"
+      "duration_ms": 154671,
+      "name": "Hopeless Romantic",
+      "url": "https://open.spotify.com/track/0yZGo0JRf8ligEAHgT2k6p"
     },
     {
       "added_at": "2022-10-12 19:27:56",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
     },
     {
+      "added_at": "2022-10-24 20:01:50",
+      "album": {
+        "name": "MUD",
+        "url": "https://open.spotify.com/album/0N1rPf3sOqmaxq863fl9ui"
+      },
+      "artists": [
+        {
+          "name": "Maddy Davis",
+          "url": "https://open.spotify.com/artist/0N1XijsQLptT42ERtHfKsZ"
+        }
+      ],
+      "duration_ms": 212504,
+      "name": "You Still Send Me Beats Though",
+      "url": "https://open.spotify.com/track/4rVSnHzgMq1gm7z66Nk9o3"
+    },
+    {
       "added_at": "2022-10-12 03:35:08",
       "album": {
         "name": "OFFLINE",
@@ -71,6 +87,22 @@
       "duration_ms": 149840,
       "name": "OFFLINE",
       "url": "https://open.spotify.com/track/01TZYbhQiq0aswhImSbsUC"
+    },
+    {
+      "added_at": "2022-10-19 04:00:00",
+      "album": {
+        "name": "Meet Me at the Gloaming",
+        "url": "https://open.spotify.com/album/2h503WD2Ll2p8oEbBx6LmK"
+      },
+      "artists": [
+        {
+          "name": "A.O. Gerber",
+          "url": "https://open.spotify.com/artist/2OywDp0ldLitUL5iM8phSf"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Walk in the Dark",
+      "url": "https://open.spotify.com/track/3g3bipEmAdh12uRH2pGpLe"
     },
     {
       "added_at": "2022-10-19 04:00:00",
@@ -135,6 +167,22 @@
       "duration_ms": 264757,
       "name": "sunday",
       "url": "https://open.spotify.com/track/7nRKMmuZnngrUrC5LOEhjk"
+    },
+    {
+      "added_at": "2022-10-24 20:01:50",
+      "album": {
+        "name": "Sally! I Met A Boy",
+        "url": "https://open.spotify.com/album/5lisHEfXNRsbFyAp7z5s9a"
+      },
+      "artists": [
+        {
+          "name": "Maddy Davis",
+          "url": "https://open.spotify.com/artist/0N1XijsQLptT42ERtHfKsZ"
+        }
+      ],
+      "duration_ms": 181931,
+      "name": "Sally! I Met A Boy",
+      "url": "https://open.spotify.com/track/0NGmsCKD14mLUhR65PtHXM"
     },
     {
       "added_at": "2022-10-19 04:00:00",
@@ -983,22 +1031,6 @@
     {
       "added_at": "2022-09-28 17:30:56",
       "album": {
-        "name": "Consistent Dedication",
-        "url": "https://open.spotify.com/album/4DmPyCWuCyT5mPHBUXv79n"
-      },
-      "artists": [
-        {
-          "name": "Heartworms",
-          "url": "https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "Consistent Dedication",
-      "url": "https://open.spotify.com/track/2IEhBUj9WTswTqSxC7Q7vK"
-    },
-    {
-      "added_at": "2022-09-28 17:30:56",
-      "album": {
         "name": "i'll be a stranger",
         "url": "https://open.spotify.com/album/5mWpDGkOU67xUfFbjOakG4"
       },
@@ -1015,22 +1047,6 @@
       "duration_ms": 222360,
       "name": "i'll be a stranger",
       "url": "https://open.spotify.com/track/6dv9m91t34ZNgWllbcGqZJ"
-    },
-    {
-      "added_at": "2022-09-28 17:30:56",
-      "album": {
-        "name": "us, married",
-        "url": "https://open.spotify.com/album/5SWmRqCMH7j6D5DR9G6nj7"
-      },
-      "artists": [
-        {
-          "name": "Holy Pinto",
-          "url": "https://open.spotify.com/artist/4twuCR6nus4Z5xwf6u2hWN"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "us, married",
-      "url": "https://open.spotify.com/track/2iFfJOi81lZVnBwRnR6kOv"
     },
     {
       "added_at": "2022-08-31 17:03:18",
@@ -1143,22 +1159,6 @@
       "duration_ms": 166334,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/03LbzdHsDNtWTqAifiuNFN"
-    },
-    {
-      "added_at": "2022-09-14 16:00:00",
-      "album": {
-        "name": "Bones (God Like You)",
-        "url": "https://open.spotify.com/album/7hIA421q14FIPWmehwRJOZ"
-      },
-      "artists": [
-        {
-          "name": "Housewife",
-          "url": "https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN"
-        }
-      ],
-      "duration_ms": 168514,
-      "name": "Bones (God Like You)",
-      "url": "https://open.spotify.com/track/0xn9TXLniq8n4GkxQt1ytH"
     }
   ],
   "unique_name": "Fresh Finds Indie",

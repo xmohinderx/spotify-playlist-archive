@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: All Them Witches
 
-223 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
+224 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Cosmic Space Girl](https://open.spotify.com/track/1xBqGwR9WztGLPlzroBDYc) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA) | [Cosmic Space Girl](https://open.spotify.com/album/0BVEfEtSfAIJUwaGV0TS0s) | 2:55 | 2022-04-22 |  |
 | [Crutch](https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Crutch](https://open.spotify.com/album/1rNP32XZdvbJAAhJ20gxdi) | 3:43 | 2021-10-13 |  |
 | [Dangerous](https://open.spotify.com/track/4CDLJLXueLWgcPsCSSF9fS) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Dangerous](https://open.spotify.com/album/3OsnKTR0MxFIdLAnhmtMOJ) | 3:07 | 2022-07-01 | 2022-10-01 |
+| [Dangerous](https://open.spotify.com/track/58NjL8ZMpbHv5TVkpANrKO) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \(Stripped\)](https://open.spotify.com/album/1LOfXz54bNrKElqqUOTIGc) | 3:07 | 2022-10-21 |  |
 | [Dead Man's Dream](https://open.spotify.com/track/4UGNJoeYVM8oDd56dJv549) | [Painted Shield](https://open.spotify.com/artist/7kmm4Wi3pbsCHHIYqgYgX9) | [Dead Man's Dream](https://open.spotify.com/album/1UT4dX7eAFJU7coodDgzvR) | 3:26 | 2022-01-28 | 2022-07-29 |
 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 | 2022-01-21 |  |
 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ) | 2:27 | 2022-10-01 |  |
@@ -174,7 +175,7 @@
 | [So Happy It Hurts](https://open.spotify.com/track/6RZNw4khjjd6mehiLQ6Ztz) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:35 | 2022-07-01 | 2022-10-22 |
 | [Sort Of Stranger](https://open.spotify.com/track/5lAflCrqbAfo0nMflKGb0N) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sort Of Stranger](https://open.spotify.com/album/027yuK6aJh9vCUNxp7i6YH) | 3:30 | 2022-02-11 |  |
 | [Speeding 72](https://open.spotify.com/track/70GadgaRBOWaBtD8qHc095) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Speeding 72](https://open.spotify.com/album/1SGdgzPuKfvCONrOQYX2wn) | 3:58 | 2022-05-25 |  |
-| [Spilt Salt](https://open.spotify.com/track/7BhkpF9Ns7hExArAv8E1X2) | [My Kid Brother](https://open.spotify.com/artist/2x6K5sYwi04Ev2zyGki2nu) | [Spilt Salt](https://open.spotify.com/album/2Y1Oxx76IZ3MF3ZehUiAW9) | 3:36 | 2022-07-01 |  |
+| [Spilt Salt](https://open.spotify.com/track/7BhkpF9Ns7hExArAv8E1X2) | [My Kid Brother](https://open.spotify.com/artist/2x6K5sYwi04Ev2zyGki2nu) | [Spilt Salt](https://open.spotify.com/album/2Y1Oxx76IZ3MF3ZehUiAW9) | 3:36 | 2022-07-01 | 2022-10-25 |
 | [Spirit](https://open.spotify.com/track/4At0MWVAHHBKyOBkyqWg3V) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Spirit](https://open.spotify.com/album/1K2rmMC661DhMwzUp6iuMk) | 4:03 | 2021-03-19 |  |
 | [Stand For Myself](https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:13 | 2021-11-23 |  |
 | [Starting Now](https://open.spotify.com/track/2ESJsIRGeB7gVU5X4HxANA) | [Toad The Wet Sprocket](https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC) | [Starting Now](https://open.spotify.com/album/261HvAw6KFCzyHCHtRTsLI) | 3:46 | 2021-01-29 | 2022-03-12 |

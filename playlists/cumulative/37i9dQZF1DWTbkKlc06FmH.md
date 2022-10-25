@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-80 songs - 4 hr 43 min - not published yet
+81 songs - 4 hr 48 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Love Like A Bomb \(feat\. ひかり\)](https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール](https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28) | 3:27 | 2022-10-20 |  |
 | [Love Will Work It Out](https://open.spotify.com/track/4bQhGIHwo1ZpixP9MudUbV) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:45 | 2022-10-20 |  |
 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-10-20 |  |
-| [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 | 2022-10-20 |  |
+| [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 | 2022-10-20 | 2022-10-25 |
 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 | 2022-10-20 |  |
 | [Naked](https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Naked](https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR) | 2:47 | 2022-10-20 |  |
 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2022-10-20 |  |
@@ -76,6 +76,7 @@
 | [The Sun Is Up Forever](https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR) | 3:44 | 2022-10-20 |  |
 | [the wire](https://open.spotify.com/track/1YcIUoRRC2gtPa5HN87idh) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:38 | 2022-10-20 |  |
 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 | 2022-10-20 |  |
+| [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 | 2022-10-20 |  |
 | [Tip Of The Flame](https://open.spotify.com/track/6mfHVG0xInB0QpESBnVUwi) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 4:33 | 2022-10-20 |  |
 | [Todai](https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Todai](https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES) | 2:57 | 2022-10-20 |  |
 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 | 2022-10-20 |  |

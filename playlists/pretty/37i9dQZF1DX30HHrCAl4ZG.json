@@ -1,28 +1,28 @@
 {
   "description": "The pulse of new indie rock. Cover: Hotel Ugly",
-  "num_followers": 835785,
+  "num_followers": 835851,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM3MTQyMywwMDAwMDAwMGEyZTk5NzhhZjg3ODZlNWVhNWY4ZDY2OTVjYTlmZjQ1",
+  "snapshot_id": "MTY2NjYzMzQ5MSwwMDAwMDAwMGIwNWFhNWE2YjcwMDBlNWNlMjlmNjdhZDRlOTVlYzk4",
   "tracks": [
     {
-      "added_at": "2022-10-21 13:12:31",
+      "added_at": "2022-10-14 07:40:00",
       "album": {
-        "name": "The Car",
-        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+        "name": "The Mannequin Song",
+        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
         }
       ],
-      "duration_ms": 191173,
-      "name": "I Ain\u2019t Quite Where I Think I Am",
-      "url": "https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx"
+      "duration_ms": 164197,
+      "name": "The Mannequin Song",
+      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
     },
     {
       "added_at": "2022-09-30 05:45:00",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
+      "added_at": "2022-10-14 07:40:00",
+      "album": {
+        "name": "cough drops",
+        "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 163990,
+      "name": "cough drops",
+      "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
+    },
+    {
       "added_at": "2022-09-23 05:48:00",
       "album": {
         "name": "Romantic Homicide",
@@ -71,22 +87,6 @@
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
-    },
-    {
-      "added_at": "2022-10-14 07:40:00",
-      "album": {
-        "name": "The Mannequin Song",
-        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 164197,
-      "name": "The Mannequin Song",
-      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
     },
     {
       "added_at": "2022-10-21 13:12:31",
@@ -105,6 +105,54 @@
       "url": "https://open.spotify.com/track/1yEHKriEfBw6k1Dcb9sEBj"
     },
     {
+      "added_at": "2022-10-21 13:12:31",
+      "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "I Ain\u2019t Quite Where I Think I Am",
+      "url": "https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx"
+    },
+    {
+      "added_at": "2022-10-14 07:40:00",
+      "album": {
+        "name": "Oregon / Harvard",
+        "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 198413,
+      "name": "Oregon",
+      "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
+    },
+    {
+      "added_at": "2022-10-14 07:40:00",
+      "album": {
+        "name": "Just Before The Morning",
+        "url": "https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 214497,
+      "name": "Just Before The Morning",
+      "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
+    },
+    {
       "added_at": "2022-10-07 04:05:00",
       "album": {
         "name": "Blue Rev",
@@ -119,42 +167,6 @@
       "duration_ms": 185276,
       "name": "After The Earthquake",
       "url": "https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL"
-    },
-    {
-      "added_at": "2022-10-14 07:40:00",
-      "album": {
-        "name": "cough drops",
-        "url": "https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 163990,
-      "name": "cough drops",
-      "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
-    },
-    {
-      "added_at": "2022-09-30 05:45:00",
-      "album": {
-        "name": "Tonight (feat. Ezra Koenig)",
-        "url": "https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        },
-        {
-          "name": "Ezra Koenig",
-          "url": "https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6"
-        }
-      ],
-      "duration_ms": 246706,
-      "name": "Tonight (feat. Ezra Koenig)",
-      "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
     },
     {
       "added_at": "2022-09-02 10:00:00",
@@ -183,38 +195,6 @@
     {
       "added_at": "2022-10-14 07:40:00",
       "album": {
-        "name": "Oregon / Harvard",
-        "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 198413,
-      "name": "Oregon",
-      "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
-    },
-    {
-      "added_at": "2022-10-21 13:12:31",
-      "album": {
-        "name": "Cartoon Earthquake - Spotify Singles",
-        "url": "https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 205429,
-      "name": "Cartoon Earthquake - Spotify Singles",
-      "url": "https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh"
-    },
-    {
-      "added_at": "2022-10-14 07:40:00",
-      "album": {
         "name": "Love Will Get You There",
         "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
       },
@@ -227,22 +207,6 @@
       "duration_ms": 250280,
       "name": "Love Will Get You There",
       "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
-    },
-    {
-      "added_at": "2022-10-14 07:40:00",
-      "album": {
-        "name": "Just Before The Morning",
-        "url": "https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 214497,
-      "name": "Just Before The Morning",
-      "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
     },
     {
       "added_at": "2022-07-18 20:46:02",
@@ -259,22 +223,6 @@
       "duration_ms": 140080,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
-    },
-    {
-      "added_at": "2022-10-21 13:12:31",
-      "album": {
-        "name": "Everybody's Saying Thursday's The Weekend",
-        "url": "https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Everybody's Saying Thursday's The Weekend",
-      "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
     },
     {
       "added_at": "2022-09-30 05:45:00",
@@ -325,6 +273,22 @@
       "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
     },
     {
+      "added_at": "2022-10-07 04:05:00",
+      "album": {
+        "name": "I Think My Mind Has Made Its Mind Up",
+        "url": "https://open.spotify.com/album/1q132A3KkxRLRrEiWZXWqN"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 188680,
+      "name": "I Think My Mind Has Made Its Mind Up",
+      "url": "https://open.spotify.com/track/2oal7Q9v9hFQXFZbaiGNsy"
+    },
+    {
       "added_at": "2022-10-14 07:40:00",
       "album": {
         "name": "Break!",
@@ -339,6 +303,58 @@
       "duration_ms": 137000,
       "name": "Thick of the Honey",
       "url": "https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA"
+    },
+    {
+      "added_at": "2022-09-30 05:45:00",
+      "album": {
+        "name": "Tonight (feat. Ezra Koenig)",
+        "url": "https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Ezra Koenig",
+          "url": "https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6"
+        }
+      ],
+      "duration_ms": 246706,
+      "name": "Tonight (feat. Ezra Koenig)",
+      "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
+    },
+    {
+      "added_at": "2022-10-21 13:12:31",
+      "album": {
+        "name": "Everybody's Saying Thursday's The Weekend",
+        "url": "https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Everybody's Saying Thursday's The Weekend",
+      "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
+    },
+    {
+      "added_at": "2022-10-21 13:12:31",
+      "album": {
+        "name": "Cartoon Earthquake - Spotify Singles",
+        "url": "https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 205429,
+      "name": "Cartoon Earthquake - Spotify Singles",
+      "url": "https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh"
     },
     {
       "added_at": "2022-10-21 13:12:31",
@@ -375,22 +391,6 @@
       "duration_ms": 270530,
       "name": "Turn It On",
       "url": "https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5"
-    },
-    {
-      "added_at": "2022-10-07 04:05:00",
-      "album": {
-        "name": "I Think My Mind Has Made Its Mind Up",
-        "url": "https://open.spotify.com/album/1q132A3KkxRLRrEiWZXWqN"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 188680,
-      "name": "I Think My Mind Has Made Its Mind Up",
-      "url": "https://open.spotify.com/track/2oal7Q9v9hFQXFZbaiGNsy"
     },
     {
       "added_at": "2022-10-07 04:05:00",

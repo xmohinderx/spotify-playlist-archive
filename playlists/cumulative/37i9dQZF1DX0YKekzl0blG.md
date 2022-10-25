@@ -4,11 +4,12 @@
 
 > All the indelible tunes from the other side of the 00s\. Cover: Santigold
 
-219 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/0l2j8XF9puRyFNeDOUmk2F)
+220 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/0l2j8XF9puRyFNeDOUmk2F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1234](https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:03 | 2021-11-15 | 2022-07-29 |
+| [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 | 2022-09-29 |  |
 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 | 2021-11-15 | 2022-10-13 |
 | [1901](https://open.spotify.com/track/1mvyqSb1tOvtVP1qfWEyPa) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW) | 3:13 | 2021-11-15 | 2022-07-29 |
 | [22 Grand Job](https://open.spotify.com/track/2JNS9kPl3vvRXsoGNewjg4) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Capture / Release](https://open.spotify.com/album/6vlPKAgC59SB759oU1MVL7) | 1:46 | 2021-11-15 | 2022-03-12 |
@@ -40,7 +41,7 @@
 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 | 2021-11-15 |  |
 | [Burning](https://open.spotify.com/track/0QgR03vMDoBoLgcu08EtKl) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf) | 3:11 | 2021-11-15 |  |
 | [Cassius](https://open.spotify.com/track/5iQWQ80rzAguTGEPC4xg6a) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Cassius](https://open.spotify.com/album/5LfQv1vnjvznYPZWVOjPSv) | 3:49 | 2021-11-15 | 2022-07-28 |
-| [Club Foot](https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:34 | 2021-11-15 |  |
+| [Club Foot](https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:34 | 2021-11-15 | 2022-10-25 |
 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 | 2021-11-15 |  |
 | [Crystalised](https://open.spotify.com/track/6rxEjkoar48SssZePbtb2x) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz) | 3:21 | 2021-11-15 | 2022-07-20 |
 | [D.A.N.C.E](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 | 2021-11-15 |  |
@@ -100,7 +101,7 @@
 | [I'm Not Gonna Teach Your Boyfriend How To Dance With You](https://open.spotify.com/track/6fcZNs8sOkLwMK2NPzfVWC) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/5VrF6FtM8ZJcA3NcGN2AM1) | 3:37 | 2021-11-15 | 2022-07-29 |
 | [Icky Thump](https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:14 | 2021-11-15 |  |
 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 | 2021-11-15 |  |
-| [In For The Kill](https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 4:08 | 2021-11-15 | 2022-10-21 |
+| [In For The Kill](https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 4:08 | 2021-11-15 |  |
 | [Islands](https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz) | 2:40 | 2021-11-15 | 2022-07-29 |
 | [Jump In The Pool](https://open.spotify.com/track/4anehmsEuhkXRjm6HAocaj) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1) | 3:37 | 2021-11-15 | 2022-07-28 |
 | [Juxtapozed with U](https://open.spotify.com/track/2umbhz2teUJ8QpOl4bBD7T) | [Super Furry Animals](https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ) | [Rings Around the World](https://open.spotify.com/album/6g6WBTqT5gE4fAcwRljpjc) | 3:08 | 2021-11-15 | 2022-07-28 |
@@ -119,7 +120,7 @@
 | [Men's Needs](https://open.spotify.com/track/5gCMW3tfzuXZfLATnH01Vh) | [The Cribs](https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG) | [Men's Needs, Women's Needs, Whatever](https://open.spotify.com/album/05j7dk3QogWlyAlccCB66W) | 3:15 | 2021-11-15 | 2022-07-29 |
 | [Molly's Chambers](https://open.spotify.com/track/0nCAVzknkzRXRgB6LhRv04) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Youth And Young Manhood](https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd) | 2:14 | 2021-11-15 |  |
 | [Molly's Chambers](https://open.spotify.com/track/5n0zgoPE7NJq1E8mbQd4Q6) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Youth And Young Manhood](https://open.spotify.com/album/51syExDWBagenquHksTwGu) | 2:14 | 2021-11-15 | 2022-07-29 |
-| [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 | 2021-11-15 |  |
+| [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 | 2021-11-15 | 2022-10-25 |
 | [Mr\. Brightside](https://open.spotify.com/track/0eGsygTp906u18L0Oimnem) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/6TJmQnO44YE5BtTxH8pop1) | 3:42 | 2021-11-15 | 2022-07-29 |
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2021-11-15 |  |
 | [Munich](https://open.spotify.com/track/1TF8mSG5YHyaS4o3NeBSAo) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [The Back Room](https://open.spotify.com/album/13NKtscRQRvQAXR4fY7kO5) | 3:46 | 2021-11-15 | 2022-10-18 |

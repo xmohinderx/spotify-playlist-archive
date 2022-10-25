@@ -4,7 +4,7 @@
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Allison Russell
 
-245 songs - 15 hr 23 min - [published](https://open.spotify.com/playlist/1P9OyTiTUDz0lOylvWtrf5)
+246 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/1P9OyTiTUDz0lOylvWtrf5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Golden Embers](https://open.spotify.com/track/7fdwZ9ShF56daUOBH02U7S) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:45 | 2022-07-27 |  |
 | [Gonna Be Leaving](https://open.spotify.com/track/3xUX0vRkQDW6Lqj3Sk30D5) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Gonna Be Leaving](https://open.spotify.com/album/5ATbjtDTmqgY4mkDwL6Uta) | 3:10 | 2022-04-15 | 2022-07-29 |
 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 | 2022-04-15 |  |
+| [Half\-Saved](https://open.spotify.com/track/4g3k3DEMkpf7OFoSsc7EHa) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Nothing is Lost](https://open.spotify.com/album/2pWfYBcesgKukL2b9THx10) | 3:22 | 2022-07-27 |  |
 | [Half\-Saved](https://open.spotify.com/track/6kNLASo01nyX5DVB4UGYFK) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Half\-Saved](https://open.spotify.com/album/1qjryVI5Du1tzWiL8gWQWm) | 3:22 | 2022-04-15 | 2022-07-29 |
 | [Halfway Tree](https://open.spotify.com/track/5naGbqecQUheZgOhtXPDj7) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Yours to Break](https://open.spotify.com/album/7d4zInmL1k7M6t6GmGlwuJ) | 3:29 | 2022-04-15 | 2022-07-27 |
 | [Hang On, Hang On](https://open.spotify.com/track/3qWwTmMRsMHxGeLeqmJy7u) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Hang On, Hang On](https://open.spotify.com/album/1fvg7ucgCFurG305YEh5W6) | 4:10 | 2022-04-15 | 2022-10-16 |
@@ -162,7 +163,7 @@
 | [New House](https://open.spotify.com/track/5Tmza7OotJYHj6gWbHxLKh) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [New House](https://open.spotify.com/album/7o8VaAb7k6jv13gJrToJ4Q) | 3:33 | 2022-04-15 | 2022-07-22 |
 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 | 2022-04-15 | 2022-07-29 |
 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 | 2022-05-12 |  |
-| [No Fun](https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 3:31 | 2022-07-27 |  |
+| [No Fun](https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 3:31 | 2022-07-27 | 2022-10-25 |
 | [Not Dead Yet](https://open.spotify.com/track/1JI3PzOXZhAqUPoN8Vixqs) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/48nTl6TmV8hS2x8MCQlUbm) | 2:57 | 2022-04-15 | 2022-07-29 |
 | [Not Dead Yet](https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 2:57 | 2022-07-27 |  |
 | [Now You Don't](https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Slow Tide](https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA) | 3:11 | 2022-07-27 |  |

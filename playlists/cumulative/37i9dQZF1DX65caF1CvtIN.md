@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-131 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/6G5WCUYS9dgq5fbeEQzQHB)
+136 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/6G5WCUYS9dgq5fbeEQzQHB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bastille](https://open.spotify.com/track/7BHadNj1tyvcUUtwAyaQMJ) | [Felix Tanguy](https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng) | [Bastille](https://open.spotify.com/album/3mIBkkGxrGtbHmCgKvDnDa) | 2:15 | 2022-08-03 |  |
 | [Beauté](https://open.spotify.com/track/6nDc5i9kdQP7gCt8hk3Ib3) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Forlorn](https://open.spotify.com/album/6aMnSCguHOdoJsrvaz6rii) | 3:12 | 2022-08-03 |  |
 | [Bells](https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Bells](https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB) | 3:21 | 2022-08-03 |  |
+| [Between Words](https://open.spotify.com/track/5MB63o3BqXmPAPtzmhEb4o) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Between Words](https://open.spotify.com/album/3a5s2mMbdQgLptCC384fPO) | 2:26 | 2022-10-24 |  |
 | [Bloom](https://open.spotify.com/track/1U8oMLEJi3eLtjOECmNiqI) | [Holly Jones](https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC) | [Bloom](https://open.spotify.com/album/1TPLD9SVitfUDGLFybZ7Et) | 2:06 | 2022-08-26 |  |
 | [Blue Light](https://open.spotify.com/track/7dquOWRPNWnUT5i4R0mP90) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Blue Light](https://open.spotify.com/album/7LcAKBxLzrACoefQrTLUQ1) | 2:14 | 2022-08-03 |  |
 | [Breath \(Grá II\)](https://open.spotify.com/track/5v6ulqOooaywlNs3RgpVRd) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Breath \(Grá II\)](https://open.spotify.com/album/3G77IE3Sk30ZmOj8redRiH) | 2:53 | 2022-08-03 |  |
@@ -34,6 +35,7 @@
 | [Dear Mom](https://open.spotify.com/track/64OnVK4dInm0TVFzFPxCVV) | [Silke Böhm](https://open.spotify.com/artist/0Cl19kEnD1Zk5sVsrkaaM8) | [Dear Mom](https://open.spotify.com/album/1J4qdT4JnTedrMlTgxRoGm) | 2:40 | 2022-08-03 |  |
 | [Dernière Maison](https://open.spotify.com/track/2RuC6Qw0PI5dOKmsx0jugB) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Dernière Maison](https://open.spotify.com/album/1l2rtplpp2AjuJCFNfkLqs) | 3:49 | 2022-08-03 |  |
 | [Divide Us](https://open.spotify.com/track/0h9uZ8bs4oKsGQ2PTmWVZw) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Divide Us](https://open.spotify.com/album/04HWxSrMObA0BehN4545yu) | 2:30 | 2022-08-03 |  |
+| [Dream if I May](https://open.spotify.com/track/4BKyaEiMkhd82gOp47YvLv) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Dream if I May](https://open.spotify.com/album/7x0Jc1HcCjOcbWqpqWzM8X) | 2:29 | 2022-10-24 |  |
 | [Drifting Along](https://open.spotify.com/track/4SIUDl2ip5jEFAQeeIXC9B) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Drifting Along](https://open.spotify.com/album/3Fo02LwzmosC2HVPEFFMPu) | 2:29 | 2022-08-03 |  |
 | [Dulcian](https://open.spotify.com/track/3QqwaqJI54yCVhSHX94sQo) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Dulcian](https://open.spotify.com/album/5xADNZ9czbbHhHPg5aJueT) | 2:17 | 2022-08-03 |  |
 | [El Misterio VII \(solo piano\)](https://open.spotify.com/track/6WwfOCmwiIkkZHjwlTcUu4) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Krabbé Zoekt Kahlo](https://open.spotify.com/album/0V5qBDi0tCD8DFKf8nhWEt) | 2:40 | 2022-09-23 |  |
@@ -52,6 +54,7 @@
 | [Fordi jeg vil](https://open.spotify.com/track/1GwBsmxZo3knfuxkIIoSCs) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Fordi jeg vil](https://open.spotify.com/album/6cz5dR8Q4uHCGmqaZDENSo) | 2:43 | 2022-10-04 |  |
 | [Glitter](https://open.spotify.com/track/3v9Pk1fxLg5MvKm9i5WraZ) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Glitter](https://open.spotify.com/album/0L8EQKHSBRT1ZjeB8bH8vX) | 2:52 | 2022-08-26 |  |
 | [Golden Hour](https://open.spotify.com/track/7cY9kWU1cPLJ1wxxvKEZMh) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Springtime Improvisations](https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D) | 1:34 | 2022-08-03 |  |
+| [Hallowed Ground](https://open.spotify.com/track/7C8w6cZETAiUxJ0xtkBcuu) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Hallowed Ground](https://open.spotify.com/album/2tH19CDOZgXO3d5hLwQbY2) | 2:41 | 2022-10-24 |  |
 | [Healing Begins](https://open.spotify.com/track/7MHN5EduWiVbYCFBdo2hkJ) | [Katia Waizel](https://open.spotify.com/artist/2fG2mbIMWrjg3vepzDjAh0) | [Healing Begins](https://open.spotify.com/album/7dsWPNgn6y7whMrI9nG9V1) | 2:59 | 2022-08-03 |  |
 | [Hiemalis](https://open.spotify.com/track/0UcRrIl4Ti4xSdp314ZASI) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Hiemalis](https://open.spotify.com/album/0qCnC2Syuf544DFygP9Q4i) | 2:47 | 2022-08-03 |  |
 | [Hind \- Voiceless \- Harpa Sessions](https://open.spotify.com/track/3xgrIw8JY1aqdD5yNAB5OH) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 1:38 | 2022-10-04 |  |
@@ -65,6 +68,7 @@
 | [Island II](https://open.spotify.com/track/2vUY8WL94C9ortPW7AwwEE) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Sol Novo](https://open.spotify.com/album/3JWpVOW9aj9y5eoMaUFbFN) | 2:23 | 2022-08-03 |  |
 | [IV](https://open.spotify.com/track/06SriN75l1KQP34fJwGINe) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [IV](https://open.spotify.com/album/3TARj7IOjOntqhX7UEkACi) | 2:00 | 2022-08-03 |  |
 | [La lune](https://open.spotify.com/track/4vuX4bbfayOyWpOYswDBGo) | [Remko Kühne](https://open.spotify.com/artist/6LNkjwPSnLW93YeQz777zC) | [La lune](https://open.spotify.com/album/2xLVugO9GUd9UerwgD5ABB) | 4:27 | 2022-08-03 |  |
+| [Lament](https://open.spotify.com/track/20p6ToTwOlMsocEiFtQm1I) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Lament](https://open.spotify.com/album/5D9OH4oMw2vOC5rSCbJbvZ) | 2:10 | 2022-10-24 |  |
 | [Last Dance](https://open.spotify.com/track/3eCueoiyNs7xUYqX05IEoy) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Hermetism](https://open.spotify.com/album/3kHd7wS71L5WVLzkz7O8yU) | 3:09 | 2022-08-03 |  |
 | [Last Waltz](https://open.spotify.com/track/1LJHL7STYRtnth0VHkANFf) | [Leon den Engelsen](https://open.spotify.com/artist/0SoSwLhB42eDxhzzy5CU3Y) | [Last Waltz](https://open.spotify.com/album/3NyiAsTrnAgIWmWyw60mgb) | 2:34 | 2022-08-03 |  |
 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 | 2022-08-03 |  |
@@ -139,5 +143,6 @@
 | [Willmine](https://open.spotify.com/track/3gdErGbZwv6gjdF0sJdzhK) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Fredenwalde \- Teil I](https://open.spotify.com/album/6qdMFbDQ5og47ujZmZjwhF) | 3:31 | 2022-08-03 |  |
 | [Wordless](https://open.spotify.com/track/1uPUd2SfgzHtiK9BoTZOKt) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Songs From Home](https://open.spotify.com/album/54VCz99ZaV868ym0fbKyDI) | 1:51 | 2022-08-26 |  |
 | [Yellow Entropy](https://open.spotify.com/track/4s28L8kAdHZs0GfwnsYsZw) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Yellow Entropy](https://open.spotify.com/album/7hJKROzZs61p529YVcxaWM) | 2:11 | 2022-08-03 |  |
+| [à Gauche](https://open.spotify.com/track/5HEdhvXyFdSy1IxlX6c6nM) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [à Gauche](https://open.spotify.com/album/66F48yfYfHtqgtlKXRS88V) | 2:06 | 2022-10-24 |  |
 
 \*This playlist was first scraped on 2022-08-12. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-148 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
+149 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Aonde Você Vai](https://open.spotify.com/track/6FDnM5lgZhrReSaG1BdMe6) | [Ceejay](https://open.spotify.com/artist/153LZ8U45hIJBW9o1yu7sG) | [Aonde Você Vai](https://open.spotify.com/album/5uHk8W5iA4Qlo2u4dd3snP) | 2:26 | 2022-08-26 |  |
 | [Apaixonadin](https://open.spotify.com/track/0rocmkucHNcpgoClAQNlWu) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kourah](https://open.spotify.com/artist/0ZZjUA7WDQGjBN416iSBae) | [Apaixonadin](https://open.spotify.com/album/4XCSej2LVgk2PWNvVIXZtJ) | 2:12 | 2022-03-07 |  |
 | [Apê 1001](https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Apê 1001](https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV) | 2:51 | 2022-03-07 |  |
-| [Ariana](https://open.spotify.com/track/4p7KMBNMNs8uN1dQadkqVa) | [Igão Santi](https://open.spotify.com/artist/2xZhKkCpZq4YtbvNwhxBID), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Ariana](https://open.spotify.com/album/2392c6YQuxajyOfl42q4rZ) | 2:35 | 2022-09-02 |  |
+| [Ariana](https://open.spotify.com/track/4p7KMBNMNs8uN1dQadkqVa) | [Igão Santi](https://open.spotify.com/artist/2xZhKkCpZq4YtbvNwhxBID), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Ariana](https://open.spotify.com/album/2392c6YQuxajyOfl42q4rZ) | 2:35 | 2022-09-02 | 2022-10-25 |
 | [Avisa Quando Chegar](https://open.spotify.com/track/6ecOPJYN05Ws5djQwsPu4z) | [Sagaz](https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Avisa Quando Chegar](https://open.spotify.com/album/6RRO4u0jO65JFrRXAgc0yn) | 2:23 | 2022-04-29 | 2022-06-19 |
 | [Baby](https://open.spotify.com/track/4WqeMJePErKQJ0pnOE6oPw) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [W15](https://open.spotify.com/artist/2pMfR56yhH9vpaQNnmXMvu) | [Baby](https://open.spotify.com/album/4074lUQZ4MRwAtUhbfJP8M) | 2:09 | 2022-03-07 | 2022-07-31 |
 | [Bad Bitch](https://open.spotify.com/track/2KplAYJOWIO9BF7qB72Ro4) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Bad Bitch](https://open.spotify.com/album/1BKfLQQb9feWxOhz2mUIff) | 3:33 | 2022-03-07 | 2022-06-19 |
@@ -63,6 +63,7 @@
 | [Eu Te Proponho](https://open.spotify.com/track/1NLmmwS2qMv8YhIRQrCmZ7) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Cores & Valores](https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m) | 3:47 | 2022-03-07 | 2022-08-27 |
 | [Eu Tô Voando](https://open.spotify.com/track/5wcaTad9QMmXQPdyC0vMUJ) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Eu Tô Voando](https://open.spotify.com/album/0thcUsIa1eR91efJCf7p0W) | 2:25 | 2022-09-23 |  |
 | [Euro](https://open.spotify.com/track/2wWxjsBUYA4DjzWEPNyiCG) | [Morenna](https://open.spotify.com/artist/562XNv9p1lt4n74KBe0oV1), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Euro](https://open.spotify.com/album/6hrAJ2kTg8D9HlxyLAf29O) | 3:37 | 2022-03-07 | 2022-08-27 |
+| [Fala Meu Nome](https://open.spotify.com/track/2NoLuR3OGSQNHuG93k5Lgc) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw) | [Fala Meu Nome](https://open.spotify.com/album/0GXHeKI60SntLBSCld7uiB) | 1:37 | 2022-10-24 |  |
 | [Fala Teu Nome](https://open.spotify.com/track/25HvsUOmv504g0FBmfCrS9) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Fala Teu Nome](https://open.spotify.com/album/2Bzo75iiHVwCvHcPMDtimW) | 2:25 | 2022-09-23 | 2022-10-01 |
 | [Fica](https://open.spotify.com/track/5XoCHhUCrv2seffIGVzJ3x) | [K4tt0](https://open.spotify.com/artist/5YpokbwUkNnmqyKVJiO2E3) | [Fica](https://open.spotify.com/album/4ms8gh4HzAV6LLWSfMB6jO) | 3:31 | 2022-08-12 |  |
 | [Filha da Primeira Dama](https://open.spotify.com/track/1ys92qqJhLRgD3jaTPCfs2) | [Júlia Castro](https://open.spotify.com/artist/0erBEEMgeNCyNWxbV462iH), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Filha da Primeira Dama](https://open.spotify.com/album/08WzAYR9WHtIJUnNCcfvtj) | 2:42 | 2022-09-30 |  |

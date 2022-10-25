@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 344160,
+  "num_followers": 344278,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjU2OTAxNiwwMDAwMDAwMDAwYTUzNzE2Yzc2NmNjZGUyODc4YjQyZTQ4ODBkOTEw",
+  "snapshot_id": "MTY2NjU2OTAxNiwwMDAwMDAwMGEzZWQ3NTNjMDY5MmU0ODVmOTdhNDk0M2FiZDgyZmYy",
   "tracks": [
     {
       "added_at": "2022-10-23 23:50:16",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-10-23 23:50:16",
       "album": {
-        "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-        "url": "https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta"
+        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
+        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
       },
       "artists": [
         {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
         }
       ],
-      "duration_ms": 283106,
-      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-      "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
+      "duration_ms": 203554,
+      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
+      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
     },
     {
       "added_at": "2022-10-23 23:50:16",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-10-23 23:50:16",
       "album": {
+        "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+        "url": "https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+      "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
+    },
+    {
+      "added_at": "2022-10-23 23:50:16",
+      "album": {
         "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
         "url": "https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd"
       },
@@ -411,26 +427,6 @@
       "duration_ms": 176919,
       "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
       "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
-    },
-    {
-      "added_at": "2022-10-23 23:50:16",
-      "album": {
-        "name": "Toxins",
-        "url": "https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR"
-      },
-      "artists": [
-        {
-          "name": "Bleecker Chrome",
-          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
-        },
-        {
-          "name": "TARVETHZ",
-          "url": "https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR"
-        }
-      ],
-      "duration_ms": 180861,
-      "name": "Toxins",
-      "url": "https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA"
     },
     {
       "added_at": "2022-10-23 23:50:16",
@@ -471,54 +467,22 @@
     {
       "added_at": "2022-10-23 23:50:16",
       "album": {
-        "name": "\u30bf\u30a4\u30df\u30f3\u30b0\u3067\u3057\u3087 (feat. Awich)",
-        "url": "https://open.spotify.com/album/3n2RDR1czTdnOTO52bx3OB"
+        "name": "Toxins",
+        "url": "https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR"
       },
       "artists": [
         {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
         },
         {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+          "name": "TARVETHZ",
+          "url": "https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR"
         }
       ],
-      "duration_ms": 231895,
-      "name": "\u30bf\u30a4\u30df\u30f3\u30b0\u3067\u3057\u3087 (feat. Awich)",
-      "url": "https://open.spotify.com/track/5TsBHbTbAUNQmUtvpS4kDI"
-    },
-    {
-      "added_at": "2022-10-23 23:50:16",
-      "album": {
-        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
-        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
-      },
-      "artists": [
-        {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
-        }
-      ],
-      "duration_ms": 203554,
-      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
-      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
-    },
-    {
-      "added_at": "2022-10-23 23:50:16",
-      "album": {
-        "name": "Todai",
-        "url": "https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 177662,
-      "name": "Todai",
-      "url": "https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m"
+      "duration_ms": 180861,
+      "name": "Toxins",
+      "url": "https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA"
     },
     {
       "added_at": "2022-10-23 23:50:16",
@@ -539,18 +503,18 @@
     {
       "added_at": "2022-10-23 23:50:16",
       "album": {
-        "name": "A.O.U",
-        "url": "https://open.spotify.com/album/70bw8vjpWZbDxqEBqrOax8"
+        "name": "Todai",
+        "url": "https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES"
       },
       "artists": [
         {
-          "name": "Chara",
-          "url": "https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp"
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 199280,
-      "name": "A.O.U",
-      "url": "https://open.spotify.com/track/0660wv7yEysrDOlPawh9QK"
+      "duration_ms": 177662,
+      "name": "Todai",
+      "url": "https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m"
     },
     {
       "added_at": "2022-10-23 23:50:16",
@@ -567,6 +531,42 @@
       "duration_ms": 219069,
       "name": "REACH!",
       "url": "https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK"
+    },
+    {
+      "added_at": "2022-10-23 23:50:16",
+      "album": {
+        "name": "A.O.U",
+        "url": "https://open.spotify.com/album/70bw8vjpWZbDxqEBqrOax8"
+      },
+      "artists": [
+        {
+          "name": "Chara",
+          "url": "https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "A.O.U",
+      "url": "https://open.spotify.com/track/0660wv7yEysrDOlPawh9QK"
+    },
+    {
+      "added_at": "2022-10-23 23:50:16",
+      "album": {
+        "name": "\u30bf\u30a4\u30df\u30f3\u30b0\u3067\u3057\u3087 (feat. Awich)",
+        "url": "https://open.spotify.com/album/3n2RDR1czTdnOTO52bx3OB"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "duration_ms": 231895,
+      "name": "\u30bf\u30a4\u30df\u30f3\u30b0\u3067\u3057\u3087 (feat. Awich)",
+      "url": "https://open.spotify.com/track/5TsBHbTbAUNQmUtvpS4kDI"
     },
     {
       "added_at": "2022-10-23 23:50:16",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-10-23 23:50:16",
       "album": {
-        "name": "HOMEWORK",
-        "url": "https://open.spotify.com/album/30ZEBL5NnWPGAwd80jEsHG"
+        "name": "A revolution",
+        "url": "https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD"
       },
       "artists": [
         {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+          "name": "LOVE PSYCHEDELICO",
+          "url": "https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp"
         }
       ],
-      "duration_ms": 171000,
-      "name": "HOMEWORK",
-      "url": "https://open.spotify.com/track/0gq75lykNVUk0zaHVruLGB"
+      "duration_ms": 240133,
+      "name": "Radio song",
+      "url": "https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X"
     },
     {
       "added_at": "2022-10-23 23:50:16",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-10-23 23:50:16",
       "album": {
+        "name": "HOMEWORK",
+        "url": "https://open.spotify.com/album/30ZEBL5NnWPGAwd80jEsHG"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "HOMEWORK",
+      "url": "https://open.spotify.com/track/0gq75lykNVUk0zaHVruLGB"
+    },
+    {
+      "added_at": "2022-10-23 23:50:16",
+      "album": {
         "name": "Dancing Womer",
         "url": "https://open.spotify.com/album/5ZPkVkgnqXl4XOYyKe1q3w"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 243000,
       "name": "Dancing Womer",
       "url": "https://open.spotify.com/track/1gnwP3EsVfF9ZNB9ILG5Bq"
-    },
-    {
-      "added_at": "2022-10-23 23:50:16",
-      "album": {
-        "name": "A revolution",
-        "url": "https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD"
-      },
-      "artists": [
-        {
-          "name": "LOVE PSYCHEDELICO",
-          "url": "https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Radio song",
-      "url": "https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X"
     },
     {
       "added_at": "2022-10-23 23:50:16",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-10-23 23:50:16",
       "album": {
+        "name": "\u7d9a\u30fbNew York City",
+        "url": "https://open.spotify.com/album/2YGIs4EQXhDL9R9D1lz3WZ"
+      },
+      "artists": [
+        {
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+        }
+      ],
+      "duration_ms": 282493,
+      "name": "\u7d9a\u30fbNew York City",
+      "url": "https://open.spotify.com/track/0SEtY9Z4GWq9i0sNyIttFA"
+    },
+    {
+      "added_at": "2022-10-23 23:50:16",
+      "album": {
         "name": "Rules",
         "url": "https://open.spotify.com/album/0zRsI6dnQZsxKZvbNdM7fn"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 215680,
       "name": "Rules",
       "url": "https://open.spotify.com/track/6x108QFQh3AP7wzQt6zqxY"
-    },
-    {
-      "added_at": "2022-10-23 23:50:16",
-      "album": {
-        "name": "\u7d9a\u30fbNew York City",
-        "url": "https://open.spotify.com/album/2YGIs4EQXhDL9R9D1lz3WZ"
-      },
-      "artists": [
-        {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
-        }
-      ],
-      "duration_ms": 282493,
-      "name": "\u7d9a\u30fbNew York City",
-      "url": "https://open.spotify.com/track/0SEtY9Z4GWq9i0sNyIttFA"
     },
     {
       "added_at": "2022-10-23 23:50:16",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-10-23 23:50:16",
       "album": {
+        "name": "\u30d4\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/4CDlpPToQl8dlAYsvYriko"
+      },
+      "artists": [
+        {
+          "name": "Ritsuki Akiyama",
+          "url": "https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9"
+        }
+      ],
+      "duration_ms": 284531,
+      "name": "\u30d4\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/2BUaLRp0NsvfWOWtqnJrYe"
+    },
+    {
+      "added_at": "2022-10-23 23:50:16",
+      "album": {
         "name": "WARUNORI",
         "url": "https://open.spotify.com/album/2h7FVDXr3xmV11yyNImqRz"
       },
@@ -939,6 +955,30 @@
       "duration_ms": 442955,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/6V36HaM6MDqRKCg8OY716v"
+    },
+    {
+      "added_at": "2022-10-23 23:50:16",
+      "album": {
+        "name": "Back To You (feat. Millie Snow, Nenashi)",
+        "url": "https://open.spotify.com/album/4JlQtHVVjXZdm68BDDi72q"
+      },
+      "artists": [
+        {
+          "name": "Pyramid",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+        },
+        {
+          "name": "Millie Snow",
+          "url": "https://open.spotify.com/artist/1zDAwrdFgBlU5vD632xvcy"
+        },
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Back To You (feat. Millie Snow, Nenashi)",
+      "url": "https://open.spotify.com/track/3bpFB3XID7OHHxW4OrC6vA"
     },
     {
       "added_at": "2022-10-23 23:50:16",
@@ -979,22 +1019,6 @@
     {
       "added_at": "2022-10-23 23:50:16",
       "album": {
-        "name": "Summer",
-        "url": "https://open.spotify.com/album/5hEzk2a2rXPnjZhRjeF71v"
-      },
-      "artists": [
-        {
-          "name": "ODD Foot Works",
-          "url": "https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn"
-        }
-      ],
-      "duration_ms": 238671,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6K8b9K4EeQLUyNBBgyb9ap"
-    },
-    {
-      "added_at": "2022-10-23 23:50:16",
-      "album": {
         "name": "The Plot / Echo",
         "url": "https://open.spotify.com/album/0rVsFYQTx5WPkaIHOuOdje"
       },
@@ -1015,30 +1039,6 @@
     {
       "added_at": "2022-10-23 23:50:16",
       "album": {
-        "name": "Back To You (feat. Millie Snow, Nenashi)",
-        "url": "https://open.spotify.com/album/4JlQtHVVjXZdm68BDDi72q"
-      },
-      "artists": [
-        {
-          "name": "Pyramid",
-          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
-        },
-        {
-          "name": "Millie Snow",
-          "url": "https://open.spotify.com/artist/1zDAwrdFgBlU5vD632xvcy"
-        },
-        {
-          "name": "Nenashi",
-          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Back To You (feat. Millie Snow, Nenashi)",
-      "url": "https://open.spotify.com/track/3bpFB3XID7OHHxW4OrC6vA"
-    },
-    {
-      "added_at": "2022-10-23 23:50:16",
-      "album": {
         "name": "Worthy",
         "url": "https://open.spotify.com/album/5d2Pj55asIJOBjbn5eatr2"
       },
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-10-23 23:50:16",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/2oaPQosRx7EHt403lUQu07"
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/5hEzk2a2rXPnjZhRjeF71v"
       },
       "artists": [
         {
-          "name": "chilldspot",
-          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+          "name": "ODD Foot Works",
+          "url": "https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn"
         }
       ],
-      "duration_ms": 221778,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/3hPTqw8pMF7SQpxaWngBOM"
+      "duration_ms": 238671,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6K8b9K4EeQLUyNBBgyb9ap"
     }
   ],
   "unique_name": "Tokyo Rising",

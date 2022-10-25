@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-659 songs - 1 day 15 hr 22 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
+660 songs - 1 day 15 hr 25 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Count On Me \(Alt\. Version\)](https://open.spotify.com/track/59qgTMCf7xt5HECdmYkQsN) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Count On Me \(Alt\. Version\)](https://open.spotify.com/album/6ivjtNTiHtxtjruHX1BJLp) | 3:04 | 2021-12-17 | 2022-07-11 |
 | [cover girl \- autumn](https://open.spotify.com/track/3QSFvMlRODYxTKeMP3I0VM) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [cover girl \(autumn\)](https://open.spotify.com/album/2TfdtsJVEAkip8ftIeLe05) | 3:21 | 2021-12-17 | 2022-04-21 |
 | [Cups and Balloons](https://open.spotify.com/track/72TIFgfDu1MLMuDAfuUgu8) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cups and Balloons](https://open.spotify.com/album/5NuQaD1CXWZq2RfnFQphIG) | 4:04 | 2022-01-24 | 2022-04-21 |
-| [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 | 2022-07-22 |  |
+| [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 | 2022-07-22 | 2022-10-25 |
 | [Dakota](https://open.spotify.com/track/6zUVhz0qHuwtZETMf7vgUT) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/5veDybiqNFwSXdDtheoXDD) | 4:54 | 2021-12-17 | 2022-07-29 |
 | [Dance With Me](https://open.spotify.com/track/1GqkGxG9T904AiKa6VgdRn) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [Dance With Me](https://open.spotify.com/album/3jondhdBF68JYenWMCIOI4) | 3:25 | 2021-12-17 | 2022-07-29 |
 | [Daylight](https://open.spotify.com/track/0cVrv8dZAhs19LKGX61EvS) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Daylight](https://open.spotify.com/album/3NdmyGu5zVDaihh0BGFnNx) | 3:52 | 2022-01-24 | 2022-04-06 |
@@ -616,6 +616,7 @@
 | [Waiting](https://open.spotify.com/track/6Hfm61e7tVpekos96WUa1T) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Hearts That Strain](https://open.spotify.com/album/0ym0XWkjGC3NpYMl0xD2NR) | 3:11 | 2022-01-24 | 2022-04-20 |
 | [Waiting \- Demo](https://open.spotify.com/track/6sqjaO9q52sNKJ8S4x53DD) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Waiting \(Demo\)](https://open.spotify.com/album/1wncWM9JUHEyyo83zellqP) | 1:41 | 2021-12-17 |  |
 | [Waking Up Slow \- Piano](https://open.spotify.com/track/7E9QA6hL8Ebk0yHXeV1UIB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Waking Up Slow \(Piano\)](https://open.spotify.com/album/2dYnQR7W5ptqvQRXCmcT59) | 3:41 | 2021-12-17 | 2022-04-21 |
+| [Waking up Slow \- Piano Version](https://open.spotify.com/track/4IRVhjtmLRLt6WR3ICNR6X) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Waking up Slow \(Piano Version\)](https://open.spotify.com/album/1BZl757T86An7GGdnE1WtN) | 3:41 | 2022-07-29 |  |
 | [Waking up Slow \- Piano Version](https://open.spotify.com/track/4NkIYlfobkqS2hALHTIUV9) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Waking up Slow \(Piano Version\)](https://open.spotify.com/album/6qPtRqNuDGUgBVlU2AQFz1) | 3:41 | 2022-07-22 | 2022-10-13 |
 | [Walking Home to You](https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [LEMONS](https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX) | 3:59 | 2021-12-17 | 2022-04-15 |
 | [Wanted \(Acoustic\)](https://open.spotify.com/track/1KZaVU9QspHnzNT3NgH9Tg) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Carmen Justice](https://open.spotify.com/artist/2JrDkW63FG9GotlYtmuwTs) | [Wanted \(Acoustic\)](https://open.spotify.com/album/48VjpRGLXZxgmmTTMTFowz) | 2:18 | 2022-01-24 | 2022-04-16 |

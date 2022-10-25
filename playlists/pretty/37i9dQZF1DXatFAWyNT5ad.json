@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 87378,
+  "num_followers": 87407,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDAyY2YzYmZhYmU1OGVkMWQzZWFlN2QyNWUxYmVmODNh",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMGNkYTBlYWZhYjg0ZWYzNmQ1NjE5MzA1MWYzNWZmOTY0",
   "tracks": [
     {
       "added_at": "2022-10-14 04:01:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Sharks",
-        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 190883,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Die Young (feat. 347aidan)",
         "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
       },
@@ -215,22 +199,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "jealousy, jealousy",
-      "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
         "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },
@@ -243,6 +211,22 @@
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 190883,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -299,6 +283,22 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "jealousy, jealousy",
+      "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "There\u2019d Better Be A Mirrorball",
         "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
       },
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 163027,
-      "name": "29",
-      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 170133,
       "name": "maybe (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 163027,
+      "name": "29",
+      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -479,6 +479,26 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 171620,
+      "name": "forget me too (feat. Halsey)",
+      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "i hope ur miserable until ur dead",
         "url": "https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d"
       },
@@ -511,26 +531,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 171620,
-      "name": "forget me too (feat. Halsey)",
-      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
@@ -559,26 +559,6 @@
       "duration_ms": 125746,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "la di die (feat. jxdn)",
-        "url": "https://open.spotify.com/album/1KBoH5xsMCXPuVsZMORvtO"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        },
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 195191,
-      "name": "la di die (feat. jxdn)",
-      "url": "https://open.spotify.com/track/3RLshk3cDQOqWhSIRCVaXL"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -651,6 +631,26 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "la di die (feat. jxdn)",
+        "url": "https://open.spotify.com/album/1KBoH5xsMCXPuVsZMORvtO"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        },
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 195191,
+      "name": "la di die (feat. jxdn)",
+      "url": "https://open.spotify.com/track/3RLshk3cDQOqWhSIRCVaXL"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "How Do You Love Somebody",
         "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
       },
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "The Bastards",
+        "url": "https://open.spotify.com/album/5274bCsoBGBuqed5yKLi9D"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 186249,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/0haXiRi57j2xQo5a3WkzqV"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "dying on the inside",
         "url": "https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "The Bastards",
-        "url": "https://open.spotify.com/album/5274bCsoBGBuqed5yKLi9D"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 186249,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/0haXiRi57j2xQo5a3WkzqV"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "the underrated youth",
         "url": "https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 171880,
       "name": "parents",
       "url": "https://open.spotify.com/track/68rVGSTnCiFOET9k5Vd8Se"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -799,22 +815,6 @@
       "duration_ms": 189075,
       "name": "fmk (with blackbear)",
       "url": "https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -891,42 +891,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Bad Habits (feat. Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 250763,
-      "name": "Bad Habits (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Tissues",
-        "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 215163,
-      "name": "Tissues",
-      "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -959,6 +923,22 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "Tissues",
+        "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 215163,
+      "name": "Tissues",
+      "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
@@ -979,6 +959,26 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "Bad Habits (feat. Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 250763,
+      "name": "Bad Habits (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 196000,
       "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Morning Blue",
-        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 217136,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 217136,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "<COPINGMECHANISM>",
-        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 125901,
-      "name": "ur a <stranger>",
-      "url": "https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Tell Me About Tomorrow",
         "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 155673,
       "name": "BETTER OFF DEAD",
       "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "<COPINGMECHANISM>",
+        "url": "https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 125901,
+      "name": "ur a <stranger>",
+      "url": "https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "young forever",
+        "url": "https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "too hot to cry",
+      "url": "https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "Rain (from The Suicide Squad)",
         "url": "https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap"
       },
@@ -1123,6 +1139,22 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "The Funeral",
         "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
       },
@@ -1139,22 +1171,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "young forever",
-        "url": "https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "too hot to cry",
-      "url": "https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "ZITTI E BUONI",
         "url": "https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy"
       },
@@ -1167,6 +1183,22 @@
       "duration_ms": 192654,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "<maybe> it's my fault",
+        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 159832,
+      "name": "<maybe> it's my fault",
+      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1207,38 +1239,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "Serotonin",
-      "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "<maybe> it's my fault",
-        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "<maybe> it's my fault",
-      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 204642,
       "name": "the idea",
       "url": "https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "fleabag",
-        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 176988,
-      "name": "fleabag",
-      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1331,6 +1315,22 @@
       "duration_ms": 173467,
       "name": "I'm Not Mad",
       "url": "https://open.spotify.com/track/6SL8U8TtdwOtGhbmGzsMfX"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "fleabag",
+        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 176988,
+      "name": "fleabag",
+      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
     },
     {
       "added_at": "2022-10-14 04:01:00",

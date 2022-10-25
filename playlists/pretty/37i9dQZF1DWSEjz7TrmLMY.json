@@ -1,12 +1,12 @@
 {
   "description": "canto de tristeza porque lo nuestro termin\u00f3 ",
-  "num_followers": 42647,
+  "num_followers": 42693,
   "original_name": "perd\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4NDI1MywwMDAwMDAwMGE2MDc3ZTMyZThlNWExNmJiODEyZDZjNTZlODQ5Njlh",
+  "snapshot_id": "MTY1OTQ4NDI1MywwMDAwMDAwMDQwZmNkNGI4NTBkZDU5MWE1NWZjNWNjMWQwNzI3MzE1",
   "tracks": [
     {
       "added_at": "2022-08-02 23:50:53",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
-        "name": "Corazon Latino",
-        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "D\u00edgale",
-      "url": "https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2"
-    },
-    {
-      "added_at": "2022-08-02 23:50:53",
-      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 211255,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
+    },
+    {
+      "added_at": "2022-08-02 23:50:53",
+      "album": {
+        "name": "Corazon Latino",
+        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 262440,
+      "name": "D\u00edgale",
+      "url": "https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2"
     },
     {
       "added_at": "2022-08-02 23:50:53",
@@ -319,6 +319,26 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
+        "name": "Que Sea",
+        "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Que Sea",
+      "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
+    },
+    {
+      "added_at": "2022-08-02 23:50:53",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -351,42 +371,6 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Te Fall\u00e9",
-      "url": "https://open.spotify.com/track/2UDoZZSrs3NxlmvFZbffr4"
-    },
-    {
-      "added_at": "2022-08-02 23:50:53",
-      "album": {
-        "name": "Que Sea",
-        "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Que Sea",
-      "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
-    },
-    {
-      "added_at": "2022-08-02 23:50:53",
-      "album": {
         "name": "Arriba Huentitan",
         "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
       },
@@ -403,6 +387,38 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Te Fall\u00e9",
+      "url": "https://open.spotify.com/track/2UDoZZSrs3NxlmvFZbffr4"
+    },
+    {
+      "added_at": "2022-08-02 23:50:53",
+      "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 199482,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"
+    },
+    {
+      "added_at": "2022-08-02 23:50:53",
+      "album": {
         "name": "Yo Te Necesito",
         "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
       },
@@ -415,6 +431,22 @@
       "duration_ms": 178240,
       "name": "Yo Te Necesito",
       "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
+    },
+    {
+      "added_at": "2022-08-02 23:50:53",
+      "album": {
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 243573,
+      "name": "Y Volver\u00e9",
+      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
     },
     {
       "added_at": "2022-08-02 23:50:53",
@@ -443,22 +475,6 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "Y Volver\u00e9",
-      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
-    },
-    {
-      "added_at": "2022-08-02 23:50:53",
-      "album": {
         "name": "Bajo El Signo De Ca\u00edn",
         "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 278293,
       "name": "Si t\u00fa no vuelves",
       "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
-    },
-    {
-      "added_at": "2022-08-02 23:50:53",
-      "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 199482,
-      "name": "Un Idiota",
-      "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"
     },
     {
       "added_at": "2022-08-02 23:50:53",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
+        "name": "Diez A\u00f1os Cantandole Al Amor",
+        "url": "https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 222933,
+      "name": "Este Terco Corazon",
+      "url": "https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX"
+    },
+    {
+      "added_at": "2022-08-02 23:50:53",
+      "album": {
         "name": "Elypse",
         "url": "https://open.spotify.com/album/65GSNuB0XD97S7Xea0ppAC"
       },
@@ -619,18 +635,18 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
-        "name": "Diez A\u00f1os Cantandole Al Amor",
-        "url": "https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8"
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
       },
       "artists": [
         {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 222933,
-      "name": "Este Terco Corazon",
-      "url": "https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX"
+      "duration_ms": 211773,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
     },
     {
       "added_at": "2022-08-02 23:50:53",
@@ -663,22 +679,6 @@
       "duration_ms": 197306,
       "name": "Al Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/6orluAPC6hUu3BVZVuZjOu"
-    },
-    {
-      "added_at": "2022-08-02 23:50:53",
-      "album": {
-        "name": "Por Una Mujer Bonita",
-        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 211773,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
     },
     {
       "added_at": "2022-08-02 23:50:53",
@@ -767,26 +767,6 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
-        "name": "Hecho En M\u00e9xico (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/5VRiykfzXrzfY84WE1rRxj"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/3qZ4beZNwiXKqGoopSzYBe"
-    },
-    {
-      "added_at": "2022-08-02 23:50:53",
-      "album": {
         "name": "Siempre Te Amar\u00e9",
         "url": "https://open.spotify.com/album/2vBkgzqbxptOQOnFqwJHos"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 190893,
       "name": "Por Qu\u00e9 Nos Dijimos Adi\u00f3s",
       "url": "https://open.spotify.com/track/738XO2aKhfoHC1yvySbBry"
+    },
+    {
+      "added_at": "2022-08-02 23:50:53",
+      "album": {
+        "name": "Hecho En M\u00e9xico (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/5VRiykfzXrzfY84WE1rRxj"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/3qZ4beZNwiXKqGoopSzYBe"
     },
     {
       "added_at": "2022-08-02 23:50:53",

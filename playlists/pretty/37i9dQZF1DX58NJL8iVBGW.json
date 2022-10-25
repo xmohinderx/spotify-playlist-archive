@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 516663,
+  "num_followers": 516882,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDA3MWQxOTNhZDIxYWIyOTM0ZmMzOWE5MzgwYTliODdm",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDFhN2EwMGEyMWM0ZjhmZGZiYjc5MmIyZWVjOTBkOWY0",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226688,
+      "name": "Bilgewater",
+      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Black Is the Color",
         "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
       },
@@ -499,34 +515,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "The Devil Dancing",
-        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+        "name": "Heart Of My Own",
+        "url": "https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH"
       },
       "artists": [
         {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
         }
       ],
-      "duration_ms": 226324,
-      "name": "Danger and Dread",
-      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Unsung Passage",
-        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
-      },
-      "artists": [
-        {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Ebb and Flow",
-      "url": "https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j"
+      "duration_ms": 229626,
+      "name": "Heart Of My Own",
+      "url": "https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -547,18 +547,34 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Heart Of My Own",
-        "url": "https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH"
+        "name": "Unsung Passage",
+        "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
       },
       "artists": [
         {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
         }
       ],
-      "duration_ms": 229626,
-      "name": "Heart Of My Own",
-      "url": "https://open.spotify.com/track/6CrOckpOuPVMJkw5LSpRLv"
+      "duration_ms": 197560,
+      "name": "Ebb and Flow",
+      "url": "https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "The Devil Dancing",
+        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Danger and Dread",
+      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -635,22 +651,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226688,
-      "name": "Bilgewater",
-      "url": "https://open.spotify.com/track/05wB0mSpDASexc98oKZCOw"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Sad But True",
         "url": "https://open.spotify.com/album/2Io6ybkhshdFUJhBgWQETk"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Common Faults (Remastered Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZrsOwdFsAWSnIjlVvKgOE"
+      },
+      "artists": [
+        {
+          "name": "The Silent Comedy",
+          "url": "https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY"
+        }
+      ],
+      "duration_ms": 187558,
+      "name": "Bartholomew",
+      "url": "https://open.spotify.com/track/44CXyv6wcKCfoRIAY5r99s"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Folksinger Vol. 2",
         "url": "https://open.spotify.com/album/2CBLeaL8ProyeOOhc1QFpb"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Common Faults (Remastered Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ZrsOwdFsAWSnIjlVvKgOE"
-      },
-      "artists": [
-        {
-          "name": "The Silent Comedy",
-          "url": "https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY"
-        }
-      ],
-      "duration_ms": 187558,
-      "name": "Bartholomew",
-      "url": "https://open.spotify.com/track/44CXyv6wcKCfoRIAY5r99s"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "Things That Scare Me",
+      "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Hawk",
         "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 168066,
       "name": "Snake Song",
       "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Blacklisted",
-        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "Things That Scare Me",
-      "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "When the River Took Flight",
-        "url": "https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB"
-      },
-      "artists": [
-        {
-          "name": "Paper Bird",
-          "url": "https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "Lost Boys",
-      "url": "https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 290680,
       "name": "How's It Gonna End",
       "url": "https://open.spotify.com/track/2UZxUSA4TxbS5tXUB5QSoL"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "When the River Took Flight",
+        "url": "https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB"
+      },
+      "artists": [
+        {
+          "name": "Paper Bird",
+          "url": "https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "A Mountain Is a Mouth",
-        "url": "https://open.spotify.com/album/40jiaGBNJkFMiRW0yzcfYH"
-      },
-      "artists": [
-        {
-          "name": "Bruce Peninsula",
-          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
-        }
-      ],
-      "duration_ms": 156706,
-      "name": "Crabapples",
-      "url": "https://open.spotify.com/track/2cpDIcN0TiGLUptEYsT4Bh"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Nine Pin",
         "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Digging Up Birds: A Collection of Rarities & Others",
-        "url": "https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD"
+        "name": "A Mountain Is a Mouth",
+        "url": "https://open.spotify.com/album/40jiaGBNJkFMiRW0yzcfYH"
       },
       "artists": [
         {
-          "name": "Graham Lindsey",
-          "url": "https://open.spotify.com/artist/1hFvZy3pBf5pOSmJULL4sG"
+          "name": "Bruce Peninsula",
+          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
         }
       ],
-      "duration_ms": 188660,
-      "name": "No Way Out but Down (Alternate Version)",
-      "url": "https://open.spotify.com/track/5xpmBKqvY9u9ziuHRTusY9"
+      "duration_ms": 156706,
+      "name": "Crabapples",
+      "url": "https://open.spotify.com/track/2cpDIcN0TiGLUptEYsT4Bh"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1375,6 +1359,22 @@
       "duration_ms": 198132,
       "name": "Chairkickers",
       "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Digging Up Birds: A Collection of Rarities & Others",
+        "url": "https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD"
+      },
+      "artists": [
+        {
+          "name": "Graham Lindsey",
+          "url": "https://open.spotify.com/artist/1hFvZy3pBf5pOSmJULL4sG"
+        }
+      ],
+      "duration_ms": 188660,
+      "name": "No Way Out but Down (Alternate Version)",
+      "url": "https://open.spotify.com/track/5xpmBKqvY9u9ziuHRTusY9"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Natural Conclusion",
-        "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
-      },
-      "artists": [
-        {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
-        }
-      ],
-      "duration_ms": 194570,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/7ywUfT35DxrKOoq7ZL0VQ5"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "My Church Is Black",
         "url": "https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Look Homeward",
-        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
+        "name": "Natural Conclusion",
+        "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
       },
       "artists": [
         {
-          "name": "Look Homeward",
-          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
         }
       ],
-      "duration_ms": 173346,
-      "name": "Sister Death",
-      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
+      "duration_ms": 194570,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/7ywUfT35DxrKOoq7ZL0VQ5"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "Look Homeward",
+        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
+      },
+      "artists": [
+        {
+          "name": "Look Homeward",
+          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Sister Death",
+      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Lay This Body Down",
         "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
       },
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Bastard Children",
-        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
-      },
-      "artists": [
-        {
-          "name": "Vudu Sister",
-          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "Dead Man's Pocket",
-      "url": "https://open.spotify.com/track/1SbnUcfbqd0EdkczKJbEDK"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Anna & Elizabeth",
         "url": "https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 88293,
       "name": "Long Time Travelin'",
       "url": "https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Bastard Children",
+        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
+      },
+      "artists": [
+        {
+          "name": "Vudu Sister",
+          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "Dead Man's Pocket",
+      "url": "https://open.spotify.com/track/1SbnUcfbqd0EdkczKJbEDK"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Banjo Babes",
-        "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
+        "name": "Filthy Dirty South",
+        "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
       },
       "artists": [
         {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
         }
       ],
-      "duration_ms": 245693,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
+      "duration_ms": 346333,
+      "name": "Filthy Dirty South",
+      "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
     }
   ],
   "unique_name": "Southern Gothic",

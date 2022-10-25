@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-50 songs - 3 hr 0 min - not published yet
+51 songs - 3 hr 4 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [idoshiyo](https://open.spotify.com/track/4HXOB4iLo2O86YNzp7ksH1) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [SARA\-J](https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL) | [idoshiyo](https://open.spotify.com/album/4SW8buxuzDa9pc1Pv3fGfk) | 2:18 | 2022-10-20 |  |
 | [kid feat\. Yuga](https://open.spotify.com/track/7GMbDO1vB3nbUrPXnYeqkA) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [優河](https://open.spotify.com/artist/4Oy3S7MObkSt60p6D1qrua) | [from here to there](https://open.spotify.com/album/17kSaiO4qU3vigvTKPUJWU) | 4:13 | 2022-10-20 |  |
 | [Lazy](https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Tasty](https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo) | 3:53 | 2022-10-20 |  |
+| [Limbo](https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Limbo](https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1) | 3:15 | 2022-10-20 |  |
 | [Lullaby](https://open.spotify.com/track/0kMurvK2rcbHQseXMjBJTT) | [ZIW](https://open.spotify.com/artist/7ijz6PFdK9juJmaKs75KHa), [Fukumoto Nao](https://open.spotify.com/artist/1QLZ0b7wV4GzLfIrDscnET), [Kannon Price](https://open.spotify.com/artist/40DqpvTke3kuyArabmopRw) | [Lullaby](https://open.spotify.com/album/4O4LEkNJwNQhXOojYRNJcM) | 4:01 | 2022-10-20 |  |
 | [madoromiyurumi](https://open.spotify.com/track/3eyti6C0dpOaFKv01GMUn9) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [madoromiyurumi](https://open.spotify.com/album/5QPr7Gbmbfjw3AxXPyHoJb) | 4:04 | 2022-10-20 |  |
 | [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 | 2022-10-20 |  |
@@ -36,7 +37,7 @@
 | [Re:Deadstock](https://open.spotify.com/track/1yeVYPhxJBdeSoUFVf0gkb) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Re:Deadstock](https://open.spotify.com/album/2cDL3EX58mSFRisxcNRnwP) | 2:23 | 2022-10-20 |  |
 | [September](https://open.spotify.com/track/7MfwIBaD6I4CsahHSqygDp) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September](https://open.spotify.com/album/2t5XtZE8VkUKuTjowVd0di) | 3:36 | 2022-10-20 |  |
 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 | 2022-10-20 |  |
-| [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/track/754uqLwH2sy5PlVSjluNRB) | [Tomoko Ikeda × TENDRE](https://open.spotify.com/artist/2OFTI9ZTwbhY8cT0k7HU2P) | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/album/0feblWhwtVCFblpekmrmjJ) | 5:01 | 2022-10-20 |  |
+| [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/track/754uqLwH2sy5PlVSjluNRB) | [Tomoko Ikeda × TENDRE](https://open.spotify.com/artist/2OFTI9ZTwbhY8cT0k7HU2P) | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/album/0feblWhwtVCFblpekmrmjJ) | 5:01 | 2022-10-20 | 2022-10-25 |
 | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6) | 5:03 | 2022-10-20 |  |
 | [U.F.O](https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [U.F.O](https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0) | 3:50 | 2022-10-20 |  |
 | [Umbrella](https://open.spotify.com/track/7okiGeaZtMAjH5YnYY5CIf) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Umbrella](https://open.spotify.com/album/6G8DaKmaUuwZmOVOYUHP5C) | 4:32 | 2022-10-20 |  |

@@ -4,7 +4,7 @@
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-189 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/4XQxIpr1b9y5T9BKvj7rBC)
+190 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/4XQxIpr1b9y5T9BKvj7rBC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Far From Any Road](https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Singing Bones](https://open.spotify.com/album/3u4rZDOy1c7N0otfHS0qTj) | 2:46 | 2021-08-16 | 2022-07-28 |
 | [Fault Line](https://open.spotify.com/track/1mLlfRGoI7a6qbvyH0Bh2A) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/5yTFClS2dEGZD5IjM9dfrT) | 2:57 | 2022-06-06 |  |
 | [Fault Line](https://open.spotify.com/track/20hLTXbjj0jhiyOQFwIqa0) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ) | 2:57 | 2021-08-16 | 2022-08-04 |
+| [Filthy Dirty South](https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Filthy Dirty South](https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ) | 5:46 | 2022-06-06 |  |
 | [Filthy Dirty South](https://open.spotify.com/track/5BeCnd9M1HNWYfspR88pAj) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Filthy Dirty South](https://open.spotify.com/album/5PWp4PsP4W2d1e90RQoOoF) | 5:46 | 2022-06-06 | 2022-09-30 |
 | [Filthy Dirty South](https://open.spotify.com/track/74Fd1uz6wiTaqDXyWK7AXl) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Filthy Dirty South](https://open.spotify.com/album/0jDnfywtNBh634OQD7EOJf) | 5:46 | 2021-08-16 | 2022-07-29 |
 | [Fingers To The Bone](https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:11 | 2021-08-16 |  |
@@ -126,7 +127,7 @@
 | [Lungs](https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Lungs](https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g) | 2:57 | 2021-10-07 |  |
 | [Lungs](https://open.spotify.com/track/1p3ZBdx6XCXZEu7OoO0zW2) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter](https://open.spotify.com/album/2drUynocyGveMTFheprmJy) | 2:34 | 2021-08-16 | 2022-07-29 |
 | [Lungs \- Live](https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter, Houston, Texas](https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC) | 2:34 | 2022-06-06 |  |
-| [Maggie May](https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Banjo Babes](https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb) | 4:05 | 2021-08-16 |  |
+| [Maggie May](https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Banjo Babes](https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb) | 4:05 | 2021-08-16 | 2022-10-25 |
 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 | 2021-08-16 |  |
 | [Meet Me in the Alleyway](https://open.spotify.com/track/1m4E3gYFqZ0RTxGlZWxP7k) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I'll Never Get out of This World Alive](https://open.spotify.com/album/4TpbQA23m33nGTWzWBkuZy) | 4:25 | 2022-06-06 |  |
 | [Meet Me In The Alleyway](https://open.spotify.com/track/4qIY8BJt2qBDZT8lm2eFkv) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I'll Never Get Out of This World Alive](https://open.spotify.com/album/1QZxAcimNfPH2jymFKdmDE) | 4:25 | 2021-08-16 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 
 > This is Korn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,186 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,355 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 37 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
 | 38 | [Liar](https://open.spotify.com/track/6B1uhU0w4fk7nNeylg41Xq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [See You On the Other Side](https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF) | 4:14 |
 | 39 | [Lost In The Grandeur](https://open.spotify.com/track/4frc8rYiPP7oHmxEMh3LHR) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:50 |
-| 40 | [Rotting In Vain](https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:33 |
-| 41 | [Divine](https://open.spotify.com/track/6Ot1jvIoVPAuGRKY8Qxue8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 2:50 |
+| 40 | [Divine](https://open.spotify.com/track/6Ot1jvIoVPAuGRKY8Qxue8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 2:50 |
+| 41 | [Rotting In Vain](https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:33 |
 | 42 | [Beg for Me](https://open.spotify.com/track/6bwuLPr45wsvbTjB0PGI65) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:54 |
 | 43 | [Let The Dark Do The Rest](https://open.spotify.com/track/7aZsMvEdZBsZHUG3OGbPpD) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:39 |
 | 44 | [Hater](https://open.spotify.com/track/1vlgn36Bko8wbMBwzS4Mdr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(World Tour Edition\)](https://open.spotify.com/album/14gKIvHuVsbf3cQVRxDOu1) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 49 | [Chi](https://open.spotify.com/track/5cLttQXyVI07tUKCN8T4OD) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 3:55 |
 | 50 | [Insane](https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:50 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDBmZmEwZjZkZjU1OTI4NTRjMzU0NmNkNjIyY2NmZDBkNw==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDBkOTBjODVlYWViZWFiNzljNzFkMjM3NTgzMGNlOWE2Yw==`

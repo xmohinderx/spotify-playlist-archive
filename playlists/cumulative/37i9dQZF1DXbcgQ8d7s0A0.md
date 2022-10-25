@@ -4,11 +4,12 @@
 
 > Chill out to the sweetest soul songs.
 
-148 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/7xn5yJaidaf1p3Zso53LRw)
+149 songs - 9 hr 51 min - [published](https://open.spotify.com/playlist/7xn5yJaidaf1p3Zso53LRw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Very Best of Otis Redding](https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA) | 2:46 | 2021-02-18 | 2022-07-29 |
+| [\(What A\) Wonderful World](https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:09 | 2021-02-18 |  |
 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 | 2021-02-18 |  |
 | [7 Days](https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 3:55 | 2021-02-18 |  |
 | [A Warm Summer Night](https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 6:04 | 2021-02-18 | 2022-07-29 |
@@ -18,7 +19,7 @@
 | [Ain't No Sunshine](https://open.spotify.com/track/7u9s9Kn0J9U69J0qQV3E5M) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Very Best Of](https://open.spotify.com/album/3mFP1yxmJU47uAYVmx0tAM) | 2:03 | 2021-02-18 | 2022-07-29 |
 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 | 2021-02-18 |  |
 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 | 2021-02-18 |  |
-| [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 | 2021-02-18 |  |
+| [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 | 2021-02-18 | 2022-10-25 |
 | [As](https://open.spotify.com/track/6RdPQL64TSTPHZKYnpxAhT) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/1RspINIRNK1WiHUHoYqdXx) | 7:08 | 2021-02-18 | 2022-07-29 |
 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 | 2021-02-18 |  |
 | [Baby Come Back](https://open.spotify.com/track/2eRYuzlSOBk3HlMsCSOLPJ) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Late Night Tales: Music For Pleasure](https://open.spotify.com/album/0GPZjIWU4sF8wmdNv67Ukc) | 3:34 | 2021-02-18 |  |

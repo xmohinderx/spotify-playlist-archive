@@ -4,7 +4,7 @@
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-59 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/15XX6lawI7eg99bVMwOVQB)
+60 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/15XX6lawI7eg99bVMwOVQB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [Azúcar](https://open.spotify.com/track/3IxNO8WmhEaxweYAzdd9pL) | [Héctor Infanzón Quartet](https://open.spotify.com/artist/3jOCmt5AUuY0zF1CvwVr5W) | [Nos Toca](https://open.spotify.com/album/4GpJkM3MWkQLGw7zeS5v8d) | 5:53 | 2021-07-28 |  |
 | [Bad Hombres Y Mujeres](https://open.spotify.com/track/4NGb4Tkvgzqz58SA3NNl8W) | [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw), [John Escreet](https://open.spotify.com/artist/4Ije0Q0RlICc17Q7TDZof9), [Matt Brewer](https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU), [Thana Alexa](https://open.spotify.com/artist/6jvFT2wqxaFL9lcPTrzjyV), [Chase Baird](https://open.spotify.com/artist/6bOdATrvhzr4uWsePPqCwJ) | [Lines In The Sand](https://open.spotify.com/album/0rOMKaWPJScXu76Vm6GglX) | 8:43 | 2021-07-28 | 2022-09-26 |
 | [Breakfast At Tiffany's](https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd) | [Abraham Laboriel](https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW) | [Guidum](https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx) | 2:47 | 2021-07-28 |  |
+| [Bula](https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To) | [Chucho Zarzosa Su Piano y su Conjunto](https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH) | [Chucho en Chipp's](https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs) | 2:35 | 2021-07-28 |  |
 | [Caminos de Ayer](https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E), [Fernando Zenaido Maldonado](https://open.spotify.com/artist/6eHRIBeC0Pc4OWz6vOvEGv) | [Blues](https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox) | 2:59 | 2021-07-28 |  |
-| [Cenit](https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0) | [Dulce Resillas & Fabiola Franyutti](https://open.spotify.com/artist/781URXrzn60PTYO1zNStV2) | [Hilando Lunas](https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J) | 6:04 | 2021-07-28 |  |
+| [Cenit](https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0) | [Dulce Resillas & Fabiola Franyutti](https://open.spotify.com/artist/781URXrzn60PTYO1zNStV2) | [Hilando Lunas](https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J) | 6:04 | 2021-07-28 | 2022-10-25 |
 | [Charleston](https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [15 Éxitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta](https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1) | 2:28 | 2021-07-28 |  |
 | [Debí Llorar](https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14) | [Dannah Garay](https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK), [Oscar Stagnaro](https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3) | [Cuenta Conmigo \(feat\. Oscar Stagnaro\)](https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz) | 3:37 | 2021-07-28 |  |
 | [Dejé mi amor en San Francisco \(I Left My Heart in San Francisco\)](https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp) | [Tommy Rodriguez Y Su Saxofon Magico](https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ) | [Grandes de la Musica Instrumental](https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP) | 1:53 | 2021-07-28 |  |

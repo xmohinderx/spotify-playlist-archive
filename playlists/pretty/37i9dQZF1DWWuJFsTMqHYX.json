@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 198226,
+  "num_followers": 198413,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY0OTc1MCwwMDAwMDAwMGE0NjA1NDQ3OGEyNWY5YTYyNWE0MWQ2YmM5NjA3ODY0",
+  "snapshot_id": "MTY2NTY0OTc1MCwwMDAwMDAwMDAzNzlmZjQ5YWU3OTZlOWVmZTQwZGQ2MjA3YzVkYWY4",
   "tracks": [
     {
       "added_at": "2022-10-13 08:29:10",
@@ -163,6 +163,26 @@
     {
       "added_at": "2022-10-13 08:29:10",
       "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "duration_ms": 355840,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/56K7H3Ipsce0Csn2v4u8kZ"
+    },
+    {
+      "added_at": "2022-10-13 08:29:10",
+      "album": {
         "name": "Imarhan",
         "url": "https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 228782,
       "name": "Degg Gui (feat. Flavia Coelho & Fixi)",
       "url": "https://open.spotify.com/track/2m9TLj1eU3qZT895FOIm0v"
-    },
-    {
-      "added_at": "2022-10-13 08:29:10",
-      "album": {
-        "name": "Ali & Toumani",
-        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Toumani Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
-        }
-      ],
-      "duration_ms": 355840,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/56K7H3Ipsce0Csn2v4u8kZ"
     },
     {
       "added_at": "2022-10-13 08:29:10",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-10-13 08:29:10",
       "album": {
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 298969,
+      "name": "Chismiten",
+      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
+    },
+    {
+      "added_at": "2022-10-13 08:29:10",
+      "album": {
         "name": "Imarhan",
         "url": "https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL"
       },
@@ -307,18 +323,18 @@
     {
       "added_at": "2022-10-13 08:29:10",
       "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+        "name": "Jamm",
+        "url": "https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y"
       },
       "artists": [
         {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+          "name": "Cheikh L\u00f4",
+          "url": "https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h"
         }
       ],
-      "duration_ms": 298969,
-      "name": "Chismiten",
-      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
+      "duration_ms": 270560,
+      "name": "Il n'est jamais trop tard",
+      "url": "https://open.spotify.com/track/2YEs2mLzFu8RcdAHFQghhv"
     },
     {
       "added_at": "2022-10-13 08:29:10",
@@ -343,18 +359,18 @@
     {
       "added_at": "2022-10-13 08:29:10",
       "album": {
-        "name": "Jamm",
-        "url": "https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y"
+        "name": "Tin Hinane",
+        "url": "https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2"
       },
       "artists": [
         {
-          "name": "Cheikh L\u00f4",
-          "url": "https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h"
+          "name": "Kel Assouf",
+          "url": "https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9"
         }
       ],
-      "duration_ms": 270560,
-      "name": "Il n'est jamais trop tard",
-      "url": "https://open.spotify.com/track/2YEs2mLzFu8RcdAHFQghhv"
+      "duration_ms": 304080,
+      "name": "Akaline",
+      "url": "https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY"
     },
     {
       "added_at": "2022-10-13 08:29:10",
@@ -371,22 +387,6 @@
       "duration_ms": 263524,
       "name": "Zerzura Theme II",
       "url": "https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x"
-    },
-    {
-      "added_at": "2022-10-13 08:29:10",
-      "album": {
-        "name": "Tin Hinane",
-        "url": "https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2"
-      },
-      "artists": [
-        {
-          "name": "Kel Assouf",
-          "url": "https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9"
-        }
-      ],
-      "duration_ms": 304080,
-      "name": "Akaline",
-      "url": "https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY"
     },
     {
       "added_at": "2022-10-13 08:29:10",
@@ -567,18 +567,18 @@
     {
       "added_at": "2022-10-13 08:29:10",
       "album": {
-        "name": "Kidal",
-        "url": "https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc"
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
       },
       "artists": [
         {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
         }
       ],
-      "duration_ms": 218076,
-      "name": "Mawarniha Tartit",
-      "url": "https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF"
+      "duration_ms": 228933,
+      "name": "Imuhar",
+      "url": "https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2"
     },
     {
       "added_at": "2022-10-13 08:29:10",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-10-13 08:29:10",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
+        "name": "Kidal",
+        "url": "https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc"
       },
       "artists": [
         {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
         }
       ],
-      "duration_ms": 228933,
-      "name": "Imuhar",
-      "url": "https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2"
+      "duration_ms": 218076,
+      "name": "Mawarniha Tartit",
+      "url": "https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF"
     },
     {
       "added_at": "2022-10-13 08:29:10",
@@ -679,22 +679,6 @@
       "duration_ms": 311253,
       "name": "Be Ki Don",
       "url": "https://open.spotify.com/track/5JMebtqw62DkVHPsUJMKvh"
-    },
-    {
-      "added_at": "2022-10-13 08:29:10",
-      "album": {
-        "name": "Chatma",
-        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
-      },
-      "artists": [
-        {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
-        }
-      ],
-      "duration_ms": 313480,
-      "name": "Toumast anlet",
-      "url": "https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV"
     },
     {
       "added_at": "2022-10-13 08:29:10",
@@ -795,6 +779,22 @@
     {
       "added_at": "2022-10-13 08:29:10",
       "album": {
+        "name": "Chatma",
+        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
+      },
+      "artists": [
+        {
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+        }
+      ],
+      "duration_ms": 313480,
+      "name": "Toumast anlet",
+      "url": "https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV"
+    },
+    {
+      "added_at": "2022-10-13 08:29:10",
+      "album": {
         "name": "Zerzura (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
       },
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-10-13 08:29:10",
       "album": {
+        "name": "Elwan",
+        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Tiw\u00e0yyen",
+      "url": "https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE"
+    },
+    {
+      "added_at": "2022-10-13 08:29:10",
+      "album": {
         "name": "Zalina",
         "url": "https://open.spotify.com/album/1sAs3dT1gJQJqKuKHCyg31"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 250453,
       "name": "Taguebarbt",
       "url": "https://open.spotify.com/track/3Z0pzENlADpDPqWW4Lb2Kw"
-    },
-    {
-      "added_at": "2022-10-13 08:29:10",
-      "album": {
-        "name": "Penda Djiga",
-        "url": "https://open.spotify.com/album/4eIINnCLgKF5hUcXyk0dIE"
-      },
-      "artists": [
-        {
-          "name": "Afel Bocoum",
-          "url": "https://open.spotify.com/artist/06Ib5crxFFg8jg3q8ZP77W"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Penda Djiga",
-      "url": "https://open.spotify.com/track/0ra3K6wNCFVYTu2AFsmiR7"
     }
   ],
   "unique_name": "Sahara",

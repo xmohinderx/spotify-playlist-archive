@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,715 likes - 656 songs - 1 day 20 hr 4 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,715 likes - 657 songs - 1 day 20 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -664,5 +664,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 654 | [Grounded \- Remastered](https://open.spotify.com/track/0RvVB5q8bzBiSuDBtLs8MZ) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Quarantine The Past: The Best Of Pavement](https://open.spotify.com/album/1SEcCdWiDHYEtQLjD4o212) | 4:15 |
 | 655 | [Mobius Trip](https://open.spotify.com/track/1bgTHTsCYkQVzZEJUks8la) | [H.P\. Lovecraft](https://open.spotify.com/artist/6VF7eMgoQIHyufTkib3Fff) | [H\. P\. Lovecraft II](https://open.spotify.com/album/0O0jxEVJruecYXTCQ8tNNj) | 2:44 |
 | 656 | [Hang a Cross on Me](https://open.spotify.com/track/3WbDe3G6zK798x8J0YUxOR) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s), [Cowboy John](https://open.spotify.com/artist/5m3zenzxU6mfbi5HwVBgR4) | [9 \(Deluxe Edition\)](https://open.spotify.com/album/1OPNyMf1xQGDLE1PEwdkgs) | 4:45 |
+| 657 | [Goggles](https://open.spotify.com/track/4ynX5irsZTPYHjWUOwrREQ) | [Post Animal](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE) | [Post Animal Perform the Most Curious Water Activities](https://open.spotify.com/album/6Uw9scOB4zagR04P2YBQYp) | 5:24 |
 
-Snapshot ID: `MTY3OSwxZDIzYWMxMGU0NDgxNDYwMmEzZjFkMjg5ZTk5NDI4MmFhM2FkNTFl`
+Snapshot ID: `MTY4MCw2NjY5OWIyNmMzNjY2ODkwYjVkYjE5ZmVhZmYwMGVkZmNhZDY0NmU5`

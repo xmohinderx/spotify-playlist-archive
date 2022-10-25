@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,445 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,455 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 12 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
 | 13 | [Beginner's Luck](https://open.spotify.com/track/6adjXENHRzh4uyVziFlVGm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:28 |
 | 14 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 |
-| 15 | [Alone in Kyoto](https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363) | 4:51 |
-| 16 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 |
-| 17 | [Kerala](https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 3:57 |
+| 15 | [Kerala](https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 3:57 |
+| 16 | [Alone in Kyoto](https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363) | 4:51 |
+| 17 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 |
 | 18 | [Way to Go \- Club Soda Mix](https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Way to Go \(Club Soda Mix\)](https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet) | 3:44 |
 | 19 | [Smoke](https://open.spotify.com/track/5aEQCT6F0l7mxkwO5D8pr9) | [DYVR](https://open.spotify.com/artist/292LoDesUxUnxLysrHrajc) | [Smoke](https://open.spotify.com/album/6NxCwLZC6Mvw4VRnG8u7Vq) | 3:34 |
 | 20 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 23 | [La Nota](https://open.spotify.com/track/2LDbHa87vrruqNVfN5Qkdp) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Psssh 002](https://open.spotify.com/album/2ci7ASUgwOYWAZZbzfjuHC) | 4:51 |
 | 24 | [Rolling Back](https://open.spotify.com/track/1WoBED8U50OSvX8HpfQlsC) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Rolling Back](https://open.spotify.com/album/7MsO7Vr2xArwu8TP7lAv5p) | 3:58 |
 | 25 | [Dahlia](https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Dahlia](https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV) | 5:06 |
-| 26 | [Inkeri](https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:22 |
-| 27 | [Linked](https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Linked](https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR) | 6:09 |
+| 26 | [Linked](https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Linked](https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR) | 6:09 |
+| 27 | [Inkeri](https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:22 |
 | 28 | [Loser \- Edit](https://open.spotify.com/track/40Q0U7FEgv7ZVo4T9YSv2R) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Loser](https://open.spotify.com/album/0jwuVql8QMl6RxFopURjAc) | 2:53 |
 | 29 | [Nights Introlude](https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 4:40 |
 | 30 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 35 | [Good Disease](https://open.spotify.com/track/5pA39NQIP1nZgvFxV5Fi7S) | [Aim](https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp), [Stephen Jones](https://open.spotify.com/artist/5fBNvRbs68IKW1ExBBX1wR) | [Hinterland](https://open.spotify.com/album/0oNNaNluLVDg34wMPuLdNS) | 4:23 |
 | 36 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 |
 | 37 | [2daBeat](https://open.spotify.com/track/1BpG59DLyW6jZxN2PYiUA3) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Musik 3](https://open.spotify.com/album/7vHtRLKLA8ZkNBN3kNwlT6) | 5:29 |
-| 38 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 |
-| 39 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 |
-| 40 | [Your Girl](https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK) | 5:04 |
-| 41 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
+| 38 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 |
+| 39 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
+| 40 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 |
+| 41 | [Your Girl](https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK) | 5:04 |
 | 42 | [The Sea](https://open.spotify.com/track/7MRI6ZNv3neLVYy2kQ91nQ) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Big Calm](https://open.spotify.com/album/7rjjFxMFZjPzQzBMj6mXr2) | 5:48 |
 | 43 | [Run](https://open.spotify.com/track/6r0Qbwh8LySYwjbMm1LXzb) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Run](https://open.spotify.com/album/2jtCQJ5O8eQZWFrdOOjFVk) | 3:48 |
-| 44 | [Feels Like This](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Feels Like This / Made It Here](https://open.spotify.com/album/5ktFMfrOJWEIl29KmcxAuG) | 4:36 |
+| 44 | [K.I.S.S.E.S](https://open.spotify.com/track/2ojgRKZJ1oRREcNQIYVnX4) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Best Of](https://open.spotify.com/album/6lqVWHv7vKDrMhTgrNFwkM) | 5:15 |
 | 45 | [It's up to Me](https://open.spotify.com/track/0DKoGYBIfxb7PYz9FKu4fx) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Lee Pearson Jr\. Collective](https://open.spotify.com/artist/49E2C6RG0oMzrYzcBBsTsQ), [K LaDawn](https://open.spotify.com/artist/4mabyxDOpBHXvY2cBe0Bwm), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Chaos in the CBD & Friends](https://open.spotify.com/album/52gDijfKDkvRQiqtSmWiq8) | 5:08 |
-| 46 | [K.I.S.S.E.S](https://open.spotify.com/track/2ojgRKZJ1oRREcNQIYVnX4) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Best Of](https://open.spotify.com/album/6lqVWHv7vKDrMhTgrNFwkM) | 5:15 |
+| 46 | [Feels Like This](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Feels Like This / Made It Here](https://open.spotify.com/album/5ktFMfrOJWEIl29KmcxAuG) | 4:36 |
 | 47 | [The Child](https://open.spotify.com/track/43sGFmqBOGGUmCu51nEU6K) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [You My Baby And I](https://open.spotify.com/album/1OljO7oStiLQ8f1etN8S8U) | 4:34 |
 | 48 | [Is It True \- Four Tet Remix](https://open.spotify.com/track/5Yc2SVCeXXcDdALmmXIslb) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Is It True \(Four Tet Remix\)](https://open.spotify.com/album/35qrfQOhXIFZoLq9gNEUXM) | 5:25 |
 | 49 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 |
 | 50 | [Mustt Mustt \- Massive Attack Remix](https://open.spotify.com/track/0w6kuQOr4jP1w9Kon0Yv4j) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mustt Mustt \(Real World Gold\)](https://open.spotify.com/album/57ObW7qW6CN1CWLXV5DOGb) | 4:27 |
 
-Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMDhjYzVjNWIyZGQwYzg5N2JiYzJiNWI3Y2Q2ZmI2Y2I5`
+Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMDNkM2ExMGM0MDk2NzAzMjExZGZhYmQ2YmE4YWNiYzZh`

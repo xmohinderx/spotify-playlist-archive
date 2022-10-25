@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Justin Quiles & Carin Leon.
 
-225 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/7Ccvzuluaa4ypGALpBeYBn)
+226 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/7Ccvzuluaa4ypGALpBeYBn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [Boom Boom](https://open.spotify.com/track/28E4ZbM3cBV8ehG1rXaz9g) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Boom Boom](https://open.spotify.com/album/1vwysXgMnjbrgBEAJOLayN) | 2:34 | 2022-05-13 | 2022-07-26 |
 | [Braille](https://open.spotify.com/track/1BnyQf6WeVs32MZF5ah9u0) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Braille](https://open.spotify.com/album/3SSIS1EkkgWQ6bUVDT4Qji) | 2:52 | 2022-03-21 | 2022-06-13 |
 | [Brindaré](https://open.spotify.com/track/4bOCInO1tVIDpylUygnA5T) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Brindaré](https://open.spotify.com/album/1rgpRLLaLgQnMzglyDDdoT) | 2:26 | 2022-08-08 |  |
+| [BRUTAL \- Spotify Singles](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL \- Spotify Singles](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-24 |  |
 | [Bummed](https://open.spotify.com/track/2em94u4QNIp9RMuIewNlr6) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Bummed](https://open.spotify.com/album/1TKoeVdstQkrNsYn5ErzwD) | 3:00 | 2022-09-23 |  |
-| [Burberry Tears](https://open.spotify.com/track/19dOJKxWjNgWsjGVcItOSD) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [NMDA](https://open.spotify.com/album/7M69A9V3GcxsqMjYNAzcr5) | 3:05 | 2022-07-08 |  |
+| [Burberry Tears](https://open.spotify.com/track/19dOJKxWjNgWsjGVcItOSD) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [NMDA](https://open.spotify.com/album/7M69A9V3GcxsqMjYNAzcr5) | 3:05 | 2022-07-08 | 2022-10-25 |
 | [Burning](https://open.spotify.com/track/5Y182K8LZYZW1XGUAare73) | [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Preciau](https://open.spotify.com/artist/7x1Qa3ZOKaQ1XwSqFkGcC3) | [Burning](https://open.spotify.com/album/7o6ioPhQuKgadO9XLjVMgX) | 2:26 | 2022-09-09 |  |
 | [Buscando un Amor](https://open.spotify.com/track/3tBvRSJmg8fBfdE8cmTJ7d) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Buscando un Amor](https://open.spotify.com/album/4kuI9JizuvIwuCLjq9OKS1) | 2:55 | 2022-09-23 |  |
 | [Byemalandra](https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Byemalandra](https://open.spotify.com/album/1CJIb7bzXt24h0EuezCxQf) | 2:45 | 2022-07-25 |  |

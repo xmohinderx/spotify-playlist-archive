@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Pokey LaFarge
 
-199 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/4ZYc49bP2BhIE0m0JrNtAT)
+200 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/4ZYc49bP2BhIE0m0JrNtAT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,13 +141,14 @@
 | [Only Songs](https://open.spotify.com/track/4GbAYlr0NadVOs7yyVOaxu) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Only Songs](https://open.spotify.com/album/44xYDztQBOoXeX01Fn0JUx) | 4:36 | 2021-10-01 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:46 | 2021-10-01 |  |
 | [Over My Head](https://open.spotify.com/track/1EyXf42GbGpw2BlW9oWUXV) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Gold Shadow](https://open.spotify.com/album/5SnyFVHXPnQLzqys1O0kWe) | 2:36 | 2022-06-01 | 2022-09-17 |
+| [Over My Head](https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Gold Shadow](https://open.spotify.com/album/3ONqRU4a6LR16GJ80ld0Gz) | 2:36 | 2022-08-02 |  |
 | [Pain and Misery](https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/6seixGAN22NspEmvRID4fG) | 4:00 | 2022-08-02 |  |
 | [Pain and Misery](https://open.spotify.com/track/74MhYN5UyyDx0W2cbTUZYo) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/5z4DOERCGnhGHovVe1RuXh) | 4:00 | 2022-06-01 | 2022-09-15 |
 | [Pain and Misery](https://open.spotify.com/track/6sWVwDSjW1ZtqGQc9WnjdW) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/3HyoK42Wc8CMxHJ8MDU3qA) | 4:01 | 2021-10-01 | 2022-07-29 |
 | [Party City](https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Party City](https://open.spotify.com/album/0hq6WSFI9HsvTffEY5uKjo) | 4:20 | 2021-10-01 | 2022-08-03 |
 | [Persistence](https://open.spotify.com/track/4lgnsoBDruL2TzW00kI9xP) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Persistence](https://open.spotify.com/album/3qLAGo8JfSOc7nAUjO9QLW) | 2:51 | 2021-10-01 | 2022-07-28 |
 | [Pining](https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:44 | 2021-10-01 |  |
-| [Place Names](https://open.spotify.com/track/7g43lO9P1diIwalJSdAhDx) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Place Names](https://open.spotify.com/album/4IKumYQwjIA84v4Bfn029O) | 3:53 | 2021-10-01 |  |
+| [Place Names](https://open.spotify.com/track/7g43lO9P1diIwalJSdAhDx) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Place Names](https://open.spotify.com/album/4IKumYQwjIA84v4Bfn029O) | 3:53 | 2021-10-01 | 2022-10-25 |
 | [Powder Blue](https://open.spotify.com/track/6BHdfzIwMm9WPORQ4OGnnx) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You’re Dreaming](https://open.spotify.com/album/2u82YoTVFqN1Z7uIbqVCfr) | 2:23 | 2021-10-01 | 2022-07-29 |
 | [Powder Blue](https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You're Dreaming](https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG) | 2:23 | 2022-06-01 |  |
 | [Quit You](https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:49 | 2021-10-01 | 2022-01-08 |

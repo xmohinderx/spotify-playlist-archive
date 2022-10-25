@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 15518,
+  "num_followers": 15552,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDE3ODdkNGE1NTEzMGFiZDZiMTZmY2E4ODFlYTE5MzAz",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDJjNGJmMThmZDBhMmQ0ZDQ2Y2U1NmVmNGU2N2E2YjI4",
   "tracks": [
     {
       "added_at": "2021-12-03 05:02:00",
@@ -285,6 +285,22 @@
       "url": "https://open.spotify.com/track/0DID8Ir6yeko5KoXCXwOnL"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "I Wanna Get Funky",
+        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Playing On Me",
+      "url": "https://open.spotify.com/track/1iLqQUd6H6qN0FzKxDYXaf"
+    },
+    {
       "added_at": "2021-04-23 04:01:00",
       "album": {
         "name": "Stranger Blues (feat. Dashawn Hickman)",
@@ -307,22 +323,6 @@
       "duration_ms": 176722,
       "name": "Stranger Blues (feat. Dashawn Hickman)",
       "url": "https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "I Wanna Get Funky",
-        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Playing On Me",
-      "url": "https://open.spotify.com/track/1iLqQUd6H6qN0FzKxDYXaf"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -389,6 +389,22 @@
       "url": "https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "I'm a Bluesman",
+        "url": "https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv"
+      },
+      "artists": [
+        {
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "What Are You Doin' to Me",
+      "url": "https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz"
+    },
+    {
       "added_at": "2022-01-21 05:02:00",
       "album": {
         "name": "I Want My Crown",
@@ -411,22 +427,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I'm a Bluesman",
-        "url": "https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv"
-      },
-      "artists": [
-        {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
-        }
-      ],
-      "duration_ms": 238013,
-      "name": "What Are You Doin' to Me",
-      "url": "https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 360733,
       "name": "Cold Cuts",
       "url": "https://open.spotify.com/track/1kqd9zoyn4sBPzmI9f8BP8"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "On Tap",
-        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "Watch Me Move",
-      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -475,34 +459,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+        "name": "On Tap",
+        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 234906,
-      "name": "When A Woman's Had Enough",
-      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Put That Back",
-      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
+      "duration_ms": 245826,
+      "name": "Watch Me Move",
+      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -555,6 +523,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 234906,
+      "name": "When A Woman's Had Enough",
+      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "That's What I Heard",
         "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 205586,
       "name": "Do It",
       "url": "https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Put That Back",
+      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -617,6 +617,22 @@
       "url": "https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Meet Me in Chicago",
+      "url": "https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob"
+    },
+    {
       "added_at": "2022-01-28 05:00:00",
       "album": {
         "name": "Crown",
@@ -639,50 +655,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
         }
       ],
-      "duration_ms": 225666,
-      "name": "Meet Me in Chicago",
-      "url": "https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Let's Talk It Over",
-        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Brooks",
-          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
-        }
-      ],
-      "duration_ms": 356773,
-      "name": "Greasy Man",
-      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL"
-      },
-      "artists": [
-        {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "Bad Axe",
-      "url": "https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6"
+      "duration_ms": 228667,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -703,22 +687,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 228667,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Let's Roll",
         "url": "https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z"
       },
@@ -731,6 +699,38 @@
       "duration_ms": 210773,
       "name": "Lie No Better",
       "url": "https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "Bad Axe",
+      "url": "https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Let's Talk It Over",
+        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Brooks",
+          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
+        }
+      ],
+      "duration_ms": 356773,
+      "name": "Greasy Man",
+      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
     },
     {
       "added_at": "2021-04-23 04:01:00",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/2P9jpTryQV7mu7ufOryj59"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Satisfaction Guaranteed",
-        "url": "https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Brooks",
-          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "A Man's Got To Do What A Man's Got To Do",
-      "url": "https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR"
-    },
-    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Break on Free",
@@ -847,6 +831,22 @@
       "duration_ms": 252226,
       "name": "Break on Free",
       "url": "https://open.spotify.com/track/3bgTnGXXofWoZG4Vf1bgwX"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Satisfaction Guaranteed",
+        "url": "https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Brooks",
+          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "A Man's Got To Do What A Man's Got To Do",
+      "url": "https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR"
     }
   ],
   "unique_name": "Funky Blues",

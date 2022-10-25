@@ -4,13 +4,13 @@
 
 > Your very own time capsule: a nostalgic look back on the past four years.
 
-456 songs - 1 day 2 hr 23 min - [published](https://open.spotify.com/playlist/5GkdXPgZsfNNV4RjJ3N95k)
+457 songs - 1 day 2 hr 29 min - [published](https://open.spotify.com/playlist/5GkdXPgZsfNNV4RjJ3N95k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$ave Dat Money \(feat\. Fetty Wap & Rich Homie Quan\)](https://open.spotify.com/track/6AoYWCzsDls6c61Zp5qTuU) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Professional Rapper](https://open.spotify.com/album/5eLVoIPq7P3Bu29lVgD4x0) | 4:50 | 2020-06-26 | 2022-07-19 |
 | [1\-800\-273\-8255](https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Everybody](https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk) | 4:10 | 2020-06-26 | 2022-10-19 |
-| [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 | 2020-06-26 |  |
+| [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 | 2020-06-26 | 2022-10-25 |
 | [11 Hours \- Branchez Remix](https://open.spotify.com/track/1BzdE75pSHlsqF2roxxEWk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf) | [11 Hours \(Branchez Remix\)](https://open.spotify.com/album/2KfzSqGSQ6LGZqbSdRJZlV) | 2:36 | 2020-06-26 | 2022-07-29 |
 | [1950](https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [1950](https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN) | 3:45 | 2020-06-26 | 2022-07-29 |
 | [2 Phones](https://open.spotify.com/track/0wdKiSBUT7aZkXUIdJWcwC) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Islah \(Deluxe\)](https://open.spotify.com/album/5Hs43ta4vAYKRRRR7DKjt9) | 4:00 | 2020-06-26 | 2022-07-19 |
@@ -319,6 +319,7 @@
 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 | 2020-06-26 |  |
 | [Really Really](https://open.spotify.com/track/10I3CmmwT0BkOVhduDy53o) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Islah \(Deluxe\)](https://open.spotify.com/album/5Hs43ta4vAYKRRRR7DKjt9) | 3:52 | 2020-06-26 | 2022-07-29 |
 | [Red Roses \(feat\. Landon Cube\)](https://open.spotify.com/track/3ZhTT6yjZwpPph5MIJ53XY) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [Life of a Dark Rose](https://open.spotify.com/album/0CuYNS755Ow710G2E7aLDE) | 4:22 | 2020-06-26 | 2022-07-29 |
+| [Redbone](https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 5:26 | 2020-06-26 |  |
 | [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2020-06-26 | 2022-10-13 |
 | [Ric Flair Drip \(with Metro Boomin\)](https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:52 | 2020-06-26 |  |
 | [Ride](https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:34 | 2020-06-26 |  |

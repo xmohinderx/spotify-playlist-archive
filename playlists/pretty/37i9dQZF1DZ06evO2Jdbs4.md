@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,927 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,939 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 5 | [Le Pediré](https://open.spotify.com/track/0Oon0YwVUvqf8O8KLukfZj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:32 |
 | 6 | [Enséñame](https://open.spotify.com/track/0IHrQNuGVj2c3dBwyw2lNC) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:09 |
 | 7 | [A Tu Lado](https://open.spotify.com/track/5X4XT9GZFvPgpQGx7hjzJX) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Siempre Pensando en Ti](https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH) | 3:44 |
-| 8 | [Algun Dia](https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:19 |
+| 8 | [Vanidosa](https://open.spotify.com/track/2YLoqYRDpNMwSvTGhjP3gC) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:27 |
 | 9 | [Llegaste A Mi Vida](https://open.spotify.com/track/03vaFs8JbKg27yTKZshM55) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:33 |
 | 10 | [La Rosa](https://open.spotify.com/track/0HiDvAV1NFSt1rLXvrTO49) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:04 |
-| 11 | [Vanidosa](https://open.spotify.com/track/2YLoqYRDpNMwSvTGhjP3gC) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:27 |
+| 11 | [Algun Dia](https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:19 |
 | 12 | [Vive](https://open.spotify.com/track/6ljSbHWwuUsDfOswRHlomj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 4:14 |
 | 13 | [Eclipse](https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM) | [Emilio Navaira](https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Juntos](https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm) | 3:37 |
 | 14 | [Cantarle a Ella](https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Cazador](https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I) | 2:54 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 19 | [Un Golpe De Suerte](https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:23 |
 | 20 | [Te Voy A Amar](https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:56 |
 | 21 | [Perdóname \- Cumbia](https://open.spotify.com/track/6ygtYN6UpAePDbiuEacFzA) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Montame](https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE) | 3:45 |
-| 22 | [Me Derrito \(feat\. Bobby Pulido\)](https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Los Ángeles Existen](https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs) | 2:50 |
-| 23 | [The Hits Medley: Desvelado/Enséname/A Tu Lado \- En Vivo](https://open.spotify.com/track/7pob0oZ2KwUG7nRlVuwrxs) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [En Vivo Desde las Vegas](https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J) | 6:40 |
+| 22 | [The Hits Medley: Desvelado/Enséname/A Tu Lado \- En Vivo](https://open.spotify.com/track/7pob0oZ2KwUG7nRlVuwrxs) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [En Vivo Desde las Vegas](https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J) | 6:40 |
+| 23 | [Me Derrito \(feat\. Bobby Pulido\)](https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Los Ángeles Existen](https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs) | 2:50 |
 | 24 | [Zona de Peligro](https://open.spotify.com/track/3nvWPw6xafcHBK5Yghf6gk) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Zona de Peligro](https://open.spotify.com/album/3LjISuwDaksJyhnG1iiIgA) | 3:38 |
 | 25 | [Móntame](https://open.spotify.com/track/5LGnVKG4TQeTNmJQSDF2oy) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Montame](https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE) | 3:24 |
 | 26 | [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 42 | [Soy Yo](https://open.spotify.com/track/2RgBInbB7gq3ewMVkqYIPr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Siempre Pensando en Ti](https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH) | 3:38 |
 | 43 | [Ya No Te Amo](https://open.spotify.com/track/691UfJ3B3IVa4Hsj3DVfvM) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [40 Aniversario Con Invitados a Otro Nivel, Vol\. 2](https://open.spotify.com/album/68RRgoiTtixqmXpCgrCGFU) | 3:01 |
 | 44 | [Sabes](https://open.spotify.com/track/60WVyxHby6SkjMPhTv3V3Y) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:35 |
-| 45 | [Tus Besos \(feat\. Bobby Pulido\)](https://open.spotify.com/track/7rnrCKF2EepfbYzMjz400n) | [Agrupación Cariño](https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Lado Oscuro del Amor](https://open.spotify.com/album/1psax3q5uCURpO6RrgSrba) | 3:31 |
-| 46 | [No Es Como Tu](https://open.spotify.com/track/6YmeOtWUb3u8WBo0LcrhzQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [No Es Como Tu](https://open.spotify.com/album/5nNvbTmDYOd8HBHvsovdKU) | 3:29 |
+| 45 | [No Es Como Tu](https://open.spotify.com/track/6YmeOtWUb3u8WBo0LcrhzQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [No Es Como Tu](https://open.spotify.com/album/5nNvbTmDYOd8HBHvsovdKU) | 3:29 |
+| 46 | [Tus Besos \(feat\. Bobby Pulido\)](https://open.spotify.com/track/7rnrCKF2EepfbYzMjz400n) | [Agrupación Cariño](https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [El Lado Oscuro del Amor](https://open.spotify.com/album/1psax3q5uCURpO6RrgSrba) | 3:31 |
 | 47 | [La Plancha](https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:32 |
 | 48 | [Me Vuelve Loco](https://open.spotify.com/track/0rcXUWs5uv1ablp3eQUfeQ) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Siempre Pensando en Ti](https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH) | 3:26 |
 | 49 | [¿Para Qué Me Engañas?](https://open.spotify.com/track/3266yZYF5YXBLUvKYonLo3) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Zona de Peligro](https://open.spotify.com/album/3LjISuwDaksJyhnG1iiIgA) | 3:14 |
 | 50 | [Para Que Baile Mi Pueblo](https://open.spotify.com/track/5vtiBtPEyV3id3UhEMWRRW) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b) | 3:28 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDA4YjIyMWY3YzM0YmY5ODczZDM0YWVhMDQyNDkzZDAzZA==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDBkNDJlMDI2YmFiM2M0YjMwYjE4MGQyZjUwMDkyZjg0MA==`

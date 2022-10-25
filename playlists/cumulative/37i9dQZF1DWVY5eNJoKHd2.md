@@ -4,7 +4,7 @@
 
 > Music that makes you feel like you're levitating.
 
-224 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/027UqX8P6FZN5RTz6rBeyf)
+226 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/027UqX8P6FZN5RTz6rBeyf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2021-12-16 |  |
 | [ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 4:25 | 2021-12-16 |  |
 | [BAD FRUIT\*](https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:26 | 2022-10-08 | 2022-10-15 |
-| [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2022-06-01 |  |
+| [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2022-06-01 | 2022-10-25 |
 | [Best for You](https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Oh Uncertainty! A Universe Despairs](https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX) | 3:33 | 2021-12-16 | 2022-05-19 |
 | [BEST INTEREST](https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [BEST INTEREST](https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh) | 2:07 | 2021-12-16 |  |
 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 | 2022-01-12 | 2022-04-17 |
@@ -76,6 +76,7 @@
 | [Formula](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 | 2022-01-11 |  |
 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 | 2022-01-12 |  |
 | [Ghost Town](https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 4:31 | 2021-12-16 | 2022-09-24 |
+| [Gilded Lily](https://open.spotify.com/track/1V27TTo9FI2sl8xzGr3sCg) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/5Wl4DJMOt13fs92ddL2v9Q) | 3:32 | 2022-10-24 |  |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-02-17 | 2022-03-17 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-07-01 |  |
 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 | 2021-12-16 | 2022-04-20 |
@@ -97,6 +98,7 @@
 | [HOUSE OF CARDS](https://open.spotify.com/track/5pJsvdpvCOH4VUjKVthzG6) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [HOUSE OF CARDS](https://open.spotify.com/album/4Ow0zSLrELaYdaUpDbXoSy) | 3:03 | 2022-05-20 | 2022-06-01 |
 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 | 2022-03-22 | 2022-04-15 |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2021-12-16 |  |
+| [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-10-24 |  |
 | [I Wanna Help Your Mind](https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [I Wanna Help Your Mind](https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4) | 2:51 | 2021-12-16 | 2022-07-25 |
 | [I Wonder](https://open.spotify.com/track/4jQqM4NI79HEcWHUJb8Hvf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/5fPglEDz9YEwRgbLRvhCZy) | 4:03 | 2021-12-16 | 2022-07-13 |
 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2021-12-16 | 2022-04-12 |
@@ -167,7 +169,7 @@
 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 | 2021-12-16 |  |
 | [Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 9:07 | 2021-12-16 |  |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-06-06 | 2022-09-27 |
-| [Sanctuary](https://open.spotify.com/track/0rOLFkjY5DSIViVBNnzOuK) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:00 | 2022-06-15 |  |
+| [Sanctuary](https://open.spotify.com/track/0rOLFkjY5DSIViVBNnzOuK) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:00 | 2022-06-15 | 2022-10-25 |
 | [sdp interlude](https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:11 | 2021-12-16 | 2022-07-29 |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2022-01-20 | 2022-07-13 |
 | [Self Control](https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2021-12-16 |  |

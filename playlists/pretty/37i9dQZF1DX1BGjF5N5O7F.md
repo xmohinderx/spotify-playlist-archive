@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,441 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,483 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 15 | [Devil’s Backbone](https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 2:29 |
 | 16 | [Shame](https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 4:11 |
 | 17 | [It Will Come Back](https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:37 |
-| 18 | [Everybody Here Wants You](https://open.spotify.com/track/2bcvooA6HEmVUneEGJnNZD) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 4:46 |
-| 19 | [Hard Time](https://open.spotify.com/track/3gFS9CKU70Wm7vAoA0O1uW) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 3:29 |
-| 20 | [Woman](https://open.spotify.com/track/3IlbpxM6lji2UsBL2VYIAn) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 4:34 |
+| 18 | [Woman](https://open.spotify.com/track/3IlbpxM6lji2UsBL2VYIAn) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 4:34 |
+| 19 | [Everybody Here Wants You](https://open.spotify.com/track/2bcvooA6HEmVUneEGJnNZD) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 4:46 |
+| 20 | [Hard Time](https://open.spotify.com/track/3gFS9CKU70Wm7vAoA0O1uW) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 3:29 |
 | 21 | [Know You Better](https://open.spotify.com/track/03Yo5FRYVfTB2EuiyOmHLe) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:09 |
 | 22 | [Wicked Game \- Live at Killkenny Arts Festival, Ireland/2011](https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 4:31 |
 | 23 | [Bad Things](https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA) | 5:13 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 35 | [Craving](https://open.spotify.com/track/2MlzYSDQbg3K2FtfnDI4Nc) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/12p8Tpkhv5tbW99wzGjP4D) | 2:43 |
 | 36 | [Lover, Will You Lead Me?](https://open.spotify.com/track/4be0nVpVfrtteirTMjUMxG) | [David Ramirez](https://open.spotify.com/artist/4MBIFx8pthemIVuEJSgAxb) | [My Love is a Hurricane](https://open.spotify.com/album/1Lq5LGBs2UXG7TN337lJnJ) | 3:22 |
 | 37 | [Tip of My Tongue \(Live at Eddie's Attic\)](https://open.spotify.com/track/3bGJ53wSgjTPCQIRalZSTd) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Live at Eddie's Attic](https://open.spotify.com/album/40LvDRa8e5cdgUFsKgSUzq) | 3:21 |
-| 38 | [Lover](https://open.spotify.com/track/6ao9rdyJfzGXatb3at455T) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Lover](https://open.spotify.com/album/3RfoIT2yvfZF9TFOMbmrIv) | 4:08 |
-| 39 | [Woman Like a Man \- Live Radio Session](https://open.spotify.com/track/0GpRh3J3gI1esWn9gDWnyY) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [B\-Sides](https://open.spotify.com/album/3nvaY45C0yn3jIZc2W4VoA) | 4:44 |
+| 38 | [Woman Like a Man \- Live Radio Session](https://open.spotify.com/track/0GpRh3J3gI1esWn9gDWnyY) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [B\-Sides](https://open.spotify.com/album/3nvaY45C0yn3jIZc2W4VoA) | 4:44 |
+| 39 | [Lover](https://open.spotify.com/track/6ao9rdyJfzGXatb3at455T) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Lover](https://open.spotify.com/album/3RfoIT2yvfZF9TFOMbmrIv) | 4:08 |
 | 40 | [All on My Mind \- Single Version](https://open.spotify.com/track/7LJDzkXrC6bKthURJ1I4pL) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind](https://open.spotify.com/album/6O0hXBm4fljPUez3tFSLJj) | 3:42 |
 | 41 | [Master Hunter](https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:16 |
 | 42 | [Song for lovers](https://open.spotify.com/track/6MS1VErb239jImgEbtIMgs) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [A Mouthful](https://open.spotify.com/album/3L2s5VsbuOKnIdkfz8vE7J) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 49 | [Revelry](https://open.spotify.com/track/0MqjKvmJPGJ6t0EQ83jcd2) | [The Careful Ones](https://open.spotify.com/artist/1DdAoWvETBUklcJCOISZx1) | [Moths, Flames, Etc.](https://open.spotify.com/album/70X36a93N5RF7tXXJmESEJ) | 3:36 |
 | 50 | [Middle of the Bed](https://open.spotify.com/track/14pqO5S2mQ7Lw2Qjcyv4Fq) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:11 |
 
-Snapshot ID: `MTYxNjEyNjUyMCwwMDAwMDAwMDIyMzVmNTc1NDUyOGUxMDQwYzljMWNiNDY4OTBhMGQ3`
+Snapshot ID: `MTYxNjEyNjUyMCwwMDAwMDAwMDU1ZjQ1OTkwNTAwOGQ2MGIzZWRmMWVhZjE3NjljMTBk`

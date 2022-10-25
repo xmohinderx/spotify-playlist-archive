@@ -4,7 +4,7 @@
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-118 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/31hLfCAGOoZ6PgHyjSv4v4)
+119 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/31hLfCAGOoZ6PgHyjSv4v4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 | 2020-05-03 |  |
 | [Una](https://open.spotify.com/track/61jbOgZPpaHXKJy0kqGXjt) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 5:14 | 2020-05-03 |  |
 | [Vi lovar \(Besvärjelse\)](https://open.spotify.com/track/7o3FCfwainpUiPMF4wyGdP) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vi lovar \(Besvärjelse\)](https://open.spotify.com/album/51wjspTv8Bw7qy3AmgljWI) | 4:10 | 2020-05-03 |  |
-| [Voce piccolina](https://open.spotify.com/track/25Z9SXq4u07bbwzlUmOTlz) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/0nRwkAQQdM7xmVDisTIHWY) | 1:43 | 2020-05-03 |  |
+| [Voce piccolina](https://open.spotify.com/track/0AOcRnBwUbxziFJBUNx1ii) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/322waMAUtD8oVnHqqp78D1) | 1:43 | 2022-09-26 |  |
+| [Voce piccolina](https://open.spotify.com/track/25Z9SXq4u07bbwzlUmOTlz) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/0nRwkAQQdM7xmVDisTIHWY) | 1:43 | 2020-05-03 | 2022-10-25 |
 | [Voce piccolina](https://open.spotify.com/track/7jc8hEfxUGsxcXP5zm7mZs) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/0aIgYf1IsWL4KOziCsApey) | 1:43 | 2020-05-03 | 2022-07-29 |
 | [Vor í Vaglaskógi](https://open.spotify.com/track/2OdpZeTpnbqPqBrclk2pib) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:37 | 2020-05-03 |  |
 | [Wakfa](https://open.spotify.com/track/1mmE3XIwIX0tYjLr6u7zW1) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/4hu42nNoG5DCRahtvY77NP) | 4:50 | 2020-05-03 | 2022-07-29 |

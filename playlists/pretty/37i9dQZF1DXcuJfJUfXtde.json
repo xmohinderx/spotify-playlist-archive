@@ -1,12 +1,12 @@
 {
   "description": "\u00e9xitos de regreso",
-  "num_followers": 86636,
+  "num_followers": 86771,
   "original_name": "virales viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1ODQ1NSwwMDAwMDAwMDhmN2E5ZjgxNWI2NThjOGVmMDA1NWFlZTUyYWZmNjY0",
+  "snapshot_id": "MTY1ODg1ODQ1NSwwMDAwMDAwMDU3ZDAyZDEwZDYxYTllOWMxOGEwNzExNjc3NjgyZDk2",
   "tracks": [
     {
       "added_at": "2022-07-26 18:00:55",
@@ -79,22 +79,22 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+        "name": "Gangsta's Paradise",
+        "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "L.V.",
+          "url": "https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7"
         }
       ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+      "duration_ms": 240693,
+      "name": "Gangsta's Paradise",
+      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -115,22 +115,22 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Gangsta's Paradise",
-        "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
       "artists": [
         {
-          "name": "Coolio",
-          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         },
         {
-          "name": "L.V.",
-          "url": "https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 240693,
-      "name": "Gangsta's Paradise",
-      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Bored",
         "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 180933,
       "name": "Bored",
       "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
+        "name": "Little Dark Age",
+        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Little Dark Age",
+      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
         "name": "Notion",
         "url": "https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx"
       },
@@ -551,18 +567,18 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Little Dark Age",
-        "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
+        "name": "Dark Red",
+        "url": "https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 299960,
-      "name": "Little Dark Age",
-      "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
+      "duration_ms": 173104,
+      "name": "Dark Red",
+      "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -707,22 +723,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 271240,
-      "name": "I Was Made For Lovin' You",
-      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Simplemente Gracias",
         "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 255640,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 167065,
-      "name": "Like I Can",
-      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -771,18 +755,34 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Dark Red",
-        "url": "https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41"
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 173104,
-      "name": "Dark Red",
-      "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
+      "duration_ms": 167065,
+      "name": "Like I Can",
+      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "I Was Made For Lovin' You",
+      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Fuentes de Ortiz",
-      "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Ladies And Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 300106,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Fuentes de Ortiz",
+      "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
         "name": "Jiggle Jiggle",
         "url": "https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 97208,
       "name": "Jiggle Jiggle",
       "url": "https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Meet The Orphans",
-        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "Hooka",
-      "url": "https://open.spotify.com/track/0BenZn1xELuxhb7Pjwyjxv"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "La Mejor Versi\u00f3n De M\u00ed",
         "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
       },
@@ -1611,6 +1591,22 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
         "name": "Piel Canela",
         "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
       },
@@ -1623,6 +1619,26 @@
       "duration_ms": 102371,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "Hooka",
+      "url": "https://open.spotify.com/track/0BenZn1xELuxhb7Pjwyjxv"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 162732,
-      "name": "Make It To Me",
-      "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 162732,
+      "name": "Make It To Me",
+      "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
         "name": "Atlas: I",
         "url": "https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 180086,
       "name": "You Are Enough",
       "url": "https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
-        "name": "Far",
-        "url": "https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv"
-      },
-      "artists": [
-        {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Two Birds",
-      "url": "https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0"
     }
   ],
   "unique_name": "virales viejitas",

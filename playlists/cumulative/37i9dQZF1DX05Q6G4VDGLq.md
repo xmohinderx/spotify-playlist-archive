@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-331 songs - 21 hr 4 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+332 songs - 21 hr 7 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Amnesia](https://open.spotify.com/track/1louoVYSYYP4FwOBz2KlxR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Amnesia](https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07) | 4:47 | 2022-06-28 | 2022-10-08 |
 | [Apple Crumble](https://open.spotify.com/track/0hopRI3X9IUDYDM5jp3U3P) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Last Goodbye](https://open.spotify.com/album/5w2EjSu6wKnsZppJAJhnpF) | 2:53 | 2022-06-28 |  |
 | [April In Paris](https://open.spotify.com/track/3g2ctas7bdFNBQqY2tvmVB) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [April In Paris](https://open.spotify.com/album/0vPYfucQhycMD6htX9rvyl) | 2:31 | 2022-09-29 |  |
+| [Ardent](https://open.spotify.com/track/0tJPym7iyE0HyPFhwPrPBj) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Ardent](https://open.spotify.com/album/14v5XJ2DIhpd1AmlgA25cw) | 3:06 | 2022-10-13 |  |
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-06-28 |  |
 | [Autumn In New York](https://open.spotify.com/track/62FrtiVepyS9UGfcTPhu7W) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Autumn In New York](https://open.spotify.com/album/1bfAtOefGFjr2k6eQicSzJ) | 4:19 | 2022-09-29 |  |
 | [Autumn Nocturne](https://open.spotify.com/track/751ioCiRxLWziIfPWGQ6ur) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Autumn Nocturne](https://open.spotify.com/album/7KBFqb2rTLsCdjQz64bf8M) | 3:07 | 2022-08-30 |  |
@@ -207,7 +208,7 @@
 | [My Ideal](https://open.spotify.com/track/6G0UnjCnn674okDwLhYR6W) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [My Ideal](https://open.spotify.com/album/1VPyA2gRCqIEGIXf2wtOQ9) | 3:27 | 2022-06-28 |  |
 | [My Little Brown Book](https://open.spotify.com/track/2txEKqhpnuwmHS7a0YBYHE) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [My Little Brown Book](https://open.spotify.com/album/1anaHcKFfGvPfqhfaAEnmy) | 3:57 | 2022-09-29 |  |
 | [My Mistake](https://open.spotify.com/track/4CZOjvslnn4eNkcQC0Ubvw) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:57 | 2022-06-28 |  |
-| [My One and Only Love](https://open.spotify.com/track/4sZ6tw9dPrHfoiadJMXnqW) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [My One and Only Love](https://open.spotify.com/album/4XLSNqlvDJlRtA2rZGeIO5) | 3:25 | 2022-06-28 |  |
+| [My One and Only Love](https://open.spotify.com/track/4sZ6tw9dPrHfoiadJMXnqW) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [My One and Only Love](https://open.spotify.com/album/4XLSNqlvDJlRtA2rZGeIO5) | 3:25 | 2022-06-28 | 2022-10-25 |
 | [My Reverie](https://open.spotify.com/track/4bXxeSD7lqij49IKogh7VP) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [My Reverie](https://open.spotify.com/album/2MSZ71NLAb0uAAAc29Grq8) | 3:48 | 2022-06-28 |  |
 | [My Romance](https://open.spotify.com/track/4kjKUNTgMPWnzAD00cpd91) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [My Romance](https://open.spotify.com/album/0qoXES4Bc1uLeVjahn6ypA) | 3:48 | 2022-06-28 |  |
 | [My Simple Thing](https://open.spotify.com/track/4uP9aFwUv5lMNOlh6mKuNM) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0bjvkCZgQWIFDRedJAoxTO) | 5:01 | 2022-06-28 | 2022-07-27 |

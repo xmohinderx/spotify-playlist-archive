@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,383 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,406 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 33 | [Re:Deadstock](https://open.spotify.com/track/1yeVYPhxJBdeSoUFVf0gkb) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Re:Deadstock](https://open.spotify.com/album/2cDL3EX58mSFRisxcNRnwP) | 2:23 |
 | 34 | [泣きたい夜](https://open.spotify.com/track/6LjHLHz1boefkLI41mfc5R) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [泣きたい夜](https://open.spotify.com/album/7qBDJmSURz5gb8EhJ3bBD0) | 3:20 |
 | 35 | [こんにちは](https://open.spotify.com/track/46ffXVe06tGBKlfwWRig2z) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [Impossible Isle](https://open.spotify.com/album/02USyfjHAF5ISwxoM1uCgZ) | 2:52 |
-| 36 | [魔法のアト](https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [United](https://open.spotify.com/album/0ykHMHtcrB2MJcoaibsye2) | 3:18 |
-| 37 | [カタコト](https://open.spotify.com/track/1uYDXSXxBBZSNUs2dfbTxT) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [カタコト](https://open.spotify.com/album/0YhpfFtWqIZxnHLgnURBA7) | 2:38 |
+| 36 | [カタコト](https://open.spotify.com/track/1uYDXSXxBBZSNUs2dfbTxT) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [カタコト](https://open.spotify.com/album/0YhpfFtWqIZxnHLgnURBA7) | 2:38 |
+| 37 | [魔法のアト](https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [United](https://open.spotify.com/album/0ykHMHtcrB2MJcoaibsye2) | 3:18 |
 | 38 | [これだけで十分なのに \- \(BASI REMIX\)](https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd) | [BASI](https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq) | [切愛](https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf) | 3:43 |
 | 39 | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [tokyo \(feat\. 鈴木真海子, Skaai\)](https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6) | 5:03 |
 | 40 | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/track/3aTJkLLdzHMq0hbEHYABvG) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/album/3QNugQ0SvwweeBsb7ih4gb) | 3:28 |
 | 41 | [Lazy](https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Tasty](https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo) | 3:53 |
 | 42 | [サイダー](https://open.spotify.com/track/3XyMgMwiakVHJGrXquBRU7) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [サイダー](https://open.spotify.com/album/5lWC0kWqYgIUem8aSfKfpu) | 3:39 |
-| 43 | [BE MY BABY](https://open.spotify.com/track/0YlpoSZnQJT2Yz52JT8YwA) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [BE MY BABY](https://open.spotify.com/album/6nQNbDEhVWM81pdcb5CSjb) | 2:51 |
-| 44 | [Flower](https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [20 \(Complete Mixtape\)](https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD) | 3:28 |
-| 45 | [minority](https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [Suddenly](https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM) | 2:27 |
+| 43 | [minority](https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [Suddenly](https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM) | 2:27 |
+| 44 | [BE MY BABY](https://open.spotify.com/track/0YlpoSZnQJT2Yz52JT8YwA) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [BE MY BABY](https://open.spotify.com/album/6nQNbDEhVWM81pdcb5CSjb) | 2:51 |
+| 45 | [Flower](https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [20 \(Complete Mixtape\)](https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD) | 3:28 |
 | 46 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 |
 | 47 | [Grow Old](https://open.spotify.com/track/5gqGkNBmDIEhEPAlCIkZVf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Grow Old](https://open.spotify.com/album/7Lj9tkBDBjhXURrWanx2Xb) | 3:04 |
 | 48 | [BURU](https://open.spotify.com/track/1pJPzYGmUJF92NRelGfyIn) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [Buru](https://open.spotify.com/album/0hXRW6dvSRdOt2OHcQOjh6) | 4:07 |
 | 49 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 |
-| 50 | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/track/754uqLwH2sy5PlVSjluNRB) | [Tomoko Ikeda × TENDRE](https://open.spotify.com/artist/2OFTI9ZTwbhY8cT0k7HU2P) | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/album/0feblWhwtVCFblpekmrmjJ) | 5:01 |
+| 50 | [Limbo](https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Limbo](https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1) | 3:15 |
 
-Snapshot ID: `MTY2NjI3ODAwMCwwMDAwMDAwMDlkNzYxNjVhOGFhNTM3ZjBkMTk2ZjkwNDFjNjIzY2E2`
+Snapshot ID: `MTY2NjI3ODAwMCwwMDAwMDAwMDQxZjYwZDM2YzA1M2JmZTE5ZDNhYjIxZDRhZjMwNzU1`

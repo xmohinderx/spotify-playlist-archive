@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "100",
       "url": "https://open.spotify.com/track/62OHA0jRO6x5JFofdeZ5Tr"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 245610,
       "name": "1983 ... 2006",
       "url": "https://open.spotify.com/track/72oqQ4NLRPW5kihAbeCl2G"
@@ -2663,7 +2663,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 219668,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
@@ -3015,7 +3015,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 209946,
       "name": "Christmas Tree",
       "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
@@ -3723,6 +3723,24 @@
       "duration_ms": 116360,
       "name": "Denbi",
       "url": "https://open.spotify.com/track/3KjfZgU4ysGRPkPkc1S39T"
+    },
+    {
+      "album": {
+        "name": "Denbi",
+        "url": "https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr"
+      },
+      "artists": [
+        {
+          "name": "OUENZA",
+          "url": "https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Denbi",
+      "url": "https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV"
     },
     {
       "album": {
@@ -8771,7 +8789,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 144576,
       "name": "Ma Jolie",
       "url": "https://open.spotify.com/track/7pktxOiANdgQnzJmp7vwON"
@@ -9457,7 +9475,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 214360,
       "name": "Mghayer",
       "url": "https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz"
@@ -9639,6 +9657,24 @@
       "duration_ms": 177049,
       "name": "Mizane",
       "url": "https://open.spotify.com/track/5xQjkh8HwTSGAeQErejyhQ"
+    },
+    {
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
       "album": {
@@ -13301,7 +13337,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 133886,
       "name": "Sparadra",
       "url": "https://open.spotify.com/track/78N2ZYtm1Lk5KHMZcGu4MX"
@@ -13703,7 +13739,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 214258,
       "name": "Sweet Night",
       "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"

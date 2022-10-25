@@ -587,7 +587,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 173933,
       "name": "Canci\u00f3n a dos tiples",
       "url": "https://open.spotify.com/track/6Rm8DWp4Ud46Km1Xoyr3Jk"
@@ -3035,7 +3035,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 808840,
       "name": "Margaritena - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
       "url": "https://open.spotify.com/track/1vStbfxntBHDdI4jRmQhA4"
@@ -3385,6 +3385,44 @@
       "duration_ms": 183026,
       "name": "Mujer de los Negros Ojos - El Hu\u00e9sped del Sevillano",
       "url": "https://open.spotify.com/track/2nofE44EwGB54kpnZJBrkC"
+    },
+    {
+      "album": {
+        "name": "Con el Corazon",
+        "url": "https://open.spotify.com/album/4teN3nTQIJQbbewm7LAGsY"
+      },
+      "artists": [
+        {
+          "name": "Juan Ignacio Luca de Tena",
+          "url": "https://open.spotify.com/artist/5uPXzAnvGwtZALgoD9bcKa"
+        },
+        {
+          "name": "Jacinto Guerrero",
+          "url": "https://open.spotify.com/artist/2XuCoiLimz7c6md31tTRE9"
+        },
+        {
+          "name": "Enrique Reoyo",
+          "url": "https://open.spotify.com/artist/3IF6M928QcUvLa5GUTkVJf"
+        },
+        {
+          "name": "Alfredo Kraus",
+          "url": "https://open.spotify.com/artist/72G0MODfMxM5TGaoQtGbdP"
+        },
+        {
+          "name": "Carlos Riazuelo",
+          "url": "https://open.spotify.com/artist/7238cm7VGHwRiiElHVMa9s"
+        },
+        {
+          "name": "Orquesta Filarm\u00f3nica de Gran Canaria",
+          "url": "https://open.spotify.com/artist/18SImxY1TMmfrgVa867t7P"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "Mujer de los Negros Ojos - El Hu\u00e9sped del Sevillano",
+      "url": "https://open.spotify.com/track/6BlwrjJetmgmJypVaLUJZN"
     },
     {
       "album": {
@@ -5355,7 +5393,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 193426,
       "name": "Tres Cartas de Mexico: 2. Allegretto",
       "url": "https://open.spotify.com/track/4ZO7BEnrIPXj4wLGb14prx"

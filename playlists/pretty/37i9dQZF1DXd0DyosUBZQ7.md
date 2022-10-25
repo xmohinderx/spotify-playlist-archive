@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 
 > The most beautiful love songs of the 2000s
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,528 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,761 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,15 +16,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 6 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
 | 7 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
 | 8 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
-| 9 | [This Love](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 3:26 |
-| 10 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
-| 11 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
-| 12 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 |
-| 13 | [So Sick](https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) | 3:27 |
-| 14 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 |
-| 15 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
-| 16 | [Love Story](https://open.spotify.com/track/1D4PL9B8gOg78jiHg3FvBb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Big Machine Radio Release Special\)](https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi) | 3:56 |
-| 17 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
+| 9 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
+| 10 | [This Love](https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 3:26 |
+| 11 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
+| 12 | [So Sick](https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) | 3:27 |
+| 13 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 |
+| 14 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
+| 15 | [Love Story](https://open.spotify.com/track/1D4PL9B8gOg78jiHg3FvBb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Big Machine Radio Release Special\)](https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi) | 3:56 |
+| 16 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
+| 17 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 |
 | 18 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 | 19 | [Take A Bow](https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:49 |
 | 20 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 39 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 |
 | 40 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
 | 41 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
-| 42 | [Out Of Reach](https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 3:16 |
-| 43 | [Hate That I Love You](https://open.spotify.com/track/7iu0WYLdo4yksKf3seaxzI) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:38 |
+| 42 | [Hate That I Love You](https://open.spotify.com/track/7iu0WYLdo4yksKf3seaxzI) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:38 |
+| 43 | [Out Of Reach](https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 3:16 |
 | 44 | [Apologize](https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:28 |
 | 45 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 |
 | 46 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 63 | [Hero](https://open.spotify.com/track/24Gxm7Eh7tO83E26LG0CsY) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/6whfi6LNFoQnkvrQAWwZix) | 4:24 |
 | 64 | [Pretty Boy](https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Shades of Purple](https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj) | 4:39 |
 | 65 | [No Promises](https://open.spotify.com/track/2GdGb6bdMYoq7EHkmWvb5D) | [Shayne Ward](https://open.spotify.com/artist/6H4lieipng8aGu3Hbd1UeJ) | [Shayne Ward \(Expanded Edition\)](https://open.spotify.com/album/5OVa321qfDoIKRFaYxjZNC) | 3:42 |
-| 66 | [Have You Ever](https://open.spotify.com/track/4Xm0G6DRlWUjCgpKh5OPyv) | [S Club 7](https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX) | [Sunshine](https://open.spotify.com/album/4j6ruq2Htor6TsgbqEUhl0) | 3:21 |
-| 67 | [I Wanna Be With You](https://open.spotify.com/track/4du0TY3NTgvQGlelrBHfDL) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [I Wanna Be With You](https://open.spotify.com/album/4XbSwLzvznYCophbz8ElMV) | 4:12 |
+| 66 | [I Wanna Be With You](https://open.spotify.com/track/4du0TY3NTgvQGlelrBHfDL) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [I Wanna Be With You](https://open.spotify.com/album/4XbSwLzvznYCophbz8ElMV) | 4:12 |
+| 67 | [Have You Ever](https://open.spotify.com/track/4Xm0G6DRlWUjCgpKh5OPyv) | [S Club 7](https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX) | [Sunshine](https://open.spotify.com/album/4j6ruq2Htor6TsgbqEUhl0) | 3:21 |
 | 68 | [Caught in the Middle](https://open.spotify.com/track/4UE8T2GKceEaNhn5ORTkyo) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [Make It Good](https://open.spotify.com/album/7aMMpyDflUCZzDFp6LNul0) | 3:26 |
 | 69 | [Thinking Of You](https://open.spotify.com/track/3c9LVPh3MpeFoaAL5DBDK5) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 4:06 |
 | 70 | [If You're Not The One](https://open.spotify.com/track/4gJoAvFpDvaeqm2EKYGmhb) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Gotta Get Thru This](https://open.spotify.com/album/2EdZjwEgBXjtdkwkZ73fFA) | 4:17 |
 
-Snapshot ID: `MTY2NTQxODU0NSwwMDAwMDAwMDViMzBmMzExMDJjZGVmNmRiYzI4MjhmM2ViZDQ0NzY2`
+Snapshot ID: `MTY2NTQxODU0NSwwMDAwMDAwMGVkZjRjY2NmOWNkZDBkYTliNzUyNDY2NjdiMWVjYmI0`

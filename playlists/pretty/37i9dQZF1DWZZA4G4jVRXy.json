@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 111203,
+  "num_followers": 111236,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMDJlNjA0MmYwZDkzZjNkM2ZkMDgyNmNhYTIwNDU0YWJk",
+  "snapshot_id": "MTY0ODYwNDc3OCwwMDAwMDAwMGJhYWUyYWE3MjI0Mjk4YTU1NDBmMWU5MTc0YjVhMGFk",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -141,6 +141,22 @@
       "url": "https://open.spotify.com/track/46SMRZqsnGNdyGPhlcFFWb"
     },
     {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Best Of Martin Denny's Exotica",
+        "url": "https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 158653,
+      "name": "Misirlou - 1995 Digital Remaster",
+      "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
+    },
+    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Hawaiian Style Guitars",
@@ -187,22 +203,6 @@
       "duration_ms": 148133,
       "name": "Alika - Digitally Remastered 1996",
       "url": "https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Best Of Martin Denny's Exotica",
-        "url": "https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "Misirlou - 1995 Digital Remaster",
-      "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -385,22 +385,6 @@
       "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
-        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 128066,
-      "name": "Taboo Tu",
-      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "The Soul Of The Drums",
@@ -415,6 +399,22 @@
       "duration_ms": 135946,
       "name": "Coffee Bean / Calabash Annie",
       "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
+        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 128066,
+      "name": "Taboo Tu",
+      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -465,20 +465,20 @@
       "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
+      "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
-        "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
+        "name": "Swingin' sounds for the Jungle Jetset !",
+        "url": "https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc"
       },
       "artists": [
         {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+          "name": "The Tikiyaki Orchestra",
+          "url": "https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx"
         }
       ],
-      "duration_ms": 259519,
-      "name": "Lotus Land",
-      "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
+      "duration_ms": 220733,
+      "name": "Sunset on the Kona Kai",
+      "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -497,20 +497,20 @@
       "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
+      "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Swingin' sounds for the Jungle Jetset !",
-        "url": "https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc"
+        "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
+        "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
       },
       "artists": [
         {
-          "name": "The Tikiyaki Orchestra",
-          "url": "https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx"
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
         }
       ],
-      "duration_ms": 220733,
-      "name": "Sunset on the Kona Kai",
-      "url": "https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu"
+      "duration_ms": 259519,
+      "name": "Lotus Land",
+      "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -579,6 +579,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "The Savage And The Sensuous Bongos",
+        "url": "https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8"
+      },
+      "artists": [
+        {
+          "name": "Don Ralke",
+          "url": "https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Head Hunter",
+      "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Young Hawaii Plays Old Hawaii",
         "url": "https://open.spotify.com/album/73EtyWy6eklV217lXyE89J"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 257106,
       "name": "Pua Lililehua",
       "url": "https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Savage And The Sensuous Bongos",
-        "url": "https://open.spotify.com/album/3aud1MfRrAQbjOgcMVodo8"
-      },
-      "artists": [
-        {
-          "name": "Don Ralke",
-          "url": "https://open.spotify.com/artist/16v92k2eWOLCspNsRJC5W3"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Head Hunter",
-      "url": "https://open.spotify.com/track/6EvSZmoqrd9TAZGEYYQ8h1"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "The Unforgettable Sounds of Esquivel",
-        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
-      },
-      "artists": [
-        {
-          "name": "Mr. Ho's Orchestrotica",
-          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Mini Skirt",
-      "url": "https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Ultra-Lounge/Mondo Exotica: Volume One",
@@ -815,6 +799,38 @@
       "duration_ms": 196226,
       "name": "Hana Maui - Digitally Remastered 1995",
       "url": "https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Blow Up presents Exclusive Blend Volume 2",
+        "url": "https://open.spotify.com/album/4YxT4gkHfeCWGobJkIU96v"
+      },
+      "artists": [
+        {
+          "name": "Jack Trombey",
+          "url": "https://open.spotify.com/artist/0CIxJ9KXfPW54mXzhWek7I"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Underlay No.3",
+      "url": "https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Unforgettable Sounds of Esquivel",
+        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
+      },
+      "artists": [
+        {
+          "name": "Mr. Ho's Orchestrotica",
+          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Mini Skirt",
+      "url": "https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -867,22 +883,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Days Of Wine And Roses",
-        "url": "https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Slow And Easy",
-      "url": "https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Chill Out Hawaiian Music",
         "url": "https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ"
       },
@@ -899,18 +899,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Blow Up presents Exclusive Blend Volume 2",
-        "url": "https://open.spotify.com/album/4YxT4gkHfeCWGobJkIU96v"
+        "name": "The Days Of Wine And Roses",
+        "url": "https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx"
       },
       "artists": [
         {
-          "name": "Jack Trombey",
-          "url": "https://open.spotify.com/artist/0CIxJ9KXfPW54mXzhWek7I"
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 242226,
-      "name": "Underlay No.3",
-      "url": "https://open.spotify.com/track/2gtg19Ia7uXTY85DCiIoE5"
+      "duration_ms": 185493,
+      "name": "Slow And Easy",
+      "url": "https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Grandes Orquestas",
-        "url": "https://open.spotify.com/album/2RpZChEkwGjahuihiJ0xWw"
-      },
-      "artists": [
-        {
-          "name": "Esquivel Orquesta y Coros",
-          "url": "https://open.spotify.com/artist/2sywuKSPUHekcJMmU628S6"
-        }
-      ],
-      "duration_ms": 158106,
-      "name": "I Get a Kick Out Of You",
-      "url": "https://open.spotify.com/track/5PRJwmauBwcghrrNinFmC6"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Fly Me to the Moon and the Bossa Nova Pops (Original Album Plus Bonus Tracks 1962)",
         "url": "https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 171733,
       "name": "Bai\u0301a",
       "url": "https://open.spotify.com/track/2132EtRYeOiZFhWitl7QHx"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Grandes Orquestas",
+        "url": "https://open.spotify.com/album/2RpZChEkwGjahuihiJ0xWw"
+      },
+      "artists": [
+        {
+          "name": "Esquivel Orquesta y Coros",
+          "url": "https://open.spotify.com/artist/2sywuKSPUHekcJMmU628S6"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "I Get a Kick Out Of You",
+      "url": "https://open.spotify.com/track/5PRJwmauBwcghrrNinFmC6"
     },
     {
       "added_at": "2022-01-11 02:53:42",

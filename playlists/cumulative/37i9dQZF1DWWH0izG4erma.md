@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!! Cover: Koe Wetzel
 
-194 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
+195 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Call It Country](https://open.spotify.com/track/1H5I9ObhTNdSvcIJnM5CoT) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Call It Country](https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h) | 2:31 | 2021-11-01 |  |
 | [Cars On Blocks](https://open.spotify.com/track/4byGXugy6UdulXHzqKMBMG) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Long Shots](https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs) | 3:09 | 2021-11-01 | 2022-05-07 |
 | [Catch Me If You Can](https://open.spotify.com/track/2q0kWUvBaXkakZfH7KPViY) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [High Country Sound](https://open.spotify.com/album/6IVHko8albueLyBNcjuT0v) | 2:49 | 2021-11-01 | 2022-10-13 |
+| [Catch Me If You Can](https://open.spotify.com/track/4yxdTF0DcdXfD9XA3F8gvX) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [High Country Sound](https://open.spotify.com/album/0XsPCNDdepOg4OP3Z1X6Za) | 2:49 | 2022-10-14 |  |
 | [Change](https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Change](https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB) | 3:08 | 2021-11-01 |  |
 | [Cloud of Dust \(feat\. The Gronkowski Brothers\)](https://open.spotify.com/track/6ttWS9HFc1fkvIjPTko8EJ) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ), [The Gronkowski Brothers](https://open.spotify.com/artist/3P5Gy7HVsYRKZW5rQf08u3) | [Cloud of Dust \(feat\. The Gronkowski Brothers\)](https://open.spotify.com/album/72EWD9Ef18RP1lV5jQ9bCC) | 2:49 | 2021-11-01 |  |
 | [Country Boy \(feat\. Charlie Daniels, Chris Young, & George Jones\)](https://open.spotify.com/track/5TzoqLAFczwhUMrjNlWITI) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx), [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh), [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Town Line](https://open.spotify.com/album/080zNTXnyXccahBk0Vv6wG) | 4:43 | 2022-07-22 |  |
@@ -125,7 +126,7 @@
 | [One Hell of an Angel](https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [One Hell of an Angel](https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF) | 3:31 | 2022-08-26 |  |
 | [Out of the Blue](https://open.spotify.com/track/5oR3HK1s3V8eOjwZWSVjQr) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Out of the Blue](https://open.spotify.com/album/5UMROMw2d3KYIjuhEkm9Oy) | 4:24 | 2021-11-01 | 2022-07-29 |
 | [Outlaws & Outsiders](https://open.spotify.com/track/4NJjWHBLbon4OjbCfVMWkh) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc) | [Who I Am](https://open.spotify.com/album/1AmO83yyDpjLjQuPdMsf3Y) | 3:17 | 2021-11-01 |  |
-| [Over Me By Now](https://open.spotify.com/track/3ZPkLItrom6ntZ3ZKWMFIr) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Over Me By Now](https://open.spotify.com/album/35E0ok8zLcSoYhUGQG8EeW) | 2:41 | 2022-08-26 |  |
+| [Over Me By Now](https://open.spotify.com/track/3ZPkLItrom6ntZ3ZKWMFIr) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Over Me By Now](https://open.spotify.com/album/35E0ok8zLcSoYhUGQG8EeW) | 2:41 | 2022-08-26 | 2022-10-25 |
 | [Overrated](https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Overrated](https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm) | 3:38 | 2022-09-30 |  |
 | [Payback \(feat\. The Cadillac Three\)](https://open.spotify.com/track/0MDFaaKSyNrt4aZtJvqirX) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:27 | 2021-11-01 |  |
 | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/track/5wuOWOnmXlH5mc3wTRfsx7) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/album/5fdFTuBT5KV1JzXPtweiBx) | 3:21 | 2021-11-01 |  |

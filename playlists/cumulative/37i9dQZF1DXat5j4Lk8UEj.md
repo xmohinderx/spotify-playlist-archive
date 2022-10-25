@@ -4,7 +4,7 @@
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-207 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/3TIa5auBD6glGxwEhYFQcx)
+208 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/3TIa5auBD6glGxwEhYFQcx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Cautionary Tale](https://open.spotify.com/track/51LJmGVbrbxPP04Kog24Ul) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Cautionary Tale](https://open.spotify.com/album/7iXMplFdSUSWPl5ALrREZT) | 3:42 | 2021-12-09 | 2022-07-29 |
 | [Circles](https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w) | [Boy Named Banjo](https://open.spotify.com/artist/4muVBshUHExGQvQlNnKRW5) | [Circles](https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC) | 3:35 | 2021-12-09 | 2022-07-29 |
 | [Colorblind](https://open.spotify.com/track/0iAB1A8B5jHPrkfWWyrvj5) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [Colorblind](https://open.spotify.com/album/0KxmyxNOqRRKGgBmApF3xj) | 3:28 | 2021-12-09 | 2022-07-28 |
-| [Complex](https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Aquatic Flowers](https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV) | 3:48 | 2021-12-09 |  |
+| [Complex](https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Aquatic Flowers](https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV) | 3:48 | 2021-12-09 | 2022-10-25 |
 | [Cool Jam](https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Cool Jam/Good For You](https://open.spotify.com/album/6vmdjFe8QexVakjOEbtMdY) | 3:26 | 2021-12-09 |  |
 | [Daylight Push](https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain \[More Strange \(Deluxe Edition\)\]](https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG) | 3:51 | 2021-12-09 | 2022-04-25 |
 | [Desert Queen](https://open.spotify.com/track/4g1bRcq02BlS4iDckImXcl) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Desert Queen](https://open.spotify.com/album/0tNctr3388dHq7f1iZYwHI) | 4:42 | 2021-12-09 | 2022-01-19 |
@@ -181,6 +181,7 @@
 | [The Balcony](https://open.spotify.com/track/4c5FOmiW7UEifhtMMZvQom) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [The Pet Parade](https://open.spotify.com/album/6W7BySsmuIxg0ty0l14cLX) | 4:08 | 2021-12-09 | 2022-07-29 |
 | [The First Day](https://open.spotify.com/track/54ocv5qsX6eIjk8C5AyRpT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The First Day](https://open.spotify.com/album/18JbYJrl9GZMOc06cQpmIm) | 4:10 | 2021-12-09 |  |
 | [The Great Pixley Train Robbery](https://open.spotify.com/track/0hnmEA2PgX9Ip0kF9XVBmi) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [The Great Pixley Train Robbery](https://open.spotify.com/album/5TloH0kNDqVEHTYwUG4BuM) | 4:00 | 2021-12-09 | 2022-07-24 |
+| [The John Wayne](https://open.spotify.com/track/08RiqittsiyAXB9VmrSErU) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW) | 4:51 | 2022-02-17 |  |
 | [The John Wayne](https://open.spotify.com/track/3CMlAaKO8Z1MUsmk5ngUtN) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/6etgcx8zgTyaGJBXXweGsf) | 4:51 | 2022-02-17 | 2022-10-13 |
 | [The John Wayne](https://open.spotify.com/track/460n97wRvhCNU4OVgZyM0V) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/0FSlXUD9lWwWP1NkfiNmQH) | 4:51 | 2021-12-09 | 2022-07-28 |
 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 | 2021-12-09 |  |

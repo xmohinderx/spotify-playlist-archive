@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: sofi frozza
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,250 likes - 85 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,285 likes - 85 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

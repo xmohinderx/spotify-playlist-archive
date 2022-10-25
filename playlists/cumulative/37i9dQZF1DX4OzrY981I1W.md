@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack
 
-312 songs - 18 hr 57 min - [published](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
+313 songs - 19 hr 0 min - [published](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2021-03-26 |  |
 | [Toronto](https://open.spotify.com/track/7gM7OSSKozedhoigEvPaQ7) | [Jamws](https://open.spotify.com/artist/5Dzf0U33H8rPObc1WSjNTw) | [Toronto](https://open.spotify.com/album/5McrgZtIJuH3XadkI4AumD) | 4:13 | 2021-03-26 | 2022-07-29 |
 | [Trouble](https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:45 | 2021-03-26 |  |
-| [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 | 2021-08-06 |  |
+| [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 | 2021-08-06 | 2022-10-25 |
 | [Understand](https://open.spotify.com/track/2MC62kpPl5Q35iqThQpXpG) | [Greer](https://open.spotify.com/artist/39v5154nNeWJGatKDkLGu9) | [Understand](https://open.spotify.com/album/5T7KUN4KsOu9v4zgrMdSUp) | 3:18 | 2021-03-26 | 2022-04-20 |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-06-02 |  |
 | [untitled](https://open.spotify.com/track/4pJcFEzvPTTpxAncONKdrk) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [untitled](https://open.spotify.com/album/1AzTLu2HMYvWizUxKPMKNP) | 2:44 | 2021-04-23 | 2022-07-28 |
@@ -301,6 +301,7 @@
 | [We Belong Together](https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 1:56 | 2022-01-13 |  |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2021-03-26 | 2022-10-13 |
 | [we fell in love in october](https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu) | 3:04 | 2022-10-13 | 2022-10-21 |
+| [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2022-10-13 |  |
 | [We're Going To Be Friends](https://open.spotify.com/track/1N883b1C3trjGcx2h4E99B) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/0LicnijsvZ3Q7OCU0g9U8Z) | 2:22 | 2021-03-26 | 2022-04-13 |
 | [Welcome Home, Son](https://open.spotify.com/track/6HTVZeVQ9J6Uiq6tHESxU9) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Ghost](https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr) | 4:47 | 2021-03-26 | 2022-04-19 |
 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2021-10-01 |  |

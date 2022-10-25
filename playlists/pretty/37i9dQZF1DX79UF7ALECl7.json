@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee.",
-  "num_followers": 115154,
+  "num_followers": 115163,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMGM0ZWYzNWU1NjliZmU5ZTkyYjMwODRiM2QwNWZhZThj",
+  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMDIzNWUzNjAzMGIyYzY0NTJkNzFkMDE1YWRmZmU1MTg2",
   "tracks": [
     {
       "added_at": "2022-10-13 22:00:00",
@@ -111,6 +111,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "sketches of transition",
+        "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "twenty eight",
+      "url": "https://open.spotify.com/track/2bBtXBTYsEkJnyNg8dtvrc"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Sun Goes Down (feat. KILLUA)",
         "url": "https://open.spotify.com/album/5HXrynH3tTOYgjB0twZ2J1"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 217261,
       "name": "Sun Goes Down (feat. KILLUA)",
       "url": "https://open.spotify.com/track/4DtxLmXT8W8YMobKviMy6w"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "sketches of transition",
-        "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "twenty eight",
-      "url": "https://open.spotify.com/track/2bBtXBTYsEkJnyNg8dtvrc"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "I Don't Know Why",
-        "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
-      },
-      "artists": [
-        {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "I Don't Know Why",
-      "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Manhattan at Dusk",
         "url": "https://open.spotify.com/album/76uUq4SUSmFtQty2xBycYZ"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 232000,
       "name": "Manhattan At Dusk",
       "url": "https://open.spotify.com/track/6LvlfzN3FIx5vYJIyH5X1S"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
+      },
+      "artists": [
+        {
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -251,26 +251,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Aftergold (5 Year Anniversary)",
-        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "obli",
-          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "Aftergold - obli Remix",
-      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Travellers",
         "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 158181,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Aftergold (5 Year Anniversary)",
+        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "Aftergold - obli Remix",
+      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -351,6 +351,30 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Swan Lake (Someone Rework)",
+        "url": "https://open.spotify.com/album/1CnLwouBrnGAqYbvaN8Q90"
+      },
+      "artists": [
+        {
+          "name": "Someone",
+          "url": "https://open.spotify.com/artist/28pJPOOQTi0RQiZbkmLvfE"
+        },
+        {
+          "name": "Darius Timmer",
+          "url": "https://open.spotify.com/artist/450YE3kgC7YLb3hV7djIPk"
+        },
+        {
+          "name": "Dan Huijser",
+          "url": "https://open.spotify.com/artist/6PymBeotbwOXRKsXjWRRah"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "Swan Lake - Someone Rework",
+      "url": "https://open.spotify.com/track/4PuyLqIsvrVA29KO3ktsvP"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Don't Say Goodbye",
         "url": "https://open.spotify.com/album/4QrlY7zLqIns9wayxlvit3"
       },
@@ -383,26 +407,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Swan Lake (Someone Rework)",
-        "url": "https://open.spotify.com/album/1CnLwouBrnGAqYbvaN8Q90"
+        "name": "Little Airplanes",
+        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
       },
       "artists": [
         {
-          "name": "Someone",
-          "url": "https://open.spotify.com/artist/28pJPOOQTi0RQiZbkmLvfE"
-        },
-        {
-          "name": "Darius Timmer",
-          "url": "https://open.spotify.com/artist/450YE3kgC7YLb3hV7djIPk"
-        },
-        {
-          "name": "Dan Huijser",
-          "url": "https://open.spotify.com/artist/6PymBeotbwOXRKsXjWRRah"
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
         }
       ],
-      "duration_ms": 203502,
-      "name": "Swan Lake - Someone Rework",
-      "url": "https://open.spotify.com/track/4PuyLqIsvrVA29KO3ktsvP"
+      "duration_ms": 330614,
+      "name": "Little Airplanes",
+      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -459,22 +475,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Little Airplanes",
-        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 330614,
-      "name": "Little Airplanes",
-      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Socorro & J\u00fcpiter",
         "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
       },
@@ -511,6 +511,38 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/0DZPjAnDdj8V0kejYNfxTv"
+      },
+      "artists": [
+        {
+          "name": "Monte La Rue",
+          "url": "https://open.spotify.com/artist/7AF2BEHVjcCM6NxMul09ak"
+        }
+      ],
+      "duration_ms": 221564,
+      "name": "Riviera",
+      "url": "https://open.spotify.com/track/2OahtOhFTTHkq7111ZmGYi"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Big Sur",
+        "url": "https://open.spotify.com/album/0TMwz5HbnoA6TSgTZd8GcJ"
+      },
+      "artists": [
+        {
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+        }
+      ],
+      "duration_ms": 192909,
+      "name": "Big Sur",
+      "url": "https://open.spotify.com/track/6XpDacIn7QF5WGz9ALX1JA"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Too Hot, Too Cold",
         "url": "https://open.spotify.com/album/0kNwXzdBoqZK48KzqlAvCt"
       },
@@ -527,6 +559,22 @@
       "duration_ms": 246407,
       "name": "Too Hot, Too Cold",
       "url": "https://open.spotify.com/track/2NjeiZqZSRyCdL8xbQehNL"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Hundred Fifty Up",
+        "url": "https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 264192,
+      "name": "Hundred Fifty Up",
+      "url": "https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -551,22 +599,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/0DZPjAnDdj8V0kejYNfxTv"
-      },
-      "artists": [
-        {
-          "name": "Monte La Rue",
-          "url": "https://open.spotify.com/artist/7AF2BEHVjcCM6NxMul09ak"
-        }
-      ],
-      "duration_ms": 221564,
-      "name": "Riviera",
-      "url": "https://open.spotify.com/track/2OahtOhFTTHkq7111ZmGYi"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Finds You Well",
         "url": "https://open.spotify.com/album/2w487BAUXgly5he0U5TU2p"
       },
@@ -579,38 +611,6 @@
       "duration_ms": 230400,
       "name": "Groove 32",
       "url": "https://open.spotify.com/track/6658u0EPu6u0x9r5A4qT4h"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Big Sur",
-        "url": "https://open.spotify.com/album/0TMwz5HbnoA6TSgTZd8GcJ"
-      },
-      "artists": [
-        {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
-        }
-      ],
-      "duration_ms": 192909,
-      "name": "Big Sur",
-      "url": "https://open.spotify.com/track/6XpDacIn7QF5WGz9ALX1JA"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Hundred Fifty Up",
-        "url": "https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 264192,
-      "name": "Hundred Fifty Up",
-      "url": "https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
-      },
-      "artists": [
-        {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
-        }
-      ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Lost Again",
         "url": "https://open.spotify.com/album/4eDfVw4Z5e6nPL61ciprCA"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+      },
+      "artists": [
+        {
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+        }
+      ],
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Pro's & Con's (Kraak & Smaak Remix)",
         "url": "https://open.spotify.com/album/2tRojFBP52p93DUFiSZ9Lv"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
-      },
-      "artists": [
-        {
-          "name": "Silo",
-          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
-        }
-      ],
-      "duration_ms": 270027,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Uncrazy",
         "url": "https://open.spotify.com/album/1MbtuGudZpomEnpHJhbecV"
       },
@@ -763,6 +747,42 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
+      },
+      "artists": [
+        {
+          "name": "Silo",
+          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
+        }
+      ],
+      "duration_ms": 270027,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "No Color (Reimagined)",
+        "url": "https://open.spotify.com/album/1uDWCY3t0JATslapdFavnK"
+      },
+      "artists": [
+        {
+          "name": "Mayer Malik",
+          "url": "https://open.spotify.com/artist/0WMRcmW4gPPbnJOR6XJXmc"
+        },
+        {
+          "name": "Boaz van de Beatz",
+          "url": "https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw"
+        }
+      ],
+      "duration_ms": 179969,
+      "name": "No Color (Reimagined)",
+      "url": "https://open.spotify.com/track/3j7JyIQECpvg3UB6LAwu4m"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Golden Cage EP",
         "url": "https://open.spotify.com/album/4rF9lZgtSHe1blrCPGFyGY"
       },
@@ -775,6 +795,22 @@
       "duration_ms": 239249,
       "name": "Mercury Moments",
       "url": "https://open.spotify.com/track/3c8hntpeHHoS8BxppJoBBW"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Ruby Veil",
+        "url": "https://open.spotify.com/album/6qYiTQ9XQVfE0cyJWwFwLN"
+      },
+      "artists": [
+        {
+          "name": "Daniel Hokum",
+          "url": "https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd"
+        }
+      ],
+      "duration_ms": 485006,
+      "name": "Blues On",
+      "url": "https://open.spotify.com/track/3DEU62sc5nQrgunfkT6Tck"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -819,42 +855,6 @@
       "duration_ms": 293529,
       "name": "Too Many Questions - Soble Remix",
       "url": "https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Ruby Veil",
-        "url": "https://open.spotify.com/album/6qYiTQ9XQVfE0cyJWwFwLN"
-      },
-      "artists": [
-        {
-          "name": "Daniel Hokum",
-          "url": "https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd"
-        }
-      ],
-      "duration_ms": 485006,
-      "name": "Blues On",
-      "url": "https://open.spotify.com/track/3DEU62sc5nQrgunfkT6Tck"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "No Color (Reimagined)",
-        "url": "https://open.spotify.com/album/1uDWCY3t0JATslapdFavnK"
-      },
-      "artists": [
-        {
-          "name": "Mayer Malik",
-          "url": "https://open.spotify.com/artist/0WMRcmW4gPPbnJOR6XJXmc"
-        },
-        {
-          "name": "Boaz van de Beatz",
-          "url": "https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw"
-        }
-      ],
-      "duration_ms": 179969,
-      "name": "No Color (Reimagined)",
-      "url": "https://open.spotify.com/track/3j7JyIQECpvg3UB6LAwu4m"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Arturia",
-        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 331960,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/0eiuT3ShAERLEGuZEGy1OU"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 211071,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/1ZRRqPM3o0sfsjlzrB3VcH"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Arturia",
+        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 331960,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Petricor",
-        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 204427,
-      "name": "Petricor",
-      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Schijn EP",
         "url": "https://open.spotify.com/album/1n2xeiiI5Xg5QIF4L8TJj8"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 439626,
       "name": "Schijn",
       "url": "https://open.spotify.com/track/0BqIlgXl5N353o0wXseQkp"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Petricor",
+        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 204427,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "small talk",
-        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 325680,
-      "name": "small talk",
-      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "House Shit",
         "url": "https://open.spotify.com/album/4G3XZqQsuKeQmfYuT5OsgD"
       },
@@ -1291,6 +1275,38 @@
       "duration_ms": 176356,
       "name": "Infinity (SLCT Remix) (Instrumental Version)",
       "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 325680,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Tempranillo",
+        "url": "https://open.spotify.com/album/2wJKMd7MSk2KB3JmlYfc4J"
+      },
+      "artists": [
+        {
+          "name": "Corren Cavini",
+          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
+        }
+      ],
+      "duration_ms": 377060,
+      "name": "Tempranillo",
+      "url": "https://open.spotify.com/track/48KcLnGPfXDikD5Snv7q16"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Tempranillo",
-        "url": "https://open.spotify.com/album/2wJKMd7MSk2KB3JmlYfc4J"
-      },
-      "artists": [
-        {
-          "name": "Corren Cavini",
-          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
-        }
-      ],
-      "duration_ms": 377060,
-      "name": "Tempranillo",
-      "url": "https://open.spotify.com/track/48KcLnGPfXDikD5Snv7q16"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Do This",
         "url": "https://open.spotify.com/album/4z82w201UQTrLSxaEHKrgl"
       },
@@ -1367,18 +1367,42 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Torn Apart",
-        "url": "https://open.spotify.com/album/1pz8dFp7qIKS1yQKaFgGrG"
+        "name": "Tell Me Who I Am",
+        "url": "https://open.spotify.com/album/0CWxAlJ9ov32aFcMZJJjn7"
       },
       "artists": [
         {
-          "name": "Fynn",
-          "url": "https://open.spotify.com/artist/4xuvLbpdu8lDCLSnpZY45m"
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Torn Apart",
-      "url": "https://open.spotify.com/track/7m9euwqyxRdTgPACE0E8T1"
+      "duration_ms": 217948,
+      "name": "Tell Me Who I Am",
+      "url": "https://open.spotify.com/track/1OtO771VNXXuuijjFU0mbr"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Levin's Lope (Karriem Riggins Remix)",
+        "url": "https://open.spotify.com/album/4j6JL0ZiDxUZKxI2y7ELuN"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "duration_ms": 344720,
+      "name": "Levin's Lope - Karriem Riggins Remix",
+      "url": "https://open.spotify.com/track/5g0qIfCyEbc7o2ZjCai5v5"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1399,6 +1423,22 @@
       "duration_ms": 415903,
       "name": "Resilience",
       "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Torn Apart",
+        "url": "https://open.spotify.com/album/1pz8dFp7qIKS1yQKaFgGrG"
+      },
+      "artists": [
+        {
+          "name": "Fynn",
+          "url": "https://open.spotify.com/artist/4xuvLbpdu8lDCLSnpZY45m"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Torn Apart",
+      "url": "https://open.spotify.com/track/7m9euwqyxRdTgPACE0E8T1"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1435,30 +1475,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Levin's Lope (Karriem Riggins Remix)",
-        "url": "https://open.spotify.com/album/4j6JL0ZiDxUZKxI2y7ELuN"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Karriem Riggins",
-          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
-        }
-      ],
-      "duration_ms": 344720,
-      "name": "Levin's Lope - Karriem Riggins Remix",
-      "url": "https://open.spotify.com/track/5g0qIfCyEbc7o2ZjCai5v5"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/6DeOvAePc1EgeMd1PuDa6d"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 224400,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/46qdT0wtTVMsPvpQnqdzPN"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Tell Me Who I Am",
-        "url": "https://open.spotify.com/album/0CWxAlJ9ov32aFcMZJJjn7"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 217948,
-      "name": "Tell Me Who I Am",
-      "url": "https://open.spotify.com/track/1OtO771VNXXuuijjFU0mbr"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Moraine",
-        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 237947,
-      "name": "Moraine",
-      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Dub 002",
         "url": "https://open.spotify.com/album/1izE0AfZaQbrXmcDRrpcw6"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 370006,
       "name": "Dub 002",
       "url": "https://open.spotify.com/track/23gIyPfmbczIngg3vvvu3P"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Moraine",
+        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 237947,
+      "name": "Moraine",
+      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/08SC4H56dAvQNwqhbOo18k"
-      },
-      "artists": [
-        {
-          "name": "Somni",
-          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
-        },
-        {
-          "name": "Duren",
-          "url": "https://open.spotify.com/artist/6rNkP5FvNekmphnA8NCYE5"
-        }
-      ],
-      "duration_ms": 191005,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2PXDK2k7QSjGLfzBjuZ1hw"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "So High (Ron Carroll Late Nite Tweak Dub)",
         "url": "https://open.spotify.com/album/7egfMkINOCQyCl55FCAkDn"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 314271,
       "name": "So High - Ron Carroll Late Nite Tweak Dub",
       "url": "https://open.spotify.com/track/70z3t4iKWlXnqxpYYKlWjJ"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/08SC4H56dAvQNwqhbOo18k"
+      },
+      "artists": [
+        {
+          "name": "Somni",
+          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
+        },
+        {
+          "name": "Duren",
+          "url": "https://open.spotify.com/artist/6rNkP5FvNekmphnA8NCYE5"
+        }
+      ],
+      "duration_ms": 191005,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2PXDK2k7QSjGLfzBjuZ1hw"
     },
     {
       "added_at": "2022-10-13 22:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 23954,
+  "num_followers": 23962,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDdkY2NkODhlMDc3Yjg2YTk1YzBlOTkxYWVhNzc4NmM2",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDA1N2I2MmNhZjU3ZjBlMjUyMGI4YzY4OTZmNjUyMDg4",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0zGcOpLSpmGTJUcHRrNUJz"
-      },
-      "artists": [
-        {
-          "name": "Hidden Spheres",
-          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
-        }
-      ],
-      "duration_ms": 412812,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/7fxcNshGvCxlNMGHI1GmCx"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "...Balla!",
         "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 485306,
       "name": "I Can't Kick This Feeling When It Hits",
       "url": "https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0zGcOpLSpmGTJUcHRrNUJz"
+      },
+      "artists": [
+        {
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+        }
+      ],
+      "duration_ms": 412812,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/7fxcNshGvCxlNMGHI1GmCx"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Searching to Find the One",
-        "url": "https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q"
-      },
-      "artists": [
-        {
-          "name": "Unlimited Touch",
-          "url": "https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm"
-        }
-      ],
-      "duration_ms": 413573,
-      "name": "I Hear Music in the Streets",
-      "url": "https://open.spotify.com/track/5HgE5eXfu0An2moseSM635"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "All 'N All",
         "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 191200,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Searching to Find the One",
+        "url": "https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q"
+      },
+      "artists": [
+        {
+          "name": "Unlimited Touch",
+          "url": "https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm"
+        }
+      ],
+      "duration_ms": 413573,
+      "name": "I Hear Music in the Streets",
+      "url": "https://open.spotify.com/track/5HgE5eXfu0An2moseSM635"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -567,22 +567,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "The Lost Grooves EP",
-        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
-      },
-      "artists": [
-        {
-          "name": "In Deep We Trust",
-          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Ba:sen - Pool Party Dub Mix",
-      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Priorities",
         "url": "https://open.spotify.com/album/7cO8doMNBPYcM2WXZnWO6X"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 348158,
       "name": "Warm Priority",
       "url": "https://open.spotify.com/track/7BKiJ7xesRpNzMceQtYUtb"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "The Lost Grooves EP",
+        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
+      },
+      "artists": [
+        {
+          "name": "In Deep We Trust",
+          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Ba:sen - Pool Party Dub Mix",
+      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -635,6 +635,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Mandar All Day 001",
+        "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
+      },
+      "artists": [
+        {
+          "name": "Leo Pol",
+          "url": "https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz"
+        }
+      ],
+      "duration_ms": 278110,
+      "name": "Chantal",
+      "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Weekends and Beginnings",
         "url": "https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 332777,
       "name": "Love Endeavor (Maurice Fulton Remix) - Mixed",
       "url": "https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Mandar All Day 001",
-        "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
-      },
-      "artists": [
-        {
-          "name": "Leo Pol",
-          "url": "https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz"
-        }
-      ],
-      "duration_ms": 278110,
-      "name": "Chantal",
-      "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "I Want to Feel Your Love",
-        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
-      },
-      "artists": [
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 378485,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Calling Out (feat. Dames Brown) [12\" Mix]",
         "url": "https://open.spotify.com/album/2ZAIcJo3D6FN7ACpDTh77x"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 477881,
       "name": "Calling Out (feat. Dames Brown) - 12\" Mix",
       "url": "https://open.spotify.com/track/6nfYXTZfmJMM56AfTV4mF4"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "I Want to Feel Your Love",
+        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 378485,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
     },
     {
       "added_at": "2021-09-01 00:59:23",

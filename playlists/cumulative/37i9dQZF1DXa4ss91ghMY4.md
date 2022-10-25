@@ -4,7 +4,7 @@
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA
 
-480 songs - 1 day 0 hr 40 min - [published](https://open.spotify.com/playlist/5yfnaPkFyTj76hzrAjgLmZ)
+481 songs - 1 day 0 hr 44 min - [published](https://open.spotify.com/playlist/5yfnaPkFyTj76hzrAjgLmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [How You Like That](https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH) | 3:01 | 2022-03-25 | 2022-04-16 |
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2022-06-24 |  |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-24 |  |
-| [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-02-18 |  |
+| [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-02-18 | 2022-10-25 |
 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 | 2022-02-18 |  |
 | [I Don't Know Why](https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [I Don't Know Why](https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj) | 3:27 | 2022-04-08 | 2022-04-19 |
 | [I Feel Good](https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [I Feel Good](https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO) | 2:16 | 2022-03-25 | 2022-04-12 |
@@ -251,6 +251,7 @@
 | [life got crazy](https://open.spotify.com/track/5NXthnJecYXjt7sTEWETTY) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the highs.](https://open.spotify.com/album/2phcfZd44niczjY0xybcS6) | 2:18 | 2022-03-25 | 2022-04-06 |
 | [Lifestyle \(feat\. Adam Levine\)](https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n), [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Lifestyle \(feat\. Adam Levine\)](https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy) | 2:33 | 2022-02-18 | 2022-07-28 |
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-03-02 | 2022-10-16 |
+| [Light Switch](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:07 | 2022-10-14 |  |
 | [Light Up](https://open.spotify.com/track/7H4nlmOcezvCldiVQwk4C5) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Light Up](https://open.spotify.com/album/0XLGf4b3NLHyJC4NgqG96v) | 3:06 | 2022-04-04 | 2022-04-08 |
 | [Like This](https://open.spotify.com/track/2M2Pug4zwMialHSwACPlU1) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Like This](https://open.spotify.com/album/7hUMkRbKfBbD9YBan9YY75) | 2:43 | 2022-03-25 | 2022-04-20 |
 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 | 2022-04-04 | 2022-04-20 |

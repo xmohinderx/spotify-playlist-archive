@@ -703,7 +703,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 205440,
       "name": "Girls Talk",
       "url": "https://open.spotify.com/track/7vjs7IWQlxfhlxSYsKbKB6"
@@ -1823,6 +1823,24 @@
       "duration_ms": 318853,
       "name": "Rubber Bullets",
       "url": "https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS"
+    },
+    {
+      "album": {
+        "name": "10cc",
+        "url": "https://open.spotify.com/album/2IGC9reJ6sjS4v5GkifnGt"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318853,
+      "name": "Rubber Bullets",
+      "url": "https://open.spotify.com/track/4Mv4X4ecNuQU7XScbnKJwa"
     },
     {
       "album": {

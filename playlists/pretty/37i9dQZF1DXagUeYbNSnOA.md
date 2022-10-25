@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Paty B on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,290 likes - 58 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,284 likes - 58 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 16 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 |
 | 17 | [Todavía](https://open.spotify.com/track/34VnkKa0LcXs4VJlIicZGs) | [C Marí](https://open.spotify.com/artist/7uthE7Fmy5aYOwlu1Yt4Ps) | [Todavía](https://open.spotify.com/album/2YBHUFzkcoyKMtqaJ8iOoy) | 2:48 |
 | 18 | [No Me Dejes \(Halloween\)](https://open.spotify.com/track/4b8H3eaTQm66t3VVFLQL88) | [The Real Antonios](https://open.spotify.com/artist/539CDHy0e3VlZiZPira98V) | [No Me Dejes \(Halloween\)](https://open.spotify.com/album/2Y0OOk9SPUmrO4iDPo7omM) | 2:47 |
-| 19 | [Música bailando](https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Música bailando](https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq) | 2:18 |
-| 20 | [Los Estimados](https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Los Estimados](https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB) | 4:37 |
+| 19 | [Los Estimados](https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Los Estimados](https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB) | 4:37 |
+| 20 | [Música bailando](https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Música bailando](https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq) | 2:18 |
 | 21 | [nublado](https://open.spotify.com/track/5l9D9Uzeba8H3vVbEEoWnd) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [nublado](https://open.spotify.com/album/1XIcyGupJrLUYtX2JlElVr) | 3:23 |
 | 22 | [DUCATI](https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [DUCATI](https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X) | 2:49 |
 | 23 | [Pisoteo](https://open.spotify.com/track/3HtDvX3733FuKDzAmNqaPm) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:35 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 25 | [AMORA](https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:28 |
 | 26 | [Palmeras](https://open.spotify.com/track/2lMr37Qk71sfTA8VgzqXoU) | [Paraísos](https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM) | [Palmeras](https://open.spotify.com/album/7BnjysmzcG4LA4GgMJwFzm) | 3:21 |
 | 27 | [no sé quién soy](https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [no sé quién soy](https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw) | 2:08 |
-| 28 | [Paradoja](https://open.spotify.com/track/3kFy7VWKyPnIv5RAyXNmcz) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl), [Obregøn](https://open.spotify.com/artist/7e5DKM613ys6ekrqyor2oK) | [Paradoja](https://open.spotify.com/album/5bmesQ37gb6KAUadrpsevz) | 3:40 |
-| 29 | [Bandolera](https://open.spotify.com/track/1SjGkMkBgIvDDMcZqyXJ0N) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [Bandolera](https://open.spotify.com/album/1k6i5BOlJCY8QFaEeuEvQ3) | 4:34 |
-| 30 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
+| 28 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
+| 29 | [Paradoja](https://open.spotify.com/track/3kFy7VWKyPnIv5RAyXNmcz) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl), [Obregøn](https://open.spotify.com/artist/7e5DKM613ys6ekrqyor2oK) | [Paradoja](https://open.spotify.com/album/5bmesQ37gb6KAUadrpsevz) | 3:40 |
+| 30 | [Bandolera](https://open.spotify.com/track/1SjGkMkBgIvDDMcZqyXJ0N) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [Bandolera](https://open.spotify.com/album/1k6i5BOlJCY8QFaEeuEvQ3) | 4:34 |
 | 31 | [A Fling](https://open.spotify.com/track/3vMT9YnaHxJmfYw78RXMTt) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [A Fling](https://open.spotify.com/album/1vD5edBn4vm1Z3wMQeHynf) | 3:23 |
 | 32 | [Posguerra](https://open.spotify.com/track/5Kb5RhVvDm5he4xTJ1aNqQ) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Posguerra](https://open.spotify.com/album/78FkR6dvHY3QXLu5Y7wDZF) | 4:11 |
 | 33 | [Habla Claro](https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ) | [Queens Tafari](https://open.spotify.com/artist/4rKOg5tFcABYTjPHseU3fK) | [Habla Claro](https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH) | 2:30 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 57 | [Es el Final Me Alejo](https://open.spotify.com/track/6maJAvK0EEnYJlwd2Rilfo) | [Hermanas](https://open.spotify.com/artist/6DhjvxaxmaX7X9WGAGnxSr), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo), [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K) | [Hermanas](https://open.spotify.com/album/76M6D300MhUyIFv3gvoI54) | 3:21 |
 | 58 | [Curarire](https://open.spotify.com/track/0FYXJKkWdtKffPfPDu7omA) | [puertoazul](https://open.spotify.com/artist/0iCY5VtcfIWlryZ0RioQZ7), [Hilandera](https://open.spotify.com/artist/74PfPEOPKfB85LC1Sb4lwO) | [Curarire](https://open.spotify.com/album/1AyjQmNVdv7HcFAP282See) | 3:22 |
 
-Snapshot ID: `MTY2NjE3MzA3NiwwMDAwMDAwMDUxZDcxZTRiNTQ0NWQwMGU3ODY3NzIwN2I1MTUyNTM5`
+Snapshot ID: `MTY2NjE3MzA3NiwwMDAwMDAwMDczYWRmNzFiZjk3MzE0OGFiYzkyNzk1ZDI1OTMyM2Q5`

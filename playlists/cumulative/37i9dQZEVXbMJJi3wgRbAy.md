@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-403 songs - 22 hr 8 min - [published](https://open.spotify.com/playlist/6ou4JZ69umClCndeDJxRfI)
+404 songs - 22 hr 11 min - [published](https://open.spotify.com/playlist/6ou4JZ69umClCndeDJxRfI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Hasta Abajo](https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [KrING](https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x) | 3:49 | 2021-03-27\* | 2021-03-27 |
 | [Hawái](https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PAPI JUANCHO](https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv) | 3:19 | 2021-03-27\* | 2021-05-12 |
 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 | 2021-03-27\* | 2021-07-02 |
+| [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 | 2022-10-24 |  |
 | [Hood \- Remix](https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hood \(Remix\)](https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv) | 2:56 | 2022-10-12 |  |
 | [Hoy Volvi a Verte \- Remix](https://open.spotify.com/track/0KvtuCa8aGD8SR39aLLLj5) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [El Retutu](https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Hoy Volvi a Verte \(Remix\)](https://open.spotify.com/album/7yE1sC8CgEAbE6FMHG2la0) | 2:42 | 2022-01-02 | 2022-04-24 |
 | [In Da Getto](https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:10 | 2021-09-12 | 2021-09-26 |
@@ -361,7 +362,7 @@
 | [Todo De Ti](https://open.spotify.com/track/5RwV8BvLfX5injfqYodke9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:19 | 2021-06-27 | 2021-12-22 |
 | [TODO O NADA](https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:28 | 2021-06-18 | 2021-08-22 |
 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2021-12-12 | 2022-05-25 |
-| [Traductor](https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 3:42 | 2022-07-23 |  |
+| [Traductor](https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 3:42 | 2022-07-23 | 2022-10-25 |
 | [Traductor](https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Traductor](https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl) | 3:42 | 2022-07-16 | 2022-07-24 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-23 | 2021-05-24 |
 | [Tranquila](https://open.spotify.com/track/1v5QhGtlv2bkpUz2kAXTCq) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Desde el Espacio](https://open.spotify.com/album/2C9O39yyriTfCN5IN0gngg) | 3:03 | 2022-03-12 | 2022-08-04 |

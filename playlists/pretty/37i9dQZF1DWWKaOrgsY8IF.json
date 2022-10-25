@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 121525,
+  "num_followers": 121546,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMGM0MjA2N2UxNDljZTkyZTBlNjA2NzUyNTM3NTE1YjJi",
+  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMDkwZTgwYTQzOWViMDQ5NDRlMzE1MjcwMjllMmM4MDQ5",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -167,26 +167,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 188213,
-      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
-      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Se Te Nota (with Guaynaa)",
         "url": "https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 155825,
       "name": "Se Te Nota (with Guaynaa)",
       "url": "https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 188213,
+      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
+      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "ADMV",
+        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 193699,
+      "name": "ADMV",
+      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 219760,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "ADMV",
-        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 193699,
-      "name": "ADMV",
-      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "AYAYAY!",
+        "url": "https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 130759,
+      "name": "Amor T\u00f3xico",
+      "url": "https://open.spotify.com/track/5LPlvbxA6bJQHvUW12Mr22"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 186946,
       "name": "Sodio",
       "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "AYAYAY!",
-        "url": "https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 130759,
-      "name": "Amor T\u00f3xico",
-      "url": "https://open.spotify.com/track/5LPlvbxA6bJQHvUW12Mr22"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -991,6 +991,26 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 197879,
+      "name": "La L\u00e1",
+      "url": "https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "4 besos",
         "url": "https://open.spotify.com/album/6Giz4BUSi7vyoEIr2NmPIC"
       },
@@ -1015,22 +1035,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/4RvfXzwyyTmAGfjW4WFAsE"
       },
       "artists": [
         {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         },
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
         }
       ],
-      "duration_ms": 197879,
-      "name": "La L\u00e1",
-      "url": "https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3"
+      "duration_ms": 200961,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/2qON8SpeBDBSoWCvDKuwbU"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1051,26 +1071,6 @@
       "duration_ms": 161060,
       "name": "Ella Dice",
       "url": "https://open.spotify.com/track/5UKBbglwH7gZEkzfuWGn5J"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/4RvfXzwyyTmAGfjW4WFAsE"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        },
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 200961,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/2qON8SpeBDBSoWCvDKuwbU"
     },
     {
       "added_at": "2020-12-01 05:03:00",

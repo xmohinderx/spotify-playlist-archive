@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 138165,
+  "num_followers": 138348,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIwNDI2NywwMDAwMDAwMDAzOGI0NTZkYTRjYjIzYTU5YmE1NWQ3MDgxNTQyMTIx",
+  "snapshot_id": "MTY2MDIwNDI2NywwMDAwMDAwMGY3ZTRmOTE5MGRlMGZmYjZjNWUyOWY4MzZjMWMwYzc5",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 292613,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "High Voltage",
@@ -567,6 +551,22 @@
       "duration_ms": 214666,
       "name": "T.N.T.",
       "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 292613,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -635,6 +635,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 260893,
+      "name": "Angeleyes",
+      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Jailbreak (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 190160,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 260893,
-      "name": "Angeleyes",
-      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -747,6 +747,22 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
+        "name": "Abba",
+        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
         "name": "Don't Shoot Me I'm Only The Piano Player",
         "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 188133,
       "name": "Born to Be Alive - The Original",
       "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Abba",
-        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 213266,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
-      "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Can't Get Enough",
@@ -1015,6 +999,22 @@
       "duration_ms": 274000,
       "name": "Can't Get Enough Of Your Love, Babe",
       "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
+      "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Jackson Browne (Saturate Before Using)",
-        "url": "https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
       },
       "artists": [
         {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 199906,
-      "name": "Doctor My Eyes",
-      "url": "https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95"
+      "duration_ms": 180493,
+      "name": "If You Want Me to Stay",
+      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
+        "name": "Jackson Browne (Saturate Before Using)",
+        "url": "https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u"
       },
       "artists": [
         {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
         }
       ],
-      "duration_ms": 180493,
-      "name": "If You Want Me to Stay",
-      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
+      "duration_ms": 199906,
+      "name": "Doctor My Eyes",
+      "url": "https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "2nd Time Around (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 190058,
-      "name": "It's A Shame",
-      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Fantastic Boney M.",
         "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 174866,
       "name": "ABC",
       "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "2nd Time Around (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 190058,
+      "name": "It's A Shame",
+      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "Shining Star",
-      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 252373,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Cyan",
-        "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
-      },
-      "artists": [
-        {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Shambala - Single Version",
-      "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "The Kids & Me",
         "url": "https://open.spotify.com/album/7LukcPnAOnV7MuJ6uIUe1s"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 156200,
       "name": "Nothing From Nothing",
       "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Cyan",
+        "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Shambala - Single Version",
+      "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1685,22 +1685,6 @@
       "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Raspberries",
-        "url": "https://open.spotify.com/album/03iBvX63qBQrMazNWU2iKv"
-      },
-      "artists": [
-        {
-          "name": "Raspberries",
-          "url": "https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "Go All The Way",
-      "url": "https://open.spotify.com/track/75GQIYnRaBg7ndHxhfYuQy"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
@@ -1715,6 +1699,22 @@
       "duration_ms": 205733,
       "name": "Grease - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Raspberries",
+        "url": "https://open.spotify.com/album/03iBvX63qBQrMazNWU2iKv"
+      },
+      "artists": [
+        {
+          "name": "Raspberries",
+          "url": "https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Go All The Way",
+      "url": "https://open.spotify.com/track/75GQIYnRaBg7ndHxhfYuQy"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Main Course",
-        "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "Jive Talkin' - From \"Saturday Night Fever\" Soundtrack",
-      "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "2 Hot!",
         "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 346133,
       "name": "Shake Your Groove Thing",
       "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Main Course",
+        "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "Jive Talkin' - From \"Saturday Night Fever\" Soundtrack",
+      "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "In The Right Place",
+        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Right Place Wrong Time",
+      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 363973,
       "name": "Don't Leave Me This Way (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "In The Right Place",
-        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Right Place Wrong Time",
-      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1929,6 +1929,22 @@
       "url": "https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "You Should Be Dancing",
+      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Back Stabbers",
@@ -1975,22 +1991,6 @@
       "duration_ms": 628546,
       "name": "Don't Let Me Be Misunderstood",
       "url": "https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "You Should Be Dancing",
-      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Cosmo's Factory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 127493,
-      "name": "Travelin' Band",
-      "url": "https://open.spotify.com/track/0INUNNYfsp4qr6kJdY46mY"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "I've Got So Much To Give",
         "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 431506,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 127493,
+      "name": "Travelin' Band",
+      "url": "https://open.spotify.com/track/0INUNNYfsp4qr6kJdY46mY"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Ringo",
-        "url": "https://open.spotify.com/album/6zjenDV68SpvM3oEhorTDm"
-      },
-      "artists": [
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "You're Sixteen (You\u2019re Beautiful And You\u2019re Mine)",
-      "url": "https://open.spotify.com/track/4MAxWahEbzU8m4bD6mSZg9"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Ship Ahoy (Expanded Edition)",
         "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
@@ -2283,22 +2267,6 @@
       "duration_ms": 439866,
       "name": "For the Love of Money",
       "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "C'est Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 413586,
-      "name": "I Want Your Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2319,18 +2287,34 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Prince",
-        "url": "https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC"
+        "name": "Ringo",
+        "url": "https://open.spotify.com/album/6zjenDV68SpvM3oEhorTDm"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
         }
       ],
-      "duration_ms": 347666,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj"
+      "duration_ms": 169693,
+      "name": "You're Sixteen (You\u2019re Beautiful And You\u2019re Mine)",
+      "url": "https://open.spotify.com/track/4MAxWahEbzU8m4bD6mSZg9"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 413586,
+      "name": "I Want Your Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
       "added_at": "2021-07-20 13:13:34",
@@ -2365,6 +2349,22 @@
       "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
     },
     {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 347666,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj"
+    },
+    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "KC & the Sunshine Band, Pt. 3... and More",
@@ -2397,20 +2397,20 @@
       "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Nutbush City Limits",
-        "url": "https://open.spotify.com/album/5WYReWrElVmpCzIJuHNRGO"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0NQ5vEtFfn6MDbFtNk3gUQ"
       },
       "artists": [
         {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+          "name": "Brick",
+          "url": "https://open.spotify.com/artist/4Uv0Jg45Oq7vBXXwQNhXyf"
         }
       ],
-      "duration_ms": 177173,
-      "name": "Nutbush City Limits",
-      "url": "https://open.spotify.com/track/2ktaHXmUWb5fcHqoevvHgg"
+      "duration_ms": 202000,
+      "name": "Dazz - Single Version",
+      "url": "https://open.spotify.com/track/5gQCUf4lfy6GpuhdPzxQ6B"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2431,18 +2431,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0NQ5vEtFfn6MDbFtNk3gUQ"
+        "name": "McFadden & Whitehead",
+        "url": "https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs"
       },
       "artists": [
         {
-          "name": "Brick",
-          "url": "https://open.spotify.com/artist/4Uv0Jg45Oq7vBXXwQNhXyf"
+          "name": "McFadden & Whitehead",
+          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Dazz - Single Version",
-      "url": "https://open.spotify.com/track/5gQCUf4lfy6GpuhdPzxQ6B"
+      "duration_ms": 420986,
+      "name": "Ain't No Stoppin' Us Now",
+      "url": "https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK"
     }
   ],
   "unique_name": "70s Party",

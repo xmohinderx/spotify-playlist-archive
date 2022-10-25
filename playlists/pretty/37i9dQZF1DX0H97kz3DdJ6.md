@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 
 > as mais tristes do brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,614 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,658 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HAHAHA](https://open.spotify.com/track/7infbnz7sLNiqePr5l1dMO) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [PODERIA SER PIOR](https://open.spotify.com/album/5N0xGpXhbba4Io7PAU3MwK) | 2:30 |
-| 2 | [Eu Sou um Fracasso](https://open.spotify.com/track/58hVOSkdd1jY6oVGcGkC60) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Eu Sou um Fracasso](https://open.spotify.com/album/3TFbaz1pFem6T3IdceMRRZ) | 2:31 |
-| 3 | [A Prova de Balas](https://open.spotify.com/track/51ExA7wFlYA4ejNtj7t7s1) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Atemporal](https://open.spotify.com/album/1K5ADNs9IfARnZWHJyuB7R) | 2:30 |
-| 4 | [Eu Tô Bem](https://open.spotify.com/track/5HR0ti4siqbTIr1BitbZ7d) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [Eu Tô Bem](https://open.spotify.com/album/4uoVTixtQcytRqPUZ0qBKE) | 2:14 |
+| 1 | [A Prova de Balas](https://open.spotify.com/track/51ExA7wFlYA4ejNtj7t7s1) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Atemporal](https://open.spotify.com/album/1K5ADNs9IfARnZWHJyuB7R) | 2:30 |
+| 2 | [Eu Tô Bem](https://open.spotify.com/track/5HR0ti4siqbTIr1BitbZ7d) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [Eu Tô Bem](https://open.spotify.com/album/4uoVTixtQcytRqPUZ0qBKE) | 2:14 |
+| 3 | [Eu Sou um Fracasso](https://open.spotify.com/track/58hVOSkdd1jY6oVGcGkC60) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Eu Sou um Fracasso](https://open.spotify.com/album/3TFbaz1pFem6T3IdceMRRZ) | 2:31 |
+| 4 | [HAHAHA](https://open.spotify.com/track/7infbnz7sLNiqePr5l1dMO) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [PODERIA SER PIOR](https://open.spotify.com/album/5N0xGpXhbba4Io7PAU3MwK) | 2:30 |
 | 5 | [E Se Eu Falasse o Que Sinto?](https://open.spotify.com/track/68WBThXJjEP9XyzFHppAdX) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [ZIMA](https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf) | 3:36 |
 | 6 | [Eu Não Me Sinto Bem Comigo](https://open.spotify.com/track/6UiBL6PR5aUvyP7Brpi4Bf) | [BAD LUV](https://open.spotify.com/artist/3gnMduwfXqTAcuOHxtpkq8) | [Eu Não Me Sinto Bem Comigo](https://open.spotify.com/album/4ipRmtMcYXm7S82smhPCQN) | 2:31 |
 | 7 | [Pesadelo](https://open.spotify.com/track/2ixbPjCUhkNIQeT61ipuOY) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Pesadelo](https://open.spotify.com/album/2Zyy3SOLa8fX0bublLyqCs) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 79 | [Que não te falte amor](https://open.spotify.com/track/4e8mbXLx3DRgLbTafPpNat) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Que não te falte amor](https://open.spotify.com/album/70YMa2rpfCE4LQ1Q7clQws) | 2:43 |
 | 80 | [Por Nós Dois](https://open.spotify.com/track/0vAa3jsBGC9u2orV5rJjxG) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Por Nós Dois](https://open.spotify.com/album/7FGoFdKxKxFjk4cYwY1bpL) | 2:58 |
 
-Snapshot ID: `MTY2NTcxNjQwMCwwMDAwMDAwMDA2NTU2MTU4MDI4NGZhZjlmYTU3YTI2MjhhZjM2M2My`
+Snapshot ID: `MTY2NjYzNDk4NywwMDAwMDAwMGZmN2Q5ZGNlYmFlM2UzZDVlNWU5ZGI1Y2I2NWE1ZmJh`

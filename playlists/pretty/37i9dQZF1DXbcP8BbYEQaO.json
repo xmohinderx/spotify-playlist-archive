@@ -1,12 +1,12 @@
 {
   "description": "in the evening the real me comes alive",
-  "num_followers": 155792,
+  "num_followers": 156072,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDEwMTg5NmVjNTU0ODc5NGRmMGJlODI3MTQyZDBiMTIz",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDg4OTc3NmY3MWI0MTEzMDA5Yzg5M2FkMGRjNGFjMmMz",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "HEARTBEAT",
+        "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 124959,
+      "name": "HEARTBEAT",
+      "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "I Don't Know Why",
         "url": "https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 207667,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "HEARTBEAT",
-        "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 124959,
-      "name": "HEARTBEAT",
-      "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "No One Dies From Love",
-        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 138800,
       "name": "Yuck",
       "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "No One Dies From Love",
+        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Sting",
-        "url": "https://open.spotify.com/album/7yzUIJZNrla6TdWmYiziuR"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "Sting",
-      "url": "https://open.spotify.com/track/3CRLMDJygwt1KWMg1FASye"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Diamonds (feat. Aleyna Tilki)",
         "url": "https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 168196,
       "name": "Diamonds (feat. Aleyna Tilki)",
       "url": "https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Sting",
+        "url": "https://open.spotify.com/album/7yzUIJZNrla6TdWmYiziuR"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Sting",
+      "url": "https://open.spotify.com/track/3CRLMDJygwt1KWMg1FASye"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "That's Where I Am",
+      "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 196760,
       "name": "tears in the club (feat. the weeknd)",
       "url": "https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 252760,
-      "name": "That's Where I Am",
-      "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 159608,
-      "name": "See You In My Dreams",
-      "url": "https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Easy / Where Do We Go From Here?",
-        "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz"
       },
       "artists": [
         {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 231670,
-      "name": "Where Do We Go From Here?",
-      "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
+      "duration_ms": 159608,
+      "name": "See You In My Dreams",
+      "url": "https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -651,6 +635,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Easy / Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 231670,
+      "name": "Where Do We Go From Here?",
+      "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "We Own The Night",
         "url": "https://open.spotify.com/album/3mu6qWNBn513C5z2lHYaZn"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 185893,
       "name": "We Own The Night",
       "url": "https://open.spotify.com/track/6e9EADA7sFGSmD10zcO5cs"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/17Wr40mwfgaeUREqsKQNRt"
+      },
+      "artists": [
+        {
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
+        }
+      ],
+      "duration_ms": 344580,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1U6NDSRMcLYdJIUzwPASni"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -703,22 +719,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/17Wr40mwfgaeUREqsKQNRt"
-      },
-      "artists": [
-        {
-          "name": "Emilie Nicolas",
-          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
-        }
-      ],
-      "duration_ms": 344580,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1U6NDSRMcLYdJIUzwPASni"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "pl4yg1rl",
         "url": "https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Night Call (Deluxe)",
-        "url": "https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "Night Call",
-      "url": "https://open.spotify.com/track/6eOGI74wPuMxHz0PpGvh8g"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Slow Song (with Dragonette)",
         "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
       },
@@ -783,6 +767,38 @@
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Night Call (Deluxe)",
+        "url": "https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 170319,
+      "name": "Night Call",
+      "url": "https://open.spotify.com/track/6eOGI74wPuMxHz0PpGvh8g"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "What's Your Pleasure?",
+        "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "Save A Kiss",
+      "url": "https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -819,22 +835,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "What's Your Pleasure?",
-        "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "Save A Kiss",
-      "url": "https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 155327,
       "name": "ICARUS",
       "url": "https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "No Romeo EP",
+        "url": "https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "No Romeo",
+      "url": "https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -899,22 +915,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "No Romeo EP",
-        "url": "https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "No Romeo",
-      "url": "https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "In Ghost Colours",
         "url": "https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 219373,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "How To Let Go",
         "url": "https://open.spotify.com/album/4V714KyABj469FBI9Dao8T"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 167000,
       "name": "A Driver Saved My Night",
       "url": "https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 219373,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Don't Forget",
-        "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 228711,
-      "name": "Don\u2019t Forget",
-      "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Fancy",
         "url": "https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 191983,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 228711,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "PLAYGIRL",
+        "url": "https://open.spotify.com/album/0hKVypyK1PsoVe3Rjvml0X"
+      },
+      "artists": [
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "duration_ms": 146640,
+      "name": "Crazy Sexy Dream Girl",
+      "url": "https://open.spotify.com/track/34zZugFmhTGDTO61jT8lyX"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "AMAN",
         "url": "https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "PLAYGIRL",
-        "url": "https://open.spotify.com/album/0hKVypyK1PsoVe3Rjvml0X"
+        "name": "Cold Killer",
+        "url": "https://open.spotify.com/album/0Bn7DT5CEtYArcKk3X2ffw"
       },
       "artists": [
         {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+          "name": "noelle",
+          "url": "https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy"
         }
       ],
-      "duration_ms": 146640,
-      "name": "Crazy Sexy Dream Girl",
-      "url": "https://open.spotify.com/track/34zZugFmhTGDTO61jT8lyX"
+      "duration_ms": 159112,
+      "name": "Cold Killer",
+      "url": "https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1199,22 +1215,6 @@
       "duration_ms": 204062,
       "name": "Everybody Wants It",
       "url": "https://open.spotify.com/track/088lc5Y2AY6pQw6PG2Gm9X"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Cold Killer",
-        "url": "https://open.spotify.com/album/0Bn7DT5CEtYArcKk3X2ffw"
-      },
-      "artists": [
-        {
-          "name": "noelle",
-          "url": "https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy"
-        }
-      ],
-      "duration_ms": 159112,
-      "name": "Cold Killer",
-      "url": "https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf"
     },
     {
       "added_at": "2022-10-21 04:00:00",

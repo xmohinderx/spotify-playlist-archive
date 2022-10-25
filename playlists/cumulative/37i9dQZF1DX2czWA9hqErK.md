@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-401 songs - 22 hr 45 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+402 songs - 22 hr 48 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-08-02 | 2022-09-20 |
 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 | 2022-09-13 |  |
 | [GUCCI BAG](https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [GUCCI BAG](https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY) | 2:14 | 2022-05-31 |  |
-| [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 2:43 | 2022-03-08 |  |
+| [Hallelujah I Love Her So](https://open.spotify.com/track/6chbqElEHkFSRDJpEydK2H) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Hallelujah I Love Her So](https://open.spotify.com/album/4KkR1fwO3tgHfhsKRgfFuf) | 2:43 | 2022-03-08 | 2022-10-25 |
 | [Hands Tied](https://open.spotify.com/track/1vrA1Ndw5iMkjxgQ3yvohQ) | [Beatrich](https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W) | [Hands Tied](https://open.spotify.com/album/3mFpTh7oqlZvjfhHN4hqcC) | 3:13 | 2021-12-16 | 2022-04-05 |
 | [Happier Without Me](https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe) | 3:40 | 2021-12-16 | 2022-10-22 |
 | [Happy Just To Know](https://open.spotify.com/track/53qdE4yFweq6kbO2MQ44Ul) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Happy Just To Know](https://open.spotify.com/album/3iDEefcXTLkslAUAAC6ZfJ) | 3:08 | 2021-12-16 | 2022-01-15 |
@@ -188,6 +188,7 @@
 | [I'm Sorry](https://open.spotify.com/track/6jPUxIR9fs2goSay9egLxz) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [I'm Sorry](https://open.spotify.com/album/64GxNIJkBn5FZ0J493bID0) | 3:00 | 2021-12-16 | 2022-01-01 |
 | [If Ever However Whenever Forever](https://open.spotify.com/track/6hWoFB6O3zD9WGe4TN3gJO) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [If Ever However Whenever Forever](https://open.spotify.com/album/6RKxkl2MCVXoqkR0bSp537) | 3:41 | 2021-12-16 | 2022-01-12 |
 | [If It's Not God](https://open.spotify.com/track/37ZPKicPyGq9FzMdlBx5HV) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [If It's Not God](https://open.spotify.com/album/2tNcKGJQLMwvpTppUyGPGH) | 3:39 | 2022-08-02 | 2022-10-13 |
+| [If It's Not God](https://open.spotify.com/track/3pjXm7eAzDGJSjSlLKijPG) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [If It's Not God](https://open.spotify.com/album/1xRImmscq4t4IAm1G9OSVt) | 3:39 | 2022-10-21 |  |
 | [If You Ever Change Your Mind](https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [If You Ever Change Your Mind](https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G) | 3:25 | 2022-02-14 |  |
 | [If You Were on Fire](https://open.spotify.com/track/6TYS3UzhmDBsYHBCpYl5Rg) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [If You Were on Fire](https://open.spotify.com/album/2ugSEFn3ov3RSoodCJgmKV) | 2:53 | 2021-12-16 | 2022-03-28 |
 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 | 2022-03-29 | 2022-04-06 |

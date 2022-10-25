@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-516 songs - 1 day 3 hr 49 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+517 songs - 1 day 3 hr 52 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Crown of Lies](https://open.spotify.com/track/59waNUA8R0Rt3OZ9q7rwrw) | [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc) | [Vicious Circle](https://open.spotify.com/album/3AWkCUGopNfIhNQpX1nfho) | 3:07 | 2022-01-14 | 2022-09-15 |
 | [Cruisin](https://open.spotify.com/track/4cloSS3oel9ebFIhCDJOcR) | [LAUTRE.](https://open.spotify.com/artist/7wfx7Fc5L3L8uvXEv8pCm6) | [Cruisin](https://open.spotify.com/album/6ddMElOzexBvFbNV4ZKWEX) | 2:52 | 2022-02-18 | 2022-03-19 |
 | [CRUSH](https://open.spotify.com/track/3l5KAvmMw41kdoU4lZZHVJ) | [Bellorum](https://open.spotify.com/artist/1Ylv9zH9EjyMQvIAah6nOh) | [CRUSH](https://open.spotify.com/album/4NnwLNTiAQkGZvhs3b9GET) | 2:42 | 2022-03-25 | 2022-04-30 |
+| [D E A T H Metal Rage](https://open.spotify.com/track/54UnnwazTfj2nI5O98kzTx) | [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [D E A T H METAL RAGE](https://open.spotify.com/album/1DI6dxxuE5EaKX1hqG5HVv) | 2:20 | 2022-10-24 |  |
 | [Daggers](https://open.spotify.com/track/0D6OgpGKzbKrGVn3MZmEIQ) | [Neovaii](https://open.spotify.com/artist/45f1m9SROETaiqSyGcqTzv) | [Twilight](https://open.spotify.com/album/5ZSqXREKvuRcwsOhZvIMVG) | 2:51 | 2022-06-03 | 2022-09-15 |
 | [Day One](https://open.spotify.com/track/6ODjTpDpJo1vpW4UAJkmJZ) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP) | [Day One](https://open.spotify.com/album/7iFsrrfHiePDh8GK5T2upj) | 2:45 | 2022-08-19 | 2022-10-08 |
 | [Daydream](https://open.spotify.com/track/2xwOqFwANa6Emye6KlkgHT) | [Bloom Line](https://open.spotify.com/artist/53HYxzneeSBFFUEjkfXleH) | [Daydream](https://open.spotify.com/album/0jQFksbr0abnIxMJFxSitd) | 3:44 | 2022-05-11 | 2022-09-10 |

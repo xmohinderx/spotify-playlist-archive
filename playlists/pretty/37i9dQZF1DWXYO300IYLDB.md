@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,034 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,064 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 66 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 |
 | 67 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 |
 | 68 | [Mr\. Brightside](https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Mr\. Brightside](https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z) | 3:35 |
-| 69 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 |
+| 69 | [Tidal Wave \- Acoustic](https://open.spotify.com/track/4I7nXv6iqKh60sWMJdpUbN) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Cover My Own \(Acoustic\)](https://open.spotify.com/album/5mwu7jwvBkTcLuwLvdYAX4) | 2:35 |
 | 70 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 |
 
-Snapshot ID: `MTY2NjI3ODAwMCwwMDAwMDAwMDNhOWY5ZGYwYzc3NzFmZWFlNmViMTMzZjI0ZTA3MjE0`
+Snapshot ID: `MTY2NjI3ODAwMCwwMDAwMDAwMDZmNTEwNWY5ZDMyMzQ2ODg1YmMxMTQ2NDZlYzZkMjRl`

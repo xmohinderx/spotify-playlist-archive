@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Taylor Swift \(pictured\), Carly Rae Jepsen, Lil Uzi Vert, Arctic Monkeys, dvsn and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,038 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,075 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 |
 | 2 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 3 | [Surrender My Heart](https://open.spotify.com/track/0Fx3fYbcYx3iDNrduNMlde) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:48 |
-| 4 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 |
+| 4 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 |
 | 5 | [Element](https://open.spotify.com/track/4fr0TUNlNMjORHGnZX9DQs) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Element](https://open.spotify.com/album/0UA86CES1HFsAwEY5AXlLK) | 2:00 |
 | 6 | [Don't Take Your Love](https://open.spotify.com/track/35fBkyvLRrHKO4edE69LtA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9) | 3:06 |
 | 7 | [Inner Love Energy](https://open.spotify.com/track/5pqxLFVOwSS23rX0lobc86) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Inner Love Energy](https://open.spotify.com/album/467cvMN0A1qVbVXIC7iJCz) | 2:16 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 54 | [Life Is...](https://open.spotify.com/track/46jni4B6gnRB5EbjIEnsf3) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [\#PlasticFreeParty](https://open.spotify.com/album/1cvskFPm3EvkVSleUYgNaL) | 4:13 |
 | 55 | [Defender](https://open.spotify.com/track/4x9l3fDzgvzg9t7Csbufrn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Defender](https://open.spotify.com/album/76up5uRogXO3CPwA2OO6Wy) | 6:14 |
 | 56 | [Eggshells](https://open.spotify.com/track/7wGwYO5EkMa9sakdoNjOhT) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Eggshells](https://open.spotify.com/album/1EBnNmxQlf3CRbYKgCBO0h) | 3:03 |
-| 57 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 |
+| 57 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/5ykuFZXYbA8frwBmutsoFx) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:18 |
 | 58 | [Internet](https://open.spotify.com/track/3HtGrT10UfpiMRYRw7Rtn3) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Présence d'esprit](https://open.spotify.com/album/2l642fbBnGoi2872LHn9Yl) | 3:13 |
 | 59 | [say it](https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:58 |
 | 60 | [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [The Shield](https://open.spotify.com/track/5gps9XXQPo90zgo1dLztdo) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [The Festival](https://open.spotify.com/album/6FB8Z2KMnKTKUbsZp6Qc5K) | 4:09 |
 | 100 | [WAWA](https://open.spotify.com/track/3A2cxLJm3anmicrqgwsnZN) | [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs) | [CATHARSIS](https://open.spotify.com/album/3Fnqh7BeThzMs8b2R0gczW) | 2:48 |
 
-Snapshot ID: `MTY2NjM5NDA0OCwwMDAwMDAwMDE4NmZiMmU1MTgxNmFmODI3ZDg1MWNkZDNiZDJiYjUx`
+Snapshot ID: `MTY2NjM5NDA0OCwwMDAwMDAwMDQxMjI0Y2QyYjNlNGE1OTczN2Q0YWE4NDI1ZTQ1NWVh`

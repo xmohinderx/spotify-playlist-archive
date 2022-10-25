@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Taylor Swift, Arctic Monkeys, Lil Uzi Vert, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,974,582 likes - 98 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,974,966 likes - 98 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 25 | [Hell Yeah](https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Hell Yeah](https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow) | 2:48 |
 | 26 | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1) | 3:25 |
 | 27 | [Let Me Know When \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4JiUyzZAHRSA3bJvl4kho7) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 2:54 |
-| 28 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 |
+| 28 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/5ykuFZXYbA8frwBmutsoFx) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:18 |
 | 29 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 |
 | 30 | [Our Forever](https://open.spotify.com/track/3fq5h4eWQNP3fBqXZRyC5F) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/5CbbfVTtYGmnVn6rLrgklf) | 3:19 |
 | 31 | [Try Jesus](https://open.spotify.com/track/0rSuM2IqezwEBOOadZkX1D) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Try Jesus](https://open.spotify.com/album/6edvYYzME5Brx8QGh8vkPQ) | 3:06 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 38 | [frog](https://open.spotify.com/track/0nSw4I1cTMMBZBIk9ChgBn) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [frog](https://open.spotify.com/album/4kejzAQudxr4R5CNfvbwmz) | 3:26 |
 | 39 | [PULSE](https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [PULSE](https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk) | 3:09 |
 | 40 | [hurt me enough](https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs) | [Nathan Archie](https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6) | [hurt me enough](https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0) | 3:06 |
-| 41 | [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 |
+| 41 | [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 |
 | 42 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 |
 | 43 | [Fenty](https://open.spotify.com/track/2jhrlYw2rUsrCtBuIa9Zc5) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fenty](https://open.spotify.com/album/7EsSmzg4lNubNUIzEjsV4v) | 2:58 |
 | 44 | [•I WON'T DIE•](https://open.spotify.com/track/2SOVWeeZlyhPLy9F33QN3Z) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•I WON'T DIE•](https://open.spotify.com/album/3Oe9hZ049Pdpk7opuhYKb8) | 2:03 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 81 | [Always](https://open.spotify.com/track/4H33FcfmXo8xHbhV0Vs613) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Always](https://open.spotify.com/album/4JPTBzG9A9HqkS0dscsM6H) | 2:52 |
 | 82 | [Dividends](https://open.spotify.com/track/6wVgp48zEWftYjf6R5fXFt) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Dividends](https://open.spotify.com/album/4hMKcJUFZ4FbMGiJ1L5N1L) | 3:38 |
 | 83 | [My Mistake](https://open.spotify.com/track/6R5yQVr20qZBgi7ZSPHUWX) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [LOVE](https://open.spotify.com/album/477cCvnSXhVwHlUJ4j70zj) | 3:03 |
-| 84 | [I Still Love You \(with Billy Currington\)](https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [I Still Love You \(with Billy Currington\)](https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe) | 3:44 |
+| 84 | [I Still Love You](https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [I Still Love You](https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe) | 3:44 |
 | 85 | [Crazy \- Spotify Singles](https://open.spotify.com/track/11HrFfyr0btlPPBdGjqV7e) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Spotify Singles](https://open.spotify.com/album/76vwVXwTpLFl6FOFJGjPsg) | 4:52 |
 | 86 | [My Friends](https://open.spotify.com/track/2itZgYapZydY2kmKoN7xwV) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [I Love To Lie](https://open.spotify.com/album/38qy52coTmsTa90EOWeJLx) | 3:28 |
 | 87 | [be very afraid](https://open.spotify.com/track/1nXWhLumXogqFeijfa1uJd) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:20 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 97 | [You Know](https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Suburbia](https://open.spotify.com/album/6tgqWECqtuTsbMXoEHCkwI) | 3:17 |
 | 98 | [No Blood, No Needles, Nothing](https://open.spotify.com/track/5G9Ix7zpWjV9jqFP7K7Hlg) | [ash tuesday](https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE) | [No Blood, No Needles, Nothing](https://open.spotify.com/album/3dlIQmR7BQIk9XSF3LFJmR) | 3:32 |
 
-Snapshot ID: `MTY2NjMyNDgxMywwMDAwMDAwMDQ5YTBiNDljN2U3NWY2YjliOTNiNTAyZjRkOTZmMDhj`
+Snapshot ID: `MTY2NjMyNDgxMywwMDAwMDAwMDY4NzhmMDQwZjIzYjU2ZWVjMjI3MjQ3NDNiM2ZlYTIx`

@@ -4,7 +4,7 @@
 
 > Beautifully dark, dramatic tracks.
 
-187 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/05MxtZKo0HueRtsNgrnDSa)
+188 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/05MxtZKo0HueRtsNgrnDSa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Coming of Age \(demo\)](https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming of Age \(demo\)](https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz) | 4:11 | 2021-10-22 |  |
 | [Couldn't Have Done The Killing](https://open.spotify.com/track/2UVuSsogV0q0OoNBNt0q8S) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [The Path of the Clouds](https://open.spotify.com/album/0kYKOTCAxIIEWKlNlhkOfJ) | 4:49 | 2021-10-29 | 2022-07-29 |
 | [Coward](https://open.spotify.com/track/1Ozlx95hUxwgUyToLlJK5o) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Oh, Hunter](https://open.spotify.com/album/5Qf3UWT1nUNaHi5zdiA0hd) | 4:12 | 2021-10-22 | 2022-07-24 |
+| [Crush \- Stripped](https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA) | 3:49 | 2022-07-11 |  |
 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 | 2021-10-22 | 2022-10-13 |
 | [Dark](https://open.spotify.com/track/4wP7eUgKyufHkps0BuqcTc) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Old Flint](https://open.spotify.com/album/3JEkU3iACus81448Un3ew4) | 5:07 | 2021-10-22 | 2022-06-14 |
 | [Dark Matter](https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Dark Matter](https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO) | 4:36 | 2021-11-22 |  |
@@ -145,7 +146,7 @@
 | [Sleep](https://open.spotify.com/track/6oLxKBr1xrrDAWoVYxVxx6) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:12 | 2021-10-22 | 2022-07-29 |
 | [Sleep Baby Sleep](https://open.spotify.com/track/0LCrNCOgGTgUL7Ubsdeuuj) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/260VhALUsA6HdgBRfCLHh4) | 3:00 | 2021-10-22 | 2022-07-29 |
 | [Sleep Baby Sleep](https://open.spotify.com/track/3wTtsqa040vqNP1dw12m4K) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:00 | 2022-07-11 |  |
-| [Sleeper](https://open.spotify.com/track/6AohzKCNCm2aVmqRFS6mIb) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Given Up – EP](https://open.spotify.com/album/3ge4DCB8UbRKZpWmZXh0Ur) | 4:36 | 2021-10-22 |  |
+| [Sleeper](https://open.spotify.com/track/6AohzKCNCm2aVmqRFS6mIb) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Given Up – EP](https://open.spotify.com/album/3ge4DCB8UbRKZpWmZXh0Ur) | 4:36 | 2021-10-22 | 2022-10-25 |
 | [Small Things](https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:43 | 2022-07-11 |  |
 | [Smile](https://open.spotify.com/track/2hMl41oCsn1JDbUlCRpaRH) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV) | 6:02 | 2022-07-11 |  |
 | [Smile](https://open.spotify.com/track/33Ya9pdh5KEpbaG1Q8D3eh) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [William Crighton](https://open.spotify.com/album/4w4P1ihvUwfSdtuwIE0ZHq) | 6:02 | 2021-10-22 | 2022-07-29 |

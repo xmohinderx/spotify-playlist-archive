@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Taylor Swift, Pabllo Vittar com Gloria Groove, Planet Hemp e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,786,239 likes - 67 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,786,318 likes - 67 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 |
 | 2 | [AMEIANOITE](https://open.spotify.com/track/6RaolvdZThLHWf0ROWRvW8) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [AMEIANOITE](https://open.spotify.com/album/2DMrlO0tm4eE4ZEE1JZulX) | 2:45 |
-| 3 | [Progresso Pros Nossos \(feat\. L7NNON e Cidinho & Doca\)](https://open.spotify.com/track/4d9NLNYDi0wYpGY21dEj8E) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Cidinho & Doca](https://open.spotify.com/artist/2rwHPBK5IvPCDr0QjKlgQc) | [Progresso Pros Nossos \(feat\. L7NNON e Cidinho & Doca\)](https://open.spotify.com/album/7daAvrz6RxJlpXrDEg3jFK) | 3:34 |
+| 3 | [Progresso Pros Nossos \(feat\. L7NNON e Cidinho & Doca\)](https://open.spotify.com/track/4d9NLNYDi0wYpGY21dEj8E) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Cidinho & Doca](https://open.spotify.com/artist/2rwHPBK5IvPCDr0QjKlgQc), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Progresso Pros Nossos \(feat\. L7NNON e Cidinho & Doca\)](https://open.spotify.com/album/7daAvrz6RxJlpXrDEg3jFK) | 3:34 |
 | 4 | [AINDA](https://open.spotify.com/track/79NQsbzaReqkgprbvi4PUx) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [JARDINEIROS](https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD) | 3:01 |
 | 5 | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb) | 5:01 |
 | 6 | [Você Não Entende Nada \- Spotify Singles](https://open.spotify.com/track/1cybtRrPQaec3kSihCYL55) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Você Não Entende Nada \- Spotify Singles](https://open.spotify.com/album/0b4DyC3K4eWOsqXsq9GODW) | 2:45 |

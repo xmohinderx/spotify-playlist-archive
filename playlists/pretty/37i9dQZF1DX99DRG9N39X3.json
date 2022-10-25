@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock songs of the last decade. Cover: Twenty One Pilots",
-  "num_followers": 436381,
+  "num_followers": 436435,
   "original_name": "10s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQxOTU5OSwwMDAwMDAwMDQ0NmJjMmFiZDQ3OGMwYjNjZDE1MzA4ZDQ1MzhlODg0",
+  "snapshot_id": "MTY1ODQxOTU5OSwwMDAwMDAwMDcyYzgxZDFlNjVlMjUzMzNjMmU1OGE2MDFiYjc1ZDhi",
   "tracks": [
     {
       "added_at": "2022-03-09 13:40:09",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 201726,
+      "name": "R U Mine?",
+      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 230253,
       "name": "BURN IT DOWN",
       "url": "https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 201726,
-      "name": "R U Mine?",
-      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
         "name": "Danger Days: The True Lives of the Fabulous Killjoys",
         "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
       },
@@ -387,22 +371,6 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "parents",
-      "url": "https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
         "name": "a modern tragedy vol. 1",
         "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
       },
@@ -415,6 +383,22 @@
       "duration_ms": 214520,
       "name": "Blood // Water",
       "url": "https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "parents",
+      "url": "https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -435,6 +419,22 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 235546,
-      "name": "Under Cover of Darkness",
-      "url": "https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
         "name": "Drones",
         "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 316717,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
+        "name": "Angles",
+        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Under Cover of Darkness",
+      "url": "https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -531,38 +531,6 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/454I78HEySdcHE8fcVabTb"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
-        "name": "Crooked Teeth (Deluxe)",
-        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 214797,
-      "name": "Help",
-      "url": "https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -579,6 +547,22 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/454I78HEySdcHE8fcVabTb"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
         "name": "I'm with You",
         "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 282400,
       "name": "The Adventures of Rain Dance Maggie",
       "url": "https://open.spotify.com/track/0PgNhIg5n0UAOBVn43b8b6"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
+        "name": "Crooked Teeth (Deluxe)",
+        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 214797,
+      "name": "Help",
+      "url": "https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "Crooked Teeth (Deluxe)",
-        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 227847,
-      "name": "Born For Greatness",
-      "url": "https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
         "name": "13 Voices",
         "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 347666,
       "name": "Kings And Queens",
       "url": "https://open.spotify.com/track/4sjLcE0GQ6urc4iUXsUPe9"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
+        "name": "Crooked Teeth (Deluxe)",
+        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 227847,
+      "name": "Born For Greatness",
+      "url": "https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2"
     },
     {
       "added_at": "2022-03-09 13:40:09",

@@ -1,12 +1,12 @@
 {
   "description": "IYKYK \ud83d\udc94\ud83e\udd40",
-  "num_followers": 170640,
+  "num_followers": 170927,
   "original_name": "#SadCuhHours \ud83e\udd7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGRkZWM3YjY5M2VkZDM1MjZlZTQyNzNiMGY0MjY3NTVk",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDc0Y2M4NTRkYTVlMjlkNzJiNmRhNzdhYzE3YzhlMTQ1",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 209902,
       "name": "HASTA LA MUERTE",
       "url": "https://open.spotify.com/track/3qAJAUr7yc9bPDx4ESt6ND"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "The Life in Your Eyes",
-        "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
-      },
-      "artists": [
-        {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
-        }
-      ],
-      "duration_ms": 175124,
-      "name": "Amor Fugaz",
-      "url": "https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
         "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 246131,
       "name": "Tu - Live",
       "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "The Life in Your Eyes",
+        "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "duration_ms": 175124,
+      "name": "Amor Fugaz",
+      "url": "https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Our Wave Nuestra Ola",
-        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 239497,
-      "name": "Ojitos de Miel",
-      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "NOSTALGIA",
         "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 227814,
       "name": "SI SUPIERAS",
       "url": "https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Our Wave Nuestra Ola",
+        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 239497,
+      "name": "Ojitos de Miel",
+      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -539,38 +539,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Tu Veneno Mortal, Vol. 2",
-        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "Regresa Mami",
-      "url": "https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Da\u00f1ado",
-        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 206918,
-      "name": "Me Hiciste un Loco",
-      "url": "https://open.spotify.com/track/0iade05WRF2AsjkRHDXz0v"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "El Karma (Deluxe Version)",
         "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
       },
@@ -583,6 +551,22 @@
       "duration_ms": 209120,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "Regresa Mami",
+      "url": "https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -603,6 +587,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Da\u00f1ado",
+        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 206918,
+      "name": "Me Hiciste un Loco",
+      "url": "https://open.spotify.com/track/0iade05WRF2AsjkRHDXz0v"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Me Hiciste un Borracho",
         "url": "https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW"
       },
@@ -615,54 +615,6 @@
       "duration_ms": 204586,
       "name": "F\u00edjate Que Si",
       "url": "https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "La Empresa Music Presenta: Volando",
-        "url": "https://open.spotify.com/album/5M4aigT49Vo7KHyB29dQjF"
-      },
-      "artists": [
-        {
-          "name": "LDNE",
-          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
-        }
-      ],
-      "duration_ms": 241423,
-      "name": "Labios Rojos",
-      "url": "https://open.spotify.com/track/1NPk0Y7AkLvirhSg4oI0bM"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Alma Vac\u00eda",
-        "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 237781,
-      "name": "Est\u00e1s en M\u00ed Pasado",
-      "url": "https://open.spotify.com/track/6ztAOF9gzTWhF4IHW0Sclj"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "NOSTALGIA",
-        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 166246,
-      "name": "VETE A LA FREGADA",
-      "url": "https://open.spotify.com/track/4WkyOBjeLPk7rAisyKl0uN"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -683,6 +635,38 @@
       "duration_ms": 225541,
       "name": "Mil Gracias Por Existir",
       "url": "https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "La Empresa Music Presenta: Volando",
+        "url": "https://open.spotify.com/album/5M4aigT49Vo7KHyB29dQjF"
+      },
+      "artists": [
+        {
+          "name": "LDNE",
+          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
+        }
+      ],
+      "duration_ms": 241423,
+      "name": "Labios Rojos",
+      "url": "https://open.spotify.com/track/1NPk0Y7AkLvirhSg4oI0bM"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 166246,
+      "name": "VETE A LA FREGADA",
+      "url": "https://open.spotify.com/track/4WkyOBjeLPk7rAisyKl0uN"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -755,18 +739,34 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Mi Despedida",
-        "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
+        "name": "Alma Vac\u00eda",
+        "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
       },
       "artists": [
         {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 196064,
-      "name": "Mi Despedida",
-      "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
+      "duration_ms": 237781,
+      "name": "Est\u00e1s en M\u00ed Pasado",
+      "url": "https://open.spotify.com/track/6ztAOF9gzTWhF4IHW0Sclj"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Y Cambi\u00f3 Mi Suerte",
+        "url": "https://open.spotify.com/album/7AhZ4dvdeMlKnVgfsVIEHC"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 185637,
+      "name": "Y Cambi\u00f3 Mi Suerte",
+      "url": "https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Y Cambi\u00f3 Mi Suerte",
-        "url": "https://open.spotify.com/album/7AhZ4dvdeMlKnVgfsVIEHC"
+        "name": "Mi Despedida",
+        "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
         }
       ],
-      "duration_ms": 185637,
-      "name": "Y Cambi\u00f3 Mi Suerte",
-      "url": "https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT"
+      "duration_ms": 196064,
+      "name": "Mi Despedida",
+      "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn"
+        "name": "Dame Un Segundo",
+        "url": "https://open.spotify.com/album/6rHLvbCWFOoongQ2GYXqHO"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Tristeza Y Traicion",
-      "url": "https://open.spotify.com/track/6dRAEG6dmMfP5SS9Vh1s56"
+      "duration_ms": 154160,
+      "name": "Dame Un Segundo",
+      "url": "https://open.spotify.com/track/64hZSFhbRYHz6WueQv9npj"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Dame Un Segundo",
-        "url": "https://open.spotify.com/album/6rHLvbCWFOoongQ2GYXqHO"
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn"
       },
       "artists": [
         {
-          "name": "Nivel Codiciado",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 154160,
-      "name": "Dame Un Segundo",
-      "url": "https://open.spotify.com/track/64hZSFhbRYHz6WueQv9npj"
+      "duration_ms": 219000,
+      "name": "Tristeza Y Traicion",
+      "url": "https://open.spotify.com/track/6dRAEG6dmMfP5SS9Vh1s56"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -915,6 +915,26 @@
       "duration_ms": 173663,
       "name": "Me Estoy Enamorando - en Vivo",
       "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 197107,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -951,74 +971,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Reina de mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS"
-      },
-      "artists": [
-        {
-          "name": "Jesus Dimas",
-          "url": "https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g"
-        }
-      ],
-      "duration_ms": 214035,
-      "name": "Reina de mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Del Corazon",
-        "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 245201,
-      "name": "Enamorado",
-      "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 197107,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Perfecta En Mis Ojos",
-        "url": "https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp"
-      },
-      "artists": [
-        {
-          "name": "Angel Perez",
-          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
-        }
-      ],
-      "duration_ms": 165745,
-      "name": "Perfecta En Mis Ojos",
-      "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -1039,6 +991,54 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Reina de mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS"
+      },
+      "artists": [
+        {
+          "name": "Jesus Dimas",
+          "url": "https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g"
+        }
+      ],
+      "duration_ms": 214035,
+      "name": "Reina de mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 194962,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Del Corazon",
+        "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 245201,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Dinero F\u00e1cil",
         "url": "https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 224442,
       "name": "Quiero Llorar y No Puedo",
       "url": "https://open.spotify.com/track/1S7FT0rhQ6AaTg0yBbFxYS"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Perfecta En Mis Ojos",
+        "url": "https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp"
+      },
+      "artists": [
+        {
+          "name": "Angel Perez",
+          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
+        }
+      ],
+      "duration_ms": 165745,
+      "name": "Perfecta En Mis Ojos",
+      "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn"
       },
       "artists": [
         {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 194962,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
+      "duration_ms": 171000,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/2GWbiQolZqxJhuq4ScqrCY"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1167,22 +1183,6 @@
       "duration_ms": 216980,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Mi Otra Mitad",
-      "url": "https://open.spotify.com/track/2GWbiQolZqxJhuq4ScqrCY"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Beyond The Limit",
+        "url": "https://open.spotify.com/album/5KwiZ0Ly7gpV8t7uvX7ZvT"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "duration_ms": 187250,
+      "name": "Zaguf Roma",
+      "url": "https://open.spotify.com/track/6q2afTIs8vAZTgpgcFctK1"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Las Romanticas Favoritas de Fuerza Regida",
         "url": "https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj"
       },
@@ -1247,38 +1263,6 @@
       "duration_ms": 276973,
       "name": "Me Vuelves Loco",
       "url": "https://open.spotify.com/track/6XecBnprrMoxhMiHHyvWN7"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Beyond The Limit",
-        "url": "https://open.spotify.com/album/5KwiZ0Ly7gpV8t7uvX7ZvT"
-      },
-      "artists": [
-        {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
-        }
-      ],
-      "duration_ms": 187250,
-      "name": "Zaguf Roma",
-      "url": "https://open.spotify.com/track/6q2afTIs8vAZTgpgcFctK1"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Ya Te Super\u00e9 (En Vivo)",
         "url": "https://open.spotify.com/album/1y7zuiizOUv2VND95gmnvt"
       },
@@ -1327,26 +1327,6 @@
       "duration_ms": 185173,
       "name": "Ya Te Super\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/1vKOJXwfM5oJ8JmyuSmhKk"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Corazon Tumbado",
-        "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 197585,
-      "name": "No Soy Lo Que Piensas",
-      "url": "https://open.spotify.com/track/6YviOFfwGAS5ZFLaWiVXNo"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1367,6 +1347,26 @@
       "duration_ms": 141199,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Corazon Tumbado",
+        "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 197585,
+      "name": "No Soy Lo Que Piensas",
+      "url": "https://open.spotify.com/track/6YviOFfwGAS5ZFLaWiVXNo"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Como Tu Quieras",
-      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Mi Nena",
         "url": "https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 205634,
       "name": "Eres Tu / </3",
       "url": "https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "Como Tu Quieras",
+      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Tu Mirada",
-        "url": "https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd"
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3Qoz6D1Wow3kfNLe75xHws"
       },
       "artists": [
         {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+          "name": "Alejandroo",
+          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
         }
       ],
-      "duration_ms": 149851,
-      "name": "Tu Mirada",
-      "url": "https://open.spotify.com/track/1Ks6qonhq4VOzYvvFPmppi"
+      "duration_ms": 191005,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/3Q1E7EfAN0lXgsoxkhROdR"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Tu Mirada",
+        "url": "https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 149851,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/1Ks6qonhq4VOzYvvFPmppi"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Hasta Pronto",
         "url": "https://open.spotify.com/album/4wpjiK4emEvKH6dCbh35NY"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 159499,
       "name": "Hasta la Eternidad",
       "url": "https://open.spotify.com/track/3nfrlJKyK8uLNY02ftdP0t"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/3Qoz6D1Wow3kfNLe75xHws"
-      },
-      "artists": [
-        {
-          "name": "Alejandroo",
-          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
-        }
-      ],
-      "duration_ms": 191005,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/3Q1E7EfAN0lXgsoxkhROdR"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Que Paso",
-        "url": "https://open.spotify.com/album/6TFLFRhMey07eYoJ3l3psS"
-      },
-      "artists": [
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 231324,
-      "name": "Que Paso",
-      "url": "https://open.spotify.com/track/4fYQuUPuF4qICpqX7YJ8tR"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Para Ella",
         "url": "https://open.spotify.com/album/6L3EX0UVlBhVLDh28rTw5J"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 198128,
       "name": "Esta noche",
       "url": "https://open.spotify.com/track/1nXvx83hxoYItv0S5ZGeNP"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Que Paso",
+        "url": "https://open.spotify.com/album/6TFLFRhMey07eYoJ3l3psS"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 231324,
+      "name": "Que Paso",
+      "url": "https://open.spotify.com/track/4fYQuUPuF4qICpqX7YJ8tR"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1779,38 +1779,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "2:26am",
-        "url": "https://open.spotify.com/album/51Sby9woh6xtIDTMTUyeCF"
-      },
-      "artists": [
-        {
-          "name": "El Proyecto",
-          "url": "https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai"
-        }
-      ],
-      "duration_ms": 201804,
-      "name": "2:26am",
-      "url": "https://open.spotify.com/track/17FDxgsz6jzkAwIs2cULWO"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "PDE",
-        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 223680,
-      "name": "T\u00fa Me Haces Falta",
-      "url": "https://open.spotify.com/track/4M82qyr0QiKOJBZVUxUhdN"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Con Un Porte Diferente",
         "url": "https://open.spotify.com/album/1xXYVPgDrUD943eL1M7RRV"
       },
@@ -1823,6 +1791,22 @@
       "duration_ms": 207335,
       "name": "Soy Un Perdedor",
       "url": "https://open.spotify.com/track/5x5zN9Uw17QbnU2AHovYm5"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "2:26am",
+        "url": "https://open.spotify.com/album/51Sby9woh6xtIDTMTUyeCF"
+      },
+      "artists": [
+        {
+          "name": "El Proyecto",
+          "url": "https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai"
+        }
+      ],
+      "duration_ms": 201804,
+      "name": "2:26am",
+      "url": "https://open.spotify.com/track/17FDxgsz6jzkAwIs2cULWO"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1863,6 +1847,38 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "PDE",
+        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 223680,
+      "name": "T\u00fa Me Haces Falta",
+      "url": "https://open.spotify.com/track/4M82qyr0QiKOJBZVUxUhdN"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Con Un Porte Diferente (Vol 2)",
+        "url": "https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 216851,
+      "name": "Dices Que Me Quieres",
+      "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Su Veneno (Tu Veneno, Pt. 2)",
         "url": "https://open.spotify.com/album/07HsKo8logoKr7ZOcfHZPK"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 235200,
       "name": "Deseandote",
       "url": "https://open.spotify.com/track/4GrqU3zJiJdtCT3lyxtMcr"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Con Un Porte Diferente (Vol 2)",
-        "url": "https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 216851,
-      "name": "Dices Que Me Quieres",
-      "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Querido San Valentin",
+        "url": "https://open.spotify.com/album/7DXYF70y6fJvXd3HC0qahu"
+      },
+      "artists": [
+        {
+          "name": "Leonilo Jaimes",
+          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
+        }
+      ],
+      "duration_ms": 261910,
+      "name": "Querido San Valentin",
+      "url": "https://open.spotify.com/track/57HGscNGYhq3wPuanfOsCY"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Sabes",
         "url": "https://open.spotify.com/album/4e9NkTft117gtD535Kj2xl"
       },
@@ -1987,26 +2003,6 @@
       "duration_ms": 218801,
       "name": "Sabes",
       "url": "https://open.spotify.com/track/5t611UH604oEYrYUm6SVd1"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Corridos 100% Callejeros (Vol. 1)",
-        "url": "https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 168904,
-      "name": "Beso De Peda",
-      "url": "https://open.spotify.com/track/0NDZle5X6aJPXj2dcZpKA7"
     }
   ],
   "unique_name": "#SadCuhHours \ud83e\udd7a",

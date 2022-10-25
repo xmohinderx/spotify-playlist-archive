@@ -4,7 +4,7 @@
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-125 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
+126 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 | 2022-02-03 |  |
 | [Good People](https://open.spotify.com/track/7j95Sbh2IwxyCn512XSUue) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good People](https://open.spotify.com/album/1bv8ZKWesoZtYkz4liyRyJ) | 3:31 | 2021-12-16 |  |
 | [Grow](https://open.spotify.com/track/2EP9mL8wwfq1RJ7oYkndCe) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/2FILCanKdwXZQh4yz9Zvw1) | 3:00 | 2022-05-20 | 2022-10-22 |
+| [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 | 2022-05-20 |  |
 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 | 2021-12-16 | 2022-10-13 |
 | [Hard Life](https://open.spotify.com/track/2taVZUaiDcWhbQILRhwPA3) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Hard Life](https://open.spotify.com/album/1IAIUlBnxOP6FcxEDdW4kL) | 3:48 | 2021-12-16 |  |
 | [Helpless](https://open.spotify.com/track/7hyFz1ms1XEHbE2KqUbUQ8) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Helpless](https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y) | 3:41 | 2021-12-16 |  |
@@ -92,7 +93,7 @@
 | [Skin](https://open.spotify.com/track/5nz0KE3qltISzUI9v5qPoh) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/6lUCT1qB82RuUgawuWvlO6) | 2:58 | 2021-12-16 |  |
 | [Sleeptalking](https://open.spotify.com/track/0FoNYKT8CgtG0VfXoq0M5U) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 2:47 | 2021-12-16 |  |
 | [Slow Cooker](https://open.spotify.com/track/4hVk7SMLCJ72CEfycSBvWT) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 4:22 | 2021-12-16 |  |
-| [Something I Know](https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Something I Know](https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF) | 3:48 | 2021-12-16 |  |
+| [Something I Know](https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Something I Know](https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF) | 3:48 | 2021-12-16 | 2022-10-25 |
 | [Starlight](https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:02 | 2022-05-20 |  |
 | [Starlight](https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Starlight](https://open.spotify.com/album/5dsUxFUcEdxgmIyaxYo0Ax) | 4:02 | 2021-12-16 | 2022-07-29 |
 | [Start over Again](https://open.spotify.com/track/5M9lSUgxsJNSvndGh7h2Ef) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Start over Again](https://open.spotify.com/album/2eRlK8WSBgZ1v1mB3Rxm1V) | 3:39 | 2021-12-16 | 2022-10-14 |

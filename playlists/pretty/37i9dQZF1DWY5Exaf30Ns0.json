@@ -1,12 +1,12 @@
 {
   "description": "\u00bfSevaser o nosevaser? ",
-  "num_followers": 875130,
+  "num_followers": 875297,
   "original_name": "Carnita Asada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE3NDA4MCwwMDAwMDAwMDViMjEyZGU4OWEwZGE0MGU4OGQ2MDUzZDY0ZjYyNjgw",
+  "snapshot_id": "MTY2MjE3NDA4MCwwMDAwMDAwMDBhMmVmMTkwMDE1MGRjN2Q5NjZjMmZlMmQ1MzNhOTI4",
   "tracks": [
     {
       "added_at": "2022-08-26 05:00:00",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
+      "added_at": "2021-06-16 13:58:07",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 161123,
+      "name": "Why'd You Only Call Me When You're High?",
+      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
+    },
+    {
       "added_at": "2022-08-26 05:00:00",
       "album": {
         "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
@@ -175,22 +191,6 @@
     {
       "added_at": "2021-06-16 13:58:07",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 161123,
-      "name": "Why'd You Only Call Me When You're High?",
-      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
-    },
-    {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
@@ -203,22 +203,6 @@
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
-    },
-    {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
-        "name": "Pablo Honey",
-        "url": "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
     },
     {
       "added_at": "2022-08-26 05:00:00",
@@ -235,6 +219,22 @@
       "duration_ms": 170744,
       "name": "Chale",
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "added_at": "2021-06-16 13:58:07",
+      "album": {
+        "name": "Pablo Honey",
+        "url": "https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
     },
     {
       "added_at": "2021-06-16 13:58:07",
@@ -369,22 +369,6 @@
       "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
     },
     {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
-        "name": "The Best Of Earth, Wind & Fire Vol. 1",
-        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "September",
-      "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
-    },
-    {
       "added_at": "2022-08-26 05:00:00",
       "album": {
         "name": "Un Verano Sin Ti",
@@ -403,6 +387,22 @@
       "duration_ms": 237894,
       "name": "Tarot",
       "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
+    },
+    {
+      "added_at": "2021-06-16 13:58:07",
+      "album": {
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "September",
+      "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
     },
     {
       "added_at": "2021-06-16 13:58:07",
@@ -473,26 +473,6 @@
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
     },
     {
-      "added_at": "2022-08-26 05:00:00",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 227628,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
-    },
-    {
       "added_at": "2021-06-16 13:58:07",
       "album": {
         "name": "The Last Don",
@@ -541,6 +521,42 @@
       "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
+      "added_at": "2021-06-16 13:58:07",
+      "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
+    },
+    {
+      "added_at": "2022-08-26 05:00:00",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 227628,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
+    },
+    {
       "added_at": "2022-08-26 05:00:00",
       "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
@@ -575,22 +591,6 @@
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
     },
     {
       "added_at": "2021-06-16 13:58:07",
@@ -829,26 +829,6 @@
       "url": "https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv"
     },
     {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 267786,
-      "name": "Ella Y Yo - Featuring Don Omar",
-      "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
-    },
-    {
       "added_at": "2022-08-26 05:00:00",
       "album": {
         "name": "Solita",
@@ -887,6 +867,26 @@
     {
       "added_at": "2021-06-16 13:58:07",
       "album": {
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 267786,
+      "name": "Ella Y Yo - Featuring Don Omar",
+      "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
+    },
+    {
+      "added_at": "2021-06-16 13:58:07",
+      "album": {
         "name": "Point Of Know Return (Expanded Edition)",
         "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
       },
@@ -917,6 +917,26 @@
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
+      "added_at": "2022-08-26 05:00:00",
+      "album": {
+        "name": "La Sinverg\u00fcenza",
+        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 198529,
+      "name": "La Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+    },
+    {
       "added_at": "2021-06-16 13:58:07",
       "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
@@ -931,22 +951,6 @@
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
-    },
-    {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 333893,
-      "name": "Whole Lotta Love - 1990 Remaster",
-      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
     },
     {
       "added_at": "2021-06-16 13:58:07",
@@ -981,24 +985,20 @@
       "url": "https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD"
     },
     {
-      "added_at": "2022-08-26 05:00:00",
+      "added_at": "2021-06-16 13:58:07",
       "album": {
-        "name": "La Sinverg\u00fcenza",
-        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 198529,
-      "name": "La Sinverg\u00fcenza",
-      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+      "duration_ms": 333893,
+      "name": "Whole Lotta Love - 1990 Remaster",
+      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
     },
     {
       "added_at": "2021-06-16 13:58:07",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2021-06-16 13:58:07",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Brendon Urie",
-          "url": "https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ"
-        },
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
-      "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
-    },
-    {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
         "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
         "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
       },
@@ -1139,6 +1115,30 @@
     {
       "added_at": "2021-06-16 13:58:07",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Brendon Urie",
+          "url": "https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ"
+        },
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+      "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
+    },
+    {
+      "added_at": "2021-06-16 13:58:07",
+      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
-    },
-    {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2021-06-16 13:58:07",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2021-06-16 13:58:07",
       "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2021-06-16 13:58:07",
+      "album": {
         "name": "H\u00e1blate de M\u00ed",
         "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 215986,
       "name": "Chachach\u00e1",
       "url": "https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh"
-    },
-    {
-      "added_at": "2021-06-16 13:58:07",
-      "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Rock And Roll All Nite",
-      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
     },
     {
       "added_at": "2021-06-16 13:58:07",
@@ -1247,6 +1231,22 @@
       "duration_ms": 250640,
       "name": "Eres M\u00eda",
       "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
+    },
+    {
+      "added_at": "2021-06-16 13:58:07",
+      "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
     }
   ],
   "unique_name": "Carnita Asada",

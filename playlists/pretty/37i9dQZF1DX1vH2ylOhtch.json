@@ -1,12 +1,12 @@
 {
   "description": "uh-oh?",
-  "num_followers": 42164,
+  "num_followers": 42289,
   "original_name": "pov: te enamoras de tu bestie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1ODI1OSwwMDAwMDAwMGI2NDBhMGEyZjY2NWYxOTc1YzhjODcyODVlYTUyOWZk",
+  "snapshot_id": "MTY1OTQ1ODI1OSwwMDAwMDAwMDA0NDAwNWUxZDg0ZTdlNzI1YmM2NjcxMmMxOGJkMTIx",
   "tracks": [
     {
       "added_at": "2022-08-02 16:37:39",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-08-02 16:37:39",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2022-08-02 16:37:39",
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 197436,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ"
-    },
-    {
-      "added_at": "2022-08-02 16:37:39",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
       "added_at": "2022-08-02 16:37:39",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-08-02 16:37:39",
       "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 613026,
+      "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
+    },
+    {
+      "added_at": "2022-08-02 16:37:39",
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 205716,
       "name": "Amapolas",
       "url": "https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH"
-    },
-    {
-      "added_at": "2022-08-02 16:37:39",
-      "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 613026,
-      "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
     },
     {
       "added_at": "2022-08-02 16:37:39",
@@ -415,6 +415,38 @@
     {
       "added_at": "2022-08-02 16:37:39",
       "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2022-08-02 16:37:39",
+      "album": {
+        "name": "This Love (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 250100,
+      "name": "This Love (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv"
+    },
+    {
+      "added_at": "2022-08-02 16:37:39",
+      "album": {
         "name": "Soul Searching",
         "url": "https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW"
       },
@@ -463,22 +495,6 @@
       "duration_ms": 347520,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
-    },
-    {
-      "added_at": "2022-08-02 16:37:39",
-      "album": {
-        "name": "This Love (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 250100,
-      "name": "This Love (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv"
     },
     {
       "added_at": "2022-08-02 16:37:39",
@@ -539,18 +555,34 @@
     {
       "added_at": "2022-08-02 16:37:39",
       "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+      "duration_ms": 190348,
+      "name": "Let's Fall in Love for the Night",
+      "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
+    },
+    {
+      "added_at": "2022-08-02 16:37:39",
+      "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235766,
+      "name": "Love Story (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx"
     },
     {
       "added_at": "2022-08-02 16:37:39",
@@ -583,38 +615,6 @@
       "duration_ms": 321662,
       "name": "como me encanta",
       "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
-    },
-    {
-      "added_at": "2022-08-02 16:37:39",
-      "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Let's Fall in Love for the Night",
-      "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
-    },
-    {
-      "added_at": "2022-08-02 16:37:39",
-      "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235766,
-      "name": "Love Story (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx"
     },
     {
       "added_at": "2022-08-02 16:37:39",
@@ -815,6 +815,38 @@
     {
       "added_at": "2022-08-02 16:37:39",
       "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 127272,
+      "name": "Ugotme",
+      "url": "https://open.spotify.com/track/5Ju9aLa212eAILfl5sWkjc"
+    },
+    {
+      "added_at": "2022-08-02 16:37:39",
+      "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 251017,
+      "name": "B\u00e1ilame",
+      "url": "https://open.spotify.com/track/5pOBhos8Z2v3FGjUPMgUgI"
+    },
+    {
+      "added_at": "2022-08-02 16:37:39",
+      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -867,38 +899,6 @@
     {
       "added_at": "2022-08-02 16:37:39",
       "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 127272,
-      "name": "Ugotme",
-      "url": "https://open.spotify.com/track/5Ju9aLa212eAILfl5sWkjc"
-    },
-    {
-      "added_at": "2022-08-02 16:37:39",
-      "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 251017,
-      "name": "B\u00e1ilame",
-      "url": "https://open.spotify.com/track/5pOBhos8Z2v3FGjUPMgUgI"
-    },
-    {
-      "added_at": "2022-08-02 16:37:39",
-      "album": {
         "name": "chiquita",
         "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
       },
@@ -911,26 +911,6 @@
       "duration_ms": 198720,
       "name": "culpa",
       "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
-    },
-    {
-      "added_at": "2022-08-02 16:37:39",
-      "album": {
-        "name": "Dos X Tres (Demo)",
-        "url": "https://open.spotify.com/album/08Zm5sk7EWsFa0vunI16rJ"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        },
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 150991,
-      "name": "Dos X Tres (Demo)",
-      "url": "https://open.spotify.com/track/5uOdakRKQbRu6HJnorQ5on"
     },
     {
       "added_at": "2022-08-02 16:37:39",
@@ -955,22 +935,6 @@
     {
       "added_at": "2022-08-02 16:37:39",
       "album": {
-        "name": "Nada Y Nadie",
-        "url": "https://open.spotify.com/album/5EuXUizMNBLhrMKtSUMLkb"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 204131,
-      "name": "Nada Y Nadie",
-      "url": "https://open.spotify.com/track/5jpYOzDqu7xv75FHk0KIw2"
-    },
-    {
-      "added_at": "2022-08-02 16:37:39",
-      "album": {
         "name": "\u00bfT\u00e9o?",
         "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
       },
@@ -983,6 +947,42 @@
       "duration_ms": 228999,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/0wzK2m89t22oOayHYfV75U"
+    },
+    {
+      "added_at": "2022-08-02 16:37:39",
+      "album": {
+        "name": "Dos X Tres (Demo)",
+        "url": "https://open.spotify.com/album/08Zm5sk7EWsFa0vunI16rJ"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        },
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 150991,
+      "name": "Dos X Tres (Demo)",
+      "url": "https://open.spotify.com/track/5uOdakRKQbRu6HJnorQ5on"
+    },
+    {
+      "added_at": "2022-08-02 16:37:39",
+      "album": {
+        "name": "Nada Y Nadie",
+        "url": "https://open.spotify.com/album/5EuXUizMNBLhrMKtSUMLkb"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 204131,
+      "name": "Nada Y Nadie",
+      "url": "https://open.spotify.com/track/5jpYOzDqu7xv75FHk0KIw2"
     },
     {
       "added_at": "2022-08-02 16:37:39",

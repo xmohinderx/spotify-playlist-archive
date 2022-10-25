@@ -1,12 +1,12 @@
 {
   "description": "The newest songs from LGBTQIA+ artists. Cover: corook",
-  "num_followers": 814889,
+  "num_followers": 814877,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTIwMTcyOCwwMDAwMDAwMDAyNmNjNGZhMGVhOGVkMDQxYzdjYTA4OGIwZDZiOTNh",
+  "snapshot_id": "MTY2NTIwMTcyOCwwMDAwMDAwMGU4ODk4MTM4ZWI1NDI0ZmNhY2YwMDE3OGYwZmQ3NGI4",
   "tracks": [
     {
       "added_at": "2022-10-08 04:02:08",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-10-08 04:02:08",
       "album": {
-        "name": "Becky\u2019s So Hot",
-        "url": "https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 162760,
-      "name": "Becky\u2019s So Hot",
-      "url": "https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD"
-    },
-    {
-      "added_at": "2022-10-08 04:02:08",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 194141,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6"
+    },
+    {
+      "added_at": "2022-10-08 04:02:08",
+      "album": {
+        "name": "Becky\u2019s So Hot",
+        "url": "https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 162760,
+      "name": "Becky\u2019s So Hot",
+      "url": "https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD"
     },
     {
       "added_at": "2022-10-08 04:02:08",
@@ -459,6 +459,26 @@
     {
       "added_at": "2022-10-08 04:02:08",
       "album": {
+        "name": "Fall In Love With A Girl (feat. Beabadoobee)",
+        "url": "https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 190853,
+      "name": "fall in love with a girl (feat. Beabadoobee)",
+      "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
+    },
+    {
+      "added_at": "2022-10-08 04:02:08",
+      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 156584,
       "name": "she knows it",
       "url": "https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83"
-    },
-    {
-      "added_at": "2022-10-08 04:02:08",
-      "album": {
-        "name": "Fall In Love With A Girl (feat. Beabadoobee)",
-        "url": "https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        },
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 190853,
-      "name": "fall in love with a girl (feat. Beabadoobee)",
-      "url": "https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt"
     },
     {
       "added_at": "2022-10-08 04:02:08",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-10-08 04:02:08",
       "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+    },
+    {
+      "added_at": "2022-10-08 04:02:08",
+      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2022-10-08 04:02:08",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+        "name": "It's Been a Little Heavy Lately",
+        "url": "https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
         }
       ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+      "duration_ms": 221871,
+      "name": "It's Been a Little Heavy Lately",
+      "url": "https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4"
     },
     {
       "added_at": "2022-10-08 04:02:08",
@@ -851,22 +867,6 @@
       "duration_ms": 247829,
       "name": "Way I Go",
       "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
-    },
-    {
-      "added_at": "2022-10-08 04:02:08",
-      "album": {
-        "name": "It's Been a Little Heavy Lately",
-        "url": "https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 221871,
-      "name": "It's Been a Little Heavy Lately",
-      "url": "https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4"
     },
     {
       "added_at": "2022-10-08 04:02:08",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-10-08 04:02:08",
       "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 217718,
+      "name": "I Might Be In Love With You",
+      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
+    },
+    {
+      "added_at": "2022-10-08 04:02:08",
+      "album": {
         "name": "Butterfly Blue",
         "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2022-10-08 04:02:08",
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+        "name": "If It's Not God",
+        "url": "https://open.spotify.com/album/1xRImmscq4t4IAm1G9OSVt"
       },
       "artists": [
         {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
         }
       ],
-      "duration_ms": 217718,
-      "name": "I Might Be In Love With You",
-      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
+      "duration_ms": 219306,
+      "name": "If It's Not God",
+      "url": "https://open.spotify.com/track/3pjXm7eAzDGJSjSlLKijPG"
     },
     {
       "added_at": "2022-10-08 04:02:08",
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2022-10-08 04:02:08",
       "album": {
-        "name": "If It's Not God",
-        "url": "https://open.spotify.com/album/1xRImmscq4t4IAm1G9OSVt"
+        "name": "rising (the deluxe)",
+        "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
       },
       "artists": [
         {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 219306,
-      "name": "If It's Not God",
-      "url": "https://open.spotify.com/track/3pjXm7eAzDGJSjSlLKijPG"
+      "duration_ms": 185346,
+      "name": "kaleidoscope",
+      "url": "https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps"
     },
     {
       "added_at": "2022-10-08 04:02:08",
@@ -1227,22 +1243,6 @@
       "duration_ms": 208000,
       "name": "Always Been - Edit",
       "url": "https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS"
-    },
-    {
-      "added_at": "2022-10-08 04:02:08",
-      "album": {
-        "name": "rising (the deluxe)",
-        "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "kaleidoscope",
-      "url": "https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps"
     }
   ],
   "unique_name": "Out Now",

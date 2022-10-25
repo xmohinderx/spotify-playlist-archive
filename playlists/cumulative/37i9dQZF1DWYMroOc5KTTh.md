@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-405 songs - 1 day 4 hr 1 min - [published](https://open.spotify.com/playlist/2WPgm1aPptS8Ttm3dYBYj9)
+406 songs - 1 day 4 hr 5 min - [published](https://open.spotify.com/playlist/2WPgm1aPptS8Ttm3dYBYj9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Gym Tonic \- Wh0 Remix](https://open.spotify.com/track/6PJVxLDM73zcytFMLiIShF) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Gym Tonic \(Wh0 Remix\)](https://open.spotify.com/album/6f4vZtl0KdwSHk3cQyz44E) | 2:28 | 2022-04-06 | 2022-04-14 |
 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 | 2022-04-06 |  |
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-04-15 | 2022-10-19 |
+| [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-09-05 |  |
 | [Hazy House Vol\. 1](https://open.spotify.com/track/5vt0TzMNRGZiXlGdFZCgjn) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Hazy House Vol\. 1](https://open.spotify.com/album/3JgeyFkT8YaNDf4B9gnrnO) | 5:51 | 2022-04-06 | 2022-04-16 |
 | [Hazy House Vol\. 2](https://open.spotify.com/track/6AW0jJcR32Qcp0FJ5w6BRv) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Hazy House Vol\. 2](https://open.spotify.com/album/5GjT3ssX2AB16z6K4LOJY8) | 5:31 | 2022-04-06 | 2022-04-12 |
 | [Heaven \- Edit](https://open.spotify.com/track/0TQPsmBbAKI6mIs1BjGJkI) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Heaven](https://open.spotify.com/album/2UaAxsxbBdXA4MxbeQmTC3) | 3:40 | 2022-01-11 | 2022-07-14 |
@@ -278,7 +279,7 @@
 | [Opening Night](https://open.spotify.com/track/5yytwVZPUCRxeXPSTPdCUX) | [NZCA LINES](https://open.spotify.com/artist/1pmvcZaqyRJw8o6at71MJP) | [Pure Luxury](https://open.spotify.com/album/5YZgkuAej9Cn6hgEbg31k6) | 3:28 | 2021-12-03 | 2022-07-29 |
 | [Out Of Love \- Harrison Remix](https://open.spotify.com/track/5mLNQKGpnYtEVAWmrpSwoK) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Out Of Love \(Remix\)](https://open.spotify.com/album/069dlAukWgJsBmJ33TstHA) | 3:19 | 2022-03-11 | 2022-07-10 |
 | [Out The Door](https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Out The Door](https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y) | 3:06 | 2022-05-03 | 2022-05-31 |
-| [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 | 2022-04-06 |  |
+| [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 | 2022-04-06 | 2022-10-25 |
 | [Over And Over](https://open.spotify.com/track/6PDW59pqsge5R5AhCWJVmf) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [All The Time](https://open.spotify.com/album/5mibrsvb9I4qBsS2ybnZHC) | 4:38 | 2022-01-14 | 2022-02-17 |
 | [Paréo](https://open.spotify.com/track/0AbEPKqWLMEqxizkLZsiNq) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Paréo](https://open.spotify.com/album/4cOrkQ1SuL8wxcjXwqu34j) | 4:02 | 2022-04-15 | 2022-04-20 |
 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 | 2022-01-14 | 2022-08-02 |

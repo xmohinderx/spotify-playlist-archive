@@ -4,7 +4,7 @@
 
 > Run to indie and alternative hits.
 
-173 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/16tAbaDH2msClKjWgEvXJ3)
+174 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/16tAbaDH2msClKjWgEvXJ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Entertainment](https://open.spotify.com/track/3KRJUa3Z1Zfupr7Zs6JByx) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/3T66rLQ5rVheco76XLrlTY) | 3:40 | 2022-01-21 | 2022-07-29 |
 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 | 2022-01-21 |  |
 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 | 2022-01-21 |  |
-| [Fight or Flight Club](https://open.spotify.com/track/42vh3jC0ejWdPOGp6dT30p) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Fight or Flight Club](https://open.spotify.com/album/1UvqvFI3DlJ6wHCTDqXSYb) | 2:31 | 2022-03-31 |  |
+| [Fight or Flight Club](https://open.spotify.com/track/42vh3jC0ejWdPOGp6dT30p) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Fight or Flight Club](https://open.spotify.com/album/1UvqvFI3DlJ6wHCTDqXSYb) | 2:31 | 2022-03-31 | 2022-10-25 |
 | [Fight or Flight Club](https://open.spotify.com/track/5YREQJO8jVZSCW1MpwTcMY) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Fight or Flight Club](https://open.spotify.com/album/0sFLqRR12STWsb5xy1uH7b) | 2:31 | 2022-01-21 | 2022-07-29 |
 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 | 2022-01-21 |  |
 | [Flashlight](https://open.spotify.com/track/0xR5ZhiksJK6lMRdI6S2A4) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [The Front Bottoms](https://open.spotify.com/album/1UjGcb3EMf1QyLHHoCroU7) | 4:57 | 2022-01-21 | 2022-07-29 |
@@ -88,6 +88,7 @@
 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 | 2022-01-21 |  |
 | [Go It Alone](https://open.spotify.com/track/7LGM9nZtJZA2EDk4EeA17H) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero \(International Version\)](https://open.spotify.com/album/696rc2CjDogog1gvi1QVFL) | 4:08 | 2022-01-21 | 2022-07-29 |
 | [Go It Alone](https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:08 | 2022-03-31 |  |
+| [Gun](https://open.spotify.com/track/09PEwXveUXcDYCDXLQToXE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones of What You Believe](https://open.spotify.com/album/5RXMsB6VV6NfaspYWsdPyD) | 3:53 | 2022-09-30 |  |
 | [Gun](https://open.spotify.com/track/2jc0zOHNHAlechpt2H6unt) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe](https://open.spotify.com/album/03U41p2XNP3oP3REeEDMrQ) | 3:53 | 2022-01-21 | 2022-07-29 |
 | [Gun](https://open.spotify.com/track/4cTVAIFH1zGNQFFRFMCzsd) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones of What You Believe](https://open.spotify.com/album/7mYtNRrdUIZZymc5epjYHE) | 3:53 | 2022-03-31 | 2022-10-13 |
 | [HandClap](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums \(Deluxe Edition\)](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) | 3:13 | 2022-03-31 |  |

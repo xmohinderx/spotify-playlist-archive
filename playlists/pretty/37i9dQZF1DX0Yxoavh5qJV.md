@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 
 > The biggest Christmas songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,714,202 likes - 115 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,716,118 likes - 115 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

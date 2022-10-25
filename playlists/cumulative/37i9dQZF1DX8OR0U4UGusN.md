@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-194 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
+195 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bus Line 200](https://open.spotify.com/track/3M9yRhgrIHDa9SsKOHct9y) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Bus Line 200](https://open.spotify.com/album/3JlpbHB7MYn6VCZjerM9bk) | 2:47 | 2022-05-03 | 2022-07-29 |
 | [Cabin Fever](https://open.spotify.com/track/4P04T22VRDMfG7Yk0SMMxP) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Cabin Fever](https://open.spotify.com/album/5DfoMTrfErjlDnG79h6cKI) | 3:15 | 2021-08-05 | 2022-08-05 |
 | [California Girl](https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR) | [Lo Knowles](https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ) | [California Girl](https://open.spotify.com/album/12SLb28COIrvIHuv0AELi0) | 3:57 | 2021-08-05 | 2022-10-22 |
-| [Can Someone Take Me Home?](https://open.spotify.com/track/2xwdBMuWwjtEOQ1amOjI6V) | [Nico Days](https://open.spotify.com/artist/0svVmptxEtCoEJfcPKxCCh) | [Can Someone Take Me Home?](https://open.spotify.com/album/2fYK2hNTzpDJ6QdbMpIigQ) | 3:34 | 2022-02-25 |  |
+| [Can Someone Take Me Home?](https://open.spotify.com/track/2xwdBMuWwjtEOQ1amOjI6V) | [Nico Days](https://open.spotify.com/artist/0svVmptxEtCoEJfcPKxCCh) | [Can Someone Take Me Home?](https://open.spotify.com/album/2fYK2hNTzpDJ6QdbMpIigQ) | 3:34 | 2022-02-25 | 2022-10-25 |
 | [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 | 2022-02-04 | 2022-07-16 |
 | [Chemicals](https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Chemicals](https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB) | 4:14 | 2021-08-05 |  |
 | [Clorox Wipe](https://open.spotify.com/track/3SkDCAsph6e4ExoUQ1dVW0) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Quarantine Casanova](https://open.spotify.com/album/5mdkqTHEmp4RvBVU8hZZCy) | 4:31 | 2021-08-05 |  |
@@ -202,5 +202,6 @@
 | [Wishin](https://open.spotify.com/track/5XNBDxPwI44BnYCY2QDisQ) | [Vinny Masino](https://open.spotify.com/artist/49wfJDFAZGLI1zIW6RSQWL) | [Wishin](https://open.spotify.com/album/36bWBFGvhXRHPvOEveyQ0m) | 2:08 | 2022-07-15 | 2022-07-29 |
 | [Yesteryear](https://open.spotify.com/track/0u8AnQEMd9W6fDG2UbFjyz) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/4ec8RXuBUknXHrkjpeNNdl) | 3:39 | 2021-08-05 |  |
 | [‎rubber ‎checks](https://open.spotify.com/track/2KiziPinruARpIvC05NTqJ) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/48LwULIsLq3P716zccF09g) | 1:58 | 2022-05-03 | 2022-10-13 |
+| [‎rubber ‎checks](https://open.spotify.com/track/2VJ40dmMMmZCxZkeEbPKpo) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/22yEH7dzROVoUerLqNZy7Z) | 1:58 | 2022-10-06 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 222280,
       "name": "Gaze",
       "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
@@ -1909,6 +1909,24 @@
       "duration_ms": 291600,
       "name": "Why Do You Love Me?",
       "url": "https://open.spotify.com/track/6mnDez8mWJqlTyp6GjCKKR"
+    },
+    {
+      "album": {
+        "name": "I Know This Much Is True (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/3U97Z1DvgFjej0mVTi5slN"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118826,
+      "name": "Widows Charm",
+      "url": "https://open.spotify.com/track/0fnwhKgvtZOaG4LosBTdko"
     },
     {
       "album": {

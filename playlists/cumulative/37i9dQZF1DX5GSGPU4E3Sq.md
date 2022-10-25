@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-264 songs - 14 hr 55 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
+265 songs - 14 hr 57 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Birds in Song](https://open.spotify.com/track/6AP5tmPtYpz14bX1Iut1mG) | [Mind Shores](https://open.spotify.com/artist/5rMYtkq4BVMFCtgXOsIyxK) | [Sounds](https://open.spotify.com/album/6NMpDeOYccREmbSyeMbCoy) | 3:30 | 2022-06-29 |  |
 | [Birds Sounds](https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 2:45 | 2022-07-19 |  |
 | [Bittern](https://open.spotify.com/track/0izz2Wwg9OSjX0LRNivaTw) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake up Calls](https://open.spotify.com/album/6zZr0Y6Z6khPwf2LuZTK4K) | 1:21 | 2022-07-19 | 2022-07-23 |
+| [Bittern](https://open.spotify.com/track/64qOH2bUXO1Lfl1Lr5fnC5) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy) | 1:21 | 2022-10-21 |  |
 | [Blue Mountains](https://open.spotify.com/track/4M2CGqXKaGNVd3KmjnHMrO) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Angelic](https://open.spotify.com/album/5s37hBeeGnPiSdKumJX0pd) | 3:15 | 2022-06-29 | 2022-07-29 |
 | [Bluebirds](https://open.spotify.com/track/4zmCiLP5fkveffqyvrnOzP) | [The Highest Clouds](https://open.spotify.com/artist/5GxdjXV91L1AoL0i0J85uH) | [Bluebirds](https://open.spotify.com/album/3OAIYbvnrfrec6LiOETHNw) | 2:07 | 2022-06-29 |  |
 | [Brain Imaging](https://open.spotify.com/track/0y970SMstSYeB4fErHwjGY) | [Neural Oscillations](https://open.spotify.com/artist/2g4Tp9jhqwF2Z6mC008fBb) | [Alpha Activity](https://open.spotify.com/album/1S7gmkPo26PWlGiotf5RWy) | 2:43 | 2022-06-29 | 2022-07-29 |
@@ -146,7 +147,7 @@
 | [Like I Was A Spectator](https://open.spotify.com/track/7jUONYw71MlhFeEC7IZKQd) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Like I Was A Spectator](https://open.spotify.com/album/5TuMslh8Om41EB3ZVDJWkk) | 4:23 | 2022-07-19 | 2022-07-24 |
 | [Lion's Breath](https://open.spotify.com/track/0ifTzLcsRUIqaYH8DfiLbx) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Lion's Breath](https://open.spotify.com/album/3ckIgZZx3CZ6ItmoB6ETGd) | 3:11 | 2022-06-29 |  |
 | [Loch and Key](https://open.spotify.com/track/5gU60TmSgZKji4azlVXPVq) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [II](https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI) | 4:33 | 2022-07-19 |  |
-| [Lost Wisdom](https://open.spotify.com/track/0ZLOoYYVJG7Jpgv83tPMny) | [Fractal Designs](https://open.spotify.com/artist/5eZs1YL93qStrFtYXW0PpX) | [Lost Wisdom](https://open.spotify.com/album/41AkvkwYMM3lBbuApETwML) | 3:05 | 2022-07-19 |  |
+| [Lost Wisdom](https://open.spotify.com/track/0ZLOoYYVJG7Jpgv83tPMny) | [Fractal Designs](https://open.spotify.com/artist/5eZs1YL93qStrFtYXW0PpX) | [Lost Wisdom](https://open.spotify.com/album/41AkvkwYMM3lBbuApETwML) | 3:05 | 2022-07-19 | 2022-10-25 |
 | [Lost Wisdom](https://open.spotify.com/track/5D2hgQq8eMHHqR6xeEY36u) | [Fractal Designs](https://open.spotify.com/artist/5eZs1YL93qStrFtYXW0PpX) | [Lost Wisdom](https://open.spotify.com/album/44ATL8wQSpdqeJLvdv1N4P) | 3:05 | 2022-06-29 | 2022-07-29 |
 | [Love Is All](https://open.spotify.com/track/5fElZorySnJf7AL27hovH6) | [Filterscape](https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1) | [Love Is All](https://open.spotify.com/album/10OxP3accmLrouUPnbctPS) | 2:39 | 2022-07-19 |  |
 | [Love Is All](https://open.spotify.com/track/62BhWiFJIhRFYKKEkhK8LZ) | [Filterscape](https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1) | [Love Is All](https://open.spotify.com/album/4KawX0ipBHgXNFFUyZcnVf) | 2:39 | 2022-06-29 | 2022-07-29 |

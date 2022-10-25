@@ -3258,6 +3258,24 @@
     },
     {
       "album": {
+        "name": "Dami Duro - Spotify Singles",
+        "url": "https://open.spotify.com/album/4cr6Z3CYq1o0r9hsKKNNtE"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200378,
+      "name": "Dami Duro - Spotify Singles",
+      "url": "https://open.spotify.com/track/3OsXnXDO9gIb0L8t4nHhGy"
+    },
+    {
+      "album": {
         "name": "Dance In The Dark (Spotify Singles)",
         "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
       },

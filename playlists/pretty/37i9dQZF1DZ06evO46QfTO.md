@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,590 likes - 43 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,617 likes - 43 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 25 | [Detour](https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 4:07 |
 | 26 | [Better Than We Found It](https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Better Than We Found It](https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC) | 3:17 |
 | 27 | [I'll Be The Moon](https://open.spotify.com/track/0kIlh2nOwIxx4SgoDrRWDG) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 3:30 |
-| 28 | [The Chain \- From the Motion Picture Soundtrack "The Kitchen"](https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Chain \(From the Motion Picture Soundtrack "The Kitchen"\)](https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5) | 4:51 |
-| 29 | [Mona Lisas And Mad Hatters](https://open.spotify.com/track/3sZpfLcumDW0henSU6wbie) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Restoration: The Songs Of Elton John And Bernie Taupin](https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP) | 5:04 |
+| 28 | [Mona Lisas And Mad Hatters](https://open.spotify.com/track/3sZpfLcumDW0henSU6wbie) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Restoration: The Songs Of Elton John And Bernie Taupin](https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP) | 5:04 |
+| 29 | [The Chain \- From the Motion Picture Soundtrack "The Kitchen"](https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Chain \(From the Motion Picture Soundtrack "The Kitchen"\)](https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5) | 4:51 |
 | 30 | [The Feels](https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:07 |
 | 31 | [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 |
 | 32 | [Redesigning Women](https://open.spotify.com/track/7IgYxRCJtp36BlDUEoLEg7) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:54 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 42 | [Space](https://open.spotify.com/track/3lsJh2SgDAlL4f5nUW3jv7) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:06 |
 | 43 | [Prove You Wrong](https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 3:41 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDA2ZDI5YmE4ZDRkOWYwNjZhNmM0NzFkMTJiZTA0MzVlYw==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDBmMzgzOGZmZTIwNDkwNmJmMjc0NjdiN2U5MTg3NWJkMQ==`

@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-94 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+95 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Hair Like You](https://open.spotify.com/track/7ilG2HpVcH3WtdKaF3i1dV) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Hair Like You](https://open.spotify.com/album/1kJyFB0uMNl8xKDPKiWPlV) | 2:58 | 2022-06-27 | 2022-09-20 |
 | [heartache](https://open.spotify.com/track/1qeq8pjGACKT1lWCXgCW3a) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [heartache](https://open.spotify.com/album/4NVF93J11wDm0OK7AjBxbi) | 2:47 | 2022-04-22 | 2022-06-28 |
 | [Heat](https://open.spotify.com/track/5XWMFME89AcvPyGdPiICsM) | [IMBER](https://open.spotify.com/artist/1kHcfP94TXtWlQ6x7yzBYN) | [Heat](https://open.spotify.com/album/2H8ekiVK6IrpL7MLl1MgJZ) | 3:51 | 2022-06-03 | 2022-08-09 |
-| [HIGH HOPES](https://open.spotify.com/track/5C9KruKQHBLDMA9E45i47Y) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [HIGH HOPES](https://open.spotify.com/album/2P8o42pxG775mAhhN0shMG) | 3:36 | 2022-07-27 |  |
+| [HIGH HOPES](https://open.spotify.com/track/5C9KruKQHBLDMA9E45i47Y) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [HIGH HOPES](https://open.spotify.com/album/2P8o42pxG775mAhhN0shMG) | 3:36 | 2022-07-27 | 2022-10-25 |
 | [Hollow](https://open.spotify.com/track/43dWASmdtGOOI0yOyx9zAH) | [Saavan](https://open.spotify.com/artist/7HIN13S8A6wfupCwXRNv6U) | [Hollow](https://open.spotify.com/album/4N7w5vzvRIAfxjNPaSAMXN) | 3:39 | 2022-05-27 | 2022-08-05 |
 | [Huacachina](https://open.spotify.com/track/3zRhKaZXEUGrJqMGN5KtXy) | [MonteRosso](https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1) | [Kitsuné Parisien 4](https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE) | 3:33 | 2021-11-05 |  |
 | [I Can Talk](https://open.spotify.com/track/0Krxo9CPCj98TR3QHqSb8N) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Kitsuné: I Can Talk \(Remixes\)](https://open.spotify.com/album/0DDPS6mumu79yYixnXOVZF) | 2:57 | 2021-11-05 |  |
@@ -91,6 +91,7 @@
 | [Synchronise](https://open.spotify.com/track/6f9XYKnQIkBfar5zfEm5Eu) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Synchronise](https://open.spotify.com/album/1ELHpKQWozs7pR6Y6L4QAA) | 4:47 | 2022-06-10 | 2022-08-25 |
 | [TE NECESITO¡! \(club\)](https://open.spotify.com/track/3kTongg66uYQDvmqViLXad) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [Melika](https://open.spotify.com/artist/5Om1eyevwmfGPz1PTWn8VK) | [TALES\_FOR\_NIGHTCLUBS \(extended\)](https://open.spotify.com/album/1fwN0p83Sfq9ljvfcYI7Iy) | 3:12 | 2022-04-15 | 2022-06-24 |
 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 | 2022-04-18 | 2022-06-28 |
+| [The Soft Spot](https://open.spotify.com/track/6xf1V275yYwB7nbv8ViGUD) | [Blush FM](https://open.spotify.com/artist/2FeqmH4OmXUDoPeMX6itAb) | [The Soft Spot](https://open.spotify.com/album/7re2LRARUnbzCyChKn61IT) | 3:31 | 2022-10-24 |  |
 | [The Way You Move It \- Radio Edit](https://open.spotify.com/track/50wq9ALHIyympgfiXUiHfq) | [James Juke](https://open.spotify.com/artist/6gbPKiUthmk2t7K57AS3mf) | [The Way You Move It](https://open.spotify.com/album/3rmYMf2QUh3D78uBiZApw6) | 3:40 | 2022-08-26 |  |
 | [Toronto Funhouse](https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Toronto Funhouse](https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV) | 2:00 | 2022-09-12 |  |
 | [TTYL](https://open.spotify.com/track/0KBtXATQFDLMOjTKS9kiDt) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [TTYL](https://open.spotify.com/album/3dLq3aoKcbZyrUJLuAtM3G) | 3:18 | 2022-07-04 | 2022-09-27 |

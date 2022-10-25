@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,038 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,049 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 41 | [It's Not Your Fault](https://open.spotify.com/track/6mWaIL3wd4XtxBZlvams5f) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:37 |
 | 42 | [Don't Let Her Pull You Down](https://open.spotify.com/track/5ab6WsStT9zSlNZ9CSArje) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 3:28 |
 | 43 | [This Disaster](https://open.spotify.com/track/2VHAQ84pzRe11YdMUDZzMZ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:08 |
-| 44 | [The Devil Has Many Faces](https://open.spotify.com/track/4irOx6zV6BDYO1Rv7yZi7T) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5D58CIPr9CUqBowJF5jNnJ) | 2:34 |
-| 45 | [Backseat](https://open.spotify.com/track/4lQcddTT0dqUgRsiFux4bK) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Backseat](https://open.spotify.com/album/7wEu93qQCQX4PaTwka6jvW) | 3:30 |
+| 44 | [Backseat](https://open.spotify.com/track/4lQcddTT0dqUgRsiFux4bK) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Backseat](https://open.spotify.com/album/7wEu93qQCQX4PaTwka6jvW) | 3:30 |
+| 45 | [The Devil Has Many Faces](https://open.spotify.com/track/4irOx6zV6BDYO1Rv7yZi7T) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5D58CIPr9CUqBowJF5jNnJ) | 2:34 |
 | 46 | [Ready and Willing](https://open.spotify.com/track/7gTzs8ZOry1BSr2aDoMdv4) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection](https://open.spotify.com/album/3CLXR1W9TabxVLY2lZbAS1) | 3:22 |
 | 47 | [Never Ending Story Theme Song](https://open.spotify.com/track/6mW2DU0mYICqZ26p53QKsT) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:17 |
 | 48 | [Your Jokes Aren't Funny](https://open.spotify.com/track/3KKGoTkLjHsXXAEjxX5kdT) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:08 |
 | 49 | [I Don't Wanna Know](https://open.spotify.com/track/0EosY41ozajeAz7mCMwo1K) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:30 |
 | 50 | [20 Years From Now](https://open.spotify.com/track/13c4fq3fil9twERAWIKDPk) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick Again](https://open.spotify.com/album/2VKySLHotMO1hAlueSCQrt) | 3:32 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDAxNWQyOGI4MWY0MGRhMzViYjc5NDJmNWE1NmYyOTQ1YQ==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDBlZDczYjA0ZGQ2MDliNzlkYjBhNjMyMzVmYjU2NjIyZQ==`

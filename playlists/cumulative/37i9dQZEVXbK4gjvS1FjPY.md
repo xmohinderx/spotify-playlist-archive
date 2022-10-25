@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Singapore.
 
-650 songs - 1 day 13 hr 27 min - [published](https://open.spotify.com/playlist/5EotmOQUP2E4ReVZlTzX93)
+651 songs - 1 day 13 hr 30 min - [published](https://open.spotify.com/playlist/5EotmOQUP2E4ReVZlTzX93)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-09 | 2022-08-07 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-19 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-11 |  |
+| [Glitch](https://open.spotify.com/track/6RJBrG3VHz2hPITjv88chh) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 2:28 | 2022-10-24 |  |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-29 | 2022-04-02 |
 | [golden hour](https://open.spotify.com/track/0e5UZadoZ5me957hKsxRYh) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/0X1rJoOfFT7RfYYj9wG4G8) | 3:29 | 2022-09-24 | 2022-10-13 |
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-10-12 |  |
@@ -546,7 +547,7 @@
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-12 | 2022-04-17 |
 | [The Last Time \(feat\. Gary Lightbody of Snow Patrol\) \(Taylor’s Version\)](https://open.spotify.com/track/0y6kdSRCVQhSsHSpWvTUm7) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Gary Lightbody](https://open.spotify.com/artist/3fCQnw6VSudXBTN5d2QP2z) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:59 | 2021-11-14 | 2021-11-19 |
 | [The Road Ahead](https://open.spotify.com/track/6kuyKfMGPbxIMIdFLtlouQ) | [NDPeeps](https://open.spotify.com/artist/1BhtFoW6keQNCZBQEDFmmT), [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW), [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T), [Shabir](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng) | [The Road Ahead](https://open.spotify.com/album/7eusVj6P70avcaY6whnWU5) | 3:36 | 2021-07-19 | 2022-08-13 |
-| [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-07-18 |  |
+| [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-07-18 | 2022-10-25 |
 | [The Very First Night \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/6pYNq0ZwpPVazKzsqpf0G8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:20 | 2021-11-14 | 2021-11-20 |
 | [The Way I Loved You \(Taylor’s Version\)](https://open.spotify.com/track/22bPsP2jCgbLUvh82U0Z3M) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:03 | 2021-04-11 | 2021-04-15 |
 | [The Way You Felt](https://open.spotify.com/track/6XdHZr9iXdqc4Q76wtgbqr) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Way You Felt](https://open.spotify.com/album/40TZNoA3ePd2eFXzd4dtB2) | 3:02 | 2021-05-17 | 2021-06-18 |

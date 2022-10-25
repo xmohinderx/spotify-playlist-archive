@@ -4,7 +4,7 @@
 
 > Sensual silky sounds for the sheets.
 
-124 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/4G7nlm98x5vy85RlXW1X91)
+125 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/4G7nlm98x5vy85RlXW1X91)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,9 +31,10 @@
 | [City Girl](https://open.spotify.com/track/7HaAuZBOJTp0bpZPnccBUm) | [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP), [Jonah Christian](https://open.spotify.com/artist/6pDfhbJGBQJ22SvibycTYb) | [City Girl](https://open.spotify.com/album/6Yb2iAl9GFYc0QjurOGgsn) | 2:39 | 2021-08-13 | 2022-10-04 |
 | [Copy & Paste Interlude](https://open.spotify.com/track/4Pq1hdbm1GrjBeh46BqFjO) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Copy & Paste Interlude](https://open.spotify.com/album/40WuuDpNMKy5GB2CUQO2Xx) | 2:49 | 2021-08-13 | 2022-07-29 |
 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 | 2022-10-03 |  |
+| [Crazy Down](https://open.spotify.com/track/3zFmqleGOMgKmkXYZH5WID) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Crazy Down](https://open.spotify.com/album/7v64XYcrShDR2SvQiV7mzU) | 3:04 | 2022-10-03 |  |
 | [crush](https://open.spotify.com/track/0RVtptlBoUcVulumTGzmZE) | [QUIN](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) | [crush](https://open.spotify.com/album/3kjCV8Ld49hwDMidTE8mpt) | 2:46 | 2021-08-13 | 2022-07-29 |
 | [Cue The Sun](https://open.spotify.com/track/2kbCOX5ZVUZkRINKJaYEEt) | [Alycia Bella](https://open.spotify.com/artist/6IgJ28Foee3kRGXzuWicDx), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Cue The Sun](https://open.spotify.com/album/5uHcS5Mo2UldodDud5tU2L) | 3:39 | 2021-08-13 | 2022-07-29 |
-| [Don’t Make Me Wait](https://open.spotify.com/track/31UPS6TZYhhNFnTlie5gpB) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:52 | 2022-10-03 |  |
+| [Don’t Make Me Wait](https://open.spotify.com/track/31UPS6TZYhhNFnTlie5gpB) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:52 | 2022-10-03 | 2022-10-25 |
 | [Dream](https://open.spotify.com/track/1mAQAh6yg1dTmnlE84ZvEo) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:10 | 2022-10-03 |  |
 | [Earned It \(Fifty Shades Of Grey\)](https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:37 | 2022-10-03 |  |
 | [everybody knows](https://open.spotify.com/track/22oZClHIaftOvNr3DRQwAQ) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [everybody knows](https://open.spotify.com/album/1w28XzCMMbzWyL5K6bUwPX) | 3:22 | 2021-08-13 | 2022-07-27 |

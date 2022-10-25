@@ -1,12 +1,12 @@
 {
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
-  "num_followers": 26629,
+  "num_followers": 26628,
   "original_name": "#SpotifyTBT: Song of the Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDM1MWI3YTBlYmVlZWUwMmZiMWYwNjlkNTE2YTljZGJh",
+  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDQ4NTIxZjg4YWY2OTY0ZTVlOGZkNGNjNDJhZDc2Nzgy",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 295502,
       "name": "Hello",
       "url": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
+      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "An American Tail",
         "url": "https://open.spotify.com/album/3LcVWwdCl71oSq9MPEAjh9"
       },
@@ -747,38 +763,6 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
-      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Up, Up And Away",
-        "url": "https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp"
-      },
-      "artists": [
-        {
-          "name": "The 5th Dimension",
-          "url": "https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Up, Up and Away",
-      "url": "https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
         "name": "Johnny Horton'S Greatest Hits",
         "url": "https://open.spotify.com/album/3ZQQjQreYCK9obcS5B5bwI"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Experience The Divine (Greatest Hits)",
-        "url": "https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD"
+        "name": "Up, Up And Away",
+        "url": "https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp"
       },
       "artists": [
         {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+          "name": "The 5th Dimension",
+          "url": "https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM"
         }
       ],
-      "duration_ms": 293853,
-      "name": "Wind Beneath My Wings",
-      "url": "https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY"
+      "duration_ms": 163346,
+      "name": "Up, Up and Away",
+      "url": "https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -863,18 +847,18 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "The Greatest Songs Of The Seventies",
-        "url": "https://open.spotify.com/album/29MkM2BlD2jnF6g8lcMDuP"
+        "name": "Experience The Divine (Greatest Hits)",
+        "url": "https://open.spotify.com/album/0pVxC28TGjIk0SEqm7wUCD"
       },
       "artists": [
         {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
         }
       ],
-      "duration_ms": 239186,
-      "name": "I Write The Songs",
-      "url": "https://open.spotify.com/track/5VU6nvX3BqkqBmOJ2d9vhW"
+      "duration_ms": 293853,
+      "name": "Wind Beneath My Wings",
+      "url": "https://open.spotify.com/track/4ErUhFToT1yX52MeHqH8OY"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -891,6 +875,22 @@
       "duration_ms": 234866,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/79bdDFqZUcZcmmnC5aPmoh"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
+        "name": "The Greatest Songs Of The Seventies",
+        "url": "https://open.spotify.com/album/29MkM2BlD2jnF6g8lcMDuP"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 239186,
+      "name": "I Write The Songs",
+      "url": "https://open.spotify.com/track/5VU6nvX3BqkqBmOJ2d9vhW"
     },
     {
       "added_at": "2022-02-16 05:37:41",

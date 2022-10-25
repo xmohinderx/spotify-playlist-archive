@@ -4,7 +4,7 @@
 
 > Curated by the biggest stars of the 2021 NFL Draft celebrating their journey to Draft Night!
 
-33 songs - 1 hr 51 min - [published](https://open.spotify.com/playlist/657RzdsW1QREO5aROv3wZw)
+34 songs - 1 hr 55 min - [published](https://open.spotify.com/playlist/657RzdsW1QREO5aROv3wZw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Gangstas](https://open.spotify.com/track/765fiRGlmsVAoYHXHeCWtu) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/45HGJedVnKuOXNFW8fVuDz) | 2:40 | 2021-04-29 |  |
 | [La Familia](https://open.spotify.com/track/1Jz9nO8LaaZAwbRClmkL7r) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/0kSJLkOtFwJoVbZu5C2BRV) | 3:33 | 2021-04-29 |  |
 | [Man Of The Year](https://open.spotify.com/track/6Mo0rLbLNOzEFud0FuPJsm) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Under Investigation 2](https://open.spotify.com/album/4qmS3J4ECCCnz5eL2K9qrz) | 2:22 | 2021-04-29 |  |
-| [One Thing Leads To Another](https://open.spotify.com/track/5B37ocpk2zxeZL1lq5F6ui) | [The Fixx](https://open.spotify.com/artist/53RkHTcl0SJZjpzqogkBf4) | [Reach The Beach](https://open.spotify.com/album/4TDnrqNEikAzVhYj948Iox) | 3:19 | 2021-04-29 |  |
+| [One Thing Leads To Another](https://open.spotify.com/track/5B37ocpk2zxeZL1lq5F6ui) | [The Fixx](https://open.spotify.com/artist/53RkHTcl0SJZjpzqogkBf4) | [Reach The Beach](https://open.spotify.com/album/4TDnrqNEikAzVhYj948Iox) | 3:19 | 2021-04-29 | 2022-10-25 |
+| [One Thing Leads To Another](https://open.spotify.com/track/2d1NMaw8arIU2Fy4BnWqLs) | [The Fixx](https://open.spotify.com/artist/53RkHTcl0SJZjpzqogkBf4) | [20th Century Masters: The Millennium Collection: Best Of The '80s](https://open.spotify.com/album/5SaMVD3JhB3JU9A66Xwj0E) | 3:25 | 2021-04-29 |  |
 | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/track/4QXGLydgxkEP1FTQK4Y7C5) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/7KIxcE8dxoAgia4OClu4pr) | 3:55 | 2021-04-29 |  |
 | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/track/7FfE3EbXRA7RxKQguCVvLB) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/75i4VQF1uBWnyTiXYELSiU) | 3:55 | 2021-04-29 | 2022-07-29 |
 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 | 2021-04-29 |  |

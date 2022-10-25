@@ -4,7 +4,7 @@
 
 > Restaurant style, elegant music for your fancy dinner
 
-269 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/0gUlOOOztUGwj972hi8oyP)
+274 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/0gUlOOOztUGwj972hi8oyP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 | 2022-04-27 |  |
 | [Counting the Days You’re Gone](https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Counting the Days You’re Gone](https://open.spotify.com/album/3dbXjKwnJZj5eLpXrx9PqX) | 3:24 | 2022-04-27 |  |
 | [Credo](https://open.spotify.com/track/7GhpnGB1M8qQ04yqHLdoaE) | [Samuel Yates](https://open.spotify.com/artist/490O7wKhdxCPXCpZyklL9R) | [Credo](https://open.spotify.com/album/7F2h54BsLRxDAfmi0Wa4f9) | 2:30 | 2022-04-27 |  |
+| [Crimson Reds, Yellow Hue](https://open.spotify.com/track/7qsQ7j3sFIsV5dxbDsrscI) | [Nahuel Bahr](https://open.spotify.com/artist/0aB950Mezo9NcPb1o8KNlM) | [Crimson Reds, Yellow Hue](https://open.spotify.com/album/4LsUKsgXS3PE5y68qFXXDi) | 2:07 | 2022-10-24 |  |
 | [Crossing the Danube](https://open.spotify.com/track/2nFrDHWjyJccuR1OvyjEf7) | [Marcel Pokorný](https://open.spotify.com/artist/6ln2peaIEnqs0cTqxJWVyW) | [Crossing the Danube](https://open.spotify.com/album/2BslkVgPfccnYDMot7rwCP) | 2:03 | 2022-04-27 |  |
 | [Dagrøm](https://open.spotify.com/track/2x66aNwtjp3riJ1lurDElm) | [Flemming Hoovgard](https://open.spotify.com/artist/4aW1OBhYHyrbMWqbEfE5gT) | [Dagrøm](https://open.spotify.com/album/42mz8sXPvqxfnQGYbmHtbP) | 2:21 | 2022-04-27 |  |
 | [Dancing Shoes](https://open.spotify.com/track/5d8OIweiBjERBQGiboXjZi) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Dancing Shoes](https://open.spotify.com/album/1qnLekQ72S0OYOY7c0kU5f) | 1:57 | 2022-04-27 |  |
@@ -68,6 +69,7 @@
 | [Elderflowers](https://open.spotify.com/track/5LXArjUq89I6gByE5u44k5) | [Ryu Ito](https://open.spotify.com/artist/1hIFiZqCoq6Az71hQ8xkTz) | [Elderflowers](https://open.spotify.com/album/3SR9dXr1wEIvr9m9zEXm1h) | 2:09 | 2022-04-27 |  |
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2022-04-27 |  |
 | [Emeralds](https://open.spotify.com/track/4cWtWIuQgQF5Tvn7PfqHzA) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Emeralds](https://open.spotify.com/album/6PHgykEEHPYKP67jLJaFWg) | 2:45 | 2022-04-27 |  |
+| [En Lille Drøm](https://open.spotify.com/track/4kKFkTHhUgNz1pAUCmtF7l) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [En Lille Drøm](https://open.spotify.com/album/1qC1Mg1LyYKQVs7cpcniHb) | 2:18 | 2022-10-24 |  |
 | [Evangeline](https://open.spotify.com/track/3rfsel8gqoDpNVx7DgTyOf) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Evangeline](https://open.spotify.com/album/2GxIEfBPiuGksXQwRQO1Lm) | 2:01 | 2022-04-27 |  |
 | [Evenfall](https://open.spotify.com/track/5EwC7LIoLBhLJjlAgz2pXR) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Evenfall](https://open.spotify.com/album/5nSQeRUNCJrPoy412qtL6i) | 2:26 | 2022-04-27 |  |
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2022-04-27 |  |
@@ -76,6 +78,7 @@
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2022-04-27 |  |
 | [Fiorire](https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ariosa](https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded) | 2:57 | 2022-04-27 |  |
 | [Flirting Youths](https://open.spotify.com/track/0Y859fXJjBPZgUQPGOAgGQ) | [Clara Adeline](https://open.spotify.com/artist/1yBw3FBvTR2JeGmA2l556m) | [Flirting Youths](https://open.spotify.com/album/4VDhnrTYAHprxM9tnnUrCG) | 3:34 | 2022-04-27 |  |
+| [Flowers](https://open.spotify.com/track/3qf5EBfSJgb3VyWFT1mqX4) | [Jean Lucas](https://open.spotify.com/artist/43nGYUDNoXAdaOc7sOI7SJ) | [Flowers](https://open.spotify.com/album/7HLBAgva1bDAMruPkGllhR) | 2:33 | 2022-10-24 |  |
 | [Flying Away](https://open.spotify.com/track/2YKGwIabG5arssNqMqnLcY) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Flying Away](https://open.spotify.com/album/3iDoTDtFiL75JrCWqN8QaS) | 2:00 | 2022-04-27 |  |
 | [For Peace](https://open.spotify.com/track/1FiGodE7QpV6yXRtDGSuKO) | [PIAMINO](https://open.spotify.com/artist/3MCDB7qdTDruqWX2LwuUb6) | [For Peace](https://open.spotify.com/album/3eKtNhAo1QB2slYY1A6P85) | 2:16 | 2022-05-20 |  |
 | [Foreigners](https://open.spotify.com/track/3pPVu5GqeYai4ZFNP0j9Wr) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Foreigners](https://open.spotify.com/album/3eVdNFfpQKGj1btqfQGoa4) | 2:59 | 2022-04-27 |  |
@@ -173,6 +176,7 @@
 | [Ozoner](https://open.spotify.com/track/18a9jkAzxb1ooVOCfiBxoZ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Ozoner](https://open.spotify.com/album/6BKP1295jcSDfcRnlvqIyk) | 3:04 | 2022-04-27 |  |
 | [Papillon](https://open.spotify.com/track/4etRflD5pUsnz108tx1xAc) | [Solène Garnier](https://open.spotify.com/artist/2MJrIZl36H74AdDZyKA5Y1) | [Papillon](https://open.spotify.com/album/5YAT2Vz0oQPx9NhKRnASNF) | 3:01 | 2022-04-27 |  |
 | [Passacaglia](https://open.spotify.com/track/1uO8v8SqOHLw1XGAPZBq9q) | [Martin Bloch](https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z) | [Passacaglia](https://open.spotify.com/album/6BGRc8IdJ7LnmfVUR5gCbP) | 2:43 | 2022-08-09 |  |
+| [Passage](https://open.spotify.com/track/33JhiJB1Oi4XDexPkAFnxj) | [Shaun Bertsch](https://open.spotify.com/artist/38bQPIz3UChdXTItoUNAvE) | [Passage](https://open.spotify.com/album/0q5XJMOjNxcnDjwK3mksfY) | 2:02 | 2022-10-24 |  |
 | [Passing By](https://open.spotify.com/track/0HRMy4dYhy40Ws3GIqpFAk) | [Anna Sofia Nord](https://open.spotify.com/artist/1LMH92wmd895KpE0pdRSek) | [Passing By](https://open.spotify.com/album/5RoRpy3WX5ytEw1p8Lf5qg) | 2:02 | 2022-10-04 |  |
 | [Passing By](https://open.spotify.com/track/4cKIi7twv61qQ0z0Apuoxu) | [Mikayo Koide](https://open.spotify.com/artist/32D46op6s0swxNHe7MCxLv) | [Passing By](https://open.spotify.com/album/7L0eqs9WBSnYhfhFQr2cko) | 2:19 | 2022-04-27 | 2022-05-21 |
 | [Peaceful Reflections](https://open.spotify.com/track/5qob7OKrAv9Sld67bNg3au) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Madrigal](https://open.spotify.com/album/3T4PBqvtzGDoVuD6wXmzu8) | 2:20 | 2022-04-27 |  |
@@ -253,6 +257,7 @@
 | [Variante Alta](https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Variante Alta](https://open.spotify.com/album/5qUvWqRfwxFdyKN5B0iS0K) | 3:52 | 2022-04-27 | 2022-06-07 |
 | [Veleta](https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1) | [Torsten Hugo](https://open.spotify.com/artist/0tbvvo4GnJ1klnn3H4Mk9g) | [Veleta](https://open.spotify.com/album/5D0Nm6ZKoiVphuMUyuzyiA) | 3:51 | 2022-04-27 |  |
 | [Verses](https://open.spotify.com/track/6t1T3fMWfv5svT4ZTsBnBY) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Verses](https://open.spotify.com/album/0oEfniLgEookbXSSQSpIqE) | 3:15 | 2022-04-27 |  |
+| [Verso a verso](https://open.spotify.com/track/0Il5mfX0vwcPMTqbl8x1hI) | [Hollou](https://open.spotify.com/artist/5AVCjUPGLAHTxEdYjkrjIM) | [Verso a verso](https://open.spotify.com/album/2ReNZHQn3f4yf1q4Nouv6o) | 3:02 | 2022-10-24 |  |
 | [verträumt](https://open.spotify.com/track/2VrSJrGv8MBnQY5M6OkeeB) | [Friedrich Hauser](https://open.spotify.com/artist/3Y8frXJquHsEiB2pg3oVUy) | [schlaflos](https://open.spotify.com/album/7IaFRUsh4JDjZg0AsRg1BQ) | 2:55 | 2022-04-27 |  |
 | [Vicino Al Mare](https://open.spotify.com/track/0evg2YZZKEKnKkjraD4LGQ) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Springtime Improvisations](https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D) | 2:08 | 2022-05-04 |  |
 | [Vierzylinder](https://open.spotify.com/track/3QI14HQnAH2BB5CffziKaF) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Vierzylinder](https://open.spotify.com/album/5qYXPblYOuRH9V3d7MoJBg) | 2:49 | 2022-10-04 |  |

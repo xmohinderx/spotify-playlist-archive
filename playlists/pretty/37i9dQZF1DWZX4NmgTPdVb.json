@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 118589,
+  "num_followers": 118608,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMyMzIwMCwwMDAwMDAwMDJkMTZmNTliZWVmODk4ODI2YTlmZjc1NDc3MThhNWFm",
+  "snapshot_id": "MTY1NTMyMzIwMCwwMDAwMDAwMGM4ZDAxZjIxM2U0ZmFjZjgzOTQxOWE1YmY3OWE3ODI5",
   "tracks": [
     {
       "added_at": "2022-04-18 23:11:58",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 516893,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 245493,
       "name": "Superstition - Single Version",
       "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 516893,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Signed, Sealed And Delivered",
-        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Get The Knack",
         "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 295400,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -467,34 +467,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Little Queen",
-        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
       },
       "artists": [
         {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 261933,
-      "name": "Barracuda",
-      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
+      "duration_ms": 190160,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -515,18 +499,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Poems, Prayers and Promises",
-        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+        "name": "Little Queen",
+        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
         }
       ],
-      "duration_ms": 190160,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
+      "duration_ms": 261933,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -543,6 +527,22 @@
       "duration_ms": 174826,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
+        "name": "Born to Be Alive (The Original)",
+        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hernandez",
+          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Born to Be Alive - The Original",
+      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 216906,
       "name": "Summer Nights - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Born to Be Alive (The Original)",
-        "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
-      },
-      "artists": [
-        {
-          "name": "Patrick Hernandez",
-          "url": "https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Born to Be Alive - The Original",
-      "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "In Color",
-        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "I Want You to Want Me",
-      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "I Can See Clearly Now",
         "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
+        "name": "In Color",
+        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "I Want You to Want Me",
+      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
         "name": "Love Tracks",
         "url": "https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 296106,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 365626,
-      "name": "Baker Street",
-      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -955,6 +939,22 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 365626,
+      "name": "Baker Street",
+      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
         "name": "School's Out",
         "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
@@ -967,38 +967,6 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "A Day At The Races (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 296493,
-      "name": "Somebody To Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Heaven Tonight",
-        "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1019,6 +987,38 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
+        "name": "Heaven Tonight",
+        "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "A Day At The Races (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 296493,
+      "name": "Somebody To Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 223613,
       "name": "Go Your Own Way - 2004 Remaster",
       "url": "https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
       "artists": [
         {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
+      "duration_ms": 233173,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1111,6 +1095,22 @@
       "duration_ms": 268866,
       "name": "You've Got a Friend - 2019 Remaster",
       "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
     },
     {
       "added_at": "2022-04-18 23:11:58",

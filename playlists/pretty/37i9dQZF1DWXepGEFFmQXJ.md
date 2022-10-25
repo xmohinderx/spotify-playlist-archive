@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Morgan Evans
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,257 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,378 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 |
-| 2 | [Over For You](https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You](https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2) | 3:05 |
+| 1 | [Over For You](https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You](https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2) | 3:05 |
+| 2 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 |
 | 3 | [Small Town Friday Nights](https://open.spotify.com/track/4NkGmYoyhZ8qsJILRd5QSV) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Small Town Friday Nights](https://open.spotify.com/album/1q499514mNBWntSo9j1n5i) | 3:03 |
 | 4 | [Go Around](https://open.spotify.com/track/344682dEszsdZqQS4vYuUr) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Go Around](https://open.spotify.com/album/6xUvrvbSTXnEIRPKOGnhJh) | 3:23 |
 | 5 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 79 | [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 |
 | 80 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 |
 
-Snapshot ID: `MTY2NjI3MDgwMCwwMDAwMDAwMDVmMjM2ZTg1ODY5NWE5OTg1NzNiOGI3YWUxNmI1MTJh`
+Snapshot ID: `MTY2NjU5ODI2MSwwMDAwMDAwMGFiOWM3OTFmYWRlZjg2NmEyNzQ4ZTU3NTBiNDlhNzUz`

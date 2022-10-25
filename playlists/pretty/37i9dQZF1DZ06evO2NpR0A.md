@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 
 > This is Bon Iver\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,700 likes - 43 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,810 likes - 43 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 | 16 | [For Emma](https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:40 |
 | 17 | [AUATC](https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [AUATC](https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP) | 2:22 |
 | 18 | [33 “GOD”](https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 3:33 |
-| 19 | [Lost In The World](https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:16 |
-| 20 | [U \(Man Like\)](https://open.spotify.com/track/59lQwJcWbr9x3OvTvW5NNX) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 2:25 |
+| 19 | [U \(Man Like\)](https://open.spotify.com/track/59lQwJcWbr9x3OvTvW5NNX) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 2:25 |
+| 20 | [Lost In The World](https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:16 |
 | 21 | [Lump Sum](https://open.spotify.com/track/6MpKc6ceAd2fAMEpkLxkiF) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:21 |
 | 22 | [29 \#Strafford APTS](https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 4:05 |
 | 23 | [Michicant](https://open.spotify.com/track/43d83eCd7GzmVOKsLwV3QN) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 3:45 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NpR0A.md) - [plain]
 | 42 | [Woods](https://open.spotify.com/track/2cx019HWgBsIrv3zLCdSHS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:45 |
 | 43 | [Babys](https://open.spotify.com/track/5FGsZbvRZer28nY0cU82D7) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:43 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDA3ZThhYzlhOGJkMDhjYzg0ODg2ZjBiMmVlYzU5ZTJiZg==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDA3ZjI4OWZjYTkzNWEwNzg3YmJiOTQ1NWU0NzFlNzg0Ng==`

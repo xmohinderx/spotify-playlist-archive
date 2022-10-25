@@ -2,9 +2,9 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Hier alleen magic en motion! Cover: Antoon & Dopebwoy
+> Nieuwe Broederliefde vandaag! Hier alleen maar good vibes en motion.
 
-235 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+236 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Digi Deng Dang \(feat\. Caza\)](https://open.spotify.com/track/6AhjFgx6oMbUeSy573Wt5t) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Doe Het Nou Gewoon](https://open.spotify.com/album/7t3ilQDv7pSEUhpbelfXwR) | 2:41 | 2022-07-24 | 2022-08-03 |
 | [DITA](https://open.spotify.com/track/74zIftyUMD0GRoZhlxrJiv) | [Ta Joela](https://open.spotify.com/artist/6sCttVBqXoWYIXC1w6IsU1) | [DITA](https://open.spotify.com/album/1KeIWgdiWC9CMbGGvp9Ugy) | 2:17 | 2022-09-01 | 2022-09-16 |
 | [Druk](https://open.spotify.com/track/6Eig12I0DJsLK6WaNia5E6) | [Valentino Ignoto](https://open.spotify.com/artist/33gzH4UlGKuY3GIoiukLin), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa) | [Druk](https://open.spotify.com/album/3RBRLi9fvabjM1xj5cO6uC) | 1:52 | 2022-10-13 |  |
+| [Déjà Vu](https://open.spotify.com/track/0MoVSGtczr71BiUMaAGLdu) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Déjà Vu](https://open.spotify.com/album/70TkeQlSOxAjMRGpYCNJc8) | 3:20 | 2022-10-24 |  |
 | [Ego](https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Ego](https://open.spotify.com/album/6jMWWy5KVlJD2JhGAWP13z) | 2:36 | 2022-10-16 |  |
 | [Enjoyment](https://open.spotify.com/track/6joqibVw5dlmznb4bINJhb) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Enjoyment](https://open.spotify.com/album/3u7RahkGaDMBWG6W0JIVTn) | 3:14 | 2022-08-18 |  |
 | [Evidence](https://open.spotify.com/track/3BfUA5HYf8dtXvtnYqtvxw) | [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Travis Allen](https://open.spotify.com/artist/0l0pHgoBrCcr7wQTrBwbCp), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [Evidence](https://open.spotify.com/album/6xI9kUBYnKMVVtYH6Zj6Dz) | 2:57 | 2022-07-28 | 2022-08-26 |

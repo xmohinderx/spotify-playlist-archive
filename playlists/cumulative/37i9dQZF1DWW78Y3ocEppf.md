@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: Eric Bellinger
 
-350 songs - 18 hr 59 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
+352 songs - 19 hr 4 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Feeling Lucky](https://open.spotify.com/track/50xaiGmgb5AspAtX7IAQGF) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 2:36 | 2022-02-18 | 2022-07-29 |
 | [Feelings 4 You](https://open.spotify.com/track/6FyadQAUc4Rrv9WT8sa8Ro) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/2kuH27HnAi396mXM1LqZ8q) | 4:16 | 2022-02-18 | 2022-02-26 |
 | [Feelings 4 You](https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx) | 4:16 | 2022-05-20 |  |
+| [Figures](https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Figures](https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q) | 2:32 | 2022-10-14 |  |
 | [Fiji](https://open.spotify.com/track/2fVYT0yE6oLLKL3Fe9Sve7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Fiji](https://open.spotify.com/album/7IDR0ZVnx1GCvaDtZUV7Mj) | 2:25 | 2022-03-25 | 2022-07-27 |
 | [Finesse](https://open.spotify.com/track/7nogWi70pk4R7t8aNomgGu) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Finesse](https://open.spotify.com/album/3PmtVhKChNrW23rI6ADGyx) | 2:53 | 2021-12-15 | 2022-07-28 |
 | [First Day Out \(with Smoke DZA\)](https://open.spotify.com/track/688AlseD6rAfzvjfVrjyQm) | [Abby Jasmine](https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [First Day Out \(with Smoke DZA\)](https://open.spotify.com/album/5yRyjzErlf8cvDu9Yooob8) | 3:10 | 2022-02-25 | 2022-04-11 |
@@ -169,6 +170,7 @@
 | [I Think I Do](https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [I Think I Do](https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya) | 2:22 | 2022-10-14 |  |
 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 | 2022-08-05 |  |
 | [I'm Coming Back](https://open.spotify.com/track/1v0PjMzN2vFtK3vTWwASDS) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Rachelle Ferrell](https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ) | [Where It All Begins](https://open.spotify.com/album/1eXj3GU32V64aHE5BMInZX) | 6:57 | 2022-03-25 | 2022-04-20 |
+| [Icarus](https://open.spotify.com/track/0rlX8acfJKPQ3NVHjxR7ml) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09) | 2:30 | 2022-07-15 |  |
 | [Icarus](https://open.spotify.com/track/1iSOrS6dfgPvENu0G4WhAd) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0) | 2:30 | 2021-12-15 | 2022-10-13 |
 | [IDGAF](https://open.spotify.com/track/2bNXO8JjQZY2PkIFJ3XyuB) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Twenties \(Deluxe\)](https://open.spotify.com/album/0bD5bkHCUBQcf6sNg8aRcd) | 2:48 | 2021-12-15 | 2022-04-06 |
 | [If I Get Caught](https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [If I Get Caught](https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS) | 3:06 | 2022-09-30 |  |
@@ -287,7 +289,7 @@
 | [Set Him Up \(feat\. Ari Lennox\)](https://open.spotify.com/track/0FhfNle9FovXRL03awCJbe) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Set Him Up \(feat\. Ari Lennox\)](https://open.spotify.com/album/6prRBHIVxS9oyvDmxS2nwa) | 3:42 | 2021-12-15 | 2022-07-24 |
 | [Shoestring](https://open.spotify.com/track/0NEKQk8LR8m8gBNnG3QFzk) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Shoestring](https://open.spotify.com/album/5G6tyxzG08lXIfhMSHzxRH) | 3:58 | 2022-03-11 | 2022-07-21 |
 | [Shoulda](https://open.spotify.com/track/4nRYjMFeJOJQbNC0QDLOkS) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Shoulda](https://open.spotify.com/album/3sQ1EVwf6xDXaNOK32a7h8) | 3:37 | 2021-12-15 | 2022-03-23 |
-| [single af](https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [single af](https://open.spotify.com/album/0NVib4XqpW1Yx4nOtbCDyh) | 3:06 | 2021-12-15 |  |
+| [single af](https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [single af](https://open.spotify.com/album/0NVib4XqpW1Yx4nOtbCDyh) | 3:06 | 2021-12-15 | 2022-10-25 |
 | [Sleep At Night](https://open.spotify.com/track/0omx2LN5ABADusOyzKVYUY) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:39 | 2022-06-24 | 2022-08-06 |
 | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx) | 2:11 | 2022-09-30 |  |
 | [Smokin Out The Window](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:17 | 2022-07-15 | 2022-08-06 |
@@ -313,7 +315,7 @@
 | [Talkin](https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Talkin](https://open.spotify.com/album/3nHJDlDfY5j2jTbfyzAmQs) | 1:55 | 2022-09-16 | 2022-10-15 |
 | [Temptations](https://open.spotify.com/track/4QokysYZE2otPdhq5L4EM0) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Didn't Start With You](https://open.spotify.com/album/27RhvUoZNhFtggwX1pVSgr) | 2:59 | 2022-10-07 |  |
 | [Tension](https://open.spotify.com/track/4JDsi2ZxNDoMWlzWpr3dZj) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [My Way](https://open.spotify.com/album/3psW8SjqD6GFta8wCoBTes) | 2:26 | 2021-12-15 | 2022-02-03 |
-| [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 | 2021-12-15 |  |
+| [the catch up](https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [alone / the catch up](https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I) | 3:08 | 2021-12-15 | 2022-10-25 |
 | [The Distance](https://open.spotify.com/track/3wEiJMQozHw9KOGeLbkhKK) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [The Distance](https://open.spotify.com/album/1XXshy7NZW44R2EM2akB7d) | 3:22 | 2022-02-04 | 2022-04-20 |
 | [The Homie](https://open.spotify.com/track/40s9fTqos9irqz2kmNRbCq) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Soulquarius](https://open.spotify.com/album/762U5ToU14EyGscZC1iwzg) | 2:40 | 2021-12-15 | 2022-07-29 |
 | [Thug Cry](https://open.spotify.com/track/0sATEUoYEAH1zjfYSKIo8N) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Thug Cry](https://open.spotify.com/album/1MeVoCVoD5smZ3Z7urlmtu) | 2:59 | 2021-12-15 | 2022-07-10 |

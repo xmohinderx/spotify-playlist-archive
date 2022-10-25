@@ -1,12 +1,12 @@
 {
   "description": "This is the best of today's true alternative rock scene.",
-  "num_followers": 467717,
+  "num_followers": 467750,
   "original_name": "New Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDAwMDU5ZmFiODQyM2YyNTljZjU5MzU1OTdiYWE1YWViOTdi",
+  "snapshot_id": "MTY1MTIwNDg2MCwwMDAwMDAwMDg4YmM5ZTljNjBkMGFlODhiY2I3MGQzOThlMjgzZTI3",
   "tracks": [
     {
       "added_at": "2022-04-29 04:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "THE UNRAVELING OF PUPTHEBAND",
-        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Robot Writes A Love Song",
-      "url": "https://open.spotify.com/track/3JKFWrIPoTGasqvrAn3u3D"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": ".burymewhole.",
         "url": "https://open.spotify.com/album/5yHbHpMIX8nHFASdst372R"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO"
+        "name": "THE UNRAVELING OF PUPTHEBAND",
+        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
       },
       "artists": [
         {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
         }
       ],
-      "duration_ms": 205205,
-      "name": "Shoulders",
-      "url": "https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27"
+      "duration_ms": 216013,
+      "name": "Robot Writes A Love Song",
+      "url": "https://open.spotify.com/track/3JKFWrIPoTGasqvrAn3u3D"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -659,6 +643,22 @@
       "duration_ms": 147561,
       "name": "Four Letter Words",
       "url": "https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 205205,
+      "name": "Shoulders",
+      "url": "https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Seven White Horses",
-        "url": "https://open.spotify.com/album/4357uAusMjqy9RGD7UI2We"
-      },
-      "artists": [
-        {
-          "name": "Starbenders",
-          "url": "https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u"
-        }
-      ],
-      "duration_ms": 220816,
-      "name": "Seven White Horses",
-      "url": "https://open.spotify.com/track/6GRdjS6T0xO677c0h8rfj6"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Back Foot",
         "url": "https://open.spotify.com/album/4q7m6brjyKWXqpvyg3kAdQ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 188653,
       "name": "Back Foot",
       "url": "https://open.spotify.com/track/6hZ11ThYoAHlLJsBK2U3jH"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Seven White Horses",
+        "url": "https://open.spotify.com/album/4357uAusMjqy9RGD7UI2We"
+      },
+      "artists": [
+        {
+          "name": "Starbenders",
+          "url": "https://open.spotify.com/artist/61jrgPBUklDAQV9DptCc8u"
+        }
+      ],
+      "duration_ms": 220816,
+      "name": "Seven White Horses",
+      "url": "https://open.spotify.com/track/6GRdjS6T0xO677c0h8rfj6"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
+        "name": "MYSTERY",
+        "url": "https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
         "name": "Nowhere Generation [with Meg Myers]",
         "url": "https://open.spotify.com/album/2g1iPboxaw0IV4zRhA2Scl"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 239252,
       "name": "Nowhere Generation [with Meg Myers]",
       "url": "https://open.spotify.com/track/5KBbOzPYd1lnnWV122qKwY"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "MYSTERY",
-        "url": "https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Torpedo",
-        "url": "https://open.spotify.com/album/45FNVeKY799LKTNL4SmaGx"
-      },
-      "artists": [
-        {
-          "name": "Feeder",
-          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
-        }
-      ],
-      "duration_ms": 224073,
-      "name": "Torpedo",
-      "url": "https://open.spotify.com/track/5y7IIUePVxDXk0dkPv9Sf5"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 166834,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Torpedo",
+        "url": "https://open.spotify.com/album/45FNVeKY799LKTNL4SmaGx"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "duration_ms": 224073,
+      "name": "Torpedo",
+      "url": "https://open.spotify.com/track/5y7IIUePVxDXk0dkPv9Sf5"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Double Down",
-        "url": "https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8"
-      },
-      "artists": [
-        {
-          "name": "Slothrust",
-          "url": "https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Double Down - 2019 Mix",
-      "url": "https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "I Feel Like I'm Falling",
         "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
       },
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
+        "name": "Double Down",
+        "url": "https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8"
+      },
+      "artists": [
+        {
+          "name": "Slothrust",
+          "url": "https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Double Down - 2019 Mix",
+      "url": "https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
         "name": "Now and Then",
         "url": "https://open.spotify.com/album/3CEFLFiJou19gt6VY6o56I"
       },
@@ -1411,6 +1411,22 @@
       "duration_ms": 203064,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0yVDMgFk4GzxDW7d1kuQBm"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "Great Mass of Color",
+        "url": "https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp"
+      },
+      "artists": [
+        {
+          "name": "Deafheaven",
+          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
+        }
+      ],
+      "duration_ms": 360333,
+      "name": "Great Mass of Color",
+      "url": "https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1443,22 +1459,6 @@
       "duration_ms": 180000,
       "name": "Less Is More",
       "url": "https://open.spotify.com/track/7f0owLbR340tr059vrOu93"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "Great Mass of Color",
-        "url": "https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp"
-      },
-      "artists": [
-        {
-          "name": "Deafheaven",
-          "url": "https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9"
-        }
-      ],
-      "duration_ms": 360333,
-      "name": "Great Mass of Color",
-      "url": "https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
-        "name": "Devour You",
-        "url": "https://open.spotify.com/album/0WmStcm2iIpUyPVIkAgE9i"
-      },
-      "artists": [
-        {
-          "name": "Starcrawler",
-          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
-        }
-      ],
-      "duration_ms": 160245,
-      "name": "You Dig Yours",
-      "url": "https://open.spotify.com/track/0RIExW6hQSwx4r6lk74dQm"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2022-04-29 04:01:00",
       "album": {
+        "name": "Devour You",
+        "url": "https://open.spotify.com/album/0WmStcm2iIpUyPVIkAgE9i"
+      },
+      "artists": [
+        {
+          "name": "Starcrawler",
+          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
+        }
+      ],
+      "duration_ms": 160245,
+      "name": "You Dig Yours",
+      "url": "https://open.spotify.com/track/0RIExW6hQSwx4r6lk74dQm"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
         "name": "Car Crash",
         "url": "https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 232584,
       "name": "Car Crash",
       "url": "https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "FLAG (Feel Like A Girl)",
+        "url": "https://open.spotify.com/album/0ENZf1H4TdOjZNhEBmtnZG"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "FLAG (Feel Like A Girl)",
+      "url": "https://open.spotify.com/track/6eYr9mXnX7TSBSn6Y2Bazc"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1591,22 +1607,6 @@
       "duration_ms": 197853,
       "name": "Pillar On The Bridge Of You",
       "url": "https://open.spotify.com/track/3quyci0xdEjIRQBusVGDL2"
-    },
-    {
-      "added_at": "2022-04-29 04:01:00",
-      "album": {
-        "name": "FLAG (Feel Like A Girl)",
-        "url": "https://open.spotify.com/album/0ENZf1H4TdOjZNhEBmtnZG"
-      },
-      "artists": [
-        {
-          "name": "Coach Party",
-          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "FLAG (Feel Like A Girl)",
-      "url": "https://open.spotify.com/track/6eYr9mXnX7TSBSn6Y2Bazc"
     },
     {
       "added_at": "2022-04-29 04:01:00",

@@ -4,7 +4,7 @@
 
 > Eclectic indie love songs from throughout the years\. Delicate lyrics that say it best.
 
-151 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/7obcJwGE7AMiEhpT8IqCdQ)
+152 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/7obcJwGE7AMiEhpT8IqCdQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Sweet \- Single Version](https://open.spotify.com/track/5eVyyvVlqzxUt77LWXXo3H) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Sweet](https://open.spotify.com/album/6PTw9mQyGYtc44WPIOtDwf) | 4:12 | 2021-02-05 | 2022-07-29 |
 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 | 2021-02-05 |  |
 | [Sweet Tides](https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG) | 4:48 | 2022-07-01 | 2022-07-23 |
-| [Sweet Tides](https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL) | 4:48 | 2022-10-12 |  |
+| [Sweet Tides](https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL) | 4:48 | 2022-10-12 | 2022-10-25 |
 | [Thank You](https://open.spotify.com/track/751gBcu62kORDelX7FV0mM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk) | 3:37 | 2022-07-01 |  |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2022-02-03 |  |
 | [The Girl](https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 6:00 | 2021-02-05 |  |
@@ -158,6 +158,7 @@
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2021-02-05 |  |
 | [Your Ex\-Lover Is Dead](https://open.spotify.com/track/43xk2HGO76L9CTsfmMO8Od) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire](https://open.spotify.com/album/7yMj4j66GYb00KkKHC7hAR) | 4:16 | 2021-02-05 | 2022-07-29 |
 | [Your Heart Is an Empty Room](https://open.spotify.com/track/189U8yIFKCzC6RSXCvPHiL) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/4guW5WPxFzHrXg04FPC9v9) | 3:39 | 2021-02-05 | 2022-06-04 |
+| [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 | 2022-10-12 |  |
 | [Youth](https://open.spotify.com/track/4AmcmraFjVzFb9SQDNTRyl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:13 | 2021-02-05 | 2022-10-14 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

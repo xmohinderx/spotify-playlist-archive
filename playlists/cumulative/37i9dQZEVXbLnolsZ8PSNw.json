@@ -4056,6 +4056,24 @@
     },
     {
       "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225194,
+      "name": "Dear Reader",
+      "url": "https://open.spotify.com/track/7lFNXsbcbds699xCWO3pSe"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -5505,7 +5523,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -7007,7 +7025,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -12407,7 +12425,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 155691,
       "name": "Not Over Yet (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/3PXmiB8Htr95ccAdKyIsyR"

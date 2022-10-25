@@ -696,6 +696,24 @@
     },
     {
       "album": {
+        "name": "Wake Up Calls",
+        "url": "https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81106,
+      "name": "Bittern",
+      "url": "https://open.spotify.com/track/64qOH2bUXO1Lfl1Lr5fnC5"
+    },
+    {
+      "album": {
         "name": "Angelic",
         "url": "https://open.spotify.com/album/5s37hBeeGnPiSdKumJX0pd"
       },
@@ -2515,7 +2533,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 185373,
       "name": "Lost Wisdom",
       "url": "https://open.spotify.com/track/0ZLOoYYVJG7Jpgv83tPMny"

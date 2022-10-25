@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 167151,
+  "num_followers": 167274,
   "original_name": "Energy Booster: Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0NzU3MCwwMDAwMDAwMDNlYTZjNWUyODMyYzI3YzZhOWVhYzllMjhiMTgxNmQy",
+  "snapshot_id": "MTY2NDU0NzU3MCwwMDAwMDAwMGZiMDA5NjQxOGZhZjY4MzQxNDBlODZhY2Y2NjdjYTIx",
   "tracks": [
     {
       "added_at": "2022-09-30 14:19:30",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 467586,
-      "name": "Let It Happen",
-      "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
-    },
-    {
-      "added_at": "2022-09-30 14:19:30",
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 193030,
       "name": "Snap Out Of It",
       "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
+    },
+    {
+      "added_at": "2022-09-30 14:19:30",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 467586,
+      "name": "Let It Happen",
+      "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "What You Know",
-      "url": "https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3"
-    },
-    {
-      "added_at": "2022-09-30 14:19:30",
-      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -283,6 +267,22 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3"
+    },
+    {
+      "added_at": "2022-09-30 14:19:30",
+      "album": {
         "name": "The Gods We Can Touch",
         "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
       },
@@ -295,6 +295,38 @@
       "duration_ms": 201640,
       "name": "Cure For Me",
       "url": "https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO"
+    },
+    {
+      "added_at": "2022-09-30 14:19:30",
+      "album": {
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "Television / So Far So Good",
+      "url": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI"
+    },
+    {
+      "added_at": "2022-09-30 14:19:30",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "Supercut",
+      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -347,38 +379,6 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 262600,
-      "name": "Television / So Far So Good",
-      "url": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI"
-    },
-    {
-      "added_at": "2022-09-30 14:19:30",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 277506,
-      "name": "Supercut",
-      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
-    },
-    {
-      "added_at": "2022-09-30 14:19:30",
-      "album": {
         "name": "Nothing Happens",
         "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
@@ -391,6 +391,38 @@
       "duration_ms": 166520,
       "name": "Scrawny",
       "url": "https://open.spotify.com/track/1pNUmVxDiE8t6P1XxcZAv8"
+    },
+    {
+      "added_at": "2022-09-30 14:19:30",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 252230,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
+    },
+    {
+      "added_at": "2022-09-30 14:19:30",
+      "album": {
+        "name": "bad idea!",
+        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -423,22 +455,6 @@
       "duration_ms": 237986,
       "name": "Hypersonic Missiles",
       "url": "https://open.spotify.com/track/6CltzquypraYIlWFp48m1O"
-    },
-    {
-      "added_at": "2022-09-30 14:19:30",
-      "album": {
-        "name": "bad idea!",
-        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 219638,
-      "name": "bad idea!",
-      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -491,38 +507,6 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "Pleaser",
-        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187895,
-      "name": "Pleaser",
-      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
-    },
-    {
-      "added_at": "2022-09-30 14:19:30",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 252230,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
-    },
-    {
-      "added_at": "2022-09-30 14:19:30",
-      "album": {
         "name": "Gossamer",
         "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "Holy Fire",
-        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
+        "name": "Pleaser",
+        "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
         }
       ],
-      "duration_ms": 238853,
-      "name": "My Number",
-      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
+      "duration_ms": 187895,
+      "name": "Pleaser",
+      "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -583,6 +567,22 @@
       "duration_ms": 162600,
       "name": "Will We Talk?",
       "url": "https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i"
+    },
+    {
+      "added_at": "2022-09-30 14:19:30",
+      "album": {
+        "name": "Holy Fire",
+        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "My Number",
+      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -619,34 +619,18 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "saintmotelevision",
-        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
       },
       "artists": [
         {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 192040,
-      "name": "Sweet Talk",
-      "url": "https://open.spotify.com/track/6kcHg7XL6SKyPNd78daRBL"
-    },
-    {
-      "added_at": "2022-09-30 14:19:30",
-      "album": {
-        "name": "Strange Desire",
-        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
+      "duration_ms": 160886,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -667,34 +651,18 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
+        "name": "saintmotelevision",
+        "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
       },
       "artists": [
         {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
         }
       ],
-      "duration_ms": 160886,
-      "name": "Kathleen",
-      "url": "https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq"
-    },
-    {
-      "added_at": "2022-09-30 14:19:30",
-      "album": {
-        "name": "Now, Not Yet",
-        "url": "https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "still feel.",
-      "url": "https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5"
+      "duration_ms": 192040,
+      "name": "Sweet Talk",
+      "url": "https://open.spotify.com/track/6kcHg7XL6SKyPNd78daRBL"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -711,6 +679,38 @@
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2022-09-30 14:19:30",
+      "album": {
+        "name": "Strange Desire",
+        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/5L95vS64rG1YMIFm1hLjyZ"
+    },
+    {
+      "added_at": "2022-09-30 14:19:30",
+      "album": {
+        "name": "Now, Not Yet",
+        "url": "https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "still feel.",
+      "url": "https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym"
-    },
-    {
-      "added_at": "2022-09-30 14:19:30",
-      "album": {
         "name": "The Balcony",
         "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 236887,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm"
+    },
+    {
+      "added_at": "2022-09-30 14:19:30",
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "Strange Desire",
-        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "I Wanna Get Better",
-      "url": "https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb"
-    },
-    {
-      "added_at": "2022-09-30 14:19:30",
-      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 209626,
       "name": "Machu Picchu",
       "url": "https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H"
+    },
+    {
+      "added_at": "2022-09-30 14:19:30",
+      "album": {
+        "name": "Strange Desire",
+        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "I Wanna Get Better",
+      "url": "https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "Gone Now",
-        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 215546,
-      "name": "Don't Take The Money",
-      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
+      "duration_ms": 276720,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/1fXiYSWmkKJfRKMegCkI11"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "Disappear Here",
-        "url": "https://open.spotify.com/album/2YXl7mV4d30fEbwpVQ7YBQ"
+        "name": "Gone Now",
+        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
       },
       "artists": [
         {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 187013,
-      "name": "Daft Pretty Boys",
-      "url": "https://open.spotify.com/track/41d2Q6DHcM20OdzynkRtvf"
+      "duration_ms": 215546,
+      "name": "Don't Take The Money",
+      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -1079,6 +1079,22 @@
       "duration_ms": 211453,
       "name": "Mountain Sound",
       "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
+    },
+    {
+      "added_at": "2022-09-30 14:19:30",
+      "album": {
+        "name": "Disappear Here",
+        "url": "https://open.spotify.com/album/2YXl7mV4d30fEbwpVQ7YBQ"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Daft Pretty Boys",
+      "url": "https://open.spotify.com/track/41d2Q6DHcM20OdzynkRtvf"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -1111,22 +1127,6 @@
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
-    },
-    {
-      "added_at": "2022-09-30 14:19:30",
-      "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 276720,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/1fXiYSWmkKJfRKMegCkI11"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
-    },
-    {
-      "added_at": "2022-09-30 14:19:30",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
       },
       "artists": [
         {
-          "name": "The Mowgli's",
-          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         }
       ],
-      "duration_ms": 173093,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -1287,6 +1271,22 @@
       "duration_ms": 175906,
       "name": "Work This Body",
       "url": "https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb"
+    },
+    {
+      "added_at": "2022-09-30 14:19:30",
+      "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
+      },
+      "artists": [
+        {
+          "name": "The Mowgli's",
+          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
+        }
+      ],
+      "duration_ms": 173093,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
+        "name": "The Balance",
+        "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Longshot",
+      "url": "https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l"
+    },
+    {
+      "added_at": "2022-09-30 14:19:30",
+      "album": {
         "name": "LA DIVINE",
         "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
       },
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "The Balance",
-        "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
       "artists": [
         {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 232960,
-      "name": "Longshot",
-      "url": "https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l"
+      "duration_ms": 196588,
+      "name": "Give Yourself A Try",
+      "url": "https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw"
     },
     {
       "added_at": "2022-09-30 14:19:30",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 196588,
-      "name": "Give Yourself A Try",
-      "url": "https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw"
-    },
-    {
-      "added_at": "2022-09-30 14:19:30",
-      "album": {
         "name": "Master of My Make-Believe",
         "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-09-30 14:19:30",
       "album": {
-        "name": "She Plays Bass",
-        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "She Plays Bass",
-      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
-    },
-    {
-      "added_at": "2022-09-30 14:19:30",
-      "album": {
         "name": "Dear Miss Lonelyhearts",
         "url": "https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 180133,
       "name": "Miracle Mile",
       "url": "https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK"
+    },
+    {
+      "added_at": "2022-09-30 14:19:30",
+      "album": {
+        "name": "She Plays Bass",
+        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "She Plays Bass",
+      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
     },
     {
       "added_at": "2022-09-30 14:19:30",

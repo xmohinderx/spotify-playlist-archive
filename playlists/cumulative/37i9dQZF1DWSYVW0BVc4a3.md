@@ -4,7 +4,7 @@
 
 > Rave season is upon us\. Cover: Gorgon City
 
-196 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
+197 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Dandelions](https://open.spotify.com/track/2sjTCA3qv9NKz6btRu0O5h) | [oqbqbo](https://open.spotify.com/artist/0sxuAo23kwvWKzFmJpLHmw), [Scandinavian Star](https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp) | [Dandelions / Sleep Lines](https://open.spotify.com/album/6hdj9LxxIKbI13hYVq6t4n) | 5:34 | 2022-08-18 | 2022-09-09 |
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2022-09-15 |  |
 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 | 2022-10-20 |  |
+| [Dedication To House Music](https://open.spotify.com/track/6eIY3ybQkIOddP1dxDLB3W) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Dedication To House Music](https://open.spotify.com/album/1FV1kXqforekpg0HlDZOWl) | 3:30 | 2022-10-20 |  |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-20 |  |
 | [Discipline \(with Tchami\)](https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Don Malaa](https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP) | 4:00 | 2022-09-30 |  |
 | [Disco Voador \- Oliver Koletzki Remix](https://open.spotify.com/track/2EjIqupvKOa71EF7MzJPNx) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Disco Voador \(Oliver Koletzki Remix\)](https://open.spotify.com/album/1WiwLf8ecO1vO41xkWV9OL) | 6:21 | 2022-09-15 |  |
@@ -164,7 +165,7 @@
 | [Stepper](https://open.spotify.com/track/6LWnD63tBcpnkWJRlOegja) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Pressure](https://open.spotify.com/album/6QEnHZniqvybsckdyptQql) | 3:26 | 2022-10-06 |  |
 | [suddenly](https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva) | 3:35 | 2022-08-18 | 2022-09-24 |
 | [Sumatra](https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Sumatra](https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2) | 3:17 | 2022-08-18 | 2022-09-24 |
-| [Sun Goes Down \(feat\. KILLUA\) \- Guz Remix](https://open.spotify.com/track/5OqjDdZd9Yo2dbjrllnUjs) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Sun Goes Down \(feat\. KILLUA\) \[Guz Remix\]](https://open.spotify.com/album/542hQ6L27oSozwt1v4OOeU) | 2:39 | 2022-09-22 |  |
+| [Sun Goes Down \(feat\. KILLUA\) \- Guz Remix](https://open.spotify.com/track/5OqjDdZd9Yo2dbjrllnUjs) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Sun Goes Down \(feat\. KILLUA\) \[Guz Remix\]](https://open.spotify.com/album/542hQ6L27oSozwt1v4OOeU) | 2:39 | 2022-09-22 | 2022-10-25 |
 | [Sunburn](https://open.spotify.com/track/7xqDIqjgXW9OHbi1sPxeUF) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sunburn](https://open.spotify.com/album/1203zCqGjsMNe9vre3dMrJ) | 3:02 | 2022-08-18 | 2022-08-20 |
 | [Sway](https://open.spotify.com/track/6pDxh4ccvoemuCgia0OgGf) | [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Sway](https://open.spotify.com/album/6VJLQFVzDbxxc6aHma1NsU) | 3:13 | 2022-09-29 | 2022-10-07 |
 | [Take Me High](https://open.spotify.com/track/1EF8Ya2wALJOufB5VQAwtt) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Take Me High](https://open.spotify.com/album/45QHBYLqcIq50K0yCt43J7) | 4:15 | 2022-10-07 |  |

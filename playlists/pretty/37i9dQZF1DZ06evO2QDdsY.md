@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,033 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,036 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 39 | [The Hour](https://open.spotify.com/track/5m2kIH8AkRcWafNJejjUDn) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:49 |
 | 40 | [Pushin’ Against A Stone](https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 5:14 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDAxMjQ3MjRjZmE4MjhiYWU1MGI5MGQ3YTFkY2E0NmExMw==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDBkZTY3ZDEwM2NmNjY1ZDY0MWRmODU3ZDVjZDQyYzg1Ng==`

@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Runnner
 
-667 songs - 1 day 14 hr 11 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+669 songs - 1 day 14 hr 18 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [Dawning](https://open.spotify.com/track/6kD2M35ioMIe77cAaL8RzY) | [THEM PARENTS](https://open.spotify.com/artist/0zBu6Ne0tm3kArvljuazCj) | [Dawning](https://open.spotify.com/album/7E8hpPJPfnldSLj41mHHoI) | 3:50 | 2022-03-04 | 2022-04-14 |
 | [death wish](https://open.spotify.com/track/0oCtO4wLUisjOusLalamVW) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 2:44 | 2022-09-02 |  |
 | [DEATHBLOW](https://open.spotify.com/track/0UyDaW1aWaXAUReRul1sQw) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [ur not real](https://open.spotify.com/album/60PCJO6t6GxHI5MFacb1q3) | 2:56 | 2022-05-13 | 2022-09-03 |
-| [Deep Sea Ladder](https://open.spotify.com/track/1kgX28e49B0GC6U9HdwCoh) | [Atta Boy](https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2) | [Deep Sea Ladder](https://open.spotify.com/album/43oCH1Z5gOYXSzhy40dMrA) | 3:29 | 2022-09-23 |  |
+| [Deep Sea Ladder](https://open.spotify.com/track/0AKss1DzepeFmwOSEvK5sb) | [Atta Boy](https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2) | [Crab Park](https://open.spotify.com/album/7Cx7EeeY8TaRKbmcXNY4rc) | 3:29 | 2022-10-21 |  |
+| [Deep Sea Ladder](https://open.spotify.com/track/1kgX28e49B0GC6U9HdwCoh) | [Atta Boy](https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2) | [Deep Sea Ladder](https://open.spotify.com/album/43oCH1Z5gOYXSzhy40dMrA) | 3:29 | 2022-09-23 | 2022-10-25 |
 | [Defy](https://open.spotify.com/track/1rpLnmk3hlS4SKAD3sgUl2) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [No Luck](https://open.spotify.com/album/598tri5nxtfMnskSO4ht2c) | 1:26 | 2022-04-29 | 2022-05-18 |
 | [Destroyer](https://open.spotify.com/track/3Lllvxi2oA6DIwy2qhPgQx) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [The Lamb](https://open.spotify.com/album/3gu8vRNBovoMdF82JLGvFL) | 3:12 | 2021-06-02 | 2022-04-21 |
 | [Dew ♥ \- Lo\-Fi Version](https://open.spotify.com/track/2kGsDdHM1S79pw9EUwo9qi) | [PYNKIE](https://open.spotify.com/artist/45GkpefZW8F5td5gkU8f29) | [Dew ♥ \(Lo\-Fi Version\)](https://open.spotify.com/album/4lTpONk7TsaPa3AayHVb1a) | 3:40 | 2021-06-02 | 2022-04-17 |
@@ -667,7 +668,8 @@
 | [Year of Love](https://open.spotify.com/track/2xMf6kbsGhfmrzLxC5HRLw) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 4:13 | 2022-03-26 | 2022-04-15 |
 | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/track/5MUBfoCUmCLpGgqvvi3ool) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/album/2LAC5rux87C29bv8vuhEgj) | 3:22 | 2021-08-13 | 2022-04-27 |
 | [You are my House](https://open.spotify.com/track/5OP4YDqfuksol3eFGxhgvr) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Quiet the Room](https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE) | 3:08 | 2022-10-14 |  |
-| [You Follow Me Around](https://open.spotify.com/track/3PpvZqgohg0VaNiGDUMWEO) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [You Follow Me Around](https://open.spotify.com/album/0rHEklUS6vtFMvCIdblQaI) | 3:30 | 2022-08-05 |  |
+| [You Follow Me Around](https://open.spotify.com/track/39O3wOayzkkTy0aqmqtTbp) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [Night Terrors](https://open.spotify.com/album/5UvoKdunC7lYfT8w1ZV7Jj) | 3:30 | 2022-10-21 |  |
+| [You Follow Me Around](https://open.spotify.com/track/3PpvZqgohg0VaNiGDUMWEO) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [You Follow Me Around](https://open.spotify.com/album/0rHEklUS6vtFMvCIdblQaI) | 3:30 | 2022-08-05 | 2022-10-25 |
 | [You Follow Me Around](https://open.spotify.com/track/6TFGjO5tVnsRw2ChX7vRoW) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [You Follow Me Around](https://open.spotify.com/album/6ZtLLPauGWJcMjuHBd8Ky6) | 3:30 | 2022-08-05 | 2022-10-19 |
 | [You Have Got to Be Kidding Me](https://open.spotify.com/track/3kai81vBptYiDfb0QXHv5X) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/0e0c5rz0pMLFvqR7bDyXtc) | 3:36 | 2022-05-20 | 2022-10-01 |
 | [You Said](https://open.spotify.com/track/1CGqxRs1rF8iwNj8H7CIUP) | [Sad Park](https://open.spotify.com/artist/7jHnNNWDLa2ztggSp5Dsxf) | [You Said / Chest Pains](https://open.spotify.com/album/4zoT2MdaZDT3IWOOQPckIE) | 2:44 | 2022-04-29 | 2022-05-10 |

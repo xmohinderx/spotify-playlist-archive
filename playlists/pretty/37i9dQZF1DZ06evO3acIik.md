@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,558 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,590 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 39 | [Lost](https://open.spotify.com/track/1p0krUFuFcLI9PugCfMTO9) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 4:35 |
 | 40 | [God Don't Make Mistakes \(feat\. Dante Bowe, Montell Fish & Mav City Gospel Choir\)](https://open.spotify.com/track/7Gm5qTbZOdsCDdRohqoFVB) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Jubilee: Juneteenth Edition](https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH) | 3:50 |
 | 41 | [In the Ocean \(feat\. Montell Fish\)](https://open.spotify.com/track/6IoH81sosd6WHhoLgYODBH) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Spring](https://open.spotify.com/album/0aT8MMYx6r4tN1W0ipTgOs) | 3:45 |
-| 42 | [3:35am](https://open.spotify.com/track/3YAATSyfadxYQ3AKxzeDt2) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo) | 3:02 |
-| 43 | [Holding Me Down](https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Holding Me Down](https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q) | 3:15 |
+| 42 | [Holding Me Down](https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Holding Me Down](https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q) | 3:15 |
+| 43 | [3:35am](https://open.spotify.com/track/3YAATSyfadxYQ3AKxzeDt2) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo) | 3:02 |
 | 44 | [11:47 Pm](https://open.spotify.com/track/3EErEHQtBFXY7LTiRqqB4a) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Gospel](https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk) | 6:02 |
 | 45 | [Eyes Only for You](https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC) | [Eyes Only for You](https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH) | 3:32 |
-| 46 | [Beautiful Love](https://open.spotify.com/track/6mT8nJsctIeHQCo6zgtpdW) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo) | 3:45 |
-| 47 | [Hold](https://open.spotify.com/track/0trbXeevXt7Zle6TZ0aLni) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [As We Walk into Forever](https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB) | 2:31 |
-| 48 | [Love Unite](https://open.spotify.com/track/4ixb2UjT4Yu5CRHNXHHSdK) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Gospel](https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk) | 2:44 |
-| 49 | [Getting Stronger](https://open.spotify.com/track/2RNUP450GqkdTQvnSDo8zO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Chillhop Essentials Winter 2020](https://open.spotify.com/album/2tawQhSOBEJ4MQm1ZN6knB) | 2:40 |
-| 50 | [Let Go of Your Pain](https://open.spotify.com/track/4s6nmgS7txLnFJskJ2dtu3) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo) | 3:40 |
+| 46 | [Hold](https://open.spotify.com/track/0trbXeevXt7Zle6TZ0aLni) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [As We Walk into Forever](https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB) | 2:31 |
+| 47 | [Beautiful Love](https://open.spotify.com/track/6mT8nJsctIeHQCo6zgtpdW) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo) | 3:45 |
+| 48 | [Getting Stronger](https://open.spotify.com/track/2RNUP450GqkdTQvnSDo8zO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Chillhop Essentials Winter 2020](https://open.spotify.com/album/2tawQhSOBEJ4MQm1ZN6knB) | 2:40 |
+| 49 | [Love Unite](https://open.spotify.com/track/4ixb2UjT4Yu5CRHNXHHSdK) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Gospel](https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk) | 2:44 |
+| 50 | [Peter](https://open.spotify.com/track/4BSOJ81PwACg1rOY967aFj) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:52 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDAzNjgxMzlkNGE3YWY3Y2UwMjM1M2U2NmUxZDZlMDI5YQ==`
+Snapshot ID: `Mjc3NzczOTEsMDAwMDAwMDA0N2Y1N2I2MDAyYmU0Nzc3ZTY5NzhjNzU3N2ZjNTc4MQ==`

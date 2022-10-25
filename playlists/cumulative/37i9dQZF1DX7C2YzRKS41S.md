@@ -4,7 +4,7 @@
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-376 songs - 22 hr 20 min - [published](https://open.spotify.com/playlist/4PN19Rocw5jhy931gtx7Hy)
+377 songs - 22 hr 24 min - [published](https://open.spotify.com/playlist/4PN19Rocw5jhy931gtx7Hy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Cabelo De Anjo](https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Eu Feat\. Você](https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7) | 3:34 | 2021-12-24 |  |
 | [CACHOEIRA](https://open.spotify.com/track/57l9vK3s0roL97GOIvbrbw) | [Hugo Branquinho](https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs) | [CACHOEIRA](https://open.spotify.com/album/0oJqL5pvSwYGmpgZLH3gn3) | 3:40 | 2021-12-24 | 2022-07-26 |
 | [Cadeira](https://open.spotify.com/track/2oowCBcEoGGtlUmCps0AU1) | [Luan Costa](https://open.spotify.com/artist/31TjzIHki6R3FzCCmVe8JL) | [Cadeira](https://open.spotify.com/album/276vH7fABlU1z6fVFbStOJ) | 3:10 | 2022-03-25 | 2022-04-13 |
-| [Cafuné](https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Cafuné](https://open.spotify.com/album/5iSqDjYcmolXIVFqInrgFl) | 2:02 | 2021-12-24 |  |
+| [Cafuné](https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Cafuné](https://open.spotify.com/album/5iSqDjYcmolXIVFqInrgFl) | 2:02 | 2021-12-24 | 2022-10-25 |
 | [Café Com Farinha](https://open.spotify.com/track/5kHflnQWdI4I78JLFOwW6d) | [Bruno Addax](https://open.spotify.com/artist/2eLcfHcwcWB84a7ebdTAux), [Murillo Augustus](https://open.spotify.com/artist/0IhuR5YHiRfSRBzbtTU2SX) | [Café Com Farinha](https://open.spotify.com/album/2Q4eMTP68TSGsFiSjNtJ2w) | 2:51 | 2022-02-18 | 2022-07-01 |
 | [California](https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 3:50 | 2022-03-25 | 2022-04-19 |
 | [Calma](https://open.spotify.com/track/5zMHggqhl3ZMiQ9VbbNsbx) | [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL) | [Calma](https://open.spotify.com/album/3bVdgjWqzwCgH7AGy3IsPV) | 2:52 | 2021-12-24 | 2022-07-28 |
@@ -163,6 +163,7 @@
 | [Hey Siri](https://open.spotify.com/track/4R50WBxYsOjc79RC5WTOAg) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Hey Siri](https://open.spotify.com/album/3Ctl2DF1bklKN7ktpYwI5e) | 2:20 | 2022-03-25 | 2022-04-16 |
 | [Histórias](https://open.spotify.com/track/5OSYwoIaAwjaFXSn0R8jel) | [Ale / Alexis](https://open.spotify.com/artist/5htSNRDVyYNL0A156Wno2l) | [Histórias](https://open.spotify.com/album/7wl0ijjKDnXU48DVcl1lDD) | 2:49 | 2021-12-24 | 2022-06-28 |
 | [Home](https://open.spotify.com/track/2OBU3S3Mc3XOYG7wCAYW3Z) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Home](https://open.spotify.com/album/2zFskA4WhcUAMhGdKhVzXo) | 3:46 | 2022-03-25 | 2022-04-21 |
+| [Home](https://open.spotify.com/track/20kpTTSvI4ok6Gm1uZqtcz) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Home](https://open.spotify.com/album/069bQ54jzEYGdTRJk3DFra) | 4:07 | 2022-10-14 |  |
 | [Home](https://open.spotify.com/track/3X01VeoR0GckfiXlFRrJmF) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Home](https://open.spotify.com/album/0227L6DB3iVlI5xDLttmTN) | 4:07 | 2021-12-24 | 2022-10-13 |
 | [I Got So High That I Saw Jesus](https://open.spotify.com/track/0ouTaNuDfXPLnXkKi4AYOO) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Got So High That I Saw Jesus](https://open.spotify.com/album/7qnNmLMaMfljQNUMyaXpIo) | 3:37 | 2022-03-25 | 2022-04-18 |
 | [I Got So High That I Saw Jesus](https://open.spotify.com/track/3zQikNPCgTVnQLmj5RPn1k) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 3:37 | 2022-07-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 44668,
+  "num_followers": 44700,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA5MzYwMCwwMDAwMDAwMGU0NTA4YWMxMzgwYjJkZWQ1YjNhNTdiMWIyYjk3OTY4",
+  "snapshot_id": "MTY2NTA5MzYwMCwwMDAwMDAwMDkwYjc5NzlhNDZlZDY4MDRiZGM4NjljZTRiMzg5YTc5",
   "tracks": [
     {
       "added_at": "2022-10-06 22:00:00",
@@ -103,26 +103,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Christmas Greetings",
-        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        }
-      ],
-      "duration_ms": 183412,
-      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
-      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
       },
@@ -203,6 +183,26 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
+        "name": "Christmas Greetings",
+        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "duration_ms": 183412,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
         "name": "The Classic Christmas Album",
         "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
       },
@@ -251,58 +251,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Let's Share Christmas",
-        "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
-      },
-      "artists": [
-        {
-          "name": "Don Sebesky",
-          "url": "https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "The Christmas Collection",
-        "url": "https://open.spotify.com/album/1k0fZo1NgwWJUXsVX8SBHa"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 226426,
-      "name": "An Old Fashioned Christmas",
-      "url": "https://open.spotify.com/track/7b3EE8oiI8Cu7sfDO46zs8"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "Together Again",
-        "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -331,6 +279,58 @@
       "duration_ms": 180600,
       "name": "It's Christmas Time Again",
       "url": "https://open.spotify.com/track/2nOIIFBX3sh9xTpkwVKmZm"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Let's Share Christmas",
+        "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
+      },
+      "artists": [
+        {
+          "name": "Don Sebesky",
+          "url": "https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "The Christmas Collection",
+        "url": "https://open.spotify.com/album/1k0fZo1NgwWJUXsVX8SBHa"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 226426,
+      "name": "An Old Fashioned Christmas",
+      "url": "https://open.spotify.com/track/7b3EE8oiI8Cu7sfDO46zs8"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Songs of December (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 289786,
-      "name": "It's The Most Wonderful Time Of The Year",
-      "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 137880,
       "name": "Christmas Island",
       "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Songs of December (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 289786,
+      "name": "It's The Most Wonderful Time Of The Year",
+      "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -443,6 +443,26 @@
       "duration_ms": 230906,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/7vdYX4mdSNdy9g8FeBSKRm"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Spotify Singles - Christmas",
+        "url": "https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 166853,
+      "name": "Santa Claus Is Comin' To Town - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -511,46 +531,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Pretty Swingin' Christmas",
-        "url": "https://open.spotify.com/album/6gC08N6tOwaZutYVa1okgU"
-      },
-      "artists": [
-        {
-          "name": "David Tobin",
-          "url": "https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb"
-        },
-        {
-          "name": "Jeff Meegan",
-          "url": "https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8"
-        }
-      ],
-      "duration_ms": 129042,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/2rQ9JzgsnYrY4mmlMaSDUH"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "Spotify Singles - Christmas",
-        "url": "https://open.spotify.com/album/4F49nBJxc0MwyIgZCekkk6"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 166853,
-      "name": "Santa Claus Is Comin' To Town - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1wX2vUVICRwjQuYOyBTWHO"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
       },
@@ -571,6 +551,26 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
+        "name": "Pretty Swingin' Christmas",
+        "url": "https://open.spotify.com/album/6gC08N6tOwaZutYVa1okgU"
+      },
+      "artists": [
+        {
+          "name": "David Tobin",
+          "url": "https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb"
+        },
+        {
+          "name": "Jeff Meegan",
+          "url": "https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8"
+        }
+      ],
+      "duration_ms": 129042,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/2rQ9JzgsnYrY4mmlMaSDUH"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/7e5zGP0I9BPxJ3XzltgfbN"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 201233,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2c7doFjJ66pEANqZQlDpT9"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
-      },
-      "artists": [
-        {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
-        }
-      ],
-      "duration_ms": 235546,
-      "name": "Baby, It's Cold Outside",
-      "url": "https://open.spotify.com/track/1odvHu7LNcEkRn83LwnoZb"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -623,34 +607,18 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Season's Greetings",
-        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
         }
       ],
-      "duration_ms": 206026,
-      "name": "Winter Wonderland - 1959 Version",
-      "url": "https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "Holiday For Swing!",
-        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "Christmas Dreaming",
-      "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
+      "duration_ms": 235546,
+      "name": "Baby, It's Cold Outside",
+      "url": "https://open.spotify.com/track/1odvHu7LNcEkRn83LwnoZb"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -671,6 +639,38 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
+        "name": "Holiday For Swing!",
+        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Christmas Dreaming",
+      "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Season's Greetings",
+        "url": "https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "Winter Wonderland - 1959 Version",
+      "url": "https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 236354,
       "name": "Maybe Next Christmas",
       "url": "https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
-      },
-      "artists": [
-        {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
-        }
-      ],
-      "duration_ms": 200180,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -719,6 +703,22 @@
       "duration_ms": 242506,
       "name": "Jolis sapins",
       "url": "https://open.spotify.com/track/30wgv3YjIy0MUtKrtolqRd"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+      },
+      "artists": [
+        {
+          "name": "Silvio Thompson Band",
+          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+        }
+      ],
+      "duration_ms": 200180,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 121573,
-      "name": "Love Is a Christmas Rose",
-      "url": "https://open.spotify.com/track/2dqvqJetgd4UUVAHsheS9J"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "A Nancy Wilson Christmas",
         "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 237320,
       "name": "All Through The Night",
       "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 121573,
+      "name": "Love Is a Christmas Rose",
+      "url": "https://open.spotify.com/track/2dqvqJetgd4UUVAHsheS9J"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
-      },
-      "artists": [
-        {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
-        }
-      ],
-      "duration_ms": 158971,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
         "name": "Joe Stilgoe's Christmas Album",
         "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
       },
@@ -855,22 +839,6 @@
       "duration_ms": 248746,
       "name": "Rest in Peace",
       "url": "https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "The Very Best Time Of Year",
-        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 174066,
-      "name": "A Song For Christmas",
-      "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
     },
     {
       "added_at": "2022-10-06 22:00:00",
@@ -907,6 +875,54 @@
     {
       "added_at": "2022-10-06 22:00:00",
       "album": {
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+      },
+      "artists": [
+        {
+          "name": "Silvio Thompson Band",
+          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+        }
+      ],
+      "duration_ms": 158971,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/4ahxeR8Bhwrh21oVfphFi0"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "The Very Best Time Of Year",
+        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 174066,
+      "name": "A Song For Christmas",
+      "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
+        "name": "Baby It's Cold Outside",
+        "url": "https://open.spotify.com/album/3bt93syd8tXz406kBywkEQ"
+      },
+      "artists": [
+        {
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+        }
+      ],
+      "duration_ms": 102013,
+      "name": "What About Me",
+      "url": "https://open.spotify.com/track/6Vil6xmoYCuDVnYP5V7rpr"
+    },
+    {
+      "added_at": "2022-10-06 22:00:00",
+      "album": {
         "name": "The Season",
         "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
       },
@@ -919,26 +935,6 @@
       "duration_ms": 166613,
       "name": "Sleighride",
       "url": "https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2"
-    },
-    {
-      "added_at": "2022-10-06 22:00:00",
-      "album": {
-        "name": "Christmas In L.A",
-        "url": "https://open.spotify.com/album/0pqDYrQEOyQr4mkhDquG4w"
-      },
-      "artists": [
-        {
-          "name": "The Snowy Hill Singers",
-          "url": "https://open.spotify.com/artist/4GZ9mdTr7du09qW50dByCD"
-        },
-        {
-          "name": "Vincent Vega",
-          "url": "https://open.spotify.com/artist/5wAc3dT6q091nIZVs9oioF"
-        }
-      ],
-      "duration_ms": 228221,
-      "name": "When Christmas Has Gone",
-      "url": "https://open.spotify.com/track/3TZO1SX9qPyewA2njmPe1U"
     }
   ],
   "unique_name": "Fireside Christmas Jazz",

@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-86 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
+87 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Come Alive \(feat\. Todd Dulaney\)](https://open.spotify.com/track/0vbNaNFCWorlaHrzsCli4w) | [All Nations Music](https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Come Alive \(Deluxe\)](https://open.spotify.com/album/4D4aX5yCP3QMb8Thp10WHF) | 5:11 | 2022-06-30 |  |
 | [D'oluwa Mu](https://open.spotify.com/track/4cSPBQ0i1tZ4VL4cxZjMxh) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [Faaji Friday 4.0](https://open.spotify.com/album/4FYxjlNN5ScDJjQnlq15WX) | 11:18 | 2022-06-30 |  |
 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 | 2022-07-22 |  |
-| [Ese \(Thank You\)](https://open.spotify.com/track/1vS7QapA3eXAVkhjbnYKpX) | [Becky Larry\-Izamoje](https://open.spotify.com/artist/0AGAoKVTIRwtQll1aMeoiv) | [Ese \(Thank You\)](https://open.spotify.com/album/3js7Nt0bKja4ZG0PkS1Vpw) | 4:59 | 2022-06-30 |  |
+| [Ese \(Thank You\)](https://open.spotify.com/track/1vS7QapA3eXAVkhjbnYKpX) | [Becky Larry\-Izamoje](https://open.spotify.com/artist/0AGAoKVTIRwtQll1aMeoiv) | [Ese \(Thank You\)](https://open.spotify.com/album/3js7Nt0bKja4ZG0PkS1Vpw) | 4:59 | 2022-06-30 | 2022-10-25 |
 | [Evidence](https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Evidence](https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny) | 5:55 | 2022-09-01 |  |
 | [Ewe Praise Medley 2 \(Teteyi\)](https://open.spotify.com/track/5vqpMzEjuCBlQBuQKskXur) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Chief Prosper](https://open.spotify.com/artist/21s3rUeDcsqL8i1n8legaP) | [Enyo](https://open.spotify.com/album/0WkS8qu4bVzN96PLwluSA9) | 9:34 | 2022-06-30 |  |
 | [Final Say](https://open.spotify.com/track/6Afd8g8GW25Y456Z2Bf3nd) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Final Say](https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy) | 3:29 | 2022-06-30 |  |
@@ -34,6 +34,7 @@
 | [Grateful](https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Grateful](https://open.spotify.com/album/1g6gpLlBjCGR836cM7o51N) | 3:44 | 2022-06-30 |  |
 | [Great and Mighty God \(Live\)](https://open.spotify.com/track/5YWEXH09aiqtsN9HFmp8Et) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm) | 3:51 | 2022-06-30 |  |
 | [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 | 2022-06-30 |  |
+| [Hallelu](https://open.spotify.com/track/7kS7kiFLVZ0UZDpFyPusXG) | [Coblaze](https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs) | [Hallelu](https://open.spotify.com/album/1ZFY1mPumRKVFzVBxv3lQM) | 2:36 | 2022-10-21 |  |
 | [Hallelujah](https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc) | [Celebrate Africa](https://open.spotify.com/artist/1DLPgNqNZFWY3n8Vp7Xyh8), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hallelujah](https://open.spotify.com/album/22Y4oLdS0QPrzMmz8gQE6i) | 3:44 | 2022-09-30 |  |
 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 | 2022-06-30 |  |
 | [His Own \(Leave Me Alone\)](https://open.spotify.com/track/6t3of7F7zx2SwmDgRD5meQ) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [His Own \(Leave Me Alone\)](https://open.spotify.com/album/2EJzFXvdGBLUaTrcILHbJw) | 2:51 | 2022-06-30 |  |

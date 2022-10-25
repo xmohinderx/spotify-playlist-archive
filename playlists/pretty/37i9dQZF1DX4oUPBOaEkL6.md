@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oUPBOaEkL6.md) - [plain]
 
 > The hottest Latin hits in the US! Cover: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,732,997 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,733,042 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

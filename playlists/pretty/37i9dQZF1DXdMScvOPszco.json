@@ -1,12 +1,12 @@
 {
   "description": "Ponle actitud a tu comida.",
-  "num_followers": 37680,
+  "num_followers": 37710,
   "original_name": "Cocina con Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MDE2OTIxNCwwMDAwMDAwMDU1MThlYzRiZmY1NmFjOTk3MzViZjZhNDgyZmVkNGYy",
+  "snapshot_id": "MTU5MDE2OTIxNCwwMDAwMDAwMGExZDdkZWRjMjQ5NjcxNGU4OGRjZWI3NDM2YWMzMjE0",
   "tracks": [
     {
       "added_at": "2020-05-22 17:40:14",
@@ -107,22 +107,6 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "When I Come Around",
-      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
         "name": "Violent Femmes",
         "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
       },
@@ -187,18 +171,34 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
       },
       "artists": [
         {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+          "name": "Buzzcocks",
+          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
         }
       ],
-      "duration_ms": 149786,
-      "name": "I Wanna Be Sedated",
-      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
+      "duration_ms": 163693,
+      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "When I Come Around",
+      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -219,18 +219,18 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
       },
       "artists": [
         {
-          "name": "Buzzcocks",
-          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 163693,
-      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
-      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
+      "duration_ms": 149786,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -363,6 +363,22 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 223227,
+      "name": "Fall Back Down",
+      "url": "https://open.spotify.com/track/3pdHJCTk85ls2SGGXIJ7XH"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
         "name": "The Stooges",
         "url": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
       },
@@ -395,38 +411,6 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "For Blood And Empire",
-        "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "This Is the End (For You My Friend)",
-      "url": "https://open.spotify.com/track/1jvqZQtbBGK5GJCGT615ao"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 223227,
-      "name": "Fall Back Down",
-      "url": "https://open.spotify.com/track/3pdHJCTk85ls2SGGXIJ7XH"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
         "name": "Give Me Convenience or Give Me Death",
         "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 207040,
       "name": "California Uber Alles",
       "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "For Blood And Empire",
+        "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "This Is the End (For You My Friend)",
+      "url": "https://open.spotify.com/track/1jvqZQtbBGK5GJCGT615ao"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -459,22 +459,6 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 169013,
-      "name": "21st Century (Digital Boy)",
-      "url": "https://open.spotify.com/track/7C794YeXiiSdlvGLxgabkd"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
         "name": "Living In Darkness (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas"
       },
@@ -491,22 +475,6 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/2DDDzxzFpgTQx4AEKRO3zz"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
         "name": "End of the Century (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
       },
@@ -519,6 +487,38 @@
       "duration_ms": 137400,
       "name": "Rock 'n' Roll High School - 2002 Remaster",
       "url": "https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "21st Century (Digital Boy)",
+      "url": "https://open.spotify.com/track/7C794YeXiiSdlvGLxgabkd"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/2DDDzxzFpgTQx4AEKRO3zz"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "They Came From The Shadows",
-        "url": "https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde"
-      },
-      "artists": [
-        {
-          "name": "Teenage Bottlerocket",
-          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
-        }
-      ],
-      "duration_ms": 110800,
-      "name": "Skate or Die",
-      "url": "https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
         "name": "First Two Seven Inches",
         "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 89160,
       "name": "Minor Threat",
       "url": "https://open.spotify.com/track/7pADnbKBmN6bY2YfLXCIgU"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "They Came From The Shadows",
+        "url": "https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde"
+      },
+      "artists": [
+        {
+          "name": "Teenage Bottlerocket",
+          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
+        }
+      ],
+      "duration_ms": 110800,
+      "name": "Skate or Die",
+      "url": "https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -715,22 +715,6 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "The '59 Sound",
-        "url": "https://open.spotify.com/album/3iC6u4b7pxcrreH1w5C5HD"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "The '59 Sound",
-      "url": "https://open.spotify.com/track/5872goUpkJgh11uslHaa2G"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
         "name": "White Light White Heat White Trash",
         "url": "https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 230066,
       "name": "Don't Drag Me Down",
       "url": "https://open.spotify.com/track/7tZ1sF5HLhqtRO0bITs4lV"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "The '59 Sound",
+        "url": "https://open.spotify.com/album/3iC6u4b7pxcrreH1w5C5HD"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "The '59 Sound",
+      "url": "https://open.spotify.com/track/5872goUpkJgh11uslHaa2G"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -763,6 +763,22 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "duration_ms": 200080,
+      "name": "God Save the Queen",
+      "url": "https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
         "name": "Bad Brains",
         "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 132786,
       "name": "Banned in D.C.",
       "url": "https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
-        "name": "Something's Gotta Give",
-        "url": "https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ"
-      },
-      "artists": [
-        {
-          "name": "Agnostic Front",
-          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD"
     },
     {
       "added_at": "2020-05-22 17:40:14",

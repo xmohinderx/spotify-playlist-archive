@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 39 | [Spell \- TOT B Side](https://open.spotify.com/track/1o7HsCCBFqZTcMFwKTw03X) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 3:06 |
 | 40 | [The Rites of Love and Death](https://open.spotify.com/track/0AXEe3B8qM3ETJMPLHBPOn) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:50 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDA2N2JlY2I0Y2E4OWE2OTZhMTRmM2RiMDY0ZGRiNzU0Mw==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDA2MzljNTJiYjJkMDkyYWQ3NjhiODUxM2NhZDE4MTBjOQ==`

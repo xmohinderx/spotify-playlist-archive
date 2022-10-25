@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-184 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/4YsfLsdnQQm3Z91YQleLNc)
+185 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/4YsfLsdnQQm3Z91YQleLNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Joshua](https://open.spotify.com/track/4Pr6UyUObaYpRoljvPIlIU) | [The Seldom Scene](https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq) | [Act 1](https://open.spotify.com/album/2KQ4fDOzSImK1Rr5ZgLDFf) | 2:37 | 2021-12-03 |  |
 | [Julie Ann Johnson](https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs) | [Cathy Fink](https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw) | [Banjo Haiku](https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2) | 1:50 | 2021-12-03 |  |
 | [Katmandu](https://open.spotify.com/track/7DlaaNwxmS99iypST4bTS0) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [The Bluegrass Sessions: Tales From The Acoustic Planet, Vol\. 2](https://open.spotify.com/album/34rQGJXHlECil6fZUIHm7q) | 4:23 | 2021-12-03 | 2022-07-23 |
-| [Kimper County](https://open.spotify.com/track/4qkU1rmucgwF0p7QBZOuYF) | [Andy Leftwich](https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa) | [Kimper County](https://open.spotify.com/album/7JliMRkz67DvdEhsldiCfV) | 4:01 | 2022-03-18 |  |
+| [Kimper County](https://open.spotify.com/track/4qkU1rmucgwF0p7QBZOuYF) | [Andy Leftwich](https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa) | [Kimper County](https://open.spotify.com/album/7JliMRkz67DvdEhsldiCfV) | 4:01 | 2022-03-18 | 2022-10-25 |
 | [Last One on the Line](https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Formations](https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5) | 4:59 | 2021-12-03 |  |
 | [Leather Britches](https://open.spotify.com/track/1cT7M8Lov9kn4YmBOgOb4t) | [Curtis McPeake](https://open.spotify.com/artist/4PwlAirxlCUyYvCvWf0Koi), [Andy May](https://open.spotify.com/artist/29zPfTRdKbhHXnpHtyQPEO) | [The Good Things \(Outweigh the Bad\)](https://open.spotify.com/album/1voTotVTiai2e9xjBTPtDE) | 1:24 | 2022-07-22 |  |
 | [Leavin' Egypt \- Instrumental](https://open.spotify.com/track/3iE52y1XUrE7ILcNIgU1Gr) | [Cedar Hill](https://open.spotify.com/artist/2GLRJlS6WxRYDOH6iaMT05) | [New Chapter](https://open.spotify.com/album/58vbUKEPEoaJjFwzE7Dqu3) | 3:08 | 2022-03-04 |  |
@@ -188,6 +188,7 @@
 | [Whitewater](https://open.spotify.com/track/2YUF30ewdgPzTTzzsb5jxr) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr), [Mark Schatz](https://open.spotify.com/artist/6PyV5uHz86osOJqwSYOpx6) | [Drive](https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z) | 3:09 | 2021-12-03 | 2022-07-23 |
 | [Wild Rag](https://open.spotify.com/track/1d7ckfsUqNHIDj77uuOx1r) | [Ole Man Kidd](https://open.spotify.com/artist/2tkOWQEUaIiUU9pXv0Lk2G) | [Wild Rag](https://open.spotify.com/album/2pdW86O9nQ1twCQmva1asc) | 4:17 | 2022-04-15 | 2022-07-18 |
 | [Wildwood Flower](https://open.spotify.com/track/3xckzvp58eFYnM7HEHSjMi) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [True Bluegrass Instrumentals](https://open.spotify.com/album/6cwdLgLSa2CgKtRwvKZzDd) | 3:04 | 2021-12-03 | 2022-05-28 |
+| [Willdwood Flower](https://open.spotify.com/track/2J9evmBkXC8HkY8DkzbNtw) | [Clarence White](https://open.spotify.com/artist/6bV5tUO90I3oRIy3Gy1UOG) | [33 Guitar Instrumentals](https://open.spotify.com/album/2QYQxbv8IwFPZP2T65sXkg) | 1:25 | 2022-10-07 |  |
 | [Willdwood Flower](https://open.spotify.com/track/3ynegTSwEyLibtf00035sh) | [Clarence White](https://open.spotify.com/artist/6bV5tUO90I3oRIy3Gy1UOG) | [33 Guitar Instrumentals](https://open.spotify.com/album/7lYR9kSS0jhT8WgE6jPm9R) | 1:25 | 2021-12-03 | 2022-10-22 |
 | [Winnipeg](https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ) | [Chris Pandolfi](https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI) | [Looking Glass](https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV) | 4:33 | 2021-12-03 |  |
 | [Wolf Moon](https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [Best Of The Vanguard Years](https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK) | 2:54 | 2021-12-03 |  |

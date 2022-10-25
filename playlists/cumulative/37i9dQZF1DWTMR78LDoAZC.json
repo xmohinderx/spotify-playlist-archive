@@ -1871,6 +1871,24 @@
     {
       "album": {
         "name": "Death Of A Fantasy",
+        "url": "https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148250,
+      "name": "QUEEN BEE",
+      "url": "https://open.spotify.com/track/3faVsOc6GJnh01unAc8D7I"
+    },
+    {
+      "album": {
+        "name": "Death Of A Fantasy",
         "url": "https://open.spotify.com/album/6lmFyx2YERrRXaGBnMw8bL"
       },
       "artists": [
@@ -2581,7 +2599,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 155762,
       "name": "umbrellar",
       "url": "https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J"

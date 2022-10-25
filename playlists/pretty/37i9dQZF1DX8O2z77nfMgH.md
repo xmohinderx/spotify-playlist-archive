@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,906 likes - 67 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,124 likes - 67 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 4 | [Por Un Perro](https://open.spotify.com/track/3OBIkfgxatom7uCRNZxEa3) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Por Un Perro](https://open.spotify.com/album/1S7umwRqsNaYeoSWe0UjLw) | 3:50 |
 | 5 | [Doxxis](https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Doxxis](https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p) | 3:06 |
 | 6 | [Stephanie "Pa Fumal"](https://open.spotify.com/track/4btFqT2Wld8vyL0bYPAK3Y) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i) | [Stephanie "Pa Fumal"](https://open.spotify.com/album/4GF2Ww3eCCrIo5rDxzv8cq) | 3:52 |
-| 7 | [Progresso Pros Nossos \(feat\. L7NNON e Cidinho & Doca\)](https://open.spotify.com/track/4d9NLNYDi0wYpGY21dEj8E) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Cidinho & Doca](https://open.spotify.com/artist/2rwHPBK5IvPCDr0QjKlgQc) | [Progresso Pros Nossos \(feat\. L7NNON e Cidinho & Doca\)](https://open.spotify.com/album/7daAvrz6RxJlpXrDEg3jFK) | 3:34 |
+| 7 | [Progresso Pros Nossos \(feat\. L7NNON e Cidinho & Doca\)](https://open.spotify.com/track/4d9NLNYDi0wYpGY21dEj8E) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Cidinho & Doca](https://open.spotify.com/artist/2rwHPBK5IvPCDr0QjKlgQc), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Progresso Pros Nossos \(feat\. L7NNON e Cidinho & Doca\)](https://open.spotify.com/album/7daAvrz6RxJlpXrDEg3jFK) | 3:34 |
 | 8 | [Me Encantaría](https://open.spotify.com/track/1APLK79zZo67ny370NLO4F) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Me Encantaría](https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw) | 2:57 |
 | 9 | [Bájala](https://open.spotify.com/track/2DbQbh449mcSNT0wPGQa9Y) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:18 |
 | 10 | [Igual O Peor](https://open.spotify.com/track/0NSqiz2Jb870FQ172FuqRo) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [Igual O Peor](https://open.spotify.com/album/6jGgPO4O0H4ezRXbkmGUt8) | 3:31 |

@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 96019,
+  "num_followers": 96036,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMDlhNGIyN2ViNWNjN2U5YzZjNjRmMDRlNDk1OTIzYzA2",
+  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMGY4ZWMxNWI3ZmRlZTRlZDQ1NDdlZDQ2ZTg5OWRiNGQ2",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
@@ -551,26 +551,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Make Money",
-        "url": "https://open.spotify.com/album/0lF3TZ4d8dK723Icsy5dvH"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv"
-        },
-        {
-          "name": "Bryte",
-          "url": "https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi"
-        }
-      ],
-      "duration_ms": 197072,
-      "name": "Make Money",
-      "url": "https://open.spotify.com/track/5D2nyKpovnlc0o6dFWA4Y1"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "In The Morning (Let Your Love Come In)",
         "url": "https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 173675,
       "name": "In The Morning (Let Your Love Come In) - Sticky Radio Edit",
       "url": "https://open.spotify.com/track/1nneW6gCqP7U9BPQ4F3Adg"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Make Money",
+        "url": "https://open.spotify.com/album/0lF3TZ4d8dK723Icsy5dvH"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv"
+        },
+        {
+          "name": "Bryte",
+          "url": "https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi"
+        }
+      ],
+      "duration_ms": 197072,
+      "name": "Make Money",
+      "url": "https://open.spotify.com/track/5D2nyKpovnlc0o6dFWA4Y1"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/2goDYGdgun4cjrYELDKrzw"
+      },
+      "artists": [
+        {
+          "name": "Bucie",
+          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
+        }
+      ],
+      "duration_ms": 419546,
+      "name": "Get Over It",
+      "url": "https://open.spotify.com/track/1Utz4zu6JCd8iyA77ueD3t"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
         "name": "What You Do (Hottest By Far)",
         "url": "https://open.spotify.com/album/5rCXzdvDDWsCzfarkeKbZK"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Party Hard",
-        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
-      },
-      "artists": [
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "African Warrior",
-      "url": "https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Firepower EP",
         "url": "https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U"
       },
@@ -923,6 +923,22 @@
       "duration_ms": 439466,
       "name": "Quicktime - Roska Remix",
       "url": "https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Party Hard",
+        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
+      },
+      "artists": [
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "African Warrior",
+      "url": "https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "I'm Fly",
-        "url": "https://open.spotify.com/album/3xwYsxgBdRhr4sJ1H0XDuf"
-      },
-      "artists": [
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        }
-      ],
-      "duration_ms": 248752,
-      "name": "I'm Fly - DJ Version",
-      "url": "https://open.spotify.com/track/0e5jqZDWMqo5u13SQ0WmXQ"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/3Nzgg68NS8IMzTDo91liai"
       },
@@ -1071,6 +1071,30 @@
       "duration_ms": 257538,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6NWZnftVAZPB8Rw7a5NWgT"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "I'm Leaving",
+        "url": "https://open.spotify.com/album/2R9DbkINYc0xVuBxjk1K8r"
+      },
+      "artists": [
+        {
+          "name": "Scratcha DVA",
+          "url": "https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7"
+        },
+        {
+          "name": "Alahna",
+          "url": "https://open.spotify.com/artist/46jSEbui6AGr4nPZwYiHi3"
+        },
+        {
+          "name": "DJ MA1",
+          "url": "https://open.spotify.com/artist/4INAX5tocNkzY3S6Acrll6"
+        }
+      ],
+      "duration_ms": 370023,
+      "name": "I'm Leaving - DJ MA1 Remix",
+      "url": "https://open.spotify.com/track/4ZuIiYL4lADtA7zoPFw4Mk"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -1095,22 +1119,6 @@
       "duration_ms": 159402,
       "name": "Free - SHOSH Remix",
       "url": "https://open.spotify.com/track/5EInT0bE9SArgmUAMmN39O"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
-        "name": "Funky Flex vs Pulse",
-        "url": "https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf"
-      },
-      "artists": [
-        {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
-        }
-      ],
-      "duration_ms": 361791,
-      "name": "Funky Flex vs Pulse",
-      "url": "https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ"
     }
   ],
   "unique_name": "UK Funky",

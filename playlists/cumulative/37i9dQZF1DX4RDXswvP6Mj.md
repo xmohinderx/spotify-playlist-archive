@@ -4,12 +4,12 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: KWON EUN BI\(권은비\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-499 songs - 1 day 3 hr 31 min - [published](https://open.spotify.com/playlist/0IIEvRANFzgYAa88SFKSJA)
+500 songs - 1 day 3 hr 34 min - [published](https://open.spotify.com/playlist/0IIEvRANFzgYAa88SFKSJA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#MOOD](https://open.spotify.com/track/2GJeUJkxsnorPIvY3APdE8) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [THE EARTH : SECRET MISSION Chapter.2](https://open.spotify.com/album/0dGBiIHys0Grn2ArCGuWWC) | 2:47 | 2022-07-07 | 2022-07-19 |
-| [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2021-12-21 |  |
+| [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2021-12-21 | 2022-10-25 |
 | [1 Billion Views \- Mar Vista Remix](https://open.spotify.com/track/0VXS2271E4lyeXGYBDj91f) | [EXO\-SC](https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Mar Vista](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo) | [iScreaM Vol.4 : 1 Billion Views Remix](https://open.spotify.com/album/0cIZy6ah974Kx2M5Z3irdT) | 4:25 | 2022-04-05 | 2022-04-17 |
 | [1 of 9](https://open.spotify.com/track/6DB6p1dVSNWJbmrbF34icS) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [YOUNI\-BIRTH](https://open.spotify.com/album/1shJJvoHJtR28Tfd8Ebh07) | 3:19 | 2022-07-05 | 2022-07-08 |
 | [1, 2, 3](https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [COMPLETE WITH YOU](https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx) | 3:32 | 2022-01-18 | 2022-04-18 |
@@ -243,6 +243,7 @@
 | [I\`m a B](https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Guilty Pleasure](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) | 2:47 | 2022-01-14 | 2022-04-29 |
 | [ICE T](https://open.spotify.com/track/6eNVf9UDzT0wrEFDEHnSus) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [Sweet\-Tea](https://open.spotify.com/album/7BFmhM7GcY5oeseQmyYlpZ) | 3:20 | 2022-02-23 | 2022-06-25 |
 | [IDOL](https://open.spotify.com/track/2AIWoHr9DF6y4KALCBKWQS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp) | 3:42 | 2022-03-24 | 2022-04-03 |
+| [ILLELLA](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:46 | 2022-10-12 |  |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-01 | 2022-10-08 |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-12-21 | 2022-07-29 |
 | [Infinite City \- Groundbreak Version](https://open.spotify.com/track/5DvbyNZX3sXad7BXiCZlql) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [1st Track of CJ LiveCity](https://open.spotify.com/album/37OcZj8uuvKDgwTXhTsS9r) | 4:11 | 2022-03-31 | 2022-04-02 |

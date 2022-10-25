@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Stormy, Willow, YoungBoy Never Broke Again, Joeboy, Phabo, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,930 likes - 98 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,004 likes - 98 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 14 | [Happy Ending](https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL) | 4:08 |
 | 15 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 |
 | 16 | [Patek \(Remix\)](https://open.spotify.com/track/6aaN2LMboLIyNlo7XmPIrP) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Patek \(Remix\)](https://open.spotify.com/album/1AQtfXqm69rws7a5Qmf2PN) | 3:03 |
-| 17 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 |
+| 17 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/5ykuFZXYbA8frwBmutsoFx) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:18 |
 | 18 | [My Way](https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 3:37 |
 | 19 | [Aston Martin Truck](https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Aston Martin Truck](https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc) | 3:00 |
 | 20 | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b) | 4:41 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 66 | [Not My N\*gga](https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Not My N\*gga](https://open.spotify.com/album/1CUo0EBK0PhrHJQeI2Lg3z) | 2:07 |
 | 67 | [FLINT WATER](https://open.spotify.com/track/25hXRDHi4j6JDGEV5ljwBS) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [FLINT WATER](https://open.spotify.com/album/7zEod4kPiwhHHjHwnl0JGF) | 3:21 |
 | 68 | [Don't Talk Back](https://open.spotify.com/track/5EJIO6tILUWmqfegqsbm9U) | [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [Don't Talk Back](https://open.spotify.com/album/3Av2J3FAPUbWrRyLz0Rhx5) | 2:12 |
-| 69 | [Only Love](https://open.spotify.com/track/76KzsJ4emV8BsE4CgwFxeo) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Only Love](https://open.spotify.com/album/3FmERkFWALx6fbh8fcSKx2) | 2:47 |
+| 69 | [Only Love](https://open.spotify.com/track/0dOuhQQVPnCBkvmCr5PeVH) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 2:47 |
 | 70 | [Recognize](https://open.spotify.com/track/5Gx86X2wrF2J2hih6RPLGV) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Recognize](https://open.spotify.com/album/426MzFU7UEXUNFw8sGbxLx) | 3:13 |
 | 71 | [Magic](https://open.spotify.com/track/2TYjPIYOSoQ3Mu3ojzL0uD) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Magic](https://open.spotify.com/album/0LOQJEGmChTbhp9SH5FpLc) | 2:39 |
 | 72 | [TURKEY](https://open.spotify.com/track/50B1vCGS7BIUfJeFpFuolc) | [Tate Kobang](https://open.spotify.com/artist/05ZOzt8hlefGYXWJIL37PI) | [TURKEY](https://open.spotify.com/album/2zhIdoLAGJazYWy2vhkDaI) | 1:49 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 97 | [So Be It](https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 3:09 |
 | 98 | [Date Night](https://open.spotify.com/track/1UzEMXvcbY5vT5NTAEyO7T) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Boys Don't Cry](https://open.spotify.com/album/4LAeqF9RdXg4a21kuEvfc4) | 2:12 |
 
-Snapshot ID: `MTY2NjM3NzA0NiwwMDAwMDAwMDgyMjVlODhhMjkxYjIzMzZhZTdmMjYzMDAwZDJiM2M1`
+Snapshot ID: `MTY2NjM3NzA0NiwwMDAwMDAwMDBhYzNkYTQyZWIxYjk3ZDJmODRlZjBkNDUyMDlkZmNm`

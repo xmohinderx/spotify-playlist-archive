@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: The Weeknd
 
-497 songs - 1 day 3 hr 47 min - [published](https://open.spotify.com/playlist/2gY4599r7wEcpzuQThQTVi)
+498 songs - 1 day 3 hr 49 min - [published](https://open.spotify.com/playlist/2gY4599r7wEcpzuQThQTVi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [Nowhere To Run](https://open.spotify.com/track/72XxzjvIBR0TKljL0ETcGQ) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Nowhere To Run](https://open.spotify.com/album/0FblLlqUsJImmPkaKqEkz5) | 3:41 | 2022-04-01 | 2022-04-19 |
 | [Off The Drugs](https://open.spotify.com/track/3mal4dMlkVy42F7bEjU3Jy) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Off The Drugs](https://open.spotify.com/album/1NjXy9akXwlUfk74r2owE1) | 2:57 | 2022-04-01 | 2022-04-20 |
 | [Off the Grid \(feat\. Khalid\)](https://open.spotify.com/track/3U62bHMhP7bKAFYMkn3fNx) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 3:20 | 2022-04-01 | 2022-07-29 |
-| [off the table \(with The Weeknd\)](https://open.spotify.com/track/7E1jVNoWuemqUryI4FxsVD) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:59 | 2022-04-01 |  |
+| [off the table \(with The Weeknd\)](https://open.spotify.com/track/7E1jVNoWuemqUryI4FxsVD) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:59 | 2022-04-01 | 2022-10-25 |
 | [On Guard \(feat\. 6lack\)](https://open.spotify.com/track/0VAuyz8H8mgh89sjdR983P) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PRELUDE](https://open.spotify.com/album/6ur2Xhe9Q3YvsQSFIfbuQZ) | 3:26 | 2022-03-11 | 2022-07-29 |
 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 | 2022-04-01 | 2022-06-12 |
 | [One In A Million](https://open.spotify.com/track/6gdhHMWUv1pvkOHqCUGvCp) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [One In A Million](https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG) | 4:30 | 2022-04-01 |  |
@@ -445,6 +445,7 @@
 | [Touch & Go](https://open.spotify.com/track/0t4knmBuw14LysanDonPrj) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Touch & Go](https://open.spotify.com/album/3cwNClu6TT9TA8QKCqXq9J) | 4:15 | 2022-04-01 | 2022-04-20 |
 | [Touch You](https://open.spotify.com/track/6ISm3GwztEFGsDKuF2X8fl) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Touch You](https://open.spotify.com/album/4Mk7V7BkcDEobk4xs7HTft) | 2:38 | 2022-04-01 | 2022-07-28 |
 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 | 2022-04-01 |  |
+| [Toxic](https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Toxic](https://open.spotify.com/album/0qrDs5PYUkb3gfJ5KAKRiN) | 2:20 | 2022-10-21 |  |
 | [Tragic](https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Tragic](https://open.spotify.com/album/61sqBAbQjzK6yiwRGokeUz) | 3:27 | 2022-03-11 | 2022-07-27 |
 | [Trip](https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:33 | 2022-04-01 |  |
 | [Try Again](https://open.spotify.com/track/6Wnlq1Pu3I0BajLvxn05Vr) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:44 | 2022-04-01 | 2022-04-20 |

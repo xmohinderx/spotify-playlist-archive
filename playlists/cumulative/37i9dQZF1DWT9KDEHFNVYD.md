@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-282 songs - 1 day 2 hr 32 min - [published](https://open.spotify.com/playlist/4lWB0VlMX3UhqUHIaVALiT)
+283 songs - 1 day 2 hr 36 min - [published](https://open.spotify.com/playlist/4lWB0VlMX3UhqUHIaVALiT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Moonshake](https://open.spotify.com/track/6ACXIPu0jhLDriV5sjrWtb) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Future Days \(Remastered Version\)](https://open.spotify.com/album/22ZgHorVJzcZ4m8YBZCw4w) | 3:02 | 2021-07-30 |  |
 | [Mother Sky \(from Deep End\)](https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Anthology \(Remastered Version\)](https://open.spotify.com/album/6XFyzX1oEpqQl6TPf0nhpH) | 6:36 | 2021-07-30 |  |
 | [Motoring](https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA) | [TOY](https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA) | [Toy](https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s) | 4:33 | 2021-07-30 |  |
+| [Namastea](https://open.spotify.com/track/4XesJy8hNQNFiD1zYgUw4U) | [Rui Reininho](https://open.spotify.com/artist/6MlWT74yziLFbXyGbwlJtH), [Paulo Borges](https://open.spotify.com/artist/5ZAxSl9pfGBK2YEPNHAm7f) | [20.000 Éguas Submarinas](https://open.spotify.com/album/5LVzphBxyTVvgtLDeUtX3E) | 3:42 | 2021-07-30 |  |
 | [Namastea](https://open.spotify.com/track/7hDuuc7vsaVKyZbmCghNho) | [Rui Reininho](https://open.spotify.com/artist/69BXGLY1jKUOPNNtBUFJrj), [Paulo Borges](https://open.spotify.com/artist/6LmqNGihhViyVEbvrtEqgi) | [20.000 Éguas Submarinas](https://open.spotify.com/album/5qD6JD2fftD0g7ojhXULNx) | 3:42 | 2021-07-30 | 2022-10-23 |
 | [Nana](https://open.spotify.com/track/0thTo7umyVGvfnaQmQUuZX) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 3:13 | 2021-07-30 |  |
 | [Negativland](https://open.spotify.com/track/6nQi4wLGdDErtYo3xxjret) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU!](https://open.spotify.com/album/217KPSzsO021HXtXJI2G11) | 9:47 | 2021-07-30 | 2022-07-29 |
@@ -237,7 +238,7 @@
 | [Submarine](https://open.spotify.com/track/1CGTeMbvZ6j2nyo0uFlQec) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Creatures of an Hour](https://open.spotify.com/album/5btfg0tmB6N9ummtzuiVza) | 4:07 | 2021-07-30 | 2022-07-29 |
 | [Submarine](https://open.spotify.com/track/46mHT32vVGfPDqvzb38YBR) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Creatures of an Hour](https://open.spotify.com/album/0SEaWCwVW6KQK6wB6NNtsU) | 4:07 | 2021-07-30 |  |
 | [Sunrise, Sunset](https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 6:54 | 2021-07-30 |  |
-| [Super Inuit \(Studio\)](https://open.spotify.com/track/1xeYbKA8tshHvtbEAZVskj) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [Lovely Allen](https://open.spotify.com/album/70GJhjsFTh47FvAGJw5DXb) | 3:44 | 2021-07-30 |  |
+| [Super Inuit \(Studio\)](https://open.spotify.com/track/1xeYbKA8tshHvtbEAZVskj) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [Lovely Allen](https://open.spotify.com/album/70GJhjsFTh47FvAGJw5DXb) | 3:44 | 2021-07-30 | 2022-10-25 |
 | [Super\-Electric](https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Switched On](https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS) | 5:22 | 2021-07-30 |  |
 | [Surfing The Warm Industry](https://open.spotify.com/track/10JEpI1y7PMD9r3ZxF6CFZ) | [Kashmir](https://open.spotify.com/artist/6Jsq0AbwEKcmDuyA4ca9wu) | [Zitilites](https://open.spotify.com/album/6SRo0LgsrC4MV3nONDtr4c) | 4:26 | 2021-07-30 |  |
 | [Synchron](https://open.spotify.com/track/3io1rzJhFB9rfWBV0v2txa) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Remember I Was Carbon Dioxide](https://open.spotify.com/album/3qhe1rCL3GcwCebco99KWX) | 4:24 | 2021-07-30 |  |

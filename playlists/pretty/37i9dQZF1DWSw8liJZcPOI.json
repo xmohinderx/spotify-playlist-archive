@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 395757,
+  "num_followers": 395961,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDgxY2YwZmQxZTc5ZjQzNWVkMWRhMzBlMjdiZDNhNWI5",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDM5ZTNmYjIzMzE0Mjc1YmMzZjhkZTZhM2E2MGEzZDYz",
   "tracks": [
     {
       "added_at": "2022-10-14 04:01:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Sensibus",
-        "url": "https://open.spotify.com/album/7BJCfuM4BGuC1U3HvViT5y"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 392791,
-      "name": "Klass",
-      "url": "https://open.spotify.com/track/0pzyxIEZimzoJfwaBKdAdH"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Cloud Memory",
         "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 117585,
       "name": "Cloud Memory",
       "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Sensibus",
+        "url": "https://open.spotify.com/album/7BJCfuM4BGuC1U3HvViT5y"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 392791,
+      "name": "Klass",
+      "url": "https://open.spotify.com/track/0pzyxIEZimzoJfwaBKdAdH"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -487,22 +487,22 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Niemand bringt Marten um",
-        "url": "https://open.spotify.com/album/1tbwLCRm0rqBHEqVrZAxam"
+        "name": "Humming Bird Rework",
+        "url": "https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m"
       },
       "artists": [
         {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
         },
         {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+          "name": "mond\u00ebna quartet",
+          "url": "https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo"
         }
       ],
-      "duration_ms": 217412,
-      "name": "Niemand bringt Marten um - Lambert Rework",
-      "url": "https://open.spotify.com/track/4Rqn3zPlPqbpKmK1naWcQ2"
+      "duration_ms": 201774,
+      "name": "Humming Bird Rework",
+      "url": "https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -527,22 +527,22 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Humming Bird Rework",
-        "url": "https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m"
+        "name": "Niemand bringt Marten um",
+        "url": "https://open.spotify.com/album/1tbwLCRm0rqBHEqVrZAxam"
       },
       "artists": [
         {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
         },
         {
-          "name": "mond\u00ebna quartet",
-          "url": "https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo"
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
         }
       ],
-      "duration_ms": 201774,
-      "name": "Humming Bird Rework",
-      "url": "https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B"
+      "duration_ms": 217412,
+      "name": "Niemand bringt Marten um - Lambert Rework",
+      "url": "https://open.spotify.com/track/4Rqn3zPlPqbpKmK1naWcQ2"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -591,6 +591,22 @@
       "duration_ms": 168085,
       "name": "The Drifter",
       "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "LYR",
+        "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
+      },
+      "artists": [
+        {
+          "name": "Aeden Azora",
+          "url": "https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "LYR",
+      "url": "https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -651,6 +667,38 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        }
+      ],
+      "duration_ms": 81641,
+      "name": "Nos",
+      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "The Open",
+        "url": "https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 214862,
+      "name": "The Open",
+      "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "A Lifetime Rolls By (annasara Rework)",
         "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
       },
@@ -683,54 +731,6 @@
       "duration_ms": 137500,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "The Open",
-        "url": "https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 214862,
-      "name": "The Open",
-      "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "The Wind",
-        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        }
-      ],
-      "duration_ms": 81641,
-      "name": "Nos",
-      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "LYR",
-        "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
-      },
-      "artists": [
-        {
-          "name": "Aeden Azora",
-          "url": "https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "LYR",
-      "url": "https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Somnia",
-        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 198323,
-      "name": "Somnia",
-      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Music For Growing Flowers",
         "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 334506,
       "name": "Music For Growing Flowers - Pt. 4",
       "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Somnia",
+        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 198323,
+      "name": "Somnia",
+      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -883,18 +883,34 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/2HLJ4uom0zHzSK7RUNGJLo"
+        "name": "Clear Language",
+        "url": "https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3"
       },
       "artists": [
         {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0AmumYGPHSxwEuIQkkIq09"
+      "duration_ms": 193386,
+      "name": "Clear Language",
+      "url": "https://open.spotify.com/track/3wOktPNamu01hvLN36g9A0"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 125437,
+      "name": "Frost",
+      "url": "https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -923,22 +939,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Clear Language",
-        "url": "https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Clear Language",
-      "url": "https://open.spotify.com/track/3wOktPNamu01hvLN36g9A0"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "The Vasulka Effect: Music for the Motion Picture",
         "url": "https://open.spotify.com/album/6BciCC7yejXpGpVE4oq4Bg"
       },
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/2HLJ4uom0zHzSK7RUNGJLo"
       },
       "artists": [
         {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
         }
       ],
-      "duration_ms": 125437,
-      "name": "Frost",
-      "url": "https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg"
+      "duration_ms": 192000,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0AmumYGPHSxwEuIQkkIq09"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Partisans",
-        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Partisans",
-      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Solanales",
         "url": "https://open.spotify.com/album/4giTq8C1Ss1e9PM8k88H1I"
       },
@@ -1103,38 +1087,6 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "hundred00",
-        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 289210,
-      "name": "hundred00",
-      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "The Time It Takes",
-        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
-      },
-      "artists": [
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
@@ -1147,102 +1099,6 @@
       "duration_ms": 286986,
       "name": "No Step on Wing",
       "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/4YhjuXwBlF265iUJkCr0Db"
-      },
-      "artists": [
-        {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
-        }
-      ],
-      "duration_ms": 177186,
-      "name": "October",
-      "url": "https://open.spotify.com/track/0qJkni7fSqPAim9WFO4qUh"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "The Swimmer",
-        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
-      },
-      "artists": [
-        {
-          "name": "Phil France",
-          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "The Swimmer",
-      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
-      },
-      "artists": [
-        {
-          "name": "Matteo de Grandis",
-          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
-        }
-      ],
-      "duration_ms": 201181,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 376956,
-      "name": "Starwood Choker",
-      "url": "https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "How to Fall in Love in a Pandemic (Music for a Short Film)",
-        "url": "https://open.spotify.com/album/1rQqmLBvReLC8JrogQpdkc"
-      },
-      "artists": [
-        {
-          "name": "Daith\u00ed",
-          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "How to Fall in Love in a Pandemic - Music for a Short Film",
-      "url": "https://open.spotify.com/track/4kVj1YdDUx8HPfhOeDs7Ec"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Black Dog",
-        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
-      },
-      "artists": [
-        {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
-        }
-      ],
-      "duration_ms": 127995,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1267,8 +1123,88 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "acceptances",
-        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
+        "name": "October",
+        "url": "https://open.spotify.com/album/4YhjuXwBlF265iUJkCr0Db"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "October",
+      "url": "https://open.spotify.com/track/0qJkni7fSqPAim9WFO4qUh"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Partisans",
+        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Partisans",
+      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "The Swimmer",
+        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
+      },
+      "artists": [
+        {
+          "name": "Phil France",
+          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "The Swimmer",
+      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "The Time It Takes",
+        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
+      },
+      "artists": [
+        {
+          "name": "Matteo de Grandis",
+          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
+        }
+      ],
+      "duration_ms": 201181,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "hundred00",
+        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
       },
       "artists": [
         {
@@ -1276,9 +1212,57 @@
           "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
         }
       ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
+      "duration_ms": 289210,
+      "name": "hundred00",
+      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 376956,
+      "name": "Starwood Choker",
+      "url": "https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
+      },
+      "artists": [
+        {
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+        }
+      ],
+      "duration_ms": 127995,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "How to Fall in Love in a Pandemic (Music for a Short Film)",
+        "url": "https://open.spotify.com/album/1rQqmLBvReLC8JrogQpdkc"
+      },
+      "artists": [
+        {
+          "name": "Daith\u00ed",
+          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "How to Fall in Love in a Pandemic - Music for a Short Film",
+      "url": "https://open.spotify.com/track/4kVj1YdDUx8HPfhOeDs7Ec"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1295,22 +1279,6 @@
       "duration_ms": 201335,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Vitamin String Quartet Performs Bjork",
-        "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1335,6 +1303,38 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
+        "name": "acceptances",
+        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Old Friends New Friends",
+        "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 244919,
+      "name": "Corn",
+      "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
         "name": "Still Blue",
         "url": "https://open.spotify.com/album/5oGorJ69YAgPT4PtECGLpR"
       },
@@ -1355,34 +1355,38 @@
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "lodges",
-        "url": "https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5"
+        "name": "Vitamin String Quartet Performs Bjork",
+        "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
       },
       "artists": [
         {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
         }
       ],
-      "duration_ms": 231921,
-      "name": "lodges",
-      "url": "https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8"
+      "duration_ms": 225400,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
     },
     {
       "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "Old Friends New Friends",
-        "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
+        "name": "The North Wind (Daigo Hanada Re-work)",
+        "url": "https://open.spotify.com/album/1LjC5SMuxGzphoo6e9KEG5"
       },
       "artists": [
         {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        },
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
         }
       ],
-      "duration_ms": 244919,
-      "name": "Corn",
-      "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
+      "duration_ms": 115133,
+      "name": "The North Wind - Daigo Hanada Re-work",
+      "url": "https://open.spotify.com/track/3oM82Zz63KrnYQ0ZaTTQ9l"
     },
     {
       "added_at": "2022-10-14 04:01:00",

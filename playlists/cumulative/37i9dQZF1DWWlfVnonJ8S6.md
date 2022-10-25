@@ -4,7 +4,7 @@
 
 > \*vibing in desi\*
 
-131 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/2qnwnlVqwDzQeyJdfRGrMN)
+133 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/2qnwnlVqwDzQeyJdfRGrMN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Kabhi Alvida Naa Kehna \- Lofi Flip](https://open.spotify.com/track/2DGlEw5f8U2Mp5J3TpSngv) | [Hasu](https://open.spotify.com/artist/0EqUVntjnRIFC0sai2OK0s), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Kabhi Alvida Naa Kehna \(Lofi Flip\)](https://open.spotify.com/album/0MTirTZviYaCbilMlte77p) | 2:58 | 2022-05-27 |  |
 | [Kal Ho Naa Ho \- Lofi Flip](https://open.spotify.com/track/126qPRASiPpi9l0o0WtBvg) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [KSW](https://open.spotify.com/artist/2GhRzK7XzixKuZYEEfUkBR) | [Kal Ho Naa Ho \(Lofi Flip\)](https://open.spotify.com/album/1SYu377JUJukIdIcNLjGwP) | 4:56 | 2022-05-27 |  |
 | [Kal Ho Naa Ho Is Lofi \- Lofi Flip](https://open.spotify.com/track/3K31fQHoeSdEISeaAw9OAg) | [Hasu](https://open.spotify.com/artist/0EqUVntjnRIFC0sai2OK0s), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Kal Ho Naa Ho Is Lofi \(Lofi Flip\)](https://open.spotify.com/album/50M3biwISm8dNQNbymmUPY) | 2:53 | 2022-05-27 |  |
+| [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/track/7oN0Wo7sCVvXPdpxoio3JM) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/album/6pbaTBzAT23yL5xJxJfiFR) | 1:17 | 2022-10-24 |  |
 | [Karachi](https://open.spotify.com/track/3uaVvPwx0OEEmCmI4f22PI) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Cookie](https://open.spotify.com/album/5JkjCmyossmwy8kL2FRxgP) | 2:52 | 2022-05-27 |  |
 | [Kaun Hoon Main \- Lofi Mix](https://open.spotify.com/track/6UhC6fBIFkIwkVd5RgcuAG) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Kaun Hoon Main \- Lofi Mix](https://open.spotify.com/album/3vrp8PD7Hkot3abmIc2oAz) | 3:11 | 2022-05-27 |  |
 | [Kuch Kehna Chahta Huun](https://open.spotify.com/track/1R1nOl9ebAMtbKbdsYwXP4) | [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Kuch Kehna Chahta Huun](https://open.spotify.com/album/706SFuEEkihlYZjUzjBh0s) | 3:27 | 2022-05-27 |  |
@@ -137,6 +138,7 @@
 | [Woh Lamhe Woh Baatein \- LoFi](https://open.spotify.com/track/4YcGrrbJ5of8MHzLFRPNRb) | [Poorvesh Dave](https://open.spotify.com/artist/3U4ZRBChsjzagb4wcEXutU), [Kuxh Beats](https://open.spotify.com/artist/7LSYV8cUBosvmspqoBVClx) | [LoFi Songs](https://open.spotify.com/album/6mfaRl7OwzCuWPlbkpQgzl) | 2:21 | 2022-05-27 | 2022-07-29 |
 | [Your Eyes](https://open.spotify.com/track/5pebgx4IJ5YvZH2sYOHDRf) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [Taqiya Zaman](https://open.spotify.com/artist/0PabKDsomoLc4uPtBGNodI) | [Your Eyes](https://open.spotify.com/album/04NKJp5REYxjBzQdNAbByt) | 1:47 | 2022-05-27 | 2022-07-19 |
 | [Zara Sa \- Lofi Flip](https://open.spotify.com/track/4uZnwiu2fnfTKWn8zt6XZx) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [KSW](https://open.spotify.com/artist/2GhRzK7XzixKuZYEEfUkBR) | [Zara Sa \(Lofi Flip\)](https://open.spotify.com/album/6rqYAZTOUBmczFEJM4iNi9) | 3:31 | 2022-05-27 |  |
+| [Zara Zara](https://open.spotify.com/track/5KNEYJyQNBmOqGTWGCgNt4) | [Shany Haider](https://open.spotify.com/artist/0oNaaHupBSFSQHZPXiGICF) | [Zara Zara](https://open.spotify.com/album/3IxTao5P0LrRR9YpuJqi5d) | 2:33 | 2022-10-24 |  |
 | [Zindagi](https://open.spotify.com/track/7z1VoJuHX1iJTc67O7O1xm) | [Hamza Jahangir](https://open.spotify.com/artist/6JIeeCINgVPeCxowfoOBmo) | [Zindagi](https://open.spotify.com/album/0uR8pCl7EsMV5bz1norOFH) | 4:10 | 2022-05-27 | 2022-07-19 |
 | [دس میں کی پیار وچو کہٹیا \- یملا اور غوری](https://open.spotify.com/track/078KS6NzhMbxxA3UxX0be8) | [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [دس میں کی پیار وچو کہٹیا \- یملا اور غوری](https://open.spotify.com/album/3OjucYeDbjnXwe8BoU2vMj) | 2:11 | 2022-05-27 | 2022-07-19 |
 

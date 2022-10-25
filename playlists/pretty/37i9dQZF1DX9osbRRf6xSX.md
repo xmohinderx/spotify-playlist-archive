@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 
 > Dos de los más grandes, frente a frente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,910 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,959 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

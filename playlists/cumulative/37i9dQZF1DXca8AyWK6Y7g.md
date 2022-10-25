@@ -4,7 +4,7 @@
 
 > living life in your 250sq ft micro apartment Cover: Katherine Li
 
-1,344 songs - 2 day 21 hr 8 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,346 songs - 2 day 21 hr 13 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,7 @@
 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 | 2021-01-25 | 2022-07-02 |
 | [Glitter](https://open.spotify.com/track/6afganegJBNs44tGwIOgYQ) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Glitter](https://open.spotify.com/album/7lgPMiz220ZdI9hachYEvG) | 3:01 | 2021-12-03 |  |
 | [glitter](https://open.spotify.com/track/5Oc9SrrW1BICBePI1MF4OB) | [Zac Greer](https://open.spotify.com/artist/26Hx3p02bxJ4cLfua31zmz) | [glitter](https://open.spotify.com/album/6JAFdHAdf99vu5WGOsPjJM) | 2:45 | 2019-07-27 | 2021-04-09 |
-| [Go The Distance](https://open.spotify.com/track/4HFi9NP66qdNOsgPGLqrm7) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance](https://open.spotify.com/album/4n0O2srPjbdjU4i1EEqkcu) | 2:47 | 2022-04-08 |  |
+| [Go The Distance](https://open.spotify.com/track/4HFi9NP66qdNOsgPGLqrm7) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance](https://open.spotify.com/album/4n0O2srPjbdjU4i1EEqkcu) | 2:47 | 2022-04-08 | 2022-10-25 |
 | [Go Wild](https://open.spotify.com/track/0H39cYgfekuFluOgGPUicR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/4W0dYMXgDxAfT9y86EQqw8) | 3:17 | 2019-06-15 | 2019-08-13 |
 | [go with u](https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone's EP II](https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ) | 3:51 | 2019-06-27 | 2021-11-10 |
 | [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 | 2021-10-08 | 2022-07-16 |
@@ -526,6 +526,7 @@
 | [Her Body Is Bible](https://open.spotify.com/track/1qMMRXrcyfjbik6Mh1XRDz) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Her Body Is Bible](https://open.spotify.com/album/3JwM5vjiKuLf2HLmcR5o6D) | 2:57 | 2022-06-24 | 2022-07-30 |
 | [Her Manner](https://open.spotify.com/track/1Qv8px5889ebB4g6V6tCCR) | [Zuli Jr.](https://open.spotify.com/artist/01O6qxIrBMxnALWGgrKmJW) | [Her Manner](https://open.spotify.com/album/7bfRq1kM8itHlpTIpz5HIo) | 3:48 | 2021-08-14 | 2021-08-22 |
 | [Her Touch](https://open.spotify.com/track/3Swu7AElUpW4sNVVxkdqYb) | [SŸDE](https://open.spotify.com/artist/2AgbDbAVnc4y7oB2QxISmJ) | [Her Touch](https://open.spotify.com/album/1gmUAmPZf5XTlZeozWuR86) | 3:05 | 2019-09-06 | 2021-01-21 |
+| [Hey Cowboy](https://open.spotify.com/track/5FfgLIooERZ7rcNcwxAcdF) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Hey Cowboy](https://open.spotify.com/album/17wY9BVWaZncYiZBleCcJX) | 3:07 | 2022-10-25 |  |
 | [hey girl](https://open.spotify.com/track/5x9r0HaFznxQ32J2JZFhub) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 3:07 | 2021-01-23 | 2021-11-20 |
 | [hey! \- Spotify Singles](https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [hey! \- Spotify Singles](https://open.spotify.com/album/36A3sE4wnPiEtVP1KfO3DQ) | 2:13 | 2021-06-24 | 2022-01-07 |
 | [Hey! I Don't Want That Anyway](https://open.spotify.com/track/2Orge4IMIiIgvOQfNg33WA) | [AKA Lui](https://open.spotify.com/artist/4ZCvesZqn6v6oJRBtvR5xx) | [Hey! I Don't Want That Anyway](https://open.spotify.com/album/4b5MDKHsb9cAn3lqYymxnp) | 2:45 | 2019-05-26\* | 2020-01-16 |
@@ -559,7 +560,7 @@
 | [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 | 2022-01-07 | 2022-05-20 |
 | [hours](https://open.spotify.com/track/50fOAzCbELUmkFWgbrdW7C) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [hours](https://open.spotify.com/album/5VHlWqRmzCGaFgw6yokx6L) | 3:01 | 2020-08-11 | 2021-11-10 |
 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 | 2022-02-18 |  |
-| [House With A View](https://open.spotify.com/track/7cm6zfcgKmweLjnSu3aSbo) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [House With A View](https://open.spotify.com/album/5I7BLayLBeaLMNz8YumFtM) | 2:24 | 2022-07-15 |  |
+| [House With A View](https://open.spotify.com/track/7cm6zfcgKmweLjnSu3aSbo) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [House With A View](https://open.spotify.com/album/5I7BLayLBeaLMNz8YumFtM) | 2:24 | 2022-07-15 | 2022-10-25 |
 | [how dare you](https://open.spotify.com/track/0f7h8DgzukjvZdOuhkpJXS) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [how dare you](https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv) | 2:57 | 2022-07-22 | 2022-10-15 |
 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 | 2022-08-26 |  |
 | [How Do I Lose You](https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [How Do I Lose You](https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO) | 3:02 | 2022-08-12 | 2022-10-08 |
@@ -885,6 +886,7 @@
 | [Pager](https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 2:46 | 2022-04-15 | 2022-09-17 |
 | [palace](https://open.spotify.com/track/6MbZCzWPrLkkJpODMTvTar) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [leap](https://open.spotify.com/album/1BRrUfqfPV2mJ0KsSXzJyb) | 2:27 | 2021-06-27 | 2021-10-13 |
 | [Palpitations](https://open.spotify.com/track/4jS4EhXJT0Rj2SzjsgYIo5) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [Palpitations](https://open.spotify.com/album/6J5xwFqJZkOdv9xKx8jHTQ) | 2:33 | 2022-03-04 | 2022-03-26 |
+| [Pangaea \(with blackbear\)](https://open.spotify.com/track/6zYJeYNqyZvwlMNSeOP64Q) | [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Pangaea \(with blackbear\)](https://open.spotify.com/album/3shwqKaPqDxZnhlrv7Fte8) | 2:21 | 2022-10-25 |  |
 | [Panic Attacks in Paradise](https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Panic Attacks in Paradise / Maggots](https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH) | 3:04 | 2021-10-08 | 2022-05-20 |
 | [Paper Cut](https://open.spotify.com/track/4gSEZ8dkB4GrrIowsib0l9) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Paper Cut](https://open.spotify.com/album/3YUYvVYmYUNoVJJTAMg6ox) | 3:08 | 2019-05-26\* | 2019-08-13 |
 | [Paradise](https://open.spotify.com/track/1FsxkwFz98EN7BufWfTemM) | [19&YOU](https://open.spotify.com/artist/13yCAnmLQoRIQKXHa6lFai) | [Paradise](https://open.spotify.com/album/5fxA3kF1DmB1o9jJC8f63T) | 3:09 | 2022-04-01 | 2022-06-06 |

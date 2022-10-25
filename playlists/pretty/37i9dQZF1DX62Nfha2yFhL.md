@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,598 likes - 57 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,732 likes - 57 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

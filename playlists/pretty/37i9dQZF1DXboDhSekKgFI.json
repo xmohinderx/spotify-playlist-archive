@@ -1,12 +1,12 @@
 {
   "description": "Los ni\u00f1os se volver\u00e1n locos por estas canciones de fiesta.",
-  "num_followers": 7546,
+  "num_followers": 7550,
   "original_name": "Fiesta para Ni\u00f1os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU3NjkyOCwwMDAwMDAwMDE5MDE1MzYwNDE5OTFlMDIzZDNkZDY2Njc3YzhkMTMx",
+  "snapshot_id": "MTY1NzU3NjkyOCwwMDAwMDAwMDc2YzUxY2E3ZmI3ZDE3OGVlYWIyYzM3ZmI3NWUyZGM3",
   "tracks": [
     {
       "added_at": "2020-04-27 17:12:16",
@@ -247,30 +247,6 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Brendon Urie",
-          "url": "https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ"
-        },
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
-      "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -331,6 +307,30 @@
       "duration_ms": 191466,
       "name": "If I Can't Have You",
       "url": "https://open.spotify.com/track/2bT1PH7Cw3J9p3t7nlXCdh"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Brendon Urie",
+          "url": "https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ"
+        },
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+      "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
     },
     {
       "added_at": "2020-12-21 17:16:17",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/45WZ2N9hK3b7KhOECCUGkh"
     },
     {
-      "added_at": "2020-12-21 17:16:17",
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 187524,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
-    },
-    {
       "added_at": "2020-04-27 17:12:16",
       "album": {
         "name": "The Lego Movie (Original Motion Picture Soundtrack)",
@@ -553,20 +537,20 @@
       "url": "https://open.spotify.com/track/2kAe8s00cKth2AfcLEbFi9"
     },
     {
-      "added_at": "2020-04-27 17:12:16",
+      "added_at": "2020-12-21 17:16:17",
       "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 186946,
-      "name": "Sodio",
-      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
     },
     {
       "added_at": "2020-04-27 17:12:16",
@@ -583,6 +567,22 @@
       "duration_ms": 160718,
       "name": "chiquita suelta",
       "url": "https://open.spotify.com/track/2tu1kkUvtloityaRwbSNZQ"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 186946,
+      "name": "Sodio",
+      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
     },
     {
       "added_at": "2020-04-27 17:12:16",
@@ -639,22 +639,6 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
-        "name": "Mas Flow - Los Benjamins",
-        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
-      },
-      "artists": [
-        {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2wga58e6AZmO3kfIZ0fSBw"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
         "name": "Junior Express - Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
+        "name": "Mas Flow - Los Benjamins",
+        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2wga58e6AZmO3kfIZ0fSBw"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
-        "name": "Go Diego Go Live! The Great Jaguar Rescue",
-        "url": "https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg"
-      },
-      "artists": [
-        {
-          "name": "Go, Diego, Go!",
-          "url": "https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6"
-        }
-      ],
-      "duration_ms": 75306,
-      "name": "Merengue!",
-      "url": "https://open.spotify.com/track/3T5DRtuj3RlqKM70IL5Dzu"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
         "name": "Por Ti y Para Ti",
         "url": "https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 222613,
       "name": "Ki Ki K\u00ed - Co Co C\u00f3 - Dance Remix",
       "url": "https://open.spotify.com/track/0dT11N8Apg5dqZrm5iYHyF"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
+        "name": "Go Diego Go Live! The Great Jaguar Rescue",
+        "url": "https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg"
+      },
+      "artists": [
+        {
+          "name": "Go, Diego, Go!",
+          "url": "https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6"
+        }
+      ],
+      "duration_ms": 75306,
+      "name": "Merengue!",
+      "url": "https://open.spotify.com/track/3T5DRtuj3RlqKM70IL5Dzu"
     },
     {
       "added_at": "2020-04-27 17:12:16",
@@ -787,6 +787,26 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "Me Muevo para Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4HnfVgHmTZ7kzOdZMY0FIt"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
         "name": "Yo Soy Franky (M\u00fasica Original de la Serie)",
         "url": "https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 232575,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/3QdqgMuEYLbckJy0XUw3gA"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
-        "name": "Junior Express - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
-      },
-      "artists": [
-        {
-          "name": "Elenco Junior Express",
-          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
-        },
-        {
-          "name": "Diego Topa",
-          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "Me Muevo para Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4HnfVgHmTZ7kzOdZMY0FIt"
     },
     {
       "added_at": "2020-04-27 17:12:16",
@@ -891,6 +891,54 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
+        "name": "KIDZ BOP 37",
+        "url": "https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/5ztaePc76dP2m4hUvbI1Gt"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
+        "name": "\u00a1Viva Mi Planeta 2!",
+        "url": "https://open.spotify.com/album/75DqI2Vyklgc4fDTzISbWb"
+      },
+      "artists": [
+        {
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+        }
+      ],
+      "duration_ms": 114080,
+      "name": "A Divertirse",
+      "url": "https://open.spotify.com/track/1URPFeH9U75h8hCjyZylEA"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
+        "name": "Adelante",
+        "url": "https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam"
+      },
+      "artists": [
+        {
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
+        }
+      ],
+      "duration_ms": 131442,
+      "name": "Pi\u00f1ata Attack! (Spanish Version)",
+      "url": "https://open.spotify.com/track/6vB7wGPBsUbF68x2oP49lY"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
         "name": "Mejores Amigos",
         "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
       },
@@ -919,54 +967,6 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
-        "name": "\u00a1Viva Mi Planeta 2!",
-        "url": "https://open.spotify.com/album/75DqI2Vyklgc4fDTzISbWb"
-      },
-      "artists": [
-        {
-          "name": "CantaJuego",
-          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
-        }
-      ],
-      "duration_ms": 114080,
-      "name": "A Divertirse",
-      "url": "https://open.spotify.com/track/1URPFeH9U75h8hCjyZylEA"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
-        "name": "KIDZ BOP 37",
-        "url": "https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/5ztaePc76dP2m4hUvbI1Gt"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
-        "name": "Adelante",
-        "url": "https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam"
-      },
-      "artists": [
-        {
-          "name": "Lucky Diaz and the Family Jam Band",
-          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
-        }
-      ],
-      "duration_ms": 131442,
-      "name": "Pi\u00f1ata Attack! (Spanish Version)",
-      "url": "https://open.spotify.com/track/6vB7wGPBsUbF68x2oP49lY"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
         "name": "Colorea Tu Portada Vol.25",
         "url": "https://open.spotify.com/album/6B4ZCjw573fCJh94YZq6nV"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 192586,
       "name": "Chiqui Boom",
       "url": "https://open.spotify.com/track/6QOEP25z7BqTTIK8Skyu7Z"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
+        "name": "La Canci\u00f2n",
+        "url": "https://open.spotify.com/album/7p3hSlLxQtEZ3OWinN1TF8"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "La Canci\u00f2n",
+      "url": "https://open.spotify.com/track/58Ezud7EmDJTWdN5enfRpM"
     },
     {
       "added_at": "2020-04-27 17:12:16",
@@ -1011,22 +1027,6 @@
       "duration_ms": 186146,
       "name": "Ser\u00e1 un D\u00eda Fenomenal (De \"Phineas & Ferb\")",
       "url": "https://open.spotify.com/track/2yKwySjvnUXeIQ4eqwBmFj"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
-        "name": "La Canci\u00f2n",
-        "url": "https://open.spotify.com/album/7p3hSlLxQtEZ3OWinN1TF8"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "La Canci\u00f2n",
-      "url": "https://open.spotify.com/track/58Ezud7EmDJTWdN5enfRpM"
     },
     {
       "added_at": "2020-04-27 17:12:16",

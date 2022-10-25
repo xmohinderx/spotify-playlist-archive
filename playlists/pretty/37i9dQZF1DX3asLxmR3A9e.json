@@ -1,12 +1,12 @@
 {
   "description": "2014 highlights from the home of indie music.",
-  "num_followers": 29281,
+  "num_followers": 29315,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDE4MDc1MCwwMDAwMDAwMDE4N2Q5NmJlOGYzNDI5NjM1MWQ5MGNmOTk1N2ViMmZk",
+  "snapshot_id": "MTY0MDE4MDc1MCwwMDAwMDAwMGI1MzVhNDA3ZTQ4YzVmNzkyZTQyMzZiODc5NTAyZWUz",
   "tracks": [
     {
       "added_at": "2021-09-03 05:42:37",
@@ -203,38 +203,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "West Coast",
-      "url": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Like Real People Do",
-      "url": "https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "My Type EP",
         "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
       },
@@ -247,6 +215,22 @@
       "duration_ms": 204811,
       "name": "My Type",
       "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -299,18 +283,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Chinese New Year",
-        "url": "https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi"
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
       "artists": [
         {
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Chinese New Year",
-      "url": "https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k"
+      "duration_ms": 198026,
+      "name": "Like Real People Do",
+      "url": "https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -327,6 +311,54 @@
       "duration_ms": 251480,
       "name": "Ultraviolence",
       "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Chinese New Year",
+        "url": "https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi"
+      },
+      "artists": [
+        {
+          "name": "SALES",
+          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Chinese New Year",
+      "url": "https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 160886,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 230773,
+      "name": "Cold Cold Man",
+      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -363,34 +395,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "My Type EP",
-        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
       },
       "artists": [
         {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 230773,
-      "name": "Cold Cold Man",
-      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 160886,
-      "name": "Kathleen",
-      "url": "https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq"
+      "duration_ms": 342093,
+      "name": "Shades Of Cool",
+      "url": "https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -407,6 +423,22 @@
       "duration_ms": 215493,
       "name": "My Silver Lining",
       "url": "https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -443,18 +475,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
+      "duration_ms": 236887,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -475,18 +507,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+        "name": "Strange Desire",
+        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 342093,
-      "name": "Shades Of Cool",
-      "url": "https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV"
+      "duration_ms": 204520,
+      "name": "I Wanna Get Better",
+      "url": "https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -507,18 +539,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Strange Desire",
-        "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
         }
       ],
-      "duration_ms": 204520,
-      "name": "I Wanna Get Better",
-      "url": "https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb"
+      "duration_ms": 212800,
+      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -535,22 +567,6 @@
       "duration_ms": 249382,
       "name": "Fire and the Flood",
       "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 236887,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -583,22 +599,6 @@
       "duration_ms": 226440,
       "name": "Seasons (Waiting on You)",
       "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 410186,
-      "name": "Weight of Love",
-      "url": "https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "They Want My Soul",
         "url": "https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 301960,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/7qCZgvV98j6RjUULW1s1it"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 410186,
+      "name": "Weight of Love",
+      "url": "https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -971,22 +971,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Goddess (Deluxe)",
-        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 281017,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Urban Flora",
         "url": "https://open.spotify.com/album/2VsXWsaXURPYoSjjDI2Cjz"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 218947,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/11OoUqXLghsFEEh47JeALh"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Goddess (Deluxe)",
+        "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 281017,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "I Love You, Honeybear",
-        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Chateau Lobby #4 (in C for Two Virgins)",
-      "url": "https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "So Long, See You Tomorrow",
-        "url": "https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL"
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 190866,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa"
+      "duration_ms": 170826,
+      "name": "Chateau Lobby #4 (in C for Two Virgins)",
+      "url": "https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1167,6 +1151,22 @@
       "duration_ms": 213440,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "So Long, See You Tomorrow",
+        "url": "https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Supermodel",
-        "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/7tvOve5IkjYenvqScZ75iQ"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "Alvvays",
         "url": "https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 207640,
       "name": "Adult Diversion",
       "url": "https://open.spotify.com/track/22cDldSuj9rgIMXwn4Ofn0"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Supermodel",
+        "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/7tvOve5IkjYenvqScZ75iQ"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Morning Phase",
-        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 242346,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S"
+      "duration_ms": 232760,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
     }
   ],
   "unique_name": "Best of Indie 2014",

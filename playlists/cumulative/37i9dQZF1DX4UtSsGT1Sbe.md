@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1980s.
 
-666 songs - 1 day 23 hr 16 min - [published](https://open.spotify.com/playlist/6kIRUOEADDcyDgRr5BVja2)
+667 songs - 1 day 23 hr 20 min - [published](https://open.spotify.com/playlist/6kIRUOEADDcyDgRr5BVja2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [I'm Still Standing](https://open.spotify.com/track/0lzpfrTARexLFXEACKSXTh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rocket Man \(Deluxe Edition\)](https://open.spotify.com/album/1vsWzNT3lzLt7RNLUdUVZB) | 3:01 | 2019-05-26\* | 2022-07-29 |
 | [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 | 2020-06-12 |  |
 | [If I Could Turn Back Time](https://open.spotify.com/track/0eHZ7dpv4iT7bMEYDoILIa) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/60Q5H9OJaMs0sFzImKDJ8s) | 3:59 | 2019-05-26\* | 2020-10-21 |
-| [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 | 2020-04-26 |  |
+| [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 | 2020-04-26 | 2022-10-25 |
 | [If You Don't Know Me by Now \- 2008 Remaster](https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [A New Flame \(Expanded Version\)](https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew) | 3:24 | 2019-05-26\* | 2022-02-21 |
 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 | 2019-06-26 | 2020-05-30 |
 | [In The Air Tonight \- 2015 Remastered](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 5:36 | 2019-06-21 |  |
@@ -508,6 +508,7 @@
 | [Smooth Operator \- Single Version](https://open.spotify.com/track/3XEtw7t4V5sfd2vtkp0ql7) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best Of Sade](https://open.spotify.com/album/5eLHiRRgWKHtzEbQCew8pK) | 4:18 | 2020-06-12 | 2020-12-22 |
 | [Somebody](https://open.spotify.com/track/3KTxIOIZIE7UM6vwCX4Ofv) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 4:43 | 2020-12-22 | 2022-07-14 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 3:57 | 2020-06-12 | 2021-05-28 |
+| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:58 | 2022-08-11 |  |
 | [Something About You \- 7" Version](https://open.spotify.com/track/2uXewDKMktNkkMfotqSxN6) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Level Best](https://open.spotify.com/album/43lw3eUmzsmn3YSxUiMY9x) | 3:43 | 2020-06-12 | 2021-10-09 |
 | [St Elmo's Fire \(Anniversary Edition\)](https://open.spotify.com/track/1lZeAoeRbCSKRyqx1PBvT6) | [John Parr](https://open.spotify.com/artist/3Z1tibPKhUYWCno0IYicCN) | [St Elmo's Fire \(Anniversary Edition\)](https://open.spotify.com/album/2Y6rBYCPAx5VUlFi2E4E6K) | 4:15 | 2020-04-25 | 2020-06-12 |
 | [St\. Elmos Fire \(Man in Motion\)](https://open.spotify.com/track/1A2PWRltFrX8iB8IP3CUgo) | [John Parr](https://open.spotify.com/artist/3Z1tibPKhUYWCno0IYicCN) | [St\. Elmo's Fire \- Music From The Original Motion Picture Soundtrack](https://open.spotify.com/album/70P9doc1EAqyb36gRmaPcU) | 4:11 | 2019-05-26\* | 2022-07-29 |

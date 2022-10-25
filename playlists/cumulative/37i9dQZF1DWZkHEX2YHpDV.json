@@ -1598,6 +1598,24 @@
     },
     {
       "album": {
+        "name": "Blistered World",
+        "url": "https://open.spotify.com/album/70mjHoRyTAkG4RcXi265ku"
+      },
+      "artists": [
+        {
+          "name": "Plasma Canvas",
+          "url": "https://open.spotify.com/artist/6bhi8CRvRAb6FxLk2zaMGQ"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185191,
+      "name": "Blistered World",
+      "url": "https://open.spotify.com/track/5qGZW9TilPRhXIYDB1amjE"
+    },
+    {
+      "album": {
         "name": "Volatile",
         "url": "https://open.spotify.com/album/4j6sM622OZ4QUUm3ybI6zL"
       },
@@ -4675,7 +4693,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 180472,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e"

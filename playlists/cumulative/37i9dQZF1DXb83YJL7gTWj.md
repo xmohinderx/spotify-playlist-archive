@@ -4,7 +4,7 @@
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-220 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/5xFoAu42rUxBBjwiUOlAS2)
+221 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/5xFoAu42rUxBBjwiUOlAS2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Daydream](https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O) | 3:09 | 2022-09-09 |  |
 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 | 2021-11-05 |  |
 | [Dear August](https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dear August](https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj) | 3:20 | 2021-11-05 |  |
+| [Dear Soulmate](https://open.spotify.com/track/2OcTokSU4FnEaIMpNSAh9F) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 4:20 | 2022-09-30 |  |
 | [Dear Soulmate](https://open.spotify.com/track/3n5riqcWURtw7ndVQkNIOH) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Dear Soulmate](https://open.spotify.com/album/5VFaoS9iAQKQruM5V3VEYH) | 4:20 | 2022-07-08 | 2022-10-13 |
 | [Down by the Water](https://open.spotify.com/track/3ryF0T6yKtG6STYnaiEX0L) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [EP](https://open.spotify.com/album/1Af6jOBx3M8xVnhQk6lfIK) | 2:58 | 2021-11-05 | 2022-03-19 |
 | [Dreams \- Piano Version](https://open.spotify.com/track/1HrVc40jQbDRWIB9KreDti) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Dreams \(Piano Version\)](https://open.spotify.com/album/1oBjEkE3FjyD74adBZsUTI) | 4:34 | 2021-11-05 | 2022-07-29 |
@@ -88,7 +89,7 @@
 | [Home](https://open.spotify.com/track/3Fd1DPWahuBsv7HvcM36qG) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Home](https://open.spotify.com/album/2dCC5EFElFDCuxRaWCaZtp) | 3:35 | 2021-11-05 | 2022-03-19 |
 | [Homesick](https://open.spotify.com/track/5WyB2G0ecrM2qK3FJCkoUD) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Homesick](https://open.spotify.com/album/5Rr8zvYPZpdrSoPxNH3q2h) | 3:02 | 2021-11-05 | 2022-03-18 |
 | [Hot Tears](https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 4:07 | 2021-11-05 |  |
-| [Hurt Somebody](https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 2:48 | 2021-11-05 |  |
+| [Hurt Somebody](https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 2:48 | 2021-11-05 | 2022-10-25 |
 | [hurts like hell](https://open.spotify.com/track/2z7EhgzjTkN9QozoJ7DvBA) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell](https://open.spotify.com/album/6DnZ9MzBUgrhbElToTSgfk) | 3:57 | 2021-11-05 | 2022-07-29 |
 | [I Do](https://open.spotify.com/track/5mpCx2nbXtAbnzd342Mwrb) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [I Do](https://open.spotify.com/album/5FGa9dsx41t70tKh0roFsm) | 3:37 | 2021-11-05 | 2022-03-19 |
 | [I Do](https://open.spotify.com/track/59xKeVGl4LObjl5ojSP4u8) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Leave It Beautiful \(Complete\)](https://open.spotify.com/album/0inJNc0fFD60UAIdFbnedW) | 2:35 | 2022-07-22 |  |

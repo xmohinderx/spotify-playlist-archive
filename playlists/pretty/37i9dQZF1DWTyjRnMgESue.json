@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
-  "num_followers": 35915,
+  "num_followers": 35986,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGUwZDkzNmUwZTUxNGExNGZlMDFmZDMzNGQ2YzNmMjhm",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGU0OWY4NTk3YWY4NTRmNDZkMGQ0MTJhNmMyMjIxMGVm",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "j's lullaby (darlin' i'd wait for you)",
-        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
       "artists": [
         {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 290132,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+      "duration_ms": 152317,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
         }
       ],
-      "duration_ms": 152317,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Love Like That (Words from Her)",
-        "url": "https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy"
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
       },
       "artists": [
         {
-          "name": "Suriel Hess",
-          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 174489,
-      "name": "Love Like That (Words from Her)",
-      "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
+      "duration_ms": 195252,
+      "name": "I Burned LA Down",
+      "url": "https://open.spotify.com/track/5z8F06wTZvUOR5DzyWJ0L6"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Love Like That (Words from Her)",
+        "url": "https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy"
+      },
+      "artists": [
+        {
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+        }
+      ],
+      "duration_ms": 174489,
+      "name": "Love Like That (Words from Her)",
+      "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "All I Ever Asked",
         "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 215384,
       "name": "All I Ever Asked",
       "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 195252,
-      "name": "I Burned LA Down",
-      "url": "https://open.spotify.com/track/5z8F06wTZvUOR5DzyWJ0L6"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "The Walls Are Way Too Thin",
-        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
+        "name": "Forget I Exist",
+        "url": "https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
         }
       ],
-      "duration_ms": 221933,
-      "name": "The Walls Are Way Too Thin",
-      "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
+      "duration_ms": 172626,
+      "name": "Forget I Exist",
+      "url": "https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Forget I Exist",
-        "url": "https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN"
+        "name": "The Walls Are Way Too Thin",
+        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
       },
       "artists": [
         {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Forget I Exist",
-      "url": "https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq"
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "How Do You Dress for the Rain?",
+        "url": "https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "How Do You Dress for the Rain?",
+      "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "14",
         "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
       },
@@ -803,6 +819,22 @@
       "duration_ms": 198653,
       "name": "Until You",
       "url": "https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -843,38 +875,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "How Do You Dress for the Rain?",
-        "url": "https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh"
-      },
-      "artists": [
-        {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "How Do You Dress for the Rain?",
-      "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "rest in peace",
-        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 191910,
-      "name": "rest in peace",
-      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 197032,
       "name": "all my ghosts",
       "url": "https://open.spotify.com/track/46BHP7nFOrGQPLW8mCxzZr"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "rest in peace",
+        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 191910,
+      "name": "rest in peace",
+      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Everything I Know About Love",
+      "url": "https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "APART",
         "url": "https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "Everything I Know About Love",
-      "url": "https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "I BELIEVE",
         "url": "https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 206999,
       "name": "I BELIEVE",
       "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Go Easy, Kid",
+        "url": "https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh"
+      },
+      "artists": [
+        {
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+        }
+      ],
+      "duration_ms": 248181,
+      "name": "Go Easy, Kid",
+      "url": "https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Go Easy, Kid",
-        "url": "https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh"
-      },
-      "artists": [
-        {
-          "name": "Monica Martin",
-          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
-        }
-      ],
-      "duration_ms": 248181,
-      "name": "Go Easy, Kid",
-      "url": "https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Pink Razor",
         "url": "https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "saw ur mom at the grocery store",
-        "url": "https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP"
-      },
-      "artists": [
-        {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
-        }
-      ],
-      "duration_ms": 253968,
-      "name": "saw ur mom at the grocery store",
-      "url": "https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "October Sky",
         "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
+        "name": "saw ur mom at the grocery store",
+        "url": "https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
         }
       ],
-      "duration_ms": 174557,
-      "name": "Good Person",
-      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
+      "duration_ms": 253968,
+      "name": "saw ur mom at the grocery store",
+      "url": "https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1391,22 +1375,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Picture of You (feat. Hayden Calnin)",
-        "url": "https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4"
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d"
       },
       "artists": [
         {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        },
-        {
-          "name": "Hayden Calnin",
-          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 261523,
-      "name": "Picture of You",
-      "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
+      "duration_ms": 174557,
+      "name": "Good Person",
+      "url": "https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1423,6 +1403,26 @@
       "duration_ms": 192489,
       "name": "Far from Home",
       "url": "https://open.spotify.com/track/74i65cFb7Mfa5VuX0Vho3M"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Picture of You (feat. Hayden Calnin)",
+        "url": "https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        },
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "duration_ms": 261523,
+      "name": "Picture of You",
+      "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Dark River",
-        "url": "https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu"
+        "name": "I Hope You Change Your Mind",
+        "url": "https://open.spotify.com/album/6cgwjBET2eGuuATztT790Q"
       },
       "artists": [
         {
-          "name": "Lydia Luce",
-          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
         }
       ],
-      "duration_ms": 194560,
-      "name": "Occasionally",
-      "url": "https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx"
+      "duration_ms": 172633,
+      "name": "I Hope You Change Your Mind",
+      "url": "https://open.spotify.com/track/0ZBLyBuUpOqMlLuRSgcnFh"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "I Hope You Change Your Mind",
-        "url": "https://open.spotify.com/album/6cgwjBET2eGuuATztT790Q"
+        "name": "Dark River",
+        "url": "https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu"
       },
       "artists": [
         {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
         }
       ],
-      "duration_ms": 172633,
-      "name": "I Hope You Change Your Mind",
-      "url": "https://open.spotify.com/track/0ZBLyBuUpOqMlLuRSgcnFh"
+      "duration_ms": 194560,
+      "name": "Occasionally",
+      "url": "https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Take Back Thy Gift",
-        "url": "https://open.spotify.com/album/1vXHYnUXAULJdM7TA1LQl9"
-      },
-      "artists": [
-        {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
-        }
-      ],
-      "duration_ms": 193340,
-      "name": "Take Back Thy Gift",
-      "url": "https://open.spotify.com/track/2vIbOavGv7iID6wZmFqN2k"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "A Good Love, Pt. 2",
         "url": "https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 213556,
       "name": "A Good Love, Pt. 2",
       "url": "https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Take Back Thy Gift",
+        "url": "https://open.spotify.com/album/1vXHYnUXAULJdM7TA1LQl9"
+      },
+      "artists": [
+        {
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
+        }
+      ],
+      "duration_ms": 193340,
+      "name": "Take Back Thy Gift",
+      "url": "https://open.spotify.com/track/2vIbOavGv7iID6wZmFqN2k"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Don't Grow Up Too Fast",
+        "url": "https://open.spotify.com/album/4YHy2q0WEJaCNGRy4I1xsw"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 242931,
+      "name": "Don't Grow Up Too Fast",
+      "url": "https://open.spotify.com/track/1moE3Qvo70cpkGT6RcRy9l"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "alchemy",
         "url": "https://open.spotify.com/album/72wPvtjiVDVty0FhvrlSqW"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 157184,
       "name": "parasite",
       "url": "https://open.spotify.com/track/7dRSTYM5o4UuEAEnsCoOdH"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Dominoes",
-        "url": "https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

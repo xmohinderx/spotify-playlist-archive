@@ -2149,7 +2149,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 198853,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K"
@@ -3780,6 +3780,24 @@
     },
     {
       "album": {
+        "name": "QUARTER LIFE CRISIS",
+        "url": "https://open.spotify.com/album/1xZpg4zC8UQRM0NAnWCiZl"
+      },
+      "artists": [
+        {
+          "name": "Taylor Bickett",
+          "url": "https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198436,
+      "name": "QUARTER LIFE CRISIS",
+      "url": "https://open.spotify.com/track/7BmpRLqZg1vLheYi1SI1Rw"
+    },
+    {
+      "album": {
         "name": "Read My Mind",
         "url": "https://open.spotify.com/album/33AZnu3azsTdALxhjX2gh2"
       },
@@ -3827,7 +3845,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 178626,
       "name": "Remember - Acoustic",
       "url": "https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3"
@@ -4725,7 +4743,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 217866,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"

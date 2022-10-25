@@ -4,11 +4,12 @@
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-53 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/46IiJHvMHpIvKHbQ9JVNFO)
+54 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/46IiJHvMHpIvKHbQ9JVNFO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Am Loving](https://open.spotify.com/track/0kS6qRrKqO8zMMoAkrbGvH) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [The King Herself](https://open.spotify.com/album/55LPMQe1olnEgpTaZAijYy) | 3:17 | 2022-03-31 | 2022-10-07 |
+| [Bailando](https://open.spotify.com/track/0c3TjkmUKWDDi5WHM2qmPy) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Sama Sojah](https://open.spotify.com/artist/6Cu8b2RnzlfjEWxuKrg9Bk) | [Bailando](https://open.spotify.com/album/5uovEJCYYLl53i8Wryc1e9) | 3:04 | 2022-10-06 |  |
 | [Bakuwe](https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst) | [Guvnor Ace](https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bakuwe](https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ) | 3:06 | 2022-03-31 |  |
 | [Banger](https://open.spotify.com/track/6s50uTx8qzel7HwNuz0xZW) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Suspekt Leizor](https://open.spotify.com/artist/2JPOWH88plI7HcSWZugaip) | [Banger](https://open.spotify.com/album/4o2MON66Cp04sCMhbJAa7U) | 3:15 | 2022-05-19 |  |
 | [Bango](https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Bango](https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR) | 3:28 | 2022-07-01 |  |
@@ -33,7 +34,7 @@
 | [Hot Like Dat](https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE), [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Hot Like Dat](https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj) | 2:46 | 2022-03-31 |  |
 | [I Need Your Love](https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [I Need Your Love](https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb) | 2:49 | 2022-05-27 |  |
 | [Izulu](https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5), [Geosteady1](https://open.spotify.com/artist/2RlWVKmzxjwaq6wMR1QUNu) | [King Kong](https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R) | 3:37 | 2022-10-06 |  |
-| [Kila Migino](https://open.spotify.com/track/6saPIuy5mATwVvQENlp2fL) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Kerry Wise](https://open.spotify.com/artist/4BiU2p42WKseuN6rG6Jtpi) | [Kila Migino](https://open.spotify.com/album/5enxzC7Dx4xM8Ra3MxjQjs) | 2:41 | 2022-05-19 |  |
+| [Kila Migino](https://open.spotify.com/track/6saPIuy5mATwVvQENlp2fL) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Kerry Wise](https://open.spotify.com/artist/4BiU2p42WKseuN6rG6Jtpi) | [Kila Migino](https://open.spotify.com/album/5enxzC7Dx4xM8Ra3MxjQjs) | 2:41 | 2022-05-19 | 2022-10-25 |
 | [Kiriza \- Remix](https://open.spotify.com/track/3CJJBRNeQ7ypuw4uT4VqSg) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Kiriza \(Remix\)](https://open.spotify.com/album/6JSkoPNtL66yYRhDR8hcsd) | 2:42 | 2022-03-31 |  |
 | [Kiziniro](https://open.spotify.com/track/28SmtKCVqNzejIZyFGDaqd) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Topic Kasente](https://open.spotify.com/artist/6rQqiqoFBtVRNqa3v23gJ4), [Lil Pazzo](https://open.spotify.com/artist/64bHQYMGZ4WsdZSb0WxBeY), [Tip Swizzy](https://open.spotify.com/artist/15istpId4Lt4aLVfcXiBbv) | [Kiziniro](https://open.spotify.com/album/5dtu1dkZGbl2a89dQ6yjtc) | 3:42 | 2022-08-05 |  |
 | [Kyoyina Omanya \(Remix\)](https://open.spotify.com/track/1JZvvNFskJttTabmaJA2ji) | [Crysto Panda](https://open.spotify.com/artist/3z5uVPKm4ddcD43sK0dxAX), [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kyoyina Omanya \(Remix\)](https://open.spotify.com/album/3tbEc4SFKe31ayuw09YmLD) | 3:00 | 2022-03-31 |  |

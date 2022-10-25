@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,256,807 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,256,995 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 27 | [Daughter \- Remastered](https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:54 |
 | 28 | [What It's Like](https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford Sings the Blues](https://open.spotify.com/album/4ebpJ41hnGAIBZ8Cwua250) | 5:03 |
 | 29 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 |
-| 30 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 |
-| 31 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
-| 32 | [Fake Plastic Trees](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:50 |
+| 30 | [Fake Plastic Trees](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:50 |
+| 31 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 |
+| 32 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
 | 33 | [All For You](https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [...Somewhere More Familiar](https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ) | 3:38 |
 | 34 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:22 |
 | 35 | [How's It Going to Be](https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:13 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 43 | [Lovefool \- Radio Edit](https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon](https://open.spotify.com/album/0YI7QPNUGq8NTB6Nd8nWfd) | 3:13 |
 | 44 | [Zombie \- Acoustic Version](https://open.spotify.com/track/1qylvO4iCIZZcqc4TqSjTZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r) | 4:01 |
 | 45 | [The Freshmen](https://open.spotify.com/track/21jEuMn2lf37715rwjow2M) | [The Verve Pipe](https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp) | [Villains](https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi) | 4:29 |
-| 46 | [Torn \- Acoustic MTV Unplugged](https://open.spotify.com/track/1iPvdHIQQSNJ4iRm92Bcbx) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Torn/Wishing I Was There](https://open.spotify.com/album/3wtn5Xqs97Vrj2u3SSykE1) | 3:06 |
-| 47 | [Change](https://open.spotify.com/track/44RW9FEY76mLQCRQUjT0Zt) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:41 |
+| 46 | [Change](https://open.spotify.com/track/44RW9FEY76mLQCRQUjT0Zt) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:41 |
+| 47 | [Torn \- Acoustic MTV Unplugged](https://open.spotify.com/track/1iPvdHIQQSNJ4iRm92Bcbx) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Torn/Wishing I Was There](https://open.spotify.com/album/3wtn5Xqs97Vrj2u3SSykE1) | 3:06 |
 | 48 | [California Stars](https://open.spotify.com/track/38paDDziQ57k1f4VfKTeGk) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue](https://open.spotify.com/album/0yTmT1i6yHb5EVyJOmIwGw) | 4:58 |
 | 49 | [Between the Bars](https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:21 |
 | 50 | [Stay \(I Missed You\)](https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Stay \(I Missed You\)](https://open.spotify.com/album/0candONErDvN9wWFhOWXrS) | 3:04 |
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 54 | [Cornflake Girl](https://open.spotify.com/track/1300POeOaj8qho30FRHjgf) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Under the Pink](https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD) | 5:05 |
 | 55 | [Who Will Save Your Soul](https://open.spotify.com/track/0OH8dSQmKm2zjhqRPYsk1h) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You](https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr) | 3:59 |
 | 56 | [Sweet Child O' Mine](https://open.spotify.com/track/0273i5ysrlovK8rr0KJfQn) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [The Globe Sessions](https://open.spotify.com/album/1eFS4z1AJJCn2zzkZBwzPb) | 3:54 |
-| 57 | [Kind & Generous](https://open.spotify.com/track/6VrjF67WFChXh8uYYBfeRr) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Ophelia](https://open.spotify.com/album/79yCNDXk5sNKwskcAOxUtz) | 4:01 |
-| 58 | [Shelf In The Room](https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New](https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8) | 4:43 |
-| 59 | [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 |
+| 57 | [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 |
+| 58 | [Kind & Generous](https://open.spotify.com/track/6VrjF67WFChXh8uYYBfeRr) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Ophelia](https://open.spotify.com/album/79yCNDXk5sNKwskcAOxUtz) | 4:01 |
+| 59 | [Shelf In The Room](https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New](https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8) | 4:43 |
 | 60 | [When You Say Nothing At All](https://open.spotify.com/track/46LI9mnlQ8fJHH47ioBubg) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [A Tribute Album](https://open.spotify.com/album/2GPq8BXUNLgiDb191QM7j8) | 4:21 |
-| 61 | [Lilac Wine](https://open.spotify.com/track/1StXVL5gClph4z4XzanYko) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 4:32 |
-| 62 | [Foolish Games](https://open.spotify.com/track/2LflDhyBXVNrfmHxAayS3K) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You](https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr) | 5:40 |
+| 61 | [Foolish Games](https://open.spotify.com/track/2LflDhyBXVNrfmHxAayS3K) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You](https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr) | 5:40 |
+| 62 | [Lilac Wine](https://open.spotify.com/track/1StXVL5gClph4z4XzanYko) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 4:32 |
 | 63 | [Three Marlenas](https://open.spotify.com/track/6iPZEvHsTanHMOtjyJWMEm) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Bringing Down The Horse](https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh) | 4:59 |
 | 64 | [Ironic](https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) | 3:45 |
 | 65 | [Save Me](https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Magnolia \(Music from the Motion Picture\)](https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV) | 4:34 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 70 | [Oceans](https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 2:41 |
 | 71 | [Motorcycle Drive By](https://open.spotify.com/track/47wtXjG0Sk6DI6cjkRBcEg) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:22 |
 | 72 | [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 |
-| 73 | [Adia](https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:04 |
-| 74 | [You Learn \- Live / Unplugged](https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 4:21 |
+| 73 | [You Learn \- Live / Unplugged](https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 4:21 |
+| 74 | [Adia](https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:04 |
 | 75 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 |
 
-Snapshot ID: `MTY1NzcwMDQxOCwwMDAwMDAwMGU3ZDIzYThhNzUxY2YxYmVkMjhlYmQ1NTljMjk2ZGM2`
+Snapshot ID: `MTY1NzcwMDQxOCwwMDAwMDAwMDJhZTk4NjE3ZDYwYjQ2YmUzZDQ0MGE5YWVhYzUwNzc1`

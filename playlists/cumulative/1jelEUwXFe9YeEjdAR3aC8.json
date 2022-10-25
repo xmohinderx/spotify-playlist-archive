@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Chill indie songs by Noah Kahan, The 1975, and more! Listen to this mellow and feels-inducing playlist, and discover new favorites! Cover: Rene\u00e9 Rapp",
+  "description": "Chill indie songs by Taylor Swift, Ashley Kutcher, and more! Listen to this mellow and feels-inducing playlist, and discover new favorites! Cover: Rene\u00e9 Rapp",
   "name": "Indie Chill",
   "published_playlist_ids": [
     "3sjWktyD1KzSMZBUWy3pNl"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 150004,
       "name": "Beach House",
       "url": "https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 198480,
       "name": "boy",
       "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 121333,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4SrL8u7Eh3KGPbDXgJehzd"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 157302,
       "name": "Cold Life",
       "url": "https://open.spotify.com/track/63r9IzWLsWKE2kWI1L328k"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 160961,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0SKUpG1nVemQF8M9SqlFvb"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 256133,
       "name": "For Yourself",
       "url": "https://open.spotify.com/track/26UZb4fDjCPsqRhgxxe7pZ"
@@ -1195,7 +1195,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 203472,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
@@ -1256,6 +1256,24 @@
     },
     {
       "album": {
+        "name": "The Loneliest Time",
+        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Go Find Yourself or Whatever",
+      "url": "https://open.spotify.com/track/0nrKz8Ez1mQ1wiv1oqc7Ld"
+    },
+    {
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8"
       },
@@ -1267,7 +1285,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 253599,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk"
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 252533,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/3UhAHhSvqc2oDW6ojrYXQi"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 198801,
       "name": "How We Used To Be",
       "url": "https://open.spotify.com/track/7Dgr1rg9XOdgyZ5EnRg8CK"
@@ -1647,6 +1665,24 @@
       "duration_ms": 112666,
       "name": "IDC",
       "url": "https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr"
+    },
+    {
+      "album": {
+        "name": "UNHOLY",
+        "url": "https://open.spotify.com/album/6V7J3mBFCjLGcVZjtveBOK"
+      },
+      "artists": [
+        {
+          "name": "Torine",
+          "url": "https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159005,
+      "name": "if there is a heaven",
+      "url": "https://open.spotify.com/track/0rds0pVDFwa7BECTYCfa63"
     },
     {
       "album": {
@@ -1841,7 +1877,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 235306,
       "name": "Little Joys",
       "url": "https://open.spotify.com/track/6LzKBCMuZDmcIULxE6ISVv"
@@ -1985,7 +2021,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
@@ -2029,7 +2065,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 319777,
       "name": "Love Factory",
       "url": "https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95"
@@ -2578,6 +2614,24 @@
     },
     {
       "album": {
+        "name": "Remember (Acoustic)",
+        "url": "https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178626,
+      "name": "Remember - Acoustic",
+      "url": "https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3"
+    },
+    {
+      "album": {
         "name": "REWIND",
         "url": "https://open.spotify.com/album/3GwaM9E9ueOvl6J28lxblj"
       },
@@ -2888,6 +2942,28 @@
     },
     {
       "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256124,
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/6ADDIJxxqzM9LMpm78yzQG"
+    },
+    {
+      "album": {
         "name": "somebody to lose",
         "url": "https://open.spotify.com/album/6tXEF52m2XHHI51Pv3qr7M"
       },
@@ -2935,7 +3011,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 314213,
       "name": "St. Beater Camry",
       "url": "https://open.spotify.com/track/3u7s57agRpvdm0JSkG3pny"
@@ -3011,7 +3087,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 265427,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/2dBwB667LHQkLhdYlwLUZK"
@@ -3101,10 +3177,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 210466,
       "name": "Sunsets For Somebody Else",
       "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
+    },
+    {
+      "album": {
+        "name": "Survive My Own Mind",
+        "url": "https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193112,
+      "name": "Survive My Own Mind",
+      "url": "https://open.spotify.com/track/6GiI6EnuQ5V7pJ5WxOJ6z4"
     },
     {
       "album": {
@@ -3267,7 +3361,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 178212,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40"
@@ -3545,7 +3639,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 256079,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/1ErrkKi89V68HHsyUizbJA"
@@ -3599,7 +3693,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 225946,
       "name": "Western Wind",
       "url": "https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk"
@@ -3671,7 +3765,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 259208,
       "name": "Which Witch",
       "url": "https://open.spotify.com/track/5yiBLMSH9DCRmBtws6wKY3"
@@ -3725,7 +3819,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 274552,
       "name": "Woman",
       "url": "https://open.spotify.com/track/3IlbpxM6lji2UsBL2VYIAn"

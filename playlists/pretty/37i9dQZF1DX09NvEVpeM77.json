@@ -1,12 +1,12 @@
 {
   "description": "Classic rock favorites. Cover: Bruce Springsteen",
-  "num_followers": 209105,
+  "num_followers": 209351,
   "original_name": "Dad Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMGNkNzA4NzFlNDE5ODY5N2Y2ZWU2ZjRlNDI5Nzg3OWUx",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDhhOTA0YWY5YjA2MDcwYmQzYTBhMTNmMjBlMTA5ZDk2",
   "tracks": [
     {
       "added_at": "2022-06-15 19:50:25",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
-    },
-    {
       "added_at": "2022-03-31 19:45:13",
       "album": {
         "name": "Not Fragile",
@@ -395,6 +379,22 @@
       "duration_ms": 286219,
       "name": "Life in the Fast Lane - 2013 Remaster",
       "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2022-03-04 19:00:59",
@@ -443,22 +443,6 @@
       "duration_ms": 508333,
       "name": "Paradise By the Dashboard Light",
       "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
-    },
-    {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
     },
     {
       "added_at": "2022-06-15 19:50:25",
@@ -541,6 +525,22 @@
       "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+    },
+    {
       "added_at": "2022-03-04 19:14:07",
       "album": {
         "name": "Wild-Eyed Southern Boys",
@@ -555,22 +555,6 @@
       "duration_ms": 280636,
       "name": "Hold On Loosely",
       "url": "https://open.spotify.com/track/6i9dZZQWNB06HKsQYKTiPF"
-    },
-    {
-      "added_at": "2022-03-14 17:21:32",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
       "added_at": "2022-03-04 19:00:59",
@@ -653,20 +637,20 @@
       "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
     },
     {
-      "added_at": "2022-06-15 19:50:25",
+      "added_at": "2022-03-14 17:21:32",
       "album": {
-        "name": "But Seriously, Folks...",
-        "url": "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva"
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
       "artists": [
         {
-          "name": "Joe Walsh",
-          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 536226,
-      "name": "Life's Been Good",
-      "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
+      "duration_ms": 254733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
       "added_at": "2022-03-04 19:00:59",
@@ -683,6 +667,22 @@
       "duration_ms": 187066,
       "name": "Rock'n Me",
       "url": "https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq"
+    },
+    {
+      "added_at": "2022-06-15 19:50:25",
+      "album": {
+        "name": "But Seriously, Folks...",
+        "url": "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "duration_ms": 536226,
+      "name": "Life's Been Good",
+      "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
     },
     {
       "added_at": "2022-03-31 19:45:13",
@@ -731,6 +731,22 @@
       "duration_ms": 217200,
       "name": "Private Eyes",
       "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 282693,
+      "name": "Fly Like An Eagle",
+      "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
     },
     {
       "added_at": "2022-03-31 19:45:13",
@@ -795,22 +811,6 @@
       "duration_ms": 302626,
       "name": "Hollywood Nights",
       "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
-    },
-    {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Running on Empty / Nothing but Time (Digital 45)",
-        "url": "https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 291893,
-      "name": "Running on Empty",
-      "url": "https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY"
     }
   ],
   "unique_name": "Dad Rock",

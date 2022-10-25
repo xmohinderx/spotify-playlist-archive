@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 51135,
+  "num_followers": 51170,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMGY2N2EyNDE0NjM3N2VjMGJhYzg2YmIzMDczMTAyMTJm",
+  "snapshot_id": "MTY2NTExMTYwMCwwMDAwMDAwMDQ3MWE5NDVhMjFjMGNiMWQ3M2NjZGEzZGIzMzk1MDk3",
   "tracks": [
     {
       "added_at": "2022-10-07 03:00:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Dispuesto A Amarte",
+        "url": "https://open.spotify.com/album/2TjcppxUUfwFZ7H9XAxwfw"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 209613,
+      "name": "Porque Aun Te Amo",
+      "url": "https://open.spotify.com/track/4xXIrj1bhJP2X0x3WhAgqp"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Lo Mejor de Mi...",
         "url": "https://open.spotify.com/album/6jaKNEm0vp1mzqyNx3Emdn"
       },
@@ -207,18 +223,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Dispuesto A Amarte",
-        "url": "https://open.spotify.com/album/2TjcppxUUfwFZ7H9XAxwfw"
+        "name": "Nocheros",
+        "url": "https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n"
       },
       "artists": [
         {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 209613,
-      "name": "Porque Aun Te Amo",
-      "url": "https://open.spotify.com/track/4xXIrj1bhJP2X0x3WhAgqp"
+      "duration_ms": 253466,
+      "name": "Roja Boca",
+      "url": "https://open.spotify.com/track/1361babwNajrOi2roMF78b"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -239,22 +255,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Nocheros",
-        "url": "https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "Roja Boca",
-      "url": "https://open.spotify.com/track/1361babwNajrOi2roMF78b"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Zamba para Olvidarte",
         "url": "https://open.spotify.com/album/30n0qbEez9YgxftQ9Kv7jO"
       },
@@ -267,22 +267,6 @@
       "duration_ms": 199960,
       "name": "Zamba para Olvidarte",
       "url": "https://open.spotify.com/track/5V1FwqoPmvZllRuQCuZAyx"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Due\u00f1a de Mi Alma",
-        "url": "https://open.spotify.com/album/2STMKBpE4k24Q7y1Dk7pfa"
-      },
-      "artists": [
-        {
-          "name": "Campedrinos",
-          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
-        }
-      ],
-      "duration_ms": 249090,
-      "name": "Due\u00f1a de Mi Alma",
-      "url": "https://open.spotify.com/track/4X6W8eU2duqUHmSN1euAHY"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -339,22 +323,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Carnaval, Pasi\u00f3n del Norte",
-        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
+        "name": "Due\u00f1a de Mi Alma",
+        "url": "https://open.spotify.com/album/2STMKBpE4k24Q7y1Dk7pfa"
       },
       "artists": [
         {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        },
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
         }
       ],
-      "duration_ms": 297360,
-      "name": "Vuela una Lagrima",
-      "url": "https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP"
+      "duration_ms": 249090,
+      "name": "Due\u00f1a de Mi Alma",
+      "url": "https://open.spotify.com/track/4X6W8eU2duqUHmSN1euAHY"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -391,34 +371,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Folklore Rom\u00e1ntico: Nada Tengo de Ti / Canci\u00f3n del Adi\u00f3s / Due\u00f1a de Mi Alma / Zamba para Olvidarte",
-        "url": "https://open.spotify.com/album/3MuAn8aG7ZvtCop2C8GH3G"
+        "name": "Lo Mejor de la Zamba Argentina",
+        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
       },
       "artists": [
         {
-          "name": "Campedrinos",
-          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
         }
       ],
-      "duration_ms": 475764,
-      "name": "Folklore Rom\u00e1ntico: Nada Tengo de Ti / Canci\u00f3n del Adi\u00f3s / Due\u00f1a de Mi Alma / Zamba para Olvidarte",
-      "url": "https://open.spotify.com/track/3YicOdQ4o9KZcyxY8bZWu5"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Poncho",
-        "url": "https://open.spotify.com/album/2LqkMvdnxBpqdOwGXPMdP3"
-      },
-      "artists": [
-        {
-          "name": "Canto 4",
-          "url": "https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq"
-        }
-      ],
-      "duration_ms": 195059,
-      "name": "La So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5irK16GrbSb7eSKzvrbJiZ"
+      "duration_ms": 223293,
+      "name": "Zamba del Cantor Enamorado",
+      "url": "https://open.spotify.com/track/7Jq2TLAjRAiKZH0EctiAhJ"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -439,6 +403,26 @@
       "duration_ms": 320085,
       "name": "C\u00f3mplices",
       "url": "https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Carnaval, Pasi\u00f3n del Norte",
+        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 297360,
+      "name": "Vuela una Lagrima",
+      "url": "https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -475,50 +459,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Zamba para Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/0Yu1ZRD84F4phx551aEUl5"
+        "name": "Poncho",
+        "url": "https://open.spotify.com/album/2LqkMvdnxBpqdOwGXPMdP3"
       },
       "artists": [
         {
-          "name": "Campedrinos",
-          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+          "name": "Canto 4",
+          "url": "https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq"
         }
       ],
-      "duration_ms": 234347,
-      "name": "Zamba para Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1XojvsvPtUsG4SqgHiGiGX"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Lo Mejor de la Zamba Argentina",
-        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
-      },
-      "artists": [
-        {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
-        }
-      ],
-      "duration_ms": 223293,
-      "name": "Zamba del Cantor Enamorado",
-      "url": "https://open.spotify.com/track/7Jq2TLAjRAiKZH0EctiAhJ"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Si La Vieras",
-        "url": "https://open.spotify.com/album/4RcPHUbcXSib4fo1c6h522"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 226750,
-      "name": "Si La Vieras",
-      "url": "https://open.spotify.com/track/5ULPFMQ1rDkp8XsyqunJ5d"
+      "duration_ms": 195059,
+      "name": "La So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5irK16GrbSb7eSKzvrbJiZ"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -535,6 +487,38 @@
       "duration_ms": 162093,
       "name": "La Flor Azul",
       "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Folklore Rom\u00e1ntico: Nada Tengo de Ti / Canci\u00f3n del Adi\u00f3s / Due\u00f1a de Mi Alma / Zamba para Olvidarte",
+        "url": "https://open.spotify.com/album/3MuAn8aG7ZvtCop2C8GH3G"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "duration_ms": 475764,
+      "name": "Folklore Rom\u00e1ntico: Nada Tengo de Ti / Canci\u00f3n del Adi\u00f3s / Due\u00f1a de Mi Alma / Zamba para Olvidarte",
+      "url": "https://open.spotify.com/track/3YicOdQ4o9KZcyxY8bZWu5"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Si La Vieras",
+        "url": "https://open.spotify.com/album/4RcPHUbcXSib4fo1c6h522"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "duration_ms": 226750,
+      "name": "Si La Vieras",
+      "url": "https://open.spotify.com/track/5ULPFMQ1rDkp8XsyqunJ5d"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -639,6 +623,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Zamba para Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/0Yu1ZRD84F4phx551aEUl5"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "duration_ms": 234347,
+      "name": "Zamba para Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1XojvsvPtUsG4SqgHiGiGX"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Tal Como Siento",
         "url": "https://open.spotify.com/album/4RD7YJolJUp5VbNYGtawfn"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "De Barrio",
-        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
-      },
-      "artists": [
-        {
-          "name": "Franco Ramirez",
-          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Zambita pa' Enamorar",
-      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Eterno Amor",
         "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 190608,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "De Barrio",
+        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
+      },
+      "artists": [
+        {
+          "name": "Franco Ramirez",
+          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Zambita pa' Enamorar",
+      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
-      },
-      "artists": [
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 229642,
-      "name": "Canci\u00f3n de Lejos",
-      "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Devu\u00e9lveme el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Churita",
-        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
       },
       "artists": [
         {
-          "name": "Mariana Baraj",
-          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
         }
       ],
-      "duration_ms": 183866,
-      "name": "La Guada",
-      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
+      "duration_ms": 229642,
+      "name": "Canci\u00f3n de Lejos",
+      "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -823,38 +807,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
+        "name": "Churita",
+        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
       },
       "artists": [
         {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+          "name": "Mariana Baraj",
+          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
         }
       ],
-      "duration_ms": 213859,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "De Barrio",
-        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
-      },
-      "artists": [
-        {
-          "name": "Franco Ramirez",
-          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
-        },
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "A una Rosa",
-      "url": "https://open.spotify.com/track/0e1ffAArZDxgak5mEXdPzD"
+      "duration_ms": 183866,
+      "name": "La Guada",
+      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -891,6 +855,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "duration_ms": 213859,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Eterno Amor",
         "url": "https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 236854,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "De Barrio",
+        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
+      },
+      "artists": [
+        {
+          "name": "Franco Ramirez",
+          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
+        },
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "A una Rosa",
+      "url": "https://open.spotify.com/track/0e1ffAArZDxgak5mEXdPzD"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Los Del Portezuelo",
-        "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Al So\u00f1arte",
-      "url": "https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "No Te Rindas",
         "url": "https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6"
       },
@@ -951,54 +935,6 @@
       "duration_ms": 219050,
       "name": "No Te Rindas",
       "url": "https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "La Flor",
-        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
-      },
-      "artists": [
-        {
-          "name": "Francisco Benitez",
-          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
-        }
-      ],
-      "duration_ms": 190113,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "El Sueno De Mi Guitarra",
-        "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Fal\u00fa",
-          "url": "https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M"
-        }
-      ],
-      "duration_ms": 241586,
-      "name": "Tonada Del Viejo Amor",
-      "url": "https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
-        "url": "https://open.spotify.com/album/4mgOIuHak6A0OQsh6uu5R0"
-      },
-      "artists": [
-        {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
-        }
-      ],
-      "duration_ms": 758954,
-      "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
-      "url": "https://open.spotify.com/track/2d63TiTyLpNhj6KkdZSDWd"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1019,18 +955,50 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Adi\u00f3s Amor M\u00edo",
-        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
+        "name": "La Flor",
+        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
       },
       "artists": [
         {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+          "name": "Francisco Benitez",
+          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
         }
       ],
-      "duration_ms": 149680,
-      "name": "Adi\u00f3s Amor M\u00edo",
-      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
+      "duration_ms": 190113,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Los Del Portezuelo",
+        "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Al So\u00f1arte",
+      "url": "https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "El Sueno De Mi Guitarra",
+        "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Fal\u00fa",
+          "url": "https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M"
+        }
+      ],
+      "duration_ms": 241586,
+      "name": "Tonada Del Viejo Amor",
+      "url": "https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1047,6 +1015,38 @@
       "duration_ms": 165399,
       "name": "Ya No Juegues Conmigo",
       "url": "https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
+        "url": "https://open.spotify.com/album/4mgOIuHak6A0OQsh6uu5R0"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "duration_ms": 758954,
+      "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
+      "url": "https://open.spotify.com/track/2d63TiTyLpNhj6KkdZSDWd"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Adi\u00f3s Amor M\u00edo",
+        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 149680,
+      "name": "Adi\u00f3s Amor M\u00edo",
+      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 205557,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "La \u00daltima Estrella",
         "url": "https://open.spotify.com/album/3ZRhNcfRj7QzjK9iDNPQDc"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Una Noche M\u00e1s",
-        "url": "https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 205557,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Luna Llena",
         "url": "https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 187439,
       "name": "Luna Llena",
       "url": "https://open.spotify.com/track/27682VM2spSTjaneKmvNjk"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Tu respuesta",
+        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lopez Vila",
+          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
+        }
+      ],
+      "duration_ms": 222908,
+      "name": "Tu respuesta - Zamba",
+      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1159,22 +1175,6 @@
       "duration_ms": 268875,
       "name": "Flor Palida",
       "url": "https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Tu respuesta",
-        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
-      },
-      "artists": [
-        {
-          "name": "Valeria Lopez Vila",
-          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
-        }
-      ],
-      "duration_ms": 222908,
-      "name": "Tu respuesta - Zamba",
-      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1267,6 +1267,38 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/4LTyGdxfClwg3KKJjBAqV3"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Para Que Nunca Me Dejes",
+      "url": "https://open.spotify.com/track/3h6h3alpLmhiI9U7DdODhp"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/2fRkKUdqsuAibqPjvxUBoK"
+      },
+      "artists": [
+        {
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        }
+      ],
+      "duration_ms": 227082,
+      "name": "No Quisiera Quererte",
+      "url": "https://open.spotify.com/track/0HTIPqLDGZn7EPcyzBsulh"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Cerca del Sol",
         "url": "https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5"
       },
@@ -1287,38 +1319,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Que Tiene de Malo Eso",
-        "url": "https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Que Tiene de Malo Eso",
-      "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/4LTyGdxfClwg3KKJjBAqV3"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Para Que Nunca Me Dejes",
-      "url": "https://open.spotify.com/track/3h6h3alpLmhiI9U7DdODhp"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Repechando la Senda",
         "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
       },
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/2fRkKUdqsuAibqPjvxUBoK"
+        "name": "Que Tiene de Malo Eso",
+        "url": "https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw"
       },
       "artists": [
         {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
         }
       ],
-      "duration_ms": 227082,
-      "name": "No Quisiera Quererte",
-      "url": "https://open.spotify.com/track/0HTIPqLDGZn7EPcyzBsulh"
+      "duration_ms": 166266,
+      "name": "Que Tiene de Malo Eso",
+      "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
     },
     {
       "added_at": "2022-10-07 03:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "D\u00e9jame Intentar",
-        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 162192,
-      "name": "D\u00e9jame Intentar",
-      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
-    },
-    {
-      "added_at": "2022-10-07 03:00:00",
-      "album": {
         "name": "Corazon Sin Tiempo",
         "url": "https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I"
       },
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
+        "name": "D\u00e9jame Intentar",
+        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 162192,
+      "name": "D\u00e9jame Intentar",
+      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
+    },
+    {
+      "added_at": "2022-10-07 03:00:00",
+      "album": {
         "name": "Mil Momentos (En Vivo)",
         "url": "https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT"
       },
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2022-10-07 03:00:00",
       "album": {
-        "name": "Tan Cerca En La Distancia",
-        "url": "https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo"
+        "name": "Todo Ser\u00e1 Mejor",
+        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
       },
       "artists": [
         {
-          "name": "Los Juncales",
-          "url": "https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA"
+          "name": "Qiro",
+          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
         }
       ],
-      "duration_ms": 202728,
-      "name": "Tan Cerca En La Distancia",
-      "url": "https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG"
+      "duration_ms": 239365,
+      "name": "Todo Ser\u00e1 Mejor",
+      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
     }
   ],
   "unique_name": "Folklore Rom\u00e1ntico ",

@@ -4,7 +4,7 @@
 
 > West African love stories wrapped up in song
 
-131 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/6ktLbnDhV5PLxAEX8at8Ai)
+132 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/6ktLbnDhV5PLxAEX8at8Ai)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Philo](https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Philo](https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl) | 2:45 | 2022-09-23 |  |
 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 | 2022-08-25 |  |
 | [Rosemary](https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Rosemary](https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed) | 3:08 | 2022-02-11 | 2022-08-20 |
+| [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 | 2022-10-21 |  |
 | [Running \(To You\)](https://open.spotify.com/track/5rTC3tKShDyYK0wk0rq96X) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/0rwqdLBpVDxg3QKhxOfZmH) | 3:11 | 2022-02-11 |  |
 | [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 | 2022-09-01 |  |
 | [Santi](https://open.spotify.com/track/2UfaE5AvQQHL2CkHeyM74O) | [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ) | [Santi](https://open.spotify.com/album/45qYrEUMR65J6PDoh6G8fQ) | 3:50 | 2022-08-19 | 2022-09-02 |
@@ -123,7 +124,7 @@
 | [Southy Love](https://open.spotify.com/track/06mcgnr3eJ8cF8ed0WfdPA) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Rum & Boogie](https://open.spotify.com/album/0XVVlqghvytvnjjIeZakYC) | 3:30 | 2022-02-11 |  |
 | [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 | 2022-07-13 |  |
 | [Tattoo](https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:56 | 2022-02-11 | 2022-10-14 |
-| [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2022-02-11 |  |
+| [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2022-02-11 | 2022-10-25 |
 | [That's Alright](https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [That's Alright](https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ) | 3:52 | 2022-07-28 | 2022-08-07 |
 | [The Love Song \(feat\. Wande Coal\)](https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [The Guy](https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u) | 2:56 | 2022-08-18 |  |
 | [Tungba](https://open.spotify.com/track/4fA1ca0O5tOOYDWt1n0z2d) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Make E No Cause Fight](https://open.spotify.com/album/6MpKNL8E3hEPnsN1u2Y9Ik) | 3:08 | 2022-02-11 | 2022-08-26 |

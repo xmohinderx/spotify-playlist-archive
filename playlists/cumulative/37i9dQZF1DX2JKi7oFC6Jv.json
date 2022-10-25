@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 361791,
       "name": "Funky Flex vs Pulse",
       "url": "https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ"
@@ -905,6 +905,24 @@
       "duration_ms": 456201,
       "name": "Galiium",
       "url": "https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0"
+    },
+    {
+      "album": {
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/2goDYGdgun4cjrYELDKrzw"
+      },
+      "artists": [
+        {
+          "name": "Bucie",
+          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419546,
+      "name": "Get Over It",
+      "url": "https://open.spotify.com/track/1Utz4zu6JCd8iyA77ueD3t"
     },
     {
       "album": {
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 248752,
       "name": "I'm Fly - DJ Version",
       "url": "https://open.spotify.com/track/0e5jqZDWMqo5u13SQ0WmXQ"
@@ -1267,6 +1285,32 @@
       "duration_ms": 370023,
       "name": "I'm Leaving - DJ MA1 Remix",
       "url": "https://open.spotify.com/track/1FBywaUBHlHPITBb8CBnw3"
+    },
+    {
+      "album": {
+        "name": "I'm Leaving",
+        "url": "https://open.spotify.com/album/2R9DbkINYc0xVuBxjk1K8r"
+      },
+      "artists": [
+        {
+          "name": "Scratcha DVA",
+          "url": "https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7"
+        },
+        {
+          "name": "Alahna",
+          "url": "https://open.spotify.com/artist/46jSEbui6AGr4nPZwYiHi3"
+        },
+        {
+          "name": "DJ MA1",
+          "url": "https://open.spotify.com/artist/4INAX5tocNkzY3S6Acrll6"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370023,
+      "name": "I'm Leaving - DJ MA1 Remix",
+      "url": "https://open.spotify.com/track/4ZuIiYL4lADtA7zoPFw4Mk"
     },
     {
       "album": {

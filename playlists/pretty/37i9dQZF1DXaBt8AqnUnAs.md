@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,723 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,776 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Planos](https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Arit](https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 3:39 |
 | 2 | [SPACE JAM](https://open.spotify.com/track/0Bak6WAUK37zfyc9Hk8SlB) | [RAMON](https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl), [Tchello](https://open.spotify.com/artist/7m7zHLfw3T0SAZxYVRrE5h), [Canela](https://open.spotify.com/artist/4TIBzTJydZRlkjtj2nIuw0), [Pocaia](https://open.spotify.com/artist/4ROlINSkFDkoFIjWGprZ02), [KoninG](https://open.spotify.com/artist/0XG8QkpwxPlSOo0iG9AWSu), [PV Memo](https://open.spotify.com/artist/19unzB2btcLCNbb6o81COK), [Dunk](https://open.spotify.com/artist/18KQkfpQsIpOSvCWmfFYSA) | [SPACE JAM](https://open.spotify.com/album/5xAArAJSPJCV69BXgg3gva) | 6:15 |
-| 3 | [Ariana](https://open.spotify.com/track/4p7KMBNMNs8uN1dQadkqVa) | [Igão Santi](https://open.spotify.com/artist/2xZhKkCpZq4YtbvNwhxBID), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Ariana](https://open.spotify.com/album/2392c6YQuxajyOfl42q4rZ) | 2:35 |
+| 3 | [Fala Meu Nome](https://open.spotify.com/track/2NoLuR3OGSQNHuG93k5Lgc) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw) | [Fala Meu Nome](https://open.spotify.com/album/0GXHeKI60SntLBSCld7uiB) | 1:37 |
 | 4 | [ISSO É SÉRIO](https://open.spotify.com/track/2h5vOzhRN1CLO2rYZ5V3dL) | [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK), [31couto](https://open.spotify.com/artist/7cUn4j1gy5RABIg4KADSbl) | [ISSO É SÉRIO](https://open.spotify.com/album/5bhn8wz8Ut5DzcYNhHEIZu) | 2:24 |
 | 5 | [É Que Eu Preciso Dizer](https://open.spotify.com/track/1kfwsz1ak4qZj75BaHG4YR) | [Lucas Muto](https://open.spotify.com/artist/56T4EzWjDqignFu9eBdKT4), [JNR Beats](https://open.spotify.com/artist/2MezhY4Nd9Fwo6bRFy7UXw) | [É Que Eu Preciso Dizer](https://open.spotify.com/album/1q3uJ7pD6FxPYOZ6Vm7MYd) | 1:40 |
 | 6 | [Do Que Adianta?](https://open.spotify.com/track/0iicxux6uVj2cvHjLtcjS2) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Lucas Muto](https://open.spotify.com/artist/56T4EzWjDqignFu9eBdKT4), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Do Que Adianta?](https://open.spotify.com/album/1TuRyco0ZoSYvDdnGqiAcG) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Mil Vezes](https://open.spotify.com/track/0bxeaDbEOFn4ljflfOkBUK) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx), [ZSS Ent.](https://open.spotify.com/artist/1L7rw4mLVQFgIkknFHkk47) | [Mil Vezes](https://open.spotify.com/album/6J8oqkGDyaMpBt6ji1BOnq) | 3:48 |
 | 75 | [Barbie Marley](https://open.spotify.com/track/58IVw28EnEMYwMwBg4bm9R) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Fa7her](https://open.spotify.com/album/0M40ouy3DGERXGiMffJR15) | 3:36 |
 
-Snapshot ID: `MTY2NTc3MTA0MiwwMDAwMDAwMDJmMTg2NjE2NDJlN2IyZjgyNzc4NjVhYjdiYTZhY2M0`
+Snapshot ID: `MTY2NjYyMzc0MywwMDAwMDAwMDYwOGM0YzU4MDRiN2M1ZjgzZjUxZTI4ZDIyYjZkMWQ1`

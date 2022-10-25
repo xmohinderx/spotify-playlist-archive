@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Tegan and Sara
 
-639 songs - 1 day 13 hr 59 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+640 songs - 1 day 14 hr 2 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,7 +498,8 @@
 | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/track/11erW7pKvrR399ymf1eZwl) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/album/5EryJwl6ZmreizbfgEUgqC) | 4:02 | 2021-12-16 | 2022-01-21 |
 | [Slow Dance](https://open.spotify.com/track/4L23bFa7UjkhRpj3BwY7hu) | [FOLK9](https://open.spotify.com/artist/4rZltXRJKOJfrMb94wvBbL) | [Slow Dance](https://open.spotify.com/album/1qFwIewiyPab9oEBQUuWP9) | 3:05 | 2022-03-31 | 2022-06-10 |
 | [Smithereens](https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Smithereens](https://open.spotify.com/album/7x8m7TXlUS70vEyOb82cii) | 2:20 | 2021-12-16 | 2022-02-11 |
-| [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 | 2022-10-20 |  |
+| [Smoking Weed Alone](https://open.spotify.com/track/0aI85jfjeRy4UsLLc93Nw5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Crybaby](https://open.spotify.com/album/2a8473uZ3beO2ZuePXXBNf) | 3:11 | 2022-10-24 |  |
+| [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 | 2022-10-20 | 2022-10-25 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-20 |  |
 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 | 2022-08-04 | 2022-09-30 |
 | [So Typically Now](https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [So Typically Now](https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc) | 3:15 | 2022-07-29 | 2022-09-10 |

@@ -4,7 +4,7 @@
 
 > the best of the best tracks\. Cover: Phoebe Bridgers
 
-472 songs - 1 day 6 hr 22 min - [published](https://open.spotify.com/playlist/3bETkXXSq4lQrH2ppPTrRl)
+474 songs - 1 day 6 hr 28 min - [published](https://open.spotify.com/playlist/3bETkXXSq4lQrH2ppPTrRl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Baby I'm Yours \(feat\. Irfane\)](https://open.spotify.com/track/4qPTaehSZWKeaIgiIyprLs) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [By Your Side](https://open.spotify.com/album/3GwMpo98NzyGu0Na9SCCGA) | 3:35 | 2021-02-08 | 2022-04-15 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2022-08-04 |  |
 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 | 2022-04-19 | 2022-10-14 |
+| [bad idea!](https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl) | 3:39 | 2022-09-09 |  |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2022-04-19 |  |
 | [Beach Comber](https://open.spotify.com/track/3tPh7vkXySn2lUEH1NEPyO) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Real Estate](https://open.spotify.com/album/0vEt6UkpYZOpKxVO7H7j9Y) | 4:28 | 2021-02-08 | 2022-07-29 |
 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 | 2022-06-17 |  |
@@ -70,7 +71,7 @@
 | [California](https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ) | [The Lagoons](https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd) | [California](https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc) | 4:21 | 2021-02-08 | 2022-05-16 |
 | [Can't Stand Me Now](https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri) | 3:23 | 2021-02-08 | 2022-04-21 |
 | [Cannonball](https://open.spotify.com/track/51m0PrZokFZNk5b5xptyzC) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/2yg43md1L9Ti9ysWYqhDji) | 3:35 | 2021-02-08 | 2022-04-18 |
-| [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 | 2022-06-17 |  |
+| [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 | 2022-06-17 | 2022-10-25 |
 | [Casio](https://open.spotify.com/track/33wUd3GgaRf2rux2aJ71yb) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/1VZxGX1lzF1QjY5QofhC5r) | 3:54 | 2021-02-08 | 2022-04-21 |
 | [cellophane](https://open.spotify.com/track/3VwZqgfrM3xb1usuLprkTu) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [cellophane](https://open.spotify.com/album/7xaC6bVJqAatWaCj9OossS) | 3:24 | 2021-02-08 | 2022-04-18 |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2022-04-29 | 2022-07-29 |
@@ -146,7 +147,7 @@
 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 | 2022-08-04 |  |
 | [First](https://open.spotify.com/track/3omXshBamrREltcf24gYDC) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY) | 3:20 | 2021-02-08 | 2022-04-12 |
 | [First Day Of My Life](https://open.spotify.com/track/5OiaAaIMYlCZONyDBxqk4G) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/5msfCyqu8fJYqDDV6OrXTg) | 3:08 | 2021-02-08 | 2022-04-21 |
-| [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 | 2022-09-09 |  |
+| [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 | 2022-09-09 | 2022-10-25 |
 | [First Love / Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 | 2022-04-19 |  |
 | [Five Seconds](https://open.spotify.com/track/6UHmnlALf6Mcbq5ZvKS0aR) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Confess](https://open.spotify.com/album/3rhlzjGgPa8H48HYsibOeh) | 4:20 | 2021-02-08 | 2022-04-16 |
 | [Flaming Hot Cheetos](https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE) | 2:03 | 2022-04-19 | 2022-08-23 |
@@ -450,6 +451,7 @@
 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 | 2021-07-19 | 2022-07-29 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2021-02-08 | 2022-10-13 |
 | [we fell in love in october](https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu) | 3:04 | 2022-09-09 | 2022-10-21 |
+| [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2022-09-09 |  |
 | [Weekend](https://open.spotify.com/track/3qL2jwvsVpY4hmek3t5ahn) | [Smith Westerns](https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl) | [Dye It Blonde](https://open.spotify.com/album/6QOvRYGw29xOPkcraXsRH4) | 3:22 | 2021-02-08 | 2022-04-19 |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2022-04-29 | 2022-07-02 |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 5:18 | 2021-02-08 | 2022-07-29 |

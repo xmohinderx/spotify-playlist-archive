@@ -1,13 +1,33 @@
 {
   "description": "It's not just about the music, it's about the culture. Cover: <a href=\"https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr?si=oYfLmeh0Q7K9yhdpNp0aFg\">Cairo CPT</a>",
-  "num_followers": 43272,
+  "num_followers": 43301,
   "original_name": "Gqom Power House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1MDM0MCwwMDAwMDAwMDc5YjIzOTA5OWUzM2RkNzliYWNkMDlmYzkwZGE4YjUz",
+  "snapshot_id": "MTY2NjYyMjYyNiwwMDAwMDAwMGI5N2UzN2RmNGM3MzZiN2I5ZDhhNWExZWEwMDJmMTE3",
   "tracks": [
+    {
+      "added_at": "2022-10-24 14:43:46",
+      "album": {
+        "name": "The Goats Ep, Vol. 2",
+        "url": "https://open.spotify.com/album/4MXixbdCRGPB96aNjBmbHF"
+      },
+      "artists": [
+        {
+          "name": "Temple Boys Cpt",
+          "url": "https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n"
+        },
+        {
+          "name": "Young King The Vocalist",
+          "url": "https://open.spotify.com/artist/3r7XbZvsiEHw7dYQky22tl"
+        }
+      ],
+      "duration_ms": 140094,
+      "name": "Saggies",
+      "url": "https://open.spotify.com/track/4qwBmPUVUbyXjwlttBAp8J"
+    },
     {
       "added_at": "2022-08-04 21:59:00",
       "album": {
@@ -171,6 +191,22 @@
       "duration_ms": 260952,
       "name": "Uphetheni Esandleni",
       "url": "https://open.spotify.com/track/0wmof7ZBxnuZGmvDkBIxQc"
+    },
+    {
+      "added_at": "2022-10-24 14:43:46",
+      "album": {
+        "name": "The Goats Ep",
+        "url": "https://open.spotify.com/album/7gNuFZUosaLFUvWK4xJV8D"
+      },
+      "artists": [
+        {
+          "name": "Temple Boys Cpt",
+          "url": "https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n"
+        }
+      ],
+      "duration_ms": 215536,
+      "name": "Werkhom 2.0 (Bonus Track)",
+      "url": "https://open.spotify.com/track/0zi0Do3nO8LtRzlau2V7DR"
     },
     {
       "added_at": "2020-03-11 08:05:56",
@@ -347,6 +383,42 @@
       "duration_ms": 289563,
       "name": "As'bhenge Sonke (feat. Reece Madlisa, Zuma, Beast & Dladla Mshunqisi)",
       "url": "https://open.spotify.com/track/6FDnFDACQpXyR6VZSzGgU4"
+    },
+    {
+      "added_at": "2022-10-24 14:43:46",
+      "album": {
+        "name": "Sikilidi",
+        "url": "https://open.spotify.com/album/7ts45rwys2sGnV6hpfY5Qc"
+      },
+      "artists": [
+        {
+          "name": "DJ Tira",
+          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
+        },
+        {
+          "name": "General C'mamane",
+          "url": "https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe"
+        },
+        {
+          "name": "Dladla Mshunqisi",
+          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
+        },
+        {
+          "name": "Sizwe Mdlalose",
+          "url": "https://open.spotify.com/artist/3w6f762ECxkOr6byVbNS0X"
+        },
+        {
+          "name": "Ms Mamellow",
+          "url": "https://open.spotify.com/artist/5NX4aYjusAidBx0DO5huXZ"
+        },
+        {
+          "name": "Miss Vee",
+          "url": "https://open.spotify.com/artist/65hoV1f2TL1hdBbmweZEty"
+        }
+      ],
+      "duration_ms": 367090,
+      "name": "Sikilidi",
+      "url": "https://open.spotify.com/track/23luTVNXuCGC05B59KV7gO"
     },
     {
       "added_at": "2022-06-30 23:11:47",
@@ -1039,6 +1111,30 @@
       "duration_ms": 247771,
       "name": "Uyangihlanyisa",
       "url": "https://open.spotify.com/track/02S09Z0HT5SJpP9nGVXoqW"
+    },
+    {
+      "added_at": "2022-10-24 14:43:46",
+      "album": {
+        "name": "The Goats Ep, Vol. 2",
+        "url": "https://open.spotify.com/album/4MXixbdCRGPB96aNjBmbHF"
+      },
+      "artists": [
+        {
+          "name": "Temple Boys Cpt",
+          "url": "https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n"
+        },
+        {
+          "name": "Keff & Niepie",
+          "url": "https://open.spotify.com/artist/2pX4QD73TmCFgHAsZVChRr"
+        },
+        {
+          "name": "Aya Vannie Belhar",
+          "url": "https://open.spotify.com/artist/3FSCfIv7NmHANGiMx7L1vZ"
+        }
+      ],
+      "duration_ms": 182909,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/5bkUCnU8CYshcrcLdlaeXP"
     },
     {
       "added_at": "2022-01-21 05:49:13",

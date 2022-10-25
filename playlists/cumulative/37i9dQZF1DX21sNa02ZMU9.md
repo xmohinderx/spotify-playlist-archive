@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 00s
 
-196 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/1JS0kEefQI1qgwW3Y378aD)
+197 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/1JS0kEefQI1qgwW3Y378aD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Into The Dark](https://open.spotify.com/track/6cU8661u4kDYgl3VkkFFY1) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [Awake Is The New Sleep](https://open.spotify.com/album/31vkFfU7fegCtuirdMqxtE) | 2:46 | 2021-06-15 | 2022-02-17 |
 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 | 2022-05-09 |  |
 | [Just Dance](https://open.spotify.com/track/04aQmJ2Bvd7gb65Af9ZNzC) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame Monster \(International Deluxe\)](https://open.spotify.com/album/7j7iPq5rokadGr1ZdJRGgE) | 4:01 | 2021-06-15 | 2022-06-22 |
+| [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 | 2022-05-09 |  |
 | [Just The Thing](https://open.spotify.com/track/7Ea3bRL50VWPRqiolGTNSv) | [Paul Mac](https://open.spotify.com/artist/2ZW29i2YE4YDQf6WemPJ4W), [Peta Morris](https://open.spotify.com/artist/3jd8xfOmRGCpjWt45nC3kZ) | [3000 Feet High](https://open.spotify.com/album/55HS4H3fehwCLdzS0ybKic) | 3:58 | 2021-06-15 | 2022-06-21 |
 | [Keep On Movin'](https://open.spotify.com/track/48gAcPH3stFshFnGDvo6SQ) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:17 | 2021-06-15 | 2022-07-29 |
 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 | 2022-05-09 |  |
@@ -192,7 +193,7 @@
 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) | 3:22 | 2022-05-09 |  |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2022-05-09 |  |
 | [We're All In This Together](https://open.spotify.com/track/7nqsSyeUYbj03bAQd3i3aE) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [Awake Is the New Sleep](https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam) | 4:39 | 2021-06-15 | 2022-07-28 |
-| [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 | 2021-06-15 |  |
+| [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 | 2021-06-15 | 2022-10-25 |
 | [Where Is The Love?](https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:32 | 2022-05-09 |  |
 | [Where Is The Love?](https://open.spotify.com/track/3CNqo3gYrfexdrtjFmC9he) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/4wBDclsxFzGnR4kVAAMI7K) | 4:32 | 2021-06-15 | 2022-07-22 |
 | [Whistle](https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:44 | 2022-05-09 |  |

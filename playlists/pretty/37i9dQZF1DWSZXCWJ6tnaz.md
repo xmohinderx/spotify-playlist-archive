@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZXCWJ6tnaz.md) - [plain]
 
 > A safe space for reflecting and remembering\. Soft, instrumental music to bring you comfort and strength.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,648 likes - 38 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,674 likes - 38 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZXCWJ6tnaz.md) - [plain]
 | 15 | [Latent Dream](https://open.spotify.com/track/2SBkwSedtTogejeZhh61IC) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE) | [Latent Dream](https://open.spotify.com/album/2xo06CEH6FpkBc1VNeDogo) | 3:52 |
 | 16 | [Sandlóa](https://open.spotify.com/track/0ONcTpuI4HC0nOGCbPjGsa) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Sandlóa](https://open.spotify.com/album/5bxoucRv54ThMvQ2kAZSgF) | 3:35 |
 | 17 | [Today and it’s gone \(Munich Session\)](https://open.spotify.com/track/2w2ILZhs6v4kAEPD8GLIJj) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Munich Session](https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC) | 4:18 |
-| 18 | [This Night](https://open.spotify.com/track/6LQv4r8SDy2S3fLNo3ntr9) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/6YBtLEVPI7CAEsE5ljrtTC) | 3:31 |
+| 18 | [This Night](https://open.spotify.com/track/1MxO57a8Ttyb1izW1uKGVl) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/5ygHwLXWu8Ycx28wtAZvMA) | 3:31 |
 | 19 | [Wild Dandelion \- Solo Piano](https://open.spotify.com/track/0K1g45Vb0qdmVufrYX8tHx) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Because You Were The Universe](https://open.spotify.com/album/2se5cnO8caL1zD8qrJucKo) | 2:24 |
 | 20 | [Darkwood 1](https://open.spotify.com/track/3Yd9BawtErogF5B2p6e3MV) | [David Darling](https://open.spotify.com/artist/5qQyBIUGDM3QvXlTIo7puq) | [Cello](https://open.spotify.com/album/6dk74Wt3hzq5LC3T6V7Kms) | 2:23 |
 | 21 | [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZXCWJ6tnaz.md) - [plain]
 | 37 | [Not Alone](https://open.spotify.com/track/51zxgx075eEXbFvg6xA2YM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Love & Keep](https://open.spotify.com/album/0McAK4hAugkV6K9CfySKl7) | 2:36 |
 | 38 | [An Idea](https://open.spotify.com/track/1PINN6x0Riouab3wPSglpp) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Zsófia Boros](https://open.spotify.com/artist/6T9wLNtkKE8Z5GusLK6v9c) | [En Otra Parte](https://open.spotify.com/album/3TRN62RoTGNXKtKEu2JvxW) | 2:38 |
 
-Snapshot ID: `MTY2NDQ0NzA4MiwwMDAwMDAwMDY3NDQ3NjQyNWJiNDM2OGUyNjU3Zjk1MDcwMjYwZDA5`
+Snapshot ID: `MTY2NDQ0NzA4MiwwMDAwMDAwMDNmM2ViY2Y0MmNjMDMwMjE3MGE3ZWI4YzdjY2JhMWJj`

@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-265 songs - 15 hr 9 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
+266 songs - 15 hr 13 min - [published](https://open.spotify.com/playlist/7xOLFEytdfjJJnhoBTmzRh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Lava/Treacle](https://open.spotify.com/track/227jTRlttZd3Qjoe1cdtmb) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Lava/Treacle](https://open.spotify.com/album/6jPzSHELKtpjfV9GOnTy1k) | 3:21 | 2022-09-05 |  |
 | [Lava/Treacle](https://open.spotify.com/track/3U8dhK8wiVtsdmj7jwUJlB) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Lava/Treacle](https://open.spotify.com/album/56BXeYf8Xp3zxKSuQmbOet) | 3:21 | 2021-12-15 | 2022-07-31 |
 | [Let It Go](https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go](https://open.spotify.com/album/7ofF9Iy9KRY1yg5QdbGYp7) | 3:43 | 2021-12-15 | 2022-10-22 |
+| [Let It Go](https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go](https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV) | 3:43 | 2022-10-19 |  |
 | [Let's Go Get Stoned](https://open.spotify.com/track/1XCqGflyHjZAE1BnRqWUc9) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Doin' Our Thing](https://open.spotify.com/album/2OWQVMKNjSZeTaVXpfHPX5) | 2:54 | 2021-12-15 | 2022-04-21 |
 | [Lifethativebeenlivin](https://open.spotify.com/track/3W1M418LCdlDAUj1FQGMvN) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Lifethativebeenlivin](https://open.spotify.com/album/2lb4sntKtt0wZFWa6eePKE) | 2:55 | 2021-12-15 | 2022-04-07 |
 | [Little Thangs](https://open.spotify.com/track/3D8igV9yINYFtN65Di9NqH) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Little Thangs](https://open.spotify.com/album/45fXacALm4MEGCAGETPdQX) | 3:18 | 2022-04-07 | 2022-04-21 |
@@ -237,7 +238,7 @@
 | [SULA \(Paperback\)](https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK) | 4:15 | 2021-12-15 | 2022-07-29 |
 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 | 2022-06-30 |  |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2022-09-02 | 2022-09-17 |
-| [Table for Two](https://open.spotify.com/track/4QcoLNjHgwDIoMvKeIm6aK) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP), [Bran Mazz](https://open.spotify.com/artist/2gAvPf7H37Rbp6B4DimriZ) | [Table for Two](https://open.spotify.com/album/2n5GM1tmlT3LwTicApBbUG) | 3:27 | 2021-12-15 |  |
+| [Table for Two](https://open.spotify.com/track/4QcoLNjHgwDIoMvKeIm6aK) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP), [Bran Mazz](https://open.spotify.com/artist/2gAvPf7H37Rbp6B4DimriZ) | [Table for Two](https://open.spotify.com/album/2n5GM1tmlT3LwTicApBbUG) | 3:27 | 2021-12-15 | 2022-10-25 |
 | [Take Off Your Cool \(feat\. Norah Jones\)](https://open.spotify.com/track/2faSzprTWJ7L1EkZNko4ww) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 2:38 | 2021-12-15 |  |
 | [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/track/2XNYdSnpZvwlFr9gGWM8uX) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Tales By Moonlight \(Ft Amaarae\)](https://open.spotify.com/album/6jNc9ab3Twwr4U3iBQM7wq) | 3:24 | 2021-12-15 | 2022-04-07 |
 | [Talk to Yuh](https://open.spotify.com/track/6fwV7mBG3K6eAmSfPmNtK6) | [Zen Boba](https://open.spotify.com/artist/4MhSwhQrXXAlIAIq6OCX0m), [Half Moon Bay](https://open.spotify.com/artist/3KG8t3rIqQX1sr97EPUL41) | [Talk to Yuh](https://open.spotify.com/album/4XmokrroK532pDbp4hi9dd) | 3:31 | 2021-12-15 | 2022-04-06 |

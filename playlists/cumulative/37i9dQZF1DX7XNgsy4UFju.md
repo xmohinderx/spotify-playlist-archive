@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Phoenix
 
-744 songs - 1 day 19 hr 51 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+746 songs - 1 day 19 hr 57 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,8 @@
 | [Hurts to Love](https://open.spotify.com/track/1L11xLS2t34QQIBwwCWHly) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/2lIlLooy0MEOJsO5n67GGs) | 4:05 | 2022-02-18 | 2022-04-23 |
 | [Hush](https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hush](https://open.spotify.com/album/5r1bbn7yCvl1CrBjfGM6eq) | 3:01 | 2021-12-31 | 2022-02-12 |
 | [Hysterical Us](https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Hysterical Us](https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX) | 3:55 | 2021-12-31 | 2022-01-22 |
-| [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 | 2022-10-21 |  |
+| [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 | 2022-10-24 |  |
+| [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 | 2022-10-21 | 2022-10-25 |
 | [I Am So Happy With My Little Dog](https://open.spotify.com/track/12zIlVjvBechUQwJiWDYZE) | [Shabason & Krgovich](https://open.spotify.com/artist/1Y7BUpNYM8Yc8ZIBUq7qy2), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS), [Nicholas Krgovich](https://open.spotify.com/artist/68QhSfYuqyiT1KPoHlCvSv) | [I Am So Happy With My Little Dog](https://open.spotify.com/album/0zAyg4Bgto8atPy4b7Zjwe) | 4:14 | 2022-08-27 | 2022-09-03 |
 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 | 2022-04-01 | 2022-05-20 |
 | [I Can’t Grow Up](https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Can't Grow Up](https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm) | 3:20 | 2022-09-30 | 2022-10-22 |
@@ -587,7 +588,8 @@
 | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/track/11erW7pKvrR399ymf1eZwl) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/album/5EryJwl6ZmreizbfgEUgqC) | 4:02 | 2021-12-31 | 2022-02-12 |
 | [Slip](https://open.spotify.com/track/7rKmdNlYcVJZ0OFPmXZ5li) | [Ellevator](https://open.spotify.com/artist/617IdGJR4ElBnDD2cXiBUt) | [Slip](https://open.spotify.com/album/1jNfYTMnromITdfUbvtwfu) | 3:26 | 2022-02-11 | 2022-03-12 |
 | [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-07 |  |
-| [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 | 2022-10-21 |  |
+| [Smoking Weed Alone](https://open.spotify.com/track/0aI85jfjeRy4UsLLc93Nw5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Crybaby](https://open.spotify.com/album/2a8473uZ3beO2ZuePXXBNf) | 3:11 | 2022-10-24 |  |
+| [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 | 2022-10-21 | 2022-10-25 |
 | [So Excited](https://open.spotify.com/track/5hm4OC3PJs0tEd7PdvtUkm) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [So Excited](https://open.spotify.com/album/1M0jL56cPNrsT6hNV7g5W8) | 3:00 | 2022-02-25 | 2022-05-07 |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-07 | 2022-02-12 |
 | [So Slowly](https://open.spotify.com/track/3svVB5h2BhRyvDqTDKYAFk) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [So Slowly](https://open.spotify.com/album/7elFANugWUFErlAs8V6vBW) | 3:00 | 2021-12-31 | 2022-01-08 |

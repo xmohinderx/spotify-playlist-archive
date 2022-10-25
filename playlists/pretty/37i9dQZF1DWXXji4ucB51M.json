@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 105792,
+  "num_followers": 105789,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMGQ0NGNmMzEzN2Y2MWU1ZTBiZTA0OTA3YmQwMzVkMGJj",
+  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMDNlYjhlNzA1OTlhMTE0NmNlMGJkYWQ4YWFjZDdlYWU2",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "everything i wanted",
-        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 245425,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 221306,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "everything i wanted",
+        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 245425,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 205473,
-      "name": "You should be sad",
-      "url": "https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Harleys In Hawaii",
         "url": "https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 185815,
       "name": "Harleys In Hawaii",
       "url": "https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 205473,
+      "name": "You should be sad",
+      "url": "https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -671,22 +671,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 208520,
-      "name": "Yummy",
-      "url": "https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Suga",
         "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
       },
@@ -731,6 +715,38 @@
       "duration_ms": 211866,
       "name": "9 and Three Quarters (Run Away)",
       "url": "https://open.spotify.com/track/1rqb2FCXVn2HNL1afJEnTr"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 208520,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 190348,
+      "name": "Let's Fall in Love for the Night",
+      "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -819,22 +835,6 @@
       "duration_ms": 249142,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/14wf185UxfNbSy8dwt4r4q"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Let's Fall in Love for the Night",
-      "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
+        "name": "CALM",
+        "url": "https://open.spotify.com/album/46K4raQPIGem3N031upNj9"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 220536,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/6qlcjGJPTZEwR8nf2nSe9C"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
         "name": "NINE",
         "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 141290,
       "name": "SOMEONE'S SOMEONE",
       "url": "https://open.spotify.com/track/5eU51YmH3XzhzNRzkJns27"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "CALM",
-        "url": "https://open.spotify.com/album/46K4raQPIGem3N031upNj9"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 220536,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/6qlcjGJPTZEwR8nf2nSe9C"
     },
     {
       "added_at": "2020-08-24 22:19:29",

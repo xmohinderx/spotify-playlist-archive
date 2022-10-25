@@ -755,7 +755,7 @@
     {
       "album": {
         "name": "This Night",
-        "url": "https://open.spotify.com/album/6YBtLEVPI7CAEsE5ljrtTC"
+        "url": "https://open.spotify.com/album/5ygHwLXWu8Ycx28wtAZvMA"
       },
       "artists": [
         {
@@ -766,6 +766,24 @@
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 211055,
+      "name": "This Night",
+      "url": "https://open.spotify.com/track/1MxO57a8Ttyb1izW1uKGVl"
+    },
+    {
+      "album": {
+        "name": "This Night",
+        "url": "https://open.spotify.com/album/6YBtLEVPI7CAEsE5ljrtTC"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Califano",
+          "url": "https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
       "duration_ms": 211055,
       "name": "This Night",
       "url": "https://open.spotify.com/track/6LQv4r8SDy2S3fLNo3ntr9"

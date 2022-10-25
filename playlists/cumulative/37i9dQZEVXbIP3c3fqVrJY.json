@@ -3765,7 +3765,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 123640,
       "name": "EL PRESIDENTO",
       "url": "https://open.spotify.com/track/1ENsFFWq3SgzSIO473iHb2"
@@ -5711,7 +5711,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -7895,7 +7895,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 204506,
       "name": "Mal\u00e1 d\u00e1ma",
       "url": "https://open.spotify.com/track/0nVCQoIiDjnZWXHMRCD2Ko"
@@ -9749,7 +9749,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 130520,
       "name": "Nikdy Nic Nebylo",
       "url": "https://open.spotify.com/track/3rKPRnYJ5b89bv5ZsLrogK"
@@ -9923,6 +9923,24 @@
       "duration_ms": 226500,
       "name": "Nouzovej Stav (feat. White Russian)",
       "url": "https://open.spotify.com/track/36xHBT51exIiyRBeva2FhI"
+    },
+    {
+      "album": {
+        "name": "N\u011bjak\u00e1 doba",
+        "url": "https://open.spotify.com/album/5MES6jPZ2NDkopU50O0tyn"
+      },
+      "artists": [
+        {
+          "name": "AJ Brix",
+          "url": "https://open.spotify.com/artist/5qKmIjDNBJlvOEh95CDmsI"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "N\u011bjak\u00e1 doba",
+      "url": "https://open.spotify.com/track/0pa9OaFpxkSwCFZu5IQoGA"
     },
     {
       "album": {
@@ -13103,7 +13121,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 181192,
       "name": "S\u00e9rum",
       "url": "https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO"
@@ -14503,7 +14521,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 214736,
       "name": "Virtu\u00e1ln\u00ed drogy",
       "url": "https://open.spotify.com/track/7E8LK4R9gAkSG4CD1kqvsX"
@@ -14767,7 +14785,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 140500,
       "name": "V\u0161echno sport",
       "url": "https://open.spotify.com/track/2zwyMsXnHnwdIA404i0A7p"

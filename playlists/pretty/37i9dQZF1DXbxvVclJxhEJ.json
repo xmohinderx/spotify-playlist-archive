@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 23273,
+  "num_followers": 23322,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5MzU5NSwwMDAwMDAwMDU5NTE3N2ZiMWFlMjFlZTBjOWRhN2RjMTM2ZGI4NTZh",
+  "snapshot_id": "MTY2NDg5MzU5NSwwMDAwMDAwMGZhMTY5Nzg5NGE1YjQwZGUxNmZlZjcyNmQ2ZjYzMTEz",
   "tracks": [
     {
       "added_at": "2022-10-04 14:26:35",
@@ -199,6 +199,22 @@
     {
       "added_at": "2022-10-04 14:26:35",
       "album": {
+        "name": "Blues To The Bone",
+        "url": "https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ"
+    },
+    {
+      "added_at": "2022-10-04 14:26:35",
+      "album": {
         "name": "The Complete Recordings, Vol. 4",
         "url": "https://open.spotify.com/album/1L3EizQze12QVLvn1znwcT"
       },
@@ -211,6 +227,22 @@
       "duration_ms": 190026,
       "name": "Devil's Gonna Git You",
       "url": "https://open.spotify.com/track/17THAwZLC5xgi25y3S3sHQ"
+    },
+    {
+      "added_at": "2022-10-04 14:26:35",
+      "album": {
+        "name": "What It Takes: The Chess Years",
+        "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Wang Dang Doodle",
+      "url": "https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj"
     },
     {
       "added_at": "2022-10-04 14:26:35",
@@ -231,22 +263,6 @@
     {
       "added_at": "2022-10-04 14:26:35",
       "album": {
-        "name": "Blues To The Bone",
-        "url": "https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 215333,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ"
-    },
-    {
-      "added_at": "2022-10-04 14:26:35",
-      "album": {
         "name": "Ruth Brown",
         "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 165413,
       "name": "As Long as I'm Moving",
       "url": "https://open.spotify.com/track/4ldqBacc2ov7cUIlzLMB5W"
-    },
-    {
-      "added_at": "2022-10-04 14:26:35",
-      "album": {
-        "name": "What It Takes: The Chess Years",
-        "url": "https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "Wang Dang Doodle",
-      "url": "https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj"
     },
     {
       "added_at": "2022-10-04 14:26:35",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-10-04 14:26:35",
       "album": {
-        "name": "Trixie Smith Vol. 2 1925-1929",
-        "url": "https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI"
-      },
-      "artists": [
-        {
-          "name": "Trixie Smith",
-          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
-        }
-      ],
-      "duration_ms": 174184,
-      "name": "My Daddy Rocks Me",
-      "url": "https://open.spotify.com/track/4cputOB2WH8qeKRVafoopX"
-    },
-    {
-      "added_at": "2022-10-04 14:26:35",
-      "album": {
         "name": "The Complete Recordings, Vol. 1",
         "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 208840,
       "name": "Haunted House Blues",
       "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
+    },
+    {
+      "added_at": "2022-10-04 14:26:35",
+      "album": {
+        "name": "Trixie Smith Vol. 2 1925-1929",
+        "url": "https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI"
+      },
+      "artists": [
+        {
+          "name": "Trixie Smith",
+          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
+        }
+      ],
+      "duration_ms": 174184,
+      "name": "My Daddy Rocks Me",
+      "url": "https://open.spotify.com/track/4cputOB2WH8qeKRVafoopX"
     },
     {
       "added_at": "2022-10-04 14:26:35",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-10-04 14:26:35",
       "album": {
-        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
-        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
-      },
-      "artists": [
-        {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Sloppy Drunk Blues",
-      "url": "https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx"
-    },
-    {
-      "added_at": "2022-10-04 14:26:35",
-      "album": {
         "name": "Sweet Emma Barrett And Her New Orleans Music",
         "url": "https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2022-10-04 14:26:35",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
+        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
+        "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
         }
       ],
-      "duration_ms": 187146,
-      "name": "Billie's Blues",
-      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
+      "duration_ms": 195973,
+      "name": "Sloppy Drunk Blues",
+      "url": "https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx"
     },
     {
       "added_at": "2022-10-04 14:26:35",
@@ -599,18 +583,18 @@
     {
       "added_at": "2022-10-04 14:26:35",
       "album": {
-        "name": "What It Takes: The Chess Years (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5cqkfEOV7du3ynBO7EENMp"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 260053,
-      "name": "Tease Your Man",
-      "url": "https://open.spotify.com/track/06hFEQu1PismBzyS3gg11U"
+      "duration_ms": 187146,
+      "name": "Billie's Blues",
+      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
     },
     {
       "added_at": "2022-10-04 14:26:35",
@@ -627,6 +611,22 @@
       "duration_ms": 168333,
       "name": "Keep A Song In Your Soul",
       "url": "https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI"
+    },
+    {
+      "added_at": "2022-10-04 14:26:35",
+      "album": {
+        "name": "What It Takes: The Chess Years (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5cqkfEOV7du3ynBO7EENMp"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 260053,
+      "name": "Tease Your Man",
+      "url": "https://open.spotify.com/track/06hFEQu1PismBzyS3gg11U"
     },
     {
       "added_at": "2022-10-04 14:26:35",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-10-04 14:26:35",
       "album": {
-        "name": "Ma Rainey Vol. 3 (1925-1926)",
-        "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
-      },
-      "artists": [
-        {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
-        }
-      ],
-      "duration_ms": 175726,
-      "name": "Stack O'Lee Blues",
-      "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
-    },
-    {
-      "added_at": "2022-10-04 14:26:35",
-      "album": {
         "name": "The First Torch Singers, Vol. I: The Twenties",
         "url": "https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 155813,
       "name": "Boogie'n My Woogie",
       "url": "https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl"
+    },
+    {
+      "added_at": "2022-10-04 14:26:35",
+      "album": {
+        "name": "Ma Rainey Vol. 3 (1925-1926)",
+        "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 175726,
+      "name": "Stack O'Lee Blues",
+      "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
     },
     {
       "added_at": "2022-10-04 14:26:35",

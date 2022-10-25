@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s.",
-  "num_followers": 361258,
+  "num_followers": 361747,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDc3OTIwNSwwMDAwMDAwMDU1NWY3YjJjZDcxN2I0N2ZkZTFmNDJlMjc2Zjg0ZmFl",
+  "snapshot_id": "MTY2NDc3OTIwNSwwMDAwMDAwMDYzNzBiZGM0M2I3YzllYmY3MDU2YmIwMWIwMTc5Yzcx",
   "tracks": [
     {
       "added_at": "2022-09-23 05:26:33",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 214240,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 220626,
       "name": "Rock with You - Single Version",
       "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 192826,
+      "name": "Goodbye Yellow Brick Road - Remastered 2014",
+      "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 218440,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/1B5Tp2Ml9nLlmTSJx8xVfI"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 192826,
-      "name": "Goodbye Yellow Brick Road - Remastered 2014",
-      "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Caldwell",
-          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
-        }
-      ],
-      "duration_ms": 286493,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Back Home Again",
         "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 180693,
       "name": "Annie's Song",
       "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        }
+      ],
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Fernando",
-      "url": "https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Spirits Having Flown",
         "url": "https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 296000,
       "name": "Too Much Heaven",
       "url": "https://open.spotify.com/track/6T5GTy1l6dRmagqpNPjdoc"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Fernando",
+      "url": "https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Ultimate Collection: Dobie Gray",
-        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
-      },
-      "artists": [
-        {
-          "name": "Dobie Gray",
-          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Drift Away - Single Version",
-      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Rocky Mountain High",
         "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
@@ -939,22 +923,6 @@
       "duration_ms": 283640,
       "name": "Rocky Mountain High",
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Verities & Balderdash",
-        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
-      },
-      "artists": [
-        {
-          "name": "Harry Chapin",
-          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
-        }
-      ],
-      "duration_ms": 222951,
-      "name": "Cat's in the Cradle",
-      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -975,6 +943,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Ultimate Collection: Dobie Gray",
+        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
+      },
+      "artists": [
+        {
+          "name": "Dobie Gray",
+          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Drift Away - Single Version",
+      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Gets Next to You",
         "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 172320,
       "name": "Tired of Being Alone",
       "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Verities & Balderdash",
+        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
+      },
+      "artists": [
+        {
+          "name": "Harry Chapin",
+          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
+        }
+      ],
+      "duration_ms": 222951,
+      "name": "Cat's in the Cradle",
+      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Anytime... Anywhere",
-        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
-      },
-      "artists": [
-        {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
-        }
-      ],
-      "duration_ms": 220520,
-      "name": "We're All Alone",
-      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "If You Could Read My Mind",
         "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 228840,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Anytime... Anywhere",
+        "url": "https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY"
+      },
+      "artists": [
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "We're All Alone",
+      "url": "https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "B.J. Thomas",
-        "url": "https://open.spotify.com/album/3BKmp3IRv514x7Yv0D1fXc"
-      },
-      "artists": [
-        {
-          "name": "B.J. Thomas",
-          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Raindrops Keep Fallin' on My Head - Rerecorded",
-      "url": "https://open.spotify.com/track/1oOnOS4xNZOMpCT0lKTNo2"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 238413,
       "name": "The Only Living Boy in New York",
       "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "B.J. Thomas",
+        "url": "https://open.spotify.com/album/3BKmp3IRv514x7Yv0D1fXc"
+      },
+      "artists": [
+        {
+          "name": "B.J. Thomas",
+          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Raindrops Keep Fallin' on My Head - Rerecorded",
+      "url": "https://open.spotify.com/track/1oOnOS4xNZOMpCT0lKTNo2"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Eric Carmen",
-        "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 430000,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Dionne (Expanded Edition)",
         "url": "https://open.spotify.com/album/77WC3SytwaxwNdzWPC1Jn9"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 211920,
       "name": "I'll Never Love This Way Again",
       "url": "https://open.spotify.com/track/4V3AGIIQeJoBUPaTCLiscB"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Eric Carmen",
+        "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 430000,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Warmer",
-        "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
-      },
-      "artists": [
-        {
-          "name": "Randy VanWarmer",
-          "url": "https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Just When I Needed You Most",
-      "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "52nd Street",
         "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 233506,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/34E0Higz6fFVXlbVsn6TIW"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Warmer",
+        "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
+      },
+      "artists": [
+        {
+          "name": "Randy VanWarmer",
+          "url": "https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Just When I Needed You Most",
+      "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Turnstiles",
-        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 362400,
-      "name": "New York State of Mind",
-      "url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Blue Moves",
         "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Turnstiles",
+        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 362400,
+      "name": "New York State of Mind",
+      "url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "The Way We Were",
         "url": "https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS"
       },
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Brother To Brother",
-        "url": "https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc"
+        "name": "Spiral Staircase (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4g0FobFyVjCK1evYB6A4jY"
       },
       "artists": [
         {
-          "name": "Gino Vannelli",
-          "url": "https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR"
+          "name": "Ralph McTell",
+          "url": "https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG"
         }
       ],
-      "duration_ms": 218306,
-      "name": "I Just Wanna Stop",
-      "url": "https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ"
+      "duration_ms": 248586,
+      "name": "Streets of London",
+      "url": "https://open.spotify.com/track/0P49pJa288tm8gKbFcofn9"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Brother To Brother",
+        "url": "https://open.spotify.com/album/4ohvIC6DYCyY1uyPcvXAFc"
+      },
+      "artists": [
+        {
+          "name": "Gino Vannelli",
+          "url": "https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "I Just Wanna Stop",
+      "url": "https://open.spotify.com/track/5ljGmNLjvQZm2hw8cDJXNJ"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 276000,
       "name": "(They Long To Be) Close To You",
       "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Spiral Staircase (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4g0FobFyVjCK1evYB6A4jY"
-      },
-      "artists": [
-        {
-          "name": "Ralph McTell",
-          "url": "https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "Streets of London",
-      "url": "https://open.spotify.com/track/0P49pJa288tm8gKbFcofn9"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
-      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Trafalgar",
         "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 237826,
       "name": "How Can You Mend A Broken Heart",
       "url": "https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
+      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1761,6 +1761,22 @@
       "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
     },
     {
+      "added_at": "2022-10-03 06:40:05",
+      "album": {
+        "name": "Do You Wanna Go Party",
+        "url": "https://open.spotify.com/album/1VyflnFsIEfcxPj4JgM5QR"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Please Don't Go - Single Version",
+      "url": "https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN"
+    },
+    {
       "added_at": "2022-09-23 05:26:33",
       "album": {
         "name": "The Michael Johnson Album",
@@ -1791,22 +1807,6 @@
       "duration_ms": 224013,
       "name": "Northern Sky",
       "url": "https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH"
-    },
-    {
-      "added_at": "2022-10-03 06:40:05",
-      "album": {
-        "name": "Do You Wanna Go Party",
-        "url": "https://open.spotify.com/album/1VyflnFsIEfcxPj4JgM5QR"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Please Don't Go - Single Version",
-      "url": "https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Red Rose Speedway",
-        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "My Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
@@ -1911,18 +1895,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+        "name": "Red Rose Speedway",
+        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
       },
       "artists": [
         {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
         }
       ],
-      "duration_ms": 165666,
-      "name": "Beth",
-      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
+      "duration_ms": 247733,
+      "name": "My Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1943,6 +1927,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Beth",
+      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "What's Going On",
         "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
       },
@@ -1955,22 +1955,6 @@
       "duration_ms": 327706,
       "name": "Inner City Blues (Make Me Wanna Holler)",
       "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1991,6 +1975,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Classic Masters",
         "url": "https://open.spotify.com/album/48PU11yPb5ZWZ7cOHDXOxo"
       },
@@ -2003,22 +2003,6 @@
       "duration_ms": 253213,
       "name": "Sad Eyes - Remastered",
       "url": "https://open.spotify.com/track/3w3rLh6wmne91BS2rwgcog"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Behind Closed Doors",
-        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "The Most Beautiful Girl",
-      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2043,6 +2027,22 @@
       "duration_ms": 153066,
       "name": "She - Tous les visages de l\u2019amour",
       "url": "https://open.spotify.com/track/2OxkfL5jW8bvYTCNDLlRSY"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Behind Closed Doors",
+        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "The Most Beautiful Girl",
+      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Fate For Breakfast",
-        "url": "https://open.spotify.com/album/49XeWorlh4MXcslygZb0Kf"
-      },
-      "artists": [
-        {
-          "name": "Art Garfunkel",
-          "url": "https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Bright Eyes",
-      "url": "https://open.spotify.com/track/3Jy0dWV5AnnfyTvHK6UWof"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "I'll Never Fall in Love Again",
         "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 174840,
       "name": "I'll Never Fall in Love Again",
       "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Fate For Breakfast",
+        "url": "https://open.spotify.com/album/49XeWorlh4MXcslygZb0Kf"
+      },
+      "artists": [
+        {
+          "name": "Art Garfunkel",
+          "url": "https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Bright Eyes",
+      "url": "https://open.spotify.com/track/3Jy0dWV5AnnfyTvHK6UWof"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2327,18 +2327,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
       },
       "artists": [
         {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
         }
       ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+      "duration_ms": 429371,
+      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
+      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2359,18 +2359,34 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
       "artists": [
         {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 429371,
-      "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
-      "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "It's Impossible",
+        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "And I Love You So",
+      "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2391,22 +2407,6 @@
       "duration_ms": 280800,
       "name": "The Closer I Get to You",
       "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "It's Impossible",
-        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "And I Love You So",
-      "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
     },
     {
       "added_at": "2022-09-23 05:26:33",

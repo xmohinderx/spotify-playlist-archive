@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Spencer Crandall
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,688 likes - 118 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,232 likes - 118 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 4 | [Over For You](https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You](https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2) | 3:05 |
 | 5 | [getting into](https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [getting into](https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3) | 2:49 |
 | 6 | [I Wonder](https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Wonder](https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy) | 3:26 |
-| 7 | [I Still Love You \(with Billy Currington\)](https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [I Still Love You \(with Billy Currington\)](https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe) | 3:44 |
+| 7 | [I Still Love You](https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [I Still Love You](https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe) | 3:44 |
 | 8 | [Give You My All](https://open.spotify.com/track/1wbGNtxz7WcTpXxmsdMdpn) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Give You My All](https://open.spotify.com/album/0gas9wev1EQn8BZ2Hb2vHj) | 2:51 |
 | 9 | [Try Jesus](https://open.spotify.com/track/0rSuM2IqezwEBOOadZkX1D) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Try Jesus](https://open.spotify.com/album/6edvYYzME5Brx8QGh8vkPQ) | 3:06 |
 | 10 | [Mean Something](https://open.spotify.com/track/5kw5FXkySDRD90byTk4RoX) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Mean Something](https://open.spotify.com/album/5u7Aa2EgdoshTix08lz5Dx) | 3:20 |

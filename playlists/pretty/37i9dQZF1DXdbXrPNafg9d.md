@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,244,351 likes - 173 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244,474 likes - 173 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 |
+| 1 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 |
 | 2 | [Happy Ending](https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL) | 4:08 |
 | 3 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 |
 | 4 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 |
 | 5 | [Winter Solstice](https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Winter Solstice](https://open.spotify.com/album/76ZPEP13Boqv4Da5XihzG0) | 3:56 |
 | 6 | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1) | 3:25 |
-| 7 | [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 |
+| 7 | [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 |
 | 8 | [Empty Head](https://open.spotify.com/track/1yEHKriEfBw6k1Dcb9sEBj) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Empty Head](https://open.spotify.com/album/3cLIlAzid7cOpdsfECmON9) | 5:13 |
 | 9 | [Let Me Know When \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4JiUyzZAHRSA3bJvl4kho7) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 2:54 |
 | 10 | [Smoking Weed Alone](https://open.spotify.com/track/0aI85jfjeRy4UsLLc93Nw5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Crybaby](https://open.spotify.com/album/2a8473uZ3beO2ZuePXXBNf) | 3:11 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 172 | [Run The Credits](https://open.spotify.com/track/03vgK21xN1rnN2WbSY2txK) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Run The Credits](https://open.spotify.com/album/1AYmvWV0JLTdgNMAxngkGy) | 4:21 |
 | 173 | [Half Life](https://open.spotify.com/track/5Gn8dr5NrwoxtCQhs6WO9v) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Half Life](https://open.spotify.com/album/7g5yKklmczUfA3pEuNjnrE) | 3:47 |
 
-Snapshot ID: `MTY2NjMzODk5MiwwMDAwMDAwMDIyNzY5OGNhYzM5ZDhiMjAwMmZiZDExM2ViMjNiYTM4`
+Snapshot ID: `MTY2NjMzODk5MiwwMDAwMDAwMDExYWNmOTM3ZWM2OWViOWVjZDI2NDZhOTE1YmJiZDk0`

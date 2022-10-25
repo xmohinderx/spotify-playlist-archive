@@ -4,7 +4,7 @@
 
 > Behagelig musik.
 
-338 songs - 19 hr 48 min - [published](https://open.spotify.com/playlist/1yDl9PUnuyK8nMQ2AIrRVP)
+339 songs - 19 hr 51 min - [published](https://open.spotify.com/playlist/1yDl9PUnuyK8nMQ2AIrRVP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA) | 4:19 | 2020-10-06\* |  |
 | [Perfect To Me \- Acoustic](https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Perfect to Me \(Acoustic\)](https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v) | 3:33 | 2020-10-06\* |  |
 | [Place We Were Made](https://open.spotify.com/track/0xKGPkn1RLsVifjDs4183v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/1lFHYunIYd9r5R3dNVpTOT) | 3:05 | 2020-10-20 | 2022-10-14 |
+| [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 | 2022-09-09 |  |
 | [Please Don't Say You Love Me](https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 3:01 | 2022-05-09 |  |
 | [Please Don't Say You Love Me](https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA) | 3:01 | 2021-01-30 | 2022-07-22 |
 | [Please Keep Loving Me](https://open.spotify.com/track/1rp1lRbL41qnlw354j8iTp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/57nyAsOzQc642JTGwioDli) | 3:15 | 2020-10-20 | 2022-07-29 |
@@ -336,7 +337,7 @@
 | [Worst In Me](https://open.spotify.com/track/3rK43VNP0142Kbxt8nuAhD) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/22aqlgX39cWQMWazg9qwuv) | 3:26 | 2021-05-22 | 2021-10-16 |
 | [Would You](https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d) | 3:01 | 2020-11-07 |  |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2020-11-07 | 2021-01-21 |
-| [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 | 2022-09-09 |  |
+| [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 | 2022-09-09 | 2022-10-25 |
 | [You Give Me Something](https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered \(International Version\)](https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ) | 3:33 | 2021-05-22 | 2022-07-07 |
 | [You Make It Real](https://open.spotify.com/track/5tTj367c98D4roNryoIhfN) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me \(EU Version\)](https://open.spotify.com/album/7A1mKWt3smgL4WiLap3sx2) | 3:31 | 2021-04-08 | 2022-07-29 |
 | [You Sigh](https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 2:58 | 2022-05-09 |  |

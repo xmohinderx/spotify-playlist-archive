@@ -4,7 +4,7 @@
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-243 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/0rqcdEr09hY4EkqH1rg5qo)
+244 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/0rqcdEr09hY4EkqH1rg5qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Forever On That](https://open.spotify.com/track/5HX3cRj6q5XITA9FHJlJBO) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [I'm Back](https://open.spotify.com/album/4UYkjiSBotywZsgvaWhdvt) | 2:01 | 2022-07-12 | 2022-07-30 |
 | [FourSevK](https://open.spotify.com/track/2udt81dx6lWuOFUZT5DZ7S) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [FourSevK](https://open.spotify.com/album/1Mnet9lkl2f4gekq9l0HPP) | 3:30 | 2022-06-03 | 2022-10-08 |
 | [Frat Rules \(feat\. A$AP Rocky, Playboi Carti & Big Sean\)](https://open.spotify.com/track/0RyA3o15NOLJYtm9NlDu5c) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Cozy Tapes Vol\. 2: Too Cozy](https://open.spotify.com/album/0qr1Fvi1haEDWVbFtekZLb) | 3:38 | 2022-07-29 | 2022-10-08 |
-| [Free Bizzy , Pt\. 2](https://open.spotify.com/track/122HITMgjIRIWpWWrGs4ub) | [Leeky G Bando](https://open.spotify.com/artist/6YEOsQM04mRbJT3dRDv9Ag) | [Free Bizzy , Pt\. 2](https://open.spotify.com/album/6pVIB7YaHu00iHiPWkcfND) | 2:15 | 2022-07-29 |  |
+| [Free Bizzy , Pt\. 2](https://open.spotify.com/track/122HITMgjIRIWpWWrGs4ub) | [Leeky G Bando](https://open.spotify.com/artist/6YEOsQM04mRbJT3dRDv9Ag) | [Free Bizzy , Pt\. 2](https://open.spotify.com/album/6pVIB7YaHu00iHiPWkcfND) | 2:15 | 2022-07-29 | 2022-10-25 |
+| [Free Bizzy, Pt\. 2](https://open.spotify.com/track/3qYvUTA7AhJwx6lvxvCik1) | [Leeky G Bando](https://open.spotify.com/artist/2DDdkJNNuomH4Px5AJ8p2d) | [Free Bizzy, Pt\. 2](https://open.spotify.com/album/6sr74fUn57D13Nje1chRdF) | 2:15 | 2022-07-29 |  |
 | [G in his grill](https://open.spotify.com/track/1HGbS14PUxiG1QQJ7KYnKw) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Merry Wickmas 2 \(Deluxe\)](https://open.spotify.com/album/4k1GwL4EHbSozGmKpBLmV7) | 1:20 | 2022-06-17 | 2022-07-02 |
 | [Gangstas](https://open.spotify.com/track/1hg3RlqFZXJb5YgRoK9qmF) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:40 | 2022-03-01 | 2022-05-11 |
 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 | 2022-03-25 |  |

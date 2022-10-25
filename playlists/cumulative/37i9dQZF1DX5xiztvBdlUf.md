@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-278 songs - 1 day 2 hr 24 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
+279 songs - 1 day 2 hr 29 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [High Seas](https://open.spotify.com/track/3vIN77NsPlbqUOYC0DZBvo) | [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk) | [From Desolate Places and Forgotten Times](https://open.spotify.com/album/2o8Ggk3Fbgje1iIAw3hB1l) | 9:55 | 2021-11-26 | 2022-02-19 |
 | [Hope](https://open.spotify.com/track/2QRGdW5I7M74y0URMgkfqn) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [The Pictures](https://open.spotify.com/album/1gd2DBDRgwMmrwvUC8sOX1) | 7:28 | 2021-11-26 | 2022-06-16 |
 | [Hujan](https://open.spotify.com/track/4yk6OhBXGUMbQLfYCY53nE) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Hujan](https://open.spotify.com/album/6pdcYvI6izBIT7bn4c40oS) | 6:19 | 2021-11-26 | 2022-07-29 |
-| [I Care For You](https://open.spotify.com/track/5nQ42FeEsRBGZWXHxdeABt) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [I Care For You](https://open.spotify.com/album/5KfE50sk1WBi84grTmZ3VT) | 6:32 | 2022-04-15 |  |
+| [I Care For You](https://open.spotify.com/track/5nQ42FeEsRBGZWXHxdeABt) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [I Care For You](https://open.spotify.com/album/5KfE50sk1WBi84grTmZ3VT) | 6:32 | 2022-04-15 | 2022-10-25 |
 | [I hear you](https://open.spotify.com/track/3c7hLN3vJlB8lGP3b4qMGo) | [Steve Bug](https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J), [youANDme](https://open.spotify.com/artist/6kHXBiY7g3rkzhyxGW9WEG), [Black Soda](https://open.spotify.com/artist/4DIbWYMpiH7S0Zw3PjUT3k) | [I hear you feat\. Black Soda](https://open.spotify.com/album/5Ntg5OczGoT9QLJzIwXDpc) | 8:03 | 2021-11-26 | 2022-04-20 |
 | [I Want It All \(feat\. Elderbrook\) \- Route 94 Remix](https://open.spotify.com/track/0LjpThe4YPL9VG0MFozbwE) | [Casper Cole](https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [I Want It All \(feat\. Elderbrook\) \[Remixes\]](https://open.spotify.com/album/0c7jQkV3HG2b6KhG7P0gfc) | 3:31 | 2021-11-26 | 2022-04-05 |
 | [I WON'T STAY](https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I) | 4:46 | 2022-02-18 | 2022-10-13 |
@@ -129,6 +129,7 @@
 | [Kaleidoscope Colours](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Kaleidoscope Colours](https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9) | 4:15 | 2022-09-30 |  |
 | [Kamenka](https://open.spotify.com/track/4abrxVPM6VkY010z7HAsBY) | [Stephan Zovsky](https://open.spotify.com/artist/7311LpGBvRgQVXyxBl2PzP) | [Kamenka](https://open.spotify.com/album/4TkIQjZcW3fEYmInBDbPav) | 9:35 | 2021-11-26 | 2022-07-27 |
 | [Kami](https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Kami EP](https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ) | 5:15 | 2022-08-12 | 2022-10-15 |
+| [Kami](https://open.spotify.com/track/6ZbJmCC26Y3968mSLS2VNc) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 5:15 | 2022-09-30 |  |
 | [KayCee](https://open.spotify.com/track/1kaVJgf1xCcoDHYGqa1vZv) | [Nico Pusch](https://open.spotify.com/artist/6mbgZyWRlDKMVMALyV28sl) | [KayCee](https://open.spotify.com/album/1QtaRf7p4nPjhke9wFZORf) | 5:42 | 2021-11-26 | 2022-03-23 |
 | [Kilian](https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Kilian](https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV) | 7:00 | 2021-11-26 |  |
 | [Korrelate](https://open.spotify.com/track/0qmuy4k8kApluZHCv5E7hl) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [15 Years Stil vor Talent, Part 1](https://open.spotify.com/album/4W9nMMfxhYdKpIswm5cAay) | 6:25 | 2021-11-26 | 2022-06-25 |

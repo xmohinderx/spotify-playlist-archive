@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,530 likes - 174 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,531 likes - 174 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 48 | [Chills](https://open.spotify.com/track/7tN0ceaX3JAz6aVtyXn9mn) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Chills](https://open.spotify.com/album/73MA39KSFI537siPGXAb8q) | 2:45 |
 | 49 | [Sims \- Miquela Remix](https://open.spotify.com/track/1uxP6Vw86pAvlnuLUSWLll) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 2:37 |
 | 50 | [Sway With Me \(with GALXARA\)](https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Sway With Me \(with GALXARA\)](https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu) | 2:48 |
-| 51 | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/track/4QeBlVCl2KzUEcQZiuskRd) | [NexXthursday](https://open.spotify.com/artist/07Y8trtAhW1FFUPqZYTosy), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/album/0i9TSDm7kuCNRsaw8rSca2) | 4:04 |
-| 52 | [Lifetime](https://open.spotify.com/track/10Z9RbwrTbQ0gQeNRJ2dC1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 3:27 |
-| 53 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 |
+| 51 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 |
+| 52 | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/track/4QeBlVCl2KzUEcQZiuskRd) | [NexXthursday](https://open.spotify.com/artist/07Y8trtAhW1FFUPqZYTosy), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/album/0i9TSDm7kuCNRsaw8rSca2) | 4:04 |
+| 53 | [Lifetime](https://open.spotify.com/track/10Z9RbwrTbQ0gQeNRJ2dC1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 3:27 |
 | 54 | [Rollercoaster](https://open.spotify.com/track/7dxKdQC9Vo1hDxIUnt1z0Q) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
 | 55 | [Invisible Things](https://open.spotify.com/track/1ShHhJlzaLuoZbJ3aP4z0m) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:17 |
 | 56 | [Night Crawling \(feat\. Billy Idol\)](https://open.spotify.com/track/4U34WsyOvppOMnRfq7DuOy) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:09 |
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 116 | [Tattoos](https://open.spotify.com/track/4JbUI6AoGibHGsHN77aSws) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Tattoos](https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ) | 2:53 |
 | 117 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/4dfotX3ZuHDqwbXFs6QBgy) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:15 |
 | 118 | [Where Were You](https://open.spotify.com/track/1v2sakRkTMhPMVLU4IMyUB) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [The Shack: Music From and Inspired By the Original Motion Picture](https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO) | 3:07 |
-| 119 | [Sunset](https://open.spotify.com/track/1qYnqHydtG4iV9YenAz8Ux) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Deluxe Edition\)](https://open.spotify.com/album/2zbfishc70HpcgMu8ymtri) | 4:04 |
-| 120 | [Nervous](https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:08 |
+| 119 | [Nervous](https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:08 |
+| 120 | [Sunset](https://open.spotify.com/track/1qYnqHydtG4iV9YenAz8Ux) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Deluxe Edition\)](https://open.spotify.com/album/2zbfishc70HpcgMu8ymtri) | 4:04 |
 | 121 | [Devil You Don't](https://open.spotify.com/track/5NkAWXpJOE0mDtHlK8LlWZ) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Devil You Don't](https://open.spotify.com/album/540Q9Y4nYAdnUynF4GGck6) | 3:06 |
 | 122 | [Emotion Sickness](https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:22 |
 | 123 | [A Minute \(Intro\)](https://open.spotify.com/track/2QEjC670wRUC9OE9kOnPB3) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 1:08 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 173 | [The Rain](https://open.spotify.com/track/4pdAysesLTN6ie94tkPH8d) | [Samuel Harrell](https://open.spotify.com/artist/042NzXmTSPpXPgBfskd5Qo) | [The Book of Samuel](https://open.spotify.com/album/7aDDXSWH9gtdjySALV9nhI) | 5:22 |
 | 174 | [Wild Dreams](https://open.spotify.com/track/5aRR8YJ6Q7Y7DhurrzgbDY) | [Jay John](https://open.spotify.com/artist/0J1W4llL0TJLG48XsJUSgC) | [Understand Me](https://open.spotify.com/album/0uvBj08KCEjIcXP9aHuDWN) | 3:25 |
 
-Snapshot ID: `Mjc3NzYyODgsMDAwMDAwMDBkN2NiMjhjZmFjMjZmOTg4MWQ0Yzc0NTY0NjA4YTVhNQ==`
+Snapshot ID: `Mjc3Nzc3MjgsMDAwMDAwMDA2OWZjMmExYWM3MDYyM2ZmOGUxZDk1ODg0YTM2YWM1Yw==`

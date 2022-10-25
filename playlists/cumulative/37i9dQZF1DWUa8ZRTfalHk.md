@@ -4,7 +4,7 @@
 
 > The hits of tomorrow are on Spotify today\. Cover: Noah Kahan
 
-1,442 songs - 3 day 2 hr 40 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
+1,445 songs - 3 day 2 hr 49 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -680,6 +680,7 @@
 | [JUST LIKE YOU](https://open.spotify.com/track/7tTRFVlFzk6yTnoMcParmi) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [CLOUDS \(THE MIXTAPE\)](https://open.spotify.com/album/7eQGtkzCgrIWDOe76E9F8t) | 4:11 | 2021-03-26 | 2021-06-05 |
 | [Just Look Up \(From Don’t Look Up\)](https://open.spotify.com/track/3QPBocWfIcOCdFFvmqn60F) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Just Look Up \(From Don’t Look Up\)](https://open.spotify.com/album/1geA7d12ed5LXsBns7ONB4) | 3:21 | 2021-12-04 | 2022-01-22 |
 | [justified](https://open.spotify.com/track/6IW4TUC3zHW4tpikDg1w7Y) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [justified](https://open.spotify.com/album/4d4qaLHCcfXzMbGa33Kpqg) | 3:00 | 2021-08-28 | 2021-10-16 |
+| [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-24 |  |
 | [KEEP IT TO YOURSELF](https://open.spotify.com/track/6UcfBPUiBB7ZeQQkwZ8OF5) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MAYBE SOMEDAY IT'LL ALL BE OK](https://open.spotify.com/album/4PgSvMUqxOsCTXqR1GPij3) | 2:54 | 2022-07-22 | 2022-08-13 |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-01-28 | 2022-03-12 |
 | [keep me afraid](https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:44 | 2021-09-11 | 2021-09-25 |
@@ -813,6 +814,7 @@
 | [L’enfer](https://open.spotify.com/track/7bp3zmEvpHLa0h32nhDUkB) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [L’enfer](https://open.spotify.com/album/7bSSz8KnOpZaJor6Cs3GkM) | 3:09 | 2022-01-21 | 2022-02-19 |
 | [Machu Picchu](https://open.spotify.com/track/6RV9pRLIQiXm3qTGeyQluf) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:59 | 2021-03-06 | 2021-03-19 |
 | [Mad at Disney](https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P) | 2:16 | 2020-10-13\* | 2020-10-16 |
+| [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-24 |  |
 | [madhouse](https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [madhouse](https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U) | 2:05 | 2022-09-09 | 2022-10-15 |
 | [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:02 | 2022-03-25 | 2022-05-07 |
 | [Make You Say](https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Make You Say](https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2) | 3:26 | 2022-08-19 |  |
@@ -843,6 +845,7 @@
 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 | 2021-11-13 | 2022-02-19 |
 | [Met Him Last Night \(feat\. Ariana Grande\)](https://open.spotify.com/track/0BI0hfbmqybnd3TezrDME3) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dancing With The Devil…The Art of Starting Over](https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd) | 3:24 | 2021-04-03 | 2021-05-15 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-12-04 | 2022-03-05 |
+| [Midnight Rain](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:54 | 2022-10-24 |  |
 | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx) | 3:04 | 2021-12-11 | 2022-02-19 |
 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2022-09-02 |  |
 | [Million To One \- from the Amazon Original Movie "Cinderella"](https://open.spotify.com/track/3lzYrD0WcgGFiAFKkB2shE) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Million To One \(from the Amazon Original Movie "Cinderella"\)](https://open.spotify.com/album/0dGNt03cGOE1F2c9KM9wlz) | 3:23 | 2021-09-01 | 2021-09-25 |

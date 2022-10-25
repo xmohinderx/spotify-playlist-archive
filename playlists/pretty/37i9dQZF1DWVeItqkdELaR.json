@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora do ver\u00e3o.",
-  "num_followers": 84144,
+  "num_followers": 84174,
   "original_name": "Ver\u00e3o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDhiNjhkZDQ0NTI2ZTg5ZTVlYmZjMDc0ZmM2MWRmZjQ5",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDc5YjQ0OWJmOTJjODg3NzA0OGRhYWVlMDk2NmFiY2Vk",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 174000,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "When You're Gone",
-        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Baile no Morro",
         "url": "https://open.spotify.com/album/0zk4s7xBJ8M2VoT0TTd230"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 140307,
       "name": "Baile no Morro",
       "url": "https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -927,6 +927,50 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "All By Myself",
+        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 171747,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Pump It Louder",
+        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Pump It Louder",
+      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Questions",
         "url": "https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR"
       },
@@ -967,30 +1011,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "All By Myself",
-        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 171747,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Qu\u00e9 M\u00e1s Pues?",
         "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 217773,
       "name": "Qu\u00e9 M\u00e1s Pues?",
       "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Pump It Louder",
-        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Pump It Louder",
-      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 187703,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Simplesmente Ela",
         "url": "https://open.spotify.com/album/1SuKWIQ4PxaWIiv0DfmqsQ"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 187703,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "NAKAMURA",
         "url": "https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Quer Voar",
-        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Quer Voar",
-      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 145853,
       "name": "Malvada",
       "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Quer Voar",
+        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Quer Voar",
+      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "NO CH\u00c3O NOVINHA",
-        "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 136901,
-      "name": "NO CH\u00c3O NOVINHA",
-      "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "GALOPA",
         "url": "https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 172621,
       "name": "Senta Danada",
       "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "NO CH\u00c3O NOVINHA",
+        "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 136901,
+      "name": "NO CH\u00c3O NOVINHA",
+      "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1695,26 +1695,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
         }
       ],
-      "duration_ms": 150259,
-      "name": "MODO TURBO",
-      "url": "https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8"
+      "duration_ms": 204320,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1731,22 +1723,6 @@
       "duration_ms": 176239,
       "name": "Tudo Me Lembra Voc\u00ea",
       "url": "https://open.spotify.com/track/0HG6sEAcdl6XyPT7RT9IHd"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1771,18 +1747,26 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/6OzWkDYmerUM9a94FxDWOE"
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
       "artists": [
         {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 258223,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI"
+      "duration_ms": 150259,
+      "name": "MODO TURBO",
+      "url": "https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1799,6 +1783,22 @@
       "duration_ms": 151708,
       "name": "Afro Tropical",
       "url": "https://open.spotify.com/track/6HNe2fozm5lvsmmV2tPwTQ"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/6OzWkDYmerUM9a94FxDWOE"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 258223,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI"
     },
     {
       "added_at": "2022-10-13 23:00:00",

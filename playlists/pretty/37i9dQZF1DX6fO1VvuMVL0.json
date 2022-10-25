@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 39304,
+  "num_followers": 39368,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc0NTkxOCwwMDAwMDAwMDQxMGYxZWQwNDFiYzY4ZmZhN2Y0YTNjYWFjNjEzNWJj",
+  "snapshot_id": "MTY2Mzc0NTkxOCwwMDAwMDAwMDNlYzJiMjJmZmRkNGYyYTIzZWRiMTRkYTNlOTc2ZWUw",
   "tracks": [
     {
       "added_at": "2022-09-21 07:38:38",
@@ -123,6 +123,38 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        }
+      ],
+      "duration_ms": 586400,
+      "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
+      "url": "https://open.spotify.com/track/2x91iJc0UkFcjRMEZ2CoWB"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
         "name": "Hamp & Getz",
         "url": "https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o"
       },
@@ -159,6 +191,22 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 251346,
+      "name": "Nobody Else But Me",
+      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
         "name": "Time Out",
         "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
       },
@@ -171,6 +219,22 @@
       "duration_ms": 287840,
       "name": "Kathy's Waltz",
       "url": "https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
+        "name": "In Person",
+        "url": "https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi",
+          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
+        }
+      ],
+      "duration_ms": 353600,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -192,49 +256,13 @@
           "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         },
         {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 586400,
-      "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
-      "url": "https://open.spotify.com/track/2x91iJc0UkFcjRMEZ2CoWB"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 251346,
-      "name": "Nobody Else But Me",
-      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "In Person",
-        "url": "https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi",
-          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
-        }
-      ],
-      "duration_ms": 353600,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK"
+      "duration_ms": 692746,
+      "name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "url": "https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -271,26 +299,6 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
-      },
-      "artists": [
-        {
-          "name": "Jutta Hipp",
-          "url": "https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T"
-        },
-        {
-          "name": "Zoot Sims",
-          "url": "https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap"
-        }
-      ],
-      "duration_ms": 412653,
-      "name": "Too Close For Comfort",
-      "url": "https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -311,6 +319,58 @@
       "duration_ms": 204480,
       "name": "Come Rain Or Come Shine (Take 5)",
       "url": "https://open.spotify.com/track/13KYyenapQ2RMEGBJuRkUa"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
+        "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
+      },
+      "artists": [
+        {
+          "name": "Jutta Hipp",
+          "url": "https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T"
+        },
+        {
+          "name": "Zoot Sims",
+          "url": "https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap"
+        }
+      ],
+      "duration_ms": 412653,
+      "name": "Too Close For Comfort",
+      "url": "https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
+        }
+      ],
+      "duration_ms": 474626,
+      "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -371,34 +431,6 @@
       "duration_ms": 906386,
       "name": "How Deep Is The Ocean",
       "url": "https://open.spotify.com/track/7y7M0Qd8r37uhLLScSQUyB"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "Kind Of Blue (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 692746,
-      "name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
-      "url": "https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -487,6 +519,22 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 193546,
+      "name": "Jeru",
+      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -567,38 +615,6 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "'Round About Midnight",
-        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
-        }
-      ],
-      "duration_ms": 474626,
-      "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
         "name": "The Return Of Art Pepper",
         "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "The Complete Argo Mercury Sessions",
-        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer & Benny Golson Jazztet",
-          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/3kfsa9m8BoeKIyHPOOhwdg"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
         "name": "New Faces - New Sounds",
         "url": "https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 181674,
       "name": "Under Capricorn",
       "url": "https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
+        "name": "The Complete Argo Mercury Sessions",
+        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer & Benny Golson Jazztet",
+          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/3kfsa9m8BoeKIyHPOOhwdg"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -667,6 +683,22 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142"
+      },
+      "artists": [
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
         "name": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
         "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0"
       },
@@ -679,38 +711,6 @@
       "duration_ms": 338732,
       "name": "Monaco - Set 1 / Live From Cafe Bohemia/1956",
       "url": "https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "Jeru",
-      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "The Jazz Giants",
-        "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 606026,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142"
+        "name": "The Jazz Giants",
+        "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
       },
       "artists": [
         {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
         }
       ],
-      "duration_ms": 166640,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU"
+      "duration_ms": 606026,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "Stan Kenton",
-        "url": "https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8"
-      },
-      "artists": [
-        {
-          "name": "Stan Kenton",
-          "url": "https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb"
-        }
-      ],
-      "duration_ms": 553320,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
         "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
         "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
@@ -955,22 +939,34 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "Two Of A Mind",
-        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
+        "name": "Stan Kenton",
+        "url": "https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        },
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Stan Kenton",
+          "url": "https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb"
         }
       ],
-      "duration_ms": 422266,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/7MGGY6BzqplNCRrKfIBTKL"
+      "duration_ms": 553320,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
+        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Ergo - Remastered 2004",
+      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -991,18 +987,22 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
+        "name": "Two Of A Mind",
+        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 191906,
-      "name": "Ergo - Remastered 2004",
-      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
+      "duration_ms": 422266,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/7MGGY6BzqplNCRrKfIBTKL"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
+        "name": "Subconscious-Lee",
+        "url": "https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Fishin' Around",
+      "url": "https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
         "name": "West Coast Live",
         "url": "https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 727266,
       "name": "Darn That Dream - Live At The Tiffany Club, Los Angeles, CA., 1954",
       "url": "https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "Subconscious-Lee",
-        "url": "https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Fishin' Around",
-      "url": "https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "I'm Glad There Is You - Remaster/2004",
+      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
+    },
+    {
+      "added_at": "2022-09-21 07:38:38",
+      "album": {
         "name": "4 to Go!",
         "url": "https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ"
       },
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2022-09-21 07:38:38",
       "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+        "name": "Coolin'",
+        "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
         }
       ],
-      "duration_ms": 194546,
-      "name": "I'm Glad There Is You - Remaster/2004",
-      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
+      "duration_ms": 463346,
+      "name": "The Eagle Flies",
+      "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
     },
     {
       "added_at": "2022-09-21 07:38:38",
@@ -1263,22 +1279,6 @@
       "duration_ms": 485013,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/7EzUxzOUcq6HocnqSUr8JT"
-    },
-    {
-      "added_at": "2022-09-21 07:38:38",
-      "album": {
-        "name": "Coolin'",
-        "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
-      },
-      "artists": [
-        {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
-        }
-      ],
-      "duration_ms": 463346,
-      "name": "The Eagle Flies",
-      "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
     },
     {
       "added_at": "2022-09-21 07:38:38",

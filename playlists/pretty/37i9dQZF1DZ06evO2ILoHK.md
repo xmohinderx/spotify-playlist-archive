@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 
 > This is Basement\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,875 likes - 35 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,878 likes - 35 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 | 19 | [For You The Moon](https://open.spotify.com/track/0fCjQx9nAA512CPcH8AXfX) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 3:14 |
 | 20 | [Plan To Be Surprised](https://open.spotify.com/track/7n7LXkir2vxKrl7SSW4htc) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 2:19 |
 | 21 | [Comfort](https://open.spotify.com/track/3hMDOqyTB73cXHaTnu9WhL) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 2:19 |
-| 22 | [Stigmata](https://open.spotify.com/track/5UiuuUpGbdCXCyqezsncFf) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 3:35 |
+| 22 | [Changing Lanes](https://open.spotify.com/track/0OLe5X5aibmw8Dg7jcrssZ) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 1:24 |
 | 23 | [Brother's Keeper](https://open.spotify.com/track/481wkzrQ20aCvtlvhtLLcb) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:59 |
 | 24 | [Every Single Word](https://open.spotify.com/track/6EWq4Z999qYzSBiLROh1Ak) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 1:56 |
 | 25 | [Dui](https://open.spotify.com/track/4DlIEw0mtIPJjPizMjHP1e) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:12 |
-| 26 | [Changing Lanes](https://open.spotify.com/track/0OLe5X5aibmw8Dg7jcrssZ) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 1:24 |
+| 26 | [Stigmata](https://open.spotify.com/track/5UiuuUpGbdCXCyqezsncFf) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 3:35 |
 | 27 | [Animal Nitrate](https://open.spotify.com/track/3pRvbv2mAxIWBThGn0QMyl) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Further Sky](https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX) | 3:56 |
 | 28 | [Canada Square](https://open.spotify.com/track/3kxwJBSk2hvzMtYnek6aFW) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 4:08 |
 | 29 | [Skip Town](https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:03 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 | 34 | [1104 Porter St](https://open.spotify.com/track/11Cf39LSlZmTUBGLoP8jCx) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:04 |
 | 35 | [White Elephant](https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:46 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDBmNzJlODYyNzUxNGIxMjEzYjMwOWVjNDFkMmFhNjhjZA==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDAyZmVkY2Y0ZTUxNzY2M2VhM2U3MjQ3MTBiOTAyNmM3NA==`

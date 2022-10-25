@@ -1,12 +1,12 @@
 {
   "description": "Sweat it out with your favorite country workout songs.",
-  "num_followers": 85900,
+  "num_followers": 85956,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDE5NTE4OSwwMDAwMDAwMDc2MDlmOWZiNzdlMWUyYzkyYTE2YjMwOTg2MGIzNjI2",
+  "snapshot_id": "MTY0MDE5NTE4OSwwMDAwMDAwMGZlZDRjYjY2Y2Y3YTkwMjY4YjYxNDA1YmViYmZlMmQ2",
   "tracks": [
     {
       "added_at": "2021-12-22 17:46:06",
@@ -263,6 +263,22 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "Dirt On My Boots",
+      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
         "name": "Crash My Party",
         "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
       },
@@ -295,22 +311,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 201893,
-      "name": "Dirt On My Boots",
-      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Body Like A Back Road",
         "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
       },
@@ -327,22 +327,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Love, Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 198208,
-      "name": "Somebody Like That",
-      "url": "https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
       },
@@ -355,42 +339,6 @@
       "duration_ms": 222533,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
-        "name": "MACON",
-        "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 212030,
-      "name": "If I Didn't Love You",
-      "url": "https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 262773,
-      "name": "Toes",
-      "url": "https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -423,6 +371,58 @@
       "duration_ms": 205200,
       "name": "Heartache On The Dance Floor",
       "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Love, Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 198208,
+      "name": "Somebody Like That",
+      "url": "https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 262773,
+      "name": "Toes",
+      "url": "https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "MACON",
+        "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 212030,
+      "name": "If I Didn't Love You",
+      "url": "https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -591,6 +591,26 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Beer Can\u2019t Fix",
+      "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 172106,
       "name": "I'm Not For Everyone",
       "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
-        "name": "Center Point Road",
-        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Beer Can\u2019t Fix",
-      "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -679,22 +679,18 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Bettie James",
-        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
+        "name": "Life Changes",
+        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
       },
       "artists": [
         {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        },
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 212720,
-      "name": "Freedom Was A Highway",
-      "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
+      "duration_ms": 157080,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -715,22 +711,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Life Changes",
-        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 196160,
       "name": "Wine, Beer, Whiskey",
       "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Bettie James",
+        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        },
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Freedom Was A Highway",
+      "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -783,6 +783,22 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
+        "name": "Kill The Lights (Deluxe)",
+        "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Kick The Dust Up",
+      "url": "https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
-        "name": "Kill The Lights (Deluxe)",
-        "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Kick The Dust Up",
-      "url": "https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Crash and Burn",
-      "url": "https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Pawn Shop",
         "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Meat and Candy",
-        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 206506,
-      "name": "Snapback",
-      "url": "https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx"
+      "duration_ms": 190733,
+      "name": "Crash and Burn",
+      "url": "https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -999,6 +983,22 @@
       "duration_ms": 215120,
       "name": "Round Here",
       "url": "https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Meat and Candy",
+        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Snapback",
+      "url": "https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "747",
-        "url": "https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Bartender",
-      "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "If You're Going Through Hell",
         "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Meat and Candy",
-        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+        "name": "747",
+        "url": "https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 207733,
-      "name": "Break Up with Him",
-      "url": "https://open.spotify.com/track/5ZManJDV3CexO66nRCkdiV"
+      "duration_ms": 198266,
+      "name": "Bartender",
+      "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1127,6 +1111,22 @@
       "duration_ms": 171120,
       "name": "When She Says Baby",
       "url": "https://open.spotify.com/track/3gVRILe7XCyNakb6sy5umX"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Meat and Candy",
+        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Break Up with Him",
+      "url": "https://open.spotify.com/track/5ZManJDV3CexO66nRCkdiV"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+        "name": "Tullahoma",
+        "url": "https://open.spotify.com/album/2jGU6wUOYlyscEVAh6dtg5"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
         }
       ],
-      "duration_ms": 177253,
-      "name": "Undo It",
-      "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
+      "duration_ms": 220160,
+      "name": "Momma\u2019s House",
+      "url": "https://open.spotify.com/track/51FVpJr3WL7vvdfCa7j2jr"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Tullahoma",
-        "url": "https://open.spotify.com/album/2jGU6wUOYlyscEVAh6dtg5"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Momma\u2019s House",
-      "url": "https://open.spotify.com/track/51FVpJr3WL7vvdfCa7j2jr"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Next Girl",
         "url": "https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 164677,
       "name": "Next Girl",
       "url": "https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "Undo It",
+      "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1507,22 +1507,6 @@
       "duration_ms": 217840,
       "name": "Girl In A Country Song",
       "url": "https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 241053,
-      "name": "Last Name",
-      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1623,22 +1607,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "Little Red Wagon",
-      "url": "https://open.spotify.com/track/4sl4UWqzHSG7riBKdralwy"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Woman You Got",
         "url": "https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm"
       },
@@ -1655,6 +1623,22 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 241053,
+      "name": "Last Name",
+      "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5SvITt1qWQTDbUyA9wDFsK"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 200306,
       "name": "Save a Horse (Ride a Cowboy)",
       "url": "https://open.spotify.com/track/7ngLY64yLCFIRaybpIYKJz"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "Little Red Wagon",
+      "url": "https://open.spotify.com/track/4sl4UWqzHSG7riBKdralwy"
     },
     {
       "added_at": "2021-12-22 17:46:06",

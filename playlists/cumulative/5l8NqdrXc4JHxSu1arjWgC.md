@@ -4,7 +4,7 @@
 
 > 
 
-656 songs - 1 day 20 hr 4 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
+657 songs - 1 day 20 hr 10 min - [published](https://open.spotify.com/playlist/0xvGamaTTFg12gsauZPmmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Glass Onion \- 2018 Mix](https://open.spotify.com/track/2imbBhdgKwfIlrpqU7irkI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Glass Onion](https://open.spotify.com/album/63sNqrZoMSdo23mfmD8Jik) | 2:17 | 2018-11-07 |  |
 | [Go It Alone](https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:08 | 2020-10-04 |  |
 | [Godzilla](https://open.spotify.com/track/6N0AnkdDFZUetw8KAGHV7e) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Spectres](https://open.spotify.com/album/105oUsR7H8AJNELy43XF3w) | 3:41 | 2019-11-10 |  |
+| [Goggles](https://open.spotify.com/track/4ynX5irsZTPYHjWUOwrREQ) | [Post Animal](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE) | [Post Animal Perform the Most Curious Water Activities](https://open.spotify.com/album/6Uw9scOB4zagR04P2YBQYp) | 5:24 | 2022-10-24 |  |
 | [Goin' On](https://open.spotify.com/track/6kTLSDWhyFJVj6Lv8VB3LX) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [At War With the Mystics](https://open.spotify.com/album/4HAqJpa6YWefRXdLVpk5S6) | 3:39 | 2021-04-25 |  |
 | [Good God Damn](https://open.spotify.com/track/2ZssXuZfktUr4MMDzEWD2Z) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 3:34 | 2020-05-05 |  |
 | [Goodbye Yellow Brick Road \- Remastered 2014](https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:12 | 2021-06-14 |  |

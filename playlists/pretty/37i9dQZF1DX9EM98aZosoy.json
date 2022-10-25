@@ -1,12 +1,12 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1211944,
+  "num_followers": 1211910,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc1MzY0MywwMDAwMDAwMDlhMGI3MWQ4NWZhYjI3NDcwZTNkNWMyZWZjNjNlNDkx",
+  "snapshot_id": "MTY2NTc1MzY0MywwMDAwMDAwMGJmZjdhNzYyM2RiYmIzYjNjYjQ1YmRmOGNjNWY3ZGNk",
   "tracks": [
     {
       "added_at": "2022-10-14 13:20:43",
@@ -131,6 +131,22 @@
     {
       "added_at": "2022-10-14 13:20:43",
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+    },
+    {
+      "added_at": "2022-10-14 13:20:43",
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2022-10-14 13:20:43",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2022-10-14 13:20:43",
@@ -195,6 +195,26 @@
     {
       "added_at": "2022-10-14 13:20:43",
       "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "added_at": "2022-10-14 13:20:43",
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2022-10-14 13:20:43",
-      "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
-        }
-      ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
       "added_at": "2022-10-14 13:20:43",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-10-14 13:20:43",
       "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
+    },
+    {
+      "added_at": "2022-10-14 13:20:43",
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
-    },
-    {
-      "added_at": "2022-10-14 13:20:43",
-      "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
       "added_at": "2022-10-14 13:20:43",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-10-14 13:20:43",
       "album": {
+        "name": "Give It To Me (Full Vocal Mix)",
+        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 102860,
+      "name": "Give It To Me - Full Vocal Mix",
+      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
+    },
+    {
+      "added_at": "2022-10-14 13:20:43",
+      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
-    },
-    {
-      "added_at": "2022-10-14 13:20:43",
-      "album": {
-        "name": "Give It To Me (Full Vocal Mix)",
-        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 102860,
-      "name": "Give It To Me - Full Vocal Mix",
-      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
     },
     {
       "added_at": "2022-10-14 13:20:43",
@@ -711,30 +711,6 @@
     {
       "added_at": "2022-10-14 13:20:43",
       "album": {
-        "name": "We Could Be Together (feat. Daddy DJ)",
-        "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Daddy DJ",
-          "url": "https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL"
-        }
-      ],
-      "duration_ms": 149642,
-      "name": "We Could Be Together",
-      "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
-    },
-    {
-      "added_at": "2022-10-14 13:20:43",
-      "album": {
         "name": "Wellerman (Sea Shanty / 220 KID x Billen Ted Remix)",
         "url": "https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z"
       },
@@ -755,6 +731,30 @@
       "duration_ms": 116750,
       "name": "Wellerman - Sea Shanty / 220 KID x Billen Ted Remix",
       "url": "https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN"
+    },
+    {
+      "added_at": "2022-10-14 13:20:43",
+      "album": {
+        "name": "We Could Be Together (feat. Daddy DJ)",
+        "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Daddy DJ",
+          "url": "https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL"
+        }
+      ],
+      "duration_ms": 149642,
+      "name": "We Could Be Together",
+      "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
     },
     {
       "added_at": "2022-10-14 13:20:43",
@@ -967,6 +967,26 @@
     {
       "added_at": "2022-10-14 13:20:43",
       "album": {
+        "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
+        "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
+      },
+      "artists": [
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
+        },
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+        }
+      ],
+      "duration_ms": 193475,
+      "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
+      "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
+    },
+    {
+      "added_at": "2022-10-14 13:20:43",
+      "album": {
         "name": "The Drop",
         "url": "https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 121987,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
-    },
-    {
-      "added_at": "2022-10-14 13:20:43",
-      "album": {
-        "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
-        "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
-      },
-      "artists": [
-        {
-          "name": "JJ",
-          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
-        },
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
-        }
-      ],
-      "duration_ms": 193475,
-      "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
-      "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
     },
     {
       "added_at": "2022-10-14 13:20:43",

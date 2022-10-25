@@ -1613,7 +1613,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 194165,
       "name": "Bejeweled",
       "url": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE"
@@ -7029,7 +7029,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 219401,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
@@ -7915,7 +7915,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 166872,
       "name": "Jou Om Me Heen",
       "url": "https://open.spotify.com/track/4t3lYPJLLVDsijIvq6pkJS"
@@ -9569,6 +9569,24 @@
       "duration_ms": 336924,
       "name": "Massive",
       "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui"
+    },
+    {
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191039,
+      "name": "Mastermind",
+      "url": "https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH"
     },
     {
       "album": {
@@ -11979,7 +11997,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 210556,
       "name": "Question...?",
       "url": "https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B"
@@ -15169,7 +15187,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 149642,
       "name": "We Could Be Together",
       "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"

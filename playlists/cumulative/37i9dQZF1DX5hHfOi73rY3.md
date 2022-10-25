@@ -4,7 +4,7 @@
 
 > Classic party anthems from the club to your ears!
 
-110 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/7uqJ66jF1VtnDKSvWC7k8R)
+111 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/7uqJ66jF1VtnDKSvWC7k8R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Don't Give Up \(On Love\) \- Radio Edit](https://open.spotify.com/track/510dajaNLOHBE2F8ozAdzn) | [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j) | [Don't Give Up \(On Love\) \[Radio Edit\]](https://open.spotify.com/album/0RPdEPXWKThpkqBvyTAkDR) | 3:07 | 2020-11-06 | 2022-07-29 |
 | [Don't Go \- Dusky Remix](https://open.spotify.com/track/7tR8aX292Bvop3yIM1EAiy) | [Justin Martin](https://open.spotify.com/artist/4FN8WHqUbwkd97WEjoCu7B) | [Ghettos & Gardens Remixes](https://open.spotify.com/album/6nvWsEug3D5U126QJWnu1k) | 6:30 | 2020-11-06 | 2022-07-29 |
 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2020-11-06 |  |
-| [Finder](https://open.spotify.com/track/2DNO2h1Qsc0vPAyLGReDvN) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 5:49 | 2020-11-06 |  |
+| [Finder](https://open.spotify.com/track/2DNO2h1Qsc0vPAyLGReDvN) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 5:49 | 2020-11-06 | 2022-10-25 |
 | [Finder \- Original](https://open.spotify.com/track/2urGLvUk2UxfGZ7oFxQmuN) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/1ubRC7bEVKoI7sD5mqXrFs) | 5:49 | 2020-11-06 | 2022-07-29 |
 | [Get Out My Head](https://open.spotify.com/track/1LC6p9xSpZBogQMqlWZ5SZ) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Get Out My Head](https://open.spotify.com/album/6DwTQ5IU3Tp9YGIyzZwjNw) | 3:44 | 2020-11-06 |  |
 | [Gotta Let You Go](https://open.spotify.com/track/2Ter3spX4wzexYMtvAMZum) | [Dominica](https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh) | [25 Best Dance Hits Ever](https://open.spotify.com/album/7iP17fYlk7NCmGFCG7rDEy) | 3:53 | 2020-11-06 | 2022-07-27 |
@@ -54,6 +54,7 @@
 | [I Need A Painkiller](https://open.spotify.com/track/6K43zu0UqLQSj3T6nNOeH5) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Butter Rush](https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo) | [I Need A Painkiller \(Armand Van Helden Vs\. Butter Rush\)](https://open.spotify.com/album/0dTCxYvPkt9AbZ3oqHI2CJ) | 3:15 | 2020-11-06 |  |
 | [I Need Air \(feat\. Angela Hunte\)](https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Angela Hunte](https://open.spotify.com/artist/7rEqtNYXSDePQHdZNiLN6L) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 4:16 | 2020-11-06 |  |
 | [In For The Kill \- Skream's Let's Get Ravey Remix](https://open.spotify.com/track/6RcByPoFlaUVAn2PnTxSVr) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [In For The Kill](https://open.spotify.com/album/6LB0G71s0AubJUgXzCsKJt) | 5:05 | 2020-11-06 | 2022-07-29 |
+| [Inspector Norse](https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp) | 6:40 | 2020-11-06 |  |
 | [Inspector Norse](https://open.spotify.com/track/2pucDx5Wyz9uHCou4wntHa) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/68zh8sbZPMeJb7GnqomRJS) | 6:40 | 2020-11-06 | 2022-10-13 |
 | [It Makes You Forget \(Itgehane\) \- Edit](https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj) | 3:56 | 2020-11-06 |  |
 | [It's Only Real](https://open.spotify.com/track/1d8yv21IqQl580O8Nulc4W) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [It's Only Real](https://open.spotify.com/album/6wWj414Za6bcJEEDCffctz) | 6:53 | 2020-11-06 | 2022-07-26 |

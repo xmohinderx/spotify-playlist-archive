@@ -2,9 +2,9 @@
 
 ### [Latin Christmas](https://open.spotify.com/playlist/37i9dQZF1DX8qhRpXsdDY5)
 
-> The perfect Latin tunes to get in the Christmas spirit\. Cover: Luis Miguel
+> The perfect Latin tunes to get in the Christmas spirit.
 
-124 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/3HjIJ3sXLe73tAroOhDnrQ)
+125 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/3HjIJ3sXLe73tAroOhDnrQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Jingle Bells](https://open.spotify.com/track/6voBv7BG3UcDZilIPRgCs5) | [Celia Cruz Y Sonora Matancera](https://open.spotify.com/artist/2SIEgkSbGYyOoF0bRaqdmY) | [Navidad Latina](https://open.spotify.com/album/60fNjIW0QDlu3x8s2XdBJn) | 2:22 | 2021-12-17 | 2022-07-29 |
 | [Jingle Bells \(Cascabeles\)](https://open.spotify.com/track/4SFjK5RjMOA8ZqvjnWqQfe) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Navidades Con La Sonora Matancera](https://open.spotify.com/album/76JaJI88p06XmGGKWIS6rr) | 2:23 | 2021-12-17 |  |
 | [La Fiesta de Pilito](https://open.spotify.com/track/0GppZBPxqJ70c3kYFX4AQm) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [30th Anniversary](https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud) | 3:57 | 2021-12-17 |  |
-| [La Fiesta Se Pone Buena](https://open.spotify.com/track/0iG4fSbECL4BUhLWVMZrSr) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Pupy Santiago](https://open.spotify.com/artist/1AwtkVab3KjuB4wHYVj28r) | [Estrellas de Navidad](https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU) | 5:00 | 2021-12-17 |  |
+| [La Fiesta Se Pone Buena](https://open.spotify.com/track/0iG4fSbECL4BUhLWVMZrSr) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Pupy Santiago](https://open.spotify.com/artist/1AwtkVab3KjuB4wHYVj28r) | [Estrellas de Navidad](https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU) | 5:00 | 2021-12-17 | 2022-10-25 |
 | [Las Caras Lindas](https://open.spotify.com/track/1C74E6b4NrjC4a2TblWWIa) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Maelo...El Único](https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7) | 7:11 | 2021-12-17 |  |
 | [Las Caras Lindas](https://open.spotify.com/track/7BEHAPElPXDwHQFzaHlfb5) | [Ismael Rivera Y Sus Cachimbos](https://open.spotify.com/artist/0Hwc5FADPWA6QkkQuUYV93) | [Esto Si Es Lo Mio](https://open.spotify.com/album/3MlM2sZS3JDSFthel2CfCr) | 7:12 | 2021-12-17 | 2022-07-29 |
 | [Last Christmas](https://open.spotify.com/track/7EwU9d3kRIthI865GqxFue) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:37 | 2021-12-17 |  |
@@ -123,6 +123,7 @@
 | [un deseo más](https://open.spotify.com/track/6itDHP5ANCPNQQgXHbQ36R) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [un deseo más](https://open.spotify.com/album/2jvjSpRhbTEyJv1kwyyIG4) | 2:25 | 2021-12-17 |  |
 | [Va a Nevar](https://open.spotify.com/track/1nMd4JxxVJBk4Y2hyCM1TZ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 1:52 | 2021-12-17 |  |
 | [Ven A Cantar \(feat\. La Hermandad\)](https://open.spotify.com/track/4YZ15lQ9PrqZ1W0oQUgugE) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Arianna](https://open.spotify.com/artist/6k8y1np6q05Us6dNn3vmF8), [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y), [Denise De Kalafe](https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr), [Hernaldo Zuniga](https://open.spotify.com/artist/42vpZLi12oBjp8MuFFkirS), [La Hermandad](https://open.spotify.com/artist/2WiyIWdA9Pt9y8ZTMpRqrb), [Oscar Athie](https://open.spotify.com/artist/5wk7LFJizWvjj1m7ybEA3J), [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP), [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0), [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [¡Feliz Navidad!](https://open.spotify.com/album/2yWBsPObq6idXxXt6MlJqa) | 3:53 | 2021-12-17 |  |
+| [Viva La Navidad](https://open.spotify.com/track/1dCEekmJPw1nUxRIOjm7qM) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Viva La Navidad](https://open.spotify.com/album/7ISkZUUqPelXJctx5LAb9I) | 3:37 | 2022-10-24 |  |
 | [We're The Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 | 2021-12-17 |  |
 | [White Christmas](https://open.spotify.com/track/6zHDSfn8RvgFY4fXuDGQTY) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:38 | 2021-12-17 |  |
 | [Winter Wonderland \(Llegó la Navidad\) \- Deluxe Edition](https://open.spotify.com/track/4U5SUsTHpugGGbzDOJVVjb) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Navidad \(Deluxe Edition\)](https://open.spotify.com/album/6EJVhxPPu1fcs3s4aEmRms) | 2:19 | 2021-12-17 |  |

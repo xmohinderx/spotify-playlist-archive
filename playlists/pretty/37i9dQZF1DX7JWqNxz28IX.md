@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 🩹 \(in cover, chiello\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,356 likes - 129 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,386 likes - 129 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

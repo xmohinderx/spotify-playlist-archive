@@ -1,12 +1,12 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
-  "num_followers": 2671123,
+  "num_followers": 2671647,
   "original_name": "70s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODE1NSwwMDAwMDAwMGRiNTI0MTgyNDFkZDMxZGU1Mzk2ZjljYmJkMWFmYzQx",
+  "snapshot_id": "MTY1NzA0ODE1NSwwMDAwMDAwMGRhMWQ2ZTFiZWY5NmQzYjZjOWVjMGI0NjQ4NGI3ZTQ4",
   "tracks": [
     {
       "added_at": "2021-02-10 18:00:33",
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -317,6 +317,22 @@
       "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
     },
     {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
+    },
+    {
       "added_at": "2022-04-14 15:08:02",
       "album": {
         "name": "Even In The Quietest Moments",
@@ -363,22 +379,6 @@
       "duration_ms": 290280,
       "name": "Message In A Bottle",
       "url": "https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Signed, Sealed And Delivered",
-        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 254173,
+      "name": "Walk On the Wild Side",
+      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "Tom Petty & The Heartbreakers",
         "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 275466,
       "name": "Reelin' In The Years",
       "url": "https://open.spotify.com/track/1I7zHEdDx8Ny5RxzYPqsU2"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 254173,
-      "name": "Walk On the Wild Side",
-      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Not Fragile",
-        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "You Ain't Seen Nothing Yet",
-      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Paul Simon",
         "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 164813,
       "name": "Me and Julio Down by the Schoolyard",
       "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Not Fragile",
+        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "You Ain't Seen Nothing Yet",
+      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "We Are Family - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Imagination (Expanded Edition)",
         "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "We Are Family - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "Every Picture Tells A Story",
         "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 350266,
       "name": "Maggie May",
       "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 508333,
+      "name": "Paradise By the Dashboard Light",
+      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -907,22 +923,6 @@
       "duration_ms": 291685,
       "name": "One of These Nights - 2013 Remaster",
       "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Bat Out Of Hell",
-        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 508333,
-      "name": "Paradise By the Dashboard Light",
-      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "What's Going On",
         "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Billy Ocean (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
       "artists": [
         {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 179013,
-      "name": "Love Really Hurts Without You",
-      "url": "https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX"
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1083,6 +1067,22 @@
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Billy Ocean (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "Love Really Hurts Without You",
+      "url": "https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "In Color",
-        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "I Want You to Want Me",
-      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "I Can See Clearly Now",
         "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 217346,
       "name": "50 Ways to Leave Your Lover",
       "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "In Color",
+        "url": "https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "I Want You to Want Me",
+      "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "A Day At The Races (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 296493,
-      "name": "Somebody To Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
         "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Heaven Tonight",
-        "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
+        "name": "A Day At The Races (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i"
       },
       "artists": [
         {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 253733,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
+      "duration_ms": 296493,
+      "name": "Somebody To Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6cFZ4PLC19taNlpl9pbGMf"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "Heaven Tonight",
+        "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
       },
@@ -1439,34 +1439,18 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Bachman-Turner Overdrive II",
-        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
       },
       "artists": [
         {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 289893,
-      "name": "Takin' Care Of Business",
-      "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Dire Straits",
-        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 350400,
-      "name": "Sultans of Swing",
-      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
+      "duration_ms": 180493,
+      "name": "If You Want Me to Stay",
+      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1487,18 +1471,34 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
+        "name": "Dire Straits",
+        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
       },
       "artists": [
         {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 180493,
-      "name": "If You Want Me to Stay",
-      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
+      "duration_ms": 350400,
+      "name": "Sultans of Swing",
+      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Bachman-Turner Overdrive II",
+        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "duration_ms": 289893,
+      "name": "Takin' Care Of Business",
+      "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
-        "name": "The Grand Illusion",
-        "url": "https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU"
-      },
-      "artists": [
-        {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
-        }
-      ],
-      "duration_ms": 367000,
-      "name": "Come Sail Away",
-      "url": "https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
         "name": "Life & Times",
         "url": "https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 182240,
       "name": "Bad, Bad Leroy Brown",
       "url": "https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "The Grand Illusion",
+        "url": "https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "duration_ms": 367000,
+      "name": "Come Sail Away",
+      "url": "https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl"
     }
   ],
   "unique_name": "70s Road Trip",

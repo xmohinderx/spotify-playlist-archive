@@ -447,7 +447,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql"
@@ -4631,7 +4631,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
@@ -5417,7 +5417,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
@@ -6995,7 +6995,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -8483,7 +8483,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 247962,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0"
@@ -13656,6 +13656,32 @@
     },
     {
       "album": {
+        "name": "Raz Dva Tri",
+        "url": "https://open.spotify.com/album/2um1LHawNpZxWS5MHkjtDt"
+      },
+      "artists": [
+        {
+          "name": "Alan Murin",
+          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC"
+        },
+        {
+          "name": "Peter Pann",
+          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Raz Dva Tri",
+      "url": "https://open.spotify.com/track/77XSD9Lq6IWAWGnC2W3Ahv"
+    },
+    {
+      "album": {
         "name": "KF ako Rolls",
         "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
       },
@@ -16401,7 +16427,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 247067,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
@@ -16423,7 +16449,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"

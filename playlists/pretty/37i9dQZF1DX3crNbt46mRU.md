@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,508 likes - 94 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,515 likes - 94 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 9 | [Aston Martin Truck](https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Aston Martin Truck](https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc) | 3:00 |
 | 10 | [Don't Leave Me Lonely](https://open.spotify.com/track/4uZKz3TLaSEY4vVb86jyAp) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Don't Leave Me Lonely](https://open.spotify.com/album/3f0b6DdDRkMTVAPs8WHpDW) | 2:53 |
 | 11 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 |
-| 12 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 |
+| 12 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 |
 | 13 | [Memories & Stories](https://open.spotify.com/track/11HzKYViVu0bIbegyYu4Ba) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Memories & Stories](https://open.spotify.com/album/0sDWl6hNtOY10BLmA9RMdc) | 2:37 |
 | 14 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 |
 | 15 | [MY LOVE](https://open.spotify.com/track/22fZ94fJ7bW3Oni3pJdd7Q) | [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [MADE IN WIEDIKE \(Deluxe\)](https://open.spotify.com/album/4lRIuVj3NuybLrPUmO8IVn) | 2:47 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 93 | [Don't Take Your Love](https://open.spotify.com/track/35fBkyvLRrHKO4edE69LtA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9) | 3:06 |
 | 94 | [Voll sein](https://open.spotify.com/track/5UPuNiekVnBNoIhXDTSHSj) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Voll sein](https://open.spotify.com/album/4UiwmYx5SkgWTXgP9mgBzV) | 4:19 |
 
-Snapshot ID: `MTY2NjM0Njg1MiwwMDAwMDAwMDRiNTgyNGNmNjU5NDcwOGU2ZTM1OWQyY2E5YTc4ODNh`
+Snapshot ID: `MTY2NjM0Njg1MiwwMDAwMDAwMGFjNDAwYjUzZDU0NzNjOTU0MzU0NGI0ODhjMTdlZjE5`

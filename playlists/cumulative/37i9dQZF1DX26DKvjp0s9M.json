@@ -646,6 +646,24 @@
     },
     {
       "album": {
+        "name": "bad idea!",
+        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
+    },
+    {
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 258713,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
@@ -2519,7 +2537,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 188877,
       "name": "First Day of My Life",
       "url": "https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd"
@@ -8049,6 +8067,24 @@
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg"
+    },
+    {
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
       "album": {

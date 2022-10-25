@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-162 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+163 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Look Inside Yourself](https://open.spotify.com/track/52GQU2qUtb25jJEmg9hYcU) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/6S0jnsTpJ5qoskAUyjXIm5) | 3:38 | 2021-12-10 | 2022-07-29 |
 | [Look Inside Yourself](https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [L.I.Y.](https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT) | 3:38 | 2022-07-22 |  |
 | [Lost](https://open.spotify.com/track/7nC2EOpMnpDT2DkvniimSm) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Lost](https://open.spotify.com/album/2RnNYYYXt2ZYpBmR645OWT) | 2:41 | 2021-12-10 |  |
+| [Love Came](https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Love Came](https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm) | 2:15 | 2022-10-24 |  |
 | [Lucida](https://open.spotify.com/track/5TQ69mBOhC49tCWTTCWUMG) | [Thomas Bartlett](https://open.spotify.com/artist/1fMujthy4KyGgUJnOeehH1) | [Lucida](https://open.spotify.com/album/65NRqIsEiD5ZvrO3TVrmFL) | 6:39 | 2021-12-10 |  |
 | [Luminous](https://open.spotify.com/track/5RWA30VaTsYkFrkzxKL3aK) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Luminous](https://open.spotify.com/album/1qGM1wYNdT4fG81hXrdz6s) | 4:43 | 2021-12-10 |  |
 | [Lumière](https://open.spotify.com/track/3iNliE9VdKaPmpUangZfTB) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Tales Of Solace](https://open.spotify.com/album/7M7ZlXalpujk6zXlhb1J4s) | 4:11 | 2021-12-10 |  |

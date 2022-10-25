@@ -4,7 +4,7 @@
 
 > Al corazón!
 
-260 songs - 14 hr 58 min - [published](https://open.spotify.com/playlist/3iEESm2gcAYi2LsQmpsC4I)
+261 songs - 15 hr 2 min - [published](https://open.spotify.com/playlist/3iEESm2gcAYi2LsQmpsC4I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Ay Amor](https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Ay Amor](https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm) | 3:27 | 2022-01-14 | 2022-07-29 |
 | [Boleto al Amor](https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Boleto al Amor](https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX) | 3:25 | 2022-03-08 |  |
 | [Bonita y Mentirosa](https://open.spotify.com/track/5nek9u170O2y9lGK9a7uRJ) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Bonita y Mentirosa](https://open.spotify.com/album/0xdNqIKfuVie2xOX827Tmn) | 1:17 | 2022-01-21 | 2022-07-13 |
-| [Boquita de Caramelo](https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 3:26 | 2022-01-21 |  |
+| [Boquita de Caramelo](https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 3:26 | 2022-01-21 | 2022-10-25 |
 | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO) | 3:01 | 2022-01-21 | 2022-10-22 |
 | [Caballitos de Mar](https://open.spotify.com/track/0aaDDIeUNnSH7hRDa4tOd8) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi), [Mika](https://open.spotify.com/artist/5JWQJWjXkGBCVNpomR4HSx) | [Caballitos de Mar](https://open.spotify.com/album/6h5O4VNQjWP1MyPlj57Bug) | 3:19 | 2022-04-29 | 2022-05-25 |
 | [Chau](https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Chau](https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF) | 2:25 | 2022-01-21 |  |
@@ -135,6 +135,7 @@
 | [Maldita Traidora](https://open.spotify.com/track/7lqkZf6ACHHZN8OMYkwJKA) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Maldita Traidora](https://open.spotify.com/album/1z8zIqVzGUC6SbO2RpTMXi) | 4:06 | 2022-07-15 | 2022-08-13 |
 | [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 | 2022-01-14 |  |
 | [Me Encanta](https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Me Encanta](https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi) | 3:31 | 2022-01-14 |  |
+| [Me Extrañarás](https://open.spotify.com/track/4s0uLfMAgXbPgmPgOVG7qe) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvídame Si Puedes](https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H) | 3:51 | 2022-10-22 |  |
 | [Me Extrañarás](https://open.spotify.com/track/6yVDSab5QOdxlE6pPTdwID) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvidame Si Puedes \(Cumbia\)](https://open.spotify.com/album/1LW4AaUh6rk5ETHRHXEz9F) | 4:00 | 2022-01-14 | 2022-07-29 |
 | [Me Va Mejor Con el Alcohol](https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Me Va Mejor Con el Alcohol](https://open.spotify.com/album/3U74XHE1qbVBXMG5k8kNaB) | 3:17 | 2022-03-18 | 2022-06-13 |
 | [Me Vas a Extrañar](https://open.spotify.com/track/20G9tFLFSjdBSz65LlASqk) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Me Vas a Extrañar](https://open.spotify.com/album/3S6YMdtMKGqZMQ9Lq3GMMy) | 3:37 | 2022-01-21 | 2022-07-28 |

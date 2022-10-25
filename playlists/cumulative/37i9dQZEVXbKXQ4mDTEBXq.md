@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-203 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
+204 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 | 2021-12-18 | 2022-10-14 |
 | [Permission to Dance](https://open.spotify.com/track/5eXBXreN3d1zdj6Sa8dS0u) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/6oLwgqPJrxnTibrzawDGqY) | 3:07 | 2021-07-25 | 2021-12-18 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-18 |
-| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 |  |
+| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2022-10-25 |
 | [POP SONG](https://open.spotify.com/track/1rdr5D1dSqbEmLa97l36NZ) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [POP SONG](https://open.spotify.com/album/0pok5Oa8DgsXdZpsnpAbqX) | 3:19 | 2022-02-08 | 2022-03-02 |
 | [POP!](https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 2:48 | 2022-06-27 |  |
 | [Poppin' Shakin'](https://open.spotify.com/track/0jfFu1W96AlrsMqXSZZlSt) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Poppin' Shakin'](https://open.spotify.com/album/3yTEI6nQJTTHPVlFauTCsv) | 3:12 | 2021-04-09 | 2021-07-04 |
@@ -192,6 +192,7 @@
 | [私は最強](https://open.spotify.com/track/5YQNjKZofFhlBCIzTVY6rW) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:17 | 2022-08-11 |  |
 | [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-08-08 | 2022-08-12 |
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2021-03-27\* | 2021-05-27 |
+| [紫苑](https://open.spotify.com/track/4dFGAtzdQ0C7WowKPZXc8J) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [紫苑](https://open.spotify.com/album/7kCkbIhyJo0h2P4tgRkxRR) | 5:24 | 2022-10-24 |  |
 | [群青](https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:08 | 2021-03-27\* |  |
 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 | 2022-10-17 |  |
 | [花占い](https://open.spotify.com/track/2PlbwoIVr25oita35jg9ht) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [花占い](https://open.spotify.com/album/0hGRfbMoPFpIJJBpWkdYbI) | 3:27 | 2021-12-10 | 2021-12-19 |

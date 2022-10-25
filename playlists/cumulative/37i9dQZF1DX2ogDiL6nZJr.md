@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-257 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
+258 songs - 16 hr 7 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,11 +23,12 @@
 | [Alright](https://open.spotify.com/track/3ZWW7SuBWXOHv24nZmfPLF) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/3uqx22ScaYQujWq2lBvXuQ) | 4:02 | 2022-04-14 | 2022-04-20 |
 | [anew](https://open.spotify.com/track/21noJ3ormqz6ns0FxrKbeo) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [anew](https://open.spotify.com/album/2oBjzhXn3VigQDMkEUsXyO) | 3:35 | 2022-08-11 | 2022-09-16 |
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-21 |  |
-| [Arms Of Who](https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG) | [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Arms of Who](https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2) | 4:07 | 2021-12-09 |  |
+| [Arms Of Who](https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG) | [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Arms of Who](https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2) | 4:07 | 2021-12-09 | 2022-10-25 |
 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 | 2021-12-09 |  |
 | [August](https://open.spotify.com/track/2EzlXmONynvb3xIUL5CD2M) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [August](https://open.spotify.com/album/3p8rCayq59uMygGvrl3dUk) | 2:48 | 2021-12-09 | 2022-04-21 |
 | [August 10](https://open.spotify.com/track/4I59UjiR1vDGGdLmdvFoJO) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 4:25 | 2022-07-21 |  |
 | [August 10](https://open.spotify.com/track/4VBR3KptORIDW9dRAeLpCn) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/42j41uUwuHZT3bnedq2XtM) | 4:25 | 2022-04-14 | 2022-04-21 |
+| [Baby's Arms](https://open.spotify.com/track/19GJyFd7ZzBb2Lbq34yYoe) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [The Sadies](https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs) | [Baby's Arms](https://open.spotify.com/album/3EnRrBJSdDB4tq7dKKfiT3) | 4:44 | 2022-09-30 |  |
 | [Baby's Arms](https://open.spotify.com/track/1fU38kdhVLyU6vVhvoCP9f) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [The Sadies](https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs) | [Baby's Arms](https://open.spotify.com/album/1D9sKlavapVhzY6jp6e82U) | 4:44 | 2022-04-14 | 2022-04-21 |
 | [Bathroom Light](https://open.spotify.com/track/71glNHT4FultOqlau4zrFf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Bathroom Light](https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu) | 3:08 | 2022-06-30 |  |
 | [Beautiful](https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Beautiful](https://open.spotify.com/album/1jzakZByotV11MyGwCti6j) | 4:22 | 2021-12-09 |  |

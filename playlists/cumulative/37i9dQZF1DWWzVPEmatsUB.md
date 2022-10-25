@@ -4,7 +4,7 @@
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-288 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
+289 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Broke \- Mahogany Sessions](https://open.spotify.com/track/31lFJpeg5EGzxpPEetMbty) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Broke \(Mahogany Sessions\)](https://open.spotify.com/album/4OBlAJRLTChQfVWrswZj2Y) | 2:46 | 2020-10-17 | 2022-04-21 |
 | [Butterflies \(feat\. Samuel Choi\)](https://open.spotify.com/track/2KWUaIx78CzNbx6xR9VrLd) | [Valerie Bonz](https://open.spotify.com/artist/6PpwvCFzhzP9RUgxxcIfwl), [Samuel Choi](https://open.spotify.com/artist/2eeYxgvPVsl1xuc9HtDQ4i) | [Butterflies \(feat\. Samuel Choi\)](https://open.spotify.com/album/3UrLkWRU3wZU48sPflva0Z) | 3:19 | 2020-10-17 | 2022-06-10 |
 | [By Your Side](https://open.spotify.com/track/0suTkdTp0b4TJ74WXBavVq) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [By Your Side](https://open.spotify.com/album/4cIg7Vc7nrnoWgXn9QpoLt) | 3:25 | 2021-12-03 | 2022-07-20 |
+| [Carry You](https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 4:32 | 2020-10-17 |  |
 | [Carry You](https://open.spotify.com/track/6csk7RGrFhxbi6hPwQImPf) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/3DBne1mcu8Glvx5au357Io) | 4:32 | 2020-10-17 | 2022-07-29 |
 | [Carry You](https://open.spotify.com/track/6ffJ9jgxnipGi0SBzDAbqY) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 4:32 | 2020-10-17 | 2022-09-15 |
 | [Celebrate Life](https://open.spotify.com/track/7qoJwPYtnQUEmltftJc7Id) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Celebrate Life](https://open.spotify.com/album/5VtZ3j3pxbWT8MEqalffjK) | 3:55 | 2020-10-17 | 2022-04-17 |
@@ -288,7 +289,7 @@
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 | 2022-10-22 |
 | [What We Found](https://open.spotify.com/track/60npzcMuSF3IgdQoAHIFfx) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Nieman](https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR), [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG) | [What We Found](https://open.spotify.com/album/3DmN6DaelY8XtdGFQzuBzp) | 3:10 | 2021-02-19 | 2022-07-18 |
 | [When You Need It \(feat\. Wrabel\)](https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:08 | 2022-04-22 | 2022-09-17 |
-| [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 | 2021-07-16 |  |
+| [Why Don't You Touch Me](https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:17 | 2021-07-16 | 2022-10-25 |
 | [Will I Get Off Easy](https://open.spotify.com/track/1RsqyOxg254bZioR6jx5lD) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Will I Get Off Easy](https://open.spotify.com/album/6dFZJZEoVLsHnaq4a4UZwo) | 3:29 | 2020-10-17 | 2022-04-20 |
 | [Won't Turn Back](https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 4:00 | 2022-08-26 |  |
 | [Worst In Me](https://open.spotify.com/track/1zX45MGjbDDt2zceTraRvn) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Worst In Me](https://open.spotify.com/album/20BncSSGfvm3kCZZ8C28MU) | 3:56 | 2020-10-17 | 2022-04-19 |

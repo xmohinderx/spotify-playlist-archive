@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Featuring Major Lazer.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,473 likes - 204 songs - 10 hr 47 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,469 likes - 204 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

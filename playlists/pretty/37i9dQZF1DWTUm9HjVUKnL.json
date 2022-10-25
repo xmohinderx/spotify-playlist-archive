@@ -1,13 +1,29 @@
 {
   "description": "Spotify Singles. Like nothing you\u2019ve heard before.  Cover: Giveon",
-  "num_followers": 213886,
+  "num_followers": 213918,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjE2NjMyNiwwMDAwMDAwMGRmZDE0NmY0NDI3N2M4OTM2MDEzNjkyY2QyNWI3NmFl",
+  "snapshot_id": "MTY2NjYyMzc1OSwwMDAwMDAwMGZhMWZmNmUxZTgwMGI0ZTg1Zjk0NmMzNDJlZGI1YmI3",
   "tracks": [
+    {
+      "added_at": "2022-10-24 15:02:39",
+      "album": {
+        "name": "Dami Duro - Spotify Singles",
+        "url": "https://open.spotify.com/album/4cr6Z3CYq1o0r9hsKKNNtE"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 200378,
+      "name": "Dami Duro - Spotify Singles",
+      "url": "https://open.spotify.com/track/3OsXnXDO9gIb0L8t4nHhGy"
+    },
     {
       "added_at": "2022-10-19 07:58:46",
       "album": {

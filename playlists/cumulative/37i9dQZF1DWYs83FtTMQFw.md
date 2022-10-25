@@ -4,7 +4,7 @@
 
 > The hottest tracks of today...featuring Juice WRLD & Marshmello, Drake, and Lil Yachty
 
-783 songs - 1 day 16 hr 9 min - [published](https://open.spotify.com/playlist/0v71FT0Grm2FI0apea0kFF)
+784 songs - 1 day 16 hr 11 min - [published](https://open.spotify.com/playlist/0v71FT0Grm2FI0apea0kFF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Come Through \(feat\. Chris Brown\)](https://open.spotify.com/track/3krZxyBsWEHfEfJegYaWTd) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Come Through \(feat\. Chris Brown\)](https://open.spotify.com/album/7qKY8n8wPUizIo2bfSWUEB) | 3:34 | 2021-04-24 | 2021-09-18 |
 | [Company \(feat\. Future\)](https://open.spotify.com/track/3JVTsvTldB6arHVlmxmTnM) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 3:33 | 2021-03-27 | 2021-08-21 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-13 |  |
+| [Cooped Up / Return Of The Mack](https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Cooped Up / Return Of The Mack](https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF) | 2:07 | 2022-10-24 |  |
 | [Creature \(feat\. Swae Lee\)](https://open.spotify.com/track/3eV2WT9YhfzkxbufnBF8wK) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:22 | 2021-06-26 | 2021-07-17 |
 | [Crocodile Teeth \(with Skillibeng\) \- Remix](https://open.spotify.com/track/2nxy7TbWDWOBm2bseZJX2A) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 3:37 | 2021-05-15 | 2021-06-19 |
 | [Cry Baby \(feat\. DaBaby\)](https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:17 | 2021-02-12 | 2021-05-22 |

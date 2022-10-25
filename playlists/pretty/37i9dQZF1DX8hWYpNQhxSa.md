@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 
 > Enjoy music & episodes of "SPY×FAMILY"! /「SPY×FAMILY」の楽曲とエピソードを１つのプレイリストに。©TE/S, SFP
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,233 likes - 50 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,422 likes - 50 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
 | 2 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 |
-| 3 | [GOOD DAY](https://open.spotify.com/track/31fHBQWCMDUJdHuG41EzRp) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック](https://open.spotify.com/album/2XV23pZFYRgvDvr9qU7iiV) | 2:32 |
+| 3 | [GOOD DAY \- inspired by SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/track/1reF4pkXyJRSbC3FGSi1TB) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [GOOD DAY \- inspired by SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/album/6mSYsjSBR2PdZ8jOvePpXr) | 2:32 |
 | 4 | [Mixed Nuts](https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Mixed Nuts](https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4) | 3:33 |
 | 5 | [STRIX](https://open.spotify.com/track/4G0wGof3uWHhX0s6kcqRiz) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 2:24 |
 | 6 | [TBD](https://open.spotify.com/track/1nEaayEdWvl8YtQwjUjaJW) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 | 49 | [The Forgers](https://open.spotify.com/track/3byEuIFkJboGhU6wBvSg0B) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 2:13 |
 | 50 | [Bondman](https://open.spotify.com/track/75oYpYVq6NJBKMxE5LoX8p) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 1:41 |
 
-Snapshot ID: `MTY2NjU1MTA4OCwwMDAwMDAwMDlmNTQ5NWM5YjkwMjM5OTBkNWMzYWRiMWQyYzUyZDBi`
+Snapshot ID: `MTY2NjU1MTA4OCwwMDAwMDAwMGMyOGI3YWRkMTAxODJmYzZhZjlkOGI5N2JhNDhlNWZj`

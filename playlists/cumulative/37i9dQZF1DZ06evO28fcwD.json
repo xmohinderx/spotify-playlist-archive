@@ -793,6 +793,24 @@
     {
       "album": {
         "name": "Long Walk to Freedom",
+        "url": "https://open.spotify.com/album/6T9zNBJ4r77u399FSCJ35L"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292386,
+      "name": "Inkanyezi Nezazi (The Star and the Wiseman)",
+      "url": "https://open.spotify.com/track/60WKvKyKO0hZ73nq7lUJNX"
+    },
+    {
+      "album": {
+        "name": "Long Walk to Freedom",
         "url": "https://open.spotify.com/album/2u9Mxw79FAjQ5MXCNRLY4f"
       },
       "artists": [
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 249133,
       "name": "Ngingenwe Emoyeni",
       "url": "https://open.spotify.com/track/1x7kjDyShNDBGvR1U2siok"
@@ -1327,10 +1345,28 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 210613,
       "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
       "url": "https://open.spotify.com/track/0iB3VQaspXWa6ckESoxORk"
+    },
+    {
+      "album": {
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210613,
+      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
+      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
     },
     {
       "album": {

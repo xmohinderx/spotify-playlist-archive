@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: Seven Lions
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,934,420 likes - 99 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,934,498 likes - 99 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

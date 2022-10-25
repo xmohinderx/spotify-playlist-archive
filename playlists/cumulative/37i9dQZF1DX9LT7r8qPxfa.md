@@ -4,7 +4,7 @@
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
-180 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/4pk0w13rV4dmJ8ZImqcVXV)
+181 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/4pk0w13rV4dmJ8ZImqcVXV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Party Anthem](https://open.spotify.com/track/2MdwGmJXbMSL0KJHgYKm6z) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Jesus and Your Living Room Floor](https://open.spotify.com/album/3fn6jfVVNtogBRyYf38Oe9) | 3:21 | 2021-11-12 | 2022-07-29 |
 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 | 2021-11-12 |  |
 | [Paula Collins](https://open.spotify.com/track/3haHJcTZKjxgnMT9XfCU3D) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r) | 3:15 | 2021-11-12 | 2022-07-29 |
-| [Paula Collins](https://open.spotify.com/track/6u6xrnKXzVVlInlfiHFZsP) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:15 | 2021-11-12 |  |
+| [Paula Collins](https://open.spotify.com/track/6u6xrnKXzVVlInlfiHFZsP) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:15 | 2021-11-12 | 2022-10-25 |
 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 | 2021-11-18 |  |
 | [Pictures of Flowers](https://open.spotify.com/track/2YJyShuoMWP3YjcjvLzNCl) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9), [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Pictures of Flowers](https://open.spotify.com/album/7FHjrtERXl5ia51dPmcxBq) | 4:20 | 2021-11-12 |  |
 | [Pictures of Flowers](https://open.spotify.com/track/5d8GwNDbnQu60hgSImNR5B) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9), [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Pictures of Flowers](https://open.spotify.com/album/6jHE9E6D7YJEonXtoZVsRN) | 4:20 | 2021-11-12 | 2022-07-29 |
@@ -130,6 +130,7 @@
 | [Same Mistakes](https://open.spotify.com/track/7l6ootXc12jVyxTybFGKt8) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Same Mistakes](https://open.spotify.com/album/2ktEfBjbTo93qoxwTXgluD) | 2:47 | 2021-11-12 | 2022-07-29 |
 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1BJicMsGWyW8xTQb22N8Ye) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bullseye](https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1) | 3:24 | 2021-11-12 |  |
 | [Silk](https://open.spotify.com/track/3vscDGTguHZgyZeVR67cJr) | [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Silk](https://open.spotify.com/album/281vLb9Y3WNKXljq2EbpQf) | 3:12 | 2021-11-12 | 2022-10-20 |
+| [Silk](https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m) | [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Silk](https://open.spotify.com/album/4nTHHjECNVC9gLWKNUK9wB) | 3:12 | 2022-09-16 |  |
 | [Silk](https://open.spotify.com/track/418fYKL9zrcfvpI6WnIARi) | [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Silk](https://open.spotify.com/album/1hbmfRBpCmHpLkZUXa25oo) | 3:12 | 2021-11-12 | 2022-07-21 |
 | [Slow Mover](https://open.spotify.com/track/2lTU0gr2BfZaXGi6qxojv0) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [A Couple Of Songs](https://open.spotify.com/album/7w2e21odbTcqObKgtfUiP4) | 3:10 | 2021-11-12 | 2022-07-29 |
 | [Smoke Signals](https://open.spotify.com/track/5g97GAdru7XfeJyJhViIll) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 5:24 | 2021-11-12 | 2022-07-29 |

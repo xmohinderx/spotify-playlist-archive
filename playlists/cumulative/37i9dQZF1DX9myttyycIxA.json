@@ -2920,6 +2920,24 @@
     },
     {
       "album": {
+        "name": "Crab Park",
+        "url": "https://open.spotify.com/album/7Cx7EeeY8TaRKbmcXNY4rc"
+      },
+      "artists": [
+        {
+          "name": "Atta Boy",
+          "url": "https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209439,
+      "name": "Deep Sea Ladder",
+      "url": "https://open.spotify.com/track/0AKss1DzepeFmwOSEvK5sb"
+    },
+    {
+      "album": {
         "name": "Deep Sea Ladder",
         "url": "https://open.spotify.com/album/43oCH1Z5gOYXSzhy40dMrA"
       },
@@ -2931,7 +2949,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 209439,
       "name": "Deep Sea Ladder",
       "url": "https://open.spotify.com/track/1kgX28e49B0GC6U9HdwCoh"
@@ -12090,6 +12108,24 @@
     },
     {
       "album": {
+        "name": "Night Terrors",
+        "url": "https://open.spotify.com/album/5UvoKdunC7lYfT8w1ZV7Jj"
+      },
+      "artists": [
+        {
+          "name": "The Fades",
+          "url": "https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210120,
+      "name": "You Follow Me Around",
+      "url": "https://open.spotify.com/track/39O3wOayzkkTy0aqmqtTbp"
+    },
+    {
+      "album": {
         "name": "You Follow Me Around",
         "url": "https://open.spotify.com/album/0rHEklUS6vtFMvCIdblQaI"
       },
@@ -12101,7 +12137,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 210120,
       "name": "You Follow Me Around",
       "url": "https://open.spotify.com/track/3PpvZqgohg0VaNiGDUMWEO"

@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Arctic Monkeys
 
-4,339 songs - 10 day 14 hr 57 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,341 songs - 10 day 15 hr 4 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1239,7 +1239,8 @@
 | [Feel You](https://open.spotify.com/track/7q2XN4LJ80HgdbUac3aRi8) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Waterfall II](https://open.spotify.com/album/2REQNxpDxpwIUU7hxoZEsQ) | 6:13 | 2020-07-10 | 2020-08-30 |
 | [Feelin' Low \(F\*ckboy Blues\)](https://open.spotify.com/track/5BWjhvzvz7jv53mkuIDzJE) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Feelin' Low \(F\*ckboy Blues\)](https://open.spotify.com/album/7gfkQfk7VdbzxR9LV5ts4m) | 2:58 | 2019-11-01 | 2019-12-06 |
 | [Feeling Like I Do \- Spotify Singles](https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Spotify Singles](https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN) | 3:56 | 2022-07-01 | 2022-08-13 |
-| [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 | 2022-10-21 |  |
+| [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 | 2022-10-21 | 2022-10-25 |
+| [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 | 2022-10-21 |  |
 | [Feeling Myself \- Lullaby Version](https://open.spotify.com/track/2wCSCMicQjUV6VeJvDSvQ2) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Feeling Myself \(Lullaby Version\)](https://open.spotify.com/album/2Dm5p6Lgj99nKTCagtLUwA) | 4:12 | 2022-06-24 | 2022-07-23 |
 | [Feelings](https://open.spotify.com/track/4EZdYqckVBQw6Oduj9ra2D) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Feelings](https://open.spotify.com/album/7jaaCkiivIJrVnuQDZfcuE) | 3:10 | 2019-06-21 | 2019-08-13 |
 | [Feelings Meeting](https://open.spotify.com/track/3ZNZlQHZR4SrZf27DVJD0I) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Feelings Meeting](https://open.spotify.com/album/4Wvn9tVWMtVQESSBgfiu6y) | 3:59 | 2022-05-20 | 2022-06-22 |
@@ -1770,7 +1771,8 @@
 | [Hutch](https://open.spotify.com/track/7u4gLmg7Q3hY90by1nyp3q) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Happy To Be Here](https://open.spotify.com/album/74hkehs2cahKJ7jFLOrxYh) | 2:26 | 2019-05-26\* | 2019-06-21 |
 | [Hypochondriac](https://open.spotify.com/track/6st6akzmAJS2vYNRui5ezU) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hypochondriac](https://open.spotify.com/album/1DE8BoNxaCs9Fxo7KG7ZXH) | 3:12 | 2020-03-13 | 2020-04-18 |
 | [Hysterical Us](https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Hysterical Us](https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX) | 3:55 | 2021-10-09 | 2021-11-20 |
-| [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 | 2022-10-21 |  |
+| [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 | 2022-10-21 |  |
+| [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 | 2022-10-21 | 2022-10-25 |
 | [I Am a Very Rude Person](https://open.spotify.com/track/4HZxkwyIGp6eHV9S4AYdve) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5a4VSyY7zsfVVqHweYHG7R) | 3:44 | 2019-06-28 | 2019-08-16 |
 | [I Been Livin](https://open.spotify.com/track/18NFmoOC2rt5gAP15RgDyP) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [I Been Livin](https://open.spotify.com/album/23hFGBp5G3QydjxAhTUAyy) | 3:45 | 2020-07-10 | 2020-07-31 |
 | [I Can Hardly Speak](https://open.spotify.com/track/5eMySoI30MSqHDv74PlZ63) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Can Hardly Speak](https://open.spotify.com/album/3HSnfEUIR7zor3xrYQ1TcL) | 3:59 | 2020-01-10 | 2020-02-14 |

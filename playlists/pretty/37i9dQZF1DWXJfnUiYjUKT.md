@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,334 likes - 97 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,479 likes - 97 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 28 | [Hell Yeah](https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Hell Yeah](https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow) | 2:48 |
 | 29 | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1) | 3:25 |
 | 30 | [Let Me Know When \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4JiUyzZAHRSA3bJvl4kho7) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 2:54 |
-| 31 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 |
+| 31 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/5ykuFZXYbA8frwBmutsoFx) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:18 |
 | 32 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 |
 | 33 | [Our Forever](https://open.spotify.com/track/3fq5h4eWQNP3fBqXZRyC5F) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/5CbbfVTtYGmnVn6rLrgklf) | 3:19 |
 | 34 | [Try Jesus](https://open.spotify.com/track/0rSuM2IqezwEBOOadZkX1D) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Try Jesus](https://open.spotify.com/album/6edvYYzME5Brx8QGh8vkPQ) | 3:06 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 40 | [frog](https://open.spotify.com/track/0nSw4I1cTMMBZBIk9ChgBn) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [frog](https://open.spotify.com/album/4kejzAQudxr4R5CNfvbwmz) | 3:26 |
 | 41 | [PULSE](https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [PULSE](https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk) | 3:09 |
 | 42 | [hurt me enough](https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs) | [Nathan Archie](https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6) | [hurt me enough](https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0) | 3:06 |
-| 43 | [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 |
+| 43 | [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 |
 | 44 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 |
 | 45 | [Fenty](https://open.spotify.com/track/2jhrlYw2rUsrCtBuIa9Zc5) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fenty](https://open.spotify.com/album/7EsSmzg4lNubNUIzEjsV4v) | 2:58 |
 | 46 | [•I WON'T DIE•](https://open.spotify.com/track/2SOVWeeZlyhPLy9F33QN3Z) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•I WON'T DIE•](https://open.spotify.com/album/3Oe9hZ049Pdpk7opuhYKb8) | 2:03 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 96 | [Go](https://open.spotify.com/track/7ht3l8ueUXW2SmD4o2lOV1) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Go b/w Fight Club](https://open.spotify.com/album/2ZK0zIydKOHRev4XInpo8r) | 3:26 |
 | 97 | [My Body \(feat\. B.O.G\. Vonnie\)](https://open.spotify.com/track/2eJXmksBzY3XlLj1obQJs0) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [B.O.G\. Vonnie](https://open.spotify.com/artist/5ZDrZTQOHAwkOmg0IvQO9U) | [UNLV](https://open.spotify.com/album/2599H2Ny0MB33Zvd1n7WNU) | 2:54 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDQ5ZjI2MjhkNjkwNTIzMDlkN2Y0ZTBjY2JmMDRiZGE2`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDk1ZDVhMjM0NjRkZDU1YWZkZGVjZjJhYzRlNjgxM2Rk`

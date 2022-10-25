@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,811 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,836 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 50 | [Gracias Mamá](https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Gracias Mamá](https://open.spotify.com/album/5vgPnl9LeTdTTRtjY0bB7W) | 3:09 |
 | 51 | [Como los Vaqueros](https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:28 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDBjMDJhNDNjOTY4NDMyMTQwMDMyYzFmZjEyMjc3NmM5Zg==`
+Snapshot ID: `Mjc3NzczOTEsMDAwMDAwMDA0MWM4YmJhMjFlZDY3NzQ2MzFhYzYyOTE3MWVjMDBjYQ==`

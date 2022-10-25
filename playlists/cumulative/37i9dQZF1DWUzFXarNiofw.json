@@ -3099,10 +3099,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 214760,
       "name": "Feeling Myself",
       "url": "https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg"
+    },
+    {
+      "album": {
+        "name": "COMETA",
+        "url": "https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "Feeling Myself",
+      "url": "https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx"
     },
     {
       "album": {
@@ -5665,10 +5683,32 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 198573,
       "name": "Liquor (with Ari Lennox)",
       "url": "https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh"
+    },
+    {
+      "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198573,
+      "name": "Liquor (with Ari Lennox)",
+      "url": "https://open.spotify.com/track/5ykuFZXYbA8frwBmutsoFx"
     },
     {
       "album": {
@@ -7100,6 +7140,24 @@
     },
     {
       "album": {
+        "name": "When Everything Is Better, I'll Let You Know",
+        "url": "https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167813,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/0dOuhQQVPnCBkvmCr5PeVH"
+    },
+    {
+      "album": {
         "name": "Only Love",
         "url": "https://open.spotify.com/album/0E0ZVILGRfM9yU2aJwnk6E"
       },
@@ -7129,7 +7187,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 167813,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/76KzsJ4emV8BsE4CgwFxeo"

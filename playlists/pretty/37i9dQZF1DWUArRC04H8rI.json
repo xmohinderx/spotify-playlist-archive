@@ -1,12 +1,12 @@
 {
   "description": "It's a hot girl summer. \ud83e\udd75",
-  "num_followers": 87065,
+  "num_followers": 87290,
   "original_name": "hot latina summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg5MzcyMSwwMDAwMDAwMDdjZjA4MTI3ODE2ODQ5N2RjNGJkMzM3YTk4ODhlZDZi",
+  "snapshot_id": "MTY2MTg5MzcyMSwwMDAwMDAwMDI2ZDNlOTBiZDFhYWJiNWI0MTk1ZWFiM2M3ODAyYzM3",
   "tracks": [
     {
       "added_at": "2022-08-30 21:08:41",
@@ -151,22 +151,6 @@
     {
       "added_at": "2022-08-30 21:08:41",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2022-08-30 21:08:41",
-      "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 210200,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "added_at": "2022-08-30 21:08:41",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "added_at": "2022-08-30 21:08:41",
@@ -311,26 +311,6 @@
     {
       "added_at": "2022-08-30 21:08:41",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 227628,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
-    },
-    {
-      "added_at": "2022-08-30 21:08:41",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -375,22 +355,38 @@
     {
       "added_at": "2022-08-30 21:08:41",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 209160,
-      "name": "EL MAKINON",
-      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
+      "duration_ms": 210933,
+      "name": "Lo Que Pas\u00f3, Pas\u00f3",
+      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
+    },
+    {
+      "added_at": "2022-08-30 21:08:41",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 227628,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
       "added_at": "2022-08-30 21:08:41",
@@ -415,34 +411,22 @@
     {
       "added_at": "2022-08-30 21:08:41",
       "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Lo Que Pas\u00f3, Pas\u00f3",
-      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
-    },
-    {
-      "added_at": "2022-08-30 21:08:41",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Despu\u00e9s de la Playa",
-      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+      "duration_ms": 209160,
+      "name": "EL MAKINON",
+      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
     },
     {
       "added_at": "2022-08-30 21:08:41",
@@ -539,6 +523,26 @@
     {
       "added_at": "2022-08-30 21:08:41",
       "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2022-08-30 21:08:41",
+      "album": {
         "name": "King Of Kings",
         "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
       },
@@ -571,28 +575,8 @@
     {
       "added_at": "2022-08-30 21:08:41",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2022-08-30 21:08:41",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 170971,
-      "name": "Si Veo a Tu Mam\u00e1",
-      "url": "https://open.spotify.com/track/41wtwzCZkXwpnakmwJ239F"
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
     },
     {
       "added_at": "2022-08-30 21:08:41",
@@ -675,6 +659,22 @@
     {
       "added_at": "2022-08-30 21:08:41",
       "album": {
+        "name": "El Cartel: The Big Boss",
+        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Ella Me Levanto",
+      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
+    },
+    {
+      "added_at": "2022-08-30 21:08:41",
+      "album": {
         "name": "Haw\u00e1i",
         "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
       },
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-08-30 21:08:41",
       "album": {
-        "name": "El Cartel: The Big Boss",
-        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 209493,
-      "name": "Ella Me Levanto",
-      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
       "added_at": "2022-08-30 21:08:41",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-08-30 21:08:41",
       "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
-    },
-    {
-      "added_at": "2022-08-30 21:08:41",
-      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 266086,
       "name": "Soltera - Remix",
       "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
+    },
+    {
+      "added_at": "2022-08-30 21:08:41",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 170971,
+      "name": "Si Veo a Tu Mam\u00e1",
+      "url": "https://open.spotify.com/track/41wtwzCZkXwpnakmwJ239F"
     },
     {
       "added_at": "2022-08-30 21:08:41",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-08-30 21:08:41",
       "album": {
-        "name": "911 (Remix)",
-        "url": "https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        }
-      ],
-      "duration_ms": 208631,
-      "name": "911 - Remix",
-      "url": "https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A"
-    },
-    {
-      "added_at": "2022-08-30 21:08:41",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 203186,
       "name": "Mayores",
       "url": "https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy"
+    },
+    {
+      "added_at": "2022-08-30 21:08:41",
+      "album": {
+        "name": "911 (Remix)",
+        "url": "https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "duration_ms": 208631,
+      "name": "911 - Remix",
+      "url": "https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A"
     },
     {
       "added_at": "2022-08-30 21:08:41",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-08-30 21:08:41",
       "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 216510,
-      "name": "Sal y Perrea",
-      "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
-    },
-    {
-      "added_at": "2022-08-30 21:08:41",
-      "album": {
         "name": "Sensual Beb\u00e9",
         "url": "https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 209146,
       "name": "Sensual Beb\u00e9",
       "url": "https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt"
+    },
+    {
+      "added_at": "2022-08-30 21:08:41",
+      "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 216510,
+      "name": "Sal y Perrea",
+      "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
     },
     {
       "added_at": "2022-08-30 21:08:41",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-08-30 21:08:41",
       "album": {
+        "name": "Wisin Vs Yandel \"Los Extraterrestres\"",
+        "url": "https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "Ahora Es",
+      "url": "https://open.spotify.com/track/15wPtgg6jsyMLhIkjcSpl4"
+    },
+    {
+      "added_at": "2022-08-30 21:08:41",
+      "album": {
         "name": "FULANITO",
         "url": "https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 158531,
       "name": "FULANITO",
       "url": "https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg"
-    },
-    {
-      "added_at": "2022-08-30 21:08:41",
-      "album": {
-        "name": "Wisin Vs Yandel \"Los Extraterrestres\"",
-        "url": "https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "Ahora Es",
-      "url": "https://open.spotify.com/track/15wPtgg6jsyMLhIkjcSpl4"
     },
     {
       "added_at": "2022-08-30 21:08:41",
@@ -1075,42 +1075,6 @@
     {
       "added_at": "2022-08-30 21:08:41",
       "album": {
-        "name": "VACAXIONES",
-        "url": "https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "VACAXIONES",
-      "url": "https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4"
-    },
-    {
-      "added_at": "2022-08-30 21:08:41",
-      "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Sin Pijama",
-      "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
-    },
-    {
-      "added_at": "2022-08-30 21:08:41",
-      "album": {
         "name": "NATTIVIDAD",
         "url": "https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM"
       },
@@ -1131,6 +1095,22 @@
     {
       "added_at": "2022-08-30 21:08:41",
       "album": {
+        "name": "VACAXIONES",
+        "url": "https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "VACAXIONES",
+      "url": "https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4"
+    },
+    {
+      "added_at": "2022-08-30 21:08:41",
+      "album": {
         "name": "Sistema De Patio",
         "url": "https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 134222,
       "name": "Sistema De Patio",
       "url": "https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5"
+    },
+    {
+      "added_at": "2022-08-30 21:08:41",
+      "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "Sin Pijama",
+      "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
     },
     {
       "added_at": "2022-08-30 21:08:41",

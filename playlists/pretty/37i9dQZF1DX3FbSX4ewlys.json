@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDU0ODQzNCwwMDAwMDAwMDQ0MzRkZWRkZWE0MmU4MGU0YWYyNzI1Nzk0OWQ2YmMy",
+  "snapshot_id": "MTY0MDU0ODQzNCwwMDAwMDAwMDQzNzcxN2FhM2RjOGQ4NjlkYzBlODZlZDdjNzNiN2Ex",
   "tracks": [
     {
       "added_at": "2021-12-26 17:51:11",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "No Angel",
-        "url": "https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4"
-      },
-      "artists": [
-        {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 211213,
       "name": "All That She Wants",
       "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "No Angel",
+        "url": "https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4"
+      },
+      "artists": [
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Crazysexycool",
         "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 279506,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Genie In a Bottle",
-      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
       "artists": [
         {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 265626,
-      "name": "La Cosa Mas Bella",
-      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
+      "duration_ms": 217573,
+      "name": "Genie In a Bottle",
+      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -539,6 +523,22 @@
       "duration_ms": 191240,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "La Cosa Mas Bella",
+      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
-      },
-      "artists": [
-        {
-          "name": "Onda Vaselina",
-          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Te Quiero Tanto, Tanto",
-      "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 254933,
       "name": "Black or White",
       "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
+      },
+      "artists": [
+        {
+          "name": "Onda Vaselina",
+          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Te Quiero Tanto, Tanto",
+      "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Sin Miedo",
-        "url": "https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf"
-      },
-      "artists": [
-        {
-          "name": "Calo",
-          "url": "https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "Formas De Amor",
-      "url": "https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -751,18 +735,34 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "De Piel Negra",
-        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
+        "name": "This Is The End: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
       },
       "artists": [
         {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 206440,
-      "name": "Eternamente Bella",
-      "url": "https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy"
+      "duration_ms": 224960,
+      "name": "Everybody (Backstreet's Back) - Radio Edit",
+      "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "Sin Miedo",
+        "url": "https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf"
+      },
+      "artists": [
+        {
+          "name": "Calo",
+          "url": "https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "Formas De Amor",
+      "url": "https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -779,6 +779,22 @@
       "duration_ms": 332040,
       "name": "Experiencia Religiosa",
       "url": "https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "De Piel Negra",
+        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Eternamente Bella",
+      "url": "https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -815,18 +831,18 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "This Is The End: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
+        "name": "\u00d6l\u00fcr\u00fcm Sana",
+        "url": "https://open.spotify.com/album/6ebdbUXZn5AURKeRNXqiay"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "Tarkan",
+          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
         }
       ],
-      "duration_ms": 224960,
-      "name": "Everybody (Backstreet's Back) - Radio Edit",
-      "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
+      "duration_ms": 235218,
+      "name": "\u015e\u0131mar\u0131k",
+      "url": "https://open.spotify.com/track/6vEL7E8TGzrxuxbrgdlkLL"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -843,22 +859,6 @@
       "duration_ms": 235973,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
-        "name": "\u00d6l\u00fcr\u00fcm Sana",
-        "url": "https://open.spotify.com/album/6ebdbUXZn5AURKeRNXqiay"
-      },
-      "artists": [
-        {
-          "name": "Tarkan",
-          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
-        }
-      ],
-      "duration_ms": 235218,
-      "name": "\u015e\u0131mar\u0131k",
-      "url": "https://open.spotify.com/track/6vEL7E8TGzrxuxbrgdlkLL"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Tarpeia",
-        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
-      },
-      "artists": [
-        {
-          "name": "Paradisio",
-          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Enrique Iglesias",
         "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 244026,
       "name": "Por Amarte",
       "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "Tarpeia",
+        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
+      },
+      "artists": [
+        {
+          "name": "Paradisio",
+          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "duration_ms": 224283,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/3uyJrbOnK7fMunoFjRfsew"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
         "name": "Caribe",
         "url": "https://open.spotify.com/album/3kpnPvG6TOLfpV0TvD0FUd"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 265533,
       "name": "Steal My Sunshine",
       "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
-        "name": "The Party Album!",
-        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
-      },
-      "artists": [
-        {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
-        }
-      ],
-      "duration_ms": 224283,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/3uyJrbOnK7fMunoFjRfsew"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Transparente",
-        "url": "https://open.spotify.com/album/2vLW5vIVvlXL8oPVWgS5Aj"
-      },
-      "artists": [
-        {
-          "name": "Litzy",
-          "url": "https://open.spotify.com/artist/3u4GbCOWNszEqm4Vzv7liB"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "No Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/1tGlvcURGYW4olaROV1w6N"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Tiempo De Vals",
         "url": "https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 258626,
       "name": "Completamente Enamorados",
       "url": "https://open.spotify.com/track/3pz19CAY4yX7FSnTWDu3La"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "Transparente",
+        "url": "https://open.spotify.com/album/2vLW5vIVvlXL8oPVWgS5Aj"
+      },
+      "artists": [
+        {
+          "name": "Litzy",
+          "url": "https://open.spotify.com/artist/3u4GbCOWNszEqm4Vzv7liB"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "No Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/1tGlvcURGYW4olaROV1w6N"
     },
     {
       "added_at": "2021-12-26 17:51:11",

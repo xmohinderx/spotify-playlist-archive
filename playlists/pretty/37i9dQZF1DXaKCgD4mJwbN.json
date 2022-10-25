@@ -1,12 +1,12 @@
 {
   "description": "Puras rolitas pa' destapar un bote y empinar el codo.",
-  "num_followers": 635783,
+  "num_followers": 636194,
   "original_name": "Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NDgwNiwwMDAwMDAwMDg2YTgyNjA2N2NhZDg3YjIzOWExZGE4NmRhZDlhZDYy",
+  "snapshot_id": "MTY2MTk3NDgwNiwwMDAwMDAwMDczNDE3OWU4YzU1MzcyMzc3M2Y3YjhmYjM1OWU2Y2Q1",
   "tracks": [
     {
       "added_at": "2022-08-31 19:40:06",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
+        "name": "Si Fuera F\u00e1cil",
+        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 170496,
+      "name": "Si Fuera F\u00e1cil",
+      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
         "name": "Ya No Somos Ni Seremos",
         "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 223431,
       "name": "En El Radio Un Cochinero",
       "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
-        "name": "Si Fuera F\u00e1cil",
-        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170496,
-      "name": "Si Fuera F\u00e1cil",
-      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 151773,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/1kJXYVVUu7o3B9gaJpoxjm"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -359,18 +343,18 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
-        "name": "Andamos Mejor",
-        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
       },
       "artists": [
         {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 137183,
-      "name": "Andamos Mejor",
-      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -391,6 +375,22 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
+        "name": "Andamos Mejor",
+        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 137183,
+      "name": "Andamos Mejor",
+      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
       },
@@ -407,26 +407,6 @@
       "duration_ms": 241106,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
-        "name": "Se Fue La Pantera (En Vivo)",
-        "url": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 202021,
-      "name": "Se Fue La Pantera (En Vivo)",
-      "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -459,6 +439,26 @@
       "duration_ms": 174863,
       "name": "Me Met\u00ed En El Ruedo",
       "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
+        "name": "Se Fue La Pantera (En Vivo)",
+        "url": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 202021,
+      "name": "Se Fue La Pantera (En Vivo)",
+      "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -535,6 +535,26 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
+        "name": "Ojos Cerrados",
+        "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Ojos Cerrados",
+      "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
         "name": "En Vivo desde El Foro Lizos Music",
         "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 230000,
       "name": "Se Acabo - En Vivo",
       "url": "https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
-        "name": "Ojos Cerrados",
-        "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Ojos Cerrados",
-      "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -847,42 +847,6 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 163223,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
-        "name": "Y Si Se Quiere Ir",
-        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Y Si Se Quiere Ir",
-      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -935,6 +899,22 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
+        "name": "Y Si Se Quiere Ir",
+        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Y Si Se Quiere Ir",
+      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
         "name": "Por Las Damas",
         "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
       },
@@ -951,6 +931,26 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 163223,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
         "name": "El Trabajo Es La Suerte",
         "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
@@ -963,38 +963,6 @@
       "duration_ms": 217600,
       "name": "La Casita",
       "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
-        "name": "Chingas A Tu Madre",
-        "url": "https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 205125,
-      "name": "Chingas A Tu Madre",
-      "url": "https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 155802,
-      "name": "Me La Avente",
-      "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -1019,18 +987,18 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
-        "name": "Ni Lo Intentes",
-        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
+        "name": "Chingas A Tu Madre",
+        "url": "https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 237640,
-      "name": "Terrenal",
-      "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
+      "duration_ms": 205125,
+      "name": "Chingas A Tu Madre",
+      "url": "https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -1051,6 +1019,22 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 155802,
+      "name": "Me La Avente",
+      "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
         "name": "De Lo Bueno, Lo Mejor",
         "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
-        "name": "H\u00edbrido",
-        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
+        "name": "Ni Lo Intentes",
+        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 174293,
-      "name": "H\u00edbrido",
-      "url": "https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU"
+      "duration_ms": 237640,
+      "name": "Terrenal",
+      "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
+        "name": "H\u00edbrido",
+        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "H\u00edbrido",
+      "url": "https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
         "name": "Desde la Ra\u00edz",
         "url": "https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 201205,
       "name": "Fumando Mota",
       "url": "https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
-        "name": "El Ahijado Consentido",
-        "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
-      },
-      "artists": [
-        {
-          "name": "Chay\u00edn Rubio",
-          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -1147,6 +1131,22 @@
       "duration_ms": 139658,
       "name": "Una Raya M\u00e1s al Tigre",
       "url": "https://open.spotify.com/track/3fzC9A2azykZmtSHuXt0kg"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
+        "name": "El Ahijado Consentido",
+        "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
+      },
+      "artists": [
+        {
+          "name": "Chay\u00edn Rubio",
+          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
-        "name": "En Vivo EP, Vol. 1 (En vivo)",
-        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 228545,
-      "name": "Te Apuesto - En vivo",
-      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
         "name": "Que Sea",
         "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 170506,
       "name": "Que Sea",
       "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 228545,
+      "name": "Te Apuesto - En vivo",
+      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
         "name": "Recordando A Una Leyenda",
         "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
       },
@@ -1339,6 +1355,22 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 167514,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
         "name": "Ya Aprend\u00ed la Lecci\u00f3n",
         "url": "https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8"
       },
@@ -1351,22 +1383,6 @@
       "duration_ms": 208541,
       "name": "El Final de Nuestra Historia",
       "url": "https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 167514,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
         "name": "Mi Mayor Anhelo",
         "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
       },
@@ -1431,6 +1431,22 @@
       "duration_ms": 209786,
       "name": "Mi Mayor Anhelo",
       "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
+        "name": "Si Me Duele Que Duela",
+        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 171367,
+      "name": "Si Me Duele Que Duela",
+      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -1491,6 +1507,22 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 220616,
+      "name": "Amor Limosnero",
+      "url": "https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB"
+    },
+    {
+      "added_at": "2022-08-31 19:40:06",
+      "album": {
         "name": "A Trav\u00e9s del Vaso",
         "url": "https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn"
       },
@@ -1503,22 +1535,6 @@
       "duration_ms": 188661,
       "name": "A Trav\u00e9s del Vaso",
       "url": "https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
-        "name": "Si Me Duele Que Duela",
-        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 171367,
-      "name": "Si Me Duele Que Duela",
-      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
     },
     {
       "added_at": "2022-08-31 19:40:06",
@@ -1539,26 +1555,6 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
-        "name": "Hay Que Hacer Dinero",
-        "url": "https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 179130,
-      "name": "Hay Que Hacer Dinero",
-      "url": "https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP"
-    },
-    {
-      "added_at": "2022-08-31 19:40:06",
-      "album": {
         "name": "25 A\u00f1os, Vol. 1",
         "url": "https://open.spotify.com/album/6yftM74Ij8cxnOSRax1hRE"
       },
@@ -1575,18 +1571,22 @@
     {
       "added_at": "2022-08-31 19:40:06",
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+        "name": "Hay Que Hacer Dinero",
+        "url": "https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 220616,
-      "name": "Amor Limosnero",
-      "url": "https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB"
+      "duration_ms": 179130,
+      "name": "Hay Que Hacer Dinero",
+      "url": "https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP"
     },
     {
       "added_at": "2022-08-31 19:40:06",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA5MDAwMCwwMDAwMDAwMGUxYjc2ODk1NGVjMjBhMzgzMzNiODkzMGYxMDE2ZGI3",
+  "snapshot_id": "MTY2NTA5MDAwMCwwMDAwMDAwMDdkYWFiMTE3Zjk2ODgzMDZjMjQyOWY4YjZlYTc1OWY3",
   "tracks": [
     {
       "added_at": "2022-03-31 17:42:20",
@@ -197,22 +197,6 @@
       "url": "https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf"
     },
     {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Magazine",
-        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
-      },
-      "artists": [
-        {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Magazine",
-      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
-    },
-    {
       "added_at": "2022-10-06 21:00:00",
       "album": {
         "name": "King Kong",
@@ -231,6 +215,22 @@
       "duration_ms": 217704,
       "name": "Izulu",
       "url": "https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Magazine",
+        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
+      },
+      "artists": [
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Magazine",
+      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
     },
     {
       "added_at": "2022-07-29 06:06:22",
@@ -273,22 +273,6 @@
       "url": "https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5"
     },
     {
-      "added_at": "2022-08-19 12:56:03",
-      "album": {
-        "name": "Boss Lady",
-        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 178754,
-      "name": "Boss Lady",
-      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
-    },
-    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Very Wellooo",
@@ -311,6 +295,22 @@
       "duration_ms": 218823,
       "name": "Edoboozi Lyo",
       "url": "https://open.spotify.com/track/5iwXQ93LYuwEaSog5UTFiz"
+    },
+    {
+      "added_at": "2022-08-19 12:56:03",
+      "album": {
+        "name": "Boss Lady",
+        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 178754,
+      "name": "Boss Lady",
+      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -463,26 +463,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Karole Kasita",
-          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
-        }
-      ],
-      "duration_ms": 196963,
-      "name": "Gyal A Bubble",
-      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Tick Talk",
         "url": "https://open.spotify.com/album/1QXAYNwiCldVsj5Zb2D3sP"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 220206,
       "name": "Tick Talk",
       "url": "https://open.spotify.com/track/5lSYksFuC3lKlCAYROEQd0"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Karole Kasita",
+          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
+        }
+      ],
+      "duration_ms": 196963,
+      "name": "Gyal A Bubble",
+      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -569,58 +569,6 @@
       "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
     },
     {
-      "added_at": "2022-05-27 05:48:37",
-      "album": {
-        "name": "I Need Your Love",
-        "url": "https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        }
-      ],
-      "duration_ms": 169430,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
-    },
-    {
-      "added_at": "2022-04-07 20:59:00",
-      "album": {
-        "name": "Bwonjagala",
-        "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Fille",
-          "url": "https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx"
-        }
-      ],
-      "duration_ms": 178834,
-      "name": "Bwonjagala",
-      "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Wulira Omuziki",
-        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
-      },
-      "artists": [
-        {
-          "name": "Eezzy",
-          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
-        }
-      ],
-      "duration_ms": 196205,
-      "name": "Wulira Omuziki",
-      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
-    },
-    {
       "added_at": "2022-08-05 09:37:54",
       "album": {
         "name": "Kiziniro",
@@ -649,56 +597,20 @@
       "url": "https://open.spotify.com/track/28SmtKCVqNzejIZyFGDaqd"
     },
     {
-      "added_at": "2022-03-31 17:42:20",
+      "added_at": "2022-05-27 05:48:37",
       "album": {
-        "name": "Kokonya",
-        "url": "https://open.spotify.com/album/6SEPhQLO1WCYyynan8uCTS"
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb"
       },
       "artists": [
         {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        },
-        {
-          "name": "King Saha",
-          "url": "https://open.spotify.com/artist/2q1gW9fMZWElkfCOWbBqE3"
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
         }
       ],
-      "duration_ms": 229433,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/1Xx1ANa143J6W82ocYwq4b"
-    },
-    {
-      "added_at": "2022-05-19 20:59:00",
-      "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
-      },
-      "artists": [
-        {
-          "name": "Ivanka",
-          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
-        }
-      ],
-      "duration_ms": 193959,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
-    },
-    {
-      "added_at": "2022-10-06 21:00:00",
-      "album": {
-        "name": "Nsudiya",
-        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
-      },
-      "artists": [
-        {
-          "name": "Aroma Music",
-          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
-        }
-      ],
-      "duration_ms": 165429,
-      "name": "Nsudiya",
-      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
+      "duration_ms": 169430,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -723,6 +635,94 @@
       "duration_ms": 181890,
       "name": "Nkwatewa",
       "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Wulira Omuziki",
+        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
+      },
+      "artists": [
+        {
+          "name": "Eezzy",
+          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
+        }
+      ],
+      "duration_ms": 196205,
+      "name": "Wulira Omuziki",
+      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
+    },
+    {
+      "added_at": "2022-10-06 21:00:00",
+      "album": {
+        "name": "Nsudiya",
+        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
+      },
+      "artists": [
+        {
+          "name": "Aroma Music",
+          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
+        }
+      ],
+      "duration_ms": 165429,
+      "name": "Nsudiya",
+      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
+    },
+    {
+      "added_at": "2022-05-19 20:59:00",
+      "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
+      },
+      "artists": [
+        {
+          "name": "Ivanka",
+          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
+        }
+      ],
+      "duration_ms": 193959,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
+    },
+    {
+      "added_at": "2022-04-07 20:59:00",
+      "album": {
+        "name": "Bwonjagala",
+        "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Fille",
+          "url": "https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx"
+        }
+      ],
+      "duration_ms": 178834,
+      "name": "Bwonjagala",
+      "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Kokonya",
+        "url": "https://open.spotify.com/album/6SEPhQLO1WCYyynan8uCTS"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        },
+        {
+          "name": "King Saha",
+          "url": "https://open.spotify.com/artist/2q1gW9fMZWElkfCOWbBqE3"
+        }
+      ],
+      "duration_ms": 229433,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/1Xx1ANa143J6W82ocYwq4b"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Cyaa Sidung",
-        "url": "https://open.spotify.com/album/5UBTZbCjSZLOA7LsqyDnYa"
-      },
-      "artists": [
-        {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
-        }
-      ],
-      "duration_ms": 167524,
-      "name": "Cyaa Sidung",
-      "url": "https://open.spotify.com/track/0gWxlOlMh7FuWgczwM9kZG"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Kiriza (Remix)",
         "url": "https://open.spotify.com/album/6JSkoPNtL66yYRhDR8hcsd"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
+        "name": "Cyaa Sidung",
+        "url": "https://open.spotify.com/album/5UBTZbCjSZLOA7LsqyDnYa"
+      },
+      "artists": [
+        {
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+        }
+      ],
+      "duration_ms": 167524,
+      "name": "Cyaa Sidung",
+      "url": "https://open.spotify.com/track/0gWxlOlMh7FuWgczwM9kZG"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
         "name": "My Woman",
         "url": "https://open.spotify.com/album/5is3qhNCcJMaAY60deK5io"
       },
@@ -879,30 +879,6 @@
       "duration_ms": 193541,
       "name": "My Woman",
       "url": "https://open.spotify.com/track/2blpLXK920nbgZZSs3Kjlx"
-    },
-    {
-      "added_at": "2022-05-19 20:59:00",
-      "album": {
-        "name": "Turn Up",
-        "url": "https://open.spotify.com/album/7BQ7Q0AFtmGvMF13XVyOID"
-      },
-      "artists": [
-        {
-          "name": "Nevo Aix",
-          "url": "https://open.spotify.com/artist/1fU6WsBUZXSOfKJT59Qxba"
-        },
-        {
-          "name": "Dj Stubborn Pantar",
-          "url": "https://open.spotify.com/artist/7bJHgcS52Mec0Cj1FhUHMM"
-        },
-        {
-          "name": "All Stars",
-          "url": "https://open.spotify.com/artist/4fRGKm4ipbzmlrEwM8GPVz"
-        }
-      ],
-      "duration_ms": 254171,
-      "name": "Turn Up",
-      "url": "https://open.spotify.com/track/7JQCq8TJUyA7vWmYLkP73Y"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -963,6 +939,30 @@
     {
       "added_at": "2022-05-19 20:59:00",
       "album": {
+        "name": "Turn Up",
+        "url": "https://open.spotify.com/album/7BQ7Q0AFtmGvMF13XVyOID"
+      },
+      "artists": [
+        {
+          "name": "Nevo Aix",
+          "url": "https://open.spotify.com/artist/1fU6WsBUZXSOfKJT59Qxba"
+        },
+        {
+          "name": "Dj Stubborn Pantar",
+          "url": "https://open.spotify.com/artist/7bJHgcS52Mec0Cj1FhUHMM"
+        },
+        {
+          "name": "All Stars",
+          "url": "https://open.spotify.com/artist/4fRGKm4ipbzmlrEwM8GPVz"
+        }
+      ],
+      "duration_ms": 254171,
+      "name": "Turn Up",
+      "url": "https://open.spotify.com/track/7JQCq8TJUyA7vWmYLkP73Y"
+    },
+    {
+      "added_at": "2022-05-19 20:59:00",
+      "album": {
         "name": "Camera (Extended Version)",
         "url": "https://open.spotify.com/album/7jT7agWLlk3tnMGaGCPBzm"
       },
@@ -977,10 +977,10 @@
       "url": "https://open.spotify.com/track/0YrviJ3tE9cwlsiFsO8KNd"
     },
     {
-      "added_at": "2022-05-19 20:59:00",
+      "added_at": "2022-10-06 21:00:00",
       "album": {
-        "name": "Kila Migino",
-        "url": "https://open.spotify.com/album/5enxzC7Dx4xM8Ra3MxjQjs"
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/5uovEJCYYLl53i8Wryc1e9"
       },
       "artists": [
         {
@@ -988,13 +988,13 @@
           "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
         },
         {
-          "name": "Kerry Wise",
-          "url": "https://open.spotify.com/artist/4BiU2p42WKseuN6rG6Jtpi"
+          "name": "Sama Sojah",
+          "url": "https://open.spotify.com/artist/6Cu8b2RnzlfjEWxuKrg9Bk"
         }
       ],
-      "duration_ms": 161400,
-      "name": "Kila Migino",
-      "url": "https://open.spotify.com/track/6saPIuy5mATwVvQENlp2fL"
+      "duration_ms": 184995,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/0c3TjkmUKWDDi5WHM2qmPy"
     }
   ],
   "unique_name": "Kidandali Parte",

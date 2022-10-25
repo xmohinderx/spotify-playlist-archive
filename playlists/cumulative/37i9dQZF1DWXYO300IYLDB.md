@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-70 songs - 3 hr 55 min - not published yet
+71 songs - 3 hr 57 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 | 2022-10-20 |  |
 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 | 2022-10-20 |  |
 | [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 | 2022-10-20 |  |
-| [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 | 2022-10-20 |  |
+| [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 | 2022-10-20 | 2022-10-25 |
 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 | 2022-10-20 |  |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2022-10-20 |  |
 | [Hold On \(with Gone Gone Beyond\)](https://open.spotify.com/track/1Zt5xYz9Fnsoa5rkbSPJWe) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Gone Gone Beyond](https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5) | [Hold On \(with Gone Gone Beyond\)](https://open.spotify.com/album/0MuMD4B9QNIapJlfNXMaod) | 3:27 | 2022-10-20 |  |
@@ -71,6 +71,7 @@
 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 | 2022-10-20 |  |
 | [The Ones We Once Loved](https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Ones We Once Loved](https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX) | 4:33 | 2022-10-20 |  |
 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 | 2022-10-20 |  |
+| [Tidal Wave \- Acoustic](https://open.spotify.com/track/4I7nXv6iqKh60sWMJdpUbN) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Cover My Own \(Acoustic\)](https://open.spotify.com/album/5mwu7jwvBkTcLuwLvdYAX4) | 2:35 | 2022-10-20 |  |
 | [Tomorrow](https://open.spotify.com/track/3K4tHacJdMC9STBC1wW8Lr) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Tomorrow](https://open.spotify.com/album/6n17hLNrjJdfY6Skg8yJEt) | 1:55 | 2022-10-20 |  |
 | [Turnham Green](https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Turnham Green](https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N) | 3:45 | 2022-10-20 |  |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2022-10-20 |  |

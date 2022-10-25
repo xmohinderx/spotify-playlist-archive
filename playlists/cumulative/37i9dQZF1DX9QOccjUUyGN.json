@@ -1618,6 +1618,28 @@
     },
     {
       "album": {
+        "name": "Era do Ch\u00e1",
+        "url": "https://open.spotify.com/album/2YkOH17DyQszV5dgcQYC5a"
+      },
+      "artists": [
+        {
+          "name": "Shaodree",
+          "url": "https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW"
+        },
+        {
+          "name": "blinky rich",
+          "url": "https://open.spotify.com/artist/7mysftAo9YjmyJc26IORKu"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183495,
+      "name": "Era do Ch\u00e1",
+      "url": "https://open.spotify.com/track/34UOhyyT7FPRr58XEfpjLF"
+    },
+    {
+      "album": {
         "name": "Errei Demais",
         "url": "https://open.spotify.com/album/18apRtFlW5Si19p9uRAAy4"
       },
@@ -2194,6 +2216,28 @@
     },
     {
       "album": {
+        "name": "Linda Vem C\u00e1",
+        "url": "https://open.spotify.com/album/2pjreAtN2II8k8uAQjSQXD"
+      },
+      "artists": [
+        {
+          "name": "DOM7NICO",
+          "url": "https://open.spotify.com/artist/620szMALjTzToFTwfdGlFc"
+        },
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Linda Vem C\u00e1",
+      "url": "https://open.spotify.com/track/1yoflyDAlHZ63e1l9AHn2V"
+    },
+    {
+      "album": {
         "name": "Lisboa Freestyle",
         "url": "https://open.spotify.com/album/1muQPhUqqtNpOJezsZkUJj"
       },
@@ -2677,7 +2721,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 146341,
       "name": "Minha Vida \u00e9 um Show",
       "url": "https://open.spotify.com/track/0uhgooJ05NDaoFmcPnHXoH"
@@ -4075,7 +4119,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 149723,
       "name": "Sauce",
       "url": "https://open.spotify.com/track/6RTFXyKwG1ZxUIyIoHHRyZ"

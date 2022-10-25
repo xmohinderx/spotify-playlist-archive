@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 
 > Uplifting anthems to power you through 'til the weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,135 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,128 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 9 | [Mr\. Blue Sky](https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Out of the Blue](https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU) | 5:03 |
 | 10 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
 | 11 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
-| 12 | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43) | 4:21 |
-| 13 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
+| 12 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 |
+| 13 | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later \(feat\. Lil Durk\)](https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43) | 4:21 |
 | 14 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 15 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 16 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 54 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
 | 55 | [New Shoes](https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:23 |
 | 56 | [Domino](https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r) | 3:51 |
-| 57 | [You Gotta Be](https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [I Ain't Movin'](https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU) | 4:05 |
-| 58 | [Everywhere](https://open.spotify.com/track/1prZ0pr6XoRCxcrC3MCL0M) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:42 |
+| 57 | [Everywhere](https://open.spotify.com/track/1prZ0pr6XoRCxcrC3MCL0M) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:42 |
+| 58 | [You Gotta Be](https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [I Ain't Movin'](https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU) | 4:05 |
 | 59 | [I Will Never Let You Down](https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [I Will Never Let You Down](https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD) | 3:23 |
 | 60 | [Let's Hear It for the Boy \- From "Footloose" Original Soundtrack](https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Let's Hear It for the Boy \(Expanded Edition\)](https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u) | 4:22 |
 | 61 | [Little L](https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A funk odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 4:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 99 | [Bright Idea](https://open.spotify.com/track/1zy1Rc0OFMaLOXjQkp14Ae) | [Orson](https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ) | [Bright Idea](https://open.spotify.com/album/1hkpfGagWyjViaKQlkwrnG) | 4:14 |
 | 100 | [Sunchyme](https://open.spotify.com/track/5tQQCJaNdtafROf7M6hXax) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Dance Party](https://open.spotify.com/album/5uHL9eW2VsoCIdnxNJJkcK) | 3:55 |
 
-Snapshot ID: `MTU5ODU0NDYyNSwwMDAwMDAwMDcxNTc0MmYxMjFmZjFlNDFiOGNmMDYzYTNhMzI2YjBm`
+Snapshot ID: `MTU5ODU0NDYyNSwwMDAwMDAwMGJiNWUzNzUwYWVkYThiZGY3YmM3MjI1ZDMwNjY0ZTA4`

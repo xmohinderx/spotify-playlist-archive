@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193 likes - 82 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 194 likes - 82 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 | 23 | [Mr\. Golden Sun](https://open.spotify.com/track/383D4yT1kW9tp5ibqVSMAH) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Baby Shark & More Kids Songs](https://open.spotify.com/album/2IDfqmrAmsyDA5DnGnQ0Ci) | 2:13 |
 | 24 | [Let's Take a Rocketship to Space](https://open.spotify.com/track/1DAuRdoUEt3wEnhMfkEsiR) | [Danny and the Jaytones](https://open.spotify.com/artist/5lyPgnomDawdy0mnwph5QN) | [Phineas and Ferb](https://open.spotify.com/album/1mwUxOieg2GvQn4wm5bJR1) | 1:05 |
 | 25 | [The Planet Song](https://open.spotify.com/track/5FAI5aAGj7WFKMAdlx904u) | [Hopscotch Songs](https://open.spotify.com/artist/5nJFIxTnnNBh2ZIP3dsk6x), [The Hoover Jam](https://open.spotify.com/artist/2l56XVHFv19M7Z39FO7IjU) | [The Planet Song](https://open.spotify.com/album/3fAbHn7PW6FKA0lzZLpRg0) | 3:51 |
-| 26 | [Spaceman Jam](https://open.spotify.com/track/3P9BePToPpxuz2CbdtmANg) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Licensed to Move](https://open.spotify.com/album/6sLaVAxbWz6DhyemezQY1I) | 2:11 |
+| 26 | [Spaceman Jam](https://open.spotify.com/track/1eNowQzDDCNzlInoAb8ybq) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Licensed to Move](https://open.spotify.com/album/2TFrz8eacV3RaLmzi7yB8v) | 2:11 |
 | 27 | [The Moon Is Made of Cheese](https://open.spotify.com/track/1NmtAaTl4MU6KNE4nGNNBz) | [Danny Weinkauf](https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u) | [No School Today](https://open.spotify.com/album/6JIv077W4rN7TubzD3PZyw) | 1:44 |
 | 28 | [The Spaceship](https://open.spotify.com/track/4zIdtNbLVru14yBgz1XhKl) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [WALL\-E \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LhcAFdMWcB49mHSxYrqJT) | 1:41 |
 | 29 | [Gato Astronauta](https://open.spotify.com/track/7yLzLM3vn2XRpAgaB7X5lq) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Kidz S.T.E.M\. Songz](https://open.spotify.com/album/3nHt4nMlPuCzLFzrhq1Akg) | 2:02 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 | 81 | [Mikey the Marsian](https://open.spotify.com/track/4EyzNFEd8U2fKUyEYOB45N) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 1:28 |
 | 82 | [I Want to Be an Astronanut](https://open.spotify.com/track/3hCzvS4eN5VyZUtzwQEYjR) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 1:42 |
 
-Snapshot ID: `MTYzODgwNjA2OCwwMDAwMDAwMDEyOTkwMzU2NWY0ZmIwZTRhNTcwZGZiYThhOGVlNDVl`
+Snapshot ID: `MTYzODgwNjA2OCwwMDAwMDAwMDJmOWMzYTczMGRjNDhlOWIxNmRlNWYxYjViNzg1MjUw`

@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Koe Wetzel",
-  "num_followers": 476821,
+  "num_followers": 476950,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGU1OTUwZDM2M2IxOGVhZjMxYzY4N2Y1MTU5NDM5ZDg4",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGM2NWJlNmQ0MDYxZDY3Njc0ZThmNmE1NGEyM2QzMTRm",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
+        "name": "SOLD OUT",
+        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 188254,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
+      "duration_ms": 202912,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -167,6 +167,38 @@
       "duration_ms": 217993,
       "name": "Are We On Fire",
       "url": "https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 188254,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Poor Everybody Else",
+      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -199,50 +231,30 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+        "name": "Town Line",
+        "url": "https://open.spotify.com/album/080zNTXnyXccahBk0Vv6wG"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Poor Everybody Else",
-      "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "SOLD OUT",
-        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
-      },
-      "artists": [
+          "name": "Aaron Lewis",
+          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
+        },
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 202912,
-      "name": "SOLD OUT",
-      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Up To No Good",
-        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
-      },
-      "artists": [
+          "name": "Charlie Daniels",
+          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
+        },
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        },
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 133629,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
+      "duration_ms": 283346,
+      "name": "Country Boy (feat. Charlie Daniels, Chris Young, & George Jones)",
+      "url": "https://open.spotify.com/track/5TzoqLAFczwhUMrjNlWITI"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -279,30 +291,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Town Line",
-        "url": "https://open.spotify.com/album/080zNTXnyXccahBk0Vv6wG"
+        "name": "Up To No Good",
+        "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
       },
       "artists": [
         {
-          "name": "Aaron Lewis",
-          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
-        },
-        {
-          "name": "Charlie Daniels",
-          "url": "https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh"
-        },
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        },
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 283346,
-      "name": "Country Boy (feat. Charlie Daniels, Chris Young, & George Jones)",
-      "url": "https://open.spotify.com/track/5TzoqLAFczwhUMrjNlWITI"
+      "duration_ms": 133629,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+        "name": "Ramon Ayala",
+        "url": "https://open.spotify.com/album/3QHU1NiJaARZJbBbYG1BeQ"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
         }
       ],
-      "duration_ms": 222653,
-      "name": "Midnight Train To Memphis",
-      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/7mrLFLPPXee4E0JH2trPJz"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Ramon Ayala",
-        "url": "https://open.spotify.com/album/3QHU1NiJaARZJbBbYG1BeQ"
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
       "artists": [
         {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 168311,
-      "name": "Ramon Ayala",
-      "url": "https://open.spotify.com/track/7mrLFLPPXee4E0JH2trPJz"
+      "duration_ms": 222653,
+      "name": "Midnight Train To Memphis",
+      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Backslider",
-        "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
+        "name": "April Showers",
+        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
       },
       "artists": [
         {
-          "name": "Elvie Shane",
-          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 191765,
-      "name": "County Roads",
-      "url": "https://open.spotify.com/track/6i0VZ0uDSkj669YuEi1oa3"
+      "duration_ms": 182346,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "April Showers",
-        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
+        "name": "Backslider",
+        "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
         }
       ],
-      "duration_ms": 182346,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+      "duration_ms": 191765,
+      "name": "County Roads",
+      "url": "https://open.spotify.com/track/6i0VZ0uDSkj669YuEi1oa3"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 202440,
-      "name": "Whiskey Sunrise",
-      "url": "https://open.spotify.com/track/46oDBddhwu0gfFr2z1fvh5"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Call It Country",
         "url": "https://open.spotify.com/album/2eqtyCMsctct0i1SWDHN2h"
       },
@@ -815,22 +799,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 169853,
-      "name": "Burn It Down - 717 Tapes",
-      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "LOSER",
         "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
       },
@@ -843,6 +811,38 @@
       "duration_ms": 194896,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 202440,
+      "name": "Whiskey Sunrise",
+      "url": "https://open.spotify.com/track/46oDBddhwu0gfFr2z1fvh5"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 169853,
+      "name": "Burn It Down - 717 Tapes",
+      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -983,38 +983,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Brothers Osborne",
-        "url": "https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Shoot From The Hip",
-      "url": "https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "My Ex Came Over",
-        "url": "https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13"
-      },
-      "artists": [
-        {
-          "name": "Trey Lewis",
-          "url": "https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "My Ex Came Over",
-      "url": "https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Stack of Records",
         "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
       },
@@ -1035,6 +1003,38 @@
       "duration_ms": 183403,
       "name": "In Love With My Problems (feat. Jon Pardi)",
       "url": "https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "My Ex Came Over",
+        "url": "https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13"
+      },
+      "artists": [
+        {
+          "name": "Trey Lewis",
+          "url": "https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "My Ex Came Over",
+      "url": "https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Brothers Osborne",
+        "url": "https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Shoot From The Hip",
+      "url": "https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "'21",
+        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "There's Always Next Year",
+      "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
         "url": "https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 195386,
       "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "'21",
-        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 169813,
-      "name": "There's Always Next Year",
-      "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1219,22 +1219,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Ain't My Day",
-        "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t"
       },
       "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        },
         {
           "name": "Kolby Cooper",
           "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 201480,
-      "name": "Ain't My Day",
-      "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
+      "duration_ms": 206646,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1255,6 +1251,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Ain't My Day",
+        "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "Ain't My Day",
+      "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Antioch",
         "url": "https://open.spotify.com/album/0idg67gnx68XH65agkb7Dn"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 245643,
       "name": "Antioch",
       "url": "https://open.spotify.com/track/51WNjmzTaO4kBTM7xBQP9h"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 206646,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Train",
-        "url": "https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ"
-      },
-      "artists": [
-        {
-          "name": "Manny Blu",
-          "url": "https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Train",
-      "url": "https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "These Old Boots",
         "url": "https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 206307,
       "name": "These Old Boots",
       "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Train",
+        "url": "https://open.spotify.com/album/7DTwUXHYldOBfkGqbyGgGZ"
+      },
+      "artists": [
+        {
+          "name": "Manny Blu",
+          "url": "https://open.spotify.com/artist/7aJZYok9DZVunBme9WSJbA"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/1ytcL1DNTMly6tmYUrAdPl"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Still a Few Cowboys Left",
+        "url": "https://open.spotify.com/album/4M2nYHoEGhqwfGKWtUXowD"
+      },
+      "artists": [
+        {
+          "name": "Ben Gallaher",
+          "url": "https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ"
+        }
+      ],
+      "duration_ms": 194186,
+      "name": "Still a Few Cowboys Left",
+      "url": "https://open.spotify.com/track/064qcqSMgEpFffFjsePeaU"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Whiskey Can't",
         "url": "https://open.spotify.com/album/4sERtXmIt0fusA9kmRcrNT"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 254090,
       "name": "Right or Wrong",
       "url": "https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Still a Few Cowboys Left",
-        "url": "https://open.spotify.com/album/4M2nYHoEGhqwfGKWtUXowD"
-      },
-      "artists": [
-        {
-          "name": "Ben Gallaher",
-          "url": "https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ"
-        }
-      ],
-      "duration_ms": 194186,
-      "name": "Still a Few Cowboys Left",
-      "url": "https://open.spotify.com/track/064qcqSMgEpFffFjsePeaU"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Adobe Sessions Unplugged",
-        "url": "https://open.spotify.com/album/68r61PTSnBOHcNhVXT9mH5"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 170861,
-      "name": "What Else Is New",
-      "url": "https://open.spotify.com/track/7uAWex7T9i7ZXghCh4rltO"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Pickin\u2019 Up Girls (feat. The Cadillac Three)",
         "url": "https://open.spotify.com/album/5fdFTuBT5KV1JzXPtweiBx"
       },
@@ -1639,6 +1623,42 @@
       "duration_ms": 201451,
       "name": "Pickin\u2019 Up Girls (feat. The Cadillac Three)",
       "url": "https://open.spotify.com/track/5wuOWOnmXlH5mc3wTRfsx7"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "High Country Sound",
+        "url": "https://open.spotify.com/album/0XsPCNDdepOg4OP3Z1X6Za"
+      },
+      "artists": [
+        {
+          "name": "Canaan Smith",
+          "url": "https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck"
+        },
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 169700,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/4yxdTF0DcdXfD9XA3F8gvX"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Adobe Sessions Unplugged",
+        "url": "https://open.spotify.com/album/68r61PTSnBOHcNhVXT9mH5"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 170861,
+      "name": "What Else Is New",
+      "url": "https://open.spotify.com/track/7uAWex7T9i7ZXghCh4rltO"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1671,22 +1691,6 @@
       "duration_ms": 251437,
       "name": "Hard Time With The Truth",
       "url": "https://open.spotify.com/track/33DgblZnDhuJf9u02q335Z"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Over Me By Now",
-        "url": "https://open.spotify.com/album/35E0ok8zLcSoYhUGQG8EeW"
-      },
-      "artists": [
-        {
-          "name": "Sam Grow",
-          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
-        }
-      ],
-      "duration_ms": 161973,
-      "name": "Over Me By Now",
-      "url": "https://open.spotify.com/track/3ZPkLItrom6ntZ3ZKWMFIr"
     }
   ],
   "unique_name": "Country Rocks",

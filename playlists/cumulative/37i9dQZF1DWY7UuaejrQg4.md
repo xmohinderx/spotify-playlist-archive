@@ -4,7 +4,7 @@
 
 > 2018 highlights from the home of indie music.
 
-116 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/0O1il5VUEFSUMZMrdTiUS0)
+117 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/0O1il5VUEFSUMZMrdTiUS0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Dontmakemefallinlove](https://open.spotify.com/track/4Ooq4tmYpe3nZP1BnCtsWM) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/4gjhrTin1WwrEHd8GslZ7O) | 3:27 | 2022-03-08 |  |
 | [Dontmakemefallinlove](https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy) | 3:27 | 2022-03-08 | 2022-10-14 |
 | [Drown](https://open.spotify.com/track/03ZkvqZOANKndGXfAAPywG) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/6Az1XhIF7MTkO0kr5fRJOd) | 3:54 | 2022-03-08 | 2022-10-14 |
+| [Drown](https://open.spotify.com/track/0r3EjWduZ249mBlXAfcHyL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4) | 3:54 | 2022-03-08 |  |
 | [Drunk In LA](https://open.spotify.com/track/76XDNJIQpP9WGO5XASGBww) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 3:59 | 2022-03-08 | 2022-10-14 |
 | [Feeling Lonely](https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:17 | 2022-03-08 |  |
 | [Fool](https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 3:53 | 2022-03-08 |  |
@@ -58,7 +59,7 @@
 | [Just A Stranger \(feat\. Steve Lacy\)](https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 2:57 | 2022-03-08 |  |
 | [Lemon Boy](https://open.spotify.com/track/3Yvk0ZLxMlt6ioasvdN6vB) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 4:32 | 2022-03-08 |  |
 | [Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:04 | 2022-03-08 |  |
-| [Licking An Orchid](https://open.spotify.com/track/3pihS07XVQEavaS9n7kObt) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS), [James K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Safe In The Hands of Love](https://open.spotify.com/album/1IpYZkYoYCjXTYMDEW8Ksk) | 4:38 | 2022-03-08 |  |
+| [Licking An Orchid](https://open.spotify.com/track/3pihS07XVQEavaS9n7kObt) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS), [James K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Safe In The Hands of Love](https://open.spotify.com/album/1IpYZkYoYCjXTYMDEW8Ksk) | 4:38 | 2022-03-08 | 2022-10-25 |
 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2022-03-08 |  |
 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 | 2022-03-08 |  |
 | [Losing You](https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:06 | 2022-03-08 |  |

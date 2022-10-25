@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-166 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/45GUeEFxAxvkdu2cCo0Edr)
+167 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/45GUeEFxAxvkdu2cCo0Edr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Bring That Money Honey](https://open.spotify.com/track/6BWuyU46e5AKYt2fmechag) | [Kingen](https://open.spotify.com/artist/4xF1WqgmgWBbLEXUWZZxne) | [It´s All About Groove](https://open.spotify.com/album/1VQOqXUST7DGn3GVAYABNu) | 2:50 | 2022-05-06 | 2022-07-10 |
 | [Can´t Get It out of My Mind](https://open.spotify.com/track/56ViwfGK5zU5UoUXup1Lqv) | [Emmy Lou and The Rhythm Boys](https://open.spotify.com/artist/0VAO3FEhPxiR9e1nAlFzbr) | [Bip Bop Boom!](https://open.spotify.com/album/5p5AoSQkBhNtmWYESALu5x) | 2:52 | 2022-07-05 |  |
 | [Can´t Get It Out of My Mind](https://open.spotify.com/track/5Z1sGA3c1XbY1Qu8Ku9Yz1) | [Emmy Lou and The Rhythm Boys](https://open.spotify.com/artist/0VAO3FEhPxiR9e1nAlFzbr) | [Bip Bop Boom!](https://open.spotify.com/album/4E35ZgomU7H1ktEB1GtWba) | 2:52 | 2022-05-06 | 2022-07-29 |
-| [Chalk It Up to the Blues](https://open.spotify.com/track/3GjdLiQyrIDArRUHHsE93v) | [Big Sandy & His Fly\-Rite Boys](https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv) | [It's Time!](https://open.spotify.com/album/0F9FXQPcSj82bp4SnDeA7A) | 3:12 | 2022-05-06 |  |
+| [Chalk It Up to the Blues](https://open.spotify.com/track/3GjdLiQyrIDArRUHHsE93v) | [Big Sandy & His Fly\-Rite Boys](https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv) | [It's Time!](https://open.spotify.com/album/0F9FXQPcSj82bp4SnDeA7A) | 3:12 | 2022-05-06 | 2022-10-25 |
 | [Chantilly Lace](https://open.spotify.com/track/25hrRL7AzlYSLtttKIoY5l) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [The Big Bopper's Greatest Hits](https://open.spotify.com/album/3TQUtTuwtG9vDtRprrifqC) | 2:21 | 2022-05-06 | 2022-06-10 |
 | [Chantilly Lace](https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [Chantilly Lace](https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS) | 2:25 | 2022-07-05 |  |
 | [Checkered Flag](https://open.spotify.com/track/1KWpWBABJT2glaEEuyICIx) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [Checkered Flag](https://open.spotify.com/album/3iHXkPhhKnv84UDbYjFRwA) | 4:05 | 2022-05-06 | 2022-07-29 |
@@ -107,6 +107,7 @@
 | [My Little Sister Gotta Motorbike](https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY) | [Crazy Cavan](https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv), [The Rhythm Rockers](https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat) | [Our Own Way Of Rockin'](https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO) | 2:45 | 2022-05-06 | 2022-07-29 |
 | [Nathalie](https://open.spotify.com/track/48zoQZk5Vc4Y71SvvJuyLm) | [Pepita Slappers](https://open.spotify.com/artist/5QrPasvRZt9axhtr96a54Z) | [Honey Bee](https://open.spotify.com/album/7FSJZmaJWEAxzNTHL7Jdf5) | 3:34 | 2022-05-06 | 2022-07-24 |
 | [New Rock The Joint](https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:18 | 2022-07-05 |  |
+| [North Side Gal](https://open.spotify.com/track/5WLS5Fz6pW8AUwio6BGJJ2) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/3j260hiD8MJJBO0gbF6BTQ) | 2:31 | 2022-09-02 |  |
 | [North Side Gal](https://open.spotify.com/track/6VqC5gNL532RfgdlGzNAv0) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/4TcPbpUi60PaJ2QX5scH69) | 2:31 | 2022-07-05 | 2022-10-20 |
 | [North Side Gal](https://open.spotify.com/track/7bZkuSIYH7j85RBu6Y4gTe) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Signs & Signifiers](https://open.spotify.com/album/2z1GaPw5X4d7HHRSIwxInv) | 2:31 | 2022-05-06 | 2022-07-29 |
 | [Northern Girl](https://open.spotify.com/track/3ddovtNdDK3nrseLGpI4hV) | [Lee Ericson](https://open.spotify.com/artist/4i9dZAd8B1gXWY8iyPdgnY), [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G) | [Stockholm Blue](https://open.spotify.com/album/7xFg94LOru7QaN5couhbh1) | 3:30 | 2022-07-05 | 2022-09-26 |

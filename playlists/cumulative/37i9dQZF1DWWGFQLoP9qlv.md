@@ -4,10 +4,11 @@
 
 > Great songs by indisputable music legends\. Cover: David Bowie
 
-193 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/0GtqGrLzVf2NF3NwuYf9ll)
+194 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/0GtqGrLzVf2NF3NwuYf9ll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 | 2022-01-21 |  |
 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 | 2022-01-21 | 2022-10-11 |
 | [\(I Can't Get No\) Satisfaction \- Mono Version / Remastered 2002](https://open.spotify.com/track/7fSGbZLhWlAiCC3HDPAULu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads \(Remastered\)](https://open.spotify.com/album/24V2ghp7XhGZzWKjthHq4v) | 3:42 | 2021-10-14 | 2022-07-29 |
 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 | 2021-10-14 | 2022-07-29 |
@@ -130,7 +131,7 @@
 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 | 2021-10-14 | 2022-07-29 |
 | [Rebel Rebel \- 1999 Remaster](https://open.spotify.com/track/66lOpKgTyFjOrac4S1s94g) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(30th Anniversary\)](https://open.spotify.com/album/6JxxRxzjsOTtKVie29FTt2) | 4:29 | 2021-10-14 | 2022-07-29 |
 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 | 2022-01-21 |  |
-| [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 | 2022-01-21 |  |
+| [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 | 2022-01-21 | 2022-10-25 |
 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 | 2022-01-21 | 2022-07-26 |
 | [Rocket Man \(I Think It's Going To Be A Long Long Time\)](https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau \(Remastered\)](https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6) | 4:41 | 2021-10-14 | 2022-07-29 |
 | [Rocket Man \(I Think It's Going To Be A Long, Long Time\)](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 4:41 | 2022-01-21 |  |

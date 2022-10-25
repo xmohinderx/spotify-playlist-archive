@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Parkway Drive",
-  "num_followers": 854663,
+  "num_followers": 854707,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMzNTYwMCwwMDAwMDAwMDk3MGE1NjZkMjViMDZmOGEyOGZkZjY4ZGEwNGRmYjc3",
+  "snapshot_id": "MTY2NjMzNTYwMCwwMDAwMDAwMGIxY2UxODMyYjNjOTVkNDkxNTg4OWM1MWRiMmU5YjYw",
   "tracks": [
     {
       "added_at": "2022-10-21 07:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Hangfire",
-        "url": "https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC"
-      },
-      "artists": [
-        {
-          "name": "Wind Walkers",
-          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
-        }
-      ],
-      "duration_ms": 195217,
-      "name": "Hangfire",
-      "url": "https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Mass Produced",
         "url": "https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 181680,
       "name": "Mass Produced",
       "url": "https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Hangfire",
+        "url": "https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC"
+      },
+      "artists": [
+        {
+          "name": "Wind Walkers",
+          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
+        }
+      ],
+      "duration_ms": 195217,
+      "name": "Hangfire",
+      "url": "https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 223050,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Shade Astray",
         "url": "https://open.spotify.com/album/13V5598DE5BTivaX1zecEF"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 277093,
       "name": "Shade Astray",
       "url": "https://open.spotify.com/track/4nsRC5m6nhWEGytiaDgewc"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 223050,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "You Must Die",
-        "url": "https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 162894,
-      "name": "You Must Die",
-      "url": "https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 188057,
       "name": "Fever",
       "url": "https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "You Must Die",
+        "url": "https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 162894,
+      "name": "You Must Die",
+      "url": "https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Fury",
-        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
-      },
-      "artists": [
-        {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
-        }
-      ],
-      "duration_ms": 186358,
-      "name": "Code of Honor",
-      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Ketamine",
         "url": "https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 172019,
       "name": "Ketamine",
       "url": "https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Fury",
+        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
+      },
+      "artists": [
+        {
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+        }
+      ],
+      "duration_ms": 186358,
+      "name": "Code of Honor",
+      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "White Washed & Composure 2022",
-        "url": "https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 237168,
-      "name": "White Washed - 2022",
-      "url": "https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Hotel Underground",
         "url": "https://open.spotify.com/album/3GdgTYJ6MCD7nsQ8uZZly5"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 166181,
       "name": "Hotel Underground",
       "url": "https://open.spotify.com/track/0CoxiZuaRFycPJ0Xl1oSOJ"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "White Washed & Composure 2022",
+        "url": "https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 237168,
+      "name": "White Washed - 2022",
+      "url": "https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "The Collapse",
-        "url": "https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr"
-      },
-      "artists": [
-        {
-          "name": "Secrets",
-          "url": "https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl"
-        }
-      ],
-      "duration_ms": 210385,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Your Love I'll Never Need",
         "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 200843,
       "name": "Your Love I'll Never Need",
       "url": "https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "The Collapse",
+        "url": "https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr"
+      },
+      "artists": [
+        {
+          "name": "Secrets",
+          "url": "https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl"
+        }
+      ],
+      "duration_ms": 210385,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
+        "name": "Dedication To Flesh",
+        "url": "https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67"
+      },
+      "artists": [
+        {
+          "name": "Spite",
+          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+        }
+      ],
+      "duration_ms": 206346,
+      "name": "Dedication To Flesh",
+      "url": "https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/3vo077XHNBeAEVlnWGQUCG"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 152000,
       "name": "Quicksand (feat. Michael Swank)",
       "url": "https://open.spotify.com/track/3B2lC0tHokLJuPOhKaLycU"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
-        "name": "Dedication To Flesh",
-        "url": "https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67"
-      },
-      "artists": [
-        {
-          "name": "Spite",
-          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
-        }
-      ],
-      "duration_ms": 206346,
-      "name": "Dedication To Flesh",
-      "url": "https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv"
+      },
+      "artists": [
+        {
+          "name": "AVOID",
+          "url": "https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
         "name": "No Hope 'Til Now",
         "url": "https://open.spotify.com/album/6q6eyYT6oipY8ixkers5Ed"
       },
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv"
+        "name": "Trapped",
+        "url": "https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf"
       },
       "artists": [
         {
-          "name": "AVOID",
-          "url": "https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU"
+          "name": "Suasion",
+          "url": "https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK"
         }
       ],
-      "duration_ms": 191000,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2"
+      "duration_ms": 204198,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1139,22 +1155,6 @@
       "duration_ms": 302258,
       "name": "Spearmint Revolt",
       "url": "https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
-        "name": "Trapped",
-        "url": "https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf"
-      },
-      "artists": [
-        {
-          "name": "Suasion",
-          "url": "https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK"
-        }
-      ],
-      "duration_ms": 204198,
-      "name": "Trapped",
-      "url": "https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
+        "name": "Call It Home",
+        "url": "https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z"
+      },
+      "artists": [
+        {
+          "name": "Elyne",
+          "url": "https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk"
+        }
+      ],
+      "duration_ms": 210128,
+      "name": "Call It Home",
+      "url": "https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
         "name": "Sunchaser",
         "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 209564,
       "name": "Sunchaser",
       "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
-        "name": "UFO Party",
-        "url": "https://open.spotify.com/album/1i6oD08Nu5SsG5U2FHNaz2"
-      },
-      "artists": [
-        {
-          "name": "Young Medicine",
-          "url": "https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ"
-        }
-      ],
-      "duration_ms": 242769,
-      "name": "UFO Party",
-      "url": "https://open.spotify.com/track/1qmxvfIHqceUV1XD5ESJz0"
     }
   ],
   "unique_name": "The Core",

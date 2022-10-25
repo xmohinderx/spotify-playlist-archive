@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Maggie Lindemann
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,775 likes - 125 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,963 likes - 125 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 110 | [Drink](https://open.spotify.com/track/59znVm3764cY4xwUaychMN) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Drink](https://open.spotify.com/album/2HLp80sHFphInGSgbTWdqd) | 3:42 |
 | 111 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 |
 | 112 | [Labrador](https://open.spotify.com/track/0bxuV9VOE5iARolyiQyrxZ) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [Big Grief](https://open.spotify.com/album/3WH0K46IAKNCyj0KmgENDS) | 3:41 |
-| 113 | [last time](https://open.spotify.com/track/0ly1XOeYI1unsPXjErBWPX) | [little luna](https://open.spotify.com/artist/5p6wO94xYpLb7bhXNQz4HU), [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [through the self](https://open.spotify.com/album/6VTcvLeLjkgb60cdKQA1sH) | 3:35 |
+| 113 | [last time](https://open.spotify.com/track/20NRdAHh2aTjxoLbRp5YN5) | [little luna](https://open.spotify.com/artist/5p6wO94xYpLb7bhXNQz4HU) | [last time](https://open.spotify.com/album/0zNpYe19231Y6XnRmlPHsL) | 3:34 |
 | 114 | [Swan](https://open.spotify.com/track/6itUweMsaR9DA74zxCWDo4) | [Willa](https://open.spotify.com/artist/2YE9xDQHXzmnwE8qq6Gqg8) | [Criminals + Dreamers](https://open.spotify.com/album/4ZjDaZkq8QSvwBe2WYXk3G) | 3:01 |
 | 115 | [The Rush](https://open.spotify.com/track/2w1PqXuQG6Fjum7259GzO8) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM) | 3:07 |
 | 116 | [H B I C](https://open.spotify.com/track/3VTlWV4YoSgVvyfJI0IMZR) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [H B I C](https://open.spotify.com/album/6ZQ0O1rreAlHfDHteGubjh) | 2:38 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 124 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 | 125 | [IH8EVERY1](https://open.spotify.com/track/41pILuwCEPKC8RLLR9XGT1) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [IH8EVERY1](https://open.spotify.com/album/1Kd1SH6GxOvyEhyH501d3h) | 2:47 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGM5MWExYzk4NWI1OGYzY2FjOTM4MjIyN2Q0ZmM0MGY1`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGRhMDJlMWY4MDgxMjk2NzI4NDIwMTQ2OTI0MzVhZjAx`

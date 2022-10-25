@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 2430,
+  "num_followers": 2543,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1ODUxOSwwMDAwMDAwMDVjMjM1YzM0MTU3NjBhMTcwMmNlZjVmNDg0NDA4Nzli",
+  "snapshot_id": "MTY2NDY1ODUxOSwwMDAwMDAwMDNmZTM3Y2NjOWI1ZjFmODZkMWJhMDY3ZTgxMTc2MzBi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -59,6 +59,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Apollo XXI",
+        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "N Side",
+      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Black On Both Sides",
         "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
       },
@@ -95,22 +111,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Apollo XXI",
-        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "N Side",
-      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
       },
@@ -123,42 +123,6 @@
       "duration_ms": 170360,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Found (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Found (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "MERCEDES",
-        "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 233069,
-      "name": "MERCEDES",
-      "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -199,6 +163,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Found (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Found (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Things Fall Apart",
         "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 259306,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "MERCEDES",
+        "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 233069,
+      "name": "MERCEDES",
+      "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "It Was Written",
-        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "The Message",
-      "url": "https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 255226,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "It Was Written",
+        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "The Message",
+      "url": "https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -451,26 +451,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        }
-      ],
-      "duration_ms": 139574,
-      "name": "Bria's Interlude (feat. Omarion)",
-      "url": "https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
@@ -507,6 +487,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "duration_ms": 139574,
+      "name": "Bria's Interlude (feat. Omarion)",
+      "url": "https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 326240,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 428200,
+      "name": "Any Time, Any Place",
+      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -539,22 +555,6 @@
       "duration_ms": 209605,
       "name": "4 Nothin'",
       "url": "https://open.spotify.com/track/2z3aAvPD98LnO2etDd5g12"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 428200,
-      "name": "Any Time, Any Place",
-      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Care Package",
-        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 253803,
-      "name": "Dreams Money Can Buy",
-      "url": "https://open.spotify.com/track/1qyFlfPREPbRcS2BNszdYI"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "1st Born Second",
         "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 339866,
       "name": "I Used to Love Him (feat. Mary J. Blige)",
       "url": "https://open.spotify.com/track/3IRdgbdqDcmJBIa6TY2mKX"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Care Package",
+        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 253803,
+      "name": "Dreams Money Can Buy",
+      "url": "https://open.spotify.com/track/1qyFlfPREPbRcS2BNszdYI"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 344346,
-      "name": "Really Love",
-      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Crenshaw",
         "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 237013,
       "name": "Face the World",
       "url": "https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Let's Get It On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/5Xt3RUiOkiH2pGYtMTVeNS"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Let's Get It On (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 255986,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/5Xt3RUiOkiH2pGYtMTVeNS"
+      "duration_ms": 344346,
+      "name": "Really Love",
+      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Punk",
-        "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 171834,
-      "name": "Recognize Real (with Gunna)",
-      "url": "https://open.spotify.com/track/2wSWcyp4Z8ObUaqlNMGd5h"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 236546,
       "name": "Young Nigga (feat. Puff Daddy)",
       "url": "https://open.spotify.com/track/0pBcI8Gf1Oe3ziIbE9tBsX"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Punk",
+        "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 171834,
+      "name": "Recognize Real (with Gunna)",
+      "url": "https://open.spotify.com/track/2wSWcyp4Z8ObUaqlNMGd5h"
     },
     {
       "added_at": "2022-10-01 16:00:00",

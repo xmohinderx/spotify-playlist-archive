@@ -4,7 +4,7 @@
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-112 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/7gJ8WrGorienL6aMEyovTu)
+113 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/7gJ8WrGorienL6aMEyovTu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [I Don't Care](https://open.spotify.com/track/6WIaTMyMrZSbM2Zlz3fTY6) | [Duffy Power](https://open.spotify.com/artist/1HD11ESo3mcg0LtEJSZkvN) | [The Marquis Sessions](https://open.spotify.com/album/0MdqEk7d89aIZn1WgkHfbk) | 2:42 | 2021-04-22 | 2022-07-29 |
 | [I Just Want to Make Love to You \- 2016 Remaster](https://open.spotify.com/track/6dYZUX7ClBtpzUE7coynkt) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 4:20 | 2021-04-22 |  |
 | [I Put a Spell on You](https://open.spotify.com/track/7j7yDC9hh6kAvSVP0XrkbO) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Down the Road Apiece \- the Recordings 1963\-1966](https://open.spotify.com/album/13VP0DyGZZq15NzDVoh79y) | 3:35 | 2021-04-22 | 2022-10-14 |
+| [I Put a Spell on You](https://open.spotify.com/track/7nNL3wfaSz4wUzHr66ICTk) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Down the Road Apiece \- the Recordings 1963\-1966](https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT) | 3:35 | 2021-04-22 |  |
 | [I Put A Spell On You](https://open.spotify.com/track/2IrQY3wh9iJWO0t8nRyE3p) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Manfred Mann \- Down The Road Apiece \(Their EMI Recordings 1963\-1966\)](https://open.spotify.com/album/3DMwPJDOLMHpPEDMAmMamA) | 3:37 | 2021-04-22 | 2022-07-28 |
 | [I Shall Be Released](https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 4:35 | 2021-04-22 |  |
 | [I Woke up This Morning](https://open.spotify.com/track/20yxud4lZiqNzkreGyliiA) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Goin' Home!](https://open.spotify.com/album/22PaF4yYYiTjFpDgeN7zLX) | 5:30 | 2021-04-22 |  |
@@ -106,7 +107,7 @@
 | [They Don't Make Them Like You Anymore](https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Tattoo \(Remastered 2017\)](https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg) | 4:04 | 2021-04-22 |  |
 | [Thunder in the Sky](https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Thunder in the Sky](https://open.spotify.com/album/0zgK9ZHyTBf2Lxpda6zuBb) | 6:36 | 2022-03-25 |  |
 | [Thunder in the Sky](https://open.spotify.com/track/69W25iA20o51P7rOTsPXcy) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Thunder in the Sky](https://open.spotify.com/album/03Pne7wzfIcZLa2eTk9jyF) | 6:36 | 2022-03-25 | 2022-07-22 |
-| [Too Far Gone](https://open.spotify.com/track/6gq6I59uWHNtSwE1g0YUdR) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Means of Escape](https://open.spotify.com/album/5ggSAkCilktDjDmUx2OmVu) | 6:06 | 2022-03-25 |  |
+| [Too Far Gone](https://open.spotify.com/track/6gq6I59uWHNtSwE1g0YUdR) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Means of Escape](https://open.spotify.com/album/5ggSAkCilktDjDmUx2OmVu) | 6:06 | 2022-03-25 | 2022-10-25 |
 | [Too Rolling Stoned \- 2007 Remaster](https://open.spotify.com/track/0GuID7WlXesl3ITZwJZbLE) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Bridge Of Sighs \(2007 Remaster\)](https://open.spotify.com/album/1CCERowpj4xqJw4DuCVjHl) | 7:31 | 2021-04-22 | 2022-07-29 |
 | [Too Rolling Stoned \- 2007 Remaster](https://open.spotify.com/track/0aveCMNj686kG1oX4n80P6) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Bridge Of Sighs \(2007 Remaster\)](https://open.spotify.com/album/2ufQ2fXlHknTw5RtIN7qaC) | 7:31 | 2021-04-22 |  |
 | [Walk In My Shadow](https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 3:30 | 2021-04-22 |  |

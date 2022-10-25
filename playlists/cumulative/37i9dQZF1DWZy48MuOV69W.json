@@ -1365,6 +1365,24 @@
     {
       "album": {
         "name": "Baby It's Cold Outside",
+        "url": "https://open.spotify.com/album/3bt93syd8tXz406kBywkEQ"
+      },
+      "artists": [
+        {
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102013,
+      "name": "What About Me",
+      "url": "https://open.spotify.com/track/6Vil6xmoYCuDVnYP5V7rpr"
+    },
+    {
+      "album": {
+        "name": "Baby It's Cold Outside",
         "url": "https://open.spotify.com/album/5nZAaue7FQgCTOY3SA62u7"
       },
       "artists": [
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 228221,
       "name": "When Christmas Has Gone",
       "url": "https://open.spotify.com/track/3TZO1SX9qPyewA2njmPe1U"

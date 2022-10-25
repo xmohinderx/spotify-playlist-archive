@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Bicep
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,583 likes - 92 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,618 likes - 92 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

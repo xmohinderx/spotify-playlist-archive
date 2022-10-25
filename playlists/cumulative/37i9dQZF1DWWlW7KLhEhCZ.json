@@ -3134,6 +3134,32 @@
     },
     {
       "album": {
+        "name": "Eu Falo N\u00e3o",
+        "url": "https://open.spotify.com/album/4WBSeIGjIE7lJ5aFywpCwj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Henriques",
+          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146068,
+      "name": "Eu Falo N\u00e3o",
+      "url": "https://open.spotify.com/track/3z19LCfZ3LlasNpqjDWx3P"
+    },
+    {
+      "album": {
         "name": "Exibido",
         "url": "https://open.spotify.com/album/0tK8meVFOCcUPOOyFfueJs"
       },
@@ -6371,6 +6397,28 @@
     {
       "album": {
         "name": "Passagem",
+        "url": "https://open.spotify.com/album/5JrResfPd6NY6d4OWmtFyO"
+      },
+      "artists": [
+        {
+          "name": "Mc Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "DJ JR No Beat",
+          "url": "https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145925,
+      "name": "Passado",
+      "url": "https://open.spotify.com/track/1n8b0UZ8sR0ydKqRzalMqi"
+    },
+    {
+      "album": {
+        "name": "Passagem",
         "url": "https://open.spotify.com/album/3B6EVijO887Zc17CBTvXBS"
       },
       "artists": [
@@ -6385,7 +6433,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 145925,
       "name": "Passado",
       "url": "https://open.spotify.com/track/35yTzGZiPJA3CallyJy1Ek"

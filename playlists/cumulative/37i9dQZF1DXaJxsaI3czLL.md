@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-70 songs - 5 hr 15 min - not published yet
+71 songs - 5 hr 18 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,13 +29,14 @@
 | [Lamp](https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [Lamp](https://open.spotify.com/album/4xD9RDDnKrG3MHzvuP0GCd) | 4:32 | 2022-10-20 |  |
 | [Last Peace](https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH), [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [27](https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj) | 3:43 | 2022-10-20 |  |
 | [Midnight Song](https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:12 | 2022-10-20 |  |
-| [Mimosa](https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [魂のハイウェイ](https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N) | 3:28 | 2022-10-20 |  |
+| [Mimosa](https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [魂のハイウェイ](https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N) | 3:28 | 2022-10-20 | 2022-10-25 |
 | [Moon Light Lover](https://open.spotify.com/track/0Iod4IHv2ZJy4tzxTDIM34) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Young Love](https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0) | 4:54 | 2022-10-20 |  |
 | [Mori no kotoba](https://open.spotify.com/track/6SFm3HdywAFS4wRM4S5izc) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [Songs of Four Seasons](https://open.spotify.com/album/1sCFYE7ZW7GhWkaKqiU2CS) | 5:12 | 2022-10-20 |  |
 | [NEVER FALL IN LOVE AGAIN](https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:53 | 2022-10-20 |  |
 | [Porcelain](https://open.spotify.com/track/15Ulu5nGXTW4DQ79pT0YhC) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 4:29 | 2022-10-20 |  |
 | [Puffin](https://open.spotify.com/track/7MEuAI4uWTs32XuNJGHOJ9) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Puffin](https://open.spotify.com/album/7rWh3fUUb9Ri5OwJqZijWA) | 3:36 | 2022-10-20 |  |
 | [Runaway](https://open.spotify.com/track/7vPO57xxaEwGwc44bDn71X) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Runaway](https://open.spotify.com/album/706DeGNlIEHqxO96lVYvPe) | 3:11 | 2022-10-20 |  |
+| [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 | 2022-10-20 |  |
 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 | 2022-10-20 |  |
 | [Skiffle Song](https://open.spotify.com/track/5NyhaNUwfFWrfu5TRGlgi1) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [けものたちの名前](https://open.spotify.com/album/1wbLdEmioNHnFkV9Q7muxt) | 5:16 | 2022-10-20 |  |
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-10-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie\. Cover: Selene
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,972 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,995 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 35 | [Marte](https://open.spotify.com/track/2tKSIeksPzMglcIJVc83ID) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Renacer Pt\. 1](https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva) | 2:43 |
 | 36 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 |
 | 37 | [A carta cabal](https://open.spotify.com/track/3asOJIkC0NT24zR2S20azY) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 4:29 |
-| 38 | [Obra de Arte](https://open.spotify.com/track/3kJPCWZAOSi7Rxa4UR1bjv) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 2:50 |
-| 39 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
-| 40 | [Really Rong](https://open.spotify.com/track/60vsS2ZyzU8gVHEyG35g57) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:24 |
+| 38 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 |
+| 39 | [Really Rong](https://open.spotify.com/track/60vsS2ZyzU8gVHEyG35g57) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:24 |
+| 40 | [Obra de Arte](https://open.spotify.com/track/3kJPCWZAOSi7Rxa4UR1bjv) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 2:50 |
 | 41 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 |
 | 42 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 |
 | 43 | [Hear Me Out](https://open.spotify.com/track/43u76RiZEjdtuEWar9ItUb) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 2:17 |
@@ -56,16 +56,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 46 | [Handful of Water](https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Handful of Water](https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N) | 2:31 |
 | 47 | [Nunca Es Tarde](https://open.spotify.com/track/4FHBc6Z61kNSrXVYFYDEwb) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Querer Querer](https://open.spotify.com/album/60DFkAltGtzAmoSgfyU9J3) | 3:03 |
 | 48 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
-| 49 | [Bolsa en la cara](https://open.spotify.com/track/4NDXtaihxFtUH08UX0OikX) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Brailluxe](https://open.spotify.com/album/33wrmV8WGt2SA767fNjae6) | 3:13 |
-| 50 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 |
-| 51 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
-| 52 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 |
-| 53 | [Pastelitos De Guayaba](https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pastelitos De Guayaba](https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ) | 3:11 |
-| 54 | [Paranoia Pop](https://open.spotify.com/track/13WCGJKAWrgZgz6grLryE4) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [Paranoia Pop](https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV) | 3:52 |
-| 55 | [Lo Que Digan](https://open.spotify.com/track/1NNckOABiIsVrd0dJwRmLp) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lo Que Digan](https://open.spotify.com/album/1MdZ8tyZB75alme89VBOgt) | 3:10 |
-| 56 | [Se Acaba Todo](https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Se Acaba Todo](https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB) | 3:16 |
-| 57 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 |
-| 58 | [Lo Que Tuvimos](https://open.spotify.com/track/0f3eYx4mKZiM4rwaHYopar) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 2](https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq) | 3:06 |
+| 49 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 |
+| 50 | [Bolsa en la cara](https://open.spotify.com/track/4NDXtaihxFtUH08UX0OikX) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Brailluxe](https://open.spotify.com/album/33wrmV8WGt2SA767fNjae6) | 3:13 |
+| 51 | [Pastelitos De Guayaba](https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pastelitos De Guayaba](https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ) | 3:11 |
+| 52 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
+| 53 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 |
+| 54 | [Lo Que Digan](https://open.spotify.com/track/1NNckOABiIsVrd0dJwRmLp) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lo Que Digan](https://open.spotify.com/album/1MdZ8tyZB75alme89VBOgt) | 3:10 |
+| 55 | [Paranoia Pop](https://open.spotify.com/track/13WCGJKAWrgZgz6grLryE4) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [Paranoia Pop](https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV) | 3:52 |
+| 56 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 |
+| 57 | [Lo Que Tuvimos](https://open.spotify.com/track/0f3eYx4mKZiM4rwaHYopar) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 2](https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq) | 3:06 |
+| 58 | [Se Acaba Todo](https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Se Acaba Todo](https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB) | 3:16 |
 | 59 | [un poco más](https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:18 |
 | 60 | [Míranos](https://open.spotify.com/track/2iNDBB85GuREL7p4m1pArU) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Míranos](https://open.spotify.com/album/4jDruC1JOBkdtHarW7fkar) | 3:04 |
 | 61 | [Aeroplanos](https://open.spotify.com/track/2uTOK71u7nWtvDQky4wyEx) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Aeroplanos](https://open.spotify.com/album/2V5rVAdsjlL4fiwHzbQ1OG) | 3:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 69 | [LUV](https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [LUV](https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0) | 2:23 |
 | 70 | [RQR](https://open.spotify.com/track/0pKMlweNP3DhXkeLQ7EhYD) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [RQR](https://open.spotify.com/album/5kC02orH2sQzlmHoUspIsb) | 2:57 |
 
-Snapshot ID: `MTY2MjQ4NDI4NSwwMDAwMDAwMDRiY2Y2YWJjOTA0Yzc1ZTQ1YTg1YzM4OTAwYWY2Mjlj`
+Snapshot ID: `MTY2MjQ4NDI4NSwwMDAwMDAwMDRjZTM1NmJlM2JkZTdjZDZlMTk2ODZmMzljMjhjNmUy`

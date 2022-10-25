@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > Keep your run going with these upbeat rock tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,987 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,150 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 12 | [Wish You Were Here](https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:32 |
 | 13 | [If You Can't Hang](https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 4:10 |
 | 14 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 |
-| 15 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
-| 16 | [All I Want](https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm) | 3:22 |
+| 15 | [All I Want](https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm) | 3:22 |
+| 16 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
 | 17 | [Happy Song](https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:59 |
 | 18 | [What You Make It](https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:57 |
 | 19 | [Somewhere I Belong](https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 49 | [Empty Walls](https://open.spotify.com/track/6Y2kW1mdHE0znPCjtOdt5m) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Elect the Dead \(Deluxe\)](https://open.spotify.com/album/6lEk9mHyHXxINEhTyFuYrz) | 3:50 |
 | 50 | ["45"](https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:22 |
 
-Snapshot ID: `MTY1NDE5OTU2MiwwMDAwMDAwMDRkODFmNDIyNzRkZDQ5YTRkODFjZGY5NmRhNGE3NjI0`
+Snapshot ID: `MTY1NDE5OTU2MiwwMDAwMDAwMGM5MWY5ZDgyMGUxYjgyNzk3NWIzMGZiZDc0MjVlMjg5`

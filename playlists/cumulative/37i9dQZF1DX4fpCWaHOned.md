@@ -4,7 +4,7 @@
 
 > You're on top of the world\. Don't forget it.
 
-399 songs - 22 hr 24 min - [published](https://open.spotify.com/playlist/6HuIdktgC33vvZen0bYwSa)
+401 songs - 22 hr 28 min - [published](https://open.spotify.com/playlist/6HuIdktgC33vvZen0bYwSa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Cloudy Day](https://open.spotify.com/track/3QUzJqgkcjvsLhgqVos6ha) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day](https://open.spotify.com/album/5fzx5p8CnKO8ZFrluq8xAi) | 3:05 | 2021-07-18 | 2022-07-29 |
 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2021-08-07 | 2021-08-28 |
 | [Cold Water](https://open.spotify.com/track/7zsXy7vlHdItvUSH8EwQss) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Cold Water](https://open.spotify.com/album/3Kmo85mapQ2wTaCAHBkKsK) | 3:05 | 2019-10-25 | 2019-10-26 |
-| [Confident](https://open.spotify.com/track/3DXXKDbbZKyAZfNb96ST3q) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:25 | 2022-10-07 |  |
+| [Confident](https://open.spotify.com/track/3DXXKDbbZKyAZfNb96ST3q) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:25 | 2022-10-07 | 2022-10-25 |
 | [Confident](https://open.spotify.com/track/6WjmPTZKeDylStKmGHLcqQ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/4HLTw1RgvSZkSLAc3pU9kU) | 3:25 | 2019-08-26 | 2022-04-17 |
 | [Cool](https://open.spotify.com/track/7yfi8B8opXjnRh4VZnOkz9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 2:47 | 2019-10-26 | 2021-10-14 |
 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 | 2022-03-25 |  |
@@ -193,7 +193,7 @@
 | [Kill Em With Kindness](https://open.spotify.com/track/1QNoKVgA758HFLu3TW2q7R) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:37 | 2019-10-25 | 2019-10-26 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-06-07 | 2022-09-27 |
 | [Kiss My \(Uh Oh\)](https://open.spotify.com/track/0MWiSBKm8Avs8iDIxcertp) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:56 | 2021-08-01 | 2022-10-16 |
-| [Know Your Worth](https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Know Your Worth](https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5) | 3:01 | 2022-02-03 |  |
+| [Know Your Worth](https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Know Your Worth](https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5) | 3:01 | 2022-02-03 | 2022-10-25 |
 | [La Di Da](https://open.spotify.com/track/2YyvWje3cEYyqgYhNUIaBJ) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Love, me](https://open.spotify.com/album/3OIuzwZjpwUwyvFhSHYjj6) | 3:29 | 2019-07-29\* | 2021-12-07 |
 | [Lease On Life](https://open.spotify.com/track/4ufkuONjQMNR2fyXu1bO9w) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Lease On Life](https://open.spotify.com/album/3ciVcxQykTNkAznZzpDOJK) | 2:48 | 2021-07-18 | 2022-07-29 |
 | [Lease On Life](https://open.spotify.com/track/763ynRN90zLEp9hrNNINjl) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Lease On Life](https://open.spotify.com/album/7hJy0WLlvp7OnfLRD3tE1O) | 2:48 | 2021-08-02 | 2021-08-03 |
@@ -220,6 +220,7 @@
 | [Love Not Loving You](https://open.spotify.com/track/1VSsfA5Z37dSNPqiK5dxmM) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Love Not Loving You](https://open.spotify.com/album/0rOYs1ImwkyIJQcfJJFTSo) | 3:34 | 2020-05-23 | 2021-10-23 |
 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 | 2019-10-25 | 2021-10-12 |
 | [Lush Life](https://open.spotify.com/track/0r4SsYcwvd8URat6AS2m6f) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lush Life](https://open.spotify.com/album/6x3lObhgC3H0KpOfePojFG) | 3:21 | 2019-08-26 | 2021-10-13 |
+| [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-24 |  |
 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 | 2021-02-26 | 2022-04-21 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-03-25 | 2022-04-18 |
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-13 | 2021-10-14 |
@@ -380,6 +381,7 @@
 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 | 2021-02-26 | 2021-05-27 |
 | [Victoria’s Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 | 2022-07-21 |  |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2020-06-12 | 2022-09-27 |
+| [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2022-10-24 |  |
 | [Wake Me Up \- Radio Edit](https://open.spotify.com/track/6g1NlCpW7fgqDnWbCCDrHl) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/02h9kO2oLKnLtycgbElKsw) | 4:07 | 2021-03-02 | 2021-03-22 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2021-05-29 | 2022-09-27 |
 | [We Are Never Ever Getting Back Together](https://open.spotify.com/track/7AEAGTc8cReDqcbPoY9gwo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) | 3:11 | 2021-02-28 | 2021-10-16 |

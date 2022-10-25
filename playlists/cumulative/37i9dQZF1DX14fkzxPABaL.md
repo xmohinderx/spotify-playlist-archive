@@ -4,7 +4,7 @@
 
 > La música que te acompaña en el amor\. Foto: Alejandro Lerner + Mau y Ricky
 
-152 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
+153 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Forever My Love](https://open.spotify.com/track/6TYuTMfBTU4hpXrhLsjIiV) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 3:10 | 2022-04-05 |  |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-03-11 |  |
 | [Fuiste Mía](https://open.spotify.com/track/1Nf60AnYxFl1xvZo12FZOV) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Fuiste Mía](https://open.spotify.com/album/3GRdrDwDPTg8jNjejST5ZW) | 3:44 | 2022-01-14 |  |
+| [Gracias Por Llegar](https://open.spotify.com/track/6qPSG0TR6gB1VgqGyYSWVl) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [Gracias Por Llegar](https://open.spotify.com/album/24PzqVCUv6ZdlTQLIUqIPV) | 3:59 | 2022-10-24 |  |
 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 | 2022-01-14 |  |
 | [High \(Remix\)](https://open.spotify.com/track/2HpbDdD3JLpAPMJFYCeC6o) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [High \(Remix\)](https://open.spotify.com/album/2zXlWd1wEWDpoAQfBShNwJ) | 4:04 | 2022-01-14 | 2022-02-12 |
 | [Idiota](https://open.spotify.com/track/35nO174gX5eCh9mPWvUe3s) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Idiota](https://open.spotify.com/album/2XbvwFhkiW4Jjusjl6n9ki) | 3:04 | 2022-01-14 | 2022-04-02 |
@@ -154,7 +155,7 @@
 | [Uno Más Uno](https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Uno Más Uno](https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov) | 3:09 | 2022-01-14 |  |
 | [Valen Más](https://open.spotify.com/track/6zLhpwZfSmKXx3qCEYFmOa) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Valen Más](https://open.spotify.com/album/0XGzR9YQlMgHYlUEvD1clh) | 3:09 | 2022-07-29 |  |
 | [Viaje a ningún lado \(con Carin Leon\)](https://open.spotify.com/track/2MqQtML6652d7oIgrdumKH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Viaje a ningún lado \(con Carin Leon\)](https://open.spotify.com/album/1zsGPMjwq2tK1reGSPhmZ4) | 3:49 | 2022-10-14 |  |
-| [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 | 2022-01-14 |  |
+| [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 | 2022-01-14 | 2022-10-25 |
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-07-15 |  |
 | [Ya No Quiero Verte](https://open.spotify.com/track/5lSbAT0W53MJJxWMIaPwRX) | [Emi D](https://open.spotify.com/artist/15pp37awp1rGZNWW58bgIJ) | [Ya No Quiero Verte](https://open.spotify.com/album/3ilyCEmGHqHFwMNqNN1RB2) | 3:02 | 2022-03-11 |  |
 | [Yo No Quiero Suerte](https://open.spotify.com/track/6cT1Y3M784gLrzxuKdf2WJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Sanz](https://open.spotify.com/album/0FZBhjDJOY7l3eQ1uswUR4) | 4:24 | 2022-01-14 |  |

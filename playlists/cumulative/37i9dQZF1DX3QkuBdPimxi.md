@@ -4,7 +4,7 @@
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-108 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/1nE5gVxGr46argQIdP2lgg)
+109 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/1nE5gVxGr46argQIdP2lgg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Space Friends](https://open.spotify.com/track/31GeJjJyIVRNiW9AL8fERw) | [Big Block Singsong](https://open.spotify.com/artist/5wXiTCNvj4JL6cJzQT5Ncp) | [Greatest Hits](https://open.spotify.com/album/4RWxjJqoAP90QbgzkQ3uyg) | 1:51 | 2021-12-06 |  |
 | [Space Mountain \- From "Space Mountain"](https://open.spotify.com/track/3ORWL1CHflFhOVxd7FJoi1) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Walt Disney Records The Legacy Collection: Disneyland](https://open.spotify.com/album/6Tl4sqA4gMSbqAAs2T0C41) | 3:10 | 2021-12-06 |  |
 | [Space!](https://open.spotify.com/track/0NGdowggVZ627JzBWYzZ4a) | [Eddy J Lemberger](https://open.spotify.com/artist/2AFZgHsZvi72YWZs4ZhIxS) | [Eddy J's Fun Songs For Kids!](https://open.spotify.com/album/5rO7RsFvJl75cahlNIOO3T) | 3:58 | 2021-12-06 |  |
-| [Spaceman Jam](https://open.spotify.com/track/3P9BePToPpxuz2CbdtmANg) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Licensed to Move](https://open.spotify.com/album/6sLaVAxbWz6DhyemezQY1I) | 2:11 | 2021-12-06 |  |
+| [Spaceman Jam](https://open.spotify.com/track/1eNowQzDDCNzlInoAb8ybq) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Licensed to Move](https://open.spotify.com/album/2TFrz8eacV3RaLmzi7yB8v) | 2:11 | 2021-12-06 |  |
+| [Spaceman Jam](https://open.spotify.com/track/3P9BePToPpxuz2CbdtmANg) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Licensed to Move](https://open.spotify.com/album/6sLaVAxbWz6DhyemezQY1I) | 2:11 | 2021-12-06 | 2022-10-25 |
 | [Spaceship](https://open.spotify.com/track/4VD8eHssqyo3hDPnnYan7Z) | [Splash'N Boots](https://open.spotify.com/artist/1XVWPwiCysDYBWGhnjQPUP) | [Happy Times](https://open.spotify.com/album/73eiapXRxd1tVG3SBn1WQf) | 2:59 | 2021-12-06 |  |
 | [Spaceship Adventure](https://open.spotify.com/track/2iq4lWFcgzzAie7b6X52CM) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:46 | 2021-12-06 |  |
 | [Spaceship Adventure](https://open.spotify.com/track/6xAgcxc90mTqb5MY2iUNL5) | [The Killers](https://open.spotify.com/artist/3WLolGsOHygEsKbhMgAqML) | [Fantastic Voyages](https://open.spotify.com/album/3o504GqMg5CAtjYbEWWzQq) | 1:46 | 2021-12-06 | 2022-07-29 |

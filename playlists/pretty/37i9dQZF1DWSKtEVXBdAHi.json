@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27070,
+  "num_followers": 27072,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGFjNjZjMDcxYmI1Y2RhNTUxOGZjZjcxMjZjNzY2ODIw",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDI5ZmU0ZDU1MmEzZTM1ZjRjNzk2NWM1YjY1MTM0ZmUx",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -119,22 +119,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Ivy To Roses (Mixtape)",
-        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 178480,
-      "name": "Don't Call Me Up",
-      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -151,26 +135,18 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Promises (with Sam Smith)",
-        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
+        "name": "Ivy To Roses (Mixtape)",
+        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         }
       ],
-      "duration_ms": 213309,
-      "name": "Promises (with Sam Smith)",
-      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
+      "duration_ms": 178480,
+      "name": "Don't Call Me Up",
+      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -215,6 +191,30 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Promises (with Sam Smith)",
+        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 213309,
+      "name": "Promises (with Sam Smith)",
+      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -371,26 +371,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Rather Be (feat. Jess Glynne)",
-        "url": "https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 227833,
-      "name": "Rather Be (feat. Jess Glynne)",
-      "url": "https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Happy Now",
         "url": "https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 211362,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Rather Be (feat. Jess Glynne)",
+        "url": "https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 227833,
+      "name": "Rather Be (feat. Jess Glynne)",
+      "url": "https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -515,26 +515,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Thank You [Not So Bad]",
-        "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 197963,
-      "name": "Thank You [Not So Bad]",
-      "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Close To Me (feat. Swae Lee)",
         "url": "https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 182623,
       "name": "Close To Me (with Diplo) (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Thank You [Not So Bad]",
+        "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 197963,
+      "name": "Thank You [Not So Bad]",
+      "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -639,6 +639,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148459,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "What I Like About You (feat. Theresa Rex)",
         "url": "https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 220396,
       "name": "What I Like About You (feat. Theresa Rex)",
       "url": "https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148459,
-      "name": "Connection",
-      "url": "https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Be Someone",
-        "url": "https://open.spotify.com/album/7x3X4EQy3RgIS4AGopCyEH"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 204567,
-      "name": "Be Someone",
-      "url": "https://open.spotify.com/track/4esEsg9IxiTAGMBQLe9XOu"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/6KylK197tTFjNoUD8YnIBE"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 180000,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Be Someone",
+        "url": "https://open.spotify.com/album/7x3X4EQy3RgIS4AGopCyEH"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 204567,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/4esEsg9IxiTAGMBQLe9XOu"
     },
     {
       "added_at": "2020-02-18 13:31:30",

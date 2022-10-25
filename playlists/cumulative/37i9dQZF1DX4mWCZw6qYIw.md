@@ -4,7 +4,7 @@
 
 > the mood is to scream into your dashboard/choke back tears in the parking lot
 
-308 songs - 17 hr 24 min - [published](https://open.spotify.com/playlist/32BidoR3zFJ9QHJUXqSSjL)
+309 songs - 17 hr 27 min - [published](https://open.spotify.com/playlist/32BidoR3zFJ9QHJUXqSSjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-12-17 |  |
 | [Here's ur chance](https://open.spotify.com/track/05lr1ZurY0L2m2OVe473DH) | [Damien](https://open.spotify.com/artist/6zQRQ2jsbICny41g2fVT5U) | [Here's ur chance](https://open.spotify.com/album/1DS3oMYYezGTIcFAlvY7Z2) | 2:29 | 2022-04-01 | 2022-04-14 |
 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2021-12-17 | 2022-07-28 |
-| [Hold On](https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Hold On](https://open.spotify.com/album/2EfmyRWheMtmVTCIsptsLi) | 3:18 | 2022-04-01 |  |
+| [Hold On](https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Hold On](https://open.spotify.com/album/2EfmyRWheMtmVTCIsptsLi) | 3:18 | 2022-04-01 | 2022-10-25 |
 | [Home](https://open.spotify.com/track/38O3WQ0SQykunIq3cbZIFb) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Home](https://open.spotify.com/album/0ISmFVrI9E1lrbKYiK3kS2) | 4:23 | 2022-04-08 |  |
 | [HOODIES](https://open.spotify.com/track/4vDklVaOWEWfWvYYqczyvl) | [JayXander](https://open.spotify.com/artist/20mG4NVCankcytn70YIplV) | [HOODIES](https://open.spotify.com/album/7fB1bfVyB7AXsw6K285m3F) | 3:00 | 2022-04-01 | 2022-04-19 |
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-29 |  |
@@ -214,9 +214,10 @@
 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 | 2022-02-18 | 2022-04-17 |
 | [Problems](https://open.spotify.com/track/5fgHQws1Cj6KDLQmlqM6lF) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Problems](https://open.spotify.com/album/5qrMJHElz2d5ig6NDIY6cv) | 3:08 | 2022-04-01 | 2022-04-21 |
 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 | 2022-04-01 | 2022-04-18 |
+| [QUARTER LIFE CRISIS](https://open.spotify.com/track/7BmpRLqZg1vLheYi1SI1Rw) | [Taylor Bickett](https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk) | [QUARTER LIFE CRISIS](https://open.spotify.com/album/1xZpg4zC8UQRM0NAnWCiZl) | 3:18 | 2022-10-24 |  |
 | [Read My Mind](https://open.spotify.com/track/6k1RWwxJpRgm2lbyxRTmtF) | [Beren Olivia](https://open.spotify.com/artist/5WGPbnx9LqsQYXgpnUI3DZ) | [Read My Mind](https://open.spotify.com/album/33AZnu3azsTdALxhjX2gh2) | 2:58 | 2022-02-04 | 2022-04-18 |
 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 | 2021-12-17 | 2022-07-29 |
-| [Remember \- Acoustic](https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Remember \(Acoustic\)](https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM) | 2:58 | 2022-04-01 | 2022-04-17 |
+| [Remember \- Acoustic](https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Remember \(Acoustic\)](https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM) | 2:58 | 2022-04-01 |  |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2021-12-17 | 2022-07-29 |
 | [Ribs](https://open.spotify.com/track/0TEekvXTomKt3hdXDZxxeW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine \(Extended\)](https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6) | 4:18 | 2022-04-01 | 2022-07-12 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-12 |  |
@@ -265,7 +266,7 @@
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-04-08 |  |
 | [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 | 2022-04-01 | 2022-04-21 |
 | [Talk 2 Me](https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI) | 2:19 | 2022-04-08 | 2022-04-20 |
-| [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2021-12-17 |  |
+| [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2021-12-17 | 2022-10-25 |
 | [Teenage Mona Lisa](https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Teenage Mona Lisa](https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d) | 3:18 | 2022-02-25 | 2022-04-15 |
 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 | 2021-12-17 | 2022-07-29 |
 | [The Climb](https://open.spotify.com/track/3poVkmum6RvNzzL1X081H1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Girl Power Hits \- Pinoy Picks Edition](https://open.spotify.com/album/75uyWg5pBCC1Iqn5sc1Rog) | 3:56 | 2022-04-08 | 2022-04-21 |

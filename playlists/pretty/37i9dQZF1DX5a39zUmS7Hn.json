@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: The Libertines",
-  "num_followers": 345455,
+  "num_followers": 345548,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMwNjgwMCwwMDAwMDAwMGNlNDZmNGEwZWMzNzhhMDRjNWU5MjM1NTAwZjE3YmY2",
+  "snapshot_id": "MTY2NjMwNjgwMCwwMDAwMDAwMGQxNGJjZWE1ZTQ5ZDgyNWYwZjM0MTJmNzM3YjBjZGI5",
   "tracks": [
     {
       "added_at": "2022-10-20 23:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-10-20 23:00:00",
       "album": {
-        "name": "Little Queen",
-        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "Barracuda",
-      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
-    },
-    {
-      "added_at": "2022-10-20 23:00:00",
-      "album": {
         "name": "The Wall",
         "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 382296,
       "name": "Comfortably Numb",
       "url": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
+    },
+    {
+      "added_at": "2022-10-20 23:00:00",
+      "album": {
+        "name": "Little Queen",
+        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
     },
     {
       "added_at": "2022-10-20 23:00:00",
@@ -455,6 +455,22 @@
       "duration_ms": 240213,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
+    },
+    {
+      "added_at": "2022-10-20 23:00:00",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 260026,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
     },
     {
       "added_at": "2022-10-20 23:00:00",
@@ -543,22 +559,6 @@
     {
       "added_at": "2022-10-20 23:00:00",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 260026,
-      "name": "My Hero",
-      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
-    },
-    {
-      "added_at": "2022-10-20 23:00:00",
-      "album": {
         "name": "San Quentin",
         "url": "https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-10-20 23:00:00",
       "album": {
-        "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Love Will Tear Us Apart - 2020 Remaster",
-      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
-    },
-    {
-      "added_at": "2022-10-20 23:00:00",
-      "album": {
         "name": "One By One (Expanded Edition)",
         "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 263440,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
+    },
+    {
+      "added_at": "2022-10-20 23:00:00",
+      "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Love Will Tear Us Apart - 2020 Remaster",
+      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
     },
     {
       "added_at": "2022-10-20 23:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-20 23:00:00",
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
-    },
-    {
-      "added_at": "2022-10-20 23:00:00",
-      "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 259906,
       "name": "Once in a Lifetime - 2005 Remaster",
       "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
+    },
+    {
+      "added_at": "2022-10-20 23:00:00",
+      "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
       "added_at": "2022-10-20 23:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-10-20 23:00:00",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2022-10-20 23:00:00",
-      "album": {
         "name": "Tippa My Tongue",
         "url": "https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 315333,
       "name": "Age of Consent - 2015 Remaster",
       "url": "https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj"
+    },
+    {
+      "added_at": "2022-10-20 23:00:00",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
       "added_at": "2022-10-20 23:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-10-20 23:00:00",
       "album": {
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
+      },
+      "artists": [
+        {
+          "name": "Buzzcocks",
+          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
+    },
+    {
+      "added_at": "2022-10-20 23:00:00",
+      "album": {
         "name": "Beguiled",
         "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 246400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
-    },
-    {
-      "added_at": "2022-10-20 23:00:00",
-      "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
-      },
-      "artists": [
-        {
-          "name": "Buzzcocks",
-          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
-      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
     },
     {
       "added_at": "2022-10-20 23:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-10-20 23:00:00",
       "album": {
-        "name": "Protect The Land / Genocidal Humanoidz",
-        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 307644,
-      "name": "Protect The Land",
-      "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
-    },
-    {
-      "added_at": "2022-10-20 23:00:00",
-      "album": {
         "name": "Speak & Spell (2006 Remaster)",
         "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
@@ -1051,22 +1035,6 @@
       "duration_ms": 222760,
       "name": "Just Can't Get Enough - 2006 Remaster",
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
-    },
-    {
-      "added_at": "2022-10-20 23:00:00",
-      "album": {
-        "name": "Parklife (Special Edition)",
-        "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Parklife - 2012 Remaster",
-      "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
     },
     {
       "added_at": "2022-10-20 23:00:00",
@@ -1087,6 +1055,38 @@
     {
       "added_at": "2022-10-20 23:00:00",
       "album": {
+        "name": "Protect The Land / Genocidal Humanoidz",
+        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 307644,
+      "name": "Protect The Land",
+      "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
+    },
+    {
+      "added_at": "2022-10-20 23:00:00",
+      "album": {
+        "name": "Parklife (Special Edition)",
+        "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Parklife - 2012 Remaster",
+      "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
+    },
+    {
+      "added_at": "2022-10-20 23:00:00",
+      "album": {
         "name": "Sound Affects",
         "url": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 212786,
       "name": "That's Entertainment",
       "url": "https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0"
-    },
-    {
-      "added_at": "2022-10-20 23:00:00",
-      "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
     },
     {
       "added_at": "2022-10-20 23:00:00",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2022-10-20 23:00:00",
       "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
+    },
+    {
+      "added_at": "2022-10-20 23:00:00",
+      "album": {
         "name": "Patient Number 9 (feat. Jeff Beck)",
         "url": "https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN"
       },
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-10-20 23:00:00",
       "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "The Guns of Brixton - Remastered",
+      "url": "https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco"
+    },
+    {
+      "added_at": "2022-10-20 23:00:00",
+      "album": {
         "name": "Imploding The Mirage",
         "url": "https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 266759,
       "name": "Bitter Taste",
       "url": "https://open.spotify.com/track/4gS0C89Jlx8Zx4853NYRLY"
-    },
-    {
-      "added_at": "2022-10-20 23:00:00",
-      "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "The Guns of Brixton - Remastered",
-      "url": "https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco"
     },
     {
       "added_at": "2022-10-20 23:00:00",

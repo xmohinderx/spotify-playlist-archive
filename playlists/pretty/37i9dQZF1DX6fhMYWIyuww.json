@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 90956,
+  "num_followers": 91069,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDE4Y2Y1MGU4ODQ0MTk1MDFlNGExNDQ5MzRiYzdmZTQ0",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDcyMTZiNjNkOGM4ZDVkMTBkODA0OWQzNzQ4YzdlOWNl",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Movin' Out (Anthony's Song)",
-      "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 226213,
       "name": "Guitar Man",
       "url": "https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Movin' Out (Anthony's Song)",
+      "url": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Another Page",
-        "url": "https://open.spotify.com/album/0o9hrKTjZk0O3QAGYDSDD2"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 253653,
-      "name": "All Right",
-      "url": "https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Five-A-Side",
         "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 204226,
       "name": "How Long",
       "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Another Page",
+        "url": "https://open.spotify.com/album/0o9hrKTjZk0O3QAGYDSDD2"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 253653,
+      "name": "All Right",
+      "url": "https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -413,6 +413,22 @@
       "url": "https://open.spotify.com/track/0cO7JEo8deKuQMWpDyjenY"
     },
     {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "The Essentials: Orleans",
+        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
+      },
+      "artists": [
+        {
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+        }
+      ],
+      "duration_ms": 180479,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
+    },
+    {
       "added_at": "2022-06-29 18:13:00",
       "album": {
         "name": "Gaucho",
@@ -443,22 +459,6 @@
       "duration_ms": 262733,
       "name": "Somebody's Baby",
       "url": "https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "The Essentials: Orleans",
-        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
-      },
-      "artists": [
-        {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
-        }
-      ],
-      "duration_ms": 180479,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -671,6 +671,22 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
+        "name": "Sleeper Catcher (Remastered)",
+        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 257868,
+      "name": "Reminiscing - Remastered",
+      "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
         "name": "Thunder Island",
         "url": "https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj"
       },
@@ -701,22 +717,6 @@
       "url": "https://open.spotify.com/track/6a0AGYos2HgtQNgMeDqEfC"
     },
     {
-      "added_at": "2022-06-29 18:13:00",
-      "album": {
-        "name": "Moonlight Feels Right",
-        "url": "https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9"
-      },
-      "artists": [
-        {
-          "name": "Starbuck",
-          "url": "https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Moonlight Feels Right",
-      "url": "https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK"
-    },
-    {
       "added_at": "2021-04-22 18:12:12",
       "album": {
         "name": "Silk Degrees",
@@ -735,38 +735,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Sleeper Catcher (Remastered)",
-        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
-      },
-      "artists": [
-        {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
-        }
-      ],
-      "duration_ms": 257868,
-      "name": "Reminiscing - Remastered",
-      "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Turnstiles",
-        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Summer, Highland Falls",
-      "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "A-1-A",
         "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
       },
@@ -779,6 +747,22 @@
       "duration_ms": 235360,
       "name": "A Pirate Looks At Forty",
       "url": "https://open.spotify.com/track/6ac6RlvEhiFraIxBYHhg1j"
+    },
+    {
+      "added_at": "2022-06-29 18:13:00",
+      "album": {
+        "name": "Moonlight Feels Right",
+        "url": "https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9"
+      },
+      "artists": [
+        {
+          "name": "Starbuck",
+          "url": "https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Moonlight Feels Right",
+      "url": "https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK"
     },
     {
       "added_at": "2022-03-31 19:29:02",
@@ -799,18 +783,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
+        "name": "Turnstiles",
+        "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
       },
       "artists": [
         {
-          "name": "Poco",
-          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 294533,
-      "name": "Heart Of The Night",
-      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
+      "duration_ms": 199960,
+      "name": "Summer, Highland Falls",
+      "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -843,6 +827,22 @@
       "duration_ms": 322333,
       "name": "Heart to Heart",
       "url": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
+      },
+      "artists": [
+        {
+          "name": "Poco",
+          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Heart Of The Night",
+      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
     },
     {
       "added_at": "2022-06-29 18:13:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Robbie Dupree",
-        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
-      },
-      "artists": [
-        {
-          "name": "Robbie Dupree",
-          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
-        }
-      ],
-      "duration_ms": 221432,
-      "name": "Hot Rod Hearts - Remastered",
-      "url": "https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Son Of A Son Of A Sailor",
         "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Dialogue",
-        "url": "https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK"
+        "name": "Robbie Dupree",
+        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
       },
       "artists": [
         {
-          "name": "Michael Johnson",
-          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
+          "name": "Robbie Dupree",
+          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
         }
       ],
-      "duration_ms": 241266,
-      "name": "This Night Won't Last Forever",
-      "url": "https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam"
+      "duration_ms": 221432,
+      "name": "Hot Rod Hearts - Remastered",
+      "url": "https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -939,6 +923,22 @@
       "duration_ms": 265221,
       "name": "This Time I'm In It For Love",
       "url": "https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Dialogue",
+        "url": "https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK"
+      },
+      "artists": [
+        {
+          "name": "Michael Johnson",
+          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "This Night Won't Last Forever",
+      "url": "https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -987,6 +987,38 @@
       "duration_ms": 196240,
       "name": "In Your Letter",
       "url": "https://open.spotify.com/track/0udUxLibGsKop4rlmBaVsi"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Diamantina Cocktail (Remastered)",
+        "url": "https://open.spotify.com/album/2y1AfhFTokE1bObd4Dcakg"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 237049,
+      "name": "Help Is On Its Way - Remastered",
+      "url": "https://open.spotify.com/track/6HnGsS6ovVsC6dLB3CtxYh"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "Fins",
+      "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
     },
     {
       "added_at": "2022-01-26 21:27:23",
@@ -1053,22 +1085,6 @@
       "url": "https://open.spotify.com/track/7ys2QcBgHEIO6tyaRF2nOt"
     },
     {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "Fins",
-      "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
-    },
-    {
       "added_at": "2022-01-26 21:27:23",
       "album": {
         "name": "The Nightfly",
@@ -1083,22 +1099,6 @@
       "duration_ms": 347333,
       "name": "The Nightfly",
       "url": "https://open.spotify.com/track/7icC0mHYpROmIRhpa2DaFC"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Diamantina Cocktail (Remastered)",
-        "url": "https://open.spotify.com/album/2y1AfhFTokE1bObd4Dcakg"
-      },
-      "artists": [
-        {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
-        }
-      ],
-      "duration_ms": 237049,
-      "name": "Help Is On Its Way - Remastered",
-      "url": "https://open.spotify.com/track/6HnGsS6ovVsC6dLB3CtxYh"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/7vUbFCefkYWl4uSpMManF1"
     },
     {
-      "added_at": "2022-03-31 19:29:02",
-      "album": {
-        "name": "Takin' It Easy",
-        "url": "https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL"
-      },
-      "artists": [
-        {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "You're the Love",
-      "url": "https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb"
-    },
-    {
       "added_at": "2021-04-22 18:12:12",
       "album": {
         "name": "A-1-A",
@@ -1227,6 +1211,22 @@
       "duration_ms": 263466,
       "name": "Trying To Reason With Hurricane Season",
       "url": "https://open.spotify.com/track/2aT4FycQXXc4SkD2Sdm9YJ"
+    },
+    {
+      "added_at": "2022-03-31 19:29:02",
+      "album": {
+        "name": "Takin' It Easy",
+        "url": "https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL"
+      },
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "You're the Love",
+      "url": "https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb"
     },
     {
       "added_at": "2021-04-22 18:12:12",

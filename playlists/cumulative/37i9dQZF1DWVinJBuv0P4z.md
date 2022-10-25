@@ -4,7 +4,7 @@
 
 > Happy tunes from the 50s, 60s & 70s\. Cover: The Beach Boys.
 
-311 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/4WUUkJTjef9Cmttdbtlviv)
+312 songs - 17 hr 30 min - [published](https://open.spotify.com/playlist/4WUUkJTjef9Cmttdbtlviv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Disco Inferno \- Single Edit](https://open.spotify.com/track/22ff60cZy4APp7bzESHLR8) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Rhino Hi\-Five: The Trammps](https://open.spotify.com/album/6eAq1OY2L1F3qleomkvtX7) | 3:11 | 2021-04-29 | 2022-09-02 |
 | [Do Wah Diddy Diddy](https://open.spotify.com/track/7ko2240lyr2DngGin6Fx37) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Mann Made Hits](https://open.spotify.com/album/7tRHGtt1SDEOzRSweMn2yO) | 2:23 | 2021-04-29 | 2022-01-14 |
 | [Do Wah Diddy Diddy \- 1997 Remastered Version](https://open.spotify.com/track/5kWobkGc1McvhM4LzWyJO3) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [At Abbey Road](https://open.spotify.com/album/4Iizap6rgpM8EWv8FW8b0b) | 2:24 | 2021-04-29 | 2022-07-29 |
+| [Do Wah Diddy Diddy \- 2007 Remaster](https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Down the Road Apiece \- the Recordings 1963\-1966](https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT) | 2:24 | 2022-05-11 |  |
 | [Do Wah Diddy Diddy \- 2007 Remaster](https://open.spotify.com/track/69sEXPrKQ5PtCxel5csSXs) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Down the Road Apiece \- the Recordings 1963\-1966](https://open.spotify.com/album/13VP0DyGZZq15NzDVoh79y) | 2:24 | 2022-05-11 | 2022-10-14 |
 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 | 2021-04-29 |  |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:35 | 2021-04-29 |  |
@@ -312,7 +313,7 @@
 | [You Should Be Dancing \- Edit / From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Children Of The World](https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY) | 4:16 | 2021-04-29 |  |
 | [You To Me Are Everything](https://open.spotify.com/track/5g7gllIUbtPPDjHy0iZcJw) | [The Real Thing](https://open.spotify.com/artist/1NUD5By34MFynmuUynCfSj) | [Real Thing](https://open.spotify.com/album/4ghtWm6b0INsOAdFPbv5b5) | 3:28 | 2021-04-29 |  |
 | [You To Me Are Everything](https://open.spotify.com/track/0klZpFX0a84jdkqzPNrLQs) | [The Real Thing](https://open.spotify.com/artist/1NUD5By34MFynmuUynCfSj) | [Children of the Ghetto: The Pye Anthology](https://open.spotify.com/album/4YMGASMu3PZaKwq6vJoVTc) | 3:29 | 2021-04-29 | 2022-01-17 |
-| [You're Sixteen \(You’re Beautiful And You’re Mine\)](https://open.spotify.com/track/4MAxWahEbzU8m4bD6mSZg9) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Ringo](https://open.spotify.com/album/6zjenDV68SpvM3oEhorTDm) | 2:49 | 2021-04-29 |  |
+| [You're Sixteen \(You’re Beautiful And You’re Mine\)](https://open.spotify.com/track/4MAxWahEbzU8m4bD6mSZg9) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Ringo](https://open.spotify.com/album/6zjenDV68SpvM3oEhorTDm) | 2:49 | 2021-04-29 | 2022-10-25 |
 | [You're The First, The Last, My Everything \- Edit](https://open.spotify.com/track/3rqXP37YkEnizabzjM7uIu) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [All\-Time Greatest Hits](https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j) | 3:28 | 2021-04-29 | 2022-07-29 |
 | [You're The First, The Last, My Everything \- Single Version](https://open.spotify.com/track/3ZYO0HGRFFdAGeb8o7F9KC) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [You're The First, The Last, My Everything](https://open.spotify.com/album/3t2UIcBhhF4x11PFUr5Wbf) | 3:32 | 2021-04-29 | 2022-01-15 |
 | [You're The One That I Want](https://open.spotify.com/track/1pViOt8zA2rl2NfHeDGnyD) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease](https://open.spotify.com/album/3ku54lKW19XjXwhNkNdtzZ) | 2:49 | 2021-04-29 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 53077,
+  "num_followers": 53128,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDgxYzc4ODE0ZjVmZmQ5OGZhMzQ5MWI4ZWNiM2ZiNDBj",
+  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDZjNzdiYmRlOWQ2MjFlNWJmMDZjMGVkNDlhM2YzNzkx",
   "tracks": [
     {
       "added_at": "2022-07-29 05:00:00",
@@ -83,26 +83,18 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Drive (feat. Wes Nelson)",
-        "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
         }
       ],
-      "duration_ms": 179374,
-      "name": "Drive (feat. Wes Nelson)",
-      "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
+      "duration_ms": 277653,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -123,18 +115,26 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+        "name": "Drive (feat. Wes Nelson)",
+        "url": "https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
         }
       ],
-      "duration_ms": 277653,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
+      "duration_ms": 179374,
+      "name": "Drive (feat. Wes Nelson)",
+      "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "I Like 2 Be",
-        "url": "https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174923,
-      "name": "I Like 2 Be",
-      "url": "https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Letrux em Noite de Clim\u00e3o",
         "url": "https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 190735,
       "name": "Flerte Revival",
       "url": "https://open.spotify.com/track/2t2HDBOr6qB4BN5R3Pl0bF"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "I Like 2 Be",
+        "url": "https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 174923,
+      "name": "I Like 2 Be",
+      "url": "https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
+        "name": "Might Forgive You / Tkm",
+        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 249638,
+      "name": "Migth Forgive You",
+      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
         "name": "Moving Men (Remixes)",
         "url": "https://open.spotify.com/album/5A2w5utoGuiOXncW0DdnzB"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Might Forgive You / Tkm",
-        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 249638,
-      "name": "Migth Forgive You",
-      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Ca\u00edda Libre",
         "url": "https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 231050,
       "name": "Cuando Te Veo",
       "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Los Caymanes (Para Olvidar)",
+        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
+      },
+      "artists": [
+        {
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Los Caymanes (Para Olvidar)",
+      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -1079,22 +1095,6 @@
       "duration_ms": 263926,
       "name": "Eleuthera - Catching Flies Remix",
       "url": "https://open.spotify.com/track/7sv8W4bgj7MA7ZUN3GKsOg"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "Los Caymanes (Para Olvidar)",
-        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
-      },
-      "artists": [
-        {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Los Caymanes (Para Olvidar)",
-      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
     },
     {
       "added_at": "2022-07-29 05:00:00",

@@ -4,7 +4,7 @@
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-68 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/2f6ONNjgKhI99SaSsbeC2X)
+69 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/2f6ONNjgKhI99SaSsbeC2X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Everyday I Have The Blues](https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 2:49 | 2022-06-14 |  |
 | [Farther Up The Road](https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:57 | 2022-05-13 |  |
 | [Five Long Years](https://open.spotify.com/track/6rTKHtkWjoe7pRuyFSwwfX) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/0im1aMw5Wf5PUOdRKVLU1w) | 4:47 | 2022-05-13 | 2022-10-17 |
+| [Five Long Years](https://open.spotify.com/track/7mdznHVGqPbcviLMxTJwti) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg) | 4:47 | 2022-10-04 |  |
 | [Forty Four](https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:50 | 2022-05-13 |  |
 | [Goin' Down Slow](https://open.spotify.com/track/4DIg6Cu5kWVQA3KO2NQpAM) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Best Of B.B\. King & Bobby Bland](https://open.spotify.com/album/6cQSY6ltotFuFXEG4ZOAkm) | 4:41 | 2022-05-13 | 2022-07-26 |
 | [Got My Mojo Workin'](https://open.spotify.com/track/7i8YfqTfMuGrADrOQTigrb) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Got My Mojo Workin'](https://open.spotify.com/album/7M0FL4rB8lWBzMQXzyhuiO) | 8:02 | 2022-05-13 |  |
@@ -49,7 +50,7 @@
 | [Key To The Highway](https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:43 | 2022-05-13 |  |
 | [Killing Floor](https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:52 | 2022-05-13 |  |
 | [Little Red Rooster](https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:51 | 2022-05-13 |  |
-| [Mean Old World](https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:55 | 2022-05-13 |  |
+| [Mean Old World](https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:55 | 2022-05-13 | 2022-10-25 |
 | [My Babe](https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:42 | 2022-05-13 |  |
 | [Mystery Train](https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:24 | 2022-06-14 |  |
 | [Nobody Knows You When You're Down And Out](https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Let The Good Times Roll: The Music Of Louis Jordan](https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u) | 4:34 | 2022-08-18 |  |

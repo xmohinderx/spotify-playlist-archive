@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: KiNG MALA
 
-214 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
+215 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [One Night](https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [One Night](https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt) | 2:43 | 2021-04-30 |  |
 | [Opalite](https://open.spotify.com/track/2z5xSPIlMpVhqbBhYGTYht) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [Opalite](https://open.spotify.com/album/2rTg1Ce2QyVnC9zSMLt1Va) | 3:31 | 2020-08-17 | 2022-04-21 |
 | [Our House \(The Mess We Made\)](https://open.spotify.com/track/5bl2pNsPhMT37RkDUa57Ab) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/26sg6kzIjBRBeBV2dl6wzj) | 3:40 | 2020-08-17 | 2022-10-13 |
+| [Our House \(The Mess We Made\)](https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Our House \(The Mess We Made\)](https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM) | 3:40 | 2022-10-14 |  |
 | [overwhelmed](https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Overwhelmed](https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP) | 2:39 | 2020-08-17 |  |
 | [Pain Killer](https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:32 | 2022-06-17 |  |
 | [Pain Killer](https://open.spotify.com/track/5eIAOdzmt3Nxd7XDFzek9U) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Pain Killer](https://open.spotify.com/album/23wL0znsNvRZ2TPT2Hh6YK) | 3:32 | 2021-11-12 | 2022-07-29 |
@@ -185,7 +186,7 @@
 | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6) | 3:11 | 2021-12-03 |  |
 | [Summerland](https://open.spotify.com/track/0dN3cttUifpkm1Oja79zJr) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Summerland](https://open.spotify.com/album/1A1dSoZMQPU0DcCfaSLvQ1) | 3:49 | 2021-07-23 | 2022-03-05 |
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 |  |
-| [Take Me Instead](https://open.spotify.com/track/6KKE7k07XtLb3xFRsB7Ns4) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [...If You Don’t Save Yourself](https://open.spotify.com/album/3k7YVehp4DBwLxQlRAQOAL) | 2:46 | 2021-02-26 |  |
+| [Take Me Instead](https://open.spotify.com/track/6KKE7k07XtLb3xFRsB7Ns4) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [...If You Don’t Save Yourself](https://open.spotify.com/album/3k7YVehp4DBwLxQlRAQOAL) | 2:46 | 2021-02-26 | 2022-10-25 |
 | [Teleport](https://open.spotify.com/track/5uJaYw9o3w7VXMCNlXnT7K) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Teleport/Comedown](https://open.spotify.com/album/0rdcXRAneYGHkuLRA3DL1I) | 3:25 | 2022-01-21 | 2022-03-16 |
 | [Tell Me The Truth](https://open.spotify.com/track/0hdiC2o5agqlpH9G9dqbGg) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Tell Me The Truth](https://open.spotify.com/album/3zGWVpOZH5mpbT3UkC10Wa) | 4:02 | 2022-04-08 | 2022-10-13 |
 | [Tell Me The Truth](https://open.spotify.com/track/4MFLdAiHJv7zDOEbD2P2az) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form](https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL) | 4:02 | 2022-06-17 |  |

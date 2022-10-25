@@ -4,7 +4,7 @@
 
 > What's happening in R&B, right now\. Cover: NxWorries \(Anderson .Paak, Knxwledge\)
 
-350 songs - 19 hr 17 min - [published](https://open.spotify.com/playlist/1MI0QV708eM6TBitmgfhKB)
+351 songs - 19 hr 20 min - [published](https://open.spotify.com/playlist/1MI0QV708eM6TBitmgfhKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,8 @@
 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2022-04-29 | 2022-06-25 |
 | [Lifetime](https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Lifetime](https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC) | 3:09 | 2022-04-15 | 2022-05-20 |
 | [Lindsay's Freestyle](https://open.spotify.com/track/0xOnej2rwWRGRAwXFvTaYa) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [Lindsay's Freestyle](https://open.spotify.com/album/5qU1eX4515l80GTqll49eV) | 2:56 | 2021-12-31 | 2022-02-12 |
-| [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 | 2022-10-21 |  |
+| [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 | 2022-10-21 | 2022-10-25 |
+| [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/5ykuFZXYbA8frwBmutsoFx) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:18 | 2022-10-21 |  |
 | [little story](https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [little story](https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam) | 3:18 | 2022-02-25 | 2022-04-02 |
 | [Lonely](https://open.spotify.com/track/5MCuvwwlsauPDQ1BcOjw6d) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Lonely](https://open.spotify.com/album/3imuGp7I40CabgWnEfzJo3) | 3:11 | 2022-09-30 | 2022-10-15 |
 | [Lonely \(feat\. Bino Rideaux\)](https://open.spotify.com/track/37bDM2Llg0gA1iqdFZFByC) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Lonely \(feat\. Bino Rideaux\)](https://open.spotify.com/album/2H1PS3AVtPPQ5fW1nHgFhh) | 3:11 | 2022-08-05 | 2022-10-13 |

@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
@@ -1288,6 +1288,24 @@
     },
     {
       "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/5Wl4DJMOt13fs92ddL2v9Q"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212736,
+      "name": "Gilded Lily",
+      "url": "https://open.spotify.com/track/1V27TTo9FI2sl8xzGr3sCg"
+    },
+    {
+      "album": {
         "name": "Lavender",
         "url": "https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK"
       },
@@ -1695,6 +1713,28 @@
       "duration_ms": 198213,
       "name": "I Can't Handle Change",
       "url": "https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7"
+    },
+    {
+      "album": {
+        "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
+      },
+      "artists": [
+        {
+          "name": "Rosa Walton",
+          "url": "https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq"
+        },
+        {
+          "name": "Hallie Coggins",
+          "url": "https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246652,
+      "name": "I Really Want to Stay at Your House",
+      "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"
     },
     {
       "album": {
@@ -3033,7 +3073,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 180018,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/0rOLFkjY5DSIViVBNnzOuK"

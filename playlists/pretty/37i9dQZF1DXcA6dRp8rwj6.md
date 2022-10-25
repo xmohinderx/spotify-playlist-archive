@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Lil Uzi Vert\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,952 likes - 95 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,027 likes - 95 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

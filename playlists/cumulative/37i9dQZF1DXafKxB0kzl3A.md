@@ -4,13 +4,14 @@
 
 > International hitmaker, producer & DJ <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a> takes us through 2022 with his exclusive Spotify mix, featuring banger after banger.
 
-18 songs - 53 min 35 sec - not published yet
+20 songs - 1 hr 0 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1, 2 Step \(Supersonic\) \- Mixed](https://open.spotify.com/track/1AstBFivyakpfivzFC0ViG) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [1, 2 Step \(Supersonic\) \[Mixed\]](https://open.spotify.com/album/0kjGYHOMjDsYtfIiDtXmVA) | 2:34 | 2022-10-21 |  |
 | [Back Once More \- Mixed](https://open.spotify.com/track/4wywjz2l4A1WI3Mf50lQIP) | [PAJANE](https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q) | [Back Once More \(Mixed\)](https://open.spotify.com/album/3AssGUn2sGlc6OGpSx66jO) | 3:28 | 2022-10-21 |  |
 | [Baila Conmigo \- Mixed](https://open.spotify.com/track/7cOoteCN7DpRSbH8kNGIS7) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo \(Mixed\)](https://open.spotify.com/album/40tVWZgkMJW2qqjqTbokKZ) | 3:07 | 2022-10-21 |  |
+| [Belly Dancer \- Mixed](https://open.spotify.com/track/3lVZVPsbr7OA9ed6aKAO0r) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Belly Dancer \(Mixed\)](https://open.spotify.com/album/3YXvypMu72Y87krDoJcu5D) | 2:58 | 2022-10-24 |  |
 | [Can U Dance \(To My Beat\) \- Mixed](https://open.spotify.com/track/1GcLWPGs2g0XfSmnnkeuiz) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Can U Dance \(To My Beat\) \[Mixed\]](https://open.spotify.com/album/74GzUSP8ll2E5UQOOLJSk4) | 2:26 | 2022-10-21 |  |
 | [Chromatic \- Mixed](https://open.spotify.com/track/3M7tlESHk6GvQvx50y3T2O) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Chromatic \(Mixed\)](https://open.spotify.com/album/6lVhEsy76EU3zYDyUh51eQ) | 4:32 | 2022-10-21 |  |
 | [Hot In It \- Mixed](https://open.spotify.com/track/0HvlkQcPTvr8hSn0Tspyq1) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Hot In It \(Mixed\)](https://open.spotify.com/album/4EWykLQFMzXkfxvpdJ2FHW) | 2:13 | 2022-10-21 |  |
@@ -25,6 +26,7 @@
 | [Si Es Trucho Es Trucho \(feat\. El Alfa & Farruko\) \- Tiësto Remix \- Mixed](https://open.spotify.com/track/0a32J86J0a1bDAnS1UJC06) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB) | [Si Es Trucho Es Trucho \(feat\. El Alfa & Farruko\) \- Tiësto Remix \[Mixed\]](https://open.spotify.com/album/6dO1M7b2p2dzx8JfAuKwN0) | 2:23 | 2022-10-21 |  |
 | [The Business \- Mixed](https://open.spotify.com/track/5hXnGiiq4VwNcBRw7cWccP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business \(Mixed\)](https://open.spotify.com/album/3m6IobR1PVxHjrAMSiLBN3) | 2:58 | 2022-10-21 |  |
 | [The Motto \- Tiësto’s VIP Mix \- Mixed](https://open.spotify.com/track/4j5cFdnUP2iC9c46O4CnoZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Motto \- Tiësto’s VIP Mix \(Mixed\)](https://open.spotify.com/album/6GbUkXBAMQ3XNUsVxpLS1W) | 3:32 | 2022-10-21 |  |
+| [This Feeling \- Mixed](https://open.spotify.com/track/6IB1Rk80kekawq0USeg4Lc) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [This Feeling \(Mixed\)](https://open.spotify.com/album/2ERNyhR6CuKzqbScHK2MEs) | 3:27 | 2022-10-24 |  |
 | [Time \- Mixed](https://open.spotify.com/track/0aSi6uQjGbr4BNxnfylwQW) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Time \(Mixed\)](https://open.spotify.com/album/7mPPBwkShz8DGUO0BI739q) | 3:19 | 2022-10-21 |  |
 
 \*This playlist was first scraped on 2022-10-24. Prior content cannot be recovered.

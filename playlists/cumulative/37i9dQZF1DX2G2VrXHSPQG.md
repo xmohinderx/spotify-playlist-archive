@@ -4,7 +4,7 @@
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
 
-135 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/0ORcVEhvSZghh7zSPbWGd2)
+136 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/0ORcVEhvSZghh7zSPbWGd2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Genghis Khan](https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:32 | 2021-07-27 |  |
 | [Gold Rush](https://open.spotify.com/track/6x9VaGUbiSRvkLEdjeqjsN) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Thank You for Today](https://open.spotify.com/album/6agCM9GJcebduMddgFmgsO) | 4:00 | 2022-01-14 | 2022-07-27 |
 | [Guiding Light](https://open.spotify.com/track/4VeCmOb1rAEZQfH7Rlms9C) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz) | 3:37 | 2022-02-04 | 2022-10-13 |
+| [Guiding Light](https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 3:37 | 2022-02-04 |  |
 | [Hallucinogenics](https://open.spotify.com/track/6bLU8e0LGyztE9iD5DWBQ1) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Bank On The Funeral](https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL) | 3:07 | 2021-07-27 |  |
 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 | 2022-01-14 |  |
 | [Hard To Be Alone](https://open.spotify.com/track/6xQpOC55lufcqXvSzp7GTb) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Hard To Be Alone](https://open.spotify.com/album/7c2VhL8HYMCwWIs54xEX2o) | 3:02 | 2021-07-27 | 2022-07-29 |
@@ -97,7 +98,7 @@
 | [Preach](https://open.spotify.com/track/2mAlil0VCzglcu4t1dALfN) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Preach](https://open.spotify.com/album/26EBjKTpGv7b9UczhXxFUe) | 3:04 | 2021-07-27 | 2022-07-29 |
 | [Preach](https://open.spotify.com/track/4wxTn03zuXvkQwNvI6oHyF) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [The Original Motion Picture Soundtrack](https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe) | 3:04 | 2022-02-04 |  |
 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 | 2021-07-27 | 2022-05-20 |
-| [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2022-02-04 |  |
+| [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2022-02-04 | 2022-10-25 |
 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 | 2022-02-04 |  |
 | [Real Long Time](https://open.spotify.com/track/3XJWtFxgZdEn1pyFlirO1l) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [You Deserve Love](https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR) | 3:17 | 2021-07-27 | 2022-07-29 |
 | [Real Love Song](https://open.spotify.com/track/1Bjt6Q7U4jE5OPIZaEaDo4) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Real Love Song](https://open.spotify.com/album/4o4MWlEeDP3lxRreejFKpa) | 3:42 | 2021-07-27 |  |

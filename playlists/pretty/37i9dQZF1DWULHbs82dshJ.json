@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.",
-  "num_followers": 46623,
+  "num_followers": 46622,
   "original_name": "Dia de Chuva",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMDFiYTc3YWQ1NjZkNGM2MTEwZTM0NDk5NjQxYTlhODRh",
+  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMGI4MTliNGRkOWQ5YjgwMWFhNDJlOWRhMmE3OTUzZGQ2",
   "tracks": [
     {
       "added_at": "2021-12-15 15:42:19",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 272186,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 376169,
       "name": "I Drink Wine",
       "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 272186,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
         "name": "Lioness: Hidden Treasures",
         "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 262813,
       "name": "Will You Still Love Me Tomorrow? - 2011",
       "url": "https://open.spotify.com/track/0LbK1bodGLc9xmV1cS9jvL"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -687,22 +687,18 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "ALICIA",
-        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+        "name": "Wrong Places (from Songland)",
+        "url": "https://open.spotify.com/album/2egSKhWoeRAIycSMnlew9P"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 234866,
-      "name": "So Done (feat. Khalid)",
-      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
+      "duration_ms": 197727,
+      "name": "Wrong Places (from Songland)",
+      "url": "https://open.spotify.com/track/2mtLGVN6xZm93wDG9nvviS"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -723,18 +719,22 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "Wrong Places (from Songland)",
-        "url": "https://open.spotify.com/album/2egSKhWoeRAIycSMnlew9P"
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 197727,
-      "name": "Wrong Places (from Songland)",
-      "url": "https://open.spotify.com/track/2mtLGVN6xZm93wDG9nvviS"
+      "duration_ms": 234866,
+      "name": "So Done (feat. Khalid)",
+      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
     },
     {
       "added_at": "2021-12-15 15:42:19",

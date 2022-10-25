@@ -4,7 +4,7 @@
 
 > Current favorites and exciting new music\. Cover: Beyoncé
 
-679 songs - 1 day 11 hr 22 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
+680 songs - 1 day 11 hr 24 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2021-07-24 | 2022-03-05 |
 | [LUCID](https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [LUCID](https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C) | 3:38 | 2020-11-27 | 2021-01-15 |
 | [L’enfer](https://open.spotify.com/track/7bp3zmEvpHLa0h32nhDUkB) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [L’enfer](https://open.spotify.com/album/7bSSz8KnOpZaJor6Cs3GkM) | 3:09 | 2022-01-21 | 2022-02-26 |
+| [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-24 |  |
 | [Magia](https://open.spotify.com/track/3KJ1QkwWObfuq54pgwTRyW) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Magia](https://open.spotify.com/album/1x676W6ARASsW9BR4txWeK) | 3:12 | 2021-04-30 | 2021-06-12 |
 | [Magic](https://open.spotify.com/track/1qnWNtZn43T7SyDyplj8yE) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Magic](https://open.spotify.com/album/6Vwty1TjRz2UG0shKJqsjn) | 4:10 | 2020-10-13\* | 2020-10-16 |
 | [Magical Love](https://open.spotify.com/track/0yNJ6ohn2kmEndRLAXhQvJ) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Magical Love](https://open.spotify.com/album/3hqE43sWPNyUZZut3VNgMU) | 3:05 | 2022-06-17 | 2022-08-13 |

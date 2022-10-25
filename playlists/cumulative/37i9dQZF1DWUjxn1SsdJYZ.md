@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Mulalo
 
-271 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+272 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Night Riders \(feat\. Hooks, Hooligan Skinny, ENZO & NASA NOVA\)](https://open.spotify.com/track/7mq35SUsRC8EL1TZUN9ZUW) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe), [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u), [Hooligan Skinny](https://open.spotify.com/artist/6E2hlUEGs0bO0ktdZKy1lh) | [Night Riders \(feat\. Hooks, Hooligan Skinny, ENZO & NASA NOVA\)](https://open.spotify.com/album/5k60dt8jcSdr9xiDqn0JDi) | 2:56 | 2022-05-09 | 2022-07-29 |
 | [NINE TO FIVE](https://open.spotify.com/track/7C9jyySCogo2X5zJsS4RFd) | [The GP](https://open.spotify.com/artist/0gTh7DXw0XXoq067gagX3l) | [NINE TO FIVE](https://open.spotify.com/album/5Vo1AiGbU7kV1QjDE2iVL2) | 2:54 | 2022-03-24 | 2022-09-30 |
 | [Nintendo](https://open.spotify.com/track/65NrY7O1GxRR4R7xwJEJcb) | [Ben Jones](https://open.spotify.com/artist/3Tdc4Os3L5gHDozXuubEcO), [Taro](https://open.spotify.com/artist/1VJRmubTyX5ICGPUtl0jaI), [Vilan ✘](https://open.spotify.com/artist/5slzQA3GOAlaex2mJCXNai) | [Nintendo](https://open.spotify.com/album/5cy5WsmOJlgvUp6bZVAKoF) | 3:21 | 2022-06-30 | 2022-07-26 |
+| [NJ \(Freestyle\)](https://open.spotify.com/track/1jItGRDxckHhQBZ3Y9xVch) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ) | [NJ \(Freestyle\)](https://open.spotify.com/album/0bYdUoADyRkjmrp95lfWrj) | 1:52 | 2022-10-24 |  |
 | [NO BONNIE N CLYDE](https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [NO BONNIE N CLYDE](https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm) | 2:13 | 2022-03-21 |  |
 | [No Gang](https://open.spotify.com/track/0ZXsjdga92OfHtqQHdOcNX) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [No Gang](https://open.spotify.com/album/6NWqkkaDMh3ynqgkz9tASS) | 3:04 | 2022-03-21 | 2022-08-10 |
 | [No Statements](https://open.spotify.com/track/6evG9IJ0ewjyHtRyWSCm4r) | [Bad1](https://open.spotify.com/artist/2kkXWYoznhCVemmiCKq2wb) | [No Statements](https://open.spotify.com/album/12dNeR4Cv9kbjsH5ZIdTz8) | 2:45 | 2022-09-08 |  |

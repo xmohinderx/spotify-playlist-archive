@@ -1,13 +1,45 @@
 {
   "description": "So fresh, so smooth. Cover: Kim Scott",
-  "num_followers": 37823,
+  "num_followers": 37875,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjAyMTUxNCwwMDAwMDAwMDQwOGY0YTZhYWZhN2Y0MjJlZjcxM2FjYWJmODc0NTQx",
+  "snapshot_id": "MTY2NjYyMjU5MiwwMDAwMDAwMGQyMTQ2ODZmMjkwYzQwNGUxNGRmYjgzOTQ4ZmU1ODli",
   "tracks": [
+    {
+      "added_at": "2022-10-24 14:43:12",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/7k7JcYg66RUHHhr1Z3bUwb"
+      },
+      "artists": [
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "BE",
+      "url": "https://open.spotify.com/track/2BOcRhGIKurTmHQ8t22y6D"
+    },
+    {
+      "added_at": "2022-10-24 14:43:12",
+      "album": {
+        "name": "Breakthrough (Radio Version)",
+        "url": "https://open.spotify.com/album/22zItMh82OOe6smlsUzEUt"
+      },
+      "artists": [
+        {
+          "name": "Cal Harris Jr.",
+          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
+        }
+      ],
+      "duration_ms": 252877,
+      "name": "Breakthrough - Radio Version",
+      "url": "https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC"
+    },
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
@@ -25,22 +57,6 @@
       "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "What You Do To Me",
-        "url": "https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 297750,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
-    },
-    {
       "added_at": "2022-10-17 15:45:13",
       "album": {
         "name": "Unspeakable",
@@ -55,6 +71,22 @@
       "duration_ms": 226438,
       "name": "Unspeakable",
       "url": "https://open.spotify.com/track/67QfU7JAysM3CB9Ls4oazA"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "What You Do To Me",
+        "url": "https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 297750,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -75,6 +107,22 @@
       "duration_ms": 264573,
       "name": "Motor City Moves (feat. Lin Rountree)",
       "url": "https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "One More Night - Single Edit",
+      "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -109,6 +157,22 @@
       "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
     },
     {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 248573,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu"
+    },
+    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Summer Solstice",
@@ -129,42 +193,6 @@
       "url": "https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 248573,
-      "name": "Detour",
-      "url": "https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "H.A.D.",
-        "url": "https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ"
-      },
-      "artists": [
-        {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
-        },
-        {
-          "name": "Chieli Minucci",
-          "url": "https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX"
-        }
-      ],
-      "duration_ms": 253720,
-      "name": "H.A.D. (featuring Chieli Minucci)",
-      "url": "https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Lavish",
@@ -183,22 +211,6 @@
       "duration_ms": 257410,
       "name": "Lavish",
       "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Look Both Ways",
-        "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 283760,
-      "name": "Look Both Ways",
-      "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -231,22 +243,6 @@
       "duration_ms": 231267,
       "name": "III",
       "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4"
-      },
-      "artists": [
-        {
-          "name": "David P Stevens",
-          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
-        }
-      ],
-      "duration_ms": 230187,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -337,22 +333,6 @@
       "url": "https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "One More Night - Single Edit",
-      "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
-    },
-    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "Foolish Heart",
@@ -417,6 +397,26 @@
       "url": "https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6"
     },
     {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "H.A.D.",
+        "url": "https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ"
+      },
+      "artists": [
+        {
+          "name": "Michael J Thomas",
+          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+        },
+        {
+          "name": "Chieli Minucci",
+          "url": "https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX"
+        }
+      ],
+      "duration_ms": 253720,
+      "name": "H.A.D. (featuring Chieli Minucci)",
+      "url": "https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Make Up Your Mind (Radio Edit)",
@@ -431,54 +431,6 @@
       "duration_ms": 240280,
       "name": "Make Up Your Mind - Radio Edit",
       "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
-      },
-      "artists": [
-        {
-          "name": "Paul Brown",
-          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Secret Sauce",
-      "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Step to This",
-        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Step to This",
-      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
-    },
-    {
-      "added_at": "2022-04-08 04:02:00",
-      "album": {
-        "name": "Catalina Nights",
-        "url": "https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97"
-      },
-      "artists": [
-        {
-          "name": "Braxton Brothers",
-          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
-        }
-      ],
-      "duration_ms": 244435,
-      "name": "Catalina Nights",
-      "url": "https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -501,20 +453,100 @@
       "url": "https://open.spotify.com/track/5NmCYR2MIpJhHzB5nAwDUE"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
+      "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU"
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4"
       },
       "artists": [
         {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+          "name": "David P Stevens",
+          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
         }
       ],
-      "duration_ms": 256708,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
+      "duration_ms": 230187,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
+    },
+    {
+      "added_at": "2022-04-08 04:02:00",
+      "album": {
+        "name": "Catalina Nights",
+        "url": "https://open.spotify.com/album/0qAGgRZUQlLzmIHww3hz97"
+      },
+      "artists": [
+        {
+          "name": "Braxton Brothers",
+          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
+        }
+      ],
+      "duration_ms": 244435,
+      "name": "Catalina Nights",
+      "url": "https://open.spotify.com/track/1P0QSIHqHQVMQXsm7zX1c6"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Tribute",
+        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "Tribute",
+      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
+    },
+    {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
+      },
+      "artists": [
+        {
+          "name": "Paul Brown",
+          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Secret Sauce",
+      "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Look Both Ways",
+        "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 283760,
+      "name": "Look Both Ways",
+      "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Step to This",
+        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Step to This",
+      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -533,20 +565,20 @@
       "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1UUkZTGU4Jl70yEE3rX1nU"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
         }
       ],
-      "duration_ms": 245426,
-      "name": "Tribute",
-      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
+      "duration_ms": 256708,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -629,6 +661,22 @@
       "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
     },
     {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Summertime in Nyc (Instrumental Mix)",
+        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 210179,
+      "name": "Summertime in Nyc (Instrumental Mix)",
+      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Summer in Blue",
@@ -647,18 +695,18 @@
     {
       "added_at": "2022-05-20 04:02:00",
       "album": {
-        "name": "Summertime in Nyc (Instrumental Mix)",
-        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
       },
       "artists": [
         {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
         }
       ],
-      "duration_ms": 210179,
-      "name": "Summertime in Nyc (Instrumental Mix)",
-      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
+      "duration_ms": 224237,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -675,22 +723,6 @@
       "duration_ms": 254346,
       "name": "Stride",
       "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 224237,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -805,22 +837,6 @@
       "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
-        }
-      ],
-      "duration_ms": 374536,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Ticket to Pittsburgh",
@@ -845,44 +861,20 @@
       "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
+      "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "A Sunny Day",
-        "url": "https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA"
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
       },
       "artists": [
         {
-          "name": "WaKaNa",
-          "url": "https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6"
-        },
-        {
-          "name": "Jonathan Fritz\u00e9n",
-          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
         }
       ],
-      "duration_ms": 255466,
-      "name": "Fika Talk",
-      "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA"
-      },
-      "artists": [
-        {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        },
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 274096,
-      "name": "Busta Move",
-      "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
+      "duration_ms": 374536,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
     }
   ],
   "unique_name": "New Smooth Jazz",

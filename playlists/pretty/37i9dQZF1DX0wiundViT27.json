@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy, feel-good rock tunes.",
-  "num_followers": 611893,
+  "num_followers": 611897,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDRlOWE5NDI0Njg1NTI5MzcwNTA1OTA1MGNmZGQxODQy",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGJiMTgyN2Y0OWUwMDQ1Njk0ZDViNTc2ZjQxMTgyMzAz",
   "tracks": [
     {
       "added_at": "2022-10-05 20:33:45",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 205158,
-      "name": "bloody valentine",
-      "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "Save Rock And Roll",
         "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 186826,
       "name": "My Songs Know What You Did In The Dark (Light Em Up)",
       "url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 205158,
+      "name": "bloody valentine",
+      "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 218626,
       "name": "Ignorance",
       "url": "https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "boy",
+        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 198480,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 235613,
-      "name": "Bored To Death",
-      "url": "https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "Fitz and The Tantrums (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 193253,
       "name": "HandClap",
       "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 235613,
+      "name": "Bored To Death",
+      "url": "https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "HOLY FVCK",
-        "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
         }
       ],
-      "duration_ms": 160441,
-      "name": "SUBSTANCE",
-      "url": "https://open.spotify.com/track/7ev5KssrPo4hVEHWYQ1yvS"
+      "duration_ms": 167287,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -551,34 +551,18 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
+        "name": "HOLY FVCK",
+        "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
       },
       "artists": [
         {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 167287,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
-        "name": "Costello Music",
-        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Chelsea Dagger",
-      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
+      "duration_ms": 160441,
+      "name": "SUBSTANCE",
+      "url": "https://open.spotify.com/track/7ev5KssrPo4hVEHWYQ1yvS"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -599,6 +583,22 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
+        "name": "Costello Music",
+        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Chelsea Dagger",
+      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 198546,
       "name": "Let The Bad Times Roll",
       "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -635,22 +651,6 @@
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "Won\u2019t Stand Down",
-        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 209061,
-      "name": "Won\u2019t Stand Down",
-      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
+        "name": "Won\u2019t Stand Down",
+        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
         "name": "Wonderful Wonderful",
         "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
       },
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "FUNERAL GREY",
-        "url": "https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld"
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
       "artists": [
         {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 164138,
-      "name": "FUNERAL GREY",
-      "url": "https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ"
+      "duration_ms": 193106,
+      "name": "1901",
+      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -783,6 +783,22 @@
       "duration_ms": 169655,
       "name": "Life's Coming in Slow - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "FUNERAL GREY",
+        "url": "https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 164138,
+      "name": "FUNERAL GREY",
+      "url": "https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -819,38 +835,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "1901",
-      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
-        "name": "Internet Killed The Rockstar",
-        "url": "https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 159393,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/7vXtuHrqgzQi58ihUO7L2d"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "Ramon Ayala",
         "url": "https://open.spotify.com/album/3QHU1NiJaARZJbBbYG1BeQ"
       },
@@ -883,34 +867,18 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "THREE HEADS*",
-        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
+        "name": "Internet Killed The Rockstar",
+        "url": "https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO"
       },
       "artists": [
         {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
         }
       ],
-      "duration_ms": 171842,
-      "name": "THREE HEADS*",
-      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
-        "name": "Don't Miss",
-        "url": "https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        }
-      ],
-      "duration_ms": 186156,
-      "name": "Don't Miss",
-      "url": "https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e"
+      "duration_ms": 159393,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/7vXtuHrqgzQi58ihUO7L2d"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -931,18 +899,34 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "TIRED OF WINNING",
-        "url": "https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY"
+        "name": "Don't Miss",
+        "url": "https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9"
       },
       "artists": [
         {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
         }
       ],
-      "duration_ms": 206586,
-      "name": "TIRED OF WINNING",
-      "url": "https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO"
+      "duration_ms": 186156,
+      "name": "Don't Miss",
+      "url": "https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "THREE HEADS*",
+        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171842,
+      "name": "THREE HEADS*",
+      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -975,6 +959,22 @@
       "duration_ms": 211430,
       "name": "Hated",
       "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "TIRED OF WINNING",
+        "url": "https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "TIRED OF WINNING",
+      "url": "https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "Eye of the Storm",
-        "url": "https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 234149,
-      "name": "Eye of the Storm",
-      "url": "https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 222738,
       "name": "Planet Zero",
       "url": "https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 234149,
+      "name": "Eye of the Storm",
+      "url": "https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
+        "name": "Everything's Electric",
+        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "Everything's Electric",
+      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
         "name": "Foxglove",
         "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 175150,
       "name": "The Emperor",
       "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
-        "name": "Everything's Electric",
-        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "Everything's Electric",
-      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "you're not special",
-        "url": "https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 166758,
-      "name": "you're not special",
-      "url": "https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "Outrage! Is Now",
         "url": "https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 198081,
       "name": "Freeze Me",
       "url": "https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "you're not special",
+        "url": "https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 166758,
+      "name": "you're not special",
+      "url": "https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB"
     },
     {
       "added_at": "2022-10-05 20:33:45",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of powerful voices and alluring siren songs. ",
-  "num_followers": 596840,
+  "num_followers": 596886,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDRmNzc2NmU5ODhjOGI4OTI1Y2EyYjc3NzM3OTkwNmEw",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDUzZDNlM2UzZTg1NTI0Y2ZkNWQ0NzZhMzZhOTU2NGIz",
   "tracks": [
     {
       "added_at": "2022-07-22 02:11:14",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-07-22 02:11:14",
       "album": {
-        "name": "Metals",
-        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "How Come You Never Go There",
-      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
-    },
-    {
-      "added_at": "2022-07-22 02:11:14",
-      "album": {
         "name": "Sparrow",
         "url": "https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu"
       },
@@ -495,6 +479,38 @@
       "duration_ms": 232186,
       "name": "Hands on You",
       "url": "https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi"
+    },
+    {
+      "added_at": "2022-07-22 02:11:14",
+      "album": {
+        "name": "Harmony (Deluxe)",
+        "url": "https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7"
+      },
+      "artists": [
+        {
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "Stompa",
+      "url": "https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH"
+    },
+    {
+      "added_at": "2022-07-22 02:11:14",
+      "album": {
+        "name": "Metals",
+        "url": "https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "How Come You Never Go There",
+      "url": "https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp"
     },
     {
       "added_at": "2022-07-22 02:11:14",
@@ -527,22 +543,6 @@
       "duration_ms": 213054,
       "name": "Never Want to Be In Love",
       "url": "https://open.spotify.com/track/0KPNkGhDgIpS9wVFi7AiUP"
-    },
-    {
-      "added_at": "2022-07-22 02:11:14",
-      "album": {
-        "name": "Harmony (Deluxe)",
-        "url": "https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7"
-      },
-      "artists": [
-        {
-          "name": "Serena Ryder",
-          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
-        }
-      ],
-      "duration_ms": 221746,
-      "name": "Stompa",
-      "url": "https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH"
     },
     {
       "added_at": "2022-07-22 02:11:14",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-07-22 02:11:14",
       "album": {
-        "name": "Park",
-        "url": "https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C"
-      },
-      "artists": [
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF"
-    },
-    {
-      "added_at": "2022-07-22 02:11:14",
-      "album": {
         "name": "Moonlit and Devious",
         "url": "https://open.spotify.com/album/5S9XXlP7dHIcK9mZNnzqAr"
       },
@@ -1055,18 +1039,34 @@
     {
       "added_at": "2022-07-22 02:11:14",
       "album": {
-        "name": "Human Again",
-        "url": "https://open.spotify.com/album/3oFP50clZCAQy3bpI4vyNM"
+        "name": "Park",
+        "url": "https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C"
       },
       "artists": [
         {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
         }
       ],
-      "duration_ms": 241640,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6UGhHbDZ76PqGR2C9pdWbb"
+      "duration_ms": 158333,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF"
+    },
+    {
+      "added_at": "2022-07-22 02:11:14",
+      "album": {
+        "name": "Moonrise",
+        "url": "https://open.spotify.com/album/3xdz6wjuFKBPjCWoj0W7Dh"
+      },
+      "artists": [
+        {
+          "name": "WILDWOOD",
+          "url": "https://open.spotify.com/artist/3Lzf1IWlT9sawIHyxBj89V"
+        }
+      ],
+      "duration_ms": 223408,
+      "name": "Moonrise",
+      "url": "https://open.spotify.com/track/5NcrIQBZQDI5ngzOU06S54"
     },
     {
       "added_at": "2022-07-22 02:11:14",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-07-22 02:11:14",
       "album": {
-        "name": "Old Souls, Young Bodies",
-        "url": "https://open.spotify.com/album/3rImHlWa9YsEUcdan3toc7"
+        "name": "Human Again",
+        "url": "https://open.spotify.com/album/3oFP50clZCAQy3bpI4vyNM"
       },
       "artists": [
         {
-          "name": "Whissell",
-          "url": "https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh"
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
         }
       ],
-      "duration_ms": 211216,
-      "name": "Pain of Love",
-      "url": "https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb"
+      "duration_ms": 241640,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6UGhHbDZ76PqGR2C9pdWbb"
     },
     {
       "added_at": "2022-07-22 02:11:14",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2022-07-22 02:11:14",
       "album": {
-        "name": "Moonrise",
-        "url": "https://open.spotify.com/album/3xdz6wjuFKBPjCWoj0W7Dh"
+        "name": "Old Souls, Young Bodies",
+        "url": "https://open.spotify.com/album/3rImHlWa9YsEUcdan3toc7"
       },
       "artists": [
         {
-          "name": "WILDWOOD",
-          "url": "https://open.spotify.com/artist/3Lzf1IWlT9sawIHyxBj89V"
+          "name": "Whissell",
+          "url": "https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh"
         }
       ],
-      "duration_ms": 223408,
-      "name": "Moonrise",
-      "url": "https://open.spotify.com/track/5NcrIQBZQDI5ngzOU06S54"
+      "duration_ms": 211216,
+      "name": "Pain of Love",
+      "url": "https://open.spotify.com/track/3MtBYMhHTNhD4xICSFAikb"
     },
     {
       "added_at": "2022-07-22 02:11:14",

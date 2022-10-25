@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-216 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/2jXYw271QWNTNjZdsrC7FY)
+217 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/2jXYw271QWNTNjZdsrC7FY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Forget Me Not](https://open.spotify.com/track/1W6qRXlZYO13iMTuFedW7B) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS) | [Vera Lynn \- We'll Meet Again](https://open.spotify.com/album/5aVvj7TjxWSwkrqBHK7bbX) | 3:11 | 2020-07-08 | 2022-06-16 |
 | [Got You On My Mind](https://open.spotify.com/track/4Cv55nP96KLXXDbeAqAs7A) | [Tony Brent](https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj) | [Must Have](https://open.spotify.com/album/5tS3mnciRSD6nPw2HPqLny) | 3:06 | 2020-07-08 | 2022-01-01 |
 | [Heartbeat](https://open.spotify.com/track/40zE8BJltSPhknro4M7BYO) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:09 | 2020-07-08 | 2022-06-27 |
+| [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 | 2020-07-08 |  |
 | [Hey There](https://open.spotify.com/track/5B2BfuLsELShqw7CrHuZpN) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [CRY](https://open.spotify.com/album/0Vqj7U2w6U7txFlZWA5dWj) | 2:57 | 2020-07-08 | 2022-07-28 |
 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/2KA7Kytj9Ahdb6tX74EJJ3) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Pure..\. '50s](https://open.spotify.com/album/01YaGa6qd4HjIPjyJI8mpb) | 2:37 | 2020-07-08 | 2022-07-29 |
 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/0ns2AQy1XC8xBYebbVho3I) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Command Performance](https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk) | 2:39 | 2020-07-08 |  |
@@ -223,6 +224,6 @@
 | [You Belong To Me](https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 3:12 | 2020-07-08 | 2022-07-29 |
 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 | 2020-07-08 |  |
 | [Young Love](https://open.spotify.com/track/0fxGmAXY63q33mpOJdZlZ2) | [Tab Hunter](https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe) | [Dreamboats & Petticoats \- 10th Anniversary Collection](https://open.spotify.com/album/6irHfPP8fECBbyKDczgiIP) | 2:18 | 2020-07-08 | 2022-07-29 |
-| [Young Love](https://open.spotify.com/track/3f447padVRsEa7JrtRNJhT) | [Tab Hunter](https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe) | [The Young Love of Tab Hunter](https://open.spotify.com/album/42j5U2yHrzwOsXQnzkmk4j) | 2:26 | 2020-07-08 |  |
+| [Young Love](https://open.spotify.com/track/3f447padVRsEa7JrtRNJhT) | [Tab Hunter](https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe) | [The Young Love of Tab Hunter](https://open.spotify.com/album/42j5U2yHrzwOsXQnzkmk4j) | 2:26 | 2020-07-08 | 2022-10-25 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

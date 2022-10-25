@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Hozier
 
-347 songs - 19 hr 49 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
+348 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,8 +76,9 @@
 | [Different Kinds of Light](https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/3GuKxYi7tirtH3BZvTGddh) | 3:05 | 2021-11-19 | 2022-02-05 |
 | [DIM](https://open.spotify.com/track/6wTliafSJi7OgSmVugTYwS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [DIM](https://open.spotify.com/album/1OgtOEJaZLO4zm7mq9MnvK) | 4:31 | 2021-11-19 | 2022-07-14 |
 | [do all my friends hate me?](https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [do all my friends hate me?](https://open.spotify.com/album/4Y7rAETgLemPCqrOrlgoRa) | 3:24 | 2022-02-11 | 2022-06-17 |
-| [Dominoes](https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Dominoes](https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8) | 3:43 | 2021-11-19 |  |
+| [Dominoes](https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Dominoes](https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8) | 3:43 | 2021-11-19 | 2022-10-25 |
 | [Don't Grow Up Too Fast](https://open.spotify.com/track/0zQStWTaXhsovcUMcxa3ui) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Don't Grow Up Too Fast](https://open.spotify.com/album/7CwpEBfMIZ7His4bkV8maE) | 4:02 | 2022-06-17 | 2022-10-14 |
+| [Don't Grow Up Too Fast](https://open.spotify.com/track/1moE3Qvo70cpkGT6RcRy9l) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Don't Grow Up Too Fast](https://open.spotify.com/album/4YHy2q0WEJaCNGRy4I1xsw) | 4:02 | 2022-08-12 |  |
 | [doomsday](https://open.spotify.com/track/27KG1LszbO6bBHA0tPgeuW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [doomsday](https://open.spotify.com/album/3RuDESb4PCEevmw6FVzOLm) | 4:28 | 2021-11-19 | 2022-02-22 |
 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 | 2021-11-19 | 2022-06-09 |
 | [Dressed for the Weather](https://open.spotify.com/track/1T3OnKkjWl07lml6es5Gzz) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Thad Cockrell](https://open.spotify.com/artist/1kZ6UUBDcd4a0H3wKFhzvM) | [Dressed for the Weather](https://open.spotify.com/album/7p3KQYXyBJL1Az7piFbgxz) | 2:47 | 2021-11-19 | 2022-05-20 |

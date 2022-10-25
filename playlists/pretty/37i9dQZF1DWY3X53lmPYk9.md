@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,485 likes - 150 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,520 likes - 150 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

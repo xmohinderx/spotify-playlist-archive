@@ -1,12 +1,12 @@
 {
   "description": "Turn up with the biggest party tracks of the '90s and '00s.",
-  "num_followers": 2139600,
+  "num_followers": 2140145,
   "original_name": "Throwback Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ3ODc5OSwwMDAwMDAwMDY4ZTNlMzY2MjNlNDdjODA5NTMzZjFkNzRiZDg2YzBj",
+  "snapshot_id": "MTY2MjQ3ODc5OSwwMDAwMDAwMDM5MGVhMTY4MzVjY2Q4OGQ4NDUxYThhZjFkMTlmZjQ2",
   "tracks": [
     {
       "added_at": "2022-09-06 15:39:59",
@@ -123,6 +123,26 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 297786,
+      "name": "Till I Collapse",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 250373,
       "name": "Yeah! (feat. Lil Jon & Ludacris)",
       "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 297786,
-      "name": "Till I Collapse",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -279,22 +295,6 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Hey Ya!",
-      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
         "name": "The Massacre",
         "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
       },
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
+        "name": "Fanmail",
+        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 222293,
       "name": "Forgot About Dre",
       "url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
-        "name": "Fanmail",
-        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "No Scrubs",
-      "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -419,22 +419,22 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         },
         {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         }
       ],
-      "duration_ms": 236133,
-      "name": "Crazy In Love (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+      "duration_ms": 215226,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -459,46 +459,22 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         },
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 215226,
-      "name": "We Found Love",
-      "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Roger",
-          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "California Love - Original Version",
-      "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
+      "duration_ms": 236133,
+      "name": "Crazy In Love (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -563,6 +539,30 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "California Love - Original Version",
+      "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -575,26 +575,6 @@
       "duration_ms": 271333,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
-        "name": "All Eyez On Me",
-        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Big Syke",
-          "url": "https://open.spotify.com/artist/5J32qSlWzKCdcL31B8wglv"
-        }
-      ],
-      "duration_ms": 307773,
-      "name": "All Eyez On Me (ft. Big Syke)",
-      "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -687,18 +667,22 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "Cassie (U.S. Version)",
-        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
       },
       "artists": [
         {
-          "name": "Cassie",
-          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Big Syke",
+          "url": "https://open.spotify.com/artist/5J32qSlWzKCdcL31B8wglv"
         }
       ],
-      "duration_ms": 192213,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
+      "duration_ms": 307773,
+      "name": "All Eyez On Me (ft. Big Syke)",
+      "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -715,6 +699,38 @@
       "duration_ms": 221933,
       "name": "Crank That (Soulja Boy)",
       "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
+        "name": "Cassie (U.S. Version)",
+        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
+      },
+      "artists": [
+        {
+          "name": "Cassie",
+          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -759,18 +775,22 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+        "name": "Regulate\u2026 G Funk Era",
+        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
         }
       ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+      "duration_ms": 248866,
+      "name": "Regulate",
+      "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -803,26 +823,6 @@
       "duration_ms": 252186,
       "name": "C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",
       "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
-        "name": "Regulate\u2026 G Funk Era",
-        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
-      },
-      "artists": [
-        {
-          "name": "Warren G",
-          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "Regulate",
-      "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
         "name": "Pain Is Love",
         "url": "https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 245133,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
         "name": "Epiphany (Expanded Edition)",
         "url": "https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 238800,
       "name": "Bartender (feat. Akon)",
       "url": "https://open.spotify.com/track/1RGIjMFMgJxkZHMDXVYzOJ"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+        "name": "Man On The Moon: The End Of Day",
+        "url": "https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Hypnotize - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
+      "duration_ms": 221266,
+      "name": "Day 'N' Nite (nightmare)",
+      "url": "https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -1271,22 +1271,6 @@
       "duration_ms": 223546,
       "name": "Ms. Fat Booty",
       "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
-        "name": "Man On The Moon: The End Of Day",
-        "url": "https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "Day 'N' Nite (nightmare)",
-      "url": "https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -1327,54 +1311,18 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "Tha Carter IV (Complete Edition)",
-        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Cory Gunz",
-          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 248586,
-      "name": "6 Foot 7 Foot",
-      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
-        "name": "Grand Champ",
-        "url": "https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 286266,
-      "name": "Where The Hood At",
-      "url": "https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
-        "name": "93 'til Infinity",
-        "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
-      },
-      "artists": [
-        {
-          "name": "Souls Of Mischief",
-          "url": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "93 'Til Infinity",
-      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
+      "duration_ms": 230000,
+      "name": "Hypnotize - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -1395,38 +1343,54 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "It Was Written",
-        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+        "name": "Grand Champ",
+        "url": "https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
         }
       ],
-      "duration_ms": 282373,
-      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
-      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
+      "duration_ms": 286266,
+      "name": "Where The Hood At",
+      "url": "https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7"
     },
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD"
+        "name": "Tha Carter IV (Complete Edition)",
+        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
       },
       "artists": [
         {
-          "name": "Bell Biv DeVoe",
-          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Cory Gunz",
+          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
         }
       ],
-      "duration_ms": 261853,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
+      "duration_ms": 248586,
+      "name": "6 Foot 7 Foot",
+      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
+        "name": "93 'til Infinity",
+        "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
+      },
+      "artists": [
+        {
+          "name": "Souls Of Mischief",
+          "url": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "93 'Til Infinity",
+      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -1447,6 +1411,22 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD"
+      },
+      "artists": [
+        {
+          "name": "Bell Biv DeVoe",
+          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+        }
+      ],
+      "duration_ms": 261853,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 230200,
       "name": "Jumpin', Jumpin'",
       "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
+        "name": "It Was Written",
+        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -1519,6 +1519,22 @@
       "duration_ms": 324306,
       "name": "I Know What You Want (feat. Flipmode Squad)",
       "url": "https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 274933,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 274933,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
         "name": "Bizarre Ride II The Pharcyde",
         "url": "https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna"
       },
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
         "name": "Unleash The Dragon",
         "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 213066,
       "name": "Pump It",
       "url": "https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
     }
   ],
   "unique_name": "Throwback Jams",

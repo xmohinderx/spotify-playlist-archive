@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: BDK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,156 likes - 78 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,174 likes - 78 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

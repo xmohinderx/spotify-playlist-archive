@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 99393,
+  "num_followers": 99430,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MTc1MywwMDAwMDAwMGQ5NjBlMmM0MzJlNjZkNWRjNzExNGQxMjUyMTQ5OTE0",
+  "snapshot_id": "MTY2MjQ4MTc1MywwMDAwMDAwMDk0Zjg0NTFhMTliOWRmOGFlZDhmYzVkOWE2Mjc4NTMw",
   "tracks": [
     {
       "added_at": "2022-09-06 16:11:58",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 190108,
+      "name": "JA ARA E",
+      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "Blessings REMIX (feat. French Montana & Davido)",
         "url": "https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 190108,
-      "name": "JA ARA E",
-      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -603,26 +603,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 186476,
-      "name": "Maria Elegante (feat. Afro B)",
-      "url": "https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Don't Rush (Remix)",
         "url": "https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 201013,
       "name": "Don't Rush - Remix",
       "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 186476,
+      "name": "Maria Elegante (feat. Afro B)",
+      "url": "https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -727,6 +727,26 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "Sounds of My World",
+        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 204099,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/7Jqa7kWKN4d2Fn7FESctLz"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "TumbaGobierno",
         "url": "https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 192849,
       "name": "Uchi Wala",
       "url": "https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "Sounds of My World",
-        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 204099,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/7Jqa7kWKN4d2Fn7FESctLz"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -859,6 +859,26 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "Getting Late",
+        "url": "https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Kooldrink",
+          "url": "https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY"
+        }
+      ],
+      "duration_ms": 254557,
+      "name": "Getting Late",
+      "url": "https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "Tayari",
         "url": "https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U"
       },
@@ -883,42 +903,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Getting Late",
-        "url": "https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Kooldrink",
-          "url": "https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY"
-        }
-      ],
-      "duration_ms": 254557,
-      "name": "Getting Late",
-      "url": "https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 182542,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Dumebi (Becky G Remix)",
         "url": "https://open.spotify.com/album/6kSKLZKTG9l9oWJSqAWsEC"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 187926,
       "name": "Dumebi - Becky G Remix",
       "url": "https://open.spotify.com/track/6z2kfyTUOkZhxEj1cG5jps"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 182542,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Hapo Tu (feat. Chris Kaiga)",
-        "url": "https://open.spotify.com/album/1f29HZCzALO00lGskrXUOr"
-      },
-      "artists": [
-        {
-          "name": "Nyashinski",
-          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
-        },
-        {
-          "name": "Chris Kaiga",
-          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
-        }
-      ],
-      "duration_ms": 187555,
-      "name": "Hapo Tu (feat. Chris Kaiga)",
-      "url": "https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "iluminada",
         "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 155368,
       "name": "iluminada",
       "url": "https://open.spotify.com/track/6C6tPNyzg9yEFKl2z2bEpx"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Hapo Tu (feat. Chris Kaiga)",
+        "url": "https://open.spotify.com/album/1f29HZCzALO00lGskrXUOr"
+      },
+      "artists": [
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        },
+        {
+          "name": "Chris Kaiga",
+          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
+        }
+      ],
+      "duration_ms": 187555,
+      "name": "Hapo Tu (feat. Chris Kaiga)",
+      "url": "https://open.spotify.com/track/6JR3F5nXtkkHwiCHIeYqSC"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1175,30 +1175,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "iluminada",
-        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
-      },
-      "artists": [
-        {
-          "name": "Zubi",
-          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
-        },
-        {
-          "name": "Andrew Ace",
-          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
-        },
-        {
-          "name": "anatu",
-          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
-        }
-      ],
-      "duration_ms": 145909,
-      "name": "lo siento",
-      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Sugarcane (Latin Remix)",
         "url": "https://open.spotify.com/album/0bgv84IDiggOHkjuQCsovu"
       },
@@ -1223,6 +1199,30 @@
       "duration_ms": 258048,
       "name": "Sugarcane - Latin Remix",
       "url": "https://open.spotify.com/track/6e70q5Yht4GCZeB6VtXxO2"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "iluminada",
+        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Andrew Ace",
+          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
+        },
+        {
+          "name": "anatu",
+          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
+        }
+      ],
+      "duration_ms": 145909,
+      "name": "lo siento",
+      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Flavors 2",
-        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        },
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Zimenice",
         "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 212307,
       "name": "Zimenice",
       "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Flavors 2",
+        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        },
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1327,26 +1327,6 @@
       "duration_ms": 181978,
       "name": "Rosalia",
       "url": "https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "ARENA",
-        "url": "https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4"
-      },
-      "artists": [
-        {
-          "name": "Dylan Fuentes",
-          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
-        },
-        {
-          "name": "Daramola",
-          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
-        }
-      ],
-      "duration_ms": 261702,
-      "name": "designer (with Daramola)",
-      "url": "https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1399,6 +1379,26 @@
       "duration_ms": 179257,
       "name": "Next To You Part II (feat. Rvssian & Davido)",
       "url": "https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "ARENA",
+        "url": "https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4"
+      },
+      "artists": [
+        {
+          "name": "Dylan Fuentes",
+          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
+        },
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
+        }
+      ],
+      "duration_ms": 261702,
+      "name": "designer (with Daramola)",
+      "url": "https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9"
     },
     {
       "added_at": "2022-09-06 16:11:58",

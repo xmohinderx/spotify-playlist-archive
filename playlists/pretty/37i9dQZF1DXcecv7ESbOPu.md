@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,415 likes - 108 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,411 likes - 108 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 51 | [Hedda & Mie \(Jagger\)](https://open.spotify.com/track/6mfNhGLRGXHZwvI7XetbTX) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7), [Frej Larsson](https://open.spotify.com/artist/3B2Q6VDxVx3WMP620Nk4GH) | [Hedda & Mie \(Jagger\)](https://open.spotify.com/album/4qJY6lAtJzBPImRxRlHZYt) | 2:22 |
 | 52 | [Roll The Dice](https://open.spotify.com/track/0BhLfxWA4TwGu8bGVKBotN) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Feel Again, Pt\. 2](https://open.spotify.com/album/3dEp3i7jIlR5VtsOlMhi3Q) | 2:35 |
 | 53 | [80s Playlist](https://open.spotify.com/track/5pkotCJgUMHn2DLY9hms0N) | [MIMI](https://open.spotify.com/artist/3wjHre7Ny1iXkW5XNgzX8s) | [80s Playlist](https://open.spotify.com/album/7q6qFSEuDVDBb7mpfjbDqj) | 3:34 |
-| 54 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 |
+| 54 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 |
 | 55 | [Defender](https://open.spotify.com/track/4x9l3fDzgvzg9t7Csbufrn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Defender](https://open.spotify.com/album/76up5uRogXO3CPwA2OO6Wy) | 6:14 |
 | 56 | [frog](https://open.spotify.com/track/0nSw4I1cTMMBZBIk9ChgBn) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [frog](https://open.spotify.com/album/4kejzAQudxr4R5CNfvbwmz) | 3:26 |
 | 57 | [Pangaea \(with blackbear\)](https://open.spotify.com/track/6zYJeYNqyZvwlMNSeOP64Q) | [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Pangaea \(with blackbear\)](https://open.spotify.com/album/3shwqKaPqDxZnhlrv7Fte8) | 2:21 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 72 | [De Ghetto](https://open.spotify.com/track/2ThusgzPbWkmX4coEv9PRt) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [De Ghetto](https://open.spotify.com/album/0QeKyKDdiWADH5cOCsWPGh) | 2:33 |
 | 73 | [Annan Sak](https://open.spotify.com/track/1p0uOrGKaqAUdWZ1GjNcQJ) | [D50](https://open.spotify.com/artist/1zMg0ur2T1UsRYtW9VNsLv), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW), [Fu3go](https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1) | [Annan Sak](https://open.spotify.com/album/6Sd4zeZbd3VQWZo3F0TjOE) | 2:24 |
 | 74 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 |
-| 75 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 |
+| 75 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/5ykuFZXYbA8frwBmutsoFx) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:18 |
 | 76 | [Gunshot \(feat\. BEAM\)](https://open.spotify.com/track/0KlJg8lNDghpEnxDHNQjF2) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Hitmaka](https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Gunshot \(feat\. BEAM\)](https://open.spotify.com/album/0Vi6fedojqQltaJpwgv5nj) | 2:10 |
 | 77 | [Räkna Dagar](https://open.spotify.com/track/2BCeQusfQkPjJQfY1Rv7NW) | [Alex Lew](https://open.spotify.com/artist/3mmGQd4PxDhJX8wCnN8lzr) | [Räkna Dagar](https://open.spotify.com/album/6LpKfX5j2Z5H3TtDm0g07x) | 2:20 |
 | 78 | [Sky](https://open.spotify.com/track/4okLKBoptdikEhZWfmPJne) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Sky](https://open.spotify.com/album/1HyPOtFbKB9W9gswq6wQwN) | 3:02 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 107 | [Vi är Hollywood](https://open.spotify.com/track/3IBnJqw4tW3QFDQ8o2lBW2) | [Sannex](https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8) | [Vi är Hollywood](https://open.spotify.com/album/4VaYdWOBIsYabHCbpcI2fs) | 3:03 |
 | 108 | [Tiger](https://open.spotify.com/track/6xaPrKxXi0WJd3zTgg2wnt) | [Emil Jensen](https://open.spotify.com/artist/2sdhZm1TCh9CLoM4QUBsll) | [Tiger](https://open.spotify.com/album/59ZlDCibXTMeACy0RPdjVe) | 4:15 |
 
-Snapshot ID: `MTY2NjM1NzU2MCwwMDAwMDAwMDYxNTFmMzVlNmM4YjM1NzI1YTVlNmQ0MGI4OTVlNTAw`
+Snapshot ID: `MTY2NjM1NzU2MCwwMDAwMDAwMGFiZmJkY2I3YTYwNjQwMzI4NjBmNmYxNTIyZDJiYWYx`

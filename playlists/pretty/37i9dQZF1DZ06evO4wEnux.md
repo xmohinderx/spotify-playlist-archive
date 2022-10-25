@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 | 20 | [Mine for Me](https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:00 |
 | 21 | [The Landscape](https://open.spotify.com/track/1LxFtsrTWzrv7VWHxuHElR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:25 |
 | 22 | [Joanna](https://open.spotify.com/track/3ba6RDNSJ1bJHTgme6QtIs) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:40 |
-| 23 | [End Of The World](https://open.spotify.com/track/2MZyaYM9njg7EYYBVvy59N) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:18 |
+| 23 | [365](https://open.spotify.com/track/0n3ZzesrKA1H5ZTxfFQiDg) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:12 |
 | 24 | [James](https://open.spotify.com/track/2gyUKRywqkiAVP0X3rUj2b) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 4:57 |
 | 25 | [First Born](https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [First Born](https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66) | 3:14 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDBmYjgxYjE4NzU1NWM0NzU5YTk5MzAzMzVmNWE2YmI3ZQ==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDBjNzhmZWY2YzViZGE5YmVhZjgxODU0NTRlOWM3YTMyOQ==`

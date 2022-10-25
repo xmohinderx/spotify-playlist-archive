@@ -4,7 +4,7 @@
 
 > Perfect sunshiney indie tracks for summer.
 
-223 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
+225 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 | 2022-06-10 |  |
 | [Close To You](https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:14 | 2022-06-10 | 2022-10-13 |
 | [Close To You](https://open.spotify.com/track/4ReJJcpW8HtVnqzhf6DwNV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Close To You](https://open.spotify.com/album/4sRWmCgVULy1s2pMuw1uGY) | 3:14 | 2022-06-10 | 2022-07-29 |
+| [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 | 2022-09-02 |  |
 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 | 2022-06-10 |  |
 | [Clovers](https://open.spotify.com/track/3KCFmeudK7tTzshjxDl6m4) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Clovers](https://open.spotify.com/album/6n3JvVTmEAUS6uM33ZwLfq) | 4:14 | 2020-01-31 | 2022-07-29 |
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2022-06-10 |  |
@@ -163,6 +164,7 @@
 | [Serotonin](https://open.spotify.com/track/16MneRxNQpHK250NaIo3bg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:02 | 2022-06-10 | 2022-10-13 |
 | [Sexy Villain](https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:08 | 2022-06-10 |  |
 | [Shit Show](https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Shit Show](https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp) | 3:20 | 2022-06-10 | 2022-07-29 |
+| [Silk Chiffon](https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:26 | 2022-09-19 |  |
 | [So Good](https://open.spotify.com/track/0xjpgDNFyekbjessCBaaBq) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 4:26 | 2020-01-31 | 2022-06-11 |
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2022-06-10 |  |
 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 | 2022-06-10 |  |
@@ -175,7 +177,7 @@
 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 | 2022-08-05 |  |
 | [Sucker Punch](https://open.spotify.com/track/7FeWgVGGphXuSUu5wNeAcJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:14 | 2020-01-31 | 2022-06-11 |
 | [SUGAR](https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 3:24 | 2022-06-10 | 2022-09-03 |
-| [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2022-06-10 |  |
+| [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2022-06-10 | 2022-10-25 |
 | [Sugar](https://open.spotify.com/track/79nkN1EmB1B03uZi9DcS4w) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 3:16 | 2022-06-10 |  |
 | [Summer Vibe](https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Summer Vibe](https://open.spotify.com/album/3f0W0a3YNaHEjxaMZ73dOO) | 3:20 | 2022-06-10 | 2022-07-21 |
 | [Summerland](https://open.spotify.com/track/0dN3cttUifpkm1Oja79zJr) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Summerland](https://open.spotify.com/album/1A1dSoZMQPU0DcCfaSLvQ1) | 3:49 | 2022-06-10 | 2022-07-29 |
@@ -221,7 +223,7 @@
 | [Weekend](https://open.spotify.com/track/42QzWxuokSGPklrsoI2Bxl) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Weekend](https://open.spotify.com/album/1YgWmUaBSkcRzMtHDHWlVt) | 3:08 | 2022-06-10 | 2022-07-28 |
 | [Weekend Friend](https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Weekend Friend](https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc) | 3:29 | 2020-01-31 |  |
 | [What's Been On Your Mind?](https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [What's Been On Your Mind?](https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs) | 2:52 | 2022-06-10 |  |
-| [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 | 2022-09-02 |  |
+| [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 | 2022-09-02 | 2022-10-25 |
 | [When Am I Gonna Lose You](https://open.spotify.com/track/7ze7X8r4fopBs9ZRtwYFOX) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [When Am I Gonna Lose You / Café Amarillo](https://open.spotify.com/album/5H8ISmLN3YojIx9mM9CslN) | 4:24 | 2020-01-31 | 2022-07-29 |
 | [When I'm With You](https://open.spotify.com/track/7Cb9fYGYtFaANCaqYEOCDC) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Crazy For You](https://open.spotify.com/album/2lLjGAmDHjCNiydZ4Yp8bT) | 2:58 | 2020-01-31 | 2022-07-10 |
 | [Why Do You Feel So Down](https://open.spotify.com/track/5Bge1Dsqjc14hhGguYML5w) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 3:40 | 2022-06-10 |  |

@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Rahma Riad
 
-319 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+320 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Khyali](https://open.spotify.com/track/5amkmXiRwzdTGwNAasS0SG) | [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [Khyali](https://open.spotify.com/album/5HSvsUzTzmqwIC4zFESH1M) | 2:50 | 2021-12-23 | 2022-03-02 |
 | [Kifak](https://open.spotify.com/track/6qC6yW3SkH0FlvnkqOesJe) | [Jamale Abou Hamad](https://open.spotify.com/artist/3XlntSeDXFe5jnxPFLNJPD) | [Kifak](https://open.spotify.com/album/3iUGlEWRup7CgaFHXsLwSX) | 3:03 | 2022-03-18 | 2022-07-29 |
 | [Kifi Kif Nass](https://open.spotify.com/track/3OGzKIGRrtnKWWYOBnretT) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Kifi Kif Nass](https://open.spotify.com/album/0d5CtbaLEpJTDHjJ106V9m) | 3:14 | 2022-03-01 |  |
-| [Kolli We Ehsasi](https://open.spotify.com/track/7sRtD4UFjJWp6XqY6bNbQu) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Kolli We Ehsasi](https://open.spotify.com/album/79Xf67nMR0UTUMgrBUT32F) | 6:37 | 2022-03-03 |  |
+| [Kolli We Ehsasi](https://open.spotify.com/track/7sRtD4UFjJWp6XqY6bNbQu) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Kolli We Ehsasi](https://open.spotify.com/album/79Xf67nMR0UTUMgrBUT32F) | 6:37 | 2022-03-03 | 2022-10-25 |
 | [Kolshy Entaha Wrah](https://open.spotify.com/track/1zKPTEkndWQpSBvEC6zb8H) | [Rawaa Albaghdady](https://open.spotify.com/artist/3sWQyrf56xplCbRPXFB1RW) | [Kolshy Entaha Wrah](https://open.spotify.com/album/2ArCZ3BfwSzVyOuuv32J3u) | 4:47 | 2021-12-23 | 2022-03-01 |
 | [Kont Baheb](https://open.spotify.com/track/51PcRYiFdbq6RLE2dg6BRE) | [fayrouz Karawya](https://open.spotify.com/artist/5Td9LvCizoI69AVWIoYd3O), [200 Shams](https://open.spotify.com/artist/4Ak2clxvkKB3yh8tI8FjkM) | [Kont Baheb](https://open.spotify.com/album/5cOme3T6oIrWAdv321mmZr) | 3:28 | 2021-12-23 | 2022-02-26 |
 | [La Receta](https://open.spotify.com/track/1RUddjHVzH3yHLRHmlajNG) | [Malika](https://open.spotify.com/artist/61yCfJHSjcVLYCQvobkzO5) | [La Receta](https://open.spotify.com/album/0hA6c1hn8vNRjIA6LskpQK) | 3:57 | 2021-12-23 | 2022-02-26 |
@@ -314,6 +314,7 @@
 | [مسرح جريمة](https://open.spotify.com/track/5timjfXtZMJ2ES6SIHngpB) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [مسرح جريمة](https://open.spotify.com/album/2F5th84z3aSD96wUZqBDXe) | 3:47 | 2021-12-23 | 2022-03-02 |
 | [مش مستاهلة](https://open.spotify.com/track/5MPZMTdpuQKvY2QZ0elrFp) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k) | [مش مستاهلة](https://open.spotify.com/album/1itkIVwZrVHhLejalPbb9i) | 3:00 | 2022-09-20 |  |
 | [معلش](https://open.spotify.com/track/6UevY0ceM0L8M3PuLyHxRU) | [Sherihan Shawkat](https://open.spotify.com/artist/3evZrD6zWSzAM3pRgJi5eY) | [معلش](https://open.spotify.com/album/7vySmCQTu5DpLyEiEkKP78) | 2:13 | 2021-12-23 | 2022-02-28 |
+| [مغرومة بمين](https://open.spotify.com/track/3fLW5dX5FfnZ2g3Rmp4Cpr) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [مغرومة بمين](https://open.spotify.com/album/4HQ1AeGjuScD19ns8f67uM) | 3:11 | 2022-10-25 |  |
 | [مفيش زينا](https://open.spotify.com/track/1wlQ4fzjRMzw3mRVpjAopn) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [مفيش زينا](https://open.spotify.com/album/4a25kSPxLcPOqdqB0kKALz) | 1:49 | 2022-09-22 | 2022-10-09 |
 | [مقصوده](https://open.spotify.com/track/1A8vh1a3SWiHTpi6VhupOy) | [Sola Omar](https://open.spotify.com/artist/5f4fUKsYW1NtyCjgwTVI6k) | [مقصوده](https://open.spotify.com/album/5s317YC0Mp2Dm5HPYFhPpv) | 3:19 | 2021-12-23 | 2022-03-02 |
 | [مليون وش](https://open.spotify.com/track/2ta3ozfEJ2O9162Wy2EcEh) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [مليون وش](https://open.spotify.com/album/3tjB3hMfLxTTbf6kIOGg3t) | 1:50 | 2021-12-23 | 2022-03-02 |

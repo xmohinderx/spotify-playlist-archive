@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. Photo: Hanorah",
-  "num_followers": 102188,
+  "num_followers": 102197,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGQ3ZTBiMDIzZGMwMWNjMTM1MWE1NjgxOTZjMTU1NWQ0",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDBkMzU4OWIwODczMWRhZGY2ZjE1N2VjMTU1ZmMxYzc0",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "La mort des \u00e9toiles",
-        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
       "artists": [
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
         }
       ],
-      "duration_ms": 233133,
-      "name": "Nous apr\u00e8s nous",
-      "url": "https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg"
+      "duration_ms": 201557,
+      "name": "Tu trembleras encore",
+      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 201557,
-      "name": "Tu trembleras encore",
-      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 138026,
       "name": "Rosier-douleur",
       "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "La mort des \u00e9toiles",
+        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Nous apr\u00e8s nous",
+      "url": "https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -467,34 +467,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "La mort des \u00e9toiles",
-        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
+        "name": "Height of the Feeling",
+        "url": "https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW"
       },
       "artists": [
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "La mort des \u00e9toiles",
-      "url": "https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "This Time I See It",
-        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
-      },
-      "artists": [
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
         }
       ],
-      "duration_ms": 220213,
-      "name": "Understand It",
-      "url": "https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh"
+      "duration_ms": 239040,
+      "name": "Height of the Feeling",
+      "url": "https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -519,22 +507,34 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Height of the Feeling",
-        "url": "https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW"
+        "name": "Go Get It",
+        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "La Force",
-          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 239040,
-      "name": "Height of the Feeling",
-      "url": "https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh"
+      "duration_ms": 141509,
+      "name": "Go Get It",
+      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "La mort des \u00e9toiles",
+        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "La mort des \u00e9toiles",
+      "url": "https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Go Get It",
-        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
+        "name": "This Time I See It",
+        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
       },
       "artists": [
         {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 141509,
-      "name": "Go Get It",
-      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
+      "duration_ms": 220213,
+      "name": "Understand It",
+      "url": "https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Travelling",
-        "url": "https://open.spotify.com/album/4DansuCidnugwQO3H3S7VA"
-      },
-      "artists": [
-        {
-          "name": "Daniel B\u00e9langer",
-          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
-        }
-      ],
-      "duration_ms": 227446,
-      "name": "Le triomphe d'une perruche",
-      "url": "https://open.spotify.com/track/3THc1qpseFOdr5z6JqAk7y"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "La vraie nature - Chansons par Pilou",
         "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 231360,
       "name": "Passagers",
       "url": "https://open.spotify.com/track/41apzFxQ6xPFWMsut29O1J"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Travelling",
+        "url": "https://open.spotify.com/album/4DansuCidnugwQO3H3S7VA"
+      },
+      "artists": [
+        {
+          "name": "Daniel B\u00e9langer",
+          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
+        }
+      ],
+      "duration_ms": 227446,
+      "name": "Le triomphe d'une perruche",
+      "url": "https://open.spotify.com/track/3THc1qpseFOdr5z6JqAk7y"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Heavy Stone",
+        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "duration_ms": 188027,
+      "name": "Heavy Stone",
+      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Notre-Dame-des-Sept-Douleurs",
         "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 259385,
       "name": "Life As It Comes",
       "url": "https://open.spotify.com/track/4t8LId4jMs76b41wETklvD"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Heavy Stone",
-        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
-      },
-      "artists": [
-        {
-          "name": "Matt Holubowski",
-          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
-        }
-      ],
-      "duration_ms": 188027,
-      "name": "Heavy Stone",
-      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -859,38 +859,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp"
-      },
-      "artists": [
-        {
-          "name": "Milk & Bone",
-          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
-        }
-      ],
-      "duration_ms": 208698,
-      "name": "On br\u00fblera - Spotify Singles",
-      "url": "https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "No Water, No Flowers",
-        "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
-      },
-      "artists": [
-        {
-          "name": "Genevi\u00e8ve Racette",
-          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
-        }
-      ],
-      "duration_ms": 195235,
-      "name": "Sans Toi",
-      "url": "https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -919,6 +887,38 @@
       "duration_ms": 203666,
       "name": "Les fleurs d\u2019une autre dimension",
       "url": "https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "No Water, No Flowers",
+        "url": "https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Racette",
+          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
+        }
+      ],
+      "duration_ms": 195235,
+      "name": "Sans Toi",
+      "url": "https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp"
+      },
+      "artists": [
+        {
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
+        }
+      ],
+      "duration_ms": 208698,
+      "name": "On br\u00fblera - Spotify Singles",
+      "url": "https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Valhalla Dancer",
+        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Valhalla Dancer",
+      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 251186,
       "name": "M\u00eame les loups versent des larmes de joie",
       "url": "https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Valhalla Dancer",
-        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Valhalla Dancer",
-      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1039,22 +1039,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
+        "name": "Tu ne seras jamais l\u00e0",
+        "url": "https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre"
       },
       "artists": [
         {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
         },
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
         }
       ],
-      "duration_ms": 257838,
-      "name": "Pleure pas pour moi",
-      "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
+      "duration_ms": 187800,
+      "name": "Tu ne seras jamais l\u00e0",
+      "url": "https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1079,58 +1079,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Tu ne seras jamais l\u00e0",
-        "url": "https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        },
-        {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Tu ne seras jamais l\u00e0",
-      "url": "https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Nous sommes",
-      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Les joailliers (piano, voix)",
-        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 197111,
-      "name": "Les joailliers (piano, voix)",
-      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "There Will Be Stars",
         "url": "https://open.spotify.com/album/4Gbv3ZJ8Pn0vFiwvIxO9w9"
       },
@@ -1143,26 +1091,6 @@
       "duration_ms": 318880,
       "name": "Moi, Elsie",
       "url": "https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "Post Mortem",
-      "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1199,18 +1127,54 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "\u00c0 bient\u00f4t",
-        "url": "https://open.spotify.com/album/4nrDrQTrCS5re6HQNRoP6S"
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
       },
       "artists": [
         {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 204000,
-      "name": "\u00c0 bient\u00f4t",
-      "url": "https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U"
+      "duration_ms": 167920,
+      "name": "Nous sommes",
+      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Les joailliers (piano, voix)",
+        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 197111,
+      "name": "Les joailliers (piano, voix)",
+      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
+      },
+      "artists": [
+        {
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 257838,
+      "name": "Pleure pas pour moi",
+      "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1227,6 +1191,22 @@
       "duration_ms": 188516,
       "name": "Tu pars",
       "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "\u00c0 bient\u00f4t",
+        "url": "https://open.spotify.com/album/4nrDrQTrCS5re6HQNRoP6S"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "\u00c0 bient\u00f4t",
+      "url": "https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1263,18 +1243,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC"
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
       "artists": [
         {
-          "name": "Jeffrey Piton",
-          "url": "https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8"
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
         }
       ],
-      "duration_ms": 205386,
-      "name": "Californie",
-      "url": "https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I"
+      "duration_ms": 223733,
+      "name": "Post Mortem",
+      "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1291,6 +1275,22 @@
       "duration_ms": 203586,
       "name": "Me semble que c'est facile",
       "url": "https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Piton",
+          "url": "https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8"
+        }
+      ],
+      "duration_ms": 205386,
+      "name": "Californie",
+      "url": "https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Pourchasser l'aube",
+        "url": "https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Mille et un",
+      "url": "https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
         "url": "https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 187893,
       "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
       "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Pourchasser l'aube",
-        "url": "https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR"
-      },
-      "artists": [
-        {
-          "name": "Caroline Savoie",
-          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Mille et un",
-      "url": "https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "\u00c9chapper \u00e0 la nuit",
+        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Antigone",
+      "url": "https://open.spotify.com/track/265EBHZJ581J0mMkMcaqbC"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Chicout",
         "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
       },
@@ -1487,6 +1503,38 @@
       "duration_ms": 179950,
       "name": "Tatouage",
       "url": "https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Hiboux",
+        "url": "https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ"
+      },
+      "artists": [
+        {
+          "name": "Nicolas G\u00e9mus",
+          "url": "https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "Girouette",
+      "url": "https://open.spotify.com/track/7cEjFMHqhnJEbpbnHUQP7E"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Maison ouverte",
+        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
+      },
+      "artists": [
+        {
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+        }
+      ],
+      "duration_ms": 239573,
+      "name": "Maison ouverte",
+      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1523,18 +1571,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Maison ouverte",
-        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
+        "name": "Phil\u00e9douche",
+        "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
       },
       "artists": [
         {
-          "name": "Simon Kearney",
-          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+          "name": "Phil\u00e9mon Cimon",
+          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
         }
       ],
-      "duration_ms": 239573,
-      "name": "Maison ouverte",
-      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
+      "duration_ms": 280513,
+      "name": "Phile\u0301douche",
+      "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1555,38 +1603,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Hiboux",
-        "url": "https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ"
-      },
-      "artists": [
-        {
-          "name": "Nicolas G\u00e9mus",
-          "url": "https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "Girouette",
-      "url": "https://open.spotify.com/track/7cEjFMHqhnJEbpbnHUQP7E"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Phil\u00e9douche",
-        "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
-      },
-      "artists": [
-        {
-          "name": "Phil\u00e9mon Cimon",
-          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
-        }
-      ],
-      "duration_ms": 280513,
-      "name": "Phile\u0301douche",
-      "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "SESSION LIVE H2T",
         "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
       },
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Prendre soin du beau",
-        "url": "https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY"
+        "name": "(les) m\u00e9andres de la soif",
+        "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
       },
       "artists": [
         {
-          "name": "Jessica Charlie",
-          "url": "https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op"
+          "name": "Barrdo",
+          "url": "https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf"
         }
       ],
-      "duration_ms": 195030,
-      "name": "Prendre soin du beau",
-      "url": "https://open.spotify.com/track/6cqT1guXExDBibebscbGqg"
+      "duration_ms": 153789,
+      "name": "4900$",
+      "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1631,22 +1647,6 @@
       "duration_ms": 189000,
       "name": "La cascade",
       "url": "https://open.spotify.com/track/2E9Tg1mtfo0JIOnca3JWm6"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "(les) m\u00e9andres de la soif",
-        "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
-      },
-      "artists": [
-        {
-          "name": "Barrdo",
-          "url": "https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf"
-        }
-      ],
-      "duration_ms": 153789,
-      "name": "4900$",
-      "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
     }
   ],
   "unique_name": "Caf\u00e9 montr\u00e9alais",

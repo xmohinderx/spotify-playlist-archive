@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 299381,
       "name": "A Dystopian Fixation",
       "url": "https://open.spotify.com/track/2r4DcuJm0rAe5VCbvhsts0"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 257108,
       "name": "Absolute",
       "url": "https://open.spotify.com/track/5wDnzW2uws1uvWIDcx9ymz"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 228666,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2LpkqWPeXviNcZdWUMrmWz"
@@ -1141,7 +1141,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 349706,
       "name": "America Online",
       "url": "https://open.spotify.com/track/1BU1WTFvnrXpgooJRMlWiW"
@@ -2203,7 +2203,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 215040,
       "name": "Beyond Memory",
       "url": "https://open.spotify.com/track/7zmbtfKgZMTQ1GlqBno5T5"
@@ -4665,7 +4665,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 230270,
       "name": "Delicate Weapon",
       "url": "https://open.spotify.com/track/1hT3eaGzrcFriQtgGdvsZv"
@@ -4737,7 +4737,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 296546,
       "name": "Devil Make a Deal",
       "url": "https://open.spotify.com/track/0p4rVpy5DAL6JIIneGUugm"
@@ -4799,6 +4799,24 @@
       "duration_ms": 308600,
       "name": "Dimensional",
       "url": "https://open.spotify.com/track/28s7uQxvvtluoPner6q4lT"
+    },
+    {
+      "album": {
+        "name": "Disco King",
+        "url": "https://open.spotify.com/album/6ssJGy5S73V8TpacmM3MOy"
+      },
+      "artists": [
+        {
+          "name": "Lil Rapsoil",
+          "url": "https://open.spotify.com/artist/0efLmyHHsnVYBfwJrYUNWs"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59297,
+      "name": "Disco King",
+      "url": "https://open.spotify.com/track/7tQz6p3euWCa8jtap0GFAd"
     },
     {
       "album": {
@@ -5067,7 +5085,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 252000,
       "name": "Don't Give Up - The Midnight Remix",
       "url": "https://open.spotify.com/track/2LqFe2b7ukUf2T4UlL6Fg3"
@@ -5549,7 +5567,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 320432,
       "name": "Drive-by Stalking",
       "url": "https://open.spotify.com/track/2Vmbg2UweixrXClJeIE1xz"
@@ -8033,7 +8051,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 266573,
       "name": "Good in Red",
       "url": "https://open.spotify.com/track/7vgyWdCWEZ3cCCjza0jYjY"
@@ -9053,7 +9071,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 199260,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/6FR410XjipcpHIsmv1bYKA"
@@ -9665,7 +9683,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 260487,
       "name": "Infected Ground",
       "url": "https://open.spotify.com/track/4sADbB9j35ZI8uian7vJ61"
@@ -9921,7 +9939,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 269426,
       "name": "Into Nothing",
       "url": "https://open.spotify.com/track/6EjsvDyfZdgJdutxTWI8Ms"
@@ -10577,7 +10595,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 282627,
       "name": "Kyra - The Midnight Remix",
       "url": "https://open.spotify.com/track/28JgeXZxmTfzsfYLGo3e5G"
@@ -13309,7 +13327,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 292880,
       "name": "Never Enough (The Midnight Remix) [feat. the Midnight]",
       "url": "https://open.spotify.com/track/5TC6bJRlkK0CGRhmaTKZ8w"
@@ -14333,7 +14351,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 306682,
       "name": "Oceans Away - The Midnight Remix",
       "url": "https://open.spotify.com/track/63IB1OZnGXbpfSBF9M8o9Z"
@@ -15129,7 +15147,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 291946,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1jdqS2l4X5zil0KMbyxsSM"
@@ -15667,7 +15685,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 302266,
       "name": "Prom Night",
       "url": "https://open.spotify.com/track/5pOuutOhdUKIR9eruBTLD4"
@@ -16057,7 +16075,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 152146,
       "name": "RED LIPSTICK",
       "url": "https://open.spotify.com/track/1iwGAJiRsGuyxMvpt5My7c"
@@ -16395,7 +16413,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 290171,
       "name": "Rise Like Phoenix",
       "url": "https://open.spotify.com/track/6q0aZkvSgXj6TWSjnjzEod"
@@ -16735,7 +16753,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Running in the Night",
       "url": "https://open.spotify.com/track/0E3HnGJSMplqBSYGsh2exH"
@@ -17685,7 +17703,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Sideswept",
       "url": "https://open.spotify.com/track/2M64VUfumhYmHYnJYDmqOY"
@@ -18499,7 +18517,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 290392,
       "name": "Speeder",
       "url": "https://open.spotify.com/track/11jsbGPzyG8mmwoZ5uNtgp"
@@ -18763,7 +18781,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 293509,
       "name": "Static",
       "url": "https://open.spotify.com/track/0TiZDNPU2t4STNJW4Qdj22"
@@ -19953,7 +19971,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 244500,
       "name": "Test Pilot",
       "url": "https://open.spotify.com/track/03RyqN0APr814lnjzziKtT"
@@ -20079,7 +20097,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 190536,
       "name": "The Crazies",
       "url": "https://open.spotify.com/track/0UvtdL1ZYg28MVrBTFikSf"
@@ -22567,7 +22585,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 349506,
       "name": "When You Grow Up, Your Heart Dies",
       "url": "https://open.spotify.com/track/0d3O2HCMzSblmSsWd9Lgh2"

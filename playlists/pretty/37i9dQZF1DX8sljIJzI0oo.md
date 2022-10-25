@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Mixtape \#022 is bringing the 🔥 featuring Farruko\.  Find a new mixtape every Thursday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,801,140 likes - 25 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,801,241 likes - 25 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 |
-| 2 | [No Nos Vamos](https://open.spotify.com/track/4bXgxQoESp2D8UJRklFA8x) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [No Nos Vamos](https://open.spotify.com/album/7DJH24QabeAd3ja97wotvM) | 3:50 |
-| 3 | [Besos Moja2](https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:49 |
-| 4 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 |
-| 5 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 |
-| 6 | [Sin Carné](https://open.spotify.com/track/240Wr3oL2io76a5D6wfQsm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Sin Carné](https://open.spotify.com/album/09kDovcZ38SvmgoUHlh1Hc) | 1:57 |
-| 7 | [More](https://open.spotify.com/track/0AAl3LtvIhEilWXZmYHeh5) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [La Fórmula](https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ) | 4:00 |
-| 8 | [Un Minuto](https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Minuto](https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8) | 2:57 |
-| 9 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 |
+| 1 | [Besos Moja2](https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:49 |
+| 2 | [More](https://open.spotify.com/track/0AAl3LtvIhEilWXZmYHeh5) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [La Fórmula](https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ) | 4:00 |
+| 3 | [Un Minuto](https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Minuto](https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8) | 2:57 |
+| 4 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 |
+| 5 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 |
+| 6 | [No Nos Vamos](https://open.spotify.com/track/4bXgxQoESp2D8UJRklFA8x) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [No Nos Vamos](https://open.spotify.com/album/7DJH24QabeAd3ja97wotvM) | 3:50 |
+| 7 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 |
+| 8 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 |
+| 9 | [Sin Carné](https://open.spotify.com/track/240Wr3oL2io76a5D6wfQsm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Sin Carné](https://open.spotify.com/album/09kDovcZ38SvmgoUHlh1Hc) | 1:57 |
 | 10 | [La Pelikula \- Remix](https://open.spotify.com/track/6oLtMeZUFmpybUNkbfleYW) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [La Pelikula \(Remix\)](https://open.spotify.com/album/79qOAEig6POJvtE10xOVHX) | 4:13 |
 | 11 | [Mala Costumbre](https://open.spotify.com/track/70uX4beGHc1nQikXveOknp) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mala Costumbre](https://open.spotify.com/album/1YJjyV8YutIhzL4MWAB1LY) | 3:50 |
 | 12 | [Aprovechame BB](https://open.spotify.com/track/29VflI9cjsWbGfEkvu0Tyk) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Aprovechame BB](https://open.spotify.com/album/3F5VD1oinu70b2B9WWQ4ZU) | 3:12 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 24 | [Real](https://open.spotify.com/track/6o1lbf1Y5zdZfhhdloOgKZ) | [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [Real](https://open.spotify.com/album/3Q7g2iBYVBDOghZcNOuVK0) | 3:58 |
 | 25 | [2 X 3](https://open.spotify.com/track/4MAZS1p2qSSAbCJfhmQdzW) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Brujerías de Cantina](https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy) | 3:19 |
 
-Snapshot ID: `MTY2NjI0MjAwMCwwMDAwMDAwMDQ5OTQyMDE5NzNjMDIxMjA0ZTcyNzNkMTFjYzE3MzM0`
+Snapshot ID: `MTY2NjYyMTQ0MywwMDAwMDAwMGQ1ODZlNjQ2MDBkNDUwNjA5NWM2NTM1NGFkZTNjNjg2`

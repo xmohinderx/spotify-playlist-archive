@@ -1372,6 +1372,24 @@
     },
     {
       "album": {
+        "name": "Love Came",
+        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135800,
+      "name": "Love Came",
+      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
+    },
+    {
+      "album": {
         "name": "Lucida",
         "url": "https://open.spotify.com/album/65NRqIsEiD5ZvrO3TVrmFL"
       },

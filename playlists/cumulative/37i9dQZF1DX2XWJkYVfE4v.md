@@ -4,7 +4,7 @@
 
 > Soft, shimmering strings to help you relax.
 
-89 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/0b41CYN7TvxbbKquC8H1Qw)
+90 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/0b41CYN7TvxbbKquC8H1Qw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Harmony 1: Cookfield – Lyon](https://open.spotify.com/track/7F6V9v9T6GaBlvgPOXF4Rq) | [Arditti Quartet](https://open.spotify.com/artist/1A6VSPPUJADy9l9nHcGFG5) | [Cage: Harmonies From Apartment House 1776](https://open.spotify.com/album/6SQsGomVxTEJriPyQ64l4h) | 1:33 | 2022-01-24 | 2022-07-29 |
 | [Humming Bird Rework](https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp), [mondëna quartet](https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo) | [Humming Bird Rework](https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m) | 3:21 | 2022-06-17 |  |
 | [II\. Loure](https://open.spotify.com/track/0WF5GvU4AbedRu1yFmeYBT) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Leonidas Kavakos](https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn) | [Violin Partita No\. 3 in E Major, BWV 1006/II\. Loure](https://open.spotify.com/album/4Mv8GUY1Llk17rP9hRYGgx) | 4:28 | 2021-12-17 | 2022-07-29 |
+| [II\. Up](https://open.spotify.com/track/4R4WPTImKqVHIXEIpqbuWN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Richard Harwood](https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9), [Warren Zielinski](https://open.spotify.com/artist/1loplcQfx5Wsv5ksoqyj16), [Ben Hancox](https://open.spotify.com/artist/5IExQzAD14oL2LazPXPyzk), [James Boyd](https://open.spotify.com/artist/0AwJMPW4t7pMBwZ2h072X1) | [Gregson: II\. Up](https://open.spotify.com/album/5bhZvExvJWK9O2GIXggYcR) | 2:43 | 2022-10-24 |  |
 | [Josquiniana: I\. Helas madame](https://open.spotify.com/track/30HvTNx4XWK8mOYf0wEauq) | [Charles Wuorinen](https://open.spotify.com/artist/5XymGDm97lwt7hLHZJ0zq6), [Brentano String Quartet](https://open.spotify.com/artist/6Wiv9xGo79scEcv8r5yIwj) | [Wuorinen: Ashberyana / Fenton Songs I and Ii / Josquiniana](https://open.spotify.com/album/7GVU2fSx2qNwEwHifR4lpk) | 3:16 | 2022-01-28 |  |
 | [Kohola Sings \(Humpback Whales\)](https://open.spotify.com/track/1TUv6cWW0E0SLX5dAmvNmQ) | [Takuma Itoh](https://open.spotify.com/artist/4hyyVdI4VskNA1EEoTroPg), [Yolanda Kondonassis](https://open.spotify.com/artist/6cDaoaokVtlxKqG1Gi7lYz) | [Five Minutes for Earth](https://open.spotify.com/album/3tB9D9MhbDDA6OullTA80O) | 5:15 | 2022-04-04 |  |
 | [La Fille aux Cheveux de Lin](https://open.spotify.com/track/1FP9utnIkLyhZJ2YZ72Kuf) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Cecilia De Maria](https://open.spotify.com/artist/1GYknZXS2fo07Q2fWx6WPE) | [La Fille aux Cheveux de Lin](https://open.spotify.com/album/2PENxCA8pbNK021gnsAsGt) | 2:51 | 2021-12-17 |  |

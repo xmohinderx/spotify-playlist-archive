@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 205,
+  "num_followers": 210,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDI5MjNhNGY2NzdkMjQ5M2UxMzc0OGYzMTA3MmEyMzdm",
+  "snapshot_id": "MTY2MDIxMjMxNiwwMDAwMDAwMDIxMDAwMTNhN2I2MzE1N2VlZjg1YjY4YTRlYjNiZmVl",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -27,6 +27,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Suprem s\u00e9ga (Li tourn\u00e9 / timbali)",
+        "url": "https://open.spotify.com/album/0BK5lSpjL5MLgi8U6J0QyD"
+      },
+      "artists": [
+        {
+          "name": "Alain Ramanisum",
+          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "Li tourn\u00e9 - Version ambiance",
+      "url": "https://open.spotify.com/track/3TytI9LFOL2aByywkSKDvP"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Tenpaw",
         "url": "https://open.spotify.com/album/4x1VAiBDut2bgR1gJxETFr"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 204480,
       "name": "Tenpaw",
       "url": "https://open.spotify.com/track/2YNRG0rZhb2dbJdhWZGtLl"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Suprem s\u00e9ga (Li tourn\u00e9 / timbali)",
-        "url": "https://open.spotify.com/album/0BK5lSpjL5MLgi8U6J0QyD"
-      },
-      "artists": [
-        {
-          "name": "Alain Ramanisum",
-          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "Li tourn\u00e9 - Version ambiance",
-      "url": "https://open.spotify.com/track/3TytI9LFOL2aByywkSKDvP"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Roule a li m\u00eame",
-        "url": "https://open.spotify.com/album/61HHyJnfDxcHjV2kuxNhWs"
-      },
-      "artists": [
-        {
-          "name": "Missty",
-          "url": "https://open.spotify.com/artist/046Doq33XrspImCS9IpnuC"
-        }
-      ],
-      "duration_ms": 226853,
-      "name": "Vilain mani\u00e8re",
-      "url": "https://open.spotify.com/track/6tfUdpb4AMvQWUgo72qdZl"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "S\u00e9paration (Zenfants perdi sim\u00e9)",
         "url": "https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY"
       },
@@ -279,26 +263,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La famille",
-        "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
+        "name": "Roule a li m\u00eame",
+        "url": "https://open.spotify.com/album/61HHyJnfDxcHjV2kuxNhWs"
       },
       "artists": [
         {
-          "name": "Jason Heerah",
-          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
-        },
-        {
-          "name": "Otentik Groove",
-          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
-        },
-        {
-          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
+          "name": "Missty",
+          "url": "https://open.spotify.com/artist/046Doq33XrspImCS9IpnuC"
         }
       ],
-      "duration_ms": 247136,
-      "name": "Ingra",
-      "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
+      "duration_ms": 226853,
+      "name": "Vilain mani\u00e8re",
+      "url": "https://open.spotify.com/track/6tfUdpb4AMvQWUgo72qdZl"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -359,6 +335,30 @@
       "duration_ms": 209128,
       "name": "Longanis",
       "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "La famille",
+        "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
+      },
+      "artists": [
+        {
+          "name": "Jason Heerah",
+          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
+        },
+        {
+          "name": "Otentik Groove",
+          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
+        },
+        {
+          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
+        }
+      ],
+      "duration_ms": 247136,
+      "name": "Ingra",
+      "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "La vie est belle (Best Of)",
+        "url": "https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ"
+      },
+      "artists": [
+        {
+          "name": "AUBIN",
+          "url": "https://open.spotify.com/artist/280VCDJJf0MzVkC3EAws19"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Met dan la joie",
+      "url": "https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Sega Ar Pwa",
         "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La vie est belle (Best Of)",
-        "url": "https://open.spotify.com/album/7b4DC8vFmz0jt4NtmTJpHZ"
-      },
-      "artists": [
-        {
-          "name": "AUBIN",
-          "url": "https://open.spotify.com/artist/280VCDJJf0MzVkC3EAws19"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Met dan la joie",
-      "url": "https://open.spotify.com/track/0hBgxcNkXmsVY26iW0ytmZ"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Music from Mauritius",
         "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 174497,
       "name": "Ambalaba",
       "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "La Route Karanbol",
+        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
+      },
+      "artists": [
+        {
+          "name": "Jason Lejuste",
+          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
+        }
+      ],
+      "duration_ms": 287711,
+      "name": "La Route Karanbol",
+      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -531,22 +547,6 @@
       "duration_ms": 230817,
       "name": "Mario",
       "url": "https://open.spotify.com/track/74beHnWiIdINBtXaqU5sSJ"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "La Route Karanbol",
-        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
-      },
-      "artists": [
-        {
-          "name": "Jason Lejuste",
-          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
-        }
-      ],
-      "duration_ms": 287711,
-      "name": "La Route Karanbol",
-      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Eliza",
-        "url": "https://open.spotify.com/album/5xUYCT6hrnMS2o2G6PUrOp"
-      },
-      "artists": [
-        {
-          "name": "Christopher Warren Permal",
-          "url": "https://open.spotify.com/artist/1Pg7v37Gg31eCaI93ym1ry"
-        }
-      ],
-      "duration_ms": 308052,
-      "name": "Eliza",
-      "url": "https://open.spotify.com/track/15fYq0hQa3jljdJpYKm1X3"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Soul Sok S\u00e9ga",
         "url": "https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 261911,
       "name": "Bhai Aboo",
       "url": "https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Eliza",
+        "url": "https://open.spotify.com/album/5xUYCT6hrnMS2o2G6PUrOp"
+      },
+      "artists": [
+        {
+          "name": "Christopher Warren Permal",
+          "url": "https://open.spotify.com/artist/1Pg7v37Gg31eCaI93ym1ry"
+        }
+      ],
+      "duration_ms": 308052,
+      "name": "Eliza",
+      "url": "https://open.spotify.com/track/15fYq0hQa3jljdJpYKm1X3"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -691,38 +691,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "S\u00e9ga Li Lao",
-        "url": "https://open.spotify.com/album/12pEc0RP8s9BTtYW7mY1WX"
-      },
-      "artists": [
-        {
-          "name": "Valo",
-          "url": "https://open.spotify.com/artist/6jCKvZ3AkM4jHLlSbS2s3o"
-        }
-      ],
-      "duration_ms": 279444,
-      "name": "S\u00e9ga Li Lao",
-      "url": "https://open.spotify.com/track/4d24yIdgzXxr9MrV4sCoBo"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
-        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
-      },
-      "artists": [
-        {
-          "name": "B.I.G",
-          "url": "https://open.spotify.com/artist/4D3nkiM1EzSlazZIsUhebu"
-        }
-      ],
-      "duration_ms": 262976,
-      "name": "Mo ti poule",
-      "url": "https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Zalouzi",
         "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
       },
@@ -755,18 +723,34 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "ZENFAN LAKAZ TOL",
-        "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
+        "name": "S\u00e9ga Li Lao",
+        "url": "https://open.spotify.com/album/12pEc0RP8s9BTtYW7mY1WX"
       },
       "artists": [
         {
-          "name": "Bigg Frankii",
-          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
+          "name": "Valo",
+          "url": "https://open.spotify.com/artist/6jCKvZ3AkM4jHLlSbS2s3o"
         }
       ],
-      "duration_ms": 301287,
-      "name": "Granper Sorti Diego",
-      "url": "https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv"
+      "duration_ms": 279444,
+      "name": "S\u00e9ga Li Lao",
+      "url": "https://open.spotify.com/track/4d24yIdgzXxr9MrV4sCoBo"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
+        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
+      },
+      "artists": [
+        {
+          "name": "B.I.G",
+          "url": "https://open.spotify.com/artist/4D3nkiM1EzSlazZIsUhebu"
+        }
+      ],
+      "duration_ms": 262976,
+      "name": "Mo ti poule",
+      "url": "https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -787,6 +771,22 @@
       "duration_ms": 278048,
       "name": "Vandredi Sen",
       "url": "https://open.spotify.com/track/50I00m6vPtp372eCRKJ7ZB"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "ZENFAN LAKAZ TOL",
+        "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
+      },
+      "artists": [
+        {
+          "name": "Bigg Frankii",
+          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
+        }
+      ],
+      "duration_ms": 301287,
+      "name": "Granper Sorti Diego",
+      "url": "https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -871,18 +871,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Moris Zekler: Fuzz & Soul Sega from 70's Mauritius",
-        "url": "https://open.spotify.com/album/5jSShrhgr5xkYNsXJMxOx9"
+        "name": "Enn lot kouler",
+        "url": "https://open.spotify.com/album/3j1W3VSJEYDOJIK4V8RQok"
       },
       "artists": [
         {
-          "name": "Ti L'Afrique",
-          "url": "https://open.spotify.com/artist/7psU4qxB98jFalXz3seXsX"
+          "name": "Jah Mike",
+          "url": "https://open.spotify.com/artist/5feVIF1cBHjeTWCFFVivoH"
+        },
+        {
+          "name": "Sista Queen",
+          "url": "https://open.spotify.com/artist/7cI26ISQuWm0h8rlYL1so8"
         }
       ],
-      "duration_ms": 252964,
-      "name": "Pop Soul Sega",
-      "url": "https://open.spotify.com/track/7CTdKdYu5sGpzmKBl2Ixdj"
+      "duration_ms": 237960,
+      "name": "Touletemp (feat. Sista Queen)",
+      "url": "https://open.spotify.com/track/1fx4MLYw7whk15f4dvhqpX"
     }
   ],
   "unique_name": "Sega Hitlist",

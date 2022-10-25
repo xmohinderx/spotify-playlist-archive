@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,864 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,967 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 18 | [Al Estilo Rancheron](https://open.spotify.com/track/0G1D3gX48Y56yKMQB5Q1UJ) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:18 |
 | 19 | [Moños Negros](https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9) | 3:22 |
 | 20 | [Lupe Campos](https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 3:36 |
-| 21 | [Me Estoy Acostumbrando](https://open.spotify.com/track/123ZTlYqsFk57j8Q9ge47R) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:09 |
-| 22 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 |
+| 21 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 |
+| 22 | [Me Estoy Acostumbrando](https://open.spotify.com/track/123ZTlYqsFk57j8Q9ge47R) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:09 |
 | 23 | [Somos Arrieros](https://open.spotify.com/track/5fbpA0qTcTDd4I5h39ox4a) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:58 |
 | 24 | [Te Vas a Arrepentir](https://open.spotify.com/track/2uAqlWmMNq1CJSezD2b2Fj) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Te Vas a Arrepentir](https://open.spotify.com/album/0EcTd4rBSHWuk8bp86vk06) | 3:51 |
 | 25 | [Ay Nomás](https://open.spotify.com/track/1GmqZP4DB7qi0MEMbdiHac) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 2:37 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 36 | [Home Run](https://open.spotify.com/track/4RpMlYxvcb2jIWhQzZOOsZ) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Home Run](https://open.spotify.com/album/2r3lhz9lFzhX9eWZTivN7t) | 2:48 |
 | 37 | [El Corrido de el Fantasma \- En Vivo](https://open.spotify.com/track/1jgUFLCsFEtcDy47RzCwWe) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:19 |
 | 38 | [El Doble R](https://open.spotify.com/track/5r1heGQVU9GLgwS4iiRInO) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [6 Tragos](https://open.spotify.com/album/7C4RdZNSEk3fnfjh5vD1jt) | 2:33 |
-| 39 | [El Gallo Pobre](https://open.spotify.com/track/78QearSoNEqJToO2XJH5Yo) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos y Más Corridos](https://open.spotify.com/album/5U83ZJ7okQsBhOGdcdMd44) | 2:59 |
-| 40 | [30 De Enero](https://open.spotify.com/track/0PQlZtRSRcB1vTbq7TsmwI) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 2:34 |
+| 39 | [30 De Enero](https://open.spotify.com/track/0PQlZtRSRcB1vTbq7TsmwI) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 2:34 |
+| 40 | [El Gallo Pobre](https://open.spotify.com/track/78QearSoNEqJToO2XJH5Yo) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos y Más Corridos](https://open.spotify.com/album/5U83ZJ7okQsBhOGdcdMd44) | 2:59 |
 | 41 | [Pepón](https://open.spotify.com/track/54Sblif2irWwPyCNGRAAuD) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 2:49 |
 | 42 | [Nomas las Mujeres Quedan \- En Vivo](https://open.spotify.com/track/3vKRkXyUCDs7mExHkcz9pg) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:29 |
-| 43 | [El Mashin](https://open.spotify.com/track/3RsClwIyFf4V25uc0tp8Aq) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:58 |
-| 44 | [El Inmigrante](https://open.spotify.com/track/4mbQrvmN8unsDdC08gCgXz) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:34 |
+| 43 | [El Inmigrante](https://open.spotify.com/track/4mbQrvmN8unsDdC08gCgXz) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:34 |
+| 44 | [El Mashin](https://open.spotify.com/track/3RsClwIyFf4V25uc0tp8Aq) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:58 |
 | 45 | [Kilómetro 11\-60 \- En Vivo](https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Corridos Con Olor a Monte \(En Vivo\)](https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU) | 3:25 |
 | 46 | [Por Alguien Como Tú](https://open.spotify.com/track/1pavM6Yx6cQ4pRWE5KD6zb) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Por Alguien Como Tú](https://open.spotify.com/album/2t2Q5bomEhtzOrsLZepfjZ) | 3:16 |
 | 47 | [Los Dos Amigos \- En Vivo](https://open.spotify.com/track/5pjpZf1TXXqpCNS7WTuAeB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 49 | [El Pollo](https://open.spotify.com/track/6Z5qfer3vyWlSF1jCUGqug) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos y Más Corridos](https://open.spotify.com/album/5U83ZJ7okQsBhOGdcdMd44) | 4:06 |
 | 50 | [Resulta \- En Vivo](https://open.spotify.com/track/3FRadPSJWTQtWykeVZwRPO) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Banda los Populares del Llano](https://open.spotify.com/artist/2lZQRzi0ru5O82CCXxpMAr) | [En Vivo Con Banda y Norteño](https://open.spotify.com/album/3fBoL5DJZ81GttTIpPXFF8) | 4:03 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDBlZTFkNTFkNTBmMDRiNDAwZDQ4MGYyYTg2MzIyY2I0Yg==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDA0OWYzY2FhZjVhZDBmYmZlNGJmM2M4YzNlYzE0ZmIzZA==`

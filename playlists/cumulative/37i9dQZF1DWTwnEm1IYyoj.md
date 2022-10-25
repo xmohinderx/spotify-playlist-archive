@@ -4,7 +4,7 @@
 
 > Listen to easy songs from your favorite artists! Cover: Lady Gaga
 
-355 songs - 22 hr 11 min - [published](https://open.spotify.com/playlist/7Bn49z5p4CqoX5mpg2CICH)
+356 songs - 22 hr 14 min - [published](https://open.spotify.com/playlist/7Bn49z5p4CqoX5mpg2CICH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 | 2019-05-26\* |  |
 | [A Thousand Years](https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP) | 4:45 | 2019-05-26\* | 2022-07-29 |
 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 | 2022-04-25 |  |
-| [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2021-06-12 |  |
+| [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2021-06-12 | 2022-10-25 |
 | [All I Want](https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World](https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL) | 5:05 | 2019-05-26\* | 2021-08-28 |
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2019-05-26\* |  |
 | [Almost \(Sweet Music\)](https://open.spotify.com/track/2e9N4vHYVUwSwRorBzsZXE) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Almost \(Sweet Music\)](https://open.spotify.com/album/5kOg8fegfvEEb83tDy8gUH) | 3:37 | 2020-10-23 | 2022-04-21 |
@@ -333,6 +333,7 @@
 | [Unconditionally](https://open.spotify.com/track/009ImBOrIUlWgla8U05RAC) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:48 | 2022-06-17 |  |
 | [Unconditionally](https://open.spotify.com/track/2RPNCUaDL2ixoY9wGpoJoQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/4lFDt4sVpCni9DRHRmDjgG) | 3:48 | 2019-05-26\* | 2022-07-29 |
 | [Underdog](https://open.spotify.com/track/7FsAFw1oZeTJUZmIzSh0cg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:24 | 2021-06-12 | 2021-10-16 |
+| [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2022-10-25 |  |
 | [Unwell \- 2007 Remaster](https://open.spotify.com/track/0PXWpNBYg52gABrn1qL1bD) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Exile on Mainstream](https://open.spotify.com/album/0oFlNGmGpsFvvhBgnNPirh) | 3:57 | 2021-03-19 | 2021-10-01 |
 | [Unwritten](https://open.spotify.com/track/1D1nixOVWOxvNfWi0UD7VX) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/1meis09isQJFDA65afUTt8) | 4:19 | 2019-05-26\* | 2021-10-12 |
 | [Up&Up](https://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 6:45 | 2019-05-26\* | 2021-06-16 |

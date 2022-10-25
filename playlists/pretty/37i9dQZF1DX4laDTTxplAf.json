@@ -1,12 +1,12 @@
 {
   "description": "All 00s, all ballads. Cover: Norah Jones",
-  "num_followers": 214916,
+  "num_followers": 215033,
   "original_name": "00s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQwNzU2MCwwMDAwMDAwMDNmNzQyYjFlMTk3NWJmOTAzYjQyMjIyNzYxYzFjMGQ2",
+  "snapshot_id": "MTY1MDQwNzU2MCwwMDAwMDAwMDQ0ZDE0Njg3MmU5N2E2MWZiOGNhMTc4N2E2MzJiNjE1",
   "tracks": [
     {
       "added_at": "2021-02-10 17:52:46",
@@ -211,6 +211,22 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
+        "name": "In My Own Words",
+        "url": "https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "So Sick",
+      "url": "https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 184400,
       "name": "Apologize - feat. One Republic",
       "url": "https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "In My Own Words",
-        "url": "https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "So Sick",
-      "url": "https://open.spotify.com/track/6brl7bwOHmGFkNw3MBqssT"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -439,22 +439,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 245826,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -503,18 +503,18 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 219493,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -531,6 +531,22 @@
       "duration_ms": 226680,
       "name": "Bless The Broken Road",
       "url": "https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -579,22 +595,6 @@
       "duration_ms": 265533,
       "name": "Differences",
       "url": "https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -663,6 +663,22 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Confessions Part II",
+      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
         "name": "Little Voice",
         "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
       "artists": [
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Confessions Part II",
-      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
+      "duration_ms": 203040,
+      "name": "Teardrops On My Guitar - Radio Single Remix",
+      "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -755,22 +771,6 @@
       "duration_ms": 281466,
       "name": "Ordinary People",
       "url": "https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "Teardrops On My Guitar - Radio Single Remix",
-      "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -951,22 +951,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Britney (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "I'm Not a Girl, Not Yet a Woman",
-      "url": "https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+        "name": "Britney (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 430800,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
+      "duration_ms": 231066,
+      "name": "I'm Not a Girl, Not Yet a Woman",
+      "url": "https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o"
     },
     {
       "added_at": "2022-04-19 14:07:15",
@@ -1011,6 +995,22 @@
       "duration_ms": 219840,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 430800,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/5OGkKx8jP0A5KSULEc6XYZ"
     },
     {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
-        "name": "I Wanna Be With You",
-        "url": "https://open.spotify.com/album/4XbSwLzvznYCophbz8ElMV"
-      },
-      "artists": [
-        {
-          "name": "Mandy Moore",
-          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "I Wanna Be With You",
-      "url": "https://open.spotify.com/track/4du0TY3NTgvQGlelrBHfDL"
-    },
-    {
       "added_at": "2022-04-19 14:07:15",
       "album": {
         "name": "Stripped",
@@ -1123,6 +1107,22 @@
       "duration_ms": 304013,
       "name": "The Voice Within",
       "url": "https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "I Wanna Be With You",
+        "url": "https://open.spotify.com/album/4XbSwLzvznYCophbz8ElMV"
+      },
+      "artists": [
+        {
+          "name": "Mandy Moore",
+          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "I Wanna Be With You",
+      "url": "https://open.spotify.com/track/4du0TY3NTgvQGlelrBHfDL"
     },
     {
       "added_at": "2021-02-10 17:52:46",

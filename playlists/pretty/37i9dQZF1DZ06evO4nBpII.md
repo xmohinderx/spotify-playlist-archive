@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,383 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,620 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 46 | [Last of the American Girls](https://open.spotify.com/track/5Rjm3VIMlxAEIEy5gU2bF7) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 3:51 |
 | 47 | [Nuclear Family](https://open.spotify.com/track/206n37mZTmloL45RYhmMlP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡UNO!](https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w) | 3:03 |
 | 48 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 |
-| 49 | [Youngblood](https://open.spotify.com/track/5JwuHzmJCmHuHGjP9W6KtK) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 2:32 |
-| 50 | [Brat](https://open.spotify.com/track/6QlyzIamWoVeut7Hc7tZRc) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 1:43 |
+| 49 | [Brat](https://open.spotify.com/track/6QlyzIamWoVeut7Hc7tZRc) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 1:43 |
+| 50 | [Youngblood](https://open.spotify.com/track/5JwuHzmJCmHuHGjP9W6KtK) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 2:32 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDBkYzhmNTlmZjcyOGY3MzhkY2I3MTRhNmZmNmM4MjdhYw==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDA3NDI2ZTk3YjY4YTliZmEwYmM0MDVlZGQwNTdhYTcyNw==`

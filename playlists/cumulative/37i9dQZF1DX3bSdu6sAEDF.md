@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-235 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/1ldJRNHV4cXibxutBhNe0N)
+236 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/1ldJRNHV4cXibxutBhNe0N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-09 |  |
 | [FREEDOM](https://open.spotify.com/track/4qBuY6UbPKReY424xbbt8k) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 2:57 | 2022-01-19 | 2022-07-28 |
 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 | 2022-10-07 |  |
-| [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 | 2022-03-25 |  |
+| [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 | 2022-03-25 | 2022-10-25 |
 | [Glitter](https://open.spotify.com/track/5yR5ydZdVoSXBh6Dy4JhAS) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 3:35 | 2021-08-05 | 2022-01-20 |
 | [Go The Distance](https://open.spotify.com/track/4HFi9NP66qdNOsgPGLqrm7) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance](https://open.spotify.com/album/4n0O2srPjbdjU4i1EEqkcu) | 2:47 | 2022-04-08 | 2022-07-29 |
 | [Good Kisser](https://open.spotify.com/track/7BDbyDs5FUmnh955RABFd7) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:38 | 2022-01-19 |  |
@@ -211,6 +211,7 @@
 | [Tacones Rojos \- With John Legend](https://open.spotify.com/track/7pCcX8GklrbASun9rWFh4W) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Tacones Rojos \(With John Legend\)](https://open.spotify.com/album/1iXiHsXgdWAcyTAjSamVzO) | 3:08 | 2022-03-25 |  |
 | [Talking to Yourself](https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4) | 2:53 | 2022-09-16 | 2022-10-24 |
 | [Talking to Yourself](https://open.spotify.com/track/1sEBlj6fYXiiaGR8XrLSbr) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/03O3E9D52ADAd2nzr3wCtb) | 2:53 | 2022-09-16 | 2022-09-28 |
+| [Talking to Yourself](https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:53 | 2022-09-16 |  |
 | [Taste Of You](https://open.spotify.com/track/4jh171FEHt6Nql20FiVfQm) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:33 | 2022-01-19 | 2022-05-19 |
 | [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-03-25 | 2022-07-25 |
 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 | 2021-08-05 | 2022-01-20 |

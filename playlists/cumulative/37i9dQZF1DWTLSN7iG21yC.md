@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-532 songs - 1 day 4 hr 22 min - [published](https://open.spotify.com/playlist/1nCLDzLkfoW4PEmPPr38Hp)
+533 songs - 1 day 4 hr 25 min - [published](https://open.spotify.com/playlist/1nCLDzLkfoW4PEmPPr38Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Cross Your Mind](https://open.spotify.com/track/5sPaFuUttXaGeMhq1HKJG5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:32 | 2022-06-17 | 2022-07-19 |
 | [Cry with you](https://open.spotify.com/track/0hqJxaNkPQ3sPm1tvfPlAe) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Cry with you](https://open.spotify.com/album/5glLEM78dvTDoN8MSjM241) | 3:37 | 2021-08-20 | 2022-07-15 |
 | [Damn It Feels Good To Be Me](https://open.spotify.com/track/3LymIBUSWRoxxm7W5UQlXl) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Damn It Feels Good To Be Me](https://open.spotify.com/album/4gi9J69znig8ZUb9OhdUCs) | 2:18 | 2021-09-10 | 2022-07-29 |
-| [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 | 2021-06-25 |  |
+| [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 | 2021-06-25 | 2022-10-25 |
 | [Dancing Slow](https://open.spotify.com/track/0CIxOoxye5HUWA23ofjbpJ) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Dancing Slow](https://open.spotify.com/album/39J4TkvH0VvrpfCDfkUwx5) | 3:20 | 2022-02-25 | 2022-04-21 |
 | [Dancing With The Devil](https://open.spotify.com/track/2kONpeXXK70YEs7c0UQbmq) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil](https://open.spotify.com/album/66iecOgRs3V9I0Ux27kDQK) | 4:03 | 2021-06-07 | 2022-04-20 |
 | [Dangerous Levels of Introspection](https://open.spotify.com/track/4iT46O2cYu63Rlv09Fpxch) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:54 | 2021-06-25 | 2022-07-13 |
@@ -314,6 +314,7 @@
 | [Love Under Pressure](https://open.spotify.com/track/6AE2DNuS40qbbVqgUAisMA) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Love Under Pressure](https://open.spotify.com/album/0JFioX82C82OcSgqYsInPB) | 2:45 | 2021-09-10 | 2022-04-20 |
 | [Love You Right](https://open.spotify.com/track/2X4zeCbENnOF6cQYKLbfyq) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love You Right](https://open.spotify.com/album/6KTqHLSSHvbv6E0KgfYlnm) | 3:01 | 2021-07-09 | 2022-07-29 |
 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2021-06-07 |  |
+| [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-21 |  |
 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 | 2021-06-07 | 2022-04-18 |
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-04-15 | 2022-04-21 |
 | [Memories](https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Memories](https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc) | 3:09 | 2021-06-07 | 2022-04-21 |

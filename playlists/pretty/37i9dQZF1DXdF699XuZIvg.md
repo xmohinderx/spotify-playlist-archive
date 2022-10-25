@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 
 > Hit the road and scream your heart out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,229 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,452 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 34 | [Whiskey In The Jar](https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage, Inc.](https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC) | 5:04 |
 | 35 | [Faith](https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 2:26 |
 | 36 | [Rag Doll](https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 |
-| 37 | [The Trooper \- 2015 Remaster](https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 \- Remaster\)](https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm) | 4:12 |
-| 38 | [You've Got Another Thing Coming](https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 5:10 |
-| 39 | [DEVIL](https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 3:27 |
-| 40 | [Fuel](https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD) | 4:29 |
+| 37 | [You've Got Another Thing Coming](https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 5:10 |
+| 38 | [The Trooper \- 2015 Remaster](https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 \- Remaster\)](https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm) | 4:12 |
+| 39 | [Fuel](https://open.spotify.com/track/1tTPC0hsnXq1IGpvWY54JC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD) | 4:29 |
+| 40 | [DEVIL](https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 3:27 |
 | 41 | [Bulletproof](https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 2:57 |
 | 42 | [We Die Young](https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 2:32 |
 | 43 | [Go With The Flow](https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 74 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
 | 75 | [Dangerous](https://open.spotify.com/track/0y1t3QzZAjfFd5IxQZCS1V) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum](https://open.spotify.com/album/13lnqlgmaRHQF54C9iiOWO) | 3:49 |
 
-Snapshot ID: `MTY2NjM2MTA0NCwwMDAwMDAwMDJmMWNjYzcwYTk1MDI3Y2RmZDgyNGU4ZGZhNzAzOTI5`
+Snapshot ID: `MTY2NjM2MTA0NCwwMDAwMDAwMDZiNzc1YTA4ZGY2ZTNjMDhkMWQ5NGY1MTc0NWU0NWUw`

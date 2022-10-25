@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 
 > This is Aimer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,974 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,015 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 | 38 | [Through My Blood <AM>](https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [ninelie EP](https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN) | 4:04 |
 | 39 | [Black Bird](https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 3:47 |
 | 40 | [ever after](https://open.spotify.com/track/0mkctINFN0327pYxp1CRhQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 3:56 |
-| 41 | [words](https://open.spotify.com/track/0BYIoZmj58ibykXiHWRIwZ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [After Dark](https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa) | 5:54 |
-| 42 | [星の消えた夜に \-rit\. ver.\-](https://open.spotify.com/track/6RD0mL1NtGlBAGKSl4IG5T) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 6:02 |
+| 41 | [星の消えた夜に \-rit\. ver.\-](https://open.spotify.com/track/6RD0mL1NtGlBAGKSl4IG5T) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 6:02 |
+| 42 | [words](https://open.spotify.com/track/0BYIoZmj58ibykXiHWRIwZ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [After Dark](https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa) | 5:54 |
 | 43 | [Sailing](https://open.spotify.com/track/3mhLRc3Vn8CHlCropQ5yxu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 5:35 |
 | 44 | [s\-AVE](https://open.spotify.com/track/5VTCTEHELRevrwWxVNFrXB) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [o1](https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL) | 4:34 |
 | 45 | [季路](https://open.spotify.com/track/2JFrbjQNJSBPeUz2Pn4ZaY) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [季路](https://open.spotify.com/album/6j0uUaKQdWOHV48kYA8fbA) | 5:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 | 49 | [We Two](https://open.spotify.com/track/2QqbVhORUcTKRJsUg0XPLO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 4:07 |
 | 50 | [Re:pray](https://open.spotify.com/track/2Q6sHQtoMtNHR2GjSaAeQG) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sleepless Nights](https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD) | 5:07 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDAxZWRhZTcwZmQxMWFhODBhYjk2NWU5YTFkOGY1ZmJkYQ==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDA2YjMwNWUwOTQ5MjY2Mjk2NDE0MDc0YjA4OTA2YTEyMQ==`

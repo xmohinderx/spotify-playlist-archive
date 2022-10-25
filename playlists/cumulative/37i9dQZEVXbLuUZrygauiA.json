@@ -260,6 +260,28 @@
     },
     {
       "album": {
+        "name": "Smile Now Cry Never",
+        "url": "https://open.spotify.com/album/3alkenV3DutbhsbuFhqq79"
+      },
+      "artists": [
+        {
+          "name": "Ms Krazie",
+          "url": "https://open.spotify.com/artist/1RhOh9I75vVWEDmzRVkRUz"
+        },
+        {
+          "name": "Chino Grande",
+          "url": "https://open.spotify.com/artist/1DisOtNFBsfGAuifnt4o8j"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "A Gangster's Wife",
+      "url": "https://open.spotify.com/track/6QNphn62YKaHG1hrnPSoHi"
+    },
+    {
+      "album": {
         "name": "A La PM Puse En Alto",
         "url": "https://open.spotify.com/album/2hiOsbQn2kl3BnMUN538Jl"
       },
@@ -583,7 +605,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 223084,
       "name": "algo as\u00ed (remix)",
       "url": "https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD"
@@ -2564,6 +2586,24 @@
     },
     {
       "album": {
+        "name": "De Botas O Gabanas (En Vivo)",
+        "url": "https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Originales Del Bajio",
+          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154338,
+      "name": "De Botas O Gabanas - En Vivo",
+      "url": "https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7"
+    },
+    {
+      "album": {
         "name": "Ni Diablo Ni Santo",
         "url": "https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6"
       },
@@ -3759,7 +3799,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 155960,
       "name": "Feliz Cumplea\u00f1os Ferxxo",
       "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
@@ -4457,7 +4497,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 179026,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
@@ -8651,7 +8691,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
@@ -8815,6 +8855,24 @@
       "duration_ms": 134000,
       "name": "Riri",
       "url": "https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs"
+    },
+    {
+      "album": {
+        "name": "recently",
+        "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161929,
+      "name": "rises the moon",
+      "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
     },
     {
       "album": {
@@ -9589,7 +9647,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"

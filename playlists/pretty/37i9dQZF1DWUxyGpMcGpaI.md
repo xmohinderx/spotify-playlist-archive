@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxyGpMcGpaI.md) - [plain]
 
 > Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>! /  TVアニメ<a href="https://chainsawman.dog/">『チェンソーマン』</a>のオフィシャルプレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,242 likes - 3 songs - 10 min 24 sec
+[Spotify](https://open.spotify.com/user/spotify) - 23,604 likes - 3 songs - 10 min 24 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

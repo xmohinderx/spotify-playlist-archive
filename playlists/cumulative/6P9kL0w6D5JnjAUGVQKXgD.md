@@ -2,7 +2,7 @@
 
 ### [EDM Top 100](https://open.spotify.com/playlist/6P9kL0w6D5JnjAUGVQKXgD)
 
-> EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, Jonasu, Karen Harding, MK
+> EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, MK, Jonasu, Karen Harding
 
 1,330 songs - 2 day 22 hr 14 min - [published](https://open.spotify.com/playlist/0Ntnl9seA6EX8wAm2l1oSO)
 

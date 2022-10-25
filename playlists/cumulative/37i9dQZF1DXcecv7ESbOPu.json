@@ -38774,6 +38774,24 @@
     },
     {
       "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191173,
+      "name": "I Ain\u2019t Quite Where I Think I Am",
+      "url": "https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx"
+    },
+    {
+      "album": {
         "name": "I Ain't Quite Where I Think I Am",
         "url": "https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On"
       },
@@ -38785,7 +38803,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 191173,
       "name": "I Ain\u2019t Quite Where I Think I Am",
       "url": "https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y"
@@ -48661,7 +48679,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 198573,
       "name": "Liquor (with Ari Lennox)",
       "url": "https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh"
@@ -48687,6 +48705,28 @@
       "duration_ms": 198573,
       "name": "Liquor (with Ari Lennox)",
       "url": "https://open.spotify.com/track/10OgtOyMSuehqDvZFNoBlv"
+    },
+    {
+      "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198573,
+      "name": "Liquor (with Ari Lennox)",
+      "url": "https://open.spotify.com/track/5ykuFZXYbA8frwBmutsoFx"
     },
     {
       "album": {

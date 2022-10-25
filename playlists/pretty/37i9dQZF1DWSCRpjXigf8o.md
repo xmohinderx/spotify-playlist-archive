@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,018 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,039 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 30 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 |
 | 31 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 |
 | 32 | [When You Love Someone](https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:36 |
-| 33 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
+| 33 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 |
 | 34 | [最上の出逢い](https://open.spotify.com/track/0M7AkOqC8A00VWeoBU4C1d) | [岡村匡紘](https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR) | [最上の出逢い](https://open.spotify.com/album/6OtMHAOP4Ku8DTyKYGv3MY) | 4:52 |
-| 35 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 |
+| 35 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
 | 36 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 |
 | 37 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
 | 38 | [Stray cat](https://open.spotify.com/track/6bYR2lMuyD0HUkgXo03yLy) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Stray cat](https://open.spotify.com/album/7K1R46LGMuh0Vr7XBX35iD) | 2:35 |
-| 39 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
-| 40 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
+| 39 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
+| 40 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
 | 41 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 |
 | 42 | [Lucy In The Sky With Diamonds \- Remastered 2009](https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 3:28 |
 | 43 | [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 54 | [紫陽花の庭](https://open.spotify.com/track/6akOpGJcktIeKmtqK8LXdh) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [Calyx](https://open.spotify.com/album/30u7TBjP17nCKURG0tkmwl) | 2:34 |
 | 55 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 |
 | 56 | [There She Goes](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 2:42 |
-| 57 | [Love & War in Your Twenties](https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB) | 4:10 |
+| 57 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
 | 58 | [まばら \- feat\. missa](https://open.spotify.com/track/4IWJMJDFmwh0GyEGSIwcFG) | [ioni](https://open.spotify.com/artist/3QpmyEcdhAM9Y0ZAyN5q6z), [missa](https://open.spotify.com/artist/6B4tdctJogbdK6Kr5hRRFs) | [Autumn ep](https://open.spotify.com/album/0NyNMvyyD4gRkXLmYX7p5W) | 4:21 |
-| 59 | [Part Of The Band](https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Part Of The Band](https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM) | 4:20 |
+| 59 | [Love & War in Your Twenties](https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB) | 4:10 |
 | 60 | [僕等の日々](https://open.spotify.com/track/22PT5uLiey4j5iE5ZMLlvE) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [僕等の日々](https://open.spotify.com/album/1MPswJxnfrhjN1rcPSLIO2) | 4:32 |
 
-Snapshot ID: `MTY2NjI3ODAwMCwwMDAwMDAwMDViY2E4ZTZjYWM3NTUyYzEwNTI5MDJjYjg3NmFkNzMw`
+Snapshot ID: `MTY2NjI3ODAwMCwwMDAwMDAwMDU1ZjExMzYwYjNlZWIyNzI3YmYxOTVjYTI4NDkwNzg2`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Tegan and Sara
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,805 likes - 85 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,824 likes - 85 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 |
+| 1 | [Smoking Weed Alone](https://open.spotify.com/track/0aI85jfjeRy4UsLLc93Nw5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Crybaby](https://open.spotify.com/album/2a8473uZ3beO2ZuePXXBNf) | 3:11 |
 | 2 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 |
 | 3 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 |
 | 4 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 84 | [We Are \(우리는\)](https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [We Are \(우리는\)](https://open.spotify.com/album/5fHWkEYEMeqoOCYaGB6WH5) | 3:46 |
 | 85 | [Off Goes The Light](https://open.spotify.com/track/7EqezifSDgoyiNnj7TPJYc) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Off Goes The Light](https://open.spotify.com/album/1fTS59Y3aXI3fg1eLHUuZV) | 4:33 |
 
-Snapshot ID: `MTY2NjI4NjEyOSwwMDAwMDAwMGUwOTViNDJmYzBkMjQwYjlmNzI2ZjRkYmM3ZTZiYWRh`
+Snapshot ID: `MTY2NjYyNzc1NywwMDAwMDAwMGM1MDY4YzVjZGU2YzQxYTY1YzZhMzY0MmZkM2E5NWRi`

@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites.
 
-274 songs - 17 hr 12 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
+275 songs - 17 hr 17 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Help Me to Feel Again](https://open.spotify.com/track/5dIrRgtvRJQlOHvLdAew1p) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Help Me to Feel Again](https://open.spotify.com/album/49C5Ln1TXkkl8h8CQjp12A) | 4:22 | 2021-05-14 | 2022-09-25 |
 | [Here to Forever](https://open.spotify.com/track/3uKLuVqBd0bIUfFDdn68lI) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Here to Forever](https://open.spotify.com/album/3ysrZoXIO6es1hsQI2iTeZ) | 3:46 | 2022-09-16 | 2022-09-23 |
 | [Here to Forever](https://open.spotify.com/track/7Cva2EgJougx6O6M5xgWAq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 3:46 | 2022-09-16 |  |
+| [Here's To Moving On](https://open.spotify.com/track/0GCngfjdoIbBBPisYkv3Y3) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [All The Truth That I Can Tell](https://open.spotify.com/album/7e8ZKs0jaBUKF0jHjbs0bD) | 4:17 | 2022-09-16 |  |
 | [Here's To Moving On](https://open.spotify.com/track/5CR0GYilasGkYkXUqCQNEr) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Here's To Moving On](https://open.spotify.com/album/10JjmdD5wrOGh3Apj0osje) | 4:17 | 2021-11-12 | 2022-10-06 |
 | [Hero](https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg) | 3:10 | 2022-04-11 |  |
 | [Hero](https://open.spotify.com/track/6GRDI9suQHikFP6euIXnpq) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/14SCnv027L0HidHq0URIDu) | 3:10 | 2019-06-16\* | 2022-04-21 |
@@ -271,7 +272,7 @@
 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 | 2019-06-16\* |  |
 | [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 | 2022-08-17 |  |
 | [You & I](https://open.spotify.com/track/6SgHlKcfkRQ6XohmDR1ugQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq) | 4:21 | 2019-06-16\* | 2022-10-03 |
-| [You and I](https://open.spotify.com/track/26WlFnTlUSM5R0xg5p6epW) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [You and I](https://open.spotify.com/album/5OIAqBy4qyDIO2HOMzwCTz) | 4:30 | 2019-06-16\* |  |
+| [You and I](https://open.spotify.com/track/26WlFnTlUSM5R0xg5p6epW) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [You and I](https://open.spotify.com/album/5OIAqBy4qyDIO2HOMzwCTz) | 4:30 | 2019-06-16\* | 2022-10-25 |
 | [You Get Me So High](https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 2:33 | 2022-08-17 | 2022-09-17 |
 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 | 2019-06-16\* |  |
 | [Young Blood](https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 | 2022-04-11 |  |

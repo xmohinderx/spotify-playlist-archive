@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-313 songs - 19 hr 26 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
+314 songs - 19 hr 29 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/track/4g0ElvVfW24EHPdfWo2I8w) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/album/6ya53tyYpsLogdzeCJdTsL) | 2:59 | 2022-07-06 |  |
 | [How Can I Love? \- When I Can't Get Away from You](https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away from You\)](https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q) | 2:59 | 2021-09-23 | 2022-07-29 |
 | [how do you feel](https://open.spotify.com/track/3BMcTB54pN4oZlIIPNxcy1) | [strawbey](https://open.spotify.com/artist/3Ecd4KEdZpKTW8gi3HOmeX) | [play pretend](https://open.spotify.com/album/47wxXFDjvNfaGnMPaxBjT4) | 4:57 | 2020-10-08 | 2022-07-29 |
-| [Hyper\-normal](https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Hyper\-normal](https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG) | 3:15 | 2021-12-05 |  |
+| [Hyper\-normal](https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Hyper\-normal](https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG) | 3:15 | 2021-12-05 | 2022-10-25 |
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/3h2CkNuAKSxZXWGElwcOvH) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/album/3TlKOq7pgN2XIAM3J2HSyD) | 5:27 | 2021-10-09 | 2022-10-07 |
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 | 2022-07-06 |  |
 | [I Don't Want to Be Alone](https://open.spotify.com/track/3TJJmh4u2wHIZdYbImGyeM) | [Llovers](https://open.spotify.com/artist/0MGqjWWotQzv4HkaNAiWn5) | [I Don't Want to Be Alone](https://open.spotify.com/album/3jNjCCdOzAP9J4Szb8vuJ6) | 3:22 | 2020-08-09 | 2022-04-21 |
@@ -139,6 +139,7 @@
 | [I'm lost in a fishbowl](https://open.spotify.com/track/2UInBM4KnSCz1bqb0NNO3q) | [Hitch Von Cassen](https://open.spotify.com/artist/4GFY0t6jiCfYgWDxTfCK4p), [Ana Ora](https://open.spotify.com/artist/009y7OLLaB8PkJL8bUywC1) | [Humpty Dumpty](https://open.spotify.com/album/1F68Q7RXXElRqb1nlklYKH) | 4:14 | 2022-02-24 | 2022-07-25 |
 | [In Awe Of](https://open.spotify.com/track/2KaRE356O1NlbYWE0D8Xtr) | [jennylee](https://open.spotify.com/artist/0YJbZA7Ci73cEk1Ylcukgt) | [Stop Speaking / In Awe Of](https://open.spotify.com/album/0gxmomjwcF5Idl68FdikJk) | 3:41 | 2021-12-22 | 2022-07-29 |
 | [In Manchester](https://open.spotify.com/track/1IRObyMKeA49hz1Ty3GNHH) | [Black Marble](https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t) | [In Manchester](https://open.spotify.com/album/0tYSZQZPID1kRnMBj4JT0l) | 2:53 | 2020-08-09 | 2022-07-28 |
+| [In Manchester](https://open.spotify.com/track/3uXzuLlEEdMzlxKtXGRnzI) | [Black Marble](https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t) | [In Manchester](https://open.spotify.com/album/0LJd6B1C9qbUTBOq7wmkTU) | 2:53 | 2022-07-06 |  |
 | [In My Dreams](https://open.spotify.com/track/2dDzrUEDCKXaLViMPa1jo5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:21 | 2020-12-22 | 2021-02-26 |
 | [In my hand](https://open.spotify.com/track/3cjTqH0FJghhtaheWNkNv7) | [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [Violet Sun](https://open.spotify.com/album/5yfMZ1JBzHx1Nt4VYb824M) | 4:21 | 2021-02-06 | 2022-04-21 |
 | [In Reference To](https://open.spotify.com/track/4soIPMs2XqUFu9roKupZ8I) | [Foliage](https://open.spotify.com/artist/6GO4Noo5C7TXVHxGNClp2w) | [In Reference To](https://open.spotify.com/album/4Ut9MpqwYYcIS8iSIy1iAA) | 2:29 | 2019-11-19\* | 2022-07-15 |

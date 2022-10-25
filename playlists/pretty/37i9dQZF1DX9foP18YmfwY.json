@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Thiago Brado",
-  "num_followers": 278485,
+  "num_followers": 278574,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyNjg1NywwMDAwMDAwMDY1NjM3ZDE2NDdlNzQ1NWIzNGE0OGM2NTM0ZTRhMDAw",
+  "snapshot_id": "MTY2NTcyNjg1NywwMDAwMDAwMDhhZjllODZlYzU4YzRjNGU2ZjcyOTQ3ODQ0YjZkYzBh",
   "tracks": [
     {
       "added_at": "2022-10-14 05:54:17",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
-      },
-      "artists": [
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 429900,
-      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
-    },
-    {
-      "added_at": "2022-10-14 05:54:17",
-      "album": {
         "name": "Romaria (Ao Vivo)",
         "url": "https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 319556,
       "name": "Romaria - Ao Vivo",
       "url": "https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj"
+    },
+    {
+      "added_at": "2022-10-14 05:54:17",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
+      },
+      "artists": [
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 429900,
+      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
     },
     {
       "added_at": "2022-10-14 05:54:17",
@@ -355,26 +355,6 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Retrovisor",
-        "url": "https://open.spotify.com/album/3k0k584H1fIbsaGfdET3Yi"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        },
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 218378,
-      "name": "Retrovisor",
-      "url": "https://open.spotify.com/track/79Vqir1xW9gpTkZQDe1bje"
-    },
-    {
-      "added_at": "2022-10-14 05:54:17",
-      "album": {
         "name": "Quero Nascer de Novo",
         "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
       },
@@ -395,18 +375,42 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW"
+        "name": "Retrovisor",
+        "url": "https://open.spotify.com/album/3k0k584H1fIbsaGfdET3Yi"
       },
       "artists": [
         {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 309660,
-      "name": "Ningu\u00e9m Explica Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN"
+      "duration_ms": 218378,
+      "name": "Retrovisor",
+      "url": "https://open.spotify.com/track/79Vqir1xW9gpTkZQDe1bje"
+    },
+    {
+      "added_at": "2022-10-14 05:54:17",
+      "album": {
+        "name": "Divino Esposo",
+        "url": "https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV"
+      },
+      "artists": [
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Irm\u00e3 Kelly Patr\u00edcia",
+          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
+        }
+      ],
+      "duration_ms": 218104,
+      "name": "Divino Esposo",
+      "url": "https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS"
     },
     {
       "added_at": "2022-10-14 05:54:17",
@@ -451,22 +455,18 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Divino Esposo",
-        "url": "https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV"
+        "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW"
       },
       "artists": [
         {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        },
-        {
-          "name": "Irm\u00e3 Kelly Patr\u00edcia",
-          "url": "https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV"
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
         }
       ],
-      "duration_ms": 218104,
-      "name": "Divino Esposo",
-      "url": "https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS"
+      "duration_ms": 309660,
+      "name": "Ningu\u00e9m Explica Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN"
     },
     {
       "added_at": "2022-10-14 05:54:17",
@@ -527,22 +527,18 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Cora\u00e7\u00e3o de Pai",
-        "url": "https://open.spotify.com/album/72xUT7yjz9qGAunIC8BDWQ"
+        "name": "Esp\u00edrito da Verdade",
+        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
       },
       "artists": [
         {
-          "name": "Ana L\u00facia",
-          "url": "https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi"
-        },
-        {
-          "name": "Nelsinho Corr\u00eaa",
-          "url": "https://open.spotify.com/artist/4PBRc9BHh6zVmQV3TOQoz4"
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
         }
       ],
-      "duration_ms": 222298,
-      "name": "Cora\u00e7\u00e3o de Pai",
-      "url": "https://open.spotify.com/track/2VMevRdI4SH5RxktSlH97X"
+      "duration_ms": 287303,
+      "name": "Se Eu Tocar",
+      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
     },
     {
       "added_at": "2022-10-14 05:54:17",
@@ -567,18 +563,22 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Esp\u00edrito da Verdade",
-        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
+        "name": "Cora\u00e7\u00e3o de Pai",
+        "url": "https://open.spotify.com/album/72xUT7yjz9qGAunIC8BDWQ"
       },
       "artists": [
         {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+          "name": "Ana L\u00facia",
+          "url": "https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi"
+        },
+        {
+          "name": "Nelsinho Corr\u00eaa",
+          "url": "https://open.spotify.com/artist/4PBRc9BHh6zVmQV3TOQoz4"
         }
       ],
-      "duration_ms": 287303,
-      "name": "Se Eu Tocar",
-      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
+      "duration_ms": 222298,
+      "name": "Cora\u00e7\u00e3o de Pai",
+      "url": "https://open.spotify.com/track/2VMevRdI4SH5RxktSlH97X"
     },
     {
       "added_at": "2022-10-14 05:54:17",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Hosana, Pt. 01",
-        "url": "https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 214327,
-      "name": "Can\u00e7\u00e3o de Madalena",
-      "url": "https://open.spotify.com/track/1y26YuDAbMbnZfmsNvjCb3"
-    },
-    {
-      "added_at": "2022-10-14 05:54:17",
-      "album": {
         "name": "Deus V\u00ea",
         "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G"
+        "name": "Hosana, Pt. 01",
+        "url": "https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N"
       },
       "artists": [
         {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE"
+      "duration_ms": 214327,
+      "name": "Can\u00e7\u00e3o de Madalena",
+      "url": "https://open.spotify.com/track/1y26YuDAbMbnZfmsNvjCb3"
     },
     {
       "added_at": "2022-10-14 05:54:17",
@@ -719,38 +703,6 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Pelas M\u00e3os de Maria",
-        "url": "https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Tua Palavra",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        }
-      ],
-      "duration_ms": 199344,
-      "name": "Pelas M\u00e3os de Maria",
-      "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
-    },
-    {
-      "added_at": "2022-10-14 05:54:17",
-      "album": {
-        "name": "Deus Anda Comigo",
-        "url": "https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e"
-      },
-      "artists": [
-        {
-          "name": "Cleiton Saraiva",
-          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
-        }
-      ],
-      "duration_ms": 223285,
-      "name": "Longe de Deus, Tudo \u00c9 Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc"
-    },
-    {
-      "added_at": "2022-10-14 05:54:17",
-      "album": {
         "name": "Cantai a Deus Com Alegria 2022",
         "url": "https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv"
       },
@@ -767,22 +719,18 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Acalma o Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G"
       },
       "artists": [
         {
           "name": "Aline Brasil",
           "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Acalma o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
+      "duration_ms": 237000,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE"
     },
     {
       "added_at": "2022-10-14 05:54:17",
@@ -827,6 +775,38 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
+        "name": "Pelas M\u00e3os de Maria",
+        "url": "https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Tua Palavra",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        }
+      ],
+      "duration_ms": 199344,
+      "name": "Pelas M\u00e3os de Maria",
+      "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
+    },
+    {
+      "added_at": "2022-10-14 05:54:17",
+      "album": {
+        "name": "Deus Anda Comigo",
+        "url": "https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e"
+      },
+      "artists": [
+        {
+          "name": "Cleiton Saraiva",
+          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
+        }
+      ],
+      "duration_ms": 223285,
+      "name": "Longe de Deus, Tudo \u00c9 Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc"
+    },
+    {
+      "added_at": "2022-10-14 05:54:17",
+      "album": {
         "name": "J\u00e1 Deu Certo",
         "url": "https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns"
       },
@@ -847,6 +827,26 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
+        "name": "Acalma o Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Adriana Arydes",
+          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Acalma o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
+    },
+    {
+      "added_at": "2022-10-14 05:54:17",
+      "album": {
         "name": "Apenas Barro",
         "url": "https://open.spotify.com/album/1SCgr0nIPx6A9mJrH36dT0"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 298000,
       "name": "Apenas Barro",
       "url": "https://open.spotify.com/track/6VCtzegvbikThIayNbKMBl"
+    },
+    {
+      "added_at": "2022-10-14 05:54:17",
+      "album": {
+        "name": "Alma de Cristo",
+        "url": "https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 232115,
+      "name": "Alma de Cristo",
+      "url": "https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S"
     },
     {
       "added_at": "2022-10-14 05:54:17",
@@ -891,22 +907,6 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Alma de Cristo",
-        "url": "https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 232115,
-      "name": "Alma de Cristo",
-      "url": "https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S"
-    },
-    {
-      "added_at": "2022-10-14 05:54:17",
-      "album": {
         "name": "Ressonhar",
         "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
       },
@@ -919,22 +919,6 @@
       "duration_ms": 290125,
       "name": "Oceano de Miseric\u00f3rdia",
       "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
-    },
-    {
-      "added_at": "2022-10-14 05:54:17",
-      "album": {
-        "name": "Paci\u00eancia",
-        "url": "https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv"
     },
     {
       "added_at": "2022-10-14 05:54:17",
@@ -955,38 +939,6 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Reinflama",
-        "url": "https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I"
-      },
-      "artists": [
-        {
-          "name": "Flavinho",
-          "url": "https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4"
-        }
-      ],
-      "duration_ms": 231796,
-      "name": "Reinflama",
-      "url": "https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL"
-    },
-    {
-      "added_at": "2022-10-14 05:54:17",
-      "album": {
-        "name": "Kyrios (Shalom Bras\u00edlia 20 Anos)",
-        "url": "https://open.spotify.com/album/6xnhBYPpmu2rOAD0wpteTU"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 290552,
-      "name": "Todo Amor do Mundo",
-      "url": "https://open.spotify.com/track/1lW5kpBZDeEnfLT12NGlVM"
-    },
-    {
-      "added_at": "2022-10-14 05:54:17",
-      "album": {
         "name": "Nada Te Perturbe",
         "url": "https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25"
       },
@@ -999,6 +951,22 @@
       "duration_ms": 225326,
       "name": "Nada Te Perturbe",
       "url": "https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1"
+    },
+    {
+      "added_at": "2022-10-14 05:54:17",
+      "album": {
+        "name": "Reinflama",
+        "url": "https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I"
+      },
+      "artists": [
+        {
+          "name": "Flavinho",
+          "url": "https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4"
+        }
+      ],
+      "duration_ms": 231796,
+      "name": "Reinflama",
+      "url": "https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL"
     },
     {
       "added_at": "2022-10-14 05:54:17",
@@ -1019,6 +987,38 @@
       "duration_ms": 330082,
       "name": "Irm\u00e3o Jesus",
       "url": "https://open.spotify.com/track/78Jh1AhTQ7wBaogRBY3LWN"
+    },
+    {
+      "added_at": "2022-10-14 05:54:17",
+      "album": {
+        "name": "Paci\u00eancia",
+        "url": "https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv"
+    },
+    {
+      "added_at": "2022-10-14 05:54:17",
+      "album": {
+        "name": "Kyrios (Shalom Bras\u00edlia 20 Anos)",
+        "url": "https://open.spotify.com/album/6xnhBYPpmu2rOAD0wpteTU"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 290552,
+      "name": "Todo Amor do Mundo",
+      "url": "https://open.spotify.com/track/1lW5kpBZDeEnfLT12NGlVM"
     },
     {
       "added_at": "2022-10-14 05:54:17",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
+        "name": "Sagrada Beleza",
+        "url": "https://open.spotify.com/album/6rzJoLDKx9H0pJVbwTIouy"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        }
+      ],
+      "duration_ms": 227284,
+      "name": "Sagrada Beleza",
+      "url": "https://open.spotify.com/track/0cIoeW3jCYVJwRTbKbEFAs"
+    },
+    {
+      "added_at": "2022-10-14 05:54:17",
+      "album": {
         "name": "Em Tua Presen\u00e7a",
         "url": "https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK"
       },
@@ -1135,26 +1151,6 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Tua Morada",
-        "url": "https://open.spotify.com/album/18QQd3UccdpsamGwCm7AEt"
-      },
-      "artists": [
-        {
-          "name": "Talita Garcia",
-          "url": "https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt"
-        },
-        {
-          "name": "Irm\u00e3 Ana Paula, CMES",
-          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Tua Morada",
-      "url": "https://open.spotify.com/track/0Snz10C8ss9c1BnGpiqo2w"
-    },
-    {
-      "added_at": "2022-10-14 05:54:17",
-      "album": {
         "name": "Top 10 Celina Borges",
         "url": "https://open.spotify.com/album/0OmOX6xwf1ZJiZ1JRDeopp"
       },
@@ -1171,18 +1167,22 @@
     {
       "added_at": "2022-10-14 05:54:17",
       "album": {
-        "name": "Sagrada Beleza",
-        "url": "https://open.spotify.com/album/6rzJoLDKx9H0pJVbwTIouy"
+        "name": "Tua Morada",
+        "url": "https://open.spotify.com/album/18QQd3UccdpsamGwCm7AEt"
       },
       "artists": [
         {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+          "name": "Talita Garcia",
+          "url": "https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt"
+        },
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
         }
       ],
-      "duration_ms": 227284,
-      "name": "Sagrada Beleza",
-      "url": "https://open.spotify.com/track/0cIoeW3jCYVJwRTbKbEFAs"
+      "duration_ms": 324000,
+      "name": "Tua Morada",
+      "url": "https://open.spotify.com/track/0Snz10C8ss9c1BnGpiqo2w"
     },
     {
       "added_at": "2022-10-14 05:54:17",

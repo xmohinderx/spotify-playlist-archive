@@ -1,12 +1,12 @@
 {
   "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Central Cee in cover.",
-  "num_followers": 199660,
+  "num_followers": 199698,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM2MDE4NSwwMDAwMDAwMGJmNzljMTg3NDgwNWUyZTA1ODAxODNkYzNkNmI3MWFi",
+  "snapshot_id": "MTY2NjM2MDE4NSwwMDAwMDAwMDkwY2I2MGM3YzZhNjJlYTYxMzBiNzM0YzY4MjY3MjE3",
   "tracks": [
     {
       "added_at": "2022-10-21 13:49:43",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
         "name": "Poland",
         "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 83200,
       "name": "Poland",
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 195950,
-      "name": "N95",
-      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 240413,
       "name": "DIE",
       "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "RAPSTAR",
+      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -323,6 +323,42 @@
       "duration_ms": 161355,
       "name": "Sleazy Flow (with Lil Baby) - Remix",
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "Why Would I Lack? (feat. SPMB Bills)",
+        "url": "https://open.spotify.com/album/0UhRHMR9Zg9kLm46BdvG9T"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        },
+        {
+          "name": "SPMB BILLS",
+          "url": "https://open.spotify.com/artist/50DbCckCwUGuAvBlktc1VS"
+        }
+      ],
+      "duration_ms": 176681,
+      "name": "Why Would I Lack? (feat. SPMB Bills)",
+      "url": "https://open.spotify.com/track/5NWnpj6yQXyBHRIJnCFELd"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -351,22 +387,18 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "Why Would I Lack? (feat. SPMB Bills)",
-        "url": "https://open.spotify.com/album/0UhRHMR9Zg9kLm46BdvG9T"
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
       },
       "artists": [
         {
-          "name": "22Gz",
-          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
-        },
-        {
-          "name": "SPMB BILLS",
-          "url": "https://open.spotify.com/artist/50DbCckCwUGuAvBlktc1VS"
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
         }
       ],
-      "duration_ms": 176681,
-      "name": "Why Would I Lack? (feat. SPMB Bills)",
-      "url": "https://open.spotify.com/track/5NWnpj6yQXyBHRIJnCFELd"
+      "duration_ms": 151776,
+      "name": "Dah Dah DahDah",
+      "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -383,38 +415,6 @@
       "duration_ms": 243227,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "RAPSTAR",
-      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
-        "name": "Who is Nardo Wick?? (Deluxe)",
-        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 151776,
-      "name": "Dah Dah DahDah",
-      "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -459,6 +459,38 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "What You Know Bout Love",
+      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "Maestro",
+        "url": "https://open.spotify.com/album/47NW6FIEhgzoMJQYyFBBnP"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        }
+      ],
+      "duration_ms": 261182,
+      "name": "Missile - Acte II",
+      "url": "https://open.spotify.com/track/1Piu78nUTeJScTY2RKvypU"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -483,74 +515,6 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "Maestro",
-        "url": "https://open.spotify.com/album/47NW6FIEhgzoMJQYyFBBnP"
-      },
-      "artists": [
-        {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
-        }
-      ],
-      "duration_ms": 261182,
-      "name": "Missile - Acte II",
-      "url": "https://open.spotify.com/track/1Piu78nUTeJScTY2RKvypU"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "What You Know Bout Love",
-      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
-        "name": "Destined 2 Win",
-        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 205458,
-      "name": "Calling My Phone",
-      "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 135264,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
         "name": "Tomorrow 2 (with Cardi B)",
         "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
       },
@@ -571,22 +535,18 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "Die Young (feat. 347aidan)",
-        "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
       },
       "artists": [
         {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 148816,
-      "name": "Die Young (feat. 347aidan)",
-      "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
+      "duration_ms": 135264,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -611,6 +571,42 @@
       "duration_ms": 190476,
       "name": "For The Night (feat. Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "Die Young (feat. 347aidan)",
+        "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 148816,
+      "name": "Die Young (feat. 347aidan)",
+      "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -655,6 +651,42 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 160052,
+      "name": "Mon\u00eby so big",
+      "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "Destined 2 Win",
+        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 205458,
+      "name": "Calling My Phone",
+      "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
@@ -671,50 +703,22 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
       "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
-        "name": "Beat the Odds",
-        "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Beat the Odds",
-      "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
-        "name": "Up 2 M\u00eb",
-        "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 160052,
-      "name": "Mon\u00eby so big",
-      "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
+      "duration_ms": 221979,
+      "name": "Girls Want Girls (with Lil Baby)",
+      "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -767,42 +771,6 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 221979,
-      "name": "Girls Want Girls (with Lil Baby)",
-      "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
         "name": "Sans visa",
         "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
       },
@@ -823,18 +791,18 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5xrn2BgDap9ifTaTrIDf9X"
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
       },
       "artists": [
         {
-          "name": "KAHUKX",
-          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 133312,
-      "name": "14 Years - Spotify Singles",
-      "url": "https://open.spotify.com/track/3UBHeF9BNbMUB3SoGr8pSn"
+      "duration_ms": 211935,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -859,26 +827,34 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "Never Sleep",
-        "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5xrn2BgDap9ifTaTrIDf9X"
       },
       "artists": [
         {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
         }
       ],
-      "duration_ms": 185785,
-      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
+      "duration_ms": 133312,
+      "name": "14 Years - Spotify Singles",
+      "url": "https://open.spotify.com/track/3UBHeF9BNbMUB3SoGr8pSn"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "Beat the Odds",
+        "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Beat the Odds",
+      "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -895,6 +871,22 @@
       "duration_ms": 104819,
       "name": "Munch (Feelin\u2019 U)",
       "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -923,6 +915,30 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
+        "name": "Never Sleep",
+        "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 185785,
+      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
         "name": "PETETE",
         "url": "https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk"
       },
@@ -935,6 +951,38 @@
       "duration_ms": 123846,
       "name": "PETETE",
       "url": "https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "Stop Breathing",
+        "url": "https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 110706,
+      "name": "Stop Breathing",
+      "url": "https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 135053,
+      "name": "Dua Lipa",
+      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -963,38 +1011,6 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 135053,
-      "name": "Dua Lipa",
-      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
-        "name": "Stop Breathing",
-        "url": "https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 110706,
-      "name": "Stop Breathing",
-      "url": "https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
         "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
@@ -1011,30 +1027,6 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
-        "name": "Hot Shit (feat. Ye & Lil Durk)",
-        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 211649,
-      "name": "Hot Shit (feat. Ye & Lil Durk)",
-      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -1075,18 +1067,26 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "LA Leakers Freestyle",
-        "url": "https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH"
+        "name": "Hot Shit (feat. Ye & Lil Durk)",
+        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 178000,
-      "name": "LA Leakers Freestyle",
-      "url": "https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk"
+      "duration_ms": 211649,
+      "name": "Hot Shit (feat. Ye & Lil Durk)",
+      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
+        "name": "LA Leakers Freestyle",
+        "url": "https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "LA Leakers Freestyle",
+      "url": "https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
         "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
         "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
       },
@@ -1127,6 +1143,22 @@
       "duration_ms": 200547,
       "name": "Super Gremlin",
       "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 208350,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -1183,18 +1215,22 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+        "name": "Cooped Up",
+        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+      "duration_ms": 185857,
+      "name": "Cooped Up (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -1223,38 +1259,42 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "Cooped Up",
-        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 185857,
-      "name": "Cooped Up (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
+      "duration_ms": 231220,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
     },
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "Hide & Seek",
-        "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
+        "name": "Only Built For Infinity Links",
+        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },
       "artists": [
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 208350,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
+      "duration_ms": 283196,
+      "name": "To The Bone (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -1275,22 +1315,6 @@
       "duration_ms": 192427,
       "name": "CODE (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 231220,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -1379,30 +1403,6 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "Only Built For Infinity Links",
-        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 283196,
-      "name": "To The Bone (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
         "name": "Mel Made Me Do It",
         "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
       },
@@ -1435,46 +1435,6 @@
       "duration_ms": 200221,
       "name": "POPSTAR (feat. Drake)",
       "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 188964,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -1527,18 +1487,42 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "Underrated",
-        "url": "https://open.spotify.com/album/5GnCVEvwaFZPogirSgrrtv"
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
       },
       "artists": [
         {
-          "name": "Lil Eazzyy",
-          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 128014,
-      "name": "Onna Come Up",
-      "url": "https://open.spotify.com/track/0e4A9Fak1nJ7RtBD8YpoEo"
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 188964,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -1555,6 +1539,22 @@
       "duration_ms": 160893,
       "name": "La bandite",
       "url": "https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/5GnCVEvwaFZPogirSgrrtv"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        }
+      ],
+      "duration_ms": 128014,
+      "name": "Onna Come Up",
+      "url": "https://open.spotify.com/track/0e4A9Fak1nJ7RtBD8YpoEo"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
+        "name": "Obsessed With You",
+        "url": "https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 108650,
+      "name": "Obsessed With You",
+      "url": "https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
         "name": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
         "url": "https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 224042,
       "name": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
       "url": "https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
-        "name": "Obsessed With You",
-        "url": "https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 108650,
-      "name": "Obsessed With You",
-      "url": "https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Ben\u00e9",
-          "url": "https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn"
-        }
-      ],
-      "duration_ms": 212284,
-      "name": "Lei (feat. Ben\u00e9)",
-      "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
-    },
-    {
-      "added_at": "2022-10-21 13:49:43",
-      "album": {
         "name": "Only Built For Infinity Links",
         "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },
@@ -1799,26 +1779,22 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "Demons Protected By Angels",
-        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
       },
       "artists": [
         {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Ben\u00e9",
+          "url": "https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn"
         }
       ],
-      "duration_ms": 189320,
-      "name": "One Time (with Don Toliver feat. Future)",
-      "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
+      "duration_ms": 212284,
+      "name": "Lei (feat. Ben\u00e9)",
+      "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -1843,18 +1819,26 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "WAITRESS",
-        "url": "https://open.spotify.com/album/6VIsocCK7mDklr0V3UouGZ"
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 132018,
-      "name": "WAITRESS",
-      "url": "https://open.spotify.com/track/6I5DkMtgMjN6k270nRwNEl"
+      "duration_ms": 189320,
+      "name": "One Time (with Don Toliver feat. Future)",
+      "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -1875,18 +1859,18 @@
     {
       "added_at": "2022-10-21 13:49:43",
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR"
+        "name": "WAITRESS",
+        "url": "https://open.spotify.com/album/6VIsocCK7mDklr0V3UouGZ"
       },
       "artists": [
         {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 238333,
-      "name": "Hall of Fame",
-      "url": "https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ"
+      "duration_ms": 132018,
+      "name": "WAITRESS",
+      "url": "https://open.spotify.com/track/6I5DkMtgMjN6k270nRwNEl"
     },
     {
       "added_at": "2022-10-21 13:49:43",
@@ -1911,6 +1895,22 @@
       "duration_ms": 158979,
       "name": "LET'S PRAY (feat. Don Toliver & Travis Scott)",
       "url": "https://open.spotify.com/track/67QVeMvttYHbB1Zuvh0cn6"
+    },
+    {
+      "added_at": "2022-10-21 13:49:43",
+      "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Hall of Fame",
+      "url": "https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ"
     }
   ],
   "unique_name": "Rap Internazionale",

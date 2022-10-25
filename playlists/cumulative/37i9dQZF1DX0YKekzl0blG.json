@@ -27,6 +27,24 @@
     {
       "album": {
         "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193106,
+      "name": "1901",
+      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu"
       },
       "artists": [
@@ -595,7 +613,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 214373,
       "name": "Club Foot",
       "url": "https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1"
@@ -1675,7 +1693,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 248626,
       "name": "In For The Kill",
       "url": "https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 181906,
       "name": "Move Your Feet",
       "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"

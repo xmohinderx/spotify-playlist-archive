@@ -4,7 +4,7 @@
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/7KOOkYyd9ZT4DmcehRF0as)
+63 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/7KOOkYyd9ZT4DmcehRF0as)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [In the Ocean \(feat\. Montell Fish\)](https://open.spotify.com/track/6IoH81sosd6WHhoLgYODBH) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Spring](https://open.spotify.com/album/0aT8MMYx6r4tN1W0ipTgOs) | 3:45 | 2022-10-12 |  |
 | [Jamie](https://open.spotify.com/track/5B6OqIgm8mDWKkHV29Qnr9) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 3:36 | 2022-09-14 | 2022-10-09 |
 | [Last Dance](https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 3:09 | 2022-09-16 | 2022-09-26 |
-| [Let Go of Your Pain](https://open.spotify.com/track/4s6nmgS7txLnFJskJ2dtu3) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo) | 3:40 | 2022-09-14 |  |
+| [Let Go of Your Pain](https://open.spotify.com/track/4s6nmgS7txLnFJskJ2dtu3) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo) | 3:40 | 2022-09-14 | 2022-10-25 |
 | [Lost](https://open.spotify.com/track/1p0krUFuFcLI9PugCfMTO9) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 4:35 | 2022-09-14 |  |
 | [Love Unite](https://open.spotify.com/track/4ixb2UjT4Yu5CRHNXHHSdK) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Gospel](https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk) | 2:44 | 2022-09-14 |  |
 | [love you more than me](https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [love you more than me](https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6) | 2:21 | 2022-09-14 |  |
@@ -57,6 +57,7 @@
 | [On My Way.](https://open.spotify.com/track/0pNhg9ZtLhBGpKiqpH3X6S) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [On My Way.](https://open.spotify.com/album/3YrxGk5ThUcnjsDiTdLZST) | 3:07 | 2022-09-14 |  |
 | [Orion](https://open.spotify.com/track/1Wpe4HpXyWvH8xSYogXOWY) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Orion](https://open.spotify.com/album/1UAMrB661EhrxLbdxo1juW) | 2:39 | 2022-09-14 |  |
 | [Overcome](https://open.spotify.com/track/5cWbehuvJ9ebvE7RsTUBRz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo) | 3:39 | 2022-09-14 |  |
+| [Peter](https://open.spotify.com/track/4BSOJ81PwACg1rOY967aFj) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:52 | 2022-10-24 |  |
 | [Repentance](https://open.spotify.com/track/7FvpySywGdCQjuTqm5zKWS) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 9:23 | 2022-10-05 | 2022-10-07 |
 | [Show the Signs.](https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Show the Signs.](https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl) | 3:01 | 2022-09-14 |  |
 | [Stay \(With Me\).](https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay \(With Me\).](https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE) | 5:03 | 2022-09-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,700 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,736 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 70 | [Becoming Human](https://open.spotify.com/track/1l4dlmvEmLKgEgpezRrgxH) | [Simon Collins](https://open.spotify.com/artist/7GXoTDCcMmarUIZtrdrTa9) | [Becoming Human](https://open.spotify.com/album/0oLJEU3ZuMqdzp09VdPdoP) | 4:17 |
 | 71 | [This Party's Over](https://open.spotify.com/track/0dDx5YWvL6WmlIOgdA3akc) | [Fish](https://open.spotify.com/artist/6bQfVk5fSJSp3JtGiQZGNI) | [This Party's Over](https://open.spotify.com/album/2xOcgXYuOsJvOIqHACNKtr) | 4:23 |
 | 72 | [Roulette Dares \(The Haunt Of\) \- Unfinished Original Recordings Of De\-Loused In The Comatorium](https://open.spotify.com/track/72n2oDjYMs6kK9jKIIkY5k) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Landscape Tantrums \(Unfinished Original Recordings Of De\-Loused In The Comatorium\)](https://open.spotify.com/album/3X3xy01oWmdpRSJIttm4NT) | 6:37 |
-| 73 | [Right Way Back](https://open.spotify.com/track/0GWtq4OpB8fylZWRnrYuwS) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Context: Fearless Pt\. I \(Live Expanded\)](https://open.spotify.com/album/6m92p6SwyPE78eIw45rtpO) | 3:51 |
+| 73 | [Right Way Back](https://open.spotify.com/track/3ErQbRuLdafRrhIf8Ceefa) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Discover Crown Lands](https://open.spotify.com/album/2H8QnNAriPg1S0X5R45Itq) | 3:51 |
 | 74 | [Unheavenly Creatures](https://open.spotify.com/track/3cExGgQKsI12aa7Fs3FoId) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Unheavenly Creatures](https://open.spotify.com/album/42S0lDJT9wHKCVaMGgqKdm) | 4:13 |
 | 75 | [Inertiatic Esp](https://open.spotify.com/track/16Elz7HJPLZPMylp13ewxv) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Deloused in the Comatorium](https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89) | 4:23 |
 
-Snapshot ID: `MTY1MzAyOTg0MSwwMDAwMDAwMGY1MjE1MTNkZjg0Y2I3ZmQxYmE1YzVjYjEyYThkOWNk`
+Snapshot ID: `MTY1MzAyOTg0MSwwMDAwMDAwMDBlZDU5MzlmNzJiZTJhODdmMWM0YWU4ZTVmODI4YTll`

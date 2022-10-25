@@ -1,12 +1,12 @@
 {
   "description": "Timeless tunes served over easy for all your brunching needs!",
-  "num_followers": 54490,
+  "num_followers": 54550,
   "original_name": "Sunny Side Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk2MDYyNywwMDAwMDAwMGE0Y2FmODNiYTUyODQ4MWIwNjYzMTdkODExZjI3OTA4",
+  "snapshot_id": "MTY2Mzk2MDYyNywwMDAwMDAwMDgwNGNmNmE2MWJmNTVjZTY1ZmU5NTljOWJmMTI1YmNm",
   "tracks": [
     {
       "added_at": "2022-09-23 19:17:07",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Everything She Ain\u2019t",
-        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Everything She Ain\u2019t",
-      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Menagerie",
         "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
       },
@@ -203,22 +187,6 @@
       "duration_ms": 254560,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
-        "name": "Come and Get Your Love",
-        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
-      },
-      "artists": [
-        {
-          "name": "Redbone",
-          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Come and Get Your Love - Single Version",
-      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -239,6 +207,38 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Come and Get Your Love",
+        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
+      },
+      "artists": [
+        {
+          "name": "Redbone",
+          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Come and Get Your Love - Single Version",
+      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
         "name": "All Things Must Pass (Remastered 2014)",
         "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 216773,
       "name": "I Say a Little Prayer",
       "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 264906,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Cold Little Heart (Radio Edit)",
         "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 210299,
       "name": "Cold Little Heart - Radio Edit",
       "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 179491,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 164560,
       "name": "Mr. Big Stuff",
       "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 179491,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -931,18 +931,18 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "It Never Rains In Southern California",
-        "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
+        "name": "Face to Face (Deluxe)",
+        "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
       },
       "artists": [
         {
-          "name": "Albert Hammond",
-          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
         }
       ],
-      "duration_ms": 233506,
-      "name": "It Never Rains in Southern California",
-      "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
+      "duration_ms": 210525,
+      "name": "Sunny Afternoon",
+      "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Face to Face (Deluxe)",
-        "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
+        "name": "It Never Rains In Southern California",
+        "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
       },
       "artists": [
         {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+          "name": "Albert Hammond",
+          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
         }
       ],
-      "duration_ms": 210525,
-      "name": "Sunny Afternoon",
-      "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
+      "duration_ms": 233506,
+      "name": "It Never Rains in Southern California",
+      "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
+        "name": "Something Else (Deluxe)",
+        "url": "https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 194216,
+      "name": "Waterloo Sunset",
+      "url": "https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Something Else (Deluxe)",
-        "url": "https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR"
+        "name": "I'm Still in Love with You",
+        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
       },
       "artists": [
         {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 194216,
-      "name": "Waterloo Sunset",
-      "url": "https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn"
+      "duration_ms": 307062,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "I'm Still in Love with You",
-        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 307062,
-      "name": "Love and Happiness",
-      "url": "https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 167066,
       "name": "Chain of Fools",
       "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 428222,
-      "name": "As",
-      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1231,6 +1215,22 @@
       "duration_ms": 169293,
       "name": "It's Your Thing",
       "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 428222,
+      "name": "As",
+      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
     },
     {
       "added_at": "2022-09-23 19:17:07",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
+        "name": "The Story Of Cornelius Brothers & Sister Rose",
+        "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
+      },
+      "artists": [
+        {
+          "name": "Cornelius Brothers & Sister Rose",
+          "url": "https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "Too Late To Turn Back Now",
+      "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
         "name": "Young, Gifted and Black",
         "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
       },
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "The Story Of Cornelius Brothers & Sister Rose",
-        "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
-      },
-      "artists": [
-        {
-          "name": "Cornelius Brothers & Sister Rose",
-          "url": "https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "Too Late To Turn Back Now",
-      "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Year of the Cat",
         "url": "https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-09-23 19:17:07",
       "album": {
-        "name": "Juice Newton's Greatest Hits",
-        "url": "https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw"
-      },
-      "artists": [
-        {
-          "name": "Juice Newton",
-          "url": "https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Angel Of The Morning",
-      "url": "https://open.spotify.com/track/6NVB6W7G3svCKe5zB7kY8q"
-    },
-    {
-      "added_at": "2022-09-23 19:17:07",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 273506,
       "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
+    },
+    {
+      "added_at": "2022-09-23 19:17:07",
+      "album": {
+        "name": "Juice Newton's Greatest Hits",
+        "url": "https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw"
+      },
+      "artists": [
+        {
+          "name": "Juice Newton",
+          "url": "https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Angel Of The Morning",
+      "url": "https://open.spotify.com/track/6NVB6W7G3svCKe5zB7kY8q"
     },
     {
       "added_at": "2022-09-23 19:17:07",

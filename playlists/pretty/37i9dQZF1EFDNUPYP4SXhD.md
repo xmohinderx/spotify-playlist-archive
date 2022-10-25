@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 863 likes - 158 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 865 likes - 158 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 14 | [Aullando](https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Los Campeones del Pueblo "The Big Leagues"](https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo) | 3:46 |
 | 15 | [Vuelve](https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Vuelve](https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO) | 4:39 |
 | 16 | [Quiere Beber](https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:07 |
-| 17 | [Culpables](https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:48 |
-| 18 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 |
+| 17 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 |
+| 18 | [Culpables](https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:48 |
 | 19 | [Me Gusta](https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Me Gusta](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) | 3:10 |
 | 20 | [Sidewalks](https://open.spotify.com/track/4h90qkbnW1Qq6pBhoPvwko) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:51 |
 | 21 | [Ibiza](https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:20 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 157 | [Ella Pide De Eso](https://open.spotify.com/track/4OUcankxNe66OYymBu600u) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 3:22 |
 | 158 | [La Llevo Al Cielo](https://open.spotify.com/track/2tzrgCbD9yRrWlfWddf2ku) | [Kallde "El Rey Del Placer"](https://open.spotify.com/artist/2KQZ7yr0nr7NphqCy7QHRR) | [La Llevo Al Cielo](https://open.spotify.com/album/0M0ULIaP7cDdO9DpE06JwU) | 3:44 |
 
-Snapshot ID: `Mjc3NzYyODIsMDAwMDAwMDBjYzRjY2Y1YWNjMGJmYjdiNGMzMDI5YjQ0NzRhZDZhNQ==`
+Snapshot ID: `Mjc3Nzc3MjIsMDAwMDAwMDA1NDhhMmViMDUxYmQzMGU4NWEwMjhjZDdjNjMzMzU0NA==`

@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/skylardigginssmith/">Skylar Diggins\-Smith</a>
 
-51 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/4Sv3w0MzU6tNkoRexbyMZr)
+52 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/4Sv3w0MzU6tNkoRexbyMZr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,8 +33,9 @@
 | [It Was A Good Day](https://open.spotify.com/track/2GrOq1y5gksYrqkc8Jzl9T) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Greatest Hits](https://open.spotify.com/album/7EPmezGIzLHj7LeTtLYhJZ) | 4:20 | 2022-10-02 |  |
 | [Leave The Door Open](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:02 | 2022-10-02 |  |
 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2022-10-02 |  |
-| [MOOD 4 EVA \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/7oqftogUN82Q7VNy2TmTJW) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:32 | 2022-10-02 |  |
+| [MOOD 4 EVA \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/7oqftogUN82Q7VNy2TmTJW) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:32 | 2022-10-02 | 2022-10-25 |
 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 | 2022-10-02 |  |
+| [Nat King Cole \(Originals\)](https://open.spotify.com/track/1DO2DASHJl61O13YFMTZLf) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:39 | 2022-10-02 |  |
 | [No Choice](https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:41 | 2022-10-02 |  |
 | [No Ordinary Love](https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 7:20 | 2022-10-02 |  |
 | [One More Chance / Stay with Me \- Remix; 2007 Remaster](https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:28 | 2022-10-02 |  |

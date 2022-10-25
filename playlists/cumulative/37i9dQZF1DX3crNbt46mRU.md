@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Taylor Swift
 
-3,769 songs - 8 day 1 hr 6 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+3,770 songs - 8 day 1 hr 10 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1563,7 +1563,8 @@
 | [Hypnotic \(feat\. Uffie\)](https://open.spotify.com/track/21DGq2EA5LRYKbSz7Aih6g) | [Flowers](https://open.spotify.com/artist/0GC742enCDyfsS4rjnSxJq), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Hypnotic](https://open.spotify.com/album/3XNv6j31KuIWzkR2IFhCnJ) | 2:50 | 2022-08-12 | 2022-08-19 |
 | [Hypnotized](https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [Hypnotized](https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U) | 3:02 | 2022-07-07 | 2022-07-15 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-05-12 | 2022-05-20 |
-| [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 | 2022-10-20 |  |
+| [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 | 2022-10-21 |  |
+| [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 | 2022-10-20 | 2022-10-25 |
 | [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2022-04-07 | 2022-04-15 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-07 | 2022-04-15 |
 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 | 2022-03-31 | 2022-04-08 |

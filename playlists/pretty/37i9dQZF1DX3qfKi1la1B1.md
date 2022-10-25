@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,351 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,386 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 30 | [Nectar\. \- uin Remix](https://open.spotify.com/track/59RzD7R7CCrxvoMclfhsLg) | [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar\. \(uin Remix\)](https://open.spotify.com/album/6DjyI9iS7SuV0GPxZuSfvC) | 3:06 |
 | 31 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 32 | [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 |
-| 33 | [this is how you fall in love](https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:54 |
+| 33 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 |
 | 34 | [nostalgia](https://open.spotify.com/track/29bRdPxTr1RbPW9IaRs69w) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [nostalgia](https://open.spotify.com/album/30y7B6m0KDXs9VD9SrZjyh) | 2:54 |
 | 35 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 |
 | 36 | [balloon](https://open.spotify.com/track/3a7cMaM3fudhTYRvHRrStL) | [kijin](https://open.spotify.com/artist/2TGFerbsk04KUysNlVQyv0) | [balloon](https://open.spotify.com/album/20tx2Al1zE8eWZIVTPzBb6) | 3:16 |
 | 37 | [Shishi Odishi](https://open.spotify.com/track/1uph3hVelnoc7Lp2QrHXZv) | [Taro Nohara](https://open.spotify.com/artist/2nxdBTJLCzAYYnPYHzpslg) | [Poly\-Time Soundscapes / Forest Of The Shrine](https://open.spotify.com/album/6IVsTpAlGUlKccS5GWqsP0) | 5:30 |
 | 38 | [Ringo](https://open.spotify.com/track/3rFNkXbvp9FUh3RBr8XG5s) | [Maïa Barouh](https://open.spotify.com/artist/1JFwQ8xTYUAe8CTnFpkkAG), [Pierre Barouh](https://open.spotify.com/artist/2YjZP3rHnFiJNTw6ZkCJkl) | [AÏDA](https://open.spotify.com/album/11fW3TjqDtcqT1i4DNlLLM) | 3:09 |
-| 39 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 |
+| 39 | [this is how you fall in love](https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:54 |
 | 40 | [We Are \(우리는\)](https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [We Are \(우리는\)](https://open.spotify.com/album/5fHWkEYEMeqoOCYaGB6WH5) | 3:46 |
 | 41 | [Voiceless](https://open.spotify.com/track/7nN1LUAJUDuGJyDawcok6v) | [Funny Factures](https://open.spotify.com/artist/38mbcqDg0k0gQcoQNCUJYx), [Wuinguin](https://open.spotify.com/artist/00N3aCj3lIPQW8hcPNFjRO) | [Voiceless](https://open.spotify.com/album/3dic6PtEjCZw5vDunj1fgY) | 3:21 |
 | 42 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 53 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 |
 | 54 | [Something About You \(with Rudimental\) \- Chill Mix](https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\) \[Alternate Versions\]](https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z) | 2:46 |
 | 55 | [What They'll Say About Us](https://open.spotify.com/track/4W1gUkq2TAOOFCBet3i3WR) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:01 |
-| 56 | [Fix It to Break It](https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [Fix It to Break It](https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8) | 3:18 |
-| 57 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 |
+| 56 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 |
+| 57 | [Fix It to Break It](https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [Fix It to Break It](https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8) | 3:18 |
 | 58 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 |
-| 59 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 |
-| 60 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
+| 59 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
+| 60 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 |
 
-Snapshot ID: `MTY2NjI3ODAwMCwwMDAwMDAwMDE2NTAzMzIxNGQzYWMzZjg4YTY1MDc4ZDlhMDRkMTFh`
+Snapshot ID: `MTY2NjI3ODAwMCwwMDAwMDAwMDE2YTYwODIyYWViZTk1OWVmNzc1NTU5ZTEzYTZlOThk`

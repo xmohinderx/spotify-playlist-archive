@@ -4,7 +4,7 @@
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Liam Doc\. Artwork: Rewina Beshue.
 
-823 songs - 2 day 9 hr 40 min - [published](https://open.spotify.com/playlist/4dKpDBG1y7h8bfA4dbtQPc)
+824 songs - 2 day 9 hr 43 min - [published](https://open.spotify.com/playlist/4dKpDBG1y7h8bfA4dbtQPc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love \(feat\. Electric Fields\)](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 | 2021-12-01 | 2022-01-27 |
 | [Must To Be Like This](https://open.spotify.com/track/5Z43uA0ElOdLKm9Ng2UFYL) | [Plastic Robots](https://open.spotify.com/artist/7qd3q5BKu3lh5r0vVBWSzm) | [Must To Be Like This](https://open.spotify.com/album/3gqumJGqTCrLFmhNOtlM0F) | 3:50 | 2022-04-13 | 2022-06-09 |
 | [Muzik](https://open.spotify.com/track/6E6WyW3tLlJHwfmKPaHrNo) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Muzik](https://open.spotify.com/album/1RclAlfbZu5BY5ZzYxPw44) | 5:51 | 2022-07-27 |  |
+| [My Everything](https://open.spotify.com/track/4LMlPnnfUXxmRTuj8tPBN7) | [Das Pharaoh](https://open.spotify.com/artist/4BVdLTy33D4KtSxNUu6bUW) | [My Everything](https://open.spotify.com/album/632rCZmbM4IcuMZvTf2ohC) | 2:52 | 2022-10-24 |  |
 | [My Love](https://open.spotify.com/track/6Nd0KJ9zMVHMH96RwoNqkM) | [Monaco Book Club](https://open.spotify.com/artist/4LgVq759htLXcwaSKI5oBD) | [My Love](https://open.spotify.com/album/0Lzdn8SEClPeYqLjOVzfSO) | 3:02 | 2022-02-09 | 2022-03-24 |
 | [My Rhythm](https://open.spotify.com/track/5Sr6oll8AIdnqQws9jXaFL) | [Terri\-Anne](https://open.spotify.com/artist/5EOY61jyr677RT6uZi1YbK) | [My Rhythm](https://open.spotify.com/album/0rGS2wPAFy6wdIen6WtBO1) | 4:07 | 2022-03-09 | 2022-04-28 |
 | [Narcisse](https://open.spotify.com/track/7kljruRpvDUttdKzjFOqXA) | [AMNES](https://open.spotify.com/artist/1NWWdL1ttPLXOnDwqJFrbJ) | [Narcisse](https://open.spotify.com/album/0lcPEO8UwKq35NZO6YbJ0N) | 3:14 | 2022-07-20 | 2022-09-15 |

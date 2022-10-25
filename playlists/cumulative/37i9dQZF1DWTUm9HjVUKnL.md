@@ -4,7 +4,7 @@
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Giveon
 
-983 songs - 2 day 12 hr 11 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
+984 songs - 2 day 12 hr 14 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb) | 5:01 | 2022-10-19 |  |
 | [Dab of Ranch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3lNfezSWDZIdt6XMwyNCJi) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [DJ Durel](https://open.spotify.com/artist/1MHslxKWxauC559dXYEX1C) | [Spotify Singles](https://open.spotify.com/album/5A7U3iko4a07wkEZNxmqIe) | 3:07 | 2022-01-19 |  |
 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 | 2022-10-03 |  |
+| [Dami Duro \- Spotify Singles](https://open.spotify.com/track/3OsXnXDO9gIb0L8t4nHhGy) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Dami Duro \- Spotify Singles](https://open.spotify.com/album/4cr6Z3CYq1o0r9hsKKNNtE) | 3:20 | 2022-10-24 |  |
 | [Dance In The Dark \- Spotify Singles](https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Dance In The Dark \(Spotify Singles\)](https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX) | 3:45 | 2022-01-19 |  |
 | [Dancing in the Moonlight \(It's Caught Me in Its Spotlight\) \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 2:23 | 2022-01-19 |  |
 | [Dang Me \(Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/track/1rMNgB6oJVZPZlKJ0zJllV) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Spotify Singles](https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM) | 1:49 | 2022-01-19 |  |

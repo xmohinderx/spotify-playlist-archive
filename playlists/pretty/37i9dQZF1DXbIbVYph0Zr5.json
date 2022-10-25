@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack recipe for a backyard barbecue! ",
-  "num_followers": 500153,
+  "num_followers": 500318,
   "original_name": "Country Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0NzMxNCwwMDAwMDAwMDE4OTNjZmY0NzhiNTMyYjYzNWExNzA5N2RkMzQ2MjFj",
+  "snapshot_id": "MTY2MjE0NzMxNCwwMDAwMDAwMDc4MzU1OTNlMzFjMDQ1ODcyZTcxMDAxYzE0YTRiODc0",
   "tracks": [
     {
       "added_at": "2022-07-29 21:53:17",
@@ -27,18 +27,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "The Kind of Love We Make",
-        "url": "https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu"
+        "name": "Second Helping (Expanded Edition)",
+        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
         }
       ],
-      "duration_ms": 224426,
-      "name": "The Kind of Love We Make",
-      "url": "https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa"
+      "duration_ms": 283800,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -59,18 +59,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Second Helping (Expanded Edition)",
-        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
+        "name": "The Kind of Love We Make",
+        "url": "https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu"
       },
       "artists": [
         {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 283800,
-      "name": "Sweet Home Alabama",
-      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
+      "duration_ms": 224426,
+      "name": "The Kind of Love We Make",
+      "url": "https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -107,18 +107,22 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+      "duration_ms": 167480,
+      "name": "Buy Dirt",
+      "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -139,22 +143,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 167480,
-      "name": "Buy Dirt",
-      "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "What My World Spins Around",
-        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 186790,
-      "name": "What My World Spins Around",
-      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Country Stuff The Album",
         "url": "https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 161853,
       "name": "Fancy Like",
       "url": "https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "What My World Spins Around",
+        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 186790,
+      "name": "What My World Spins Around",
+      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Crash My Party",
-        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Play It Again",
-      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "What You See Ain't Always What You Get (Deluxe Edition)",
         "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 232533,
       "name": "Forever After All",
       "url": "https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Play It Again",
+      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -375,6 +375,22 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Beer Never Broke My Heart",
+      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
         "name": "Human The Double Album",
         "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
       },
@@ -407,22 +423,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "Beer Never Broke My Heart",
-      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Stop Draggin' Your Boots",
         "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
       },
@@ -439,22 +439,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        },
-        {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 170560,
-      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
-      "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
+      "duration_ms": 201893,
+      "name": "Dirt On My Boots",
+      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -491,18 +487,22 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        },
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
         }
       ],
-      "duration_ms": 201893,
-      "name": "Dirt On My Boots",
-      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
+      "duration_ms": 170560,
+      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
+      "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "HEARTFIRST",
-        "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 187016,
-      "name": "HEARTFIRST",
-      "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Chief",
         "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 263386,
       "name": "Springsteen",
       "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "HEARTFIRST",
+        "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 187016,
+      "name": "HEARTFIRST",
+      "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3eI6PUZit1cF2ty6l7sXjI"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
         }
       ],
-      "duration_ms": 179506,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
+      "duration_ms": 201986,
+      "name": "Fishing In The Dark",
+      "url": "https://open.spotify.com/track/3i5QyEUyXa9Y7lIklr5sWk"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/3eI6PUZit1cF2ty6l7sXjI"
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
       },
       "artists": [
         {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 201986,
-      "name": "Fishing In The Dark",
-      "url": "https://open.spotify.com/track/3i5QyEUyXa9Y7lIklr5sWk"
+      "duration_ms": 179506,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -691,22 +691,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+        "name": "A Lot About Livin' (And A Little 'Bout Love)",
+        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 183026,
-      "name": "Half Of Me",
-      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
+      "duration_ms": 148160,
+      "name": "Chattahoochee",
+      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -727,6 +723,26 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "Half Of Me",
+      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
         "name": "Lee Brice",
         "url": "https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 198440,
       "name": "Rumor",
       "url": "https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
-        "name": "A Lot About Livin' (And A Little 'Bout Love)",
-        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 148160,
-      "name": "Chattahoochee",
-      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Last Night Lonely",
-        "url": "https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 181990,
-      "name": "Last Night Lonely",
-      "url": "https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Down The Road I Go",
         "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 241533,
       "name": "It's A Great Day To Be Alive",
       "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Last Night Lonely",
+        "url": "https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 181990,
+      "name": "Last Night Lonely",
+      "url": "https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Hey World",
-        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "One Of Them Girls",
-      "url": "https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Like I Love Country Music",
-        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
+        "name": "Hey World",
+        "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
         }
       ],
-      "duration_ms": 234340,
-      "name": "Like I Love Country Music",
-      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
+      "duration_ms": 188893,
+      "name": "One Of Them Girls",
+      "url": "https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1007,6 +991,22 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
+        "name": "Like I Love Country Music",
+        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 234340,
+      "name": "Like I Love Country Music",
+      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
         "name": "Strait Out Of The Box",
         "url": "https://open.spotify.com/album/2j7URVIN8GPGqzb8xi2hYW"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 200666,
       "name": "Check Yes Or No",
       "url": "https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
-        "name": "Time, Tequila & Therapy",
-        "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "No Hard Feelings",
-      "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
+        "name": "Time, Tequila & Therapy",
+        "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 183733,
       "name": "Something Like That",
       "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 287266,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Sayin' What I'm Thinkin'",
         "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 203373,
       "name": "Things A Man Oughta Know",
       "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 306773,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 193929,
-      "name": "Slow Dance In A Parking Lot",
-      "url": "https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9"
+      "duration_ms": 306773,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1211,6 +1195,22 @@
       "duration_ms": 227840,
       "name": "As Good As I Once Was",
       "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 193929,
+      "name": "Slow Dance In A Parking Lot",
+      "url": "https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
+        "name": "How Country Feels",
+        "url": "https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        }
+      ],
+      "duration_ms": 185906,
+      "name": "How Country Feels",
+      "url": "https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
         "name": "Center Point Road",
         "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 209733,
       "name": "Beer Can\u2019t Fix",
       "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
-        "name": "How Country Feels",
-        "url": "https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 185906,
-      "name": "How Country Feels",
-      "url": "https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Wine, Beer, Whiskey",
-      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
       },
@@ -1503,34 +1487,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "One Mississippi",
-        "url": "https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl"
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
         }
       ],
-      "duration_ms": 213718,
-      "name": "One Mississippi",
-      "url": "https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
-        "name": "Life Changes",
-        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
+      "duration_ms": 196160,
+      "name": "Wine, Beer, Whiskey",
+      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1551,6 +1519,38 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
+        "name": "Life Changes",
+        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "One Mississippi",
+        "url": "https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 213718,
+      "name": "One Mississippi",
+      "url": "https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
         "name": "Eric Paslay",
         "url": "https://open.spotify.com/album/79RwxrHw6uKVimeEGyM00W"
       },
@@ -1563,6 +1563,22 @@
       "duration_ms": 167213,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/66rVt7PbwyKlu6CK6rxyAi"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 158626,
+      "name": "Little Bitty",
+      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1583,18 +1599,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Everything I Love",
-        "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 158626,
-      "name": "Little Bitty",
-      "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
+      "duration_ms": 191693,
+      "name": "Gunpowder & Lead",
+      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1619,22 +1635,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Gunpowder & Lead",
-      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "It Just Comes Natural",
         "url": "https://open.spotify.com/album/52DiULZMD6JO0Ugp89NhFU"
       },
@@ -1647,6 +1647,22 @@
       "duration_ms": 209320,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/1qHRFZE8qykNXYZadzmi1m"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Margaritaville",
+      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1671,22 +1687,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Margaritaville",
-      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
@@ -1703,22 +1703,6 @@
       "duration_ms": 290560,
       "name": "When the Sun Goes Down",
       "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "I Could Use a Love Song",
-      "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1755,22 +1739,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 169586,
-      "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
-      "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
+      "duration_ms": 196421,
+      "name": "I Could Use a Love Song",
+      "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1787,6 +1767,26 @@
       "duration_ms": 199640,
       "name": "Follow Your Arrow",
       "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
+      "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 211986,
-      "name": "Party Mode",
-      "url": "https://open.spotify.com/track/31o5omf8dh0tNaSCdM6cu3"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
         "name": "For My Broken Heart",
         "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
       },
@@ -1839,22 +1823,6 @@
       "duration_ms": 257266,
       "name": "The Night The Lights Went Out In Georgia",
       "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
-    },
-    {
-      "added_at": "2022-07-29 21:53:17",
-      "album": {
-        "name": "Heartache Medication",
-        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 207161,
-      "name": "Tequila Little Time",
-      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1879,6 +1847,22 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "duration_ms": 211986,
+      "name": "Party Mode",
+      "url": "https://open.spotify.com/track/31o5omf8dh0tNaSCdM6cu3"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
@@ -1895,18 +1879,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+        "name": "Heartache Medication",
+        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Where The Green Grass Grows",
-      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
+      "duration_ms": 207161,
+      "name": "Tequila Little Time",
+      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1927,6 +1911,22 @@
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
+    },
+    {
+      "added_at": "2022-07-29 21:53:17",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Where The Green Grass Grows",
+      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -1979,18 +1979,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "Memory I Don't Mess With",
-        "url": "https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif"
+        "name": "The Closer You Get...",
+        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
       },
       "artists": [
         {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
         }
       ],
-      "duration_ms": 180616,
-      "name": "Memory I Don't Mess With",
-      "url": "https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9"
+      "duration_ms": 322093,
+      "name": "Dixieland Delight",
+      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
     },
     {
       "added_at": "2022-07-29 21:53:17",
@@ -2011,18 +2011,18 @@
     {
       "added_at": "2022-07-29 21:53:17",
       "album": {
-        "name": "The Closer You Get...",
-        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
+        "name": "Memory I Don't Mess With",
+        "url": "https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif"
       },
       "artists": [
         {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
         }
       ],
-      "duration_ms": 322093,
-      "name": "Dixieland Delight",
-      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
+      "duration_ms": 180616,
+      "name": "Memory I Don't Mess With",
+      "url": "https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9"
     }
   ],
   "unique_name": "Country Cookout",

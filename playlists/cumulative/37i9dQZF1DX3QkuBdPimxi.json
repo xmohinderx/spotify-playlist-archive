@@ -1341,7 +1341,7 @@
     {
       "album": {
         "name": "Licensed to Move",
-        "url": "https://open.spotify.com/album/6sLaVAxbWz6DhyemezQY1I"
+        "url": "https://open.spotify.com/album/2TFrz8eacV3RaLmzi7yB8v"
       },
       "artists": [
         {
@@ -1352,6 +1352,24 @@
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 131563,
+      "name": "Spaceman Jam",
+      "url": "https://open.spotify.com/track/1eNowQzDDCNzlInoAb8ybq"
+    },
+    {
+      "album": {
+        "name": "Licensed to Move",
+        "url": "https://open.spotify.com/album/6sLaVAxbWz6DhyemezQY1I"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
       "duration_ms": 131563,
       "name": "Spaceman Jam",
       "url": "https://open.spotify.com/track/3P9BePToPpxuz2CbdtmANg"

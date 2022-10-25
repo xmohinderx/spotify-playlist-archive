@@ -1,12 +1,12 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 315753,
+  "num_followers": 315824,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDE4OTgwMywwMDAwMDAwMDNmN2VkYjcyYWY0ZjRhMjc1NTFhM2Q1MmI1ZTNmNTBl",
+  "snapshot_id": "MTY0MDE4OTgwMywwMDAwMDAwMGE3NWY0NTYxNmEzOTE4ZjhjYjc3NTZlYmY0MDA1ZmI4",
   "tracks": [
     {
       "added_at": "2021-12-22 16:16:43",
@@ -115,6 +115,22 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 258040,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
         "name": "Whenever You Need Somebody",
         "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 153800,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 258040,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -355,22 +355,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Once Upon A Time (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Don't You (Forget About Me)",
-      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "Evolution: The Hits",
         "url": "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Street Songs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
       },
       "artists": [
         {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
         }
       ],
-      "duration_ms": 205466,
-      "name": "Super Freak",
-      "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
+      "duration_ms": 263040,
+      "name": "Don't You (Forget About Me)",
+      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -415,6 +399,22 @@
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Street Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Super Freak",
+      "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -675,6 +675,22 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
+        "name": "Hitsville USA, The Motown Collection 1972-1992",
+        "url": "https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
         "name": "Songs From The Big Chair",
         "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 252853,
-      "name": "Super Trouper",
-      "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "So Excited! (Expanded Edition)",
         "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
       },
@@ -739,6 +739,22 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 252853,
+      "name": "Super Trouper",
+      "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
         "name": "Heart Of Stone",
         "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 239826,
       "name": "If I Could Turn Back Time",
       "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
-        "name": "Hitsville USA, The Motown Collection 1972-1992",
-        "url": "https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP"
-      },
-      "artists": [
-        {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
-        }
-      ],
-      "duration_ms": 238773,
-      "name": "Somebody's Watching Me - Single Version",
-      "url": "https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -983,22 +983,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Physical (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 225992,
-      "name": "Physical - Remastered 2021",
-      "url": "https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
         "url": "https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 285906,
       "name": "West End Girls - 2018 Remaster",
       "url": "https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Physical (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 225992,
+      "name": "Physical - Remastered 2021",
+      "url": "https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 205533,
       "name": "Together Forever",
       "url": "https://open.spotify.com/track/5eFiEFtrq5dLgVHSZANUNl"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 263106,
-      "name": "Sussudio - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 238120,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "Sussudio - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
     },
     {
       "added_at": "2021-12-22 16:16:43",

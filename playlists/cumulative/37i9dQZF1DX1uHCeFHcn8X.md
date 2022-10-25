@@ -4,7 +4,7 @@
 
 > Mellow songs from the 2010s.
 
-398 songs - 1 day 0 hr 41 min - [published](https://open.spotify.com/playlist/0GlX4cdlG7EraWNs6wkYYs)
+399 songs - 1 day 0 hr 44 min - [published](https://open.spotify.com/playlist/0GlX4cdlG7EraWNs6wkYYs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2021-02-17 |  |
 | [Señorita](https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:10 | 2021-02-17 |  |
 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 | 2021-02-17 |  |
+| [shut up](https://open.spotify.com/track/0vBlrSOT8xxEBgKay0Otr4) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [portraits](https://open.spotify.com/album/3YuXuSnRfq8NuYE7UjHQKk) | 2:50 | 2022-07-09 |  |
 | [shut up](https://open.spotify.com/track/65mPCrY32YMQlBnmWVrKNa) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [portraits](https://open.spotify.com/album/51EYIcwEHs2WpaiZrrjWtT) | 2:50 | 2021-06-15 | 2022-10-13 |
 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2021-02-17 |  |
 | [Silhouette](https://open.spotify.com/track/0ygOBx60exSPPvnI4sS28r) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 3:50 | 2021-08-10 |  |
@@ -362,7 +363,7 @@
 | [Versace on the Floor](https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 4:21 | 2021-02-17 |  |
 | [Video Games](https://open.spotify.com/track/3WD91HQDBIavSapet3ZpjG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:41 | 2022-07-09 |  |
 | [Video Games](https://open.spotify.com/track/5xTEkzHycz81QTcqCS9oVv) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Video Games](https://open.spotify.com/album/0V3HJ3D9LsXlqzuXu6jx39) | 4:44 | 2021-02-17 | 2022-07-19 |
-| [Wait](https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:51 | 2021-02-17 |  |
+| [Wait](https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:51 | 2021-02-17 | 2022-10-25 |
 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 | 2022-01-05 |  |
 | [Wasn't Expecting That](https://open.spotify.com/track/7nm68uKwGwMqznlOSBxhps) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Wasn't Expecting That](https://open.spotify.com/album/5XqxTXtO3W4bDntGmNBc9q) | 3:21 | 2021-02-17 | 2022-07-29 |
 | [Water Under The Bridge](https://open.spotify.com/track/7xfzwPasShmaPL7gB7va3J) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:00 | 2021-02-17 | 2022-07-29 |

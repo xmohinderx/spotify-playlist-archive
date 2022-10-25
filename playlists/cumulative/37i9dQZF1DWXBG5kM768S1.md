@@ -4,7 +4,7 @@
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-185 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/532FWuTW1QFsPK6DTMO5T1)
+186 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/532FWuTW1QFsPK6DTMO5T1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Håp](https://open.spotify.com/track/0eVz2IPvC2FrIOHMQbi01j) | [Jo Nesbø](https://open.spotify.com/artist/1KcYLo3wUtAqUsLfhZ5iA4) | [Historien om et band](https://open.spotify.com/album/2NIUZrmE3Wchk32sQHed1e) | 5:36 | 2021-12-16 | 2022-07-29 |
 | [I går](https://open.spotify.com/track/6U9GnMuoiUJnsw1JIMrTi1) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [I går](https://open.spotify.com/album/0gFxGgdtrkaPVZ3DzyJGaN) | 5:38 | 2022-09-08 |  |
 | [I huset med deg](https://open.spotify.com/track/6YFSlVmx8n88FwjoN1hplw) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [I huset med deg](https://open.spotify.com/album/1GfXdx0EnteXLP3dw314tU) | 3:23 | 2022-05-26 |  |
-| [I ungdommen](https://open.spotify.com/track/5XPqE4SyHOXygx8vLFmV8p) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [I ungdommen](https://open.spotify.com/album/59rrLxBYfqVcdzEzZQadPa) | 2:53 | 2021-12-16 |  |
+| [I ungdommen](https://open.spotify.com/track/5XPqE4SyHOXygx8vLFmV8p) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [I ungdommen](https://open.spotify.com/album/59rrLxBYfqVcdzEzZQadPa) | 2:53 | 2021-12-16 | 2022-10-25 |
 | [Ikke deg](https://open.spotify.com/track/6CWyZcIAv53L2x8Nv1eu5N) | [Marion Ravn](https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt), [Magnus Grønneberg](https://open.spotify.com/artist/3V9H1F7vYbeggiAlp0RIxM) | [Mellom disse 4 vegger](https://open.spotify.com/album/7xvVHqMGHBrDBYPdMuVTkt) | 4:28 | 2021-12-16 | 2022-07-23 |
 | [Ingen som du](https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Berre meg](https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN) | 3:46 | 2021-12-16 | 2022-07-29 |
 | [Intet nytt under solen](https://open.spotify.com/track/3VuCSOTQFM8lhUtKRlZeCO) | [Åse Kleveland](https://open.spotify.com/artist/6MaSC3kVT4BUDanHNS4n8C) | [Norske Viseperler](https://open.spotify.com/album/6Wiegj2UloKYSHTK0BK5mM) | 1:39 | 2022-03-23 | 2022-04-20 |
@@ -185,6 +185,7 @@
 | [Vegvisir](https://open.spotify.com/track/11uFxNr49ZWoEDJvupsRQx) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT), [Sindre Hotvedt](https://open.spotify.com/artist/6UzXqmZCFu0Qq5v6NbyC14) | [Vegvisir](https://open.spotify.com/album/2BrY4jpqzewSvlmVVHRsBS) | 5:14 | 2022-03-03 | 2022-04-17 |
 | [Veien \(feat\. Kapteinen\)](https://open.spotify.com/track/36Ohx2M4j4l3smfS1VNU6j) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Veien \(feat\. Kapteinen\)](https://open.spotify.com/album/0eTSDSVIJ2qX76TwGDWWA8) | 4:09 | 2021-12-16 | 2022-07-23 |
 | [Veien tilbake](https://open.spotify.com/track/4ymTQjGfZyJm3MDzjY5GK0) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Veien tilbake](https://open.spotify.com/album/5lehci0k4DY3pMceRZfpqb) | 3:50 | 2021-12-16 | 2022-07-29 |
+| [Vi Møttes I En Soloppgang](https://open.spotify.com/track/1nCIRz2gS5f5QA6Qnm0wBs) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Vi Møttes I En Soloppgang](https://open.spotify.com/album/1aPBFbIRtY9TttO1eIfflK) | 3:15 | 2022-10-20 |  |
 | [Vi Vandrar Saman \(Eg Følgjer Der Du Går\)](https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV) | [Olav Stedje](https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA) | [Ta Meg Med](https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP) | 3:14 | 2021-12-16 |  |
 | [Vise i mai](https://open.spotify.com/track/3U8IQozhvijdKg7JBFXqCm) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT) | [Morild](https://open.spotify.com/album/1h9JILdyYsamDDHVbehYfG) | 3:12 | 2022-01-27 | 2022-06-06 |
 | [Vit at det går øve](https://open.spotify.com/track/3eCQqf58kxhCSvTr3XCZFC) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA) | [Vit at det går øve](https://open.spotify.com/album/4WvZPJICxM0vvhjvMvbZBf) | 3:14 | 2021-12-16 | 2022-07-29 |

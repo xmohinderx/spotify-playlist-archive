@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 
 > A classic mix of pop, rock and folk hits from decades past\. Cover: Loggins and Messina
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,080 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,128 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,17 +15,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 | 5 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:43 |
 | 6 | [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 |
 | 7 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
-| 8 | [American Pie](https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 8:36 |
-| 9 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
+| 8 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
+| 9 | [American Pie](https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 8:36 |
 | 10 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 |
 | 11 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
 | 12 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:06 |
 | 13 | [You're so Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
 | 14 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 |
-| 15 | [Crocodile Rock](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 |
-| 16 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
-| 17 | [Reelin' In The Years](https://open.spotify.com/track/1I7zHEdDx8Ny5RxzYPqsU2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 4:35 |
-| 18 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
+| 15 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
+| 16 | [Crocodile Rock](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 |
+| 17 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
+| 18 | [Reelin' In The Years](https://open.spotify.com/track/1I7zHEdDx8Ny5RxzYPqsU2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 4:35 |
 | 19 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
 | 20 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 |
 | 21 | [My Life](https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 4:44 |
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 | 23 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 |
 | 24 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 |
 | 25 | [Sister Golden Hair](https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Hearts](https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n) | 3:19 |
-| 26 | [Do It Again](https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 5:56 |
-| 27 | [Give Me One Reason](https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [New Beginning](https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB) | 4:28 |
-| 28 | [Baker Street](https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 6:05 |
+| 26 | [Give Me One Reason](https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [New Beginning](https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB) | 4:28 |
+| 27 | [Baker Street](https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 6:05 |
+| 28 | [Do It Again](https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 5:56 |
 | 29 | [Folsom Prison Blues \- Live at Folsom State Prison, Folsom, CA \- January 1968](https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [At Folsom Prison](https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh) | 2:42 |
 | 30 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2) | 2:39 |
 | 31 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 | 47 | [Still the One](https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Waking & Dreaming](https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku) | 3:54 |
 | 48 | [Kodachrome](https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:35 |
 | 49 | [Rikki Don't Lose That Number](https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 4:31 |
-| 50 | [I Feel the Earth Move](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:58 |
+| 50 | [Hard to Handle](https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Dock of the Bay Sessions](https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1) | 2:21 |
 
-Snapshot ID: `MTY2NTUxMTc5MCwwMDAwMDAwMDQzMGJmZjc3NGE5ZGI3YTE1ZDJiMzZiMWVmMWJjM2I0`
+Snapshot ID: `MTY2NTUxMTc5MCwwMDAwMDAwMDNiZWE4MjQ4YWVkNDk4NjlmMDgxZDBkYTJjNWQ5Zjkz`

@@ -1,20 +1,20 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain](/playlists/plain/37i9dQZF1DX44dZ4p5QLf4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX44dZ4p5QLf4)
 
-### [Next Wave Neo\-Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
+### [Next Wave Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> A blend of new songs and new artists in the neo\-soul space\. Cover: Joya Mooi
+> A blend of new songs and new artists in the soul space\. Cover: <a href="spotify:artist:5aLDWFw5qUmTWnEuevuhYG">Gaidaa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,643 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,713 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [So Stunning](https://open.spotify.com/track/7yDLec0kIWD2xra7is4q7l) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner \(Side A\)](https://open.spotify.com/album/07IIZ10hO0U1QToADq9t84) | 3:02 |
+| 1 | [Figures](https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Figures](https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q) | 2:32 |
 | 2 | [The Reason](https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W) | 3:24 |
-| 3 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 |
-| 4 | [Build Me A House](https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Build Me A House](https://open.spotify.com/album/1NsNO9pDwGPVlOkqgzro17) | 3:01 |
-| 5 | [PiLOT \(feat\. Snoop Dogg, Busta Rhymes, Anderson .Paak\)](https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 3:22 |
-| 6 | [Stuck In The Middle](https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Stuck In The Middle](https://open.spotify.com/album/2HOLQpPY61lXwGdoLHVkkg) | 2:46 |
-| 7 | [Figures](https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Figures](https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q) | 2:32 |
+| 3 | [So Stunning](https://open.spotify.com/track/7yDLec0kIWD2xra7is4q7l) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner \(Side A\)](https://open.spotify.com/album/07IIZ10hO0U1QToADq9t84) | 3:02 |
+| 4 | [PiLOT \(feat\. Snoop Dogg, Busta Rhymes, Anderson .Paak\)](https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 3:22 |
+| 5 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 |
+| 6 | [Build Me A House](https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Build Me A House](https://open.spotify.com/album/1NsNO9pDwGPVlOkqgzro17) | 3:01 |
+| 7 | [Stuck In The Middle](https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Stuck In The Middle](https://open.spotify.com/album/2HOLQpPY61lXwGdoLHVkkg) | 2:46 |
 | 8 | [Fearless](https://open.spotify.com/track/4gwDxpAtGNezq7u3BXdMmS) | [Illnoledge](https://open.spotify.com/artist/6fm0ZSzd0zHjXjjLuEDXX5) | [Fearless](https://open.spotify.com/album/6F62edIK4IsvQ2k0ttPCC4) | 4:58 |
 | 9 | [Outside](https://open.spotify.com/track/77ZDTOO3zlZxGfNzTNWNyx) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Outside](https://open.spotify.com/album/5pg0D8LLGsWG0wwI8xxgWO) | 3:09 |
 | 10 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 99 | [Sonder](https://open.spotify.com/track/4kU5O6r6BlGpcELBNj2SEA) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Poetry In Motion](https://open.spotify.com/album/4Z5bdwjILIWCBWpqTpdcRY) | 3:09 |
 | 100 | [NYCBB](https://open.spotify.com/track/2ElopavsuSGqBoBclJfQs2) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Célia Tiab](https://open.spotify.com/artist/4CGHZ152neZaJf6gqAsxoZ) | [NYCBB](https://open.spotify.com/album/0IFVaajtSom4dIKY8oLHg8) | 4:16 |
 
-Snapshot ID: `MTY2NTc0MDkzNywwMDAwMDAwMGE2NDI1MDNiZDVkNzFjZjIxZGUyODEzMjYyZDBhN2Rj`
+Snapshot ID: `MTY2NjYwMDM4MiwwMDAwMDAwMDgwMWVlMjAxOTU4OWQ4ZmVlNTIwNzUwMTZhNTYwMWE2`

@@ -3210,6 +3210,32 @@
     },
     {
       "album": {
+        "name": "Cooped Up / Return Of The Mack",
+        "url": "https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        },
+        {
+          "name": "Sickick",
+          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127253,
+      "name": "Cooped Up / Return Of The Mack",
+      "url": "https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e"
+    },
+    {
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },

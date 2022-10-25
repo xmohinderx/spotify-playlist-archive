@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,957 likes - 69 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,623 likes - 69 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 12 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 |
 | 13 | [鍋奉行](https://open.spotify.com/track/3OiSm2385mSfDIMvnYapBV) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 2:21 |
 | 14 | [SKETCH](https://open.spotify.com/track/1hoeIeIVXV9nDPWL21Nbjj) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [SKETCH](https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL) | 3:57 |
-| 15 | [GOOD DAY](https://open.spotify.com/track/31fHBQWCMDUJdHuG41EzRp) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック](https://open.spotify.com/album/2XV23pZFYRgvDvr9qU7iiV) | 2:32 |
+| 15 | [GOOD DAY \- inspired by SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/track/1reF4pkXyJRSbC3FGSi1TB) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [GOOD DAY \- inspired by SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/album/6mSYsjSBR2PdZ8jOvePpXr) | 2:32 |
 | 16 | [NEVER SAY GOODBYE](https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [NEVER SAY GOODBYE](https://open.spotify.com/album/0f9ojxk4DzroHLGAU5iUA3) | 4:50 |
 | 17 | [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 |
 | 18 | [最果て](https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [最果て](https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC) | 3:00 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 68 | [FRIENDS \(from "永久少年 Eternal Boys"\)](https://open.spotify.com/track/0xALdPJdiAiU1JzkPDaG7L) | [Story of Love](https://open.spotify.com/artist/3LVHQwyhX567rGRU09vt6I) | [FRIENDS \(from "永久少年 Eternal Boys"\)](https://open.spotify.com/album/2rcdKb5IEzwFT0BpzzflwZ) | 3:43 |
 | 69 | [Tsubame to Kaze](https://open.spotify.com/track/6k6vxgIhOKVP1GnAMBgQyF) | [Shirai Yusuke](https://open.spotify.com/artist/1ccP8i48kDMJVsHt2GM6io) | [11\-Eleven\-](https://open.spotify.com/album/64UlPpsdOORwv3ta4AwBd8) | 4:36 |
 
-Snapshot ID: `MTY2NjI3ODAwMCwwMDAwMDAwMDNkMTRkMWZhZmI5MDkyODA5YmMzOGZhNTg3ZWJhMWVi`
+Snapshot ID: `MTY2NjI3ODAwMCwwMDAwMDAwMDU0OTBhMmQ2NzgzNTZkMDkwY2FmNzg3ZjlhNzkzOTY2`

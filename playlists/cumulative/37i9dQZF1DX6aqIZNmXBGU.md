@@ -4,7 +4,7 @@
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-128 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/0qekuHpLuIk7DFeuQZ1pAT)
+129 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/0qekuHpLuIk7DFeuQZ1pAT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Hate To Say I Told You So](https://open.spotify.com/track/20j7B6mL9gnNvG3ic6Vwh5) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/1C4UGzx5gD9b3X0UfAhY7z) | 3:20 | 2021-05-31 | 2022-07-29 |
 | [Hello Operator](https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 2:36 | 2021-04-09 |  |
 | [Hello Operator](https://open.spotify.com/track/5vOleliNyabx2qbIWMbyXQ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/268nFPZ1WsMsBLDh8q7T2h) | 2:36 | 2021-04-09 | 2022-07-28 |
+| [Hot Wax](https://open.spotify.com/track/6S1TC3ESLe7PbrztzsQmw4) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Oddments](https://open.spotify.com/album/0R1kilmC4LO7BW0cmTaGtN) | 3:29 | 2021-04-09 |  |
 | [Hot Wax](https://open.spotify.com/track/6gVfpnD2z6Dvgvzy2mass1) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Oddments](https://open.spotify.com/album/3SXEbeWpI8iGgoH11zkgh0) | 3:29 | 2021-04-09 | 2022-10-04 |
 | [Hot Wax](https://open.spotify.com/track/7akxzzetf06jvqQEEIf55y) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Oddments](https://open.spotify.com/album/3DZKitIBszx0EZ7xZ3zJcW) | 3:29 | 2021-04-09 | 2022-06-21 |
 | [I Sat by the Ocean](https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 3:55 | 2021-04-09 |  |
@@ -117,7 +118,7 @@
 | [Stay Away](https://open.spotify.com/track/4rp0jQx7m4aC9YwbgkUL2K) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7) | 3:31 | 2021-04-09 | 2022-07-28 |
 | [Sticky Honey](https://open.spotify.com/track/0HrI6dlfatuofmBjIY9Mxw) | [Juliette & The Licks](https://open.spotify.com/artist/5leGNiJMZus51YMNgB18iG) | [Four on the Floor](https://open.spotify.com/album/6lXA02cn0uH1gCxEItqXvz) | 2:21 | 2021-04-09 | 2022-07-29 |
 | [T\-Shirt Weather](https://open.spotify.com/track/1gR9y60Vr70iUtfC61JIXH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers](https://open.spotify.com/album/1IVmUHIaorGsWsmcSMoz8i) | 3:12 | 2021-04-09 |  |
-| [Tall Man Skinny Lady](https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Manipulator](https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa) | 4:02 | 2021-04-09 |  |
+| [Tall Man Skinny Lady](https://open.spotify.com/track/0nIAP2jd3wybkJySEMEoAG) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Manipulator](https://open.spotify.com/album/2pIFOXH6DxLbWcUO19mbXa) | 4:02 | 2021-04-09 | 2022-10-25 |
 | [Tall Man Skinny Lady](https://open.spotify.com/track/49PuPc7vsgnkzMpF0Hzfeq) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Manipulator](https://open.spotify.com/album/0aXcmVjzU9v63FhFcjgLxp) | 4:02 | 2021-04-09 | 2022-07-29 |
 | [The Boy](https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Onion](https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W) | 3:02 | 2021-04-09 |  |
 | [The Dream](https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Carrion Crawler / The Dream](https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91) | 6:52 | 2021-04-09 |  |

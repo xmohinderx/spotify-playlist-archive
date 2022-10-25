@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 102714,
+  "num_followers": 102761,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMDg0MmY0OWE1MTY1ZDgzZDgzODE5YmFmNjBlOTQwZWJh",
+  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMDE2MzhhODZkNmI2MTZlMzlkNTM4Y2YwZmZhMTIxYmVh",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -155,54 +155,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Hot (Remastered / 20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7dPq7uxh4wGS8EIP2kQNw3"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Nut Zippers",
-          "url": "https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS"
-        }
-      ],
-      "duration_ms": 150906,
-      "name": "Got My Own Thing Now - Remastered 2016",
-      "url": "https://open.spotify.com/track/1guXZjrIm5XkzdWM2OAk7p"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "How Big Can You Get?: The Music Of Cab Calloway",
-        "url": "https://open.spotify.com/album/5EaHXOzSnLy8aRqD4gaCht"
-      },
-      "artists": [
-        {
-          "name": "Big Bad Voodoo Daddy",
-          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
-        }
-      ],
-      "duration_ms": 299146,
-      "name": "Minnie The Moocher",
-      "url": "https://open.spotify.com/track/0LFIogdKLhuH3y1Tf78EYW"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "The Dirty Boogie",
-        "url": "https://open.spotify.com/album/4st9EfeMOnXoxkIPS0fik4"
-      },
-      "artists": [
-        {
-          "name": "The Brian Setzer Orchestra",
-          "url": "https://open.spotify.com/artist/7HQH1SJokcVMdstilKJ2S8"
-        }
-      ],
-      "duration_ms": 139466,
-      "name": "This Cat's On A Hot Tin Roof",
-      "url": "https://open.spotify.com/track/4CAwwZXWojksW05Q2pD840"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC"
       },
@@ -251,18 +203,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "The Best of Squirrel Nut Zippers",
-        "url": "https://open.spotify.com/album/1zfRj4Yk4OHWYVgzDD9y01"
+        "name": "The Dirty Boogie",
+        "url": "https://open.spotify.com/album/4st9EfeMOnXoxkIPS0fik4"
       },
       "artists": [
         {
-          "name": "Squirrel Nut Zippers",
-          "url": "https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS"
+          "name": "The Brian Setzer Orchestra",
+          "url": "https://open.spotify.com/artist/7HQH1SJokcVMdstilKJ2S8"
         }
       ],
-      "duration_ms": 157586,
-      "name": "Put A Lid On It",
-      "url": "https://open.spotify.com/track/06HM8m5kmKG8AOt7eelGhI"
+      "duration_ms": 139466,
+      "name": "This Cat's On A Hot Tin Roof",
+      "url": "https://open.spotify.com/track/4CAwwZXWojksW05Q2pD840"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -283,18 +235,50 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Zoot Suit Riot",
-        "url": "https://open.spotify.com/album/2iVgBMU6oDxmtIljVmJwkz"
+        "name": "Hot (Remastered / 20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7dPq7uxh4wGS8EIP2kQNw3"
       },
       "artists": [
         {
-          "name": "Cherry Poppin' Daddies",
-          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
+          "name": "Squirrel Nut Zippers",
+          "url": "https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS"
         }
       ],
-      "duration_ms": 179828,
-      "name": "Brown Derby Jump",
-      "url": "https://open.spotify.com/track/5SEiTOjPOmNHDAyv6dfkDT"
+      "duration_ms": 150906,
+      "name": "Got My Own Thing Now - Remastered 2016",
+      "url": "https://open.spotify.com/track/1guXZjrIm5XkzdWM2OAk7p"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "How Big Can You Get?: The Music Of Cab Calloway",
+        "url": "https://open.spotify.com/album/5EaHXOzSnLy8aRqD4gaCht"
+      },
+      "artists": [
+        {
+          "name": "Big Bad Voodoo Daddy",
+          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
+        }
+      ],
+      "duration_ms": 299146,
+      "name": "Minnie The Moocher",
+      "url": "https://open.spotify.com/track/0LFIogdKLhuH3y1Tf78EYW"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Mugzy's Move",
+        "url": "https://open.spotify.com/album/4G4L75SsXcxNX6UyDtmkSm"
+      },
+      "artists": [
+        {
+          "name": "Royal Crown Revue",
+          "url": "https://open.spotify.com/artist/1xPJUnlSWLJHXch33w1Ljj"
+        }
+      ],
+      "duration_ms": 181653,
+      "name": "Barflies at the Beach",
+      "url": "https://open.spotify.com/track/5etDbpznJN71iUKaXUkwf3"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -315,34 +299,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Big Bad Voodoo Daddy",
-        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
+        "name": "Zoot Suit Riot",
+        "url": "https://open.spotify.com/album/2iVgBMU6oDxmtIljVmJwkz"
       },
       "artists": [
         {
-          "name": "Big Bad Voodoo Daddy",
-          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
+          "name": "Cherry Poppin' Daddies",
+          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
         }
       ],
-      "duration_ms": 298600,
-      "name": "King Of Swing",
-      "url": "https://open.spotify.com/track/7gfvRgIRok1ceh4QmTbBk9"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Mugzy's Move",
-        "url": "https://open.spotify.com/album/4G4L75SsXcxNX6UyDtmkSm"
-      },
-      "artists": [
-        {
-          "name": "Royal Crown Revue",
-          "url": "https://open.spotify.com/artist/1xPJUnlSWLJHXch33w1Ljj"
-        }
-      ],
-      "duration_ms": 181653,
-      "name": "Barflies at the Beach",
-      "url": "https://open.spotify.com/track/5etDbpznJN71iUKaXUkwf3"
+      "duration_ms": 179828,
+      "name": "Brown Derby Jump",
+      "url": "https://open.spotify.com/track/5SEiTOjPOmNHDAyv6dfkDT"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -379,6 +347,22 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
+        "name": "Big Bad Voodoo Daddy",
+        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
+      },
+      "artists": [
+        {
+          "name": "Big Bad Voodoo Daddy",
+          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
+        }
+      ],
+      "duration_ms": 298600,
+      "name": "King Of Swing",
+      "url": "https://open.spotify.com/track/7gfvRgIRok1ceh4QmTbBk9"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
         "name": "Indigo Swing",
         "url": "https://open.spotify.com/album/0BHd15407qFmwe0VNGoMQ4"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 142000,
       "name": "Pink Cadillac",
       "url": "https://open.spotify.com/track/4mXK4UWo8DTzJvoNsLOAOU"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "The Best of Squirrel Nut Zippers",
+        "url": "https://open.spotify.com/album/1zfRj4Yk4OHWYVgzDD9y01"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Nut Zippers",
+          "url": "https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "Put A Lid On It",
+      "url": "https://open.spotify.com/track/06HM8m5kmKG8AOt7eelGhI"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -423,6 +423,38 @@
       "duration_ms": 202466,
       "name": "Swing Baby!",
       "url": "https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Torch This Place",
+        "url": "https://open.spotify.com/album/6oGSFYCtrg0UYAPx7j5x1L"
+      },
+      "artists": [
+        {
+          "name": "The Atomic Fireballs",
+          "url": "https://open.spotify.com/artist/3gv1hh37jyGKfyAjFvv7No"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Swing Sweet Pussycat",
+      "url": "https://open.spotify.com/track/5EK0gbkVLrLtOvwXy7PWEW"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Big Bad Voodoo Daddy",
+        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
+      },
+      "artists": [
+        {
+          "name": "Big Bad Voodoo Daddy",
+          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Go Daddy O",
+      "url": "https://open.spotify.com/track/2q0gGzRNpYMYjXmMFidK0H"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -495,38 +527,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Big Bad Voodoo Daddy",
-        "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
-      },
-      "artists": [
-        {
-          "name": "Big Bad Voodoo Daddy",
-          "url": "https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Go Daddy O",
-      "url": "https://open.spotify.com/track/2q0gGzRNpYMYjXmMFidK0H"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Torch This Place",
-        "url": "https://open.spotify.com/album/6oGSFYCtrg0UYAPx7j5x1L"
-      },
-      "artists": [
-        {
-          "name": "The Atomic Fireballs",
-          "url": "https://open.spotify.com/artist/3gv1hh37jyGKfyAjFvv7No"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Swing Sweet Pussycat",
-      "url": "https://open.spotify.com/track/5EK0gbkVLrLtOvwXy7PWEW"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Spread a Little Happiness",
         "url": "https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Hawaiian Swing",
-        "url": "https://open.spotify.com/album/0Zyc4YTwXUZLewbfOYKAcj"
-      },
-      "artists": [
-        {
-          "name": "Big Kahuna and the Copa Cat Pack",
-          "url": "https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4"
-        }
-      ],
-      "duration_ms": 130160,
-      "name": "Come On-A-My House",
-      "url": "https://open.spotify.com/track/6Ts8NAuSSmfaXQyGFovDCe"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Big Bad Voodoo Daddy",
         "url": "https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 182626,
       "name": "Solid Gold Cadillac",
       "url": "https://open.spotify.com/track/1oztW0EFjpj4WSHEf6Jt0b"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Hawaiian Swing",
+        "url": "https://open.spotify.com/album/0Zyc4YTwXUZLewbfOYKAcj"
+      },
+      "artists": [
+        {
+          "name": "Big Kahuna and the Copa Cat Pack",
+          "url": "https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4"
+        }
+      ],
+      "duration_ms": 130160,
+      "name": "Come On-A-My House",
+      "url": "https://open.spotify.com/track/6Ts8NAuSSmfaXQyGFovDCe"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "prozac nation",
-        "url": "https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5"
-      },
-      "artists": [
-        {
-          "name": "Bellevue Cadillac",
-          "url": "https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2"
-        }
-      ],
-      "duration_ms": 146760,
-      "name": "pull the plug",
-      "url": "https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Jump For Joy",
         "url": "https://open.spotify.com/album/2iPzOWySU3TCpfMToYdKu7"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Everybody's Talkin' 'Bout Miss Thing!",
-        "url": "https://open.spotify.com/album/4ulxD0G9w5g0ejs9WE8pbR"
+        "name": "prozac nation",
+        "url": "https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5"
       },
       "artists": [
         {
-          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
-          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
+          "name": "Bellevue Cadillac",
+          "url": "https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Honey Pie",
-      "url": "https://open.spotify.com/track/30a5IllTe9dazUViyFtkRh"
+      "duration_ms": 146760,
+      "name": "pull the plug",
+      "url": "https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -783,18 +767,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Superhero Swinger Undercover",
-        "url": "https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN"
+        "name": "Everybody's Talkin' 'Bout Miss Thing!",
+        "url": "https://open.spotify.com/album/4ulxD0G9w5g0ejs9WE8pbR"
       },
       "artists": [
         {
-          "name": "Eight To The Bar",
-          "url": "https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY"
+          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
+          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
         }
       ],
-      "duration_ms": 238306,
-      "name": "Sugar High",
-      "url": "https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx"
+      "duration_ms": 250200,
+      "name": "Honey Pie",
+      "url": "https://open.spotify.com/track/30a5IllTe9dazUViyFtkRh"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -815,6 +799,38 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
+        "name": "Superhero Swinger Undercover",
+        "url": "https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN"
+      },
+      "artists": [
+        {
+          "name": "Eight To The Bar",
+          "url": "https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Sugar High",
+      "url": "https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Shakin' The Shack",
+        "url": "https://open.spotify.com/album/2oxzv7ABlnhhz98UlePH3a"
+      },
+      "artists": [
+        {
+          "name": "Mitch Woods and His Rocket 88\u2018S",
+          "url": "https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Long, Lean And Lanky",
+      "url": "https://open.spotify.com/track/42hgWC7nkO76AtF3MxU3Qo"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
         "name": "Flatland Boogie",
         "url": "https://open.spotify.com/album/2PzxIMY0LNu6BLbInjjwhV"
       },
@@ -827,62 +843,6 @@
       "duration_ms": 148320,
       "name": "Sausage Rock",
       "url": "https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Rigormorty",
-        "url": "https://open.spotify.com/album/3nqKqVYdRaQyB2qd1kWTAk"
-      },
-      "artists": [
-        {
-          "name": "The New Morty Show",
-          "url": "https://open.spotify.com/artist/7GdpM0f8Vw3eXAp55yZ52r"
-        },
-        {
-          "name": "Brian Fishler",
-          "url": "https://open.spotify.com/artist/5fxyIuzJ5vK7Zx81wjdMcL"
-        },
-        {
-          "name": "Cynthia Lewis",
-          "url": "https://open.spotify.com/artist/0FJZBCtDYUDl0mYzgmWgYh"
-        },
-        {
-          "name": "Jeff Whipp",
-          "url": "https://open.spotify.com/artist/66RFLzdKcDlXlSxmff7BvA"
-        },
-        {
-          "name": "John Quam",
-          "url": "https://open.spotify.com/artist/6vghKR8UKkp05RwmP8Fg5E"
-        },
-        {
-          "name": "Morty Okin",
-          "url": "https://open.spotify.com/artist/6FqmDFYYzq24aznz9lSmG6"
-        },
-        {
-          "name": "Robert Castillo",
-          "url": "https://open.spotify.com/artist/1KurYRB7eBuZFscPXhW3df"
-        },
-        {
-          "name": "Trevor Kinsel",
-          "url": "https://open.spotify.com/artist/3zNfLl2dwYGK9AgeFEeaPL"
-        },
-        {
-          "name": "Van Hughes",
-          "url": "https://open.spotify.com/artist/76GyeB20CZqIOO1AfXrwV3"
-        },
-        {
-          "name": "Matt Cowan",
-          "url": "https://open.spotify.com/artist/5oGRwSzCJN3v7DghqpKcj7"
-        },
-        {
-          "name": "David Murotake",
-          "url": "https://open.spotify.com/artist/7uzZ3EA96AqNKa37nhSLp0"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Ladies Man",
-      "url": "https://open.spotify.com/track/66RVNE96LjcmaaXkhdK76a"
     }
   ],
   "unique_name": "Swing Revival",

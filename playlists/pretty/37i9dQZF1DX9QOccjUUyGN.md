@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Japa
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,094 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,115 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 4 | [Castelo de Areia](https://open.spotify.com/track/7iRfR17ADxVi5VG2PXzTQF) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Castelo de Areia](https://open.spotify.com/album/4juSphb72zP3uD7TjkhtAl) | 2:49 |
 | 5 | [Tá Querendo](https://open.spotify.com/track/5SHXAn3kfXh5fwJFUtzqZX) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Tá Querendo](https://open.spotify.com/album/6ooXIxEHDhEAf5RNRfTPgW) | 2:37 |
 | 6 | [Chama Minha Gang](https://open.spotify.com/track/10mRFMbGEgwPujMEPO34Qy) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Chama Minha Gang](https://open.spotify.com/album/3Qj558INpkcP5uTSwdCE59) | 2:39 |
-| 7 | [Sauce](https://open.spotify.com/track/6RTFXyKwG1ZxUIyIoHHRyZ) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Sauce](https://open.spotify.com/album/3DMzfOhzMjSkrdfB14kaEG) | 2:29 |
+| 7 | [Era do Chá](https://open.spotify.com/track/34UOhyyT7FPRr58XEfpjLF) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW), [blinky rich](https://open.spotify.com/artist/7mysftAo9YjmyJc26IORKu) | [Era do Chá](https://open.spotify.com/album/2YkOH17DyQszV5dgcQYC5a) | 3:03 |
 | 8 | [Lisboa Freestyle](https://open.spotify.com/track/4mVxUmtyeQMazBAIKj8fFq) | [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8) | [Lisboa Freestyle](https://open.spotify.com/album/1muQPhUqqtNpOJezsZkUJj) | 2:26 |
-| 9 | [Minha Vida é um Show](https://open.spotify.com/track/0uhgooJ05NDaoFmcPnHXoH) | [Jag](https://open.spotify.com/artist/7I5OqFRkQwd3JJvUrCYK5k), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Minha Vida é um Show](https://open.spotify.com/album/6QaS6xP9CaVBxvINkABE0A) | 2:26 |
+| 9 | [Linda Vem Cá](https://open.spotify.com/track/1yoflyDAlHZ63e1l9AHn2V) | [DOM7NICO](https://open.spotify.com/artist/620szMALjTzToFTwfdGlFc), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN) | [Linda Vem Cá](https://open.spotify.com/album/2pjreAtN2II8k8uAQjSQXD) | 3:08 |
 | 10 | [Miami](https://open.spotify.com/track/7mmzwqOu7mADycV1aDZtTe) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Miami](https://open.spotify.com/album/6lUuzszqj4xYCDrHolVon9) | 2:58 |
 | 11 | [Ai Calica](https://open.spotify.com/track/4nonpXUJXOI2t828fHWIMd) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Ai Calica](https://open.spotify.com/album/0cieg1mjYXu5qzUxsZ6PBn) | 1:40 |
 | 12 | [Treta](https://open.spotify.com/track/7hkSol9Dx88AUvAQq8UG28) | [Haitam](https://open.spotify.com/artist/3J0t4JNgTyjwqRaXo5pNlW) | [Treta](https://open.spotify.com/album/4FD5dVrOP7N2RuK6g2qrKG) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Hipnose](https://open.spotify.com/track/1ubU6gRxFpJnsRItc8xsuY) | [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [Hipnose](https://open.spotify.com/album/2owSlIajiBkqrWogBPXykn) | 2:20 |
 | 75 | [Paradoxo Mítico](https://open.spotify.com/track/6DlsL19K0YdOzV3AEY1YWo) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/4sVXU4DLGhhzhOsevlh5Gk) | 3:39 |
 
-Snapshot ID: `MTY2NjMyMTI2MCwwMDAwMDAwMGIwNjIxZjMzNDE3ZTc4NThjN2M0OGQ0Zjk1ZWEzYWJm`
+Snapshot ID: `MTY2NjYyMzc4NSwwMDAwMDAwMDZkOTM2Njk2YmVmYzhiNzMyZmM5MDI5OTkxZDZhZjc4`

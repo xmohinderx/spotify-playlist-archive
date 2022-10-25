@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,744 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,763 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 19 | [Dicen Que Estoy Muerto](https://open.spotify.com/track/7KBzo2RWU7mhDJZgTjD5gY) | [Tungas](https://open.spotify.com/artist/6Mloe6pXBtaTQxMBQauVmM) | [Vamos Perdiendo El Corazón](https://open.spotify.com/album/4lcbQQyqg5NkrKVdnK4Ovt) | 4:03 |
 | 20 | [Fantasmas](https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW) | [Aurum](https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB) | [Fantasmas](https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ) | 3:36 |
 | 21 | [Desamorados](https://open.spotify.com/track/1mwjcKR2uZUeaTWSUAudcx) | [Hey Bésala](https://open.spotify.com/artist/1hBlGo1cYzBSUhTxQKM4wh) | [Volumen 2](https://open.spotify.com/album/2DQrNkNlUypIheMmF92GDN) | 3:44 |
-| 22 | [La Búsqueda del Tiempo Perdido](https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG) | [Andrés Canalla](https://open.spotify.com/artist/1X0yOvDnVkVi33vLB5tBwB), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Búsqueda del Tiempo Perdido](https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob) | 3:43 |
-| 23 | [Fantasma](https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [CARIBE 4 LIFE](https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK) | 3:26 |
-| 24 | [Confesión](https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Gran Blanco](https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf) | 3:23 |
+| 22 | [Confesión](https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Gran Blanco](https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf) | 3:23 |
+| 23 | [La Búsqueda del Tiempo Perdido](https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG) | [Andrés Canalla](https://open.spotify.com/artist/1X0yOvDnVkVi33vLB5tBwB), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Búsqueda del Tiempo Perdido](https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob) | 3:43 |
+| 24 | [Fantasma](https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [CARIBE 4 LIFE](https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK) | 3:26 |
 | 25 | [Quemando Cartas](https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Entre La Guerra Y El Amor](https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV) | 3:05 |
 | 26 | [Espero Nadie Ocupe Mi Lugar](https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9) | [Camiches](https://open.spotify.com/artist/3DZM1ODnTL003kSGHSd7dA) | [El Bálsamo para los Sabios y los Buenos Perdedores](https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A) | 3:34 |
 | 27 | [Tennessecito](https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Mejores Tiempos](https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 49 | [Doble Vida](https://open.spotify.com/track/0hL4uLIKFzKwRIpOsjP9DF) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Doble Vida](https://open.spotify.com/album/3WwiGAt7wzs8wKVtM06cNU) | 3:04 |
 | 50 | [La Naturaleza Incoherente del Ser](https://open.spotify.com/track/5aCOgoyVrIYxB7rScX1vJG) | [Dolores De Huevos](https://open.spotify.com/artist/7wqgl1I3I8WWYs5QfeojTV) | [La Naturaleza Incoherente del Ser](https://open.spotify.com/album/64s94my8S2fm0e7IkWSHzW) | 3:23 |
 
-Snapshot ID: `MTY2NDY1MDQ4MiwwMDAwMDAwMDNkYzcwODJhNDJlOGRmNDU5MmVlM2JlODgzNzIzYjA1`
+Snapshot ID: `MTY2NDY1MDQ4MiwwMDAwMDAwMDEwMzMwMWM5YjJkZDQyOTY3M2RjM2M1MjYzYWQ0Mzk2`

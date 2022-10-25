@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: Serri (\uc138\ub9ac) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: JO YURI (\uc870\uc720\ub9ac) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "published_playlist_ids": [
     "54sOlxCE1pFDWuNfDv9xNV"
@@ -1733,7 +1733,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 183413,
       "name": "FUN!",
       "url": "https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH"
@@ -2507,7 +2507,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 186202,
       "name": "LIKE",
       "url": "https://open.spotify.com/track/38d2AabK6k4Ct4iQk80MI5"
@@ -2753,6 +2753,24 @@
       "duration_ms": 211972,
       "name": "LOVE WHISPER",
       "url": "https://open.spotify.com/track/1xwnvVY9gHdo69PuGQkG1U"
+    },
+    {
+      "album": {
+        "name": "Op.22 Y-Waltz : in Minor",
+        "url": "https://open.spotify.com/album/2CMx2ufebKtglecf9Q1F90"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176253,
+      "name": "Loveable",
+      "url": "https://open.spotify.com/track/087TC6IfJ8z7fBItvglRRs"
     },
     {
       "album": {
@@ -3927,7 +3945,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 200933,
       "name": "RING X RING",
       "url": "https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv"

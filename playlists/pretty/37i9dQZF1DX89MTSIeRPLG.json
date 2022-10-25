@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 485,
+  "num_followers": 510,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjI3MSwwMDAwMDAwMDhlZGUxNTA5NDcyYjUxNjlhN2Y2M2IyYTEzNGYzOTRk",
+  "snapshot_id": "MTY2NDY1NjI3MSwwMDAwMDAwMGM1NjYzOWViMDEyNzJlZTNkYjJkYzUzODAxMjcxNDUz",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -163,6 +163,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 106285,
+      "name": "No Love Lost",
+      "url": "https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "On Me (Remix) (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 135444,
       "name": "On Me (Remix) (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "No Love Lost",
-        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 106285,
-      "name": "No Love Lost",
-      "url": "https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "I'll Never Tell Em Shit",
-        "url": "https://open.spotify.com/album/6OPXGevMn8h54jmk4LWgG1"
-      },
-      "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        }
-      ],
-      "duration_ms": 177475,
-      "name": "I'll Never Tell Em Shit",
-      "url": "https://open.spotify.com/track/1BFXOnTTLceecy6N2xDgCV"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 255093,
       "name": "LOVE (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/19FE7YCq8xxijzQNqFnGAd"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "I'll Never Tell Em Shit",
+        "url": "https://open.spotify.com/album/6OPXGevMn8h54jmk4LWgG1"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "duration_ms": 177475,
+      "name": "I'll Never Tell Em Shit",
+      "url": "https://open.spotify.com/track/1BFXOnTTLceecy6N2xDgCV"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "WUNNA (Deluxe)",
+        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 152386,
+      "name": "DO BETTER",
+      "url": "https://open.spotify.com/track/3BOosbDTBZKTOwTbfaQmHY"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Sayless",
         "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 148330,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "WUNNA (Deluxe)",
-        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 152386,
-      "name": "DO BETTER",
-      "url": "https://open.spotify.com/track/3BOosbDTBZKTOwTbfaQmHY"
     },
     {
       "added_at": "2022-10-01 20:31:11",

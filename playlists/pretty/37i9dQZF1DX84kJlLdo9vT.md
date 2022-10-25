@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 
 > Relive the good ol' days with these cheery 60s and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,518 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,582 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 | 16 | [Take Me Home, Country Roads](https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol 1: Take Me Home Country Roads](https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU) | 3:17 |
 | 17 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:06 |
 | 18 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 |
-| 19 | [Build Me Up Buttercup \- Mono](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 |
-| 20 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
-| 21 | [Oh, Pretty Woman](https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Oh, Pretty Woman](https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0) | 2:58 |
+| 19 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
+| 20 | [Oh, Pretty Woman](https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Oh, Pretty Woman](https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0) | 2:58 |
+| 21 | [Build Me Up Buttercup \- Mono](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 |
 | 22 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:40 |
 | 23 | [I Heard It Through The Grapevine](https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [In The Groove](https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz) | 3:14 |
 | 24 | [It's Not Unusual](https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Along Came Jones](https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR) | 1:59 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 | 32 | [Baby Love](https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:38 |
 | 33 | [Everyday](https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 2:09 |
 | 34 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
-| 35 | [Love Will Keep Us Together](https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Love Will Keep Us Together](https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d) | 3:25 |
-| 36 | [Sugar, Sugar](https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [The Very Best Of "The Archies"](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) | 2:47 |
+| 35 | [Sugar, Sugar](https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [The Very Best Of "The Archies"](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) | 2:47 |
+| 36 | [Love Will Keep Us Together](https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Love Will Keep Us Together](https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d) | 3:25 |
 | 37 | [I Got You Babe](https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [Look At Us](https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH) | 3:10 |
 | 38 | [Don't Worry Baby \- Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1) | 2:49 |
 | 39 | [Come A Little Bit Closer](https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP) | [Jay & The Americans](https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs) | [Come A Little Bit Closer: The Best Of Jay & The Americans](https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6) | 2:46 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 | 45 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
 | 46 | [Wake up Little Susie](https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:03 |
 | 47 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:46 |
-| 48 | [Get Ready](https://open.spotify.com/track/676Rf0qIOh2gKNEl9TnCOx) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Gettin' Ready \(Expanded Edition\)](https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb) | 2:44 |
-| 49 | [The Locomotion](https://open.spotify.com/track/5xzdDMhFYiuUONB0Mha9VS) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Llllloco\-Motion](https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj) | 2:19 |
-| 50 | [Rhythm of the Rain](https://open.spotify.com/track/7GHf8dQ2wA71wYOuRsQCZP) | [The Cascades](https://open.spotify.com/artist/6qF0CJP412Gd50Rn1sFg2o) | [Rhythm Of The Rain](https://open.spotify.com/album/0JdsCjqgkPenYahT4NoE17) | 2:26 |
+| 48 | [Rhythm of the Rain](https://open.spotify.com/track/7GHf8dQ2wA71wYOuRsQCZP) | [The Cascades](https://open.spotify.com/artist/6qF0CJP412Gd50Rn1sFg2o) | [Rhythm Of The Rain](https://open.spotify.com/album/0JdsCjqgkPenYahT4NoE17) | 2:26 |
+| 49 | [Get Ready](https://open.spotify.com/track/676Rf0qIOh2gKNEl9TnCOx) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Gettin' Ready \(Expanded Edition\)](https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb) | 2:44 |
+| 50 | [The Locomotion](https://open.spotify.com/track/5xzdDMhFYiuUONB0Mha9VS) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Llllloco\-Motion](https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj) | 2:19 |
 
-Snapshot ID: `MTY1ODgwNzI0MCwwMDAwMDAwMDMxYzkyMjdiMWY1ZGQ2MmQyMGVlN2IxOTZlOGVjNWRk`
+Snapshot ID: `MTY1ODgwNzI0MCwwMDAwMDAwMDc4ZTk5MDM5MjI3MTZmYjg4Y2YzYjBjNjBjMTVlN2Rl`

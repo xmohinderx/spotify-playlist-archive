@@ -4,7 +4,7 @@
 
 > pov: amar seu corpo é um ato revolucionário/Tove Lo
 
-124 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/1N2aY5nA8MrfxngP6TMfX7)
+125 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/1N2aY5nA8MrfxngP6TMfX7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [nada contra \(ciúme\)](https://open.spotify.com/track/1YGLrVineKYS0UzvBAA3gH) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/0GKDqWpEF0cRw9Q6Ha1zpH) | 2:22 | 2022-05-06 | 2022-07-29 |
 | [nada contra \(ciúme\)](https://open.spotify.com/track/1unDZmI0EXHaZ7FWugXSqC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/4eQOYhDped8j3q2tZHVdM0) | 2:22 | 2022-07-22 | 2022-10-02 |
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2022-08-12 | 2022-09-10 |
-| [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 | 2022-09-09 |  |
+| [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 | 2022-09-09 | 2022-10-25 |
 | [O Limbo do Menino Sem Olhos](https://open.spotify.com/track/0vPdgRzDiARUkiGO81iPKW) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Limbo do Menino Sem Olhos](https://open.spotify.com/album/5Rj9CtWNQiVUYWOiAYInTG) | 2:49 | 2022-05-06 | 2022-06-25 |
 | [Older \(feat\. Sierra Deaton\)](https://open.spotify.com/track/3NnvYEb93CrTVBssPtSCt1) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Sierra Deaton](https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs) | [Older](https://open.spotify.com/album/1VSYQDyDwa6WMyiuHKk8mL) | 3:17 | 2022-09-09 | 2022-10-08 |
 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 | 2022-08-19 |  |
@@ -130,6 +130,7 @@
 | [Vilã](https://open.spotify.com/track/3n1dunpGTR61syxxHmd8Aq) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Vilã](https://open.spotify.com/album/1PJ0iCi6nPIW6b0gYocW13) | 2:33 | 2022-07-01 | 2022-07-16 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2022-05-06 | 2022-10-13 |
 | [we fell in love in october](https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu) | 3:04 | 2022-10-14 | 2022-10-19 |
+| [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2022-10-21 |  |
 | [WFM](https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl) | 2:16 | 2022-05-06 | 2022-07-23 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2022-05-06 | 2022-10-15 |
 

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Silvana Estrada",
-  "num_followers": 846882,
+  "num_followers": 846873,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjAxNTI3NSwwMDAwMDAwMGFmNTllY2M0Zjk5NDA0MjYzMmMzNDEwY2QwMGJjMWU3",
+  "snapshot_id": "MTY2NjAxNTI3NSwwMDAwMDAwMDIwYmRkYTRkYzU0ZTk2NDJlNDdkMDRiMTE4MzhiNmU2",
   "tracks": [
     {
       "added_at": "2022-10-11 12:56:15",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-10-11 12:56:15",
       "album": {
+        "name": "ENTWURF",
+        "url": "https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H"
+    },
+    {
+      "added_at": "2022-10-11 12:56:15",
+      "album": {
         "name": "La Loto",
         "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
-    },
-    {
-      "added_at": "2022-10-11 12:56:15",
-      "album": {
-        "name": "ENTWURF",
-        "url": "https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "DICE",
-      "url": "https://open.spotify.com/track/1QpwvWMQGdOgA8MXXfgs4H"
     },
     {
       "added_at": "2022-10-11 12:56:15",
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/6NCJTDAQsOErJGv7mhdvsB"
     },
     {
-      "added_at": "2022-10-24 01:35:44",
+      "added_at": "2022-10-25 01:30:57",
       "album": {
         "name": "Baraye",
         "url": "https://open.spotify.com/album/0o0ScZ26kHmTubAB6nHezL"
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-10-11 12:56:15",
       "album": {
-        "name": "TR\u00caS",
-        "url": "https://open.spotify.com/album/3QiDWIyxyDbRfMsgZJrdCV"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 130434,
-      "name": "Mole",
-      "url": "https://open.spotify.com/track/1mXJe2PaWhSNWXvNIZKpqX"
-    },
-    {
-      "added_at": "2022-10-11 12:56:15",
-      "album": {
         "name": "O Sajna",
         "url": "https://open.spotify.com/album/1TXJwhaxqLrY0xaHkkDHfK"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 245131,
       "name": "O Sajna",
       "url": "https://open.spotify.com/track/1SVE8yjAt2m9JWjeOaGG4Q"
+    },
+    {
+      "added_at": "2022-10-11 12:56:15",
+      "album": {
+        "name": "TR\u00caS",
+        "url": "https://open.spotify.com/album/3QiDWIyxyDbRfMsgZJrdCV"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 130434,
+      "name": "Mole",
+      "url": "https://open.spotify.com/track/1mXJe2PaWhSNWXvNIZKpqX"
     },
     {
       "added_at": "2022-10-11 12:56:15",
@@ -287,30 +287,6 @@
     {
       "added_at": "2022-10-11 12:56:15",
       "album": {
-        "name": "Cute Boy",
-        "url": "https://open.spotify.com/album/3oOsxujiwXlaed2q2h71Fv"
-      },
-      "artists": [
-        {
-          "name": "Nunu",
-          "url": "https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG"
-        },
-        {
-          "name": "Sagi Kariv",
-          "url": "https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a"
-        },
-        {
-          "name": "Forever Tel Aviv",
-          "url": "https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Cute Boy",
-      "url": "https://open.spotify.com/track/7DS5SpsWS7rtKeAfe9rbfn"
-    },
-    {
-      "added_at": "2022-10-11 12:56:15",
-      "album": {
         "name": "Passando o Rodo (feat. Tain\u00e1 Costa)",
         "url": "https://open.spotify.com/album/6rW1RDPhTkzVFgvJZatSbY"
       },
@@ -335,6 +311,30 @@
       "duration_ms": 150731,
       "name": "Passando o Rodo (feat. Tain\u00e1 Costa)",
       "url": "https://open.spotify.com/track/6z7CbJhWEVXZyFv2Y0CjCs"
+    },
+    {
+      "added_at": "2022-10-11 12:56:15",
+      "album": {
+        "name": "Cute Boy",
+        "url": "https://open.spotify.com/album/3oOsxujiwXlaed2q2h71Fv"
+      },
+      "artists": [
+        {
+          "name": "Nunu",
+          "url": "https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG"
+        },
+        {
+          "name": "Sagi Kariv",
+          "url": "https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a"
+        },
+        {
+          "name": "Forever Tel Aviv",
+          "url": "https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Cute Boy",
+      "url": "https://open.spotify.com/track/7DS5SpsWS7rtKeAfe9rbfn"
     },
     {
       "added_at": "2022-10-11 12:56:15",
@@ -635,22 +635,18 @@
     {
       "added_at": "2022-10-11 12:56:15",
       "album": {
-        "name": "HIDE AND SEEK",
-        "url": "https://open.spotify.com/album/47KfJWxppOSmiKyFmFikBY"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs"
       },
       "artists": [
         {
-          "name": "ZUZA",
-          "url": "https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ"
-        },
-        {
-          "name": "Marie",
-          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+          "name": "ALLY",
+          "url": "https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw"
         }
       ],
-      "duration_ms": 182622,
-      "name": "HIDE AND SEEK",
-      "url": "https://open.spotify.com/track/1kgkuIg5YWWV8A93G1hN7I"
+      "duration_ms": 185746,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr"
     },
     {
       "added_at": "2022-10-11 12:56:15",
@@ -671,18 +667,22 @@
     {
       "added_at": "2022-10-11 12:56:15",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs"
+        "name": "HIDE AND SEEK",
+        "url": "https://open.spotify.com/album/47KfJWxppOSmiKyFmFikBY"
       },
       "artists": [
         {
-          "name": "ALLY",
-          "url": "https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw"
+          "name": "ZUZA",
+          "url": "https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ"
+        },
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
         }
       ],
-      "duration_ms": 185746,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr"
+      "duration_ms": 182622,
+      "name": "HIDE AND SEEK",
+      "url": "https://open.spotify.com/track/1kgkuIg5YWWV8A93G1hN7I"
     },
     {
       "added_at": "2022-10-11 12:56:15",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-11 12:56:15",
       "album": {
-        "name": "IL FUMO UCCIDE",
-        "url": "https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU"
-      },
-      "artists": [
-        {
-          "name": "Camilla Magli",
-          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
-        }
-      ],
-      "duration_ms": 185100,
-      "name": "IL FUMO UCCIDE",
-      "url": "https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg"
-    },
-    {
-      "added_at": "2022-10-11 12:56:15",
-      "album": {
         "name": "Dziewczyna z tatua\u017cem",
         "url": "https://open.spotify.com/album/4lk4BJI6KHPfgVW1Mb28Re"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 304831,
       "name": "Dziewczyna z tatua\u017cem",
       "url": "https://open.spotify.com/track/2Vj7I6BgiUEsCOI2gZiY5Q"
+    },
+    {
+      "added_at": "2022-10-11 12:56:15",
+      "album": {
+        "name": "IL FUMO UCCIDE",
+        "url": "https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU"
+      },
+      "artists": [
+        {
+          "name": "Camilla Magli",
+          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
+        }
+      ],
+      "duration_ms": 185100,
+      "name": "IL FUMO UCCIDE",
+      "url": "https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg"
     },
     {
       "added_at": "2022-10-11 12:56:15",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-10-11 12:56:15",
       "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3rsmCfSkLjDUcjSembmp3S"
+      },
+      "artists": [
+        {
+          "name": "Maella",
+          "url": "https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY"
+        }
+      ],
+      "duration_ms": 160903,
+      "name": "Tudu Tudu Tu",
+      "url": "https://open.spotify.com/track/4FOCWMx3Xl36xlEQoEYmpn"
+    },
+    {
+      "added_at": "2022-10-11 12:56:15",
+      "album": {
         "name": "De X Vida",
         "url": "https://open.spotify.com/album/46dyRolsnFXlMp7J707OIc"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 171191,
       "name": "Oh my mind",
       "url": "https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK"
-    },
-    {
-      "added_at": "2022-10-11 12:56:15",
-      "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3rsmCfSkLjDUcjSembmp3S"
-      },
-      "artists": [
-        {
-          "name": "Maella",
-          "url": "https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY"
-        }
-      ],
-      "duration_ms": 160903,
-      "name": "Tudu Tudu Tu",
-      "url": "https://open.spotify.com/track/4FOCWMx3Xl36xlEQoEYmpn"
     },
     {
       "added_at": "2022-10-11 12:56:15",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-10-11 12:56:15",
       "album": {
-        "name": "Chakra Sacro",
-        "url": "https://open.spotify.com/album/1Bw2eHlvZON8dCx9bn8o8R"
-      },
-      "artists": [
-        {
-          "name": "AMAURA",
-          "url": "https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Chakra Sacro",
-      "url": "https://open.spotify.com/track/1odGLuCnWaAnODMu7rbjwr"
-    },
-    {
-      "added_at": "2022-10-11 12:56:15",
-      "album": {
         "name": "Mukhtasir Baatein",
         "url": "https://open.spotify.com/album/5nOZtgjx1yZ7xZUQk69pKo"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 162000,
       "name": "Mukhtasir Baatein",
       "url": "https://open.spotify.com/track/0SFzTBfG9UgdFGMc2KJD8y"
+    },
+    {
+      "added_at": "2022-10-11 12:56:15",
+      "album": {
+        "name": "Chakra Sacro",
+        "url": "https://open.spotify.com/album/1Bw2eHlvZON8dCx9bn8o8R"
+      },
+      "artists": [
+        {
+          "name": "AMAURA",
+          "url": "https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Chakra Sacro",
+      "url": "https://open.spotify.com/track/1odGLuCnWaAnODMu7rbjwr"
     },
     {
       "added_at": "2022-10-11 12:56:15",

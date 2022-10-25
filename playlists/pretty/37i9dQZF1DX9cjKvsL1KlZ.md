@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,208 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,294 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 36 | [Still Not a Player \(feat\. Joe\)](https://open.spotify.com/track/5kWShBA43yNFBzHk7g1Mtd) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Endangered Species](https://open.spotify.com/album/4Dj07YyIWIvo3dUYinvqvR) | 3:56 |
 | 37 | [Sike](https://open.spotify.com/track/5Lp8hAVrPUDn3CuuBP5W0F) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Merry Wickmas 2](https://open.spotify.com/album/41u5LevaGxYvQAavEby3jC) | 1:11 |
 | 38 | [Weight On Me](https://open.spotify.com/track/6A4hgJdwriera4WSUl4moW) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 2:37 |
-| 39 | [Free Bizzy , Pt\. 2](https://open.spotify.com/track/122HITMgjIRIWpWWrGs4ub) | [Leeky G Bando](https://open.spotify.com/artist/6YEOsQM04mRbJT3dRDv9Ag) | [Free Bizzy , Pt\. 2](https://open.spotify.com/album/6pVIB7YaHu00iHiPWkcfND) | 2:15 |
+| 39 | [Free Bizzy, Pt\. 2](https://open.spotify.com/track/3qYvUTA7AhJwx6lvxvCik1) | [Leeky G Bando](https://open.spotify.com/artist/2DDdkJNNuomH4Px5AJ8p2d) | [Free Bizzy, Pt\. 2](https://open.spotify.com/album/6sr74fUn57D13Nje1chRdF) | 2:15 |
 | 40 | [Max Out \(feat\. Shawny Binladen\)](https://open.spotify.com/track/3ZAdfrlcv07Fd78wJfhbRd) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz), [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Max Out \(feat\. Shawny Binladen\)](https://open.spotify.com/album/2LtgejDTtBZrzQSQTFH3Iv) | 2:11 |
 | 41 | [Brotherly Love \(feat\. Dougie B & B\-Lovee\)](https://open.spotify.com/track/34YnZOLkvAxH6K7ZXutHOo) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 3:54 |
 | 42 | [DOA \(feat\. Set Da Trend\)](https://open.spotify.com/track/3i4yWKMRIoCcquLwOPhqZ1) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Set Da Trend](https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB) | [DOA \(feat\. Set Da Trend\)](https://open.spotify.com/album/0z0OfFcfdNLWfCuo6VS6ql) | 1:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [Misconceptions](https://open.spotify.com/track/4pUQktt2ispCFMBtIvqPol) | [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Misconceptions](https://open.spotify.com/album/6cdDbqEhuDFmWdWEHGic2y) | 1:39 |
 | 50 | [40s N 9s](https://open.spotify.com/track/6c74xJ6LgdJDnv8bYOElUP) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [SugarHill Ddot](https://open.spotify.com/artist/2mET8bpTc6j2lm5YjVUeFq) | [40s N 9s](https://open.spotify.com/album/3xaTN7UyEJIVnnjdclui5E) | 2:25 |
 
-Snapshot ID: `MTY2NjMzMzA2MiwwMDAwMDAwMGNlNmUyMDI2MjM4ZTRjMGJiOWVjN2ZkOWYzMWZhYTc4`
+Snapshot ID: `MTY2NjMzMzA2MiwwMDAwMDAwMDViMWI2ZTQ4OWIzYzUwNWY5Y2E2MjFmODc4YTQ2YzA1`

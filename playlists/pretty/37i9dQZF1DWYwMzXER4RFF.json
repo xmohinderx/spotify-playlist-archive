@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Viagra Boys",
-  "num_followers": 247995,
+  "num_followers": 248062,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk4MjIxOSwwMDAwMDAwMDg2MTIyZjJmNDg5N2QwMGI2NzIyOTZhZDkwYzg2NmQ0",
+  "snapshot_id": "MTY2Mjk4MjIxOSwwMDAwMDAwMDgxOGEwMjAwY2FmM2YyMjM0MmUzMTg5MDFmNjk4OThj",
   "tracks": [
     {
       "added_at": "2022-08-25 20:35:49",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
+        "name": "Flower of Devotion",
+        "url": "https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 226678,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
         "name": "Songs of Praise",
         "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
       },
@@ -247,6 +263,22 @@
       "duration_ms": 120268,
       "name": "Book",
       "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
+      },
+      "artists": [
+        {
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "Calling It",
+      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -283,34 +315,18 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Flower of Devotion",
-        "url": "https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik"
+        "name": "Street Worms",
+        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
       },
       "artists": [
         {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
         }
       ],
-      "duration_ms": 226678,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
-        "name": "Signal",
-        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
-      },
-      "artists": [
-        {
-          "name": "Automatic",
-          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "Calling It",
-      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
+      "duration_ms": 216284,
+      "name": "Down in the Basement",
+      "url": "https://open.spotify.com/track/6EjGLBBBuEkjQniYBeDN7E"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -327,22 +343,6 @@
       "duration_ms": 214106,
       "name": "Concrete",
       "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
-        "name": "Street Worms",
-        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 216284,
-      "name": "Down in the Basement",
-      "url": "https://open.spotify.com/track/6EjGLBBBuEkjQniYBeDN7E"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Broke",
-        "url": "https://open.spotify.com/album/3rNyZkoQKHEpZjIbTTsXjN"
+        "name": "Little Fix",
+        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
       },
       "artists": [
         {
-          "name": "Scott Lavene",
-          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
+          "name": "Sprints",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
         }
       ],
-      "duration_ms": 481813,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/1RRs8pwqvg6mnp8r0x4Riq"
+      "duration_ms": 196000,
+      "name": "Little Fix",
+      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Little Fix",
-        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/3rNyZkoQKHEpZjIbTTsXjN"
       },
       "artists": [
         {
-          "name": "Sprints",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+          "name": "Scott Lavene",
+          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Little Fix",
-      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
+      "duration_ms": 481813,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/1RRs8pwqvg6mnp8r0x4Riq"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
+        "name": "Dogrel",
+        "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 105515,
+      "name": "Big",
+      "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
         "name": "Feel Nothing",
         "url": "https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Dogrel",
-        "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
+        "name": "Houseplants",
+        "url": "https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
         }
       ],
-      "duration_ms": 105515,
-      "name": "Big",
-      "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
+      "duration_ms": 258130,
+      "name": "Houseplants",
+      "url": "https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -723,22 +739,6 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Bright Green Field",
-        "url": "https://open.spotify.com/album/4z44Wir05QzQYSCs0KwsKX"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 375626,
-      "name": "Paddling",
-      "url": "https://open.spotify.com/track/4bk6zQvr1tEokVjLJ7xZfz"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
         "name": "Illusory Walls",
         "url": "https://open.spotify.com/album/2LF6m9cVyej7vKLnjwGiLK"
       },
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 212910,
+      "name": "Creatures",
+      "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
         "name": "Cheer",
         "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
       },
@@ -783,6 +799,22 @@
       "duration_ms": 178654,
       "name": "Avoidarama",
       "url": "https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ"
+    },
+    {
+      "added_at": "2022-08-25 20:35:49",
+      "album": {
+        "name": "Reset My Password",
+        "url": "https://open.spotify.com/album/1PdUQ7q9ECtmZQjmp79DVI"
+      },
+      "artists": [
+        {
+          "name": "Public Body",
+          "url": "https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X"
+        }
+      ],
+      "duration_ms": 170028,
+      "name": "Reset My Password",
+      "url": "https://open.spotify.com/track/6CKslfcC4WXPRFAjSItYm7"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -803,18 +835,18 @@
     {
       "added_at": "2022-08-25 20:35:49",
       "album": {
-        "name": "Reset My Password",
-        "url": "https://open.spotify.com/album/1PdUQ7q9ECtmZQjmp79DVI"
+        "name": "Bright Green Field",
+        "url": "https://open.spotify.com/album/4z44Wir05QzQYSCs0KwsKX"
       },
       "artists": [
         {
-          "name": "Public Body",
-          "url": "https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X"
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
         }
       ],
-      "duration_ms": 170028,
-      "name": "Reset My Password",
-      "url": "https://open.spotify.com/track/6CKslfcC4WXPRFAjSItYm7"
+      "duration_ms": 375626,
+      "name": "Paddling",
+      "url": "https://open.spotify.com/track/4bk6zQvr1tEokVjLJ7xZfz"
     },
     {
       "added_at": "2022-08-25 20:35:49",
@@ -863,38 +895,6 @@
       "duration_ms": 232484,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
-        "name": "Houseplants",
-        "url": "https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 258130,
-      "name": "Houseplants",
-      "url": "https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4"
-    },
-    {
-      "added_at": "2022-08-25 20:35:49",
-      "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 212910,
-      "name": "Creatures",
-      "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
     }
   ],
   "unique_name": "Post Punk",

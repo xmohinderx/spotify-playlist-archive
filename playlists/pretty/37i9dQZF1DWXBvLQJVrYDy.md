@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,616 likes - 114 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,680 likes - 114 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

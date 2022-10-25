@@ -4,7 +4,7 @@
 
 > No dust was found after cleaning to this playlist.
 
-399 songs - 1 day 0 hr 6 min - [published](https://open.spotify.com/playlist/6oRvGpvzDj3pSeGrYB27Hn)
+400 songs - 1 day 0 hr 9 min - [published](https://open.spotify.com/playlist/6oRvGpvzDj3pSeGrYB27Hn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-28 |  |
 | [Breakeven](https://open.spotify.com/track/38xWaVFKaxZlMFvzNff2aW) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF) | 4:21 | 2021-12-21 | 2022-06-29 |
 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 | 2022-06-28 |  |
+| [BRUTAL \- Spotify Singles](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL \- Spotify Singles](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-24 |  |
 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 | 2021-12-21 | 2022-06-29 |
 | [Buy U a Drank \(Shawty Snappin'\) \(feat\. Yung Joc\)](https://open.spotify.com/track/2aIdVb8v9KTpEZnftkz2mD) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Yung Joc](https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj) | [Epiphany](https://open.spotify.com/album/44Z1ZEmOyois0QoAgfUxrD) | 3:47 | 2021-12-21 | 2022-06-29 |
 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2021-12-21 | 2022-06-29 |
@@ -202,7 +203,7 @@
 | [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 | 2021-12-21 | 2022-06-29 |
 | [Lucky](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 3:09 | 2021-12-21 | 2022-06-29 |
 | [Mal Acostumbrao \- con Maria Becerra](https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal Acostumbrao \(con Maria Becerra\)](https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q) | 3:10 | 2022-06-28 |  |
-| [Maldita Foto](https://open.spotify.com/track/4WkEH0PgystZUaN6QU6Z0B) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Maldita Foto](https://open.spotify.com/album/3Ka78dJC3Xm7UjN7IhCXG6) | 3:10 | 2022-06-28 |  |
+| [Maldita Foto](https://open.spotify.com/track/4WkEH0PgystZUaN6QU6Z0B) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Maldita Foto](https://open.spotify.com/album/3Ka78dJC3Xm7UjN7IhCXG6) | 3:10 | 2022-06-28 | 2022-10-25 |
 | [Malos Hábitos](https://open.spotify.com/track/6xfewMVW0t5WwupAxz8hy9) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [DUNNOWHO](https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn) | [Malos Hábitos](https://open.spotify.com/album/1NJmPGjzHAUHnfYGT8VkTB) | 3:26 | 2022-06-10 | 2022-07-29 |
 | [Maléfica](https://open.spotify.com/track/3i5cUvzBImLJTLh0koudVl) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Maléfica](https://open.spotify.com/album/5h10dZPmIJpkbFiwrNt8AO) | 3:03 | 2022-06-28 | 2022-09-12 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-06-28 |  |

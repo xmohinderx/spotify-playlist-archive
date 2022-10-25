@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RQ58d96XlDjmx0a7GZ5xX">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 757 likes - 156 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 759 likes - 156 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 20 | [Suena El Dembow](https://open.spotify.com/track/4WG1z3DsOmkByBsVfHN0JV) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [La Movida](https://open.spotify.com/album/7JX96Ff9zr74IvC1qGyBvM) | 3:15 |
 | 21 | [No Me Acuerdo](https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Valiente](https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG) | 3:37 |
 | 22 | [Quiere Beber](https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:07 |
-| 23 | [Culpables](https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:48 |
-| 24 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 |
+| 23 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 |
+| 24 | [Culpables](https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:48 |
 | 25 | [Unica](https://open.spotify.com/track/33b2wX9d0kxqxhi7lcsC1A) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:38 |
 | 26 | [Hipócrita](https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:12 |
 | 27 | [Aventura](https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:37 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 155 | [Rally](https://open.spotify.com/track/0snt078vtq4zd5F1K1zSOF) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:28 |
 | 156 | [La Llevo Al Cielo](https://open.spotify.com/track/2tzrgCbD9yRrWlfWddf2ku) | [Kallde "El Rey Del Placer"](https://open.spotify.com/artist/2KQZ7yr0nr7NphqCy7QHRR) | [La Llevo Al Cielo](https://open.spotify.com/album/0M0ULIaP7cDdO9DpE06JwU) | 3:44 |
 
-Snapshot ID: `Mjc3NzYyODEsMDAwMDAwMDBmZjY4N2MwNTM0MzYzYmJiMjRhZmEwOTU0N2M0YWI4ZQ==`
+Snapshot ID: `Mjc3Nzc3MjEsMDAwMDAwMDAzODEyZDZmZjA3NmFkMjllNWEyYjZmYTc1OTVlMTM1Yw==`

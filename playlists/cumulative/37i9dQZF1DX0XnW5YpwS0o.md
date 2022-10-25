@@ -4,7 +4,7 @@
 
 > 2016 highlights from the home of indie music.
 
-108 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/25GKXIxQx0MhfSmsN76qDV)
+109 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/25GKXIxQx0MhfSmsN76qDV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Shut Up Kiss Me](https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm) | 3:22 | 2021-09-22 |  |
 | [Silvertongue](https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:17 | 2021-09-22 |  |
 | [Sleep On The Floor](https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:31 | 2021-09-22 |  |
-| [Smoke & Retribution \(feat\. Vince Staples & Kučka\)](https://open.spotify.com/track/52WyhmhBgVbCuRJkJbLfTw) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 4:01 | 2021-09-22 |  |
+| [Smoke & Retribution \(feat\. Vince Staples & Kučka\)](https://open.spotify.com/track/52WyhmhBgVbCuRJkJbLfTw) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 4:01 | 2021-09-22 | 2022-10-25 |
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2021-09-22 |  |
 | [Somebody Else](https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Somebody Else](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) | 3:53 | 2021-09-22 | 2022-10-04 |
 | [Someone To Stay](https://open.spotify.com/track/7tMbZ0RGW0jFsBw7ipEPEV) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Someone To Stay](https://open.spotify.com/album/0JT94KA15duapEYHVQkq1l) | 4:14 | 2021-09-22 |  |
@@ -111,6 +111,7 @@
 | [True Love Waits](https://open.spotify.com/track/07XaOyTS5hyaWiUK1Bc3bR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 4:43 | 2021-09-22 |  |
 | [Twice](https://open.spotify.com/track/2sewj0rFvlr3aEM3bGy12n) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 3:16 | 2021-09-22 |  |
 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 | 2021-09-22 |  |
+| [Uno](https://open.spotify.com/track/39GNDyrCTPMlXb9JHLAAm3) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Uno](https://open.spotify.com/album/6XpbhukKdSB6cnVPW7fgSR) | 2:51 | 2021-09-22 |  |
 | [Uno](https://open.spotify.com/track/5WvDO1ZKap15ehQeNRHJ9H) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Uno](https://open.spotify.com/album/10KjUArbSYS7VCcTNbnVxS) | 2:51 | 2021-09-22 | 2022-10-13 |
 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 | 2021-09-22 |  |
 | [Worry](https://open.spotify.com/track/5mLcaGVV89H58FWJ677E6K) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Phase \(Deluxe\)](https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR) | 4:02 | 2021-09-22 |  |

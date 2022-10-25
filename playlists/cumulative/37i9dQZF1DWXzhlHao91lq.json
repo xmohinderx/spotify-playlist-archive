@@ -250,6 +250,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/4c8A95egg8m0QCgWYxGisw"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207107,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7uhaG1MmBzH5KU6X0TMNBJ"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -781,7 +799,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 131460,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2x1xhwGKm41AUMd4ziuq70"
@@ -1203,6 +1221,24 @@
       "duration_ms": 197704,
       "name": "I'll Stay For You",
       "url": "https://open.spotify.com/track/2nQoRAIcwvXgc6FRar5YvM"
+    },
+    {
+      "album": {
+        "name": "i'm sorry",
+        "url": "https://open.spotify.com/album/5aWgEPJqCnnc2wdmMHWc7B"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224673,
+      "name": "i'm sorry",
+      "url": "https://open.spotify.com/track/6WVcHr4xidTULfA2GJh2ZR"
     },
     {
       "album": {
@@ -2865,7 +2901,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 199144,
       "name": "You Belong To Somebody Else",
       "url": "https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf"

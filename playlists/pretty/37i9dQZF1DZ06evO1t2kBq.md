@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 
 > This is Bad Religion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,517 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,545 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 21 | [You Are \(The Government\)](https://open.spotify.com/track/4uKMHiWSI5omiZrSAUjrH8) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:21 |
 | 22 | [Modern Man](https://open.spotify.com/track/4OPFX9TRHlEz1M5JGCvoiL) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 1:57 |
 | 23 | [Recipe For Hate](https://open.spotify.com/track/56V6F89n5wnU80jsZ9Rbqn) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 2:02 |
-| 24 | [True North](https://open.spotify.com/track/58lZHE1P9WuNtoKJl9EoC7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [True North](https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z) | 1:55 |
-| 25 | [My Sanity](https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 2:58 |
+| 24 | [My Sanity](https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 2:58 |
+| 25 | [True North](https://open.spotify.com/track/58lZHE1P9WuNtoKJl9EoC7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [True North](https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z) | 1:55 |
 | 26 | [Change Of Ideas](https://open.spotify.com/track/5xesgknt9epKNcaMq6irot) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 0:55 |
 | 27 | [Stranger Than Fiction](https://open.spotify.com/track/6ZCDfhSSqvpM8rW344srSM) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Stranger Than Fiction](https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N) | 2:20 |
-| 28 | [Turn On the Light](https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 1:24 |
-| 29 | [Do The Paranoid Style](https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:45 |
+| 28 | [Do The Paranoid Style](https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:45 |
+| 29 | [Turn On the Light](https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 1:24 |
 | 30 | [Automatic Man](https://open.spotify.com/track/2W852Ax2YYdzFMJVXaG45G) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:40 |
 | 31 | [Better Off Dead](https://open.spotify.com/track/5cySEdHrutJQq3lw2Y0lqP) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Stranger Than Fiction](https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N) | 2:38 |
 | 32 | [Give You Nothing](https://open.spotify.com/track/4dazQYZhFapxo1o1GsQ6ce) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 2:02 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 43 | [What Are We Standing For](https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [What Are We Standing For](https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK) | 2:53 |
 | 44 | [Heaven Is Falling](https://open.spotify.com/track/7qXQ8yHfnTGMYSF1gAwpum) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 2:04 |
 | 45 | [Kerosene](https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 2:41 |
-| 46 | [Atheist Peace](https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:57 |
-| 47 | [Epiphany](https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Process Of Belief](https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI) | 3:59 |
+| 46 | [Epiphany](https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Process Of Belief](https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI) | 3:59 |
+| 47 | [Atheist Peace](https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:57 |
 | 48 | [Atomic Garden](https://open.spotify.com/track/0iKBQiTlNxTUPeBDCzlFRP) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:10 |
 | 49 | [The Approach](https://open.spotify.com/track/5Oyt7rwRrplyyNyRSRjVc8) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 2:25 |
 | 50 | [The Resist Stance](https://open.spotify.com/track/7t6MmzZIQUH5oa0Fxgqyst) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Dissent Of Man \(Bonus Track Version\)](https://open.spotify.com/album/1wMkiD60ZCqlZQZ3m7kXSc) | 2:33 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDBlYTdjNWI2ZmJjZTM0NzY4MzRhOTZiZDg4NTQxNmFmYw==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDA0YWM4YzE1N2FjOWYyYWUyN2VhN2YwZGM3NzA1OTZkOA==`

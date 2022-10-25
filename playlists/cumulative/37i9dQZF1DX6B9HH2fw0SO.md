@@ -4,11 +4,12 @@
 
 > 2015 highlights from the home of indie music.
 
-107 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/6ixuogA2Qc1PzDwdJ5KbsA)
+108 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/6ixuogA2Qc1PzDwdJ5KbsA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10,000 Emerald Pools](https://open.spotify.com/track/2pA4ip3VIEVcIa3qE02oAX) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 2:54 | 2021-09-14 |  |
+| [1998](https://open.spotify.com/track/0DdNKXYhsBBrHsUyMOdRaa) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/1uWEdiOlz8bwBOl1Mho0ap) | 3:44 | 2021-09-14 |  |
 | [Affection](https://open.spotify.com/track/4eVNSHRazoHgfYGv3AYFyZ) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Affection](https://open.spotify.com/album/5MdPMGnu8UZlDrrF0nQEKL) | 5:11 | 2021-09-14 |  |
 | [All We Do](https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:34 | 2021-09-14 |  |
 | [American Money](https://open.spotify.com/track/4AewKenHXKBt643p473xCk) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:20 | 2021-09-14 |  |
@@ -48,7 +49,7 @@
 | [Hypnotic](https://open.spotify.com/track/2zsWRxMcUdGjj8TnWkVKw0) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 2:56 | 2021-09-14 |  |
 | [I Love You, Honeybear](https://open.spotify.com/track/5jLMFDMUkGpzIgPF2sxWkB) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F) | 4:38 | 2021-09-14 |  |
 | [I'm Good](https://open.spotify.com/track/5KQDGl3vAkNGyfvSbaW89E) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Kids In Love](https://open.spotify.com/album/4M2p2BIRHIeBu8Ew9IBQ0s) | 2:46 | 2021-09-14 |  |
-| [ILYSB](https://open.spotify.com/track/3BwR5psKNxcyqWoc80eOuq) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:31 | 2021-09-14 |  |
+| [ILYSB](https://open.spotify.com/track/3BwR5psKNxcyqWoc80eOuq) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:31 | 2021-09-14 | 2022-10-25 |
 | [Keep On Loving You](https://open.spotify.com/track/6dYcUcj1TyZZES5ivtjLdk) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Affection](https://open.spotify.com/album/5MdPMGnu8UZlDrrF0nQEKL) | 3:53 | 2021-09-14 |  |
 | [Kill V\. Maim](https://open.spotify.com/track/3WXhshrs1fzwF3rQE399Gq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 4:06 | 2021-09-14 |  |
 | [Lampshades on Fire](https://open.spotify.com/track/5jJ69cMDMC0aeWPjZo6VP2) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Strangers to Ourselves](https://open.spotify.com/album/6iKqPv9C5oU29LR82N8lJf) | 3:07 | 2021-09-14 |  |

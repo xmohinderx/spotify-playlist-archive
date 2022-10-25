@@ -1224,6 +1224,24 @@
     },
     {
       "album": {
+        "name": "Gracias Por Llegar",
+        "url": "https://open.spotify.com/album/24PzqVCUv6ZdlTQLIUqIPV"
+      },
+      "artists": [
+        {
+          "name": "Francisco Benitez",
+          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239010,
+      "name": "Gracias Por Llegar",
+      "url": "https://open.spotify.com/track/6qPSG0TR6gB1VgqGyYSWVl"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Negro Que Rojo",
         "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
       },
@@ -2931,7 +2949,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 187426,
       "name": "Vida de Rico",
       "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"

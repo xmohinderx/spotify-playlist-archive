@@ -1,12 +1,12 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 39518,
+  "num_followers": 39595,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyNjkyNiwwMDAwMDAwMDRiM2IzMjFmNGFiNjNhN2U3YzQ4ZmFhM2E5MmRkMWIx",
+  "snapshot_id": "MTY2NTEyNjkyNiwwMDAwMDAwMDI4NGZhOTE2MDVjNDFhMGEzYTE5ZTA4MjE0ZjlhYmQ0",
   "tracks": [
     {
       "added_at": "2022-10-06 07:24:15",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 429266,
+      "name": "Watermelon Man - Remastered",
+      "url": "https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
         "name": "From Gagarin's Point of View",
         "url": "https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 408600,
       "name": "I'll Let You Know",
       "url": "https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 429266,
-      "name": "Watermelon Man - Remastered",
-      "url": "https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 340333,
+      "name": "Bag's Groove",
+      "url": "https://open.spotify.com/track/0ZK55vvr1yrm6HXMoUhugy"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 360546,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/7JtcCde09fsajDNHmPFrX7"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 340333,
-      "name": "Bag's Groove",
-      "url": "https://open.spotify.com/track/0ZK55vvr1yrm6HXMoUhugy"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -355,6 +355,38 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
+        "name": "The Amazing Bud Powell",
+        "url": "https://open.spotify.com/album/6zmiY7rh11iF7Bp7Z9zcHp"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 196353,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/5ik210SniDcr9HKBAf1MD8"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 379533,
+      "name": "Curves",
+      "url": "https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
       },
@@ -383,22 +415,6 @@
       "duration_ms": 289226,
       "name": "You Look Good To Me",
       "url": "https://open.spotify.com/track/2NER1VcufbZDBO8ZbdJlNR"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 379533,
-      "name": "Curves",
-      "url": "https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -451,22 +467,6 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "The Amazing Bud Powell",
-        "url": "https://open.spotify.com/album/6zmiY7rh11iF7Bp7Z9zcHp"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 196353,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/5ik210SniDcr9HKBAf1MD8"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
         "name": "Time Out",
         "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
       },
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal Trio",
-          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
-        }
-      ],
-      "duration_ms": 381893,
-      "name": "The Awakening",
-      "url": "https://open.spotify.com/track/4QC4XLTPHiSdexDsKO5Vi7"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
         "name": "Plays Misty",
         "url": "https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9"
       },
@@ -543,26 +527,6 @@
       "duration_ms": 171000,
       "name": "Misty",
       "url": "https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
-        "name": "Duke Ellington & John Coltrane",
-        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 282600,
-      "name": "Take The Coltrane",
-      "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -583,18 +547,18 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "This Here Is Bobby Timmons",
-        "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
       },
       "artists": [
         {
-          "name": "Bobby Timmons",
-          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
         }
       ],
-      "duration_ms": 324160,
-      "name": "Dat Dere",
-      "url": "https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy"
+      "duration_ms": 381893,
+      "name": "The Awakening",
+      "url": "https://open.spotify.com/track/4QC4XLTPHiSdexDsKO5Vi7"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -623,6 +587,26 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 282600,
+      "name": "Take The Coltrane",
+      "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
         "name": "The Shearing Piano",
         "url": "https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 7",
-        "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
+        "name": "This Here Is Bobby Timmons",
+        "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
       },
       "artists": [
         {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+          "name": "Bobby Timmons",
+          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
         }
       ],
-      "duration_ms": 235093,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
+      "duration_ms": 324160,
+      "name": "Dat Dere",
+      "url": "https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -671,6 +655,22 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
+        "name": "The Art Tatum Solo Masterpieces, Vol. 7",
+        "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
         "name": "Contra La Indecisi\u00f3n",
         "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 252773,
       "name": "Canci\u00f3n Contra La Indecisi\u00f3n",
       "url": "https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
-        "name": "All Kinds Of Weather",
-        "url": "https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT"
-      },
-      "artists": [
-        {
-          "name": "Red Garland Trio",
-          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/6HKPWcktY1fRY2JwXtWDd9"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -719,6 +703,22 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
+        "name": "All Kinds Of Weather",
+        "url": "https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT"
+      },
+      "artists": [
+        {
+          "name": "Red Garland Trio",
+          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/6HKPWcktY1fRY2JwXtWDd9"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
         "name": "Oscar Peterson Plays The Cole Porter Songbook",
         "url": "https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 150733,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/3A1NOwqErSnpNuvdeW1RHy"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
-        "name": "Jazz Impressions Of Black Orpheus",
-        "url": "https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 318400,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/0Vydnnxf41Ukpn7Rn6D5Wa"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -767,30 +751,18 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "The Best Of Art Tatum",
-        "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
+        "name": "Jazz Impressions Of Black Orpheus",
+        "url": "https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY"
       },
       "artists": [
         {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        },
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        },
-        {
-          "name": "John Simmons",
-          "url": "https://open.spotify.com/artist/3aj8NPpdh8d5DDQmsu3Xx9"
-        },
-        {
-          "name": "Alvin Stoller",
-          "url": "https://open.spotify.com/artist/3fnw6uRt2w26bQrNLM5Mnk"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 367600,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
+      "duration_ms": 318400,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/0Vydnnxf41Ukpn7Rn6D5Wa"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -827,22 +799,6 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 186136,
-      "name": "Someday My Prince Will Come",
-      "url": "https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
         "name": "The K\u00f6ln Concert",
         "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
       },
@@ -859,66 +815,30 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "Largo",
-        "url": "https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx"
+        "name": "The Best Of Art Tatum",
+        "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
       },
       "artists": [
         {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 396626,
-      "name": "When It Rains",
-      "url": "https://open.spotify.com/track/7eYF1tAcKBvhJU4W9K0Uca"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
-        "name": "Fishin' In Stockholm",
-        "url": "https://open.spotify.com/album/7v5OM3TzTEvrehXpDYMm21"
-      },
-      "artists": [
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        },
         {
-          "name": "Freddie Redd",
-          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
-        }
-      ],
-      "duration_ms": 171609,
-      "name": "Dawn Mist",
-      "url": "https://open.spotify.com/track/2K6OY5NsFuKCfgsJIZHyrb"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
-        "name": "Some More Love Songs",
-        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
-      },
-      "artists": [
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
         {
-          "name": "Marc Copland",
-          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
-        }
-      ],
-      "duration_ms": 447813,
-      "name": "When I Fall in Love",
-      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
-        "name": "Oscar Peterson: Hits & Rarities",
-        "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
-      },
-      "artists": [
+          "name": "John Simmons",
+          "url": "https://open.spotify.com/artist/3aj8NPpdh8d5DDQmsu3Xx9"
+        },
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Alvin Stoller",
+          "url": "https://open.spotify.com/artist/3fnw6uRt2w26bQrNLM5Mnk"
         }
       ],
-      "duration_ms": 162717,
-      "name": "Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/4gsNHQt1OiVlGHDarFocYP"
+      "duration_ms": 367600,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -939,18 +859,50 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "Explorations [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
       },
       "artists": [
         {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 213720,
-      "name": "How Deep Is The Ocean",
-      "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
+      "duration_ms": 186136,
+      "name": "Someday My Prince Will Come",
+      "url": "https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
+        "name": "Oscar Peterson: Hits & Rarities",
+        "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 162717,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/4gsNHQt1OiVlGHDarFocYP"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
+        "name": "Largo",
+        "url": "https://open.spotify.com/album/7i4wN3UGvFhr663Hpjgscx"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 396626,
+      "name": "When It Rains",
+      "url": "https://open.spotify.com/track/7eYF1tAcKBvhJU4W9K0Uca"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -967,6 +919,54 @@
       "duration_ms": 179333,
       "name": "I'm in a Dancing Mood",
       "url": "https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
+        "name": "Fishin' In Stockholm",
+        "url": "https://open.spotify.com/album/7v5OM3TzTEvrehXpDYMm21"
+      },
+      "artists": [
+        {
+          "name": "Freddie Redd",
+          "url": "https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV"
+        }
+      ],
+      "duration_ms": 171609,
+      "name": "Dawn Mist",
+      "url": "https://open.spotify.com/track/2K6OY5NsFuKCfgsJIZHyrb"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
+        "name": "Explorations [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "How Deep Is The Ocean",
+      "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
+        "name": "Some More Love Songs",
+        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
+      },
+      "artists": [
+        {
+          "name": "Marc Copland",
+          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
+        }
+      ],
+      "duration_ms": 447813,
+      "name": "When I Fall in Love",
+      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
+        "name": "You Must Believe In Spring (Remastered Version)",
+        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 273706,
+      "name": "Sometime Ago - Remastered",
+      "url": "https://open.spotify.com/track/7fmhH8sQPLwiGPMOkFr7eU"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "You Must Believe In Spring (Remastered Version)",
-        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 273706,
-      "name": "Sometime Ago - Remastered",
-      "url": "https://open.spotify.com/track/7fmhH8sQPLwiGPMOkFr7eU"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
         "name": "Heartsongs",
         "url": "https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/6u03wnGbicx8NYZ38R1hOW"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/4a7SbqcOes5LFRYYSUuh4f"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
         "name": "Ready Take One",
         "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 227323,
       "name": "High Wire",
       "url": "https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
+        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/6u03wnGbicx8NYZ38R1hOW"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/4a7SbqcOes5LFRYYSUuh4f"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "The Now",
-        "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Goldberg",
-          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
-        }
-      ],
-      "duration_ms": 317439,
-      "name": "Perhaps",
-      "url": "https://open.spotify.com/track/6mBbcbDpY47Yp6PGTBwKBE"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
         "name": "Jazz Moments",
         "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g"
+        "name": "The Now",
+        "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
       },
       "artists": [
         {
-          "name": "Michel Petrucciani",
-          "url": "https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K"
+          "name": "Aaron Goldberg",
+          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
         }
       ],
-      "duration_ms": 347826,
-      "name": "Looking Up",
-      "url": "https://open.spotify.com/track/6i1WORWeJD92fYDhww2wYE"
+      "duration_ms": 317439,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/6mBbcbDpY47Yp6PGTBwKBE"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -1247,6 +1231,22 @@
       "duration_ms": 177506,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/6KcR5mcZOhZKcRRXWsGkAv"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g"
+      },
+      "artists": [
+        {
+          "name": "Michel Petrucciani",
+          "url": "https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K"
+        }
+      ],
+      "duration_ms": 347826,
+      "name": "Looking Up",
+      "url": "https://open.spotify.com/track/6i1WORWeJD92fYDhww2wYE"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "Ready Take One",
-        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 306967,
-      "name": "Wild Music",
-      "url": "https://open.spotify.com/track/7wS94SSkAxwYiCsauxuqWc"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
         "name": "Jazz p\u00e5 svenska",
         "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 114693,
       "name": "Vall\u00e5t fr\u00e5n J\u00e4mtland",
       "url": "https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
+        "name": "Ready Take One",
+        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 306967,
+      "name": "Wild Music",
+      "url": "https://open.spotify.com/track/7wS94SSkAxwYiCsauxuqWc"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "Inception",
-        "url": "https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner Trio",
-          "url": "https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p"
-        }
-      ],
-      "duration_ms": 375426,
-      "name": "Speak Low",
-      "url": "https://open.spotify.com/track/1zQGO7jITUE8D8w8mry8My"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
         "name": "Anticipation",
         "url": "https://open.spotify.com/album/4uSyd2HyJkL25NBvieXCiY"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 276131,
       "name": "Falling in Love with Love",
       "url": "https://open.spotify.com/track/47wToAWMFORf7uL8V62a82"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
+        "name": "Inception",
+        "url": "https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner Trio",
+          "url": "https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p"
+        }
+      ],
+      "duration_ms": 375426,
+      "name": "Speak Low",
+      "url": "https://open.spotify.com/track/1zQGO7jITUE8D8w8mry8My"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "Bye Bye Blackbird",
-        "url": "https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett Trio",
-          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
-        }
-      ],
-      "duration_ms": 671866,
-      "name": "Bye Bye Blackbird",
-      "url": "https://open.spotify.com/track/1uO2eaMymZQU82tV5eSXZZ"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
         "name": "Nightconcert",
         "url": "https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "The Trio",
-        "url": "https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx"
+        "name": "Bye Bye Blackbird",
+        "url": "https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI"
       },
       "artists": [
         {
-          "name": "Hank Jones Trio",
-          "url": "https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U"
+          "name": "Keith Jarrett Trio",
+          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
         }
       ],
-      "duration_ms": 363179,
-      "name": "How High The Moon",
-      "url": "https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn"
+      "duration_ms": 671866,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/1uO2eaMymZQU82tV5eSXZZ"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
+        "name": "The Trio",
+        "url": "https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx"
+      },
+      "artists": [
+        {
+          "name": "Hank Jones Trio",
+          "url": "https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U"
+        }
+      ],
+      "duration_ms": 363179,
+      "name": "How High The Moon",
+      "url": "https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
         "name": "Fatha",
         "url": "https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw"
       },
@@ -1619,22 +1619,6 @@
       "duration_ms": 151946,
       "name": "Frankie and Johnnie",
       "url": "https://open.spotify.com/track/10ugsW7VNz3ePFqX4nsLHP"
-    },
-    {
-      "added_at": "2022-10-06 07:24:15",
-      "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Someday My Prince Will Come - Take 5",
-      "url": "https://open.spotify.com/track/4he1BZuN1pDPDjPqyuNOoS"
     },
     {
       "added_at": "2022-10-06 07:24:15",
@@ -1655,18 +1639,34 @@
     {
       "added_at": "2022-10-06 07:24:15",
       "album": {
-        "name": "In Person",
-        "url": "https://open.spotify.com/album/0lKhYEfTneqxxjLqs2jC24"
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
       },
       "artists": [
         {
-          "name": "Bobby Timmons Trio",
-          "url": "https://open.spotify.com/artist/47jpbb07933jSiHmir7yda"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 407306,
-      "name": "They Didn't Believe Me",
-      "url": "https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe"
+      "duration_ms": 183500,
+      "name": "Someday My Prince Will Come - Take 5",
+      "url": "https://open.spotify.com/track/4he1BZuN1pDPDjPqyuNOoS"
+    },
+    {
+      "added_at": "2022-10-06 07:24:15",
+      "album": {
+        "name": "Mary Lou Williams Presents Black Christ of the Andes",
+        "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lou Williams",
+          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "My Blue Heaven",
+      "url": "https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd"
     }
   ],
   "unique_name": "Jazz Piano Classics",

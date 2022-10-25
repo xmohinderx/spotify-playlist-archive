@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 367 likes - 196 songs - 11 hr 52 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 367 likes - 197 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,5 +204,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 194 | [nightexpress \(Slowed + Reverb\)](https://open.spotify.com/track/3SEVqpyK7oCm5UrmPilzf0) | [Kim](https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [nightexpress \(Slowed + Reverb\)](https://open.spotify.com/album/7gJpwQhZLlST6UShK7wrAM) | 2:53 |
 | 195 | [nightexpress](https://open.spotify.com/track/4mLb4iKTAHDuSsZTq4w7iK) | [Kim](https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [nightexpress](https://open.spotify.com/album/0306P7Fec99VYmoSguS97S) | 2:40 |
 | 196 | [All We Said](https://open.spotify.com/track/4GeKwhAbX5v8eaMY8BkoGQ) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [All We Said](https://open.spotify.com/album/6UbAooEZ5yr38K3Ur5rV07) | 3:22 |
+| 197 | [Radiant](https://open.spotify.com/track/5h3H7uXc5Uss7pNXK7C2WW) | [STS\-51L](https://open.spotify.com/artist/26sQOH3CNqd81507zMHofP), [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Andromeda](https://open.spotify.com/album/0XQR3Ky1jdpw2RtpISEE93) | 3:13 |
 
-Snapshot ID: `MjEyLDUzZjliYTM5OGMzOTUwMTFlN2ViZTE0YmZkOGYwMDYxOTEyZTM3NWQ=`
+Snapshot ID: `MjEzLDExZTk4ZjYzN2UwN2YxYzI4NTVkYzNhN2ZiN2ZkZTEzNTUyZjExMDY=`

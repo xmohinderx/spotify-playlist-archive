@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Na8xJd70B204c85CX7s7K">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,656 likes - 33 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,657 likes - 33 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 22 | [finché le stelle non brillano](https://open.spotify.com/track/7y0zSVEiBDAFJ5ea2poaIV) | [B3N](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF) | [finché le stelle non brillano](https://open.spotify.com/album/70KWscv56jX5G9GBmwigAx) | 3:21 |
 | 23 | [cadere volare](https://open.spotify.com/track/77kA6Y1DBIjD1x77WLhxgg) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:14 |
 | 24 | [Tutti I Miei Ricordi](https://open.spotify.com/track/6TcnHPvUaY3OH6SKKiS2N1) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [MATERIA \(TERRA\)](https://open.spotify.com/album/38nebQ0IpOOQ4y8OERnIwZ) | 3:24 |
-| 25 | [Metà mondo](https://open.spotify.com/track/5zZ0yzln50TFBzKl1YNckG) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Metà mondo](https://open.spotify.com/album/6dJf5WCRsjpCX0pvDlLdZy) | 2:58 |
-| 26 | [Tramontana](https://open.spotify.com/track/5fv7PpVdqsRttMlSD2OD1g) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Tramontana](https://open.spotify.com/album/3XcRaeOe3P3s2Z1AZLFFZW) | 2:56 |
+| 25 | [Tramontana](https://open.spotify.com/track/5fv7PpVdqsRttMlSD2OD1g) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Tramontana](https://open.spotify.com/album/3XcRaeOe3P3s2Z1AZLFFZW) | 2:56 |
+| 26 | [Metà mondo](https://open.spotify.com/track/5zZ0yzln50TFBzKl1YNckG) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Metà mondo](https://open.spotify.com/album/6dJf5WCRsjpCX0pvDlLdZy) | 2:58 |
 | 27 | [Corallo \(feat\. chiamamifaro\)](https://open.spotify.com/track/7BzjrflnTHc4mOuc7kU6hL) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45), [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Corallo \(feat\. chiamamifaro\)](https://open.spotify.com/album/149h74WS0ayKjYX2gbKitz) | 3:23 |
 | 28 | [parolacce](https://open.spotify.com/track/61zba7lHT4kUUXrGXLWjjj) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:02 |
 | 29 | [La Meglio Gioventù](https://open.spotify.com/track/1KRTSDtOVwd4oTZ1gfzluB) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [La Meglio Gioventù](https://open.spotify.com/album/27YISdUuV8GRGMRuAvMdVz) | 3:10 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 32 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 |
 | 33 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
 
-Snapshot ID: `Mjc3NzYyNDYsMDAwMDAwMDAwOGNkNTE3OWRjOGM0Njg5Y2Y0MjU2MzM5NWI4NmFmYg==`
+Snapshot ID: `Mjc3Nzc2ODYsMDAwMDAwMDBiNTI0YTYzZDc2ZDhhNjAyZTdjY2IwNDk5ODY2YWI2Mg==`

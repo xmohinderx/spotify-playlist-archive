@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby:)",
-  "num_followers": 446986,
+  "num_followers": 446982,
   "original_name": "Radiante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MjM4OSwwMDAwMDAwMDIzODhmYmJlNjgzOTQ0YzQ2YmIxYTZlMjE4NTVlZDgy",
+  "snapshot_id": "MTY2MDc2MjM4OSwwMDAwMDAwMGFiNmI3YzM2MmRjYmVkYWM0ZWFmZWJjNGFmY2UyZTlh",
   "tracks": [
     {
       "added_at": "2022-08-17 18:53:09",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Capul\u00ed",
-        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 202770,
-      "name": "Capul\u00ed",
-      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 254993,
       "name": "Azul",
       "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "Capul\u00ed",
+        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 202770,
+      "name": "Capul\u00ed",
+      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Puro Teatro",
-        "url": "https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Provincia",
-      "url": "https://open.spotify.com/track/5L0h6EbHsxXJG8YLrknKqY"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "Hold It Together",
         "url": "https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb"
       },
@@ -323,18 +307,18 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+        "name": "Puro Teatro",
+        "url": "https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+      "duration_ms": 195200,
+      "name": "Provincia",
+      "url": "https://open.spotify.com/track/5L0h6EbHsxXJG8YLrknKqY"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -355,6 +339,22 @@
       "duration_ms": 157666,
       "name": "Bichota - Spotify Singles",
       "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -491,6 +491,26 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
+        "name": "muero x ti",
+        "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 237564,
+      "name": "muero x ti",
+      "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
         "name": "Miocarditis",
         "url": "https://open.spotify.com/album/7gohod4Ik5cAHMLXRSoJ9j"
       },
@@ -527,6 +547,22 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
         "name": "FLOTANDO",
         "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
@@ -539,26 +575,6 @@
       "duration_ms": 162000,
       "name": "FLOTANDO",
       "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
-        "name": "muero x ti",
-        "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        },
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 237564,
-      "name": "muero x ti",
-      "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -595,22 +611,6 @@
       "duration_ms": 197768,
       "name": "s a l u d o s",
       "url": "https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Iridiscente",
-        "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Aguaceros",
-      "url": "https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ"
       },
@@ -715,22 +699,6 @@
       "duration_ms": 199173,
       "name": "tdbn",
       "url": "https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
-        "name": "qu\u00e9 bueno!",
-        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 157394,
-      "name": "qu\u00e9 bueno!",
-      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -763,6 +731,54 @@
       "duration_ms": 202519,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "Iridiscente",
+        "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Aguaceros",
+      "url": "https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "qu\u00e9 bueno!",
+        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 157394,
+      "name": "qu\u00e9 bueno!",
+      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -839,22 +855,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Gardenia",
-        "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "cuatro veces 10",
         "url": "https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "D\u00edas Negros",
-        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
-      },
-      "artists": [
-        {
-          "name": "Chango Menas",
-          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "D\u00edas Negros",
-      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "Garden of Lucid",
         "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 175470,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "D\u00edas Negros",
+        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
+      },
+      "artists": [
+        {
+          "name": "Chango Menas",
+          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "D\u00edas Negros",
+      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
+        "name": "Get Lost In The Music",
+        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 181910,
+      "name": "Un Animal (Divina Existencia)",
+      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
         "name": "Para No Verte M\u00e1s",
         "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
       },
@@ -999,6 +1015,22 @@
       "duration_ms": 173374,
       "name": "Feel it Now",
       "url": "https://open.spotify.com/track/4iJLyZWHDIAXxyb7vcT7dM"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "A No Llorar",
+        "url": "https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 232750,
+      "name": "A No Llorar",
+      "url": "https://open.spotify.com/track/4JxEKIxczOK2dvQWq8Gb9T"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1055,22 +1087,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Get Lost In The Music",
-        "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 181910,
-      "name": "Un Animal (Divina Existencia)",
-      "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "\u00bfPa Qu\u00e9?",
         "url": "https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 202500,
       "name": "\u00bfPa Qu\u00e9?",
       "url": "https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
-        "name": "A No Llorar",
-        "url": "https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 232750,
-      "name": "A No Llorar",
-      "url": "https://open.spotify.com/track/4JxEKIxczOK2dvQWq8Gb9T"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "CLEAN BABY",
-        "url": "https://open.spotify.com/album/5VzoByWr9exzILjqYGPS2F"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 184150,
-      "name": "CLEAN BABY",
-      "url": "https://open.spotify.com/track/2enQxKJL5ZTGoU3U8ri85A"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "Margaritas",
         "url": "https://open.spotify.com/album/2duhmxOLOE7WlplLn2PCi2"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 166333,
       "name": "Margaritas",
       "url": "https://open.spotify.com/track/3XfFsjkdXHFk1O4OMXIcfa"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "CLEAN BABY",
+        "url": "https://open.spotify.com/album/5VzoByWr9exzILjqYGPS2F"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 184150,
+      "name": "CLEAN BABY",
+      "url": "https://open.spotify.com/track/2enQxKJL5ZTGoU3U8ri85A"
     },
     {
       "added_at": "2022-08-17 18:53:09",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-08-17 18:53:09",
       "album": {
-        "name": "Sugarbaby",
-        "url": "https://open.spotify.com/album/10HAYqpjDPleULre8nXrl8"
-      },
-      "artists": [
-        {
-          "name": "Michi",
-          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
-        }
-      ],
-      "duration_ms": 152680,
-      "name": "Sugarbaby",
-      "url": "https://open.spotify.com/track/5SWV7wIgPfqhBVdbcCENXI"
-    },
-    {
-      "added_at": "2022-08-17 18:53:09",
-      "album": {
         "name": "Neon",
         "url": "https://open.spotify.com/album/0AVAqTZaiAhJBAAPlFU7g4"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 249230,
       "name": "Neon",
       "url": "https://open.spotify.com/track/5D0cMtWT1lDXrEAM0ylifs"
+    },
+    {
+      "added_at": "2022-08-17 18:53:09",
+      "album": {
+        "name": "Sugarbaby",
+        "url": "https://open.spotify.com/album/10HAYqpjDPleULre8nXrl8"
+      },
+      "artists": [
+        {
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+        }
+      ],
+      "duration_ms": 152680,
+      "name": "Sugarbaby",
+      "url": "https://open.spotify.com/track/5SWV7wIgPfqhBVdbcCENXI"
     },
     {
       "added_at": "2022-08-17 18:53:09",

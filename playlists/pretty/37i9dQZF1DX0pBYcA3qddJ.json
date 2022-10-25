@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 42849,
+  "num_followers": 42862,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjI3ODAwMCwwMDAwMDAwMDg3ZGExMTU0ZDFkNWRiNmI3YmViMGIyYzYzZjcyODk4",
+  "snapshot_id": "MTY2NjI3ODAwMCwwMDAwMDAwMDEzZDBjMTU0YjQyN2M4YTNkYmQzMGNlZTkwM2VjODA1",
   "tracks": [
     {
       "added_at": "2022-10-20 15:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 184532,
-      "name": "Lonely Bones",
-      "url": "https://open.spotify.com/track/5HFzAeZkaTDBhlaqwcRmeL"
+      "duration_ms": 121250,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6"
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 121250,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e"
+      "duration_ms": 184532,
+      "name": "Lonely Bones",
+      "url": "https://open.spotify.com/track/5HFzAeZkaTDBhlaqwcRmeL"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -971,26 +971,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Flute and Harp",
-        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
       },
       "artists": [
         {
-          "name": "Nora Mercz",
-          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
-        },
-        {
-          "name": "Nikolai Rimsky-Korsakov",
-          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
-        },
-        {
-          "name": "Janos Balint",
-          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
-      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
+      "duration_ms": 423346,
+      "name": "Love On The Run",
+      "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1015,18 +1007,26 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7MszbrrMr9wB55yvce9uGZ"
+        "name": "Flute and Harp",
+        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
       },
       "artists": [
         {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+          "name": "Nora Mercz",
+          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
+        },
+        {
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+        },
+        {
+          "name": "Janos Balint",
+          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
         }
       ],
-      "duration_ms": 210391,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5vxr0JMWQuHNlpH0YaJADN"
+      "duration_ms": 212000,
+      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
+      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "INTO THE BLUE",
-        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7MszbrrMr9wB55yvce9uGZ"
       },
       "artists": [
         {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
         }
       ],
-      "duration_ms": 423346,
-      "name": "Love On The Run",
-      "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
+      "duration_ms": 210391,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5vxr0JMWQuHNlpH0YaJADN"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1191,26 +1191,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
-        "url": "https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om"
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
       "artists": [
         {
-          "name": "Alexander Borodin",
-          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
-        },
-        {
-          "name": "George Szell",
-          "url": "https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx"
-        },
-        {
-          "name": "Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
         }
       ],
-      "duration_ms": 136960,
-      "name": "Polovetsian Dances from Prince Igor: Introduzione",
-      "url": "https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca"
+      "duration_ms": 252864,
+      "name": "Free In The Knowledge",
+      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1239,18 +1231,26 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+        "name": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
+        "url": "https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "Alexander Borodin",
+          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
+        },
+        {
+          "name": "George Szell",
+          "url": "https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
         }
       ],
-      "duration_ms": 252864,
-      "name": "Free In The Knowledge",
-      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
+      "duration_ms": 136960,
+      "name": "Polovetsian Dances from Prince Igor: Introduzione",
+      "url": "https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+        "name": "From Afar",
+        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Faisal (London Bridge Station)",
-      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+      "duration_ms": 297253,
+      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1379,6 +1383,38 @@
       "duration_ms": 236906,
       "name": "Liszt: \u732e\u5448(\u30b7\u30e5\u30fc\u30de\u30f3\u306e\u6b4c\u66f2\u306b\u3088\u308b) S.566",
       "url": "https://open.spotify.com/track/2BcoxFxJYKgNJ04OvcjIHa"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
+        "name": "debut",
+        "url": "https://open.spotify.com/album/7l7gvZUvLdohGVIs4KjYZ8"
+      },
+      "artists": [
+        {
+          "name": "Nobuyuki Tsujii",
+          "url": "https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "\u82b1\u6c34\u6728\u306e\u54b2\u304f\u9803 - \u8fbb\u4e95\u4f38\u884c",
+      "url": "https://open.spotify.com/track/7Hn9C68R48KK9pj07ys2ak"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1411,42 +1447,6 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "debut",
-        "url": "https://open.spotify.com/album/7l7gvZUvLdohGVIs4KjYZ8"
-      },
-      "artists": [
-        {
-          "name": "Nobuyuki Tsujii",
-          "url": "https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "\u82b1\u6c34\u6728\u306e\u54b2\u304f\u9803 - \u8fbb\u4e95\u4f38\u884c",
-      "url": "https://open.spotify.com/track/7Hn9C68R48KK9pj07ys2ak"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
-        "name": "From Afar",
-        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 297253,
-      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
         "name": "Sicilienne",
         "url": "https://open.spotify.com/album/6cZ4qoRFJuVTNhPop4LfuM"
       },
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "TREE",
-        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
+        "name": "5.17",
+        "url": "https://open.spotify.com/album/7CxtQw1cz4fQW4A0w81eeC"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
         }
       ],
-      "duration_ms": 278400,
-      "name": "TREE",
-      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
+      "duration_ms": 241941,
+      "name": "5.17",
+      "url": "https://open.spotify.com/track/7i8wAKUOcb9BWK50mFOOHU"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "5.17",
-        "url": "https://open.spotify.com/album/7CxtQw1cz4fQW4A0w81eeC"
+        "name": "TREE",
+        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
       },
       "artists": [
         {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 241941,
-      "name": "5.17",
-      "url": "https://open.spotify.com/track/7i8wAKUOcb9BWK50mFOOHU"
+      "duration_ms": 278400,
+      "name": "TREE",
+      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/2mGGXU9rtoBSgqVKthBSkJ"
+        "name": "A Quiet Grace",
+        "url": "https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw"
       },
       "artists": [
         {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+          "name": "Josh Alexander",
+          "url": "https://open.spotify.com/artist/5TDpeBlmwfv69GCABGr9Gs"
         }
       ],
-      "duration_ms": 185736,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/5VRGp1W4cpQ0kO3HWLsafP"
+      "duration_ms": 170629,
+      "name": "A Quiet Grace",
+      "url": "https://open.spotify.com/track/4917GPMOmDwQErO8676NZl"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "A Quiet Grace",
-        "url": "https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2mGGXU9rtoBSgqVKthBSkJ"
       },
       "artists": [
         {
-          "name": "Josh Alexander",
-          "url": "https://open.spotify.com/artist/5TDpeBlmwfv69GCABGr9Gs"
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
         }
       ],
-      "duration_ms": 170629,
-      "name": "A Quiet Grace",
-      "url": "https://open.spotify.com/track/4917GPMOmDwQErO8676NZl"
+      "duration_ms": 185736,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/5VRGp1W4cpQ0kO3HWLsafP"
     },
     {
       "added_at": "2022-10-20 15:00:00",

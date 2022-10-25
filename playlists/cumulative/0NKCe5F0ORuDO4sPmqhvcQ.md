@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-327 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+328 songs - 18 hr 14 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Dusk](https://open.spotify.com/track/7rK7bQV2giqvHymQDyI5hY) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Dusk](https://open.spotify.com/album/1yPM7AaWWLW9yxUxlwYizI) | 2:55 | 2022-05-21 |  |
 | [earthquake](https://open.spotify.com/track/43Mws6pQGKCUeJ5bDaSmFR) | [kennedyxoxo](https://open.spotify.com/artist/4zJGVaqPKqkN3dEpC31E04), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [earthquake](https://open.spotify.com/album/4LqfMmufo20rLpXvQ8Ua3g) | 2:09 | 2022-02-28 | 2022-03-31 |
 | [Eden](https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Eden](https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ) | 2:56 | 2022-06-24 |  |
+| [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2022-10-24 |  |
 | [eee](https://open.spotify.com/track/0acffaX5iSeZRT6QsorKPA) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [rei so la](https://open.spotify.com/artist/6ZyqJ0aS979tbln9vjpVyF), [Abraham Tilbury](https://open.spotify.com/artist/4aQXVB8RpVJTrpQoKdkE4M) | [eee](https://open.spotify.com/album/7rnN1mCHS0lELUTV48yDyZ) | 3:06 | 2022-02-17 | 2022-03-10 |
 | [Electric Girl](https://open.spotify.com/track/31zigPsorRb8r0F4qlzajY) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [Electric Girl](https://open.spotify.com/album/1Hvdm7WU9nNjadZZQtJz3f) | 2:55 | 2022-02-03 | 2022-02-16 |
 | [ESCAPE \(feat\. KUČKA\)](https://open.spotify.com/track/3zRdNrpHq89K6P28shuM0w) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [ESCAPE / Palaces](https://open.spotify.com/album/4UEVQIXGTVlAZWIZsnPVp1) | 4:02 | 2022-04-25 |  |

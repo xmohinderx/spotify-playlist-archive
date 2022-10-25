@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-207 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/5LfWH4HC2jeu9j5xLz96yV)
+208 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/5LfWH4HC2jeu9j5xLz96yV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Jingle Bells](https://open.spotify.com/track/0Rh9uw3Xl29IaZEZYbEyRa) | [Kris Jenner](https://open.spotify.com/artist/4kQM5AwmCV3qiLikmhngET), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Kourtney Kardashian](https://open.spotify.com/artist/38R8cIQwYw8nygI3WU39Qh) | [Jingle Bells](https://open.spotify.com/album/3eFlxTKQwSWX8Ti6ZODYXm) | 1:30 | 2021-12-24 | 2022-09-28 |
 | [Jingle Bells](https://open.spotify.com/track/0zOCEVRQNntm6lw97oJRt5) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Jingle Bells](https://open.spotify.com/album/3Ynv2EAtbbI3w7FWDMmN5N) | 3:17 | 2021-12-24 | 2022-07-29 |
 | [Jingle Bells](https://open.spotify.com/track/5b7NpZvS8ueO0B3KNtB0d8) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Jingle Bells](https://open.spotify.com/album/6HyoKXjrQ2gPomfPd5kq1s) | 3:17 | 2021-12-24 | 2022-09-28 |
+| [Joy To The World](https://open.spotify.com/track/69RcXwRKDJdUtkZyF5D925) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Snow Waltz](https://open.spotify.com/album/1VggmVcQEgVtLmNYWCrdGI) | 3:06 | 2022-10-24 |  |
 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 | 2022-10-23 |  |
 | [Keeping Christmas Classy](https://open.spotify.com/track/5krqoCqBxFXJkRZPzlEMqq) | [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ), [Leah Nobel](https://open.spotify.com/artist/5WHKBKrvTBMPoQX3v3Bq8J) | [Keeping Christmas Classy](https://open.spotify.com/album/5HQD7BYmIrH77vuQvFCWxU) | 3:31 | 2021-12-24 | 2022-07-28 |
 | [Kid Again On Christmas](https://open.spotify.com/track/6xOZ67H31FwSejzrGnHPEB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas \(Deluxe\)](https://open.spotify.com/album/5rUtKnfNHc77VrCwCjLA9K) | 3:04 | 2021-12-24 | 2022-09-28 |
@@ -185,7 +186,7 @@
 | [The Holidays Are Cancelled](https://open.spotify.com/track/79tX8D8ZdcvXiUdTDiWYT2) | [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a) | [The Holidays Are Cancelled](https://open.spotify.com/album/78XHfK44MkF5bs4qq6u6Ah) | 3:44 | 2021-12-24 | 2022-07-29 |
 | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [The Last Christmas \(We Ever Spend Apart\)](https://open.spotify.com/album/6OHsKP52OjrBnA3vvKnN24) | 3:27 | 2021-12-24 | 2022-07-29 |
 | [The Prayer](https://open.spotify.com/track/4UcdqtJDDSYToxtsBZzkFX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 4:21 | 2021-12-24 | 2022-09-28 |
-| [This Christmas](https://open.spotify.com/track/2p97TwEVvmhVPk1rzMu1x0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [A Very Teddy Christmas](https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp) | 3:08 | 2021-12-24 |  |
+| [This Christmas](https://open.spotify.com/track/2p97TwEVvmhVPk1rzMu1x0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [A Very Teddy Christmas](https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp) | 3:08 | 2021-12-24 | 2022-10-25 |
 | [this christmas](https://open.spotify.com/track/0jWIUiQMQgrKVjkPEaRjK0) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5) | 3:16 | 2021-12-24 |  |
 | [this christmas](https://open.spotify.com/track/0k11PTaAuYkBhP0niSa91C) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7vQqhPBC5yTwK8rNHChhEA) | 3:16 | 2021-12-24 | 2022-07-28 |
 | [This Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/1CalzG9Lg4X5Y1njQPeQf8) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5iWUd0pLqgRWZpMULl71TN) | 3:08 | 2021-12-24 |  |

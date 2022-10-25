@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Jeremih
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,336 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,610 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Changes](https://open.spotify.com/track/3noiPAHonb3coH4jSVM09i) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Changes](https://open.spotify.com/album/1DpF83ld572jojmymv9J8P) | 2:33 |
-| 2 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 |
+| 2 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/5ykuFZXYbA8frwBmutsoFx) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:18 |
 | 3 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
 | 4 | [Don't Take Your Love](https://open.spotify.com/track/35fBkyvLRrHKO4edE69LtA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9) | 3:06 |
 | 5 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 12 | [With You](https://open.spotify.com/track/37XgGE1f2l9j5NWHNyzTfs) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 3:10 |
 | 13 | [Cam Girl](https://open.spotify.com/track/1KLTlh8o4S8Npf3ZjYAVIQ) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Damonte](https://open.spotify.com/artist/5Xl3OVkTRISilm3m1LWcji) | [Cam Girl](https://open.spotify.com/album/0CatIjYv08Ij0RULvLVDPW) | 3:03 |
 | 14 | [late4dinner](https://open.spotify.com/track/7v5MHqz0NCuwgmsSQgpWab) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [late4dinner](https://open.spotify.com/album/2zJSUeEfzgtBZJYVUxzDJ6) | 3:36 |
-| 15 | [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 |
+| 15 | [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 |
 | 16 | [best](https://open.spotify.com/track/41t2C4YsLxckK5U9D3RltX) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/7tl2a7xWOzkUKPZ3syJ58X) | 3:16 |
 | 17 | [Slowly](https://open.spotify.com/track/6ghBp3GVUIorWj6fMQSie6) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [PALISADE](https://open.spotify.com/album/7u21OnTH4Ve4lOD1qwwe8r) | 2:48 |
 | 18 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 32 | [Break Me Down/ Here with You](https://open.spotify.com/track/7pGmOd8k6HtdhMOiYew8UG) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Luv N Chaos](https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg) | 4:25 |
 | 33 | [Keep It Lo](https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Keep It Lo](https://open.spotify.com/album/0hDyuoQRlGBEHKUk8HpWMQ) | 2:33 |
 | 34 | [I'm So Into You](https://open.spotify.com/track/5yAXs0GMfRm7q95j64PTxA) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [I'm So Into You](https://open.spotify.com/album/0PQeGVT5aCIfAk0Pge602V) | 2:23 |
-| 35 | [Only Love](https://open.spotify.com/track/76KzsJ4emV8BsE4CgwFxeo) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Only Love](https://open.spotify.com/album/3FmERkFWALx6fbh8fcSKx2) | 2:47 |
+| 35 | [Only Love](https://open.spotify.com/track/0dOuhQQVPnCBkvmCr5PeVH) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 2:47 |
 | 36 | [Aria 4 Arien](https://open.spotify.com/track/6CnrO1LaK6SWg7z7oUqL6r) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Morfo](https://open.spotify.com/album/40ZSt398Y5XNzc8mfeXpCy) | 3:45 |
 | 37 | [Mysterious](https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Mysterious](https://open.spotify.com/album/0wCfJvi08X1dBz01JbFEIY) | 2:44 |
 | 38 | [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 99 | [Goofy \(feat\. Tempest, Aj Claire\)](https://open.spotify.com/track/2np39YpyeoSyygoB694VNx) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [Yam Grier](https://open.spotify.com/album/2KvfsMy0IQ2XRd5Rh7Ur2Q) | 2:05 |
 | 100 | [Sway](https://open.spotify.com/track/5vjfKzxJpDGawFtTq8f4dj) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sway](https://open.spotify.com/album/7uxnk6j0snMV0K99bWfO4N) | 2:54 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMGEyM2M1NTU4YzMxOTkzMGEyNjZjMDE1YzE4MGZkODA3`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMGQ2NWM0MWQ2MjJmNzY3NjkyZTY5OGM1ODRmODhkMjVm`

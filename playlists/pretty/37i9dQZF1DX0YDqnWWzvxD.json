@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 47246,
+  "num_followers": 47328,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU5NTgwNywwMDAwMDAwMDZhZjZmNTZkYzgzOWY3NDgwNGE3NTRiZGVmMTA4MDZl",
+  "snapshot_id": "MTY1OTU5NTgwNywwMDAwMDAwMGZkMmUyMjViM2E1NTJiZTkxM2Y1YWM2NTFiZmNjZmY4",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -155,6 +155,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Breathing Space",
+        "url": "https://open.spotify.com/album/6YyNx799ExMH8D18jFkpbI"
+      },
+      "artists": [
+        {
+          "name": "Sacred Earth",
+          "url": "https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99"
+        }
+      ],
+      "duration_ms": 571786,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/1lAwje1MCr6B5E5polZ9Wy"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO"
       },
@@ -167,6 +183,22 @@
       "duration_ms": 165920,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Bedside Angels",
+        "url": "https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Stills",
+          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
+        }
+      ],
+      "duration_ms": 134504,
+      "name": "Bedside Angels",
+      "url": "https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -191,38 +223,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Breathing Space",
-        "url": "https://open.spotify.com/album/6YyNx799ExMH8D18jFkpbI"
-      },
-      "artists": [
-        {
-          "name": "Sacred Earth",
-          "url": "https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99"
-        }
-      ],
-      "duration_ms": 571786,
-      "name": "Grounded",
-      "url": "https://open.spotify.com/track/1lAwje1MCr6B5E5polZ9Wy"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Bedside Angels",
-        "url": "https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Stills",
-          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
-        }
-      ],
-      "duration_ms": 134504,
-      "name": "Bedside Angels",
-      "url": "https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Deva Premal Sings The Moola Mantra",
         "url": "https://open.spotify.com/album/6HlseZQWxd5ol3h5jfPLXy"
       },
@@ -235,22 +235,6 @@
       "duration_ms": 174706,
       "name": "Incantation",
       "url": "https://open.spotify.com/track/4bSme6KVdAamqx94sRuMJ4"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Flying",
-        "url": "https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P"
-      },
-      "artists": [
-        {
-          "name": "Garth Stevenson",
-          "url": "https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka"
-        }
-      ],
-      "duration_ms": 239367,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/4TUXZLGOSPiDibFtUsdXXB"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -287,6 +271,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Flying",
+        "url": "https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P"
+      },
+      "artists": [
+        {
+          "name": "Garth Stevenson",
+          "url": "https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka"
+        }
+      ],
+      "duration_ms": 239367,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/4TUXZLGOSPiDibFtUsdXXB"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Music to Be Born To",
         "url": "https://open.spotify.com/album/2dvYfMDU4g8CavyhfVYeJs"
       },
@@ -299,22 +299,6 @@
       "duration_ms": 382444,
       "name": "For Elena",
       "url": "https://open.spotify.com/track/5ZQxDOeaSFNZZI3GQi8gNs"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Benny Bernstein",
-        "url": "https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM"
-      },
-      "artists": [
-        {
-          "name": "Benny Bernstein",
-          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
-        }
-      ],
-      "duration_ms": 154246,
-      "name": "Conscious Jorney",
-      "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -335,6 +319,22 @@
       "duration_ms": 333234,
       "name": "Healing Shores - Bonus Track",
       "url": "https://open.spotify.com/track/4TrYTLqm1nNLP7bHJuum7V"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Benny Bernstein",
+        "url": "https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM"
+      },
+      "artists": [
+        {
+          "name": "Benny Bernstein",
+          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
+        }
+      ],
+      "duration_ms": 154246,
+      "name": "Conscious Jorney",
+      "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -507,6 +507,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Still Moment",
+        "url": "https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5"
+      },
+      "artists": [
+        {
+          "name": "Tunde Jegede",
+          "url": "https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ"
+        }
+      ],
+      "duration_ms": 343000,
+      "name": "Still Moment",
+      "url": "https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
         "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
       },
@@ -519,6 +535,22 @@
       "duration_ms": 165000,
       "name": "Birds Sounds",
       "url": "https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Incomplete",
+        "url": "https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 139752,
+      "name": "A Whisper In The Dark",
+      "url": "https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -539,34 +571,26 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Still Moment",
-        "url": "https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5"
+        "name": "Harmonic Way",
+        "url": "https://open.spotify.com/album/61O6B4dVDTH1WutQUSd9W0"
       },
       "artists": [
         {
-          "name": "Tunde Jegede",
-          "url": "https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ"
-        }
-      ],
-      "duration_ms": 343000,
-      "name": "Still Moment",
-      "url": "https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Incomplete",
-        "url": "https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A"
-      },
-      "artists": [
+          "name": "Dean Evenson",
+          "url": "https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi"
+        },
         {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+          "name": "Scott Huckabay",
+          "url": "https://open.spotify.com/artist/5NO9Da4kOYrg9E6iGhYQjg"
+        },
+        {
+          "name": "Phil Heaven",
+          "url": "https://open.spotify.com/artist/2LvimbnpvtfVNDdv37EoUQ"
         }
       ],
-      "duration_ms": 139752,
-      "name": "A Whisper In The Dark",
-      "url": "https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m"
+      "duration_ms": 335533,
+      "name": "Resonant Wave",
+      "url": "https://open.spotify.com/track/6HwWUWAb0LofLu9TmdlPen"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -603,26 +627,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Harmonic Way",
-        "url": "https://open.spotify.com/album/61O6B4dVDTH1WutQUSd9W0"
+        "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
+        "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
       },
       "artists": [
         {
-          "name": "Dean Evenson",
-          "url": "https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi"
-        },
-        {
-          "name": "Scott Huckabay",
-          "url": "https://open.spotify.com/artist/5NO9Da4kOYrg9E6iGhYQjg"
-        },
-        {
-          "name": "Phil Heaven",
-          "url": "https://open.spotify.com/artist/2LvimbnpvtfVNDdv37EoUQ"
+          "name": "Nature Sound Series",
+          "url": "https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE"
         }
       ],
-      "duration_ms": 335533,
-      "name": "Resonant Wave",
-      "url": "https://open.spotify.com/track/6HwWUWAb0LofLu9TmdlPen"
+      "duration_ms": 193333,
+      "name": "Sea Waves",
+      "url": "https://open.spotify.com/track/6lY4tHBKd7aVQW7X4TXtxt"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -671,22 +687,6 @@
       "duration_ms": 659773,
       "name": "Honesty & Truth - 10-Minute Mix For Meditation & Massage",
       "url": "https://open.spotify.com/track/0AzBtsy4sR7lTY6WydHDBN"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
-        "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
-      },
-      "artists": [
-        {
-          "name": "Nature Sound Series",
-          "url": "https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Sea Waves",
-      "url": "https://open.spotify.com/track/6lY4tHBKd7aVQW7X4TXtxt"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Minimalia",
-        "url": "https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB"
-      },
-      "artists": [
-        {
-          "name": "Binary One",
-          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Two",
-      "url": "https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Jupiter Grains",
         "url": "https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 165253,
       "name": "Meditation: Soft Mindfulness",
       "url": "https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Minimalia",
+        "url": "https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB"
+      },
+      "artists": [
+        {
+          "name": "Binary One",
+          "url": "https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Two",
+      "url": "https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Yoga Harmony",
+        "url": "https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai"
+      },
+      "artists": [
+        {
+          "name": "Terry Oldfield",
+          "url": "https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j"
+        }
+      ],
+      "duration_ms": 499696,
+      "name": "Earth and Sky",
+      "url": "https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "OM Yoga Mix",
         "url": "https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 231428,
       "name": "Life of Birds",
       "url": "https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Yoga Harmony",
-        "url": "https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai"
-      },
-      "artists": [
-        {
-          "name": "Terry Oldfield",
-          "url": "https://open.spotify.com/artist/0DhTHSo00qVa3OQRWLzA8j"
-        }
-      ],
-      "duration_ms": 499696,
-      "name": "Earth and Sky",
-      "url": "https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "The Wait",
+        "url": "https://open.spotify.com/album/0XEsAcQHS96pDLpjoWmmJU"
+      },
+      "artists": [
+        {
+          "name": "Tao Lounge",
+          "url": "https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD"
+        }
+      ],
+      "duration_ms": 313574,
+      "name": "Holistic Water",
+      "url": "https://open.spotify.com/track/406MXMgqW4aHQ4G1rhCcF6"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Tranquility: Just Relax - 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being",
         "url": "https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 903986,
       "name": "Spheres Of The Angels",
       "url": "https://open.spotify.com/track/6ioQi5nd8gxD2RE3iZqik1"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "The Wait",
-        "url": "https://open.spotify.com/album/0XEsAcQHS96pDLpjoWmmJU"
-      },
-      "artists": [
-        {
-          "name": "Tao Lounge",
-          "url": "https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD"
-        }
-      ],
-      "duration_ms": 313574,
-      "name": "Holistic Water",
-      "url": "https://open.spotify.com/track/406MXMgqW4aHQ4G1rhCcF6"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Yoga World Meditation Vol .1",
-        "url": "https://open.spotify.com/album/1H7bQHH1mIJQSxSVRlPV2h"
-      },
-      "artists": [
-        {
-          "name": "One Trybal",
-          "url": "https://open.spotify.com/artist/6HF5xusdmwR1RDAsLFw3Zh"
-        }
-      ],
-      "duration_ms": 274186,
-      "name": "Light and Color",
-      "url": "https://open.spotify.com/track/5gu8xQISrwSLvJmcrkinIb"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Relaxation - Ambient Music, Relaxing Sounds of Nature for Soothing Mindfulness Meditation",
         "url": "https://open.spotify.com/album/4ez05ASxVwqPm5O0xkcEFv"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 317277,
       "name": "A Peaceful Music",
       "url": "https://open.spotify.com/track/2kLEJnmA1rYMHyhClUL1jE"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Yoga World Meditation Vol .1",
+        "url": "https://open.spotify.com/album/1H7bQHH1mIJQSxSVRlPV2h"
+      },
+      "artists": [
+        {
+          "name": "One Trybal",
+          "url": "https://open.spotify.com/artist/6HF5xusdmwR1RDAsLFw3Zh"
+        }
+      ],
+      "duration_ms": 274186,
+      "name": "Light and Color",
+      "url": "https://open.spotify.com/track/5gu8xQISrwSLvJmcrkinIb"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Meditation: Calming Music for the Mind",
-        "url": "https://open.spotify.com/album/2xhFslzajcYSY1mHYD4j0k"
-      },
-      "artists": [
-        {
-          "name": "Ambient",
-          "url": "https://open.spotify.com/artist/3J3ZL8cDJpD90GxfzsQG69"
-        }
-      ],
-      "duration_ms": 236067,
-      "name": "Charukeshi",
-      "url": "https://open.spotify.com/track/4wxYGoGV4pJjr2fGi0TOUI"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Wellness Meditation Relaxation: Musical Images, Vol. 100",
         "url": "https://open.spotify.com/album/7B1hCc6C6Eyx9mEmBbpeEc"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Meditation: Calming Music for the Mind",
+        "url": "https://open.spotify.com/album/2xhFslzajcYSY1mHYD4j0k"
+      },
+      "artists": [
+        {
+          "name": "Ambient",
+          "url": "https://open.spotify.com/artist/3J3ZL8cDJpD90GxfzsQG69"
+        }
+      ],
+      "duration_ms": 236067,
+      "name": "Charukeshi",
+      "url": "https://open.spotify.com/track/4wxYGoGV4pJjr2fGi0TOUI"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Surya Namaskar Yoga \u2013 Sun Salutation, Daily Hatha Yoga Positions for Flexibility, Inner Harmony, Self Realization, Restorative Exercises",
         "url": "https://open.spotify.com/album/35ttLwLhafRkRqUs3NdcKu"
       },
@@ -1531,38 +1531,6 @@
       "duration_ms": 215020,
       "name": "Savasana Yoga",
       "url": "https://open.spotify.com/track/30U8kxFDv8QL8fHKBoImSq"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Yoga Nidra - Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes",
-        "url": "https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF"
-      },
-      "artists": [
-        {
-          "name": "Yoga Nidra",
-          "url": "https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL"
-        }
-      ],
-      "duration_ms": 288298,
-      "name": "REM Deep Sleep Inducing",
-      "url": "https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Sleep Meditation \u2013 Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing",
-        "url": "https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af"
-      },
-      "artists": [
-        {
-          "name": "Natural Meditation Guru",
-          "url": "https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN"
-        }
-      ],
-      "duration_ms": 229927,
-      "name": "Breath Exercises for Deep Sleep",
-      "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1595,6 +1563,38 @@
       "duration_ms": 129432,
       "name": "Deep Meditation",
       "url": "https://open.spotify.com/track/0vMGRC7yBCCt6MRgN79Wa0"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Yoga Nidra - Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes",
+        "url": "https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF"
+      },
+      "artists": [
+        {
+          "name": "Yoga Nidra",
+          "url": "https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL"
+        }
+      ],
+      "duration_ms": 288298,
+      "name": "REM Deep Sleep Inducing",
+      "url": "https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Sleep Meditation \u2013 Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing",
+        "url": "https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af"
+      },
+      "artists": [
+        {
+          "name": "Natural Meditation Guru",
+          "url": "https://open.spotify.com/artist/5P5aL4KyXUqoq9E327cqvN"
+        }
+      ],
+      "duration_ms": 229927,
+      "name": "Breath Exercises for Deep Sleep",
+      "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
     }
   ],
   "unique_name": "Savasana",

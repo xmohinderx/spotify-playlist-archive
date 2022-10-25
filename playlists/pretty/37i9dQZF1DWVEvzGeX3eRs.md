@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 
 > What we're gonna do right now is go back—back in time\. Here are all your favorite '90s R&B slow jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,462,077 likes - 47 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,462,419 likes - 47 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 17 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 |
 | 18 | [Other Side Of The Game](https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:33 |
 | 19 | [Cruisin'](https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 6:24 |
-| 20 | [Kissin' You](https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:42 |
-| 21 | [Let's Chill](https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Future](https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q) | 5:23 |
+| 20 | [Let's Chill](https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Future](https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q) | 5:23 |
+| 21 | [Kissin' You](https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:42 |
 | 22 | [If I Ever Fall In Love](https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW) | [Shai](https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3), [Bill Appleberry](https://open.spotify.com/artist/3XDOHFgZoRPljL3nSeYJtJ) | [If I Ever Fall In Love](https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb) | 4:49 |
 | 23 | [Something in My Heart](https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX) | [Michel'le](https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j) | [Michel'le](https://open.spotify.com/album/2PngFAB0v6216314TZRcGb) | 5:53 |
-| 24 | [Anytime](https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Anytime](https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd) | 4:33 |
-| 25 | [Stay](https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Forever My Lady](https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7) | 5:12 |
+| 24 | [Stay](https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Forever My Lady](https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7) | 5:12 |
+| 25 | [Anytime](https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Anytime](https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd) | 4:33 |
 | 26 | [Happily Ever After](https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 4:36 |
 | 27 | [U Send Me Swingin'](https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [From The Mint Factory](https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe) | 5:14 |
 | 28 | [You're Always On My Mind](https://open.spotify.com/track/4zAxfkmJqsaHqFu1YPMS5a) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 5:17 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 31 | [Baby I'm Ready](https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo) | [Levert](https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS) | [Rope A Dope Style](https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta) | 5:22 |
 | 32 | [How Many Ways](https://open.spotify.com/track/4cVWa9vuwfPOukSIZN9012) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz) | 4:48 |
 | 33 | [Softest Place On Earth](https://open.spotify.com/track/19asXa48FNoDzO8PaQm9MN) | [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0) | [Traces Of My Lipstick](https://open.spotify.com/album/2vURwAnzdxnAlocCPmLG95) | 4:16 |
-| 34 | [Sara Smile](https://open.spotify.com/track/0aqVhoenCvorCVcEZEfiLS) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:32 |
-| 35 | [Lose Control](https://open.spotify.com/track/2PtwvKN5m8B0HVel2kOdoX) | [Silk](https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW) | [Lose Control](https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ) | 5:14 |
-| 36 | [I Get Lonely](https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 5:17 |
+| 34 | [I Get Lonely](https://open.spotify.com/track/4FTq81I0X4J6y9X06GcZIN) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 5:17 |
+| 35 | [Sara Smile](https://open.spotify.com/track/0aqVhoenCvorCVcEZEfiLS) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:32 |
+| 36 | [Lose Control](https://open.spotify.com/track/2PtwvKN5m8B0HVel2kOdoX) | [Silk](https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW) | [Lose Control](https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ) | 5:14 |
 | 37 | [Whip Appeal](https://open.spotify.com/track/3KwBXx4v79jKrITc0WBw6H) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:31 |
 | 38 | [All I See](https://open.spotify.com/track/0TEPE1KMWY0satuZIBtuRt) | [Christopher Williams](https://open.spotify.com/artist/27TmRLInIAVyWyU14KlALf) | [Changes](https://open.spotify.com/album/0POYPvGgqNdWX1G3BQBncS) | 4:20 |
 | 39 | [All the Times \(feat\. Faith Evans, Coko & Missy Elliott\)](https://open.spotify.com/track/0KHHrBbdvuJ6knLxj7dqkw) | [LSG](https://open.spotify.com/artist/1l40tPBtp1bmS1krmINRSD), [Coko](https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Levert.Sweat.Gill](https://open.spotify.com/album/3BrZT0UzGMi2qhI5WExT8Y) | 4:51 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 46 | [Ready Or Not](https://open.spotify.com/track/78fii1y8vrGtn5YtHEnpaN) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:32 |
 | 47 | [I Got A Thang 4 Ya!](https://open.spotify.com/track/4OXAYBy41owXhbOoi932y0) | [Lokey](https://open.spotify.com/artist/4bidFqFLzQ6OBICstJbr05) | [Radio Waves Of The '90s: Urban Hits](https://open.spotify.com/album/6lnkKUssdkeFx4jFng3L6C) | 4:17 |
 
-Snapshot ID: `MTYxNDkwMjU5NywwMDAwMDAwMGY2MzZmYWVjOWUwZWRkNTk1MGQ1YWRiYTM0MDY0ZTFl`
+Snapshot ID: `MTYxNDkwMjU5NywwMDAwMDAwMGQwYzk4OTExMTE2ZmU2ZmNjMTI1ZTM0Nzk1OWYyMmE3`

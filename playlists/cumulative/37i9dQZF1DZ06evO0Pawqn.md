@@ -4,7 +4,7 @@
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/5p79flXpkrnSIPRunpqyfo)
+64 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/5p79flXpkrnSIPRunpqyfo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [La Huella de Mis Besos](https://open.spotify.com/track/0I6sTG0nOH92inb6TmXqgw) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 2:02 | 2022-06-01 |  |
 | [Las Mismas Costumbres](https://open.spotify.com/track/5L6gQi0avt8xWO9fVd81SH) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Amor Sin Barreras](https://open.spotify.com/album/0YIdmynE6PnOMGaB0q5eSi) | 2:54 | 2022-06-01 |  |
 | [Mares de Licor \- En Vivo](https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Grandes Éxitos \(En Vivo\)](https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0) | 2:26 | 2022-06-01 |  |
-| [Matame a Besos](https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tiranos del Norte](https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf) | 3:17 | 2022-06-01 |  |
+| [Matame a Besos](https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tiranos del Norte](https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf) | 3:17 | 2022-06-01 | 2022-10-25 |
 | [Me Ha Llegado el Amor](https://open.spotify.com/track/31j4yUg8cOyaoSeM104lRf) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Para Mi Pueblo](https://open.spotify.com/album/0Kq5vvguGWYRyftSzsr7eI) | 3:52 | 2022-06-01 |  |
 | [MI Amiga,MI Amor](https://open.spotify.com/track/6OhVAKo5GdXlSiPsZYqCpZ) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Por Siempre](https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns) | 3:18 | 2022-06-01 |  |
 | [Mi Motivo](https://open.spotify.com/track/2WNGl9oCqUNyQb791qIJgy) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [30 Recuerdos](https://open.spotify.com/album/5P7MPSn2HSQq1JCz2mK1eD) | 2:24 | 2022-06-01 | 2022-10-12 |
@@ -60,6 +60,7 @@
 | [Pedro Aviles](https://open.spotify.com/track/4EhH2po4Y3ljEBIGZit5Qv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:31 | 2022-06-15 | 2022-07-21 |
 | [Por Una Mujer Bonita](https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Exitos De Oro](https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ) | 3:12 | 2022-06-01 |  |
 | [Que Te Perdone Dios](https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:25 | 2022-06-26 | 2022-07-17 |
+| [Quiero Que Me Digas Cuando](https://open.spotify.com/track/0QxUOvVy6FqHdJhcW644P6) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [El Hijo Desobediente](https://open.spotify.com/album/6M6B0WN3QftAZaxySwK1YC) | 2:19 | 2022-10-24 |  |
 | [Quisiera Amarte Menos](https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:36 | 2022-06-01 |  |
 | [Renunciacion](https://open.spotify.com/track/5C5rat4IzxN0DbEW0Lp6Hu) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 2:38 | 2022-06-01 |  |
 | [Sabor a Mi](https://open.spotify.com/track/0yaZWlPAoBm3iyQa8F3k4X) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 3:15 | 2022-06-01 |  |

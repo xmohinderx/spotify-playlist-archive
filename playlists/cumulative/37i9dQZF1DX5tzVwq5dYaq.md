@@ -4,7 +4,7 @@
 
 > Musica che, come la primavera, rende tutto più bello.
 
-176 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/5nIh8bGzt7jwZTza0Wud1L)
+177 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/5nIh8bGzt7jwZTza0Wud1L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Hold Back The River](https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 | 2021-06-25 |  |
 | [Hold Up](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:41 | 2021-06-25 |  |
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2021-06-25 |  |
+| [Home](https://open.spotify.com/track/0BVUA3FXqQLvZb7r4T22NJ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5) | 4:28 | 2022-09-21 |  |
 | [Home](https://open.spotify.com/track/6kj2eBA1uHUrv977D84Xra) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/28eq2IhCisTvOj8m2aoXpc) | 4:28 | 2021-06-25 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/10ViidwjGLCfVtGPfdcszR) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below](https://open.spotify.com/album/3yfisavFdGTrjFf9Ecpbio) | 5:06 | 2021-06-25 | 2022-07-29 |
 | [Home \- 2019 \- Remaster](https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 5:06 | 2021-06-25 |  |
@@ -138,7 +139,7 @@
 | [Shades In The Rain](https://open.spotify.com/track/1ZcF0e6OGoHI4GIaCINUqZ) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Weird & Talkative](https://open.spotify.com/album/7yaKvLwS4P5bLfFdQpcRyJ) | 3:15 | 2021-06-25 | 2022-07-29 |
 | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/track/44l9nnCVvOQBbWG6tDViKl) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Share That Love \(feat\. G\-Eazy\)](https://open.spotify.com/album/1zTCnLSvIx3DjsKDV1xcmO) | 2:52 | 2021-06-25 |  |
 | [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 | 2021-06-25 |  |
-| [Side By Side](https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Departures](https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj) | 4:13 | 2021-06-25 |  |
+| [Side By Side](https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Departures](https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj) | 4:13 | 2021-06-25 | 2022-10-25 |
 | [Sing It With Me \- Guitar Acoustic](https://open.spotify.com/track/3Uif7dnIML0qZdwwYalTNn) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Sing It With Me \(Acoustics\)](https://open.spotify.com/album/1XK0ARZ0qqFBLfH1IoA050) | 3:24 | 2021-06-25 | 2022-07-29 |
 | [Six Years](https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [A Blaze of Feather](https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H) | 4:42 | 2021-06-25 | 2022-09-15 |
 | [Somebody To You](https://open.spotify.com/track/6VrLYoQKdhu1Jruei06t65) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps](https://open.spotify.com/album/12gXA8pXYzj9bycyyKSGAa) | 3:05 | 2021-06-25 | 2022-07-29 |

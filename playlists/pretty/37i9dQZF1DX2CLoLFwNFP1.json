@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 6907,
+  "num_followers": 6965,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMzI3MiwwMDAwMDAwMGMxNmExY2QwZDFkYjhjMWUzY2I3ODEwNjMzNDRlZjJh",
+  "snapshot_id": "MTY2MDgzMzI3MiwwMDAwMDAwMGI1ZWEwYWQzZjc5MDZlNmY2NWQyMDc3MDY4OWVkZDBl",
   "tracks": [
     {
       "added_at": "2022-08-18 14:34:32",
@@ -319,46 +319,6 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "H1GHR : RED TAPE",
-        "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "Woodie Gochild",
-          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "Tel\u00e9fono Remix",
-      "url": "https://open.spotify.com/track/0vZi38VepxZWh0ACqYaXio"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
       },
@@ -447,6 +407,46 @@
       "duration_ms": 191141,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "H1GHR : RED TAPE",
+        "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "Woodie Gochild",
+          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Tel\u00e9fono Remix",
+      "url": "https://open.spotify.com/track/0vZi38VepxZWh0ACqYaXio"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -651,6 +651,26 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
+        "name": "Westcoast",
+        "url": "https://open.spotify.com/album/23khvZGgUKTP9J6K1qD0g1"
+      },
+      "artists": [
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Westcoast",
+      "url": "https://open.spotify.com/track/3oLTFTg2LC3P3E8QhcV71I"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
         "name": "B.A.R.S, Vol. 1",
         "url": "https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 164250,
       "name": "Sho Nuff",
       "url": "https://open.spotify.com/track/4A9Qs6OO0NO8y2OheOLldD"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
-        "name": "Westcoast",
-        "url": "https://open.spotify.com/album/23khvZGgUKTP9J6K1qD0g1"
-      },
-      "artists": [
-        {
-          "name": "YULTRON",
-          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Westcoast",
-      "url": "https://open.spotify.com/track/3oLTFTg2LC3P3E8QhcV71I"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -719,34 +719,6 @@
       "duration_ms": 180800,
       "name": "Game Good (Feat. Simon Dominic) (Prod. GooseBumps & Simon Dominic)",
       "url": "https://open.spotify.com/track/59futJ8UnUZuv3Lhu7lGWC"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
-        "name": "GANG (Official Remix)",
-        "url": "https://open.spotify.com/album/7sSR7cyAVVr1OkCouJpxc6"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 191880,
-      "name": "GANG - Official Remix",
-      "url": "https://open.spotify.com/track/3D0nbQmiFAnibdZTajgaYO"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -803,6 +775,34 @@
       "duration_ms": 188106,
       "name": "DNA (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/47b1jmZFEs2lDSZPN9bmcE"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "GANG (Official Remix)",
+        "url": "https://open.spotify.com/album/7sSR7cyAVVr1OkCouJpxc6"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 191880,
+      "name": "GANG - Official Remix",
+      "url": "https://open.spotify.com/track/3D0nbQmiFAnibdZTajgaYO"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -915,34 +915,6 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "H1GHR : BLUE TAPE",
-        "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Golden",
-          "url": "https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/6KhpVr8sgIkJpMvFwf4xW3"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
         "name": "Dior Socks",
         "url": "https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw"
       },
@@ -1007,6 +979,34 @@
       "duration_ms": 180811,
       "name": "Came Up (feat. Jay Park)",
       "url": "https://open.spotify.com/track/3IkYQjapZOMnWhMq8bXVMp"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "H1GHR : BLUE TAPE",
+        "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Golden",
+          "url": "https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/6KhpVr8sgIkJpMvFwf4xW3"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -2195,8 +2195,8 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn"
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
       "artists": [
         {
@@ -2204,17 +2204,17 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+          "name": "Ale Mora",
+          "url": "https://open.spotify.com/artist/6bsbLjG9kdODP0wVaM1WXM"
         },
         {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+          "name": "Cha Cha Malone",
+          "url": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
         }
       ],
-      "duration_ms": 219088,
-      "name": "All Day (Flex) [Prod. by OkayJJack]",
-      "url": "https://open.spotify.com/track/5FbiD78OtBrsaX8KP5DmDP"
+      "duration_ms": 190029,
+      "name": "FOREVER (WITH DJ ALE MORA) (Feat. Cha Cha Malone)",
+      "url": "https://open.spotify.com/track/7tWk2C8SSuwrebfMt3jCaj"
     }
   ],
   "unique_name": "This Is Jay Park",

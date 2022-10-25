@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 
 > Music for all your adventures on Roblox\. Check out <a href="https://www.roblox.com/spotify">Spotify Island on Roblox</a> today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,101 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,105 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 | 6 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 |
 | 7 | [Yucky Blucky Fruitcake](https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 4:35 |
 | 8 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 |
-| 9 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 |
+| 9 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 |
 | 10 | [Candyland](https://open.spotify.com/track/0euyZh7zSUmpNXVpVBdcN2) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Candyland](https://open.spotify.com/album/47O9f9upAsjc5BMV6z7TqG) | 3:20 |
-| 11 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 |
+| 11 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 |
 | 12 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
 | 13 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 |
 | 14 | [jealousy, jealousy](https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:53 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 | 44 | [I'll Keep You Safe](https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [I'll Keep You Safe](https://open.spotify.com/album/0VKgiEdp517vGQAI9speIX) | 3:05 |
 | 45 | [Blood // Water](https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:34 |
 | 46 | [this is what heartbreak feels like](https://open.spotify.com/track/4RxdAzEmkPXTiIU6ULLoXh) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:37 |
-| 47 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 |
-| 48 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 |
+| 47 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 |
+| 48 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 |
 | 49 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 |
 | 50 | [Holiday](https://open.spotify.com/track/14Bcv6siTBPw3TlP84dasC) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/41jQTuRYzHH58MwygrUxty) | 3:13 |
 
-Snapshot ID: `MTY2NDkxNTgyNywwMDAwMDAwMGJlOGM4Y2M5NzVmYWZiYmE2ZjZmMjA2NDRlYTU4NjQy`
+Snapshot ID: `MTY2NDkxNTgyNywwMDAwMDAwMGVkM2ZhY2RjNTI3YTkyODllYzJkNWRiZGJkNWQ5Mzcz`

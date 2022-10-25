@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-857 songs - 1 day 22 hr 32 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
+858 songs - 1 day 22 hr 35 min - [published](https://open.spotify.com/playlist/75BhpF1kv6bHL0wHtmPkFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/track/3Vtl4Xc9cKVs1UoenXtScn) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/album/0QVHAyioFI1UB5iy7kWJY8) | 3:20 | 2019-05-25\* | 2019-06-15 |
 | [Flux](https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Flux](https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD) | 3:49 | 2019-05-25\* | 2020-03-20 |
 | [Follow You](https://open.spotify.com/track/5hHB9MZBgdMK7Yxyx2XlRu) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Follow You](https://open.spotify.com/album/3rCECr2BEF3fDH0lVgaADu) | 3:17 | 2020-04-10 | 2020-05-13 |
-| [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2020-11-13 |  |
+| [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2020-11-13 | 2022-10-25 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-07 |  |
 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2021-10-10 |  |
 | [Forever](https://open.spotify.com/track/1op2w75Jctzq3qEvRjaOGd) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [I Don't Know A Thing About Love](https://open.spotify.com/album/4r2NLCAZXgu4BsyQBYuC76) | 3:18 | 2019-10-25 | 2020-01-04 |
@@ -736,6 +736,7 @@
 | [that way](https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:55 | 2021-08-11 |  |
 | [The Archer](https://open.spotify.com/track/3Y7MHz19qCg1Pkxridtu1k) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Archer](https://open.spotify.com/album/2mmpvWHLrUjSu5PN763rUu) | 3:31 | 2019-07-29 | 2020-06-08 |
 | [the author](https://open.spotify.com/track/54fT5TBqwmJKn6NmJR5VKe) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [the author](https://open.spotify.com/album/7eTwNQczZLUmjZ3nPtmZjq) | 3:37 | 2020-09-18 | 2022-07-29 |
+| [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 | 2022-10-21 |  |
 | [The Bones](https://open.spotify.com/track/7g9YrTuImvIkpS9uveKdCO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL...The Bones](https://open.spotify.com/album/3wRyo249Hi01jeaxnkJ49m) | 3:17 | 2019-05-25\* | 2020-03-13 |
 | [the breakup.](https://open.spotify.com/track/1KXCc5uR08v9DYngcUmxqm) | [MOODY](https://open.spotify.com/artist/0eTcMlKkLjtSD9E9OAZlq5) | [the breakup.](https://open.spotify.com/album/7C1ZQVPNi6VWImTHPb4PZt) | 4:31 | 2020-01-03 | 2020-01-04 |
 | [The feelings tend to stay the same](https://open.spotify.com/track/4WwynJRKVuJzMgew9ptoDe) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [The feelings tend to stay the same](https://open.spotify.com/album/6OT1kHq5Gcn3zvKoj7XCgb) | 2:28 | 2020-07-31 | 2020-10-30 |

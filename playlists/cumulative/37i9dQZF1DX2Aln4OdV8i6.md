@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for a peaceful sleep.
 
-71 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/6flIKf9qMxalUgZCL9SyWW)
+72 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/6flIKf9qMxalUgZCL9SyWW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [The Gift](https://open.spotify.com/track/0PCduL4v5QEEKqeRUv7TEC) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Prehension](https://open.spotify.com/album/5hh0izzUUhsDp54kcijlKK) | 3:45 | 2022-01-05 |  |
 | [The Return](https://open.spotify.com/track/5wlUjXNwN62wxhAZWddA6B) | [Library Tapes](https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7) | [The Return](https://open.spotify.com/album/4nZ4sclyQYkBT2SlKBXvcJ) | 2:18 | 2022-01-05 |  |
 | [This Night](https://open.spotify.com/track/0m8MYDal7eCEfjApR7hyUP) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/73VZPKqqn3KNK3gnmi1kTI) | 3:31 | 2022-01-05 | 2022-07-29 |
-| [This Night](https://open.spotify.com/track/6LQv4r8SDy2S3fLNo3ntr9) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/6YBtLEVPI7CAEsE5ljrtTC) | 3:31 | 2022-07-04 |  |
+| [This Night](https://open.spotify.com/track/1MxO57a8Ttyb1izW1uKGVl) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/5ygHwLXWu8Ycx28wtAZvMA) | 3:31 | 2022-07-04 |  |
+| [This Night](https://open.spotify.com/track/6LQv4r8SDy2S3fLNo3ntr9) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/6YBtLEVPI7CAEsE5ljrtTC) | 3:31 | 2022-07-04 | 2022-10-25 |
 | [To Be Wide Asleep](https://open.spotify.com/track/4cqyXHBIXsMmiMBe2yZ2PN) | [5th Dimension String Quartet](https://open.spotify.com/artist/0fd2h7Ve7ZDxWFW00AjxqL) | [To Be Wide Asleep](https://open.spotify.com/album/7C8vFlhaZecYoKxiTZpD95) | 2:12 | 2022-01-05 |  |
 | [Together At Last](https://open.spotify.com/track/2xEVhZew6VihAm4buanz2P) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Jobim Ffrench](https://open.spotify.com/artist/2AToteRrIWDjK7akp8XDEG) | [Together At Last](https://open.spotify.com/album/0XWsqCngjp9vAcDzr8dp9T) | 3:11 | 2022-01-05 |  |
 | [Transition](https://open.spotify.com/track/00Jh6031MKpE5nunLJzvyM) | [Elora Bonilla](https://open.spotify.com/artist/5ytoulK1Bp6GLoU6VWs0Nr) | [Transition](https://open.spotify.com/album/0P61A45wt4xVVneycMqdyp) | 2:55 | 2022-01-05 |  |

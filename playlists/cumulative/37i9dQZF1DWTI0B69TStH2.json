@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover: Tappahall | Playlista od\u015bwie\u017cana w ka\u017cdy wtorek. ",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover: Ciep\u0142e Brejki | Playlista od\u015bwie\u017cana w ka\u017cdy wtorek. ",
   "name": "Fresh Finds Polska",
   "published_playlist_ids": [
     "6wB7HHgPQjErlX5o34Jlnm"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 217500,
       "name": "B\u0119d\u0119 kiedy\u015b m\u0142ody",
       "url": "https://open.spotify.com/track/4uLZ6SUjuQBvcrvE41dgc7"
@@ -1655,7 +1655,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 177995,
       "name": "Dom",
       "url": "https://open.spotify.com/track/31wLPj7vBCSnD6SXQLS6Lq"
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 155177,
       "name": "Dzi\u015b Ta\u0144cz\u0119 Sam",
       "url": "https://open.spotify.com/track/3CWzJ48D1VXO7SlYMQiC2G"
@@ -2328,6 +2328,24 @@
     },
     {
       "album": {
+        "name": "Gorszy stan",
+        "url": "https://open.spotify.com/album/33eDJy1GcVPl4HHKkqw4T5"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213120,
+      "name": "Gorszy stan",
+      "url": "https://open.spotify.com/track/2beGfrWl9s3CWjsJAEIYih"
+    },
+    {
+      "album": {
         "name": "Granie na czas",
         "url": "https://open.spotify.com/album/3YsSe9X3k08T8DCAI53Mte"
       },
@@ -2499,6 +2517,24 @@
       "duration_ms": 284223,
       "name": "Heart Eyed Souvenir",
       "url": "https://open.spotify.com/track/7sUu5IuNGtbId2nPZzCzFS"
+    },
+    {
+      "album": {
+        "name": "Homiesexual",
+        "url": "https://open.spotify.com/album/57x5UnGGN0YLcJ3ryvF1WH"
+      },
+      "artists": [
+        {
+          "name": "Ciep\u0142e Brejki",
+          "url": "https://open.spotify.com/artist/5mminOBApFtiFnAJBHuguy"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197727,
+      "name": "Homiesexual",
+      "url": "https://open.spotify.com/track/5N0FNcPhf617rj2RbTVXs6"
     },
     {
       "album": {
@@ -3059,7 +3095,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 193448,
       "name": "Kim Ty Jeste\u015b",
       "url": "https://open.spotify.com/track/5sCroAuzsh5C1mPzZ617Ib"
@@ -3377,7 +3413,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 177362,
       "name": "Kr\u0119ci Si\u0119 Ziemia",
       "url": "https://open.spotify.com/track/2lGphEfQ1hmzxPXqv2rBoP"
@@ -3738,6 +3774,24 @@
     },
     {
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/7AohmddbUM2y2nMeIlHWew"
+      },
+      "artists": [
+        {
+          "name": "SAVEESY",
+          "url": "https://open.spotify.com/artist/4qpqzYYmj2uHhlaJ6J1ZlF"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/5hTrjPQoL3KPyP8axvltKI"
+    },
+    {
+      "album": {
         "name": "Ogr\u00f3d marze\u0144",
         "url": "https://open.spotify.com/album/3A5t89U5uVfZDdPuoxPkLS"
       },
@@ -3901,7 +3955,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 238769,
       "name": "Mija lato",
       "url": "https://open.spotify.com/track/3U1IpqeHIxMjJEXMXLyqMH"
@@ -4251,7 +4305,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 171857,
       "name": "Na za\u015b",
       "url": "https://open.spotify.com/track/3o6C6MV5A7kYVFUbeF5bLJ"
@@ -4309,6 +4363,24 @@
       "duration_ms": 194280,
       "name": "Naprawd\u0119!",
       "url": "https://open.spotify.com/track/7Cz69pbtVYdXhudjwHqCwz"
+    },
+    {
+      "album": {
+        "name": "Nawet je\u015bli...",
+        "url": "https://open.spotify.com/album/5iai6kOrRCLfS88x9qYWop"
+      },
+      "artists": [
+        {
+          "name": "dub.le",
+          "url": "https://open.spotify.com/artist/7zDIshXKU7EYjRjACccUSe"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228723,
+      "name": "Nawet je\u015bli...",
+      "url": "https://open.spotify.com/track/18sI9zhyLSZpuST0oGcx1s"
     },
     {
       "album": {
@@ -6383,7 +6455,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 191250,
       "name": "RASTA",
       "url": "https://open.spotify.com/track/0eIGpaZ6HcS9k2Nt9nMnJJ"
@@ -6920,6 +6992,24 @@
     },
     {
       "album": {
+        "name": "Skany z Bravo",
+        "url": "https://open.spotify.com/album/5ejnycMjtvrr2f0surqlje"
+      },
+      "artists": [
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219598,
+      "name": "Skany z Bravo",
+      "url": "https://open.spotify.com/track/4JCuqODYjyQvmM4jAGnD8q"
+    },
+    {
+      "album": {
         "name": "Smutek",
         "url": "https://open.spotify.com/album/33JHzjFfsW168UEIHKMJxD"
       },
@@ -7209,7 +7299,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 245754,
       "name": "Stan\u0119 si\u0119 ziemi\u0105",
       "url": "https://open.spotify.com/track/3sy0x83BsqqHFTe8yiAXAQ"
@@ -7267,6 +7357,24 @@
       "duration_ms": 200360,
       "name": "Suicide",
       "url": "https://open.spotify.com/track/4beM915ZzEzF0gfxPUMY3y"
+    },
+    {
+      "album": {
+        "name": "Sukienki",
+        "url": "https://open.spotify.com/album/5XhMlydKo5qESxpAfmXHyp"
+      },
+      "artists": [
+        {
+          "name": "KiM",
+          "url": "https://open.spotify.com/artist/74ZLeZomx77J1LTsAhbmzc"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237973,
+      "name": "Sukienki",
+      "url": "https://open.spotify.com/track/0wkfqsAdfJxPZMbWwrDPHn"
     },
     {
       "album": {
@@ -7843,6 +7951,24 @@
       "duration_ms": 188292,
       "name": "Tlen",
       "url": "https://open.spotify.com/track/7wwM7wjqzEGArZvrlmmBZb"
+    },
+    {
+      "album": {
+        "name": "To nie ja",
+        "url": "https://open.spotify.com/album/4JnvdHKlGNQBfG3WlcKnNz"
+      },
+      "artists": [
+        {
+          "name": "LUNARIA",
+          "url": "https://open.spotify.com/artist/1XsO4JN3QWw3kliCrrKXaP"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189779,
+      "name": "To nie ja",
+      "url": "https://open.spotify.com/track/5DwqIxkfmHFSEN1PYpxiWe"
     },
     {
       "album": {
@@ -9286,6 +9412,24 @@
     },
     {
       "album": {
+        "name": "zgubi\u0142em buty",
+        "url": "https://open.spotify.com/album/6YdtDj0i5pz8xpcJE5gV28"
+      },
+      "artists": [
+        {
+          "name": "palmy",
+          "url": "https://open.spotify.com/artist/4iRrFnGjqSfKo6b8c8oh0P"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242027,
+      "name": "zgubi\u0142em buty",
+      "url": "https://open.spotify.com/track/12lPDHMcNMfybddKU6tUml"
+    },
+    {
+      "album": {
         "name": "Zielone masz",
         "url": "https://open.spotify.com/album/2DgnaF8zrKIrRllEx29jFS"
       },
@@ -9337,6 +9481,36 @@
       "duration_ms": 254642,
       "name": "Zmiany",
       "url": "https://open.spotify.com/track/2IWzC4ldGeB3DTBsf4lh7h"
+    },
+    {
+      "album": {
+        "name": "Znikam",
+        "url": "https://open.spotify.com/album/7c0KMLEkM7CDkBBb4k2UVp"
+      },
+      "artists": [
+        {
+          "name": "Brass Federacja",
+          "url": "https://open.spotify.com/artist/0wXF2aKtDRH1IxDMQUrYq8"
+        },
+        {
+          "name": "Magda Kluz",
+          "url": "https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ"
+        },
+        {
+          "name": "Igor Nikiforow",
+          "url": "https://open.spotify.com/artist/1PI1ln5hK2KgpzKYMrgesq"
+        },
+        {
+          "name": "Szymon Bia\u0142orucki",
+          "url": "https://open.spotify.com/artist/6wdadn30TOeuMiFIMvUmR6"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174405,
+      "name": "Znikam",
+      "url": "https://open.spotify.com/track/0peqv95MALV2cfDTz2GwYp"
     },
     {
       "album": {

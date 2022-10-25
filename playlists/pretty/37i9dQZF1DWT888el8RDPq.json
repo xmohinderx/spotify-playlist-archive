@@ -1,12 +1,12 @@
 {
   "description": "\u2600\ufe0f",
-  "num_followers": 8464,
+  "num_followers": 8489,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM0ODIxOCwwMDAwMDAwMGU4MjZkNDYzZGJmOThkYTg3NjUyMTM5ZDExNjQyYWQ2",
+  "snapshot_id": "MTY2NjM0ODIxOCwwMDAwMDAwMDY3MWY5YjEzZWIyNmNhNWMzNzcwZTE3NTE2ZTIwYmVk",
   "tracks": [
     {
       "added_at": "2022-10-21 10:30:18",
@@ -131,6 +131,26 @@
     {
       "added_at": "2022-10-21 10:30:18",
       "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "added_at": "2022-10-21 10:30:18",
+      "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
       },
@@ -151,26 +171,6 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
-    },
-    {
-      "added_at": "2022-10-21 10:30:18",
-      "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "I Like You (A Happier Song) (with Doja Cat)",
-      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
       "added_at": "2022-10-21 10:30:18",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-10-21 10:30:18",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
-    },
-    {
-      "added_at": "2022-10-21 10:30:18",
-      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 215093,
       "name": "September",
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "added_at": "2022-10-21 10:30:18",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
     },
     {
       "added_at": "2022-10-21 10:30:18",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-10-21 10:30:18",
       "album": {
+        "name": "MKTO",
+        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
+      },
+      "artists": [
+        {
+          "name": "MKTO",
+          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
+        }
+      ],
+      "duration_ms": 175426,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
+    },
+    {
+      "added_at": "2022-10-21 10:30:18",
+      "album": {
         "name": "Kiss Me More (feat. SZA)",
         "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
-    },
-    {
-      "added_at": "2022-10-21 10:30:18",
-      "album": {
-        "name": "MKTO",
-        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
-      },
-      "artists": [
-        {
-          "name": "MKTO",
-          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "Classic",
-      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
       "added_at": "2022-10-21 10:30:18",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-10-21 10:30:18",
       "album": {
+        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
+        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
+    },
+    {
+      "added_at": "2022-10-21 10:30:18",
+      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2022-10-21 10:30:18",
       "album": {
-        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
-        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 239986,
-      "name": "Me Gustas Tu",
-      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
-    },
-    {
-      "added_at": "2022-10-21 10:30:18",
-      "album": {
         "name": "Where the Light Is",
         "url": "https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc"
       },
@@ -939,26 +939,6 @@
     {
       "added_at": "2022-10-21 10:30:18",
       "album": {
-        "name": "Rover (feat. DTG)",
-        "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
-      },
-      "artists": [
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        },
-        {
-          "name": "DTG",
-          "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg"
-        }
-      ],
-      "duration_ms": 167916,
-      "name": "Rover (feat. DTG)",
-      "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
-    },
-    {
-      "added_at": "2022-10-21 10:30:18",
-      "album": {
         "name": "T\u00caTE (feat. Medy & VillaBanks)",
         "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
       },
@@ -979,6 +959,46 @@
       "duration_ms": 180904,
       "name": "T\u00caTE (feat. Medy & VillaBanks)",
       "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
+    },
+    {
+      "added_at": "2022-10-21 10:30:18",
+      "album": {
+        "name": "Rover (feat. DTG)",
+        "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
+      },
+      "artists": [
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        },
+        {
+          "name": "DTG",
+          "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg"
+        }
+      ],
+      "duration_ms": 167916,
+      "name": "Rover (feat. DTG)",
+      "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
+    },
+    {
+      "added_at": "2022-10-21 10:30:18",
+      "album": {
+        "name": "c@ra++ere s?ec!@le",
+        "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 206494,
+      "name": "!ly (feat. Coez)",
+      "url": "https://open.spotify.com/track/1E1nbIsPDO1PdtQwsAKKF3"
     },
     {
       "added_at": "2022-10-21 10:30:18",
@@ -1015,26 +1035,6 @@
       "duration_ms": 133706,
       "name": "edamame (feat. Rich Brian)",
       "url": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
-    },
-    {
-      "added_at": "2022-10-21 10:30:18",
-      "album": {
-        "name": "c@ra++ere s?ec!@le",
-        "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 206494,
-      "name": "!ly (feat. Coez)",
-      "url": "https://open.spotify.com/track/1E1nbIsPDO1PdtQwsAKKF3"
     },
     {
       "added_at": "2022-10-21 10:30:18",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2022-10-21 10:30:18",
       "album": {
+        "name": "c@ra++ere s?ec!@le",
+        "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 156616,
+      "name": "ye@h (feat. Shiva)",
+      "url": "https://open.spotify.com/track/2BkoXEOE6vvkOKVNjPax2B"
+    },
+    {
+      "added_at": "2022-10-21 10:30:18",
+      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 176078,
       "name": "Just A Cloud Away",
       "url": "https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4"
-    },
-    {
-      "added_at": "2022-10-21 10:30:18",
-      "album": {
-        "name": "c@ra++ere s?ec!@le",
-        "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 156616,
-      "name": "ye@h (feat. Shiva)",
-      "url": "https://open.spotify.com/track/2BkoXEOE6vvkOKVNjPax2B"
     },
     {
       "added_at": "2022-10-21 10:30:18",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-10-21 10:30:18",
       "album": {
-        "name": "Blu Celeste",
-        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Finch\u00e9 Non Mi Seppelliscono",
-      "url": "https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s"
-    },
-    {
-      "added_at": "2022-10-21 10:30:18",
-      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 296146,
       "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
       "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
+    },
+    {
+      "added_at": "2022-10-21 10:30:18",
+      "album": {
+        "name": "Blu Celeste",
+        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Finch\u00e9 Non Mi Seppelliscono",
+      "url": "https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s"
     }
   ],
   "unique_name": "una playlist felice",

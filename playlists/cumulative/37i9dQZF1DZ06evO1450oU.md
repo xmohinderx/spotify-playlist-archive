@@ -4,7 +4,7 @@
 
 > This is Salt Creek\. The essential tracks, all in one playlist.
 
-21 songs - 1 hr 17 min - [published](https://open.spotify.com/playlist/2S6a5mtymTttoXmphlZzCW)
+22 songs - 1 hr 21 min - [published](https://open.spotify.com/playlist/2S6a5mtymTttoXmphlZzCW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,10 +24,11 @@
 | [Soul Jar](https://open.spotify.com/track/1rDETpDKFivRksRXGWQz6L) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:13 | 2022-09-16 |  |
 | [Swim in Time](https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [If You Were There](https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH) | 4:41 | 2022-09-16 |  |
 | [Taste the Floor](https://open.spotify.com/track/5ADgaERFsjbfkM9awGxQTX) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:14 | 2022-09-16 |  |
-| [The Vine](https://open.spotify.com/track/6tabBGQ5viiUw8DnnfKO9S) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:38 | 2022-09-18 |  |
+| [The Vine](https://open.spotify.com/track/6tabBGQ5viiUw8DnnfKO9S) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:38 | 2022-09-18 | 2022-10-25 |
 | [Thorn in My Side](https://open.spotify.com/track/1W56wikhxCRixXU1g7vww5) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 2:49 | 2022-09-16 |  |
 | [Weathervane](https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 3:25 | 2022-09-16 |  |
 | [What You Would Hear](https://open.spotify.com/track/0y8ZgAL8HcICloQ5WBkCd9) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [If You Were There](https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH) | 3:55 | 2022-09-16 |  |
+| [Where is the Sun](https://open.spotify.com/track/2uJPnVIAWKnkECOhS4wbH5) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:48 | 2022-10-24 |  |
 | [Window Shade](https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:14 | 2022-09-16 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

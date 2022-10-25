@@ -1,12 +1,12 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 982094,
+  "num_followers": 982185,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5NTM4NSwwMDAwMDAwMGQ2MTExYTllMTAyMjk4ZGRlNGU4M2YwYjU5N2MyODY3",
+  "snapshot_id": "MTY2NTY5NTM4NSwwMDAwMDAwMDI4MmVkZDhhMmIyYWNkYjMzNjgwY2E5ZTFmMGEwZTFm",
   "tracks": [
     {
       "added_at": "2022-10-13 21:09:45",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-10-13 21:09:45",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2022-10-13 21:09:45",
-      "album": {
         "name": "Yonaguni",
         "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
+    },
+    {
+      "added_at": "2022-10-13 21:09:45",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
     },
     {
       "added_at": "2022-10-13 21:09:45",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-10-13 21:09:45",
       "album": {
-        "name": "ARDIPITHECUS",
-        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "Wait a Minute!",
-      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
-    },
-    {
-      "added_at": "2022-10-13 21:09:45",
-      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "added_at": "2022-10-13 21:09:45",
+      "album": {
+        "name": "ARDIPITHECUS",
+        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 196520,
+      "name": "Wait a Minute!",
+      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
     },
     {
       "added_at": "2022-10-13 21:09:45",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-10-13 21:09:45",
       "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2022-10-13 21:09:45",
-      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 216752,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
+    },
+    {
+      "added_at": "2022-10-13 21:09:45",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2022-10-13 21:09:45",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-10-13 21:09:45",
       "album": {
-        "name": "El Madrile\u00f1o",
-        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 153960,
-      "name": "Demasiadas Mujeres",
-      "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
-    },
-    {
-      "added_at": "2022-10-13 21:09:45",
-      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -967,6 +951,22 @@
     {
       "added_at": "2022-10-13 21:09:45",
       "album": {
+        "name": "El Madrile\u00f1o",
+        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 153960,
+      "name": "Demasiadas Mujeres",
+      "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
+    },
+    {
+      "added_at": "2022-10-13 21:09:45",
+      "album": {
         "name": "12x3",
         "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
       },
@@ -979,22 +979,6 @@
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
-    },
-    {
-      "added_at": "2022-10-13 21:09:45",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
     },
     {
       "added_at": "2022-10-13 21:09:45",
@@ -1019,6 +1003,22 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "added_at": "2022-10-13 21:09:45",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
     },
     {
       "added_at": "2022-10-13 21:09:45",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2022-10-13 21:09:45",
       "album": {
-        "name": "Formentera",
-        "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Formentera",
-      "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
-    },
-    {
-      "added_at": "2022-10-13 21:09:45",
-      "album": {
         "name": "Los Tragos",
         "url": "https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 171000,
       "name": "Los Tragos",
       "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
+    },
+    {
+      "added_at": "2022-10-13 21:09:45",
+      "album": {
+        "name": "Formentera",
+        "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Formentera",
+      "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
     },
     {
       "added_at": "2022-10-13 21:09:45",
@@ -1359,30 +1359,6 @@
     {
       "added_at": "2022-10-13 21:09:45",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 231603,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
-    },
-    {
-      "added_at": "2022-10-13 21:09:45",
-      "album": {
         "name": "Bar",
         "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
       },
@@ -1423,6 +1399,30 @@
     {
       "added_at": "2022-10-13 21:09:45",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 231603,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
+    },
+    {
+      "added_at": "2022-10-13 21:09:45",
+      "album": {
         "name": "Te Espero",
         "url": "https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK"
       },
@@ -1455,6 +1455,22 @@
       "duration_ms": 200197,
       "name": "Haw\u00e1i",
       "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
+    },
+    {
+      "added_at": "2022-10-13 21:09:45",
+      "album": {
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 187703,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2"
     },
     {
       "added_at": "2022-10-13 21:09:45",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2022-10-13 21:09:45",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 172561,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
-    },
-    {
-      "added_at": "2022-10-13 21:09:45",
-      "album": {
         "name": "Sigue/Forever My Love",
         "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 159386,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
+    },
+    {
+      "added_at": "2022-10-13 21:09:45",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 172561,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
     },
     {
       "added_at": "2022-10-13 21:09:45",
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2022-10-13 21:09:45",
       "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 187703,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2"
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2022-10-13 21:09:45",
@@ -1599,22 +1615,6 @@
       "duration_ms": 125080,
       "name": "En El Coche",
       "url": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5"
-    },
-    {
-      "added_at": "2022-10-13 21:09:45",
-      "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2022-10-13 21:09:45",
@@ -1639,22 +1639,6 @@
       "duration_ms": 198041,
       "name": "Toxic Pony",
       "url": "https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm"
-    },
-    {
-      "added_at": "2022-10-13 21:09:45",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 204003,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
     },
     {
       "added_at": "2022-10-13 21:09:45",
@@ -1735,6 +1719,22 @@
     {
       "added_at": "2022-10-13 21:09:45",
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 204003,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
+    },
+    {
+      "added_at": "2022-10-13 21:09:45",
+      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-10-13 21:09:45",
       "album": {
-        "name": "Versos de un Card\u00edaco",
-        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
-      },
-      "artists": [
-        {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        }
-      ],
-      "duration_ms": 169536,
-      "name": "Desde Mis Ojos",
-      "url": "https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp"
-    },
-    {
-      "added_at": "2022-10-13 21:09:45",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 199357,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV"
+    },
+    {
+      "added_at": "2022-10-13 21:09:45",
+      "album": {
+        "name": "Versos de un Card\u00edaco",
+        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        }
+      ],
+      "duration_ms": 169536,
+      "name": "Desde Mis Ojos",
+      "url": "https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp"
     },
     {
       "added_at": "2022-10-13 21:09:45",

@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul",
-  "num_followers": 119978,
+  "num_followers": 120048,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjI3ODAwMCwwMDAwMDAwMDI4ODNiYjdiZDUxZTU2ODQwMzgwMWRkMzhiZTNiNTEx",
+  "snapshot_id": "MTY2NjI3ODAwMCwwMDAwMDAwMDBlNjA5MzJhYjA4NDA5MWU3MTE3ZmQyYTczNDEzMmEx",
   "tracks": [
     {
       "added_at": "2022-10-20 15:00:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Sunshine (feat. Foushe\u00e9)",
-        "url": "https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        },
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Sunshine (feat. Foushe\u00e9)",
-      "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
+        "name": "Sunshine (feat. Foushe\u00e9)",
+        "url": "https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Sunshine (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -647,26 +647,22 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Free Nationals",
-        "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "Free Nationals",
-          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         },
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 210385,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
+      "duration_ms": 274391,
+      "name": "B-Side",
+      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -687,22 +683,26 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "Free Nationals",
+        "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
         },
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 274391,
-      "name": "B-Side",
-      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
+      "duration_ms": 210385,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
+        "name": "JEWELZ",
+        "url": "https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "JEWELZ",
+      "url": "https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
         "name": "Poke It Out (feat. J. Cole)",
         "url": "https://open.spotify.com/album/2DXRWlFTI8l2YvBD4iFUK8"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
-        "name": "JEWELZ",
-        "url": "https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "JEWELZ",
-      "url": "https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0iu2xltdgI77Bkryi5JTNe"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Sunni Col\u00f3n",
+          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
         }
       ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/1r1BFALfShEfyv1aEs7MRW"
+      "duration_ms": 141374,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B"
     }
   ],
   "unique_name": "aloe",

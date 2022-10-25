@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 174545,
       "name": "Cancelo",
       "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
@@ -2669,10 +2669,32 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 170526,
       "name": "Purosangue (feat. Shiva)",
       "url": "https://open.spotify.com/track/5ZzDWDMYnWK8qwcOjVyoPv"
+    },
+    {
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Purosangue (feat. Shiva)",
+      "url": "https://open.spotify.com/track/6ACIFlukKJSlmOHCypNppR"
     },
     {
       "album": {
@@ -3003,6 +3025,24 @@
       "duration_ms": 195555,
       "name": "Shakerando",
       "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
+    },
+    {
+      "album": {
+        "name": "Sharm El Sheikh",
+        "url": "https://open.spotify.com/album/2nS6UzfcpGjaukHeQOiofW"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125652,
+      "name": "Sharm El Sheikh",
+      "url": "https://open.spotify.com/track/1mmYcbjgplZto84xmMFJA3"
     },
     {
       "album": {

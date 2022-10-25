@@ -4,7 +4,7 @@
 
 > una lloradita tranqui
 
-118 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/4kDGPPPKPFhlkXt9LrB0j3)
+119 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/4kDGPPPKPFhlkXt9LrB0j3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Como sufro](https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:58 | 2022-01-18 |  |
 | [Como Te Extraño](https://open.spotify.com/track/0W4z5QkqwDWIAFMsZvTN5d) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Éxitos Románticos \(De Colección\)](https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL) | 3:04 | 2022-06-03 |  |
 | [contenta,](https://open.spotify.com/track/1YlXMOHqJVWzFaaQLeekPt) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [eduardo](https://open.spotify.com/album/6ylPT54V3iwJY2trdxTzTX) | 3:46 | 2022-09-07 |  |
-| [Cuando Me Vaya](https://open.spotify.com/track/5prXXrmdkZ058EfDu7vWYm) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Cuando Me Vaya](https://open.spotify.com/album/1PbqKAwMUiyQ4rJjTo4Kb2) | 4:05 | 2022-09-30 |  |
+| [Cuando Me Vaya](https://open.spotify.com/track/5prXXrmdkZ058EfDu7vWYm) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Cuando Me Vaya](https://open.spotify.com/album/1PbqKAwMUiyQ4rJjTo4Kb2) | 4:05 | 2022-09-30 | 2022-10-25 |
 | [Cuando Te Hagan Mierda](https://open.spotify.com/track/5nErVootcwrMPOefcnj19C) | [Lázaro Cristóbal Comala](https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK), [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Canciones del Ancla](https://open.spotify.com/album/75wuTvpN0Ux3G0wqKwjn7c) | 4:48 | 2022-08-08 | 2022-10-01 |
 | [Culpable O No \- Miénteme Como Siempre](https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:57 | 2022-01-18 | 2022-08-09 |
 | [cuéntame una historia de rencor](https://open.spotify.com/track/01g1VurJU8HG6B7vMel0hV) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 2:57 | 2022-09-07 |  |
@@ -82,6 +82,7 @@
 | [Por Mujeres Como Tú](https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 4:23 | 2022-01-18 | 2022-08-09 |
 | [Por Tu Maldito Amor](https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:56 | 2022-01-18 |  |
 | [Por Tu Maldito Amor](https://open.spotify.com/track/4pFrn7MBtpwXlsyO5CbCj2) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7) | 3:58 | 2022-01-18 | 2022-07-29 |
+| [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 | 2022-10-24 |  |
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2022-03-29 |  |
 | [Quemonito](https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Raylen](https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l) | [Quemonito](https://open.spotify.com/album/1YglhALq6PbY7GjqO1rKVb) | 3:40 | 2022-08-22 | 2022-09-09 |
 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 | 2022-06-03 |  |

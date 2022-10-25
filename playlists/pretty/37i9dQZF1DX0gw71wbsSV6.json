@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 41328,
+  "num_followers": 41333,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM0MDMwNSwwMDAwMDAwMGVkYTFkZjQzZTBiYjUyNTI1ZTgxYzJiOTM2OTU3NzRl",
+  "snapshot_id": "MTY2NjM0MDMwNSwwMDAwMDAwMGZhYmY4NWVmYWZjYzA3M2RjZDc3MGY2YmMyZDE1Mzk1",
   "tracks": [
     {
       "added_at": "2022-10-16 15:00:00",
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/1roCmBlcpV7LzsmB7pmCyt"
     },
     {
-      "added_at": "2022-10-24 01:49:27",
+      "added_at": "2022-10-25 01:43:49",
       "album": {
         "name": "Fell Asleep In Paradise",
         "url": "https://open.spotify.com/album/4uWooAK4gqZ5WdUh29jrBJ"
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-10-16 15:00:00",
       "album": {
-        "name": "Miserable Man",
-        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 232991,
-      "name": "Miserable Man",
-      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
-    },
-    {
-      "added_at": "2022-10-16 15:00:00",
-      "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 162797,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+    },
+    {
+      "added_at": "2022-10-16 15:00:00",
+      "album": {
+        "name": "Miserable Man",
+        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 232991,
+      "name": "Miserable Man",
+      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
     },
     {
       "added_at": "2022-10-16 15:00:00",
@@ -599,6 +599,38 @@
     {
       "added_at": "2022-10-16 15:00:00",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/1sW3lhfPUhjjgD6oaYnBnV"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 234623,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX"
+    },
+    {
+      "added_at": "2022-10-16 15:00:00",
+      "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "The Most Beautiful Thing",
+      "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
+    },
+    {
+      "added_at": "2022-10-16 15:00:00",
+      "album": {
         "name": "someone will love you better",
         "url": "https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP"
       },
@@ -655,22 +687,6 @@
     {
       "added_at": "2022-10-16 15:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/1sW3lhfPUhjjgD6oaYnBnV"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 234623,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX"
-    },
-    {
-      "added_at": "2022-10-16 15:00:00",
-      "album": {
         "name": "Just You and I",
         "url": "https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA"
       },
@@ -687,18 +703,18 @@
     {
       "added_at": "2022-10-16 15:00:00",
       "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+        "name": "L\u00c9ON",
+        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
       },
       "artists": [
         {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 235426,
-      "name": "The Most Beautiful Thing",
-      "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
+      "duration_ms": 225868,
+      "name": "Come Home To Me",
+      "url": "https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3"
     },
     {
       "added_at": "2022-10-16 15:00:00",
@@ -715,22 +731,6 @@
       "duration_ms": 202047,
       "name": "anything",
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
-    },
-    {
-      "added_at": "2022-10-16 15:00:00",
-      "album": {
-        "name": "L\u00c9ON",
-        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 225868,
-      "name": "Come Home To Me",
-      "url": "https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3"
     },
     {
       "added_at": "2022-10-16 15:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-10-16 15:00:00",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 173237,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ"
+      "duration_ms": 268432,
+      "name": "doomsday",
+      "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
     },
     {
       "added_at": "2022-10-16 15:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-10-16 15:00:00",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
         }
       ],
-      "duration_ms": 268432,
-      "name": "doomsday",
-      "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
+      "duration_ms": 173237,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ"
     },
     {
       "added_at": "2022-10-16 15:00:00",

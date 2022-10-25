@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,760 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,957 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 14 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 |
 | 15 | [Smokin Out The Window](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:17 |
 | 16 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 |
-| 17 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 |
-| 18 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
-| 19 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 |
-| 20 | [Less Than Zero](https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:31 |
+| 17 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 |
+| 18 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 |
+| 19 | [Less Than Zero](https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:31 |
+| 20 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
 | 21 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 |
 | 22 | [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 |
 | 23 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 30 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 |
 | 31 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 |
 | 32 | [Something to Someone](https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone](https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI) | 3:18 |
-| 33 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 |
-| 34 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
-| 35 | [Stranger](https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:44 |
+| 33 | [Stranger](https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:44 |
+| 34 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 |
+| 35 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
 | 36 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 |
 | 37 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 |
 | 38 | [Fly As Me](https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:39 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 46 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
 | 47 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 |
 | 48 | [Love Like That](https://open.spotify.com/track/5FkMAjNnp34RGJJj9TTY2A) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Love Like That](https://open.spotify.com/album/3A6pwCsqEs8t3pe60T8nfi) | 3:14 |
-| 49 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 |
-| 50 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
+| 49 | [Talking to Yourself](https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:53 |
+| 50 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGY2MmMzYmFjNTc2N2JhMmEzZDRlNWJiN2Y2Y2ViZjg5`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDFkZDk1OWQxM2E3MmEzZjIxZDhmYWJjMmIzZjBhYWZm`

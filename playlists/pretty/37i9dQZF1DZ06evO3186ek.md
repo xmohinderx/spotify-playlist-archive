@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,788 likes - 50 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,883 likes - 50 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Come and Behold \(feat\. Chandler Moore & Elyssa Smith\)](https://open.spotify.com/track/2S86PB6hncEjoMLGBYGDbd) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [Move Your Heart](https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR) | 7:40 |
 | 50 | [Yeshua \(feat\. Karen Espinosa & Johnny Peña\)](https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG) | [Simple Adoración](https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk) | 7:49 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDA4MWM0MWNiZTU0ODQzZjRhNjBhMWYwZWY4ZGMxZjM4OQ==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDBlNTEzYzJmNjIyZDg2MjQ4OTA1ZDc3OWMzYWIxMGYxYQ==`

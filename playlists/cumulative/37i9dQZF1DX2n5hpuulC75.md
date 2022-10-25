@@ -4,7 +4,7 @@
 
 > Chill tunes for mellow moods.
 
-111 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
+112 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Plastic](https://open.spotify.com/track/18gcopzbu2DjQjR2DI5pE8) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/30WjNaR79shSTGB52IJTw0) | 3:08 | 2018-12-11 | 2022-07-29 |
 | [Plastic](https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1) | 3:08 | 2018-12-11 |  |
 | [Roam](https://open.spotify.com/track/6IfTJV3EFa20dpbp16PCLa) | [Isles](https://open.spotify.com/artist/5xwOOHYjyogCTn5St1rjLi), [Dpat](https://open.spotify.com/artist/5tCcGNhAW0do4RlIz9WilZ) | [Fractal Beach](https://open.spotify.com/album/2CHTice1Q8RAhifkpCvBvz) | 4:56 | 2018-12-11 | 2022-07-29 |
-| [Slow Burn](https://open.spotify.com/track/6uSNQLr7hNFCsRCY0C2WJ9) | [Jack Grace](https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB) | [Slow Burn](https://open.spotify.com/album/7dpk0QXdjtRSLqkbFnBSKg) | 3:36 | 2019-05-24 |  |
+| [Slow Burn](https://open.spotify.com/track/6uSNQLr7hNFCsRCY0C2WJ9) | [Jack Grace](https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB) | [Slow Burn](https://open.spotify.com/album/7dpk0QXdjtRSLqkbFnBSKg) | 3:36 | 2019-05-24 | 2022-10-25 |
 | [Surf](https://open.spotify.com/track/4z5yrhsjY4HdWCZ5hxEEIb) | [Common Tiger](https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi) | [Surf](https://open.spotify.com/album/6V91Y8wm7R34YiFIfozLqa) | 2:55 | 2018-12-11 | 2022-07-29 |
 | [Surf](https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI) | [Common Tiger](https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi) | [Surf](https://open.spotify.com/album/2CV3nKfQHHtPujj2jizzig) | 2:55 | 2018-12-11 |  |
 | [thankful](https://open.spotify.com/track/54xvG8lA7vsaEnsppZECaL) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compilation 3](https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I) | 2:26 | 2018-12-11 |  |
@@ -115,6 +115,7 @@
 | [Yellow Dust](https://open.spotify.com/track/7DxLN7gn6TNpgyaIYkQ6d1) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Yellow Dust](https://open.spotify.com/album/0GddXWFgGfX620dMxsh7K5) | 3:53 | 2018-12-11 | 2022-07-29 |
 | [You](https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA) | [Only Emily](https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT) | [EP 2](https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4) | 2:50 | 2018-12-11 |  |
 | [You](https://open.spotify.com/track/4gRuC34ZpRcpVXxMXM1csQ) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [You](https://open.spotify.com/album/4Fzw1NdiDb9pGJPRAVlKXv) | 3:51 | 2018-12-11 |  |
+| [Young](https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2) | 5:24 | 2018-12-11 |  |
 | [Young](https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 5:24 | 2018-12-11 | 2022-10-22 |
 | [Your Own Truth](https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [Your Own Truth](https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7) | 4:53 | 2019-05-24 |  |
 | [Zender](https://open.spotify.com/track/51WLmjgPAVhLnrjfQZ6tzh) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit EP](https://open.spotify.com/album/0gfvYcS9zeSgdaGc0nSEoN) | 3:53 | 2018-12-11 | 2022-07-29 |

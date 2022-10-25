@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 116299,
+  "num_followers": 116328,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjI3ODAwMCwwMDAwMDAwMGY5ODg5MTk1ODNhYjIyOTlmMWM5OGY3MTUxYzUzYjky",
+  "snapshot_id": "MTY2NjI3ODAwMCwwMDAwMDAwMGRkOTJkMWZmNjdiZDI4NDRmMTNjODUxZWE5Y2JlNGZh",
   "tracks": [
     {
       "added_at": "2022-10-20 15:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
+        "name": "Young Love",
+        "url": "https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 294493,
+      "name": "Moon Light Lover",
+      "url": "https://open.spotify.com/track/0Iod4IHv2ZJy4tzxTDIM34"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj"
       },
@@ -367,38 +383,6 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "0",
-        "url": "https://open.spotify.com/album/4yqm0ZLcphXs8M8cVvLKym"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 127273,
-      "name": "\u3046\u305f\u306e\u3051\u306f\u3044",
-      "url": "https://open.spotify.com/track/2TNG5NxXZXBsLmhB8RGN2N"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
-        "name": "Young Love",
-        "url": "https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 294493,
-      "name": "Moon Light Lover",
-      "url": "https://open.spotify.com/track/0Iod4IHv2ZJy4tzxTDIM34"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
         "name": "\u00ffuni",
         "url": "https://open.spotify.com/album/39r3Q8TGK1I0yXou6dXSIU"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 255448,
       "name": "\u00ffuni",
       "url": "https://open.spotify.com/track/4vvD5OUJZaMThV6X5CvjIS"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
+        "name": "0",
+        "url": "https://open.spotify.com/album/4yqm0ZLcphXs8M8cVvLKym"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 127273,
+      "name": "\u3046\u305f\u306e\u3051\u306f\u3044",
+      "url": "https://open.spotify.com/track/2TNG5NxXZXBsLmhB8RGN2N"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Windswept Adan",
-        "url": "https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 269290,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/15Ulu5nGXTW4DQ79pT0YhC"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
         "name": "Acoustic Versions",
         "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
+        "name": "Windswept Adan",
+        "url": "https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 269290,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/15Ulu5nGXTW4DQ79pT0YhC"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
         "name": "picnic album 1",
         "url": "https://open.spotify.com/album/7a3ALcc1QXctL9ADlLBOfs"
       },
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "This is music too",
-        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
       },
       "artists": [
         {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
         }
       ],
-      "duration_ms": 264680,
-      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
-      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
+      "duration_ms": 233666,
+      "name": "NEVER FALL IN LOVE AGAIN",
+      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+        "name": "This is music too",
+        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
       },
       "artists": [
         {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
         }
       ],
-      "duration_ms": 233666,
-      "name": "NEVER FALL IN LOVE AGAIN",
-      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
+      "duration_ms": 264680,
+      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
+      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -675,18 +675,22 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "This is music too",
-        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
       },
       "artists": [
         {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+          "name": "Koji Tamaki",
+          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
+        },
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
         }
       ],
-      "duration_ms": 356973,
-      "name": "Lady - 2020",
-      "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
+      "duration_ms": 340573,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -711,18 +715,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Ninh Binh Brother's Homestay",
-        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
+        "name": "Prescribing The...",
+        "url": "https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat"
       },
       "artists": [
         {
-          "name": "MIZ",
-          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         }
       ],
-      "duration_ms": 228038,
-      "name": "\u30d1\u30ec\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
+      "duration_ms": 287169,
+      "name": "\u82fa",
+      "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -743,18 +747,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Prescribing The...",
-        "url": "https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat"
+        "name": "This is music too",
+        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
         }
       ],
-      "duration_ms": 287169,
-      "name": "\u82fa",
-      "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
+      "duration_ms": 356973,
+      "name": "Lady - 2020",
+      "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -771,6 +775,22 @@
       "duration_ms": 216923,
       "name": "Puffin",
       "url": "https://open.spotify.com/track/7MEuAI4uWTs32XuNJGHOJ9"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
+        "name": "Ninh Binh Brother's Homestay",
+        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
+      },
+      "artists": [
+        {
+          "name": "MIZ",
+          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
+        }
+      ],
+      "duration_ms": 228038,
+      "name": "\u30d1\u30ec\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -871,6 +891,22 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/0yWVWwqwms3GuJTfnWWIhO"
+      },
+      "artists": [
+        {
+          "name": "Misako Odani",
+          "url": "https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT"
+        }
+      ],
+      "duration_ms": 435626,
+      "name": "\u624b\u7d19",
+      "url": "https://open.spotify.com/track/7jptw3DENO2pWmrfzE1TZs"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
         "name": "Karakai",
         "url": "https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w"
       },
@@ -891,18 +927,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "MONSTER",
-        "url": "https://open.spotify.com/album/0yWVWwqwms3GuJTfnWWIhO"
+        "name": "\u591c\u306f\u305d\u306e\u307e\u306a\u3056\u3057\u306e\u5148\u306b\u6d41\u308c\u308b",
+        "url": "https://open.spotify.com/album/2nHykm1RdbUDW4ImLANpUb"
       },
       "artists": [
         {
-          "name": "Misako Odani",
-          "url": "https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT"
+          "name": "KUKIKODAN",
+          "url": "https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS"
         }
       ],
-      "duration_ms": 435626,
-      "name": "\u624b\u7d19",
-      "url": "https://open.spotify.com/track/7jptw3DENO2pWmrfzE1TZs"
+      "duration_ms": 373440,
+      "name": "\u304d\u308c\u3044\u3060",
+      "url": "https://open.spotify.com/track/3AUERt8iOPlZ2ruHQMDAVh"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -919,22 +955,6 @@
       "duration_ms": 327173,
       "name": "Good Night Station",
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
-        "name": "\u591c\u306f\u305d\u306e\u307e\u306a\u3056\u3057\u306e\u5148\u306b\u6d41\u308c\u308b",
-        "url": "https://open.spotify.com/album/2nHykm1RdbUDW4ImLANpUb"
-      },
-      "artists": [
-        {
-          "name": "KUKIKODAN",
-          "url": "https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS"
-        }
-      ],
-      "duration_ms": 373440,
-      "name": "\u304d\u308c\u3044\u3060",
-      "url": "https://open.spotify.com/track/3AUERt8iOPlZ2ruHQMDAVh"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -971,26 +991,6 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Beautiful World",
-        "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
-      },
-      "artists": [
-        {
-          "name": "Koji Tamaki",
-          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
-        },
-        {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
-        }
-      ],
-      "duration_ms": 340573,
-      "name": "Beautiful World",
-      "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
         "name": "novelette",
         "url": "https://open.spotify.com/album/4azWqKZBnj24esWCVacaqk"
       },
@@ -1019,38 +1019,6 @@
       "duration_ms": 280786,
       "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
       "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
-      },
-      "artists": [
-        {
-          "name": "PARK BO GUM",
-          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "All My Love - English Ver.",
-      "url": "https://open.spotify.com/track/56JB3pqUaLaIozQ5j2tD7W"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
-        "name": "sequential souls",
-        "url": "https://open.spotify.com/album/0ERZRcTZO8ZUAIKT9Aa87q"
-      },
-      "artists": [
-        {
-          "name": "PAELLAS",
-          "url": "https://open.spotify.com/artist/6ELS2XYR8tvJdQyEx8s3ZT"
-        }
-      ],
-      "duration_ms": 282680,
-      "name": "Weight",
-      "url": "https://open.spotify.com/track/3J3bxrFCscf5KgNgBpQUo7"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1087,6 +1055,38 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
+      },
+      "artists": [
+        {
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "All My Love - English Ver.",
+      "url": "https://open.spotify.com/track/56JB3pqUaLaIozQ5j2tD7W"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
+        "name": "sequential souls",
+        "url": "https://open.spotify.com/album/0ERZRcTZO8ZUAIKT9Aa87q"
+      },
+      "artists": [
+        {
+          "name": "PAELLAS",
+          "url": "https://open.spotify.com/artist/6ELS2XYR8tvJdQyEx8s3ZT"
+        }
+      ],
+      "duration_ms": 282680,
+      "name": "Weight",
+      "url": "https://open.spotify.com/track/3J3bxrFCscf5KgNgBpQUo7"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
         "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30bf\u3099/\u30b5\u30f3\u30b5\u30fc\u30e9",
         "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 331984,
       "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
       "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
-        "name": "PURPLE",
-        "url": "https://open.spotify.com/album/3ChhP60S76aPShSmSifkpf"
-      },
-      "artists": [
-        {
-          "name": "Spangle Call Lilli Line",
-          "url": "https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB"
-        }
-      ],
-      "duration_ms": 382733,
-      "name": "cast a spell on her",
-      "url": "https://open.spotify.com/track/63Gc02okIgL5XTbEiP4SpQ"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
+        "name": "PURPLE",
+        "url": "https://open.spotify.com/album/3ChhP60S76aPShSmSifkpf"
+      },
+      "artists": [
+        {
+          "name": "Spangle Call Lilli Line",
+          "url": "https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB"
+        }
+      ],
+      "duration_ms": 382733,
+      "name": "cast a spell on her",
+      "url": "https://open.spotify.com/track/63Gc02okIgL5XTbEiP4SpQ"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
         "name": "\u3051\u3082\u306e\u305f\u3061\u306e\u540d\u524d",
         "url": "https://open.spotify.com/album/1wbLdEmioNHnFkV9Q7muxt"
       },
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "\u9b42\u306e\u30cf\u30a4\u30a6\u30a7\u30a4",
-        "url": "https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N"
+        "name": "Sashiiro",
+        "url": "https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI"
       },
       "artists": [
         {
-          "name": "Ayane Yamazaki",
-          "url": "https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF"
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 208866,
-      "name": "Mimosa",
-      "url": "https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r"
+      "duration_ms": 183709,
+      "name": "Sashiiro",
+      "url": "https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

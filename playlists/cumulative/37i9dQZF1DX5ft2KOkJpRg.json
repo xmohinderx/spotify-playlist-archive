@@ -949,7 +949,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 174106,
       "name": "La nena",
       "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 203546,
       "name": "LENTITO",
       "url": "https://open.spotify.com/track/4RMKNv1Bl3koY4Kys0G8Rb"
@@ -1265,6 +1265,28 @@
       "duration_ms": 124589,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
+    },
+    {
+      "album": {
+        "name": "Monoton\u00eda",
+        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158804,
+      "name": "Monoton\u00eda",
+      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
     },
     {
       "album": {
@@ -1477,7 +1499,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 240100,
       "name": "No Te Lo Voy a Negar (feat. HERNAN TREJO)",
       "url": "https://open.spotify.com/track/340OYprIslmjNCuJZKRjwn"
@@ -1770,6 +1792,24 @@
     },
     {
       "album": {
+        "name": "Prenda del Alma - Spotify Singles",
+        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258579,
+      "name": "Prenda del Alma - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
+    },
+    {
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob"
       },
@@ -1833,6 +1873,28 @@
       "duration_ms": 224442,
       "name": "Quiero Llorar y No Puedo",
       "url": "https://open.spotify.com/track/1S7FT0rhQ6AaTg0yBbFxYS"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Agon\u00eda",
+        "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152923,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
     },
     {
       "album": {

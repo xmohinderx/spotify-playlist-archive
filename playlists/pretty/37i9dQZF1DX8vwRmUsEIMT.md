@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Loyle Carner
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,409 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,494 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 |
-| 2 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 |
+| 2 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 |
 | 3 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 |
 | 4 | [Let It Die](https://open.spotify.com/track/3Mpz9tU5tLEkYKDMUOi067) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Let It Die](https://open.spotify.com/album/4hlQ4k5nonfDppqRtpBP9p) | 2:46 |
 | 5 | [Speed Of Plight](https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [THAT GIRL](https://open.spotify.com/track/6CxNuPyJT0eqePcocLEoHa) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [THAT GIRL](https://open.spotify.com/album/3iShY0nkuliVn2PiAjySC2) | 2:07 |
 | 80 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 |
 
-Snapshot ID: `MTY2NjMwNjgwMCwwMDAwMDAwMGEzMTU1YjFjZmMzZDhkNTJmMzM3YzNkMzNkZTM4Yzhl`
+Snapshot ID: `MTY2NjMwNjgwMCwwMDAwMDAwMGNlY2ZlOTJiMTM0ZTU0OGIxYzQ5NThkYjc5Mjk3OGU5`

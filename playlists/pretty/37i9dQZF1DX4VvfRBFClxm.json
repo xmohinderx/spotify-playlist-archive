@@ -1,12 +1,12 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1455994,
+  "num_followers": 1456050,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg3ODE4MSwwMDAwMDAwMDE4MmZiMWNhZmRhMmMzZDI0OWNmOTExOTdmN2EwYjcz",
+  "snapshot_id": "MTY2MTg3ODE4MSwwMDAwMDAwMDI2MWM1YmQ3MTYwMzYyZDk5NmUwZjE0YzQ4MGZhNDYz",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "GHOST TOWN",
-        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "GHOST TOWN",
-      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "GHOST TOWN",
+        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "GHOST TOWN",
+      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Some Mad Hope",
-        "url": "https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu"
-      },
-      "artists": [
-        {
-          "name": "Matt Nathanson",
-          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Come On Get Higher",
-      "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Some Mad Hope",
+        "url": "https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu"
+      },
+      "artists": [
+        {
+          "name": "Matt Nathanson",
+          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Come On Get Higher",
+      "url": "https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 212152,
-      "name": "September Song - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Fall Into Me",
-        "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
       },
       "artists": [
         {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
         }
       ],
-      "duration_ms": 226066,
-      "name": "Fall Into Me",
-      "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
+      "duration_ms": 212152,
+      "name": "September Song - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -919,6 +903,22 @@
       "duration_ms": 228922,
       "name": "So My Darling - Acoustic",
       "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Fall Into Me",
+        "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "Fall Into Me",
+      "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1087,38 +1087,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Wild Love (Acoustic)",
-        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 189146,
-      "name": "Wild Love - Acoustic",
-      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 179173,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X"
       },
@@ -1139,38 +1107,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 223429,
-      "name": "Latch - Acoustic",
-      "url": "https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Meant To Be",
         "url": "https://open.spotify.com/album/5tkaijq9MpGmzgkGAWYDEN"
       },
@@ -1187,6 +1123,70 @@
       "duration_ms": 163226,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/0wxGIpOZbDR4RGy1sh3XhR"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Wild Love (Acoustic)",
+        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Wild Love - Acoustic",
+      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 223429,
+      "name": "Latch - Acoustic",
+      "url": "https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 179173,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Shape of You (Acoustic)",
         "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
       },
@@ -1267,22 +1251,6 @@
       "duration_ms": 223573,
       "name": "Shape of You - Acoustic",
       "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Fallen so Young",
-        "url": "https://open.spotify.com/album/7BlVUDoAnsDbZHwIYT2S74"
-      },
-      "artists": [
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 232164,
-      "name": "Fallen so Young",
-      "url": "https://open.spotify.com/track/3y4uSQwxHckyRcvafEilkN"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1307,6 +1275,38 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 195252,
+      "name": "I Burned LA Down",
+      "url": "https://open.spotify.com/track/5z8F06wTZvUOR5DzyWJ0L6"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -1319,6 +1319,22 @@
       "duration_ms": 298880,
       "name": "Shrike",
       "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Fallen so Young",
+        "url": "https://open.spotify.com/album/7BlVUDoAnsDbZHwIYT2S74"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 232164,
+      "name": "Fallen so Young",
+      "url": "https://open.spotify.com/track/3y4uSQwxHckyRcvafEilkN"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1351,22 +1367,6 @@
       "duration_ms": 197178,
       "name": "Lost On You",
       "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 195252,
-      "name": "I Burned LA Down",
-      "url": "https://open.spotify.com/track/5z8F06wTZvUOR5DzyWJ0L6"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/3gLD93wFP8Js0aObN5mJBv"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 181958,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/6EWEyqtjFLafS95ncL4not"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "You Sigh",
+      "url": "https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Breathe Again (Acoustic)",
         "url": "https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D"
       },
@@ -1599,18 +1615,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
+        "name": "A Few More Hours at YYZ",
+        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
         }
       ],
-      "duration_ms": 178826,
-      "name": "You Sigh",
-      "url": "https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl"
+      "duration_ms": 172202,
+      "name": "Acoustic",
+      "url": "https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1635,18 +1651,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "A Few More Hours at YYZ",
-        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
+        "name": "This Town",
+        "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
       },
       "artists": [
         {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 172202,
-      "name": "Acoustic",
-      "url": "https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp"
+      "duration_ms": 232600,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "This Town",
-        "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
+        "name": "Talking Dreams (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
         }
       ],
-      "duration_ms": 232600,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
+      "duration_ms": 220626,
+      "name": "Bright",
+      "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1703,22 +1719,6 @@
       "duration_ms": 181293,
       "name": "Starving - Acoustic",
       "url": "https://open.spotify.com/track/3rdTo5LQGou3pS2ZLxTAcQ"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Talking Dreams (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
-      },
-      "artists": [
-        {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Bright",
-      "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Unbreakable Smile",
-        "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 188946,
-      "name": "I Was Made For Loving You",
-      "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "I Will Spend My Whole Life Loving You",
         "url": "https://open.spotify.com/album/3g1yz9GQMMswHeQrHQCm21"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 227619,
       "name": "I Will Spend My Whole Life Loving You",
       "url": "https://open.spotify.com/track/77enz5hl8RicxrbPB56VXQ"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Unbreakable Smile",
+        "url": "https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 188946,
+      "name": "I Was Made For Loving You",
+      "url": "https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "Chandelier - Piano Version",
+      "url": "https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Most Girls (Acoustic)",
         "url": "https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0"
       },
@@ -1895,18 +1911,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 241693,
-      "name": "Chandelier - Piano Version",
-      "url": "https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ"
+      "duration_ms": 187759,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/74LRQ6073VpLGX6F0bTcUG"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1923,22 +1939,6 @@
       "duration_ms": 194066,
       "name": "Morning Breeze",
       "url": "https://open.spotify.com/track/7iM7I3dbNQGC5xkxJMWwrv"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 187759,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/74LRQ6073VpLGX6F0bTcUG"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "Poison & Wine",
-      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "The Village Sessions",
         "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
       },
@@ -2011,18 +1995,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "In the Waiting",
-        "url": "https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd"
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
       },
       "artists": [
         {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
         }
       ],
-      "duration_ms": 198403,
-      "name": "For Now",
-      "url": "https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds"
+      "duration_ms": 219466,
+      "name": "Poison & Wine",
+      "url": "https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -2039,6 +2023,22 @@
       "duration_ms": 191693,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "In the Waiting",
+        "url": "https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 198403,
+      "name": "For Now",
+      "url": "https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds"
     },
     {
       "added_at": "2022-07-22 04:00:00",

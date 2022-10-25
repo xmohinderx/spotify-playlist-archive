@@ -1,12 +1,12 @@
 {
   "description": "There's no such thing as \"too much fun.\" Let these country songs keep the party going!",
-  "num_followers": 135951,
+  "num_followers": 135988,
   "original_name": "Drinkin' Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTkwNSwwMDAwMDAwMDJhNTNkN2FkZDQ3M2IyYzA5ODNhY2JmMjE5NmRlMjU3",
+  "snapshot_id": "MTY2MzkwNTkwNSwwMDAwMDAwMDQ0YzI1YmE3Y2I2NDAyYTI2MWFkNGMxMzkxYjM0MzA2",
   "tracks": [
     {
       "added_at": "2022-09-23 04:05:05",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Head Over Boots",
-      "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
         "name": "Body Like A Back Road",
         "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
       },
@@ -291,18 +275,18 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 306773,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m"
+      "duration_ms": 202346,
+      "name": "Head Over Boots",
+      "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -331,18 +315,18 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 219973,
-      "name": "I Don't Want This Night To End",
-      "url": "https://open.spotify.com/track/7c1KTn1z8Gw8ouYdcF4qaG"
+      "duration_ms": 306773,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -363,18 +347,34 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 190240,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
+      "duration_ms": 219973,
+      "name": "I Don't Want This Night To End",
+      "url": "https://open.spotify.com/track/7c1KTn1z8Gw8ouYdcF4qaG"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "Dierks Bentley",
+        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "What Was I Thinkin'",
+      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -415,18 +415,18 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Dierks Bentley",
-        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 260826,
-      "name": "What Was I Thinkin'",
-      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
+      "duration_ms": 190240,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -451,18 +451,38 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Doin' My Thing",
-        "url": "https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF"
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 176160,
-      "name": "Rain Is A Good Thing",
-      "url": "https://open.spotify.com/track/1YhFtqwcN138S6ng3MT1nN"
+      "duration_ms": 204000,
+      "name": "Beer For My Horses",
+      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "RISER",
+        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 254466,
+      "name": "Drunk On A Plane",
+      "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -503,22 +523,18 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
+        "name": "Doin' My Thing",
+        "url": "https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Beer For My Horses",
-      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
+      "duration_ms": 176160,
+      "name": "Rain Is A Good Thing",
+      "url": "https://open.spotify.com/track/1YhFtqwcN138S6ng3MT1nN"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -563,38 +579,18 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Longneck Way To Go",
-        "url": "https://open.spotify.com/album/37OKIJQT1W3fjkPkY6kyjg"
+        "name": "Heartache Medication",
+        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
       },
       "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        },
         {
           "name": "Jon Pardi",
           "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Longneck Way To Go",
-      "url": "https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
-        "name": "RISER",
-        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 254466,
-      "name": "Drunk On A Plane",
-      "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
+      "duration_ms": 207161,
+      "name": "Tequila Little Time",
+      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -615,34 +611,18 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 213546,
-      "name": "Drunk On You",
-      "url": "https://open.spotify.com/track/3kv6omImmKEfOVJWjstusF"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
-        "name": "Heartache Medication",
-        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 207161,
-      "name": "Tequila Little Time",
-      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
+      "duration_ms": 191333,
+      "name": "Smoke A Little Smoke",
+      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -663,6 +643,22 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 213546,
+      "name": "Drunk On You",
+      "url": "https://open.spotify.com/track/3kv6omImmKEfOVJWjstusF"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
@@ -675,22 +671,6 @@
       "duration_ms": 241786,
       "name": "Tequila Does",
       "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Smoke A Little Smoke",
-      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -727,6 +707,26 @@
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "Longneck Way To Go",
+        "url": "https://open.spotify.com/album/37OKIJQT1W3fjkPkY6kyjg"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        },
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Longneck Way To Go",
+      "url": "https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Dates In Pickup Trucks",
-        "url": "https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK"
-      },
-      "artists": [
-        {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
-        }
-      ],
-      "duration_ms": 165520,
-      "name": "Dates In Pickup Trucks",
-      "url": "https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
         "name": "Ten Rounds",
         "url": "https://open.spotify.com/album/5wQ2fnyW0fe27ctaysMJS2"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 182453,
       "name": "Ten Rounds with Jose Cuervo - Recall Mix",
       "url": "https://open.spotify.com/track/26J61MmE6YCWqIyROZdEgL"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "Dates In Pickup Trucks",
+        "url": "https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "duration_ms": 165520,
+      "name": "Dates In Pickup Trucks",
+      "url": "https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Real Friends",
-        "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 174453,
-      "name": "Waitin' on 5",
-      "url": "https://open.spotify.com/track/0d2g4x2iOE7dcGfyUuso9l"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/52uIfGoV32jVlyZDWf0pMk"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 168400,
       "name": "All Night",
       "url": "https://open.spotify.com/track/3QZ0JGwujsufdE5yiONIzO"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "Real Friends",
+        "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 174453,
+      "name": "Waitin' on 5",
+      "url": "https://open.spotify.com/track/0d2g4x2iOE7dcGfyUuso9l"
     },
     {
       "added_at": "2022-09-23 04:05:05",

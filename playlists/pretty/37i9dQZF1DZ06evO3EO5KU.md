@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,225 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,271 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 27 | [Órdenes Directas](https://open.spotify.com/track/7w9libenk5qFo5LUoHGO7j) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Órdenes Directas \(Deltas\)](https://open.spotify.com/album/6spcpkPGLE5ERczqKcjwUU) | 2:27 |
 | 28 | [Cosas del Olvido](https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Cosas del Olvido](https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj) | 2:58 |
 | 29 | [Con Palabras Sencillas](https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:26 |
-| 30 | [Hay Niveles](https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [P Chonch](https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w) | [Hay Niveles](https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb) | 4:12 |
-| 31 | [Buscabamos Lo Mismo](https://open.spotify.com/track/5idaKAt6CqMd3zucTHG4hP) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscabamos Lo Mismo](https://open.spotify.com/album/1U7Ysy02ORDvHGG1FVQoaU) | 2:49 |
+| 30 | [Buscabamos Lo Mismo](https://open.spotify.com/track/5idaKAt6CqMd3zucTHG4hP) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscabamos Lo Mismo](https://open.spotify.com/album/1U7Ysy02ORDvHGG1FVQoaU) | 2:49 |
+| 31 | [Hay Niveles](https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [P Chonch](https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w) | [Hay Niveles](https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb) | 4:12 |
 | 32 | [Las Dos Promesas](https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Las Dos Promesas](https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5) | 2:45 |
 | 33 | [Tres Botellas](https://open.spotify.com/track/4CfCbSyDAel1xRwme7Q0Yv) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK) | 3:19 |
 | 34 | [Un Mentado Ariel](https://open.spotify.com/track/2aTdwAYeLbuedDShCIDI1h) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Quiereme Como Te Quiero](https://open.spotify.com/track/53wvzzOV807YPN1YOn52Em) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [\(En Vivo\) con Banda Sinaloense La Tuyia de Culiacan, Sinaloa \(Vol 2\)](https://open.spotify.com/album/13ypsbRldKgFVj9npcAl4A) | 3:56 |
 | 50 | [El Hombre Tranquilo](https://open.spotify.com/track/3Jb1F5CRVKqNBpzrjDTBHA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 3:07 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDA2NGQxM2Q0MTk1ZGY4MjJmNmRlZDg1ZmJmNWRjNDhlOQ==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDBhNTdmMWJlN2VjNjQxZmVkYWQ4Yjg5NDE5NGZhMTg2ZQ==`

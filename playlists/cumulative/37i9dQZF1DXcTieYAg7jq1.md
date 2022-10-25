@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Ashe
 
-263 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/3Icin3X1CyEouQNp33mzQK)
+264 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/3Icin3X1CyEouQNp33mzQK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,8 @@
 | [Purple Haze](https://open.spotify.com/track/6CD5sIa3Li1gUvlfIL8ew3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Purple Haze](https://open.spotify.com/album/1eQdAPkg20LXtt71zE97Pj) | 3:18 | 2021-12-03 | 2022-07-15 |
 | [Rearrange Us](https://open.spotify.com/track/6M7VWjQnVsSCTifhHJGKpG) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/6l6ThHfDJ8Ja5uunao40so) | 3:07 | 2021-12-03 | 2022-07-29 |
 | [Rock Bottom](https://open.spotify.com/track/497hUxFOMMux7zeObEVHen) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Rock Bottom](https://open.spotify.com/album/4kbZDkaXMCU5cebbHbm13E) | 2:56 | 2021-12-03 | 2022-07-29 |
-| [Rolling Back](https://open.spotify.com/track/0UePeoAMCh1Y8lwN5sC122) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Rolling Back](https://open.spotify.com/album/53VP4DNgyffY1BtCs42oEK) | 3:43 | 2022-09-23 |  |
+| [Rolling Back](https://open.spotify.com/track/0UePeoAMCh1Y8lwN5sC122) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Rolling Back](https://open.spotify.com/album/53VP4DNgyffY1BtCs42oEK) | 3:43 | 2022-09-23 | 2022-10-25 |
+| [Rolling Back](https://open.spotify.com/track/1irJhcpldknFoEzcqO75qB) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 3:43 | 2022-09-23 |  |
 | [Sacred Place](https://open.spotify.com/track/0Sjjh3xJUGdXqM4jXHUDal) | [Jonah Kest](https://open.spotify.com/artist/7fRYOt13ebct7IUSm36irk), [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Sacred Place](https://open.spotify.com/album/4BlDropl0rs0ZyGOLdb9pc) | 2:46 | 2022-03-18 | 2022-07-29 |
 | [Saint](https://open.spotify.com/track/6f6FKPRVzfZWVQBarW574H) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Saint](https://open.spotify.com/album/3SVZKcujNG8IIZCPj6T7PO) | 4:41 | 2021-12-03 | 2022-07-24 |
 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-06-24 |  |

@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Sadie Jean
 
-1,000 songs - 2 day 4 hr 45 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+1,002 songs - 2 day 4 hr 51 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [All I Know So Far](https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [All I Know So Far](https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH) | 4:37 | 2021-05-08 | 2021-07-24 |
 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 | 2022-05-20 | 2022-06-11 |
 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 | 2022-09-23 |  |
+| [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 | 2022-10-24 |  |
 | [All my favorite songs](https://open.spotify.com/track/5JG7dSDKuy5tSM77KLnCzY) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [20mg of Happiness](https://open.spotify.com/album/338Td52uBRdtXDqIZiOo6D) | 2:56 | 2021-10-23 | 2022-01-15 |
 | [all my ghosts](https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [all my ghosts](https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi) | 3:17 | 2022-01-21 | 2022-02-26 |
 | [All She Wrote](https://open.spotify.com/track/2yI8xyHgyhCXyw0Vq98twb) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [All She Wrote](https://open.spotify.com/album/6WBCnJWvVockOvzanIULFH) | 3:17 | 2021-02-26 | 2021-03-14 |
@@ -445,6 +446,7 @@
 | [I'll Be Home Soon](https://open.spotify.com/track/72xzw4sk7CcgYIyQsj0pxn) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Marathon](https://open.spotify.com/album/4RQN3Cqkj3dHhEa5wa7Ag8) | 2:11 | 2021-03-14 | 2021-04-10 |
 | [I'll Be There](https://open.spotify.com/track/4UVp2XD2Z9F2aY9vLlKwhv) | [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [I’ll Be There/Honest](https://open.spotify.com/album/3ObU6T0OnYO8y4CAA5P68P) | 3:37 | 2021-04-10 | 2021-05-22 |
 | [I'm Here](https://open.spotify.com/track/7l5jZiuwClTKk2Xyf5mc69) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [i hope you're happy](https://open.spotify.com/album/1kR8ROs5klKibWulbjWjxa) | 2:45 | 2022-09-30 |  |
+| [I'm in Love](https://open.spotify.com/track/2k2AJgV5PAA4pIl9jdJxqz) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd), [Isaiah Mendiola](https://open.spotify.com/artist/3cT5dIuxsmwmgEBqt1DrbO) | [I'm in Love](https://open.spotify.com/album/6YseWN0WpEHAOTqVzJfzLo) | 3:16 | 2022-10-24 |  |
 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2021-06-12 | 2021-06-26 |
 | [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 | 2022-09-16 |  |
 | [I'm Sorry](https://open.spotify.com/track/1pw2hdOsHe6jv1DOx12Xh6) | [Aria Ohlsson](https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ) | [I'm Sorry](https://open.spotify.com/album/7d5UTDykbbQNCcwwXiF8Ge) | 2:37 | 2021-04-30 | 2021-05-15 |

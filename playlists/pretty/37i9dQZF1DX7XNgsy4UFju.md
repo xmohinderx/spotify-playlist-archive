@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Phoenix
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,328 likes - 99 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,346 likes - 99 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Winter Solstice](https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Winter Solstice](https://open.spotify.com/album/76ZPEP13Boqv4Da5XihzG0) | 3:56 |
-| 2 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 |
-| 3 | [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 |
+| 2 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 |
+| 3 | [Smoking Weed Alone](https://open.spotify.com/track/0aI85jfjeRy4UsLLc93Nw5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Crybaby](https://open.spotify.com/album/2a8473uZ3beO2ZuePXXBNf) | 3:11 |
 | 4 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
 | 5 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 |
 | 6 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 98 | [Puzzled Thought](https://open.spotify.com/track/3oH3wjuNC6VCS9rj50vO81) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [You're The Boss](https://open.spotify.com/album/4Z4w4EAFUrD4B16A1Uy34e) | 4:16 |
 | 99 | [Survivor's Guilt](https://open.spotify.com/track/2dPYz3ceO14cgKZzsrTx5A) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Survivor's Guilt](https://open.spotify.com/album/482gKoUvLQrjPmTx8ihrXm) | 3:30 |
 
-Snapshot ID: `MTY2NjM0Njc3MSwwMDAwMDAwMDNhOThlMjU4MDhiZTVlYjBlM2Q3MWM0ZWZhYjhmZDJl`
+Snapshot ID: `MTY2NjYzMzUzNywwMDAwMDAwMGJjMWQ3NWI2ZDU5ZDI2NWEyNTU5MTBiNDQzZDcwOTAz`

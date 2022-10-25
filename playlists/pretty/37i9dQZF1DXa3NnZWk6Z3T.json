@@ -1,12 +1,12 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 551805,
+  "num_followers": 551909,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc4MzQ2NiwwMDAwMDAwMDNmYTAzNjRlYWRhNWZjOGNjYTllNzhlOTRkOTgzMzFl",
+  "snapshot_id": "MTY2Mzc4MzQ2NiwwMDAwMDAwMGNlMWFkOGU4ODRjNWQ2MWZmNzkwNWRjMDE0ZDY4YTk2",
   "tracks": [
     {
       "added_at": "2022-09-21 18:04:26",
@@ -235,18 +235,22 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "B\u00e9same Morenita",
-        "url": "https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5"
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
         }
       ],
-      "duration_ms": 165520,
-      "name": "B\u00e9same Morenita",
-      "url": "https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL"
+      "duration_ms": 259586,
+      "name": "Alma M\u00eda (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -267,6 +271,22 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
+        "name": "B\u00e9same Morenita",
+        "url": "https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 165520,
+      "name": "B\u00e9same Morenita",
+      "url": "https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
         "name": "Amuleto",
         "url": "https://open.spotify.com/album/6AybhPKCqRGzCphbZc1jGW"
       },
@@ -283,46 +303,6 @@
       "duration_ms": 221897,
       "name": "Mi Destino",
       "url": "https://open.spotify.com/track/0UomygnguJeUILqunpearo"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
-        "name": "Serenatas Frente al Mar",
-        "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 197850,
-      "name": "Serenatas Frente al Mar",
-      "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
-        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 259586,
-      "name": "Alma M\u00eda (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -355,6 +335,26 @@
       "duration_ms": 186000,
       "name": "Si Me Voy",
       "url": "https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
+        "name": "Serenatas Frente al Mar",
+        "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 197850,
+      "name": "Serenatas Frente al Mar",
+      "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -647,26 +647,6 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Mi Condena",
-        "url": "https://open.spotify.com/album/34qk2J2dzqK6tgTxBZktuR"
-      },
-      "artists": [
-        {
-          "name": "Vic Mirallas",
-          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 172319,
-      "name": "Mi Condena",
-      "url": "https://open.spotify.com/track/0UGxC1uqeDHBmAU4Pvd8xi"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
         "name": "Prender el Alma",
         "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
       },
@@ -683,8 +663,8 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Un T\u00e9 de Tilo por Favor",
-        "url": "https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i"
+        "name": "Te Quiero y Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA"
       },
       "artists": [
         {
@@ -692,25 +672,9 @@
           "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
         }
       ],
-      "duration_ms": 207893,
-      "name": "Lo Que Perdimos",
-      "url": "https://open.spotify.com/track/2azwoxY0rbAgn1ZeiYGcdK"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
-        "name": "Tan Dif\u00edcil de Entender",
-        "url": "https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd"
-      },
-      "artists": [
-        {
-          "name": "Pantoja",
-          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "C\u00f3mo Me Sientas T\u00fa Tan Bien",
-      "url": "https://open.spotify.com/track/5uqvZpriEEMKleWljJdckw"
+      "duration_ms": 192267,
+      "name": "Te Quiero y Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -731,6 +695,58 @@
       "duration_ms": 234743,
       "name": "Antes De Verte (with Kevin Johansen)",
       "url": "https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
+        "name": "Mi Condena",
+        "url": "https://open.spotify.com/album/34qk2J2dzqK6tgTxBZktuR"
+      },
+      "artists": [
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 172319,
+      "name": "Mi Condena",
+      "url": "https://open.spotify.com/track/0UGxC1uqeDHBmAU4Pvd8xi"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
+        "name": "Tan Dif\u00edcil de Entender",
+        "url": "https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd"
+      },
+      "artists": [
+        {
+          "name": "Pantoja",
+          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "C\u00f3mo Me Sientas T\u00fa Tan Bien",
+      "url": "https://open.spotify.com/track/5uqvZpriEEMKleWljJdckw"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
+        "name": "Dreaming Lucid",
+        "url": "https://open.spotify.com/album/4hoEfnmAs0gjUhQOFZLk6O"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 138223,
+      "name": "A letter to my younger self",
+      "url": "https://open.spotify.com/track/1jjfOsxZ1Z1bovYbguK7bB"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -771,22 +787,6 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Te Quiero y Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 192267,
-      "name": "Te Quiero y Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
         "name": "El Caribefunk",
         "url": "https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur"
       },
@@ -799,6 +799,22 @@
       "duration_ms": 298450,
       "name": "Juanita la Chismosa",
       "url": "https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
+        "name": "Un T\u00e9 de Tilo por Favor",
+        "url": "https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 207893,
+      "name": "Lo Que Perdimos",
+      "url": "https://open.spotify.com/track/2azwoxY0rbAgn1ZeiYGcdK"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -819,18 +835,18 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Dreaming Lucid",
-        "url": "https://open.spotify.com/album/4hoEfnmAs0gjUhQOFZLk6O"
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
       "artists": [
         {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 138223,
-      "name": "A letter to my younger self",
-      "url": "https://open.spotify.com/track/1jjfOsxZ1Z1bovYbguK7bB"
+      "duration_ms": 218520,
+      "name": "Quimera",
+      "url": "https://open.spotify.com/track/5787WaGd5DQvL14A6SJ8cG"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -871,22 +887,6 @@
       "duration_ms": 255826,
       "name": "Dos Y Siete",
       "url": "https://open.spotify.com/track/288IrRlNLeIurDNOeSgwOB"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 218520,
-      "name": "Quimera",
-      "url": "https://open.spotify.com/track/5787WaGd5DQvL14A6SJ8cG"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Mucho Chino",
-        "url": "https://open.spotify.com/album/1l8i1gKfgAXi2tMoKvpsDR"
-      },
-      "artists": [
-        {
-          "name": "Natalia Doco",
-          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
-        }
-      ],
-      "duration_ms": 169512,
-      "name": "Ay De Mi",
-      "url": "https://open.spotify.com/track/1Wxg4UUmjKL8yVmXL97aB0"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
         "name": "Tr\u00e9bol",
         "url": "https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 152731,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/1kWjEyML20EpP7yjw5cfA5"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
+        "name": "Mucho Chino",
+        "url": "https://open.spotify.com/album/1l8i1gKfgAXi2tMoKvpsDR"
+      },
+      "artists": [
+        {
+          "name": "Natalia Doco",
+          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
+        }
+      ],
+      "duration_ms": 169512,
+      "name": "Ay De Mi",
+      "url": "https://open.spotify.com/track/1Wxg4UUmjKL8yVmXL97aB0"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "c\u00f3mo cu\u00e1ndo y d\u00f3nde",
-        "url": "https://open.spotify.com/album/0Lb3RdzKgGPaOpFiqrGUxG"
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe"
       },
       "artists": [
         {
-          "name": "Ainoa Buitrago",
-          "url": "https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7"
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
         }
       ],
-      "duration_ms": 163341,
-      "name": "c\u00f3mo cu\u00e1ndo y d\u00f3nde",
-      "url": "https://open.spotify.com/track/7JHGipL0wFFuyl54Zknic0"
+      "duration_ms": 184906,
+      "name": "Palm Beach",
+      "url": "https://open.spotify.com/track/2ltjgZUx2DgxdYGxuyhNAd"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Candela",
-        "url": "https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe"
+        "name": "c\u00f3mo cu\u00e1ndo y d\u00f3nde",
+        "url": "https://open.spotify.com/album/0Lb3RdzKgGPaOpFiqrGUxG"
       },
       "artists": [
         {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+          "name": "Ainoa Buitrago",
+          "url": "https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7"
         }
       ],
-      "duration_ms": 184906,
-      "name": "Palm Beach",
-      "url": "https://open.spotify.com/track/2ltjgZUx2DgxdYGxuyhNAd"
+      "duration_ms": 163341,
+      "name": "c\u00f3mo cu\u00e1ndo y d\u00f3nde",
+      "url": "https://open.spotify.com/track/7JHGipL0wFFuyl54Zknic0"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 209080,
+      "name": "Salvavidas de hielo (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/70LZISLWsPXGBn1bpJuYAU"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
         "name": "H\u00e1blame",
         "url": "https://open.spotify.com/album/7w28fuy5R66v2JZK5TJ9oF"
       },
@@ -1243,26 +1263,6 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 209080,
-      "name": "Salvavidas de hielo (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/70LZISLWsPXGBn1bpJuYAU"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
         "name": "Conc\u00e9ntrica Canci\u00f3n",
         "url": "https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS"
       },
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Triste Pero Fresh",
-        "url": "https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM"
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC"
       },
       "artists": [
         {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
         }
       ],
-      "duration_ms": 181689,
-      "name": "Bolerito Sad",
-      "url": "https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z"
+      "duration_ms": 249250,
+      "name": "Parar el Tiempo",
+      "url": "https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC"
+        "name": "Triste Pero Fresh",
+        "url": "https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM"
       },
       "artists": [
         {
-          "name": "Cimafunk",
-          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 249250,
-      "name": "Parar el Tiempo",
-      "url": "https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c"
+      "duration_ms": 181689,
+      "name": "Bolerito Sad",
+      "url": "https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -1343,6 +1343,22 @@
       "duration_ms": 152533,
       "name": "Juana Mecho - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
+        "name": "iLevitable",
+        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 249853,
+      "name": "Te Quiero Con Bugal\u00fa",
+      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "iLevitable",
-        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
+        "name": "Un Canto por M\u00e9xico, Vol. 1",
+        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 249853,
-      "name": "Te Quiero Con Bugal\u00fa",
-      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
+      "duration_ms": 243253,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -1411,22 +1427,6 @@
       "duration_ms": 157617,
       "name": "A M\u00ed y a Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. 1",
-        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Diferentes Tipos de Luz",
-        "url": "https://open.spotify.com/album/2ApLZfsw7yYrztoaNkwLe5"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        }
-      ],
-      "duration_ms": 282947,
-      "name": "Semitransparente",
-      "url": "https://open.spotify.com/track/0G8vDG9wlBEneyoneUBYyl"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
         "name": "Latin & Love Studies",
         "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 240298,
       "name": "Hasta la Rai\u0301z",
       "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
+        "name": "Diferentes Tipos de Luz",
+        "url": "https://open.spotify.com/album/2ApLZfsw7yYrztoaNkwLe5"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 282947,
+      "name": "Semitransparente",
+      "url": "https://open.spotify.com/track/0G8vDG9wlBEneyoneUBYyl"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Amor En Cuarentena",
-        "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "Amor En Cuarentena",
-      "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
         "name": "Tan Dif\u00edcil de Entender",
         "url": "https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd"
       },
@@ -1691,6 +1675,38 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
+        "name": "Amor En Cuarentena",
+        "url": "https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Amor En Cuarentena",
+      "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 156371,
+      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
         "name": "Cafecito",
         "url": "https://open.spotify.com/album/7av0C1BqErsrx1CQb8aMRT"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 214688,
       "name": "Cafecito",
       "url": "https://open.spotify.com/track/4WuHzYPN060OB2bt3EgwyZ"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
-        "name": "Un Amor Violento",
-        "url": "https://open.spotify.com/album/1oKMUZGbpNkXrMYd2UJ2NU"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 289473,
-      "name": "Un Amor Violento",
-      "url": "https://open.spotify.com/track/5boCZfOIDyELEfYoD94fky"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
+        "name": "Un Amor Violento",
+        "url": "https://open.spotify.com/album/1oKMUZGbpNkXrMYd2UJ2NU"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 289473,
+      "name": "Un Amor Violento",
+      "url": "https://open.spotify.com/track/5boCZfOIDyELEfYoD94fky"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/4hA1fpxVbsZYw8CsxDEjdI"
       },
@@ -1867,18 +1883,38 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
+        "name": "Sorpresa",
+        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
       },
       "artists": [
         {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
         }
       ],
-      "duration_ms": 156371,
-      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
+      "duration_ms": 242733,
+      "name": "Carnaval",
+      "url": "https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/572kD3xhAbww3C6eqh9mQV"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/4kN3Q110F6hH9fSMNHlluH"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -1919,22 +1955,6 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Sorpresa",
-        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Carnaval",
-      "url": "https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
         "name": "Muta",
         "url": "https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx"
       },
@@ -1951,38 +1971,18 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/572kD3xhAbww3C6eqh9mQV"
+        "name": "Diecis\u00e9is",
+        "url": "https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+          "name": "Tiare",
+          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/4kN3Q110F6hH9fSMNHlluH"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
-        "name": "Uno Que Tropieza Y Cae Al Mar",
-        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Uno Que Tropieza Y Cae Al Mar",
-      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
+      "duration_ms": 212452,
+      "name": "Cardenalito",
+      "url": "https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Diecis\u00e9is",
-        "url": "https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ"
+        "name": "Uno Que Tropieza Y Cae Al Mar",
+        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
       },
       "artists": [
         {
-          "name": "Tiare",
-          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
         }
       ],
-      "duration_ms": 212452,
-      "name": "Cardenalito",
-      "url": "https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz"
+      "duration_ms": 209346,
+      "name": "Uno Que Tropieza Y Cae Al Mar",
+      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -2115,26 +2115,6 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Me Haces Muy Bien (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        },
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 205177,
-      "name": "Me Haces Muy Bien - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
@@ -2151,18 +2131,22 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Jazzeando el Cancionero Dominicano, Vol 2",
-        "url": "https://open.spotify.com/album/3GNKuCVdxtKUJRN02V6yfM"
+        "name": "Me Haces Muy Bien (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
       },
       "artists": [
         {
-          "name": "Retro Jazz",
-          "url": "https://open.spotify.com/artist/7H5CbmeG3gR9Qu0Ki0b0Tb"
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        },
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
         }
       ],
-      "duration_ms": 290386,
-      "name": "Amor Narcotico",
-      "url": "https://open.spotify.com/track/1UqyF5I7vz3gfk0Zc4L4HU"
+      "duration_ms": 205177,
+      "name": "Me Haces Muy Bien - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -2187,6 +2171,22 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
+        "name": "Jazzeando el Cancionero Dominicano, Vol 2",
+        "url": "https://open.spotify.com/album/3GNKuCVdxtKUJRN02V6yfM"
+      },
+      "artists": [
+        {
+          "name": "Retro Jazz",
+          "url": "https://open.spotify.com/artist/7H5CbmeG3gR9Qu0Ki0b0Tb"
+        }
+      ],
+      "duration_ms": 290386,
+      "name": "Amor Narcotico",
+      "url": "https://open.spotify.com/track/1UqyF5I7vz3gfk0Zc4L4HU"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
         "name": "Canapecito",
         "url": "https://open.spotify.com/album/75TluJ3aGAelm57vQ3Hdo6"
       },
@@ -2199,6 +2199,38 @@
       "duration_ms": 220927,
       "name": "Te Tengo Que Meter En Mi Vida (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/4SIo06ibYgeT2BYcgld91I"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
+        "name": "Everybody Wants to Rule the World",
+        "url": "https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk"
+      },
+      "artists": [
+        {
+          "name": "Making Movies",
+          "url": "https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Everybody Wants to Rule the World",
+      "url": "https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
+        "name": "Reflexi\u00f3n del Pasto",
+        "url": "https://open.spotify.com/album/28GYUNMKd575GwnofewUEI"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 106921,
+      "name": "Reflexi\u00f3n del Pasto",
+      "url": "https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -2235,22 +2267,6 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Everybody Wants to Rule the World",
-        "url": "https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk"
-      },
-      "artists": [
-        {
-          "name": "Making Movies",
-          "url": "https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Everybody Wants to Rule the World",
-      "url": "https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
         "name": "Pastel",
         "url": "https://open.spotify.com/album/3QTnx5ztLT9Ub46YFKWKh3"
       },
@@ -2267,18 +2283,18 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Reflexi\u00f3n del Pasto",
-        "url": "https://open.spotify.com/album/28GYUNMKd575GwnofewUEI"
+        "name": "Se Acaba Todo",
+        "url": "https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB"
       },
       "artists": [
         {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 106921,
-      "name": "Reflexi\u00f3n del Pasto",
-      "url": "https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM"
+      "duration_ms": 196133,
+      "name": "Se Acaba Todo",
+      "url": "https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -2299,22 +2315,6 @@
       "duration_ms": 203133,
       "name": "Pell\u00edzquenme",
       "url": "https://open.spotify.com/track/01GkH9n3MLf606vcWddYl9"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
-        "name": "Se Acaba Todo",
-        "url": "https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "Se Acaba Todo",
-      "url": "https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -2351,6 +2351,26 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
+      },
+      "artists": [
+        {
+          "name": "Rafael Pond\u00e9",
+          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
+        },
+        {
+          "name": "Melo G\u00eda",
+          "url": "https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU"
+        }
+      ],
+      "duration_ms": 221111,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
         "name": "Hace Tiempo",
         "url": "https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J"
       },
@@ -2363,6 +2383,22 @@
       "duration_ms": 252413,
       "name": "Hace Tiempo",
       "url": "https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
+        "name": "Let's Get Lost",
+        "url": "https://open.spotify.com/album/6TLoLpAz4m6oHZScZ9oSkK"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        }
+      ],
+      "duration_ms": 200280,
+      "name": "Estrellitas y Duendes",
+      "url": "https://open.spotify.com/track/7GC0j38KfkV70zgEzediuv"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -2399,38 +2435,18 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "Let's Get Lost",
-        "url": "https://open.spotify.com/album/6TLoLpAz4m6oHZScZ9oSkK"
+        "name": "Harta",
+        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
       },
       "artists": [
         {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 200280,
-      "name": "Estrellitas y Duendes",
-      "url": "https://open.spotify.com/track/7GC0j38KfkV70zgEzediuv"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
-      },
-      "artists": [
-        {
-          "name": "Rafael Pond\u00e9",
-          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
-        },
-        {
-          "name": "Melo G\u00eda",
-          "url": "https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU"
-        }
-      ],
-      "duration_ms": 221111,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
+      "duration_ms": 185083,
+      "name": "Harta",
+      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -2451,22 +2467,6 @@
       "duration_ms": 232221,
       "name": "Idas y Vueltas",
       "url": "https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
-        "name": "Harta",
-        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 185083,
-      "name": "Harta",
-      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -2507,6 +2507,22 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
+        "name": "A Tu Lado",
+        "url": "https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ"
+      },
+      "artists": [
+        {
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        }
+      ],
+      "duration_ms": 244308,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/2sxGambjEMewIexGbpP089"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/6qs4uJH78oD7RKLuERtOBz"
       },
@@ -2527,22 +2543,6 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "A Tu Lado",
-        "url": "https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ"
-      },
-      "artists": [
-        {
-          "name": "Paula Arenas",
-          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
-        }
-      ],
-      "duration_ms": 244308,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/2sxGambjEMewIexGbpP089"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
         "name": "+ Bien",
         "url": "https://open.spotify.com/album/6Hfm9k5H74TN25V2cYLFiu"
       },
@@ -2555,26 +2555,6 @@
       "duration_ms": 160306,
       "name": "La Costura De Dios",
       "url": "https://open.spotify.com/track/41Ez6Qx8cqV6eE1MFhYJeb"
-    },
-    {
-      "added_at": "2022-09-21 18:04:26",
-      "album": {
-        "name": "Fica Tudo Bem",
-        "url": "https://open.spotify.com/album/5FX7kbaIQ8wTCKLyQaH5Lb"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "Fica Tudo Bem",
-      "url": "https://open.spotify.com/track/5c4Yrl4GzS8vc4Mzq1LUFD"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -2595,6 +2575,26 @@
       "duration_ms": 204805,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/7iKguNIjaONzqnKTLjfRT1"
+    },
+    {
+      "added_at": "2022-09-21 18:04:26",
+      "album": {
+        "name": "Fica Tudo Bem",
+        "url": "https://open.spotify.com/album/5FX7kbaIQ8wTCKLyQaH5Lb"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "Fica Tudo Bem",
+      "url": "https://open.spotify.com/track/5c4Yrl4GzS8vc4Mzq1LUFD"
     },
     {
       "added_at": "2022-09-21 18:04:26",
@@ -2655,18 +2655,18 @@
     {
       "added_at": "2022-09-21 18:04:26",
       "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+        "name": "Motor Psico",
+        "url": "https://open.spotify.com/album/0LgyAgeRdl9XdGnYXHzJGX"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
         }
       ],
-      "duration_ms": 249082,
-      "name": "No Se Rompe",
-      "url": "https://open.spotify.com/track/4IneEfd293hMaAr3z7ywU1"
+      "duration_ms": 296500,
+      "name": "Motor Psico",
+      "url": "https://open.spotify.com/track/2uwT02C1hcLamwIUPSyE1K"
     }
   ],
   "unique_name": "Caf\u00e9 con Leche",

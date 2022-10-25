@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,065 likes - 45 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,066 likes - 45 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 32 | [No Other One \- Remastered](https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm) | 3:37 |
 | 33 | [Feel Again \- Remastered](https://open.spotify.com/track/0SDV4Wvg7q19B2dQwAv2HB) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:37 |
 | 34 | [Can't Say Go](https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:23 |
-| 35 | [Tattoo](https://open.spotify.com/track/6n1kUdwc699rJD3A7sBKqb) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:12 |
+| 35 | [You're Beautiful](https://open.spotify.com/track/4E8dV8dmrt8bz6sTV6tKF6) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:19 |
 | 36 | [2020](https://open.spotify.com/track/0u39yW18Oo0pURg5XrtSOv) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Wonder Stereo](https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn) | [2020](https://open.spotify.com/album/1ZlOVBJe134G0mm1N9eIf9) | 2:25 |
 | 37 | [Take Me Back Remix \- feat\. Sway & Chipmunk](https://open.spotify.com/track/4MqsdeW1195zZVaMDSWbvj) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Take Me Back](https://open.spotify.com/album/0AGt9wI36usQYCNSTd0aQK) | 4:17 |
 | 38 | [Dynamate](https://open.spotify.com/track/3ie62ykCa9eFGM3LBK8gDS) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [DJ SNYPAYUSH](https://open.spotify.com/artist/4fR7R8Wats33udr7iae2Xr) | [Party Attitude](https://open.spotify.com/album/6tJ0Cy3DitXaUQh6TB1Y9w) | 4:05 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 44 | [Dynamite \- David May Rmx Edit](https://open.spotify.com/track/6akJJXxULYRHdtiaOOOIxe) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [David May](https://open.spotify.com/artist/5d0rLXoTGxF0XzX88MTKeK) | [The Annual Compilation 2012 \(Deluxe Edition\)](https://open.spotify.com/album/2SV2xl020G040bP0DVM4y3) | 4:40 |
 | 45 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDA2MzFmMGFkMDk3YmFlYmE3NWQzZGE3MmVmNDM0ZTEyZA==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDA0YTBhZjU4MTkxNjcyZWFmY2VkYzJkZmFkMzA2ZjcwYg==`

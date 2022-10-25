@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: THE BAWDIES
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,121 likes - 49 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,199 likes - 49 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 19 | [Slowhand ni Dakarete \(Oh Love!!\)](https://open.spotify.com/track/5dmD2fCgxHNMmOkP0i3A62) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [Fujin no Shozo \(Portrait of a Lady\)](https://open.spotify.com/album/6BQzYaKDVZSdJ8GqE91MsI) | 4:11 |
 | 20 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 |
 | 21 | [Only One,Only You](https://open.spotify.com/track/0ff65hi4fvwWPQWPcaIojp) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [Only One,Only You](https://open.spotify.com/album/2aNNePD0oTIU347BYE8b2x) | 4:28 |
-| 22 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 |
+| 22 | [出町柳パラレルユニバース](https://open.spotify.com/track/7wRI6losvhjrbPlpsx1tXZ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [出町柳パラレルユニバース](https://open.spotify.com/album/7esEraxgPxV0BlLBjaP8Gs) | 4:04 |
 | 23 | [UK](https://open.spotify.com/track/0v64fID8K31ZcxQeb7sFqL) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [UK](https://open.spotify.com/album/59lRDiU4fyHPMG1jiH42bO) | 3:30 |
-| 24 | [出町柳パラレルユニバース](https://open.spotify.com/track/7wRI6losvhjrbPlpsx1tXZ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [出町柳パラレルユニバース](https://open.spotify.com/album/7esEraxgPxV0BlLBjaP8Gs) | 4:04 |
+| 24 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 |
 | 25 | [Umi ni Naritai part.3](https://open.spotify.com/track/2mspLmFrpyqd4DCxGjN3Sz) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Umi ni Naritai part.3](https://open.spotify.com/album/2W9C8HL0Rkp2SwCLw4ySuh) | 3:36 |
-| 26 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 |
+| 26 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 |
 | 27 | [Hands Up to the Sky](https://open.spotify.com/track/7kiWVIA95A2H7TMYSrA0b5) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [Avid / Hands Up to the Sky](https://open.spotify.com/album/4Uyvexhl7bPlTTrYX5YPAp) | 3:32 |
 | 28 | [ギムレットには早すぎる](https://open.spotify.com/track/7CiyZc2GaNrPdZ4HjaPWCF) | [Koji Kikkawa](https://open.spotify.com/artist/1S6yZL1OIb51tEtbKg3iZ1) | [ギムレットには早すぎる](https://open.spotify.com/album/4DiVPnf9leDsfYNxqTRHH7) | 3:43 |
 | 29 | [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:41 |
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 36 | [I Just Threw Out The Love Of My Dreams](https://open.spotify.com/track/3fKJhq2KV5mnxcEBDBlxeO) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [出町柳パラレルユニバース](https://open.spotify.com/album/6BGCOeart36zrZsEN9vOs7) | 2:48 |
 | 37 | [なないろ](https://open.spotify.com/track/5LOISm9qukDm7veN4Fqgnc) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [なないろ](https://open.spotify.com/album/3AlWWIGwJoaTuSMa9epb3e) | 4:22 |
 | 38 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [PARADISE \(Kill The Silence\)](https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7) | 3:43 |
-| 39 | [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 |
-| 40 | [COMEBACK \-愛しき破片\-](https://open.spotify.com/track/7Mgn8p0451fAjylZny6ABK) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [COMEBACK \-愛しき破片\-](https://open.spotify.com/album/1kIuGGIYH31Y9ev3q2DmA3) | 4:26 |
+| 39 | [COMEBACK \-愛しき破片\-](https://open.spotify.com/track/7Mgn8p0451fAjylZny6ABK) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [COMEBACK \-愛しき破片\-](https://open.spotify.com/album/1kIuGGIYH31Y9ev3q2DmA3) | 4:26 |
+| 40 | [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 |
 | 41 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 |
 | 42 | [Papersky](https://open.spotify.com/track/27Aet7xWrKxC6Yvw6S6Si3) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Papersky](https://open.spotify.com/album/0O07iy0DxbwL1TGOntCBIq) | 4:16 |
 | 43 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 |
-| 44 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 |
-| 45 | [Future Tone Bender](https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 3:52 |
+| 44 | [Future Tone Bender](https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 3:52 |
+| 45 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 |
 | 46 | [Light It Up](https://open.spotify.com/track/27H9AHFWDxMjxbUzIAzqwg) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Light It Up](https://open.spotify.com/album/0uAuIWSSbAmIxK4omHsljd) | 3:10 |
-| 47 | [Drive Far](https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Hateful Failures](https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP) | 3:16 |
-| 48 | [原罪と福音](https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [総合](https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp) | 4:40 |
-| 49 | [More Than Words](https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [More Than Words](https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC) | 3:50 |
+| 47 | [原罪と福音](https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [総合](https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp) | 4:40 |
+| 48 | [More Than Words](https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [More Than Words](https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC) | 3:50 |
+| 49 | [閃光 \- English ver.](https://open.spotify.com/track/3qDky2Jzzp4MQ2dKTNfVLe) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/4g7RyFbsJV7WSxBKvialqK) | 4:25 |
 
-Snapshot ID: `MTY2NjI3ODAwMCwwMDAwMDAwMGM5N2Y2ZjllNWI5ZDI5ZmIzMjg2ZDAyYWEyYTNjNTc2`
+Snapshot ID: `MTY2NjI3ODAwMCwwMDAwMDAwMDE3YWU2NmQ5MWM3Y2RkM2M1ZTE5YzQ3NWNkNmM0NGI1`

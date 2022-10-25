@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,346 likes - 64 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,515 likes - 64 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 2 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 |
 | 3 | [Dreaming of Arabia](https://open.spotify.com/track/0rjWngexJxYIMQktacJMSD) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [Arabian Spa \(Middle Eastern Music\)](https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX) | 3:47 |
 | 4 | [432hz Sea of Fog](https://open.spotify.com/track/6sV4fBPsUMAiEIygFXViK1) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Healing Sounds from the Middle East](https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn) | 3:54 |
-| 5 | [Meditation](https://open.spotify.com/track/5Z4lXr3SC43QgYmhXeHNaA) | [Sufi Lounge](https://open.spotify.com/artist/4NmV2aAqjIDi2nVhKjsk39) | [Meditation](https://open.spotify.com/album/3LmunxZ9ihwNanicxMpqYl) | 2:11 |
-| 6 | [Dreams of Calmness](https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Dreams of Calmness](https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT) | 2:34 |
-| 7 | [Duduk Love](https://open.spotify.com/track/5SzRp6YO1xWMvJvYALJNmP) | [Bakshi Breeze](https://open.spotify.com/artist/3x4SAtpZRUbY58nKIXTjSt) | [Duduk Love](https://open.spotify.com/album/49ucNCngXEm6Mcqn4iwTLk) | 2:56 |
-| 8 | [Savasana Dream](https://open.spotify.com/track/1UJSTJmCGyVMiF66dlIvLv) | [Wellness Portal](https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs) | [Savasana Dream](https://open.spotify.com/album/6McMuE7IKh65r5Gj8YciCS) | 2:44 |
-| 9 | [Healing](https://open.spotify.com/track/120juWqk4ShxUDo1AzPAlA) | [The 2 Inversions](https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ) | [Healing](https://open.spotify.com/album/0FDntcyVJxyFwj4Xv13JTk) | 2:02 |
-| 10 | [The Force & Heka](https://open.spotify.com/track/1j0y3A8zteJBD7HHxjbMgi) | [Desert Oasis Ensemble](https://open.spotify.com/artist/6uYXTp8nqbTh2KxABcLLSB) | [Ancient Mystical Egypt](https://open.spotify.com/album/1zzBtsnLZEWq1JMZT3Th5B) | 2:31 |
+| 5 | [Dreams of Calmness](https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Dreams of Calmness](https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT) | 2:34 |
+| 6 | [Duduk Love](https://open.spotify.com/track/5SzRp6YO1xWMvJvYALJNmP) | [Bakshi Breeze](https://open.spotify.com/artist/3x4SAtpZRUbY58nKIXTjSt) | [Duduk Love](https://open.spotify.com/album/49ucNCngXEm6Mcqn4iwTLk) | 2:56 |
+| 7 | [Savasana Dream](https://open.spotify.com/track/1UJSTJmCGyVMiF66dlIvLv) | [Wellness Portal](https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs) | [Savasana Dream](https://open.spotify.com/album/6McMuE7IKh65r5Gj8YciCS) | 2:44 |
+| 8 | [Healing](https://open.spotify.com/track/120juWqk4ShxUDo1AzPAlA) | [The 2 Inversions](https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ) | [Healing](https://open.spotify.com/album/0FDntcyVJxyFwj4Xv13JTk) | 2:02 |
+| 9 | [The Force & Heka](https://open.spotify.com/track/1j0y3A8zteJBD7HHxjbMgi) | [Desert Oasis Ensemble](https://open.spotify.com/artist/6uYXTp8nqbTh2KxABcLLSB) | [Ancient Mystical Egypt](https://open.spotify.com/album/1zzBtsnLZEWq1JMZT3Th5B) | 2:31 |
+| 10 | [Meditation](https://open.spotify.com/track/5Z4lXr3SC43QgYmhXeHNaA) | [Sufi Lounge](https://open.spotify.com/artist/4NmV2aAqjIDi2nVhKjsk39) | [Meditation](https://open.spotify.com/album/3LmunxZ9ihwNanicxMpqYl) | 2:11 |
 | 11 | [दुनिया के सपने](https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [दुनिया के सपने](https://open.spotify.com/album/0ihKyQCEMBXP9OzZLvnppA) | 2:03 |
 | 12 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 |
 | 13 | [Restore Balance](https://open.spotify.com/track/6RI7dZ4M2PAkHtCypMnSoL) | [Oasis of Relaxation and Meditation](https://open.spotify.com/artist/1f9ymt2Hm1RUD18aA7B1bT) | [Middle Eastern Meditation \(Relaxing Arabic Music, Spirituality, Sacred Relaxation, Prophetic Healing\)](https://open.spotify.com/album/4m754WhMXAVWoF7SkWhWc8) | 3:47 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 63 | [Anatolia](https://open.spotify.com/track/6hEN2MHD98OWVTiX3vmX9u) | [Sufi Music Ensemble](https://open.spotify.com/artist/1ix9du49JgezeHOdRlAq8B) | [Himma](https://open.spotify.com/album/69pxnvITOgpIJ4aPwDecbQ) | 8:07 |
 | 64 | [Raqsat albedoi](https://open.spotify.com/track/0LqbB6gdqYV3YZQjv52VC7) | [Ahmed Mukhtar](https://open.spotify.com/artist/1hx8suKwq86AfSk8LcgFTa), [Sattar Al\-Saadi](https://open.spotify.com/artist/7jVCcEEugAHRdcJDtoALXH) | [Music form Iraq: Rhythms of Baghdad](https://open.spotify.com/album/5VgBB99flx04RpN43MH2vx) | 5:27 |
 
-Snapshot ID: `MTY2NDUzNTcyMCwwMDAwMDAwMGE5NTYxYzI0NzM1NTg3ZTgyMjM4ZThiZmYwZmQxMTlh`
+Snapshot ID: `MTY2NjYxODg4OSwwMDAwMDAwMDUyMjBiYjlhY2E2NDNiMzdjY2IwMjg3OGY4M2VhNTkz`

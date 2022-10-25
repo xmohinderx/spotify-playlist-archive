@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,930 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,077 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Zahri Win Wana Win](https://open.spotify.com/track/7JaAkijrRoUPIeJaLJbLoq) | [Abdou Goumbita](https://open.spotify.com/artist/2c5isiSrNIixIIqPQABwo9) | [Zahri Win Wana Win](https://open.spotify.com/album/7jKeS8lavzWlG7r9DPIGud) | 3:04 |
-| 2 | [GHAZALI](https://open.spotify.com/track/1hZrz8xkp0QEJNNmdKYNVP) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/7Abvw9BQxOgFT6FTld7zoC) | 5:04 |
+| 1 | [GHAZALI](https://open.spotify.com/track/1hZrz8xkp0QEJNNmdKYNVP) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/7Abvw9BQxOgFT6FTld7zoC) | 5:04 |
+| 2 | [Zahri Win Wana Win](https://open.spotify.com/track/7JaAkijrRoUPIeJaLJbLoq) | [Abdou Goumbita](https://open.spotify.com/artist/2c5isiSrNIixIIqPQABwo9) | [Zahri Win Wana Win](https://open.spotify.com/album/7jKeS8lavzWlG7r9DPIGud) | 3:04 |
 | 3 | [La Faute Machi Fik](https://open.spotify.com/track/0ojwGiICDOIGEU9BJEpRFW) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2), [Cheba Dalila](https://open.spotify.com/artist/5CZ5sGdn0X47HhndSYKqdz) | [La Faute Machi Fik](https://open.spotify.com/album/0jHuBbd36BrkF1Ct1D63zJ) | 4:22 |
 | 4 | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/track/4hQgTdJF1Z1PdDrhjYBiUC) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/album/2FN9F2iscX3gYpuqvsxAdD) | 5:25 |
 | 5 | [Hiya Tzawjat Wana Nghbnet](https://open.spotify.com/track/5tc8bdNrYN8GzcVJbYIlp4) | [Cheb Lotfi](https://open.spotify.com/artist/0FGxUTcyQRfL287iqNCJ6h) | [Hiya Tzawjat Wana Nghbnet](https://open.spotify.com/album/63sI8qiT2XPZMdplp9U7B6) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 49 | [Way Way](https://open.spotify.com/track/4fhtWJkjPXZNRfS6x94OZf) | [Mouss Maher](https://open.spotify.com/artist/7n40iNdXEPUvQkURa7c3Xv), [Cheikh Nano](https://open.spotify.com/artist/2DcBVx9B2rez95bOTb1cDH) | [Way Way](https://open.spotify.com/album/0gdIW2pOUSBwTUagG5IwfU) | 4:19 |
 | 50 | [Edini B3ida](https://open.spotify.com/track/6DU9DquhwAQMQJ0Pkud1ea) | [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt), [Moh Casanova](https://open.spotify.com/artist/2Gp9AQhiBIp0LI25z2QMm3) | [Edini B3ida](https://open.spotify.com/album/5gxEFRpmHjoGxWvGd7AiBZ) | 3:56 |
 
-Snapshot ID: `MTY2NjUwMTQ4NiwwMDAwMDAwMDRiZjJlNWFiNDA4ZTQ2NmMzMWM2NDY3M2VlNjhkODk2`
+Snapshot ID: `MTY2NjYxMjUwMSwwMDAwMDAwMDQ1ZmQ4NWJhZWIwOWFlOTI1YjliMjg1ZDU4OGQ2MjZj`

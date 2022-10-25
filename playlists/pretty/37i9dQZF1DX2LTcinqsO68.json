@@ -1,12 +1,12 @@
 {
   "description": "Like the old school sound of metal? Then you'll love this playlist! Cover: Megadeth",
-  "num_followers": 2342560,
+  "num_followers": 2343277,
   "original_name": "Old School Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk4MjYyOCwwMDAwMDAwMGI4Y2E4MDhjMDQwOGJkNzVkZmMyNDE3MTNmMWJiZTEw",
+  "snapshot_id": "MTY2NDk4MjYyOCwwMDAwMDAwMDAwNjVhMDM2Y2IxNTk1OTY4NjZkYjk1OTczMTI4NDEw",
   "tracks": [
     {
       "added_at": "2022-10-05 15:10:28",
@@ -91,38 +91,6 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Highway to Hell",
-        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "Highway to Hell",
-      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
-    },
-    {
-      "added_at": "2022-10-05 15:10:28",
-      "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Rock And Roll All Nite",
-      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
-    },
-    {
-      "added_at": "2022-10-05 15:10:28",
-      "album": {
         "name": "Master of Puppets (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
       },
@@ -171,6 +139,38 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "added_at": "2022-10-05 15:10:28",
+      "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
+    },
+    {
+      "added_at": "2022-10-05 15:10:28",
+      "album": {
         "name": "Ace of Spades (Expanded Edition)",
         "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
       },
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Panama - 2015 Remaster",
-      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
-    },
-    {
-      "added_at": "2022-10-05 15:10:28",
-      "album": {
         "name": "Trash",
         "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
       },
@@ -235,18 +219,18 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Love At First Sting",
-        "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 252493,
-      "name": "Rock You Like A Hurricane",
-      "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -263,6 +247,22 @@
       "duration_ms": 292880,
       "name": "Thunderstruck",
       "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+      "added_at": "2022-10-05 15:10:28",
+      "album": {
+        "name": "Love At First Sting",
+        "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "Rock You Like A Hurricane",
+      "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+    },
+    {
+      "added_at": "2022-10-05 15:10:28",
+      "album": {
         "name": "Girls, Girls, Girls (Deluxe Version)",
         "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2022-10-05 15:10:28",
-      "album": {
         "name": "Metal Health",
         "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 290960,
       "name": "Cum on Feel the Noize",
       "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
+    },
+    {
+      "added_at": "2022-10-05 15:10:28",
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -423,22 +439,6 @@
       "duration_ms": 194986,
       "name": "Shout At The Devil",
       "url": "https://open.spotify.com/track/6VZivrPxu9MJ5rIPIERg56"
-    },
-    {
-      "added_at": "2022-10-05 15:10:28",
-      "album": {
-        "name": "...And Justice for All (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 446145,
-      "name": "One (Remastered)",
-      "url": "https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -507,34 +507,18 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Van Halen (Remastered)",
-        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+        "name": "...And Justice for All (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Runnin' with the Devil - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
-    },
-    {
-      "added_at": "2022-10-05 15:10:28",
-      "album": {
-        "name": "High Voltage",
-        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "T.N.T.",
-      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
+      "duration_ms": 446145,
+      "name": "One (Remastered)",
+      "url": "https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -551,22 +535,6 @@
       "duration_ms": 310080,
       "name": "You've Got Another Thing Coming",
       "url": "https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm"
-    },
-    {
-      "added_at": "2022-10-05 15:10:28",
-      "album": {
-        "name": "Bark At The Moon (Expanded Edition)",
-        "url": "https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 257120,
-      "name": "Bark at the Moon",
-      "url": "https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -603,6 +571,22 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Runnin' with the Devil - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
+    },
+    {
+      "added_at": "2022-10-05 15:10:28",
+      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
@@ -635,18 +619,34 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Van Halen (Remastered)",
-        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+        "name": "Bark At The Moon (Expanded Edition)",
+        "url": "https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 102080,
-      "name": "Eruption - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2tAeN2TKlQLOoSPXtARzBV"
+      "duration_ms": 257120,
+      "name": "Bark at the Moon",
+      "url": "https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs"
+    },
+    {
+      "added_at": "2022-10-05 15:10:28",
+      "album": {
+        "name": "Shout At The Devil",
+        "url": "https://open.spotify.com/album/7xuz2r1QalMeEVkYuDfPgY"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "Looks That Kill",
+      "url": "https://open.spotify.com/track/74BDVL4TC3P8wyrYViuVjO"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -679,6 +679,22 @@
       "duration_ms": 252733,
       "name": "The Trooper - 2015 Remaster",
       "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
+    },
+    {
+      "added_at": "2022-10-05 15:10:28",
+      "album": {
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 102080,
+      "name": "Eruption - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2tAeN2TKlQLOoSPXtARzBV"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -731,22 +747,6 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Shout At The Devil",
-        "url": "https://open.spotify.com/album/7xuz2r1QalMeEVkYuDfPgY"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "Looks That Kill",
-      "url": "https://open.spotify.com/track/74BDVL4TC3P8wyrYViuVjO"
-    },
-    {
-      "added_at": "2022-10-05 15:10:28",
-      "album": {
         "name": "Holy Diver",
         "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "South Of Heaven",
-        "url": "https://open.spotify.com/album/2UqJjz5eMYRzbbKToD3Peh"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 298533,
-      "name": "South Of Heaven",
-      "url": "https://open.spotify.com/track/3U9gogDStAfWxSm91PJuxb"
-    },
-    {
-      "added_at": "2022-10-05 15:10:28",
-      "album": {
         "name": "The Ultimate Sin",
         "url": "https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Kill 'Em All (Remastered)",
-        "url": "https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o"
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 414720,
-      "name": "Seek & Destroy (Remastered)",
-      "url": "https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -859,18 +843,34 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o"
       },
       "artists": [
         {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 342173,
-      "name": "Smoke on the Water",
-      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
+      "duration_ms": 414720,
+      "name": "Seek & Destroy (Remastered)",
+      "url": "https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"
+    },
+    {
+      "added_at": "2022-10-05 15:10:28",
+      "album": {
+        "name": "South Of Heaven",
+        "url": "https://open.spotify.com/album/2UqJjz5eMYRzbbKToD3Peh"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 298533,
+      "name": "South Of Heaven",
+      "url": "https://open.spotify.com/track/3U9gogDStAfWxSm91PJuxb"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "Strutter",
-      "url": "https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV"
-    },
-    {
-      "added_at": "2022-10-05 15:10:28",
-      "album": {
         "name": "W.A.S.P.",
         "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "Strutter",
+      "url": "https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV"
+    },
+    {
+      "added_at": "2022-10-05 15:10:28",
+      "album": {
         "name": "Invasion of Your Privacy",
         "url": "https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Spreading The Disease",
-        "url": "https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 259760,
-      "name": "Madhouse",
-      "url": "https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"
-    },
-    {
-      "added_at": "2022-10-05 15:10:28",
-      "album": {
         "name": "Rising",
         "url": "https://open.spotify.com/album/3uIT4I4Dy7Pq1j0aSjzPW9"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 506160,
       "name": "Stargazer",
       "url": "https://open.spotify.com/track/1aDNYyeU62BuQsBAY18i48"
+    },
+    {
+      "added_at": "2022-10-05 15:10:28",
+      "album": {
+        "name": "Spreading The Disease",
+        "url": "https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 259760,
+      "name": "Madhouse",
+      "url": "https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Mechanical Resonance",
-        "url": "https://open.spotify.com/album/1VctZj1UuAgfqtnDcTlzGI"
-      },
-      "artists": [
-        {
-          "name": "Tesla",
-          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
-        }
-      ],
-      "duration_ms": 318226,
-      "name": "Modern Day Cowboy",
-      "url": "https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O"
-    },
-    {
-      "added_at": "2022-10-05 15:10:28",
-      "album": {
         "name": "Difficult To Cure",
         "url": "https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 241893,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn"
+    },
+    {
+      "added_at": "2022-10-05 15:10:28",
+      "album": {
+        "name": "Mechanical Resonance",
+        "url": "https://open.spotify.com/album/1VctZj1UuAgfqtnDcTlzGI"
+      },
+      "artists": [
+        {
+          "name": "Tesla",
+          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
+        }
+      ],
+      "duration_ms": 318226,
+      "name": "Modern Day Cowboy",
+      "url": "https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Love At First Sting",
-        "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 249306,
-      "name": "Big City Nights",
-      "url": "https://open.spotify.com/track/5LDZbklcDwQeeScf7dUlo4"
+      "duration_ms": 368506,
+      "name": "Highway Star",
+      "url": "https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+        "name": "Love At First Sting",
+        "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
       },
       "artists": [
         {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
         }
       ],
-      "duration_ms": 368506,
-      "name": "Highway Star",
-      "url": "https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX"
+      "duration_ms": 249306,
+      "name": "Big City Nights",
+      "url": "https://open.spotify.com/track/5LDZbklcDwQeeScf7dUlo4"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Breaking the Chains",
-        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
-      },
-      "artists": [
-        {
-          "name": "Dokken",
-          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Breaking the Chains",
-      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
-    },
-    {
-      "added_at": "2022-10-05 15:10:28",
-      "album": {
         "name": "Ride The Lightning (Deluxe Remaster)",
         "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 284506,
       "name": "Fight Fire With Fire (Remastered)",
       "url": "https://open.spotify.com/track/0WSRrGVg1gO33MKIBPgBV2"
+    },
+    {
+      "added_at": "2022-10-05 15:10:28",
+      "album": {
+        "name": "Breaking the Chains",
+        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Breaking the Chains",
+      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/55qNkmFdL2xRZ728GIQcc1"
-      },
-      "artists": [
-        {
-          "name": "Stratovarius",
-          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
-        }
-      ],
-      "duration_ms": 340240,
-      "name": "Black Diamond",
-      "url": "https://open.spotify.com/track/1EoN7hqAsyuTUrBjJPzWJF"
-    },
-    {
-      "added_at": "2022-10-05 15:10:28",
-      "album": {
         "name": "Powerslave (2015 - Remaster)",
         "url": "https://open.spotify.com/album/2HPWTaRPYl0Iu3lJrI5V2z"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 363586,
       "name": "2 Minutes to Midnight - 2015 Remaster",
       "url": "https://open.spotify.com/track/4sAjWbPq6iSI6I0Ovr9CkY"
+    },
+    {
+      "added_at": "2022-10-05 15:10:28",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/55qNkmFdL2xRZ728GIQcc1"
+      },
+      "artists": [
+        {
+          "name": "Stratovarius",
+          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+        }
+      ],
+      "duration_ms": 340240,
+      "name": "Black Diamond",
+      "url": "https://open.spotify.com/track/1EoN7hqAsyuTUrBjJPzWJF"
     },
     {
       "added_at": "2022-10-05 15:10:28",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-10-05 15:10:28",
       "album": {
-        "name": "Among The Living (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/37io57O2XOMcchxYVsyhHm"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 300093,
-      "name": "Caught In A Mosh",
-      "url": "https://open.spotify.com/track/0c6p9QomOhNU9uzujLjtsD"
-    },
-    {
-      "added_at": "2022-10-05 15:10:28",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 283226,
       "name": "Burn in Hell",
       "url": "https://open.spotify.com/track/1aVChMRP6I3ViAIlnW3WYS"
+    },
+    {
+      "added_at": "2022-10-05 15:10:28",
+      "album": {
+        "name": "Among The Living (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/37io57O2XOMcchxYVsyhHm"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 300093,
+      "name": "Caught In A Mosh",
+      "url": "https://open.spotify.com/track/0c6p9QomOhNU9uzujLjtsD"
     },
     {
       "added_at": "2022-10-05 15:10:28",

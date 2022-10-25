@@ -4,7 +4,7 @@
 
 > Esto es un perreo a lo Jhayco.
 
-324 songs - 18 hr 19 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
+325 songs - 18 hr 23 min - [published](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Fanático \(feat\. Feid & De La Ghetto\) \- Remix](https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Fanático \(feat\. Feid & De La Ghetto\) \[Remix\]](https://open.spotify.com/album/7BA2zaBLTBByNwceB6klnO) | 5:10 | 2021-12-24 | 2022-05-20 |
 | [Finde](https://open.spotify.com/track/0C9s3OmKgCfHioXDnRoKGd) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Finde](https://open.spotify.com/album/1MNJtSetQcAc4EvyFraxoV) | 3:21 | 2021-12-24 | 2022-02-12 |
 | [Flow HP](https://open.spotify.com/track/2wspc75R45gvwJCZOorAqv) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Flow HP](https://open.spotify.com/album/36ZKw8lFS9awLSyvnGkc5S) | 4:08 | 2021-12-24 | 2022-03-05 |
+| [Fory Fory](https://open.spotify.com/track/1t5BHmDsSJN3IjN2lx0B9m) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Fory Fory](https://open.spotify.com/album/1TNPOGVRM0VeJaH3lc3Eqv) | 3:42 | 2022-10-24 |  |
 | [Fragancia \(with Jay Wheeler\)](https://open.spotify.com/track/3YNolHalg56UrvPabqw6JP) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Fragancia \(with Jay Wheeler\)](https://open.spotify.com/album/6IvNKfgj37xVwthEmXHcMK) | 3:57 | 2021-12-24 | 2022-01-29 |
 | [FRIKI](https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [FRIKI](https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2) | 2:24 | 2021-12-24 | 2022-07-08 |
 | [Fuego Forestal](https://open.spotify.com/track/1G5rMuBltKhOavItlryMIO) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Fuego Forestal](https://open.spotify.com/album/3RIn81bgJPiH4XmMlDUm0Q) | 3:18 | 2022-08-26 |  |

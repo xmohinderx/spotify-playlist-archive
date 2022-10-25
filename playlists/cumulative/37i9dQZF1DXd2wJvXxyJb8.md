@@ -4,7 +4,7 @@
 
 > só hit bombado e viralizado na net! confia
 
-162 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
+164 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/3ZCsRJhuxv7PAx5MFF7E1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,10 +13,12 @@
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-05-26 | 2022-09-22 |
 | [ACORDA PEDRINHO](https://open.spotify.com/track/2sUhjzuc6w4SRFwoC3LvXZ) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [ACORDA PEDRINHO](https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6) | 2:53 | 2022-05-26 |  |
 | [All For Us](https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 3:11 | 2022-05-26 |  |
+| [AMEIANOITE](https://open.spotify.com/track/6RaolvdZThLHWf0ROWRvW8) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [AMEIANOITE](https://open.spotify.com/album/2DMrlO0tm4eE4ZEE1JZulX) | 2:45 | 2022-10-24 |  |
 | [Amiga](https://open.spotify.com/track/63Kaskt6dmoNKDifEeKtLX) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Amiga](https://open.spotify.com/album/4NTdTOPg1rzRrukME3IVk3) | 2:15 | 2022-05-26 | 2022-08-26 |
 | [Antes](https://open.spotify.com/track/2XymTaHTrQWDEuSyhfZvqF) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:49 | 2022-05-26 |  |
 | [Apita](https://open.spotify.com/track/5m2XYNroEL5ceFFPDngYe2) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Apita](https://open.spotify.com/album/7ECb1Hl5GRZKbf7DxdYvmv) | 3:53 | 2022-05-26 | 2022-09-22 |
 | [Aqui Em BH Ninguém É de Ninguém](https://open.spotify.com/track/23vsRADpsucFPXZwRZtnU0) | [Dj Scar](https://open.spotify.com/artist/4TU81hdJFiCuzvaPsajuUo), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [MC TH DA SERRA](https://open.spotify.com/artist/4OKS4k4lBy2KOeftVHJDXu), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [Aqui Em BH Ninguém É de Ninguém](https://open.spotify.com/album/4MziE9em0P5p1sr35zj2OG) | 2:40 | 2022-05-26 | 2022-09-09 |
+| [Aqui Na Parma Tu Vem Pra Fuder](https://open.spotify.com/track/3euydCfGHLFjuwHA7G7AUJ) | [DJ CIRILO DE CAXIAS](https://open.spotify.com/artist/4vU3LV354CpezI42tPRiVN), [Kaeny Mc](https://open.spotify.com/artist/0GM5Kxf1k00U2KzgFznWxi) | [Aqui Na Parma Tu Vem Pra Fuder](https://open.spotify.com/album/6TLHkb7dghgkYTlmtrZkM8) | 2:51 | 2022-10-24 |  |
 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 | 2022-05-26 | 2022-09-22 |
 | [Até a Próxima Vida \- Cover](https://open.spotify.com/track/6HoHb1lKB49MHnt3AHj8j5) | [CESINHA MELLO](https://open.spotify.com/artist/6y5AaWOVdRE2xb4eXWQChQ), [Nivaldo Marques](https://open.spotify.com/artist/3CuBahQ7dQ7zZohxh6sLRc) | [Até a Próxima Vida \(Cover\)](https://open.spotify.com/album/6IG9pUUxywSVa5GjtDnq0X) | 3:21 | 2022-06-30 | 2022-07-29 |
 | [Babalu \- Remix](https://open.spotify.com/track/0DZ5OCPdJaQeXh0Lsz6c9y) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Babalu \(Remix\)](https://open.spotify.com/album/0NCMQFKABUxbTHmkFvx0C7) | 2:52 | 2022-05-26 |  |

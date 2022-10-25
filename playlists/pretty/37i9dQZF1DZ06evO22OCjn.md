@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,606 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,741 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 9 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 |
 | 10 | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC) | 3:27 |
 | 11 | [Loved By You \(feat\. Burna Boy\)](https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:39 |
-| 12 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 |
+| 12 | [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 |
 | 13 | [Wild Dreams \(feat\. Khalid\)](https://open.spotify.com/track/2cgamRofJ1iWxAHD801DNu) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:06 |
-| 14 | [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 |
+| 14 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 |
 | 15 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 |
 | 16 | [Real Life \(feat\. Stormzy\)](https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:17 |
 | 17 | [Vanilla](https://open.spotify.com/track/0jjH8vwVEENKNpDPWWOwuK) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:35 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 37 | [Tomorrow](https://open.spotify.com/track/2eG4u4LHx1LpNjokkvsNmn) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Gamble](https://open.spotify.com/album/2qhCjeSlCUR3EeSceXNWbo) | 3:22 |
 | 38 | [Pree Me](https://open.spotify.com/track/6g8A0XVikKuWbcJv7p2I5Q) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Pree Me](https://open.spotify.com/album/43FqJMK4CBZv6YutODuaE3) | 3:20 |
 | 39 | [Last Last \(Burna Boy\) \- Sped Up Version](https://open.spotify.com/track/2lLTD38nzUR8Lku7dq7Jm2) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last \(Burna Boy\) \[Sped Up Version\]](https://open.spotify.com/album/0AcNAH4aRIf6jtz2w1lbHI) | 2:11 |
-| 40 | [Soke](https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [On A Spaceship](https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev) | 3:38 |
+| 40 | [Pull Up](https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:16 |
 | 41 | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/track/5UZRiz52aaoW64Sp88qVQc) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/album/2bgY8geITSqxDXCANBdrg9) | 2:39 |
-| 42 | [Pull Up](https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:16 |
+| 42 | [Soke](https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [On A Spaceship](https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev) | 3:38 |
 | 43 | [Miss You Bad](https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:56 |
 | 44 | [Onyeka \(Baby\)](https://open.spotify.com/track/2v52t6uTRjPIgnh9HHBAaf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 3:22 |
 | 45 | [Wonderful](https://open.spotify.com/track/1bKhbFn3isNTQR9dU0sWqL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Wonderful](https://open.spotify.com/album/71uD3BHqDgHMayzi5eN2Dm) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [Odogwu](https://open.spotify.com/track/5jeFguGsmlRXUj66Z94JOJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Odogwu](https://open.spotify.com/album/19JGoIUmAKqUPCegVYepEA) | 3:05 |
 | 50 | [Calm Down](https://open.spotify.com/track/56XIgOY2j7nL5xUtuKXACL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 4:25 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDA4N2FjMzczNTlmMmQxMTg5YzE1MzI4MDk3ZGUxNTIyMQ==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDAyMTUwNjU2Zjg4NTkwYTQ1ZDY3ZTFmYjg3NjM4MGVhZQ==`

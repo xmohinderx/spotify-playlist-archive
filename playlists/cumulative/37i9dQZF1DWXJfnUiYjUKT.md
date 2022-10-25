@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Taylor Swift
 
-4,230 songs - 9 day 6 hr 18 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
+4,232 songs - 9 day 6 hr 25 min - [published](https://open.spotify.com/playlist/5wehzvuAdBk8faZ6p0CSjF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1238,7 +1238,8 @@
 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 | 2022-08-26 | 2022-09-03 |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-03-24 | 2022-04-01 |
 | [Feeling Like I Do \- Spotify Singles](https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Spotify Singles](https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN) | 3:56 | 2022-07-01 | 2022-07-08 |
-| [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 | 2022-10-21 |  |
+| [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 | 2022-10-21 | 2022-10-25 |
+| [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 | 2022-10-21 |  |
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-11 | 2022-03-18 |
 | [Feelwitchu](https://open.spotify.com/track/4bLjPoP25YBKGei1CfBgE2) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [Feelwitchu](https://open.spotify.com/album/1nVbkkqBv9jD0C7eEG5eDf) | 3:13 | 2022-01-07 | 2022-01-14 |
 | [Felices Perdidos](https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [777](https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M) | 3:29 | 2022-10-14 | 2022-10-22 |
@@ -2202,7 +2203,8 @@
 | [Lion's Den](https://open.spotify.com/track/49m65vl51EzevQwPjlFHNd) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Lion's Den](https://open.spotify.com/album/4cIDxoOQjGAAFzXXyvnSkn) | 3:16 | 2022-07-15 | 2022-07-22 |
 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 | 2022-10-21 |  |
 | [Lipstick](https://open.spotify.com/track/2aG8DaUYPtNmlbvp6mLEXr) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H) | 2:51 | 2022-04-28 | 2022-05-06 |
-| [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 | 2022-10-21 |  |
+| [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 | 2022-10-21 | 2022-10-25 |
+| [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/5ykuFZXYbA8frwBmutsoFx) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:18 | 2022-10-21 |  |
 | [Little Big Girl](https://open.spotify.com/track/6ofBUlfcZrEw7oGbLbVaBA) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6) | 3:18 | 2022-01-28 | 2022-02-04 |
 | [little bit \(feat\. GASHI\)](https://open.spotify.com/track/7wS1byPUBExSZ0lcF1ZbT1) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [little bit \(feat\. GASHI\)](https://open.spotify.com/album/02sxM3EBgHV6M8DWnayNLU) | 3:05 | 2022-01-21 | 2022-01-28 |
 | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/track/7imJEoNqRJL4n8OQEChzWG) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/album/4JShuZ6qkG6qk6yUVQHVM2) | 2:40 | 2022-01-14 | 2022-01-21 |

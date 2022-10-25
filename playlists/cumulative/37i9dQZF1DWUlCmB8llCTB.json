@@ -2426,6 +2426,32 @@
     },
     {
       "album": {
+        "name": "Fory Fory",
+        "url": "https://open.spotify.com/album/1TNPOGVRM0VeJaH3lc3Eqv"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Ecko",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222631,
+      "name": "Fory Fory",
+      "url": "https://open.spotify.com/track/1t5BHmDsSJN3IjN2lx0B9m"
+    },
+    {
+      "album": {
         "name": "Fragancia (with Jay Wheeler)",
         "url": "https://open.spotify.com/album/6IvNKfgj37xVwthEmXHcMK"
       },

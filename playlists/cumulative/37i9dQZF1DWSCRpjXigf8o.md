@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-60 songs - 3 hr 41 min - not published yet
+61 songs - 3 hr 44 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-10-20 |  |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-10-20 |  |
 | [Paradise \(feat\. Kan Sano\)](https://open.spotify.com/track/1rYIL0KBb2u19Vmnlcje4x) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Paradise \(feat\. Kan Sano\)](https://open.spotify.com/album/6isB4u1HezmW9K8dMxr4Sw) | 4:31 | 2022-10-20 |  |
-| [Part Of The Band](https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Part Of The Band](https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM) | 4:20 | 2022-10-20 |  |
+| [Part Of The Band](https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Part Of The Band](https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM) | 4:20 | 2022-10-20 | 2022-10-25 |
 | [Praying for July \- Spotify Singles](https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Praying for July \- Spotify Singles](https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C) | 3:06 | 2022-10-20 |  |
 | [Rainy Runway](https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Rainy Runway](https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH) | 4:01 | 2022-10-20 |  |
 | [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 | 2022-10-20 |  |
@@ -58,6 +58,7 @@
 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 | 2022-10-20 |  |
 | [Walked Through Hell](https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Walked Through Hell](https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i) | 3:36 | 2022-10-20 |  |
 | [When You Love Someone](https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:36 | 2022-10-20 |  |
+| [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 | 2022-10-20 |  |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2022-10-20 |  |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 | 2022-10-20 |  |
 | [まばら \- feat\. missa](https://open.spotify.com/track/4IWJMJDFmwh0GyEGSIwcFG) | [ioni](https://open.spotify.com/artist/3QpmyEcdhAM9Y0ZAyN5q6z), [missa](https://open.spotify.com/artist/6B4tdctJogbdK6Kr5hRRFs) | [Autumn ep](https://open.spotify.com/album/0NyNMvyyD4gRkXLmYX7p5W) | 4:21 | 2022-10-20 |  |

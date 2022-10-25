@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > William Bowery, can you fight?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,703,518 likes - 107 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,703,809 likes - 107 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

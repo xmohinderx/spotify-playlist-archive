@@ -4,7 +4,7 @@
 
 > JAWNY makes anti pop.
 
-1,118 songs - 2 day 6 hr 17 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,120 songs - 2 day 6 hr 22 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [BYE](https://open.spotify.com/track/3OUyyDN7EZrL7i0Sbi5SVd) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [BYE](https://open.spotify.com/album/4TVz7u3xhjsYYI2Ir8ZUbW) | 4:56 | 2021-08-05 | 2021-10-13 |
 | [Cabin Fever Freestyle](https://open.spotify.com/track/3WV1GjGYzUCodUftArXMln) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [LUNO](https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ) | 4:44 | 2021-05-29 | 2022-02-12 |
 | [cactus flowers](https://open.spotify.com/track/6AElOTwdEAPRVnozEzJ2q6) | [Christian Rich](https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l) | [pretty / REALIZE](https://open.spotify.com/album/7JBiaIaa8eew1oekR6bPGH) | 2:15 | 2021-07-21 | 2022-02-12 |
-| [caffeine](https://open.spotify.com/track/4jcIsQPXUXp866w3lT5AzO) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [caffeine](https://open.spotify.com/album/1ZcAQOVdLvndR6ffu9BYq2) | 3:18 | 2022-10-04 |  |
+| [caffeine](https://open.spotify.com/track/4jcIsQPXUXp866w3lT5AzO) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [caffeine](https://open.spotify.com/album/1ZcAQOVdLvndR6ffu9BYq2) | 3:18 | 2022-10-04 | 2022-10-25 |
 | [Caffeine](https://open.spotify.com/track/3UVBkOTod3wOadZL6y32zE) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Caffeine](https://open.spotify.com/album/7E8Enrh5avrFvW3FS5j0da) | 2:23 | 2022-06-03 | 2022-06-25 |
 | [Calling](https://open.spotify.com/track/10wq6YHJt1IRPqEkTntFcu) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Calling](https://open.spotify.com/album/09UyppdFZJR1FSAELQ3P08) | 3:02 | 2020-11-13 | 2021-10-14 |
 | [Can I Be The One?](https://open.spotify.com/track/6c7wroxmEp5WYElkgq5psf) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [Can I Be The One?](https://open.spotify.com/album/49Qna3rB1PFchKYjK9Qbdb) | 3:09 | 2021-02-20 | 2021-05-29 |
@@ -315,7 +315,7 @@
 | [Favorite Sin](https://open.spotify.com/track/7lHXPeUCPJKmoAL5lS9Nln) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Favorite Sin](https://open.spotify.com/album/0RvCi9rbTyjerfZMmv5lJK) | 3:42 | 2021-07-17 | 2022-02-23 |
 | [favorite song](https://open.spotify.com/track/4h9DDdqtoiamRfNMYTwvwE) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [favorite song](https://open.spotify.com/album/02EcgisWMMm96JVl6r0mjf) | 2:11 | 2021-08-09 | 2021-10-16 |
 | [feel away \(feat\. James Blake & Mount Kimbie\)](https://open.spotify.com/track/20wMPnqHdNdBWaKRaMM7fD) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [feel away \(feat\. James Blake & Mount Kimbie\)](https://open.spotify.com/album/3dkB97Zw0sisRWTn0Wokjg) | 3:23 | 2020-10-13\* | 2021-03-26 |
-| [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 | 2021-04-17 |  |
+| [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 | 2021-04-17 | 2022-10-25 |
 | [FEEL LIKE](https://open.spotify.com/track/0jJGplHmOPpams1xAV2vhg) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [FEEL LIKE](https://open.spotify.com/album/5d1GEm62XJWF5Kgo2ewl9z) | 3:08 | 2021-02-27 | 2022-02-12 |
 | [Feels Like I'm Flying](https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru) | 2:35 | 2021-11-04 | 2022-03-01 |
 | [Fiire](https://open.spotify.com/track/0Lsdnv0bZyvuji8Y9fxnn0) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Fiire](https://open.spotify.com/album/5vynu58xVb4kxmlQsF913s) | 3:37 | 2021-03-14 | 2022-02-12 |
@@ -366,6 +366,7 @@
 | [Gemini](https://open.spotify.com/track/0BEc5agGF5SNiQr2RWvusG) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Gemini](https://open.spotify.com/album/5IPibq1BrOykKFmIE06Vxm) | 3:04 | 2020-10-16 | 2021-03-26 |
 | [Generation](https://open.spotify.com/track/7JHohbdSYNGyUwcycNi95q) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Generation](https://open.spotify.com/album/0V9mAZKEd0gyIC2XQMt6qd) | 3:30 | 2021-12-04 | 2021-12-11 |
 | [Genevieve \- Unfinished](https://open.spotify.com/track/72GKPVtBchtCDoL8LURCrB) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 3:57 | 2022-08-07 | 2022-08-09 |
+| [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 | 2022-10-24 |  |
 | [GET IT](https://open.spotify.com/track/1jtdHYkk7RZNSeGWLxXwrS) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GET IT](https://open.spotify.com/album/6dfosfBrzyf8PXsLokq5MT) | 2:31 | 2022-03-04 | 2022-07-01 |
 | [GET IT WITH ME](https://open.spotify.com/track/2c6SLHvQpFFznL4olGoT3X) | [Colby Lafayette](https://open.spotify.com/artist/5D28O29XHRpautDpiaha2K) | [GET IT WITH ME](https://open.spotify.com/album/0bwi7N95mpgNptFg9UgRc5) | 2:44 | 2020-10-13\* | 2020-11-03 |
 | [Get Lost In The Music](https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B) | 3:49 | 2021-07-31 | 2021-10-14 |
@@ -733,6 +734,7 @@
 | [payphone](https://open.spotify.com/track/6iF2DHKQEpzjudvPQRopqg) | [familypet](https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX), [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA) | [payphone](https://open.spotify.com/album/3PijiOFxCTC8CnXGQpdmDb) | 3:13 | 2021-08-12 | 2021-08-14 |
 | [Peace Sounds](https://open.spotify.com/track/6ivjbk2DjrWrXamYSRWLcf) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Peace Sounds](https://open.spotify.com/album/5PgUA3B3q8OSS4QG9zEFQv) | 3:54 | 2022-06-03 | 2022-08-06 |
 | [Peach](https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:56 | 2022-05-09 | 2022-05-14 |
+| [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/album/78t1sCwSRYxl6Zc5H4E1Gf) | 2:33 | 2022-10-21 |  |
 | [Peanut Butter](https://open.spotify.com/track/54SCwRvTzNt3QDG8zdaljs) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Peanut Butter](https://open.spotify.com/album/74GvHOfH1P0XvB0AMoUcjx) | 2:12 | 2021-10-12 | 2021-10-13 |
 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 | 2022-05-09 | 2022-07-01 |
 | [Pelican Freestyle](https://open.spotify.com/track/6sNfqqGpSImTscoZNrsCBe) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP) | [Cloud Paint](https://open.spotify.com/album/3ihhpCQwkkson9Lz3NQ6OI) | 3:19 | 2022-06-24 | 2022-08-06 |

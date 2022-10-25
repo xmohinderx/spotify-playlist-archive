@@ -3676,6 +3676,24 @@
     },
     {
       "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148781,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/6RJBrG3VHz2hPITjv88chh"
+    },
+    {
+      "album": {
         "name": "Glitch Mode - The 2nd Album",
         "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
       },
@@ -10475,7 +10493,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 181506,
       "name": "THE SHADE",
       "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"

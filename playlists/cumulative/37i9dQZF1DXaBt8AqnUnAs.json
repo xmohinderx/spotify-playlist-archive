@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 155675,
       "name": "Ariana",
       "url": "https://open.spotify.com/track/4p7KMBNMNs8uN1dQadkqVa"
@@ -1303,6 +1303,24 @@
       "duration_ms": 217114,
       "name": "Euro",
       "url": "https://open.spotify.com/track/2wWxjsBUYA4DjzWEPNyiCG"
+    },
+    {
+      "album": {
+        "name": "Fala Meu Nome",
+        "url": "https://open.spotify.com/album/0GXHeKI60SntLBSCld7uiB"
+      },
+      "artists": [
+        {
+          "name": "Lili AM",
+          "url": "https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97233,
+      "name": "Fala Meu Nome",
+      "url": "https://open.spotify.com/track/2NoLuR3OGSQNHuG93k5Lgc"
     },
     {
       "album": {

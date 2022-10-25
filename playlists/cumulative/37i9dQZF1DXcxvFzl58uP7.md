@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-785 songs - 1 day 16 hr 47 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
+786 songs - 1 day 16 hr 50 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [4Runner](https://open.spotify.com/track/6fHORDEAnP4POdVZB9kO9V) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [4Runner](https://open.spotify.com/album/4pK1F2rM5omfZyrv4FEPQZ) | 3:49 | 2021-05-16 | 2021-05-26 |
 | [5am](https://open.spotify.com/track/0zll7ar6NSz8VUN0gciDak) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC), [JOE L](https://open.spotify.com/artist/276rQ7r59LD3mS6oL5RMVb) | [5am](https://open.spotify.com/album/593CwiXVevpgpE30WGQqyp) | 2:42 | 2022-03-04 | 2022-04-21 |
 | [80's High School](https://open.spotify.com/track/080QlT286ey4jbCK3A55LC) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [80's High School](https://open.spotify.com/album/06NGZRlyraYewLxiPIDbVw) | 3:22 | 2020-02-16 | 2022-07-29 |
-| [80's High School](https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:22 | 2021-02-27 |  |
+| [80's High School](https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:22 | 2021-02-27 | 2022-10-25 |
 | [80's makeout session](https://open.spotify.com/track/2fb5IfqG58jVkCGXWhxfa6) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [80's makeout session](https://open.spotify.com/album/00txqJLP37IMqP4D6GjCVd) | 1:42 | 2020-12-04 | 2022-07-28 |
 | [80's makeout session](https://open.spotify.com/track/6RObO033GGC7mReVoRQJPU) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [80's makeout session](https://open.spotify.com/album/6MHmgFBPMdhNdj6HamqlYe) | 1:42 | 2021-02-27 |  |
 | [80's Movie](https://open.spotify.com/track/0ReotC6rCrcb9N7RzA9GmO) | [Pilar Victoria](https://open.spotify.com/artist/2DSFPJr5VQONBtmvondIke) | [80's Movie](https://open.spotify.com/album/0XZDttTTOOuetRe3T76gBY) | 3:13 | 2021-02-27 | 2022-04-21 |
@@ -376,6 +376,7 @@
 | [Ingenuine](https://open.spotify.com/track/5jZjtbBYlFTsO0ynbukcFN) | [Nolan Garrett](https://open.spotify.com/artist/7pt1EL2DIGAZeqgnXBXYxM) | [Ingenuine](https://open.spotify.com/album/6a2ZXqvCPPuNeL19mxhR6S) | 3:12 | 2020-10-16 | 2021-05-27 |
 | [Into](https://open.spotify.com/track/5O408HCYe3tXhyLf5JMjhJ) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Into](https://open.spotify.com/album/22Ta1z6nV13bCOXLQpdY6f) | 3:59 | 2021-09-10 | 2022-07-29 |
 | [Is It Light Where You Are](https://open.spotify.com/track/4ovFkkzBZV8XSh7YwTlQe2) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Is It Light Where You Are](https://open.spotify.com/album/0SBNec5DGoqI8O5szAqXHp) | 4:57 | 2021-08-13 | 2022-04-21 |
+| [It's Been a Little Heavy Lately](https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz) | 3:41 | 2022-09-14 |  |
 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/4z9VuRI0SGk6mZXRRZyT7Z) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/6pemgHNxTnz4vRNNMLQCAe) | 3:41 | 2022-03-04 | 2022-10-13 |
 | [It's Got To Be You](https://open.spotify.com/track/3EytmMZxK0woRgbh2NxenS) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Looking Back](https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z) | 3:55 | 2021-03-26 |  |
 | [It's Got To Be You](https://open.spotify.com/track/3IL9AKqwVNsMHUruNXgbmE) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [It's Got To Be You](https://open.spotify.com/album/1QEylt2WvPjzYVfjRdVNKz) | 3:55 | 2021-03-26 | 2022-07-24 |

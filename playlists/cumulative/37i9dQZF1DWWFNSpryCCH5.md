@@ -4,7 +4,7 @@
 
 > Revive aquellas grandes canciones desenchufadas.
 
-86 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/5Xm3osiTbWWeVeEAkw3tSe)
+87 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/5Xm3osiTbWWeVeEAkw3tSe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,13 +48,14 @@
 | [La Flaca](https://open.spotify.com/track/3yGoV8L7vjF5OVKv9KPMkG) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Tour Americano 14/15](https://open.spotify.com/album/1raRxblTKBGTQ0q0qZSn3o) | 7:00 | 2021-02-10 | 2022-09-02 |
 | [Labios Rotos](https://open.spotify.com/track/2DWzn0kVcV9iKkiiee4rRE) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Standard Version\)](https://open.spotify.com/album/7HvlcB4kC6QivGpN7ABaVP) | 4:03 | 2021-02-10 | 2022-07-28 |
 | [Labios Rotos \- En Vivo](https://open.spotify.com/track/1nULBrlzWatdcjA2ZctIMv) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:03 | 2021-02-10 |  |
+| [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2007 Remaster; Single Edit](https://open.spotify.com/track/4ibOxUxg1huJ9vZTgzY6Jl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 4:39 | 2021-02-10 |  |
 | [Layla \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 4:49 | 2021-02-10 | 2022-10-18 |
 | [Like a Rolling Stone \- Live at Sony Music Studios, New York, NY \- November 1994](https://open.spotify.com/track/2zsEvCDvYJF2Jl0CoaXw2L) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/0zTd4xTpA9ytGuH3Gnfnn4) | 9:09 | 2021-02-10 | 2022-07-19 |
 | [Limon Y Sal \(Unplugged\) \(En Vivo\)](https://open.spotify.com/track/475VqfTA8rcyXYFY9dxCLz) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/3pC4FW5E8fptaThnG7WHjU) | 3:40 | 2021-02-10 | 2022-07-27 |
 | [Linger](https://open.spotify.com/track/1P6p83zUu3kQoOktOcMpfh) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Live 2010 \- Zenith Paris, 22.03.10](https://open.spotify.com/album/4rDXelyOv9EN1Zz1spMhP2) | 4:55 | 2021-02-10 | 2022-07-29 |
 | [Linger \- Acoustic Version](https://open.spotify.com/track/4oGuHZ966kmCmt3DRVxjXw) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r) | 4:55 | 2021-02-10 |  |
 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 | 2021-02-10 |  |
-| [Los Malaventurados No Lloran \- MTV Unplugged](https://open.spotify.com/track/1Qm69nuJeRLCmu4c5MnplS) | [PXNDX](https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj) | [Panda MTV Unplugged \(Live\)](https://open.spotify.com/album/1vtmvP6HpYWljDR2vplT3b) | 3:58 | 2021-02-10 |  |
+| [Los Malaventurados No Lloran \- MTV Unplugged](https://open.spotify.com/track/1Qm69nuJeRLCmu4c5MnplS) | [PXNDX](https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj) | [Panda MTV Unplugged \(Live\)](https://open.spotify.com/album/1vtmvP6HpYWljDR2vplT3b) | 3:58 | 2021-02-10 | 2022-10-25 |
 | [Luna \- En Vivo](https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:40 | 2021-02-10 |  |
 | [Magic \- Live at the Enmore Theatre, Sydney](https://open.spotify.com/track/3bVwuZb0nYvAMn3roElQnY) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories Live 2014](https://open.spotify.com/album/1hNS0RsxPTFjmKXCgmjSLS) | 4:52 | 2021-02-10 |  |
 | [María \- Unplugged](https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 4:15 | 2021-02-10 | 2022-07-29 |

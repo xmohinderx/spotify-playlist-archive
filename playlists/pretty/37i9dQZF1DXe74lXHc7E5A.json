@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Tion Wayne and Aitch",
-  "num_followers": 1619,
+  "num_followers": 1663,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMzMjE1MiwwMDAwMDAwMDBkYjg5NWMzZDFkOTViYTdhMGRhYmQwODdiYTM4MGQw",
+  "snapshot_id": "MTY2NjMzMjE1MiwwMDAwMDAwMDIyOGE4NjA1MjI0YWNlY2M0MjcxNmQxOTQ1MTBhZDEw",
   "tracks": [
     {
       "added_at": "2022-07-27 12:30:07",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Rich Spirit",
-      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
         "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -347,18 +347,22 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 213975,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
+      "duration_ms": 181393,
+      "name": "What Happened To Virgil (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -383,22 +387,18 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "7220",
-        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 181393,
-      "name": "What Happened To Virgil (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -461,6 +461,22 @@
       "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
     },
     {
+      "added_at": "2022-09-23 05:37:19",
+      "album": {
+        "name": "Mel Made Me Do It",
+        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 440857,
+      "name": "Mel Made Me Do It",
+      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
+    },
+    {
       "added_at": "2022-08-26 09:32:14",
       "album": {
         "name": "GOD DID",
@@ -483,22 +499,6 @@
       "duration_ms": 223232,
       "name": "BEAUTIFUL (feat. Future & SZA)",
       "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
-    },
-    {
-      "added_at": "2022-09-23 05:37:19",
-      "album": {
-        "name": "Mel Made Me Do It",
-        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 440857,
-      "name": "Mel Made Me Do It",
-      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU"
     },
     {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Heyy",
-        "url": "https://open.spotify.com/album/3oBEWrK0AXOXa8ADodU0ue"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "Heyy",
-      "url": "https://open.spotify.com/track/6w2laMOxRE0yUsbq4bVLiZ"
-    },
-    {
       "added_at": "2022-07-27 12:30:07",
       "album": {
         "name": "Who is Nardo Wick?",
@@ -599,6 +583,46 @@
       "duration_ms": 225533,
       "name": "Me or Sum (feat. Future & Lil Baby)",
       "url": "https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Heyy",
+        "url": "https://open.spotify.com/album/3oBEWrK0AXOXa8ADodU0ue"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "Heyy",
+      "url": "https://open.spotify.com/track/6w2laMOxRE0yUsbq4bVLiZ"
+    },
+    {
+      "added_at": "2022-08-26 09:32:14",
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 173783,
+      "name": "BIG TIME (feat. Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -645,22 +669,6 @@
       "url": "https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG"
     },
     {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "The Big 3",
-        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
-    },
-    {
       "added_at": "2022-10-21 06:02:32",
       "album": {
         "name": "DEADLINES: FREE P2",
@@ -675,30 +683,6 @@
       "duration_ms": 92347,
       "name": "BAD GUY",
       "url": "https://open.spotify.com/track/6wuIh8EH2MYLI5su3FZ935"
-    },
-    {
-      "added_at": "2022-08-26 09:32:14",
-      "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 173783,
-      "name": "BIG TIME (feat. Future & Lil Baby)",
-      "url": "https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -723,6 +707,22 @@
       "duration_ms": 150212,
       "name": "Je M'appelle (feat. Tion Wayne & French Montana) - Remix",
       "url": "https://open.spotify.com/track/203uVLn0YRikqOgI4axq8n"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
+        "name": "The Big 3",
+        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -837,6 +837,26 @@
       "url": "https://open.spotify.com/track/1TZv3bujNaYz646eezRE91"
     },
     {
+      "added_at": "2022-08-26 09:32:14",
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 47354,
+      "name": "NO SECRET (feat. Drake)",
+      "url": "https://open.spotify.com/track/1Gb6r4iX8w60t6OFTvWI4K"
+    },
+    {
       "added_at": "2022-07-27 12:30:07",
       "album": {
         "name": "Kwaku the Traveller",
@@ -871,26 +891,6 @@
       "duration_ms": 204373,
       "name": "Lazarus (feat. Boj)",
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
-    },
-    {
-      "added_at": "2022-08-26 09:32:14",
-      "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 47354,
-      "name": "NO SECRET (feat. Drake)",
-      "url": "https://open.spotify.com/track/1Gb6r4iX8w60t6OFTvWI4K"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -937,26 +937,6 @@
       "url": "https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn"
     },
     {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "Let's Get It (Remix) [feat. 21 Savage]",
-        "url": "https://open.spotify.com/album/2ERLWOp7Bh4lAsoR7NytHu"
-      },
-      "artists": [
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 156995,
-      "name": "Let's Get It (Remix) [feat. 21 Savage]",
-      "url": "https://open.spotify.com/track/1NVp7VnSVUJalgIBCIkh0w"
-    },
-    {
       "added_at": "2022-09-28 09:29:45",
       "album": {
         "name": "Lemons (Lemonade)",
@@ -975,6 +955,26 @@
       "duration_ms": 259591,
       "name": "Lemons (Lemonade)",
       "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
+        "name": "Let's Get It (Remix) [feat. 21 Savage]",
+        "url": "https://open.spotify.com/album/2ERLWOp7Bh4lAsoR7NytHu"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 156995,
+      "name": "Let's Get It (Remix) [feat. 21 Savage]",
+      "url": "https://open.spotify.com/track/1NVp7VnSVUJalgIBCIkh0w"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "Dissin the Dead",
-        "url": "https://open.spotify.com/album/4ls5UaYdO6EZHiry7sr8Po"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "Dissin the Dead",
-      "url": "https://open.spotify.com/track/5EeFkn825wcD3q2Tkk2vCu"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
         "name": "Before You Go",
         "url": "https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 176850,
       "name": "Every Good Girl",
       "url": "https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
+        "name": "Dissin the Dead",
+        "url": "https://open.spotify.com/album/4ls5UaYdO6EZHiry7sr8Po"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "Dissin the Dead",
+      "url": "https://open.spotify.com/track/5EeFkn825wcD3q2Tkk2vCu"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -1161,28 +1161,20 @@
       "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
-      "added_at": "2022-08-05 07:55:20",
+      "added_at": "2022-07-27 12:30:07",
       "album": {
-        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-        "url": "https://open.spotify.com/album/2i9q4Ax4pXU62uNOJHy2qo"
+        "name": "First Sermon",
+        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 178176,
-      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-      "url": "https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm"
+      "duration_ms": 185362,
+      "name": "First Sermon",
+      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
     }
   ],
   "unique_name": "Hype List",

@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-281 songs - 16 hr 34 min - [published](https://open.spotify.com/playlist/54I04EmnPnUUEk8lPEzRH1)
+282 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/54I04EmnPnUUEk8lPEzRH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-04-05 | 2022-10-16 |
 | [Apricots](https://open.spotify.com/track/4x8WXoZxlAF5EOCLLcTKQ3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Apricots](https://open.spotify.com/album/27Ha0SgjvEraXK4aYEumkw) | 3:12 | 2022-04-05 | 2022-07-29 |
 | [As You Go](https://open.spotify.com/track/0epc6FCUxWAOYI5q7nyIQu) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [As You Go](https://open.spotify.com/album/3F9HI9gUtpku7E05sz6O4K) | 3:00 | 2022-04-05 | 2022-07-29 |
-| [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 | 2022-09-29 |  |
+| [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 | 2022-09-29 | 2022-10-25 |
 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 | 2022-07-29 |  |
 | [Be My Baby](https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Presenting the Fabulous Ronettes Featuring Veronica](https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy) | 2:40 | 2022-07-29 |  |
 | [Be Slow](https://open.spotify.com/track/23GmSpYkMks0ulGGr9hYsF) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/21riF5CPBLenJBAfwXknrT) | 3:25 | 2022-04-05 | 2022-07-29 |
@@ -59,6 +59,7 @@
 | [Cherub](https://open.spotify.com/track/50QieT02ZZJZ5EHDie1dCR) | [Ball Park Music](https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH) | [Ball Park Music](https://open.spotify.com/album/5pXeIuNUX07w4QsZ2lJjO3) | 5:28 | 2022-04-05 | 2022-07-29 |
 | [Close To You](https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:14 | 2022-07-29 | 2022-10-13 |
 | [Close To You](https://open.spotify.com/track/4ReJJcpW8HtVnqzhf6DwNV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Close To You](https://open.spotify.com/album/4sRWmCgVULy1s2pMuw1uGY) | 3:14 | 2022-04-05 | 2022-07-29 |
+| [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 | 2022-09-29 |  |
 | [Clumsy Love](https://open.spotify.com/track/6EOwEp0a537SGJZxVk07Gp) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:07 | 2022-04-05 | 2022-07-23 |
 | [Cold](https://open.spotify.com/track/3c7hHVpOsyFYWWwB958J8S) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Cold](https://open.spotify.com/album/3gvgKKPnvzTO8QhhkQSl4o) | 3:49 | 2022-06-24 | 2022-06-30 |
 | [Come On Mess Me Up](https://open.spotify.com/track/35esL6crd33KHmrpVFHFj4) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [This Is Our Vice](https://open.spotify.com/album/1Sx23MziCsG194ibSs4Syb) | 3:23 | 2022-04-05 | 2022-07-29 |

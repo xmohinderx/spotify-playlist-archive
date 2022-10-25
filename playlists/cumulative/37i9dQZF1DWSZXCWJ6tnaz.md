@@ -4,7 +4,7 @@
 
 > A safe space for reflecting and remembering\. Soft, instrumental music to bring you comfort and strength.
 
-45 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/795SCNBaIRC4NKBwTzfdNv)
+46 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/795SCNBaIRC4NKBwTzfdNv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Still](https://open.spotify.com/track/6B0ZlLf0p2s1Lwt3ivAXKy) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Still](https://open.spotify.com/album/0QxD0lOJH9NBtJuSb2can4) | 2:22 | 2022-05-06 |  |
 | [The Garden](https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH) | [Doug Kaufman](https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ) | [Elva](https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs) | 2:56 | 2022-05-06 |  |
 | [This Night](https://open.spotify.com/track/0m8MYDal7eCEfjApR7hyUP) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/73VZPKqqn3KNK3gnmi1kTI) | 3:31 | 2022-05-06 | 2022-07-29 |
-| [This Night](https://open.spotify.com/track/6LQv4r8SDy2S3fLNo3ntr9) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/6YBtLEVPI7CAEsE5ljrtTC) | 3:31 | 2022-05-06 |  |
+| [This Night](https://open.spotify.com/track/1MxO57a8Ttyb1izW1uKGVl) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/5ygHwLXWu8Ycx28wtAZvMA) | 3:31 | 2022-05-06 |  |
+| [This Night](https://open.spotify.com/track/6LQv4r8SDy2S3fLNo3ntr9) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [This Night](https://open.spotify.com/album/6YBtLEVPI7CAEsE5ljrtTC) | 3:31 | 2022-05-06 | 2022-10-25 |
 | [Today and it’s gone \(Munich Session\)](https://open.spotify.com/track/2w2ILZhs6v4kAEPD8GLIJj) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Munich Session](https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC) | 4:18 | 2022-05-06 |  |
 | [Today and it’s gone \(Munich Session\)](https://open.spotify.com/track/2wlUU8uTvjeCetz0EyeF5M) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Today and it’s gone \(Munich Session\)](https://open.spotify.com/album/1rOnSUZnWw9cR0CBikcRRT) | 4:18 | 2022-05-06 | 2022-07-29 |
 | [Where Do We Go from Here](https://open.spotify.com/track/3aht08JlnWhD5A0MpIfU0T) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go from Here](https://open.spotify.com/album/54bf3kCXzdccCdrWnjV9cS) | 2:25 | 2022-05-06 |  |

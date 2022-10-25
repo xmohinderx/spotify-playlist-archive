@@ -4,7 +4,7 @@
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-66 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/1sBiL9e1FXqfbDn47RYumn)
+67 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/1sBiL9e1FXqfbDn47RYumn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Baby What You Want Me To Do](https://open.spotify.com/track/05oMNN5Rbv6rVqyFFG9uTl) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:24 | 2022-05-13 |  |
 | [Be Careful With a Fool](https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Johnny Winter](https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch) | 5:14 | 2022-05-13 |  |
 | [Blues Before Sunrise](https://open.spotify.com/track/18bSzFqEPn4A9d8AyzxI6g) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/0im1aMw5Wf5PUOdRKVLU1w) | 2:57 | 2022-05-13 | 2022-10-17 |
+| [Blues Before Sunrise](https://open.spotify.com/track/648g2wFtqqzK8rW0Y2F0T3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg) | 2:57 | 2022-10-04 |  |
 | [Boom Boom](https://open.spotify.com/track/6MBlp2Gs9Q9aGWqDDJiNkt) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Boom Boom](https://open.spotify.com/album/5Bsx6KPTdZfbmwIWbxK0wo) | 4:19 | 2022-05-13 |  |
 | [Born In Chicago](https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [Blues Brothers 2000](https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ) | 3:05 | 2022-05-13 |  |
 | [Born Under A Bad Sign](https://open.spotify.com/track/01UTGeKaSANZCXxkAu6vPY) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/67I17xxxioQjnisRNmuSPE) | 2:47 | 2022-05-13 | 2022-07-29 |
@@ -39,7 +40,7 @@
 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:58 | 2022-05-13 |  |
 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 | 2022-05-13 |  |
 | [It Hurts Me Too](https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Street Talkin'](https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L) | 3:20 | 2022-05-13 |  |
-| [Jelly Bread](https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq) | 2:30 | 2022-07-01 |  |
+| [Jelly Bread](https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq) | 2:30 | 2022-07-01 | 2022-10-25 |
 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 | 2022-05-13 |  |
 | [Killing Floor](https://open.spotify.com/track/47KjgcMPHmdhZZYJARV8dT) | [The Electric Flag](https://open.spotify.com/artist/6qyfxCyE6JsPkcGVIOPpyl) | [A Long Time Comin'](https://open.spotify.com/album/5816bqBdozCXD95olZoLHk) | 4:09 | 2022-05-13 |  |
 | [Leaving Trunk](https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:49 | 2022-05-13 |  |

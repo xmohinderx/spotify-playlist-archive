@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,430 likes - 47 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,612 likes - 47 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 28 | [I Hope, I Think, I Know \- Remastered](https://open.spotify.com/track/5g4IouEbo38FZi8M1Ga4ey) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 4:22 |
 | 29 | [The Shock Of The Lightning](https://open.spotify.com/track/72pRggptACNxeYG0vG3V3Q) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:59 |
 | 30 | [She Is Love](https://open.spotify.com/track/01uctxky5IDj8UQvdmcLIv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:09 |
-| 31 | [Roll It Over](https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:31 |
+| 31 | [Sunday Morning Call](https://open.spotify.com/track/6foXkrv79wyo9RMfZIMB6z) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 5:12 |
 | 32 | [Stay Young \- Remastered](https://open.spotify.com/track/41nttXLEzPouvKuXRbjDyq) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:07 |
 | 33 | [Falling Down](https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:20 |
 | 34 | [Heroes](https://open.spotify.com/track/1FSURsZPnG8CkfTvmO8ssK) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [D'You Know What I Mean?](https://open.spotify.com/album/0GiKjeftaw3HccbDaA1Ryk) | 4:09 |
-| 35 | [Sunday Morning Call](https://open.spotify.com/track/6foXkrv79wyo9RMfZIMB6z) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 5:12 |
+| 35 | [Roll It Over](https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:31 |
 | 36 | [Be Here Now \- Remastered](https://open.spotify.com/track/1WKQuEgQnvvgVxj5B7ptwl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:12 |
 | 37 | [Round Are Way \(Live at Knebworth, 10 August '96\)](https://open.spotify.com/track/4eVPDhFRLO4X3NZXTHV47x) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 4:47 |
 | 38 | [Idlers Dream](https://open.spotify.com/track/3WpPw7RpNIU9SJBcBKDBDj) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Hindu Times](https://open.spotify.com/album/0Djgt82XPCdAUAwzewQn0F) | 2:57 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 46 | [Let's All Make Believe](https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Go Let It Out](https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM) | 3:53 |
 | 47 | [I Am The Walrus \(Live at Knebworth, 11 August '96\)](https://open.spotify.com/track/1vvlQgoUYdBICnqzuREVnI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 6:40 |
 
-Snapshot ID: `Mjc3NzYyNzAsMDAwMDAwMDAzZWJkYTE5NWNlMjgyNDE5ZmZmNzk4MTk4YWI2MWU5Yg==`
+Snapshot ID: `Mjc3NzczOTIsMDAwMDAwMDAwMjIzNzIxZWY0YTY2OGFkNWY5MmVlOWY1ZWUxNTI4MA==`

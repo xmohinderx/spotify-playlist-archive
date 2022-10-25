@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-422 songs - 1 day 10 hr 51 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+423 songs - 1 day 10 hr 55 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,13 +279,14 @@
 | [Old Country](https://open.spotify.com/track/2qBOKp5eX9j0rZiZuIl7sc) | [Schultz/Bagge](https://open.spotify.com/artist/62lTBN25JiDEOb1mvKW0eI) | [Old Country](https://open.spotify.com/album/2QUEZYFSvfN3ISHHuD0KMg) | 5:52 | 2022-04-14 | 2022-09-23 |
 | [Old Fashioned Morphine](https://open.spotify.com/track/2zuCel4NqWnLH28iUQemw1) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ) | [Escondida](https://open.spotify.com/album/75yVGSOBXe3OI8bRrIMalh) | 4:35 | 2022-04-21 | 2022-04-27 |
 | [Old Folks](https://open.spotify.com/track/0GrelUYKejuSl9O36VdMA3) | [Geoffrey Christensen](https://open.spotify.com/artist/2W1wcm0Yt8Mcx55CRxC013) | [Gone With The Wind](https://open.spotify.com/album/5htrKxxejBR8OJBnLH9eSa) | 6:30 | 2022-04-14 | 2022-04-27 |
-| [Old Person Eyes](https://open.spotify.com/track/34jngIAweykNyuwP52VCaQ) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Old Person Eyes](https://open.spotify.com/album/34x4zL9sqIP8YGfbRwxX3v) | 3:39 | 2022-05-24 |  |
+| [Old Person Eyes](https://open.spotify.com/track/34jngIAweykNyuwP52VCaQ) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Old Person Eyes](https://open.spotify.com/album/34x4zL9sqIP8YGfbRwxX3v) | 3:39 | 2022-05-24 | 2022-10-25 |
 | [On A Clear Day](https://open.spotify.com/track/2rtTRNbX2fRQGsLBje9YHS) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [On A Clear Day](https://open.spotify.com/album/3hLEkeJRG2VTK3M7015jt0) | 2:37 | 2022-10-13 |  |
 | [On The Sunny Side Of The Street](https://open.spotify.com/track/0DXb75jBHund71iIpnBBZv) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Sonny Side Up](https://open.spotify.com/album/75Le9ovZALfIivyeGGfkza) | 5:40 | 2022-04-14 | 2022-06-09 |
 | [One For Daddy\-O \- Remastered](https://open.spotify.com/track/4f0D7T8yswXUJ62AKLoMtS) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 8:25 | 2022-04-14 |  |
 | [One For Majid \- Live](https://open.spotify.com/track/1xKMxT6PFOr4RJWhoisP0t) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [After The Fall \(Live\)](https://open.spotify.com/album/6KCtVTAKemrqpVZLLdxB2c) | 6:47 | 2022-06-30 | 2022-10-08 |
 | [One For Majid \- Live](https://open.spotify.com/track/5vze3yFdib2nLOqpmzl5wO) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [One For Majid \(Live\)](https://open.spotify.com/album/4TqPGl9Qxy0KM3JuYMLhvi) | 6:47 | 2022-04-14 | 2022-07-29 |
 | [Orange Was the Color of Her Dress, Then Blue Silk \- Edit](https://open.spotify.com/track/01Udds3MCkViVJmdJoYLEA) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Jazz in Detroit / Strata Concert Gallery / 46 Selden \(Edits\)](https://open.spotify.com/album/6WzjrLkSQAbdbzC81fK5Ep) | 5:00 | 2022-04-14 | 2022-05-03 |
+| [Peace](https://open.spotify.com/track/7pDRAykBM45AObXmk2L4Cl) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Peace](https://open.spotify.com/album/6XvZZIudci1eKSN43SNnwn) | 3:37 | 2022-10-13 |  |
 | [Pensativa](https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:47 | 2022-09-20 |  |
 | [Perception Through A Crystal Orb](https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Perception Through A Crystal Orb](https://open.spotify.com/album/0vrjE37V3hoBoEBFW1FP4m) | 3:10 | 2022-06-08 |  |
 | [Phases](https://open.spotify.com/track/77jWYo4bR2WuhCwCMIKkpw) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Sarah Elizabeth Charles](https://open.spotify.com/artist/5LqWmZQlNt5EqbjJsOMjtn) | [Ruler Rebel](https://open.spotify.com/album/7qGH2vWOTR8E7u3spMPdOh) | 4:15 | 2022-04-14 | 2022-04-27 |

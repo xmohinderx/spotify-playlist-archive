@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-175 songs - 14 hr 20 min - [published](https://open.spotify.com/playlist/07qDvOBagx5S8EJa8xnFvt)
+176 songs - 14 hr 28 min - [published](https://open.spotify.com/playlist/07qDvOBagx5S8EJa8xnFvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Flightmode On](https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Beats On Boat: Made in M](https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS) | 5:39 | 2021-12-17 | 2022-07-28 |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2022-06-02 |  |
 | [Fry](https://open.spotify.com/track/08revyYzwNRYYkGSd2yhG5) | [Qnete](https://open.spotify.com/artist/6eHZuPnEu4u6l0pgV4yCEG) | [Fry](https://open.spotify.com/album/694VDVMaHPsH7BoGEIE1F4) | 2:26 | 2021-12-17 | 2022-07-26 |
-| [Godson of House](https://open.spotify.com/track/2zMGp9sLqwuWowUcm53WAX) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf), [Byron the Aquarius](https://open.spotify.com/artist/46Fi6aCaPrBr5ojzhsUkK5) | [Godson of House](https://open.spotify.com/album/0IegYzp9b6XbcSzvd9z4Lm) | 8:36 | 2021-12-17 |  |
+| [Godson of House](https://open.spotify.com/track/2zMGp9sLqwuWowUcm53WAX) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf), [Byron the Aquarius](https://open.spotify.com/artist/46Fi6aCaPrBr5ojzhsUkK5) | [Godson of House](https://open.spotify.com/album/0IegYzp9b6XbcSzvd9z4Lm) | 8:36 | 2021-12-17 | 2022-10-25 |
 | [Gust of Wind](https://open.spotify.com/track/5A5gvRlD2EDk2zNHvSEXGC) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Novvel](https://open.spotify.com/artist/52v4QBbB8pFtxZzu6PW22Q) | [Gust of Wind](https://open.spotify.com/album/3Vz6L6he018Nx3SxxJc7xB) | 1:56 | 2022-03-25 | 2022-04-19 |
 | [House Magic](https://open.spotify.com/track/1wYVHbd2iJ5Z99yTxVmFyY) | [Peter Schumann](https://open.spotify.com/artist/53xUjVBCaTHEXSrFFnup3I) | [Deeper Conversations EP](https://open.spotify.com/album/4qubW0lYGdGpUwpCqlShpR) | 8:01 | 2022-10-21 |  |
 | [Hyperspace \(feat\. Teza Sumendra\)](https://open.spotify.com/track/5izPRm1uzeRQs7YRpw4IKw) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Hyperspace \(feat\. Teza Sumendra\)](https://open.spotify.com/album/1qnUz82hJ3LVACEPIzIIkX) | 3:24 | 2022-03-25 |  |
@@ -81,6 +81,7 @@
 | [Image](https://open.spotify.com/track/6cLNxUsIx1glNxnyXsZpQQ) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Image](https://open.spotify.com/album/02e6feYjhxdcgdyfzkHDc0) | 2:00 | 2021-12-17 | 2022-04-21 |
 | [In Love](https://open.spotify.com/track/53JDt87PdZrBSA3gN95t1Y) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Let's Go Out](https://open.spotify.com/album/3yrC1dGWFi1YccEH8Ceua6) | 3:25 | 2021-12-17 | 2022-07-29 |
 | [In Your Arms](https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [In Your Arms](https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c) | 2:30 | 2021-12-17 | 2022-07-29 |
+| [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 | 2022-10-21 |  |
 | [Intimate Fantasy](https://open.spotify.com/track/7MQE5Gx0g0DkHvH2PwgOgs) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy](https://open.spotify.com/album/0GHOsdfrpoTotkc5atzmJ9) | 8:13 | 2022-09-02 | 2022-10-21 |
 | [it was love](https://open.spotify.com/track/5093y2i2JV5h2e78FI7CA2) | [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [it was love](https://open.spotify.com/album/2Sh4jfTLStsTsLllJNjqE0) | 2:22 | 2022-03-31 | 2022-04-19 |
 | [Jazz Session for No Future People](https://open.spotify.com/track/1YkPEoHMuKQzddtBS0A1Lq) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Melophrenia EP](https://open.spotify.com/album/5mn9BkisK67hq14KpLsJBX) | 6:20 | 2022-03-31 | 2022-04-21 |

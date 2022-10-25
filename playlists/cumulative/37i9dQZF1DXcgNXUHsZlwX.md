@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. Photo: Hanorah
 
-376 songs - 22 hr 12 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+377 songs - 22 hr 16 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Albert](https://open.spotify.com/track/5LkQYLJcKnlDKUBXctdZcP) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Albert](https://open.spotify.com/album/12CFpojTsPlE4oHt4ETJf5) | 2:52 | 2022-03-04 | 2022-07-23 |
 | [Aller](https://open.spotify.com/track/2X7X0jEaVxzxQPanxDYsxT) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Horizon](https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132) | 2:58 | 2021-01-03\* | 2021-11-27 |
 | [Answers](https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Answers](https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a) | 2:47 | 2022-05-06 |  |
+| [Antigone](https://open.spotify.com/track/265EBHZJ581J0mMkMcaqbC) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Échapper à la nuit](https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy) | 3:35 | 2022-10-14 |  |
 | [Antigone](https://open.spotify.com/track/3gQrNbDCkxplgLJOQA8NJ7) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Antigone](https://open.spotify.com/album/3jVJxDHxlxY1UyaDPSS9CL) | 3:35 | 2022-07-08 | 2022-10-24 |
 | [Antigone](https://open.spotify.com/track/0UQJ65R4FUj1QEo89YSyBB) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Antigone](https://open.spotify.com/album/72vqXDeb3HzWgbG7Dbx5Pb) | 3:36 | 2021-05-04 | 2022-07-29 |
 | [Appelle\-moi](https://open.spotify.com/track/3gGA2wHqIwip7i1XclXuKH) | [Véronique Trudel](https://open.spotify.com/artist/2dvQpxQTzPdgMrs8CJdMBK) | [Appelle\-moi](https://open.spotify.com/album/4lOU01m2Y2XkoVt8o9eMER) | 2:21 | 2021-04-04 | 2021-05-08 |
@@ -293,7 +294,7 @@
 | [Pour elle](https://open.spotify.com/track/1EXBuLna0G1M3Eum4mHJfa) | [Alex Richard](https://open.spotify.com/artist/1Q9g6aHFRvJXqNOdpglIbT) | [Pour elle](https://open.spotify.com/album/2ZNVeWHcqRngMISjIkUrbV) | 3:06 | 2021-02-25 | 2021-05-08 |
 | [Pousse Pousse](https://open.spotify.com/track/4R2RjRNPvXNLonRYuybrzq) | [Jonathan Painchaud](https://open.spotify.com/artist/1eTRTFyUNxGHlG9heF6YUF) | [Pousse Pousse \- Single](https://open.spotify.com/album/0wmyFTusdzmf1HQheJojP7) | 5:23 | 2021-01-03\* | 2021-10-09 |
 | [Poussières](https://open.spotify.com/track/58cckTmXztUJhNpHkM44bI) | [Jean\-Christophe Lessard](https://open.spotify.com/artist/6DXMQCirWG4JsfU3zlxDJ6), [Soleil Launière](https://open.spotify.com/artist/1IsyWHwpRxJdFMaJSr8pS1) | [Poussières](https://open.spotify.com/album/1Rr1kAIkATCsKd4YjGxgVI) | 3:29 | 2022-03-11 | 2022-07-25 |
-| [Prendre soin du beau](https://open.spotify.com/track/6cqT1guXExDBibebscbGqg) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Prendre soin du beau](https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY) | 3:15 | 2022-07-08 |  |
+| [Prendre soin du beau](https://open.spotify.com/track/6cqT1guXExDBibebscbGqg) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Prendre soin du beau](https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY) | 3:15 | 2022-07-08 | 2022-10-25 |
 | [Prendre soin du beau](https://open.spotify.com/track/5x1VyIiwZSY1yTj82IrFQf) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Prendre soin du beau](https://open.spotify.com/album/1Zag6vMrmoYYqHuGsmyRoy) | 3:15 | 2021-01-03\* | 2022-07-29 |
 | [Printemps](https://open.spotify.com/track/1P7CUAOfULTTFJopwOBSDc) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Printemps](https://open.spotify.com/album/0L9wXFLVdGFH2ynCvuPUE9) | 3:11 | 2021-02-15 | 2022-07-28 |
 | [Provincetown](https://open.spotify.com/track/73c2Iy7Nw9Xho5HUifdWbW) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Provincetown](https://open.spotify.com/album/0cRpTtG3Ev6Y4cZeOMJUj5) | 4:10 | 2022-02-28 | 2022-03-05 |

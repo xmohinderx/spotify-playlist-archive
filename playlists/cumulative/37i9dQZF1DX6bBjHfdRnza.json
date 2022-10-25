@@ -9572,6 +9572,24 @@
     },
     {
       "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/632rCZmbM4IcuMZvTf2ohC"
+      },
+      "artists": [
+        {
+          "name": "Das Pharaoh",
+          "url": "https://open.spotify.com/artist/4BVdLTy33D4KtSxNUu6bUW"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172003,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/4LMlPnnfUXxmRTuj8tPBN7"
+    },
+    {
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/0Lzdn8SEClPeYqLjOVzfSO"
       },

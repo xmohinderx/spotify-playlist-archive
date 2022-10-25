@@ -4,7 +4,7 @@
 
 > Fun tracks for your Halloween festivities!
 
-119 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/4eYbz1GI6qfDbenGzlw63t)
+120 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/4eYbz1GI6qfDbenGzlw63t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 | 2022-09-23 |  |
 | [Black Widow](https://open.spotify.com/track/7pNC5ZIKtwUK0ReSpM3P9f) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:29 | 2022-09-23 |  |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-10-27 |  |
+| [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-10-24 |  |
 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2022-09-23 |  |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2021-10-27 |  |
 | [Bring Me To Life](https://open.spotify.com/track/646J2jOtUe4Jflrmh6JFjN) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/20mh1X1FQQidKMu2XypyMI) | 3:55 | 2021-10-27 | 2022-07-29 |
@@ -125,7 +126,7 @@
 | [Witch Doctor](https://open.spotify.com/track/4kovpzSYYoguJxUXQesQ13) | [David Seville](https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l) | [Ultimate Kids Halloween Party Album](https://open.spotify.com/album/5ui3iBWZ6bvMRfCpAJWAvy) | 2:25 | 2021-10-27 |  |
 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Evolution: The Hits](https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4) | 3:15 | 2022-09-23 |  |
 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/5RXrCgoku7rnTX6cbGuT3E) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [80 Totally 80s Hits](https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG) | 3:16 | 2021-10-27 | 2022-09-24 |
-| [ZOMBIE](https://open.spotify.com/track/2ZT9fsXQsEgcfjoxdhboUs) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [EP 1](https://open.spotify.com/album/3QnFOXP2FJhI1yDlo6tYgm) | 3:09 | 2022-09-23 |  |
+| [ZOMBIE](https://open.spotify.com/track/2ZT9fsXQsEgcfjoxdhboUs) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [EP 1](https://open.spotify.com/album/3QnFOXP2FJhI1yDlo6tYgm) | 3:09 | 2022-09-23 | 2022-10-25 |
 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 | 2022-09-23 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

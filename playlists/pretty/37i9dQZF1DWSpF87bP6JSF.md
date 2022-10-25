@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino featuring Piso 21 y Danny Ocean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,425,551 likes - 52 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,426,703 likes - 52 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

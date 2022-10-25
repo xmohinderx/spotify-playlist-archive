@@ -4,7 +4,7 @@
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-36 songs - 2 hr 13 min - [published](https://open.spotify.com/playlist/4Am2nGzT1v1T7bvwT3pcGs)
+37 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/4Am2nGzT1v1T7bvwT3pcGs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [The Blue, The Green](https://open.spotify.com/track/0HHlrHaeTThPytkBv3ka3G) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:36 | 2022-09-16 |  |
 | [The Harrow](https://open.spotify.com/track/5P2R15i8jhMh4ArbsnRtoY) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 4:17 | 2022-10-07 | 2022-10-09 |
 | [The Rat](https://open.spotify.com/track/62qLvdb28WxRYxNAZ0UZlk) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Rat](https://open.spotify.com/album/4iABt7PWRQpWhLP7W3WCWO) | 4:20 | 2022-09-16 |  |
-| [Things Will Matter](https://open.spotify.com/track/5xAnCH2WR1UMwQDQpgBUB4) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5Pr1REYMnyucyL3tC1V9Zr) | 2:54 | 2022-09-16 |  |
+| [Things Will Matter](https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm) | 2:54 | 2022-10-24 |  |
+| [Things Will Matter](https://open.spotify.com/track/5xAnCH2WR1UMwQDQpgBUB4) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5Pr1REYMnyucyL3tC1V9Zr) | 2:54 | 2022-09-16 | 2022-10-25 |
 | [Trick of the Light](https://open.spotify.com/track/5XT1xMhjkezsYacZ6nwhGm) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:38 | 2022-09-16 |  |
 | [Two Heads](https://open.spotify.com/track/4a7J8atRYTomOWzMAJm6UN) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Diamond Days EP](https://open.spotify.com/album/70FYVDqcCDDDWrDxosXSfB) | 3:38 | 2022-09-16 |  |
 | [Untitled](https://open.spotify.com/track/0lryMnVnArBTEoQdha8vqc) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 1:12 | 2022-09-19 | 2022-09-21 |

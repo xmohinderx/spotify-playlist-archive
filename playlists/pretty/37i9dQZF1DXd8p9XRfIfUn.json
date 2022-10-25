@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Alu Mix, Yoss Bones",
-  "num_followers": 59395,
+  "num_followers": 59413,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjgwMCwwMDAwMDAwMDFiMTBjODU1MDMwZmZlODA4YzQzMWNlZjIwNjkyYWQy",
+  "snapshot_id": "MTY2NDUwNjgwMCwwMDAwMDAwMDFmYjg0NzgxNjY0OTIxZGFlYzNlNjllYTljNTMzYTY3",
   "tracks": [
     {
       "added_at": "2022-09-30 03:00:00",
@@ -295,6 +295,34 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
+        "name": "Los Malvekes",
+        "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        },
+        {
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Los Malvekes",
+      "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
         "name": "Tak Tiki Tak",
         "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
       },
@@ -403,34 +431,6 @@
       "duration_ms": 193043,
       "name": "YO SE QUE TU (feat. Rusherking)",
       "url": "https://open.spotify.com/track/4M4DTyLupKvbJKlE4I4EYq"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
-        "name": "Los Malvekes",
-        "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Simon la Letra",
-          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
-        },
-        {
-          "name": "Stars Music Chile",
-          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Los Malvekes",
-      "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "Que Loco Mami",
-        "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        }
-      ],
-      "duration_ms": 176629,
-      "name": "Que Loco Mami",
-      "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
         "name": "Me Juquie",
         "url": "https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 217080,
       "name": "Uno Pal Otro",
       "url": "https://open.spotify.com/track/60iAEGo1UgPdxSfHEFe66w"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
+        "name": "Que Loco Mami",
+        "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        }
+      ],
+      "duration_ms": 176629,
+      "name": "Que Loco Mami",
+      "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
     },
     {
       "added_at": "2022-09-30 03:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/7nyUwMd9qCW90BtiNGxGfJ"
+      },
+      "artists": [
+        {
+          "name": "Fran Rozzano",
+          "url": "https://open.spotify.com/artist/0izyCDkDQ10PWDNNB2i5nA"
+        }
+      ],
+      "duration_ms": 162901,
+      "name": "In\u00e9dito",
+      "url": "https://open.spotify.com/track/0vaPZCDqKhX09VwFruiRVl"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
         "name": "Sigue Sola (with Juhn & KHEA feat. Totoy El Frio, Jerry Di & Be\u00e9le)",
         "url": "https://open.spotify.com/album/2I8pcFT4wfrgXi3hynkzag"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 149326,
       "name": "Te Juro",
       "url": "https://open.spotify.com/track/0JElJmnJDGum8BGOE4yNsU"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/7nyUwMd9qCW90BtiNGxGfJ"
-      },
-      "artists": [
-        {
-          "name": "Fran Rozzano",
-          "url": "https://open.spotify.com/artist/0izyCDkDQ10PWDNNB2i5nA"
-        }
-      ],
-      "duration_ms": 162901,
-      "name": "In\u00e9dito",
-      "url": "https://open.spotify.com/track/0vaPZCDqKhX09VwFruiRVl"
     },
     {
       "added_at": "2022-09-30 03:00:00",

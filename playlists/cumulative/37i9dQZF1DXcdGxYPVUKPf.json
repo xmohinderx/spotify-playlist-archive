@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Black Adam Theme (from \"Black Adam\")",
+        "url": "https://open.spotify.com/album/1RGC1ShDXu9BKmnDlUj5OC"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236682,
+      "name": "Black Adam Theme (from \"Black Adam\")",
+      "url": "https://open.spotify.com/track/6eqwueXTaHqXTRwbOpLmcJ"
+    },
+    {
+      "album": {
         "name": "Ram Jam",
         "url": "https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD"
       },
@@ -77,6 +95,24 @@
       "duration_ms": 229466,
       "name": "Bulls On Parade",
       "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
+    },
+    {
+      "album": {
+        "name": "Exile",
+        "url": "https://open.spotify.com/album/1roiPYs5gYEy3kmT3C6vz1"
+      },
+      "artists": [
+        {
+          "name": "Eric Zayne",
+          "url": "https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205384,
+      "name": "Exile",
+      "url": "https://open.spotify.com/track/6VM70wjJ8kl7AFMS1KaOgi"
     },
     {
       "album": {
@@ -145,7 +181,7 @@
           "url": "https://open.spotify.com/artist/0bchCUkOuvPSeazHgDsh0Y"
         }
       ],
-      "date_added": "2021-05-06",
+      "date_added": "2020-09-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189269,
@@ -199,7 +235,7 @@
           "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
         }
       ],
-      "date_added": "2021-05-06",
+      "date_added": "2020-09-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 313573,

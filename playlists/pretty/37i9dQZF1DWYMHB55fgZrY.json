@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Plastilina Mosh en portada.",
-  "num_followers": 456395,
+  "num_followers": 456527,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIyODA3MCwwMDAwMDAwMGM3MjJjNmJiZDY3YjljNGUyN2M3OWNiN2M5ZWI3YTUy",
+  "snapshot_id": "MTY2NDIyODA3MCwwMDAwMDAwMDI0ODJjYzA5MTViN2E4ZDcxNjA1MDQ2MzZhMjQyYmY5",
   "tracks": [
     {
       "added_at": "2022-01-28 17:39:37",
@@ -223,18 +223,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 236333,
       "name": "Viento",
       "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Monitor",
-        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -415,6 +399,38 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Oye Como Va",
+      "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "El Nervio Del Volcan",
         "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
       },
@@ -427,6 +443,38 @@
       "duration_ms": 294266,
       "name": "Aqu\u00ed No Es As\u00ed",
       "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "La ingrata",
+      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -479,18 +527,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Abraxas",
-        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
+        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
         }
       ],
-      "duration_ms": 256933,
-      "name": "Oye Como Va",
-      "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
+      "duration_ms": 282120,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -511,50 +559,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
-        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
       "artists": [
         {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
         }
       ],
-      "duration_ms": 282120,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "La ingrata",
-      "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
+      "duration_ms": 284800,
+      "name": "Samba Pa Ti",
+      "url": "https://open.spotify.com/track/35fC3Wq3slX4OBfyvBVmHm"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -571,6 +587,38 @@
       "duration_ms": 194880,
       "name": "Noreste Caliente",
       "url": "https://open.spotify.com/track/4aiLaYiRbM0JNJl0O1zPyy"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "El baile y el sal\u00f3n",
+      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -623,22 +671,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Abraxas",
-        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Samba Pa Ti",
-      "url": "https://open.spotify.com/track/35fC3Wq3slX4OBfyvBVmHm"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Mundo Feliz",
         "url": "https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6"
       },
@@ -651,22 +683,6 @@
       "duration_ms": 215413,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/51PKgx0ep9pIKJxJvTBnqx"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "El baile y el sal\u00f3n",
-      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -699,22 +715,6 @@
       "duration_ms": 224320,
       "name": "Tornasol (Vuelves a Ser)",
       "url": "https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
     },
     {
-      "added_at": "2022-08-19 01:15:52",
-      "album": {
-        "name": "En Tu Orilla",
-        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205175,
-      "name": "En Tu Orilla",
-      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
-    },
-    {
       "added_at": "2022-01-28 17:39:37",
       "album": {
         "name": "Restaurant",
@@ -843,6 +827,22 @@
       "duration_ms": 209040,
       "name": "Siento Que...",
       "url": "https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W"
+    },
+    {
+      "added_at": "2022-08-19 01:15:52",
+      "album": {
+        "name": "En Tu Orilla",
+        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205175,
+      "name": "En Tu Orilla",
+      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Blanco F\u00e1cil",
-        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 263838,
-      "name": "Completamente",
-      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Kinky (Remastered)",
         "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 191000,
       "name": "Soun Tha Mi Primer Amor - Remastered",
       "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Blanco F\u00e1cil",
+        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 263838,
+      "name": "Completamente",
+      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Volovan",
-        "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Ella Es Azul",
-      "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Botas Negras",
         "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Restaurant",
-        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
+        "name": "Volovan",
+        "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
       },
       "artists": [
         {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
         }
       ],
-      "duration_ms": 269866,
-      "name": "Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP"
+      "duration_ms": 209346,
+      "name": "Ella Es Azul",
+      "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1199,6 +1183,22 @@
       "duration_ms": 254275,
       "name": "Un Toque M\u00e1gico",
       "url": "https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Restaurant",
+        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 269866,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Sweet & Sour - Hot & Spicy",
-        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 262066,
-      "name": "Ojos Claros, Labios Rosas",
-      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Norte (Japanese Version)",
         "url": "https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo"
       },
@@ -1287,34 +1271,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "D.D. Y Ponle Play",
-        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
       },
       "artists": [
         {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 174880,
-      "name": "Cada Vez Que Me Voy",
-      "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
-    },
-    {
-      "added_at": "2022-06-30 21:30:11",
-      "album": {
-        "name": "Caminar Sola",
-        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Caminar Sola",
-      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
+      "duration_ms": 262066,
+      "name": "Ojos Claros, Labios Rosas",
+      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1331,6 +1299,22 @@
       "duration_ms": 190893,
       "name": "Hay Amores Que Matan",
       "url": "https://open.spotify.com/track/3b9yTPrrIquBZsco8jVPi1"
+    },
+    {
+      "added_at": "2022-06-30 21:30:11",
+      "album": {
+        "name": "Caminar Sola",
+        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Caminar Sola",
+      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1379,6 +1363,22 @@
       "duration_ms": 249506,
       "name": "Nos Tragamos",
       "url": "https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "D.D. Y Ponle Play",
+        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 174880,
+      "name": "Cada Vez Que Me Voy",
+      "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
     },
     {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Sobre Natural",
-        "url": "https://open.spotify.com/album/4plALexvYJjioZhfvh47PA"
-      },
-      "artists": [
-        {
-          "name": "Victimas Del Doctor Cerebro",
-          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Sobre Natural",
-      "url": "https://open.spotify.com/track/5ObT21PnQHQN7LMP3ItLZf"
-    },
-    {
       "added_at": "2022-04-04 22:59:45",
       "album": {
         "name": "El mundo bajo el brazo",
@@ -1475,6 +1459,22 @@
       "duration_ms": 225836,
       "name": "El mundo bajo el brazo",
       "url": "https://open.spotify.com/track/22QKZaf3rD04GwLPiCeL4q"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Sobre Natural",
+        "url": "https://open.spotify.com/album/4plALexvYJjioZhfvh47PA"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Sobre Natural",
+      "url": "https://open.spotify.com/track/5ObT21PnQHQN7LMP3ItLZf"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Rock Latino",
+        "url": "https://open.spotify.com/album/0aGusz7aHYnYfjWSTr1YFI"
+      },
+      "artists": [
+        {
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
+        }
+      ],
+      "duration_ms": 156946,
+      "name": "El Microbito",
+      "url": "https://open.spotify.com/track/0wTrY23ot5A0aog0JNzXLS"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Arunima",
         "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
       },
@@ -1543,38 +1559,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/5ZFF7Z06Lpmodfi70nj2vE"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Rock Latino",
-        "url": "https://open.spotify.com/album/0aGusz7aHYnYfjWSTr1YFI"
-      },
-      "artists": [
-        {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
-        }
-      ],
-      "duration_ms": 156946,
-      "name": "El Microbito",
-      "url": "https://open.spotify.com/track/0wTrY23ot5A0aog0JNzXLS"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Sufro Sufro Sufro",
         "url": "https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 240306,
       "name": "Cerquita de Dios",
       "url": "https://open.spotify.com/track/3TmdXxx65CnANS9DMrS1aK"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/5ZFF7Z06Lpmodfi70nj2vE"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Crazy Pack Resorte",
-        "url": "https://open.spotify.com/album/2yhvEOcsRufEw1qw91xMZy"
+        "name": "Adicto al Rock N Roll",
+        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
       },
       "artists": [
         {
-          "name": "Resorte",
-          "url": "https://open.spotify.com/artist/29AMdFTZ4Ahs3fFXIq8Dic"
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
         }
       ],
-      "duration_ms": 241800,
-      "name": "Aqu\u00ed No Es D\u00f3nde",
-      "url": "https://open.spotify.com/track/6IkojHlvNIAXXHWhlcE1Oq"
+      "duration_ms": 208866,
+      "name": "Chavo de Onda",
+      "url": "https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf"
     }
   ],
   "unique_name": "Iconos del Rock Mexicano",

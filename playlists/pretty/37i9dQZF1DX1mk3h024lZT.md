@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mk3h024lZT.md) - [plain]
 
 > set your intentions at the highest of vibrations
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,335 likes - 48 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,499 likes - 48 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mk3h024lZT.md) - [plain]
 | 30 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
 | 31 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 |
 | 32 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
-| 33 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 |
-| 34 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 |
+| 33 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 |
+| 34 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 |
 | 35 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 |
 | 36 | [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 |
 | 37 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 |
 | 38 | [Lights \- Sped Up Version](https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Lights \(Sped Up Version\)](https://open.spotify.com/album/3UE88cPSfoh6NTK5xhBGtR) | 3:10 |
-| 39 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
-| 40 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 |
-| 41 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 |
-| 42 | [WHATS POPPIN](https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:19 |
+| 39 | [WHATS POPPIN](https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:19 |
+| 40 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
+| 41 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 |
+| 42 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 |
 | 43 | [Moon](https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 2:36 |
 | 44 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
 | 45 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mk3h024lZT.md) - [plain]
 | 47 | [Run](https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:48 |
 | 48 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 |
 
-Snapshot ID: `MTY2MDE1NzAyNCwwMDAwMDAwMGE4OThjMjhkZDFjNTRlNTkxMmRmMzI0ZmNiMzEyNTc4`
+Snapshot ID: `MTY2MDE1NzAyNCwwMDAwMDAwMDk5OWRhYmU0MDQ2YjI3ZGM3OTcxYzk2ZDA5ZTU1YmUz`

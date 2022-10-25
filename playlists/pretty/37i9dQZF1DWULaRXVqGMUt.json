@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 26255,
+  "num_followers": 26299,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQwNjM2OCwwMDAwMDAwMGQxYmQwNzBhOGJjNzBmYmE4NzhjZTVjNmJjNThiMWYx",
+  "snapshot_id": "MTY2NTQwNjM2OCwwMDAwMDAwMDcyYTU1OTg4NTIwOWVkOGMzYWVmN2U5ZTczNzdhOTQy",
   "tracks": [
     {
       "added_at": "2022-07-29 10:36:46",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
+        "name": "Rock Me Daddy, Vol. 1",
+        "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
+      },
+      "artists": [
+        {
+          "name": "Camille Howard",
+          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
+        }
+      ],
+      "duration_ms": 154840,
+      "name": "Boogie In \"G\"",
+      "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -275,18 +291,18 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Rock Me Daddy, Vol. 1",
-        "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
+        "name": "Two-Fisted Mama!",
+        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
       },
       "artists": [
         {
-          "name": "Camille Howard",
-          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
+          "name": "Katie Webster",
+          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
         }
       ],
-      "duration_ms": 154840,
-      "name": "Boogie In \"G\"",
-      "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
+      "duration_ms": 158826,
+      "name": "C.Q. Boogie",
+      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -307,8 +323,8 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "The Lost Paramount Tapes",
-        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
+        "name": "Junco Partner",
+        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
       },
       "artists": [
         {
@@ -316,25 +332,9 @@
           "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
         }
       ],
-      "duration_ms": 235280,
-      "name": "Junco Partner #2",
-      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
-        "name": "Two-Fisted Mama!",
-        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
-      },
-      "artists": [
-        {
-          "name": "Katie Webster",
-          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
-        }
-      ],
-      "duration_ms": 158826,
-      "name": "C.Q. Boogie",
-      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
+      "duration_ms": 310040,
+      "name": "Junco Partner",
+      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
+        "name": "The Lost Paramount Tapes",
+        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Junco Partner #2",
+      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
         "name": "Down The Road Apiece -The Best Of Amos Milburn",
         "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
@@ -443,38 +459,6 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Jimmy Liggins And His Drops Of Joy",
-        "url": "https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Liggins and His Drops Of Joy",
-          "url": "https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Cadillac Boogie",
-      "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
-        "name": "Junco Partner",
-        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "Junco Partner",
-      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
         "name": "See You Later, Alligator",
         "url": "https://open.spotify.com/album/6gSDcwUiHZ15E92WQIyx9s"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 225000,
       "name": "Later Alligator (See You Later, Alligator)",
       "url": "https://open.spotify.com/track/15AqwrLBlEwtP1PPUBzUOu"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
+        "name": "Jimmy Liggins And His Drops Of Joy",
+        "url": "https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Liggins and His Drops Of Joy",
+          "url": "https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Cadillac Boogie",
+      "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
+        "name": "Boogie Woogie Motel Swing",
+        "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
+      },
+      "artists": [
+        {
+          "name": "Sue Palmer",
+          "url": "https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v"
+        }
+      ],
+      "duration_ms": 123626,
+      "name": "Sue's Boogie",
+      "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
         "name": "Piano-Blues & Boogie-Woogie",
         "url": "https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Boogie Woogie Motel Swing",
-        "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3IuGSS1XszSPTZj1M9HZcE"
       },
       "artists": [
         {
-          "name": "Sue Palmer",
-          "url": "https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v"
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
         }
       ],
-      "duration_ms": 123626,
-      "name": "Sue's Boogie",
-      "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
+      "duration_ms": 161173,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -775,22 +791,6 @@
       "duration_ms": 162600,
       "name": "Boogie Woogie Man",
       "url": "https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3IuGSS1XszSPTZj1M9HZcE"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 161173,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/3D6YG1jc5uPRVOK6qtKwKD"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -847,18 +847,22 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Battin' The Boogie",
-        "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
+        "name": "Tell Me Pretty Baby",
+        "url": "https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk"
       },
       "artists": [
         {
-          "name": "Frank Muschalle",
-          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        },
+        {
+          "name": "Pete Johnson",
+          "url": "https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ"
         }
       ],
-      "duration_ms": 141666,
-      "name": "Killer Miller",
-      "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
+      "duration_ms": 170040,
+      "name": "Rocket Boogie \"88\" (Pt. 1)",
+      "url": "https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2"
     },
     {
       "added_at": "2022-07-29 10:36:46",

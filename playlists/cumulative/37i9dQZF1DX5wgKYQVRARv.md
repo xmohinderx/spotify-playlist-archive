@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Dance Gavin Dance
 
-554 songs - 2 day 0 hr 20 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+555 songs - 2 day 0 hr 26 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Abandoned](https://open.spotify.com/track/72VhOwh87q8c5RBoI10q73) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Abandoned](https://open.spotify.com/album/2qUkwghXIeS7qcjXNZHFYI) | 5:27 | 2022-07-13 |  |
 | [Abomination](https://open.spotify.com/track/41qbzmASxiYV8zgpkt2O9g) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Obsidian](https://open.spotify.com/album/6QRURYmqe56BojUuWgTpX6) | 4:10 | 2022-04-22 |  |
 | [Above Inhumanity](https://open.spotify.com/track/1h1d89D976cZnLidtSw4SM) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [Above Inhumanity](https://open.spotify.com/album/2wwjBIvFRXDExM2hwabGU7) | 4:33 | 2021-12-17 | 2022-07-29 |
-| [Above Inhumanity](https://open.spotify.com/track/53GitIARlTjjskpBOarbnO) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [SOMA SEMA](https://open.spotify.com/album/6DaAgBz5ypKXg7QZEF8xMU) | 4:33 | 2022-10-07 |  |
+| [Above Inhumanity](https://open.spotify.com/track/53GitIARlTjjskpBOarbnO) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [SOMA SEMA](https://open.spotify.com/album/6DaAgBz5ypKXg7QZEF8xMU) | 4:33 | 2022-10-07 | 2022-10-25 |
 | [Abyss](https://open.spotify.com/track/6ovlhMH6yaDcEUyM2Ggfxv) | [Atomic Symphony](https://open.spotify.com/artist/3LX11DL1d2GULjP82kQJ7p) | [Redemption](https://open.spotify.com/album/4BVIM7wC2uahNAOjMwc0ha) | 7:17 | 2021-12-17 | 2022-01-29 |
 | [ACCELERATOR](https://open.spotify.com/track/0dccQvzPhrZJvU8mmHbGuR) | [Pain of Salvation](https://open.spotify.com/artist/1uRpg2s2jNaxbmoNiJDGfd) | [ACCELERATOR](https://open.spotify.com/album/0MGMdmteGofN9WXxc7sPt8) | 5:31 | 2021-12-17 | 2022-07-29 |
 | [Acid Rain](https://open.spotify.com/track/7D1wLtyGaUppoqMleM6VqT) | [Liquid Tension Experiment](https://open.spotify.com/artist/0r1s1XoxdoXECGfyChzb2v), [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1), [Mike Portnoy](https://open.spotify.com/artist/0tXHekFgHjeLensP3Uf2b9), [Tony Levin](https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH), [Jordan Rudess](https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS) | [Liquid Tension Experiment 2](https://open.spotify.com/album/25JdFEbKXocMQyJdlBzD5d) | 6:36 | 2021-12-17 | 2022-01-29 |
@@ -186,6 +186,7 @@
 | [Fugue](https://open.spotify.com/track/5MyJ0db4l6pNQCcrIxu3P9) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Resident Human](https://open.spotify.com/album/1FrupUpwR2Mf9rSIIoInyr) | 4:31 | 2022-09-02 |  |
 | [Fugue](https://open.spotify.com/track/5Foe5fUmcOU9gsFpA03RRy) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Fugue](https://open.spotify.com/album/6wI0GHQv3wCLTrBk8vf4wo) | 4:31 | 2021-12-17 | 2022-07-29 |
 | [Garden in the Bones](https://open.spotify.com/track/1KMJIB0SCNDxEKOSG26T0x) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Garden in the Bones](https://open.spotify.com/album/0x9PB03XPoJaZDP7KzPsFq) | 5:56 | 2022-07-13 | 2022-07-29 |
+| [Garden In The Bones](https://open.spotify.com/track/1gigJImcWyDZZidGrqu2bX) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery IV: HAIL STAN](https://open.spotify.com/album/0A3ms3uYiTs9MPAfQrfoKt) | 5:56 | 2022-10-07 |  |
 | [Garden in the Bones](https://open.spotify.com/track/4ezBCuMm1YfzFIrrwfIQrz) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery IV: HAIL STAN](https://open.spotify.com/album/4b8Wu8BFcryfjXnVI5tTU0) | 5:56 | 2022-07-13 | 2022-10-20 |
 | [Genesis](https://open.spotify.com/track/2TZmBHYZ1SADz4ZrLEAGFD) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [Genesis](https://open.spotify.com/album/4KlHOmskM3Yswo9zfmGKzC) | 6:05 | 2021-12-17 | 2022-07-01 |
 | [Get Out! Now!](https://open.spotify.com/track/1bqmDGI38tQZRX4B5ssTHt) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt), [Dee Snider](https://open.spotify.com/artist/2pD123sZTm8brthWviUKlQ), [Tom Baker](https://open.spotify.com/artist/2tavQL0L3uLZYV2HyXvpGm), [Marcela Bovio](https://open.spotify.com/artist/5tXNu1Z66uFlhcDSdRLP6i), [Caroline Westendorp](https://open.spotify.com/artist/4SIUiZEikEKimM7BjiH0Gd), [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8), [Joost van den Broek](https://open.spotify.com/artist/2HmiEUdBpKXIVcbfKYQmmk) | [Transitus](https://open.spotify.com/album/59ZZ5lCjcxyHz1ULozDnmA) | 5:02 | 2022-07-08 | 2022-09-03 |

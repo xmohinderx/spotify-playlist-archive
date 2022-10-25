@@ -1,12 +1,12 @@
 {
   "description": "Have a nice relaxed dinner with some chill indie music.",
-  "num_followers": 9780,
+  "num_followers": 9804,
   "original_name": "Mellow Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDA1ZDNmMDk1MTM5MjVhMjIyZDk0NGNmMzQ1ZDBiYjZl",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDNhZjQ4ZDdhNzJmOTBhY2M0ZjhhMmUwY2ZiZThjOTEx",
   "tracks": [
     {
       "added_at": "2018-11-19 19:02:53",
@@ -143,6 +143,22 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 237973,
       "name": "No Woman",
       "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -351,6 +351,22 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
+        "name": "Harlequin Dream",
+        "url": "https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 281133,
+      "name": "Southern Sun",
+      "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
         "name": "Inside Llewyn Davis: Original Soundtrack Recording",
         "url": "https://open.spotify.com/album/1HlwBBTjItwW2VN4OG1rin"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 180400,
       "name": "Fare Thee Well (Dink's Song)",
       "url": "https://open.spotify.com/track/0YOOXnCJihgyluizqhAcrz"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
-        "name": "Harlequin Dream",
-        "url": "https://open.spotify.com/album/2CFyEkeALqX3vTLIJ9ohvN"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 281133,
-      "name": "Southern Sun",
-      "url": "https://open.spotify.com/track/0RrPNhHIC7WkLR88xDVKJa"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -467,6 +467,22 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 221039,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
@@ -499,6 +515,22 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
+        "name": "Morning Phase",
+        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 242346,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
         "name": "Sea Of Love",
         "url": "https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg"
       },
@@ -515,38 +547,6 @@
       "duration_ms": 203190,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 221039,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
-        "name": "Morning Phase",
-        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 242346,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -647,18 +647,18 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Port Of Morrow",
-        "url": "https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi"
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
       },
       "artists": [
         {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 241613,
-      "name": "It's Only Life",
-      "url": "https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH"
+      "duration_ms": 223685,
+      "name": "October Skies",
+      "url": "https://open.spotify.com/track/77GRxATpswGNnEJIFvSrHr"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -679,18 +679,18 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
+        "name": "Port Of Morrow",
+        "url": "https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
         }
       ],
-      "duration_ms": 223685,
-      "name": "October Skies",
-      "url": "https://open.spotify.com/track/77GRxATpswGNnEJIFvSrHr"
+      "duration_ms": 241613,
+      "name": "It's Only Life",
+      "url": "https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -775,6 +775,22 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
+        "name": "Big Wheel and Others",
+        "url": "https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "duration_ms": 257453,
+      "name": "There Can Be Only One",
+      "url": "https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
         "name": "Maraqopa (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0M9qrwqS1gTf7ONzbws7z4"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 217675,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/35EetinpgZv45rOfpDvlE4"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
-        "name": "Big Wheel and Others",
-        "url": "https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt"
-      },
-      "artists": [
-        {
-          "name": "Cass McCombs",
-          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
-        }
-      ],
-      "duration_ms": 257453,
-      "name": "There Can Be Only One",
-      "url": "https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -999,22 +999,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "All We Grow",
-        "url": "https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 310733,
-      "name": "In the Stream",
-      "url": "https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Once I Was An Eagle",
         "url": "https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 251400,
       "name": "Take The Night Off",
       "url": "https://open.spotify.com/track/4TDqzUw8frlMqGYxfqcCkx"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "All We Grow",
+        "url": "https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 310733,
+      "name": "In the Stream",
+      "url": "https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "The Clearing",
-        "url": "https://open.spotify.com/album/6BELKxlBUu6H3vUif48OLZ"
-      },
-      "artists": [
-        {
-          "name": "Bowerbirds",
-          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Tuck the Darkness In",
-      "url": "https://open.spotify.com/track/0RYrr1I3ASoFZzJlquODx5"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Once I Was An Eagle",
         "url": "https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 261680,
       "name": "I Was An Eagle",
       "url": "https://open.spotify.com/track/6MSh3uMbEAWfjLuedvJ2cT"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "The Clearing",
+        "url": "https://open.spotify.com/album/6BELKxlBUu6H3vUif48OLZ"
+      },
+      "artists": [
+        {
+          "name": "Bowerbirds",
+          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Tuck the Darkness In",
+      "url": "https://open.spotify.com/track/0RYrr1I3ASoFZzJlquODx5"
     },
     {
       "added_at": "2018-11-19 19:02:53",

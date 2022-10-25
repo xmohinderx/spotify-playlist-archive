@@ -4,7 +4,7 @@
 
 > Indie music to keep your gaming session properly soundtracked.
 
-371 songs - 20 hr 41 min - [published](https://open.spotify.com/playlist/6eT1nwSC8c4kaxWfBxqE4a)
+372 songs - 20 hr 45 min - [published](https://open.spotify.com/playlist/6eT1nwSC8c4kaxWfBxqE4a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Fallen Down](https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 0:57 | 2021-10-20 | 2022-02-26 |
 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 | 2021-10-20 | 2022-02-26 |
 | [Fear](https://open.spotify.com/track/2VkyY15WPQlzcC6SV9BGAt) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [A Different Age](https://open.spotify.com/album/60XCXi2YJ0jNw72nIV2lYs) | 3:36 | 2021-10-20 | 2022-07-29 |
-| [Fear](https://open.spotify.com/track/4rHfpAN2CK3H6eRWd7j7E0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [A Different Age](https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61) | 3:36 | 2022-10-06 |  |
+| [Fear](https://open.spotify.com/track/4rHfpAN2CK3H6eRWd7j7E0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [A Different Age](https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61) | 3:36 | 2022-10-06 | 2022-10-25 |
 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 | 2022-01-20 |  |
 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 | 2021-10-20 | 2022-02-26 |
 | [Feeling Lonely](https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:17 | 2021-10-20 | 2022-02-26 |
@@ -150,6 +150,7 @@
 | [I Lost a Friend](https://open.spotify.com/track/7yfGRLpyVn2qiyU9FR86Ww) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/1O1Ulu4uuaceAzsNfN7ks0) | 3:57 | 2021-10-20 | 2021-12-21 |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2022-02-25 |  |
 | [I Love You So](https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Songs for Dads](https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5) | 2:40 | 2021-10-20 | 2022-02-26 |
+| [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-10-25 |  |
 | [i saw you in a dream](https://open.spotify.com/track/0ltmioOsLQsL0OFgcPbdVi) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:20 | 2021-10-20 | 2022-02-25 |
 | [I Think I Like When It Rains](https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3kWPtRY5FCFhjDFTMNdvP3) | 4:38 | 2021-10-20 | 2022-02-26 |
 | [I Think I'm In Love](https://open.spotify.com/track/3U1TuSqHIubBA10cVP7Sk6) | [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [My Garden](https://open.spotify.com/album/7IQvaeTZKibqE8OkOwicM0) | 3:22 | 2021-10-20 | 2022-04-24 |

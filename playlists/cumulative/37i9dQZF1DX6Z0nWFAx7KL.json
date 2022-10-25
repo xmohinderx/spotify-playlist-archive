@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 211073,
       "name": "Bosana",
       "url": "https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-25",
       "duration_ms": 165000,
       "name": "Chasing Daydreams",
       "url": "https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1"
@@ -1034,6 +1034,32 @@
     },
     {
       "album": {
+        "name": "Hold You Down",
+        "url": "https://open.spotify.com/album/3GjLINFWwkDBAylZHl4jLY"
+      },
+      "artists": [
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "\u00c6j",
+          "url": "https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41"
+        },
+        {
+          "name": "Marphil",
+          "url": "https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158608,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/6JC7P4epKYJtW7og3pEaWc"
+    },
+    {
+      "album": {
         "name": "I Blame You",
         "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
       },
@@ -1093,6 +1119,28 @@
       "duration_ms": 152000,
       "name": "In The Sun",
       "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
+    },
+    {
+      "album": {
+        "name": "Inner Light",
+        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Dan Soleil",
+          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208995,
+      "name": "Inner Light",
+      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
     },
     {
       "album": {
