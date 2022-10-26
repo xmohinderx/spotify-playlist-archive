@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: Lil Uzi Vert
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,987 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,001 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
-| 2 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 |
+| 2 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 |
 | 3 | [circus](https://open.spotify.com/track/0NVE77h0628NFCL2Xc2fUg) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [circus](https://open.spotify.com/album/18N7OqbHFi8CMatvhdrN5r) | 2:13 |
 | 4 | [ISSUES](https://open.spotify.com/track/4AQKwTnwy0EhCxfRzkg8C0) | [BOYFRN](https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2) | [ISSUES](https://open.spotify.com/album/7x9dZ1NHtyFZ9DrMqNjBCp) | 3:40 |
 | 5 | [‎mile ‎end](https://open.spotify.com/track/1KxxA8990AfM6Fy6OdY9VU) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mile ‎end](https://open.spotify.com/album/1BzvJjxfU31LFay7pcJJsL) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 |
 | 100 | [on my own](https://open.spotify.com/track/27uE9SLPTIcdqsA6iDqCtS) | [subin lee](https://open.spotify.com/artist/71yDJTh8ME6l4Wjx0xRiVp) | [on my own](https://open.spotify.com/album/2dFXJzRJK5UpWFJoNlEaMs) | 3:02 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDJkZmJhY2Q0NzcyODRhNmFiZDRlODFkZGMwYjhmY2Rj`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMGZmODcyZWJmZDVjOTg3YTkxMDlkZDZjNzZkYmYzZmJh`

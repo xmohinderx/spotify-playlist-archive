@@ -6,6 +6,24 @@
   "tracks": [
     {
       "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237320,
+      "name": "A.M. RADIO",
+      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
       },
@@ -71,7 +89,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 206187,
       "name": "As It Was - Spotify Singles",
       "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
@@ -361,7 +379,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 232760,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
@@ -608,6 +626,24 @@
     },
     {
       "album": {
+        "name": "Keep Your Head Up Princess",
+        "url": "https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198220,
+      "name": "Keep Your Head Up Princess",
+      "url": "https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj"
+    },
+    {
+      "album": {
         "name": "kiss me before u go.",
         "url": "https://open.spotify.com/album/0qXF4bLph1rkzuE1x6ZLcJ"
       },
@@ -721,7 +757,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 220436,
       "name": "Love Love Love - Live / Acoustic",
       "url": "https://open.spotify.com/track/0s9M6IFp5dd1PiXAY9frqn"
@@ -797,7 +833,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 215758,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
@@ -841,6 +877,24 @@
       "duration_ms": 187802,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb"
+    },
+    {
+      "album": {
+        "name": "Vault Volume 1",
+        "url": "https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259569,
+      "name": "No One - Acoustic",
+      "url": "https://open.spotify.com/track/73E08jF1urQQSO0oTzCPpP"
     },
     {
       "album": {
@@ -1275,7 +1329,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 225626,
       "name": "Turnham Green",
       "url": "https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW"

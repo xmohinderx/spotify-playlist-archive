@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 118490,
+  "num_followers": 118615,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk3OTE1MCwwMDAwMDAwMGU3ZjA3MjVlMGVjZTU2MzFmM2E5NzdkYmQ2MzFmNTky",
+  "snapshot_id": "MTY2NDk3OTE1MCwwMDAwMDAwMGIzMTQ4MWI0ZTc0YmVkZjcxZWM0ODM1ODQ0Nzk5NmRj",
   "tracks": [
     {
       "added_at": "2022-09-30 04:04:59",
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/01uiiE7cNaoMAvdtsiDqMd"
     },
     {
-      "added_at": "2022-10-25 01:35:51",
+      "added_at": "2022-10-26 01:20:30",
       "album": {
         "name": "All Through The Day",
         "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j"
     },
     {
+      "added_at": "2021-10-15 03:46:13",
+      "album": {
+        "name": "Mouth Full of Glass",
+        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
+      },
+      "artists": [
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "Garter Snake",
+      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
+    },
+    {
       "added_at": "2022-09-12 20:31:51",
       "album": {
         "name": "Can I Call You",
@@ -607,22 +623,6 @@
       "duration_ms": 262893,
       "name": "Can I Call You",
       "url": "https://open.spotify.com/track/71RrgXAd9GrlQKvzvLjirz"
-    },
-    {
-      "added_at": "2021-10-15 03:46:13",
-      "album": {
-        "name": "Mouth Full of Glass",
-        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
-      },
-      "artists": [
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Garter Snake",
-      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
       "added_at": "2022-08-02 14:49:54",
@@ -735,7 +735,7 @@
     {
       "added_at": "2022-08-13 01:40:58",
       "album": {
-        "name": "Night Crawling",
+        "name": "NIGHT CRAWLING",
         "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
       },
       "artists": [
@@ -745,7 +745,7 @@
         }
       ],
       "duration_ms": 293706,
-      "name": "Night Crawling",
+      "name": "NIGHT CRAWLING",
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
-      "added_at": "2022-10-25 01:35:51",
+      "added_at": "2022-10-26 01:20:30",
       "album": {
         "name": "Gloss",
         "url": "https://open.spotify.com/album/1XFeTBRv2lsIL6UBijuI76"
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI"
     },
     {
-      "added_at": "2022-05-24 01:31:24",
-      "album": {
-        "name": "Sun's Signature",
-        "url": "https://open.spotify.com/album/5akeKnapz5tDzJUjoMdEIF"
-      },
-      "artists": [
-        {
-          "name": "Sun's Signature",
-          "url": "https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp"
-        }
-      ],
-      "duration_ms": 405773,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Moot!",
@@ -1051,6 +1035,22 @@
       "duration_ms": 297239,
       "name": "Right is Alright, Wrong is to Belong",
       "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
+    },
+    {
+      "added_at": "2022-05-24 01:31:24",
+      "album": {
+        "name": "Sun's Signature",
+        "url": "https://open.spotify.com/album/5akeKnapz5tDzJUjoMdEIF"
+      },
+      "artists": [
+        {
+          "name": "Sun's Signature",
+          "url": "https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp"
+        }
+      ],
+      "duration_ms": 405773,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/3ufmZWjnasL9fwddzWw3Ci"
     },
     {
       "added_at": "2022-03-30 04:28:53",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "Al Sur",
+        "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
+      },
+      "artists": [
+        {
+          "name": "The Notwist",
+          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+        },
+        {
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Al Sur",
+      "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "NOW",
         "url": "https://open.spotify.com/album/42yBiH8auH9zsloOembHL0"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 354346,
       "name": "Keep Your Mind Free",
       "url": "https://open.spotify.com/track/2JoAsRpfSpuCGsEOtlFS7W"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Al Sur",
-        "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
-      },
-      "artists": [
-        {
-          "name": "The Notwist",
-          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
-        },
-        {
-          "name": "Juana Molina",
-          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Al Sur",
-      "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
     },
     {
       "added_at": "2022-01-11 00:08:03",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/7rcxsiSZTU9VC0t6tGKFTl"
     },
     {
-      "added_at": "2022-08-13 01:25:00",
-      "album": {
-        "name": "THE 55",
-        "url": "https://open.spotify.com/album/3VRckeo4W4pLalver76sg1"
-      },
-      "artists": [
-        {
-          "name": "GUSPY",
-          "url": "https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "THE 55",
-      "url": "https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70"
-    },
-    {
       "added_at": "2022-08-13 01:26:08",
       "album": {
         "name": "Escultura Misterio",
@@ -1487,6 +1471,22 @@
       "duration_ms": 173862,
       "name": "Escultura Misterio",
       "url": "https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD"
+    },
+    {
+      "added_at": "2022-08-13 01:25:00",
+      "album": {
+        "name": "THE 55",
+        "url": "https://open.spotify.com/album/3VRckeo4W4pLalver76sg1"
+      },
+      "artists": [
+        {
+          "name": "GUSPY",
+          "url": "https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "THE 55",
+      "url": "https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70"
     },
     {
       "added_at": "2022-07-15 05:20:53",

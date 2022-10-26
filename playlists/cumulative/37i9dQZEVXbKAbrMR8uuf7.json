@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 113772,
       "name": "2 Na' Ma",
       "url": "https://open.spotify.com/track/2TAwTtG4uihlWzelKWRRLp"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 139041,
       "name": "Agosto",
       "url": "https://open.spotify.com/track/0wihfILRNOwE2156Shezc8"
@@ -2241,7 +2241,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 206855,
       "name": "Controlla - Remix",
       "url": "https://open.spotify.com/track/3FhGRaF1qZYI56jhdq5Ppq"
@@ -3699,7 +3699,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 230653,
       "name": "En La De Ella",
       "url": "https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj"
@@ -4243,7 +4243,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 189311,
       "name": "Filling (feat. Goldy Boy)",
       "url": "https://open.spotify.com/track/41ymPONcHTl3ZCbsEAUmbq"
@@ -5777,7 +5777,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 202173,
       "name": "LA INOCENTE",
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
@@ -5951,7 +5951,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 167533,
       "name": "La Noche Perfecta",
       "url": "https://open.spotify.com/track/48PWl8PXhw0aHpbunmwI8k"
@@ -6611,7 +6611,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 184625,
       "name": "Lo Prieto",
       "url": "https://open.spotify.com/track/5q3b86vdmn3itBhsAPHMfd"
@@ -6801,7 +6801,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 264827,
       "name": "Lokisla",
       "url": "https://open.spotify.com/track/5k4YmMdNXdzN8zOdYxHet2"
@@ -7391,7 +7391,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 190749,
       "name": "Me Vas a Recordar",
       "url": "https://open.spotify.com/track/5oL6fZD5C2Yhw2jiiV2vIW"
@@ -9434,6 +9434,24 @@
     },
     {
       "album": {
+        "name": "Princesa De Otro",
+        "url": "https://open.spotify.com/album/5B1CNEHH3HobzDFlidyIgm"
+      },
+      "artists": [
+        {
+          "name": "Pescy la Ley",
+          "url": "https://open.spotify.com/artist/4KEsGu4CXTPHy7ZvDGnqub"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207203,
+      "name": "Princesa De Otro",
+      "url": "https://open.spotify.com/track/1FcLVdE8zzLY1olRQYUgsb"
+    },
+    {
+      "album": {
         "name": "Sabiduria",
         "url": "https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU"
       },
@@ -9987,7 +10005,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 133000,
       "name": "Roce",
       "url": "https://open.spotify.com/track/5M8sNlIjRkalIwXm0sjhx1"
@@ -12317,7 +12335,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 167040,
       "name": "Una Morena",
       "url": "https://open.spotify.com/track/3bJrHqKHhQ10oU8CVaZtmY"
@@ -12419,7 +12437,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"

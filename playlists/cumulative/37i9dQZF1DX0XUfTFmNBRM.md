@@ -4,7 +4,7 @@
 
 > Hottest Hindi music served here\. Cover\- Ranbir & Alia.
 
-205 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
+206 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Dhoop Aane Do](https://open.spotify.com/track/26wSHzYyWwRUPIp6bTks2r) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Dhoop Aane Do](https://open.spotify.com/album/3M1jMgIrrefDIolb9prRyu) | 3:47 | 2021-04-06 | 2021-04-12 |
 | [Dil \(From "Ek Villain Returns"\)](https://open.spotify.com/track/043SPVu75TXbs94ZfM9dfn) | [Kaushik\-Guddu](https://open.spotify.com/artist/7EiUTtmmkwGtbgR6gZaZzW), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dil \(From "Ek Villain Returns"\)](https://open.spotify.com/album/5RFQhO7dqTjNfZt1Ei710x) | 5:09 | 2022-07-13 |  |
 | [Dil da Khayal](https://open.spotify.com/track/36uq1QJOwBoPiZh9bg255s) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Dil da Khayal](https://open.spotify.com/album/1gL08w4iLCVoXlbrIUcHDq) | 3:55 | 2021-04-06 | 2021-04-12 |
+| [Dil De Diya \(From "Thank God"\)](https://open.spotify.com/track/2vSaZJ3gyDDyVy81zu1LGc) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Anand Raj Anand](https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Sameer](https://open.spotify.com/artist/77FVRdtArPbwxygmW5dTsa) | [Dil De Diya \(From "Thank God"\)](https://open.spotify.com/album/6NlGIZL3C8d4yHF8PkpF0S) | 4:34 | 2022-10-25 |  |
 | [Dil Galti Kar Baitha Hai](https://open.spotify.com/track/7HPM13Xek5XoRWxRzHfvkB) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Shardul Rathod](https://open.spotify.com/artist/7sHlKGTwriTbRtSKthhQFt) | [Dil Galti Kar Baitha Hai](https://open.spotify.com/album/3IVKZaNM28VJVl74XDSKpR) | 4:33 | 2021-10-05 |  |
 | [Dil Jo Na Keh Saka](https://open.spotify.com/track/2hbbcVDr5CNRXyeuEqMCU8) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Bheegi Raat](https://open.spotify.com/album/7gKxU6MCpyCpd7vsjNts2p) | 4:22 | 2021-04-06 | 2021-04-12 |
 | [Dil Ka Telephone](https://open.spotify.com/track/2by8FVjoggo96ntJFHusVw) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Dil Ka Telephone \(From "Dream Girl"\)](https://open.spotify.com/album/397ZPmSYHIsKym4A6vUGIU) | 3:29 | 2021-01-25\* | 2021-04-20 |

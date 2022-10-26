@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 15714,
+  "num_followers": 15726,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYwMjEzMiwwMDAwMDAwMDcxYjkxZDU0NGE5YWU4NTM5ZjVlYTRkNGJjODYwYTg3",
+  "snapshot_id": "MTY2NTYwMjEzMiwwMDAwMDAwMGY2ZWZlYmUzZTQ5MjFhYWM1YjI4YjEwZjUxNGY4ZWIx",
   "tracks": [
     {
       "added_at": "2022-10-12 19:15:32",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-10-12 19:15:32",
       "album": {
-        "name": "Copia Viva",
-        "url": "https://open.spotify.com/album/16Ds6fYMwSXXOlSEKHl8fg"
-      },
-      "artists": [
-        {
-          "name": "Los Besos",
-          "url": "https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "La Cascada de Tu Pelo Enredado",
-      "url": "https://open.spotify.com/track/0WatuYSspFciyN3u60zJ76"
-    },
-    {
-      "added_at": "2022-10-12 19:15:32",
-      "album": {
         "name": "Suave Pendiente",
         "url": "https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 224736,
       "name": "Tentempi\u00e9",
       "url": "https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04"
+    },
+    {
+      "added_at": "2022-10-12 19:15:32",
+      "album": {
+        "name": "Copia Viva",
+        "url": "https://open.spotify.com/album/16Ds6fYMwSXXOlSEKHl8fg"
+      },
+      "artists": [
+        {
+          "name": "Los Besos",
+          "url": "https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "La Cascada de Tu Pelo Enredado",
+      "url": "https://open.spotify.com/track/0WatuYSspFciyN3u60zJ76"
     },
     {
       "added_at": "2022-10-12 19:15:32",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-10-12 19:15:32",
       "album": {
-        "name": "Jard\u00edn Secreto",
-        "url": "https://open.spotify.com/album/7j0lW8QUdtvBk41WiBu7rp"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        }
-      ],
-      "duration_ms": 232454,
-      "name": "Jardin Secreto",
-      "url": "https://open.spotify.com/track/5ahCZr2S2fe7clkWuOPdZc"
-    },
-    {
-      "added_at": "2022-10-12 19:15:32",
-      "album": {
         "name": "La Cena",
         "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 166500,
       "name": "La Cena",
       "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
+    },
+    {
+      "added_at": "2022-10-12 19:15:32",
+      "album": {
+        "name": "Jard\u00edn Secreto",
+        "url": "https://open.spotify.com/album/7j0lW8QUdtvBk41WiBu7rp"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 232454,
+      "name": "Jardin Secreto",
+      "url": "https://open.spotify.com/track/5ahCZr2S2fe7clkWuOPdZc"
     },
     {
       "added_at": "2022-10-12 19:15:32",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-10-12 19:15:32",
       "album": {
+        "name": "La Flor",
+        "url": "https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH"
+      },
+      "artists": [
+        {
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        }
+      ],
+      "duration_ms": 186474,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24"
+    },
+    {
+      "added_at": "2022-10-12 19:15:32",
+      "album": {
         "name": "Berl\u00edn",
         "url": "https://open.spotify.com/album/4yajrPmBYJYZ4V2zpZVaVx"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 165590,
       "name": "Berl\u00edn",
       "url": "https://open.spotify.com/track/2dvEMEPUednUH9Fo01HcXT"
-    },
-    {
-      "added_at": "2022-10-12 19:15:32",
-      "album": {
-        "name": "La Flor",
-        "url": "https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH"
-      },
-      "artists": [
-        {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
-        }
-      ],
-      "duration_ms": 186474,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24"
     },
     {
       "added_at": "2022-10-12 19:15:32",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-10-12 19:15:32",
       "album": {
-        "name": "no s\u00e9 qui\u00e9n soy",
-        "url": "https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw"
-      },
-      "artists": [
-        {
-          "name": "K4",
-          "url": "https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU"
-        }
-      ],
-      "duration_ms": 128047,
-      "name": "no s\u00e9 qui\u00e9n soy",
-      "url": "https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n"
-    },
-    {
-      "added_at": "2022-10-12 19:15:32",
-      "album": {
         "name": "Sin Condiciones",
         "url": "https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj"
       },
@@ -943,22 +927,18 @@
     {
       "added_at": "2022-10-12 19:15:32",
       "album": {
-        "name": "Rayo El\u00e9ctrico",
-        "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
+        "name": "no s\u00e9 qui\u00e9n soy",
+        "url": "https://open.spotify.com/album/6bDXLYFW8ZzmYBgAdsJIVw"
       },
       "artists": [
         {
-          "name": "Poncho",
-          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+          "name": "K4",
+          "url": "https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU"
         }
       ],
-      "duration_ms": 258629,
-      "name": "Rayo El\u00e9ctrico",
-      "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
+      "duration_ms": 128047,
+      "name": "no s\u00e9 qui\u00e9n soy",
+      "url": "https://open.spotify.com/track/6BUWGhSxHTbOb5lv81O41n"
     },
     {
       "added_at": "2022-10-12 19:15:32",
@@ -975,6 +955,26 @@
       "duration_ms": 198920,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2"
+    },
+    {
+      "added_at": "2022-10-12 19:15:32",
+      "album": {
+        "name": "Rayo El\u00e9ctrico",
+        "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
+      },
+      "artists": [
+        {
+          "name": "Poncho",
+          "url": "https://open.spotify.com/artist/4ADdzb8h9qQTE8XPmSxY8r"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 258629,
+      "name": "Rayo El\u00e9ctrico",
+      "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
     },
     {
       "added_at": "2022-10-12 19:15:32",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-10-12 19:15:32",
       "album": {
+        "name": "Congelado",
+        "url": "https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 147053,
+      "name": "Congelado",
+      "url": "https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp"
+    },
+    {
+      "added_at": "2022-10-12 19:15:32",
+      "album": {
         "name": "Gracias Por Nada",
         "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 225833,
       "name": "\u00bfQu\u00e9 Clase de Ciudad Es Esta?",
       "url": "https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m"
-    },
-    {
-      "added_at": "2022-10-12 19:15:32",
-      "album": {
-        "name": "Congelado",
-        "url": "https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 147053,
-      "name": "Congelado",
-      "url": "https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp"
     },
     {
       "added_at": "2022-10-12 19:15:32",
@@ -1255,38 +1255,6 @@
     {
       "added_at": "2022-10-12 19:15:32",
       "album": {
-        "name": "Somos 2",
-        "url": "https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 152264,
-      "name": "Somos 2",
-      "url": "https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK"
-    },
-    {
-      "added_at": "2022-10-12 19:15:32",
-      "album": {
-        "name": "Simona",
-        "url": "https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq"
-      },
-      "artists": [
-        {
-          "name": "Mauro Samaniego",
-          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
-        }
-      ],
-      "duration_ms": 228642,
-      "name": "Cielo Negro",
-      "url": "https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h"
-    },
-    {
-      "added_at": "2022-10-12 19:15:32",
-      "album": {
         "name": "Parcialmente nublado",
         "url": "https://open.spotify.com/album/4ORofRFEKE8XdwPtseVnf4"
       },
@@ -1307,18 +1275,50 @@
     {
       "added_at": "2022-10-12 19:15:32",
       "album": {
-        "name": "Recopilatorio",
-        "url": "https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy"
+        "name": "Simona",
+        "url": "https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq"
       },
       "artists": [
         {
-          "name": "Martina Lluvias",
-          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
         }
       ],
-      "duration_ms": 186013,
-      "name": "Cu\u00e1ntas Veces",
-      "url": "https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W"
+      "duration_ms": 228642,
+      "name": "Cielo Negro",
+      "url": "https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h"
+    },
+    {
+      "added_at": "2022-10-12 19:15:32",
+      "album": {
+        "name": "Somos 2",
+        "url": "https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 152264,
+      "name": "Somos 2",
+      "url": "https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK"
+    },
+    {
+      "added_at": "2022-10-12 19:15:32",
+      "album": {
+        "name": "Batalla Naval",
+        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
+      },
+      "artists": [
+        {
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+        }
+      ],
+      "duration_ms": 203186,
+      "name": "Batalla Naval",
+      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
     },
     {
       "added_at": "2022-10-12 19:15:32",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2022-10-12 19:15:32",
       "album": {
-        "name": "Batalla Naval",
-        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
+        "name": "Recopilatorio",
+        "url": "https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy"
       },
       "artists": [
         {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+          "name": "Martina Lluvias",
+          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
         }
       ],
-      "duration_ms": 203186,
-      "name": "Batalla Naval",
-      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
+      "duration_ms": 186013,
+      "name": "Cu\u00e1ntas Veces",
+      "url": "https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W"
     },
     {
       "added_at": "2022-10-12 19:15:32",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-10-12 19:15:32",
       "album": {
-        "name": "Bronce",
-        "url": "https://open.spotify.com/album/4IEK2cahs8y3gr2lKWz2pU"
-      },
-      "artists": [
-        {
-          "name": "Atr\u00e1s Hay Truenos",
-          "url": "https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz"
-        }
-      ],
-      "duration_ms": 127676,
-      "name": "Cara de Mapa",
-      "url": "https://open.spotify.com/track/3ooLJyyIaxgdy9w7seHCBk"
-    },
-    {
-      "added_at": "2022-10-12 19:15:32",
-      "album": {
         "name": "Huele amarillo",
         "url": "https://open.spotify.com/album/4XH65quBLvAln0tbp265qx"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 274498,
       "name": "Huele amarillo",
       "url": "https://open.spotify.com/track/4NBUs3oAIGAz2ZHTCznjYq"
+    },
+    {
+      "added_at": "2022-10-12 19:15:32",
+      "album": {
+        "name": "Bronce",
+        "url": "https://open.spotify.com/album/4IEK2cahs8y3gr2lKWz2pU"
+      },
+      "artists": [
+        {
+          "name": "Atr\u00e1s Hay Truenos",
+          "url": "https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz"
+        }
+      ],
+      "duration_ms": 127676,
+      "name": "Cara de Mapa",
+      "url": "https://open.spotify.com/track/3ooLJyyIaxgdy9w7seHCBk"
     },
     {
       "added_at": "2022-10-12 19:15:32",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-10-12 19:15:32",
       "album": {
-        "name": "De Polic\u00eda a Ladr\u00f3n",
-        "url": "https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6"
+        "name": "ACAPULCO GOLD",
+        "url": "https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x"
       },
       "artists": [
         {
-          "name": "Lanza Internacional",
-          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
+          "name": "GULI",
+          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
         }
       ],
-      "duration_ms": 192646,
-      "name": "De Polic\u00eda a Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt"
+      "duration_ms": 178020,
+      "name": "ACAPULCO GOLD",
+      "url": "https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF"
     },
     {
       "added_at": "2022-10-12 19:15:32",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-10-12 19:15:32",
       "album": {
-        "name": "ACAPULCO GOLD",
-        "url": "https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x"
+        "name": "De Polic\u00eda a Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6"
       },
       "artists": [
         {
-          "name": "GULI",
-          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
+          "name": "Lanza Internacional",
+          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
         }
       ],
-      "duration_ms": 178020,
-      "name": "ACAPULCO GOLD",
-      "url": "https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF"
+      "duration_ms": 192646,
+      "name": "De Polic\u00eda a Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt"
     },
     {
       "added_at": "2022-10-12 19:15:32",

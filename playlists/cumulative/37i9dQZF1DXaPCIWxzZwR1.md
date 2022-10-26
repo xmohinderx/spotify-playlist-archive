@@ -4,7 +4,7 @@
 
 > next gen pop cover: Maise Peters
 
-1,178 songs - 2 day 9 hr 18 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,179 songs - 2 day 9 hr 21 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,6 +811,7 @@
 | [People disappear here](https://open.spotify.com/track/7h5CR4nRDXUwuTKw66T5Nx) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH) | 4:07 | 2022-01-07 | 2022-01-22 |
 | [people think i'm okay, i'm not](https://open.spotify.com/track/4PHuY7WfE3oF9Qhg39MApg) | [yung sum](https://open.spotify.com/artist/2kMfOad7vI5MUraDWi8gUS) | [people think i'm okay, i'm not](https://open.spotify.com/album/1ZTp1DHbUg1HxrGQy2Tz0a) | 2:33 | 2021-07-24 | 2021-08-28 |
 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 | 2021-07-17 | 2021-10-16 |
+| [People You Know](https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:14 | 2022-10-25 |  |
 | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/track/0RW1UL8w8rjQkaIaljaFc5) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/album/3zFq7EuaSEF96fFaMCUE8w) | 3:27 | 2021-03-06 | 2021-04-24 |
 | [Pickup Lines](https://open.spotify.com/track/0q0PbcckJ29zcMkHqevGyB) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Pickup Lines](https://open.spotify.com/album/1SlVtVG8JmqGMOeXZaT9HF) | 2:59 | 2022-07-22 | 2022-07-30 |
 | [Piece of Work](https://open.spotify.com/track/0tLK0fFNlY43ntSpXjR8J0) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Piece of Work](https://open.spotify.com/album/6D96ZkhAFi4cXQADlCTz0R) | 3:05 | 2021-07-10 | 2021-08-07 |

@@ -330,6 +330,32 @@
     },
     {
       "album": {
+        "name": "After a Long Time (Digging Club Seoul Ver.)",
+        "url": "https://open.spotify.com/album/2tETtfB9qQGJ60gNmESEz3"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "Kim Hyun Chul",
+          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
+        },
+        {
+          "name": "PARKMOONCHI",
+          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252903,
+      "name": "After a long time(Digging Club Seoul Ver.)",
+      "url": "https://open.spotify.com/track/6PJ1sh2oLgYQE9hpUivC8k"
+    },
+    {
+      "album": {
         "name": "After this night",
         "url": "https://open.spotify.com/album/1A31imB5bDtcwBogAvxIzG"
       },
@@ -1119,7 +1145,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 191498,
       "name": "Come With Me (feat. Aden & H!)",
       "url": "https://open.spotify.com/track/5cyfnscoiwhmGnOZYvR9QJ"
@@ -1619,7 +1645,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 214560,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
@@ -4085,7 +4111,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 250004,
       "name": "SUMMER LOVE\u2026",
       "url": "https://open.spotify.com/track/5tVvmlomWtXPTYCirxP5NZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,000 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,102 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 29 | [Come Up the Stairs](https://open.spotify.com/track/0y8YLiCQmsmG1PLaQGk4gp) | [Lonely Stranded Band](https://open.spotify.com/artist/2SEZuwzh7YLEnD6go7gk2W) | [Irish Folk At Its Best](https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz) | 3:05 |
 | 30 | [Dicey Reilly](https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH) | [The Dicey Rileys](https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD) | [The Craic Is Mighty](https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt) | 2:17 |
 | 31 | [Handsome Molly](https://open.spotify.com/track/6na8yhbibdnCNDiQwq1yCF) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:09 |
-| 32 | [The Charladies' Ball](https://open.spotify.com/track/2xmbVtHzfnZiSjzYjRliap) | [Tara](https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8) | [Tara: Irish Songs \(Paddy Dreaming\)](https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr) | 3:51 |
+| 32 | [Paddy Dreaming](https://open.spotify.com/track/4TmmeeYNQ0tD1jIo0u6Wck) | [Tara](https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8) | [Tara: Irish Songs \(Paddy Dreaming\)](https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr) | 2:54 |
 | 33 | [Mickey Free / The Mountain Road](https://open.spotify.com/track/4sjR31gZhrsxyhDn5S4mNP) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o), [Kevin Glackin](https://open.spotify.com/artist/14uWK6VmfxYwQfJNQxqqEP), [Ronan Browne](https://open.spotify.com/artist/2XDpVHvfdJtLmueBOVcjv1), [Jimmy Fitzgerald](https://open.spotify.com/artist/62QPfGWjtxUmm9G4iACfU8), [Con Ó Drisceoil](https://open.spotify.com/artist/7p2fbihH459PJENgIkCdQX) | [Ireland: Tales of Our Land](https://open.spotify.com/album/12ONIVbXNBgohGnGYqP0KF) | 3:55 |
 | 34 | [The Tailor by Trade](https://open.spotify.com/track/4NqeYs9eIrK4qPMlg9gk99) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Tara](https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8) | [Irish Festival](https://open.spotify.com/album/7mfyOcjeuUcCI1rwpqPhC0) | 3:25 |
 | 35 | [The Craic Was Ninety](https://open.spotify.com/track/2AoTVSqG54KUwFyhu4wPzw) | [The Dicey Rileys](https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD) | [The Craic Is Mighty](https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt) | 3:16 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 38 | [The Lads O' The Fair](https://open.spotify.com/track/0k4BqDSSeH07EQ91HzIjiM) | [Ed Miller](https://open.spotify.com/artist/7GmEWdBYkt5IE7EDkArB1M) | [Many's The Fine Tale](https://open.spotify.com/album/0nmsNkHCMFKJX6zQX5tEYz) | 3:41 |
 | 39 | [Parcel of Rogues](https://open.spotify.com/track/4Ad3hhjcW4ci2VsZEg4NPH) | [Pied Pipers](https://open.spotify.com/artist/07hD0ZRBxt1clnlGk5UPlV) | [Pied Pipers: Music from Ireland and Scotland](https://open.spotify.com/album/1JZFHcBPvTORsQTrfh12At) | 4:21 |
 | 40 | [Cap and Bells](https://open.spotify.com/track/4eIqQjTjTrOfPypkM638PJ) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o), [Paul Dooley](https://open.spotify.com/artist/0HmAOyVgHVa7wEPIAfTUif), [Fergus Feely](https://open.spotify.com/artist/5rJeESCXormtjuqBHmE9ni), [John Moloney](https://open.spotify.com/artist/4kcdiauFup6jwVT2O2zXqG) | [Man for Galway: The Best of Sean Tyrrell](https://open.spotify.com/album/157Wy6gQ2nkxywtT1eEn9f) | 3:50 |
-| 41 | [Paddy Dreaming](https://open.spotify.com/track/4TmmeeYNQ0tD1jIo0u6Wck) | [Tara](https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8) | [Tara: Irish Songs \(Paddy Dreaming\)](https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr) | 2:54 |
+| 41 | [The Charladies' Ball](https://open.spotify.com/track/2xmbVtHzfnZiSjzYjRliap) | [Tara](https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8) | [Tara: Irish Songs \(Paddy Dreaming\)](https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr) | 3:51 |
 | 42 | [Naomi Wise](https://open.spotify.com/track/7AEuTfhjVJCX2evvv6tLG3) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 4:41 |
 | 43 | [Roseville Fair](https://open.spotify.com/track/7a7GS4avfjMhbN2mnpNWGY) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Denis Carey](https://open.spotify.com/artist/4dDlG6nuYNnruh0tdGvzkY) | [Home Is the Rover](https://open.spotify.com/album/0k8jMO6MMsBNVFWfYhYhjZ) | 4:16 |
 | 44 | [Dohertys \- Tommy Peoples](https://open.spotify.com/track/0R1WxTxMg6TBThTf2oGpG0) | [Dave Munnelly](https://open.spotify.com/artist/31lWaf3NIsi9OuxxzNSdan), [Philip Masure](https://open.spotify.com/artist/1yECnWiTLdHIA2rsSlyf9F), [Patrick Michiels](https://open.spotify.com/artist/2yPQ0mHaVOSikKAtmxws1N), [Kieran Fahy](https://open.spotify.com/artist/0sd7XiFafnq1L8hm0xpmnF) | [Kieran Fahy: Irish Fiddle \- Man From the West](https://open.spotify.com/album/3qiNV2ylg4Kif4DCML9FCo) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 49 | [Sweet Ballyvaughaan \- Live](https://open.spotify.com/track/4b56EXwD6FWO2MtyHmKB4W) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Sean Tyrrell Live at Greenes](https://open.spotify.com/album/7hwixTHLIB7E0xkw3n3lUV) | 4:08 |
 | 50 | [The Flower of Finea](https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 5:42 |
 
-Snapshot ID: `MTYzNDg5NTEwNiwwMDAwMDAwMDZmOTIwNGVlZDdmODBlZDgzZGQyOWY3Yzk4NTg5Y2I3`
+Snapshot ID: `MTYzNDg5NTEwNiwwMDAwMDAwMDJmMWM2ZjU4YTY4YWRhNjhmOGZiNjgyMzk3YmRhNmEw`

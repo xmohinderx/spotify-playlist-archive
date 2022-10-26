@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: AB6IX, Reiley
 
-100 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/0DIHYFEqLdrnfdqObi2sJD)
+102 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/0DIHYFEqLdrnfdqObi2sJD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,10 @@
 | [Feel Like](https://open.spotify.com/track/7Kw56g1qxxYKSVJFy3JmBj) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N), [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Feel Like](https://open.spotify.com/album/1bgbdSTAzVt7gcMIoU3lyq) | 3:42 | 2021-12-20 | 2022-06-11 |
 | [FOREVER LOVE](https://open.spotify.com/track/0vw7qY8iPqBt0ic05q2IoU) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [FOREVER LOVE](https://open.spotify.com/album/6x9oLu6OLMKuQK84HvZ5hx) | 3:39 | 2022-07-22 |  |
 | [Forget Me Not](https://open.spotify.com/track/3QA3KfGs1UvSEZkWcio81R) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : 儚い](https://open.spotify.com/album/05UNmVxVeG3XwkfrcXls5g) | 3:23 | 2021-12-20 | 2022-01-22 |
+| [Future Perfect \(Pass the MIC\) \- Japanese Ver.](https://open.spotify.com/track/3lwif0ky1b6llUB5p4uulL) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [定め](https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv) | 3:00 | 2022-10-25 |  |
 | [Galipette \- BIBI Remix](https://open.spotify.com/track/7x5xZs5VbPxNsdmGAj6Hch) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Galipette \(BIBI Remix\)](https://open.spotify.com/album/1x5eiXeq1m6KQxfYFKWQus) | 2:02 | 2021-12-20 | 2022-04-20 |
 | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/track/5760o7vIytByWNmmf115wj) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Gotta Get Back \(feat\. Pink Sweat$\)](https://open.spotify.com/album/1jdmu8Za7AUiiHTOi6u5tO) | 2:59 | 2022-05-26 |  |
+| [How Do You Know \(with HA:TFELT\)](https://open.spotify.com/track/6nkFrBPgN5SHZMnS1ErITt) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk), [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [How Do You Know \(with HA:TFELT\)](https://open.spotify.com/album/1XOosvS2hJIq8byIY5eT5T) | 2:43 | 2022-10-25 |  |
 | [HULA HOOP](https://open.spotify.com/track/2YVzshKzFglQLBXPYNpGI8) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [HULA HOOP / StarSeed \~カクセイ\~](https://open.spotify.com/album/7GQdWx1bMvrbVBOtCa829d) | 3:19 | 2021-12-20 | 2022-03-05 |
 | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/track/4viLaKGdHwhW8LkZB3mRFC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) | 3:25 | 2021-12-20 |  |
 | [I Don't Know You Anymore](https://open.spotify.com/track/4Z4FusIyks3EQfscAFslWj) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I Don't Know You Anymore](https://open.spotify.com/album/2CGgP7HTjvgAU2ta6bImXP) | 2:46 | 2021-12-20 | 2022-06-23 |

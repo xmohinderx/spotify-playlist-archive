@@ -1,13 +1,29 @@
 {
-  "description": "Nieuwe Broederliefde vandaag! Hier alleen maar good vibes en motion.",
-  "num_followers": 305944,
+  "description": "Broederliefde exclusieve tracks in La Vida Loca! Hier alleen maar good vibes en motion.",
+  "num_followers": 306023,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjY0ODgwMCwwMDAwMDAwMGM4MDg3ZjM2ZTgyOGFlOTQ0YWQxODkwNDc0Njg0NWUy",
+  "snapshot_id": "MTY2NjczNTIwMCwwMDAwMDAwMGNjZTNhMGIyZDJhNDZhYzNjYmYxN2MzNzAyNzgwYjIz",
   "tracks": [
+    {
+      "added_at": "2022-10-25 22:00:00",
+      "album": {
+        "name": "Rapido",
+        "url": "https://open.spotify.com/album/38VNtMuOH3GT7ohjqgmUHJ"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 201822,
+      "name": "Rapido",
+      "url": "https://open.spotify.com/track/2NgVf7sILlYybdPOLULlH9"
+    },
     {
       "added_at": "2022-10-24 22:00:00",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 120769,
+  "num_followers": 120792,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMDMyNjAwODIwM2U0NzMwNzUyNDdkYzE2Y2QzNmQ4MzY4",
+  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMDEyYzljYzE3MTNiMGY4YTBlYTA3OWIxZTRiNWU3ZjMy",
   "tracks": [
     {
       "added_at": "2022-10-20 22:00:00",
@@ -355,26 +355,18 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Games (Prins Thomas Diskomiks)",
-        "url": "https://open.spotify.com/album/3emSYEw7cGHEHlZtgK3EyZ"
+        "name": "Villa Amorini",
+        "url": "https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG"
       },
       "artists": [
         {
-          "name": "Gundelach",
-          "url": "https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj"
-        },
-        {
-          "name": "ARY",
-          "url": "https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM"
-        },
-        {
-          "name": "Prins Thomas",
-          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
+          "name": "Orions Belte",
+          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
         }
       ],
-      "duration_ms": 493597,
-      "name": "Games - Prins Thomas Diskomiks",
-      "url": "https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG"
+      "duration_ms": 359306,
+      "name": "how long is... cold pizza good for",
+      "url": "https://open.spotify.com/track/4xDLHt2Ss3pYDoLCK2uUPB"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -399,18 +391,26 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Villa Amorini",
-        "url": "https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG"
+        "name": "Games (Prins Thomas Diskomiks)",
+        "url": "https://open.spotify.com/album/3emSYEw7cGHEHlZtgK3EyZ"
       },
       "artists": [
         {
-          "name": "Orions Belte",
-          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
+          "name": "Gundelach",
+          "url": "https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj"
+        },
+        {
+          "name": "ARY",
+          "url": "https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM"
+        },
+        {
+          "name": "Prins Thomas",
+          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
         }
       ],
-      "duration_ms": 359306,
-      "name": "how long is... cold pizza good for",
-      "url": "https://open.spotify.com/track/4xDLHt2Ss3pYDoLCK2uUPB"
+      "duration_ms": 493597,
+      "name": "Games - Prins Thomas Diskomiks",
+      "url": "https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "A City So Convenient",
-        "url": "https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J"
-      },
-      "artists": [
-        {
-          "name": "Mungolian Jetset",
-          "url": "https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt"
-        }
-      ],
-      "duration_ms": 386268,
-      "name": "A City So Convenient",
-      "url": "https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Tea In The Desert",
         "url": "https://open.spotify.com/album/6MuABW95Vkd0xkyuan13lQ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 210841,
       "name": "Tea In The Desert",
       "url": "https://open.spotify.com/track/6ZtUV3S8sjh0OUaUBZZ9Ae"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "A City So Convenient",
+        "url": "https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J"
+      },
+      "artists": [
+        {
+          "name": "Mungolian Jetset",
+          "url": "https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt"
+        }
+      ],
+      "duration_ms": 386268,
+      "name": "A City So Convenient",
+      "url": "https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Full Pupp Splits 004 - Hamar-O-Ramah!",
-        "url": "https://open.spotify.com/album/3PuGBseuPHRXLXO05LYsFy"
-      },
-      "artists": [
-        {
-          "name": "Melkeveien",
-          "url": "https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8"
-        }
-      ],
-      "duration_ms": 358802,
-      "name": "Thirst Issues",
-      "url": "https://open.spotify.com/track/28SztSmKNenBcY2vMQl00W"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Shortwave Memories",
         "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 249672,
       "name": "Formanta",
       "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Full Pupp Splits 004 - Hamar-O-Ramah!",
+        "url": "https://open.spotify.com/album/3PuGBseuPHRXLXO05LYsFy"
+      },
+      "artists": [
+        {
+          "name": "Melkeveien",
+          "url": "https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8"
+        }
+      ],
+      "duration_ms": 358802,
+      "name": "Thirst Issues",
+      "url": "https://open.spotify.com/track/28SztSmKNenBcY2vMQl00W"
     },
     {
       "added_at": "2022-10-20 22:00:00",

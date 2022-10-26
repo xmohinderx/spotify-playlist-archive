@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 52222,
+  "num_followers": 52249,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA4OTQ2MiwwMDAwMDAwMGJlZDM0MGFhOGJjMGU5YjFmYWEzNTg4OGRjYzI2YmU5",
+  "snapshot_id": "MTY2MjA4OTQ2MiwwMDAwMDAwMGE4YTY1MjFiZGIyZGM0MDQzMjE3MmNlNWQ4MGJmNzhj",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -279,6 +279,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Tino Contreras",
+        "url": "https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 168198,
+      "name": "Orfeo en los Tambores",
+      "url": "https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 113613,
       "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
       "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Tino Contreras",
-        "url": "https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2"
-      },
-      "artists": [
-        {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
-        }
-      ],
-      "duration_ms": 168198,
-      "name": "Orfeo en los Tambores",
-      "url": "https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -717,20 +717,20 @@
       "url": "https://open.spotify.com/track/0zLqZgTme9vih80jQP9meo"
     },
     {
-      "added_at": "2022-09-02 03:31:02",
+      "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Los Fuegos de San Telmo",
-        "url": "https://open.spotify.com/album/5xOVt7TdEJPinpWn0YksqL"
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
       },
       "artists": [
         {
-          "name": "El 50 Elemento",
-          "url": "https://open.spotify.com/artist/0nau6lOENuCV5fyEcccmfz"
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
         }
       ],
-      "duration_ms": 404000,
-      "name": "Las luces de San Telmo",
-      "url": "https://open.spotify.com/track/3fyuUSTUaktT3oDWPaFsdW"
+      "duration_ms": 175776,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 175776,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Musica Infinita",
         "url": "https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 283841,
       "name": "Orbita 13",
       "url": "https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO"
+    },
+    {
+      "added_at": "2022-09-02 03:31:02",
+      "album": {
+        "name": "Los Fuegos de San Telmo",
+        "url": "https://open.spotify.com/album/5xOVt7TdEJPinpWn0YksqL"
+      },
+      "artists": [
+        {
+          "name": "El 50 Elemento",
+          "url": "https://open.spotify.com/artist/0nau6lOENuCV5fyEcccmfz"
+        }
+      ],
+      "duration_ms": 404000,
+      "name": "Las luces de San Telmo",
+      "url": "https://open.spotify.com/track/3fyuUSTUaktT3oDWPaFsdW"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -851,18 +851,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
+        "name": "Hilando Lunas",
+        "url": "https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
+          "name": "Dulce Resillas & Fabiola Franyutti",
+          "url": "https://open.spotify.com/artist/781URXrzn60PTYO1zNStV2"
         }
       ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
+      "duration_ms": 364520,
+      "name": "Cenit",
+      "url": "https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

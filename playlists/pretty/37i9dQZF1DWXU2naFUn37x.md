@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Vale Pain
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,384 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,465 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 17 | [Lei \(feat\. Bené\)](https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bené](https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:32 |
 | 18 | [Cartier \#1](https://open.spotify.com/track/0IZKfHXiZSlB6uGURuo29K) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Cartier \#1](https://open.spotify.com/album/0j18KQ9kbszuYt5GxDlj8D) | 2:37 |
 | 19 | [Doppio Hublot \(con Guè & Baby Gang\)](https://open.spotify.com/track/4RAyEuL0aFppcqQpQ6JQjo) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 3:17 |
-| 20 | [Auto tedesca](https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:39 |
+| 20 | [Auto tedesca](https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:39 |
 | 21 | [Codeina e Hash](https://open.spotify.com/track/3hwYVAeQFkswkDM6lnpEBX) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [PAIN](https://open.spotify.com/album/41grqs0jslpaOFto4UghCq) | 2:13 |
 | 22 | [RapStar](https://open.spotify.com/track/3Emty7Nc9QUIuHRPcwopjA) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 2:47 |
 | 23 | [C'EST PAS FACIL](https://open.spotify.com/track/2XvuRXS2yd2E8RanepS7SJ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Walkie Talkie](https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Walkie Talkie](https://open.spotify.com/album/02sDUCaTdnQXVqsTwlFA9B) | 2:20 |
 | 50 | [YO](https://open.spotify.com/track/50ku9kOIoxwfKfdQCqbe8m) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [YO](https://open.spotify.com/album/27hO8daTikBVebKuEhZFGT) | 2:25 |
 
-Snapshot ID: `MTY2NjY1MjQ2MCwwMDAwMDAwMGI2M2ZlNjVhZTE4N2JkOGNkOTZkNWFkNDE3MTM1YWZj`
+Snapshot ID: `MTY2NjY1MjQ2MCwwMDAwMDAwMGRmMmExYzE4ZmU2NWYwZDQxODM3YTYzZDU0ODAwNTZh`

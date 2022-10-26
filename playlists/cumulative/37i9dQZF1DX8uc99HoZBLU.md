@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🪩
 
-271 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
+272 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/6cu1WQgS5mI4GSlZeKU8uo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Sunday](https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 3:00 | 2021-06-08 | 2022-04-17 |
 | [Sundown](https://open.spotify.com/track/2Q9ev18bWGhX4lrJg1Th3P) | [Murmur](https://open.spotify.com/artist/21h7fpqGaOoiOShHsTbYhX) | [Sundown](https://open.spotify.com/album/3G0F4Uiaa3JMpB9LbfqZjw) | 1:36 | 2021-06-08 | 2022-04-18 |
 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 | 2021-06-08 | 2022-10-13 |
+| [Sunflower](https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE) | 4:12 | 2022-09-09 |  |
 | [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 | 2021-06-08 |  |
 | [Sunny Day](https://open.spotify.com/track/26566DizCMEaVKT1CQEoAY) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ) | [Sunny Day](https://open.spotify.com/album/1iFaOyTS2mM7vQxxBX4db7) | 1:48 | 2021-09-03 | 2022-04-13 |
 | [Superstar](https://open.spotify.com/track/2qmhfzORJFrOQgFKYlnm6Z) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Superstar](https://open.spotify.com/album/4ava4cUWadeQ9Li3bS8LOr) | 2:52 | 2021-06-08 | 2022-07-29 |
@@ -243,7 +244,7 @@
 | [This Is Home](https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [This Is Home](https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu) | 3:46 | 2021-06-08 |  |
 | [This Is What Happens](https://open.spotify.com/track/4brNBl0X8dpwjox4DZqjly) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR) | [The First Story: Tunes for Lovers](https://open.spotify.com/album/4B9g1PIr5vw6IzaAcIB14s) | 2:56 | 2021-06-08 | 2022-04-19 |
 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 | 2021-06-08 | 2022-04-20 |
-| [Time Machine](https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:23 | 2021-06-08 |  |
+| [Time Machine](https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:23 | 2021-06-08 | 2022-10-26 |
 | [Tinder Song](https://open.spotify.com/track/1JHOy566xSKwNPqaB9AF2i) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [Tinder Song](https://open.spotify.com/album/5WiUuc6jcsA4oWvT1wLk3h) | 2:00 | 2021-06-08 | 2022-04-21 |
 | [Tired](https://open.spotify.com/track/1BPz1mqpXI9tVlxdHdvK3h) | [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Tired](https://open.spotify.com/album/1LdJmAicwQNiGZ0nZLHF1f) | 1:20 | 2021-08-20 | 2022-04-14 |
 | [Tired Boy](https://open.spotify.com/track/4SkTfsjWUy2rp40d2Ayfmv) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Tired Boy](https://open.spotify.com/album/1ciwJFdYoPJSWn1G2IzDGm) | 4:15 | 2021-06-08 | 2022-04-15 |

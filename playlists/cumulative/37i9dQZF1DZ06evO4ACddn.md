@@ -4,7 +4,7 @@
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-37 songs - 2 hr 16 min - [published](https://open.spotify.com/playlist/4Am2nGzT1v1T7bvwT3pcGs)
+38 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/4Am2nGzT1v1T7bvwT3pcGs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Only You Say It](https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Only You Say It](https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O) | 3:20 | 2022-09-16 |  |
 | [Open Door](https://open.spotify.com/track/0faniz2pjwuzt16kQnSZnn) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:47 | 2022-09-16 | 2022-10-13 |
 | [Place Isn't Lost](https://open.spotify.com/track/1rQPIRmI5TbCwL3uXvCpjQ) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Place Isn't Lost](https://open.spotify.com/album/0nRCOJnkNw1P1AR0vRJYEa) | 2:58 | 2022-09-16 |  |
-| [Radar \- Redux](https://open.spotify.com/track/1ncOAqP2tJ6sHcPPn6NOAg) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5Pr1REYMnyucyL3tC1V9Zr) | 3:53 | 2022-09-16 |  |
+| [Radar \- Redux](https://open.spotify.com/track/1ncOAqP2tJ6sHcPPn6NOAg) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5Pr1REYMnyucyL3tC1V9Zr) | 3:53 | 2022-09-16 | 2022-10-26 |
+| [Radar \- Redux](https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm) | 3:53 | 2022-10-25 |  |
 | [Rattlesnakes](https://open.spotify.com/track/4c3BGa7Epnb2X2t5jLRU0x) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB) | 3:28 | 2022-10-12 | 2022-10-17 |
 | [Something I Said](https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 4:12 | 2022-09-21 |  |
 | [Tank Wave](https://open.spotify.com/track/4zy4pghyBzcwv3G5hsYLIg) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB) | 4:20 | 2022-09-16 |  |

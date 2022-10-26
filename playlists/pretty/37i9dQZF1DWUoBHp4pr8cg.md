@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest out now in Hip Hop...Cover: Cover: <a href="https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=gwinmx4jQ\_eb8Vt2pnJHWQ">A\-Reece</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,600 likes - 78 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,671 likes - 78 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

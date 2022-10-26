@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 117629,
+  "num_followers": 117746,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDRhYzU2ZGI5NGVhM2Q5OTNhYWYwZGQyMzEzZjMyNDAw",
+  "snapshot_id": "MTY2MTQ4NjQ2MCwwMDAwMDAwMDUyODNmNTU2OTk1MTZjNzVlNDk4M2I3MWI5NjBmN2My",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Temporada de Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 146815,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "UN PASO",
         "url": "https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 192143,
       "name": "UN PASO",
       "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Temporada de Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 146815,
-      "name": "TOP 5",
-      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -387,26 +387,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Gargolas 3",
-        "url": "https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob"
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
       "artists": [
         {
-          "name": "Alex Gargolas",
-          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
         }
       ],
-      "duration_ms": 170004,
-      "name": "Donde Estan las Gatas",
-      "url": "https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5"
+      "duration_ms": 192000,
+      "name": "Hip\u00f3crita",
+      "url": "https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -427,22 +423,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+        "name": "Gargolas 3",
+        "url": "https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
         },
         {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Hip\u00f3crita",
-      "url": "https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk"
+      "duration_ms": 170004,
+      "name": "Donde Estan las Gatas",
+      "url": "https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "En El Jacuzzi",
-        "url": "https://open.spotify.com/album/5vh89KrZXnedhmUP5K2t0z"
-      },
-      "artists": [
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        }
-      ],
-      "duration_ms": 164542,
-      "name": "En El Jacuzzi",
-      "url": "https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 352093,
       "name": "LEYENDAS",
       "url": "https://open.spotify.com/track/5vQy9fwVJTeLsaX9IOpCcp"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "En El Jacuzzi",
+        "url": "https://open.spotify.com/album/5vh89KrZXnedhmUP5K2t0z"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "duration_ms": 164542,
+      "name": "En El Jacuzzi",
+      "url": "https://open.spotify.com/track/2k7S3I1y0pYfkxeFSgkuBa"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Ganas de Ti",
-        "url": "https://open.spotify.com/album/39mi0GEWIwCjRBdVXnFnyN"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 226520,
-      "name": "Ganas de Ti",
-      "url": "https://open.spotify.com/track/4kuQJb8ghj6268fBTtB3bX"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Perreo Intenso",
         "url": "https://open.spotify.com/album/7aWd8ZBLV48NfdNjwIn0Jv"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 239586,
       "name": "Perreo Intenso",
       "url": "https://open.spotify.com/track/4B2kFp1ulVz1FgwVYSShoj"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Ganas de Ti",
+        "url": "https://open.spotify.com/album/39mi0GEWIwCjRBdVXnFnyN"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "Ganas de Ti",
+      "url": "https://open.spotify.com/track/4kuQJb8ghj6268fBTtB3bX"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "No Me Equivoqu\u00e9",
+        "url": "https://open.spotify.com/album/0Kz84rkqWtlb5vFMN5ggvT"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "No Me Equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/735N73RiMdFDVV54nj2ZMA"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Como Yo Lo Hago",
         "url": "https://open.spotify.com/album/43xXAUd12YpWC2yJsPSilZ"
       },
@@ -1651,26 +1671,6 @@
       "duration_ms": 221123,
       "name": "Como Yo Lo Hago",
       "url": "https://open.spotify.com/track/470B3hidu0e4iEfVWKCgq6"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "No Me Equivoqu\u00e9",
-        "url": "https://open.spotify.com/album/0Kz84rkqWtlb5vFMN5ggvT"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 192333,
-      "name": "No Me Equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/735N73RiMdFDVV54nj2ZMA"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Un AK",
+        "url": "https://open.spotify.com/album/6034bMOlqFVadOmu5xd1Af"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 168309,
+      "name": "Un AK",
+      "url": "https://open.spotify.com/track/11a8gt4F4gv7WTZxt5VcUs"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/4GclgY30bdbzH83JflpHPo"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 205500,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/2fwycfb0beKkeRQ9JH8dmU"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Un AK",
-        "url": "https://open.spotify.com/album/6034bMOlqFVadOmu5xd1Af"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 168309,
-      "name": "Un AK",
-      "url": "https://open.spotify.com/track/11a8gt4F4gv7WTZxt5VcUs"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1919,26 +1919,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Parcera",
-        "url": "https://open.spotify.com/album/6GRHOMthTb0HMOZDO26D8j"
+        "name": "Dime a Ver",
+        "url": "https://open.spotify.com/album/07pNV2FTFF3reWYPGJZUnm"
       },
       "artists": [
         {
-          "name": "Maxiolly",
-          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "ADSO",
-          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
         }
       ],
-      "duration_ms": 213652,
-      "name": "Parcera",
-      "url": "https://open.spotify.com/track/0oct4TDwzs5eydTdDhCj6M"
+      "duration_ms": 164078,
+      "name": "Dime a Ver",
+      "url": "https://open.spotify.com/track/5FjzRMC47xFaNAxGyN5iVr"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1967,18 +1959,26 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Dime a Ver",
-        "url": "https://open.spotify.com/album/07pNV2FTFF3reWYPGJZUnm"
+        "name": "Parcera",
+        "url": "https://open.spotify.com/album/6GRHOMthTb0HMOZDO26D8j"
       },
       "artists": [
         {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+          "name": "Maxiolly",
+          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "ADSO",
+          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
         }
       ],
-      "duration_ms": 164078,
-      "name": "Dime a Ver",
-      "url": "https://open.spotify.com/track/5FjzRMC47xFaNAxGyN5iVr"
+      "duration_ms": 213652,
+      "name": "Parcera",
+      "url": "https://open.spotify.com/track/0oct4TDwzs5eydTdDhCj6M"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2003,8 +2003,8 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Full Pioli (feat. Best)",
-        "url": "https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb"
+        "name": "Deseos",
+        "url": "https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X"
       },
       "artists": [
         {
@@ -2012,21 +2012,13 @@
           "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         },
         {
-          "name": "Lleflight",
-          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
-        },
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Best",
-          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
         }
       ],
-      "duration_ms": 156096,
-      "name": "Full Pioli (feat. Best)",
-      "url": "https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ"
+      "duration_ms": 203070,
+      "name": "Deseos",
+      "url": "https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2051,26 +2043,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Ansioso",
-        "url": "https://open.spotify.com/album/7zZ7J62h5Fratub7B28lBT"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        }
-      ],
-      "duration_ms": 187411,
-      "name": "Ansioso",
-      "url": "https://open.spotify.com/track/06a9OeSuRhcmlNbNUWHH6i"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Cerrando Cap\u00edtulo",
         "url": "https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR"
       },
@@ -2087,6 +2059,26 @@
       "duration_ms": 172054,
       "name": "Coraz\u00f3n Ego\u00edsta",
       "url": "https://open.spotify.com/track/7i1eMtsepKbU0mQh8EaBqI"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Ansioso",
+        "url": "https://open.spotify.com/album/7zZ7J62h5Fratub7B28lBT"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "duration_ms": 187411,
+      "name": "Ansioso",
+      "url": "https://open.spotify.com/track/06a9OeSuRhcmlNbNUWHH6i"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -2151,8 +2143,8 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Deseos",
-        "url": "https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X"
+        "name": "Full Pioli (feat. Best)",
+        "url": "https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb"
       },
       "artists": [
         {
@@ -2160,13 +2152,21 @@
           "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         },
         {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
         }
       ],
-      "duration_ms": 203070,
-      "name": "Deseos",
-      "url": "https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz"
+      "duration_ms": 156096,
+      "name": "Full Pioli (feat. Best)",
+      "url": "https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ"
     }
   ],
   "unique_name": "Rimas y Perreo",

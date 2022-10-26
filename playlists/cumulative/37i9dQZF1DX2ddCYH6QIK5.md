@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: ISAIAH, Artwork: Isu Kim.
 
-490 songs - 1 day 4 hr 39 min - [published](https://open.spotify.com/playlist/769sf2A9Kk835wCxbodHwy)
+491 songs - 1 day 4 hr 44 min - [published](https://open.spotify.com/playlist/769sf2A9Kk835wCxbodHwy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Asbest](https://open.spotify.com/track/3CSgwRXolXEDRczbbMxRKn) | [Lord Folter](https://open.spotify.com/artist/39KCAyOBvMmaBfzmCsFjf6) | [Asbest](https://open.spotify.com/album/61d1Ubij6qijFE0tZcrAE2) | 2:47 | 2022-01-05 | 2022-01-13 |
 | [Atmosphere](https://open.spotify.com/track/1qG3LdimuO44VAMFv7p1hy) | [Cook Strummer](https://open.spotify.com/artist/44HPJ6PibkaZKYVdPaHnyV) | [Atmosphere](https://open.spotify.com/album/323lZAMm9aibv1fh3HGrjl) | 4:43 | 2022-06-08 | 2022-09-22 |
 | [Baby](https://open.spotify.com/track/37dpyJsBy1bIGJNrztzr6S) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [Baby](https://open.spotify.com/album/3kSkMxHZPCUquLZl1FV05z) | 4:31 | 2022-01-05 | 2022-01-20 |
-| [Baby Steps](https://open.spotify.com/track/7zJWKWiZ0EBAJpRuLs2uzC) | [Yours, Karim](https://open.spotify.com/artist/3USpxmdBSa87Rnker20yvV) | [Baby Steps](https://open.spotify.com/album/0ADMAVguSH0yhg9Aiel4vk) | 2:39 | 2022-10-12 |  |
+| [Baby Steps \- Single Edit](https://open.spotify.com/track/7zJWKWiZ0EBAJpRuLs2uzC) | [Yours, Karim](https://open.spotify.com/artist/3USpxmdBSa87Rnker20yvV) | [Baby Steps](https://open.spotify.com/album/0ADMAVguSH0yhg9Aiel4vk) | 2:39 | 2022-10-12 |  |
 | [Bad Girls](https://open.spotify.com/track/5qCIiZNPywXtfgw4EQRDPd) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [Bad Girls](https://open.spotify.com/album/7DOmk3H3YwxhYKLDPa0GZ9) | 2:43 | 2022-03-02 | 2022-07-14 |
 | [Badehose](https://open.spotify.com/track/39kX0o5hZrhSDhytmclSym) | [Team Delphin](https://open.spotify.com/artist/5YLOZ7Z3mVbgAibEdo1nks) | [Badehose](https://open.spotify.com/album/1I6FWMxvp5JvxxI375PRmp) | 2:26 | 2022-07-20 | 2022-08-04 |
 | [Baghira](https://open.spotify.com/track/4QuoelVf8l7Q9xMiu2f6SG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Baghira](https://open.spotify.com/album/5pz7Iyiq1c7zk2wQgOs1By) | 6:34 | 2022-01-05 | 2022-01-27 |
@@ -119,7 +119,8 @@
 | [Driven by Clouds](https://open.spotify.com/track/05kbrz1OCXcEwYnLjFf1uF) | [Morse](https://open.spotify.com/artist/1ySa7pBxaWzbR7T7gbcrJQ) | [Driven by Clouds](https://open.spotify.com/album/5yluxSjGytjzqe78oEnaJW) | 4:07 | 2022-02-16 | 2022-03-17 |
 | [Drowned Body](https://open.spotify.com/track/1wRVsJqak9oiPhhHWfcJKl) | [ZUSTRA](https://open.spotify.com/artist/1cIilB8ckONPBhSG6IvxSu) | [Drowned Body](https://open.spotify.com/album/4dhpxT0fwGbV7adoeKwcU9) | 3:53 | 2022-01-12 | 2022-01-27 |
 | [Dschungel](https://open.spotify.com/track/5UwfBZURi6AcCZlVNo2jd4) | [Die Anteile](https://open.spotify.com/artist/7yFn4E4Lun7lW0hwOr7n0M) | [Dschungel](https://open.spotify.com/album/3laNqjkfJ28s3CGDKdlWQ4) | 3:03 | 2022-08-17 | 2022-09-22 |
-| [Dunkelheit](https://open.spotify.com/track/2s6seqO1Jn4hAWVUfBQJgc) | [DAS MAER](https://open.spotify.com/artist/6vKS2FutGrrrapam0RDd4T) | [Momoko](https://open.spotify.com/album/346vi2eDqGG0twwDaGgBBH) | 5:29 | 2022-08-24 |  |
+| [Dunkelheit](https://open.spotify.com/track/2s6seqO1Jn4hAWVUfBQJgc) | [DAS MAER](https://open.spotify.com/artist/6vKS2FutGrrrapam0RDd4T) | [Momoko](https://open.spotify.com/album/346vi2eDqGG0twwDaGgBBH) | 5:29 | 2022-08-24 | 2022-10-26 |
+| [Dunkelheit](https://open.spotify.com/track/3iUeGwc6Eg1X29zE13rRKQ) | [DAS MAER](https://open.spotify.com/artist/6vKS2FutGrrrapam0RDd4T) | [Momoko](https://open.spotify.com/album/55jstwnqOvwq3kX8tHsMl9) | 5:29 | 2022-10-12 |  |
 | [Dysfunctioning](https://open.spotify.com/track/79I5wRm6GBd8wQXHdTm4Ua) | [Savi Kaboo](https://open.spotify.com/artist/41Wv5YihKZTmiieeuxQeGD) | [Dysfunctioning](https://open.spotify.com/album/2nf9BfbSilt2jcW5t9rUXJ) | 4:40 | 2022-01-05 | 2022-01-27 |
 | [Echoes](https://open.spotify.com/track/5LdygNlvLAIzY6zZOThHTm) | [Dymd](https://open.spotify.com/artist/3g1ti2uYNc02iMdgwRxpkb) | [Echoes](https://open.spotify.com/album/2VhN0EWG1NTl1Z3tR9uBNK) | 3:07 | 2022-01-05 | 2022-01-13 |
 | [Ein Schritt zurück](https://open.spotify.com/track/7xLrDrKrgYEi6yj5TcQQOR) | [Chuck Winter](https://open.spotify.com/artist/7MB6nNks6Jvudw8uz6nhcH), [Kaltenkirchen](https://open.spotify.com/artist/1XuOxeq7zKZTvilwbHdS6v) | [Ein Schritt zurück](https://open.spotify.com/album/10WYbBTPAzTKfVnbGyk3fY) | 3:13 | 2022-08-03 | 2022-09-09 |

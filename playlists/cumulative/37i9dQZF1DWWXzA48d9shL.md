@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: CORPSE
 
-319 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+320 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [DEAD OR ALIVE](https://open.spotify.com/track/18vRG2hgEKrg9fgkITGvXT) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [DEAD OR ALIVE](https://open.spotify.com/album/6rGLysyfoqKWRGpKwn6cUp) | 2:43 | 2022-07-08 | 2022-07-27 |
 | [DEAD TO ME](https://open.spotify.com/track/4x1K2NGxzutGeMJQwvTF7I) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [DEAD TO ME](https://open.spotify.com/album/4rA9drGZuKSK7K8I36nzPq) | 2:14 | 2021-09-17 | 2022-07-30 |
 | [DEAD WAY](https://open.spotify.com/track/4yj0HSSShmiH4wIk8rEWms) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [DEAD WAY](https://open.spotify.com/album/2N2UUQf8anrLXpdCC9XWfD) | 2:00 | 2022-07-15 |  |
+| [deadman \(feat\. Lil Toe\)](https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [bag or die](https://open.spotify.com/album/4oGLasNzQCSK6V3A8ssVKY) | 2:58 | 2022-10-25 |  |
 | [DEADSHOT](https://open.spotify.com/track/09WWIy51EBmD7gEKuIuxBO) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [DEADSHOT](https://open.spotify.com/album/1hqI4rDiTpj4MZpGHROTEz) | 1:52 | 2022-06-03 | 2022-07-27 |
 | [DEATH BLOW freestyle](https://open.spotify.com/track/7ojp6FPLCPo2krGRCKxbN3) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [DEATH BLOW freestyle](https://open.spotify.com/album/5nPv5MpAx7sZzMx1Qn5swc) | 2:02 | 2021-10-08 | 2022-04-21 |
 | [DEATH NOTE](https://open.spotify.com/track/7DmudsfAiii1mhBLk1EvaL) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [WORLD DOMINATION](https://open.spotify.com/album/0EwZh84BsSaWxG8H4alInK) | 2:08 | 2022-05-27 |  |

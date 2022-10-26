@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 
 > Mental strength begins here—Dwayne Johnson’s Iron Paradise Tour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,960 likes - 25 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,952 likes - 25 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Black Adam Theme \(from "Black Adam"\)](https://open.spotify.com/track/6eqwueXTaHqXTRwbOpLmcJ) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Black Adam Theme \(from "Black Adam"\)](https://open.spotify.com/album/1RGC1ShDXu9BKmnDlUj5OC) | 3:56 |
-| 2 | [Exile](https://open.spotify.com/track/6VM70wjJ8kl7AFMS1KaOgi) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Exile](https://open.spotify.com/album/1roiPYs5gYEy3kmT3C6vz1) | 3:25 |
+| 1 | [Exile](https://open.spotify.com/track/6VM70wjJ8kl7AFMS1KaOgi) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Exile](https://open.spotify.com/album/1roiPYs5gYEy3kmT3C6vz1) | 3:25 |
+| 2 | [Black Adam Theme \(from "Black Adam"\)](https://open.spotify.com/track/6eqwueXTaHqXTRwbOpLmcJ) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Black Adam Theme \(from "Black Adam"\)](https://open.spotify.com/album/1RGC1ShDXu9BKmnDlUj5OC) | 3:56 |
 | 3 | [On The Run](https://open.spotify.com/track/4sLozZ8Weo81XhRrwqbqnJ) | [Naz Tokio](https://open.spotify.com/artist/2Ohz3BAbalahBYLuM836cd) | [On The Run](https://open.spotify.com/album/6wfUVm9aYFoYtLXCPugXrt) | 2:41 |
 | 4 | [Face Off](https://open.spotify.com/track/0M5igzLuVkGfr76ezrAZI3) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Joey Cool](https://open.spotify.com/artist/1A8NEJYo3VW9aIZ6l55Dgu), [King Iso](https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle), [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [ASIN9NE](https://open.spotify.com/album/3eYtzrCbHWAW0tRW93gaxj) | 3:39 |
 | 5 | [Get Up On My Level](https://open.spotify.com/track/7hXPF6mq76yeknggOnCNID) | [Mike Zombie](https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ), [Aja Elan](https://open.spotify.com/artist/5vSvL2GNm9anuyWiy9YZCL) | [Get Up On My Level](https://open.spotify.com/album/0retIMfRSCLdGiUUatMct8) | 2:50 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 | 24 | [Black Skinhead](https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:08 |
 | 25 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
 
-Snapshot ID: `MTY2NjY0OTUxMSwwMDAwMDAwMDQ4MmE2OGM2YWVlOWM0YmU1NTU2MmM5ODcxMGFjMDM3`
+Snapshot ID: `MTY2NjcyMDQ4NywwMDAwMDAwMDc2YjhmM2JkNDU5NjU4YmU3YmJmY2Y2YzUyZThiZTMw`

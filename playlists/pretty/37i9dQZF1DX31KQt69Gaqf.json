@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 181759,
+  "num_followers": 181768,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDUxNmU4M2NjOTk5ZmY3NzhlMjYzNTU4Yjc5ODUxYjMz",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDkwYmE3YjY5ZTNlOTNiNDQ3ZjcyODQ5MzczNzdiOTNj",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -43,6 +43,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 278769,
+      "name": "Can I Call You Tonight?",
+      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 278769,
-      "name": "Can I Call You Tonight?",
-      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Eyes On You",
-        "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
-      },
-      "artists": [
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 136954,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "The Sun Is Up Forever",
         "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 224739,
       "name": "The Sun Is Up Forever",
       "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 136954,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "bon iver",
+      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
         "url": "https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 190560,
       "name": "Can't Fight",
       "url": "https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "bon iver",
-      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Mrs Blue",
+        "url": "https://open.spotify.com/album/6NXtAeqeXlzqnzLS0mX6FP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Down",
+          "url": "https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg"
+        }
+      ],
+      "duration_ms": 267535,
+      "name": "Mrs Blue",
+      "url": "https://open.spotify.com/track/0GdgXSWoGZeRBOzbRDudp8"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Truth or Consequences",
         "url": "https://open.spotify.com/album/0yss5R3uULkCI7Dc9jKRoV"
       },
@@ -1379,18 +1395,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Mrs Blue",
-        "url": "https://open.spotify.com/album/6NXtAeqeXlzqnzLS0mX6FP"
+        "name": "Like Sand",
+        "url": "https://open.spotify.com/album/25DRkwsnYG06w8ExeR7xx6"
       },
       "artists": [
         {
-          "name": "Tommy Down",
-          "url": "https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg"
+          "name": "Marie Dahlstrom",
+          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
+        },
+        {
+          "name": "Beau Diako",
+          "url": "https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu"
         }
       ],
-      "duration_ms": 267535,
-      "name": "Mrs Blue",
-      "url": "https://open.spotify.com/track/0GdgXSWoGZeRBOzbRDudp8"
+      "duration_ms": 271201,
+      "name": "Like Sand",
+      "url": "https://open.spotify.com/track/3zRd3xkdmZZSzBHgGo4mAl"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1423,26 +1443,6 @@
       "duration_ms": 183386,
       "name": "Rooftop Dancing",
       "url": "https://open.spotify.com/track/69TJLfGTUYSugs2Yi1dnG3"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Like Sand",
-        "url": "https://open.spotify.com/album/25DRkwsnYG06w8ExeR7xx6"
-      },
-      "artists": [
-        {
-          "name": "Marie Dahlstrom",
-          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
-        },
-        {
-          "name": "Beau Diako",
-          "url": "https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu"
-        }
-      ],
-      "duration_ms": 271201,
-      "name": "Like Sand",
-      "url": "https://open.spotify.com/track/3zRd3xkdmZZSzBHgGo4mAl"
     },
     {
       "added_at": "2021-08-12 14:57:38",

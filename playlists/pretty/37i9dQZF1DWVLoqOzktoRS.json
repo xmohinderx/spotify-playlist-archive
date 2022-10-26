@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY3OTIwMCwwMDAwMDAwMDczOTFjOTc2ZWUxYTgzYWVjYjY4ZjJmNjNlM2FmNGM1",
+  "snapshot_id": "MTY2MzY3OTIwMCwwMDAwMDAwMDdjYTE2MjdhYWZkNzU3NTM5YjczODQ3ZjRjZmU2N2M5",
   "tracks": [
     {
       "added_at": "2022-08-31 07:48:07",
@@ -663,18 +663,22 @@
     {
       "added_at": "2022-08-31 07:48:07",
       "album": {
-        "name": "Lineas de Tu Mano",
-        "url": "https://open.spotify.com/album/0BfKQuiDgerAMSaL173ELr"
+        "name": "Glass Piano",
+        "url": "https://open.spotify.com/album/7lCXCQKYVxVwGDePzmEQRj"
       },
       "artists": [
         {
-          "name": "Tiare",
-          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Bruce Brubaker",
+          "url": "https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ"
         }
       ],
-      "duration_ms": 254058,
-      "name": "Lineas de Tu Mano",
-      "url": "https://open.spotify.com/track/6Gca05CM0s55fDkfvK6uEa"
+      "duration_ms": 387490,
+      "name": "Metamorphosis 1",
+      "url": "https://open.spotify.com/track/55v3givMbmHrQvCXF0mJRl"
     },
     {
       "added_at": "2022-08-31 07:48:07",
@@ -695,22 +699,18 @@
     {
       "added_at": "2022-08-31 07:48:07",
       "album": {
-        "name": "Glass Piano",
-        "url": "https://open.spotify.com/album/7lCXCQKYVxVwGDePzmEQRj"
+        "name": "Lineas de Tu Mano",
+        "url": "https://open.spotify.com/album/0BfKQuiDgerAMSaL173ELr"
       },
       "artists": [
         {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Bruce Brubaker",
-          "url": "https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ"
+          "name": "Tiare",
+          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
         }
       ],
-      "duration_ms": 387490,
-      "name": "Metamorphosis 1",
-      "url": "https://open.spotify.com/track/55v3givMbmHrQvCXF0mJRl"
+      "duration_ms": 254058,
+      "name": "Lineas de Tu Mano",
+      "url": "https://open.spotify.com/track/6Gca05CM0s55fDkfvK6uEa"
     },
     {
       "added_at": "2022-08-31 07:48:07",

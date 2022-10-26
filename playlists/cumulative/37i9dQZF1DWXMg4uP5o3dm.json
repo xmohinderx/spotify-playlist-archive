@@ -1964,6 +1964,24 @@
     },
     {
       "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/1FDNmr1WNyQ0Ag27IBAc06"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177746,
+      "name": "I Like to Party",
+      "url": "https://open.spotify.com/track/3LYdr3p3aJHCFSgEWwcXAx"
+    },
+    {
+      "album": {
         "name": "I Like to Party",
         "url": "https://open.spotify.com/album/0LQmcDlQQFV27k6pxm7rab"
       },
@@ -2557,7 +2575,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 176349,
       "name": "New Friends",
       "url": "https://open.spotify.com/track/6bHFFcOvpc1pKrT4YL1K83"

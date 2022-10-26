@@ -4,7 +4,7 @@
 
 > Songs from your family's favorite TV shows.
 
-105 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/1tbHCLwQujb8LsLzNBqLFl)
+106 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/1tbHCLwQujb8LsLzNBqLFl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,9 +76,10 @@
 | [Pokémon Theme](https://open.spotify.com/track/3OIHgTyQdiAGMmpjQaNxp3) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon \- 2.b.a\. Master \- Music From The Hit Tv Series](https://open.spotify.com/album/4R0boGQyiCUt3i7pAKCitR) | 3:18 | 2022-04-15 |  |
 | [Power Rangers Dino Charge Theme Song \- Extended Full Version](https://open.spotify.com/track/7GmlAIzyeG3OjQLB7BUkgz) | [Power Rangers](https://open.spotify.com/artist/7cTXTmhaqdEVifI1B33cnx), [Noam Kaniel](https://open.spotify.com/artist/7rW1m5GAR0FkbA74j0xztI) | [Power Rangers Dino Charge Theme Song](https://open.spotify.com/album/2TlnrB2whsLXmvMKK1KpQ0) | 1:55 | 2022-04-15 |  |
 | [Power Rangers Megamix](https://open.spotify.com/track/0fTQdOS8FucxBQilLTp2ha) | [Power Rangers](https://open.spotify.com/artist/7cTXTmhaqdEVifI1B33cnx), [PelleK](https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3) | [Power Rangers Megamix](https://open.spotify.com/album/50ggbyZ86toFZBzQDAmEBy) | 12:02 | 2022-04-15 |  |
+| [Santiago of the Seas Theme \- Extended](https://open.spotify.com/track/2fmxTrZ8Nl4nryofppxC27) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago's Sea Shanties](https://open.spotify.com/album/06cPzokRlGLUfBxcsJbE1s) | 1:31 | 2022-04-15 |  |
 | [Santiago of the Seas Theme \- Extended](https://open.spotify.com/track/7494gF82bPmJYFYQFQsGra) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago's Sea Shanties](https://open.spotify.com/album/0UhvB5gwwLXH4kCAyyo4dL) | 1:31 | 2022-04-15 | 2022-10-14 |
 | [Scooby Doo Theme Song](https://open.spotify.com/track/0g8MfCzZoj5nprV25TbPax) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 1:00 | 2022-04-15 |  |
-| [Sesame Street Theme \- 2019 Mix](https://open.spotify.com/track/0A03kYvR7okcxYmqshk7lA) | [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: What's the Number?](https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km) | 1:53 | 2022-04-15 |  |
+| [Sesame Street Theme \- 2019 Mix](https://open.spotify.com/track/0A03kYvR7okcxYmqshk7lA) | [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: What's the Number?](https://open.spotify.com/album/4xKLMeMarLeJFNzdtM92km) | 1:53 | 2022-04-15 | 2022-10-26 |
 | [Shake It Up \- From "Shake It Up"](https://open.spotify.com/track/1oLcpJA9TfwwejiEM9C5gi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Shake It Up \(From "Shake It Up"\)](https://open.spotify.com/album/4RYzLsns7p8y1CA8jUBFoB) | 3:00 | 2022-04-15 |  |
 | [Shimmer and Shine Theme Song \- Extended Version](https://open.spotify.com/track/10v3ba3brdnOTfHgjTULyC) | [Shimmer and Shine](https://open.spotify.com/artist/6EACW7fkHHUd8wJEGUY9MR) | [Shimmer and Shine: Groove Zahramay!](https://open.spotify.com/album/5wWDNNCRp5rkcktZounG1e) | 2:35 | 2022-04-15 | 2022-10-13 |
 | [Shimmer and Shine Theme Song \- Extended Version](https://open.spotify.com/track/4EYwZTTaJ9kQJyIJnCODvM) | [Shimmer and Shine](https://open.spotify.com/artist/6EACW7fkHHUd8wJEGUY9MR) | [Shimmer and Shine: Groove Zahramay!](https://open.spotify.com/album/7hs3ZOSqQvXTOgCwJAzY2p) | 2:35 | 2022-04-15 |  |

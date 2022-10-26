@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 2000s! Cover: Shakira",
-  "num_followers": 235911,
+  "num_followers": 235994,
   "original_name": "00s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDMxNSwwMDAwMDAwMGI4MDgzY2YwZTA2NWU0NmM0NGUwNDAyNzZjMjFjNDZl",
+  "snapshot_id": "MTY2MTkzMDMxNSwwMDAwMDAwMGEwYTUwZmQwODdkZDhjM2M0MTBhMzRjNDc2ZGViZmIx",
   "tracks": [
     {
       "added_at": "2022-08-31 07:18:35",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-08-31 07:18:35",
       "album": {
-        "name": "Travesia",
-        "url": "https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
-    },
-    {
-      "added_at": "2022-08-31 07:18:35",
-      "album": {
         "name": "El tren de los momentos",
         "url": "https://open.spotify.com/album/4LXfHYVr0scRlsxnWyO437"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 273373,
       "name": "Te lo agradezco, pero no",
       "url": "https://open.spotify.com/track/0TSO6afZViXH6OUlIMl6m4"
+    },
+    {
+      "added_at": "2022-08-31 07:18:35",
+      "album": {
+        "name": "Travesia",
+        "url": "https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
     },
     {
       "added_at": "2022-08-31 07:18:35",

@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Aleesha",
-  "num_followers": 66888,
+  "num_followers": 66932,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3MTI0MCwwMDAwMDAwMDFlYjY3ZmJmYzFjODFlNmE3MjVhMjdjY2IxZmU2ZmZk",
+  "snapshot_id": "MTY2NTc3MTI0MCwwMDAwMDAwMDM0M2RjZWM1M2ZiOGI2NzYwZjI2MTEzNzVhZGE0NTg3",
   "tracks": [
     {
       "added_at": "2022-10-14 18:14:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-10-14 18:14:00",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 177240,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
-    },
-    {
-      "added_at": "2022-10-14 18:14:00",
-      "album": {
         "name": "X 100PRE",
         "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 300579,
       "name": "La Romana",
       "url": "https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"
+    },
+    {
+      "added_at": "2022-10-14 18:14:00",
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
     },
     {
       "added_at": "2022-10-14 18:14:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2022-10-14 18:14:00",
       "album": {
-        "name": "Controla",
-        "url": "https://open.spotify.com/album/1549LYCWsYWHPNItxIoi3n"
-      },
-      "artists": [
-        {
-          "name": "Sagcy",
-          "url": "https://open.spotify.com/artist/4B91O0qMYtFEdc7wBrknT7"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        }
-      ],
-      "duration_ms": 169729,
-      "name": "Controla",
-      "url": "https://open.spotify.com/track/1IXtqDHrziebliIRwciMHp"
-    },
-    {
-      "added_at": "2022-10-14 18:14:00",
-      "album": {
         "name": "Lleg\u00f3 el Domi",
         "url": "https://open.spotify.com/album/5mVW0Qi7Q66gleL2rgVgaC"
       },
@@ -1387,6 +1367,22 @@
       "duration_ms": 175093,
       "name": "H\u00e1blale de Cualto",
       "url": "https://open.spotify.com/track/4zRITqNT5onefyu56kOI9W"
+    },
+    {
+      "added_at": "2022-10-14 18:14:00",
+      "album": {
+        "name": "Mensaje Directo (DM)",
+        "url": "https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9"
+      },
+      "artists": [
+        {
+          "name": "Shadow Blow",
+          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "Mensaje Directo (DM)",
+      "url": "https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6"
     },
     {
       "added_at": "2022-10-14 18:14:00",
@@ -1415,18 +1411,22 @@
     {
       "added_at": "2022-10-14 18:14:00",
       "album": {
-        "name": "Mensaje Directo (DM)",
-        "url": "https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9"
+        "name": "Controla",
+        "url": "https://open.spotify.com/album/1549LYCWsYWHPNItxIoi3n"
       },
       "artists": [
         {
-          "name": "Shadow Blow",
-          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
+          "name": "Sagcy",
+          "url": "https://open.spotify.com/artist/4B91O0qMYtFEdc7wBrknT7"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
         }
       ],
-      "duration_ms": 220706,
-      "name": "Mensaje Directo (DM)",
-      "url": "https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6"
+      "duration_ms": 169729,
+      "name": "Controla",
+      "url": "https://open.spotify.com/track/1IXtqDHrziebliIRwciMHp"
     },
     {
       "added_at": "2022-10-14 18:14:00",

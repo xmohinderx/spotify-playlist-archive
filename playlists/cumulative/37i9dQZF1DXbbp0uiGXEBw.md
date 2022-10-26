@@ -4,7 +4,7 @@
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Ái Phương
 
-115 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
+116 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Bởi Vì Yêu](https://open.spotify.com/track/74C7vazAOSPwpVGxx21n5l) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Bởi Vì Yêu](https://open.spotify.com/album/7wgd9XeERTsnRGmBi1hIzU) | 3:26 | 2021-12-07 | 2022-02-02 |
 | [Cho Em Một Lần Yêu](https://open.spotify.com/track/5oQwxJJBwKPGkZliiyv3jQ) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [The Singer](https://open.spotify.com/album/6mqV4lo8LrZhDS3NzjVLP5) | 3:45 | 2022-04-06 | 2022-05-27 |
 | [Chúng Ta Không Còn Chúng Ta](https://open.spotify.com/track/7m1oQAMUZuy9Yf8Ud2MyuH) | [Phạm Quỳnh Anh](https://open.spotify.com/artist/033tY0EKEVdDtzoeEMMCJC) | [Chúng Ta Không Còn Chúng Ta](https://open.spotify.com/album/0RsPSzRrGy8j7Qd1QSk2yB) | 4:48 | 2021-12-07 | 2022-06-01 |
-| [Chúng Ta Làm Bạn Được Không?](https://open.spotify.com/track/6oghyOqPnFUCB7C8modJ2D) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [after YOU](https://open.spotify.com/album/2J9z8vV5C4eutvLLoX2foQ) | 4:59 | 2022-06-07 |  |
+| [Chúng Ta Làm Bạn Được Không?](https://open.spotify.com/track/6oghyOqPnFUCB7C8modJ2D) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [after YOU](https://open.spotify.com/album/2J9z8vV5C4eutvLLoX2foQ) | 4:59 | 2022-06-07 | 2022-10-26 |
+| [Chắc Nên Thôi](https://open.spotify.com/track/0uaZKqtQxvVXoCCV4hAbBN) | [Lynk Lee](https://open.spotify.com/artist/7H9jPV9qWyp6V629038aXU) | [Chắc Nên Thôi](https://open.spotify.com/album/6VcTEnzRECYkaldA2yD1Tz) | 4:19 | 2022-10-25 |  |
 | [Con Đã Về](https://open.spotify.com/track/17rXZKbGKVWA4ZudeyFKy8) | [Hoàng Yến Chibi](https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3) | [Con Đã Về](https://open.spotify.com/album/68sqNGevSOeTj9PixQQSev) | 4:26 | 2022-02-01 | 2022-02-24 |
 | [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 | 2022-03-21 |  |
 | [Có Ai Thương Em Như Anh \(feat\. Touliver\)](https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Có Ai Thương Em Như Anh \(feat\. Touliver\)](https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA) | 3:51 | 2022-07-12 |  |

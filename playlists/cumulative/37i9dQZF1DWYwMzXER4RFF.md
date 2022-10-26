@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Viagra Boys
 
-290 songs - 18 hr 3 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
+291 songs - 18 hr 8 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Garden of England](https://open.spotify.com/track/2MK4t1CYvNpguCnHgqeYOx) | [Crows](https://open.spotify.com/artist/5LFuHlM7fW3xnIyBsDrGfn) | [Garden of England](https://open.spotify.com/album/0mtGJwV52ytiFEV7nxwVbu) | 2:08 | 2022-03-11 | 2022-07-29 |
 | [Get Along](https://open.spotify.com/track/6n7XdLB1hlARYlf6ziccPz) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Keep Walking!](https://open.spotify.com/album/5FNhiWRRklskqgooaVJ7Wn) | 2:59 | 2022-01-20 | 2022-06-18 |
 | [Get Yourself A Friend](https://open.spotify.com/track/6kwpiJvZLscW06vXl42jjr) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/3gww43ZrPNH04JYZ5Gkg7E) | 3:50 | 2021-12-06 | 2022-07-24 |
+| [Girls & Boys](https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 4:39 | 2022-08-25 |  |
 | [Girls & Boys](https://open.spotify.com/track/4Xt5Zpuk3AGXfojsWJP23l) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Girls & Boys](https://open.spotify.com/album/5pNrH7vOP95JA6oxRGTEiU) | 4:39 | 2021-12-06 | 2022-07-29 |
 | [Going Soft](https://open.spotify.com/track/4gCWOLLQDJsGS4U5cGA4mi) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Going Soft](https://open.spotify.com/album/6im74GDpv2EQ1isZ2KouqP) | 3:23 | 2021-12-06 | 2022-07-06 |
 | [Golden](https://open.spotify.com/track/2pREI4cfaKpLUlxWnHVTbQ) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Golden](https://open.spotify.com/album/7IBBLDTXQm3II4ulNd9oqk) | 2:10 | 2021-12-06 | 2022-04-21 |
@@ -221,7 +222,7 @@
 | [Rumpus Room](https://open.spotify.com/track/2fQ3EXY5NVpgql5Bg8gHoY) | [Xiu Xiu](https://open.spotify.com/artist/5JLqvjW3Nyom2OsRUyFsS9), [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [Rumpus Room](https://open.spotify.com/album/0SVZWu2Jr3u45O7nW377d6) | 3:44 | 2021-12-06 | 2022-07-25 |
 | [Saintless](https://open.spotify.com/track/3Dq8NtMPkJAHTZs1BQZ5jL) | [TV Priest](https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI) | [Uppers](https://open.spotify.com/album/42tqnrA3ZlajJn29eE2Qqg) | 7:06 | 2021-12-06 | 2022-07-24 |
 | [Salami](https://open.spotify.com/track/33iMLPqQFfTXnEnMaO3BiM) | [Pretty Happy](https://open.spotify.com/artist/55ID3BZCEsvwergEvrvd0I) | [Salami](https://open.spotify.com/album/3UOA7OIWO39ve5eA4fNNgN) | 2:47 | 2021-12-06 | 2022-07-28 |
-| [Saturn](https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [The Coldest Fire](https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW) | 3:52 | 2021-12-06 |  |
+| [Saturn](https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [The Coldest Fire](https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW) | 3:52 | 2021-12-06 | 2022-10-26 |
 | [Scrappers](https://open.spotify.com/track/14IvWKgBAZojoDYvlI0MGd) | [Enola Gay](https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP) | [Enola Gay](https://open.spotify.com/album/4wqfGtPLQvvGSPdM7nr37q) | 2:58 | 2021-12-06 | 2022-08-30 |
 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 | 2021-12-06 | 2022-07-29 |
 | [Serenity](https://open.spotify.com/track/0vMTSRlRofM60LZmWP04ZC) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Useless Coordinates](https://open.spotify.com/album/6VWhzAf4eA5pvKr0qMlKYj) | 2:21 | 2021-12-06 | 2022-07-25 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,199 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,392 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Last Christmas](https://open.spotify.com/track/1MhVxSV4FDHXpEKD7gNihY) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Last Christmas](https://open.spotify.com/album/6WgxdPrhXE7bohHIrg622i) | 3:46 |
+| 1 | [Last Christmas](https://open.spotify.com/track/0ahxJ7fSpq0Jbg81prulC1) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 3:46 |
 | 2 | [It’s Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/6kfDpP0HWb9Q67iaPs5HZw) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Merry Christmas, Y’all](https://open.spotify.com/album/23PILNfWCzNg9M4tSpBoaA) | 2:21 |
 | 3 | [Silent Night](https://open.spotify.com/track/32OH3VGKAqEOrFIqdkHCMe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Silent Night](https://open.spotify.com/album/1t1UAfuQfaENQlvMv393i5) | 3:13 |
 | 4 | [Prayers For This World](https://open.spotify.com/track/0np4wrLitfNjaqqkYsPt79) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Prayers For This World](https://open.spotify.com/album/6e4ASUu9fUIw2QBGppK4Qb) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 49 | [Mr\. Christmas](https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Mr\. Christmas](https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B) | 3:36 |
 | 50 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/6sYE0q44GF0pQA5M1nyqCG) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/5cYuIkRzTLIwaPEXv3LYcr) | 2:28 |
 
-Snapshot ID: `MTY2NjY1MzA2NywwMDAwMDAwMGVjMjZiNDI2MjNkNmM0NWEwZmNlMTJmZGQ2ODYwZDAw`
+Snapshot ID: `MTY2NjczNjc3MSwwMDAwMDAwMGFjOGY4Njk1MWZiODk0YWE4MDM2NzQ3ODYyNGYyMjYw`

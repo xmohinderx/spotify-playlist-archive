@@ -435,10 +435,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 216958,
       "name": "BIG",
       "url": "https://open.spotify.com/track/24qAxp2l2C4xiTtKaJxcJ4"
+    },
+    {
+      "album": {
+        "name": "BIG!",
+        "url": "https://open.spotify.com/album/4xrzNkHJXlkvwYyVipesug"
+      },
+      "artists": [
+        {
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216958,
+      "name": "BIG",
+      "url": "https://open.spotify.com/track/2m4Bk1tHjFEmtGStZBx8rF"
     },
     {
       "album": {

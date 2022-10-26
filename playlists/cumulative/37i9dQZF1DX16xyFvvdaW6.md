@@ -4,14 +4,14 @@
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-50 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/0suQIohnJkMbg3Mf0bU3LR)
+51 songs - 3 hr 42 min - [published](https://open.spotify.com/playlist/0suQIohnJkMbg3Mf0bU3LR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mi Ángel](https://open.spotify.com/track/471CAxyTTVZDK8g4MUXfnq) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu) | [Voy A Entregar Mi Corazón](https://open.spotify.com/album/5WgMBg0KfWb1drMLy4uOw2) | 3:36 | 2022-07-22 |  |
 | [Alaba](https://open.spotify.com/track/3gtKnR2a9bQMIB4OnSZ1JX) | [Banda Generasion](https://open.spotify.com/artist/6W6JOZ91tOgrLB4bdcGs3r) | [Yo Soy Generasion](https://open.spotify.com/album/0Q9uXsdYktit3JOb3LRsaV) | 5:24 | 2022-07-22 |  |
 | [Almas Mecanicas](https://open.spotify.com/track/2JiYhjQK2wR4vOAdATsISG) | [Exegesis](https://open.spotify.com/artist/2cDnMEA4b2Q0ecuNHhagT6) | [Espiritu Artificial](https://open.spotify.com/album/2EXsfs6TC1Z2l2kw8CivdQ) | 5:52 | 2022-07-22 |  |
-| [Cansado \- En Vivo](https://open.spotify.com/track/4PfdJ9cvHMUwGJnjiDyx30) | [Vox Dei](https://open.spotify.com/artist/3qJHHkBTYuEBHmLZ7cEei6) | [30 Años \(En Vivo\)](https://open.spotify.com/album/4ZTqyGp6fYYgrY61GKiWZD) | 5:08 | 2022-07-22 |  |
+| [Cansado \- En Vivo](https://open.spotify.com/track/4PfdJ9cvHMUwGJnjiDyx30) | [Vox Dei](https://open.spotify.com/artist/3qJHHkBTYuEBHmLZ7cEei6) | [30 Años \(En Vivo\)](https://open.spotify.com/album/4ZTqyGp6fYYgrY61GKiWZD) | 5:08 | 2022-07-22 | 2022-10-26 |
 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 | 2022-07-22 |  |
 | [Dias Mejores](https://open.spotify.com/track/6vtFTFXUa8dDV2DXnXAzhq) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06) | [Dias Mejores](https://open.spotify.com/album/1OkifSNfJnObBOcbJ2lpPW) | 4:27 | 2022-07-22 |  |
 | [Dios Incomparable \(Invitado: Marco Barrientos\)](https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610) | 10:45 | 2022-07-22 |  |
@@ -52,6 +52,7 @@
 | [Tu Amor \- En Vivo](https://open.spotify.com/track/5yOHIWG6xw63hObPaUsVd5) | [Diego Campos](https://open.spotify.com/artist/0cvBXvjdFZSN9RfAOk0wTC) | [Es Tiempo \(En Vivo\)](https://open.spotify.com/album/6q3LLDP1TZ8zXTPfZoAqNs) | 4:47 | 2022-07-22 |  |
 | [Tu Fan Number One](https://open.spotify.com/track/5lAtZmes9ELeVyEn1X0oqA) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Tu Fan Number One](https://open.spotify.com/album/4O5VnMxSs4kY3uqzBZZykI) | 3:34 | 2022-07-22 |  |
 | [Tu Historia](https://open.spotify.com/track/2Edzf0McD1MOWTwI5GbF1b) | [Renacer](https://open.spotify.com/artist/23Yee5PRZs6MB8tR3Jynxe) | [Consumenos](https://open.spotify.com/album/1bIA3sfkrfFkHAU0KJFj9x) | 4:27 | 2022-07-22 |  |
+| [Tu Reino Está Aquí](https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 5:33 | 2022-10-25 |  |
 | [Tu Sangre Clama](https://open.spotify.com/track/3lUGO4PQnRj3KICj44DfZT) | [Nathan Ironside](https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8) | [Tu Sangre Clama](https://open.spotify.com/album/6z3NBhEg5SwukG5PUDkPPL) | 7:46 | 2022-07-22 |  |
 | [Venga Tu Reino](https://open.spotify.com/track/7lVFBPhA4TBiAHmaKZjsyV) | [Alpha Union](https://open.spotify.com/artist/7r3OVrzP7rwFr0q1C4IQ5n) | [Conquistador](https://open.spotify.com/album/6ByW3JlKlwzAnHgMRWkYuz) | 3:05 | 2022-07-22 |  |
 | [Viajero Del Viento](https://open.spotify.com/track/7CkhEdcBHCDUCICCSbfTBZ) | [Kyosko](https://open.spotify.com/artist/3SJVLk4Qc9qJ5Mk5dCQrOB) | [Invisibles](https://open.spotify.com/album/2CY6A8UkkptIxckUyBll8j) | 3:02 | 2022-07-22 |  |

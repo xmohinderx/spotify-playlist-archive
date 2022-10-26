@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Michael Ray
 
-267 songs - 16 hr 34 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
+268 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Best Of You](https://open.spotify.com/track/7tVn9cFAt6tUYMyfETwbab) | [Rick Monroe and The Hitmen](https://open.spotify.com/artist/67VBNCfGT2EPGiViUNcJS3) | [Best Of You](https://open.spotify.com/album/1KixnOQFsdbvOWqxEdwdVn) | 4:00 | 2022-03-25 | 2022-04-20 |
 | [Big Love](https://open.spotify.com/track/2bBDdsNOksX2mS53aSm6tY) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Big Love](https://open.spotify.com/album/67bDcxrb2epJ9ZFDhN9KKQ) | 4:13 | 2021-12-10 | 2022-07-22 |
 | [Bleeding Love](https://open.spotify.com/track/55zTNpfdbGivevXhRqSfq8) | [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt) | [Bleeding Love](https://open.spotify.com/album/7htjo95f84y0cKZBU80vJT) | 5:38 | 2022-03-25 | 2022-04-20 |
+| [Bless the Broken Road](https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Bless the Broken Road](https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo) | 3:06 | 2022-10-21 |  |
 | [Bless the Broken Road \- Acoustic](https://open.spotify.com/track/3wNWGhHUXcfIAkofmN1A3a) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Bless the Broken Road \(Acoustic\)](https://open.spotify.com/album/1Jtc296ozOVEdimxdkKsNi) | 2:55 | 2022-01-07 | 2022-07-24 |
 | [Blue Bayou](https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Kellyoke](https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi) | 3:52 | 2022-06-24 |  |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/1jfsJ1YUHdb44epr4b0iLF) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [You Light Up My Life](https://open.spotify.com/album/5FXJHigDDA8I1xT47xpsWk) | 4:41 | 2021-12-10 | 2022-07-29 |
@@ -179,7 +180,7 @@
 | [One Man Band](https://open.spotify.com/track/1wIZmRtB9eVWMdQ10oIkX1) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [One Man Band](https://open.spotify.com/album/28mHJEd1a4pcrJI8PBfYBJ) | 2:56 | 2021-12-10 | 2022-07-20 |
 | [Only You \(And You Alone\)](https://open.spotify.com/track/2nBKv02cKXHbdtOgqru73d) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Heart To Heart](https://open.spotify.com/album/63RurYMZG9NhfDV0L0PB7P) | 2:52 | 2021-12-10 | 2022-07-29 |
 | [Outskirts of Heaven](https://open.spotify.com/track/2G8c1ylMTRTN32YegAxlbr) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Outskirts of Heaven](https://open.spotify.com/album/0LgPEUr7Hoyxpav1cAbWJK) | 4:03 | 2022-07-08 | 2022-08-10 |
-| [Outskirts of Heaven](https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Outskirts of Heaven](https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm) | 4:03 | 2022-08-26 |  |
+| [Outskirts of Heaven](https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Outskirts of Heaven](https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm) | 4:03 | 2022-08-26 | 2022-10-26 |
 | [Outskirts of Heaven \(feat\. Craig Campbell\)](https://open.spotify.com/track/2BzVAwyvy5yHbPkMUGhRRH) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi), [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 3:52 | 2022-03-18 |  |
 | [Over the Rainbow](https://open.spotify.com/track/0JuaYeq8BuDkXpFQ1RlgQc) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Let's Be Frank](https://open.spotify.com/album/62pT5GFAvi6n5RYrb7Yhkt) | 4:32 | 2021-12-10 |  |
 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 | 2022-01-07 |  |

@@ -1409,6 +1409,24 @@
     {
       "album": {
         "name": "Santiago's Sea Shanties",
+        "url": "https://open.spotify.com/album/06cPzokRlGLUfBxcsJbE1s"
+      },
+      "artists": [
+        {
+          "name": "Santiago of the Seas",
+          "url": "https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91482,
+      "name": "Santiago of the Seas Theme - Extended",
+      "url": "https://open.spotify.com/track/2fmxTrZ8Nl4nryofppxC27"
+    },
+    {
+      "album": {
+        "name": "Santiago's Sea Shanties",
         "url": "https://open.spotify.com/album/0UhvB5gwwLXH4kCAyyo4dL"
       },
       "artists": [
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 113245,
       "name": "Sesame Street Theme - 2019 Mix",
       "url": "https://open.spotify.com/track/0A03kYvR7okcxYmqshk7lA"

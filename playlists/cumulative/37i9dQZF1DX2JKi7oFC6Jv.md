@@ -4,7 +4,7 @@
 
 > The best in classic and new UK Funky\. Cover: Roska
 
-134 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/7I0Kgq7rLWFyN1Pzlv21nE)
+135 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/7I0Kgq7rLWFyN1Pzlv21nE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,9 @@
 | [Feeling Funky](https://open.spotify.com/track/2KoJWfUGPEXl98nwxTNChT) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Sensei EP](https://open.spotify.com/album/1BLsAvMKtBCL5to1JPQW2M) | 4:41 | 2022-04-13 | 2022-07-29 |
 | [Feeling Funky](https://open.spotify.com/track/764vblH9EXsgdtrSpCGmL6) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Sensei EP](https://open.spotify.com/album/4eOUxNKQxKBdwIAoOpXHDf) | 4:41 | 2022-04-13 |  |
 | [Fire](https://open.spotify.com/track/4GLclqDpYfmdP1LtMKgwEh) | [Jook 10](https://open.spotify.com/artist/5lEkmwKaQBBPeRM8WdoE5O) | [Went Off/Fire](https://open.spotify.com/album/0H5gbrd5RHZPiUTZlYnTcb) | 4:57 | 2022-04-13 | 2022-07-29 |
-| [Free \- SHOSH Remix](https://open.spotify.com/track/5EInT0bE9SArgmUAMmN39O) | [Back N Fourth](https://open.spotify.com/artist/7wLHr4NmAvAwukWyqyOpsX), [Disclaimr](https://open.spotify.com/artist/1cdEKMoODPHtrqkmRqxBAX), [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Free \(SHOSH Remix\)](https://open.spotify.com/album/2LyZGafhIiMOj79CRvSll2) | 2:39 | 2022-04-13 |  |
+| [Free \- SHOSH Remix](https://open.spotify.com/track/5EInT0bE9SArgmUAMmN39O) | [Back N Fourth](https://open.spotify.com/artist/7wLHr4NmAvAwukWyqyOpsX), [Disclaimr](https://open.spotify.com/artist/1cdEKMoODPHtrqkmRqxBAX), [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Free \(SHOSH Remix\)](https://open.spotify.com/album/2LyZGafhIiMOj79CRvSll2) | 2:39 | 2022-04-13 | 2022-10-26 |
 | [Free \- SHOSH Remix](https://open.spotify.com/track/6dLxFq90hMU95F0btgPNsn) | [Back N Fourth](https://open.spotify.com/artist/7wLHr4NmAvAwukWyqyOpsX), [Disclaimr](https://open.spotify.com/artist/1cdEKMoODPHtrqkmRqxBAX), [SHOSH](https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH) | [Free \(SHOSH Remix\)](https://open.spotify.com/album/4tiFcoAfUNEzKt25pztiEp) | 2:39 | 2022-04-13 | 2022-07-28 |
+| [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 | 2022-04-13 |  |
 | [Frontline](https://open.spotify.com/track/7xcSVlVE9UoDBAZ5Kg49QB) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/4O0IasqwL2wAtmD5kjtmNz) | 3:55 | 2022-04-13 | 2022-10-18 |
 | [Fuller](https://open.spotify.com/track/0cjqXX58zJv6H7Wq1EliTW) | [FunkyStepz](https://open.spotify.com/artist/1sMcpUeV5yIQw4F4SvFqcb) | [Fuller / Hurricane Riddim](https://open.spotify.com/album/5KE1MO9AlHyop9nBp81sqo) | 4:45 | 2022-04-13 | 2022-07-24 |
 | [Funky Flex vs Pulse](https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Funky Flex vs Pulse](https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf) | 6:01 | 2022-04-13 | 2022-10-25 |

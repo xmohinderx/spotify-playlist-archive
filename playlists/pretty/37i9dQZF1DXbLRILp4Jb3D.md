@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 
 > Dulces canciones para disfrutar con tus bebés.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,283 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,319 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 19 | [Buenos Días Señor Sol](https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Buenos Días Señor Sol](https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ) | 2:45 |
 | 20 | [The Bath Song](https://open.spotify.com/track/6t5tUvTg4BY4syBRFYATxD) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Bath Song & More Kids Songs](https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp) | 2:01 |
 | 21 | [For the First Time in Forever \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:45 |
-| 22 | [Tu Guardián](https://open.spotify.com/track/724ixTDFsgRWkhiwQHgtS1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:25 |
+| 22 | [A Eme O](https://open.spotify.com/track/3tM2iXXrWYNrv1yvvgiBhn) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Andrea Echeverri](https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip) | 3:27 |
 | 23 | [Arrurrú](https://open.spotify.com/track/25EyD8t5rxJIu401VPBOJl) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Canciones de Luna](https://open.spotify.com/album/3GSVwWy3uufF01FCxguQUL) | 2:33 |
-| 24 | [A Eme O](https://open.spotify.com/track/3tM2iXXrWYNrv1yvvgiBhn) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Andrea Echeverri](https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip) | 3:27 |
+| 24 | [Tu Guardián](https://open.spotify.com/track/724ixTDFsgRWkhiwQHgtS1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:25 |
 | 25 | [Nana Boruca](https://open.spotify.com/track/3buxz8sFvbMoQdX5tQuBcz) | [Mariana Baggio](https://open.spotify.com/artist/72l6wuv5Ic1Lm9yAMayCKx) | [Nana Boruca](https://open.spotify.com/album/2hnrMIBi0zullEG1TYCZEJ) | 1:41 |
 | 26 | [Un Mundo Ideal](https://open.spotify.com/track/374W2LUkFHs3WIRoRaskWi) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 3:20 |
 | 27 | [Elena of Avalor \(Main Title\)](https://open.spotify.com/track/5axMcmrGtshbBUIThgmIis) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena de Avalor](https://open.spotify.com/album/1IPKeos1MgU37PeWiAIpOw) | 1:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 49 | [Esta Noche Es Para Amar](https://open.spotify.com/track/7DAGQT2LDafeGUdAxTptMe) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Esta Noche Es Para Amar](https://open.spotify.com/album/4fbnK0iTPsM3XweHucKYV3) | 4:01 |
 | 50 | [Nube de Algodón](https://open.spotify.com/track/2UEj5kNRL0VJ9oQC6SGdjP) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [CACUCA](https://open.spotify.com/artist/5yxqs3dYSbyBYRebEh7aJe) | [Nube de Algodón](https://open.spotify.com/album/3jN0mCiud1s0mQ46aj2Yom) | 2:16 |
 
-Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMDkzNTI5ZjE4YjRhOTBlY2IzNzdlZWJlYTk5M2M4NjU0`
+Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMDlhYWQwZWNhODI2YzE4MGE2ZjE5YmE4YThiYzcwYTcx`

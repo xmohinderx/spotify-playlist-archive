@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Oscar Jerome
 
-329 songs - 1 day 0 hr 17 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
+330 songs - 1 day 0 hr 21 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 | 2022-08-18 |  |
 | [Never Odd or Even](https://open.spotify.com/track/15CgvAuQAy0FOPJYiJ2yTG) | [Maliki](https://open.spotify.com/artist/1ERFAODrl5Aj4SQjrcWKyk) | [Never Odd or Even](https://open.spotify.com/album/3F96mitDz79X98YVBgbe9B) | 4:31 | 2021-12-17 | 2022-07-16 |
 | [Never Stopped for the Sun 'till Now](https://open.spotify.com/track/20afoEqLRHin6E8mm4o4Lq) | [Gabriel Gifford](https://open.spotify.com/artist/7ceIRf4Nyq04yXCq4HXLgj) | [Arrows](https://open.spotify.com/album/0uECWXCJ3VUg3TG1oltcqs) | 3:26 | 2021-12-17 | 2022-08-05 |
+| [Next Spring](https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl) | [Next Spring](https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC) | 3:44 | 2022-10-21 |  |
 | [Next Stop](https://open.spotify.com/track/0xWvC0sXy50OhLr2f8lZTV) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Next Stop](https://open.spotify.com/album/5PnsHCt16798AKmngcZMBP) | 6:41 | 2022-03-24 | 2022-07-26 |
 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 | 2021-12-17 | 2022-03-18 |
 | [Nights In Havana](https://open.spotify.com/track/1WIT85qChJThW4G53ZtP3x) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Alex Blake](https://open.spotify.com/artist/2Zg7PFrzPRux43T3G1UuNe) | [We Will Rise](https://open.spotify.com/album/1fXAO1H68AvYYtCz9yOjmQ) | 4:13 | 2021-12-17 |  |
@@ -314,7 +315,7 @@
 | [Village of the Sun](https://open.spotify.com/track/4znUeVxYIDNmOUxgy4109n) | [Village of the Sun](https://open.spotify.com/artist/7KlZt5I16sOiYWmoCdWA18), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Binker Golding](https://open.spotify.com/artist/7LO9JgJitsPExiZcDyVzm1), [Simon Ratcliffe](https://open.spotify.com/artist/0RgFt2ckOMG4sLVix4yKyw) | [Village of the Sun](https://open.spotify.com/album/0mNGWxYJq0PnZ5RwH2ME7A) | 6:54 | 2021-12-17 | 2022-01-17 |
 | [Walk Alone to Hear Thoughts of Your Own](https://open.spotify.com/track/3iScHjJ5pCJw0at5v5JVBN) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/7067zgNsGbFQdkyS6jL1wn) | 4:24 | 2022-03-08 | 2022-03-09 |
 | [War Dance](https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 5:38 | 2022-08-04 |  |
-| [Warm Data](https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Monument](https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC) | 8:16 | 2021-12-17 |  |
+| [Warm Data](https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Monument](https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC) | 8:16 | 2021-12-17 | 2022-10-26 |
 | [Watermelon Man \(Under The Sun\)](https://open.spotify.com/track/0bT4oTSXHFA6GYB8jyaXJ4) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Watermelon Man \(Under The Sun\)](https://open.spotify.com/album/1EIRRthNuC6pViGRxe3yRh) | 4:30 | 2021-12-17 | 2022-06-03 |
 | [Wave Decay](https://open.spotify.com/track/4lBKAEQXVzaicd1FLy83Lu) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Wave Decay](https://open.spotify.com/album/1CmKCXUb6mRilW1KHYUJTh) | 4:51 | 2022-05-26 |  |
 | [Wax Werk \(Grove Version\)](https://open.spotify.com/track/40NTdCCWUcoPpueuXE5KPN) | [Ishmael Ensemble](https://open.spotify.com/artist/6LiMIy9kwdQAfMrBInyUvY), [Grove](https://open.spotify.com/artist/1ymLBAEb4VHg1sObM20pQ3) | [Wax Werk \(Grove Version\)](https://open.spotify.com/album/6RP52mfjIdwlRRgGf49umo) | 4:02 | 2022-04-15 | 2022-04-19 |

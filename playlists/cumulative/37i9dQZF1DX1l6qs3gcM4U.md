@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Dream Boyz
 
-273 songs - 16 hr 34 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
+274 songs - 16 hr 38 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Desculpa](https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H) | 3:32 | 2022-07-22 |  |
 | [Desculpa](https://open.spotify.com/track/7smOsCISsw5wc4UHBfq2Tb) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/3TWn2CcXySUwuQCnPLFQXH) | 3:34 | 2021-12-10 | 2022-07-29 |
 | [Desculpa](https://open.spotify.com/track/5cw7KhORjRNFEP5Yyfs98O) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Novelas](https://open.spotify.com/album/4SgROO0cwGappbjyiztgHZ) | 3:42 | 2021-12-10 | 2022-07-28 |
-| [Deusa do Amor](https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Anderson Mario](https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh), [Button](https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL) | [Deusa do Amor](https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS) | 4:39 | 2021-12-10 |  |
+| [Deusa do Amor](https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Anderson Mario](https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh), [Button](https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL) | [Deusa do Amor](https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS) | 4:39 | 2021-12-10 | 2022-10-26 |
 | [Diferente](https://open.spotify.com/track/3BlPiaT0qrlRubIzqJ5GWa) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Telma Lee](https://open.spotify.com/artist/7iQpFZXyUTiANqmxhb8c6P) | [Best of Kizomba 2017](https://open.spotify.com/album/22n3XPtnzeE2bQZKP0qt4O) | 4:24 | 2022-01-10 | 2022-05-28 |
 | [Do Teu Jeito](https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Do Teu Jeito](https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW) | 3:13 | 2021-12-10 | 2022-07-29 |
 | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [M&n Pro](https://open.spotify.com/artist/13qKpK0ZU4XuJJTuoSXASK) | [Don't Judge Me \(Saxo\-Kizomba\)](https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C) | 4:56 | 2021-12-10 |  |
@@ -208,6 +208,7 @@
 | [Rainha](https://open.spotify.com/track/3y8Un4QcNTLwAIIgOroXzf) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Elji Beatzkilla](https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:55 | 2022-01-14 | 2022-10-25 |
 | [Raízes](https://open.spotify.com/track/39xIzMG0hjgFBtueCUy9Jo) | [Bonifácio Aurio](https://open.spotify.com/artist/7kQhpoev6cS1UlSpx9Dl5f) | [Raízes](https://open.spotify.com/album/5g8l7OT24r6iRHCQHjCgQk) | 3:20 | 2022-07-22 | 2022-07-26 |
 | [Reagi](https://open.spotify.com/track/28TKKqjvFEzjdySF7xqLr9) | [Elsy](https://open.spotify.com/artist/0MQ5pkCrgpk3D9efPa4vSu) | [Reagi](https://open.spotify.com/album/5H2uPj4d6xWVUDZvrqFPtr) | 3:38 | 2022-02-18 | 2022-07-25 |
+| [Refúgio](https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Jordânia](https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod) | [Refúgio](https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa) | 3:57 | 2022-10-20 |  |
 | [Relembrar](https://open.spotify.com/track/0o7Kjfy8W0ZPF3Og9n2KDr) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Relembrar](https://open.spotify.com/album/2NKAElMUB6gX0c1tb1AcXl) | 3:35 | 2022-03-25 | 2022-04-20 |
 | [Relembrar](https://open.spotify.com/track/3mSoUFYdwjP2j8HaPBi0Pl) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Relembrar](https://open.spotify.com/album/1Ifgreb619PBJjtvuU75QW) | 3:35 | 2022-04-08 | 2022-06-14 |
 | [Ressaca](https://open.spotify.com/track/3QAQazOCaie9vLGU5ReLSQ) | [Tommy Boy](https://open.spotify.com/artist/3hdmioydV8vzFjASzt4Y7u) | [Ressaca](https://open.spotify.com/album/5t7Bi7fyC4EghuLGkgTVe7) | 3:00 | 2022-07-07 | 2022-07-23 |

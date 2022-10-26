@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: ISAIAH, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,456 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,493 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [STRUGGLE](https://open.spotify.com/track/0LEERa0B2yvLwwJjrJMHSA) | [ISAIAH](https://open.spotify.com/artist/01iPtgyGh1o00ypKadP5DK) | [STRUGGLE](https://open.spotify.com/album/2frz9hOTIwcaaM0ezctsU5) | 3:12 |
-| 2 | [Baby Steps](https://open.spotify.com/track/7zJWKWiZ0EBAJpRuLs2uzC) | [Yours, Karim](https://open.spotify.com/artist/3USpxmdBSa87Rnker20yvV) | [Baby Steps](https://open.spotify.com/album/0ADMAVguSH0yhg9Aiel4vk) | 2:39 |
+| 2 | [Baby Steps \- Single Edit](https://open.spotify.com/track/7zJWKWiZ0EBAJpRuLs2uzC) | [Yours, Karim](https://open.spotify.com/artist/3USpxmdBSa87Rnker20yvV) | [Baby Steps](https://open.spotify.com/album/0ADMAVguSH0yhg9Aiel4vk) | 2:39 |
 | 3 | [Leger in Schwarz](https://open.spotify.com/track/3N0vTdg3KZm45diheItjn4) | [WILDES](https://open.spotify.com/artist/4loLRSRDzLWcwz5gJroHTJ) | [Leger in Schwarz](https://open.spotify.com/album/1kU4rikpMi82g15StSKIlP) | 2:59 |
 | 4 | [Rauch](https://open.spotify.com/track/02YOcaXI86clPG29BTvcxI) | [ANIKA](https://open.spotify.com/artist/0i85ZVHgU9GmXkyn9tQRpg) | [Rauch](https://open.spotify.com/album/2MdeebVrs3cpKFaq1JmQ7S) | 3:13 |
 | 5 | [Traffic Lights](https://open.spotify.com/track/3gqkIIyHeAwkP6eRMHdzhB) | [Bikini Beach](https://open.spotify.com/artist/1eMm4uIStcxmNAfqif8DSp) | [Traffic Lights](https://open.spotify.com/album/61AYogut6rSU9Zr8w9eLOK) | 2:09 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 67 | [AIIWO](https://open.spotify.com/track/3FTjiO85PtTwTPfdTu6Wl8) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [AIIWO](https://open.spotify.com/album/4sydfLJRNEKm90ka4cy6mS) | 3:24 |
 | 68 | [Acid Feelings](https://open.spotify.com/track/7FSz11IOD60nLjWs3KjxRz) | [Tim Etzel](https://open.spotify.com/artist/2uv227wjA5bJO6RrXJsaXu) | [Acid Feelings](https://open.spotify.com/album/3pa8bw0wupP5r1oXoyJKMi) | 7:03 |
 | 69 | [Bleib](https://open.spotify.com/track/42m4ZMTXkYlAk6D8y5JUoY) | [Berglind](https://open.spotify.com/artist/2tJWpZysbUxzTqBmxtN8WY) | [Bleib](https://open.spotify.com/album/00E9UOFiiHLlzdbLM04o2j) | 2:46 |
-| 70 | [Dunkelheit](https://open.spotify.com/track/2s6seqO1Jn4hAWVUfBQJgc) | [DAS MAER](https://open.spotify.com/artist/6vKS2FutGrrrapam0RDd4T) | [Momoko](https://open.spotify.com/album/346vi2eDqGG0twwDaGgBBH) | 5:29 |
+| 70 | [Dunkelheit](https://open.spotify.com/track/3iUeGwc6Eg1X29zE13rRKQ) | [DAS MAER](https://open.spotify.com/artist/6vKS2FutGrrrapam0RDd4T) | [Momoko](https://open.spotify.com/album/55jstwnqOvwq3kX8tHsMl9) | 5:29 |
 | 71 | [Do You Join Us](https://open.spotify.com/track/1GJnpSIdf4rjy1qMCcgpBa) | [Kitty Solaris](https://open.spotify.com/artist/2kMGKN4ZBnRSA51Iaadiep) | [Girls & Music](https://open.spotify.com/album/08SEduSqHDqTKemNPcPBC4) | 3:31 |
 | 72 | [Bounce](https://open.spotify.com/track/1v3xlDScIkRo5ghnv558xq) | [Nono Punch](https://open.spotify.com/artist/1OptSEJ4epdAQoTOQ2JySI), [BEX](https://open.spotify.com/artist/042ndxmvlszpyz8Y1cNGDz) | [Bounce](https://open.spotify.com/album/5KAsuyD6sBM9aeGKvhI6Pv) | 3:17 |
 | 73 | [Uptight Dance](https://open.spotify.com/track/1IwLd7XPBJMCgkXfEPJW4G) | [Masha The Rich Man](https://open.spotify.com/artist/01bOHiL5TsXTx9dZu9gG15) | [Uptight Dance](https://open.spotify.com/album/27xDNLAPM7ygTrd1cK1PQq) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Personal](https://open.spotify.com/track/3pu4Fbf0JEQbZS0fDaGOD8) | [Marlin Beach](https://open.spotify.com/artist/2CQY4RqvDLxeonCYx17jjW) | [Exploration Days](https://open.spotify.com/album/7s3BudRsn2zfw4kyDnDyYt) | 3:20 |
 | 80 | [Which Side](https://open.spotify.com/track/0CxH6hLipepSF6eZvxoDDF) | [Tin Man Falls](https://open.spotify.com/artist/2VkHGX2gV6yui1gZPqBBpd) | [Which Side](https://open.spotify.com/album/0zvFDhgX4KkcSTIDC2zq32) | 2:48 |
 
-Snapshot ID: `MTY2NTU2ODgwMCwwMDAwMDAwMDViODAzZmYyZWIxODUxZjk4YmE2NzhjNWJkNTljMTRi`
+Snapshot ID: `MTY2NTU2ODgwMCwwMDAwMDAwMDI2YWFhMGQyNTQwMWVjYTBiN2E5MDM3N2UxOGU4NDFm`

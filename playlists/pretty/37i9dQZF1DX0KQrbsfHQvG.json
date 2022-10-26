@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 163833,
+  "num_followers": 163897,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMGJkMjdlYzc2ZDZlNjQwNTU4ZDY4MWI1NmY3ZmFlNDhl",
+  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMDA4N2MzMjljYmYyMTJjYzkxNTBmZDAxOWQ1ZjNkNzBi",
   "tracks": [
     {
       "added_at": "2022-07-01 04:01:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Time & Space",
         "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 124880,
       "name": "I Don't Wanna Be Blind",
       "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Prayers for the Damned",
-        "url": "https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7"
-      },
-      "artists": [
-        {
-          "name": "Sixx:A.M.",
-          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
-        }
-      ],
-      "duration_ms": 233586,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "You Will Not Be Saved",
         "url": "https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 175586,
       "name": "WWYDF",
       "url": "https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Prayers for the Damned",
+        "url": "https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7"
+      },
+      "artists": [
+        {
+          "name": "Sixx:A.M.",
+          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
+        }
+      ],
+      "duration_ms": 233586,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Foreign Language",
-        "url": "https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        },
-        {
-          "name": "Frank Carter",
-          "url": "https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf"
-        }
-      ],
-      "duration_ms": 112305,
-      "name": "Power (feat. Frank Carter)",
-      "url": "https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Stand Up (Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots)",
         "url": "https://open.spotify.com/album/0aMmyg5wDhpn0DDY7sjfyE"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 193770,
       "name": "Stand Up (Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots)",
       "url": "https://open.spotify.com/track/0FdCFfb5xb7thJMaSjLFsH"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Foreign Language",
+        "url": "https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        },
+        {
+          "name": "Frank Carter",
+          "url": "https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf"
+        }
+      ],
+      "duration_ms": 112305,
+      "name": "Power (feat. Frank Carter)",
+      "url": "https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1255,18 +1255,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Powerflo",
-        "url": "https://open.spotify.com/album/5k4RJf18UyFQDsXaYsD1Cv"
+        "name": "Weather Strike",
+        "url": "https://open.spotify.com/album/5eEafds3DN8BfUNkojLR9Q"
       },
       "artists": [
         {
-          "name": "Powerflo",
-          "url": "https://open.spotify.com/artist/4s3biD1bXEb7I6QKsmKGZ3"
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
         }
       ],
-      "duration_ms": 206373,
-      "name": "Resistance",
-      "url": "https://open.spotify.com/track/0pu3lMc2n982gfrBOy5880"
+      "duration_ms": 211026,
+      "name": "Weather Strike",
+      "url": "https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc"
     }
   ],
   "unique_name": "Rise Up",

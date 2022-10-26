@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vuelve el Cosqu\u00edn Rock! 12 y 13 de Febrero, Aer\u00f3dromo Santa Mar\u00eda de Punilla, C\u00f3rdoba.",
-  "num_followers": 23600,
+  "num_followers": 23612,
   "original_name": "Cosqu\u00edn Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDI2NjA4NSwwMDAwMDAwMDZlYTU2YWM1MDdiZjliNzI1MDgzZWZjMDBhMzliZmU2",
+  "snapshot_id": "MTY0NDI2NjA4NSwwMDAwMDAwMDM5NjJlNzFhZTczNWZhZDdhY2YyOTk1ZWY2NzMxZGQw",
   "tracks": [
     {
       "added_at": "2022-02-07 20:34:45",
@@ -287,18 +287,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+        "name": "Departamento",
+        "url": "https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        },
+        {
+          "name": "Adan Jodorowsky",
+          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
         }
       ],
-      "duration_ms": 250173,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
+      "duration_ms": 234866,
+      "name": "Departamento",
+      "url": "https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -319,22 +323,18 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Departamento",
-        "url": "https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj"
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
       "artists": [
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        },
-        {
-          "name": "Adan Jodorowsky",
-          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
         }
       ],
-      "duration_ms": 234866,
-      "name": "Departamento",
-      "url": "https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f"
+      "duration_ms": 250173,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -503,18 +503,18 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Airbag",
-        "url": "https://open.spotify.com/album/4FtWJXF1bvQ4Q7PGbGGgMQ"
+        "name": "Un Bossa +",
+        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 234146,
-      "name": "Solo aqu\u00ed",
-      "url": "https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj"
+      "duration_ms": 86000,
+      "name": "Un Bossa +",
+      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Un Bossa +",
-        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
+        "name": "Airbag",
+        "url": "https://open.spotify.com/album/4FtWJXF1bvQ4Q7PGbGGgMQ"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 86000,
-      "name": "Un Bossa +",
-      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
+      "duration_ms": 234146,
+      "name": "Solo aqu\u00ed",
+      "url": "https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1191,18 +1191,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Una Caricia",
-        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
+        "name": "Paranoia Pop",
+        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        },
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
         }
       ],
-      "duration_ms": 211493,
-      "name": "Partenaire",
-      "url": "https://open.spotify.com/track/1qch36rOUF2ZDjLrsBF5LV"
+      "duration_ms": 232373,
+      "name": "Paranoia Pop",
+      "url": "https://open.spotify.com/track/13WCGJKAWrgZgz6grLryE4"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1223,22 +1227,18 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Paranoia Pop",
-        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
+        "name": "Una Caricia",
+        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
       },
       "artists": [
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        },
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
         }
       ],
-      "duration_ms": 232373,
-      "name": "Paranoia Pop",
-      "url": "https://open.spotify.com/track/13WCGJKAWrgZgz6grLryE4"
+      "duration_ms": 211493,
+      "name": "Partenaire",
+      "url": "https://open.spotify.com/track/1qch36rOUF2ZDjLrsBF5LV"
     },
     {
       "added_at": "2022-02-07 20:34:45",

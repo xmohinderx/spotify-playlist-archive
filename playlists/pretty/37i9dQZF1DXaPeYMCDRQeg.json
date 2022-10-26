@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Black love, one song at a time.",
-  "num_followers": 140978,
+  "num_followers": 141044,
   "original_name": "Love Language",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTk2OTcwMCwwMDAwMDAwMDE3YTE3NWI5YzQ3YjcxNjVkN2NjNmM2MmRiOTM0MjNl",
+  "snapshot_id": "MTY2NTk2OTcwMCwwMDAwMDAwMDI1MGM2NGZkMTkzNmIwMzE2NDc2ODRiZjM5MjdjOTk1",
   "tracks": [
     {
       "added_at": "2022-03-14 19:54:18",
@@ -243,30 +243,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "War & Leisure",
-        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Salaam Remi",
-          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "Come Through and Chill (feat. J. Cole & Salaam Remi)",
-      "url": "https://open.spotify.com/track/1m8WpLYXEiNVZchsWEcCSy"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
@@ -297,6 +273,22 @@
       "url": "https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU"
     },
     {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Apollo XXI",
+        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "N Side",
+      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
+    },
+    {
       "added_at": "2022-10-14 05:49:39",
       "album": {
         "name": "What A Difference She Made",
@@ -315,18 +307,26 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
+        "name": "War & Leisure",
+        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
         }
       ],
-      "duration_ms": 256063,
-      "name": "Boo'd Up",
-      "url": "https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli"
+      "duration_ms": 322000,
+      "name": "Come Through and Chill (feat. J. Cole & Salaam Remi)",
+      "url": "https://open.spotify.com/track/1m8WpLYXEiNVZchsWEcCSy"
     },
     {
       "added_at": "2022-10-14 05:49:39",
@@ -347,22 +347,18 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+        "name": "READY",
+        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
       },
       "artists": [
         {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 415613,
-      "name": "Girl (feat. KAYTRANADA)",
-      "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
+      "duration_ms": 256063,
+      "name": "Boo'd Up",
+      "url": "https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -415,6 +411,26 @@
       "duration_ms": 168235,
       "name": "Scene 1",
       "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 415613,
+      "name": "Girl (feat. KAYTRANADA)",
+      "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -871,6 +887,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Reality Show",
+        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "Guy",
         "url": "https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc"
       },
@@ -919,22 +951,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Reality Show",
-        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "1st Born Second",
         "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
       },
@@ -967,22 +983,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "The Revival",
-        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 290933,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Juslisen",
         "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 304426,
       "name": "Dontchange",
       "url": "https://open.spotify.com/track/3DkaXDmC0qaFNAxgLMuwX4"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "The Revival",
+        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 290933,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1315,6 +1331,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "In Love With You",
+      "url": "https://open.spotify.com/track/79UjqYt9MCLlBpzAvaKVJj"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/5MynMNCxSoiaCnLhA3y3NE"
       },
@@ -1331,18 +1363,18 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+        "name": "Diary Of A Mad Band",
+        "url": "https://open.spotify.com/album/41pgxrq2gjdSsGnqofrHGj"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
         }
       ],
-      "duration_ms": 321000,
-      "name": "In Love With You",
-      "url": "https://open.spotify.com/track/79UjqYt9MCLlBpzAvaKVJj"
+      "duration_ms": 302893,
+      "name": "My Heart Belongs To U",
+      "url": "https://open.spotify.com/track/5aVnC5HP5LtiGsx6OUyfUr"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1367,22 +1399,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Diary Of A Mad Band",
-        "url": "https://open.spotify.com/album/41pgxrq2gjdSsGnqofrHGj"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 302893,
-      "name": "My Heart Belongs To U",
-      "url": "https://open.spotify.com/track/5aVnC5HP5LtiGsx6OUyfUr"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Vibrations",
         "url": "https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z"
       },
@@ -1395,26 +1411,6 @@
       "duration_ms": 240920,
       "name": "Searching",
       "url": "https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Electric Circus",
-        "url": "https://open.spotify.com/album/4eD2SoySMPRl0SBv7rqk1X"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "Come Close",
-      "url": "https://open.spotify.com/track/2dCD8qq7yHZPZduA8FJazs"
     }
   ],
   "unique_name": "Love Language",

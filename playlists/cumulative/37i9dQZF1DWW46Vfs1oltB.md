@@ -4,7 +4,7 @@
 
 > The hottest & new Korean hip hop music is here\. OWN the crown with KR hip hop music\. \(Cover: LILBOI\) \(전세계에서 사랑받는 한국 힙합 히트 & 신곡을 만나보세요\. \(커버: 릴보이\)
 
-641 songs - 1 day 11 hr 36 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+642 songs - 1 day 11 hr 39 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [gganbu \(Feat\. YUMDDA, ASH ISLAND\) \(Prod\. TOIL\)](https://open.spotify.com/track/4XI5Kdm1zdSFxdIGd9xUVT) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 4:06 | 2022-01-15 | 2022-04-19 |
 | [Ghost Buster](https://open.spotify.com/track/71nySQ4RntwCMUFZu29m1d) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Minamdang \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/6KSJrdypDxR06zSkhTEK1i) | 3:00 | 2022-07-07 | 2022-07-15 |
 | [Girls Back Home \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/4FJ3U3FHXPdIOSP6e1tQfb) | [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Girls Back Home \(Feat\. Lee Young Ji\)](https://open.spotify.com/album/0LGV5taFE9qH4XAJbykaAY) | 2:15 | 2022-08-31 |  |
+| [Go Back](https://open.spotify.com/track/4WRzvrqXTdzpEB6KaO1Oqh) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [Go Back](https://open.spotify.com/album/2hb3zy9V9edKEGESIaUXaH) | 3:06 | 2022-10-25 |  |
 | [Go Way](https://open.spotify.com/track/7IXcYYamS2tIOV2EXeJktG) | [Sway D](https://open.spotify.com/artist/3HfWEOcXit3EkuRCt5M3Yd) | [Go Way](https://open.spotify.com/album/77Wrn4DojRzDULosl0Lx79) | 3:36 | 2021-12-29 | 2022-04-14 |
 | [Go, dude !](https://open.spotify.com/track/1YWO7jS4KEyIW8aZvHcba2) | [ChaMane](https://open.spotify.com/artist/2jyURAEr7r2UfWMpFQDOQd) | [26](https://open.spotify.com/album/4S72a69hZrCFmoPzclt3QR) | 2:28 | 2022-04-08 | 2022-04-13 |
 | [GOAT \(feat\. Basick, G2, SAN\-E\) \(Prod By\. NUOL\)](https://open.spotify.com/track/2XDC1raB8CHcTyoCN1kkHL) | [MIC SWG](https://open.spotify.com/artist/7ugTC3yB8Jqxbtiq1BX7RO), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66), [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [MIC SWG CEO 'GOAT'](https://open.spotify.com/album/03vv3RlmumxSQZOOj16bXZ) | 3:20 | 2022-01-04 | 2022-07-06 |

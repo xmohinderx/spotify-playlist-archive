@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Taylor Swift, Pabllo Vittar com Gloria Groove, Planet Hemp e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,786,318 likes - 67 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,786,431 likes - 67 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 21 | [Conexāo \- Ao Vivo](https://open.spotify.com/track/79HOSe6Eohz7xuWHAZu1YX) | [Mr\. Dan](https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Conexāo \(Ao Vivo\)](https://open.spotify.com/album/4D9sB3Sp1BVto9xv5zdvnG) | 3:20 |
 | 22 | [Água e Fogo](https://open.spotify.com/track/2iwI0RzJBoWYSLNZc1Mg1x) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [Impossível Dizer Que Não Senti](https://open.spotify.com/album/5I3AU6YbATzUeajkwrJ2El) | 3:20 |
 | 23 | [A Voz Da Resistência](https://open.spotify.com/track/7iXlZLVNcX0GlwlaDAS1Sv) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [A Voz Da Resistência](https://open.spotify.com/album/7GMCL5T5SbeeTkzoAzhZRy) | 3:28 |
-| 24 | [Luz](https://open.spotify.com/track/5OIZLMvslAF9uYhkk17ReP) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Luz](https://open.spotify.com/artist/0GDmQMglyUkqBwyZQSQQis) | [Luz](https://open.spotify.com/album/5Bw9xMikxHcB83trMGASYv) | 2:49 |
+| 24 | [Luz](https://open.spotify.com/track/5OIZLMvslAF9uYhkk17ReP) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Luz](https://open.spotify.com/artist/0GDmQMglyUkqBwyZQSQQis) | [Luz](https://open.spotify.com/album/5Bw9xMikxHcB83trMGASYv) | 2:46 |
 | 25 | [Let It Die](https://open.spotify.com/track/3Mpz9tU5tLEkYKDMUOi067) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Let It Die](https://open.spotify.com/album/4hlQ4k5nonfDppqRtpBP9p) | 2:46 |
 | 26 | [Pablo](https://open.spotify.com/track/0Zzn6K3cuKPyDMwmiui3c8) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV), [Martinnz](https://open.spotify.com/artist/0DmKopdHbrBA1OVgTdwqcw) | [Pablo](https://open.spotify.com/album/5pqmf3Li9QYilSYOypcT4f) | 2:27 |
 | 27 | [Box](https://open.spotify.com/track/015qMCodOqUPGIz1q08bqi) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [OG](https://open.spotify.com/album/709J3ee8ZkyK7gcnnNXlsa) | 2:47 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 41 | [POD DE UVA](https://open.spotify.com/track/5q0LwewXqP5ZrsjqHm4RnD) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx) | [POD DE UVA](https://open.spotify.com/album/3p3azhmiTdxEoQ6rQWBwvr) | 2:35 |
 | 42 | [Loucuras da Gente](https://open.spotify.com/track/2EdGYEu2SnLGehSSzLYr8w) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL) | [Loucuras Da Gente](https://open.spotify.com/album/6lJqWppKz7J7u9t7aqzRkE) | 2:48 |
 | 43 | [Don't Leave Me Lonely](https://open.spotify.com/track/4uZKz3TLaSEY4vVb86jyAp) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Don't Leave Me Lonely](https://open.spotify.com/album/3f0b6DdDRkMTVAPs8WHpDW) | 2:53 |
-| 44 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 |
+| 44 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 |
 | 45 | [My Place](https://open.spotify.com/track/53aahmXrEmRM7bFeX3Aibf) | [Ralk](https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC), [Diskover](https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI) | [My Place](https://open.spotify.com/album/0u1juiJIc7IO73WJfNH0pe) | 2:43 |
 | 46 | [Element](https://open.spotify.com/track/4fr0TUNlNMjORHGnZX9DQs) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Element](https://open.spotify.com/album/0UA86CES1HFsAwEY5AXlLK) | 2:00 |
 | 47 | [Change It Up](https://open.spotify.com/track/6ErH5QLlJlMf3nydg0yBsr) | [DUX](https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6) | [Change It Up](https://open.spotify.com/album/5hDh3LELrIwGjAx072ke7u) | 2:42 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 66 | [Retomada](https://open.spotify.com/track/6BJmMBFnn6CqI6IVr7pxLa) | [Latino](https://open.spotify.com/artist/06EMbW4WO6U4fGNnKjeuI5) | [Retomada](https://open.spotify.com/album/5j19cVPOtzMeh0fs3iJZTT) | 3:30 |
 | 67 | [Blue](https://open.spotify.com/track/7uhaG1MmBzH5KU6X0TMNBJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Blue](https://open.spotify.com/album/4c8A95egg8m0QCgWYxGisw) | 3:27 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDA0MzljZTRkNDI3M2MwMDE0YzYwODdiYmE1NTNhOGQ3`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMGMwZWI0NTY2ZGNkMTkxMmI4ZjNkNDc2YTRiNzEzNWIw`

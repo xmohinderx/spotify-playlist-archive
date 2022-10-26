@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "An exclusive collection of Malayalam super hit songs.\nCover: Kaduva",
+  "description": "An exclusive collection of Malayalam super hit songs.\nCover: Monster",
   "name": "Mollywood Gold",
   "published_playlist_ids": [
     "10m0BYH7vx3vQP94cQIjSm"
@@ -386,6 +386,44 @@
     },
     {
       "album": {
+        "name": "Ghoom Ghoom (From \"Monster\")",
+        "url": "https://open.spotify.com/album/7CE8xQM8qSTtfCSyqxEp5X"
+      },
+      "artists": [
+        {
+          "name": "Deepak Dev",
+          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
+        },
+        {
+          "name": "Tanishk Nabar",
+          "url": "https://open.spotify.com/artist/0yiwqCdJwvCHjlTuZ7OilT"
+        },
+        {
+          "name": "BK Harinarayanan",
+          "url": "https://open.spotify.com/artist/38c3cZH0Mt9PGp599z2mHG"
+        },
+        {
+          "name": "Ali Quli Mirza",
+          "url": "https://open.spotify.com/artist/5tCVWAczftmj4Ca9p6RJmj"
+        },
+        {
+          "name": "Prakash Babu",
+          "url": "https://open.spotify.com/artist/7CQ3FV2wTFY7xvCdWti8c0"
+        },
+        {
+          "name": "Zia Ul Haq",
+          "url": "https://open.spotify.com/artist/3kPqgCCGlCGS9owID1l5n9"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168690,
+      "name": "Ghoom Ghoom - From \"Monster\"",
+      "url": "https://open.spotify.com/track/6MEVXbAKoPwH4nMXskKbGH"
+    },
+    {
+      "album": {
         "name": "Kohinoor",
         "url": "https://open.spotify.com/album/0c1uakRjUSIRVXhHHd5gB9"
       },
@@ -475,6 +513,40 @@
       "duration_ms": 241411,
       "name": "Jaathikkathottam",
       "url": "https://open.spotify.com/track/1ZZtStYMdU3QIvUjhfnsAU"
+    },
+    {
+      "album": {
+        "name": "Jaya Hey Theme Song (From \"Jaya Jaya Jaya Jaya Hey\")",
+        "url": "https://open.spotify.com/album/0wYFMjLFq4qNnzqtSiFKoL"
+      },
+      "artists": [
+        {
+          "name": "Ankit Menon",
+          "url": "https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV"
+        },
+        {
+          "name": "Sreya R",
+          "url": "https://open.spotify.com/artist/4VJcxEgCCC63YCfwM8cwGz"
+        },
+        {
+          "name": "Aditya Ajay",
+          "url": "https://open.spotify.com/artist/1WvGxvE9ea4pd0e3SkzfjT"
+        },
+        {
+          "name": "Sanjana J",
+          "url": "https://open.spotify.com/artist/11Qqr9VLX7xlyqtNJ75Eje"
+        },
+        {
+          "name": "Gowri",
+          "url": "https://open.spotify.com/artist/4ksCB8CK6miWPylwROvDiv"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132523,
+      "name": "Jaya Hey Theme Song (From \"Jaya Jaya Jaya Jaya Hey\")",
+      "url": "https://open.spotify.com/track/03rqcCuFVOpUR8TV7hj42N"
     },
     {
       "album": {
@@ -697,6 +769,32 @@
       "duration_ms": 334924,
       "name": "Kannilente (From \"Marakkar - Arabikadalinte Simham\")",
       "url": "https://open.spotify.com/track/7nh3AwCaZwynihlPhvAaqI"
+    },
+    {
+      "album": {
+        "name": "Kannilu Kannilu (From \"Ayisha\")",
+        "url": "https://open.spotify.com/album/1nztFaTYNoTL1wFUGfifIU"
+      },
+      "artists": [
+        {
+          "name": "Ahi Ajayan",
+          "url": "https://open.spotify.com/artist/3CPdmmOFd8yq1zXHn28UsH"
+        },
+        {
+          "name": "M. Jayachandran",
+          "url": "https://open.spotify.com/artist/67ra8R8hw9NkDyBaJBS2j6"
+        },
+        {
+          "name": "B.K. Harinarayanan",
+          "url": "https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232912,
+      "name": "Kannilu Kannilu (From \"Ayisha\")",
+      "url": "https://open.spotify.com/track/23mxqvgypgECg4KxnVqtNr"
     },
     {
       "album": {

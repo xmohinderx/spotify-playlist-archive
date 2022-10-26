@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4OyEPaWHBdk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4OyEPaWHBdk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4OyEPaWHBdk)
 
-### [2022 MAMA AWARDS Worldwide Fans' Choice](https://open.spotify.com/playlist/37i9dQZF1DX4OyEPaWHBdk)
+### [2022 MAMA AWARDS Worldwide Fans' Choice Category](https://open.spotify.com/playlist/37i9dQZF1DX4OyEPaWHBdk)
 
 > Stream and vote for your Worldwide Fans' Choice at the <a href="http://2022mama.com/vote/spotify/">2022 MAMA AWARDS</a>!
 

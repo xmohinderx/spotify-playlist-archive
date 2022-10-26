@@ -4,14 +4,14 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-103 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
+104 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [123](https://open.spotify.com/track/3sdLbza2Dux2AIp3BXjSZL) | [FERG](https://open.spotify.com/artist/4WUnl8sNbzqlJPZkX3Psnl) | [123](https://open.spotify.com/album/6goMNKPoqFMhx8TkWz2475) | 2:59 | 2021-10-15 | 2022-07-17 |
 | [1990 \- Edit](https://open.spotify.com/track/2tRnuEZU70qgyrmAEtzPx0) | [Lake Turner](https://open.spotify.com/artist/3Pg3shNdAUhMyxtVa3Gn0d) | [1990](https://open.spotify.com/album/6VajMzqk8hPSRupmSa4E7P) | 3:30 | 2021-10-15 | 2022-07-29 |
 | [365](https://open.spotify.com/track/6hj18wT1oKX0dmJuJOaXzS) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/6IaBX5I6MLRDB9a10HU9Y1) | 3:09 | 2021-10-15 | 2022-06-30 |
-| [Adderall](https://open.spotify.com/track/0pAGo08jBvebuxMUoqvulX) | [Asierhans](https://open.spotify.com/artist/4hN3QFUZ6g9QKTvy5TI0qU) | [Day One](https://open.spotify.com/album/2ltWCghk7udj6KAhKxJZnb) | 4:56 | 2021-10-15 | 2022-10-25 |
+| [Adderall](https://open.spotify.com/track/0pAGo08jBvebuxMUoqvulX) | [Asierhans](https://open.spotify.com/artist/4hN3QFUZ6g9QKTvy5TI0qU) | [Day One](https://open.spotify.com/album/2ltWCghk7udj6KAhKxJZnb) | 4:56 | 2021-10-15 |  |
 | [Adderall](https://open.spotify.com/track/3IGKKAcwW7rGGRy1PvxGou) | [Asierhans](https://open.spotify.com/artist/4hN3QFUZ6g9QKTvy5TI0qU) | [Day One](https://open.spotify.com/album/0idk2ck3PCZBI5lccb3FMg) | 4:56 | 2021-10-15 | 2022-07-29 |
 | [Adrift](https://open.spotify.com/track/5yB7BgBbemoIBpfDSWtcBc) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Aloe](https://open.spotify.com/album/5cFRYNZhC80kwt2LV6Jbph) | 3:23 | 2021-10-15 | 2022-07-26 |
 | [All Armed](https://open.spotify.com/track/0ah4k1jXcRFprzr9MhLrI2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Armed](https://open.spotify.com/album/6flex5uD7IKBXiNDNvUWwA) | 11:39 | 2021-10-15 | 2022-06-10 |
@@ -36,7 +36,8 @@
 | [Disrupt](https://open.spotify.com/track/3cZ15fnmPlpNbpa47bRQ7T) | [Delac](https://open.spotify.com/artist/2MkVSepMMfJrKDOivPEmKM) | [Disrupt](https://open.spotify.com/album/5imm72ZzslXs4ipR05vdmF) | 4:14 | 2021-10-15 |  |
 | [Don't Miss It](https://open.spotify.com/track/1p80XDFkNwDaA87sh2C2Xn) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 4:59 | 2021-10-15 |  |
 | [Don't You Forget About Me](https://open.spotify.com/track/1Dl0E86yorhNRMYZ20RIfY) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Don't You Forget About Me](https://open.spotify.com/album/6lHsSTzYm6I40BrkUq54n1) | 5:48 | 2021-10-15 | 2022-10-18 |
-| [Douro](https://open.spotify.com/track/0YWm63Fld60fXms4TQ8M37) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Douro](https://open.spotify.com/album/72kFOHZQiZwAGekChA3LMY) | 3:45 | 2021-10-15 |  |
+| [Don't You Forget About Me](https://open.spotify.com/track/7IidnemjastTResAXISAK7) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Don't You Forget About Me](https://open.spotify.com/album/3PbktfrtKjsK7WMvqMIqyI) | 5:48 | 2021-10-15 |  |
+| [Douro](https://open.spotify.com/track/0YWm63Fld60fXms4TQ8M37) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Douro](https://open.spotify.com/album/72kFOHZQiZwAGekChA3LMY) | 3:45 | 2021-10-15 | 2022-10-26 |
 | [Drown Me Slow](https://open.spotify.com/track/54KVbLZi755vI53RPEHI42) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Holy Trouble](https://open.spotify.com/album/4FRfrui9WYZE8wJpHbVzmt) | 4:31 | 2021-10-15 |  |
 | [Dune \- Single Version](https://open.spotify.com/track/4QQFYNshQlEkgQESyO3OCr) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dune](https://open.spotify.com/album/04NzBREuQBthxSpcoD6EbE) | 11:08 | 2021-10-15 |  |
 | [Eff Five](https://open.spotify.com/track/4M6norXzPA6tFElC65U9WD) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Paspatou Remixed](https://open.spotify.com/album/6hHm6NZAMh2B5mK6mYQQPj) | 4:51 | 2021-10-15 | 2022-07-29 |
@@ -62,7 +63,7 @@
 | [Liquid](https://open.spotify.com/track/5PB690PLg0KTUTTqFExQkb) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Foundations](https://open.spotify.com/album/72fLE2pqPY9MPpA9FS2E39) | 5:37 | 2021-10-15 | 2022-07-29 |
 | [Love Is Alive](https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8) | [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b), [DJ Celeste Lear](https://open.spotify.com/artist/6Z8VsD3APPWszUaJi65y9d) | [Love Is Alive](https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt) | 3:42 | 2021-10-15 |  |
 | [Low \- Babeheaven Remix](https://open.spotify.com/track/75jNxKPVjq08hKLkskLzXS) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD), [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Low \(Babeheaven Remix\)](https://open.spotify.com/album/6YHnk5GdCARNyCk6c3hgnG) | 4:07 | 2021-10-15 |  |
-| [Magic\-\-Pearl](https://open.spotify.com/track/4hiNXRP0MUIl6wdEMAnazO) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 3:20 | 2021-10-15 |  |
+| [Magic\-\-Pearl](https://open.spotify.com/track/4hiNXRP0MUIl6wdEMAnazO) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 3:20 | 2021-10-15 | 2022-10-26 |
 | [Medals](https://open.spotify.com/track/2tKTx3sBuajVrzgPYCsJzC) | [Kinnship](https://open.spotify.com/artist/58fzPwxNFw1Ae500uB038l) | [Community](https://open.spotify.com/album/32iiO1YRbttPWvfqPBE6ck) | 3:55 | 2021-10-15 | 2022-07-29 |
 | [Medals](https://open.spotify.com/track/6GjXUXS1DMRypQlH86KwNm) | [Kinnship](https://open.spotify.com/artist/58fzPwxNFw1Ae500uB038l) | [Community](https://open.spotify.com/album/47xz7K8AaCupssrelYFmeM) | 3:55 | 2021-10-15 |  |
 | [Meo \- Jacques Greene Remix](https://open.spotify.com/track/4xoQ8jM9JvjWNNC6bk3VZC) | [KAZU](https://open.spotify.com/artist/0prgQn2c68gb0HZvimE9bo), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Meo \(Jacques Greene Remix\)](https://open.spotify.com/album/6HnMefLqol3KtS77rUU1oK) | 5:03 | 2021-10-15 | 2022-07-28 |

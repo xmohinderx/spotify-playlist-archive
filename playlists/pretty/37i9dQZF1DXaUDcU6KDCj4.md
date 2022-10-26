@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Adam Melchor
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,226 likes - 160 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,440 likes - 160 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 12 | [How \(feat\. Brandi Carlile\)](https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:44 |
 | 13 | [Take Back](https://open.spotify.com/track/6mkuQSWIwrS0y9ozfNIEhB) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [How Did It Seem To You?](https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA) | 4:09 |
 | 14 | [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 |
-| 15 | [Hurricane](https://open.spotify.com/track/5K9CN4zd8jPy5QyuNiv08s) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hurricane](https://open.spotify.com/album/651WqryyYBaP5DloPK8lHv) | 3:34 |
+| 15 | [Hurricane](https://open.spotify.com/track/2XVHVNrfeITZa9Dj9t9gc3) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:34 |
 | 16 | [The Light](https://open.spotify.com/track/5aAq4OmSaLDRHpZCdvS4tR) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Noon](https://open.spotify.com/album/2P4jIJqRUd6tNEVwWNeUUD) | 3:23 |
 | 17 | [Laughing River](https://open.spotify.com/track/6pY3dbBEadPGILW40U9KqC) | [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [Laughing River](https://open.spotify.com/album/1LnQJBFkhJGgr6mfTwDET8) | 5:33 |
 | 18 | [Wishful Dreaming](https://open.spotify.com/track/7LonIR6hajKd0bswW6Kal2) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Wishful Dreaming](https://open.spotify.com/album/12zfIBCLxW5rUV38KzLe8x) | 3:25 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 159 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |
 | 160 | [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDRkYTcxZjIwYjljNzliNmIzYjg4ZTYxMWEzNWM3NjIw`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDQ3N2JjMGQwYWIzMGNhOTgzNmM0OGRkMTljMjkwYTNm`

@@ -4,7 +4,7 @@
 
 > Powerful female voices, like you've never heard before\.  Cover: Brittany Howard, Phoebe Bridgers and Ingrid Andress.
 
-262 songs - 15 hr 53 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
+263 songs - 15 hr 56 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Emotions And Math \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4m3zntmU633OFa0tZMtNrH) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Spotify Singles](https://open.spotify.com/album/3JbrnUMiO5gRtb5jOxEk8r) | 3:14 | 2021-09-14 | 2022-07-25 |
 | [Emotions and Math \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7mLmGk3buGcAI5ydTaGAAJ) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Spotify Singles](https://open.spotify.com/album/3doicqb6so4jenspHCcEUk) | 3:14 | 2022-03-08 | 2022-10-16 |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2021-09-14 |  |
-| [everything i wanted \- Recorded live at Abbey Road Studios, London](https://open.spotify.com/track/7AAMDhzVpaQi6kqjPXSkXi) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Spotify Singles](https://open.spotify.com/album/156cHVsJv86Wi7e9IHIKRx) | 4:29 | 2021-09-14 |  |
+| [everything i wanted \- Recorded live at Abbey Road Studios, London](https://open.spotify.com/track/7AAMDhzVpaQi6kqjPXSkXi) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Spotify Singles](https://open.spotify.com/album/156cHVsJv86Wi7e9IHIKRx) | 4:29 | 2021-09-14 | 2022-10-26 |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 | 2022-03-08 | 2022-10-13 |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 | 2022-03-08 |  |
 | [Everywhere I'm Goin' \(featuring Avenue Beat\)](https://open.spotify.com/track/1WIRocIFUaEkYeE7P2ioxD) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 3:27 | 2021-09-14 |  |
@@ -95,6 +95,7 @@
 | [Here You Come Again \- Recorded at HOB Studios, Toronto](https://open.spotify.com/track/5fpymVNyujJ2UohIX5ujxw) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Spotify Singles](https://open.spotify.com/album/4zT3trMgbFpd8Bgc0rBxEa) | 3:09 | 2021-09-14 | 2022-07-29 |
 | [High Tide or Low Tide \- Live from Spotify Studios NYC](https://open.spotify.com/track/2WAgH8swV4cTXaSPeo1k7w) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Spotify Singles](https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA) | 4:16 | 2021-09-14 |  |
 | [Higher \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6wZkI07C2wRQE2W3LkW9Uk) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Spotify Singles](https://open.spotify.com/album/2ospU0wa9ux7r054JMFbEL) | 3:38 | 2021-09-14 | 2022-10-13 |
+| [Higher \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7JDqyb4SkgzrSCeBtYS3L8) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Spotify Singles](https://open.spotify.com/album/13scWMWL4kcdSX4yFLF0x5) | 3:38 | 2022-03-08 |  |
 | [Hills \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2mbwAG0wfGJBQR4AH1Ylgt) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/14vae1IgYxB3hpcDuDRgoV) | 2:51 | 2021-09-14 | 2022-10-13 |
 | [Hills \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7IwBFpU8nV0pPs4iIR5dmr) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/0uW1J7ogGpaRIFLXUQVkMa) | 2:51 | 2022-03-08 |  |
 | [Hold Me Like You Used To \- Spotify Singles](https://open.spotify.com/track/5HZtgJapw0QgPUZzy6ql12) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Spotify Singles](https://open.spotify.com/album/568wiTPWt5kE0Zk3joRigo) | 3:09 | 2021-09-14 |  |

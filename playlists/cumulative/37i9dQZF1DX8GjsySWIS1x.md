@@ -4,7 +4,7 @@
 
 > The latest in gamer music.
 
-755 songs - 1 day 18 hr 1 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
+756 songs - 1 day 18 hr 3 min - [published](https://open.spotify.com/playlist/2JpGV57sJHq5GKNwF0vuUD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,7 @@
 | [Move with You](https://open.spotify.com/track/4VbvGwV24TbFIULF176HXF) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Move With You](https://open.spotify.com/album/7iS8UdbCE1VJSYqUBs5y5d) | 3:09 | 2021-03-17 | 2021-03-19 |
 | [Movie](https://open.spotify.com/track/3F0Ww6leujzBcLl59FmXU6) | [YUNG CORY](https://open.spotify.com/artist/5bnjKLiUvAgLcp6O8FoPmQ) | [The Cory Story, Pt\. 3](https://open.spotify.com/album/6vvyMAGJEBohvKGTu8gprD) | 3:09 | 2021-03-27 | 2021-03-27 |
 | [Moving as One](https://open.spotify.com/track/13ZGf65qmFqTwWNjppn3f6) | [LOYAL](https://open.spotify.com/artist/2PYzfdTjMDkpIxlOEm3oK2) | [Moving as One](https://open.spotify.com/album/5ZvgvNcTxd0veDf4RXLAjK) | 5:26 | 2021-05-24 | 2021-10-22 |
-| [MVP](https://open.spotify.com/track/2ayvMaVf5RAXnNQwHvArB7) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [MVP](https://open.spotify.com/album/36zw4Ir1YqmiCUlhYpJuRx) | 2:26 | 2022-05-27 |  |
+| [MVP](https://open.spotify.com/track/2ayvMaVf5RAXnNQwHvArB7) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [MVP](https://open.spotify.com/album/36zw4Ir1YqmiCUlhYpJuRx) | 2:26 | 2022-05-27 | 2022-10-26 |
 | [My Block](https://open.spotify.com/track/0krpkihAL2snbkqgeMxOuU) | [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [My Block](https://open.spotify.com/album/1BQJXhBs3qYZVT52BteHmn) | 3:40 | 2021-03-29 | 2021-09-30 |
 | [My Eyes](https://open.spotify.com/track/0YTalNw3Zxs5hgHSZYd41o) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0), [joegarratt](https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf) | [My Eyes](https://open.spotify.com/album/7juUxJcXQh6DCQrbs0YAOL) | 3:20 | 2021-03-14 | 2022-02-24 |
 | [My Love](https://open.spotify.com/track/2wC0DtZxjluHSEA2B6LfGt) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Rocket League x Monstercat Vol\. 2](https://open.spotify.com/album/7ignramjANJpFbUZuXHHso) | 3:48 | 2021-03-14 | 2021-10-16 |
@@ -742,6 +742,7 @@
 | [Where Do I Begin](https://open.spotify.com/track/50I4xwBtoGcEqfJalklHDu) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Cashmere Tears](https://open.spotify.com/album/5y5Je353ZsPKl9fuO10ZpA) | 1:59 | 2021-05-22 | 2021-05-26 |
 | [Who Asked You](https://open.spotify.com/track/0TbJY1cAQi1qVrVgsdKbRz) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [Who Asked You](https://open.spotify.com/album/7mr91t5dcGlrRWXJtqr7QM) | 3:42 | 2021-05-24 | 2021-12-11 |
 | [Why Did You Run?](https://open.spotify.com/track/3IMh0b6bFDuFNB7F0E0A9h) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Why Did You Run?](https://open.spotify.com/album/4sQoMHf0N0lmmpKwHFUrmj) | 3:53 | 2021-05-23 | 2022-02-08 |
+| [Why Do I \(with Hatsune Miku\) \- Hatsune Miku Version](https://open.spotify.com/track/5FH2ZZZDxuaDV4IoVlmjzX) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Why Do I \[Hatsune Miku Version\]](https://open.spotify.com/album/2HT2HYRf4LC7CZ4OcBHunz) | 2:34 | 2022-10-25 |  |
 | [Why Do We Fall?](https://open.spotify.com/track/4EU1lmKrbsLn1omCE31oA5) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Dark Knight Rises \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0q3KEEwGPGPPnXJNQ32Wyz) | 2:02 | 2019-09-29\* | 2021-03-11 |
 | [Wild Heart](https://open.spotify.com/track/0uHmmiqR9To6YPraSrxSM7) | [Saint Raymond](https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8) | [Fall At Your Feet](https://open.spotify.com/album/5aRilpwBMPE6csDLElKHH7) | 4:23 | 2021-03-16 | 2021-03-21 |
 | [Wild West](https://open.spotify.com/track/3UqQUExRt3YlS4PNo5Thtq) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Wild West](https://open.spotify.com/album/3rOY8x33we7f3fUaFXmJig) | 2:44 | 2021-05-24 | 2021-12-11 |

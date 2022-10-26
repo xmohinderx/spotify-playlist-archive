@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-106 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/24imJLVW9FZTNmf0BSg9VS)
+107 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/24imJLVW9FZTNmf0BSg9VS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Weeping \(with Ladysmith Black Mambazo & Vusi Mahlasela\)](https://open.spotify.com/track/1nTIMFZ6rD8BRe2HvXZrph) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Vusi Mahlasela](https://open.spotify.com/artist/7tUdxVCUWjTPf3Ic90eWDJ) | [Awake](https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC) | 4:44 | 2021-12-30 |  |
 | [Wimoweh \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/2ZHwMnAiXZ6YvnLtPMQE4e) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:19 | 2022-01-03 | 2022-10-13 |
 | [Wimoweh Mbube](https://open.spotify.com/track/4XsfDYpZamAzxUkYVynCav) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/5i0jyzlxb4i9fPXYNE2qkD) | 3:01 | 2021-12-28 | 2022-10-02 |
-| [World in Union](https://open.spotify.com/track/5wJDPbRPw9IR8bEDl6717a) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [PJ Powers](https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No) | [The Star and the Wiseman](https://open.spotify.com/album/2D1Ph5BioeCgToYvGS6fbO) | 3:49 | 2022-10-05 |  |
+| [World in Union](https://open.spotify.com/track/5wJDPbRPw9IR8bEDl6717a) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [PJ Powers](https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No) | [The Star and the Wiseman](https://open.spotify.com/album/2D1Ph5BioeCgToYvGS6fbO) | 3:49 | 2022-10-05 | 2022-10-26 |
+| [World in Union](https://open.spotify.com/track/790XDH73LTNcrorlJtVF8L) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [PJ Powers](https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No) | [The Star and the Wiseman](https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng) | 3:49 | 2022-10-25 |  |
 | [World in Union \(Feat\. P.J\. Powers\)](https://open.spotify.com/track/3oAgsBnNGfbSBvxfYwmIWP) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [PJ Powers](https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No) | [The Star and the Wiseman](https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11) | 3:49 | 2021-12-28 | 2022-10-06 |
 | [Yesterday \(feat\. Bebe Rexha\) vs\. Lift Me Up \(feat\. Nico & Vinz, Ladysmith Black Mambazo\) \- Listenin' Continuous Mix](https://open.spotify.com/track/1L2DLOdfG1jHh7XYewDptW) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Listen Again](https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU) | 2:44 | 2021-12-28 |  |
 

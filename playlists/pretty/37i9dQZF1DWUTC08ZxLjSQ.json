@@ -1,83 +1,31 @@
 {
   "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Zamzam, Artwork: Isu Kim",
-  "num_followers": 1057,
+  "num_followers": 1061,
   "original_name": "Fresh Finds Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjE2ODMxMywwMDAwMDAwMDIwZDM5MDI4MTBjZWU4NGU0ODVkYmIzOTE0YjNjZTli",
+  "snapshot_id": "MTY2NjczMTYwMCwwMDAwMDAwMDJlNDY4MWNiZTI3ZWRjNzZkYmFkMTVkOGNjNmE5Mzk0",
   "tracks": [
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
-        "name": "Not Sure",
-        "url": "https://open.spotify.com/album/3zQnmCch1nC6WElnzHNPpp"
+        "name": "Khayal",
+        "url": "https://open.spotify.com/album/1oQtEMocdtaP1GBH7eVZbO"
       },
       "artists": [
         {
-          "name": "Zamzam",
-          "url": "https://open.spotify.com/artist/40t0g2yYoi3XGYAIibe3UZ"
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
         }
       ],
-      "duration_ms": 192687,
-      "name": "Not Sure",
-      "url": "https://open.spotify.com/track/1nEu8odxpQOSoGhI3xOlbs"
+      "duration_ms": 313375,
+      "name": "Khayal",
+      "url": "https://open.spotify.com/track/60LnIv9hAQulxVCSbPFQ6b"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "Strange Goodbyes",
-        "url": "https://open.spotify.com/album/7LgTA1VhcRQ0xP6jvM5bAq"
-      },
-      "artists": [
-        {
-          "name": "Anou",
-          "url": "https://open.spotify.com/artist/0aQne1tbiKJM4qGKWW8Ykc"
-        }
-      ],
-      "duration_ms": 272575,
-      "name": "Strange Goodbyes",
-      "url": "https://open.spotify.com/track/6KwdMYj4nfbixzgSVM0uFB"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "Summer Falls",
-        "url": "https://open.spotify.com/album/6lwBaJtr0PeYJNuSNoBAn0"
-      },
-      "artists": [
-        {
-          "name": "TheKiddEast",
-          "url": "https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG"
-        }
-      ],
-      "duration_ms": 168562,
-      "name": "Summer Falls",
-      "url": "https://open.spotify.com/track/3t7Y0G3ouDolA344PslWTh"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "Lost Garden",
-        "url": "https://open.spotify.com/album/0i4vvfosTiRqEpaiBrSMq1"
-      },
-      "artists": [
-        {
-          "name": "LOSTBOY",
-          "url": "https://open.spotify.com/artist/26USkQ8B5oOMnis7a29yNV"
-        },
-        {
-          "name": "Offkaktus",
-          "url": "https://open.spotify.com/artist/27sdwOFwx0GPw3sdTuEpqh"
-        }
-      ],
-      "duration_ms": 204545,
-      "name": "i love you",
-      "url": "https://open.spotify.com/track/1QLQFaLF0zpqwg4wRfjBkq"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Sparsed Stars",
         "url": "https://open.spotify.com/album/6Uph9BQBTY0Cgdq4c2HuMU"
@@ -97,7 +45,7 @@
       "url": "https://open.spotify.com/track/7d0jZWy6GBohytx96WgQB6"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Breaze",
         "url": "https://open.spotify.com/album/3xDxCUg4lEY0bmk84YmGKe"
@@ -113,7 +61,7 @@
       "url": "https://open.spotify.com/track/6RJB9x8Dc1u22AbEMr2rH6"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Purity",
         "url": "https://open.spotify.com/album/2tHTsIjHACxiXGtN7Hi2aC"
@@ -129,43 +77,71 @@
       "url": "https://open.spotify.com/track/5DR6vuwwCEBg9kAgJB2zG8"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
-        "name": "Yabki Wa Yadhak",
-        "url": "https://open.spotify.com/album/7uM3myz2mW7peXJQB8r8PA"
+        "name": "Grounding Place",
+        "url": "https://open.spotify.com/album/0mHtsfh7zOubxpNTDVzXKP"
       },
       "artists": [
         {
-          "name": "SHAH (EG)",
-          "url": "https://open.spotify.com/artist/7MUIbP7XLg9nsftAV4Eclq"
-        },
-        {
-          "name": "Obada",
-          "url": "https://open.spotify.com/artist/6NeBmluEiGgPZdmGzqpSPq"
+          "name": "Nora Toutain",
+          "url": "https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A"
         }
       ],
-      "duration_ms": 406000,
-      "name": "Yabki Wa Yadhak",
-      "url": "https://open.spotify.com/track/6eQpjNP77wurPhX40EO8rV"
+      "duration_ms": 226909,
+      "name": "Grounding Place",
+      "url": "https://open.spotify.com/track/5k42ev7lFesuG1UAlrKT3l"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/20UY9yYwSUAt15SqbXeoAv"
+        "name": "Bafaker Kteer",
+        "url": "https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi"
       },
       "artists": [
         {
-          "name": "Adam Nabeel",
-          "url": "https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC"
+          "name": "Reina Khoury",
+          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
         }
       ],
-      "duration_ms": 151875,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/1yNlHjQG9oCwkRzMjlrXQ8"
+      "duration_ms": 200337,
+      "name": "Bafaker Kteer",
+      "url": "https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
+      "album": {
+        "name": "Not Sure",
+        "url": "https://open.spotify.com/album/3zQnmCch1nC6WElnzHNPpp"
+      },
+      "artists": [
+        {
+          "name": "Zamzam",
+          "url": "https://open.spotify.com/artist/40t0g2yYoi3XGYAIibe3UZ"
+        }
+      ],
+      "duration_ms": 192687,
+      "name": "Not Sure",
+      "url": "https://open.spotify.com/track/1nEu8odxpQOSoGhI3xOlbs"
+    },
+    {
+      "added_at": "2022-10-25 21:00:00",
+      "album": {
+        "name": "Taqa",
+        "url": "https://open.spotify.com/album/4uKTZ5zdxhhkIQTIjrQr6x"
+      },
+      "artists": [
+        {
+          "name": "Swani",
+          "url": "https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Taqa",
+      "url": "https://open.spotify.com/track/6m6vWsgO06r0MvxIbs1rhN"
+    },
+    {
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Cabana",
         "url": "https://open.spotify.com/album/5RbpvPnE2WOPoxX065eXYl"
@@ -189,7 +165,7 @@
       "url": "https://open.spotify.com/track/5KpdhAgDR2JCY8xu11RLTg"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "M\u00e9diterran\u00e9e",
         "url": "https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt"
@@ -205,7 +181,7 @@
       "url": "https://open.spotify.com/track/2NRaSmTlbNmwYYDsDMlgYR"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Think Twice",
         "url": "https://open.spotify.com/album/2zHKIVOACJGhAflSCqU1UD"
@@ -225,7 +201,7 @@
       "url": "https://open.spotify.com/track/1uj9pZGxrh39WcgPdsx7DU"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Lili Twil",
         "url": "https://open.spotify.com/album/3ck71v60wN64HTn3FDBHO4"
@@ -241,7 +217,7 @@
       "url": "https://open.spotify.com/track/19ppkSHBDgKow8UxPPds3h"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "\u0645\u062d\u064a \u0627\u0644\u062f\u064a\u0646 \u0645\u0635\u062f\u0642",
         "url": "https://open.spotify.com/album/753aDZAO4IINS5sZRFtChk"
@@ -257,7 +233,7 @@
       "url": "https://open.spotify.com/track/4QoMYFOzWgOgOIz5KhYAe8"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O"
@@ -273,7 +249,7 @@
       "url": "https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "MESAMA3EEN",
         "url": "https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo"
@@ -289,223 +265,59 @@
       "url": "https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
-        "name": "Bafaker Kteer",
-        "url": "https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi"
+        "name": "Strange Goodbyes",
+        "url": "https://open.spotify.com/album/7LgTA1VhcRQ0xP6jvM5bAq"
       },
       "artists": [
         {
-          "name": "Reina Khoury",
-          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
+          "name": "Anou",
+          "url": "https://open.spotify.com/artist/0aQne1tbiKJM4qGKWW8Ykc"
         }
       ],
-      "duration_ms": 200337,
-      "name": "Bafaker Kteer",
-      "url": "https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD"
+      "duration_ms": 272575,
+      "name": "Strange Goodbyes",
+      "url": "https://open.spotify.com/track/6KwdMYj4nfbixzgSVM0uFB"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
-        "name": "Nobody Pass You",
-        "url": "https://open.spotify.com/album/1jat5mK7rOJvKwnlbWH7M3"
+        "name": "Summer Falls",
+        "url": "https://open.spotify.com/album/6lwBaJtr0PeYJNuSNoBAn0"
       },
       "artists": [
         {
-          "name": "Leil",
-          "url": "https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3"
+          "name": "TheKiddEast",
+          "url": "https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG"
+        }
+      ],
+      "duration_ms": 168562,
+      "name": "Summer Falls",
+      "url": "https://open.spotify.com/track/3t7Y0G3ouDolA344PslWTh"
+    },
+    {
+      "added_at": "2022-10-25 21:00:00",
+      "album": {
+        "name": "Lost Garden",
+        "url": "https://open.spotify.com/album/0i4vvfosTiRqEpaiBrSMq1"
+      },
+      "artists": [
+        {
+          "name": "LOSTBOY",
+          "url": "https://open.spotify.com/artist/26USkQ8B5oOMnis7a29yNV"
         },
         {
-          "name": "Weyinmi",
-          "url": "https://open.spotify.com/artist/0xf5q9m5lHOBdPh13Kp16c"
+          "name": "Offkaktus",
+          "url": "https://open.spotify.com/artist/27sdwOFwx0GPw3sdTuEpqh"
         }
       ],
-      "duration_ms": 159601,
-      "name": "Nobody Pass You",
-      "url": "https://open.spotify.com/track/1RsJEjWqWK5DfxvxiPIrza"
+      "duration_ms": 204545,
+      "name": "i love you",
+      "url": "https://open.spotify.com/track/1QLQFaLF0zpqwg4wRfjBkq"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "Back to you",
-        "url": "https://open.spotify.com/album/7umWTAON78uAbqlZlVLuFO"
-      },
-      "artists": [
-        {
-          "name": "THE SVNH",
-          "url": "https://open.spotify.com/artist/5uPlfGiZu46QlnaDYkcbAm"
-        }
-      ],
-      "duration_ms": 185437,
-      "name": "Back to you",
-      "url": "https://open.spotify.com/track/334zuvClv7JYENjupg71GT"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "A 249 Experience Vol.2",
-        "url": "https://open.spotify.com/album/5VCBKCYOGdb6DeghFDwehF"
-      },
-      "artists": [
-        {
-          "name": "Rama",
-          "url": "https://open.spotify.com/artist/38XCa5T2vison2QekvDvWN"
-        }
-      ],
-      "duration_ms": 130179,
-      "name": "Is She",
-      "url": "https://open.spotify.com/track/6WNPUcjJTBF43YjS6A0EYg"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK"
-      },
-      "artists": [
-        {
-          "name": "Malket",
-          "url": "https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK"
-        },
-        {
-          "name": "MMT",
-          "url": "https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4"
-        }
-      ],
-      "duration_ms": 232274,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "The Woods",
-        "url": "https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK"
-      },
-      "artists": [
-        {
-          "name": "Nadine El Roubi",
-          "url": "https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "The Woods",
-      "url": "https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "Higher (Breathe Easy)",
-        "url": "https://open.spotify.com/album/7b5DtLjl7shhLIkkq3Q1UN"
-      },
-      "artists": [
-        {
-          "name": "ABRI",
-          "url": "https://open.spotify.com/artist/0HaOYwL5NsXcaTGebbW06I"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Higher (Breathe Easy)",
-      "url": "https://open.spotify.com/track/3yilsAnbDMSTMRA5AR1Eg3"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "start again",
-        "url": "https://open.spotify.com/album/7b2pfkpByTUXX0rGbKICpl"
-      },
-      "artists": [
-        {
-          "name": "Maro",
-          "url": "https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh"
-        }
-      ],
-      "duration_ms": 153161,
-      "name": "start again",
-      "url": "https://open.spotify.com/track/33XOL8guHAws71hVhQLYiC"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/4Tk57fBzUK6VOLXExtFWFe"
-      },
-      "artists": [
-        {
-          "name": "Sandra Sahi",
-          "url": "https://open.spotify.com/artist/6vsINxrcRKcYHdOvruIgfy"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/4hwAXMumToo9gB29mY65TV"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/3qUeC7YPgYsC38OjSkZ7vK"
-      },
-      "artists": [
-        {
-          "name": "Nora Toutain",
-          "url": "https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A"
-        }
-      ],
-      "duration_ms": 397049,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/675Tylxj87tk6TGGubnmT4"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "Balaleen",
-        "url": "https://open.spotify.com/album/7MmRjxq4Nca5nBqSDMqNwS"
-      },
-      "artists": [
-        {
-          "name": "Zatara",
-          "url": "https://open.spotify.com/artist/5WOif35LUAZ7VfSmpELcQF"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "Balaleen",
-      "url": "https://open.spotify.com/track/081geJirqbAxZUJE0u7ca7"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "Ouda",
-        "url": "https://open.spotify.com/album/0uelvlu1wNTweumpauIrPJ"
-      },
-      "artists": [
-        {
-          "name": "Tayar - \u062a\u064a\u0651\u0627\u0631",
-          "url": "https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM"
-        }
-      ],
-      "duration_ms": 308526,
-      "name": "Ouda",
-      "url": "https://open.spotify.com/track/6Q6AWOfZQbKLGrEqJj0HTZ"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "Mister Mister",
-        "url": "https://open.spotify.com/album/32hgw2xnCA8AHcXQLVrgm0"
-      },
-      "artists": [
-        {
-          "name": "Xriss",
-          "url": "https://open.spotify.com/artist/3vxW6vSOonNDvW91Fo2Z8f"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Mister Mister",
-      "url": "https://open.spotify.com/track/6xNpNuWJfdDtcFCzjJfruu"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Slow Dance",
         "url": "https://open.spotify.com/album/7nkTyKTdrfVkp7xt8NZF3u"
@@ -525,7 +337,191 @@
       "url": "https://open.spotify.com/track/1nD3OTwIppymPUbNkmv1sK"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
+      "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/20UY9yYwSUAt15SqbXeoAv"
+      },
+      "artists": [
+        {
+          "name": "Adam Nabeel",
+          "url": "https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/1yNlHjQG9oCwkRzMjlrXQ8"
+    },
+    {
+      "added_at": "2022-10-25 21:00:00",
+      "album": {
+        "name": "Nobody Pass You",
+        "url": "https://open.spotify.com/album/1jat5mK7rOJvKwnlbWH7M3"
+      },
+      "artists": [
+        {
+          "name": "Leil",
+          "url": "https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3"
+        },
+        {
+          "name": "Weyinmi",
+          "url": "https://open.spotify.com/artist/0xf5q9m5lHOBdPh13Kp16c"
+        }
+      ],
+      "duration_ms": 159601,
+      "name": "Nobody Pass You",
+      "url": "https://open.spotify.com/track/1RsJEjWqWK5DfxvxiPIrza"
+    },
+    {
+      "added_at": "2022-10-25 21:00:00",
+      "album": {
+        "name": "Back to you",
+        "url": "https://open.spotify.com/album/7umWTAON78uAbqlZlVLuFO"
+      },
+      "artists": [
+        {
+          "name": "THE SVNH",
+          "url": "https://open.spotify.com/artist/5uPlfGiZu46QlnaDYkcbAm"
+        }
+      ],
+      "duration_ms": 185437,
+      "name": "Back to you",
+      "url": "https://open.spotify.com/track/334zuvClv7JYENjupg71GT"
+    },
+    {
+      "added_at": "2022-10-25 21:00:00",
+      "album": {
+        "name": "A 249 Experience Vol.2",
+        "url": "https://open.spotify.com/album/5VCBKCYOGdb6DeghFDwehF"
+      },
+      "artists": [
+        {
+          "name": "Rama",
+          "url": "https://open.spotify.com/artist/38XCa5T2vison2QekvDvWN"
+        }
+      ],
+      "duration_ms": 130179,
+      "name": "Is She",
+      "url": "https://open.spotify.com/track/6WNPUcjJTBF43YjS6A0EYg"
+    },
+    {
+      "added_at": "2022-10-25 21:00:00",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK"
+      },
+      "artists": [
+        {
+          "name": "Malket",
+          "url": "https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK"
+        },
+        {
+          "name": "MMT",
+          "url": "https://open.spotify.com/artist/03KOcUfBqKsh9spQfwyoF4"
+        }
+      ],
+      "duration_ms": 232274,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh"
+    },
+    {
+      "added_at": "2022-10-25 21:00:00",
+      "album": {
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK"
+      },
+      "artists": [
+        {
+          "name": "Nadine El Roubi",
+          "url": "https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "The Woods",
+      "url": "https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT"
+    },
+    {
+      "added_at": "2022-10-25 21:00:00",
+      "album": {
+        "name": "Higher (Breathe Easy)",
+        "url": "https://open.spotify.com/album/7b5DtLjl7shhLIkkq3Q1UN"
+      },
+      "artists": [
+        {
+          "name": "ABRI",
+          "url": "https://open.spotify.com/artist/0HaOYwL5NsXcaTGebbW06I"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Higher (Breathe Easy)",
+      "url": "https://open.spotify.com/track/3yilsAnbDMSTMRA5AR1Eg3"
+    },
+    {
+      "added_at": "2022-10-25 21:00:00",
+      "album": {
+        "name": "start again",
+        "url": "https://open.spotify.com/album/7b2pfkpByTUXX0rGbKICpl"
+      },
+      "artists": [
+        {
+          "name": "Maro",
+          "url": "https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh"
+        }
+      ],
+      "duration_ms": 153161,
+      "name": "start again",
+      "url": "https://open.spotify.com/track/33XOL8guHAws71hVhQLYiC"
+    },
+    {
+      "added_at": "2022-10-25 21:00:00",
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/4Tk57fBzUK6VOLXExtFWFe"
+      },
+      "artists": [
+        {
+          "name": "Sandra Sahi",
+          "url": "https://open.spotify.com/artist/6vsINxrcRKcYHdOvruIgfy"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/4hwAXMumToo9gB29mY65TV"
+    },
+    {
+      "added_at": "2022-10-25 21:00:00",
+      "album": {
+        "name": "Balaleen",
+        "url": "https://open.spotify.com/album/7MmRjxq4Nca5nBqSDMqNwS"
+      },
+      "artists": [
+        {
+          "name": "Zatara",
+          "url": "https://open.spotify.com/artist/5WOif35LUAZ7VfSmpELcQF"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "Balaleen",
+      "url": "https://open.spotify.com/track/081geJirqbAxZUJE0u7ca7"
+    },
+    {
+      "added_at": "2022-10-25 21:00:00",
+      "album": {
+        "name": "Ouda",
+        "url": "https://open.spotify.com/album/0uelvlu1wNTweumpauIrPJ"
+      },
+      "artists": [
+        {
+          "name": "Tayar - \u062a\u064a\u0651\u0627\u0631",
+          "url": "https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM"
+        }
+      ],
+      "duration_ms": 308526,
+      "name": "Ouda",
+      "url": "https://open.spotify.com/track/6Q6AWOfZQbKLGrEqJj0HTZ"
+    },
+    {
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Bin Nass",
         "url": "https://open.spotify.com/album/3kvL2ysRWdUI73adglwS6P"
@@ -545,7 +541,7 @@
       "url": "https://open.spotify.com/track/60WuyNSGd6SxDYoPviKHj0"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/0QRPtbmSN78AztDmyK10Ij"
@@ -561,7 +557,7 @@
       "url": "https://open.spotify.com/track/2bvF4YCECIcSSplYinvLfD"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Caravan Flow",
         "url": "https://open.spotify.com/album/39S4YTM2k91hwLIBVhIeSI"
@@ -577,7 +573,7 @@
       "url": "https://open.spotify.com/track/30Rtf40QgpCP1NAQTpmOJX"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "CAI",
         "url": "https://open.spotify.com/album/0L2EvkTjujikOMssqPXYLJ"
@@ -593,7 +589,7 @@
       "url": "https://open.spotify.com/track/14wdMY6YXpn5YrdpYj4OKC"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Moya wa Zait",
         "url": "https://open.spotify.com/album/6TlqV4YPrrt1X5qHUmZGxA"
@@ -613,7 +609,7 @@
       "url": "https://open.spotify.com/track/4ZUU8c89Ut56X7ljfqqEHc"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "\u0639\u0645\u0644 \u0641\u0646\u064a",
         "url": "https://open.spotify.com/album/3AsxD44bLyQxefLvLj3cy0"
@@ -633,7 +629,7 @@
       "url": "https://open.spotify.com/track/19pRKlcApnYlaRmffunH6j"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "3al Zamer",
         "url": "https://open.spotify.com/album/3RtcEf9VR0A2HYOdMSAa5g"
@@ -653,7 +649,7 @@
       "url": "https://open.spotify.com/track/4HcVDgbzBtzrvzDFaui3Op"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Serdab",
         "url": "https://open.spotify.com/album/1dSrSAjrpgcH1EkE0PY8LZ"
@@ -673,7 +669,7 @@
       "url": "https://open.spotify.com/track/63gRTsaJBdsmGeC6Lijs0Z"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/1VOPosTnkaFRJLTpfNh9MF"
@@ -693,7 +689,7 @@
       "url": "https://open.spotify.com/track/25xfmkU1otdXjgVfVwQR8i"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "On Sight",
         "url": "https://open.spotify.com/album/4LxPwuFcp3IOfBnYWKj368"
@@ -709,7 +705,7 @@
       "url": "https://open.spotify.com/track/0S5zLiOfQJPCr7RVj6HFRq"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Hammouda",
         "url": "https://open.spotify.com/album/2n66xZ8ZBgZryfMv8GwBMH"
@@ -729,7 +725,7 @@
       "url": "https://open.spotify.com/track/2IgzQGOfEExzrkQclnt3JQ"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "MAYBE",
         "url": "https://open.spotify.com/album/6Pxc7DoXnVBuHvFBcBODPJ"
@@ -749,7 +745,7 @@
       "url": "https://open.spotify.com/track/3CvYWahCnpUZENXen3KuRm"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Afkar Galbi",
         "url": "https://open.spotify.com/album/75PZWlpBqgRcZa1LHCSmvk"
@@ -765,7 +761,7 @@
       "url": "https://open.spotify.com/track/17oyrFSekVUCCx4YoFhsGR"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "\u062f\u0646\u06cc\u0627",
         "url": "https://open.spotify.com/album/3xppr5g8VXteFX9DQGzizx"
@@ -781,7 +777,7 @@
       "url": "https://open.spotify.com/track/3DZh4G7frGfIp4z4qRBew9"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Enti Wain",
         "url": "https://open.spotify.com/album/6my5pq16NfKv3xiY2QSbSD"
@@ -801,7 +797,7 @@
       "url": "https://open.spotify.com/track/6DnxbM3gMaRubNRtZPPEGe"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Bako",
         "url": "https://open.spotify.com/album/57iBcfM3UGV6AaNYjDbmcc"
@@ -817,7 +813,7 @@
       "url": "https://open.spotify.com/track/5nO62GzQVuXyos3rrh4v7f"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "El 3elba",
         "url": "https://open.spotify.com/album/40rnzvnxdna70I5ENxUABY"
@@ -841,7 +837,7 @@
       "url": "https://open.spotify.com/track/3HMGWElTSffEE4MAZi8s9l"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Here and There",
         "url": "https://open.spotify.com/album/2dEjij0eIdYLr90152L734"
@@ -861,23 +857,7 @@
       "url": "https://open.spotify.com/track/0ouTndlSP7HIF2j0FgsHEg"
     },
     {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "ZAWIA",
-        "url": "https://open.spotify.com/album/4LKrtQBfgDW6fu6UEYttgb"
-      },
-      "artists": [
-        {
-          "name": "Haris Hamza",
-          "url": "https://open.spotify.com/artist/2CepAx2BXQje58hok8K7Tu"
-        }
-      ],
-      "duration_ms": 143283,
-      "name": "ZAWIA",
-      "url": "https://open.spotify.com/track/22lAfAno0RJ1nYCdV2jeS9"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
+      "added_at": "2022-10-25 21:00:00",
       "album": {
         "name": "Molly Crapton",
         "url": "https://open.spotify.com/album/2FiCEJT0xGOZJn5s2I00KK"
@@ -891,22 +871,6 @@
       "duration_ms": 230738,
       "name": "Masquerading Crowd",
       "url": "https://open.spotify.com/track/0zaMCsXxqGXrz1quaVDBtP"
-    },
-    {
-      "added_at": "2022-10-19 08:31:53",
-      "album": {
-        "name": "Living Hell",
-        "url": "https://open.spotify.com/album/4gpNHmz52QOOfQzGvFGFNh"
-      },
-      "artists": [
-        {
-          "name": "Abra Salem",
-          "url": "https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6"
-        }
-      ],
-      "duration_ms": 121533,
-      "name": "Living Hell",
-      "url": "https://open.spotify.com/track/15bKspAx2YSj1Ce0TdeVRH"
     }
   ],
   "unique_name": "Fresh Finds Arabia",

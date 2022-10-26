@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-164 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+165 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Tempo](https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Tempo](https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh) | 2:58 | 2022-02-17 |  |
 | [Thank You Lord \(feat\. Thomas Rhett & Florida Georgia Line\)](https://open.spotify.com/track/1k9dLBzwep1k1eGP0Ec8ZK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:48 | 2022-07-01 |  |
 | [That's The Power \- Studio](https://open.spotify.com/track/2YNehyJ62hvQtlFfutN3tT) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [These Same Skies \(Studio\)](https://open.spotify.com/album/72875wC7QpXtC9dd8jUzDk) | 4:01 | 2022-03-11 |  |
+| [That's What Happens](https://open.spotify.com/track/5ArBOAx7lMlLd3NoM9BpzN) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [Dreamers](https://open.spotify.com/album/5o1w7cbvZpFdp2JA8ZGxDR) | 2:55 | 2022-10-25 |  |
 | [The Best Is Yet To Come](https://open.spotify.com/track/0x2lQoO0pbXxBmJztRieR5) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [The Best Is Yet To Come](https://open.spotify.com/album/6NWTU6KMXWN0nc0LdJ3lMZ) | 4:18 | 2022-02-17 |  |
 | [The Goodness \(feat\. Blessing Offor\)](https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Goodness](https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR) | 3:45 | 2022-06-03 |  |
 | [The Greatest](https://open.spotify.com/track/7egaSn0ILHiB2ULah0i0UW) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [The Greatest](https://open.spotify.com/album/7xXyEzdawnwduIZDPw4Bxh) | 2:52 | 2022-02-17 | 2022-07-02 |

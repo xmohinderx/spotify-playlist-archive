@@ -4,12 +4,13 @@
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-180 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/7s5Dgpk9E3N59KDagZAZrc)
+181 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/7s5Dgpk9E3N59KDagZAZrc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Toda Madre](https://open.spotify.com/track/5707LxrLRlO7Bq9b0TpQIG) | [Thell Barrio](https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59) | [A Toda Madre](https://open.spotify.com/album/0nSnKL7zhrxu16hZX0L0vr) | 3:22 | 2020-10-24 | 2022-10-21 |
 | [A Toda Madre](https://open.spotify.com/track/5ENXT56BbduQWWHCX0FI3G) | [Thell Barrio](https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59) | [A Toda Madre](https://open.spotify.com/album/5KIUxfQu6NOlotK0EeM9Ie) | 3:22 | 2020-10-24 | 2022-09-01 |
+| [A Toda Madre](https://open.spotify.com/track/6aBSq9ifs6ezHLr7DhwIME) | [Thell Barrio](https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59) | [A Toda Madre](https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs) | 3:22 | 2020-10-24 |  |
 | [Absurda Doctrina](https://open.spotify.com/track/66VQI8CG6w3GB367DOGJQA) | [Profanación Sepulcral](https://open.spotify.com/artist/67t3eMrdOjl6uk1jXKd9W8) | [Estigmatizados por el Caos Dantesco](https://open.spotify.com/album/4EFZ4IYT8yrELNypid4UvA) | 4:45 | 2020-10-24 | 2022-07-20 |
 | [Acero Inmortal](https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M) | [Voltax](https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2) | [Fugitive State of Mind](https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai) | 3:47 | 2020-10-24 | 2022-07-27 |
 | [Acido](https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [El Mar De Las Almas](https://open.spotify.com/album/52tcNhROdl0187orh4tB3N) | 3:43 | 2020-10-24 |  |
@@ -152,7 +153,7 @@
 | [Regresión](https://open.spotify.com/track/4tmIaTtJDLBkreZhO3w4o7) | [Introtyl](https://open.spotify.com/artist/6Im0py5F0Y2RMJTQ6MlX6A) | [Creation of Insanity](https://open.spotify.com/album/1zW6qmkDk1DkzkMnYRHn98) | 2:41 | 2020-10-24 | 2022-07-24 |
 | [Reinará el Caos](https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Legiones](https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf) | 6:14 | 2020-10-24 |  |
 | [Relación Canina 2.0](https://open.spotify.com/track/6a3u4DQ3I26ICkcEN25EcX) | [Medical Negligence](https://open.spotify.com/artist/3jL94uFzu0H6r9vi5nXVAg) | [Evil](https://open.spotify.com/album/2Lx0ZVDWhHAVR01bkGFDHl) | 2:45 | 2020-10-24 | 2022-07-10 |
-| [Residentes Olvidados](https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P) | [Leprosy](https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x) | [Llora Chiapas](https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL) | 5:12 | 2020-10-24 |  |
+| [Residentes Olvidados](https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P) | [Leprosy](https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x) | [Llora Chiapas](https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL) | 5:12 | 2020-10-24 | 2022-10-26 |
 | [Resilent](https://open.spotify.com/track/1ks4oI8rHS6kWwUf4rOmcn) | [Ziran](https://open.spotify.com/artist/4P9XsTV3PLROxMoLp4c0b4) | [Nature of I](https://open.spotify.com/album/1p8YhSYsMpV3C1TDV9p7ro) | 3:40 | 2020-10-24 | 2022-07-21 |
 | [Río Extraño](https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv) | [OConnor](https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN) | [Río Extraño](https://open.spotify.com/album/2RhzNO5A2ygXBfuKkmglGL) | 4:27 | 2020-10-24 |  |
 | [Sabios](https://open.spotify.com/track/5nErw2zbliwKbVmZBp1gVV) | [Minerva](https://open.spotify.com/artist/1DYNmRhSOAWWen5JUKIqOc) | [Sabios](https://open.spotify.com/album/2KFX103ureEhZ1JUyy0U1j) | 3:59 | 2020-10-24 | 2022-07-26 |

@@ -4,7 +4,7 @@
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-126 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/3PGD42xzaSO4O5kpwimiJs)
+127 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/3PGD42xzaSO4O5kpwimiJs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Alingo](https://open.spotify.com/track/3ADcRFFSfs9aoakp9xKCtf) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Greatest Hits](https://open.spotify.com/album/1TYstIc5wsvjhINsDYqbTe) | 4:31 | 2020-11-06 | 2022-07-29 |
 | [Alkayida \(Boy Abre\)](https://open.spotify.com/track/7xAHWYJhJQLM83eDaerhS2) | [Guru](https://open.spotify.com/artist/1c9Ya9GKcFOLh4gixxivdk) | [Alkayida \(Boy Abre\)](https://open.spotify.com/album/3ejLKMcv8zl0FKgv1QBzGn) | 3:38 | 2020-11-06 | 2022-07-29 |
 | [Alkayida \(Boys Abre\)](https://open.spotify.com/track/6poPF57AAibYYvIHaujZjt) | [Guru Nkz](https://open.spotify.com/artist/02erLj5S8dJEjZyFYug3Ck) | [Alkayida \(Boys Abre\)](https://open.spotify.com/album/3hBDd8jdTb6jCaX8QENZRR) | 3:38 | 2020-11-06 |  |
-| [Amorawa \- Bonus Track](https://open.spotify.com/track/1XD2smsByGKUCgHhyZyVtF) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Wanted](https://open.spotify.com/album/6fSgSpssVi7fMqMXhxGcbL) | 4:02 | 2020-11-06 |  |
+| [Amorawa \- Bonus Track](https://open.spotify.com/track/1XD2smsByGKUCgHhyZyVtF) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Wanted](https://open.spotify.com/album/6fSgSpssVi7fMqMXhxGcbL) | 4:02 | 2020-11-06 | 2022-10-26 |
 | [Antenna \- UK Club Mix](https://open.spotify.com/track/6NeLjyLTlygTDu34MdolgQ) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [T.I.N.A.](https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1) | 3:42 | 2020-11-06 |  |
 | [Away](https://open.spotify.com/track/4tkRfb5PUoJ7d8epDatZ7g) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Progress](https://open.spotify.com/album/5Tq5ATKhOia0vW66dX8syT) | 5:04 | 2020-11-06 | 2022-07-24 |
 | [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 | 2020-11-06 |  |
@@ -133,6 +133,7 @@
 | [Yori Yori](https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [Least Expected](https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc) | 3:38 | 2020-11-06 |  |
 | [You Bad](https://open.spotify.com/track/73t8wajskCvkLtnw7Xvmk7) | [Wande Coal](https://open.spotify.com/artist/1dATrNO6y7LHKgZ2DhYQsh) | [Selection](https://open.spotify.com/album/6vgavmu9XaTbGvnZ7FnTco) | 4:06 | 2020-11-06 | 2022-10-25 |
 | [You Bad](https://open.spotify.com/track/0hjNPLAN4ZRG57yqOvCL02) | [Wande Coal Ft D'Banj](https://open.spotify.com/artist/7tmpexALmQ8dt4wqdkMPZo) | [51 Lex Records Presents Carnizelas Vol.2](https://open.spotify.com/album/7m0aN5VlRJypUuyeczLGh9) | 4:08 | 2020-11-06 | 2022-07-28 |
+| [You Bad \(feat\. D'banj\)](https://open.spotify.com/track/0iMTGU9TcOOHddbN3CJdf1) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [Mushin 2 Mo' Hits](https://open.spotify.com/album/6TmFYFCTdUazZjjp3TYUGG) | 4:02 | 2020-11-06 |  |
 | [Your Number](https://open.spotify.com/track/5J4FiKDJIdJ8AKx2gaWMt4) | [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Your Number](https://open.spotify.com/album/2dusPkqFxxdOtmG1JpKFFN) | 3:24 | 2020-11-06 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

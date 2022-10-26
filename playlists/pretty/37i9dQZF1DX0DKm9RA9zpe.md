@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DKm9RA9zpe.md) - [plain]
 
 > This is the official playlist of JTBC Superband, an audition program for musical geniuses for global superbands\. \(글로벌 슈퍼밴드를 위한 음악 천재들의 오디션 프로그램 JTBC 슈퍼밴드의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,249 likes - 91 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,266 likes - 91 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [7000RPM](https://open.spotify.com/track/4qAyjztX1XDEO1LNJdW6NZ) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SuperBand2 \- Episode.13](https://open.spotify.com/album/2Bk9fmUzs6FTqi8ZSM5qbO) | 5:41 |
-| 2 | [Break it](https://open.spotify.com/track/6OC2Bw5qJs4wjuHxIJdgja) | [The Whales](https://open.spotify.com/artist/7FRT5ETFgLGTUEhKM0PCNB) | [SuperBand2 \- Episode.13](https://open.spotify.com/album/2Bk9fmUzs6FTqi8ZSM5qbO) | 4:25 |
+| 2 | [Break it](https://open.spotify.com/track/6OC2Bw5qJs4wjuHxIJdgja) | [The Whales](https://open.spotify.com/artist/3GvrbHGeUEg4RQyNxNF8Wn) | [SuperBand2 \- Episode.13](https://open.spotify.com/album/2Bk9fmUzs6FTqi8ZSM5qbO) | 4:25 |
 | 3 | [RUN](https://open.spotify.com/track/5NI6ozpUUd8HlIt0vkbK5p) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [SuperBand2 \- Episode.13](https://open.spotify.com/album/2Bk9fmUzs6FTqi8ZSM5qbO) | 5:34 |
 | 4 | [Do or Die](https://open.spotify.com/track/3frf8auLXzPtILpyTgT5Sb) | [THE FIX](https://open.spotify.com/artist/3C9Tg0ENJ77szoSXlkSpZ3) | [SuperBand2 \- Episode.13](https://open.spotify.com/album/2Bk9fmUzs6FTqi8ZSM5qbO) | 6:09 |
 | 5 | [Daddy](https://open.spotify.com/track/6lPm8u7F98itkDKgi5EjX3) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [SuperBand2 \- Episode.13](https://open.spotify.com/album/2Bk9fmUzs6FTqi8ZSM5qbO) | 6:32 |

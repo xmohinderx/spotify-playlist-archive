@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-398 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+399 songs - 22 hr 22 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/album/605QJC3syWgn2xXR3LHbds) | 2:52 | 2022-05-27 | 2022-07-30 |
 | [f\*\*k it, i'm the man](https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [f\*\*k it, i'm the man](https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj) | 2:30 | 2022-05-27 |  |
 | [Faith](https://open.spotify.com/track/0c5rPwlRxcBmVLNARI2kGQ) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Faith](https://open.spotify.com/album/2Zp4jloZJFW8K9Lls75luH) | 3:06 | 2021-03-10 | 2022-07-29 |
+| [Faith](https://open.spotify.com/track/3ExC1r91qMl0qIUGyvuaRo) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Faith](https://open.spotify.com/album/4ozLbfB6lf2KeuWZLrrcMn) | 3:06 | 2022-10-07 |  |
 | [Falling Down \- Edit](https://open.spotify.com/track/6jRNplNtd8xT0sc4iUJyW5) | [This Wild Life](https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva) | [Falling Down \(Edit\)](https://open.spotify.com/album/2biOtCehtzEDKjyZH8AbMv) | 3:11 | 2022-03-11 | 2022-04-20 |
 | [Famous Son](https://open.spotify.com/track/7o4BF5REJbrZwgYaOdYO2b) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Famous Son](https://open.spotify.com/album/5rfM6bb7ZmgTXFpv7DOcI8) | 3:00 | 2021-05-04 | 2022-07-29 |
 | [Fangs](https://open.spotify.com/track/618DIJLSOg5ffmXaFFRsnv) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Fangs](https://open.spotify.com/album/41yYEgLaRvDor6cNwWBsfB) | 3:35 | 2022-03-11 | 2022-04-21 |
@@ -337,7 +338,7 @@
 | [Sunshine Time](https://open.spotify.com/track/08ag3RWt1LlRWDFU44XSss) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Going Mainstream](https://open.spotify.com/album/2K2u7usRIF03pywk6qxGlM) | 3:31 | 2021-07-30 |  |
 | [Surefire](https://open.spotify.com/track/3CxBGLrVRt9sanlpCcpOMf) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Surefire](https://open.spotify.com/album/7Gp6tjO66qmd1OmSXPEBis) | 4:00 | 2021-03-10 | 2022-07-29 |
 | [Surefire](https://open.spotify.com/track/6iWvETAILWAYOdm2DioSEF) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 4:01 | 2022-06-27 |  |
-| [Survive](https://open.spotify.com/track/7eTMM3SZwTia2MZgR1MRtQ) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Night Drive](https://open.spotify.com/album/78eaGps4Ui3AeMInZuTQE3) | 2:17 | 2022-03-09 |  |
+| [Survive](https://open.spotify.com/track/7eTMM3SZwTia2MZgR1MRtQ) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Night Drive](https://open.spotify.com/album/78eaGps4Ui3AeMInZuTQE3) | 2:17 | 2022-03-09 | 2022-10-26 |
 | [Sway](https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Sway](https://open.spotify.com/album/1zqdoo5Kk7t77JG798yLZD) | 2:16 | 2022-06-27 |  |
 | [Sweet Disaster](https://open.spotify.com/track/1cCF6PzZddhyJgYjN8w5qu) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Sweet Disaster](https://open.spotify.com/album/0zwgTEEMeWgAYOZRRNToC7) | 3:25 | 2022-03-11 | 2022-04-20 |
 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 | 2022-05-27 |  |

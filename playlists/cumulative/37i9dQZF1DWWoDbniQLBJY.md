@@ -4,7 +4,7 @@
 
 > Pop Acústico para tu día.
 
-162 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/4u1h06ki2j7GNHTZCGcFb9)
+163 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/4u1h06ki2j7GNHTZCGcFb9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 | 2021-12-16 |  |
 | [EL LOBBY](https://open.spotify.com/track/14gKV9ddDCAhm21tUngnY0) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [EL LOBBY](https://open.spotify.com/album/0ihbQj0DqoCTxtuAc4ggJS) | 3:28 | 2021-12-16 | 2022-05-20 |
 | [EL LOBBY](https://open.spotify.com/track/63ECpf4a5crKp0R12BhMXQ) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 3:28 | 2022-08-05 |  |
-| [El Mismo Camino](https://open.spotify.com/track/5aGY2tPPBiCT0A1JvFpJ0t) | [Johan Sotelo](https://open.spotify.com/artist/4EgDDojMyrVB4MxP7nAevd) | [El Mismo Camino](https://open.spotify.com/album/301g4sucHNZf2KuvbmsEa6) | 3:35 | 2022-06-07 |  |
+| [El Mismo Camino](https://open.spotify.com/track/5aGY2tPPBiCT0A1JvFpJ0t) | [Johan Sotelo](https://open.spotify.com/artist/4EgDDojMyrVB4MxP7nAevd) | [El Mismo Camino](https://open.spotify.com/album/301g4sucHNZf2KuvbmsEa6) | 3:35 | 2022-06-07 | 2022-10-26 |
 | [El Mismo Camino](https://open.spotify.com/track/7e6rM0VPHDZXRZ4sIdcclc) | [Johan Sotelo](https://open.spotify.com/artist/4EgDDojMyrVB4MxP7nAevd) | [El Mismo Camino](https://open.spotify.com/album/2vYmBcDgSJndYPu7xa4fhb) | 3:35 | 2021-12-16 | 2022-07-29 |
 | [En Medio De Este Ruido](https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf) | 4:07 | 2021-12-16 |  |
 | [Eres para Mí \(with La Mala Rodríguez\) \- Unplugged \(En Vivo\)](https://open.spotify.com/track/1gL4YEW5qp6mv2aku06a06) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:42 | 2021-12-16 |  |
@@ -102,6 +102,7 @@
 | [No Ha Parado De Llover \- Unplugged](https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [MTV Unplugged](https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2) | 6:40 | 2021-12-16 |  |
 | [No Lo Soñé \- Version Acustico](https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mis Favoritas](https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi) | 4:41 | 2021-12-16 |  |
 | [No Valgo Pa' Ciudad](https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [No Valgo Pa' Ciudad](https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2) | 3:06 | 2021-12-16 |  |
+| [no vuelvas a mirar atrás](https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7) | 4:05 | 2022-08-05 |  |
 | [no vuelvas a mirar atrás](https://open.spotify.com/track/5TmUCweI7JXVWxn1zHJzyN) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/05bj3fX7Wrs45EBPp35bBQ) | 4:05 | 2021-12-16 | 2022-10-13 |
 | [NTN](https://open.spotify.com/track/1O8wZHsmHtrjVehbTTC5yM) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [NTN](https://open.spotify.com/album/0iSx1yoFUpRmXrS2C8099U) | 3:04 | 2021-12-16 | 2022-07-29 |
 | [ojitos caramelo](https://open.spotify.com/track/3TDIrNpqBTHx4ePEBh6zyR) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/3tBjBSHpI7up9rQWNWZ3PL) | 2:27 | 2021-12-16 | 2022-07-29 |

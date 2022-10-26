@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Runnner
 
-669 songs - 1 day 14 hr 18 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+670 songs - 1 day 14 hr 21 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 | 2022-04-29 | 2022-09-24 |
 | [After Silver Leaves](https://open.spotify.com/track/7lRMtQETB0B5WQBc11paPx) | [Smut](https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF) | [Unbroken Thought](https://open.spotify.com/album/4k6mh2lSAOC0Z5GrXigXtq) | 4:37 | 2022-10-21 |  |
 | [Afterglow](https://open.spotify.com/track/6aDXqeOAbR9Hxfr6rQe0Fo) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Fall into Place / Afterglow](https://open.spotify.com/album/62e7kMRFN636XBdtZBp7F0) | 3:18 | 2022-05-13 | 2022-10-01 |
-| [Aftershook](https://open.spotify.com/track/0mf7aZJXZLwb9d1UEzjxwo) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Aftershook](https://open.spotify.com/album/3RLvrBRUVl4tDh3EqGR3Ro) | 3:25 | 2022-09-02 |  |
+| [Aftershook](https://open.spotify.com/track/0mf7aZJXZLwb9d1UEzjxwo) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Aftershook](https://open.spotify.com/album/3RLvrBRUVl4tDh3EqGR3Ro) | 3:25 | 2022-09-02 | 2022-10-26 |
+| [Aftershook](https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 3:25 | 2022-10-21 |  |
 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 | 2021-11-19 | 2022-07-13 |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2022-04-29 | 2022-05-18 |
 | [Alive on the Outside](https://open.spotify.com/track/01MxXqlzKMpHy734AGKGxj) | [Lean](https://open.spotify.com/artist/167WV6cgZZKO6Mog8MomA0) | [Alive on the Outside](https://open.spotify.com/album/2li1Q7N8NnJ4X9Ju4bKYbq) | 3:36 | 2022-05-13 | 2022-07-09 |

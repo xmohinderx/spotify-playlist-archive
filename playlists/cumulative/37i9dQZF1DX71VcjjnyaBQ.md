@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-152 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
+153 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Right Back Round Again \(feat\. Brad Mehldau, Christian McBride & Brian Blade\)](https://open.spotify.com/track/6R2vR6b0jLJaJCZUvyp5Ax) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Right Back Round Again \(feat\. Brad Mehldau, Christian McBride & Brian Blade\)](https://open.spotify.com/album/2lp2FIQT23ZWBwH3bPuvY5) | 6:00 | 2021-12-21 | 2022-07-29 |
 | [Saving All My Love for You](https://open.spotify.com/track/67gegBlOgrRPHhfLfb3CEj) | [Atlantic Five Jazz Band](https://open.spotify.com/artist/2utgbFODWxZ6ZPLVhRaToA) | [The Pop Jazz Sessions](https://open.spotify.com/album/1bSsOP5q2aXB0TO2h6rKXg) | 5:23 | 2022-09-22 |  |
 | [Sconsolato](https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM) | [Nathan Davis](https://open.spotify.com/artist/3iF9mUqkeDgHbydOvDYqjO) | [Best of 1965\-76](https://open.spotify.com/album/4cskpXjr6Ai90fLNPYX8Vv) | 3:28 | 2021-12-21 |  |
-| [Sister Rosa](https://open.spotify.com/track/2ZuGfHsOmBicZnGSMwREbG) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [The Movement Revisited: A Musical Portrait of Four Icons](https://open.spotify.com/album/6sxsZhMo8LBx3IIcqhtR13) | 6:25 | 2021-12-21 |  |
+| [Sister Rosa](https://open.spotify.com/track/2ZuGfHsOmBicZnGSMwREbG) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [The Movement Revisited: A Musical Portrait of Four Icons](https://open.spotify.com/album/6sxsZhMo8LBx3IIcqhtR13) | 6:25 | 2021-12-21 | 2022-10-26 |
 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 6:33 | 2021-12-21 |  |
 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 8:02 | 2022-02-10 |  |
 | [Some Gospel According to Matthew \- Live](https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7) | [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Albin Lindgård](https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84), [Ossian Ward](https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo) | [Some Gospel According to Matthew](https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO) | 5:23 | 2022-02-10 |  |
@@ -136,6 +136,7 @@
 | [Thembi](https://open.spotify.com/track/6x4WAXhYazOoc0vCg2sybO) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/5bNLEyWCkiYC5ZoMxSWMWB) | 7:02 | 2021-12-21 | 2022-05-08 |
 | [Theo](https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD) | [Robert Keßler](https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0), [Andreas Henze](https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39), [Tobias Backhaus](https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg) | [Bloodline](https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG) | 5:59 | 2022-02-10 | 2022-07-29 |
 | [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 | 2022-10-11 |  |
+| [There's No Place For Me \- Live](https://open.spotify.com/track/48PojLpjonNmPElm0ntohW) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:20 | 2022-10-25 |  |
 | [Throng](https://open.spotify.com/track/2Qd5FZiEDmePPjnLhJtle2) | [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p) | [Big Beat](https://open.spotify.com/album/6Yjy84o9dZ5ydgVPxQZObF) | 3:02 | 2021-12-21 | 2022-06-09 |
 | [To Mr K.K.](https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 5:30 | 2022-04-07 |  |
 | [Together](https://open.spotify.com/track/2wOlZrHUpRP9hQbqbV9Ae5) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Colour Yes \(Special Edition\)](https://open.spotify.com/album/1fcREbFQfCqfwxXkxGgvV7) | 11:12 | 2021-12-21 | 2022-07-29 |

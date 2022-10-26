@@ -5642,6 +5642,24 @@
     },
     {
       "album": {
+        "name": "Return of the Golden Funk",
+        "url": "https://open.spotify.com/album/2FHptZi8FfJvJa8rr7RbWK"
+      },
+      "artists": [
+        {
+          "name": "Narciss",
+          "url": "https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344166,
+      "name": "Power 2 Tha People",
+      "url": "https://open.spotify.com/track/7aftORj0cBJ8cDgEL6VmLs"
+    },
+    {
+      "album": {
         "name": "Pray4u",
         "url": "https://open.spotify.com/album/0j4R8gczhaEcog4Fd8iDVY"
       },
@@ -6897,7 +6915,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 152727,
       "name": "SUMMER GIRL",
       "url": "https://open.spotify.com/track/49ytn2JKSw0cv0zX4Taws3"
@@ -6959,6 +6977,24 @@
       "duration_ms": 221477,
       "name": "Sway (The Places She Goes)",
       "url": "https://open.spotify.com/track/01MAfM7gDbLITfH5hzNRnV"
+    },
+    {
+      "album": {
+        "name": "Switched Up",
+        "url": "https://open.spotify.com/album/3irVf4y2C8iTxwpgWGlY98"
+      },
+      "artists": [
+        {
+          "name": "Jbox",
+          "url": "https://open.spotify.com/artist/1AzyQM37FzB6ChE0iJZm77"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194480,
+      "name": "Switched Up",
+      "url": "https://open.spotify.com/track/2r7EsZmUpJS5HktTLb5uqq"
     },
     {
       "album": {

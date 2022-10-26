@@ -1796,6 +1796,28 @@
     },
     {
       "album": {
+        "name": "The Complete Ella And Louis On Verve",
+        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377333,
+      "name": "Isn't This A Lovely Day?",
+      "url": "https://open.spotify.com/track/7paEvsQ08LWCV8Agvo9CWa"
+    },
+    {
+      "album": {
         "name": "20 Golden Greats: Buddy Holly Lives",
         "url": "https://open.spotify.com/album/3oU3OPTKI0JfsVunkeODJE"
       },
@@ -2225,7 +2247,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 135840,
       "name": "Lonesome Town - 1990 Digital Remaster",
       "url": "https://open.spotify.com/track/56XoFI6v7kbGNdM8ALYWof"

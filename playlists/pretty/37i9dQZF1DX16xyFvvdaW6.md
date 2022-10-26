@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,811 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,843 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Siguiéndote Los Pasos](https://open.spotify.com/track/7oKiPeuyHCuAeV8Idsep1T) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Apasionado Por Ti](https://open.spotify.com/album/17sFSyV70emgk2ES8zWdzd) | 3:00 |
-| 2 | [Tiene razón](https://open.spotify.com/track/0YVkK3eoqA9rmpqyMObT4h) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [Indudablemente](https://open.spotify.com/album/59P6zsVljf0Gs8h4F8iWw4) | 3:19 |
-| 3 | [Tu Fan Number One](https://open.spotify.com/track/5lAtZmes9ELeVyEn1X0oqA) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Tu Fan Number One](https://open.spotify.com/album/4O5VnMxSs4kY3uqzBZZykI) | 3:34 |
-| 4 | [Dias Mejores](https://open.spotify.com/track/6vtFTFXUa8dDV2DXnXAzhq) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06) | [Dias Mejores](https://open.spotify.com/album/1OkifSNfJnObBOcbJ2lpPW) | 4:27 |
-| 5 | [Harto](https://open.spotify.com/track/5U0V9jjQie6QhNU3khHBhi) | [Zona 7](https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI) | [¿Como Me Ves?](https://open.spotify.com/album/6P0VO2HC3OV54KfupPb2Vk) | 4:07 |
-| 6 | [A Mi Ángel](https://open.spotify.com/track/471CAxyTTVZDK8g4MUXfnq) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu) | [Voy A Entregar Mi Corazón](https://open.spotify.com/album/5WgMBg0KfWb1drMLy4uOw2) | 3:36 |
-| 7 | [Nunca para de Llover](https://open.spotify.com/track/2cI14t5e2KYKG4i39hdvXJ) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk) | 2:58 |
-| 8 | [Mas Grande Es El](https://open.spotify.com/track/69OUxNWpLdN8fB7y7gfmGP) | [Alpha Union](https://open.spotify.com/artist/7r3OVrzP7rwFr0q1C4IQ5n) | [Conquistador](https://open.spotify.com/album/6ByW3JlKlwzAnHgMRWkYuz) | 2:55 |
-| 9 | [Yo También](https://open.spotify.com/track/1BiTNGWo3a37MSqMqBYMGK) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Yo También](https://open.spotify.com/album/3oQwqSwoyoIr4skxLacTIt) | 6:42 |
-| 10 | [Mas que ayer](https://open.spotify.com/track/3h2K5oUOeNYfSxd1Rpjcxe) | [Lemkin](https://open.spotify.com/artist/0ircK5GeJyk319kKagj0rN) | [Anagramas](https://open.spotify.com/album/6V78TAY4elDJP2sHFbem85) | 3:46 |
-| 11 | [Viajero Del Viento](https://open.spotify.com/track/7CkhEdcBHCDUCICCSbfTBZ) | [Kyosko](https://open.spotify.com/artist/3SJVLk4Qc9qJ5Mk5dCQrOB) | [Invisibles](https://open.spotify.com/album/2CY6A8UkkptIxckUyBll8j) | 3:02 |
-| 12 | [Cansado \- En Vivo](https://open.spotify.com/track/4PfdJ9cvHMUwGJnjiDyx30) | [Vox Dei](https://open.spotify.com/artist/3qJHHkBTYuEBHmLZ7cEei6) | [30 Años \(En Vivo\)](https://open.spotify.com/album/4ZTqyGp6fYYgrY61GKiWZD) | 5:08 |
+| 1 | [Tu Reino Está Aquí](https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 5:33 |
+| 2 | [Siguiéndote Los Pasos](https://open.spotify.com/track/7oKiPeuyHCuAeV8Idsep1T) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Apasionado Por Ti](https://open.spotify.com/album/17sFSyV70emgk2ES8zWdzd) | 3:00 |
+| 3 | [Tiene razón](https://open.spotify.com/track/0YVkK3eoqA9rmpqyMObT4h) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [Indudablemente](https://open.spotify.com/album/59P6zsVljf0Gs8h4F8iWw4) | 3:19 |
+| 4 | [Tu Fan Number One](https://open.spotify.com/track/5lAtZmes9ELeVyEn1X0oqA) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [Tu Fan Number One](https://open.spotify.com/album/4O5VnMxSs4kY3uqzBZZykI) | 3:34 |
+| 5 | [Dias Mejores](https://open.spotify.com/track/6vtFTFXUa8dDV2DXnXAzhq) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06) | [Dias Mejores](https://open.spotify.com/album/1OkifSNfJnObBOcbJ2lpPW) | 4:27 |
+| 6 | [Harto](https://open.spotify.com/track/5U0V9jjQie6QhNU3khHBhi) | [Zona 7](https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI) | [¿Como Me Ves?](https://open.spotify.com/album/6P0VO2HC3OV54KfupPb2Vk) | 4:07 |
+| 7 | [A Mi Ángel](https://open.spotify.com/track/471CAxyTTVZDK8g4MUXfnq) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu) | [Voy A Entregar Mi Corazón](https://open.spotify.com/album/5WgMBg0KfWb1drMLy4uOw2) | 3:36 |
+| 8 | [Nunca para de Llover](https://open.spotify.com/track/2cI14t5e2KYKG4i39hdvXJ) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk) | 2:58 |
+| 9 | [Mas Grande Es El](https://open.spotify.com/track/69OUxNWpLdN8fB7y7gfmGP) | [Alpha Union](https://open.spotify.com/artist/7r3OVrzP7rwFr0q1C4IQ5n) | [Conquistador](https://open.spotify.com/album/6ByW3JlKlwzAnHgMRWkYuz) | 2:55 |
+| 10 | [Yo También](https://open.spotify.com/track/1BiTNGWo3a37MSqMqBYMGK) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Yo También](https://open.spotify.com/album/3oQwqSwoyoIr4skxLacTIt) | 6:42 |
+| 11 | [Mas que ayer](https://open.spotify.com/track/3h2K5oUOeNYfSxd1Rpjcxe) | [Lemkin](https://open.spotify.com/artist/0ircK5GeJyk319kKagj0rN) | [Anagramas](https://open.spotify.com/album/6V78TAY4elDJP2sHFbem85) | 3:46 |
+| 12 | [Viajero Del Viento](https://open.spotify.com/track/7CkhEdcBHCDUCICCSbfTBZ) | [Kyosko](https://open.spotify.com/artist/3SJVLk4Qc9qJ5Mk5dCQrOB) | [Invisibles](https://open.spotify.com/album/2CY6A8UkkptIxckUyBll8j) | 3:02 |
 | 13 | [Mamá](https://open.spotify.com/track/0FmzOJb6VGMGkqfsvdeiGk) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu) | [Si Te Conocieran](https://open.spotify.com/album/0w4qd8rTAVlvYZlyKbWaF4) | 4:35 |
 | 14 | [Sobre las Aguas](https://open.spotify.com/track/0160nXrwsZGabn2MS3eZBt) | [Credo](https://open.spotify.com/artist/6RjjLhiDH0icVk8Et5Unsl) | [Sobre las Aguas](https://open.spotify.com/album/0NTxzUKkcuioP465pmYzUF) | 4:00 |
 | 15 | [Enamorado De Ti](https://open.spotify.com/track/6QQaNfFVNVBzCMCHfTcNln) | [Strike 3](https://open.spotify.com/artist/3hNpQuSjrFXElHOEzmwQ2l) | [Llevate El Tiempo](https://open.spotify.com/album/65tShWSVCNe5Fgj5ogLDBl) | 5:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 49 | [Otra Oportunidad](https://open.spotify.com/track/0g1dQ5Wafzv5umVhjNcEle) | [Revoluzion Estereo](https://open.spotify.com/artist/07y7DBTR7GwPS7sapmxrtG) | [Revoluzion Estereo](https://open.spotify.com/album/6LpcHauCrtKT0UJuXG8YI8) | 4:15 |
 | 50 | [Porque Fingir](https://open.spotify.com/track/7v13JBeYnHzgB4enyvcOcP) | [180 Grados](https://open.spotify.com/artist/5EFB2QpDOSYieHayE27uZ8) | [Cambio](https://open.spotify.com/album/59V6jFpLnTeVajCNjVKlyM) | 4:04 |
 
-Snapshot ID: `MTY1ODUzMTI0OCwwMDAwMDAwMDgwYjZiOTAzZGY2N2RjNDNkN2I3ODRkYjAwMGQxZTBl`
+Snapshot ID: `MTY2NjcxNTMzNCwwMDAwMDAwMDhjMDM1NGRhOTBlODA3MmFhZWU2MTkzNGNiMjRkNTgy`

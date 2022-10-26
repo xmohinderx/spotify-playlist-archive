@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-318 songs - 1 day 9 hr 10 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
+319 songs - 1 day 9 hr 16 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Cosmovision](https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 3:33 | 2022-08-03 |  |
 | [Cumulonimbus Incus](https://open.spotify.com/track/2paMfzAp6rhZaAU5gjVfh6) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [Silver Linings](https://open.spotify.com/album/3OFxNZom1XclhLF4cU62n8) | 6:48 | 2021-07-30 | 2022-07-29 |
 | [Days Like This](https://open.spotify.com/track/51l7PA4wcyQMEJeuanHrbf) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Days Like This](https://open.spotify.com/album/0wO5kcElEfWFL0FMlehALZ) | 5:20 | 2021-04-21 | 2022-07-29 |
-| [Dede](https://open.spotify.com/track/7dR999H4VruQjlx7yFLR2U) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Dede](https://open.spotify.com/album/16KOMbLfPxLqnWmS7qCKmo) | 4:39 | 2022-09-09 |  |
+| [Dede](https://open.spotify.com/track/7dR999H4VruQjlx7yFLR2U) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Dede](https://open.spotify.com/album/16KOMbLfPxLqnWmS7qCKmo) | 4:39 | 2022-09-09 | 2022-10-26 |
 | [Delusions](https://open.spotify.com/track/2M6XhuILqt1uh6VzKgQYYu) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Local Dialect](https://open.spotify.com/artist/1dFKuU0lKJNg27s2LKLZ2j) | [Delusions](https://open.spotify.com/album/1lGzqoNRkYYB7m7y8SQFKN) | 4:32 | 2021-10-01 | 2022-07-10 |
 | [Deneb Algedi \- Radio Edit](https://open.spotify.com/track/3UpiaKvd52jtDP5d9mDjBz) | [Massimo Logli](https://open.spotify.com/artist/3IVLbePHoVd9TYMJuKu1Ei) | [Deneb Algedi \- Elkurud](https://open.spotify.com/album/2wEvoWWqP9nKBWTKwgOobD) | 3:16 | 2021-05-07 | 2022-07-14 |
 | [Departures](https://open.spotify.com/track/0LlGYQSAJZI5QrR5hblT6s) | [David Scott](https://open.spotify.com/artist/513OW9lkE4k3NQ7en6raQ8) | [Departures](https://open.spotify.com/album/1oBOaO2vdvxUpX1ej0Lhud) | 5:08 | 2021-04-21 | 2022-10-15 |
@@ -326,5 +326,6 @@
 | [Yira Yirar](https://open.spotify.com/track/6cUqwmaSHB6bzwAd3TNF2a) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU) | [Marco Tegui / Raw Main](https://open.spotify.com/album/5dV8KbeFNzZcncF57GBEPA) | 6:39 | 2021-04-21 |  |
 | [Your Inner Workings](https://open.spotify.com/track/3nEHRDu0SiBcMYg5WuHsN0) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Your Inner Workings](https://open.spotify.com/album/4ABZUaxjI2R19wvLzXgNHC) | 5:33 | 2022-05-24 | 2022-10-15 |
 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 | 2022-08-19 |  |
+| [Your Way](https://open.spotify.com/track/2V64rudkFZ9gciglMM0t5S) | [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Your Way](https://open.spotify.com/album/0QZrG85ir88fpUnbxzgFe6) | 6:18 | 2022-09-30 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

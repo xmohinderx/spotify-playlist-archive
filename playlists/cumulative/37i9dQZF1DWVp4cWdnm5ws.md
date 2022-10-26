@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon.
 
-103 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
+106 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [3rd Eye](https://open.spotify.com/track/1Rmg6e9FO4C0RLtXpFtA4G) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 2:45 | 2022-09-01 |  |
 | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/track/22Nd3GuO7sHopPjdKccRcq) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/album/0FRaoawfqep3bJcCqcQZpD) | 2:38 | 2022-03-24 |  |
 | [Ang Rosas](https://open.spotify.com/track/0lJ96vYvGE9szc5XoKG3JW) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ang Rosas](https://open.spotify.com/album/3YCSZA4P7byM8e1L7teBNv) | 4:36 | 2021-11-25 | 2022-03-25 |
+| [Another Day](https://open.spotify.com/track/4rCpSyxdUIXPvPsK77p7wE) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Another Day](https://open.spotify.com/album/13EhQoTZsk8mfqwbGPG2E8) | 4:28 | 2022-10-25 |  |
 | [Ayoko Pa](https://open.spotify.com/track/6WauTGPc48jOCF4HfQU9DU) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX), [Cursebox](https://open.spotify.com/artist/52REqNdtIQAapIZ4WEwBVg) | [Ayoko Pa](https://open.spotify.com/album/0Ke3mRgrGs6GM7Q8FQJdLZ) | 3:14 | 2022-09-08 |  |
 | [Bahaghari](https://open.spotify.com/track/2Ozk14un4Py5pZoVygGUPB) | [Elle Sebastian](https://open.spotify.com/artist/3tZLOm9eJAxX6Q0xkEGjWo) | [Bahaghari](https://open.spotify.com/album/2vYvsfDQ30Akm7KvEtMapf) | 6:03 | 2021-11-25 | 2022-03-25 |
 | [Bangin](https://open.spotify.com/track/0ZVXBU8LCG0HutT5Oa8eI4) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Bangin](https://open.spotify.com/album/1v0xYbW5NagAzjMeBWIM5A) | 3:47 | 2022-03-24 |  |
@@ -66,6 +67,7 @@
 | [Leron \(feat\. Trisha Macapagal\)](https://open.spotify.com/track/0S9E3lwPotusU4QRVVg2wC) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Leron \(feat\. Trisha Macapagal\)](https://open.spotify.com/album/0OVWJZkcHFVCzGuTw8Lauw) | 4:00 | 2022-08-26 |  |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2022-03-24 |  |
 | [Made For All](https://open.spotify.com/track/6Qc9WXhHeRV5RlSdR72DNo) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Made For All](https://open.spotify.com/album/0SOSnP1ZoEnNwRg3ioo4C7) | 2:00 | 2022-09-08 |  |
+| [Magnet](https://open.spotify.com/track/1geSghgZOCPrcjN2GvGJHS) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Magnet](https://open.spotify.com/album/1nWk5TI1nkvqIBKhEinUFM) | 3:35 | 2022-10-25 |  |
 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2022-08-12 |  |
 | [Maligayang Pagkunwari](https://open.spotify.com/track/11s7b3qNczlmVO0LT3PPte) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Maligayang Pagkunwari](https://open.spotify.com/album/0NqV5yJbP7ngiQPY91J9dj) | 4:34 | 2022-04-01 |  |
 | [MAPA](https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [MAPA](https://open.spotify.com/album/4Qhx57hNp0CUmUbO2igtAq) | 4:35 | 2021-11-25 | 2022-03-25 |
@@ -85,6 +87,7 @@
 | [porque](https://open.spotify.com/track/0dyQp33F9CImZFoSrxaEEM) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [porque](https://open.spotify.com/album/6L93zJeOIQWTgnkJ6Xqj7R) | 4:52 | 2021-11-25 | 2022-03-25 |
 | [Promise](https://open.spotify.com/track/5UOvuk2PlJcSYOtRcGgWLn) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Promise](https://open.spotify.com/album/73LceCGDR2PwTzCp4jPpS5) | 3:33 | 2021-11-25 | 2022-03-25 |
 | [Rest](https://open.spotify.com/track/3M3Uw8SisAcJoZs4mdHJVC) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Rest](https://open.spotify.com/album/6GIs1YEU99gkhIyLttwcK9) | 4:37 | 2021-11-25 | 2022-03-25 |
+| [Risk It](https://open.spotify.com/track/5JsHoy0q0mZutMW27kFq5n) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Risk It](https://open.spotify.com/album/6krLZc8jaKDnq62ppngT4m) | 3:45 | 2022-10-25 |  |
 | [Runnin'](https://open.spotify.com/track/7y0MRQ7VtQYoKUDcFo7xdT) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8), [Keiko Necesario](https://open.spotify.com/artist/0DouUeF604QbSdKYIL3xrq) | [Runnin'](https://open.spotify.com/album/1E3zxWGYuSM0ir8c29aBtK) | 3:28 | 2021-11-25 | 2022-03-25 |
 | [Samokan](https://open.spotify.com/track/5k8Qkzwec8v2QjFOdGJeHI) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj), [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Samokan / Called Ur Bluff](https://open.spotify.com/album/3HBAQ3u2uez5BFfrzyIkzA) | 2:57 | 2021-11-25 | 2022-03-25 |
 | [SEXBOMB GIRL](https://open.spotify.com/track/5TZATzxD16hCmPiuokUgaa) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [SEXBOMB GIRL](https://open.spotify.com/album/50iZdZCELPzNbVFDSgb9zF) | 3:27 | 2021-11-25 | 2022-03-25 |

@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Adam Melchor
 
-836 songs - 2 day 3 hr 27 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
+837 songs - 2 day 3 hr 30 min - [published](https://open.spotify.com/playlist/7yU452WcXvKlp2CXhHrD6N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,8 @@
 | [Hung the Moon](https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Hung the Moon](https://open.spotify.com/album/2R8yAIlt0pNYLsMqyoo2gI) | 3:10 | 2021-11-19 | 2022-01-15 |
 | [Hunters in the Snow](https://open.spotify.com/track/7wKZze6cBkBF7xgHSIKcDr) | [Walter Martin](https://open.spotify.com/artist/1HvCWUrKX1xKeT3yQXjPeI) | [The Bear](https://open.spotify.com/album/7JFqZayp0NfN4yOmyCg6Zs) | 3:53 | 2022-03-25 | 2022-06-25 |
 | [Hurricane](https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Hurricane](https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW) | 4:26 | 2022-05-20 | 2022-06-25 |
-| [Hurricane](https://open.spotify.com/track/5K9CN4zd8jPy5QyuNiv08s) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hurricane](https://open.spotify.com/album/651WqryyYBaP5DloPK8lHv) | 3:34 | 2022-10-14 |  |
+| [Hurricane](https://open.spotify.com/track/2XVHVNrfeITZa9Dj9t9gc3) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:34 | 2022-10-14 |  |
+| [Hurricane](https://open.spotify.com/track/5K9CN4zd8jPy5QyuNiv08s) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hurricane](https://open.spotify.com/album/651WqryyYBaP5DloPK8lHv) | 3:34 | 2022-10-14 | 2022-10-26 |
 | [Hurts \(But It Goes Away\) \- Acoustic](https://open.spotify.com/track/0Jgk1xdaIbtHdW1hjeQXiV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue \(Acoustic\)](https://open.spotify.com/album/2ZHZJEzAcRnrn7pMjk1exJ) | 3:08 | 2022-09-09 |  |
 | [Hypnotized](https://open.spotify.com/track/2lwVMZN6J8Isuiwv6ugxlN) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj) | [Hypnotized](https://open.spotify.com/album/3pBDTOjkxOKziMq71oXorJ) | 4:04 | 2022-06-17 | 2022-07-09 |
 | [I Am Old Enough To Know What Love Is](https://open.spotify.com/track/4IvwSZvacsTCCEXCbv4Fau) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [I Am Old Enough To Know What Love Is](https://open.spotify.com/album/3ZlDLT8BI86AQyRNJPiPMk) | 3:23 | 2022-03-25 | 2022-05-28 |

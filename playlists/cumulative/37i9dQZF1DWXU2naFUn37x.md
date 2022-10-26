@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Vale Pain
 
-150 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
+151 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Antipatico](https://open.spotify.com/track/2ie4n6tymDnMjYkN32WWLV) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [Antipatico](https://open.spotify.com/album/1RG5XhKqqEeknEsc5P7eNv) | 2:31 | 2022-05-11 | 2022-05-27 |
 | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 | 2022-07-07 | 2022-07-15 |
 | [Aston Martin \(feat\. Headie One\)](https://open.spotify.com/track/5yIVCbjYf85Ixuc8ybba6s) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Aston Martin \(feat\. Headie One\)](https://open.spotify.com/album/5Caup6PGNwKut6KiyaZP5j) | 2:48 | 2022-05-11 | 2022-06-03 |
-| [Auto tedesca](https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:39 | 2022-08-26 |  |
+| [Auto tedesca](https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:39 | 2022-10-24 |  |
+| [Auto tedesca](https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:39 | 2022-08-26 | 2022-10-26 |
 | [Bagage](https://open.spotify.com/track/7634keaijcnpeX1jzPrNQV) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Bagage](https://open.spotify.com/album/4eLAygvtyrT2Etom1JPVGq) | 2:22 | 2022-05-11 | 2022-06-03 |
 | [BALLAS RMX \(feat\. MamboLosco, Janga ODT\)](https://open.spotify.com/track/61Tc6VFFrxANwYbKp9ZYWT) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Janga ODT](https://open.spotify.com/artist/3JHgtfIOYtS7US0NC0CRzZ), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [BALLAS RMX \(feat\. MamboLosco, Janga ODT\)](https://open.spotify.com/album/7EsYWxFYeTdJp2Ncf1HTHE) | 2:34 | 2022-05-30 | 2022-08-30 |
 | [BAMBA](https://open.spotify.com/track/0QJHIiPs1UTgJ3ZURHIBMw) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [COSA NOSTRA](https://open.spotify.com/album/0QNI86lT5srJbTLWTWOnFH) | 2:15 | 2022-05-11 | 2022-06-03 |

@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Cover: Hotel Ugly
 
-702 songs - 1 day 14 hr 9 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+703 songs - 1 day 14 hr 14 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,8 @@
 | [Easy On Your Own?](https://open.spotify.com/track/2ZmQI8hVG0wGsvBAvSPx47) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Easy On Your Own?](https://open.spotify.com/album/1v3VgD0YVk0bOrwfs0TO3J) | 2:54 | 2022-08-12 | 2022-10-08 |
 | [Easygoing](https://open.spotify.com/track/4r2D6XlI6RrUwV90bt6uBr) | [JDM Global](https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl) | [Easygoing](https://open.spotify.com/album/0W36AtzYHeIxacZmJi4Ruc) | 3:30 | 2022-05-20 | 2022-06-15 |
 | [Eggshells](https://open.spotify.com/track/2JXsy8qz9PzqDwX7ozd4Go) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Eggshells](https://open.spotify.com/album/1a7DBuyuqgQA7cGLvkiJVN) | 2:31 | 2022-09-16 |  |
-| [Empty Head](https://open.spotify.com/track/1yEHKriEfBw6k1Dcb9sEBj) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Empty Head](https://open.spotify.com/album/3cLIlAzid7cOpdsfECmON9) | 5:13 | 2022-10-21 |  |
+| [Empty Head](https://open.spotify.com/track/1yEHKriEfBw6k1Dcb9sEBj) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Empty Head](https://open.spotify.com/album/3cLIlAzid7cOpdsfECmON9) | 5:13 | 2022-10-21 | 2022-10-26 |
+| [Empty Head](https://open.spotify.com/track/54DjNRB4TFeXOpRMBJyNv3) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 5:13 | 2022-10-21 |  |
 | [Empty in My Mind](https://open.spotify.com/track/0hRPN2UcILtYirFkhQ6Y10) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:52 | 2022-06-10 | 2022-09-03 |
 | [Empty Spaces](https://open.spotify.com/track/4JHCwcCEqwhN34m7qR1lNt) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Empty Spaces](https://open.spotify.com/album/3roXoKWvJK8uSqFKdsCHIV) | 3:47 | 2022-06-10 | 2022-07-16 |
 | [Entropy](https://open.spotify.com/track/5zmKtYP6HI3SItzAVBUEIH) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Entropy](https://open.spotify.com/album/2EXJutCpZBOaCZFA4rw9D7) | 3:41 | 2022-06-10 | 2022-07-23 |

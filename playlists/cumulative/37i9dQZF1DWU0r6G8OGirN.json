@@ -516,6 +516,24 @@
     },
     {
       "album": {
+        "name": "Hark! The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/4lnAUFKMnMf7m1a8DlrA0t"
+      },
+      "artists": [
+        {
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147032,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/4RzVqpmyoVlRGSLPuPhm5u"
+    },
+    {
+      "album": {
         "name": "Traditional Christmas: Jazz Versions",
         "url": "https://open.spotify.com/album/5z45Sva7XDllFlf2CkSWUC"
       },
@@ -527,7 +545,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 199854,
       "name": "Hark! The Herald Angels Sing (Smooth Jazz Version)",
       "url": "https://open.spotify.com/track/3CtCdVoPoB3IALr4erTZr8"
@@ -671,10 +689,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 154000,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/6SlcxJo8k3JvrVCeJMiR54"
+    },
+    {
+      "album": {
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS"
+      },
+      "artists": [
+        {
+          "name": "Kyle Mendes Jazz Trio",
+          "url": "https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176245,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/2s77QtuUY02DggvJbX4dtR"
     },
     {
       "album": {
@@ -1017,10 +1053,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 255733,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/27N4Y24PdcXZtR4IJ40Fhz"
+    },
+    {
+      "album": {
+        "name": "I Saw Mommy Kissing Santa Claus",
+        "url": "https://open.spotify.com/album/5P0WsqOfG5viZpxVpqIuaI"
+      },
+      "artists": [
+        {
+          "name": "Sydney Taylor Band",
+          "url": "https://open.spotify.com/artist/2M3GH9JFk7Z62j2XarUJ1g"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174634,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2QRzVMpP0v8RqmHctJ6yCH"
     },
     {
       "album": {
@@ -1096,6 +1150,24 @@
     },
     {
       "album": {
+        "name": "It's Christmas Jazz Time",
+        "url": "https://open.spotify.com/album/5JR94Jt73E9NuIAWksIoKR"
+      },
+      "artists": [
+        {
+          "name": "Barry Snyder Band",
+          "url": "https://open.spotify.com/artist/5xmw30TV4tlHFIOH6HmPnd"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312808,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/0GV5Du6sVdokEA5Xd1Cs8a"
+    },
+    {
+      "album": {
         "name": "The Christmas Song",
         "url": "https://open.spotify.com/album/4tAD85fBWxNxfI1VjoermN"
       },
@@ -1107,7 +1179,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 206624,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/0QxOpxLx8FEVOYDtnLbS3U"
@@ -1356,6 +1428,24 @@
     },
     {
       "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/74pI1XqEAgFfo1T2UGDEZs"
+      },
+      "artists": [
+        {
+          "name": "Lyla Lee Band",
+          "url": "https://open.spotify.com/artist/44QGQt033sUjbeecDPn791"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153720,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6uVCqvznAx7pOYHTNlxulb"
+    },
+    {
+      "album": {
         "name": "A Slow Jams Jazz Christmas",
         "url": "https://open.spotify.com/album/7CVYLI6ozhkfiV8Lken1OQ"
       },
@@ -1367,7 +1457,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 232986,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/2dvU6xGERLJVghYFioPgmf"

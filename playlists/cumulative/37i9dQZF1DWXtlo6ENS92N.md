@@ -4,7 +4,7 @@
 
 > The finest quality of Bollywood music handpicked for you\. Cover\- Alia and Ranbir.
 
-64 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/3aiNMDFKRmhdg4lRDcg4QM)
+65 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/3aiNMDFKRmhdg4lRDcg4QM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,5 +72,6 @@
 | [Tujhe Kitna Chahne Lage](https://open.spotify.com/track/5QtEFRYavs5S3GHtFEq7A4) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 4:44 | 2022-05-23 |  |
 | [Tumse Bhi Zyada \(From "Tadap"\)](https://open.spotify.com/track/2cC4DfpPa7x1QZTKQpe3TP) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tumse Bhi Zyada \(From "Tadap"\)](https://open.spotify.com/album/42SC76XD21FyMwyJfKVlri) | 5:19 | 2022-05-23 |  |
 | [Ve Maahi](https://open.spotify.com/track/4t1DkxexoMbIHfSHS4Uiyr) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kesari](https://open.spotify.com/album/2koMSm4dddvhxLzZyN2aEE) | 3:43 | 2022-05-23 |  |
+| [Yaar Ve \(From "Code Name Tiranga"\)](https://open.spotify.com/track/4hTIL3DCwfqwSuqRAnyJdy) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Vipin Patwa](https://open.spotify.com/artist/6SzYh3jdZpJxGulYuWlFb5), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Yaar Ve \(From "Code Name Tiranga"\)](https://open.spotify.com/album/71eEspGJM5UykbbRzIfUBL) | 4:02 | 2022-10-25 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

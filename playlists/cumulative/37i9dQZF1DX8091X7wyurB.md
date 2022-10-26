@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-87 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
+88 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/7augvUBLA6t5dcDdUKo5Km)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Nhyira](https://open.spotify.com/track/1Xn4HToryYUuIPP1LJa8LQ) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [His Word](https://open.spotify.com/album/7k9GFfqeimzOkgR2nNYXlB) | 4:08 | 2022-06-30 | 2022-10-14 |
 | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB), [Nacy](https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96) | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk) | 6:49 | 2022-06-30 |  |
 | [No Longer Slaves](https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [No Longer Slaves](https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu) | 5:50 | 2022-06-30 |  |
-| [No Other God](https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [No Other God](https://open.spotify.com/album/558lqIaLddfY4Lh5bZLF8H) | 7:17 | 2022-06-30 |  |
+| [No Other God](https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [No Other God](https://open.spotify.com/album/558lqIaLddfY4Lh5bZLF8H) | 7:17 | 2022-06-30 | 2022-10-26 |
 | [Nobody](https://open.spotify.com/track/1ei1YUmhJwUPZOXicTNjFW) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Nobody](https://open.spotify.com/album/2EkC0qivZmtC9WmfLrmaZV) | 5:03 | 2022-08-12 |  |
 | [Not Moved](https://open.spotify.com/track/6bvQPwpiGkvhwXq12f429q) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/11WIHYBbynfg1VwUlmHshG) | 4:33 | 2022-06-30 |  |
 | [Odo Kese](https://open.spotify.com/track/0LFf0DV7PObhqDRNMHC0RA) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [Odo Kese](https://open.spotify.com/album/790ALtbGXPJ1W0BwLnWcks) | 4:41 | 2022-07-14 |  |
@@ -76,6 +76,7 @@
 | [Satisfy](https://open.spotify.com/track/6DGi6J7yowxdGkzWBuXa28) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Satisfy](https://open.spotify.com/album/3fxGuECzrTfEaPpQOOHbUh) | 2:07 | 2022-06-30 |  |
 | [Savior](https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Savior](https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs) | 2:33 | 2022-09-19 |  |
 | [Shine](https://open.spotify.com/track/4wDlHsa0h7kg42T94CWmU2) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Shine](https://open.spotify.com/album/3s9EGrEnTKHlBS24KT2M6K) | 3:14 | 2022-09-30 |  |
+| [Show Dem](https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc) | [Paul Chisom](https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Show Dem](https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD) | 3:26 | 2022-10-21 |  |
 | [Shower Me](https://open.spotify.com/track/2I7O3n0IyrWewz96OSXzs6) | [Sam Oladotun](https://open.spotify.com/artist/5Ai5qD3eCMMJU7GAzZ277c) | [Shower Me](https://open.spotify.com/album/37SvA5fQ9ltthsyNThSHwe) | 3:31 | 2022-06-30 |  |
 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 | 2022-06-30 |  |
 | [Suddenly](https://open.spotify.com/track/1r0l8K0zN1IsKwIGBpV86r) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS) | 4:51 | 2022-06-30 |  |

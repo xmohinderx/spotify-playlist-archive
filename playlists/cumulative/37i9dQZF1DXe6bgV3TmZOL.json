@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 340132,
       "name": "All Out Life",
       "url": "https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5"
@@ -2876,6 +2876,24 @@
     },
     {
       "album": {
+        "name": "THE DEATH OF PEACE OF MIND",
+        "url": "https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204676,
+      "name": "Just Pretend",
+      "url": "https://open.spotify.com/track/3zb8S65LhiPPPH4vov8yV2"
+    },
+    {
+      "album": {
         "name": "Dr. Feelgood",
         "url": "https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ"
       },
@@ -4263,7 +4281,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 206471,
       "name": "Risen",
       "url": "https://open.spotify.com/track/5SPdrK8RwO52MlBI1kjcft"
@@ -5013,7 +5031,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 254000,
       "name": "The Heretic Anthem",
       "url": "https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh"

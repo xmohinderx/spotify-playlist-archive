@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 326986,
+  "num_followers": 327227,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYyNjY5MywwMDAwMDAwMDY2YWUzODM1YzAyOTUzYmY5YmQ5ZWFkZjRiZjU4NGY0",
+  "snapshot_id": "MTY2NjYyNjY5MywwMDAwMDAwMGJhZjU5NTE1ZTFjOTg3ZGFhZWNjYTFhMDJhYzFiNjY5",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -429,6 +429,22 @@
       "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
     },
     {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 304390,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
+    },
+    {
       "added_at": "2022-07-08 17:15:14",
       "album": {
         "name": "Nobody Is Not Loved, Remixes, Pt. 3",
@@ -459,22 +475,6 @@
       "duration_ms": 432360,
       "name": "Never Sleep Again - Keinemusik Remix",
       "url": "https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 304390,
-      "name": "All I Got",
-      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "A Time To",
+        "url": "https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 231980,
+      "name": "A Time To",
+      "url": "https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Duel",
         "url": "https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 574838,
       "name": "Duel",
       "url": "https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "A Time To",
-        "url": "https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 231980,
-      "name": "A Time To",
-      "url": "https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Moho EP",
-        "url": "https://open.spotify.com/album/5UFFlblxN3PC2hYcNT4i9t"
-      },
-      "artists": [
-        {
-          "name": "Tim Green",
-          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
-        },
-        {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
-        }
-      ],
-      "duration_ms": 536046,
-      "name": "Embre",
-      "url": "https://open.spotify.com/track/3wbUuzRdemeNJuqnMNBC9m"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Home (Mind Against Remix)",
         "url": "https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3"
       },
@@ -935,6 +915,26 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Moho EP",
+        "url": "https://open.spotify.com/album/5UFFlblxN3PC2hYcNT4i9t"
+      },
+      "artists": [
+        {
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+        },
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        }
+      ],
+      "duration_ms": 536046,
+      "name": "Embre",
+      "url": "https://open.spotify.com/track/3wbUuzRdemeNJuqnMNBC9m"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Endup",
         "url": "https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6"
       },
@@ -947,26 +947,6 @@
       "duration_ms": 483824,
       "name": "Palomita",
       "url": "https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Aye Aye",
-        "url": "https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Cameron Jack",
-          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
-        }
-      ],
-      "duration_ms": 240144,
-      "name": "Aye Aye",
-      "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1007,6 +987,26 @@
       "duration_ms": 352916,
       "name": "Black Rain - \u00c2me Remix",
       "url": "https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Aye Aye",
+        "url": "https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Cameron Jack",
+          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
+        }
+      ],
+      "duration_ms": 240144,
+      "name": "Aye Aye",
+      "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Sint Maarten",
-        "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Delaram Kamareh",
-          "url": "https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB"
-        }
-      ],
-      "duration_ms": 271351,
-      "name": "Sint Maarten",
-      "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Secrets EP",
         "url": "https://open.spotify.com/album/1aZ3SBhJnP4B8G4gQ65fT1"
       },
@@ -1185,6 +1165,26 @@
       "url": "https://open.spotify.com/track/4GGVpoLeVtvzJZyhV6J307"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Sint Maarten",
+        "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Delaram Kamareh",
+          "url": "https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB"
+        }
+      ],
+      "duration_ms": 271351,
+      "name": "Sint Maarten",
+      "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
+    },
+    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "Losing Game",
@@ -1199,6 +1199,22 @@
       "duration_ms": 331457,
       "name": "Losing Game",
       "url": "https://open.spotify.com/track/4eSPKciUMc2ZzzCqwBuWNA"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G"
+      },
+      "artists": [
+        {
+          "name": "Blue Noir",
+          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+        }
+      ],
+      "duration_ms": 246462,
+      "name": "Bacall",
+      "url": "https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Little Darling",
-        "url": "https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 220524,
-      "name": "Little Darling",
-      "url": "https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Mesta",
         "url": "https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G"
       },
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Little Darling",
+        "url": "https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 220524,
+      "name": "Little Darling",
+      "url": "https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Marimba",
         "url": "https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx"
       },
@@ -1291,38 +1307,6 @@
       "duration_ms": 359808,
       "name": "Marimba",
       "url": "https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "WAYU Various Artists, Vol. 2",
-        "url": "https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 328089,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G"
-      },
-      "artists": [
-        {
-          "name": "Blue Noir",
-          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
-        }
-      ],
-      "duration_ms": 246462,
-      "name": "Bacall",
-      "url": "https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1343,6 +1327,22 @@
       "duration_ms": 404529,
       "name": "Human Aura - Massano Remix",
       "url": "https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "WAYU Various Artists, Vol. 2",
+        "url": "https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 328089,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1493,6 +1493,22 @@
       "url": "https://open.spotify.com/track/3G6h7nE6eciZDrNVs6Mlov"
     },
     {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/6ZbJmCC26Y3968mSLS2VNc"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Nobody Is Not Loved, Remixes, Pt. 3",
@@ -1557,22 +1573,6 @@
       "url": "https://open.spotify.com/track/1LVnm7eAB3sTW86CGvWFnn"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/6ZbJmCC26Y3968mSLS2VNc"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Oxygen Levels Low EP",
@@ -1603,22 +1603,6 @@
       "duration_ms": 432786,
       "name": "Giza",
       "url": "https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Calmo",
-        "url": "https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f"
-      },
-      "artists": [
-        {
-          "name": "Juanma Salinas",
-          "url": "https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS"
-        }
-      ],
-      "duration_ms": 428181,
-      "name": "Calmo",
-      "url": "https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Calmo",
+        "url": "https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f"
+      },
+      "artists": [
+        {
+          "name": "Juanma Salinas",
+          "url": "https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS"
+        }
+      ],
+      "duration_ms": 428181,
+      "name": "Calmo",
+      "url": "https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Alabora",
         "url": "https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O"
       },
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Niteroi",
-        "url": "https://open.spotify.com/album/6SV0HxgcGoNvl1w0LTrRkM"
-      },
-      "artists": [
-        {
-          "name": "Michael Canitrot",
-          "url": "https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv"
-        }
-      ],
-      "duration_ms": 317770,
-      "name": "Niteroi",
-      "url": "https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Minero",
         "url": "https://open.spotify.com/album/7ijwFFxaAbIFuhQE41eznr"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 369219,
       "name": "Minero",
       "url": "https://open.spotify.com/track/0ZEQcLlNxQI1McXdTX3QQZ"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Niteroi",
+        "url": "https://open.spotify.com/album/6SV0HxgcGoNvl1w0LTrRkM"
+      },
+      "artists": [
+        {
+          "name": "Michael Canitrot",
+          "url": "https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv"
+        }
+      ],
+      "duration_ms": 317770,
+      "name": "Niteroi",
+      "url": "https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1845,20 +1845,24 @@
       "url": "https://open.spotify.com/track/5lqCgngDCc1YtBoWvAT5tI"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Dede",
-        "url": "https://open.spotify.com/album/16KOMbLfPxLqnWmS7qCKmo"
+        "name": "Your Way",
+        "url": "https://open.spotify.com/album/0QZrG85ir88fpUnbxzgFe6"
       },
       "artists": [
         {
-          "name": "Sinca",
-          "url": "https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT"
+          "name": "Emanuele Esposito",
+          "url": "https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU"
+        },
+        {
+          "name": "Darksidevinyl",
+          "url": "https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0"
         }
       ],
-      "duration_ms": 279127,
-      "name": "Dede",
-      "url": "https://open.spotify.com/track/7dR999H4VruQjlx7yFLR2U"
+      "duration_ms": 378688,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/2V64rudkFZ9gciglMM0t5S"
     }
   ],
   "unique_name": "Tantra",

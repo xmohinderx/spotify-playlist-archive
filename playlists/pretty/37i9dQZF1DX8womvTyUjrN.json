@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Justin Quiles & Carin Leon.",
-  "num_followers": 262694,
+  "num_followers": 262753,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYzMTUwMSwwMDAwMDAwMGFmNDU5N2Q5N2MxZTY1ZmQ3MjlhNmJlNDE5MzJhYjM5",
+  "snapshot_id": "MTY2NjYzMTUwMSwwMDAwMDAwMDdkYmEyMDE5ZDRhYmZkNjBkNmI4YTVlMzM3NTdjOTFk",
   "tracks": [
     {
       "added_at": "2022-10-07 15:58:02",
@@ -427,18 +427,22 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Bien Por Ti",
-        "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
+        "name": "eScoRpi\u00d3n :)",
+        "url": "https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj"
       },
       "artists": [
         {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
         }
       ],
-      "duration_ms": 154653,
-      "name": "Bien Por Ti",
-      "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
+      "duration_ms": 179799,
+      "name": "eScoRpi\u00d3n :)",
+      "url": "https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -527,22 +531,18 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "eScoRpi\u00d3n :)",
-        "url": "https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj"
+        "name": "Bien Por Ti",
+        "url": "https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5"
       },
       "artists": [
         {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
         }
       ],
-      "duration_ms": 179799,
-      "name": "eScoRpi\u00d3n :)",
-      "url": "https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan"
+      "duration_ms": 154653,
+      "name": "Bien Por Ti",
+      "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1199,22 +1199,22 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Dol\u00eda (feat. Las Villa)",
-        "url": "https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA"
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2Una6joFhZ97eo86LGN8k4"
       },
       "artists": [
         {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
         },
         {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
         }
       ],
-      "duration_ms": 167994,
-      "name": "Dol\u00eda (feat. Las Villa)",
-      "url": "https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8"
+      "duration_ms": 215400,
+      "name": "Colores",
+      "url": "https://open.spotify.com/track/3cjX2kNtmCn9uP4vvxvNdK"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1235,22 +1235,22 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2Una6joFhZ97eo86LGN8k4"
+        "name": "Dol\u00eda (feat. Las Villa)",
+        "url": "https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA"
       },
       "artists": [
         {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
         },
         {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Colores",
-      "url": "https://open.spotify.com/track/3cjX2kNtmCn9uP4vvxvNdK"
+      "duration_ms": 167994,
+      "name": "Dol\u00eda (feat. Las Villa)",
+      "url": "https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Bummed",
-        "url": "https://open.spotify.com/album/1TKoeVdstQkrNsYn5ErzwD"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 180871,
-      "name": "Bummed",
-      "url": "https://open.spotify.com/track/2em94u4QNIp9RMuIewNlr6"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "PAELLA",
         "url": "https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 182753,
       "name": "PAELLA",
       "url": "https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Bummed",
+        "url": "https://open.spotify.com/album/1TKoeVdstQkrNsYn5ErzwD"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 180871,
+      "name": "Bummed",
+      "url": "https://open.spotify.com/track/2em94u4QNIp9RMuIewNlr6"
     },
     {
       "added_at": "2022-10-07 15:58:02",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2022-10-07 15:58:02",
       "album": {
-        "name": "Dile",
-        "url": "https://open.spotify.com/album/1ngeqoGHWCJy0dCz23GEkE"
-      },
-      "artists": [
-        {
-          "name": "Nino Augustine",
-          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
-        },
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/1S5z1vCwZ02Bv4HniQiYlu"
-    },
-    {
-      "added_at": "2022-10-07 15:58:02",
-      "album": {
         "name": "Solos",
         "url": "https://open.spotify.com/album/128JK5zcSwTC1kSNvQqCbS"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 179805,
       "name": "Solos",
       "url": "https://open.spotify.com/track/7vEPWsovwnkHa2fN5I3tST"
+    },
+    {
+      "added_at": "2022-10-07 15:58:02",
+      "album": {
+        "name": "Dile",
+        "url": "https://open.spotify.com/album/1ngeqoGHWCJy0dCz23GEkE"
+      },
+      "artists": [
+        {
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+        },
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/1S5z1vCwZ02Bv4HniQiYlu"
     },
     {
       "added_at": "2022-10-07 15:58:02",

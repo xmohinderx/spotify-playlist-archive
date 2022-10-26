@@ -2,7 +2,7 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The best of UK Rap & Drill\.  Cover: Central Cee
+> Are you a day 1 fan of your favourite rapper? Prove it!\. Rap UK Day 1 Club has just launched\. <a href='https://day1club\-uk.byspotify.com/'>Check it out.</a>
 
 1,202 songs - 2 day 13 hr 56 min - [published](https://open.spotify.com/playlist/5FuQUpQ2GSOITS1tCcS7A2)
 

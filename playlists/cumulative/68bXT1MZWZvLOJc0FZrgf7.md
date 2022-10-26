@@ -4,7 +4,7 @@
 
 > Press play and dance away to your favorite electronic hits\. Featuring Major Lazer.
 
-204 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
+205 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [No Limit](https://open.spotify.com/track/5U6PQ4fJo1yyTvmpvdcq3L) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [No Limit](https://open.spotify.com/album/1sdW3TsYbEtjdhnZHQhNpV) | 3:27 | 2022-09-23 |  |
 | [NO MIENTEN \- Tiësto Remix](https://open.spotify.com/track/46cyduQIwGKuyZX8TQvVLK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [NO MIENTEN \(Tiësto Remix\)](https://open.spotify.com/album/3eoM1XxYABWjL8XQTXxGD8) | 2:34 | 2022-06-03 |  |
 | [NO MIND](https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [NO MIND](https://open.spotify.com/album/0D7pULV8tSbrBkwulGpT9b) | 2:52 | 2022-06-03 |  |
+| [Numb](https://open.spotify.com/track/0ByZFPyPS1M6n4aigXBKmv) | [Galvanic](https://open.spotify.com/artist/3GQj08iHefTniyhHjCVBov), [Smeyeul.](https://open.spotify.com/artist/4IXRiE1MOvty3H8tQ0KvTO), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Numb](https://open.spotify.com/album/16RaNfI5pcQBJbzCfzUhe5) | 2:37 | 2022-10-25 |  |
 | [Obsessed \(with Charlie Puth & Shenseea\)](https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:46 | 2022-08-05 |  |
 | [One Day](https://open.spotify.com/track/1MDEvpaFk2Ins7N8hGfFlA) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [One Day](https://open.spotify.com/album/5CDBGbuOAyXOAefzMLbXuZ) | 2:32 | 2022-06-03 |  |
 | [One Day I'll Fly Away \(A Song for Takis\)](https://open.spotify.com/track/6X21C26ab6ePgwt9ZuU22z) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [One Day I'll Fly Away \(a Song for Takis\)](https://open.spotify.com/album/2CL51OOoYKl3rd3Ro0nug7) | 3:51 | 2022-06-03 |  |

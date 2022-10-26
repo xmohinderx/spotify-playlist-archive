@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 225181,
+  "num_followers": 225385,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMGFmOWZjMDBiYmI0NjQ4YzM1NzJiMzRhMzE5MjBhOGYz",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMGU3NDViNWIxOTQ0MjNhY2E5ZmQ3OWViMGFiYTc1NDM2",
   "tracks": [
     {
       "added_at": "2022-09-30 14:42:12",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-09-30 14:42:12",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
-    },
-    {
-      "added_at": "2022-09-30 14:42:12",
-      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+    },
+    {
+      "added_at": "2022-09-30 14:42:12",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
     },
     {
       "added_at": "2022-09-30 14:42:12",
@@ -687,26 +687,6 @@
     {
       "added_at": "2022-09-30 14:42:12",
       "album": {
-        "name": "There's No Way",
-        "url": "https://open.spotify.com/album/4jL68AMzZ3OwCoWWrKtGCx"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 174860,
-      "name": "There's No Way (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/0WTN7om3lHG3yYMigwzBxl"
-    },
-    {
-      "added_at": "2022-09-30 14:42:12",
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 185280,
       "name": "Seeing Blind",
       "url": "https://open.spotify.com/track/65wnZsZLKJimfK1cTFOfa1"
+    },
+    {
+      "added_at": "2022-09-30 14:42:12",
+      "album": {
+        "name": "There's No Way",
+        "url": "https://open.spotify.com/album/4jL68AMzZ3OwCoWWrKtGCx"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 174860,
+      "name": "There's No Way (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/0WTN7om3lHG3yYMigwzBxl"
     },
     {
       "added_at": "2022-09-30 14:42:12",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-09-30 14:42:12",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6ZHedelUpByxH6pYV3tCok"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 205462,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE"
+    },
+    {
+      "added_at": "2022-09-30 14:42:12",
+      "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 220839,
       "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO"
-    },
-    {
-      "added_at": "2022-09-30 14:42:12",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6ZHedelUpByxH6pYV3tCok"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 205462,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE"
     },
     {
       "added_at": "2022-09-30 14:42:12",
@@ -1269,7 +1269,7 @@
       "url": "https://open.spotify.com/track/5X4tAxxNC5XaSgcIW3xhj7"
     },
     {
-      "added_at": "2022-10-25 02:03:41",
+      "added_at": "2022-10-26 01:46:25",
       "album": {
         "name": "Grapevine",
         "url": "https://open.spotify.com/album/43MlFOqkx9uwvXTppU2t1v"
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-09-30 14:42:12",
       "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
+    },
+    {
+      "added_at": "2022-09-30 14:42:12",
+      "album": {
         "name": "Purple Haze",
         "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
       },
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2022-09-30 14:42:12",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
-    },
-    {
-      "added_at": "2022-09-30 14:42:12",
-      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-09-30 14:42:12",
       "album": {
-        "name": "Somewhere Only We Know",
-        "url": "https://open.spotify.com/album/6xOnP1PFgnX5x2GxL9VoOf"
-      },
-      "artists": [
-        {
-          "name": "Miki Ratsula",
-          "url": "https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30"
-        }
-      ],
-      "duration_ms": 200667,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/2g5HVcE4OCp9SZybPEWzny"
-    },
-    {
-      "added_at": "2022-09-30 14:42:12",
-      "album": {
         "name": "New Ways",
         "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 247266,
       "name": "Hot Tears",
       "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
+    },
+    {
+      "added_at": "2022-09-30 14:42:12",
+      "album": {
+        "name": "Somewhere Only We Know",
+        "url": "https://open.spotify.com/album/6xOnP1PFgnX5x2GxL9VoOf"
+      },
+      "artists": [
+        {
+          "name": "Miki Ratsula",
+          "url": "https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30"
+        }
+      ],
+      "duration_ms": 200667,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/2g5HVcE4OCp9SZybPEWzny"
     },
     {
       "added_at": "2022-09-30 14:42:12",

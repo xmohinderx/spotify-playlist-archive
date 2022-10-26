@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9?si=P1VKomJwQVa0K2hcYMs3ng">Vanco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,688 likes - 79 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,713 likes - 79 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

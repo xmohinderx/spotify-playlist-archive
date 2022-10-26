@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,411 likes - 108 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,406 likes - 108 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 8 | [A Feeling That Never Came](https://open.spotify.com/track/3fy2ILYi8upEuracr84cx0) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [A Feeling That Never Came](https://open.spotify.com/album/4YKGoja0xZXazCOIDFeLsF) | 3:28 |
 | 9 | [Stockholm](https://open.spotify.com/track/3PWzNSDRJUIOmb9NFrCJak) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Stockholm](https://open.spotify.com/album/0TbxuTAwvdQPTMjQu2qoe5) | 4:09 |
 | 10 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 |
-| 11 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 |
+| 11 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 |
 | 12 | [True Love](https://open.spotify.com/track/6GwHYc28I8kh9PwhsGYBbw) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [True Love](https://open.spotify.com/album/5VRjsvgCNsgfltR29vXeWL) | 3:40 |
 | 13 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 14 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 72 | [De Ghetto](https://open.spotify.com/track/2ThusgzPbWkmX4coEv9PRt) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [De Ghetto](https://open.spotify.com/album/0QeKyKDdiWADH5cOCsWPGh) | 2:33 |
 | 73 | [Annan Sak](https://open.spotify.com/track/1p0uOrGKaqAUdWZ1GjNcQJ) | [D50](https://open.spotify.com/artist/1zMg0ur2T1UsRYtW9VNsLv), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW), [Fu3go](https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1) | [Annan Sak](https://open.spotify.com/album/6Sd4zeZbd3VQWZo3F0TjOE) | 2:24 |
 | 74 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 |
-| 75 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/5ykuFZXYbA8frwBmutsoFx) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:18 |
+| 75 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 |
 | 76 | [Gunshot \(feat\. BEAM\)](https://open.spotify.com/track/0KlJg8lNDghpEnxDHNQjF2) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Hitmaka](https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Gunshot \(feat\. BEAM\)](https://open.spotify.com/album/0Vi6fedojqQltaJpwgv5nj) | 2:10 |
 | 77 | [Räkna Dagar](https://open.spotify.com/track/2BCeQusfQkPjJQfY1Rv7NW) | [Alex Lew](https://open.spotify.com/artist/3mmGQd4PxDhJX8wCnN8lzr) | [Räkna Dagar](https://open.spotify.com/album/6LpKfX5j2Z5H3TtDm0g07x) | 2:20 |
 | 78 | [Sky](https://open.spotify.com/track/4okLKBoptdikEhZWfmPJne) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Sky](https://open.spotify.com/album/1HyPOtFbKB9W9gswq6wQwN) | 3:02 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 107 | [Vi är Hollywood](https://open.spotify.com/track/3IBnJqw4tW3QFDQ8o2lBW2) | [Sannex](https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8) | [Vi är Hollywood](https://open.spotify.com/album/4VaYdWOBIsYabHCbpcI2fs) | 3:03 |
 | 108 | [Tiger](https://open.spotify.com/track/6xaPrKxXi0WJd3zTgg2wnt) | [Emil Jensen](https://open.spotify.com/artist/2sdhZm1TCh9CLoM4QUBsll) | [Tiger](https://open.spotify.com/album/59ZlDCibXTMeACy0RPdjVe) | 4:15 |
 
-Snapshot ID: `MTY2NjM1NzU2MCwwMDAwMDAwMGFiZmJkY2I3YTYwNjQwMzI4NjBmNmYxNTIyZDJiYWYx`
+Snapshot ID: `MTY2NjM1NzU2MCwwMDAwMDAwMGQ4ZGVlZTg0YmY4MTM4MjFhZGM0OTZlYmNhMzAwNjRj`

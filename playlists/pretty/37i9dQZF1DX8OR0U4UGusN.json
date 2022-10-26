@@ -1,12 +1,12 @@
 {
   "description": "cool tunes for walking, driving, running, flying, etc",
-  "num_followers": 153449,
+  "num_followers": 153539,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2MDkyMCwwMDAwMDAwMGM3OGJlMjhkYzdkYjk2OTY4NmEyMGFhNGE3ZDc3ZmZi",
+  "snapshot_id": "MTY2NTc2MDkyMCwwMDAwMDAwMDYwZTE2ZjA4ZjllZDA3NGRiZDJiZTE5MjI4YzJkMzk4",
   "tracks": [
     {
       "added_at": "2022-10-06 17:50:33",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Where Angels Fear To Tread",
-      "url": "https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "Actual Life 2 (February 2 - October 15 2021)",
         "url": "https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf"
       },
@@ -347,18 +331,18 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Good Advice",
-        "url": "https://open.spotify.com/album/5MQethd22cttCRC2uAbrjI"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn"
       },
       "artists": [
         {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         }
       ],
-      "duration_ms": 143838,
-      "name": "Good Advice",
-      "url": "https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA"
+      "duration_ms": 225906,
+      "name": "Where Angels Fear To Tread",
+      "url": "https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -375,6 +359,22 @@
       "duration_ms": 212613,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Good Advice",
+        "url": "https://open.spotify.com/album/5MQethd22cttCRC2uAbrjI"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 143838,
+      "name": "Good Advice",
+      "url": "https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Hannah (the sun)",
-        "url": "https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 196796,
-      "name": "Hannah (the sun)",
-      "url": "https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/45SzO3Sw87Hqma1EQJ3kFn"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
+        "name": "Hannah (the sun)",
+        "url": "https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 196796,
+      "name": "Hannah (the sun)",
+      "url": "https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
         "name": "Duo",
         "url": "https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Hot Crush Lover",
-        "url": "https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs"
-      },
-      "artists": [
-        {
-          "name": "Blu DeTiger",
-          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-        }
-      ],
-      "duration_ms": 193731,
-      "name": "Hot Crush Lover",
-      "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "Dream in Colour",
         "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 183896,
       "name": "Skin on Skin",
       "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Hot Crush Lover",
+        "url": "https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        }
+      ],
+      "duration_ms": 193731,
+      "name": "Hot Crush Lover",
+      "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+        "name": "Are We Going Too Slow?",
+        "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
       },
       "artists": [
         {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
         }
       ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
+      "duration_ms": 188380,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -579,34 +579,18 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Are We Going Too Slow?",
-        "url": "https://open.spotify.com/album/5xIG1uX52BQikNOdXtL10N"
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
       },
       "artists": [
         {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
         }
       ],
-      "duration_ms": 188380,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/7zFtgo8QMmJQj6dWKrtQwM"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
-        "name": "Where Is My Mind?",
-        "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 177260,
-      "name": "Where Is My Mind?",
-      "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -623,6 +607,22 @@
       "duration_ms": 173641,
       "name": "What Does That Make Me?",
       "url": "https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Where Is My Mind?",
+        "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 177260,
+      "name": "Where Is My Mind?",
+      "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "NEVER CRY AGAIN",
-        "url": "https://open.spotify.com/album/1uYX907pgQI6YblNc087rK"
-      },
-      "artists": [
-        {
-          "name": "John Michael Howell",
-          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
-        }
-      ],
-      "duration_ms": 164573,
-      "name": "NEVER CRY AGAIN",
-      "url": "https://open.spotify.com/track/4oHUV9PR1jCJNqZ35xuSZ1"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "HOW CAN I SLEEP",
         "url": "https://open.spotify.com/album/6RAOysblAHnraRB2txh7C7"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 267386,
       "name": "HOW CAN I SLEEP",
       "url": "https://open.spotify.com/track/7GfDyeYSkBWENSzZH0pYOv"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "NEVER CRY AGAIN",
+        "url": "https://open.spotify.com/album/1uYX907pgQI6YblNc087rK"
+      },
+      "artists": [
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+        }
+      ],
+      "duration_ms": 164573,
+      "name": "NEVER CRY AGAIN",
+      "url": "https://open.spotify.com/track/4oHUV9PR1jCJNqZ35xuSZ1"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Yesteryear",
-        "url": "https://open.spotify.com/album/4ec8RXuBUknXHrkjpeNNdl"
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/2WVb9SfnuZ2gRIjGRBUHbx"
       },
       "artists": [
         {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+          "name": "Miloe",
+          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
         }
       ],
-      "duration_ms": 219795,
-      "name": "Yesteryear",
-      "url": "https://open.spotify.com/track/0u8AnQEMd9W6fDG2UbFjyz"
+      "duration_ms": 145186,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/3VQYvYIL5KwHVz7tMLdr1n"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/2WVb9SfnuZ2gRIjGRBUHbx"
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/4ec8RXuBUknXHrkjpeNNdl"
       },
       "artists": [
         {
-          "name": "Miloe",
-          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
         }
       ],
-      "duration_ms": 145186,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/3VQYvYIL5KwHVz7tMLdr1n"
+      "duration_ms": 219795,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/0u8AnQEMd9W6fDG2UbFjyz"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Night at Ezeh's",
-        "url": "https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl"
+        "name": "Juvenile",
+        "url": "https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR"
       },
       "artists": [
         {
-          "name": "Sam Ezeh",
-          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 193285,
-      "name": "CRISIS",
-      "url": "https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi"
+      "duration_ms": 368360,
+      "name": "Friends In Secret",
+      "url": "https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1071,34 +1071,18 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Juvenile",
-        "url": "https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR"
+        "name": "Night at Ezeh's",
+        "url": "https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl"
       },
       "artists": [
         {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "Sam Ezeh",
+          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
         }
       ],
-      "duration_ms": 368360,
-      "name": "Friends In Secret",
-      "url": "https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 160243,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
+      "duration_ms": 193285,
+      "name": "CRISIS",
+      "url": "https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1115,6 +1099,22 @@
       "duration_ms": 179533,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/3Iid1bzzTHFY9bXoVs7SiJ"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 160243,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "The Start",
-        "url": "https://open.spotify.com/album/0KrSUDXYpQdGuLWc0qw4v8"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 188869,
-      "name": "The Start",
-      "url": "https://open.spotify.com/track/1uyOb4rVDC4QkTwqTH9Thj"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "Driving in the City",
         "url": "https://open.spotify.com/album/4uzhGURcS9dnzQVsXrryPH"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 210680,
       "name": "Driving in the City",
       "url": "https://open.spotify.com/track/1koSROGPbhkEzxOE8JYHXW"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "The Start",
+        "url": "https://open.spotify.com/album/0KrSUDXYpQdGuLWc0qw4v8"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 188869,
+      "name": "The Start",
+      "url": "https://open.spotify.com/track/1uyOb4rVDC4QkTwqTH9Thj"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "Stock Child Wonder",
-        "url": "https://open.spotify.com/album/3P6u0YQUVULgVFGFH07tgt"
-      },
-      "artists": [
-        {
-          "name": "Knox Fortune",
-          "url": "https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU"
-        }
-      ],
-      "duration_ms": 182574,
-      "name": "Sincerity",
-      "url": "https://open.spotify.com/track/0ssktAKaBJBaCOyBeYEFeW"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "TECHNICOLOR",
         "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 162135,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/3HwOQx5ROlGQjQgu0YByuL"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "Stock Child Wonder",
+        "url": "https://open.spotify.com/album/3P6u0YQUVULgVFGFH07tgt"
+      },
+      "artists": [
+        {
+          "name": "Knox Fortune",
+          "url": "https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU"
+        }
+      ],
+      "duration_ms": 182574,
+      "name": "Sincerity",
+      "url": "https://open.spotify.com/track/0ssktAKaBJBaCOyBeYEFeW"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-10-06 17:50:33",
       "album": {
-        "name": "MICHELLE",
-        "url": "https://open.spotify.com/album/3ConwnTDycEVM2S0bnYMf1"
-      },
-      "artists": [
-        {
-          "name": "G Lun\u00e9",
-          "url": "https://open.spotify.com/artist/11IkPAEv36afGTiydLyDI0"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "MICHELLE",
-      "url": "https://open.spotify.com/track/25CsbJSuItQQnhyC02vnnk"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
         "name": "PIE",
         "url": "https://open.spotify.com/album/6glFEczFwAjeB16GvQBoJ5"
       },
@@ -1643,6 +1627,38 @@
       "duration_ms": 176552,
       "name": "PIE",
       "url": "https://open.spotify.com/track/69W17RttaPLLzfZKc5g1ey"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "MICHELLE",
+        "url": "https://open.spotify.com/album/3ConwnTDycEVM2S0bnYMf1"
+      },
+      "artists": [
+        {
+          "name": "G Lun\u00e9",
+          "url": "https://open.spotify.com/artist/11IkPAEv36afGTiydLyDI0"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "MICHELLE",
+      "url": "https://open.spotify.com/track/25CsbJSuItQQnhyC02vnnk"
+    },
+    {
+      "added_at": "2022-10-06 17:50:33",
+      "album": {
+        "name": "\u200erubber \u200echecks",
+        "url": "https://open.spotify.com/album/22yEH7dzROVoUerLqNZy7Z"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "duration_ms": 118363,
+      "name": "\u200erubber \u200echecks",
+      "url": "https://open.spotify.com/track/2VJ40dmMMmZCxZkeEbPKpo"
     },
     {
       "added_at": "2022-10-06 17:50:33",
@@ -1675,22 +1691,6 @@
       "duration_ms": 192656,
       "name": "Wifi Beach",
       "url": "https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu"
-    },
-    {
-      "added_at": "2022-10-06 17:50:33",
-      "album": {
-        "name": "\u200erubber \u200echecks",
-        "url": "https://open.spotify.com/album/22yEH7dzROVoUerLqNZy7Z"
-      },
-      "artists": [
-        {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
-        }
-      ],
-      "duration_ms": 118363,
-      "name": "\u200erubber \u200echecks",
-      "url": "https://open.spotify.com/track/2VJ40dmMMmZCxZkeEbPKpo"
     },
     {
       "added_at": "2022-10-06 17:50:33",

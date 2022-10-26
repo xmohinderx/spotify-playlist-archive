@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: حكيم
 
-185 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/4fMtwH9irxUnSlxVB6fU16)
+186 songs - 14 hr 25 min - [published](https://open.spotify.com/playlist/4fMtwH9irxUnSlxVB6fU16)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [El Metsaltan](https://open.spotify.com/track/22VUSiX5N1MfmxwavOJIDJ) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [El Ostaz](https://open.spotify.com/album/3J8t51g0S9Gwa6xUfGwlzU) | 6:05 | 2021-12-16 |  |
 | [El Moled](https://open.spotify.com/track/1aJsfHOZbXVt5rRrGYS7Lz) | [Ahmed El Soghayar](https://open.spotify.com/artist/6BFeXuqeEwOAUu3tqmbrQe) | [Tebkey Ya Ein](https://open.spotify.com/album/4QFnAyN7DvUMiIkjey2TM7) | 10:18 | 2021-12-16 | 2022-07-24 |
 | [El Nas El Ray'ah](https://open.spotify.com/track/2m66UK6UWcoo73unfkdSff) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5), [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [El Nas El Ray'ah](https://open.spotify.com/album/6fKDnl05iZZFfNDHgupgYO) | 3:31 | 2021-12-16 |  |
-| [ElSo7ab Yala](https://open.spotify.com/track/4StABzuf6ZgFibqFSNEjmp) | [Misho Gamal](https://open.spotify.com/artist/6w4zJXRxkPD5Z1onGcEfet) | [ElSo7ab Yala](https://open.spotify.com/album/07r7JWc9srIQL0IYtUI86J) | 4:31 | 2021-12-16 |  |
+| [ElSo7ab Yala](https://open.spotify.com/track/4StABzuf6ZgFibqFSNEjmp) | [Misho Gamal](https://open.spotify.com/artist/6w4zJXRxkPD5Z1onGcEfet) | [ElSo7ab Yala](https://open.spotify.com/album/07r7JWc9srIQL0IYtUI86J) | 4:31 | 2021-12-16 | 2022-10-26 |
 | [Ely Meny Mezaleny](https://open.spotify.com/track/7yHt74yOh2Oc6MPyLdUzlE) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Ahmed Shiba Cocktail](https://open.spotify.com/album/1k0LL1fgNsewKfbPUTpQwD) | 6:07 | 2021-12-16 | 2022-10-23 |
 | [Etlaaly Bara](https://open.spotify.com/track/4hqqaY70c6dQdWJQxen9Lx) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Etlaaly Bara](https://open.spotify.com/album/1iwfXGanX6SuuSkbZsQJj6) | 3:48 | 2021-12-16 | 2022-07-29 |
 | [Ewa'a El Wahsh](https://open.spotify.com/track/3WujSFVSAIOHefifMmtZ9n) | [Hassan El Kholaey](https://open.spotify.com/artist/66cgnb4zHHH8LKIF2Ukyv0), [Johara](https://open.spotify.com/artist/6eIPhs5acqaz0s3aXnGoGl) | [Ewa'a El Wahsh](https://open.spotify.com/album/3XoVVi5ID5SRsQKDeuX5Lo) | 4:03 | 2021-12-16 | 2022-07-27 |
@@ -163,6 +163,7 @@
 | [رؤيه](https://open.spotify.com/track/6fUKfFIg9KDlAEEv5fbA5Y) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [رؤيه](https://open.spotify.com/album/0sViw2t348HGD2T27ek4sk) | 5:14 | 2022-07-14 |  |
 | [رجوله برجوله](https://open.spotify.com/track/2jKz9RbKLDLoLGVUQcJyGN) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [رجوله برجوله](https://open.spotify.com/album/4ONvsbkmfIQNvHa3Bc6STl) | 2:39 | 2022-09-01 |  |
 | [رجوله برجوله](https://open.spotify.com/track/6zHTueE7m07zUriRDA5qIJ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [رجوله برجوله](https://open.spotify.com/album/0RpaDyeJRmBWFpWWTlFPmM) | 2:39 | 2021-12-16 | 2022-07-29 |
+| [رضا البحراوي اغنية البابا وصل](https://open.spotify.com/track/5VW3aJVP0CxGxlMYLUvOhJ) | [رضا البحراوي](https://open.spotify.com/artist/3gCC2rrffVtShU9ySHwVa3) | [رضا البحراوي اغنية البابا وصل](https://open.spotify.com/album/2CeT9WKHjiLdd39o2UeukO) | 3:41 | 2022-10-26 |  |
 | [ست الدار](https://open.spotify.com/track/0grRZWW58zX4wvEqa2egZ7) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [ست الدار](https://open.spotify.com/album/48YwDUsVYuSRX7wb5yOhpr) | 2:35 | 2022-07-14 |  |
 | [ست الدار](https://open.spotify.com/track/0oLd6k3kyus10YjweGcRnU) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [ست الدار](https://open.spotify.com/album/1qUtZxDRJ8C9214Axp9bl7) | 2:35 | 2021-12-16 | 2022-07-28 |
 | [سلامتك يا دماغى](https://open.spotify.com/track/23p8lKM81xFmdwpOxDNe0k) | [Shaaban Abdel Rahim](https://open.spotify.com/artist/02f6OKV3ImIJrm3UoW3Oue), [Essam Shaaban](https://open.spotify.com/artist/4fNex4OtpsJikybNs2IuHy) | [الضرب فى العراق](https://open.spotify.com/album/73HO4HCy4MdLe1DsIgeoHJ) | 4:27 | 2021-12-16 | 2022-07-29 |

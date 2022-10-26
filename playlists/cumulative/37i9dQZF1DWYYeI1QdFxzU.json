@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 296250,
       "name": "Adderall",
       "url": "https://open.spotify.com/track/0pAGo08jBvebuxMUoqvulX"
@@ -516,6 +516,24 @@
     },
     {
       "album": {
+        "name": "Don't You Forget About Me",
+        "url": "https://open.spotify.com/album/3PbktfrtKjsK7WMvqMIqyI"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348000,
+      "name": "Don't You Forget About Me",
+      "url": "https://open.spotify.com/track/7IidnemjastTResAXISAK7"
+    },
+    {
+      "album": {
         "name": "Douro",
         "url": "https://open.spotify.com/album/72kFOHZQiZwAGekChA3LMY"
       },
@@ -527,7 +545,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 225068,
       "name": "Douro",
       "url": "https://open.spotify.com/track/0YWm63Fld60fXms4TQ8M37"
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 200856,
       "name": "Magic--Pearl",
       "url": "https://open.spotify.com/track/4hiNXRP0MUIl6wdEMAnazO"

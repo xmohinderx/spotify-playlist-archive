@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Plumas + Pedropiedra
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,627 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,620 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,16 +79,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 69 | [Rocanrol de los Misterios](https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO) | [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Rocanrol de los Misterios](https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua) | 4:19 |
 | 70 | [Dual](https://open.spotify.com/track/1i12FygtGjwPG3UBf6Nb8l) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Dual](https://open.spotify.com/album/3WywOeCZ9nXNnnTu5MBGIX) | 4:24 |
 | 71 | [Mala Fama \- En Vivo](https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Ases Falsos En El Coliseo](https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R) | 4:03 |
-| 72 | [Gol de Caszely](https://open.spotify.com/track/4G5BUwn7bk6GmxwZ2PNnlj) | [Daniel Guerrero](https://open.spotify.com/artist/46DjlImkqCqoPI8bQFfGma) | [Gol de Caszely](https://open.spotify.com/album/3vb74EiQdE9RO2l8hb4Hwj) | 3:48 |
-| 73 | [Cuando Respiro En Tu Boca](https://open.spotify.com/track/0hcS3WBHh9F1cXfbulmU8K) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht) | [Navidad Latin Rock](https://open.spotify.com/album/0o8XQxHocFu0pgBQGOQJ7h) | 3:31 |
+| 72 | [Cuando Respiro En Tu Boca](https://open.spotify.com/track/0hcS3WBHh9F1cXfbulmU8K) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht) | [Navidad Latin Rock](https://open.spotify.com/album/0o8XQxHocFu0pgBQGOQJ7h) | 3:31 |
+| 73 | [Gol de Caszely](https://open.spotify.com/track/4G5BUwn7bk6GmxwZ2PNnlj) | [Daniel Guerrero](https://open.spotify.com/artist/46DjlImkqCqoPI8bQFfGma) | [Gol de Caszely](https://open.spotify.com/album/3vb74EiQdE9RO2l8hb4Hwj) | 3:48 |
 | 74 | [Niña Blanca](https://open.spotify.com/track/4cYV1Di4LgjQR255w4QaKE) | [Devil Presley](https://open.spotify.com/artist/5EIqlTaPbY8qZZvVjwkCQH) | [Niña Blanca](https://open.spotify.com/album/28L0BFyBWpYRxcKa35cSiD) | 7:15 |
 | 75 | [Rock N' Blues](https://open.spotify.com/track/6GNdKCFVqKb7cx9lvW9oXe) | [Los Crushers](https://open.spotify.com/artist/65xNr7wwwRFXt9oq6DsN8q) | [Rock N' Blues](https://open.spotify.com/album/2z5OFr6SCRYjv4mZsbdPHq) | 3:04 |
 | 76 | [Ojos del Amanecer](https://open.spotify.com/track/2V5sjtsZVURXteegtebjHw) | [Libra CL](https://open.spotify.com/artist/2YMeDKKo2lRhDfs1AAphax) | [El Efecto, Vol\. II](https://open.spotify.com/album/0smAA02meynY4fG1ad1uge) | 5:10 |
 | 77 | [Pienso en Ti](https://open.spotify.com/track/2h0cTU9fOCtf0aibqHIRWJ) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Pienso en Ti](https://open.spotify.com/album/0IUvvOWKFGYHQUzS7VC4Ow) | 4:25 |
 | 78 | [Volveremos](https://open.spotify.com/track/2NtVz2PnXor6n99JUa3lni) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Volveremos](https://open.spotify.com/album/2nZ0IhiSRSBTKypqTbm6d7) | 2:34 |
 | 79 | [Camino a Casa](https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Camino a Casa](https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU) | 2:53 |
-| 80 | [Lugares Que Hablan](https://open.spotify.com/track/5uVEekaGoLZkacaX4foVK4) | [Angel Parra Orrego](https://open.spotify.com/artist/33XTgiMGZUjMR6SnwE2qUy) | [Travesuras](https://open.spotify.com/album/7HI1QkxJ1fsl0ELrXEN9Yo) | 1:37 |
-| 81 | [Privado](https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx) | [Café en Saturno](https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T) | [Privado](https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG) | 4:41 |
+| 80 | [Privado](https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx) | [Café en Saturno](https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T) | [Privado](https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG) | 4:41 |
+| 81 | [Lugares Que Hablan](https://open.spotify.com/track/5uVEekaGoLZkacaX4foVK4) | [Angel Parra Orrego](https://open.spotify.com/artist/33XTgiMGZUjMR6SnwE2qUy) | [Travesuras](https://open.spotify.com/album/7HI1QkxJ1fsl0ELrXEN9Yo) | 1:37 |
 | 82 | [Rebelión del Rock](https://open.spotify.com/track/25yT6XXsMludDfgMqViX7Y) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk) | [Rebelión del Rock](https://open.spotify.com/album/51EtCSCygyxeVjZeHvYEcZ) | 3:40 |
 | 83 | [El Vaivén](https://open.spotify.com/track/5aIrqFydkhSU25u6OQLRdT) | [Juanito Ayala](https://open.spotify.com/artist/4Wy8CFlIS11ODC9wVKBSz4), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Lo Comido y Lo Bailado](https://open.spotify.com/album/61CtpH0g7Q4Vr4Tr6O1rLh) | 3:09 |
 | 84 | [La Manera Correcta](https://open.spotify.com/track/1tuLGickBIo4hN5CPHaa8I) | [Gonzalo Yañez](https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA) | [La Manera Correcta](https://open.spotify.com/album/6oVkvaKUqAGlyNiLtjnSMx) | 3:23 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 96 | [Son Puros Caballos](https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Hipertenso](https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o) | 2:44 |
 | 97 | [Mujer Robusta \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk), [GrassBrass](https://open.spotify.com/artist/1eJudSmozfcZXqLhvnoWKV) | [25 Años \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl) | 3:07 |
 | 98 | [Sale](https://open.spotify.com/track/0JwfanqBJszF8B8bVjuXuU) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Arlette Jequier](https://open.spotify.com/artist/4gSoikgkAj7eScTWcLrmij) | [Sale](https://open.spotify.com/album/0QceJCJqsKtfEfxQJZaKAD) | 3:57 |
-| 99 | [Invisible](https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71) | [Candy66](https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ), [Nk Profeta](https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5) | [Invisible](https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q) | 5:42 |
+| 99 | [Una Vieja Carta](https://open.spotify.com/track/4mdMFl8IeINEY0jZNgEdAp) | [Kolumbia](https://open.spotify.com/artist/4kspMj0rOe3V4NCUx3iJlH), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Una Vieja Carta](https://open.spotify.com/album/25Dz6g8tUZuiZlihux27UJ) | 3:46 |
 | 100 | [Todo lo que sube](https://open.spotify.com/track/1FZZm0nu55sStVXCPt7Pab) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Todo lo que sube](https://open.spotify.com/album/2SnwhKbP6ibkBjbWFkB9nE) | 5:15 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDYwYzQ5NzlkODZjMWEwOTI3ZmQ5NGE0Y2M5OTYxZDkw`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDllNzg0YTE0ZmE2ODA1NzUyNTRjY2ExMWYyZDkwYzFk`

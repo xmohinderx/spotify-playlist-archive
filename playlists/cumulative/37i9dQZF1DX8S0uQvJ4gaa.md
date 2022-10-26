@@ -4,7 +4,7 @@
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Spencer Crandall
 
-1,514 songs - 3 day 9 hr 59 min - [published](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
+1,515 songs - 3 day 10 hr 2 min - [published](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1283,7 +1283,8 @@
 | [The Road](https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq) | 4:28 | 2021-12-17 | 2022-02-19 |
 | [The Way It Goes](https://open.spotify.com/track/1CswVu0zSqxDcwfXmegmeK) | [Stephen Carey](https://open.spotify.com/artist/5R4aCM4MHu9UvbvfDgW6N1) | [The Way It Goes](https://open.spotify.com/album/5G1PkwM2en57EWT4byqsVx) | 2:47 | 2019-05-26\* | 2019-08-13 |
 | [The Wheels Of Laredo](https://open.spotify.com/track/7yIWsSTbsJWtMSR8qzRqDD) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [The Wheels Of Laredo](https://open.spotify.com/album/0mRWeFcia2ulEf6QHdci17) | 3:49 | 2019-06-11 | 2019-06-23 |
-| [The Wolves](https://open.spotify.com/track/2qg3DQgzNxAJTT15VEYH49) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Wolves](https://open.spotify.com/album/0kdZPFWdg3o2H4jCfAHOyP) | 2:54 | 2022-10-07 |  |
+| [The Wolves](https://open.spotify.com/track/2qg3DQgzNxAJTT15VEYH49) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Wolves](https://open.spotify.com/album/0kdZPFWdg3o2H4jCfAHOyP) | 2:54 | 2022-10-07 | 2022-10-26 |
+| [The Wolves](https://open.spotify.com/track/49hCqy60MNEdj8c0wNMRg6) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Wolves](https://open.spotify.com/album/6t5HN3jcj7XgD79SB0SrT5) | 2:54 | 2022-10-21 |  |
 | [The Woman in It](https://open.spotify.com/track/6FzqASkPATZyQvpjo3fI4b) | [Cash Campbell](https://open.spotify.com/artist/57niI6IBcl5QLGLY45pEdw) | [The Woman in It](https://open.spotify.com/album/0f5XqctDNReIMkq454420q) | 2:48 | 2020-06-14 | 2020-07-12 |
 | [The World Goes On](https://open.spotify.com/track/5HU4ykqhlMQRdAgUtKiZ9J) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe) | [The World Goes On](https://open.spotify.com/album/3gQcS1rYxDK7qJP26MM88r) | 3:25 | 2020-05-30 | 2020-07-19 |
 | [The Worst Country Song Of All Time](https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Worst Country Song Of All Time](https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h) | 3:17 | 2021-06-26 | 2021-08-14 |

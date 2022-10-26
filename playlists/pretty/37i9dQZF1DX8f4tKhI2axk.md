@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 
 > Island vibes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,619 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,664 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 22 | [Is This Love](https://open.spotify.com/track/2sevvnMrqH607r5lwk3kFT) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:50 |
 | 23 | [Your House](https://open.spotify.com/track/6PbtTwGUPPbnT7nRTA1gS3) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [True Democracy](https://open.spotify.com/album/26eFSibLfoQ0pIvnb02NDg) | 3:42 |
 | 24 | [Wonderful World, Beautiful People \- Single Version](https://open.spotify.com/track/7vCEPLGrLHqBHyRPPsweYY) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 3:15 |
-| 25 | [Tomorrow People](https://open.spotify.com/track/07QZEz7d4OS6vmS1iiwJCc) | [Ziggy Marley & The Melody Makers](https://open.spotify.com/artist/3Z2jmNAP2UaGa8lPpi54wD) | [Conscious Party](https://open.spotify.com/album/31dATgHjk7MwSkzrtNUurs) | 3:38 |
-| 26 | [Book Of Rules](https://open.spotify.com/track/4PKri4OX2AB2RXj95Y9ZgB) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Night Food](https://open.spotify.com/album/4ZOQeByfXd1iAgmMk8xpYN) | 3:31 |
+| 25 | [Book Of Rules](https://open.spotify.com/track/4PKri4OX2AB2RXj95Y9ZgB) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Night Food](https://open.spotify.com/album/4ZOQeByfXd1iAgmMk8xpYN) | 3:31 |
+| 26 | [Tomorrow People](https://open.spotify.com/track/07QZEz7d4OS6vmS1iiwJCc) | [Ziggy Marley & The Melody Makers](https://open.spotify.com/artist/3Z2jmNAP2UaGa8lPpi54wD) | [Conscious Party](https://open.spotify.com/album/31dATgHjk7MwSkzrtNUurs) | 3:38 |
 | 27 | [Funky Kingston](https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Funky Kingston](https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz) | 4:55 |
 | 28 | [007 \(Shanty Town\)](https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [007 Shanty Town](https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm) | 2:32 |
 | 29 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 39 | [Return of Django](https://open.spotify.com/track/3X6b40Xr4zxbyLatxilx6T) | [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [Return of Django \(Bonus Track Edition\)](https://open.spotify.com/album/7ySlkE3H2N0QRsfWGcqvCl) | 2:29 |
 | 40 | [I Shall Be Released](https://open.spotify.com/track/2fBj4QAaXUcx9EL3bPzwGt) | [The Slackers](https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK) | [Peculiar](https://open.spotify.com/album/4U3UTvMSHfCoXb3qltKEHn) | 4:20 |
 
-Snapshot ID: `MTY0OTc5NjQzOCwwMDAwMDAwMGZlOTZkMDkxYzU4OGFlNTEyNTEzMGE5NTVjMGZjYWIx`
+Snapshot ID: `MTY0OTc5NjQzOCwwMDAwMDAwMGE2ZmQyOTIwYWU0ZGExZWM0MGU0N2ViNGY3NDQ4ZGZj`

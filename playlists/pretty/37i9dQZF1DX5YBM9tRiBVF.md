@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women from Belgium, at full volume\. Cover: Amelie Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,066 likes - 48 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,068 likes - 48 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 43 | [Uit Mijn Hoofd](https://open.spotify.com/track/2RHbwWdj7mVUhJRxlTG6iq) | [Pauline](https://open.spotify.com/artist/4p13MevTYMG2CbQ9SGH5li) | [Uit Mijn Hoofd](https://open.spotify.com/album/6RPTKxEHOGAhXiZafLb3v8) | 2:48 |
 | 44 | [Tudo bem](https://open.spotify.com/track/2L8uyJZ2NfpapRrtDtzs8m) | [CLELIA](https://open.spotify.com/artist/5LJ4MsRE3dUFRhPzo9NqDt) | [Tudo bem](https://open.spotify.com/album/0RN7qf63m2AKqU2NZX6Ikh) | 3:15 |
 | 45 | [44](https://open.spotify.com/track/6NvRgXmv4wGt3mYMrFPHLP) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [44](https://open.spotify.com/album/3ZJqcoFZqOg5WQ1k7y3b3G) | 2:27 |
-| 46 | [PSYCHE](https://open.spotify.com/track/1FBWjmbVxqqA0pdBJ6z67R) | [Spacebabymadcha](https://open.spotify.com/artist/4Twtl8sz0ceeOrdXmglVpa) | [PSYCHE](https://open.spotify.com/album/5LKrtVuVHCq6jwjSsBMjaL) | 3:12 |
+| 46 | [PSYCHE](https://open.spotify.com/track/1FBWjmbVxqqA0pdBJ6z67R) | [SPACEBABYMADCHA](https://open.spotify.com/artist/4Twtl8sz0ceeOrdXmglVpa) | [PSYCHE](https://open.spotify.com/album/5LKrtVuVHCq6jwjSsBMjaL) | 3:12 |
 | 47 | [Carrousel](https://open.spotify.com/track/6V74bDeEQb1rKfIhw3aR3a) | [Cléo](https://open.spotify.com/artist/3RCkmrHVYnB1H8TVFplVuz) | [Carrousel](https://open.spotify.com/album/0PyExDfbXkUKGNSLQc8Kw0) | 3:21 |
 | 48 | [Geef Me Meer](https://open.spotify.com/track/3Y74ETV0Lgb1u0nUvKooUU) | [Lisa Andreina](https://open.spotify.com/artist/3SXDt6zjy0LW44yvEWyPEL) | [Geef Me Meer](https://open.spotify.com/album/1llqS2zzNspwtbRKemp9eb) | 2:52 |
 

@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-660 songs - 1 day 15 hr 25 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
+661 songs - 1 day 15 hr 29 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Change It All](https://open.spotify.com/track/58h15p2z6LMURhFn3G18a4) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Change It All](https://open.spotify.com/album/1dEqHzlsanDYiakbPgnl7s) | 4:07 | 2022-01-24 | 2022-04-19 |
 | [Change It All](https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Change It All](https://open.spotify.com/album/0dkUKtlAdUxzlhmvS4BVmU) | 4:07 | 2022-07-22 |  |
 | [Chasing Dreams](https://open.spotify.com/track/3cTsh9sZdHHV6Syjcwg8VW) | [Dekleyn](https://open.spotify.com/artist/1Vsd976pE4fZP74l3LP3PI) | [Chasing Dreams](https://open.spotify.com/album/1z1vP6EpqNYSaDWHBQfiLN) | 4:17 | 2022-01-24 | 2022-04-21 |
-| [Cheap Date](https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Starfire](https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB) | 3:10 | 2021-12-17 |  |
+| [Cheap Date](https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Starfire](https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB) | 3:10 | 2021-12-17 | 2022-10-26 |
 | [Chew On My Heart \- Piano & Voice](https://open.spotify.com/track/4VyOYqqy4sXCKsdx1mBDBc) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chew On My Heart \(Piano & Voice\)](https://open.spotify.com/album/3rZWc6tU0jEtwtrT3o2NvQ) | 3:41 | 2021-12-17 | 2022-06-15 |
 | [Cigarette \- Acoustic](https://open.spotify.com/track/45nYpQ2IXQQEVP5npi01wO) | [Julian Lamadrid](https://open.spotify.com/artist/60rE8L4eGCSSaJCS1kqNKy) | [Cigarette \(Acoustic\)](https://open.spotify.com/album/6B0nmuREkryDtcDS0jFdPx) | 3:22 | 2022-01-24 | 2022-04-02 |
 | [Climb On Your Tears \(feat\. Aoife O'Donovan\)](https://open.spotify.com/track/0AQK1WPoRCTtgW5dHpKKdn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Climb On Your Tears \(feat\. Aoife O'Donovan\)](https://open.spotify.com/album/6hFKaZKTX3xGT62fnj3Ikn) | 6:04 | 2021-12-17 | 2022-07-28 |
@@ -158,6 +158,7 @@
 | [Every Young Boy's Song](https://open.spotify.com/track/3X0kv8WYEVQad30VLOEOEG) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Summer 3000](https://open.spotify.com/album/7BAhm5zjEzoHlfC3cIZaKf) | 3:33 | 2021-12-17 | 2022-07-29 |
 | [Every Young Boy's Song](https://open.spotify.com/track/4MRydjNldr8hl3SByudIjL) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Summer 3000](https://open.spotify.com/album/2KpPxIBQNhsehmuRNQo53A) | 3:33 | 2022-07-22 |  |
 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 | 2021-12-17 |  |
+| [Everything I Know About Love](https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:29 | 2022-07-29 |  |
 | [Everything I Know About Love](https://open.spotify.com/track/0jG5hLQSYrNnzApAjE0uIw) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/6kLd7HIdO4ylB86XpI4qTC) | 3:29 | 2022-07-22 | 2022-10-13 |
 | [everything i wanted](https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 4:34 | 2021-12-17 | 2022-10-19 |
 | [Everywhere I'm Goin' \(featuring Avenue Beat\)](https://open.spotify.com/track/1WIRocIFUaEkYeE7P2ioxD) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 3:27 | 2021-12-17 | 2022-04-21 |

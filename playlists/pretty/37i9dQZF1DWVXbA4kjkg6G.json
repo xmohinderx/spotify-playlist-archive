@@ -1,12 +1,12 @@
 {
   "description": "Psychedelic beat science.",
-  "num_followers": 320300,
+  "num_followers": 320581,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDQ2OWY0YThlMzMzNzllYmViZDE3MGYwOWMwMGNjOWM5",
+  "snapshot_id": "MTY2MDIzNzc5MiwwMDAwMDAwMDEzMWZiNGVmZWI1Y2VkNzM4YzEwOWQwYmM4NWE2MDRk",
   "tracks": [
     {
       "added_at": "2021-06-25 10:16:08",
@@ -227,22 +227,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "A Grand Love Story",
-        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
-      },
-      "artists": [
-        {
-          "name": "Kid Loco",
-          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "A grand love theme",
-      "url": "https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "A New Stereophonic Sound Spectacular",
         "url": "https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 284293,
       "name": "2 Wicky",
       "url": "https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "A Grand Love Story",
+        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
+      },
+      "artists": [
+        {
+          "name": "Kid Loco",
+          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "A grand love theme",
+      "url": "https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Let Us Play",
-        "url": "https://open.spotify.com/album/06WYN4VlDuK6YCv7CKEomH"
-      },
-      "artists": [
-        {
-          "name": "Coldcut",
-          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
-        }
-      ],
-      "duration_ms": 272066,
-      "name": "Timber",
-      "url": "https://open.spotify.com/track/5jby7celTQUoYjAht8peNh"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Premiers Sympt\u00f4mes",
         "url": "https://open.spotify.com/album/3g9O7pvuaaFRvdzsoSJXVc"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 359600,
       "name": "Modular Mix",
       "url": "https://open.spotify.com/track/4NsBEdmbgu9u8cH21ycyBv"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Let Us Play",
+        "url": "https://open.spotify.com/album/06WYN4VlDuK6YCv7CKEomH"
+      },
+      "artists": [
+        {
+          "name": "Coldcut",
+          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
+        }
+      ],
+      "duration_ms": 272066,
+      "name": "Timber",
+      "url": "https://open.spotify.com/track/5jby7celTQUoYjAht8peNh"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -811,18 +811,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Tone Tales From Tomorrow",
-        "url": "https://open.spotify.com/album/1GZkKCcURaTItobePLur4B"
+        "name": "USSR Repertoire / The Theory Of Verticality",
+        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
       },
       "artists": [
         {
-          "name": "Coldcut",
-          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
         }
       ],
-      "duration_ms": 241680,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/7KQSvoKOECoIdyH5CEIFc5"
+      "duration_ms": 129400,
+      "name": "The Next Shit",
+      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -859,18 +859,34 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "USSR Repertoire / The Theory Of Verticality",
-        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
+        "name": "Tone Tales From Tomorrow",
+        "url": "https://open.spotify.com/album/1GZkKCcURaTItobePLur4B"
       },
       "artists": [
         {
-          "name": "DJ Vadim",
-          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+          "name": "Coldcut",
+          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
         }
       ],
-      "duration_ms": 129400,
-      "name": "The Next Shit",
-      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
+      "duration_ms": 241680,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/7KQSvoKOECoIdyH5CEIFc5"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/3YzjoOkkhWQ6l76aaUa7BP"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 278346,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/4G6ra5sanRGP2PWNw0FESC"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -907,22 +923,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/3YzjoOkkhWQ6l76aaUa7BP"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 278346,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/4G6ra5sanRGP2PWNw0FESC"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Lamb",
         "url": "https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 456666,
       "name": "Trans Fatty Acid",
       "url": "https://open.spotify.com/track/3AIv4OGk6P3dALcr3kViOu"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Sounds From The Thievery Hi Fi (Remastered 2022)",
+        "url": "https://open.spotify.com/album/3YHE7w3WLUFyt1FGtvRP8t"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 384613,
+      "name": "Shaolin Satellite - Remastered 2022",
+      "url": "https://open.spotify.com/track/46Ezt0lIxCmEyO3F8yrc5V"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -955,18 +971,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Sounds From The Thievery Hi Fi (Remastered 2022)",
-        "url": "https://open.spotify.com/album/3YHE7w3WLUFyt1FGtvRP8t"
+        "name": "Ninja Cuts - Flexistentialism",
+        "url": "https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi"
       },
       "artists": [
         {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
         }
       ],
-      "duration_ms": 384613,
-      "name": "Shaolin Satellite - Remastered 2022",
-      "url": "https://open.spotify.com/track/46Ezt0lIxCmEyO3F8yrc5V"
+      "duration_ms": 285560,
+      "name": "London Mind State",
+      "url": "https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1003,38 +1019,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "London Funk Volume 1",
-        "url": "https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa"
-      },
-      "artists": [
-        {
-          "name": "London Funk Allstars",
-          "url": "https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Listen To The Beat",
-      "url": "https://open.spotify.com/track/7wULNOKU99VregJA264okG"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Ninja Cuts - Flexistentialism",
-        "url": "https://open.spotify.com/album/58Qrk5O3oeBJT9a8tgqqSi"
-      },
-      "artists": [
-        {
-          "name": "DJ Vadim",
-          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
-        }
-      ],
-      "duration_ms": 285560,
-      "name": "London Mind State",
-      "url": "https://open.spotify.com/track/0CQS3QLBgxaHDlwK3T8D8L"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Trip Hop Classics",
         "url": "https://open.spotify.com/album/0SatpsNu81KdWzit0pmCb3"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 447213,
       "name": "Bug Powder Dust - Kruder & Dorfmeister Session",
       "url": "https://open.spotify.com/track/2LPJmgAK8YNvIIa8ue58rI"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "London Funk Volume 1",
+        "url": "https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa"
+      },
+      "artists": [
+        {
+          "name": "London Funk Allstars",
+          "url": "https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Listen To The Beat",
+      "url": "https://open.spotify.com/track/7wULNOKU99VregJA264okG"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+      },
+      "artists": [
+        {
+          "name": "Funki Porcini",
+          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
+        }
+      ],
+      "duration_ms": 241760,
+      "name": "Long Road",
+      "url": "https://open.spotify.com/track/2b1E782QABZaTux77fwlbV"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "This Is Home Entertainment",
         "url": "https://open.spotify.com/album/3evzzoWZxpu1buDbcSc2fn"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 342500,
       "name": "Silver Dawn",
       "url": "https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Ninja Cuts - Funkjazztical Tricknology",
-        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
-      },
-      "artists": [
-        {
-          "name": "Funki Porcini",
-          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
-        }
-      ],
-      "duration_ms": 241760,
-      "name": "Long Road",
-      "url": "https://open.spotify.com/track/2b1E782QABZaTux77fwlbV"
     },
     {
       "added_at": "2021-06-25 10:16:08",

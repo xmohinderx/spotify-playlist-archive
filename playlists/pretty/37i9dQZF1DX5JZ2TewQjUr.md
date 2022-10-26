@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lewsz
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,579 likes - 131 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,591 likes - 131 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sick And Tired](https://open.spotify.com/track/2Df1Lx1Ahk7G9eTGlEVCxg) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Sick And Tired](https://open.spotify.com/album/6mO84EaybYVN9XlkSHPQOb) | 2:59 |
 | 2 | [原石](https://open.spotify.com/track/216a8TsFRn5PtsR6nRMPag) | [Dvk.](https://open.spotify.com/artist/014lHDdSXKmOzcw3VLWNdD) | [岸邊 I](https://open.spotify.com/album/3P7a5UgCtvbt8c27DRq4vZ) | 2:41 |
-| 3 | [笑住喊](https://open.spotify.com/track/07hNtsHI2yS6a4sblgPyp0) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [笑住喊](https://open.spotify.com/album/2SQbTVzPkxMVU4hBL6YGv1) | 3:23 |
+| 3 | [笑住喊](https://open.spotify.com/track/07hNtsHI2yS6a4sblgPyp0) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [笑住喊](https://open.spotify.com/album/2SQbTVzPkxMVU4hBL6YGv1) | 3:20 |
 | 4 | [日出的缺口](https://open.spotify.com/track/7ap3XCfO7Wr5iO4K45sqrk) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [日出的缺口](https://open.spotify.com/album/0f2AGfQ2LZwnjUmbvqY9as) | 3:16 |
 | 5 | [末世情書](https://open.spotify.com/track/5aEzkY4D0HdU0CyUoJWnmm) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [末世情書](https://open.spotify.com/album/0TMwkt9ibpPMNW3EWWhV6j) | 4:40 |
 | 6 | [岸](https://open.spotify.com/track/6HddvIovaBHsG3gHuNSt5l) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [岸](https://open.spotify.com/album/5Q7u6skbFXQSGgWdmJiAi7) | 3:21 |

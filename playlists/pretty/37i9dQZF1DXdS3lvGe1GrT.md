@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Junaco \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,460 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,502 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Weakness](https://open.spotify.com/track/70eeePOYW3D3GubmKM197H) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Highways](https://open.spotify.com/album/0bSBKTyijO05S4IHqwQrjC) | 4:20 |
-| 2 | [Cowboy Gangster Politician](https://open.spotify.com/track/5Flo7FMi6Lmaf8ybgtudop) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/02pCzByRtQ5rdOZdnqlhqt) | 3:52 |
+| 2 | [Cowboy Gangster Politician](https://open.spotify.com/track/7lX3csi0tMtyj1n3gtx9x7) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [K\-Town](https://open.spotify.com/album/7vBPzS2nKBQotLlnHBdRpf) | 3:52 |
 | 3 | [October \(October Version\)](https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [October \(October Version\)](https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse) | 4:37 |
 | 4 | [June](https://open.spotify.com/track/3Do19iVwOKTq8v6IL3TZ1d) | [Regina Pimentel](https://open.spotify.com/artist/3mCLwcR4Gcuw8uAQkeBoEH) | [June](https://open.spotify.com/album/5WRJ3OqU8n6LfsuR3gu9R3) | 5:08 |
 | 5 | [in my car](https://open.spotify.com/track/5OC5iFVDl3pRfThoTbs817) | [ella ruby](https://open.spotify.com/artist/2LqBqyJQJJgt2bvjdSyY04) | [baby blue](https://open.spotify.com/album/1TeqZ0X8hqCQNELMmVivks) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [garbage truck](https://open.spotify.com/track/4DQnPtChUxquO83Fjn6D3S) | [hemlock](https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2) | [talk soon](https://open.spotify.com/album/356rRbXibYCUg2gkyRZIZF) | 2:11 |
 | 100 | [Walk The Streets On Sunrise](https://open.spotify.com/track/4ntU4sdYYE3j0I8qLeEHAx) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Impermanence](https://open.spotify.com/album/43KzRiTjzUvIGSbmSx1J3C) | 3:55 |
 
-Snapshot ID: `MTY2NjE2MDU5NiwwMDAwMDAwMDllZDY3YzhhZGQzMmE3ZWI0Zjk1Y2FhZjExOWZkYzkx`
+Snapshot ID: `MTY2NjE2MDU5NiwwMDAwMDAwMDZkN2E4NGM0MzM2ODYyZGJkYjZhZTQ2YWUyNWRlNjIw`

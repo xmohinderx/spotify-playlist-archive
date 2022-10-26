@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-240 songs - 12 hr 5 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
+241 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/1sAcZQkEf1QE9sxroLLAMt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Feels](https://open.spotify.com/track/1Y7iHDN177vPIsJuUwKlWh) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 36](https://open.spotify.com/album/2Xi6aup0aqqpXqpHNYi2oU) | 2:28 | 2021-10-22 | 2022-07-29 |
 | [Feels](https://open.spotify.com/track/70ZiK7oV2LHGgRwO9zOAKR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 36](https://open.spotify.com/album/7CdyApdN5Hamda6NepONvs) | 2:28 | 2022-07-28 |  |
 | [Finally Free \- From "Smallfoot"](https://open.spotify.com/track/7xQxjMokrYnY8n9w19FZqr) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Finally Free \(From "Smallfoot"\)](https://open.spotify.com/album/47oDAQvTvsYGXBlGJKe2O2) | 3:23 | 2021-10-22 |  |
+| [Flip the Script \(From "Barbie Big Epic Road Trip"\)](https://open.spotify.com/track/75dfmIGzgXrZtD5cH4T78z) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [Flip the Script \(From "Barbie Big Epic Road Trip"\)](https://open.spotify.com/album/2XiCsJTSjI9IxIQY8aBiEk) | 2:34 | 2022-10-25 |  |
 | [Friend Like Me \(End Title\)](https://open.spotify.com/track/192XFsstn69TuEA3iDez6F) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 2:39 | 2021-10-22 |  |
 | [FRIENDS](https://open.spotify.com/track/1taDlZzWCFEOC9NlohkWx6) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 2:55 | 2021-10-22 |  |
 | [Galway Girl](https://open.spotify.com/track/0VQK2axT4qXgYd4aKCHgWx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Nothing Breaks Like A Heart](https://open.spotify.com/album/05Shj7tRwC3NtUXszdxk6t) | 2:11 | 2021-10-22 |  |

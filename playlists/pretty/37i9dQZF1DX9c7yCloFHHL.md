@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > To celebrate the release of his new album 'FOREVERANDEVERNOMORE', visionary musician and artist Brian Eno curates a selection of tracks from the album, his back catalogue and his wide\-ranging musical influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,073 likes - 20 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,172 likes - 20 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

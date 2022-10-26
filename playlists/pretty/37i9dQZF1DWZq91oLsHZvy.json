@@ -1,12 +1,12 @@
 {
   "description": "Run to indie and alternative hits.",
-  "num_followers": 218121,
+  "num_followers": 218202,
   "original_name": "Indie x Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU0NzU0MSwwMDAwMDAwMDhlYjEyY2IzMWI1Y2QwMzhiMDBmMTAwYWUxZDQ1NDJk",
+  "snapshot_id": "MTY2NDU0NzU0MSwwMDAwMDAwMDg0YTkxOTc1MjcxZTk2ZDkwYWVhNWQ5ZmM2MTAxZDcw",
   "tracks": [
     {
       "added_at": "2022-09-30 14:19:01",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-09-30 14:19:01",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
         "name": "i wanna be your girlfriend",
         "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 204990,
       "name": "i wanna be your girlfriend",
       "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     },
     {
       "added_at": "2022-09-30 14:19:01",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-09-30 14:19:01",
       "album": {
+        "name": "bad idea!",
+        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 198000,
       "name": "Dance, Baby!",
       "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
-        "name": "bad idea!",
-        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 219638,
-      "name": "bad idea!",
-      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
     },
     {
       "added_at": "2022-09-30 14:19:01",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-09-30 14:19:01",
       "album": {
-        "name": "Costello Music",
-        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Chelsea Dagger",
-      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
         "name": "i'll die anyway.",
         "url": "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 192612,
       "name": "i'll die anyway.",
       "url": "https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
+        "name": "Costello Music",
+        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Chelsea Dagger",
+      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
     },
     {
       "added_at": "2022-09-30 14:19:01",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-09-30 14:19:01",
       "album": {
+        "name": "Come Out",
+        "url": "https://open.spotify.com/album/17wkpHFyI3L24Lyoe72UQr"
+      },
+      "artists": [
+        {
+          "name": "Masek Porter",
+          "url": "https://open.spotify.com/artist/2ebNEBhrMUcPdSG5P4Ovf1"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Come Out",
+      "url": "https://open.spotify.com/track/3JkcPEiVQtTfS0rixsJM3e"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
         "name": "White Women",
         "url": "https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 195066,
       "name": "Do Me Like That",
       "url": "https://open.spotify.com/track/2R4B5jDPvxVR09SQGLyDFP"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
-        "name": "Come Out",
-        "url": "https://open.spotify.com/album/17wkpHFyI3L24Lyoe72UQr"
-      },
-      "artists": [
-        {
-          "name": "Masek Porter",
-          "url": "https://open.spotify.com/artist/2ebNEBhrMUcPdSG5P4Ovf1"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Come Out",
-      "url": "https://open.spotify.com/track/3JkcPEiVQtTfS0rixsJM3e"
     },
     {
       "added_at": "2022-09-30 14:19:01",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-09-30 14:19:01",
       "album": {
-        "name": "Talk Your Mind",
-        "url": "https://open.spotify.com/album/56PmhQn0A6maAwgKhLjojZ"
-      },
-      "artists": [
-        {
-          "name": "Riscas",
-          "url": "https://open.spotify.com/artist/6C6cCRdINVR9zbGmuYaRij"
-        }
-      ],
-      "duration_ms": 169456,
-      "name": "Talk Your Mind",
-      "url": "https://open.spotify.com/track/3yfI1O9gzffOZdfkVfZ5uC"
-    },
-    {
-      "added_at": "2022-09-30 14:19:01",
-      "album": {
         "name": "Bankrupt!",
         "url": "https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 219973,
       "name": "Entertainment",
       "url": "https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o"
+    },
+    {
+      "added_at": "2022-09-30 14:19:01",
+      "album": {
+        "name": "Talk Your Mind",
+        "url": "https://open.spotify.com/album/56PmhQn0A6maAwgKhLjojZ"
+      },
+      "artists": [
+        {
+          "name": "Riscas",
+          "url": "https://open.spotify.com/artist/6C6cCRdINVR9zbGmuYaRij"
+        }
+      ],
+      "duration_ms": 169456,
+      "name": "Talk Your Mind",
+      "url": "https://open.spotify.com/track/3yfI1O9gzffOZdfkVfZ5uC"
     },
     {
       "added_at": "2022-09-30 14:19:01",

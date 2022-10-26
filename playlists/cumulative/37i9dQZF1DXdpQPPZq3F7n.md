@@ -4,7 +4,7 @@
 
 > Best Bollywood love songs from last 10 years\. Cover\- Arijit Singh
 
-106 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
+107 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Tum Hi Ho](https://open.spotify.com/track/56zZ48jdyY2oDXHVnwg5Di) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Aashiqui 2](https://open.spotify.com/album/0Rkv5iqjF2uenfL0OVB8hg) | 4:21 | 2022-05-19 |  |
 | [Tumse Bhi Zyada \(From "Tadap"\)](https://open.spotify.com/track/2cC4DfpPa7x1QZTKQpe3TP) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tumse Bhi Zyada \(From "Tadap"\)](https://open.spotify.com/album/42SC76XD21FyMwyJfKVlri) | 5:19 | 2022-05-19 |  |
 | [Ve Maahi](https://open.spotify.com/track/4t1DkxexoMbIHfSHS4Uiyr) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kesari](https://open.spotify.com/album/2koMSm4dddvhxLzZyN2aEE) | 3:43 | 2022-05-19 |  |
+| [Yaar Ve \(From "Code Name Tiranga"\)](https://open.spotify.com/track/4hTIL3DCwfqwSuqRAnyJdy) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Vipin Patwa](https://open.spotify.com/artist/6SzYh3jdZpJxGulYuWlFb5), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Yaar Ve \(From "Code Name Tiranga"\)](https://open.spotify.com/album/71eEspGJM5UykbbRzIfUBL) | 4:02 | 2022-10-25 |  |
 | [Ye Tune Kya Kiya](https://open.spotify.com/track/2cPUB8EOT6AfJ8oxhyoNXL) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Once Upon Ay Time In Mumbai Dobaara !](https://open.spotify.com/album/381lOukp7nV59bJS13TkPe) | 5:14 | 2022-05-19 |  |
 | [Yeh Fitoor Mera](https://open.spotify.com/track/3hp6JfJIxkv3sl7E6p7DQj) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Fitoor](https://open.spotify.com/album/3ztDG95Y1zI3eaCTySv7DU) | 4:43 | 2022-05-19 |  |
 

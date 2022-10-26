@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: emlyn, Paty B, Avenoir, Blondshell
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,139,120 likes - 72 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,139,000 likes - 72 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 51 | [Mile High](https://open.spotify.com/track/6rF4JCgTqCZVntF9mYQPtc) | [Ace Hashimoto](https://open.spotify.com/artist/5Y8PCl4iNLDIHGkCMi5i76) | [Mile High](https://open.spotify.com/album/2gNF9Ec0aC7yK1Dykzq0pR) | 2:05 |
 | 52 | [Along for the Ride](https://open.spotify.com/track/6n5QC6I90spAvogzjP0K1f) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Along for the Ride](https://open.spotify.com/album/5zUul6JFofk88lBe5g4S75) | 3:20 |
 | 53 | [Took the Fall](https://open.spotify.com/track/2tyvDKEqNzMGztpRJBbazY) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Took the Fall](https://open.spotify.com/album/4xRrlIj4QSLvwM2DSIykY4) | 3:36 |
-| 54 | [Celebration \(feat\. Waayve, Temia, Liyah & Mannie\)](https://open.spotify.com/track/1OxmuIHpa6a9DM352tvhlG) | [Nycesound Production](https://open.spotify.com/artist/4KuYv8blOVBw5mqckQ4a6L), [Waayve](https://open.spotify.com/artist/43frrjZm4xIly8czdRd2ix), [Temia](https://open.spotify.com/artist/1lNU1BvYhxDcUyXkgyUVMa), [Mannie](https://open.spotify.com/artist/0zgAhjlUqDIcAm9hwZmiFw), [Liyah](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [Celebration \(feat\. Waayve, Temia, Liyah & Mannie\)](https://open.spotify.com/album/7FJPusS9ib4zXgwL3gzEZv) | 3:02 |
+| 54 | [Celebration \(feat\. Waayve, Temia, Liyah & Mannie\)](https://open.spotify.com/track/1OxmuIHpa6a9DM352tvhlG) | [Nycesound Production](https://open.spotify.com/artist/4KuYv8blOVBw5mqckQ4a6L), [Waayve](https://open.spotify.com/artist/43frrjZm4xIly8czdRd2ix), [Mannie](https://open.spotify.com/artist/0zgAhjlUqDIcAm9hwZmiFw), [Liyah](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu), [Temia](https://open.spotify.com/artist/1lNU1BvYhxDcUyXkgyUVMa) | [Celebration \(feat\. Waayve, Temia, Liyah & Mannie\)](https://open.spotify.com/album/7FJPusS9ib4zXgwL3gzEZv) | 3:02 |
 | 55 | [Upstate](https://open.spotify.com/track/1DHGQ8hg1bw7ey0pRvHwz3) | [Maz Lovella](https://open.spotify.com/artist/7awTzwMtwUWO1sGrozETz3) | [Upstate](https://open.spotify.com/album/14r57tTbZoR7nVEKZPe7XJ) | 4:04 |
 | 56 | [KIDS](https://open.spotify.com/track/7x8sUnnKHZsddQxLZeWwB4) | [auston ghost](https://open.spotify.com/artist/1wCjv2RGjyuHMJw2UAvjLO), [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp) | [KIDS](https://open.spotify.com/album/5merKL9SBjIDRuvFBavQ8z) | 2:42 |
 | 57 | [Seran's Harp](https://open.spotify.com/track/0FU3cNMUISYdzNrzZTKC5V) | [Affelaye](https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ) | [Seran's Harp](https://open.spotify.com/album/3LIgUgTag5FzdcvBAFX1t8) | 5:20 |

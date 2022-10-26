@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Spencer Crandall
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,232 likes - 118 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,745 likes - 118 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 11 | [You, Me, And Whiskey](https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [You, Me, And Whiskey](https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ) | 3:07 |
 | 12 | [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 |
 | 13 | [We Were Cowboys](https://open.spotify.com/track/6VgPKxrBypLQDu7lQWLEoW) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:39 |
-| 14 | [The Wolves](https://open.spotify.com/track/2qg3DQgzNxAJTT15VEYH49) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Wolves](https://open.spotify.com/album/0kdZPFWdg3o2H4jCfAHOyP) | 2:54 |
+| 14 | [The Wolves](https://open.spotify.com/track/49hCqy60MNEdj8c0wNMRg6) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Wolves](https://open.spotify.com/album/6t5HN3jcj7XgD79SB0SrT5) | 2:54 |
 | 15 | [Go Around](https://open.spotify.com/track/344682dEszsdZqQS4vYuUr) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Go Around](https://open.spotify.com/album/6xUvrvbSTXnEIRPKOGnhJh) | 3:23 |
 | 16 | [Wastin' Whiskey](https://open.spotify.com/track/3h10bRUpzMu0Umm2iXleYb) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Wastin' Whiskey](https://open.spotify.com/album/2l6aTa5socmv2iQZzF514T) | 3:10 |
 | 17 | [Raised Up Right](https://open.spotify.com/track/54iaqlFYaCYyJqCsRsbYUB) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Raised Up Right](https://open.spotify.com/album/0IXqwYhd5t5zt9d7zKfMp5) | 2:58 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 117 | [Shakin' In Them Boots](https://open.spotify.com/track/7zwi0kPSFtdNUNIXZlKfNF) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Shakin' In Them Boots](https://open.spotify.com/album/12JRLrNicKNlQDu5zNKaF3) | 2:49 |
 | 118 | [Get Down Like That](https://open.spotify.com/track/21bbVtRMzyv5rnM1LGI345) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [Get Down Like That](https://open.spotify.com/album/0X1gqMKTl5Nh0J8GfPRvE1) | 3:06 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDEyMTRjNWM0ZTcwZmFmMDA2ZTE1NDg3YjIzYjkxZThh`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDZjYTkzOTVlZDk0MzA0ZDQzODQ1NjdkYWU0NjJlMTdj`

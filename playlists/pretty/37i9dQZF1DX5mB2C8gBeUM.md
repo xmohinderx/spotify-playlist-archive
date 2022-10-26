@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: MacKenzie Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,857 likes - 163 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,121 likes - 163 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

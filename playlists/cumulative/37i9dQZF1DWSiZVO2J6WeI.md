@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-212 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/6Ws09DHou6mC9CFElu0TC9)
+213 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/6Ws09DHou6mC9CFElu0TC9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Sea Angel](https://open.spotify.com/track/2ZC9pIlwUXquQDWRcsCtKp) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Sea Angel](https://open.spotify.com/album/4q4aGzy6knPh2apjwaFDQY) | 3:28 | 2022-01-19 |  |
 | [Sedang Tidur](https://open.spotify.com/track/3xLHdlKxeLiEqWy7BdYYze) | [La\-Mu](https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc) | [Sedang Tidur](https://open.spotify.com/album/2wTEY1E7AiUq8lRfkSOI0t) | 2:04 | 2022-02-01 |  |
 | [Serenitivity](https://open.spotify.com/track/41hD0lo1wIP9GX25JE4Kfu) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Serenitivity](https://open.spotify.com/album/6Vz2CBGS1UcQ1GDTopeXbF) | 3:33 | 2022-02-01 | 2022-04-20 |
-| [Shapeless](https://open.spotify.com/track/4vJz9yMS7APKcXLtTVEJDE) | [Delawares](https://open.spotify.com/artist/3gvjsh2EulaYf5hIlS7Lk1) | [Shapeless](https://open.spotify.com/album/4rXz811jiNhlyTQKJRi5kE) | 2:43 | 2022-01-12 |  |
+| [Shapeless](https://open.spotify.com/track/4vJz9yMS7APKcXLtTVEJDE) | [Delawares](https://open.spotify.com/artist/3gvjsh2EulaYf5hIlS7Lk1) | [Shapeless](https://open.spotify.com/album/4rXz811jiNhlyTQKJRi5kE) | 2:43 | 2022-01-12 | 2022-10-26 |
 | [Shapes of Solitude](https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Peaceful Illusions](https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X) | 2:57 | 2022-06-16 |  |
 | [Silent](https://open.spotify.com/track/2wtXjG8mWHPGKbJcVNzjAR) | [Sogni Lunari](https://open.spotify.com/artist/02LLVbAMjm7ALCBmjmihqL) | [Silent](https://open.spotify.com/album/1qN9ZsA6ELL3C5dOOdwrTf) | 2:13 | 2022-01-12 |  |
 | [Silent Motion](https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Weightless](https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd) | 2:59 | 2022-01-12 |  |
@@ -199,6 +199,7 @@
 | [The Age of the Earth](https://open.spotify.com/track/3vDKBXhismlvnpXbm9DAdc) | [Complex Reality](https://open.spotify.com/artist/54UfHu4bjwDkdRTAOqv8On) | [Shadow of a Dream](https://open.spotify.com/album/524MOGt13RV5XLpZp3dnMQ) | 3:19 | 2022-04-13 | 2022-04-21 |
 | [The Birth of Solitude](https://open.spotify.com/track/463ddcbIg2jpNkk8JoVmJQ) | [Lei Chini](https://open.spotify.com/artist/5EbnxTdPMZFVLDh810uYj5) | [The Birth of Solitude](https://open.spotify.com/album/6NJcJj1yGCs08pnlJgjwpk) | 1:54 | 2022-01-12 |  |
 | [Thought Braid](https://open.spotify.com/track/6OEWFhKeGxMpujRH4VBUZK) | [Mia Radcliffe](https://open.spotify.com/artist/34dREKRtx0bIdYuFrPQYMK) | [Thought Braid](https://open.spotify.com/album/1thP89pu4PbDQVHaLdCtqd) | 3:24 | 2022-02-01 | 2022-07-24 |
+| [Through The Mist](https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Through The Mist](https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C) | 2:42 | 2022-10-26 |  |
 | [Timeless](https://open.spotify.com/track/4FYcbfaiOgOGgbFALqOjrK) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Timeless](https://open.spotify.com/album/6taDFAXweffThoQFq4Fqbh) | 3:01 | 2022-01-12 |  |
 | [Uqugella](https://open.spotify.com/track/1GC9GHrhIOKCnPDaSA4a8E) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Binaural Beats for Relaxation](https://open.spotify.com/album/3qxbSBbBsBWpCn7LO5I6TZ) | 3:18 | 2022-04-13 | 2022-04-21 |
 | [Vi møtes igjen](https://open.spotify.com/track/7tqxrJUeyG2a7mjtkkk8Oz) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Vi møtes igjen](https://open.spotify.com/album/7pfvZelJPPsQL4FG7yKO1n) | 3:05 | 2022-01-19 |  |

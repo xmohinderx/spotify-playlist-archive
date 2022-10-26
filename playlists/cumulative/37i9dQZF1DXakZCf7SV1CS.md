@@ -4,7 +4,7 @@
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-117 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/7osmwtkMAqCNF1RA6866nT)
+118 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/7osmwtkMAqCNF1RA6866nT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [I <3 Harajuku](https://open.spotify.com/track/1fMIomiIqQUSLynNzU4y1w) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [I <3 Harajuku](https://open.spotify.com/album/2P4HZoMnQ2qwLNb3Klo4W8) | 2:26 | 2021-12-21 | 2022-10-14 |
 | [I <3 Harajuku](https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [I <3 Harajuku](https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF) | 2:26 | 2022-05-12 |  |
 | [i dont want that many friends in the first place](https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv) | 1:49 | 2021-09-23 | 2022-10-25 |
+| [i dont want that many friends in the first place](https://open.spotify.com/track/2osO3L8EIQImWGfCGBwYgC) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/3tOevvBSeZ3VaSIZkFpGXt) | 1:49 | 2022-10-21 |  |
 | [i hate it here](https://open.spotify.com/track/6SRDHDKG6sXZO64rRVERVr) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i hate it here](https://open.spotify.com/album/5VMs4Sh4kOhFB0qyFFJHA5) | 2:37 | 2021-09-23 | 2022-10-25 |
 | [ihonestlymightjustgiveup](https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [ihonestlymightjustgiveup](https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J) | 2:06 | 2021-09-23 |  |
 | [Imgonnagetmyrevenge](https://open.spotify.com/track/5X3NLqODCmjLmsGTzB3gks) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc), [Alice Gas](https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Imgonnagetmyrevenge](https://open.spotify.com/album/3hz9NaG7XUIY5QfRQVEPbY) | 3:15 | 2021-09-23 |  |
@@ -83,7 +84,7 @@
 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 | 2021-09-23 |  |
 | [In My Dreams](https://open.spotify.com/track/3oGqxUlbE5ZoavVQnFN75D) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:27 | 2021-09-23 | 2022-10-22 |
 | [IRIS](https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [IRIS](https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl) | 1:42 | 2021-09-23 |  |
-| [istillmissu](https://open.spotify.com/track/1CaNhBI6BSvuit0Wv2GI3c) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [istillmissu](https://open.spotify.com/album/7azXfougJlzX392ac1Mxha) | 2:57 | 2021-09-23 |  |
+| [istillmissu](https://open.spotify.com/track/1CaNhBI6BSvuit0Wv2GI3c) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [istillmissu](https://open.spotify.com/album/7azXfougJlzX392ac1Mxha) | 2:57 | 2021-09-23 | 2022-10-26 |
 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 | 2021-12-21 |  |
 | [Koi](https://open.spotify.com/track/3Lf4PS3RzFb8VpMyJtkOl4) | [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Riot Boi](https://open.spotify.com/album/5SofOXwfXjZD3PyQZeED8W) | 3:48 | 2021-09-23 |  |
 | [Kyoto](https://open.spotify.com/track/0w5q3dNRtPitKiaLLmUxVV) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto](https://open.spotify.com/album/4SxJz95wjshU0vPZkwss4J) | 2:41 | 2021-09-23 | 2022-05-13 |

@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: KiNG MALA
 
-215 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
+216 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [HOUNDIN PT\. II](https://open.spotify.com/track/1tBTGM9KtbCZvt6EPXWGrP) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [HOUNDIN PT\. II](https://open.spotify.com/album/5fhi8FFl90FTxFJVfdY7pf) | 3:14 | 2022-05-30 |  |
 | [Hurricane](https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Hurricane](https://open.spotify.com/album/0nhR7pihu2lJDAvVfXqBcH) | 3:01 | 2022-03-04 |  |
 | [I Feel Like I'm Falling](https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [I Feel Like I'm Falling](https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe) | 2:24 | 2021-11-12 | 2022-07-28 |
+| [I Like to Party](https://open.spotify.com/track/3LYdr3p3aJHCFSgEWwcXAx) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [33](https://open.spotify.com/album/1FDNmr1WNyQ0Ag27IBAc06) | 2:57 | 2022-10-14 |  |
 | [I Like to Party](https://open.spotify.com/track/51cjBkdTwUsoZMz0XcPNd7) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [I Like to Party](https://open.spotify.com/album/0LQmcDlQQFV27k6pxm7rab) | 2:57 | 2022-06-17 | 2022-10-03 |
 | [I Like To Party](https://open.spotify.com/track/73V7yBqIrvcmjkqagcXBMx) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [I Like To Party](https://open.spotify.com/album/4ShnGGAoi1xTnCNaOG0eEL) | 3:05 | 2021-07-23 | 2022-07-29 |
 | [If I Were You](https://open.spotify.com/track/5zq85bH7aHwAwYKpPzwyH5) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic II](https://open.spotify.com/album/6I4s9QeVMZfaF152XWjXFY) | 3:28 | 2021-07-23 | 2022-03-16 |
@@ -137,7 +138,7 @@
 | [Mr Regular \(feat\. Oliver Tree & Killer Mike\)](https://open.spotify.com/track/5GGeui401dCbJLVno3gYgM) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Mr Regular \(feat\. Oliver Tree & Killer Mike\)](https://open.spotify.com/album/47smPL4rALcoThyXAP5PCl) | 2:54 | 2022-06-03 | 2022-07-29 |
 | [Mx\. Sinister](https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Mx\. Sinister](https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC) | 2:59 | 2021-06-11 |  |
 | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/track/318MngwqDyMYOzhDcZkUoq) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/album/250tsczCTKdauTN2QJgak4) | 2:51 | 2022-10-14 |  |
-| [New Friends](https://open.spotify.com/track/6bHFFcOvpc1pKrT4YL1K83) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [New Friends](https://open.spotify.com/album/3CqLMnA4ivtuBuGPV4h4Ky) | 2:56 | 2021-01-22 |  |
+| [New Friends](https://open.spotify.com/track/6bHFFcOvpc1pKrT4YL1K83) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [New Friends](https://open.spotify.com/album/3CqLMnA4ivtuBuGPV4h4Ky) | 2:56 | 2021-01-22 | 2022-10-26 |
 | [Nightmare](https://open.spotify.com/track/0JyWZ4BrLIlvyJ5lt7HNM1) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Nightmare](https://open.spotify.com/album/7kmb7rf1uASmCbFe3YLfhV) | 3:29 | 2021-12-03 | 2022-03-16 |
 | [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/track/3as5VuWv791EWn04JkrvtK) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [NIGHTMARE \(feat\. guardin\)](https://open.spotify.com/album/482FoQaZMMqfZrLl5rAJSC) | 2:52 | 2022-06-17 | 2022-08-14 |
 | [NO ESCAPE](https://open.spotify.com/track/5Xg5bGbWHToIMSsqWxOsej) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 3:34 | 2022-04-09 |  |

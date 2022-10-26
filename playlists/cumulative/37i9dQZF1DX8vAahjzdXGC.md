@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Taylor Swift
 
-13,592 songs - 32 day 11 hr 40 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
+13,594 songs - 32 day 11 hr 50 min - [published](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2804,7 +2804,8 @@
 | [Delete](https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Delete](https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9) | 4:09 | 2022-07-14 | 2022-07-22 |
 | [Delete](https://open.spotify.com/track/74j3N4pVlEwaEro7eCzvac) | [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Delete](https://open.spotify.com/album/4g0mklmiaGLzswAAKOQJq3) | 2:28 | 2021-12-30 | 2022-01-07 |
 | [Delicious](https://open.spotify.com/track/1t2BXAZq0KM7AaFu5cvc3x) | [WOO JIN YOUNG](https://open.spotify.com/artist/1vpeQFhw90qhSRmzBd1ivl) | [\[DELICIOUS\]](https://open.spotify.com/album/03b7sXntDsxzF3nG9KmJ8G) | 3:21 | 2022-07-14 | 2022-07-22 |
-| [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-20 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-20 | 2022-10-26 |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-21 |  |
 | [Delusi](https://open.spotify.com/track/778gcpK6ogycvq88hEK7Zf) | [L.Y.O.N](https://open.spotify.com/artist/011lDaj7WzDKxGzz3pFGHA), [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Delusi](https://open.spotify.com/album/1vCONcpujgjSAcBBLutAHu) | 4:20 | 2020-12-11 | 2020-12-18 |
 | [Delusion](https://open.spotify.com/track/2wj1QAIU2ER04nvMc19DMg) | [Ujang Tokyo](https://open.spotify.com/artist/0QHYqqchqGmRzJYNpiuJp9) | [Delusion](https://open.spotify.com/album/79h3KiWna2qXiQksR70YIq) | 3:20 | 2020-10-09 | 2020-10-16 |
 | [Demeanor \(feat\. Dua Lipa\)](https://open.spotify.com/track/3DMs7bahbQTnoxCjgP7qoK) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:04 | 2021-07-17 | 2021-07-23 |
@@ -3409,7 +3410,8 @@
 | [Emotions Like](https://open.spotify.com/track/4oGzKBeRuul3iGUfwIz5mH) | [Alva Gracia](https://open.spotify.com/artist/3XIfUQhOkgdfKXzL6bUX07) | [Emotions Like](https://open.spotify.com/album/0XPFJP0JqmAyofBi9jGiC6) | 2:35 | 2022-02-10 | 2022-02-18 |
 | [Empire](https://open.spotify.com/track/32NMr70l1K1qTKoA30eaVJ) | [Higher Brothers](https://open.spotify.com/artist/07ZhipyrvoyNoJejeyM0PQ) | [Empire](https://open.spotify.com/album/3gCfOOi8YyPUE6y2fkvlTT) | 3:27 | 2020-11-13 | 2020-11-20 |
 | [Empty](https://open.spotify.com/track/1FzjWPPir2aSn6oAewEQNl) | [Azhr](https://open.spotify.com/artist/1XoQClD6pvwGhLXBLHQ5x3) | [Empty](https://open.spotify.com/album/58ugl1mzPzooVFTGGVpZvK) | 2:35 | 2020-06-19 | 2020-06-29 |
-| [Empty Head](https://open.spotify.com/track/1yEHKriEfBw6k1Dcb9sEBj) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Empty Head](https://open.spotify.com/album/3cLIlAzid7cOpdsfECmON9) | 5:13 | 2022-10-20 |  |
+| [Empty Head](https://open.spotify.com/track/1yEHKriEfBw6k1Dcb9sEBj) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Empty Head](https://open.spotify.com/album/3cLIlAzid7cOpdsfECmON9) | 5:13 | 2022-10-20 | 2022-10-26 |
+| [Empty Head](https://open.spotify.com/track/54DjNRB4TFeXOpRMBJyNv3) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 5:13 | 2022-10-21 |  |
 | [Empty Love \(ft\. Ruel\)](https://open.spotify.com/track/4ticY1NEauYaMGosBnvCLE) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Empty Love \(ft\. Ruel\)](https://open.spotify.com/album/6JpKZLBbrfwLRLwIj2Rzwx) | 3:28 | 2020-05-22 | 2020-05-29 |
 | [Empty Room](https://open.spotify.com/track/0VhTSAlzq35MUoowirD9yv) | [Bryan Petreli](https://open.spotify.com/artist/55zMNdD6ZG97EdK17MZ1bX) | [Empty Room](https://open.spotify.com/album/0CTMt61TLlBoxflarfwhaa) | 3:31 | 2022-02-03 | 2022-02-11 |
 | [En Mi Cuarto](https://open.spotify.com/track/7isUUCDfqd7I7aFtP8VaZ7) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:11 | 2020-07-31 | 2020-08-07 |

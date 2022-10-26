@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: emlyn, Paty B, Avenoir, Blondshell",
-  "num_followers": 1139120,
+  "num_followers": 1139000,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -900,16 +900,16 @@
           "url": "https://open.spotify.com/artist/43frrjZm4xIly8czdRd2ix"
         },
         {
-          "name": "Temia",
-          "url": "https://open.spotify.com/artist/1lNU1BvYhxDcUyXkgyUVMa"
-        },
-        {
           "name": "Mannie",
           "url": "https://open.spotify.com/artist/0zgAhjlUqDIcAm9hwZmiFw"
         },
         {
           "name": "Liyah",
           "url": "https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu"
+        },
+        {
+          "name": "Temia",
+          "url": "https://open.spotify.com/artist/1lNU1BvYhxDcUyXkgyUVMa"
         }
       ],
       "duration_ms": 182603,

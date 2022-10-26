@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 267037,
+  "num_followers": 267105,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMGQxNjNlMjhiY2E0MDM0MmM1MTY0YWEyZmEyMTY0OTEy",
+  "snapshot_id": "MTY1NzEyMDcxNCwwMDAwMDAwMDJhODBhYjdmMmU3OWI3YTYwNjc4MDI3NWUyOGM2NTNl",
   "tracks": [
     {
       "added_at": "2022-07-06 15:18:34",
@@ -471,6 +471,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/0rPRQrMxmMBq9Jii0IwqDF"
+      },
+      "artists": [
+        {
+          "name": "Pynch",
+          "url": "https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9"
+        }
+      ],
+      "duration_ms": 331664,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/2Kray2Kft9TnDb0Rhkfc5p"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "The Clouds Cleared the Way",
         "url": "https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8"
       },
@@ -487,18 +503,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/0rPRQrMxmMBq9Jii0IwqDF"
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
       },
       "artists": [
         {
-          "name": "Pynch",
-          "url": "https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9"
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
         }
       ],
-      "duration_ms": 331664,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/2Kray2Kft9TnDb0Rhkfc5p"
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -519,22 +535,6 @@
       "duration_ms": 190840,
       "name": "Only One Man (with Melody's Echo Chamber)",
       "url": "https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
-      },
-      "artists": [
-        {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
-      },
-      "artists": [
-        {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 950210,
-      "name": "Songs",
-      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "Jay II",
         "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 240426,
       "name": "Earth to Jay",
       "url": "https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
+      },
+      "artists": [
+        {
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+        }
+      ],
+      "duration_ms": 950210,
+      "name": "Songs",
+      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/0uQ3hIVUT5NTkNGPokDlDw"
+        "name": "The Middle of Nowhere",
+        "url": "https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l"
       },
       "artists": [
         {
-          "name": "noelle",
-          "url": "https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy"
+          "name": "Ruby Haunt",
+          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
         }
       ],
-      "duration_ms": 205225,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/3rsJVGczbI4PRb9YdyoZms"
+      "duration_ms": 258876,
+      "name": "Jeune",
+      "url": "https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -751,18 +751,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "The Middle of Nowhere",
-        "url": "https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l"
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/0uQ3hIVUT5NTkNGPokDlDw"
       },
       "artists": [
         {
-          "name": "Ruby Haunt",
-          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
+          "name": "noelle",
+          "url": "https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy"
         }
       ],
-      "duration_ms": 258876,
-      "name": "Jeune",
-      "url": "https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR"
+      "duration_ms": 205225,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/3rsJVGczbI4PRb9YdyoZms"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -815,26 +815,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Patience Etc... (George Clanton Remix)",
-        "url": "https://open.spotify.com/album/47vZuuUWplGpIYvBZGUj4s"
-      },
-      "artists": [
-        {
-          "name": "Caroline Loveglow",
-          "url": "https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        }
-      ],
-      "duration_ms": 258665,
-      "name": "Patience Etc... (George Clanton Remix)",
-      "url": "https://open.spotify.com/track/35UpVtlZ5nbxH2nw0of9ST"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "loom",
         "url": "https://open.spotify.com/album/2RwKRxZFFi6s9WMJzcTjMz"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 204178,
       "name": "\u00c9lan Vital (feat. \u4e45\u4fdd\u7530\u30ea\u30e7\u30a6\u30d8\u30a4)",
       "url": "https://open.spotify.com/track/6aOE6O7Q6F9DBD1Gx6hztn"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Patience Etc... (George Clanton Remix)",
+        "url": "https://open.spotify.com/album/47vZuuUWplGpIYvBZGUj4s"
+      },
+      "artists": [
+        {
+          "name": "Caroline Loveglow",
+          "url": "https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        }
+      ],
+      "duration_ms": 258665,
+      "name": "Patience Etc... (George Clanton Remix)",
+      "url": "https://open.spotify.com/track/35UpVtlZ5nbxH2nw0of9ST"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
+        "name": "Morningside",
+        "url": "https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 240736,
+      "name": "Jennifer",
+      "url": "https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
-        "name": "Morningside",
-        "url": "https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 240736,
-      "name": "Jennifer",
-      "url": "https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv"
-      },
-      "artists": [
-        {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
-        }
-      ],
-      "duration_ms": 235653,
-      "name": "The Dark",
-      "url": "https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt"
-    },
-    {
-      "added_at": "2022-07-06 15:18:34",
-      "album": {
         "name": "House Of Mirrors",
         "url": "https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2022-07-06 15:18:34",
       "album": {
-        "name": "Now It's Gone",
-        "url": "https://open.spotify.com/album/2bH4nIurTWpCkA9vYUwBRr"
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv"
       },
       "artists": [
         {
-          "name": "Maria BC",
-          "url": "https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry"
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
         }
       ],
-      "duration_ms": 245826,
-      "name": "Now It's Gone",
-      "url": "https://open.spotify.com/track/55RPfUUmsyU2Yjx8k4qzp9"
+      "duration_ms": 235653,
+      "name": "The Dark",
+      "url": "https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt"
     },
     {
       "added_at": "2022-07-06 15:18:34",
@@ -1271,6 +1255,22 @@
       "duration_ms": 327266,
       "name": "Lean Into Life",
       "url": "https://open.spotify.com/track/5eWH1AYlLn8UV2E1PthAhk"
+    },
+    {
+      "added_at": "2022-07-06 15:18:34",
+      "album": {
+        "name": "Now It's Gone",
+        "url": "https://open.spotify.com/album/2bH4nIurTWpCkA9vYUwBRr"
+      },
+      "artists": [
+        {
+          "name": "Maria BC",
+          "url": "https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry"
+        }
+      ],
+      "duration_ms": 245826,
+      "name": "Now It's Gone",
+      "url": "https://open.spotify.com/track/55RPfUUmsyU2Yjx8k4qzp9"
     },
     {
       "added_at": "2022-07-06 15:18:34",

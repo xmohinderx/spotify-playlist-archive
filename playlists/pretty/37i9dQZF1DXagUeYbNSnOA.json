@@ -1,15 +1,15 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Paty B on cover.",
-  "num_followers": 167284,
+  "num_followers": 167288,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjE3MzA3NiwwMDAwMDAwMDczYWRmNzFiZjk3MzE0OGFiYzkyNzk1ZDI1OTMyM2Q5",
+  "snapshot_id": "MTY2NjE3MzA3NiwwMDAwMDAwMGE1Y2RhYWE3NWQ4ZjNmYjU3MzEzZjZiN2M2MWJiNTZj",
   "tracks": [
     {
-      "added_at": "2022-10-25 02:02:43",
+      "added_at": "2022-10-26 01:45:41",
       "album": {
         "name": "BRUTAL - Spotify Singles",
         "url": "https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW"
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-10-05 20:02:30",
       "album": {
-        "name": "Bambi",
-        "url": "https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG"
-      },
-      "artists": [
-        {
-          "name": "Koi Pali",
-          "url": "https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33"
-        }
-      ],
-      "duration_ms": 190755,
-      "name": "Bambi",
-      "url": "https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT"
-    },
-    {
-      "added_at": "2022-10-05 20:02:30",
-      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/1FGitIgiVbZh21SrFMBt8G"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 247698,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/6M2fkduE9eKOmZFTS3IDlp"
+    },
+    {
+      "added_at": "2022-10-05 20:02:30",
+      "album": {
+        "name": "Bambi",
+        "url": "https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG"
+      },
+      "artists": [
+        {
+          "name": "Koi Pali",
+          "url": "https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33"
+        }
+      ],
+      "duration_ms": 190755,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT"
     },
     {
       "added_at": "2022-10-05 20:02:30",

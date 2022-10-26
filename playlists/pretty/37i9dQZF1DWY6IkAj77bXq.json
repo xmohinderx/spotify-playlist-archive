@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 40482,
+  "num_followers": 40535,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM3OTQ2MCwwMDAwMDAwMDZmN2QzMWE3YzJhZWQ1MTUxYjNlOTcwMTVmZWZjYWQx",
+  "snapshot_id": "MTY2NjM3OTQ2MCwwMDAwMDAwMDhmZjM4NWYxMjNlMmVjYzE4Y2E5MTZmY2Y5OWJiMWIy",
   "tracks": [
     {
       "added_at": "2022-10-21 19:11:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-10-21 19:11:00",
       "album": {
+        "name": "Nature of Life",
+        "url": "https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE"
+      },
+      "artists": [
+        {
+          "name": "Ozo Nakuru",
+          "url": "https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7"
+        }
+      ],
+      "duration_ms": 159892,
+      "name": "Nature of Life",
+      "url": "https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI"
+    },
+    {
+      "added_at": "2022-10-21 19:11:00",
+      "album": {
         "name": "Sleeping Moons",
         "url": "https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 149433,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
-    },
-    {
-      "added_at": "2022-10-21 19:11:00",
-      "album": {
-        "name": "Nature of Life",
-        "url": "https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE"
-      },
-      "artists": [
-        {
-          "name": "Ozo Nakuru",
-          "url": "https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7"
-        }
-      ],
-      "duration_ms": 159892,
-      "name": "Nature of Life",
-      "url": "https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI"
     },
     {
       "added_at": "2022-10-21 19:11:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-10-21 19:11:00",
       "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
-      },
-      "artists": [
-        {
-          "name": "Xiaoming Chu",
-          "url": "https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp"
-    },
-    {
-      "added_at": "2022-10-21 19:11:00",
-      "album": {
         "name": "Bortgjemt",
         "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2022-10-21 19:11:00",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0Jjb6g3BMPFKR6RKOpwBA8"
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
       },
       "artists": [
         {
-          "name": "Dawn Sankrit",
-          "url": "https://open.spotify.com/artist/7xwgjyWY3BwKNgdZFo1GQU"
+          "name": "Xiaoming Chu",
+          "url": "https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9"
         }
       ],
-      "duration_ms": 177952,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/3GNlFyD9YUqLJy2u7W8h2M"
+      "duration_ms": 178500,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp"
     },
     {
       "added_at": "2022-10-21 19:11:00",
@@ -551,6 +535,22 @@
       "duration_ms": 152000,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo"
+    },
+    {
+      "added_at": "2022-10-21 19:11:00",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0Jjb6g3BMPFKR6RKOpwBA8"
+      },
+      "artists": [
+        {
+          "name": "Dawn Sankrit",
+          "url": "https://open.spotify.com/artist/7xwgjyWY3BwKNgdZFo1GQU"
+        }
+      ],
+      "duration_ms": 177952,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/3GNlFyD9YUqLJy2u7W8h2M"
     },
     {
       "added_at": "2022-10-21 19:11:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-10-21 19:11:00",
       "album": {
+        "name": "Djupet",
+        "url": "https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK"
+      },
+      "artists": [
+        {
+          "name": "Owen Meyers",
+          "url": "https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM"
+        }
+      ],
+      "duration_ms": 223010,
+      "name": "Djupet",
+      "url": "https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia"
+    },
+    {
+      "added_at": "2022-10-21 19:11:00",
+      "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2022-10-21 19:11:00",
       "album": {
-        "name": "Floating Without Gravity",
-        "url": "https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh"
-      },
-      "artists": [
-        {
-          "name": "Tranquil Spirits",
-          "url": "https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Floating Without Gravity",
-      "url": "https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU"
-    },
-    {
-      "added_at": "2022-10-21 19:11:00",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/1jYA1RLpNu4G6eXzb7UeyL"
       },
@@ -747,18 +747,18 @@
     {
       "added_at": "2022-10-21 19:11:00",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
+        "name": "Floating Without Gravity",
+        "url": "https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh"
       },
       "artists": [
         {
-          "name": "Sleeping Clouds",
-          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
+          "name": "Tranquil Spirits",
+          "url": "https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp"
         }
       ],
-      "duration_ms": 170958,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
+      "duration_ms": 162400,
+      "name": "Floating Without Gravity",
+      "url": "https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU"
     },
     {
       "added_at": "2022-10-21 19:11:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-10-21 19:11:00",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Clouds",
+          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
+        }
+      ],
+      "duration_ms": 170958,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
+    },
+    {
+      "added_at": "2022-10-21 19:11:00",
+      "album": {
         "name": "Tokyo Drifting",
         "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 203000,
       "name": "Tokyo Drifting",
       "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
-    },
-    {
-      "added_at": "2022-10-21 19:11:00",
-      "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
-      },
-      "artists": [
-        {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/052r4hUKC2njavG6fRdX5M"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Kiaz, L7NNON",
-  "num_followers": 234846,
+  "num_followers": 235104,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyMTIwMCwwMDAwMDAwMDJjYTg5MTZhYTViNDZlYjA2MmYwOTY4YzBjMzZjMzUw",
+  "snapshot_id": "MTY2NjMyMTIwMCwwMDAwMDAwMDE5MWY4YzA3N2VmMTJlZTNhNjk5YzljYzUwMjMzOWNh",
   "tracks": [
     {
       "added_at": "2022-10-21 03:00:00",
@@ -827,6 +827,30 @@
     {
       "added_at": "2022-10-21 03:00:00",
       "album": {
+        "name": "Melhor Lugar",
+        "url": "https://open.spotify.com/album/3dQpyO7nTetpK38phGBa0B"
+      },
+      "artists": [
+        {
+          "name": "LUE",
+          "url": "https://open.spotify.com/artist/50VHfozsQsmTf1R18RcuEN"
+        },
+        {
+          "name": "PedroWnx",
+          "url": "https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        }
+      ],
+      "duration_ms": 168031,
+      "name": "Melhor Lugar",
+      "url": "https://open.spotify.com/track/3NvJOofNuM9TmYgxCfavsN"
+    },
+    {
+      "added_at": "2022-10-21 03:00:00",
+      "album": {
         "name": "Nosso Flow",
         "url": "https://open.spotify.com/album/6dqKRg8kzuAiWzFt6pj7JY"
       },
@@ -859,30 +883,6 @@
       "duration_ms": 281904,
       "name": "Nosso Flow",
       "url": "https://open.spotify.com/track/2uK2zK0CBh8w2C4Uq8qo7z"
-    },
-    {
-      "added_at": "2022-10-21 03:00:00",
-      "album": {
-        "name": "Melhor Lugar",
-        "url": "https://open.spotify.com/album/3dQpyO7nTetpK38phGBa0B"
-      },
-      "artists": [
-        {
-          "name": "LUE",
-          "url": "https://open.spotify.com/artist/50VHfozsQsmTf1R18RcuEN"
-        },
-        {
-          "name": "PedroWnx",
-          "url": "https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1"
-        },
-        {
-          "name": "Indie Space",
-          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
-        }
-      ],
-      "duration_ms": 168031,
-      "name": "Melhor Lugar",
-      "url": "https://open.spotify.com/track/3NvJOofNuM9TmYgxCfavsN"
     },
     {
       "added_at": "2022-10-21 03:00:00",
@@ -1751,22 +1751,18 @@
     {
       "added_at": "2022-10-21 03:00:00",
       "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
+        "name": "Incompreens\u00edvel",
+        "url": "https://open.spotify.com/album/5ruFS6omFm5SYUeQc3WDaM"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+          "name": "Andr\u00e9 Rossi",
+          "url": "https://open.spotify.com/artist/4ffbPlugxavkW9jARlpNBA"
         }
       ],
-      "duration_ms": 170538,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
+      "duration_ms": 180000,
+      "name": "Incompreens\u00edvel",
+      "url": "https://open.spotify.com/track/7kAuO29y7qOGyviJqxl0xi"
     },
     {
       "added_at": "2022-10-21 03:00:00",
@@ -1787,6 +1783,26 @@
     {
       "added_at": "2022-10-21 03:00:00",
       "album": {
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        }
+      ],
+      "duration_ms": 170538,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
+    },
+    {
+      "added_at": "2022-10-21 03:00:00",
+      "album": {
         "name": "AL\u00c9M DE LOVE",
         "url": "https://open.spotify.com/album/3SHJwSFzUcc7xiNt4eqsq3"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 140624,
       "name": "PRIMEIRA VISTA",
       "url": "https://open.spotify.com/track/46qcIwcdt2NSuiH8hHJVob"
-    },
-    {
-      "added_at": "2022-10-21 03:00:00",
-      "album": {
-        "name": "Incompreens\u00edvel",
-        "url": "https://open.spotify.com/album/5ruFS6omFm5SYUeQc3WDaM"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Rossi",
-          "url": "https://open.spotify.com/artist/4ffbPlugxavkW9jARlpNBA"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Incompreens\u00edvel",
-      "url": "https://open.spotify.com/track/7kAuO29y7qOGyviJqxl0xi"
     },
     {
       "added_at": "2022-10-21 03:00:00",

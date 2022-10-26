@@ -2,7 +2,7 @@
 
 ### [100](https://open.spotify.com/playlist/37i9dQZF1DWXfgo3OOonqa)
 
-> Håll det 100.
+> spooky season 🎃
 
 637 songs - 1 day 4 hr 25 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,615 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,707 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 56 | [A Song With No Name](https://open.spotify.com/track/3Ulj4AXe7s1gUZ7iByb9Jy) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 4:03 |
 | 57 | [The Light](https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N) | [A Blue Flame](https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo) | [Love Rushes Past](https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0) | 2:40 |
 | 58 | [Live Without You](https://open.spotify.com/track/6Z175630nXFIv5o6wY47aF) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 1:31 |
-| 59 | [Breakdown](https://open.spotify.com/track/4ebAsaLYZZBzADj1Vfmcc4) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Indigo](https://open.spotify.com/album/3KJDc381jm06rWww5E45or) | 3:18 |
+| 59 | [It's Complicated](https://open.spotify.com/track/6w9GAp3fgHFeDpYHDAaApX) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/2wakq28QTH960KEygvzPXl) | 3:28 |
 | 60 | [Be That Someone](https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2) | [Torun Eriksen](https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn) | [Luxury and Waste](https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B) | 3:53 |
-| 61 | [It's Complicated](https://open.spotify.com/track/6w9GAp3fgHFeDpYHDAaApX) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/2wakq28QTH960KEygvzPXl) | 3:28 |
+| 61 | [Breakdown](https://open.spotify.com/track/4ebAsaLYZZBzADj1Vfmcc4) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Indigo](https://open.spotify.com/album/3KJDc381jm06rWww5E45or) | 3:18 |
 | 62 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 4:43 |
 | 63 | [Humphrey and me](https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712) | [Humphrey and Me](https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL) | 4:27 |
 | 64 | [I Fall to Pieces](https://open.spotify.com/track/34QBDcwnUMlQCGpjUhXN8u) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [I Fall to Pieces](https://open.spotify.com/album/0AgqUaoymiX2pAQlHlwZKr) | 2:51 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 66 | [Stuck on You](https://open.spotify.com/track/3Nie2FVxbHaDvEfdBq95ff) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05) | [Stuck on You](https://open.spotify.com/album/48jJpJh1n2jszVcUoFmnrf) | 5:33 |
 | 67 | [Dynamite](https://open.spotify.com/track/5U16vigbwV6tA5v9XHCm4h) | [Equal Echo](https://open.spotify.com/artist/0W22sUJ7JzaGdjJvZ94H4X) | [Dynamite EP](https://open.spotify.com/album/4nR20Yz3OUZhFbg0dFgAsO) | 3:30 |
 | 68 | [Blackbird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Spotify Singles](https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg) | 4:27 |
-| 69 | [Don't Need The Real Thing](https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Indigo](https://open.spotify.com/album/3KJDc381jm06rWww5E45or) | 3:26 |
+| 69 | [Adventure Of A Lifetime](https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [This Is Not Jazz](https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM) | 4:59 |
 | 70 | [And Time Froze](https://open.spotify.com/track/5iHOWdd8kt00RUGRp56Den) | [Duara](https://open.spotify.com/artist/1XOfH1UedJEI98CfjiDlyF) | [Flights of Imagination](https://open.spotify.com/album/2eLF1fJClf8VcIPAOhQafc) | 3:15 |
-| 71 | [Adventure Of A Lifetime](https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [This Is Not Jazz](https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM) | 4:59 |
+| 71 | [Don't Need The Real Thing](https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Indigo](https://open.spotify.com/album/3KJDc381jm06rWww5E45or) | 3:26 |
 | 72 | [Smile](https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [Smile](https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ) | 3:20 |
 | 73 | [Sunny Days](https://open.spotify.com/track/4Ob8OMyF3uMIHEndVD3II1) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [For Seasons to Come](https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G) | 4:00 |
 | 74 | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/track/5Uq45pwM3VHj9PeWDyjWLR) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [LOVE QUANTUM](https://open.spotify.com/album/0PdocBlAIGi3jougS8fNiB) | 3:10 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 97 | [Sugilite](https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT) | [Jeanne Newhall](https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t) | [Sugilite](https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN) | 4:38 |
 | 98 | [Riders on the Storm](https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN) | [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG), [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU) | [Riders on the Storm](https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9) | 3:46 |
 | 99 | [Some Day](https://open.spotify.com/track/21bjp8uUBmejTKO4axhhL9) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [For Seasons to Come](https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G) | 3:49 |
-| 100 | [That's What Friends Are For](https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [That's What Friends Are For](https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ) | 3:43 |
+| 100 | [A Voice](https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [A Voice](https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M) | 4:25 |
 
-Snapshot ID: `MTY2NTY5ODQwMCwwMDAwMDAwMDE4ODBmOTUyYTRkZWRiN2I1NDc2ODQzMTBlMzBmMTYz`
+Snapshot ID: `MTY2NTY5ODQwMCwwMDAwMDAwMDQyOTc5MjQ2MmEwOTc0YzQxZTQzMGEzNzhiNjFmZDQw`

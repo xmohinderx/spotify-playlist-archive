@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Jessie Reyez
 
-533 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+534 songs - 1 day 3 hr 58 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Count on Me](https://open.spotify.com/track/0PJXUpD6Og6jy5gMv14knO) | [earth2zoe](https://open.spotify.com/artist/4weid71nei8BXt61GNFZiQ) | [Count on Me](https://open.spotify.com/album/1iMsm7bddlthQjZr1STePf) | 3:03 | 2022-08-03 | 2022-09-09 |
 | [Counterfeit Love](https://open.spotify.com/track/0Mqt5UD2SCi8Qd6pvaJupU) | [Celina Wolfe](https://open.spotify.com/artist/017LHvQoZBHtrhJ0Q2bD0T) | [Counterfeit Love](https://open.spotify.com/album/6EjWmcLTiMjVa57CxfyIBa) | 3:04 | 2022-05-04 | 2022-06-01 |
 | [Country Queen](https://open.spotify.com/track/66UoGh7GDMKWubZf6Dg73J) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Country Queen](https://open.spotify.com/album/4Q9HJJxuSUdfULtzS44gR7) | 3:17 | 2021-12-08 | 2022-10-06 |
-| [Cowboy Gangster Politician](https://open.spotify.com/track/5Flo7FMi6Lmaf8ybgtudop) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/02pCzByRtQ5rdOZdnqlhqt) | 3:52 | 2022-10-05 |  |
+| [Cowboy Gangster Politician](https://open.spotify.com/track/5Flo7FMi6Lmaf8ybgtudop) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/02pCzByRtQ5rdOZdnqlhqt) | 3:52 | 2022-10-05 | 2022-10-26 |
+| [Cowboy Gangster Politician](https://open.spotify.com/track/7lX3csi0tMtyj1n3gtx9x7) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [K\-Town](https://open.spotify.com/album/7vBPzS2nKBQotLlnHBdRpf) | 3:52 | 2022-10-12 |  |
 | [Crime of the Century](https://open.spotify.com/track/6VLrRwqYS9tHYRdWdBlMAL) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Crime of the Century](https://open.spotify.com/album/3KFAfbgxPVWzvvENkeFxOv) | 2:49 | 2022-04-06 | 2022-05-04 |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-04-06 | 2022-05-04 |
 | [Cry 4 U](https://open.spotify.com/track/7pKwUPlNzY9HDN7lGL4KjR) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [513](https://open.spotify.com/album/6NDmSdY3c1glA8GPk3jYrn) | 2:35 | 2022-06-01 | 2022-07-07 |

@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-529 songs - 1 day 22 hr 22 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
+530 songs - 1 day 22 hr 27 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Arrival](https://open.spotify.com/track/4sBqFcXxQEfyqNYA7tDNwq) | [Trans\-4M](https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj) | [Sublunar Oracles](https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk) | 9:26 | 2021-10-20 | 2022-07-23 |
 | [Asia](https://open.spotify.com/track/6kg3oZmQjDU1nMLOWU3gVP) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Early Tape Works 1986 \- 1993 Vol\. 2](https://open.spotify.com/album/4h1Yp6ITa0R2ZAB9YTsuyL) | 5:03 | 2021-10-20 | 2022-07-27 |
 | [Astrosat](https://open.spotify.com/track/4e64RbgVywOCPpXv5vswj2) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/4h7Oys2gq6TWIHDTXMr0J3) | 5:00 | 2021-10-20 | 2022-09-26 |
+| [Astrosat](https://open.spotify.com/track/6sfLKBnf6ZogXdpViAxEJP) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/5S7THuLIRniJ0TxrWJwUEf) | 5:00 | 2021-10-20 |  |
 | [Astrosat](https://open.spotify.com/track/7Bp6FeyuwmUlM7atMBag1A) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/3P1lcWQ2sc7RGGiY4nQuL1) | 5:00 | 2021-10-20 | 2022-10-21 |
 | [Atelier](https://open.spotify.com/track/0reQqPRkPgYvKfMQR7Nfin) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/5l69NsahjgyhPCZNzVVGls) | 6:47 | 2021-10-20 | 2022-05-30 |
 | [Aura Show](https://open.spotify.com/track/709Tz6gMwBFkAxzMlcwYbj) | [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [Annual Flowers in Color](https://open.spotify.com/album/2lKc2An4mbMhJvlGqCmHYX) | 10:18 | 2021-10-20 | 2022-07-28 |
@@ -287,7 +288,7 @@
 | [Melancholia II](https://open.spotify.com/track/0ALo5LHdF3hJiD8WFN770B) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 6:50 | 2021-10-20 |  |
 | [Melancholia II](https://open.spotify.com/track/2UZXQrEi0A8ySbDuyeuMt3) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2mDwgIyil7jUI192RqJ1Lm) | 6:50 | 2021-10-20 | 2022-07-18 |
 | [memorial park](https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [that day, on the beach](https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha) | 2:31 | 2021-10-20 | 2022-07-29 |
-| [memorial park](https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [that day, on the beach](https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1) | 2:31 | 2021-10-20 |  |
+| [memorial park](https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [that day, on the beach](https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1) | 2:31 | 2021-10-20 | 2022-10-26 |
 | [Memories of Grass](https://open.spotify.com/track/0TpPYzoSRxHVIAk6I9W6wp) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [How Much Time it is Between You and Me?](https://open.spotify.com/album/2MqJM7oZ4FOCowQORhfBKc) | 4:16 | 2021-10-20 | 2022-10-16 |
 | [Memories of Grass](https://open.spotify.com/track/3bbozj0fLmHcD8iXrqhcPL) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [How Much Time it is Between You and Me?](https://open.spotify.com/album/3f5TwahHoUqJVnNrhp68Mm) | 4:16 | 2021-10-20 | 2022-07-29 |
 | [Memory Arc](https://open.spotify.com/track/0SDh7AAKlUSzzzXfuB1aVw) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 2:13 | 2021-10-20 |  |

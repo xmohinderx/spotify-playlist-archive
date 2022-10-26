@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 7685,
+  "num_followers": 7704,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODcyNSwwMDAwMDAwMDM2MGNiMjVjNzUzMTFhODRjMzM4ZGZlMDM5YjNkYzc2",
+  "snapshot_id": "MTY2NTExODcyNSwwMDAwMDAwMDA3Y2Q2NTRlODNjZDcyODIxZWRhYTU5M2I2OThmZjM3",
   "tracks": [
     {
       "added_at": "2022-10-05 05:53:59",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
-      },
-      "artists": [
-        {
-          "name": "Jinyoung",
-          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
-        }
-      ],
-      "duration_ms": 222305,
-      "name": "Shining on Your Night",
-      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
         "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 210493,
       "name": "Every day, Every Moment",
       "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "duration_ms": 222305,
+      "name": "Shining on Your Night",
+      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
     },
     {
       "added_at": "2022-10-05 05:53:59",
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
-      "added_at": "2022-10-25 02:01:32",
+      "added_at": "2022-10-26 01:45:09",
       "album": {
         "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
     },
     {
-      "added_at": "2022-10-25 02:01:32",
+      "added_at": "2022-10-26 01:45:09",
       "album": {
         "name": "The Law Cafe (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/2G1M07vfp7Qjd6MNkUP6MR"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9"
     },
     {
-      "added_at": "2022-10-25 02:01:32",
+      "added_at": "2022-10-26 01:45:09",
       "album": {
         "name": "Some Day in the 21century",
         "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-10-05 05:53:59",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 196576,
-      "name": "Real LOVE",
-      "url": "https://open.spotify.com/track/0O2ZW0yhiRQ3HKNCzGDzMj"
-    },
-    {
-      "added_at": "2022-10-05 05:53:59",
-      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 221081,
       "name": "best song",
       "url": "https://open.spotify.com/track/259vEYIeuiVqTcJsaaE696"
+    },
+    {
+      "added_at": "2022-10-05 05:53:59",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 196576,
+      "name": "Real LOVE",
+      "url": "https://open.spotify.com/track/0O2ZW0yhiRQ3HKNCzGDzMj"
     },
     {
       "added_at": "2022-10-05 05:53:59",

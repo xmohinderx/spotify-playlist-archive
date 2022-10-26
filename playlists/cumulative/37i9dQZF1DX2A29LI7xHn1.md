@@ -4,7 +4,7 @@
 
 > Crossing over like Allen I\. Cover: Tyga
 
-379 songs - 19 hr 7 min - [published](https://open.spotify.com/playlist/2r5DE6CSqTiYmBM4pn2qN9)
+380 songs - 19 hr 10 min - [published](https://open.spotify.com/playlist/2r5DE6CSqTiYmBM4pn2qN9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,8 @@
 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 | 2022-08-05 |  |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-06-17 |  |
 | [Still Here \(feat\. Cordae\)](https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Still Here \(feat\. Cordae\)](https://open.spotify.com/album/0zeQClmSZ283w0KoFrB14b) | 3:16 | 2022-03-04 | 2022-06-18 |
-| [Stone Cold](https://open.spotify.com/track/3Z2ASDuTah7auTOSVmDMo5) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Stone Cold](https://open.spotify.com/album/0l7iZ6objNnhQYiAFzMWOM) | 2:30 | 2022-10-21 |  |
+| [Stone Cold](https://open.spotify.com/track/2ZJSuTo2KtL066oKKmcUlL) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Stone Cold](https://open.spotify.com/album/75XtJQhaA2gnlYJ1RsrxgO) | 2:30 | 2022-10-25 |  |
+| [Stone Cold](https://open.spotify.com/track/3Z2ASDuTah7auTOSVmDMo5) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Stone Cold](https://open.spotify.com/album/0l7iZ6objNnhQYiAFzMWOM) | 2:30 | 2022-10-21 | 2022-10-26 |
 | [Stone Rolling](https://open.spotify.com/track/4ur8qEgQgCCZaD1Jf4XRMF) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Stone Rolling](https://open.spotify.com/album/7al2qlrlND8C2sA1UGaYDF) | 3:00 | 2022-07-29 | 2022-08-13 |
 | [Storyteller](https://open.spotify.com/track/3P14DrMQLh1CqKBki4e98s) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Storyteller](https://open.spotify.com/album/28Y1Tj8nZRro47bwhKnOiV) | 2:46 | 2022-06-10 | 2022-08-13 |
 | [Stressed](https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Stressed](https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8) | 3:03 | 2022-10-14 |  |

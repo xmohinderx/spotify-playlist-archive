@@ -1,12 +1,12 @@
 {
   "description": "Song of the Year winners from 1959-2021. How many do you know? #SpotifyTBT",
-  "num_followers": 26628,
+  "num_followers": 26630,
   "original_name": "#SpotifyTBT: Song of the Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMDQ4NTIxZjg4YWY2OTY0ZTVlOGZkNGNjNDJhZDc2Nzgy",
+  "snapshot_id": "MTY0NDk4OTg2MSwwMDAwMDAwMGFlOGZlYzU5Y2JiNzczN2IxODUwYmIwYzNiM2E1NThh",
   "tracks": [
     {
       "added_at": "2022-02-16 05:37:41",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
+        "name": "Rush (Music from the Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 271760,
+      "name": "Tears in Heaven",
+      "url": "https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw"
+    },
+    {
+      "added_at": "2022-02-16 05:37:41",
+      "album": {
         "name": "I AM...SASHA FIERCE",
         "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 210200,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu"
-    },
-    {
-      "added_at": "2022-02-16 05:37:41",
-      "album": {
-        "name": "Rush (Music from the Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 271760,
-      "name": "Tears in Heaven",
-      "url": "https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -827,22 +827,18 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+        "name": "Complete Clapton",
+        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 173448,
-      "name": "Stay With Me - Radio Edit",
-      "url": "https://open.spotify.com/track/3C08A6WXAl2XAsI5hZtTSR"
+      "duration_ms": 234866,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/79bdDFqZUcZcmmnC5aPmoh"
     },
     {
       "added_at": "2022-02-16 05:37:41",
@@ -863,18 +859,22 @@
     {
       "added_at": "2022-02-16 05:37:41",
       "album": {
-        "name": "Complete Clapton",
-        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 234866,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/79bdDFqZUcZcmmnC5aPmoh"
+      "duration_ms": 173448,
+      "name": "Stay With Me - Radio Edit",
+      "url": "https://open.spotify.com/track/3C08A6WXAl2XAsI5hZtTSR"
     },
     {
       "added_at": "2022-02-16 05:37:41",

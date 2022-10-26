@@ -4,7 +4,7 @@
 
 > A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.
 
-324 songs - 1 day 12 hr 14 min - [published](https://open.spotify.com/playlist/72tvy5oFSSxWjO9lGxm3Vs)
+325 songs - 1 day 12 hr 20 min - [published](https://open.spotify.com/playlist/72tvy5oFSSxWjO9lGxm3Vs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Caminando de Noche](https://open.spotify.com/track/4L7g38G0N4RWSdaciFkTdQ) | [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM), [Robbie Akbal](https://open.spotify.com/artist/3LvGzX9zs4GCx44NhOWN1H), [Ay Sarita](https://open.spotify.com/artist/5HifrXbZ6BSp7ATd2S8OxS) | [15 Years of Akbal Music, Pt\. 2](https://open.spotify.com/album/1y2JST2SwbJcG2MCrxvwlT) | 7:44 | 2021-12-17 | 2022-07-29 |
 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 | 2021-07-22 |  |
 | [Can You See What I See](https://open.spotify.com/track/1EbwNU8Iz75oAHWW6mtVDe) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Words Don't Come Easy, Pt\. 6](https://open.spotify.com/album/0MhcYIMgVVrf3dusIES3ej) | 6:40 | 2019-08-02\* | 2022-10-16 |
+| [Can You See What I See](https://open.spotify.com/track/1HRKQf25EU09i3IvNuJRd4) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Can You See What I See](https://open.spotify.com/album/0CSbzLZKijkGdVgl4u4REk) | 6:40 | 2022-09-09 |  |
 | [Caparica](https://open.spotify.com/track/5NgN9mecbM6iIMN2P8MuwJ) | [Rafael Da Cruz](https://open.spotify.com/artist/4acEcHw5tbGAew2C01EKCT) | [Caparica](https://open.spotify.com/album/75ICyn1FKMjizgqgvap3Gh) | 6:31 | 2021-12-17 | 2021-12-20 |
 | [Caracal \- Klik & Frik Remix](https://open.spotify.com/track/2p6HMmRycYKLQBQ4oHSQz5) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Moja](https://open.spotify.com/album/131dxx7wu5rQTay6FC9jHV) | 7:07 | 2019-11-15 | 2020-03-04 |
 | [Carouselland](https://open.spotify.com/track/7lj7f1RcUInYsx8E7jLn9Q) | [Rapossa](https://open.spotify.com/artist/0FtVISUJUZSWPU4LGeovTM) | [Carouselland](https://open.spotify.com/album/11Yj0Vhr1eqr5Goq0PU3S6) | 6:33 | 2020-09-10 | 2021-01-27 |
@@ -312,7 +313,7 @@
 | [Vasudeva](https://open.spotify.com/track/32V1RHcDM6UHQ864VCLIfK) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Vasudeva](https://open.spotify.com/album/0ZEDJKw8dd2q1IKjZCwIye) | 6:16 | 2019-08-02\* | 2021-06-04 |
 | [Vayu](https://open.spotify.com/track/6Tllev6fw9tXOodmoAsIZC) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9) | [Fragile](https://open.spotify.com/album/7bkCjULlGysGT8pfaYQDmp) | 7:06 | 2019-08-02\* | 2019-09-06 |
 | [Voices](https://open.spotify.com/track/5lc74AXwQnoAvXpef0GnvD) | [Natema](https://open.spotify.com/artist/4rRv0Fox6Cw8lHMorSyksg) | [Voices](https://open.spotify.com/album/7LrigGSm0XLAjBtbI2eedN) | 7:37 | 2020-06-12 |  |
-| [Voodoo Guitar \- Timboletti Remix](https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Max Clouth](https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1), [Timboletti](https://open.spotify.com/artist/4i0bLWWYQMI3P1KFrTWsHG) | [Voodoo Guitar](https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI) | 10:37 | 2020-04-25 |  |
+| [Voodoo Guitar \- Timboletti Remix](https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Max Clouth](https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1), [Timboletti](https://open.spotify.com/artist/4i0bLWWYQMI3P1KFrTWsHG) | [Voodoo Guitar](https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI) | 10:37 | 2020-04-25 | 2022-10-26 |
 | [Vourvourou](https://open.spotify.com/track/4I1Y8lgR6KCV2QCL1sx0oc) | [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l), [Izhevski](https://open.spotify.com/artist/5kgbdZjaH7REUaSXBV8lfH) | [Vourvourou](https://open.spotify.com/album/1anIq6aEt4LER2xiD5ndHD) | 7:05 | 2021-12-17 | 2021-12-21 |
 | [Waidalal \- Ankhoï Remix](https://open.spotify.com/track/3NClGgiGLwR34sDKGdFykT) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Waidalal](https://open.spotify.com/album/4z8z7kfqjjzwGDM6ObqzAC) | 7:33 | 2021-11-28 | 2022-04-20 |
 | [War](https://open.spotify.com/track/4tFSTI3avUHyBZHeTcCB7r) | [Peré Oudav](https://open.spotify.com/artist/0SUtMyEoZZCh59W23tlR51) | [Penta](https://open.spotify.com/album/775U4UaxMqynHWGH5SEBjQ) | 3:37 | 2019-08-02\* | 2021-07-10 |

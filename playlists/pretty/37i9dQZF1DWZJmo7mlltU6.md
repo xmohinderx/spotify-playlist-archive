@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Frankie Cosmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,512 likes - 105 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,621 likes - 105 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
-| 2 | [Empty Head](https://open.spotify.com/track/1yEHKriEfBw6k1Dcb9sEBj) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Empty Head](https://open.spotify.com/album/3cLIlAzid7cOpdsfECmON9) | 5:13 |
+| 2 | [Empty Head](https://open.spotify.com/track/54DjNRB4TFeXOpRMBJyNv3) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 5:13 |
 | 3 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
 | 4 | [Californian Beach](https://open.spotify.com/track/2RhJOzTy8i4uC7mKZCqqvR) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Californian Beach](https://open.spotify.com/album/3ygWQW7oF3UmXUecmrYaeR) | 3:08 |
 | 5 | [Flowers From Japan](https://open.spotify.com/track/6UMZpB7uTxDyhUs8cvSHRE) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Flowers From Japan](https://open.spotify.com/album/7cWK1OJgqmkyBjK67LUesw) | 4:06 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 104 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 |
 | 105 | [far](https://open.spotify.com/track/0HMvbr4qGFyp4jjIzlFNRN) | [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [33](https://open.spotify.com/album/4jEBsdVo24FkbfSlctvoJI) | 4:09 |
 
-Snapshot ID: `MTY2NjM2NjU3MSwwMDAwMDAwMDU1ZTY4ZGJmOWU4OTI4YTY0ODE0MDE3N2I2ZTY3OGNh`
+Snapshot ID: `MTY2NjM2NjU3MSwwMDAwMDAwMDkzYzczZjlkYjk4OTU1N2JjMDY4MjQ2ODkxNWMxMWMw`

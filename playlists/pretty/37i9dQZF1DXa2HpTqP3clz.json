@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Billy Strings",
-  "num_followers": 113439,
+  "num_followers": 113497,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDg3ZDUzOTgzNjc5ZjBmZDAzM2E0NGM1MmRjYjI0NDkz",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGNkMjBhZmEwYjM4Mzc1NGViMTFmODM4Y2NlMTRkZjNm",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "In The Ground",
-        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Homemade Wine",
-      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "\u201cThe Long-Awaited Album\u201d",
         "url": "https://open.spotify.com/album/18a2XSMBz1cgZyqVnsG684"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 153106,
       "name": "On The Water",
       "url": "https://open.spotify.com/track/6sVBfdmhr8SrqUJDynPZKQ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "In The Ground",
+        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
+      },
+      "artists": [
+        {
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Homemade Wine",
+      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Storyman",
+        "url": "https://open.spotify.com/album/25F6ItCZFGZ79LvZVhlDIm"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "Play By Your Own Rules",
+      "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "In the Sweet by and By",
         "url": "https://open.spotify.com/album/7JZHTqJuqfFQDBqV0GqTE5"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 235560,
       "name": "In the Sweet by and By",
       "url": "https://open.spotify.com/track/6gJkNZt514JO7YR6dxS4JE"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Storyman",
-        "url": "https://open.spotify.com/album/25F6ItCZFGZ79LvZVhlDIm"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "Play By Your Own Rules",
-      "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Wild as We Came Here",
-        "url": "https://open.spotify.com/album/754yx9mZquABRQbCpwL5r7"
-      },
-      "artists": [
-        {
-          "name": "The Steel Wheels",
-          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "Scrape Me Off the Ceiling",
-      "url": "https://open.spotify.com/track/0imRwJuihcp7MvVEFnipaq"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Long Time To Be Gone",
         "url": "https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 120609,
       "name": "Jenny Put the Kettle On",
       "url": "https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Wild as We Came Here",
+        "url": "https://open.spotify.com/album/754yx9mZquABRQbCpwL5r7"
+      },
+      "artists": [
+        {
+          "name": "The Steel Wheels",
+          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
+        }
+      ],
+      "duration_ms": 180546,
+      "name": "Scrape Me Off the Ceiling",
+      "url": "https://open.spotify.com/track/0imRwJuihcp7MvVEFnipaq"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Sidetrack My Engine",
+        "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Black Muddy River",
         "url": "https://open.spotify.com/album/4NEAI6IneYPx1gyD0drCON"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 379576,
       "name": "Black Muddy River",
       "url": "https://open.spotify.com/track/4l6NIYohNjIPQQ4h1BTgNL"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Sidetrack My Engine",
-        "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Wedding Dress",
-      "url": "https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Tall Tales & Fables",
+        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
+      },
+      "artists": [
+        {
+          "name": "Haunted Like Human",
+          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
+        }
+      ],
+      "duration_ms": 177414,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Honey on My Tongue",
         "url": "https://open.spotify.com/album/05H2cjz5UyKcNXkZAVw0vn"
       },
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Tall Tales & Fables",
-        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
+        "name": "The More I Learn",
+        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
       },
       "artists": [
         {
-          "name": "Haunted Like Human",
-          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
         }
       ],
-      "duration_ms": 177414,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
+      "duration_ms": 246853,
+      "name": "The More I Learn",
+      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1355,38 +1371,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Laws Of Gravity",
-        "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 275973,
-      "name": "1901: A Canyon Odyssey",
-      "url": "https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "The More I Learn",
-        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "The More I Learn",
-      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
         "url": "https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 255369,
       "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
       "url": "https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Laws Of Gravity",
+        "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 275973,
+      "name": "1901: A Canyon Odyssey",
+      "url": "https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/3B6rXVRd0W6KkRpWNDSCdF"
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
       },
       "artists": [
         {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+          "name": "Emily Scott Robinson",
+          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
         }
       ],
-      "duration_ms": 263662,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/0yFEjOFIloELuqQZoYJZR1"
+      "duration_ms": 226466,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/3B6rXVRd0W6KkRpWNDSCdF"
       },
       "artists": [
         {
-          "name": "Emily Scott Robinson",
-          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
         }
       ],
-      "duration_ms": 226466,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
+      "duration_ms": 263662,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/0yFEjOFIloELuqQZoYJZR1"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1503,22 +1503,6 @@
       "duration_ms": 216229,
       "name": "Lies & Money",
       "url": "https://open.spotify.com/track/1e3OLCYKGvvWpTB7KsUPj3"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Narrow Line",
-        "url": "https://open.spotify.com/album/13ok2EdPNgcOS0RHx0KOMr"
-      },
-      "artists": [
-        {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
-        }
-      ],
-      "duration_ms": 275746,
-      "name": "Narrow Line",
-      "url": "https://open.spotify.com/track/4aVe8YJwrAfqF4Qo0kyQLn"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Tempest & Rapture",
-        "url": "https://open.spotify.com/album/6wvpesFCyaJ2DPmD0U2g28"
+        "name": "Narrow Line",
+        "url": "https://open.spotify.com/album/13ok2EdPNgcOS0RHx0KOMr"
       },
       "artists": [
         {
-          "name": "The Deer",
-          "url": "https://open.spotify.com/artist/1Hhsvgh6jPbzakInEaTFAJ"
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
         }
       ],
-      "duration_ms": 274115,
-      "name": "Winter to Pry",
-      "url": "https://open.spotify.com/track/4475bUCSvAIbnHVlxQzhZ6"
+      "duration_ms": 275746,
+      "name": "Narrow Line",
+      "url": "https://open.spotify.com/track/4aVe8YJwrAfqF4Qo0kyQLn"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1575,6 +1559,22 @@
       "duration_ms": 229120,
       "name": "The Seeker",
       "url": "https://open.spotify.com/track/2vIaCDb7ZVDCtcReCMthKP"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Tempest & Rapture",
+        "url": "https://open.spotify.com/album/6wvpesFCyaJ2DPmD0U2g28"
+      },
+      "artists": [
+        {
+          "name": "The Deer",
+          "url": "https://open.spotify.com/artist/1Hhsvgh6jPbzakInEaTFAJ"
+        }
+      ],
+      "duration_ms": 274115,
+      "name": "Winter to Pry",
+      "url": "https://open.spotify.com/track/4475bUCSvAIbnHVlxQzhZ6"
     },
     {
       "added_at": "2022-10-14 04:00:00",

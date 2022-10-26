@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Anthony Gomes",
-  "num_followers": 135296,
+  "num_followers": 135329,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDg2MCwwMDAwMDAwMDVkYTMwYWUwZmI0M2I3NjdjMmI3NjQ4MWUxOWU5OGJh",
+  "snapshot_id": "MTY2NjMyNDg2MCwwMDAwMDAwMDYzNDczMDUwOWI3YWU2NjA4MzNkYjA1NzllNjJmNjQ5",
   "tracks": [
     {
       "added_at": "2022-10-21 04:01:00",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Nothing But The Blues",
-        "url": "https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 201803,
-      "name": "Nothing But The Blues",
-      "url": "https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ"
-    },
-    {
       "added_at": "2021-02-26 05:01:00",
       "album": {
         "name": "Bones Owens",
@@ -511,6 +495,22 @@
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Nothing But The Blues",
+        "url": "https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 201803,
+      "name": "Nothing But The Blues",
+      "url": "https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Shake and Bake",
-        "url": "https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi"
-      },
-      "artists": [
-        {
-          "name": "Left Lane Cruiser",
-          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
-        }
-      ],
-      "duration_ms": 328093,
-      "name": "The Waltz",
-      "url": "https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4"
-    },
-    {
       "added_at": "2021-02-19 05:01:00",
       "album": {
         "name": "The Ides of March",
@@ -591,6 +575,22 @@
       "duration_ms": 227199,
       "name": "In Stride",
       "url": "https://open.spotify.com/track/1l6y7uGONbXJ9Rfr42K01e"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Shake and Bake",
+        "url": "https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi"
+      },
+      "artists": [
+        {
+          "name": "Left Lane Cruiser",
+          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
+        }
+      ],
+      "duration_ms": 328093,
+      "name": "The Waltz",
+      "url": "https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4"
     },
     {
       "added_at": "2021-04-16 04:01:00",
@@ -725,22 +725,6 @@
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
     },
     {
-      "added_at": "2021-03-26 04:01:00",
-      "album": {
-        "name": "Heavy Shoes",
-        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 206618,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Ones to Keep Close",
@@ -755,6 +739,22 @@
       "duration_ms": 196843,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv"
+    },
+    {
+      "added_at": "2021-03-26 04:01:00",
+      "album": {
+        "name": "Heavy Shoes",
+        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 206618,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0A9wTufPFplgsSACJLUtX6"
     },
     {
       "added_at": "2022-05-13 04:02:00",

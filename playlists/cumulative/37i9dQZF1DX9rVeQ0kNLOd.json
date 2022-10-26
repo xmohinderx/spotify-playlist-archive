@@ -104,6 +104,28 @@
     },
     {
       "album": {
+        "name": "celeste feat. \u6625\u91ce",
+        "url": "https://open.spotify.com/album/4bGZJtVoi4Rk5gQYHmDgct"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        },
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "celeste feat. \u6625\u91ce",
+      "url": "https://open.spotify.com/track/1xD7JuI2jpGFFZYMtcmuC9"
+    },
+    {
+      "album": {
         "name": "cloud",
         "url": "https://open.spotify.com/album/3MPWlGx8FPXB14cugsvrFA"
       },
@@ -388,6 +410,32 @@
     },
     {
       "album": {
+        "name": "made my day feat. Takuya Kuroda / Marcus D",
+        "url": "https://open.spotify.com/album/6MxRGKcSWjnBdn1ywHfu7Y"
+      },
+      "artists": [
+        {
+          "name": "\u7af9\u5185\u30a2\u30f3\u30ca",
+          "url": "https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        },
+        {
+          "name": "Marcus D",
+          "url": "https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205668,
+      "name": "made my day feat. Takuya Kuroda / Marcus D",
+      "url": "https://open.spotify.com/track/6ogEQHLfCtEozEqTDI0PmD"
+    },
+    {
+      "album": {
         "name": "madoromiyurumi",
         "url": "https://open.spotify.com/album/5QPr7Gbmbfjw3AxXPyHoJb"
       },
@@ -399,7 +447,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 244484,
       "name": "madoromiyurumi",
       "url": "https://open.spotify.com/track/3eyti6C0dpOaFKv01GMUn9"
@@ -757,7 +805,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 201617,
       "name": "yugi",
       "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
@@ -890,6 +938,28 @@
     },
     {
       "album": {
+        "name": "\u6708\u306b\u5420\u3048\u308b",
+        "url": "https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        },
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205920,
+      "name": "\u6708\u306b\u5420\u3048\u308b",
+      "url": "https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ"
+    },
+    {
+      "album": {
         "name": "\u697d\u5712",
         "url": "https://open.spotify.com/album/31GF5nxOwXvXdeoHcGiUyP"
       },
@@ -901,7 +971,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 234360,
       "name": "\u697d\u5712",
       "url": "https://open.spotify.com/track/2MCYwlrzVgOF3mmhk9tZW8"

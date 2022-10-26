@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-322 songs - 20 hr 2 min - [published](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
+323 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [All Animal](https://open.spotify.com/track/6rUcboqRuVuowjaL5YUNtx) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/7CcfBGRoxEuWkudbhLMr3H) | 3:30 | 2021-11-12 | 2022-07-29 |
 | [All I Need](https://open.spotify.com/track/4HhgKphDUbhvRGZp0bNuuQ) | [Ovtlier](https://open.spotify.com/artist/33EsLV9XuU86eBafBHYL0G) | [All I Need](https://open.spotify.com/album/2mdMVMeRpVTrAaVJ8bflPh) | 3:30 | 2021-11-12 | 2022-07-29 |
 | [All or Nothing](https://open.spotify.com/track/4dMkVSiMt14svAqUlwMVuQ) | [Sylar](https://open.spotify.com/artist/78vP5COn64VXULgkIQovEA) | [All or Nothing](https://open.spotify.com/album/15wYtBlGoDxPUL283TyHgu) | 3:18 | 2021-11-12 | 2022-07-29 |
-| [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 | 2022-04-04 | 2022-10-04 |
+| [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 | 2022-04-04 |  |
 | [Alone Again](https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Alone Again](https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq) | 3:48 | 2021-11-12 | 2022-10-09 |
 | [Alone In A Room](https://open.spotify.com/track/0hAIs32U2SmJcXymlcyF8h) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/0dYHTESEegNj0dkIFGWy2d) | 4:05 | 2021-11-12 |  |
 | [Always Southern California](https://open.spotify.com/track/1QUF9KoHtU4ZzFp13XalSR) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/5EC01kwscPKGa659Jqsrae) | 3:10 | 2021-11-12 | 2022-07-29 |
@@ -164,6 +164,7 @@
 | [Jekyll and Hyde](https://open.spotify.com/track/5MjkeHk6I0JA0q13eqtnJP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 3:26 | 2022-07-13 |  |
 | [Jekyll and Hyde](https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 3:26 | 2022-07-13 | 2022-07-29 |
 | [Judas](https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 4:10 | 2021-11-12 |  |
+| [Just Pretend](https://open.spotify.com/track/3zb8S65LhiPPPH4vov8yV2) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ) | 3:24 | 2022-10-25 |  |
 | [Kickstart My Heart](https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ) | 4:42 | 2021-11-12 | 2022-07-29 |
 | [Kickstart My Heart](https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:44 | 2022-06-17 |  |
 | [Killing Me Slowly](https://open.spotify.com/track/6E5gsJm3t0RqmiHBfUBaya) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Killing Me Slowly](https://open.spotify.com/album/4JJYvxmSDCIExVj13cWCes) | 3:57 | 2021-11-12 | 2022-07-29 |
@@ -240,7 +241,7 @@
 | [Resentment](https://open.spotify.com/track/7pK1CcGiz41Bi0qZ1cIXft) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Resentment](https://open.spotify.com/album/01K6XMRFJFP3lfQOkGjCnd) | 3:28 | 2021-11-12 | 2022-07-29 |
 | [Rickets](https://open.spotify.com/track/7Ca5yTC81P0AtRnNKHKzwJ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 2:42 | 2022-07-13 | 2022-10-22 |
 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 | 2021-11-12 | 2022-07-29 |
-| [Risen](https://open.spotify.com/track/5SPdrK8RwO52MlBI1kjcft) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [All I See Is War](https://open.spotify.com/album/3u3tCOYA9fjvlfQKoMAk3T) | 3:26 | 2021-11-12 |  |
+| [Risen](https://open.spotify.com/track/5SPdrK8RwO52MlBI1kjcft) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [All I See Is War](https://open.spotify.com/album/3u3tCOYA9fjvlfQKoMAk3T) | 3:26 | 2021-11-12 | 2022-10-26 |
 | [Sacrifice](https://open.spotify.com/track/3eJaCUXhOJsXy92dYGZ1uP) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Sacrifice](https://open.spotify.com/album/7gZPHDkphi3kpg6rukf41X) | 4:06 | 2021-11-12 | 2022-10-19 |
 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 | 2022-06-17 |  |
 | [Save Me](https://open.spotify.com/track/4pJM8ZZ3YIO4xOeD5k8s5P) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Save Me](https://open.spotify.com/album/6LJiP6blb71XuM0Tky5MpR) | 3:43 | 2021-11-12 | 2022-07-29 |
@@ -281,7 +282,7 @@
 | [The Empiric](https://open.spotify.com/track/1d03uBOxopCm2m5bvJuaUy) | [Memorist](https://open.spotify.com/artist/5iO99RO9AmhAr4rLgjZ1nn) | [The Empiric](https://open.spotify.com/album/4zYrSSwFx7FJ6pz8m8CVXe) | 3:51 | 2021-11-12 | 2022-07-29 |
 | [The End](https://open.spotify.com/track/5PXjboZvWr7by2uvU6K7IV) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [The End / The Truth](https://open.spotify.com/album/6SKwtpMm0UTjVTlcGJalyX) | 3:58 | 2022-04-04 | 2022-04-21 |
 | [The End](https://open.spotify.com/track/6CRSmqVeFPd4zwvlHhgFrj) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO) | [The End](https://open.spotify.com/album/6GAivLxki3SKsiBJodvqCF) | 3:37 | 2021-11-12 | 2022-07-29 |
-| [The Heretic Anthem](https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 | 2022-07-13 |  |
+| [The Heretic Anthem](https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 | 2022-07-13 | 2022-10-26 |
 | [The Hunted \(feat\. Sully Erna\)](https://open.spotify.com/track/08vJxMYhmZu6YTWqVmLgrA) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Sully Erna](https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy) | [The Hunted](https://open.spotify.com/album/6WUvlN7aMwYXJCIsVDKqQo) | 3:43 | 2021-11-12 | 2022-07-29 |
 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 | 2021-11-12 |  |
 | [The Remedy](https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:03 | 2022-06-17 |  |

@@ -4,12 +4,12 @@
 
 > Fino y elegante, como Feid mor.
 
-112 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/3OhkR06qQDPnVK6pP9NFg8)
+113 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/3OhkR06qQDPnVK6pP9NFg8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+18](https://open.spotify.com/track/51TJh1UIuNYFWyhpSelRGc) | [Seppe & Gama](https://open.spotify.com/artist/0F5CR3Pa9bThSXd4kyedcg), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [+18](https://open.spotify.com/album/4dq0sUyRMMIKzqwbduS3SS) | 3:30 | 2022-09-06 | 2022-09-10 |
-| [10 Am](https://open.spotify.com/track/1jUZ3VfJxo2HuyQkRlLDbM) | [Koora](https://open.spotify.com/artist/3mWID7rld1CKPADQLJnqQI) | [10 Am](https://open.spotify.com/album/5gqfgnOGMlH5KgEZYeZfio) | 2:37 | 2022-10-13 |  |
+| [10 Am](https://open.spotify.com/track/1jUZ3VfJxo2HuyQkRlLDbM) | [Koora](https://open.spotify.com/artist/3mWID7rld1CKPADQLJnqQI) | [10 Am](https://open.spotify.com/album/5gqfgnOGMlH5KgEZYeZfio) | 2:37 | 2022-10-13 | 2022-10-26 |
 | [10 PM](https://open.spotify.com/track/3a0P7wE7Gv3ztKND45C3jv) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [10 PM](https://open.spotify.com/album/5QP7KzyD4Q78s7hpqVA5Wf) | 3:33 | 2022-09-06 | 2022-10-14 |
 | [A Fuego](https://open.spotify.com/track/2OBDbcbEoulxcvV7VIJVLu) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [A Fuego](https://open.spotify.com/album/3rMdauQMPRGqfX7GeNIlRO) | 3:08 | 2022-10-13 |  |
 | [Ajena \(with Myke Towers, Dylan Fuentes\)](https://open.spotify.com/track/4KXtFUFmPObTROXShFLHZX) | [Dayme y El High](https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin) | [Ajena](https://open.spotify.com/album/09f8EgWWvka2uplSWGdIwV) | 2:42 | 2022-10-13 |  |
@@ -48,6 +48,7 @@
 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 | 2022-09-06 | 2022-10-14 |
 | [Hace Tiempo](https://open.spotify.com/track/5PSgIaJp6mjIoO5y8kNkrK) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [Hace Tiempo](https://open.spotify.com/album/131BerXzsUmshfyUh9o2Xw) | 3:04 | 2022-09-06 |  |
 | [Hasta Abajo](https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [KrING](https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x) | 3:49 | 2022-10-13 |  |
+| [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 | 2022-10-25 |  |
 | [Hotel](https://open.spotify.com/track/4k11pkNfqJsq7ZX1TbxBeo) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Hotel](https://open.spotify.com/album/1oOYJiGceppR1wxTUEbpbb) | 2:59 | 2022-09-09 | 2022-10-07 |
 | [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 | 2022-09-06 | 2022-10-01 |
 | [Inolvidable](https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Inolvidable](https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI) | 3:45 | 2022-10-13 |  |

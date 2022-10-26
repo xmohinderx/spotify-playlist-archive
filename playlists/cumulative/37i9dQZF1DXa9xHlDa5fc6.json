@@ -845,6 +845,24 @@
     {
       "album": {
         "name": "Cinema Love",
+        "url": "https://open.spotify.com/album/356ZbANcwXGXMpgOZePud7"
+      },
+      "artists": [
+        {
+          "name": "Patrick Martin",
+          "url": "https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228196,
+      "name": "Cinema Love",
+      "url": "https://open.spotify.com/track/28yYvFeocTDYzao76YVB75"
+    },
+    {
+      "album": {
+        "name": "Cinema Love",
         "url": "https://open.spotify.com/album/4sfoMGrDHeeO3BhAP2lM1t"
       },
       "artists": [
@@ -3083,7 +3101,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 196512,
       "name": "Minimum Wage",
       "url": "https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v"

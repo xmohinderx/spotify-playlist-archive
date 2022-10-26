@@ -1,12 +1,12 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 859809,
+  "num_followers": 860087,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDg2MCwwMDAwMDAwMDI0ZDQ0ZWVhNjkwNzBkODhkNjI1YmIxOTQzNDYyZjZh",
+  "snapshot_id": "MTY2NjMyNDg2MCwwMDAwMDAwMDRjYWVkMzZmZDQ3YjU0ZTU5MmNhMmI2MTg1NjQzYTg3",
   "tracks": [
     {
       "added_at": "2022-10-21 04:01:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Near Dark",
-        "url": "https://open.spotify.com/album/1PbK3fDq8nVbImjOSHqnHD"
-      },
-      "artists": [
-        {
-          "name": "Dance With the Dead",
-          "url": "https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm"
-        }
-      ],
-      "duration_ms": 270720,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/4QnTtQJnAxK61zOibTJpYT"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/3PFjjWI0IHpR7Sjo4ackKP"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 363706,
       "name": "Futureland",
       "url": "https://open.spotify.com/track/5UrCArd6UDDR2EPFOeWCxb"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Near Dark",
+        "url": "https://open.spotify.com/album/1PbK3fDq8nVbImjOSHqnHD"
+      },
+      "artists": [
+        {
+          "name": "Dance With the Dead",
+          "url": "https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm"
+        }
+      ],
+      "duration_ms": 270720,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/4QnTtQJnAxK61zOibTJpYT"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -635,6 +635,26 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
+        "name": "Hyperlandia",
+        "url": "https://open.spotify.com/album/0UDVNOLLKTw4Fme8MbE1Mh"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 349591,
+      "name": "Hyperlandia - Vocal Mix",
+      "url": "https://open.spotify.com/track/2goi9r8tdsV1g79eesmaCX"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
         "name": "Neon Medusa",
         "url": "https://open.spotify.com/album/33L3Re3mh0BdCV6vlSMPzf"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 140968,
       "name": "Aftershock",
       "url": "https://open.spotify.com/track/6gniSmkKkkwdjqBbUH3ebT"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Hyperlandia",
-        "url": "https://open.spotify.com/album/0UDVNOLLKTw4Fme8MbE1Mh"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 349591,
-      "name": "Hyperlandia - Vocal Mix",
-      "url": "https://open.spotify.com/track/2goi9r8tdsV1g79eesmaCX"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
+        "name": "Hologram",
+        "url": "https://open.spotify.com/album/3VNyqCIJ1pfmiTnHRHw4ox"
+      },
+      "artists": [
+        {
+          "name": "Vogel",
+          "url": "https://open.spotify.com/artist/0IPgmXKtAVL8x0Gwqc2SuM"
+        }
+      ],
+      "duration_ms": 343140,
+      "name": "Night City",
+      "url": "https://open.spotify.com/track/2wRfmI3v2REarKJFzuzO46"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
         "name": "Flashing Sirens",
         "url": "https://open.spotify.com/album/4bNmE4x4vOL6oY32I33dvf"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Hologram",
-        "url": "https://open.spotify.com/album/3VNyqCIJ1pfmiTnHRHw4ox"
-      },
-      "artists": [
-        {
-          "name": "Vogel",
-          "url": "https://open.spotify.com/artist/0IPgmXKtAVL8x0Gwqc2SuM"
-        }
-      ],
-      "duration_ms": 343140,
-      "name": "Night City",
-      "url": "https://open.spotify.com/track/2wRfmI3v2REarKJFzuzO46"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Kalax",
         "url": "https://open.spotify.com/album/7voXS1czW5xne4u6vsuSKS"
       },
@@ -851,30 +851,6 @@
       "duration_ms": 259834,
       "name": "Time Lapse",
       "url": "https://open.spotify.com/track/7oMI71Jb3USQX5ILk5lp6x"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "We Find Ourselves",
-        "url": "https://open.spotify.com/album/3dS5r7ExDztGYhuZMJ1SLJ"
-      },
-      "artists": [
-        {
-          "name": "JODA",
-          "url": "https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ"
-        },
-        {
-          "name": "Jono Grant",
-          "url": "https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E"
-        },
-        {
-          "name": "Darren Tate",
-          "url": "https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI"
-        }
-      ],
-      "duration_ms": 219609,
-      "name": "We Find Ourselves - Edit",
-      "url": "https://open.spotify.com/track/2AXZRDQz6fC6KthbMytyi5"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -911,6 +887,30 @@
       "duration_ms": 320306,
       "name": "Strong - Instrumental",
       "url": "https://open.spotify.com/track/68z36ZU2RgiB9VyafaBrqV"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "We Find Ourselves",
+        "url": "https://open.spotify.com/album/3dS5r7ExDztGYhuZMJ1SLJ"
+      },
+      "artists": [
+        {
+          "name": "JODA",
+          "url": "https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ"
+        },
+        {
+          "name": "Jono Grant",
+          "url": "https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E"
+        },
+        {
+          "name": "Darren Tate",
+          "url": "https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI"
+        }
+      ],
+      "duration_ms": 219609,
+      "name": "We Find Ourselves - Edit",
+      "url": "https://open.spotify.com/track/2AXZRDQz6fC6KthbMytyi5"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "So Fewer Particles Scatter",
-        "url": "https://open.spotify.com/album/49VWM8s5jKyfJdBcwJ4tDH"
-      },
-      "artists": [
-        {
-          "name": "Miroir",
-          "url": "https://open.spotify.com/artist/4bFpWwKSDiCDBUbYwX59aX"
-        }
-      ],
-      "duration_ms": 327289,
-      "name": "Luminance",
-      "url": "https://open.spotify.com/track/0BxJspnDFiFfaOgOf0mSlw"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Monsoon",
         "url": "https://open.spotify.com/album/53x07LQf5NZUvR0UMRxsxh"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 210309,
       "name": "Monsoon - \u00c67 Night Remix",
       "url": "https://open.spotify.com/track/2KLaeABcYhR1K37R7uj6Ji"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "So Fewer Particles Scatter",
+        "url": "https://open.spotify.com/album/49VWM8s5jKyfJdBcwJ4tDH"
+      },
+      "artists": [
+        {
+          "name": "Miroir",
+          "url": "https://open.spotify.com/artist/4bFpWwKSDiCDBUbYwX59aX"
+        }
+      ],
+      "duration_ms": 327289,
+      "name": "Luminance",
+      "url": "https://open.spotify.com/track/0BxJspnDFiFfaOgOf0mSlw"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Celeste",
-        "url": "https://open.spotify.com/album/2AkabzuOF5cIiED2GcgCKp"
+        "name": "Ornaments",
+        "url": "https://open.spotify.com/album/5b1WAngXJHEDow5XfNkzIm"
       },
       "artists": [
         {
-          "name": "Barretso",
-          "url": "https://open.spotify.com/artist/0G0B56LpavF77LhE2IGtgB"
+          "name": "Sferro",
+          "url": "https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P"
         }
       ],
-      "duration_ms": 324049,
-      "name": "Ultimo",
-      "url": "https://open.spotify.com/track/0jtagVogty503eUAY7psju"
+      "duration_ms": 267997,
+      "name": "Blitz",
+      "url": "https://open.spotify.com/track/4j4P1BiYx0l9ZgeZEnD32P"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Ornaments",
-        "url": "https://open.spotify.com/album/5b1WAngXJHEDow5XfNkzIm"
+        "name": "Celeste",
+        "url": "https://open.spotify.com/album/2AkabzuOF5cIiED2GcgCKp"
       },
       "artists": [
         {
-          "name": "Sferro",
-          "url": "https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P"
+          "name": "Barretso",
+          "url": "https://open.spotify.com/artist/0G0B56LpavF77LhE2IGtgB"
         }
       ],
-      "duration_ms": 267997,
-      "name": "Blitz",
-      "url": "https://open.spotify.com/track/4j4P1BiYx0l9ZgeZEnD32P"
+      "duration_ms": 324049,
+      "name": "Ultimo",
+      "url": "https://open.spotify.com/track/0jtagVogty503eUAY7psju"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/1akun3X9ysTZ8ZNI19MZfS"
+      },
+      "artists": [
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        },
+        {
+          "name": "Memorex Memories",
+          "url": "https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/1uPgXM9EoySFF0RBaYV2zI"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
         "name": "Less Than Zero (feat. King Protea) [Waveshaper Remix]",
         "url": "https://open.spotify.com/album/0ii4KfMrtI7OSNfHnJj8S4"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 261566,
       "name": "Less Than Zero - Waveshaper Remix",
       "url": "https://open.spotify.com/track/3HwJmPyOpvA2uzQ9U48yP5"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/1akun3X9ysTZ8ZNI19MZfS"
-      },
-      "artists": [
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
-        },
-        {
-          "name": "Memorex Memories",
-          "url": "https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/1uPgXM9EoySFF0RBaYV2zI"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -1667,30 +1667,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Flashbacks (Arcade High Remix)",
-        "url": "https://open.spotify.com/album/26Tng1aHqxHkbmhiRf11yT"
-      },
-      "artists": [
-        {
-          "name": "W O L F C L U B",
-          "url": "https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX"
-        },
-        {
-          "name": "Dora Pereli",
-          "url": "https://open.spotify.com/artist/4bExAkknCNKbPxTFkSe7uC"
-        },
-        {
-          "name": "Arcade High",
-          "url": "https://open.spotify.com/artist/7fVPo8qWQK1quywHw9kMdI"
-        }
-      ],
-      "duration_ms": 232411,
-      "name": "Flashbacks (Arcade High Remix)",
-      "url": "https://open.spotify.com/track/0O2nbGHwYceYAnwT3mV0ZY"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "When We Touch",
         "url": "https://open.spotify.com/album/1x8Pv29DecQEtVm2Y7bLen"
       },
@@ -1743,6 +1719,46 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
+        "name": "Flashbacks (Arcade High Remix)",
+        "url": "https://open.spotify.com/album/26Tng1aHqxHkbmhiRf11yT"
+      },
+      "artists": [
+        {
+          "name": "W O L F C L U B",
+          "url": "https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX"
+        },
+        {
+          "name": "Dora Pereli",
+          "url": "https://open.spotify.com/artist/4bExAkknCNKbPxTFkSe7uC"
+        },
+        {
+          "name": "Arcade High",
+          "url": "https://open.spotify.com/artist/7fVPo8qWQK1quywHw9kMdI"
+        }
+      ],
+      "duration_ms": 232411,
+      "name": "Flashbacks (Arcade High Remix)",
+      "url": "https://open.spotify.com/track/0O2nbGHwYceYAnwT3mV0ZY"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Oort",
+        "url": "https://open.spotify.com/album/1UInbuJAszfSseJQzp9uyP"
+      },
+      "artists": [
+        {
+          "name": "Downtown Binary",
+          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Oort",
+      "url": "https://open.spotify.com/track/28uuISsg3eTxJsa4yFP5Mm"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
         "name": "Art3mis & Parzival",
         "url": "https://open.spotify.com/album/5FWIgOTOEAE1kUuqvKhMEw"
       },
@@ -1779,22 +1795,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Oort",
-        "url": "https://open.spotify.com/album/1UInbuJAszfSseJQzp9uyP"
-      },
-      "artists": [
-        {
-          "name": "Downtown Binary",
-          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Oort",
-      "url": "https://open.spotify.com/track/28uuISsg3eTxJsa4yFP5Mm"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "This is Now",
         "url": "https://open.spotify.com/album/41KnTJpTeX2kyJp5qTzVDt"
       },
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Extra Fresh",
-        "url": "https://open.spotify.com/album/572qUxNAk5ZHOU0hfqtkfd"
-      },
-      "artists": [
-        {
-          "name": "Birocratic",
-          "url": "https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Extra Fresh",
-      "url": "https://open.spotify.com/track/7vudKlxsBVvFgyQeXh4ymn"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Purple Sun",
         "url": "https://open.spotify.com/album/5gUwXtM9UM3dk0vGnW0rQC"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 412119,
       "name": "Purple Sun",
       "url": "https://open.spotify.com/track/5GorBkISuzSRgEuiq3dJu6"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Extra Fresh",
+        "url": "https://open.spotify.com/album/572qUxNAk5ZHOU0hfqtkfd"
+      },
+      "artists": [
+        {
+          "name": "Birocratic",
+          "url": "https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Extra Fresh",
+      "url": "https://open.spotify.com/track/7vudKlxsBVvFgyQeXh4ymn"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -2151,18 +2151,18 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Transmission",
-        "url": "https://open.spotify.com/album/5OcuXU4YAlttA7FZtxMUrw"
+        "name": "City Hunter",
+        "url": "https://open.spotify.com/album/6E5uRUjPHy4iikqyUDF8d7"
       },
       "artists": [
         {
-          "name": "Saffari",
-          "url": "https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B"
+          "name": "Sebastian Gampl",
+          "url": "https://open.spotify.com/artist/3jtCAPtVjW9Q7KHfnGCZsy"
         }
       ],
-      "duration_ms": 186947,
-      "name": "Transmission",
-      "url": "https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg"
+      "duration_ms": 285674,
+      "name": "Midnight Run",
+      "url": "https://open.spotify.com/track/0f49rlkhrHcAHwGCde5sfi"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -2183,18 +2183,34 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "City Hunter",
-        "url": "https://open.spotify.com/album/6E5uRUjPHy4iikqyUDF8d7"
+        "name": "Transmission",
+        "url": "https://open.spotify.com/album/5OcuXU4YAlttA7FZtxMUrw"
       },
       "artists": [
         {
-          "name": "Sebastian Gampl",
-          "url": "https://open.spotify.com/artist/3jtCAPtVjW9Q7KHfnGCZsy"
+          "name": "Saffari",
+          "url": "https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B"
         }
       ],
-      "duration_ms": 285674,
-      "name": "Midnight Run",
-      "url": "https://open.spotify.com/track/0f49rlkhrHcAHwGCde5sfi"
+      "duration_ms": 186947,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Humanity",
+        "url": "https://open.spotify.com/album/1mNWCwd5pDxalbFZndW2lg"
+      },
+      "artists": [
+        {
+          "name": "Myrone",
+          "url": "https://open.spotify.com/artist/36pSrxZllYXcKEeyUqnXTX"
+        }
+      ],
+      "duration_ms": 265312,
+      "name": "Keepin' on",
+      "url": "https://open.spotify.com/track/6o0AOlWQHSyto3C4wFeP8m"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -2215,22 +2231,6 @@
       "duration_ms": 192500,
       "name": "Before I Go",
       "url": "https://open.spotify.com/track/1qSWEe3S1ocuGZwNAHr9IL"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Humanity",
-        "url": "https://open.spotify.com/album/1mNWCwd5pDxalbFZndW2lg"
-      },
-      "artists": [
-        {
-          "name": "Myrone",
-          "url": "https://open.spotify.com/artist/36pSrxZllYXcKEeyUqnXTX"
-        }
-      ],
-      "duration_ms": 265312,
-      "name": "Keepin' on",
-      "url": "https://open.spotify.com/track/6o0AOlWQHSyto3C4wFeP8m"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "In Waves",
-        "url": "https://open.spotify.com/album/3nN8H3aqCNNbGHN1Z5wvP3"
-      },
-      "artists": [
-        {
-          "name": "neon cities",
-          "url": "https://open.spotify.com/artist/0CI4GExvLu9Dna6VTGcwTw"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "In Waves",
-      "url": "https://open.spotify.com/track/5W6WQdVPFApaKv4Rg37XLh"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Recall",
         "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 205128,
       "name": "Recall",
       "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "In Waves",
+        "url": "https://open.spotify.com/album/3nN8H3aqCNNbGHN1Z5wvP3"
+      },
+      "artists": [
+        {
+          "name": "neon cities",
+          "url": "https://open.spotify.com/artist/0CI4GExvLu9Dna6VTGcwTw"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "In Waves",
+      "url": "https://open.spotify.com/track/5W6WQdVPFApaKv4Rg37XLh"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Tenshi",
-        "url": "https://open.spotify.com/album/0ee0sndipg58Uqr5a6bhq7"
-      },
-      "artists": [
-        {
-          "name": "Formal One",
-          "url": "https://open.spotify.com/artist/7t9RzoO6u80uVTQGEt5p59"
-        }
-      ],
-      "duration_ms": 255189,
-      "name": "Tenshi",
-      "url": "https://open.spotify.com/track/7EVasoq7DMEcwgB8AJSi3t"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Delusive Bunker (Live Version)",
         "url": "https://open.spotify.com/album/6Aqfd6vOumuBEXGCmr96j0"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 371750,
       "name": "Delusive Bunker - Live Version",
       "url": "https://open.spotify.com/track/7gszCJRsbb0baUr58th2Qt"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Tenshi",
+        "url": "https://open.spotify.com/album/0ee0sndipg58Uqr5a6bhq7"
+      },
+      "artists": [
+        {
+          "name": "Formal One",
+          "url": "https://open.spotify.com/artist/7t9RzoO6u80uVTQGEt5p59"
+        }
+      ],
+      "duration_ms": 255189,
+      "name": "Tenshi",
+      "url": "https://open.spotify.com/track/7EVasoq7DMEcwgB8AJSi3t"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Pressure Point",
-        "url": "https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C"
-      },
-      "artists": [
-        {
-          "name": "Eagle Eyed Tiger",
-          "url": "https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8"
-        }
-      ],
-      "duration_ms": 236216,
-      "name": "Tessellate",
-      "url": "https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
         "name": "Shift",
         "url": "https://open.spotify.com/album/6GmUprnsv6t2ASxGndTjJ0"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 218666,
       "name": "Shift",
       "url": "https://open.spotify.com/track/0aBLmDTJtueByhtIZGBQWs"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Pressure Point",
+        "url": "https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C"
+      },
+      "artists": [
+        {
+          "name": "Eagle Eyed Tiger",
+          "url": "https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8"
+        }
+      ],
+      "duration_ms": 236216,
+      "name": "Tessellate",
+      "url": "https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -2499,18 +2499,18 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Starlight (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6o57o477VyFrubOJqTMwUV"
+        "name": "Golden Taurus EP",
+        "url": "https://open.spotify.com/album/3rBTMGNErkX6ia4TGBvsqq"
       },
       "artists": [
         {
-          "name": "Sunset Neon",
-          "url": "https://open.spotify.com/artist/7LpQ9EjCi2klKhDUhAUa1s"
+          "name": "Vercetti Technicolor",
+          "url": "https://open.spotify.com/artist/28qRQnzpymzgyB5QxvioKO"
         }
       ],
-      "duration_ms": 240750,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/4qg3M8Ml85iliPG2WRQ3FM"
+      "duration_ms": 345473,
+      "name": "Golden Taurus",
+      "url": "https://open.spotify.com/track/4yR6KeaGWGEDpVRiDFXeR7"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -2535,34 +2535,18 @@
     {
       "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Golden Taurus EP",
-        "url": "https://open.spotify.com/album/3rBTMGNErkX6ia4TGBvsqq"
+        "name": "Starlight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6o57o477VyFrubOJqTMwUV"
       },
       "artists": [
         {
-          "name": "Vercetti Technicolor",
-          "url": "https://open.spotify.com/artist/28qRQnzpymzgyB5QxvioKO"
+          "name": "Sunset Neon",
+          "url": "https://open.spotify.com/artist/7LpQ9EjCi2klKhDUhAUa1s"
         }
       ],
-      "duration_ms": 345473,
-      "name": "Golden Taurus",
-      "url": "https://open.spotify.com/track/4yR6KeaGWGEDpVRiDFXeR7"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "Man and Machine",
-        "url": "https://open.spotify.com/album/6uGoWSuQIru4ShNEKc3KyP"
-      },
-      "artists": [
-        {
-          "name": "Moondragon",
-          "url": "https://open.spotify.com/artist/30V9HnHJWlepVciwL4CHub"
-        }
-      ],
-      "duration_ms": 240039,
-      "name": "Afterburner",
-      "url": "https://open.spotify.com/track/3zeS75ZBNbUoAZW9eKUk4f"
+      "duration_ms": 240750,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/4qg3M8Ml85iliPG2WRQ3FM"
     },
     {
       "added_at": "2022-10-21 04:01:00",
@@ -2579,6 +2563,22 @@
       "duration_ms": 212753,
       "name": "Timmy Goes To Space",
       "url": "https://open.spotify.com/track/3ygygDgeSK98dfOknKRLUw"
+    },
+    {
+      "added_at": "2022-10-21 04:01:00",
+      "album": {
+        "name": "Man and Machine",
+        "url": "https://open.spotify.com/album/6uGoWSuQIru4ShNEKc3KyP"
+      },
+      "artists": [
+        {
+          "name": "Moondragon",
+          "url": "https://open.spotify.com/artist/30V9HnHJWlepVciwL4CHub"
+        }
+      ],
+      "duration_ms": 240039,
+      "name": "Afterburner",
+      "url": "https://open.spotify.com/track/3zeS75ZBNbUoAZW9eKUk4f"
     },
     {
       "added_at": "2022-10-21 04:01:00",

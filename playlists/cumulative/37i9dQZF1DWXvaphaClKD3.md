@@ -4,7 +4,7 @@
 
 > Novedades poderosas, perronas y llegadoras de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>\. Los Dos Carnales en portada.
 
-582 songs - 1 day 6 hr 54 min - [published](https://open.spotify.com/playlist/6lzkBGs5tbsK4vIYinar7T)
+583 songs - 1 day 6 hr 57 min - [published](https://open.spotify.com/playlist/6lzkBGs5tbsK4vIYinar7T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [Si Ya Hiciste El Mal](https://open.spotify.com/track/41c6daFVY5iMa9ObuHbTmy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Si Ya Hiciste El Mal](https://open.spotify.com/album/5P4lgpsHxFqhnjA3GsELd5) | 3:43 | 2022-07-29 | 2022-08-20 |
 | [Si Yo Fuera Ladron \- En Vivo](https://open.spotify.com/track/03G8YdzNWirxpOlM0PGPSR) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Profugos De Nuevo Leon](https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp) | [Si Yo Fuera Ladron \(En Vivo\)](https://open.spotify.com/album/2ObeW0Y1Ox05N0NvOKCsOF) | 2:59 | 2022-08-19 | 2022-09-03 |
 | [Siempre Pendientes](https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm) | 3:06 | 2022-08-19 | 2022-09-03 |
+| [Siempre Te Voy a Amar](https://open.spotify.com/track/5byHQtzOAeaX6RrBo20ZnJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Siempre Te Voy a Amar](https://open.spotify.com/album/7e4lmL128fSq4PtJ32rUmW) | 2:48 | 2022-10-21 |  |
 | [Sin Explicaciones](https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 2:52 | 2022-09-30 | 2022-10-15 |
 | [Sin Ti](https://open.spotify.com/track/5U5ibDz9FBaZ0ojCSl0VWw) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Sin Ti](https://open.spotify.com/album/1vDpcnsDjczsXhE0QgXKtX) | 3:30 | 2022-10-21 |  |
 | [Sin Tus Besos](https://open.spotify.com/track/5cwNVUuCDliHKLXfD12i7z) | [Baby Kintero](https://open.spotify.com/artist/1DTvd5Qjpee91lOAtK1e73) | [Cuando Los Niños Crecen](https://open.spotify.com/album/7xceZZYnHyuob02BsmnA3s) | 3:17 | 2022-09-23 | 2022-10-01 |

@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia\. Cover: Nabi
 
-153 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
+154 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [ANIMALE \(feat\. Noyz Narcos & The Whispers\)](https://open.spotify.com/track/0xZ2VIJQlVOY0SlMoQMzfD) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [Armageddon](https://open.spotify.com/album/1EIX7SM9G5apJAPLAyjiAq) | 2:37 | 2022-06-02 | 2022-06-17 |
 | [ARMAGEDDON](https://open.spotify.com/track/3hCEneoWEdtkYfiWPgbhzr) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [ARMAGEDDON](https://open.spotify.com/album/0cTvIkr8DgCyEFRYfzHfyd) | 2:33 | 2022-05-19 | 2022-06-03 |
 | [AU REVOIR \(feat\. Guè, Rose Villain, JVLI\)](https://open.spotify.com/track/05vUar73P3iMZUr40QLJWT) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [PLC tape 1](https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF) | 2:21 | 2022-05-09 | 2022-05-28 |
-| [Auto tedesca](https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:39 | 2022-08-29 |  |
+| [Auto tedesca](https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:39 | 2022-10-24 |  |
+| [Auto tedesca](https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:39 | 2022-08-29 | 2022-10-26 |
 | [BABE](https://open.spotify.com/track/2CWHg8U4e8aMz4x2aL6P3O) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:02 | 2022-06-16 |  |
 | [Banlieue](https://open.spotify.com/track/1QKBcUYppvjlYrcQuGS73H) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Banlieue](https://open.spotify.com/album/1X7LRBkdizwwX3TtU2zrDO) | 3:16 | 2022-05-09 | 2022-05-28 |
 | [Battiti](https://open.spotify.com/track/7wG7IuZjCJn0bC2RS7MhtM) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [Battiti](https://open.spotify.com/album/1kV42QKgckkxFA0LIZDgNz) | 2:35 | 2022-06-09 | 2022-06-21 |

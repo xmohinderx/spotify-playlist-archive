@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 250420,
+  "num_followers": 250461,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDk3ZTFlNDUyYWI2NjJkNTFhNGU1NmY2OTU3OWQxZTBh",
+  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDI2OGNjNzJkODU0ZWYzZTQ3ZGViNzM5ZTg0MDJiOTA0",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "\u00bfSer\u00e1 Posible El Sur?",
-        "url": "https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 284680,
-      "name": "Todo Cambia",
-      "url": "https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Mis Otros Yo",
         "url": "https://open.spotify.com/album/0k4rvGoxyV0esVswNRzL0j"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 239200,
       "name": "Me Hice Una Promesa",
       "url": "https://open.spotify.com/track/4Yv9a9mYYPI4MKELXF5BLd"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "\u00bfSer\u00e1 Posible El Sur?",
+        "url": "https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 284680,
+      "name": "Todo Cambia",
+      "url": "https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 264197,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 220946,
       "name": "Antes",
       "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Nubes",
-        "url": "https://open.spotify.com/album/1NgiBYC45f7FnOCoAFV19o"
-      },
-      "artists": [
-        {
-          "name": "Carlos Varela",
-          "url": "https://open.spotify.com/artist/2KVT6XgP2vgdUat355J7hy"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Una Palabra",
-      "url": "https://open.spotify.com/track/4SzeAxQemtMGRIiQc7gNYq"
     },
     {
       "added_at": "2022-03-01 04:08:22",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/1NgiBYC45f7FnOCoAFV19o"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Carlos Varela",
+          "url": "https://open.spotify.com/artist/2KVT6XgP2vgdUat355J7hy"
         }
       ],
-      "duration_ms": 264197,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
+      "duration_ms": 147720,
+      "name": "Una Palabra",
+      "url": "https://open.spotify.com/track/4SzeAxQemtMGRIiQc7gNYq"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Entre Pairos y Derivas",
-        "url": "https://open.spotify.com/album/69ahm7UJ1KeryMY2yqhVGR"
-      },
-      "artists": [
-        {
-          "name": "Fernando Delgadillo",
-          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
-        }
-      ],
-      "duration_ms": 255947,
-      "name": "Entre Pairos y Derivas",
-      "url": "https://open.spotify.com/track/4LJbG3BeyCXfFReENFdgq6"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Antolog\u00eda Desordenada",
         "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 192840,
       "name": "Lucia (with Silvio Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Entre Pairos y Derivas",
+        "url": "https://open.spotify.com/album/69ahm7UJ1KeryMY2yqhVGR"
+      },
+      "artists": [
+        {
+          "name": "Fernando Delgadillo",
+          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
+        }
+      ],
+      "duration_ms": 255947,
+      "name": "Entre Pairos y Derivas",
+      "url": "https://open.spotify.com/track/4LJbG3BeyCXfFReENFdgq6"
     },
     {
       "added_at": "2022-08-19 02:13:59",
@@ -739,6 +739,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Pablo Milan\u00e9s: Un Concierto para Am\u00e9rica (Live)",
+        "url": "https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        }
+      ],
+      "duration_ms": 268964,
+      "name": "El Breve Espacio en Que No Est\u00e1s - Live",
+      "url": "https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Sesiones \u00cdntimas",
         "url": "https://open.spotify.com/album/4oZVAbazCKoqmjRpGAwD5A"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 263226,
       "name": "Dime Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0mojkCfeqko2sQk1KsDCHP"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Pablo Milan\u00e9s: Un Concierto para Am\u00e9rica (Live)",
-        "url": "https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 268964,
-      "name": "El Breve Espacio en Que No Est\u00e1s - Live",
-      "url": "https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Que Nadie Se Entere",
-        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
-      },
-      "artists": [
-        {
-          "name": "Miguel Inzunza",
-          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
-        }
-      ],
-      "duration_ms": 276306,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Entre Cuerdas",
         "url": "https://open.spotify.com/album/6Korv9rTN9ZOsHtkhjQayK"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 264946,
       "name": "Lo Mejor Que Hay En Mi Vida",
       "url": "https://open.spotify.com/track/5S3uYPl1oYKShBI1CyZAc7"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Que Nadie Se Entere",
+        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
+      },
+      "artists": [
+        {
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
+        }
+      ],
+      "duration_ms": 276306,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "De Ti o de Nadie",
+        "url": "https://open.spotify.com/album/7KWFLNIn1JR9hdVj9CCA7x"
+      },
+      "artists": [
+        {
+          "name": "Carlos Mac\u00edas",
+          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
+        }
+      ],
+      "duration_ms": 199993,
+      "name": "Usted No Deber\u00eda",
+      "url": "https://open.spotify.com/track/4aHorudydhwrPUT4tN2k6R"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Quiero Cantar",
         "url": "https://open.spotify.com/album/5Z7soSWKI9Df92V6w4hapo"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 234040,
       "name": "Tan Distintos (feat. Edgar Oceransky)",
       "url": "https://open.spotify.com/track/3unJniffgdKHCxTfUelqou"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "De Ti o de Nadie",
-        "url": "https://open.spotify.com/album/7KWFLNIn1JR9hdVj9CCA7x"
-      },
-      "artists": [
-        {
-          "name": "Carlos Mac\u00edas",
-          "url": "https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X"
-        }
-      ],
-      "duration_ms": 199993,
-      "name": "Usted No Deber\u00eda",
-      "url": "https://open.spotify.com/track/4aHorudydhwrPUT4tN2k6R"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Dentro de Mi",
-        "url": "https://open.spotify.com/album/2j6jUidNIwLsbsZQVbf2Tw"
-      },
-      "artists": [
-        {
-          "name": "Enrique Quezadas",
-          "url": "https://open.spotify.com/artist/1MkyRRV3u7M1vb7LfkWiUP"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "Dentro de Mi",
-      "url": "https://open.spotify.com/track/2qWT4vvbFcgsjWSmbMY4qX"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Noche Sin Fin y Mar",
         "url": "https://open.spotify.com/album/7BsIanRYYPVAqaeBVUQdUf"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 184968,
       "name": "Noche Sin Fin y Mar",
       "url": "https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Dentro de Mi",
+        "url": "https://open.spotify.com/album/2j6jUidNIwLsbsZQVbf2Tw"
+      },
+      "artists": [
+        {
+          "name": "Enrique Quezadas",
+          "url": "https://open.spotify.com/artist/1MkyRRV3u7M1vb7LfkWiUP"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "Dentro de Mi",
+      "url": "https://open.spotify.com/track/2qWT4vvbFcgsjWSmbMY4qX"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Alfonsina Y El Mar",
+        "url": "https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Alfonsina Y El Mar",
+      "url": "https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
         "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 253354,
       "name": "Todos los ojos te miran (feat. Chico Buarque)",
       "url": "https://open.spotify.com/track/1sWWb3JaGaoHGYoAs6ZAgu"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Alfonsina Y El Mar",
-        "url": "https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Alfonsina Y El Mar",
-      "url": "https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB"
     },
     {
       "added_at": "2021-07-29 16:46:05",

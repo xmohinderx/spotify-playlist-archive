@@ -1451,6 +1451,24 @@
     {
       "album": {
         "name": "Same Girl",
+        "url": "https://open.spotify.com/album/35qaDseSphp0qxOH1CMoOU"
+      },
+      "artists": [
+        {
+          "name": "Tess Henley",
+          "url": "https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182751,
+      "name": "Same Girl",
+      "url": "https://open.spotify.com/track/1h4fEhUO3HP3Bo2ma2JmcE"
+    },
+    {
+      "album": {
+        "name": "Same Girl",
         "url": "https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr"
       },
       "artists": [
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 184750,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/09PnjJyhIkjYcMzV835Wfx"

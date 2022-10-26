@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/45sMfdAKJExVmFvBd2TwmU.md) - [plain]
 
 > Alia\-Ranbir\-Love Songs\-KK\-Kartik Aaryan\-Arijit Singh\-Pritam\-Love Songs\-Bollywood Love Songs\-Hindi Love Songs\-Soft Romantic Love Songs\-Hindi Films\-Bollywood Romance\-Bollywood Soft Romance\-Relaxing Love Songs\-Best Love Songs\-Slow Romantic Bollywood Songs\-Most Romantic LoveSong
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 132,529 likes - 111 songs - 8 hr 46 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 132,515 likes - 111 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

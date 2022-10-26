@@ -4,7 +4,7 @@
 
 > Music by female\-identifying musicians ONLY! Cover: <a href=“spotify:artist:34bhyY8jfKez7uKakMfy4y”>Maddie & Tae</a>.
 
-554 songs - 1 day 6 hr 2 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
+555 songs - 1 day 6 hr 6 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,8 @@
 | [Pressurized](https://open.spotify.com/track/1SmlpzSJLpt3puZ9Zv3zTo) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Pressurized](https://open.spotify.com/album/1PiYQn2LWd1S5EFZhCNqOe) | 2:16 | 2022-02-02 | 2022-03-09 |
 | [Price of Perfection](https://open.spotify.com/track/2bu6TFn64ASDFXocD9HQ38) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ), [Lilianne Coeverden](https://open.spotify.com/artist/3H1AhCg1QoUO8Hnl10Ze3E) | [Price of Perfection](https://open.spotify.com/album/2txLPaA4ixLXjw3yYJkcCH) | 3:26 | 2022-03-08 | 2022-04-07 |
 | [Prima Materia](https://open.spotify.com/track/0KR1fIsVTVSh0lv88KWzX6) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Prima Materia](https://open.spotify.com/album/1v3UC61wKMgUC9oWwYPUtZ) | 5:12 | 2022-08-03 | 2022-08-27 |
-| [Problem With It](https://open.spotify.com/track/1hCrL9BjC03mTYR5905Q9k) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Problem With It](https://open.spotify.com/album/66ydaWFaxPBMBGmegJBDDR) | 3:32 | 2022-10-05 |  |
+| [Problem With It](https://open.spotify.com/track/1hCrL9BjC03mTYR5905Q9k) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Problem With It](https://open.spotify.com/album/66ydaWFaxPBMBGmegJBDDR) | 3:32 | 2022-10-05 | 2022-10-26 |
+| [Problem With It](https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:32 | 2022-10-07 |  |
 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 | 2022-07-06 | 2022-08-04 |
 | [Problems](https://open.spotify.com/track/7nLEVh4vIhKOKNAFqQ1koF) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Songs For My Funeral](https://open.spotify.com/album/4SmLiMThmp5f4dCTOsIguj) | 3:08 | 2021-12-01 | 2022-01-06 |
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2022-01-05 | 2022-02-03 |

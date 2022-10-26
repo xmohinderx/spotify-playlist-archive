@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,508 likes - 101 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,522 likes - 101 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 68 | [Mưa Dầm Thấm Lâu](https://open.spotify.com/track/0rc4xvZ8uUnafmd7yL6OZk) | [Chuy Blue](https://open.spotify.com/artist/6SFb0xKEcWAdWto6pwQYxd), [Karrot](https://open.spotify.com/artist/0Ok2WXF4QmV02a0k6nijST) | [Mưa Dầm Thấm Lâu](https://open.spotify.com/album/3SDdy9yokkSOXSGq9scOb8) | 3:06 |
 | 69 | [Mùa Đông Cô Đơn](https://open.spotify.com/track/1se2ZknYwSDiGYYyD4KFdU) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Công Phúc](https://open.spotify.com/artist/2RTxk7k09aitr15vkJ5kwL) | [Mùa Đông Cô Đơn](https://open.spotify.com/album/32CQporH0IpIWdLnFI1H6q) | 4:32 |
 | 70 | [Chỉ Còn Ta Và Ta Giữa Trời](https://open.spotify.com/track/3BwFxsC7QpRejdE9GXFQI4) | [D Blue](https://open.spotify.com/artist/7JRDlOAUMJuLKmapm6H2VG), [Killic](https://open.spotify.com/artist/5Zosih1NRDj5W7mruPqfpu) | [Chỉ Còn Ta Và Ta Giữa Trời](https://open.spotify.com/album/0izHbyAAjxFR60XtvPiz0u) | 3:06 |
-| 71 | [Mắt Em](https://open.spotify.com/track/0m8NaSL7F2AkPFCFx4WyRL) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj), [Fous](https://open.spotify.com/artist/2l6JnuA4jf2M5OTxmrEdAH) | [Mắt Em](https://open.spotify.com/album/0kvoGBsZCVe1wGKpjIT7xs) | 3:19 |
+| 71 | [Mắt Em](https://open.spotify.com/track/0m8NaSL7F2AkPFCFx4WyRL) | [Fous](https://open.spotify.com/artist/2l6JnuA4jf2M5OTxmrEdAH), [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Mắt Em](https://open.spotify.com/album/0kvoGBsZCVe1wGKpjIT7xs) | 3:19 |
 | 72 | [Còn Nhiều Điều Để Nhớ](https://open.spotify.com/track/5WvvwIsF0luAwI6W6Y15WJ) | [Kiyoshi Phan](https://open.spotify.com/artist/68NSOMlOaNbs7eYe42qaAc), [Duy Dat Do](https://open.spotify.com/artist/4hAVnPbh8FhrLMWSE6iOqs) | [Còn Nhiều Điều Để Nhớ](https://open.spotify.com/album/1nRrv63g2A7eE8Y5C2qMJX) | 4:13 |
 | 73 | [Đến Bên Anh Được Không](https://open.spotify.com/track/7zRHS0s4rfu9xsSnSl1XWw) | [Oliu](https://open.spotify.com/artist/5bQKHU2peXIxfcBa1LVdS1), [B4OK](https://open.spotify.com/artist/5TexKi2w4DnGsRxBgytISX) | [Đến Bên Anh Được Không](https://open.spotify.com/album/49U71HS8LJdlDsWFNwPPBy) | 3:06 |
 | 74 | [Kim Cương Giấu Trong Môi Em](https://open.spotify.com/track/73i8sIs3NdORgAPfXAyJBv) | [Cristian](https://open.spotify.com/artist/5UVYVxjwTczzmEqjAoTWu7) | [Kim Cương Giấu Trong Môi Em](https://open.spotify.com/album/6BF616iTFfgooUbFVVv4oD) | 3:12 |

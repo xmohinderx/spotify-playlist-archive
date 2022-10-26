@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-491 songs - 1 day 11 hr 54 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
+492 songs - 1 day 11 hr 58 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [England And America](https://open.spotify.com/track/3OK6xt63jBRG8M0M4fojF2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:51 | 2022-09-08 |  |
 | [Expressing Yourself](https://open.spotify.com/track/2rwu2MvNCnCkJzR40AUI9t) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 5:13 | 2022-09-08 |  |
 | [Fanfare](https://open.spotify.com/track/6llaeUEQcqJgaBXp5Fpw2c) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 0:30 | 2022-09-08 |  |
-| [Fascist Faces \- Remastered 2003](https://open.spotify.com/track/2byAwZoNnmSKGMdPo7hyS9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 5:11 | 2022-09-09 |  |
+| [Fascist Faces \- Remastered 2003](https://open.spotify.com/track/2byAwZoNnmSKGMdPo7hyS9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 5:11 | 2022-09-09 | 2022-10-26 |
 | [Fat Boys And Ugly Girls](https://open.spotify.com/track/14sADwg78MbJw9dDL62iRR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:14 | 2022-09-08 |  |
 | [Feed Me](https://open.spotify.com/track/4qUAs5fOf9rGEGq4MTSFDD) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 4:00 | 2022-09-08 |  |
 | [Finale](https://open.spotify.com/track/3xDfQmTLVmMtpR80ZF1Z85) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 5:34 | 2022-09-08 |  |
@@ -156,6 +156,7 @@
 | [Good Morning](https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:15 | 2022-09-08 |  |
 | [Good Morning To The Night \- Elton John Vs\. PNAU / Remastered](https://open.spotify.com/track/7pKdIQ7nO2E9t8T3cnnYMG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 3:24 | 2022-09-08 |  |
 | [Goodbye \- Remastered 2010 / Bonus Track](https://open.spotify.com/track/1Yxqqz6fjs0bXc9vvvhHsO) | [Mary Hopkin](https://open.spotify.com/artist/5pBljwfwnohfSNDXixEYHm) | [Post Card \(Remastered 2010 / Deluxe Edition\)](https://open.spotify.com/album/4TrA2bhBgwdyuy3mzzJWmW) | 2:26 | 2022-09-08 |  |
+| [Goodbye Marlon Brando](https://open.spotify.com/track/6yCaV30GOlv9bVF1H5yTeT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 3:30 | 2022-10-25 |  |
 | [Goodbye Yellow Brick Road \- Remastered 2014](https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:12 | 2022-09-08 |  |
 | [Grandma's Song](https://open.spotify.com/track/4qJqlwR2h09t24Rks9XgEk) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 4:40 | 2022-09-08 |  |
 | [Grey Seal \- Remastered 2014](https://open.spotify.com/track/6sGjJmzgxvfNqLyp8yd0TH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:00 | 2022-09-08 |  |

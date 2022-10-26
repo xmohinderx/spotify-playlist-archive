@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3?si=Xv5EZXQ5R4OtBgobLBjTxA">Afrotraction</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,383 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,437 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

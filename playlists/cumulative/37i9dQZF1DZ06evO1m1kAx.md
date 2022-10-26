@@ -4,14 +4,14 @@
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/7p0WalrT4dOYZ5O0obVXyp)
+86 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/7p0WalrT4dOYZ5O0obVXyp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 Instance](https://open.spotify.com/track/7FQecMcIQ2oB7dMaW0MYJ2) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 3:47 | 2021-12-28 |  |
 | [African Queen](https://open.spotify.com/track/7FkT43Ziw1twchabx7AfOJ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face \- Remix](https://open.spotify.com/album/24b98ZA7QXZ46a0CvZ1yCZ) | 4:20 | 2021-12-28 | 2022-05-16 |
 | [African Queen](https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [REWIND\. SELECT\. UPDATE](https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6) | 4:24 | 2022-07-07 |  |
-| [African Queen](https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:22 | 2022-06-19 |  |
+| [African Queen](https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:22 | 2022-06-19 | 2022-10-26 |
 | [African Queen \- MKD REMIX](https://open.spotify.com/track/3ue3iDyG637kHhJIbcyHp7) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:32 | 2022-07-19 | 2022-07-21 |
 | [African Queen \- Remastered Version](https://open.spotify.com/track/5WrrKyhWgHbqelmd2ENpSf) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 4:20 | 2021-12-28 | 2022-10-05 |
 | [Amaka \(feat\. Peruzzi\)](https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 | 2021-12-28 |  |
@@ -26,6 +26,7 @@
 | [Enter the Place](https://open.spotify.com/track/6LqsK7gCnFNaLS5UcZCWMF) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 4:21 | 2021-12-28 |  |
 | [Feeling You](https://open.spotify.com/track/58m7KaE0iO9T8z2rChajKC) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 4:22 | 2022-01-12 |  |
 | [Fly](https://open.spotify.com/track/6IBO1NCDDbL9SzQ9A1vFVQ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 4:10 | 2022-06-09 | 2022-06-12 |
+| [For You](https://open.spotify.com/track/4O3m2HsquDGNrytYIRdj3B) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Omo Baba Olowo: The Genesis](https://open.spotify.com/album/5XNb9GHjQa9DA2tWeQzJxU) | 3:39 | 2022-10-25 |  |
 | [Free](https://open.spotify.com/track/69koGdRVayRzMDWNyIKQYt) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Ehi Idibia](https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 3:50 | 2021-12-28 |  |
 | [Frenemies](https://open.spotify.com/track/7hWvMTMVuxJqKUG98gAACG) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Frenemies](https://open.spotify.com/album/40oBQ8EmEXE4zS1t35dgUs) | 4:01 | 2022-07-02 | 2022-08-05 |
 | [Gaga Shuffle](https://open.spotify.com/track/0XEaIqAvu2Z0GepEXNWzHd) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Gaga Shuffle](https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO) | 3:41 | 2021-12-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,798 likes - 91 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,014 likes - 91 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

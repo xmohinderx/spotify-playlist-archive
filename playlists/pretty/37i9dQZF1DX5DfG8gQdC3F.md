@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Taylor Swift \(pictured\), Carly Rae Jepsen, Lil Uzi Vert, Arctic Monkeys, dvsn and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,075 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,129 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 21 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 |
 | 22 | [Let It Die](https://open.spotify.com/track/3Mpz9tU5tLEkYKDMUOi067) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Let It Die](https://open.spotify.com/album/4hlQ4k5nonfDppqRtpBP9p) | 2:46 |
 | 23 | [Gone \(Da da Da\)](https://open.spotify.com/track/4TPn8ZBClUUWlU2ZP7DXa6) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Gone \(Da da Da\)](https://open.spotify.com/album/23ByeCiWrIBymzs7G05gh5) | 2:43 |
-| 24 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 |
+| 24 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 |
 | 25 | [Maniac](https://open.spotify.com/track/61SPkGGIpSq6b7en0A6Bim) | [Shawn Desman](https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV) | [Maniac](https://open.spotify.com/album/6S2bemTohQ0Wbvkn8FUgNu) | 2:42 |
 | 26 | [Too Big](https://open.spotify.com/track/5MqvzE1pneAGrzscbXOv9u) | [MOUNT WESTMORE](https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Too Big](https://open.spotify.com/album/77WHbTPnyLH0KsuySzGavm) | 3:36 |
 | 27 | [Balenciaga](https://open.spotify.com/track/6aV9EOdZlvcEDUgBzhCBIA) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Balenciaga](https://open.spotify.com/album/0e0i3tOTZITqs0MofFmAc5) | 2:39 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 54 | [Life Is...](https://open.spotify.com/track/46jni4B6gnRB5EbjIEnsf3) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [\#PlasticFreeParty](https://open.spotify.com/album/1cvskFPm3EvkVSleUYgNaL) | 4:13 |
 | 55 | [Defender](https://open.spotify.com/track/4x9l3fDzgvzg9t7Csbufrn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Defender](https://open.spotify.com/album/76up5uRogXO3CPwA2OO6Wy) | 6:14 |
 | 56 | [Eggshells](https://open.spotify.com/track/7wGwYO5EkMa9sakdoNjOhT) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Eggshells](https://open.spotify.com/album/1EBnNmxQlf3CRbYKgCBO0h) | 3:03 |
-| 57 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/5ykuFZXYbA8frwBmutsoFx) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:18 |
+| 57 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 |
 | 58 | [Internet](https://open.spotify.com/track/3HtGrT10UfpiMRYRw7Rtn3) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Présence d'esprit](https://open.spotify.com/album/2l642fbBnGoi2872LHn9Yl) | 3:13 |
 | 59 | [say it](https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:58 |
 | 60 | [SCARING ME](https://open.spotify.com/track/35Bv4QuokBrmWya208VcK2) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DOOM](https://open.spotify.com/album/6yAkt0vfWLVTgkcvp5dVio) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [The Shield](https://open.spotify.com/track/5gps9XXQPo90zgo1dLztdo) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [The Festival](https://open.spotify.com/album/6FB8Z2KMnKTKUbsZp6Qc5K) | 4:09 |
 | 100 | [WAWA](https://open.spotify.com/track/3A2cxLJm3anmicrqgwsnZN) | [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs) | [CATHARSIS](https://open.spotify.com/album/3Fnqh7BeThzMs8b2R0gczW) | 2:48 |
 
-Snapshot ID: `MTY2NjM5NDA0OCwwMDAwMDAwMDQxMjI0Y2QyYjNlNGE1OTczN2Q0YWE4NDI1ZTQ1NWVh`
+Snapshot ID: `MTY2NjM5NDA0OCwwMDAwMDAwMDY0Y2JmYzQ1NzBiNzNkNTExMjE1NGY0OWQ1M2NlNDAz`

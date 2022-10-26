@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: LA INDIA, Goyo.",
-  "num_followers": 529134,
+  "num_followers": 529176,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3ODIzOCwwMDAwMDAwMDI1ZGU1ZGM2YmFmNTlhYWNlODJlNjA4YTEyOWM0NmEw",
+  "snapshot_id": "MTY2NTc3ODIzOCwwMDAwMDAwMGM1MGVlNjhjZmRlNWE2OGNkOTVjM2UzYzBiZWQ3MTcz",
   "tracks": [
     {
       "added_at": "2022-10-14 20:10:38",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-10-14 20:10:38",
       "album": {
-        "name": "Vida de Rico",
-        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 187426,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
-    },
-    {
-      "added_at": "2022-10-14 20:10:38",
-      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 195760,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/5tpAcJ47UgF4udM5YXcDd2"
+    },
+    {
+      "added_at": "2022-10-14 20:10:38",
+      "album": {
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 187426,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
     },
     {
       "added_at": "2022-10-14 20:10:38",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-10-14 20:10:38",
       "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Parecen Viernes",
-      "url": "https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0"
-    },
-    {
-      "added_at": "2022-10-14 20:10:38",
-      "album": {
         "name": "De Adentro Pa Afuera",
         "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 212821,
       "name": "Ambulancia",
       "url": "https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr"
+    },
+    {
+      "added_at": "2022-10-14 20:10:38",
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 268440,
+      "name": "Parecen Viernes",
+      "url": "https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0"
     },
     {
       "added_at": "2022-10-14 20:10:38",
@@ -643,26 +643,6 @@
     {
       "added_at": "2022-10-14 20:10:38",
       "album": {
-        "name": "BEB\u00c9",
-        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "BEB\u00c9",
-      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
-    },
-    {
-      "added_at": "2022-10-14 20:10:38",
-      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 225386,
       "name": "Canalla",
       "url": "https://open.spotify.com/track/4XEXrp37kZXpQTB2r5vWbS"
+    },
+    {
+      "added_at": "2022-10-14 20:10:38",
+      "album": {
+        "name": "BEB\u00c9",
+        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "BEB\u00c9",
+      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
     },
     {
       "added_at": "2022-10-14 20:10:38",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-10-14 20:10:38",
       "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 216897,
+      "name": "Loter\u00eda",
+      "url": "https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU"
+    },
+    {
+      "added_at": "2022-10-14 20:10:38",
+      "album": {
         "name": "H\u00e1blame de Miami",
         "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 158773,
       "name": "H\u00e1blame de Miami",
       "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
-    },
-    {
-      "added_at": "2022-10-14 20:10:38",
-      "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 216897,
-      "name": "Loter\u00eda",
-      "url": "https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU"
     },
     {
       "added_at": "2022-10-14 20:10:38",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2022-10-14 20:10:38",
       "album": {
-        "name": "Si Tu Te Atreves",
-        "url": "https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        },
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 226821,
-      "name": "Si Tu Te Atreves",
-      "url": "https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh"
-    },
-    {
-      "added_at": "2022-10-14 20:10:38",
-      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 213316,
       "name": "Dios Asi Lo Quiso",
       "url": "https://open.spotify.com/track/48WszbQrrjEnouJmKzNDba"
+    },
+    {
+      "added_at": "2022-10-14 20:10:38",
+      "album": {
+        "name": "Si Tu Te Atreves",
+        "url": "https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 226821,
+      "name": "Si Tu Te Atreves",
+      "url": "https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh"
     },
     {
       "added_at": "2022-10-14 20:10:38",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2022-10-14 20:10:38",
       "album": {
+        "name": "Los Recuerdos",
+        "url": "https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Los Recuerdos",
+      "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
+    },
+    {
+      "added_at": "2022-10-14 20:10:38",
+      "album": {
         "name": "Las Puertas del Cielo",
         "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 232803,
       "name": "Las Puertas del Cielo",
       "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
-    },
-    {
-      "added_at": "2022-10-14 20:10:38",
-      "album": {
-        "name": "Los Recuerdos",
-        "url": "https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Los Recuerdos",
-      "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
     },
     {
       "added_at": "2022-10-14 20:10:38",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2022-10-14 20:10:38",
       "album": {
+        "name": "Tierra de Mis Amores",
+        "url": "https://open.spotify.com/album/5QvA8zidWQiuyKwN0TljFR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 241880,
+      "name": "El Coco",
+      "url": "https://open.spotify.com/track/0rwX9dB6ih5rxfifb8DZ8G"
+    },
+    {
+      "added_at": "2022-10-14 20:10:38",
+      "album": {
         "name": "Quiero Decirte - Remixes",
         "url": "https://open.spotify.com/album/3U2wtzZJqd55HGBfqVHruU"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 229000,
       "name": "Quiero Decirte - DJ C Remix",
       "url": "https://open.spotify.com/track/76Na3nHNJrkdjZ9qkuiJMz"
-    },
-    {
-      "added_at": "2022-10-14 20:10:38",
-      "album": {
-        "name": "Tierra de Mis Amores",
-        "url": "https://open.spotify.com/album/5QvA8zidWQiuyKwN0TljFR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "El Coco",
-      "url": "https://open.spotify.com/track/0rwX9dB6ih5rxfifb8DZ8G"
     },
     {
       "added_at": "2022-10-14 20:10:38",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2022-10-14 20:10:38",
       "album": {
-        "name": "Si Fuera M\u00eda",
-        "url": "https://open.spotify.com/album/2JdSZ73pd1XebSWbzaLqw7"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 203135,
-      "name": "Si Fuera M\u00eda",
-      "url": "https://open.spotify.com/track/5IdGYOdbqCALcfeNz06Y7k"
-    },
-    {
-      "added_at": "2022-10-14 20:10:38",
-      "album": {
         "name": "SALSWING!",
         "url": "https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 336947,
       "name": "Paula C.",
       "url": "https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq"
+    },
+    {
+      "added_at": "2022-10-14 20:10:38",
+      "album": {
+        "name": "Si Fuera M\u00eda",
+        "url": "https://open.spotify.com/album/2JdSZ73pd1XebSWbzaLqw7"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "duration_ms": 203135,
+      "name": "Si Fuera M\u00eda",
+      "url": "https://open.spotify.com/track/5IdGYOdbqCALcfeNz06Y7k"
     },
     {
       "added_at": "2022-10-14 20:10:38",

@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Fagner
 
-315 songs - 19 hr 7 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
+316 songs - 19 hr 9 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Aqui em Casa](https://open.spotify.com/track/3AtSBHBXc5rN50VrJQmTTe) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Fejuca](https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Aqui em Casa \(Ep 02\)](https://open.spotify.com/album/55d26HxQZEQLu4Kny8Ce6B) | 3:54 | 2021-12-24 |  |
 | [Areia Fina](https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Areia Fina](https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg) | 3:31 | 2021-12-24 | 2022-08-12 |
 | [As Onze Palavras](https://open.spotify.com/track/5AAg5PAor93wUTPdxoOWHw) | [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [As Onze Palavras](https://open.spotify.com/album/2uYbjqCKvgXR9doMORqe3L) | 4:07 | 2022-08-19 | 2022-09-10 |
+| [As Rosas Não Falam \- \(Todas as Flores \- Original Globoplay\)](https://open.spotify.com/track/2AthUnE97al4PFOxNsCuyu) | [Sophie Charlotte](https://open.spotify.com/artist/7Dew7s7T10L3pot2NFSQoT), [Leticia Colin](https://open.spotify.com/artist/57zMmWpRdLmGVfiC2Jr7kk) | [As Rosas Não Falam \- \(Todas as Flores \- Original Globoplay\)](https://open.spotify.com/album/22u9BJ8sKyPwciYHf7OZMM) | 2:18 | 2022-10-25 |  |
 | [Assume Que Gosta](https://open.spotify.com/track/6MT2wDh8TrBKPgREBwHWRg) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:25 | 2021-12-24 | 2022-01-19 |
 | [Até o carnaval chegar](https://open.spotify.com/track/4Yw0adJgiMyMuJ7PFpCdxS) | [Gabriel Porto](https://open.spotify.com/artist/0mEd04YNMuimmhCIYo0ka8) | [Até o carnaval chegar](https://open.spotify.com/album/5WuQgmQTwU6RMZMPGTSHS8) | 3:03 | 2022-02-01 | 2022-03-19 |
 | [Aurorear](https://open.spotify.com/track/6Htare9rI3fHRUJlh43PX0) | [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs) | [O Que Meus Calos Dizem Sobre Mim](https://open.spotify.com/album/1mZz7LZ96XNlj4XTvLVNoy) | 5:08 | 2022-06-03 | 2022-08-20 |
@@ -155,7 +156,7 @@
 | [Lágrimas no Mar](https://open.spotify.com/track/4WGZODjcivlNbqhuqD10DC) | [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5), [Vitor Araújo](https://open.spotify.com/artist/0Y94YmDI103Kk0Ff4fi4oa) | [Lágrimas no Mar](https://open.spotify.com/album/24TrG94LGvDdWQjLP2SIFU) | 3:39 | 2021-12-24 | 2022-04-02 |
 | [Mais](https://open.spotify.com/track/2oYZ2lqAp5QOTPHtPqyoIx) | [Marcelo Perdido](https://open.spotify.com/artist/2WR3bb5fUKqJ65TPcu3dIt), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Mais](https://open.spotify.com/album/1cdVoJnbHKkyNIka9JsZRO) | 2:28 | 2022-02-01 | 2022-04-02 |
 | [Mal Acostumada](https://open.spotify.com/track/2EnaSv5aZ7vfjlOd2bHDGk) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Mal Acostumada](https://open.spotify.com/album/0Dvz457PJaalNw8ofRGlLi) | 4:30 | 2022-08-11 |  |
-| [Malê](https://open.spotify.com/track/77yiJ3Bt8o8DDhNosd00nq) | [Pedro Paulo Junior](https://open.spotify.com/artist/4l4xn0qyO8Zr7F0QDDgrXd), [Arthus Fochi](https://open.spotify.com/artist/2Qz4Q1BZizbj4UuUlyhLdj), [Ilessi](https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va) | [Malê](https://open.spotify.com/album/04CejgJc5DS7Oy3r29ofZr) | 5:17 | 2022-09-09 |  |
+| [Malê](https://open.spotify.com/track/77yiJ3Bt8o8DDhNosd00nq) | [Pedro Paulo Junior](https://open.spotify.com/artist/4l4xn0qyO8Zr7F0QDDgrXd), [Arthus Fochi](https://open.spotify.com/artist/2Qz4Q1BZizbj4UuUlyhLdj), [Ilessi](https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va) | [Malê](https://open.spotify.com/album/04CejgJc5DS7Oy3r29ofZr) | 5:17 | 2022-09-09 | 2022-10-26 |
 | [Mancada](https://open.spotify.com/track/1kgSCkMFBs4yVeuR6Eoh0n) | [Beth Carvalho e Gilberto Gil](https://open.spotify.com/artist/6DBMcYIUG1KWXOOvzcw3rM) | [Duetos 2](https://open.spotify.com/album/6JMpvYFnqxgR9uVyLZScOC) | 2:52 | 2022-07-22 | 2022-08-20 |
 | [Mar do Sonhador](https://open.spotify.com/track/2J9VKTodi8CqwvaVCtc77r) | [Cassiano Andrade](https://open.spotify.com/artist/6zpu0t9nfePmnwBBlw63xl), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Mar do Sonhador](https://open.spotify.com/album/7HpLIirkGZXvLooQnnlchA) | 3:14 | 2022-03-03 | 2022-03-11 |
 | [Mariana Olhos D'água](https://open.spotify.com/track/2RBpQ4S9HEDP6wNoJeoh2w) | [Rafa Carvalho](https://open.spotify.com/artist/3tuR78hhOGd1KTYdHXRXN0), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i) | [Do Mar](https://open.spotify.com/album/5Lqns3GiTef2VDMLnuc5UR) | 7:07 | 2022-02-11 | 2022-03-15 |

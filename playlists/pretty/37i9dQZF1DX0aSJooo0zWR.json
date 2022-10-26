@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
-  "num_followers": 163072,
+  "num_followers": 163142,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1OTA2OCwwMDAwMDAwMDU5OGI1ZGUzZjBlNzU0ZThmYzFiMzU4YzFmZmE3OTAy",
+  "snapshot_id": "MTY2NTE1OTA2OCwwMDAwMDAwMDVhNzJmMGVmMDU4YzViZTAzMzY0NjAzY2E2MThiNGI3",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -703,6 +703,22 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Bent",
+        "url": "https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK"
+      },
+      "artists": [
+        {
+          "name": "Gary Willis",
+          "url": "https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ"
+        }
+      ],
+      "duration_ms": 371920,
+      "name": "Armageddon Blues",
+      "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Jackets XL",
         "url": "https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 392960,
       "name": "One Day",
       "url": "https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Bent",
-        "url": "https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK"
-      },
-      "artists": [
-        {
-          "name": "Gary Willis",
-          "url": "https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ"
-        }
-      ],
-      "duration_ms": 371920,
-      "name": "Armageddon Blues",
-      "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Between The Lines",
-        "url": "https://open.spotify.com/album/14GNP2QxNPG3DKBrUv3HqR"
-      },
-      "artists": [
-        {
-          "name": "Uzeb",
-          "url": "https://open.spotify.com/artist/4luPcLmS8skJAinfcNb2iU"
-        }
-      ],
-      "duration_ms": 309800,
-      "name": "Spacy Country",
-      "url": "https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Mondo Garaj",
         "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 333413,
       "name": "Mondo Garaj",
       "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Between The Lines",
+        "url": "https://open.spotify.com/album/14GNP2QxNPG3DKBrUv3HqR"
+      },
+      "artists": [
+        {
+          "name": "Uzeb",
+          "url": "https://open.spotify.com/artist/4luPcLmS8skJAinfcNb2iU"
+        }
+      ],
+      "duration_ms": 309800,
+      "name": "Spacy Country",
+      "url": "https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -1011,6 +1011,22 @@
       "duration_ms": 672106,
       "name": "Blues for Tony",
       "url": "https://open.spotify.com/track/4XUR0xfOMphdT9qnTb1iG3"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO"
+      },
+      "artists": [
+        {
+          "name": "Lydian Collective",
+          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
+        }
+      ],
+      "duration_ms": 227150,
+      "name": "Thirty One",
+      "url": "https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1095,22 +1111,6 @@
       "duration_ms": 297359,
       "name": "You Gotta Get It While You Can",
       "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Adventure",
-        "url": "https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO"
-      },
-      "artists": [
-        {
-          "name": "Lydian Collective",
-          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
-        }
-      ],
-      "duration_ms": 227150,
-      "name": "Thirty One",
-      "url": "https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Now You See It ... (Now You Don't)",
+        "url": "https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo"
+      },
+      "artists": [
+        {
+          "name": "Michael Brecker",
+          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Escher Sketch (A Tale Of Two Rhythms)",
+      "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "Maiden Voyage",
@@ -1263,22 +1279,6 @@
       "duration_ms": 401652,
       "name": "Maiden Voyage",
       "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Now You See It ... (Now You Don't)",
-        "url": "https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo"
-      },
-      "artists": [
-        {
-          "name": "Michael Brecker",
-          "url": "https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Escher Sketch (A Tale Of Two Rhythms)",
-      "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
     },
     {
       "added_at": "2022-02-11 19:09:35",
@@ -1331,34 +1331,6 @@
       "duration_ms": 321693,
       "name": "As the Spirit Sings",
       "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
-    },
-    {
-      "added_at": "2021-07-23 04:01:00",
-      "album": {
-        "name": "Cousin Vinnie",
-        "url": "https://open.spotify.com/album/00nhiAeIJ3f86qvGYPKkoV"
-      },
-      "artists": [
-        {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        },
-        {
-          "name": "Vinnie Colaiuta",
-          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
-        },
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        },
-        {
-          "name": "Steve Gadd",
-          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
-        }
-      ],
-      "duration_ms": 378489,
-      "name": "Prophecy Extended",
-      "url": "https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -1437,24 +1409,32 @@
       "url": "https://open.spotify.com/track/3On2Z61FnTpoqwNwljhAqE"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2021-07-23 04:01:00",
       "album": {
-        "name": "I Promise",
-        "url": "https://open.spotify.com/album/1jfSnPmMMZWWK7BfTlEByQ"
+        "name": "Cousin Vinnie",
+        "url": "https://open.spotify.com/album/00nhiAeIJ3f86qvGYPKkoV"
       },
       "artists": [
         {
-          "name": "Ragawerk",
-          "url": "https://open.spotify.com/artist/2JOH11zxXs5tmCroqDJgON"
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
         },
         {
-          "name": "Max Clouth",
-          "url": "https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1"
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        },
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        },
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
         }
       ],
-      "duration_ms": 344506,
-      "name": "I Promise",
-      "url": "https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe"
+      "duration_ms": 378489,
+      "name": "Prophecy Extended",
+      "url": "https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1471,6 +1451,22 @@
       "duration_ms": 325040,
       "name": "Sand",
       "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Level One",
+        "url": "https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi"
+      },
+      "artists": [
+        {
+          "name": "The Eleventh House",
+          "url": "https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Level One",
+      "url": "https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO"
     }
   ],
   "unique_name": "Fusion Fest",

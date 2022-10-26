@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Arctic Monkeys
 
-4,341 songs - 10 day 15 hr 4 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,343 songs - 10 day 15 hr 13 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1100,7 +1100,8 @@
 | [Email](https://open.spotify.com/track/1LYhf2viBn1zBtwVVJkOhR) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [might.bail](https://open.spotify.com/album/1yILUjt9D5hNNmktCqR3rU) | 4:05 | 2022-08-12 | 2022-09-10 |
 | [EMPATHY 4 BETHANY](https://open.spotify.com/track/6Ly65M250uqDVZfj2Z0LdH) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [EMPATHY 4 BETHANY / GREEN APPLE \(EVERY NIGHT I RIDE NIGHT MARES\)](https://open.spotify.com/album/6sQW60NQvtOAjWhysIEO8q) | 4:54 | 2022-05-27 | 2022-07-09 |
 | [Empire Ants](https://open.spotify.com/track/6G7BKHZMG3O4RdZSaEud6W) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf) | [Empire Ants](https://open.spotify.com/album/3OnE7jKRqARqShssQOwblC) | 5:46 | 2022-01-07 | 2022-02-19 |
-| [Empty Head](https://open.spotify.com/track/1yEHKriEfBw6k1Dcb9sEBj) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Empty Head](https://open.spotify.com/album/3cLIlAzid7cOpdsfECmON9) | 5:13 | 2022-10-21 |  |
+| [Empty Head](https://open.spotify.com/track/1yEHKriEfBw6k1Dcb9sEBj) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Empty Head](https://open.spotify.com/album/3cLIlAzid7cOpdsfECmON9) | 5:13 | 2022-10-21 | 2022-10-26 |
+| [Empty Head](https://open.spotify.com/track/54DjNRB4TFeXOpRMBJyNv3) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 5:13 | 2022-10-21 |  |
 | [Empty in My Mind](https://open.spotify.com/track/7oqpMyBrfVsk5QBjDMhqOZ) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Empty in My Mind](https://open.spotify.com/album/345yVSKKqobwMLX3Is8Lmz) | 2:52 | 2022-04-29 | 2022-06-22 |
 | [Empty Streets](https://open.spotify.com/track/4tQPxSeWVc8WEZUYbmHM8M) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Empty Streets](https://open.spotify.com/album/6HJEFyvJt0vMQasAj0B1bJ) | 4:17 | 2020-06-12 | 2020-07-10 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2022-09-16 |  |
@@ -1761,7 +1762,8 @@
 | [Hunter](https://open.spotify.com/track/6HsTyyMAHbWQdBU33OvTDz) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Hunter](https://open.spotify.com/album/3Iv7gfIAsbFWqhX3hXdWp2) | 2:49 | 2020-04-10 | 2020-05-08 |
 | [Huron Disko](https://open.spotify.com/track/56Ydhy30ogSmTKTyDxcirY) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [cartoon therapy](https://open.spotify.com/album/1JvMNlu1GNdxsoBTTdR3AL) | 3:21 | 2021-06-05 | 2021-07-17 |
 | [Hurricane](https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Hurricane](https://open.spotify.com/album/0nhR7pihu2lJDAvVfXqBcH) | 3:01 | 2022-03-04 | 2022-03-26 |
-| [Hurricane](https://open.spotify.com/track/5K9CN4zd8jPy5QyuNiv08s) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hurricane](https://open.spotify.com/album/651WqryyYBaP5DloPK8lHv) | 3:34 | 2022-10-14 |  |
+| [Hurricane](https://open.spotify.com/track/2XVHVNrfeITZa9Dj9t9gc3) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:34 | 2022-10-14 |  |
+| [Hurricane](https://open.spotify.com/track/5K9CN4zd8jPy5QyuNiv08s) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hurricane](https://open.spotify.com/album/651WqryyYBaP5DloPK8lHv) | 3:34 | 2022-10-14 | 2022-10-26 |
 | [Hurry On Home](https://open.spotify.com/track/4EZiHxrrl2y35ea7zTBMFG) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Hurry On Home](https://open.spotify.com/album/4YcBdGyErG7sDaJsk4D2hO) | 2:48 | 2019-05-31 | 2019-06-21 |
 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 | 2020-08-21 | 2020-10-02 |
 | [Hurt You](https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Hurt You](https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t) | 3:55 | 2022-10-07 |  |

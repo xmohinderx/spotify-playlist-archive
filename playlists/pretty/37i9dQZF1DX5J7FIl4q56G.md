@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Black Veil Brides
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,904 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,052 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 28 | [SHAME ON ME](https://open.spotify.com/track/79KWjMj9Q3qDylVbCXmSzk) | [Happyalone.](https://open.spotify.com/artist/07cGsRL23DtuPJnawMKACY) | [SHAME ON ME](https://open.spotify.com/album/3GCv5tv7c8ZF23SO8l4ZE5) | 1:44 |
 | 29 | [Necrotica](https://open.spotify.com/track/2AdSg9Fpi2zKtkjboSQmgb) | [Exhumed](https://open.spotify.com/artist/2OjtmMho2pBS86zQ1PliRu) | [To the Dead](https://open.spotify.com/album/4O4krXb7DWdic7axPxg4UC) | 4:30 |
 | 30 | [Battlestar Nostalgica](https://open.spotify.com/track/33L1iyCuAmYptqID8gB8oX) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Battlestar Nostalgica](https://open.spotify.com/album/0aAcgkbxpgs486MwSdIrBi) | 4:48 |
-| 31 | [Death is the Only Way Out](https://open.spotify.com/track/53t4fQZDEEVB7SSIReSiDO) | [Writing The Future](https://open.spotify.com/artist/7Aa5CdfeC6osTwfQJMXfCd) | [Death is the Only Way Out](https://open.spotify.com/album/1DjhvKKSe3FGowNJMeFyi4) | 3:47 |
+| 31 | [Death Is The Only Way Out](https://open.spotify.com/track/53t4fQZDEEVB7SSIReSiDO) | [Writing The Future](https://open.spotify.com/artist/7Aa5CdfeC6osTwfQJMXfCd) | [Death Is The Only Way Out](https://open.spotify.com/album/1DjhvKKSe3FGowNJMeFyi4) | 3:47 |
 | 32 | [Vicious Attenuation](https://open.spotify.com/track/7wysj77dVoOLdtKryYDAln) | [A Wake in Providence](https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa) | [Eternity](https://open.spotify.com/album/4C5WUAM876nD0qWXUFhVRB) | 5:14 |
 | 33 | [We Are](https://open.spotify.com/track/4ja3RSMcwfjoSa6YTmRyf2) | [Lost in Kiev](https://open.spotify.com/artist/4VBq7oPj5Yi4Yfx4hopGY3) | [We Are](https://open.spotify.com/album/698QyL8uUSkBT0KCaPlS7Z) | 6:49 |
 | 34 | [Half Me](https://open.spotify.com/track/5HgaZN3fGnY1r9yL8iPDlK) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Half Me](https://open.spotify.com/album/2Usa3NQQpXDcaJKSwzLyhE) | 4:28 |

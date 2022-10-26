@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites.
 
-275 songs - 17 hr 17 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
+276 songs - 17 hr 20 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Cardiac Arrest](https://open.spotify.com/track/6zQyu8L8yUuJkl6LbQ6iKU) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Language & Perspective](https://open.spotify.com/album/54bO9jrn1NExmpg6Afsc2A) | 3:02 | 2022-04-11 |  |
 | [Changing](https://open.spotify.com/track/1l24p4pRr1KmoLsI6OUTry) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T) | [Changing](https://open.spotify.com/album/1OYygBBOq2U4tqiEKfRFlj) | 3:40 | 2021-10-22 | 2022-07-29 |
 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 | 2019-06-16\* |  |
+| [Cinema Love](https://open.spotify.com/track/28yYvFeocTDYzao76YVB75) | [Patrick Martin](https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8) | [Cinema Love](https://open.spotify.com/album/356ZbANcwXGXMpgOZePud7) | 3:48 | 2022-09-16 |  |
 | [Cinema Love](https://open.spotify.com/track/59reiI9iXYA0sI3jGKRGdC) | [Patrick Martin](https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8) | [Cinema Love](https://open.spotify.com/album/4sfoMGrDHeeO3BhAP2lM1t) | 3:48 | 2019-06-16\* | 2022-10-13 |
 | [Close Your Eyes](https://open.spotify.com/track/4HM8tkHTQ6JVSMfsJOrcAW) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sweat](https://open.spotify.com/album/0QqrTxRtjqQmH5XyqwORlU) | 4:27 | 2022-04-11 |  |
 | [Close Your Eyes](https://open.spotify.com/track/6nknq3uzBIsYNjEdRiOzMo) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sweat](https://open.spotify.com/album/3DlC3mcBzssqPkY7lhmfls) | 4:27 | 2019-06-16\* | 2022-07-29 |
@@ -176,7 +177,7 @@
 | [Method to the Madness](https://open.spotify.com/track/6bdUYF2BSpMJ1eSVb9wbAn) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 4:33 | 2022-09-16 |  |
 | [Middle Class Dream](https://open.spotify.com/track/6eUuwMYJv8p68UGT5u4FZS) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Middle Class Dream](https://open.spotify.com/album/01e4Q6rMiRjcus0d2Qxrfz) | 4:23 | 2020-11-20 | 2022-07-29 |
 | [Mind Over Matter](https://open.spotify.com/track/5Az8KU81g2aLBbJN67F2CI) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mind Over Matter](https://open.spotify.com/album/3cSzKBfylctgJwqorcNEo2) | 4:04 | 2022-04-09 |  |
-| [Minimum Wage](https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Minimum Wage](https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp) | 3:16 | 2021-06-11 |  |
+| [Minimum Wage](https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Minimum Wage](https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp) | 3:16 | 2021-06-11 | 2022-10-26 |
 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 | 2022-04-11 |  |
 | [Mountain at My Gates](https://open.spotify.com/track/53L6A3I9vf7rgEZnMzx54E) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/4uIDigk79DeZEYV6Z5Yf4s) | 4:04 | 2019-06-16\* | 2022-07-29 |
 | [My Dancer](https://open.spotify.com/track/7qKuDuLsOiDEVtL2rGcvHa) | [Hirsch](https://open.spotify.com/artist/5L0UU9wI651RERYSEddxsa) | [My Dancer](https://open.spotify.com/album/24o4RXQybRaN6RFYFcF9k0) | 3:23 | 2020-11-13 | 2021-11-13 |

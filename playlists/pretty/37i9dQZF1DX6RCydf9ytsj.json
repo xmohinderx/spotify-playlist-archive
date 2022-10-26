@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 474044,
+  "num_followers": 474322,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NTAxNCwwMDAwMDAwMDI4MDU5MGFjZDY4OTAzY2ViYzM5NDk0MTU4YTU5NmVh",
+  "snapshot_id": "MTY1ODc4NTAxNCwwMDAwMDAwMDE4YjdmODgwOTIwYmQ2YmY0M2NlYTYxMWZlOTIwYTBh",
   "tracks": [
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "The Best Of Terri Gibbs",
-        "url": "https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t"
-      },
-      "artists": [
-        {
-          "name": "Terri Gibbs",
-          "url": "https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Somebody's Knockin'",
-      "url": "https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "Oak Ridge Boys Collection",
         "url": "https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 159866,
       "name": "American Made",
       "url": "https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "The Best Of Terri Gibbs",
+        "url": "https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t"
+      },
+      "artists": [
+        {
+          "name": "Terri Gibbs",
+          "url": "https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Somebody's Knockin'",
+      "url": "https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Best Of Gene Watson",
-        "url": "https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J"
-      },
-      "artists": [
-        {
-          "name": "Gene Watson",
-          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Got No Reason Now For Goin' Home",
-      "url": "https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "The Forester Sisters",
         "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 170146,
       "name": "Mama's Never Seen Those Eyes",
       "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "Best Of Gene Watson",
+        "url": "https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J"
+      },
+      "artists": [
+        {
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Got No Reason Now For Goin' Home",
+      "url": "https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx"
     },
     {
       "added_at": "2022-07-25 21:36:54",

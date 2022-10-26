@@ -4,7 +4,7 @@
 
 > Proudly marching to the beat of their own drum\. Cover: Lil Uzi Vert
 
-537 songs - 1 day 5 hr 48 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
+538 songs - 1 day 5 hr 52 min - [published](https://open.spotify.com/playlist/2eZDT7fvyZw5HsAm74ImXE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [daydream](https://open.spotify.com/track/6QW2IF2VV2TE7LJGFAEgO7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams 2](https://open.spotify.com/album/6S5zMvF4bfHyvyfNmvjPxI) | 1:09 | 2022-09-23 | 2022-10-14 |
 | [deadmanwalking](https://open.spotify.com/track/6zq7J5azPc85UJdM12RtCM) | [Dylan Joshua](https://open.spotify.com/artist/5OD01TkUU33QB6NqdrMf3O) | [deadmanwalking](https://open.spotify.com/album/4oToqMPGGQoVp77zj5nEei) | 2:15 | 2022-04-29 | 2022-06-04 |
 | [Dear Boy](https://open.spotify.com/track/0LivNVRgzrqT5Fnicg2e3Q) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Dear Boy](https://open.spotify.com/album/44Bmf0xSlLy5REkiXLVQ6N) | 3:03 | 2022-05-06 | 2022-06-11 |
-| [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-21 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-21 | 2022-10-26 |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-21 |  |
 | [Demon Mode](https://open.spotify.com/track/6cCJGSDSgYBxU9xPULz3fS) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Demon Mode](https://open.spotify.com/album/3th8PyMt8wjiGi0azm135D) | 3:18 | 2022-04-01 | 2022-04-09 |
 | [Desires](https://open.spotify.com/track/0ALG1F2J2DQa31Q48ZQOv5) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD) | [Desires](https://open.spotify.com/album/3PEfe5vOce57pyItUXKjWa) | 3:41 | 2022-06-24 | 2022-08-27 |
 | [didn't I](https://open.spotify.com/track/4mIHBM6Ozh1gBITjA6EZ47) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [didn't I](https://open.spotify.com/album/71cwvQjSGLluxn0M4GUTqF) | 1:47 | 2022-07-15 | 2022-08-27 |

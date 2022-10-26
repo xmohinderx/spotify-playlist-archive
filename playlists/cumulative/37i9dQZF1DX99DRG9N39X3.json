@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The biggest rock songs of the last decade. Cover: Twenty One Pilots",
+  "description": "The biggest rock songs of the last decade. Cover: Arctic Monkeys",
   "name": "10s Rock Anthems",
   "published_playlist_ids": [
     "71Ge9gWFFaxmVIwGcXczH8"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202493,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
+    },
     {
       "album": {
         "name": "Handwritten (Deluxe Version)",
@@ -545,7 +563,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217159,
       "name": "Heart and Soul",
       "url": "https://open.spotify.com/track/7CskFQLRb7IdIEdnAnjMDV"
@@ -1064,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "Mint",
+        "url": "https://open.spotify.com/album/18KUlnsMtCS3W67CLyk0Fp"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235813,
+      "name": "No Roots",
+      "url": "https://open.spotify.com/track/6gqW48WKOxrBEG2KfShI8W"
+    },
+    {
+      "album": {
         "name": "MINT",
         "url": "https://open.spotify.com/album/2FEGUDyvpMp7KlrVrBN0q7"
       },
@@ -1399,7 +1435,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 181216,
       "name": "Summer Is a Curse",
       "url": "https://open.spotify.com/track/5WzgYEfub2pFJAAZfrOult"
@@ -1597,7 +1633,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181146,
       "name": "Trip Switch",
       "url": "https://open.spotify.com/track/13QI6bq0U8HMK7gUpAwFBK"

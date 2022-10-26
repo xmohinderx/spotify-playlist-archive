@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Jil Tanner
 
-907 songs - 3 day 11 hr 8 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+908 songs - 3 day 11 hr 12 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,8 @@
 | [Deep State](https://open.spotify.com/track/5T1fza9F8TTuB1pGqDGziH) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Deep State](https://open.spotify.com/album/2GOLTHiwyNWYHQaBuIZASH) | 2:52 | 2022-04-28 | 2022-05-13 |
 | [Defender](https://open.spotify.com/track/4x9l3fDzgvzg9t7Csbufrn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Defender](https://open.spotify.com/album/76up5uRogXO3CPwA2OO6Wy) | 6:14 | 2022-10-20 |  |
 | [Deft](https://open.spotify.com/track/0zHByPkVJZrCXuh32gPi8v) | [Till Von Sein](https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI) | [Deft](https://open.spotify.com/album/6W23FSY938y7igGFrHTTAW) | 5:08 | 2022-10-06 | 2022-10-21 |
-| [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-20 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-20 | 2022-10-26 |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-20 |  |
 | [Delirium](https://open.spotify.com/track/19MYFJHlTK4bUn3wYEl3TO) | [MILLA LOU](https://open.spotify.com/artist/54SwMmuQHT1ZhCa3LMe3Ng), [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT) | [Delirium](https://open.spotify.com/album/5hpp87ZHVaYJWzM5ysScBN) | 6:26 | 2022-08-18 | 2022-09-09 |
 | [Dense Metaverse](https://open.spotify.com/track/6HgUNScygasBr2xtbTpueF) | [Elisa Bee](https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX) | [Dense Metaverse](https://open.spotify.com/album/7teNbjdosS30JB38wjG15Y) | 5:41 | 2022-07-28 | 2022-08-12 |
 | [Descend](https://open.spotify.com/track/5UKeDBuyUvMAbxTgbdohBB) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Dive](https://open.spotify.com/album/1mwiBmnAqfntxCXACaIjot) | 4:57 | 2022-05-12 | 2022-06-03 |

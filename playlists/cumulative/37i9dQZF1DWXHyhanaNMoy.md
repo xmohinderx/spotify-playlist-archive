@@ -2,9 +2,9 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Nieuwe Broederliefde vandaag! Hier alleen maar good vibes en motion.
+> Broederliefde exclusieve tracks in La Vida Loca! Hier alleen maar good vibes en motion.
 
-236 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+237 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Por De Tra](https://open.spotify.com/track/1mTnMaj9PPE9t0t5rlcYlY) | [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Lirical](https://open.spotify.com/artist/2H0j2bWQRjJWzcGIjnl7nX), [Godwonder](https://open.spotify.com/artist/6BleBBYjao1MPvOoJ5yYSv) | [Por De Tra](https://open.spotify.com/album/0yPlrQTMB1EOhTkV5R6fhI) | 2:22 | 2022-07-28 | 2022-09-02 |
 | [Pour It Up](https://open.spotify.com/track/6Lknj1ggL4NCoP96O8lH5r) | [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Pour It Up](https://open.spotify.com/album/6af7AXOxBkk1Col2hPvF7k) | 2:19 | 2022-07-14 | 2022-07-22 |
 | [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 | 2022-09-22 | 2022-10-07 |
+| [Rapido](https://open.spotify.com/track/2NgVf7sILlYybdPOLULlH9) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Rapido](https://open.spotify.com/album/38VNtMuOH3GT7ohjqgmUHJ) | 3:21 | 2022-10-25 |  |
 | [RARRii](https://open.spotify.com/track/0RPEhK1UCgtLb9Nc97lA4R) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [RARRii](https://open.spotify.com/album/280clOshxkGrR1Litdyu7u) | 2:47 | 2022-07-28 | 2022-09-16 |
 | [Repeat](https://open.spotify.com/track/2S7FTwyeXHxDKaiMTrLixP) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Repeat](https://open.spotify.com/album/5vtxJ5aAD0dYe9fxduV2xY) | 2:39 | 2022-07-14 | 2022-08-12 |
 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 | 2022-10-20 |  |

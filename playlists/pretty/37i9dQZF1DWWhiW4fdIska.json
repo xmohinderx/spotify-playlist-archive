@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 14478,
+  "num_followers": 14489,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkwNTIwOSwwMDAwMDAwMDYzNWY4MzJmNTQ1Njg2ODRkMjExNGIxMjNmODE5YjVh",
+  "snapshot_id": "MTYzODkwNTIwOSwwMDAwMDAwMDk4ODJlNjk2ZmE0MTM3YjU5NTMzNzQ4NDQxOWRhNmEz",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Roy Buchanan",
-        "url": "https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw"
-      },
-      "artists": [
-        {
-          "name": "Roy Buchanan",
-          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "John's Blues",
-      "url": "https://open.spotify.com/track/1bpVZUSTlNXqelXHrN1mwI"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 255066,
       "name": "Blues for Nothing",
       "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Roy Buchanan",
+        "url": "https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw"
+      },
+      "artists": [
+        {
+          "name": "Roy Buchanan",
+          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "John's Blues",
+      "url": "https://open.spotify.com/track/1bpVZUSTlNXqelXHrN1mwI"
     },
     {
       "added_at": "2020-10-21 20:41:20",

@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-228 songs - 16 hr 41 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
+229 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Luz](https://open.spotify.com/track/6d4QWvybqNvVZdWaIYGKvN) | [Bleepolar](https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ), [Paraísos Invisibles](https://open.spotify.com/artist/1erxvcprhrVPO5JcQTIkTq) | [Luz](https://open.spotify.com/album/3cSmSTHftrJ1BMdoNfM4ao) | 3:51 | 2022-04-15 | 2022-07-14 |
 | [Maajo](https://open.spotify.com/track/4P4dZe0rLvLIHZOCvRr67b) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Tropic of Tulli](https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9) | 9:06 | 2022-04-15 |  |
 | [Maleza](https://open.spotify.com/track/6thXjSpWtLHJL72kXLgOkI) | [Reptila](https://open.spotify.com/artist/3iITPOD4UlvqOYr6OYEnWN), [Sarazul](https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0) | [Maleza](https://open.spotify.com/album/6r9lWGNWCFR0pvef7vMIGV) | 4:19 | 2021-11-26 | 2022-06-05 |
+| [Mama Clo](https://open.spotify.com/track/2jUXoIl9hcfw9JQrOPRHEW) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [Benjamín Vanegas](https://open.spotify.com/artist/3iH5J5um1uCq8fEXkuF5hF) | [Escape Plan](https://open.spotify.com/album/4qYVBtC9qkZpEIRZDLyUHg) | 3:41 | 2022-04-15 |  |
 | [Mama Clo](https://open.spotify.com/track/6Keph1R8W5UIsjTWxUAZEG) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [Benjamín Vanegas](https://open.spotify.com/artist/3iH5J5um1uCq8fEXkuF5hF) | [Mama Clo](https://open.spotify.com/album/2zq7CXbAWx4JcraR3Lghn8) | 3:44 | 2021-11-26 | 2022-07-29 |
 | [Mamakumba](https://open.spotify.com/track/5ChVKFg7u4c3ebjuICumUD) | [Vitu Valera](https://open.spotify.com/artist/3HV5zAEqTKXHhbF9PsN6Uo), [Mikongo](https://open.spotify.com/artist/7q9AmXPI7sYCKR75Fpdi45) | [KUMBA](https://open.spotify.com/album/6kARIV1QmKZnKpxWBLXfnf) | 4:04 | 2021-11-26 | 2022-06-21 |
 | [Manana Tepotzlan](https://open.spotify.com/track/6o5CnQ64kggC3sEnIUpEl5) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cenotes](https://open.spotify.com/album/290Qd3iRmfn85z6YGpCE7X) | 4:00 | 2021-11-26 | 2022-07-29 |
@@ -222,7 +223,7 @@
 | [Tierra Mojá \- Cerrero Dub Mix](https://open.spotify.com/track/57LjA8Nq2X6gut8TRpfhZZ) | [Los Gaiteros de Ovejas](https://open.spotify.com/artist/3VUqC0Q4XHN2PBuFQeredd), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Tierra Mojá \(Dub Mix\)](https://open.spotify.com/album/5nNgttpJa3yf9foArittyG) | 5:07 | 2021-11-26 | 2022-07-08 |
 | [Todo Te Lo Llevaste](https://open.spotify.com/track/1fuKpGNhiT2t5w9AFHnedq) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [Canción para un amigo EP](https://open.spotify.com/album/4Y72rXWdSgWLZ9w8q3sruJ) | 8:31 | 2021-11-26 | 2022-07-25 |
 | [Treinta y Dos](https://open.spotify.com/track/0Z1DFsBeqe8K5AZ2vHciCp) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Los Ángeles](https://open.spotify.com/album/2zOleyAQo9Bhb63hUjnTTc) | 5:16 | 2022-04-15 | 2022-07-17 |
-| [Tribo](https://open.spotify.com/track/0NO3QKBYP9hzHFKGwVufFZ) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Raissa Fayet](https://open.spotify.com/artist/0OFLnfEgSm9aDxz43P9e1x), [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm) | [Tribo](https://open.spotify.com/album/0IrHk51dDatkA0v81POIYa) | 3:23 | 2022-04-15 |  |
+| [Tribo](https://open.spotify.com/track/0NO3QKBYP9hzHFKGwVufFZ) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Raissa Fayet](https://open.spotify.com/artist/0OFLnfEgSm9aDxz43P9e1x), [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm) | [Tribo](https://open.spotify.com/album/0IrHk51dDatkA0v81POIYa) | 3:23 | 2022-04-15 | 2022-10-26 |
 | [Tumbamurallas](https://open.spotify.com/track/6TOR7IAlgDmqOMag21WoC7) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Rumbo a Tierra](https://open.spotify.com/album/5EsARIbjmreegtR7EV86HK) | 3:32 | 2022-04-15 | 2022-04-20 |
 | [Tú Me Llevas](https://open.spotify.com/track/10OxrfJXZjNcWlbqvmxYs5) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG) | 4:23 | 2022-04-15 |  |
 | [Ultravioleta \- DJ Raff Remix](https://open.spotify.com/track/5yoxKVZ1cqiB0ocI03iFeq) | [Landikhan](https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp), [Dat García](https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ultravioleta Remixes](https://open.spotify.com/album/7ouXMhGcqxCHJzptPUZXhM) | 4:47 | 2021-11-26 | 2022-07-28 |

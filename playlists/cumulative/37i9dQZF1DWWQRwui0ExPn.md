@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-4,098 songs - 6 day 12 hr 7 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+4,099 songs - 6 day 12 hr 10 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1082,7 +1082,8 @@
 | [El Sol por la Ventana](https://open.spotify.com/track/6jo4enDzLZjNaod4zmgzXc) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Mantra, Pt\. 1](https://open.spotify.com/album/1EQMjvDq41T3p6iiq0Kx7H) | 2:36 | 2020-09-18 | 2021-10-13 |
 | [Elara](https://open.spotify.com/track/4AyQkc93hg1D3NG4ZSGBm8) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Benjamin Furman](https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH) | [Elara](https://open.spotify.com/album/3DBIb8TdoGbMAt7bMLvBc0) | 3:38 | 2022-06-10 | 2022-09-30 |
 | [Electrolytes](https://open.spotify.com/track/6Tec5HNYTRuBnTRkmO4pfX) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Electrolytes](https://open.spotify.com/album/4IM90W7dHNv5NFMGGakPuZ) | 2:03 | 2022-01-21 | 2022-09-02 |
-| [Elephant & Ivory \- Vanilla's Version](https://open.spotify.com/track/7eDl54jBPJL295eBq95GIH) | [Les Loups](https://open.spotify.com/artist/3U6FqAuXdKYRrGUIyv9MWa), [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Elephant & Ivory \(Vanilla's Version\)](https://open.spotify.com/album/1SmtfuffGWMdf6MXUp8ITM) | 3:28 | 2022-09-02 |  |
+| [Elephant & Ivory \- Vanilla's Version](https://open.spotify.com/track/32mZDivfSYsIKT5RTLHl18) | [Les Loups](https://open.spotify.com/artist/3U6FqAuXdKYRrGUIyv9MWa), [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Elephant & Ivory](https://open.spotify.com/album/3lwRZhkGvXkk9O8GwqH6AK) | 3:28 | 2022-10-14 |  |
+| [Elephant & Ivory \- Vanilla's Version](https://open.spotify.com/track/7eDl54jBPJL295eBq95GIH) | [Les Loups](https://open.spotify.com/artist/3U6FqAuXdKYRrGUIyv9MWa), [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Elephant & Ivory \(Vanilla's Version\)](https://open.spotify.com/album/1SmtfuffGWMdf6MXUp8ITM) | 3:28 | 2022-09-02 | 2022-10-26 |
 | [Elephant Dream](https://open.spotify.com/track/5hK8kApfu3udEKcMI8TOpw) | [Spectateur](https://open.spotify.com/artist/1AZzFXI8C6JD8nMdcSLmgW) | [Elephant](https://open.spotify.com/album/0aykfp8hV8VOrsFmeD5Zqh) | 2:53 | 2022-09-16 |  |
 | [Eleuthera](https://open.spotify.com/track/2Ows4rDdgCOJplYdZ5KycE) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Eleuthera](https://open.spotify.com/album/4B10SYd0ROOLGBM2T00O53) | 3:59 | 2021-04-17 | 2022-01-14 |
 | [Elevation](https://open.spotify.com/track/6TLNyYVbZqzw0mJuNnrUhv) | [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Elevation](https://open.spotify.com/album/6GDs0nwSUVL6f0iYuifXZI) | 2:30 | 2022-07-22 |  |

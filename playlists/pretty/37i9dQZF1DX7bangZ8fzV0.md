@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3?si=LuOO6LxHQmSroDq3p2T\_uQ">FATMAN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,646 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,676 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

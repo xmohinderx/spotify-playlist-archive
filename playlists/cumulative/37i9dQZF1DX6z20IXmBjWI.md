@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems.
 
-330 songs - 20 hr 34 min - [published](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
+331 songs - 20 hr 37 min - [published](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Here I Am](https://open.spotify.com/track/7mqnso9Zqgv7TYy3ZTfBg0) | [WILLO](https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N) | [Here I Am](https://open.spotify.com/album/2ftaScR6cWLclbqmyvgcLx) | 4:16 | 2022-01-21 | 2022-05-28 |
 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2021-12-10 |  |
 | [Hockey Skates](https://open.spotify.com/track/1avuG0JHGZZB8HI69C0f4E) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Failer](https://open.spotify.com/album/3ZYobhZ7YRCG96p7P7BIek) | 4:28 | 2022-01-21 | 2022-06-09 |
-| [Hold Me \- Alternate Version](https://open.spotify.com/track/0OvPSLj3HCL9Jy6F2LbrRc) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Rise & Fall \(Deluxe Edition\)](https://open.spotify.com/album/4fOKz3KUUtSOSIJSWbS8MG) | 4:23 | 2022-06-08 |  |
+| [Hold Me \- Alternate Version](https://open.spotify.com/track/0OvPSLj3HCL9Jy6F2LbrRc) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Rise & Fall \(Deluxe Edition\)](https://open.spotify.com/album/4fOKz3KUUtSOSIJSWbS8MG) | 4:23 | 2022-06-08 | 2022-10-26 |
 | [Hold Me \- Alternate Version](https://open.spotify.com/track/3JiqfgX20NPxT070KqaQV7) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Rise & Fall \(Deluxe Edition\)](https://open.spotify.com/album/4KGZ9vvxgNnF31SLj5Ll0v) | 4:23 | 2021-12-10 | 2022-07-29 |
 | [Holllllogram](https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV), [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [EPHRATA](https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1) | 3:38 | 2021-12-10 |  |
 | [Hollow \(Acoustic\)](https://open.spotify.com/track/1GIBQJItFW5tFPrilr6M6o) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Hollow \(Acoustic\)](https://open.spotify.com/album/1o5nl7CllRMd5Zx4kwlxWR) | 3:56 | 2021-12-10 | 2022-07-09 |
@@ -331,6 +331,7 @@
 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 | 2021-12-10 | 2022-07-29 |
 | [Winter Song](https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 2:43 | 2021-12-10 | 2022-07-23 |
 | [Winter Song](https://open.spotify.com/track/4kVq0EOO5xmczwrXjRcaeI) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 2:43 | 2022-06-08 | 2022-10-13 |
+| [Winter Song](https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 2:43 | 2022-06-08 |  |
 | [Wonderful World](https://open.spotify.com/track/5SQkpKQP4woq7R4kG53HAy) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Wonderful World](https://open.spotify.com/album/36jkSaatEARkByil5kn9f6) | 2:45 | 2022-09-23 |  |
 | [Wouldn't Come Back](https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't Come Back](https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1) | 3:39 | 2021-12-10 |  |
 | [You And I \- Moon And Stars / Acoustic](https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [You And I \(Moon And Stars / Acoustic\)](https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C) | 3:20 | 2021-12-10 |  |

@@ -2,7 +2,7 @@
 
 ### [00s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DX3oM43CtKnRV)
 
-> These songs rocked the 00s\. Cover: Linkin Park
+> These songs rocked the 00s\. Cover: Red Hot Chili Peppers
 
 131 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/2YBiD0YO7GUD6vsbO2o7zT)
 

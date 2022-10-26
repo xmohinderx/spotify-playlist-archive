@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 965990,
+  "num_followers": 966557,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcyNTkzMiwwMDAwMDAwMDkzYjEyYzYxYzAzMTUyOWMwMjRmOTUwMTlhMzcwN2Vm",
+  "snapshot_id": "MTY1NzcyNTkzMiwwMDAwMDAwMGZhM2U5MmY5YmQxYTQ5MGUzNmM0OGRlNjczNzJhZDVk",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
-        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
-      },
-      "artists": [
-        {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "The Sky Is Crying",
-      "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "T-Bone Blues",
@@ -623,6 +607,22 @@
       "duration_ms": 247373,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
+        "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "The Sky Is Crying",
+      "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Juke",
-      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "The Allman Brothers Band (Deluxe)",
@@ -687,6 +671,22 @@
       "duration_ms": 227751,
       "name": "Trouble No More",
       "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Juke",
+      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi"
     },
     {
-      "added_at": "2021-06-18 04:29:20",
-      "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 274440,
-      "name": "I'm A Woman - Remastered",
-      "url": "https://open.spotify.com/track/01noJYGB8kT65mi8Pc2Ola"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Sufferin' Mind",
@@ -1135,6 +1119,22 @@
       "duration_ms": 180453,
       "name": "The Things That I Used To Do",
       "url": "https://open.spotify.com/track/3NWDb3bbMBTArBblzG4jMX"
+    },
+    {
+      "added_at": "2021-06-18 04:29:20",
+      "album": {
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 274440,
+      "name": "I'm A Woman - Remastered",
+      "url": "https://open.spotify.com/track/01noJYGB8kT65mi8Pc2Ola"
     }
   ],
   "unique_name": "Blues Classics",

@@ -4,12 +4,13 @@
 
 > Jada Kingdom selects the baddest in Dancehall for the gyaldem.
 
-152 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/2HvSrSvEMicLEMbs1ellKF)
+153 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/2HvSrSvEMicLEMbs1ellKF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [16 Shots](https://open.spotify.com/track/2169IKAivSUUFGcedGASXc) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [16 Shots](https://open.spotify.com/album/7fhtLker4wksK42E4hyhxK) | 3:44 | 2022-06-20 | 2022-08-19 |
-| [1Skillibeng](https://open.spotify.com/track/4q90DrWjw2roovdi4q1tj1) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [The Prodigy](https://open.spotify.com/album/3ddPKANxkFGX7tDYFZUa14) | 2:44 | 2022-08-18 |  |
+| [1Skillibeng](https://open.spotify.com/track/4q90DrWjw2roovdi4q1tj1) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [The Prodigy](https://open.spotify.com/album/3ddPKANxkFGX7tDYFZUa14) | 2:44 | 2022-08-18 | 2022-10-26 |
+| [1Skillibeng](https://open.spotify.com/track/0U8KSdDEOr5QVxH53waeNu) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [The Prodigy](https://open.spotify.com/album/1jTCrR34ciKYVJA5j4z6kq) | 2:51 | 2022-08-18 |  |
 | [A Nuh My Style](https://open.spotify.com/track/2zbPQ4eWQEvywNRTDWUAAk) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [A Nuh My Style](https://open.spotify.com/album/1tAlghBkDlKo1iJwKZ55Lo) | 2:44 | 2021-10-24 | 2022-07-29 |
 | [Always](https://open.spotify.com/track/0NDuu5F9yTpA0tw3gzrzOo) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/6Y3GwclvGrERqgTZ3EEXm9) | 3:14 | 2021-10-24 | 2022-07-29 |
 | [Always](https://open.spotify.com/track/1ge5u2oNzB340gHdMCdTSl) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:14 | 2022-06-20 | 2022-08-19 |

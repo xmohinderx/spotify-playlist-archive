@@ -2,9 +2,9 @@
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Quentin40
+> Solo beat e rime avvolgenti\. Cover: Night Skinny
 
-80 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/4r83GtsNbTEk66vNKaqlF4)
+82 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/4r83GtsNbTEk66vNKaqlF4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [DUBBI](https://open.spotify.com/track/7fI5RJec8R3jJ95pljZnkN) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:54 | 2022-04-28 | 2022-07-29 |
 | [Eravamo Re](https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Vero](https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7) | 3:02 | 2022-04-28 | 2022-05-20 |
 | [EURO](https://open.spotify.com/track/0jyNaBwi570k2Y5s7FwqDW) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:23 | 2022-07-01 | 2022-09-16 |
-| [FALENA \(feat\. Franco126, Coez & Ketama126\)](https://open.spotify.com/track/3jREEhgXvvwzyCW1iGWP38) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 3:35 | 2022-04-28 |  |
+| [FALENA \(feat\. Franco126, Coez & Ketama126\)](https://open.spotify.com/track/1FEAEKjVQLZuSeb0omUxep) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [X2](https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5) | 3:35 | 2022-10-25 |  |
+| [FALENA \(feat\. Franco126, Coez & Ketama126\)](https://open.spotify.com/track/3jREEhgXvvwzyCW1iGWP38) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 3:35 | 2022-04-28 | 2022-10-26 |
 | [Fiamme Alte](https://open.spotify.com/track/5N7x4uvQWF0Nte0yZX1fjn) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 3:28 | 2022-04-28 | 2022-07-07 |
 | [Guardare Sotto](https://open.spotify.com/track/0XziCMIyt5YkZSxMFrxKdi) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [Guardare Sotto](https://open.spotify.com/album/5ElAMiTYjmJgnWQ84ZzHaM) | 2:46 | 2022-09-01 | 2022-09-30 |
 | [Immortale \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2bF1qPRPlrODKWFMGtQXq1) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:20 | 2022-04-28 |  |
@@ -60,7 +61,8 @@
 | [Marciapiede \(con Tony Effe, Ernia & Rkomi\)](https://open.spotify.com/track/7nz7IQI6XfGLbpLB2ZLfXr) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:36 | 2022-09-15 |  |
 | [MeryXSempre \(feat\. Shiva\)](https://open.spotify.com/track/4n5omnB5GcKuHhkVZWv1Ih) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Gemelli](https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9) | 3:49 | 2022-04-28 |  |
 | [Mezzanotte in Punto \(con Franco126, Ketama126 & Bresh\)](https://open.spotify.com/track/4HPnwAsUMcudDgVCNLOzum) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 3:57 | 2022-09-15 |  |
-| [Mi manchi](https://open.spotify.com/track/0L2Sq3mlGZsSvrOu15LZSi) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:06 | 2022-04-28 |  |
+| [Mi manchi](https://open.spotify.com/track/0L2Sq3mlGZsSvrOu15LZSi) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:06 | 2022-04-28 | 2022-10-26 |
+| [Mi manchi](https://open.spotify.com/track/7Jgi200kgCNvAuZw2W8Nxq) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 3:06 | 2022-10-25 |  |
 | [molecole \(interlude\)](https://open.spotify.com/track/7vsofh7bdDeL0n0lodFiCi) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:05 | 2022-09-29 |  |
 | [MON AMOUR \(feat\. Shiva\)](https://open.spotify.com/track/0OU0XbP0WnsLwFTVgeXFeu) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [J](https://open.spotify.com/album/5cmbVE8sridz5LqFNEAWwy) | 2:33 | 2022-04-28 | 2022-07-29 |
 | [MON AMOUR \(feat\. Shiva\)](https://open.spotify.com/track/4IQpT8aOGChYX4ORMOW0YY) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [J](https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO) | 2:33 | 2022-07-14 |  |

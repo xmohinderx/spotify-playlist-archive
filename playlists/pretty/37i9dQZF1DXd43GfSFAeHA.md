@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > Hip\-Hop tracks from the Arab world\. Cover: ElGrandeToto
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,590 likes - 42 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,641 likes - 42 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 6 | [EL HALAL](https://open.spotify.com/track/6EImClnQDWI51GJjSKva6P) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EL HALAL](https://open.spotify.com/album/2B9JbhNplI7Qlf0tN6l0h2) | 3:50 |
 | 7 | [Laisse Tomber](https://open.spotify.com/track/5VpkGOSBwYh0ikxPxmR2ld) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Laisse Tomber](https://open.spotify.com/album/6ZhgW4To5S7eY08c0wMPPO) | 3:17 |
 | 8 | [LOGAN](https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:06 |
-| 9 | [Beautiful](https://open.spotify.com/track/33kN7MSsfmxCG4HT2vn7j8) | [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Beautiful](https://open.spotify.com/album/7EFMPafpTIPs0V2RsNhF9T) | 2:20 |
+| 9 | [VFX](https://open.spotify.com/track/3m9TzZ3tnaeMRC4dIrdrk9) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP), [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:43 |
 | 10 | [بطل عالم](https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:03 |
 | 11 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 |
-| 12 | [VFX](https://open.spotify.com/track/3m9TzZ3tnaeMRC4dIrdrk9) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP), [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:43 |
+| 12 | [Beautiful](https://open.spotify.com/track/33kN7MSsfmxCG4HT2vn7j8) | [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Beautiful](https://open.spotify.com/album/7EFMPafpTIPs0V2RsNhF9T) | 2:20 |
 | 13 | [Maktoub](https://open.spotify.com/track/5gcjlJBN0VbOcxMZlRTnmn) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Maktoub](https://open.spotify.com/album/1aodjEwWr0vyVMIOGgGHuP) | 3:14 |
 | 14 | [Paradise](https://open.spotify.com/track/0dgxSqMys4w9qPvGSyyWHY) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Paradise](https://open.spotify.com/album/3m0HTUkwIf64MyLbCfi3dR) | 2:57 |
 | 15 | [Dawk Lya](https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP) | 2:28 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 34 | [أهل العمار](https://open.spotify.com/track/5w4ei3ImB3MjVIhyXWDbYU) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أهل العمار](https://open.spotify.com/album/7jCvs21LFCE7FrXFgs7vv9) | 3:47 |
 | 35 | [2028](https://open.spotify.com/track/0dcfAtl0El9e9grlFUBBdb) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT) | [Z5M](https://open.spotify.com/album/2qD60uCdyfhVd0tVNmLLDJ) | 2:49 |
 | 36 | [Habsha \(feat\. Flippter\)](https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Habsha \(feat\. Flippter\)](https://open.spotify.com/album/6opmw3CpoDjwblauYVcuBY) | 2:25 |
-| 37 | [فشينك](https://open.spotify.com/track/020CGpSRDSHbvvC9vlHSaq) | [Alyoungofficial](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randarofficial](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [فشينك](https://open.spotify.com/album/4z67IwnZAfeTaWJmD9ZvO4) | 2:14 |
-| 38 | [Khataf](https://open.spotify.com/track/14bqqHlCGigtTWDEYkgyvv) | [Moudy Al Arabe](https://open.spotify.com/artist/68KKIaozjXuxJyAWs2nDhz) | [Khataf](https://open.spotify.com/album/291zy8iPVZVVUFIu4BTmwQ) | 3:14 |
+| 37 | [Khataf](https://open.spotify.com/track/14bqqHlCGigtTWDEYkgyvv) | [Moudy Al Arabe](https://open.spotify.com/artist/68KKIaozjXuxJyAWs2nDhz) | [Khataf](https://open.spotify.com/album/291zy8iPVZVVUFIu4BTmwQ) | 3:14 |
+| 38 | [فشينك](https://open.spotify.com/track/020CGpSRDSHbvvC9vlHSaq) | [Alyoungofficial](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randarofficial](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [فشينك](https://open.spotify.com/album/4z67IwnZAfeTaWJmD9ZvO4) | 2:14 |
 | 39 | [Doos](https://open.spotify.com/track/10p9dAdwouu6jqsb0vzeJg) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [150](https://open.spotify.com/album/6TpjzgthHnWlyejxMPBinW) | 1:41 |
 | 40 | [Game Over](https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O) | 3:26 |
 | 41 | [Sami Khedira](https://open.spotify.com/track/4HcVDgbzBtzrvzDFaui3Op) | [El Batsh](https://open.spotify.com/artist/0bDjrJ7Jy8Dx0vumq98wTk), [8ight](https://open.spotify.com/artist/0R6EyWUEFnAzrWvDat1mgO) | [3al Zamer](https://open.spotify.com/album/3RtcEf9VR0A2HYOdMSAa5g) | 3:30 |
 | 42 | [Najem Leil](https://open.spotify.com/track/0XGjH4TgvARhLq5s2tPMHU) | [Moudy Al Arabe](https://open.spotify.com/artist/68KKIaozjXuxJyAWs2nDhz) | [Najem Leil](https://open.spotify.com/album/487keg0yGJnNq6feYj7psr) | 3:25 |
 
-Snapshot ID: `MTY2NjYzMzk2OCwwMDAwMDAwMDNjMjMwZDQ3MDBmMDVmOGE1MTU0OGZjOTYxNWY5MzYx`
+Snapshot ID: `MTY2NjYzMzk2OCwwMDAwMDAwMGY0YmEyYjIwMjI0ODY2NjRlMGIwNzVmYTI3ZjlmNDk1`

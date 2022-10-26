@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: paopao",
-  "num_followers": 696073,
+  "num_followers": 696056,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTM1NTUzNywwMDAwMDAwMDE1YjNiZmYzN2Y3YjZjOTE0MDUyMDJjYTNjYjMwZjQ2",
+  "snapshot_id": "MTY2NTM1NTUzNywwMDAwMDAwMDJiZTQ3YjQ3NmRjNDQ1OTc3MTdkNGY3NWE1MGE1MTEx",
   "tracks": [
     {
       "added_at": "2022-10-09 22:45:37",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
+        "name": "do you come here often?",
+        "url": "https://open.spotify.com/album/1kRRlIpttyseZ2jP8nyGi0"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 154415,
+      "name": "do you come here often?",
+      "url": "https://open.spotify.com/track/6cATzdkvntHhTFC2510gbs"
+    },
+    {
+      "added_at": "2022-10-09 22:45:37",
+      "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/0uhQr2Rh3VkMpjx8CF8pbb"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 169811,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4T7vbzrubScfDq0bx7Am5M"
-    },
-    {
-      "added_at": "2022-10-09 22:45:37",
-      "album": {
-        "name": "do you come here often?",
-        "url": "https://open.spotify.com/album/1kRRlIpttyseZ2jP8nyGi0"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 154415,
-      "name": "do you come here often?",
-      "url": "https://open.spotify.com/track/6cATzdkvntHhTFC2510gbs"
     },
     {
       "added_at": "2022-10-09 22:45:37",

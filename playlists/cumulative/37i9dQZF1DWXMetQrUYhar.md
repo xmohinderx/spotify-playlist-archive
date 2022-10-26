@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: MUNA
 
-185 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
+186 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/49rILSmVLmGmknARFACh3N) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/0QvkS38s3iUF88PeNqeXzt) | 2:38 | 2021-10-27 | 2022-10-14 |
 | [One More Time \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/1FpKPMzqIltTIcJHPcbgAR) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 2:44 | 2022-03-30 |  |
 | [One More Time \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/2j6vcPcY74uDQZe4wtZpG0) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles](https://open.spotify.com/album/5kjS3oqA3uScfk2Z7B4Jyc) | 2:44 | 2021-10-27 | 2022-07-29 |
-| [One Rizla \- Recorded at RAK Studios, London](https://open.spotify.com/track/2LGpPEKUG5Urc2EHqxxaKE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Spotify Singles](https://open.spotify.com/album/2OxXAGSBSRLl1fvZUaCPu5) | 3:39 | 2022-03-30 |  |
+| [One Rizla \- Recorded at RAK Studios, London](https://open.spotify.com/track/2LGpPEKUG5Urc2EHqxxaKE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Spotify Singles](https://open.spotify.com/album/2OxXAGSBSRLl1fvZUaCPu5) | 3:39 | 2022-03-30 | 2022-10-26 |
 | [One Rizla \- Recorded at RAK Studios, London](https://open.spotify.com/track/5HW2dyB6NN46JbpOjc9KSC) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Spotify Singles](https://open.spotify.com/album/7yd0SwBCQ68uqyqaipNkKp) | 3:39 | 2021-10-27 | 2022-07-29 |
 | [Painting \(Masterpiece\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4jM6E6vRCy5fz2ML9X644v) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Spotify Singles](https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq) | 4:21 | 2022-03-30 |  |
 | [Panic \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0LRzB5Wo6ixvWYq2qVHDxe) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Spotify Singles](https://open.spotify.com/album/0wl4Ftg1DK1nzUAh8ueTDP) | 2:31 | 2021-10-27 | 2022-07-29 |
@@ -140,6 +140,7 @@
 | [Salutations \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3GgcqhwmcrUE3K94LeXxSW) | [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Spotify Singles](https://open.spotify.com/album/5yXnrHLMHzIAFOrGmnEbjR) | 3:53 | 2021-10-27 | 2022-07-29 |
 | [Scott Street \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1FseBXHmYLnX1XcGsQKH3j) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 5:32 | 2021-10-27 | 2022-07-29 |
 | [Scott Street \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qbtwmlqiYAI91GXnrMoFI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 5:32 | 2022-03-30 |  |
+| [Screaming Infidelities \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/21BXnWZKWkbuMBulyq6nIk) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS) | 4:47 | 2022-03-30 |  |
 | [Screaming Infidelities \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/2oQzXAcwkpB5BmVqQVldAi) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP) | 4:47 | 2021-10-27 | 2022-10-13 |
 | [Seventeen \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6qeP5qZPiycfpOMRvhTJYv) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:55 | 2021-10-27 | 2022-10-16 |
 | [Shades of Blue \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Js2KuiUtuv5o9eu5hy5s1) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Spotify Singles](https://open.spotify.com/album/1iCPl6KTM3OyL2rHgWorNH) | 2:55 | 2022-03-30 |  |

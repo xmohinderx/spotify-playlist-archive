@@ -1,12 +1,12 @@
 {
   "description": "A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 652207,
+  "num_followers": 652439,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU2MTc0MCwwMDAwMDAwMDEwYWY2YWU5Y2RhMDEzYTc0NjM2ZTE1YzFmYzBiYmRj",
+  "snapshot_id": "MTY2NDU2MTc0MCwwMDAwMDAwMDNjMzI1OGU4YWI2N2IwOTAxMjk4ZWYyMWY0NjRkNjU1",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -411,6 +411,26 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Between Dreams and Reality EP",
+        "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        },
+        {
+          "name": "Niko Schwind",
+          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
+        }
+      ],
+      "duration_ms": 528410,
+      "name": "Between Dreams and Reality - Niko Schwind Remix",
+      "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Sagas of Iziki | Chapter 2",
         "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 544250,
       "name": "Osuga",
       "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Between Dreams and Reality EP",
-        "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
-      },
-      "artists": [
-        {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        },
-        {
-          "name": "Niko Schwind",
-          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
-        }
-      ],
-      "duration_ms": 528410,
-      "name": "Between Dreams and Reality - Niko Schwind Remix",
-      "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 416267,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Ritmo",
         "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 115090,
       "name": "Terra",
       "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 416267,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Bosque",
         "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
       },
@@ -815,26 +799,6 @@
       "duration_ms": 393428,
       "name": "Bosque",
       "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
-        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
-      },
-      "artists": [
-        {
-          "name": "Urban Village",
-          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
-        },
-        {
-          "name": "Chlo\u00e9 (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
-        }
-      ],
-      "duration_ms": 384330,
-      "name": "Izivunguvungu - Chlo\u00e9 Remix",
-      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -875,6 +839,42 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
+      },
+      "artists": [
+        {
+          "name": "Urban Village",
+          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
+        },
+        {
+          "name": "Chlo\u00e9 (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        }
+      ],
+      "duration_ms": 384330,
+      "name": "Izivunguvungu - Chlo\u00e9 Remix",
+      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Endless Forest",
         "url": "https://open.spotify.com/album/5EE1o6sPngmmoL68oGZcBb"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 436857,
       "name": "Gamora",
       "url": "https://open.spotify.com/track/3urFlzQr5f0jlGMGt84m76"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Luv Machine",
+        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
+      },
+      "artists": [
+        {
+          "name": "Zoe Reijue",
+          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
+        }
+      ],
+      "duration_ms": 371814,
+      "name": "Luv Machine",
+      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -911,22 +927,6 @@
       "duration_ms": 1401837,
       "name": "Demedim Mi (Pt. 1)",
       "url": "https://open.spotify.com/track/6juRAf7Qi1TyMXrlL7PgWa"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Luv Machine",
-        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
-      },
-      "artists": [
-        {
-          "name": "Zoe Reijue",
-          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
-        }
-      ],
-      "duration_ms": 371814,
-      "name": "Luv Machine",
-      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "43 Katzen tanzen auf'm Tisch - Acidbogen (Pt. 1)",
+        "url": "https://open.spotify.com/album/0mECGpBWS51eKu15I49xd0"
+      },
+      "artists": [
+        {
+          "name": "Geju",
+          "url": "https://open.spotify.com/artist/33AlE9XaZmnAtfWFhjNL5e"
+        }
+      ],
+      "duration_ms": 417587,
+      "name": "Fuji",
+      "url": "https://open.spotify.com/track/7DlIf50uAWVSsf6X8nZ9L8"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Serbet",
         "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
@@ -987,38 +1003,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "AKKAN",
-        "url": "https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3"
-      },
-      "artists": [
-        {
-          "name": "Akkan",
-          "url": "https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze"
-        }
-      ],
-      "duration_ms": 270992,
-      "name": "Bananat",
-      "url": "https://open.spotify.com/track/69NmsHtvnzA6sMu1bEAFcA"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "43 Katzen tanzen auf'm Tisch - Acidbogen (Pt. 1)",
-        "url": "https://open.spotify.com/album/0mECGpBWS51eKu15I49xd0"
-      },
-      "artists": [
-        {
-          "name": "Geju",
-          "url": "https://open.spotify.com/artist/33AlE9XaZmnAtfWFhjNL5e"
-        }
-      ],
-      "duration_ms": 417587,
-      "name": "Fuji",
-      "url": "https://open.spotify.com/track/7DlIf50uAWVSsf6X8nZ9L8"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Leave the Bones",
         "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
       },
@@ -1035,6 +1019,42 @@
       "duration_ms": 354043,
       "name": "Kite Zo A",
       "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "AKKAN",
+        "url": "https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3"
+      },
+      "artists": [
+        {
+          "name": "Akkan",
+          "url": "https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze"
+        }
+      ],
+      "duration_ms": 270992,
+      "name": "Bananat",
+      "url": "https://open.spotify.com/track/69NmsHtvnzA6sMu1bEAFcA"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Can You See What I See",
+        "url": "https://open.spotify.com/album/0CSbzLZKijkGdVgl4u4REk"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Can You See What I See",
+      "url": "https://open.spotify.com/track/1HRKQf25EU09i3IvNuJRd4"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -1071,30 +1091,6 @@
       "duration_ms": 451375,
       "name": "Mona Ki Ngi Xica - Everything Counts Remix",
       "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Voodoo Guitar",
-        "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
-      },
-      "artists": [
-        {
-          "name": "Dan Bay",
-          "url": "https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw"
-        },
-        {
-          "name": "Max Clouth",
-          "url": "https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1"
-        },
-        {
-          "name": "Timboletti",
-          "url": "https://open.spotify.com/artist/4i0bLWWYQMI3P1KFrTWsHG"
-        }
-      ],
-      "duration_ms": 637455,
-      "name": "Voodoo Guitar - Timboletti Remix",
-      "url": "https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1"
     }
   ],
   "unique_name": "Org\u00e1nica",

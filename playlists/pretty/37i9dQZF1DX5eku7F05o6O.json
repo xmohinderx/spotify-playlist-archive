@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 2786,
+  "num_followers": 2790,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMjU4MTE2MCwwMDAwMDAwMGE0Yzk0ZDBjNjU4NDUxOTQxOTRjM2FjMTMzYzY5MThk",
+  "snapshot_id": "MTYxMjU4MTE2MCwwMDAwMDAwMDMxZWE5MjI0ZmZjZDRkMWYxM2QyZDQ5OTQ1ZjM2MzIw",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -163,26 +163,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Landing",
-        "url": "https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        },
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "duration_ms": 292480,
-      "name": "J'aurai cent ans",
-      "url": "https://open.spotify.com/track/3dIpMGg4wm2OOSf8sHYHAs"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Sun Leads Me On",
         "url": "https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 54293,
       "name": "Throes",
       "url": "https://open.spotify.com/track/1gHFlTISmwfVsmGLt9fzcj"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Landing",
+        "url": "https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        },
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 292480,
+      "name": "J'aurai cent ans",
+      "url": "https://open.spotify.com/track/3dIpMGg4wm2OOSf8sHYHAs"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "\u00c9tienne d'ao\u00fbt",
-        "url": "https://open.spotify.com/album/5o8uGuDD6VLjbkarw9DhiE"
-      },
-      "artists": [
-        {
-          "name": "Malajube",
-          "url": "https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm"
-        }
-      ],
-      "duration_ms": 312666,
-      "name": "Elton d'ao\u00fbt - Remix",
-      "url": "https://open.spotify.com/track/4AUJX89rvtLDdUsYu8M1uD"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "27 fois l'aurore",
         "url": "https://open.spotify.com/album/50NmsF9dRHdp2vXaVwTvfT"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 191853,
       "name": "Vers le sud",
       "url": "https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "\u00c9tienne d'ao\u00fbt",
+        "url": "https://open.spotify.com/album/5o8uGuDD6VLjbkarw9DhiE"
+      },
+      "artists": [
+        {
+          "name": "Malajube",
+          "url": "https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm"
+        }
+      ],
+      "duration_ms": 312666,
+      "name": "Elton d'ao\u00fbt - Remix",
+      "url": "https://open.spotify.com/track/4AUJX89rvtLDdUsYu8M1uD"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Sentiments humains",
-        "url": "https://open.spotify.com/album/6iExYO8AbDltsJz1Tre3qS"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Nous restions l\u00e0",
-      "url": "https://open.spotify.com/track/24PaQVwM1wwWuyoKLDTrXg"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Yseult",
         "url": "https://open.spotify.com/album/0A2VRfeYH8NGbjX0lTY37B"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 156333,
       "name": "Blanche",
       "url": "https://open.spotify.com/track/7LN8oqenTTOT5JDFvLPcFn"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Sentiments humains",
+        "url": "https://open.spotify.com/album/6iExYO8AbDltsJz1Tre3qS"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Nous restions l\u00e0",
+      "url": "https://open.spotify.com/track/24PaQVwM1wwWuyoKLDTrXg"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "LUNES",
-        "url": "https://open.spotify.com/album/3mV5Ke3VjwZhuDQMsHmeYY"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Lacasse",
-          "url": "https://open.spotify.com/artist/1HVLJVmE9Pc1XPZ3P5sZbz"
-        }
-      ],
-      "duration_ms": 291720,
-      "name": "Rester l\u00e0",
-      "url": "https://open.spotify.com/track/1o6qhANR6l2ffQk5YiKJEn"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Himalaya mon amour",
         "url": "https://open.spotify.com/album/6pr1J7ekJbaOIPELBTmGVb"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 164226,
       "name": "Si tu restes",
       "url": "https://open.spotify.com/track/47RDT6K7pUYnO1NWWCw1z7"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "LUNES",
+        "url": "https://open.spotify.com/album/3mV5Ke3VjwZhuDQMsHmeYY"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Lacasse",
+          "url": "https://open.spotify.com/artist/1HVLJVmE9Pc1XPZ3P5sZbz"
+        }
+      ],
+      "duration_ms": 291720,
+      "name": "Rester l\u00e0",
+      "url": "https://open.spotify.com/track/1o6qhANR6l2ffQk5YiKJEn"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Parades",
-        "url": "https://open.spotify.com/album/68gezXq5hixi4zYIow8L22"
-      },
-      "artists": [
-        {
-          "name": "Mina Tindle",
-          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Je sais",
-      "url": "https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Apprentie guerri\u00e8re",
         "url": "https://open.spotify.com/album/1BiCOs55mWk2IA9PyeONfq"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 168173,
       "name": "Shit",
       "url": "https://open.spotify.com/track/7KtGK4TQN4EeOm7nPxSOKq"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Parades",
+        "url": "https://open.spotify.com/album/68gezXq5hixi4zYIow8L22"
+      },
+      "artists": [
+        {
+          "name": "Mina Tindle",
+          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Je sais",
+      "url": "https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj"
-      },
-      "artists": [
-        {
-          "name": "Jason Bajada",
-          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
-        }
-      ],
-      "duration_ms": 285026,
-      "name": "Pour Le Reste De Ma Vie",
-      "url": "https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le long chemin (Version acoustique)",
         "url": "https://open.spotify.com/album/3ucnDEuxr967xAyqfulDBl"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 220146,
       "name": "Le long chemin - Version acoustique",
       "url": "https://open.spotify.com/track/6V0ljhx2IN2V3WdN7rU5hs"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj"
+      },
+      "artists": [
+        {
+          "name": "Jason Bajada",
+          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
+        }
+      ],
+      "duration_ms": 285026,
+      "name": "Pour Le Reste De Ma Vie",
+      "url": "https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Nord-est",
-        "url": "https://open.spotify.com/album/1l1GSsXQb11ulgo6p9iac0"
-      },
-      "artists": [
-        {
-          "name": "Rosie Valland",
-          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
-        }
-      ],
-      "duration_ms": 243977,
-      "name": "Nord-est",
-      "url": "https://open.spotify.com/track/4lSwzA2MyNUa85ZMpq3Z5e"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Bygone",
         "url": "https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Fleur",
-        "url": "https://open.spotify.com/album/1hHpRoYwXO1gUwcdCMGMdh"
+        "name": "Nord-est",
+        "url": "https://open.spotify.com/album/1l1GSsXQb11ulgo6p9iac0"
       },
       "artists": [
         {
-          "name": "Saratoga",
-          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
+          "name": "Rosie Valland",
+          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
         }
       ],
-      "duration_ms": 304040,
-      "name": "Les derniers jours",
-      "url": "https://open.spotify.com/track/0q8AKo2LxhJeJDgGQammi3"
+      "duration_ms": 243977,
+      "name": "Nord-est",
+      "url": "https://open.spotify.com/track/4lSwzA2MyNUa85ZMpq3Z5e"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1379,6 +1363,22 @@
       "duration_ms": 203253,
       "name": "Domenico",
       "url": "https://open.spotify.com/track/7EDpfVvpvhHYztOSLci2ZL"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Fleur",
+        "url": "https://open.spotify.com/album/1hHpRoYwXO1gUwcdCMGMdh"
+      },
+      "artists": [
+        {
+          "name": "Saratoga",
+          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
+        }
+      ],
+      "duration_ms": 304040,
+      "name": "Les derniers jours",
+      "url": "https://open.spotify.com/track/0q8AKo2LxhJeJDgGQammi3"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "T\u00e9lescope",
-        "url": "https://open.spotify.com/album/3nTN7u6XfMkPyqfurixUhW"
-      },
-      "artists": [
-        {
-          "name": "Ga\u00eble",
-          "url": "https://open.spotify.com/artist/6MnPFVtcXiuBiAGles7uDj"
-        }
-      ],
-      "duration_ms": 284640,
-      "name": "Poisson d'abysse",
-      "url": "https://open.spotify.com/track/2FLmfUEeSIrgPmcougor2L"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Kirchner",
         "url": "https://open.spotify.com/album/2OxNLJ1bSn8tIxlIdUuvRi"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 180215,
       "name": "Kirchner",
       "url": "https://open.spotify.com/track/21eM5pe7tcdFC6tuMsWUcT"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "T\u00e9lescope",
+        "url": "https://open.spotify.com/album/3nTN7u6XfMkPyqfurixUhW"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00eble",
+          "url": "https://open.spotify.com/artist/6MnPFVtcXiuBiAGles7uDj"
+        }
+      ],
+      "duration_ms": 284640,
+      "name": "Poisson d'abysse",
+      "url": "https://open.spotify.com/track/2FLmfUEeSIrgPmcougor2L"
     },
     {
       "added_at": "2021-02-06 03:12:40",

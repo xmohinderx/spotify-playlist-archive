@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 8069,
+  "num_followers": 8077,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDU4NmRlZTNhNGFlNmQ1N2NiNmUwNWJhZGMwNTcwMzBm",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDc4OTA4NjRlNDM3Mjk5OWUxNGFjNTAzM2ZlY2NlYjY3",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -423,22 +423,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Dear Promoter",
-        "url": "https://open.spotify.com/album/4ChVmq8YxUPa0F6oaAXkiW"
+        "name": "iShal",
+        "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
       },
       "artists": [
         {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
         }
       ],
-      "duration_ms": 244578,
-      "name": "Dear Promoter",
-      "url": "https://open.spotify.com/track/4WMQmMmceazgRSRr7har02"
+      "duration_ms": 216405,
+      "name": "Splinters",
+      "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -459,18 +455,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "iShal",
-        "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
+        "name": "Dear Promoter",
+        "url": "https://open.spotify.com/album/4ChVmq8YxUPa0F6oaAXkiW"
       },
       "artists": [
         {
-          "name": "Shal Marshall",
-          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
         }
       ],
-      "duration_ms": 216405,
-      "name": "Splinters",
-      "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
+      "duration_ms": 244578,
+      "name": "Dear Promoter",
+      "url": "https://open.spotify.com/track/4WMQmMmceazgRSRr7har02"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Progress Riddim",
+        "url": "https://open.spotify.com/album/4DInWuzCI8yOwhoV0uZwqn"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        }
+      ],
+      "duration_ms": 210806,
+      "name": "Up Top Boss",
+      "url": "https://open.spotify.com/track/3plfljoZKGixRbQ2u6o2et"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Knock About Riddim",
         "url": "https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 176000,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Progress Riddim",
-        "url": "https://open.spotify.com/album/4DInWuzCI8yOwhoV0uZwqn"
-      },
-      "artists": [
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        }
-      ],
-      "duration_ms": 210806,
-      "name": "Up Top Boss",
-      "url": "https://open.spotify.com/track/3plfljoZKGixRbQ2u6o2et"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Darkseid Riddim",
+        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
+      },
+      "artists": [
+        {
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+        }
+      ],
+      "duration_ms": 214738,
+      "name": "Nasty Up",
+      "url": "https://open.spotify.com/track/1ZTihlaGPnfLrOXbOFyj15"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Bad in Bum Bum / Back Bend",
         "url": "https://open.spotify.com/album/6JUFe9DFTZpLvvPn8eaw2Q"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 151431,
       "name": "Bad in Bum Bum / Back Bend",
       "url": "https://open.spotify.com/track/2H1pDTHPj2RiaPKToUn73E"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Darkseid Riddim",
-        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
-      },
-      "artists": [
-        {
-          "name": "Problem Child",
-          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
-        }
-      ],
-      "duration_ms": 214738,
-      "name": "Nasty Up",
-      "url": "https://open.spotify.com/track/1ZTihlaGPnfLrOXbOFyj15"
     },
     {
       "added_at": "2022-02-24 18:00:00",

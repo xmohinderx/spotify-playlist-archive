@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Pauline Herr.
 
-291 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
+292 songs - 16 hr 29 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Toxic](https://open.spotify.com/track/2tcg6KIbcCIEizDHF3rLT8) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [Toxic](https://open.spotify.com/album/62CkAFxFgOSoO7Jowxr1RJ) | 2:50 | 2021-08-06 | 2022-07-28 |
 | [TURN IT DOWN](https://open.spotify.com/track/1j8yjtaPW2rPsTyB1u8P4i) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [TURN IT DOWN](https://open.spotify.com/album/6F9N9UkELafppB2aOEvMqR) | 2:34 | 2021-11-19 | 2022-07-29 |
 | [Under the Same Stars \- Sweater Beats Remix](https://open.spotify.com/track/7fkf0pSWrK1waeSzVlwjtF) | [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT), [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY) | [I Love You, Keep Going \(The Remixes\)](https://open.spotify.com/album/0pxKWbAyhIkcGFv9DH1fa9) | 2:57 | 2021-09-10 | 2022-07-28 |
-| [Unspoken](https://open.spotify.com/track/6WcSm79HcRk5Twgv7G4wFM) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [Unspoken](https://open.spotify.com/album/04ZCiHmzCYFDVKcTrguNDj) | 3:24 | 2021-08-06 |  |
+| [Unspoken](https://open.spotify.com/track/6WcSm79HcRk5Twgv7G4wFM) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [Unspoken](https://open.spotify.com/album/04ZCiHmzCYFDVKcTrguNDj) | 3:24 | 2021-08-06 | 2022-10-26 |
 | [Vendetta For Cupid](https://open.spotify.com/track/1ZYw2g4nkNIFsysyEZxLgP) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [TYGKO](https://open.spotify.com/artist/4ekCKsrLpp6xf8kJ2AUJVU) | [Vendetta For Cupid](https://open.spotify.com/album/57YPYp8qTeuQen2K4yinE4) | 3:52 | 2021-08-06 | 2022-07-29 |
 | [Vital Signs \- Tails Remix](https://open.spotify.com/track/52dXc0Oyt7T6nSoAMVQmN4) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz), [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [Vital Signs \(Tails Remix\)](https://open.spotify.com/album/1OlqZkzau1II2G61gJPCqg) | 3:20 | 2022-03-04 | 2022-06-25 |
 | [Vivid](https://open.spotify.com/track/4jnKKSidsD6llLQhauro0N) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm) | [Vivid](https://open.spotify.com/album/6MrhTYpb07TMkyCqKYIoOV) | 3:29 | 2021-08-06 |  |
@@ -299,5 +299,6 @@
 | [‎kinder ‎opposites](https://open.spotify.com/track/6DH5NhDzhtSyQ6eRtHcPX8) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎kinder ‎opposites](https://open.spotify.com/album/6O3emw9f3lKSgDvNabPT9B) | 1:42 | 2022-06-03 | 2022-10-14 |
 | [‎melodies ‎from ‎heaven](https://open.spotify.com/track/57VQj52iiux5K70g9DJD8F) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎melodies ‎from ‎heaven](https://open.spotify.com/album/5lWmBdwwqsE1XjgvRFjumN) | 4:29 | 2021-12-10 | 2022-07-29 |
 | [☆](https://open.spotify.com/track/062TR63pH6hFer4xsx0935) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Mariya Stoeva](https://open.spotify.com/artist/5rwP6eKGSsdQ0Zr69phC99) | [it's the end of the world, but it's ok](https://open.spotify.com/album/6aAlEexOd6lPOaKNeIVoKR) | 2:59 | 2021-08-06 | 2022-10-13 |
+| [☆](https://open.spotify.com/track/6MGnaGtsUmux3guQvPBYnW) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Mariya Stoeva](https://open.spotify.com/artist/5rUBhGA0FoixfR570fAzKt) | [it's the end of the world, but it's ok](https://open.spotify.com/album/62PLeXBXAAo4eRR3a8lKIs) | 2:59 | 2021-08-06 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

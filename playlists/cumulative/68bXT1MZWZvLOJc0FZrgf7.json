@@ -2738,6 +2738,32 @@
     },
     {
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/16RaNfI5pcQBJbzCfzUhe5"
+      },
+      "artists": [
+        {
+          "name": "Galvanic",
+          "url": "https://open.spotify.com/artist/3GQj08iHefTniyhHjCVBov"
+        },
+        {
+          "name": "Smeyeul.",
+          "url": "https://open.spotify.com/artist/4IXRiE1MOvty3H8tQ0KvTO"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157638,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/0ByZFPyPS1M6n4aigXBKmv"
+    },
+    {
+      "album": {
         "name": "Funk Wav Bounces Vol. 2",
         "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
       },

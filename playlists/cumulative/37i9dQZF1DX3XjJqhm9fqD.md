@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Michael Benjamin
 
-142 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/3ur3vTrlhNCzIjyRqhoVJ8)
+143 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/3ur3vTrlhNCzIjyRqhoVJ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [For Gerard](https://open.spotify.com/track/5087eyLa8DQ5fMHbNYzJsA) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Lost in Paradïse, Pt\. 2](https://open.spotify.com/album/3SYtJkujnJeTUXFvkeSDU7) | 3:23 | 2021-12-06 | 2022-10-13 |
 | [Gen Bagay](https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky) | [Yani Martelly](https://open.spotify.com/artist/51Mb7I2woAMIK6DOiMlfuy), [Kenny](https://open.spotify.com/artist/3a1zFnNXUZDXoIwhHGdN6f) | [Gen Bagay](https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV) | 3:14 | 2021-12-06 |  |
 | [Gimme The Night](https://open.spotify.com/track/7wsFUegBzDBaKMVosSprNN) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Massiv3](https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr), [Zina Eve](https://open.spotify.com/artist/6jrrAuBgAfP9W2HVscZYPw) | [Gimme The Night](https://open.spotify.com/album/5M0QSl8ypFamgZArk34Svr) | 3:56 | 2022-09-30 |  |
-| [Hallyday](https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 2:45 | 2021-12-06 |  |
+| [Hallyday](https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 2:45 | 2021-12-06 | 2022-10-26 |
 | [HOLLOW.](https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Maureen Boyer](https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr), [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [Solèy](https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r) | 4:44 | 2022-04-15 |  |
 | [House Life](https://open.spotify.com/track/2j07iZkVaaa8S7nj4TIJRe) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [BIM](https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC) | [House Life](https://open.spotify.com/album/3d7Ig2kTu0YN2CV9IQ08eC) | 3:45 | 2021-12-06 |  |
 | [I Don't Care](https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB) | [Sweet Micky](https://open.spotify.com/artist/05geNTZ09mJ7s6OguQySjc) | [I Don't Care](https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX) | 8:32 | 2021-12-06 |  |
@@ -99,6 +99,7 @@
 | [NS Bounce](https://open.spotify.com/track/6wUuMSgi7CVstyIr68xIFo) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Da\-P](https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ) | [Kanvaz](https://open.spotify.com/album/6FHdFwiaNMFrFkpEcBOg9l) | 2:58 | 2021-12-06 |  |
 | [Ocho](https://open.spotify.com/track/5SHrFAnxCwUkt8fh1r3qLd) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Ocho](https://open.spotify.com/album/4tQk8SwZ5dF5n5LihU6KJz) | 2:39 | 2021-12-06 | 2022-10-13 |
 | [Ogou \(Pran Ka Mwen\)](https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Ogou \(Pran Ka Mwen\)](https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y) | 4:56 | 2021-12-06 |  |
+| [Oh Mama](https://open.spotify.com/track/2frWAfuGVi9LwwLb5kZFrP) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg) | [Melanin](https://open.spotify.com/album/1KfykaXnpStmzaXXS6VcEm) | 2:34 | 2022-10-16 |  |
 | [Oh Mama](https://open.spotify.com/track/6O1JbI2vepUE3dg5XKkHYi) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg) | [Melanin](https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp) | 2:34 | 2021-12-06 | 2022-10-13 |
 | [On va pas baisser les bras](https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r) | [Paska](https://open.spotify.com/artist/1bzxy9o2LlCO1NZOXGRSe6), [Romeomania](https://open.spotify.com/artist/3Gd9aSyUrIZVbZmC6q6A4w) | [On va pas baisser les bras](https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A) | 3:15 | 2021-12-06 |  |
 | [Only You](https://open.spotify.com/track/2W4Nb6RIJrpE8PEpX9POZD) | [KeyAra](https://open.spotify.com/artist/5ip5n1ajctLiO63CCJfEv6), [KOLO](https://open.spotify.com/artist/2CICr3LR6jHHl0V6DmAtWE), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Only You](https://open.spotify.com/album/7CJwyU2x5ZD5EvAkDPe8K7) | 3:17 | 2021-12-06 | 2022-10-16 |

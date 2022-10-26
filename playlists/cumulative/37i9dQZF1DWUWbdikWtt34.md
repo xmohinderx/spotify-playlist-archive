@@ -4,7 +4,7 @@
 
 > Dendang Dangdut teratas\. Cover: Rhoma Irama, Elvi Sukaesih
 
-69 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/1yAqlhTjbO2NhUlQfp8LqL)
+70 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/1yAqlhTjbO2NhUlQfp8LqL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [MANDI MADU](https://open.spotify.com/track/3pp46cFnbZd0gFm6FwvPyL) | [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [MANDI MADU](https://open.spotify.com/album/2QPyodnyZngiTLtR5l5L5L) | 3:57 | 2021-08-23 |  |
 | [Mendung Tanpo Udan](https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Mendung Tanpo Udan](https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE) | 5:05 | 2022-10-13 |  |
 | [Menepi Cover](https://open.spotify.com/track/1merjIVhdrKOOdolcYhn3v) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Guyon Waton](https://open.spotify.com/album/1Or1VyBgYsWqszX54hhEu3) | 4:57 | 2021-08-23 |  |
-| [Milik Orang](https://open.spotify.com/track/0dWWC789aUr6pP3wjcKrn7) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Milik Orang](https://open.spotify.com/album/5AWojPeB0TaNQxevK7qAZE) | 4:34 | 2021-08-23 |  |
+| [Milik Orang](https://open.spotify.com/track/0dWWC789aUr6pP3wjcKrn7) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Milik Orang](https://open.spotify.com/album/5AWojPeB0TaNQxevK7qAZE) | 4:34 | 2021-08-23 | 2022-10-26 |
+| [Milik Orang](https://open.spotify.com/track/3ZYBj5Dt4gfDA5BdjJep2R) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [DANGDUT TERBAIK HAPPY ASMARA](https://open.spotify.com/album/1Jo6c8Zuw6FUvuHyREYTFG) | 4:34 | 2022-10-13 |  |
 | [MILIK ORANG](https://open.spotify.com/track/4eV2IIMNfS8SO5nvmsMZ37) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [MILIK ORANG](https://open.spotify.com/album/42JxMwHI7LXX9a6q8gNV1O) | 4:34 | 2021-08-23 | 2022-07-29 |
 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 | 2021-08-23 |  |
 | [Ojo Dibandingke](https://open.spotify.com/track/2BIQGFkSLWl0SPRxaPR48Z) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Ojo Dibandingke](https://open.spotify.com/album/1R0NoljKSKaY6Pc025aRam) | 5:18 | 2022-10-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. A mixture of sounds and artists. Cover: Cuco",
-  "num_followers": 749692,
+  "num_followers": 749674,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYzNDE4NiwwMDAwMDAwMGU2MzZjYjBiNGUyMzQ4NDNhMjg1ZGVkYWQxOWRmM2Q3",
+  "snapshot_id": "MTY2NjYzNDE4NiwwMDAwMDAwMDNkZmY2Yjc4NmU4NzlkYzU3ODYwZTYyMWM2NGRkMDE1",
   "tracks": [
     {
       "added_at": "2022-10-24 17:56:03",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-10-24 17:56:03",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 220887,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"
-    },
-    {
-      "added_at": "2022-10-24 17:56:03",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 188520,
       "name": "Want Want",
       "url": "https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah"
+    },
+    {
+      "added_at": "2022-10-24 17:56:03",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 220887,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"
     },
     {
       "added_at": "2022-10-24 17:56:03",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2022-10-24 17:56:03",
       "album": {
-        "name": "Fresh Water",
-        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
-      },
-      "artists": [
-        {
-          "name": "PAM\u00c9",
-          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
-        },
-        {
-          "name": "Floyd Fuji",
-          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
-        }
-      ],
-      "duration_ms": 157010,
-      "name": "Fresh Water",
-      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
-    },
-    {
-      "added_at": "2022-10-24 17:56:03",
-      "album": {
         "name": "Call",
         "url": "https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 176701,
       "name": "Call",
       "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
+    },
+    {
+      "added_at": "2022-10-24 17:56:03",
+      "album": {
+        "name": "Fresh Water",
+        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
+      },
+      "artists": [
+        {
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+        },
+        {
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+        }
+      ],
+      "duration_ms": 157010,
+      "name": "Fresh Water",
+      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
     },
     {
       "added_at": "2022-10-24 17:56:03",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-10-24 17:56:03",
       "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "DOLORES",
-      "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
-    },
-    {
-      "added_at": "2022-10-24 17:56:03",
-      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 198594,
       "name": "Sola",
       "url": "https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR"
+    },
+    {
+      "added_at": "2022-10-24 17:56:03",
+      "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "DOLORES",
+      "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
     },
     {
       "added_at": "2022-10-24 17:56:03",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-10-24 17:56:03",
       "album": {
-        "name": "All Damn Day!",
-        "url": "https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy"
-      },
-      "artists": [
-        {
-          "name": "Ant Saunders",
-          "url": "https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf"
-        }
-      ],
-      "duration_ms": 168627,
-      "name": "All Damn Day!",
-      "url": "https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2"
-    },
-    {
-      "added_at": "2022-10-24 17:56:03",
-      "album": {
         "name": "tenemos que quedar",
         "url": "https://open.spotify.com/album/7vUAVFwLNWAazVVZOwQtc4"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 191796,
       "name": "el sof\u00e1",
       "url": "https://open.spotify.com/track/6gpTColYGFZ1q0isxHoE0u"
+    },
+    {
+      "added_at": "2022-10-24 17:56:03",
+      "album": {
+        "name": "All Damn Day!",
+        "url": "https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy"
+      },
+      "artists": [
+        {
+          "name": "Ant Saunders",
+          "url": "https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf"
+        }
+      ],
+      "duration_ms": 168627,
+      "name": "All Damn Day!",
+      "url": "https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2"
     },
     {
       "added_at": "2022-10-24 17:56:03",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-10-24 17:56:03",
       "album": {
-        "name": "GOTEO",
-        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "GUR\u00da",
-      "url": "https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF"
-    },
-    {
-      "added_at": "2022-10-24 17:56:03",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 156371,
       "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
+    },
+    {
+      "added_at": "2022-10-24 17:56:03",
+      "album": {
+        "name": "GOTEO",
+        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "GUR\u00da",
+      "url": "https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF"
     },
     {
       "added_at": "2022-10-24 17:56:03",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-10-24 17:56:03",
       "album": {
-        "name": "Nubes",
-        "url": "https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv"
-    },
-    {
-      "added_at": "2022-10-24 17:56:03",
-      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/3fkGTOHCbKr33dHLgsgjrg"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 185686,
       "name": "H2O",
       "url": "https://open.spotify.com/track/4SvapyLwOJj2Z7EJJbTfx9"
+    },
+    {
+      "added_at": "2022-10-24 17:56:03",
+      "album": {
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv"
     },
     {
       "added_at": "2022-10-24 17:56:03",

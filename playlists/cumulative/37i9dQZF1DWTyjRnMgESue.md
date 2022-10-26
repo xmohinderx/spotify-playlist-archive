@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Hozier
 
-348 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
+349 songs - 19 hr 56 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [erase me \(feat\. Jacob Collier\)](https://open.spotify.com/track/0In3u56vbH2at3bViAzzwq) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [erase me \(feat\. Jacob Collier\)](https://open.spotify.com/album/0HLowVrjApBviPxvLWbRKI) | 3:34 | 2021-11-19 | 2022-03-26 |
 | [evergone](https://open.spotify.com/track/5TbZEYpwXya5oNqGJbiIQx) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [evergone](https://open.spotify.com/album/7acKjQss2YDHbg5Wx0gxdL) | 3:29 | 2022-03-25 | 2022-07-16 |
 | [Evergreen](https://open.spotify.com/track/0kJmIaK9zElQON3tKCw8Pn) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Evergreen](https://open.spotify.com/album/2CGZsbbj70jVgBcSB3bvE9) | 3:01 | 2022-09-09 | 2022-10-13 |
+| [Evergreen](https://open.spotify.com/track/5tP2NMeAOujUeK0w3C96nh) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Evergreen](https://open.spotify.com/album/51V6vLEvHhYyFZgUXGqVFI) | 3:01 | 2022-09-09 |  |
 | [Everything I Know About Love](https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:29 | 2022-08-12 |  |
 | [Everything I Know About Love](https://open.spotify.com/track/0jG5hLQSYrNnzApAjE0uIw) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/6kLd7HIdO4ylB86XpI4qTC) | 3:29 | 2022-04-22 | 2022-10-13 |
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-11-19 | 2022-07-16 |
@@ -237,7 +238,7 @@
 | [Occasionally](https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu) | 3:14 | 2021-11-19 |  |
 | [October Sky](https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [October Sky](https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0) | 3:15 | 2021-11-19 |  |
 | [Olive Branch](https://open.spotify.com/track/4NdwzvXnYTIcxPXxaWY5eI) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Olive Branch](https://open.spotify.com/album/1tZ836sL4IkDcXIhvXYs8r) | 3:19 | 2022-03-25 | 2022-07-26 |
-| [parasite](https://open.spotify.com/track/7dRSTYM5o4UuEAEnsCoOdH) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [alchemy](https://open.spotify.com/album/72wPvtjiVDVty0FhvrlSqW) | 2:37 | 2022-04-22 |  |
+| [parasite](https://open.spotify.com/track/7dRSTYM5o4UuEAEnsCoOdH) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [alchemy](https://open.spotify.com/album/72wPvtjiVDVty0FhvrlSqW) | 2:37 | 2022-04-22 | 2022-10-26 |
 | [Past Life](https://open.spotify.com/track/3YnqTS15HGxAXbwrNHxgRM) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Kumamoto](https://open.spotify.com/album/0A0b98wgcg0d9Dw6uG1IzO) | 2:40 | 2021-11-19 | 2022-07-29 |
 | [Pennsylvania](https://open.spotify.com/track/2Oj7LiOt7bXagVCvoA0OPw) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5) | [Pennsylvania](https://open.spotify.com/album/6oWu0iKXpWw6OJzCe363Xq) | 2:42 | 2021-11-26 | 2022-04-30 |
 | [Perfect Strangers](https://open.spotify.com/track/6BriGq45wGqLitzgM2nhXV) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Tender](https://open.spotify.com/album/2hFkBGKPx001HO3CQuPG4e) | 3:07 | 2022-06-17 | 2022-07-18 |

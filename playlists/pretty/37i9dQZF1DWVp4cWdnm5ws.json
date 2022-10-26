@@ -1,13 +1,61 @@
 {
   "description": "Discover new artists on the horizon.",
-  "num_followers": 58483,
+  "num_followers": 58507,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ2NzIwMCwwMDAwMDAwMDlmN2RlNDdjOTQ2ZDQ3NDg4NWYzM2FlZmUwYzkyYWZj",
+  "snapshot_id": "MTY2NjY4MDg1MSwwMDAwMDAwMGQzZThmMWFiN2U5YjZhNzBkMWExZjI1MzMwYTM4NDZl",
   "tracks": [
+    {
+      "added_at": "2022-10-25 06:53:28",
+      "album": {
+        "name": "Risk It",
+        "url": "https://open.spotify.com/album/6krLZc8jaKDnq62ppngT4m"
+      },
+      "artists": [
+        {
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
+        }
+      ],
+      "duration_ms": 225250,
+      "name": "Risk It",
+      "url": "https://open.spotify.com/track/5JsHoy0q0mZutMW27kFq5n"
+    },
+    {
+      "added_at": "2022-10-25 06:54:11",
+      "album": {
+        "name": "Magnet",
+        "url": "https://open.spotify.com/album/1nWk5TI1nkvqIBKhEinUFM"
+      },
+      "artists": [
+        {
+          "name": "BGYO",
+          "url": "https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Magnet",
+      "url": "https://open.spotify.com/track/1geSghgZOCPrcjN2GvGJHS"
+    },
+    {
+      "added_at": "2022-10-25 06:54:11",
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/13EhQoTZsk8mfqwbGPG2E8"
+      },
+      "artists": [
+        {
+          "name": "dia mat\u00e9",
+          "url": "https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4rCpSyxdUIXPvPsK77p7wE"
+    },
     {
       "added_at": "2022-09-29 16:00:00",
       "album": {

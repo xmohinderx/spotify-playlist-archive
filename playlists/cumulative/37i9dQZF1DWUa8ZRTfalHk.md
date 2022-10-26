@@ -4,7 +4,7 @@
 
 > The hits of tomorrow are on Spotify today\. Cover: Noah Kahan
 
-1,445 songs - 3 day 2 hr 49 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
+1,446 songs - 3 day 2 hr 51 min - [published](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,6 +858,7 @@
 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 | 2022-07-15 | 2022-08-06 |
 | [Monday](https://open.spotify.com/track/6tvDAC8atHIjyLgvOEK1fK) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Act 1](https://open.spotify.com/album/6DdU5f52hpc2gfeLjK374Y) | 3:07 | 2021-09-04 | 2021-09-25 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-10-02 | 2021-11-27 |
+| [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-25 |  |
 | [Monster \(Shawn Mendes & Justin Bieber\)](https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Monster](https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy) | 2:58 | 2020-11-20 | 2021-01-23 |
 | [Monsters \(feat\. Demi Lovato and blackbear\)](https://open.spotify.com/track/50DMJJpAeQv4fIpxZvQz2e) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Monsters \(feat\. Demi Lovato and blackbear\)](https://open.spotify.com/album/1EGlv1JGCUPolWU4qv7bsK) | 2:54 | 2020-12-04 | 2021-03-06 |
 | [Montana](https://open.spotify.com/track/4Di9q4hZf7Qt0xpudHjfXi) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Montana](https://open.spotify.com/album/3KVxTEpADMVtFxqgLlAN7c) | 3:23 | 2021-04-30 | 2021-05-15 |

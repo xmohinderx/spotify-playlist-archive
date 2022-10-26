@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 105557,
+  "num_followers": 105613,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDlmZTZkODc1MmE0MmI4MzljMjM3Y2JlZDdkYThiOTAx",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDg2MzM2OTE0Yzk1NzA4OTNiZmMwODFhYjk1OGZjOGEx",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-07-30 02:24:25",
       "album": {
+        "name": "to hell with it",
+        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 138268,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
         "name": "Closer (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 168873,
       "name": "Closer (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "to hell with it",
-        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 138268,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -569,26 +569,6 @@
       "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Appleby",
-          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Free Room (feat. Appleby)",
-      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "PALAZZO",
@@ -607,6 +587,26 @@
       "duration_ms": 186002,
       "name": "PALAZZO",
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Appleby",
+          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Free Room (feat. Appleby)",
+      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
     },
     {
       "added_at": "2022-08-05 04:16:42",
@@ -715,6 +715,26 @@
     {
       "added_at": "2022-05-02 22:05:00",
       "album": {
+        "name": "Abhi vs The Universe",
+        "url": "https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w"
+      },
+      "artists": [
+        {
+          "name": "Abhi The Nomad",
+          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
+        },
+        {
+          "name": "Charlie Curtis-Beard",
+          "url": "https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb"
+        }
+      ],
+      "duration_ms": 112762,
+      "name": "Bag",
+      "url": "https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
         "name": "Iced Tea",
         "url": "https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 156737,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo"
-    },
-    {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
-        "name": "Abhi vs The Universe",
-        "url": "https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w"
-      },
-      "artists": [
-        {
-          "name": "Abhi The Nomad",
-          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
-        },
-        {
-          "name": "Charlie Curtis-Beard",
-          "url": "https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb"
-        }
-      ],
-      "duration_ms": 112762,
-      "name": "Bag",
-      "url": "https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -813,20 +813,24 @@
       "url": "https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54"
     },
     {
-      "added_at": "2022-09-09 04:08:54",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "long legs",
-        "url": "https://open.spotify.com/album/1Wrt0ZrCiCYv2og1F07LjE"
+        "name": "Streets (Remixes)",
+        "url": "https://open.spotify.com/album/2bztR3sQyvs9HxlraqZMRD"
       },
       "artists": [
         {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         }
       ],
-      "duration_ms": 243869,
-      "name": "long legs",
-      "url": "https://open.spotify.com/track/1h6Clzt71p8iOQpVM4saBz"
+      "duration_ms": 133846,
+      "name": "Streets - DJ Sliink Remix",
+      "url": "https://open.spotify.com/track/2OlXEjn4FufYIVL9KC1FHO"
     },
     {
       "added_at": "2022-05-02 22:05:00",
@@ -849,24 +853,20 @@
       "url": "https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
+      "added_at": "2022-09-09 04:08:54",
       "album": {
-        "name": "Streets (Remixes)",
-        "url": "https://open.spotify.com/album/2bztR3sQyvs9HxlraqZMRD"
+        "name": "long legs",
+        "url": "https://open.spotify.com/album/1Wrt0ZrCiCYv2og1F07LjE"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
         }
       ],
-      "duration_ms": 133846,
-      "name": "Streets - DJ Sliink Remix",
-      "url": "https://open.spotify.com/track/2OlXEjn4FufYIVL9KC1FHO"
+      "duration_ms": 243869,
+      "name": "long legs",
+      "url": "https://open.spotify.com/track/1h6Clzt71p8iOQpVM4saBz"
     },
     {
       "added_at": "2022-07-30 02:24:25",

@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Skullcrusher
 
-438 songs - 1 day 3 hr 26 min - [published](https://open.spotify.com/playlist/3LST0f4pA1dtcimgRwJiWD)
+439 songs - 1 day 3 hr 28 min - [published](https://open.spotify.com/playlist/3LST0f4pA1dtcimgRwJiWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [House By The Sea](https://open.spotify.com/track/68kYaMTFBY12AYDJfArJNO) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [House By The Sea](https://open.spotify.com/album/6EWvrezgRY4G7tDlcG19qI) | 3:39 | 2022-04-13 | 2022-04-21 |
 | [How Lucky](https://open.spotify.com/track/22YbmBNDcL1jACZIPuItR8) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [How Lucky](https://open.spotify.com/album/236ibaAindQ2qdAElNPTxL) | 3:23 | 2021-10-22 | 2022-07-29 |
 | [How Lucky](https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [How Lucky](https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm) | 3:23 | 2022-06-24 |  |
-| [Hummed Low](https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Odessa](https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH) | 3:35 | 2022-04-13 |  |
+| [Hummed Low](https://open.spotify.com/track/5ptxcmrUfNuLQezXE1Polu) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Odessa](https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH) | 3:35 | 2022-04-13 | 2022-10-26 |
 | [hurt](https://open.spotify.com/track/0Z6MipZlqgxbRFuGuy8T96) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [can't stop me from dying](https://open.spotify.com/album/4oI0qHNRiLEvoCi2OPViDo) | 3:31 | 2021-10-22 | 2022-07-27 |
 | [Hypochondriac \- acoustic](https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREECH \(acoustic\)](https://open.spotify.com/album/2z0LnLC80s7cJDEYlcwWjO) | 3:30 | 2021-10-22 | 2022-07-28 |
 | [I Already Love You](https://open.spotify.com/track/5LnoFWBShDRuEqd7VqduGB) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [I Already Love You](https://open.spotify.com/album/2N9Uz5Yq7cCkDF2B3yqZCF) | 3:23 | 2021-10-22 | 2022-07-27 |
@@ -212,6 +212,7 @@
 | [Is / Was](https://open.spotify.com/track/4TWXHt2u1IXQWxEP1pkzzH) | [Pieta Brown](https://open.spotify.com/artist/43NpjLskaVb5j2Jgt6fdbP), [JT Bates](https://open.spotify.com/artist/0Xyrv6l8nqOpC7SFsmtECP) | [Is / Was](https://open.spotify.com/album/20oMlx076DuKwUAs57M6tK) | 2:36 | 2021-10-22 | 2022-07-27 |
 | [Is It Enough](https://open.spotify.com/track/4rRJ4gcJPol2a7YhetZ8FR) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Honest to God](https://open.spotify.com/album/4ZoULhZKE6NycCEVa2B5mT) | 3:37 | 2022-01-14 | 2022-07-25 |
 | [It's Called: Freefall](https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR) | 2:38 | 2022-08-26 | 2022-10-22 |
+| [It's Called: Freefall](https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs) | 2:38 | 2022-10-14 |  |
 | [It's Infinite](https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [It's Infinite](https://open.spotify.com/album/2xTzkPIjEuzHgLFxC1SnRC) | 2:54 | 2021-10-22 | 2022-07-29 |
 | [jordan](https://open.spotify.com/track/53SqnMF0OIZtQWyjvQpFqr) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [jordan](https://open.spotify.com/album/6AsNNdORDTgvDgL2Dz2W88) | 4:01 | 2021-10-22 | 2022-07-29 |
 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 | 2022-06-24 |  |

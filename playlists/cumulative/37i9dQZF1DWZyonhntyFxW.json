@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a \u0641\u064a \u0645\u0643\u0627\u0646 \u0648\u0627\u062d\u062f \ud83d\ude0e\n! \u063a\u0644\u0627\u0641: \u0627\u0628\u0648 \u0627\u0644\u0627\u0646\u0648\u0627\u0631",
+  "description": "\u0623\u0642\u0648\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u0635\u0631\u064a \u0641\u064a \u0645\u0643\u0627\u0646 \u0648\u0627\u062d\u062f \ud83d\ude0e\n! \u063a\u0644\u0627\u0641: \u0639\u0641\u0631\u0648\u062a\u0648",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "published_playlist_ids": [
     "6yEdqmm0KWZqYgvxTRioiU"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 242608,
       "name": "BIG MOOD",
       "url": "https://open.spotify.com/track/788ZucIemZrlzHQ6WGdhGY"
@@ -638,6 +638,28 @@
     },
     {
       "album": {
+        "name": "\u0664in (Act 1)",
+        "url": "https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218619,
+      "name": "Ghi T9al (Et2al)",
+      "url": "https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx"
+    },
+    {
+      "album": {
         "name": "El Sahaba",
         "url": "https://open.spotify.com/album/3YLhKiHp1tyCZWM5OnkpPt"
       },
@@ -781,7 +803,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 140434,
       "name": "Java",
       "url": "https://open.spotify.com/track/6deC9d7m91vkxwHnhMS3v6"
@@ -1960,6 +1982,28 @@
     },
     {
       "album": {
+        "name": "\u062e\u0627\u0644\u0635\u0629 \u0645\u0639\u0627\u064a\u0627",
+        "url": "https://open.spotify.com/album/1ZqcAeqFDFXhNZilGrnEqv"
+      },
+      "artists": [
+        {
+          "name": "Shehab",
+          "url": "https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz"
+        },
+        {
+          "name": "Mello",
+          "url": "https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203833,
+      "name": "\u062e\u0627\u0644\u0635\u0629 \u0645\u0639\u0627\u064a\u0627",
+      "url": "https://open.spotify.com/track/0XG6VRiFwF74vnEuMfr6hB"
+    },
+    {
+      "album": {
         "name": "\u062e\u0644\u0635\u0627\u0646\u0629",
         "url": "https://open.spotify.com/album/1NfFVrdOU9l6xHvNRG8Zw0"
       },
@@ -1975,6 +2019,24 @@
       "duration_ms": 182063,
       "name": "\u062e\u0644\u0635\u0627\u0646\u0629",
       "url": "https://open.spotify.com/track/0UEVzjzh4cdVdseez14q1G"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0642\u062f \u0627\u062d\u062a\u0631\u0627\u0641",
+        "url": "https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197250,
+      "name": "\u0633\u062d\u0645\u062f",
+      "url": "https://open.spotify.com/track/6nFMbMB5tAd2aj15FI40Nt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas portuguesas, como Nena, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,886 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,889 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 6 | [Cheguei Tarde A Ontem](https://open.spotify.com/track/0GojeJugfQVcbKmWL9uyuq) | [Ana Lua Caiano](https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF) | [Cheguei Tarde A Ontem](https://open.spotify.com/album/1HWUlsd8nXmLdx8H8TFc4k) | 3:52 |
 | 7 | [WATER](https://open.spotify.com/track/4mdv4NsCL6nw4VG6U9YXMZ) | [Clara](https://open.spotify.com/artist/5w0sAq7EzeETFpmOe0EkHc) | [WATER](https://open.spotify.com/album/6hJLiDi7hCSuLcYhB8cavR) | 3:08 |
 | 8 | [Quanto Dói](https://open.spotify.com/track/2gdq0BHOAKOunJwWyA4nl6) | [Lauren](https://open.spotify.com/artist/2u7FzlGjuSnLWFYkwSLgxN) | [Quanto Dói](https://open.spotify.com/album/6wjYEeGWhPv7Y4GHIl9BjU) | 3:41 |
-| 9 | [Contigo](https://open.spotify.com/track/7ytvkEuppTaqpl21i4suSx) | [Mariana Dalot](https://open.spotify.com/artist/58FpRmP3RvLQW4FuJ44Y6P) | [Contigo](https://open.spotify.com/album/6nYzqeTVkX4yRyB5I3XpcM) | 3:28 |
+| 9 | [contigo](https://open.spotify.com/track/7ytvkEuppTaqpl21i4suSx) | [Mariana Dalot](https://open.spotify.com/artist/58FpRmP3RvLQW4FuJ44Y6P) | [Contigo](https://open.spotify.com/album/6nYzqeTVkX4yRyB5I3XpcM) | 3:28 |
 | 10 | [Guerra Nuclear](https://open.spotify.com/track/1zDml9uUgnnJBQYTzowEj8) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Guerra Nuclear](https://open.spotify.com/album/6RNq5POzf7ecdOT3m8srYS) | 3:30 |
 | 11 | [Poeta](https://open.spotify.com/track/2S7ZF4c4ZrDFuthTA5MAJ7) | [Ana Mariano](https://open.spotify.com/artist/7MUZ4F7lryA5Hf2d2aTafU) | [Poeta](https://open.spotify.com/album/7b0GyYsfFIDIzMjILZoMNq) | 3:23 |
 | 12 | [MALVADAS](https://open.spotify.com/track/7pjDDC2mwpAmPAfAIuoDAD) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [MALVADAS](https://open.spotify.com/album/7mpclU94FVmZttwd7gzySD) | 3:27 |

@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Taylor Swift
 
-3,770 songs - 8 day 1 hr 10 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+3,771 songs - 8 day 1 hr 14 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,7 +838,8 @@
 | [DEJA VU](https://open.spotify.com/track/54uPYRaxuV9AyLYrhyQW49) | [MEL](https://open.spotify.com/artist/6FlJleUXbFb19c0U2BocbM) | [DEJA VU](https://open.spotify.com/album/01NWWpfD8KdMXIJeKqonLE) | 2:44 | 2022-10-20 |  |
 | [Delicate Limbo](https://open.spotify.com/track/34ll9ZjzO8W0JQfViJYRxQ) | [Bumblebees](https://open.spotify.com/artist/6juzgav0YiNeXJWC0NZAn8) | [Paper Boat](https://open.spotify.com/album/4g7ZqzoPOiNbMkUbzOS1ad) | 4:03 | 2022-10-20 |  |
 | [Delikat](https://open.spotify.com/track/7jhhp9QvHGDmWPYSMiO04O) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [Delikat](https://open.spotify.com/album/004XfNY0Dw7e6O2aVSJsxO) | 2:36 | 2022-09-22 | 2022-09-30 |
-| [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-20 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-20 | 2022-10-26 |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-21 |  |
 | [DELIRIUM](https://open.spotify.com/track/1eFgHYYnFoZwo72ukOTtSt) | [Larry F](https://open.spotify.com/artist/3wAHalfyo2Z3mGmd4kdSHz) | [DELIRIUM](https://open.spotify.com/album/6mhVvWKvhDbNgUq976f97Z) | 3:12 | 2022-04-08 | 2022-04-15 |
 | [Dembow Don](https://open.spotify.com/track/3jDzS8LxBueJH5GYDQxLGj) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA) | [Dembow Don](https://open.spotify.com/album/0y0W2hPZpnMYz71Na5VShy) | 2:52 | 2022-09-08 | 2022-09-16 |
 | [Demon](https://open.spotify.com/track/2LnQSUceWUnowlkQTfOMVy) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Demon](https://open.spotify.com/album/7fpY1iDm5Ow3r1YE8eqy7R) | 2:45 | 2022-04-28 | 2022-05-06 |

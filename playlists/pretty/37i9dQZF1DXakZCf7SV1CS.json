@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 12374,
+  "num_followers": 12540,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM2NDA1OCwwMDAwMDAwMGI5MDQzNDI1NTNkNjA3YzBlYjI0NTBmZTcxZDc5ZDY5",
+  "snapshot_id": "MTY2NjM2NDA1OCwwMDAwMDAwMDA5NmE4OTJkNDkwOTAyMmQzYWEzN2QxYWIzZDlkOTQ5",
   "tracks": [
     {
       "added_at": "2022-10-21 14:54:18",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/469lPlTo1lL1wbhl3OCMeq"
+      },
+      "artists": [
+        {
+          "name": "Kero Kero Bonito",
+          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+        }
+      ],
+      "duration_ms": 197528,
+      "name": "Flamingo",
+      "url": "https://open.spotify.com/track/34TufQ4EFzmDIFXJ3A8Yau"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
         "name": "food house",
         "url": "https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 247917,
       "name": "mos thoser",
       "url": "https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/469lPlTo1lL1wbhl3OCMeq"
-      },
-      "artists": [
-        {
-          "name": "Kero Kero Bonito",
-          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
-        }
-      ],
-      "duration_ms": 197528,
-      "name": "Flamingo",
-      "url": "https://open.spotify.com/track/34TufQ4EFzmDIFXJ3A8Yau"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "fishmonger",
-        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Spoiled little brat",
-      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 178823,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
+        "name": "fishmonger",
+        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Spoiled little brat",
+      "url": "https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
+        "name": "1:15",
+        "url": "https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU"
+      },
+      "artists": [
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "duration_ms": 130206,
+      "name": "1:15",
+      "url": "https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
         "name": "Be Your USA",
         "url": "https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 173000,
       "name": "Be Your USA",
       "url": "https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
-        "name": "1:15",
-        "url": "https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU"
-      },
-      "artists": [
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        }
-      ],
-      "duration_ms": 130206,
-      "name": "1:15",
-      "url": "https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
+        "name": "1UL",
+        "url": "https://open.spotify.com/album/1oNKlvMadv8K1wTBd5MwfC"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        }
+      ],
+      "duration_ms": 205447,
+      "name": "1UL",
+      "url": "https://open.spotify.com/track/4sPCKi7i8DAdWc1WpQrmOG"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
         "name": "None",
         "url": "https://open.spotify.com/album/0FuahJaNlb2xX87G54NSLj"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 263364,
       "name": "Thos Moser",
       "url": "https://open.spotify.com/track/6pe1T2thmWds9hPq67Xv74"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
-        "name": "1UL",
-        "url": "https://open.spotify.com/album/1oNKlvMadv8K1wTBd5MwfC"
-      },
-      "artists": [
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        }
-      ],
-      "duration_ms": 205447,
-      "name": "1UL",
-      "url": "https://open.spotify.com/track/4sPCKi7i8DAdWc1WpQrmOG"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -1031,18 +1031,22 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "Drive-By Lullabies",
-        "url": "https://open.spotify.com/album/1hDfBlpAsyIp1uNScacRwp"
+        "name": "bad idea (feat. blackwinterwells)",
+        "url": "https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10"
       },
       "artists": [
         {
           "name": "quinn",
           "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        },
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
         }
       ],
-      "duration_ms": 182386,
-      "name": "from paris, with love",
-      "url": "https://open.spotify.com/track/0OVFw7McsuYnBlRJXEh76b"
+      "duration_ms": 69041,
+      "name": "bad idea (feat. blackwinterwells)",
+      "url": "https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -1151,22 +1155,18 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "bad idea (feat. blackwinterwells)",
-        "url": "https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10"
+        "name": "Drive-By Lullabies",
+        "url": "https://open.spotify.com/album/1hDfBlpAsyIp1uNScacRwp"
       },
       "artists": [
         {
           "name": "quinn",
           "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        },
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
         }
       ],
-      "duration_ms": 69041,
-      "name": "bad idea (feat. blackwinterwells)",
-      "url": "https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB"
+      "duration_ms": 182386,
+      "name": "from paris, with love",
+      "url": "https://open.spotify.com/track/0OVFw7McsuYnBlRJXEh76b"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "XYZ",
-        "url": "https://open.spotify.com/album/5BefoLRwqaVBuQpQkNKiyO"
-      },
-      "artists": [
-        {
-          "name": "BABii",
-          "url": "https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0"
-        },
-        {
-          "name": "Iglooghost",
-          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
-        }
-      ],
-      "duration_ms": 157652,
-      "name": "Drown U",
-      "url": "https://open.spotify.com/track/5Qorbb9mOtPHu0adPY2Znz"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
         "name": "movinglikeazombie (remix)",
         "url": "https://open.spotify.com/album/3Qsn28wKIcugGTZ6HnR0qR"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 465424,
       "name": "movinglikeazombie - remix",
       "url": "https://open.spotify.com/track/7xvyaMqkhnqnpTMgv7j3A2"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
+        "name": "XYZ",
+        "url": "https://open.spotify.com/album/5BefoLRwqaVBuQpQkNKiyO"
+      },
+      "artists": [
+        {
+          "name": "BABii",
+          "url": "https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0"
+        },
+        {
+          "name": "Iglooghost",
+          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
+        }
+      ],
+      "duration_ms": 157652,
+      "name": "Drown U",
+      "url": "https://open.spotify.com/track/5Qorbb9mOtPHu0adPY2Znz"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "istillmissu",
-        "url": "https://open.spotify.com/album/7azXfougJlzX392ac1Mxha"
+        "name": "i dont want that many friends in the first place",
+        "url": "https://open.spotify.com/album/3tOevvBSeZ3VaSIZkFpGXt"
       },
       "artists": [
         {
-          "name": "d0llywood1",
-          "url": "https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc"
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
         }
       ],
-      "duration_ms": 177235,
-      "name": "istillmissu",
-      "url": "https://open.spotify.com/track/1CaNhBI6BSvuit0Wv2GI3c"
+      "duration_ms": 109033,
+      "name": "i dont want that many friends in the first place",
+      "url": "https://open.spotify.com/track/2osO3L8EIQImWGfCGBwYgC"
     }
   ],
   "unique_name": "Hyperpop Classics",

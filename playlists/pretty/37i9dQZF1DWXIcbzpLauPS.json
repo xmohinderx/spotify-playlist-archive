@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Parkway Drive",
-  "num_followers": 854707,
+  "num_followers": 854741,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMzNTYwMCwwMDAwMDAwMGIxY2UxODMyYjNjOTVkNDkxNTg4OWM1MWRiMmU5YjYw",
+  "snapshot_id": "MTY2NjMzNTYwMCwwMDAwMDAwMDg0YmExNWZjMDdmYWMxMDVjZjA4NTdlNWQyZTdlZjdh",
   "tracks": [
     {
       "added_at": "2022-10-21 07:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Throne",
-        "url": "https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 207936,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Darkbloom",
         "url": "https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm"
       },
@@ -431,18 +415,18 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Mass Produced",
-        "url": "https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w"
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA"
       },
       "artists": [
         {
-          "name": "Oceano",
-          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
         }
       ],
-      "duration_ms": 181680,
-      "name": "Mass Produced",
-      "url": "https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX"
+      "duration_ms": 207936,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -459,6 +443,22 @@
       "duration_ms": 195217,
       "name": "Hangfire",
       "url": "https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Mass Produced",
+        "url": "https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w"
+      },
+      "artists": [
+        {
+          "name": "Oceano",
+          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Mass Produced",
+      "url": "https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX"
     },
     {
       "added_at": "2022-10-21 07:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-10-21 07:00:00",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 223050,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
-    },
-    {
-      "added_at": "2022-10-21 07:00:00",
-      "album": {
         "name": "Nonnegative",
         "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 233678,
       "name": "From Today",
       "url": "https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV"
+    },
+    {
+      "added_at": "2022-10-21 07:00:00",
+      "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 223050,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
     },
     {
       "added_at": "2022-10-21 07:00:00",

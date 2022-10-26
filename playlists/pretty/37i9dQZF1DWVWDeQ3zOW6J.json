@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 27368,
+  "num_followers": 27398,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMGZkYWE5YTliY2QxNmY3N2RiOThlYjZmMjAwOWE4ZTdh",
+  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMDU4NWM1YWI5Y2VjZGQwNTg0OTFkZmY0ODc3NDg5YjRh",
   "tracks": [
     {
       "added_at": "2020-06-16 21:18:22",
@@ -607,22 +607,6 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "Lo Mejor de Ray Perez - Salsa",
-        "url": "https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF"
-      },
-      "artists": [
-        {
-          "name": "Ray Perez",
-          "url": "https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK"
-        }
-      ],
-      "duration_ms": 193440,
-      "name": "Pa'l 23",
-      "url": "https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
         "name": "\u00c9xitos, Vol. 1",
         "url": "https://open.spotify.com/album/1BoeS73vVRPncBCDWbF3ep"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 282981,
       "name": "El Manicero",
       "url": "https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
+        "name": "Lo Mejor de Ray Perez - Salsa",
+        "url": "https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF"
+      },
+      "artists": [
+        {
+          "name": "Ray Perez",
+          "url": "https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK"
+        }
+      ],
+      "duration_ms": 193440,
+      "name": "Pa'l 23",
+      "url": "https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
+        "name": "Antolog\u00eda de la M\u00fasica Cubana",
+        "url": "https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Arag\u00f3n De Cuba",
+          "url": "https://open.spotify.com/artist/2OLihLtYOqpRtNddqyLWsG"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "El Bodeguero",
+      "url": "https://open.spotify.com/track/5KWXFC6zIKvAzGSxD0Z537"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
         "name": "Tocineta (Remastered)",
         "url": "https://open.spotify.com/album/5XhCnynzqMzAFYjiQc6sP3"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 193734,
       "name": "Tocineta - Remastered",
       "url": "https://open.spotify.com/track/0iPlfTLQ9Z6SOg59fGKjaA"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
-        "name": "Antolog\u00eda de la M\u00fasica Cubana",
-        "url": "https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Arag\u00f3n De Cuba",
-          "url": "https://open.spotify.com/artist/2OLihLtYOqpRtNddqyLWsG"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "El Bodeguero",
-      "url": "https://open.spotify.com/track/5KWXFC6zIKvAzGSxD0Z537"
     },
     {
       "added_at": "2020-06-16 21:18:22",

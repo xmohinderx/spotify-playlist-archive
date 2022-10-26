@@ -4,7 +4,7 @@
 
 > The latest tracks from Mad Decent and friends\. New Life and Death remixes of Diplo, plus the latest cuts from NxxxxxS, Lolahol, TDJ, niina, Ayra Star, and more.
 
-227 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/1Yjpd6pirY2pY0xv9m96EC)
+229 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/1Yjpd6pirY2pY0xv9m96EC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Alright](https://open.spotify.com/track/0erkfOrhEHd40xipSC8vqi) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Alright](https://open.spotify.com/album/30c5njwDLzLB83s407ZAkj) | 3:53 | 2022-07-15 |  |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-06-17 |  |
 | [Angel On My Shoulder](https://open.spotify.com/track/3M3bHley5OpJLTqGSf7v22) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Angel On My Shoulder](https://open.spotify.com/album/5rJ5nSlS3ARksBxsaysCQL) | 4:02 | 2022-06-03 | 2022-08-06 |
+| [Angelica](https://open.spotify.com/track/6ACkoKsRIwPoUuk5d43Srq) | [Rabit](https://open.spotify.com/artist/2X3e2rDdxibDfJGv0CwS7A), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Angelica](https://open.spotify.com/album/2BAONNyVg9AtaAU8kUTHfP) | 3:35 | 2022-10-25 |  |
 | [Anything \- Body Ocean Remix](https://open.spotify.com/track/4piGD6lbuj57rxausi0brN) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [Anything \(Body Ocean Remix\)](https://open.spotify.com/album/3DYyloWn8eb2qdye4gjVEG) | 4:23 | 2022-06-03 | 2022-08-06 |
 | [Armour Freestyle](https://open.spotify.com/track/6HxZME4jCGofgEiTN254p2) | [Blackhaine](https://open.spotify.com/artist/5YUsQAApp3PLKOyhdyKPw5), [Moseley](https://open.spotify.com/artist/4XgbRAjIVlMFQUL7Sv7Ou6) | [Armour II](https://open.spotify.com/album/4GiYJzqGmtpJrnu2WfuL0F) | 2:01 | 2022-08-05 |  |
 | [Atti Dude](https://open.spotify.com/track/1PHgzVWfBVKaOnBf0n5iay) | [Akira Akira](https://open.spotify.com/artist/4LdGTb93DvRRpPwwVfPkR2) | [Atti Dude](https://open.spotify.com/album/26pzorAxKcmBbiAhiHCUrb) | 3:43 | 2022-10-17 |  |
@@ -190,6 +191,7 @@
 | [Sex Money Drugs Fucking](https://open.spotify.com/track/1tfsVDrUVG66tdf1PfrXDH) | [Ish Couture](https://open.spotify.com/artist/3z5x1vaClx4sb5jwwukvPm) | [Sex Money Drugs Fucking](https://open.spotify.com/album/1JTwSa4vdY3kBoGNor17gs) | 3:25 | 2022-06-03 | 2022-08-06 |
 | [She Abunai \- Baauer Remix](https://open.spotify.com/track/0dIpabtxHZ3Vji9kWXp4CU) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [She Abunai \(Baauer Remix\)](https://open.spotify.com/album/75BYrth6kGwkjfxdKU7hFP) | 2:18 | 2022-06-03 | 2022-08-06 |
 | [shell](https://open.spotify.com/track/2FUUXKc681PUENWYRsL3f6) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [t\-mix](https://open.spotify.com/album/4IHM3NRzz1b6g9qsO5M583) | 3:09 | 2022-08-05 |  |
+| [Shlut](https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:12 | 2022-10-25 |  |
 | [SICK OF IT\*](https://open.spotify.com/track/1G9Eww7gxSowO1RkcPXjmE) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [SICK OF IT\*](https://open.spotify.com/album/0XQgGJpCDg08WjWbciFtMf) | 2:09 | 2022-10-03 |  |
 | [Singamo](https://open.spotify.com/track/3rLdmhMmRqpKb7Bbzo43EI) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Paulus Music](https://open.spotify.com/artist/6Fs3AKFsg15trpdu92f7WR), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Singamo](https://open.spotify.com/album/253SMVFCLr8mpmUAyQekLW) | 2:16 | 2022-06-03 | 2022-08-06 |
 | [Sistema De Patio](https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Sistema De Patio](https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839) | 2:14 | 2022-08-05 |  |

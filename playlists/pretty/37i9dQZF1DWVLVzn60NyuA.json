@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe.",
-  "num_followers": 218023,
+  "num_followers": 218048,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMDYzZGZmNzkzZjRkZTZmNzIyM2MxNmNmNzUwNmZiMjkw",
+  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMDM4M2QzYWE5MGEyNGJiNWI0MTZlYWUxNTFhMjQ4ZGNm",
   "tracks": [
     {
       "added_at": "2022-10-20 22:00:00",
@@ -227,6 +227,26 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Soweto",
+      "url": "https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Monalisa",
         "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 212975,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Soweto",
-      "url": "https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -307,42 +307,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Call Me Every Day (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 216991,
-      "name": "It's Plenty",
-      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -363,6 +327,42 @@
       "duration_ms": 218826,
       "name": "COMO UN BEB\u00c9",
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 216991,
+      "name": "It's Plenty",
+      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Call Me Every Day (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -507,6 +507,26 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Tattoo (Remix with Camilo)",
+        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Tattoo - Remix with Camilo",
+      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
         "url": "https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 251286,
       "name": "Sugarcane (Remix) [feat. King Promise, Mayorkun & Darkoo]",
       "url": "https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Tattoo (Remix with Camilo)",
-        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Tattoo - Remix with Camilo",
-      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -755,18 +755,22 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
+        "name": "Won't Be Late (feat. Drake)",
+        "url": "https://open.spotify.com/album/4v0FSMsulZqfi28KIdwDfb"
       },
       "artists": [
         {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 191502,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
+      "duration_ms": 218709,
+      "name": "Won't Be Late (feat. Drake)",
+      "url": "https://open.spotify.com/track/2sqsNXfN0HtgDEgaHXiUTa"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -787,22 +791,18 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Won't Be Late (feat. Drake)",
-        "url": "https://open.spotify.com/album/4v0FSMsulZqfi28KIdwDfb"
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
       },
       "artists": [
         {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
         }
       ],
-      "duration_ms": 218709,
-      "name": "Won't Be Late (feat. Drake)",
-      "url": "https://open.spotify.com/track/2sqsNXfN0HtgDEgaHXiUTa"
+      "duration_ms": 191502,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Afrowave 2",
-        "url": "https://open.spotify.com/album/1R3refsYPuUJ4yl7sNqir1"
-      },
-      "artists": [
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Drogba (Joanna)",
-      "url": "https://open.spotify.com/track/4E0teOQQQwagLVvQ7VfYm1"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Comforter (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 216000,
       "name": "Comforter (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Afrowave 2",
+        "url": "https://open.spotify.com/album/1R3refsYPuUJ4yl7sNqir1"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Drogba (Joanna)",
+      "url": "https://open.spotify.com/track/4E0teOQQQwagLVvQ7VfYm1"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/517OJfoCoydqA83CeuEPpT"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 242442,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/6xhxjkhzbf4kfDSCOEYgqZ"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "D O D O (Adekunle Gold Version)",
         "url": "https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 179884,
       "name": "D O D O - Adekunle Gold Version",
       "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "GO",
-        "url": "https://open.spotify.com/album/517OJfoCoydqA83CeuEPpT"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 242442,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/6xhxjkhzbf4kfDSCOEYgqZ"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Folklore Riddim",
+        "url": "https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/0ZLCpl3DOiOgsbSssovdgt"
       },
@@ -2199,22 +2215,6 @@
       "duration_ms": 145860,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Folklore Riddim",
-        "url": "https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Gonn Do",
-        "url": "https://open.spotify.com/album/2D1tNgnOi8Xr6n76niPqPb"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 152523,
-      "name": "Gonn Do",
-      "url": "https://open.spotify.com/track/2U15IErwpwD0ZXSAOwOpJc"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Eve Bounce",
         "url": "https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ"
       },
@@ -2407,6 +2391,38 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Gonn Do",
+        "url": "https://open.spotify.com/album/2D1tNgnOi8Xr6n76niPqPb"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "duration_ms": 152523,
+      "name": "Gonn Do",
+      "url": "https://open.spotify.com/track/2U15IErwpwD0ZXSAOwOpJc"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Midnight Boom (with ChocQuibTown & Afro B)",
         "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
       },
@@ -2427,22 +2443,6 @@
       "duration_ms": 220552,
       "name": "Midnight Boom - with ChocQuibTown & Afro B",
       "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -2471,6 +2471,26 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 270315,
+      "name": "Risky",
+      "url": "https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Sweet Bounce",
         "url": "https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3"
       },
@@ -2491,22 +2511,18 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+        "name": "Mysterious",
+        "url": "https://open.spotify.com/album/0wCfJvi08X1dBz01JbFEIY"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
         }
       ],
-      "duration_ms": 270315,
-      "name": "Risky",
-      "url": "https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7"
+      "duration_ms": 164334,
+      "name": "Mysterious",
+      "url": "https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -2531,22 +2547,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Mysterious",
-        "url": "https://open.spotify.com/album/0wCfJvi08X1dBz01JbFEIY"
-      },
-      "artists": [
-        {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
-        }
-      ],
-      "duration_ms": 164334,
-      "name": "Mysterious",
-      "url": "https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Ojoro",
         "url": "https://open.spotify.com/album/6fqizoVW8XujliAOvGuNjQ"
       },
@@ -2559,26 +2559,6 @@
       "duration_ms": 192000,
       "name": "Ojoro",
       "url": "https://open.spotify.com/track/7HM3WyOHG3Nm6Ck5aZaFKF"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Pelikula",
-        "url": "https://open.spotify.com/album/4uBGxgyGUu0Vf0ZYxCrKDr"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "KILATE TESLA",
-          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
-        }
-      ],
-      "duration_ms": 193543,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/7nYG5KBe9rMuZ06Idhi2Rq"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -2615,6 +2595,26 @@
       "duration_ms": 169411,
       "name": "Damages",
       "url": "https://open.spotify.com/track/4mliiXiEYDVrmZ8pj1PW0m"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Pelikula",
+        "url": "https://open.spotify.com/album/4uBGxgyGUu0Vf0ZYxCrKDr"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "KILATE TESLA",
+          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
+        }
+      ],
+      "duration_ms": 193543,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/7nYG5KBe9rMuZ06Idhi2Rq"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -2719,6 +2719,22 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Tropical",
+        "url": "https://open.spotify.com/album/28sIFh62xbvrc7n27GKFnS"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 152967,
+      "name": "Tropical",
+      "url": "https://open.spotify.com/track/11Hq9IduxlW65vxVEzqyIr"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5"
       },
@@ -2755,22 +2771,6 @@
       "duration_ms": 215640,
       "name": "Man on Duty",
       "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Tropical",
-        "url": "https://open.spotify.com/album/28sIFh62xbvrc7n27GKFnS"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 152967,
-      "name": "Tropical",
-      "url": "https://open.spotify.com/track/11Hq9IduxlW65vxVEzqyIr"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -2831,78 +2831,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Irrational (feat. Adekunle Gold) [Remix]",
-        "url": "https://open.spotify.com/album/33poJ8nmV0JbkmgmzTL6sC"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 230180,
-      "name": "Irrational (feat. Adekunle Gold) - Remix",
-      "url": "https://open.spotify.com/track/5gCImzpv57IJp9oEFrCKQf"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Skilahmatic",
-        "url": "https://open.spotify.com/album/7MZVojSUyO9HNyq4nBMS2D"
-      },
-      "artists": [
-        {
-          "name": "Ketchup",
-          "url": "https://open.spotify.com/artist/1k1u0kjSZiPC7myovUsekH"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Pam Pam",
-      "url": "https://open.spotify.com/track/0bwggp9wrFlopQffgG4Rhb"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Quarantime: The Lost Files",
-        "url": "https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0"
-      },
-      "artists": [
-        {
-          "name": "Yxng Bane",
-          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
-        }
-      ],
-      "duration_ms": 154374,
-      "name": "Table For Two",
-      "url": "https://open.spotify.com/track/1lLXZuj6n1tFaJTJBKy8Fa"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 202111,
-      "name": "Lying If I Call It Love (feat. Sean Paul)",
-      "url": "https://open.spotify.com/track/3QqBBoWtiYtwiDlllNYHKh"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Flauta",
         "url": "https://open.spotify.com/album/0i4LVKJavys4CSPpKYxL3g"
       },
@@ -2927,22 +2855,74 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Blaze Away",
-        "url": "https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc"
+        "name": "Irrational (feat. Adekunle Gold) [Remix]",
+        "url": "https://open.spotify.com/album/33poJ8nmV0JbkmgmzTL6sC"
       },
       "artists": [
         {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
         },
         {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 189750,
-      "name": "Blaze Away",
-      "url": "https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF"
+      "duration_ms": 230180,
+      "name": "Irrational (feat. Adekunle Gold) - Remix",
+      "url": "https://open.spotify.com/track/5gCImzpv57IJp9oEFrCKQf"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Quarantime: The Lost Files",
+        "url": "https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0"
+      },
+      "artists": [
+        {
+          "name": "Yxng Bane",
+          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "Table For Two",
+      "url": "https://open.spotify.com/track/1lLXZuj6n1tFaJTJBKy8Fa"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Skilahmatic",
+        "url": "https://open.spotify.com/album/7MZVojSUyO9HNyq4nBMS2D"
+      },
+      "artists": [
+        {
+          "name": "Ketchup",
+          "url": "https://open.spotify.com/artist/1k1u0kjSZiPC7myovUsekH"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Pam Pam",
+      "url": "https://open.spotify.com/track/0bwggp9wrFlopQffgG4Rhb"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 202111,
+      "name": "Lying If I Call It Love (feat. Sean Paul)",
+      "url": "https://open.spotify.com/track/3QqBBoWtiYtwiDlllNYHKh"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -2971,6 +2951,42 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Blaze Away",
+        "url": "https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 189750,
+      "name": "Blaze Away",
+      "url": "https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Cofres do C\u00e9u",
+        "url": "https://open.spotify.com/album/6EqnPhF91K2WGLsr0kMUtm"
+      },
+      "artists": [
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        }
+      ],
+      "duration_ms": 198590,
+      "name": "Cofres do C\u00e9u",
+      "url": "https://open.spotify.com/track/60onhM6CxZNTqcuFqmZ6Go"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Music Is The Weapon (Reloaded)",
         "url": "https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g"
       },
@@ -2995,22 +3011,6 @@
       "duration_ms": 156817,
       "name": "C'est Cuit (feat. Aya Nakamura & Swae Lee)",
       "url": "https://open.spotify.com/track/5JfbkEPTaqnAVy9ITdphCl"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Cofres do C\u00e9u",
-        "url": "https://open.spotify.com/album/6EqnPhF91K2WGLsr0kMUtm"
-      },
-      "artists": [
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        }
-      ],
-      "duration_ms": 198590,
-      "name": "Cofres do C\u00e9u",
-      "url": "https://open.spotify.com/track/60onhM6CxZNTqcuFqmZ6Go"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -3183,26 +3183,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Bluffin",
-        "url": "https://open.spotify.com/album/1Sx36U16xq2fCmzUNrO47F"
-      },
-      "artists": [
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 221059,
-      "name": "Bluffin",
-      "url": "https://open.spotify.com/track/1nEaAtXcpSCc2iZdXm37vH"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "To Di Bank",
         "url": "https://open.spotify.com/album/1FQfLyzhszdLyJxN3LaBaT"
       },
@@ -3219,6 +3199,26 @@
       "duration_ms": 181301,
       "name": "To Di Bank",
       "url": "https://open.spotify.com/track/6GsyJi2vXpo9oAqKGrGBvK"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Bluffin",
+        "url": "https://open.spotify.com/album/1Sx36U16xq2fCmzUNrO47F"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 221059,
+      "name": "Bluffin",
+      "url": "https://open.spotify.com/track/1nEaAtXcpSCc2iZdXm37vH"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -3359,26 +3359,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Not Over It",
-        "url": "https://open.spotify.com/album/6f26986svH5VZ03xVjsdap"
-      },
-      "artists": [
-        {
-          "name": "FS Green",
-          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
-        },
-        {
-          "name": "A\u00efcha Gill",
-          "url": "https://open.spotify.com/artist/2qq2Vs81M7ReUEIxB0hjUu"
-        }
-      ],
-      "duration_ms": 212482,
-      "name": "Not Over It",
-      "url": "https://open.spotify.com/track/5vYWYCPdD6BqOy5hDYuCAi"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Come Online (feat. King Promise & Diquenza) [Remix]",
         "url": "https://open.spotify.com/album/274GoQpEkHY1xUELkKPEnr"
       },
@@ -3411,6 +3391,26 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Not Over It",
+        "url": "https://open.spotify.com/album/6f26986svH5VZ03xVjsdap"
+      },
+      "artists": [
+        {
+          "name": "FS Green",
+          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
+        },
+        {
+          "name": "A\u00efcha Gill",
+          "url": "https://open.spotify.com/artist/2qq2Vs81M7ReUEIxB0hjUu"
+        }
+      ],
+      "duration_ms": 212482,
+      "name": "Not Over It",
+      "url": "https://open.spotify.com/track/5vYWYCPdD6BqOy5hDYuCAi"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Bring It",
         "url": "https://open.spotify.com/album/0GRrax56zKbepKz9U8Vh0y"
       },
@@ -3431,6 +3431,30 @@
       "duration_ms": 152232,
       "name": "Bring It",
       "url": "https://open.spotify.com/track/3gS80FzuNsJ4iTFrNh6tTY"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Feelings (with J Boog & Gyptian)",
+        "url": "https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS"
+      },
+      "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "duration_ms": 194731,
+      "name": "Feelings (with J Boog & Gyptian)",
+      "url": "https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -3463,30 +3487,6 @@
       "duration_ms": 198280,
       "name": "DesignerBoy",
       "url": "https://open.spotify.com/track/5TWJIdt1LdQJ5w66jYpNnd"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Feelings (with J Boog & Gyptian)",
-        "url": "https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS"
-      },
-      "artists": [
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Gyptian",
-          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
-        }
-      ],
-      "duration_ms": 194731,
-      "name": "Feelings (with J Boog & Gyptian)",
-      "url": "https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL"
     },
     {
       "added_at": "2022-10-20 22:00:00",

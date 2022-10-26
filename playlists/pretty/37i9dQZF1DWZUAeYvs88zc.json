@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 477315,
+  "num_followers": 477591,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYzMzg5MSwwMDAwMDAwMDNiZWQ2YTk1MGZlNTRlMTE3NDA0ZmUxZjQ1NGNmZmVj",
+  "snapshot_id": "MTY2NjYzMzg5MSwwMDAwMDAwMDYzNDc2NjBjMTdmMWQ2YWRhMGVkMjZjNmNjMThjYzEw",
   "tracks": [
     {
       "added_at": "2022-10-24 17:51:31",
@@ -211,26 +211,6 @@
     {
       "added_at": "2022-10-24 17:51:31",
       "album": {
-        "name": "Save Your Tears (Remix)",
-        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Save Your Tears (with Ariana Grande) (Remix)",
-      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
-    },
-    {
-      "added_at": "2022-10-24 17:51:31",
-      "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 158804,
       "name": "Monoton\u00eda",
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
+    },
+    {
+      "added_at": "2022-10-24 17:51:31",
+      "album": {
+        "name": "Save Your Tears (Remix)",
+        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Save Your Tears (with Ariana Grande) (Remix)",
+      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
     },
     {
       "added_at": "2022-10-24 17:51:31",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-24 17:51:31",
       "album": {
-        "name": "Hold Me Closer",
-        "url": "https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Hold Me Closer",
-      "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
-    },
-    {
-      "added_at": "2022-10-24 17:51:31",
-      "album": {
         "name": "Can't Do Better",
         "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 188616,
       "name": "Can't Do Better",
       "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
+    },
+    {
+      "added_at": "2022-10-24 17:51:31",
+      "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
     },
     {
       "added_at": "2022-10-24 17:51:31",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-10-24 17:51:31",
       "album": {
+        "name": "aftermath",
+        "url": "https://open.spotify.com/album/1fwElcYJZ9su3GXu627HNs"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "duration_ms": 166609,
+      "name": "aftermath",
+      "url": "https://open.spotify.com/track/4nzBST9JdZIy9qfilr93Po"
+    },
+    {
+      "added_at": "2022-10-24 17:51:31",
+      "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 208017,
       "name": "Forgive Me (feat. Izzy Bizu)",
       "url": "https://open.spotify.com/track/3IUiA6msgyFl3f8kzbdgQP"
-    },
-    {
-      "added_at": "2022-10-24 17:51:31",
-      "album": {
-        "name": "aftermath",
-        "url": "https://open.spotify.com/album/1fwElcYJZ9su3GXu627HNs"
-      },
-      "artists": [
-        {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
-        }
-      ],
-      "duration_ms": 166609,
-      "name": "aftermath",
-      "url": "https://open.spotify.com/track/4nzBST9JdZIy9qfilr93Po"
     },
     {
       "added_at": "2022-10-24 17:51:31",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-10-24 17:51:31",
       "album": {
-        "name": "Cyclone",
-        "url": "https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy"
+        "name": "The Loneliest Time",
+        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
       },
       "artists": [
         {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 216463,
-      "name": "Cyclone",
-      "url": "https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO"
+      "duration_ms": 173200,
+      "name": "Talking to Yourself",
+      "url": "https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP"
     },
     {
       "added_at": "2022-10-24 17:51:31",
@@ -1043,6 +1043,22 @@
       "duration_ms": 200523,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
+    },
+    {
+      "added_at": "2022-10-24 17:51:31",
+      "album": {
+        "name": "Cyclone",
+        "url": "https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 216463,
+      "name": "Cyclone",
+      "url": "https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO"
     },
     {
       "added_at": "2022-10-24 17:51:31",
@@ -1075,6 +1091,22 @@
       "duration_ms": 187253,
       "name": "Sting",
       "url": "https://open.spotify.com/track/3CRLMDJygwt1KWMg1FASye"
+    },
+    {
+      "added_at": "2022-10-24 17:51:31",
+      "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 193728,
+      "name": "You Let Me Down",
+      "url": "https://open.spotify.com/track/5vItiIbaaoTxihU8uAlRbq"
     },
     {
       "added_at": "2022-10-24 17:51:31",
@@ -1115,34 +1147,18 @@
     {
       "added_at": "2022-10-24 17:51:31",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE"
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
       "artists": [
         {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 193728,
-      "name": "You Let Me Down",
-      "url": "https://open.spotify.com/track/5vItiIbaaoTxihU8uAlRbq"
-    },
-    {
-      "added_at": "2022-10-24 17:51:31",
-      "album": {
-        "name": "The Loneliest Time",
-        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 173200,
-      "name": "Talking to Yourself",
-      "url": "https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP"
+      "duration_ms": 213640,
+      "name": "girls like me don't cry",
+      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
     },
     {
       "added_at": "2022-10-24 17:51:31",
@@ -1159,22 +1175,6 @@
       "duration_ms": 309320,
       "name": "If It Wasn't For The Nights",
       "url": "https://open.spotify.com/track/3R47KOuGuGvmoeQqbODPa3"
-    },
-    {
-      "added_at": "2022-10-24 17:51:31",
-      "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "girls like me don't cry",
-      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
     },
     {
       "added_at": "2022-10-24 17:51:31",
@@ -1283,6 +1283,38 @@
     {
       "added_at": "2022-10-24 17:51:31",
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 149890,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
+    },
+    {
+      "added_at": "2022-10-24 17:51:31",
+      "album": {
+        "name": "echo",
+        "url": "https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "echo",
+      "url": "https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz"
+    },
+    {
+      "added_at": "2022-10-24 17:51:31",
+      "album": {
         "name": "Sad Girl Music (feat. BANKS)",
         "url": "https://open.spotify.com/album/0WkKqicUopy6vqSqm4LJLj"
       },
@@ -1299,22 +1331,6 @@
       "duration_ms": 203788,
       "name": "Sad Girl Music (feat. BANKS)",
       "url": "https://open.spotify.com/track/6Zx9jLPOmRwZSxf7zdwoth"
-    },
-    {
-      "added_at": "2022-10-24 17:51:31",
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 149890,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
     },
     {
       "added_at": "2022-10-24 17:51:31",
@@ -1347,22 +1363,6 @@
       "duration_ms": 140316,
       "name": "Stay Together",
       "url": "https://open.spotify.com/track/6Vv8kZbiRdSbybIukXjvWF"
-    },
-    {
-      "added_at": "2022-10-24 17:51:31",
-      "album": {
-        "name": "Bitch (I Said It)",
-        "url": "https://open.spotify.com/album/1gDWOClPKiWndWKlbYasxz"
-      },
-      "artists": [
-        {
-          "name": "Sody",
-          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
-        }
-      ],
-      "duration_ms": 191462,
-      "name": "Bitch (I Said It)",
-      "url": "https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C"
     }
   ],
   "unique_name": "Sad Bops",

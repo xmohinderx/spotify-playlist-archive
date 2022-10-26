@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Ab-Soul",
-  "num_followers": 635079,
+  "num_followers": 635196,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM2NjgxMCwwMDAwMDAwMDcyM2YwMzI0MTEzZjdiZWRjMWQ1Y2FhMTM1OWQ4NzUw",
+  "snapshot_id": "MTY2NjM2NjgxMCwwMDAwMDAwMDFiYTYyMTA1NGIxMGIzODdhMWFlYjJkN2IzYjI1MjYx",
   "tracks": [
     {
       "added_at": "2022-10-21 15:40:10",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-10-21 15:40:10",
       "album": {
+        "name": "247",
+        "url": "https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "247",
+      "url": "https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H"
+    },
+    {
+      "added_at": "2022-10-21 15:40:10",
+      "album": {
         "name": "A Quarter Til",
         "url": "https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2022-10-21 15:40:10",
       "album": {
-        "name": "Mannequin",
-        "url": "https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW"
-      },
-      "artists": [
-        {
-          "name": "Ray Vaughn",
-          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
-        }
-      ],
-      "duration_ms": 234664,
-      "name": "Mannequin",
-      "url": "https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W"
-    },
-    {
-      "added_at": "2022-10-21 15:40:10",
-      "album": {
         "name": "Walk Out (feat. DJ Premier)",
         "url": "https://open.spotify.com/album/2pSTB0VfDjWUifm3rf9QGt"
       },
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-10-21 15:40:10",
       "album": {
-        "name": "247",
-        "url": "https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z"
+        "name": "Mannequin",
+        "url": "https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW"
       },
       "artists": [
         {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
         }
       ],
-      "duration_ms": 163733,
-      "name": "247",
-      "url": "https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H"
+      "duration_ms": 234664,
+      "name": "Mannequin",
+      "url": "https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W"
     },
     {
       "added_at": "2022-10-21 15:40:10",
@@ -767,26 +767,6 @@
     {
       "added_at": "2022-10-21 15:40:10",
       "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 233090,
-      "name": "RUN [Feat. Young Thug]",
-      "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
-    },
-    {
-      "added_at": "2022-10-21 15:40:10",
-      "album": {
         "name": "No Save Point (From \"Cyberpunk 2077\")",
         "url": "https://open.spotify.com/album/0AeuKmOe7czsrYwwovI3qu"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 195240,
       "name": "No Save Point - From \"Cyberpunk 2077\"",
       "url": "https://open.spotify.com/track/27SjutLnh1PXRYDjmSDs78"
+    },
+    {
+      "added_at": "2022-10-21 15:40:10",
+      "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 233090,
+      "name": "RUN [Feat. Young Thug]",
+      "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
     },
     {
       "added_at": "2022-10-21 15:40:10",

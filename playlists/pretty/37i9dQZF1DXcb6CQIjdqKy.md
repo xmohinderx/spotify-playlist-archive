@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover:  MercyMe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,476,772 likes - 101 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,477,078 likes - 101 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 10 | [Believe For It \(Eu Creio\)](https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It \(Eu Creio\)](https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK) | 5:38 |
 | 11 | [HOLY ONLY \(feat\. Tony Fresh & Chaquanna Iman\)](https://open.spotify.com/track/63wxAGw6zp0Y2EcXQNUrJj) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Tony Fresh](https://open.spotify.com/artist/5BJZBZPCDAMJKwRIriGO3I), [Chaquanna Iman](https://open.spotify.com/artist/6t94UuOzHsqVaS1KQpC3fe) | [Tent Revival](https://open.spotify.com/album/70Y7WtUW8IbijDbI8thpCw) | 5:39 |
 | 12 | [Ain't Nobody \- Radio Version](https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Ain't Nobody](https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2) | 3:33 |
-| 13 | [Son of Suffering](https://open.spotify.com/track/3mNVXuLY3MHMRc8CMKLGuu) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Son of Suffering](https://open.spotify.com/album/1oVEmVcK4UIQwYSGHAmFRk) | 7:35 |
+| 13 | [Son of Suffering \- Live](https://open.spotify.com/track/3mNVXuLY3MHMRc8CMKLGuu) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Son of Suffering \(Live\)](https://open.spotify.com/album/1oVEmVcK4UIQwYSGHAmFRk) | 7:35 |
 | 14 | [Hallelujah Anyway](https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Whosoever](https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ) | 3:45 |
 | 15 | [Me on Your Mind](https://open.spotify.com/track/28WYdGMY9SGNfJ0SarLbxB) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Me on Your Mind](https://open.spotify.com/album/5TUX13ACKvoUotFkFgrMvV) | 3:59 |
 | 16 | [Build a Boat](https://open.spotify.com/track/3Kh9eZaRwd1teXFVOZ9xPv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Build a Boat](https://open.spotify.com/album/2gwY0QMAGKxWeyh1Z4fgVg) | 2:50 |

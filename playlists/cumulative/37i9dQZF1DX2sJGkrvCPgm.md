@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-266 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
+267 songs - 16 hr 49 min - [published](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Favorite Time Of Year](https://open.spotify.com/track/2aq7ZO1is1czoQAh076QFU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Gift \(Special Edition\)](https://open.spotify.com/album/7m0f2Km7Zlc7quAIvCYPMr) | 3:17 | 2021-12-24 |  |
 | [Feelin' Like Christmas](https://open.spotify.com/track/5nB154PCWmkFvYchZkX0iG) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Let It Snow](https://open.spotify.com/album/7ABzUdF5VF3PGh6psVjRmq) | 3:17 | 2021-12-24 |  |
 | [Feliz Navidad](https://open.spotify.com/track/0mbKemvmkBi8AmG3pMUbFv) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/5EG8nCVC46N0fWdeYhevC1) | 3:18 | 2021-12-24 | 2022-10-21 |
-| [Feliz Navidad](https://open.spotify.com/track/0d9T0mGXQeXZbocFTdu9uk) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Good News](https://open.spotify.com/album/09xc06CHXpz6dBFRQtGg2g) | 2:54 | 2021-12-24 |  |
+| [Feliz Navidad](https://open.spotify.com/track/23yXE7auYQ93grOZn0PHn9) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 3:18 | 2021-12-24 |  |
+| [Feliz Navidad](https://open.spotify.com/track/0d9T0mGXQeXZbocFTdu9uk) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Good News](https://open.spotify.com/album/09xc06CHXpz6dBFRQtGg2g) | 2:54 | 2021-12-24 | 2022-10-26 |
 | [Feliz Navidad](https://open.spotify.com/track/1cFWVdLbsXwDZx73LxReFv) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Christmas: Joy To The World](https://open.spotify.com/album/6CDNJL0wwcpY56ppfHBtPr) | 2:54 | 2021-12-24 | 2022-07-28 |
 | [For Unto Us a Child Is Born/Open the Eyes of My Heart](https://open.spotify.com/track/2zdie7CHg1v4LZsg5YTphr) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr) | [Christmas Worship, Vol\. 2](https://open.spotify.com/album/0Oebjw58B0C8Jx5tuJiDuS) | 3:27 | 2021-12-24 | 2022-07-24 |
 | [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/track/0GHZixuBIWMWUsED3IaXSR) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Forever Evergreen \(Here in the Winter\)](https://open.spotify.com/album/0O4AM6bSfFzUPpNOrHi5Zf) | 4:12 | 2021-12-24 | 2022-07-29 |

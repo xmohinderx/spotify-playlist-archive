@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,926,467 likes - 201 songs - 14 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,929,416 likes - 201 songs - 14 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 | 200 | [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 |
 | 201 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 |
 
-Snapshot ID: `MTY2NTczMDgwMCwwMDAwMDAwMDIzYTA0NjA1MmE5NzQ5ZDFlMzJhYjA1NDJhOTM2Y2Nl`
+Snapshot ID: `MTY2NjczNTUxNywwMDAwMDAwMGYwMmExMWQxZGY2NDQ5MjZmNmZkN2RiMzFmMTI4OWFm`

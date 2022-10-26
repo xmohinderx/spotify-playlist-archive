@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring piri & tommy
 
-417 songs - 1 day 0 hr 6 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+419 songs - 1 day 0 hr 15 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [popipo00](https://open.spotify.com/track/3oYZkaAsoi7UqinSUcidnA) | [AKIBA](https://open.spotify.com/artist/5y51w1wj1qFCNOAU1b7BEc) | [im lost in a neverending dream](https://open.spotify.com/album/5LhJziay2LhxujQ0HsvSlk) | 2:36 | 2022-02-23 | 2022-09-03 |
 | [Posing For Flex](https://open.spotify.com/track/27CwyJriNArZhrSfpyBeLG) | [DM\-90](https://open.spotify.com/artist/7pVTLdf8j65BYsLYmIuesd) | [Posing For Flex](https://open.spotify.com/album/27x857E6j1lchNoGdPJ43A) | 1:57 | 2022-04-08 | 2022-08-27 |
 | [Post Nut Clarity](https://open.spotify.com/track/0J0VOMFRsLrxd04uOIYxac) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Post Nut Clarity](https://open.spotify.com/album/5E4FRTJyliNAWkPX84mA5f) | 1:53 | 2022-03-04 | 2022-07-20 |
+| [Power 2 Tha People](https://open.spotify.com/track/7aftORj0cBJ8cDgEL6VmLs) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Return of the Golden Funk](https://open.spotify.com/album/2FHptZi8FfJvJa8rr7RbWK) | 5:44 | 2022-10-25 |  |
 | [Pray4u](https://open.spotify.com/track/0lgo7NNaBJWftwSOfnH25q) | [Lucianblomkamp](https://open.spotify.com/artist/1SG4PrT6nLKmqDJ7SfKRJV), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Pray4u](https://open.spotify.com/album/0j4R8gczhaEcog4Fd8iDVY) | 3:56 | 2021-10-29 | 2022-03-05 |
 | [Pressurized](https://open.spotify.com/track/1SmlpzSJLpt3puZ9Zv3zTo) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Pressurized](https://open.spotify.com/album/1PiYQn2LWd1S5EFZhCNqOe) | 2:16 | 2022-01-05 | 2022-04-16 |
 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2021-07-23 | 2022-02-19 |
@@ -367,10 +368,11 @@
 | [strana nepugannih](https://open.spotify.com/track/6UMDpH8bOaanwSgwWcqZVX) | [cccp edits](https://open.spotify.com/artist/701FW3uUgIPGu7BVzMxMjg) | [CCCP Edits 4](https://open.spotify.com/album/0D0q44IPyGQGVuUmjNq9kr) | 7:15 | 2022-01-05 | 2022-02-26 |
 | [struggling to speak](https://open.spotify.com/track/5jziLtE1cWK2uI5uMjqOfx) | [Ben Ohr](https://open.spotify.com/artist/4RTUllFdPttQHfthpDXKoG) | [struggling to speak](https://open.spotify.com/album/4jzGchHZuJEIy8Ywn3re9h) | 2:24 | 2022-08-12 | 2022-10-01 |
 | [Stuck](https://open.spotify.com/track/6iBtDRlPzeeHn0wQUJZbsk) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [XNom](https://open.spotify.com/artist/4ST9qgTT0c4mgIBta6CLPf) | [Stuck](https://open.spotify.com/album/6vRpRT7mRjKa61o0utjGTC) | 2:02 | 2022-05-13 | 2022-08-27 |
-| [SUMMER GIRL](https://open.spotify.com/track/49ytn2JKSw0cv0zX4Taws3) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [SUMMER GIRL](https://open.spotify.com/album/1DsE77o6wyp3Ozp6QFGHXI) | 2:32 | 2022-09-09 |  |
+| [SUMMER GIRL](https://open.spotify.com/track/49ytn2JKSw0cv0zX4Taws3) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [SUMMER GIRL](https://open.spotify.com/album/1DsE77o6wyp3Ozp6QFGHXI) | 2:32 | 2022-09-09 | 2022-10-26 |
 | [sunder](https://open.spotify.com/track/2ocXip12mjNNMj9mz2AKmy) | [hxly xo](https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH), [BREEZEFORE](https://open.spotify.com/artist/6s9KcaKBVAcoAEk8bSSSVm) | [sunder](https://open.spotify.com/album/5Bp5jHpmDY38M6A4bv4XMJ) | 2:02 | 2022-07-11 | 2022-10-22 |
 | [sunken](https://open.spotify.com/track/5e7FFc9rvDTBzxLb1IsnIl) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [sunken](https://open.spotify.com/album/3iQuGVN1VKsiTE8wmv8L0k) | 3:47 | 2022-04-22 | 2022-06-18 |
 | [Sway \(The Places She Goes\)](https://open.spotify.com/track/01MAfM7gDbLITfH5hzNRnV) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Sway \(The Places She Goes\)](https://open.spotify.com/album/7f1zz0dMUJLwxQjA7JGcCq) | 3:41 | 2022-05-13 | 2022-06-18 |
+| [Switched Up](https://open.spotify.com/track/2r7EsZmUpJS5HktTLb5uqq) | [Jbox](https://open.spotify.com/artist/1AzyQM37FzB6ChE0iJZm77) | [Switched Up](https://open.spotify.com/album/3irVf4y2C8iTxwpgWGlY98) | 3:14 | 2022-10-25 |  |
 | [Tagawa 3000](https://open.spotify.com/track/3ShelGqdJtLNZ1OruxBdgk) | [Golin](https://open.spotify.com/artist/02c7cpyK3byoTQcHtxHWHS), [Buga](https://open.spotify.com/artist/1MhMgLDFqKu6sdioUeq5dI) | [Tagawa 3000](https://open.spotify.com/album/6ydEEoVXVsTBH3DgvsaYiZ) | 2:02 | 2022-07-22 | 2022-08-27 |
 | [Take the Pain](https://open.spotify.com/track/16m8ry0NbJdzflEDXRGs9D) | [Kirk Spencer](https://open.spotify.com/artist/3ej0mRP8GFP0h3MXdWKjKh) | [Take the Pain](https://open.spotify.com/album/4GnqZ5Y6vTKzeHVgkoOKvt) | 3:16 | 2021-10-08 | 2022-01-22 |
 | [taking damage](https://open.spotify.com/track/7c5Iec6VPOlPJc2Ow1I8gm) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [taking damage](https://open.spotify.com/album/39M9cLO0cx5evLWMPErmVX) | 2:47 | 2022-02-18 | 2022-02-24 |

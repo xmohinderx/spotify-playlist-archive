@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Jil Tanner
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,961 likes - 78 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,265 likes - 78 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 6 | [Life Is...](https://open.spotify.com/track/46jni4B6gnRB5EbjIEnsf3) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [\#PlasticFreeParty](https://open.spotify.com/album/1cvskFPm3EvkVSleUYgNaL) | 4:13 |
 | 7 | [Shades of You](https://open.spotify.com/track/0CXRQBo3GDBEusK9OqzyyR) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Hiraeth](https://open.spotify.com/album/3vWp7L3aIczzUC5Obyxb18) | 4:41 |
 | 8 | [Defender](https://open.spotify.com/track/4x9l3fDzgvzg9t7Csbufrn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Defender](https://open.spotify.com/album/76up5uRogXO3CPwA2OO6Wy) | 6:14 |
-| 9 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 |
+| 9 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 |
 | 10 | [Mann:Frau](https://open.spotify.com/track/1C1dpAoDKXvrVWO37WpZS5) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Vulnerability](https://open.spotify.com/album/1IxdSZRUrH7K4w8YrrrjLo) | 3:16 |
 | 11 | [Narkose](https://open.spotify.com/track/6qM9t0qqj5voUa6P6BR7O7) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Narkose](https://open.spotify.com/album/5mvmBGtj3D2iiZumcQYPB3) | 6:01 |
 | 12 | [Spectrum \- Rafael Cerato Remix](https://open.spotify.com/track/66otQb8LRBp1yLVIvJmzmr) | [Aries \(UA\)](https://open.spotify.com/artist/6W9hm4ciuzO9igR0VFXrlz), [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [Spectrum \(Rafael Cerato Remix\)](https://open.spotify.com/album/7oGNqkM60LDhaJmOpM9jfh) | 6:38 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 77 | [Ohio \- Julien Bracht Remix](https://open.spotify.com/track/4PXyHh04Z99o0b9AM5O3mG) | [Lea Porcelain](https://open.spotify.com/artist/4HsBBgi3DDsy0w29W5yevl), [Julien Bracht](https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx) | [Choirs to Heaven Remixes](https://open.spotify.com/album/4XDLGWPKQiDFfdBerhbTtR) | 5:56 |
 | 78 | [Dream \- Edit](https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dream](https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr) | 4:06 |
 
-Snapshot ID: `MTY2NjMwMzI2MCwwMDAwMDAwMGQ4YzkwNTIxNTI0M2I5YTNhZjk1MTdjODg4ZDgyMWMx`
+Snapshot ID: `MTY2NjMwMzI2MCwwMDAwMDAwMGZkZjg4ZjZlOGRjN2VkZWY5Mjk5ODJjNzdjMWY4ODVj`

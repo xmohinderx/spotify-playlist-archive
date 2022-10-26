@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-310 songs - 22 hr 38 min - [published](https://open.spotify.com/playlist/7Ikp1eJdB44De7llN3Rd4M)
+311 songs - 22 hr 42 min - [published](https://open.spotify.com/playlist/7Ikp1eJdB44De7llN3Rd4M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Ringing Bloom](https://open.spotify.com/track/7vPWfW9tpx38Jb7MwUfmmX) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [FIRE BIRD](https://open.spotify.com/album/14eSn0cIa7n8ZNrB9bq8pa) | 5:34 | 2022-06-23 | 2022-10-02 |
 | [ROZEN HORIZON](https://open.spotify.com/track/7BnQ7guT0xmlYP2EULTUwq) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/4w4tqtDKKmJkZBrngEsNM1) | 6:06 | 2022-05-17 | 2022-07-29 |
 | [ROZEN HORIZON](https://open.spotify.com/track/7dGXBMLYZF4wYCnkcxpOjd) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/03Zx4kGKtldlHXklQDPnfO) | 6:06 | 2022-06-23 | 2022-10-02 |
-| [ROZEN HORIZON](https://open.spotify.com/track/1hypmw0p1Ntu6T5VcAfT6K) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz) | 6:06 | 2022-09-20 |  |
+| [ROZEN HORIZON](https://open.spotify.com/track/1hypmw0p1Ntu6T5VcAfT6K) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz) | 6:06 | 2022-09-20 | 2022-10-26 |
 | [R·I·O·T](https://open.spotify.com/track/6qtsdJ8eSKi68ieKo43mOg) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [R·I·O·T](https://open.spotify.com/album/7971vL4vk2LncWMC0bioe3) | 5:01 | 2022-06-23 | 2022-07-24 |
 | [R·I·O·T](https://open.spotify.com/track/5SY9BO5RF5ecqQYtDYyCB5) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 5:01 | 2022-09-20 |  |
 | [R・I・O・T](https://open.spotify.com/track/1WcM5RgshQS5bZQEOMOHE8) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk) | 5:04 | 2022-06-23 | 2022-10-02 |
@@ -161,6 +161,7 @@
 | [STAR BEAT!〜ホシノコドウ〜 \- Popipa Acoustic Ver.](https://open.spotify.com/track/3rgiq6m56T77404ycc8CVZ) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/7uZ57BtKr2QWlsxC4T7fyH) | 5:27 | 2022-05-17 | 2022-07-05 |
 | [Step×Step!](https://open.spotify.com/track/1CIdp0zk5vDa8BGUqmuXV0) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5TLIFj3J5Ro4mlbb2l8a91) | 4:08 | 2022-05-17 | 2022-07-23 |
 | [Summer Skies & Sun! Sun! Seven! \- Acoustic Ver.](https://open.spotify.com/track/58WIbtANgOd9wK4c7mv3KZ) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [I\-I Never Said Love!](https://open.spotify.com/album/47vhSZQmJN0WyMaig29Zls) | 4:55 | 2022-06-23 | 2022-10-02 |
+| [Swear \~Night & Day\~](https://open.spotify.com/track/4DWAPMAyDsOVTttHt5wh4k) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Swear \~Night & Day\~](https://open.spotify.com/album/2ZKJKwZrZ4Co8Da8fXl8ZW) | 4:13 | 2022-10-25 |  |
 | [Sweets BAN!](https://open.spotify.com/track/38Gc7YPBk6UAIgvWEzz2Kb) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Live Beyond!!](https://open.spotify.com/album/0qEUvpIcVXtvXvsWJKcMhK) | 4:14 | 2022-05-17 | 2022-07-19 |
 | [Takin' my Heart](https://open.spotify.com/track/47tG1WSeUrz0aEKFoTbxc6) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Invincible Fighter](https://open.spotify.com/album/2etZzaMSi3pY0SISeNziWA) | 4:46 | 2022-06-23 | 2022-06-26 |
 | [Tear Drops](https://open.spotify.com/track/7aPl1DIA0XeMu9yqXNUOH8) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/1rSxXBi23B1LXH01IdMITL) | 3:38 | 2022-06-23 | 2022-10-02 |

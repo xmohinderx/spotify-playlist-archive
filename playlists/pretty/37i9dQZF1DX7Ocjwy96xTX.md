@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > Dark and dreamy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,553 likes - 73 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,070 likes - 73 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

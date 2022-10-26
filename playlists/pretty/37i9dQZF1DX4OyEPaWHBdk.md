@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OyEPaWHBdk.md) - [plain](/playlists/plain/37i9dQZF1DX4OyEPaWHBdk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4OyEPaWHBdk)
 
-### [2022 MAMA AWARDS Worldwide Fans' Choice](https://open.spotify.com/playlist/37i9dQZF1DX4OyEPaWHBdk)
+### [2022 MAMA AWARDS Worldwide Fans' Choice Category](https://open.spotify.com/playlist/37i9dQZF1DX4OyEPaWHBdk)
 
 > Stream and vote for your Worldwide Fans' Choice at the <a href="http://2022mama.com/vote/spotify/">2022 MAMA AWARDS</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,366 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,963 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OyEPaWHBdk.md) - [plain]
 | 49 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 |
 | 50 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 |
 
-Snapshot ID: `MTY2NjYwNTYwMCwwMDAwMDAwMGYyZTM5NTA0MzQ2Mzg0ZDRlMDlmYmQ2M2UzY2QwMjli`
+Snapshot ID: `MTY2NjY3ODc2OCwwMDAwMDAwMDg2MzRlODVlYjdkOTQ5OTM4MDgxY2Q2NDlkZmJlMmQw`

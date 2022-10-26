@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 554,
+  "num_followers": 604,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDAzMGRlYTk4YTFjZTNmNDYzNzQzZWIyZDkyMDA4ZjVl",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDM4NTg1ZmE1YmJhN2EzNTc2ZmQzZjcyYjYwNGExNjMw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Portra 400",
-      "url": "https://open.spotify.com/track/7cMBZ7xDUb25N1We6DyoPk"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Wickedest",
         "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 192880,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "Portra 400",
+      "url": "https://open.spotify.com/track/7cMBZ7xDUb25N1We6DyoPk"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Flipside",
-        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 191453,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Undertones",
         "url": "https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 177666,
       "name": "MIA (feat. Kaash Paige)",
       "url": "https://open.spotify.com/track/2RgDaFvkIcDygqHTAmgSwk"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Flipside",
+        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 191453,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Out the Way",
+        "url": "https://open.spotify.com/album/3qv5Lk9jafOUsBLApCvxcJ"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "duration_ms": 155414,
+      "name": "Out the Way",
+      "url": "https://open.spotify.com/track/0sS74W9MTGGJkhAnT8JsR8"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Under Twenty Five",
         "url": "https://open.spotify.com/album/0lEt5TY0krIxIBW61pCMcb"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 210184,
       "name": "Peng Black Girls",
       "url": "https://open.spotify.com/track/3Xhj7ZZAfQwPUxKZHQdw3y"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Out the Way",
-        "url": "https://open.spotify.com/album/3qv5Lk9jafOUsBLApCvxcJ"
-      },
-      "artists": [
-        {
-          "name": "Samaria",
-          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
-        }
-      ],
-      "duration_ms": 155414,
-      "name": "Out the Way",
-      "url": "https://open.spotify.com/track/0sS74W9MTGGJkhAnT8JsR8"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -808,13 +808,13 @@
       },
       "artists": [
         {
-          "name": "Sharna Bass",
-          "url": "https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs"
+          "name": "Shaybo",
+          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Buss A 9",
-      "url": "https://open.spotify.com/track/0bXiuDO0JuiIV8eWsiC9JX"
+      "duration_ms": 138857,
+      "name": "Anger",
+      "url": "https://open.spotify.com/track/5UJ0nJKwbBfYbnPyCfRlaD"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -824,13 +824,13 @@
       },
       "artists": [
         {
-          "name": "Shaybo",
-          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
+          "name": "Sharna Bass",
+          "url": "https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs"
         }
       ],
-      "duration_ms": 138857,
-      "name": "Anger",
-      "url": "https://open.spotify.com/track/5UJ0nJKwbBfYbnPyCfRlaD"
+      "duration_ms": 200800,
+      "name": "Buss A 9",
+      "url": "https://open.spotify.com/track/0bXiuDO0JuiIV8eWsiC9JX"
     }
   ],
   "unique_name": "Eve Fairley-Chickwe's Taste ",

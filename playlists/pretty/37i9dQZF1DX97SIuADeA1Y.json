@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 273868,
+  "num_followers": 274041,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM1NDc5OSwwMDAwMDAwMDk0MTg1MzM2NDQ3ZmIyNzVlZmI2Yzg1NWM5YzEyMmVj",
+  "snapshot_id": "MTY2NjM1NDc5OSwwMDAwMDAwMGY3MDA1YWY5Y2Y4Y2ZhNGM0YjcyMmJmNzI5MzMzMGQw",
   "tracks": [
     {
       "added_at": "2022-10-21 12:19:58",
@@ -691,6 +691,26 @@
     {
       "added_at": "2022-10-21 12:19:58",
       "album": {
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/2TMMSOhG0eydMUUhrFspPT"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "Ekko",
+          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
+        }
+      ],
+      "duration_ms": 152459,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/5mG9iopQWcGtc3SnrV3dA5"
+    },
+    {
+      "added_at": "2022-10-21 12:19:58",
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 202333,
       "name": "Poison",
       "url": "https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU"
-    },
-    {
-      "added_at": "2022-10-21 12:19:58",
-      "album": {
-        "name": "Dance Again",
-        "url": "https://open.spotify.com/album/2TMMSOhG0eydMUUhrFspPT"
-      },
-      "artists": [
-        {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
-        },
-        {
-          "name": "Ekko",
-          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
-        }
-      ],
-      "duration_ms": 152459,
-      "name": "Dance Again",
-      "url": "https://open.spotify.com/track/5mG9iopQWcGtc3SnrV3dA5"
     },
     {
       "added_at": "2022-10-21 12:19:58",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-10-21 12:19:58",
       "album": {
-        "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-        "url": "https://open.spotify.com/album/2huyFjU98NZADNSnh7uerA"
-      },
-      "artists": [
-        {
-          "name": "Le Pedre",
-          "url": "https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "url": "https://open.spotify.com/track/114y6mYBzuec5xUBUZ56lg"
-    },
-    {
-      "added_at": "2022-10-21 12:19:58",
-      "album": {
         "name": "World in Your Eyes",
         "url": "https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 131142,
       "name": "World in Your Eyes",
       "url": "https://open.spotify.com/track/5ma7yZhAlSKgFYYEqYHOD9"
+    },
+    {
+      "added_at": "2022-10-21 12:19:58",
+      "album": {
+        "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "url": "https://open.spotify.com/album/2huyFjU98NZADNSnh7uerA"
+      },
+      "artists": [
+        {
+          "name": "Le Pedre",
+          "url": "https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/114y6mYBzuec5xUBUZ56lg"
     },
     {
       "added_at": "2022-10-21 12:19:58",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-10-21 12:19:58",
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
+    },
+    {
+      "added_at": "2022-10-21 12:19:58",
+      "album": {
         "name": "Wenn du mich siehst (RIBELLU Remix)",
         "url": "https://open.spotify.com/album/1Hc0aChcGLmdnkSJSz6sdQ"
       },
@@ -1199,18 +1215,22 @@
     {
       "added_at": "2022-10-21 12:19:58",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U"
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/1mAJ1htzZKsFXwbcTatxIq"
       },
       "artists": [
         {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+          "name": "Max + Johann",
+          "url": "https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow"
+        },
+        {
+          "name": "Charming Horses",
+          "url": "https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3"
         }
       ],
-      "duration_ms": 162580,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
+      "duration_ms": 169717,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/26gSKAMIFzwMd4htHklFfN"
     },
     {
       "added_at": "2022-10-21 12:19:58",
@@ -1231,30 +1251,6 @@
       "duration_ms": 158181,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
-    },
-    {
-      "added_at": "2022-10-21 12:19:58",
-      "album": {
-        "name": "Princess",
-        "url": "https://open.spotify.com/album/0uL1LBlgAw2bbOOzkSGyFK"
-      },
-      "artists": [
-        {
-          "name": "Bodybangers",
-          "url": "https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA"
-        },
-        {
-          "name": "Lotus",
-          "url": "https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b"
-        },
-        {
-          "name": "MAXAM",
-          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
-        }
-      ],
-      "duration_ms": 143266,
-      "name": "Princess",
-      "url": "https://open.spotify.com/track/74CKJFSNNqnRFtPDzANljK"
     }
   ],
   "unique_name": "SLAP!",

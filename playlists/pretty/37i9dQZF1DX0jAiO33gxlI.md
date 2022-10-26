@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Planet Hemp
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,755 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,793 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 22 | [Brasil Em Chamas](https://open.spotify.com/track/4Qoytm3xJK6uCFJgM8O6QO) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Brasil Em Chamas](https://open.spotify.com/album/5oKxtYZrU2AsqWrQp9bpob) | 3:20 |
 | 23 | [Pra cima](https://open.spotify.com/track/1jYQVAto0Q4eXwjvufxbuo) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [Spooky Bizzle](https://open.spotify.com/artist/1vBeuB3U5ClgUohizkAcTI) | [BR 140](https://open.spotify.com/album/103Rss3Qt0JvwKj8MFMPcC) | 3:41 |
 | 24 | [Liderança](https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Liderança](https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc) | 3:30 |
-| 25 | [Pelo Certo](https://open.spotify.com/track/05k6HUgzMCJkML8mn6rjC9) | [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [PDR](https://open.spotify.com/artist/6erww2UwaiC82nTAxF294h), [Jhonzy](https://open.spotify.com/artist/6thL5YaqmmkAEhe9Qtz7Ss), [MindHunters](https://open.spotify.com/artist/0QRlMdCWxBYvMrUJT9R8Rj) | [Pelo Certo](https://open.spotify.com/album/0o3AY4P5eBjhvNRcEGilvO) | 4:18 |
+| 25 | [Pelo Certo](https://open.spotify.com/track/05k6HUgzMCJkML8mn6rjC9) | [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [PDR](https://open.spotify.com/artist/57Bx3XyEe1jvJ7VauQIp1C), [Jhonzy](https://open.spotify.com/artist/6thL5YaqmmkAEhe9Qtz7Ss), [MindHunters](https://open.spotify.com/artist/0QRlMdCWxBYvMrUJT9R8Rj) | [Pelo Certo](https://open.spotify.com/album/0o3AY4P5eBjhvNRcEGilvO) | 4:18 |
 | 26 | [No Corre](https://open.spotify.com/track/0n0lxPI2cFPpqqRFbsLgjI) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Lord ADL](https://open.spotify.com/artist/7phpDFUX97M0DTGIcjXKRk) | [No Corre](https://open.spotify.com/album/2BRH2zjETIcdj10WqZrsRm) | 3:50 |
 | 27 | [212](https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [212](https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN) | 2:30 |
 | 28 | [Insônia 2](https://open.spotify.com/track/7tITqCiDuMqKfWhibaF8V7) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Insônia 2](https://open.spotify.com/album/5pOhKRO8Ul0eyBzMGviWHU) | 4:27 |

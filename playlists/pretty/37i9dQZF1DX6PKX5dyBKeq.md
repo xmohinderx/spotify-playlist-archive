@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The best of UK Rap & Drill\.  Cover: Central Cee
+> Are you a day 1 fan of your favourite rapper? Prove it!\. Rap UK Day 1 Club has just launched\. <a href='https://day1club\-uk.byspotify.com/'>Check it out.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,223,737 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,224,476 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [One Up](https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:40 |
 | 2 | [Warm \- Original](https://open.spotify.com/track/0h67w8nvVRIq5jOm4YO2Da) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Warm](https://open.spotify.com/album/6WBjQpN3WFzSQm0HBiOsiw) | 2:32 |
-| 3 | [One In The Chamber](https://open.spotify.com/track/0MtO6lNufS0fiQPNFeUCuy) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [One In The Chamber](https://open.spotify.com/album/4MQZ4pMrSHIxi1BdKGGRCL) | 2:51 |
-| 4 | [Can't Be Us](https://open.spotify.com/track/2hZ17zF5a03Ly4by80wI2M) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Can't Be Us](https://open.spotify.com/album/2dDf3sv8pGnm8Oa9eC86IM) | 3:21 |
-| 5 | [Juggin](https://open.spotify.com/track/1G8rJ6Udnxfa0KKFbzoJko) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Cold Feet](https://open.spotify.com/album/4PoW2QPYyGG7KqLYffTtym) | 2:53 |
-| 6 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 |
+| 3 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 |
+| 4 | [One In The Chamber](https://open.spotify.com/track/0MtO6lNufS0fiQPNFeUCuy) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [One In The Chamber](https://open.spotify.com/album/4MQZ4pMrSHIxi1BdKGGRCL) | 2:51 |
+| 5 | [Can't Be Us](https://open.spotify.com/track/2hZ17zF5a03Ly4by80wI2M) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Can't Be Us](https://open.spotify.com/album/2dDf3sv8pGnm8Oa9eC86IM) | 3:21 |
+| 6 | [Juggin](https://open.spotify.com/track/1G8rJ6Udnxfa0KKFbzoJko) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Cold Feet](https://open.spotify.com/album/4PoW2QPYyGG7KqLYffTtym) | 2:53 |
 | 7 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 |
 | 8 | [Pisces \(feat\. Krept & Konan\)](https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Pisces \(feat\. Krept & Konan\)](https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j) | 2:40 |
 | 9 | [Public Figure](https://open.spotify.com/track/0PeQk3MMmnfBMmP1EvDOP4) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Public Figure](https://open.spotify.com/album/1lyEFQfl8xQE0ylIzWHQJL) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 49 | [FRONTLINE](https://open.spotify.com/track/7FcmDFLl13OqyhF6fNM3Op) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Dezzie](https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q), [Akz](https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm), [Kush](https://open.spotify.com/artist/0P1CKlruhcbhbq7yA5oh83), [Blitty](https://open.spotify.com/artist/4ufdIafKHwh8RZjR60Vctx), [Kash One7](https://open.spotify.com/artist/3dHuYvlVZ1Ew0Q2h1IpCjq) | [FRONTLINE](https://open.spotify.com/album/2zPaGmf7ZCGiBfH2NSstXG) | 4:17 |
 | 50 | [DNA](https://open.spotify.com/track/2zdVZ86G9Hvo3fFl463zj9) | [Mowgs](https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9) | [DNA](https://open.spotify.com/album/0fsaZ5T5jNK9Px0Q8skWJI) | 2:59 |
 
-Snapshot ID: `MTY2NjU1MDU4MywwMDAwMDAwMDk3NDgxNTIyNmVkNDZiNmE4ZjY4NTY5MjA5Njc4NTAx`
+Snapshot ID: `MTY2NjcwMzg2MiwwMDAwMDAwMGZjMGM5ZWY4YTIwOThhYTBhMWJlNzg3YzNjM2MxOWY0`

@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs"
+      },
+      "artists": [
+        {
+          "name": "Thell Barrio",
+          "url": "https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202647,
+      "name": "A Toda Madre",
+      "url": "https://open.spotify.com/track/6aBSq9ifs6ezHLr7DhwIME"
+    },
+    {
+      "album": {
         "name": "Estigmatizados por el Caos Dantesco",
         "url": "https://open.spotify.com/album/4EFZ4IYT8yrELNypid4UvA"
       },
@@ -2627,7 +2645,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 312447,
       "name": "Residentes Olvidados",
       "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > despacito que no llevamos prisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,413 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,439 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 10 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 |
 | 11 | [Prometiste](https://open.spotify.com/track/2UypFzxfaYgMUnQX2k4qtj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [MTV Unplugged](https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob) | 5:05 |
 | 12 | [Me Hace Tanto Bien](https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 3:08 |
-| 13 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 |
-| 14 | [Ya Me Enteré](https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [El Ahijado Consentido](https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP) | 3:09 |
+| 13 | [Ya Me Enteré](https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [El Ahijado Consentido](https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP) | 3:09 |
+| 14 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 |
 | 15 | [Esta Noche](https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:09 |
 | 16 | [Eso Y Más](https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:39 |
 | 17 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 86 | [Amor Tumbado](https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Amor Tumbado](https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n) | 2:28 |
 | 87 | [Te Metiste](https://open.spotify.com/track/1F9PPhjuq7UmxQxxMbUrIz) | [Octubre Doce](https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v) | [Somos Octubre Doce](https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk) | 3:44 |
 | 88 | [La Mejor Versión De Mi](https://open.spotify.com/track/1VcB8GhQbRap0lLEaNYDzI) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Mis Versiones Vol\. 9](https://open.spotify.com/album/4Qrz2HwRFKpmhC31fPJea0) | 3:35 |
-| 89 | [Somos Novios](https://open.spotify.com/track/0FHwYpEWfFQjwl19VLwI4y) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:26 |
-| 90 | [En Peligro de Extinción \(Versión Acústica\)](https://open.spotify.com/track/4R1ubABfq3V2jW5RHyFhOz) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Una Intimidad Adictiva \(Versión Acústica\)](https://open.spotify.com/album/1RkJEN1O2e4gLKQYlp2qBn) | 3:51 |
+| 89 | [En Peligro de Extinción \(Versión Acústica\)](https://open.spotify.com/track/4R1ubABfq3V2jW5RHyFhOz) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Una Intimidad Adictiva \(Versión Acústica\)](https://open.spotify.com/album/1RkJEN1O2e4gLKQYlp2qBn) | 3:51 |
+| 90 | [Somos Novios](https://open.spotify.com/track/0FHwYpEWfFQjwl19VLwI4y) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:26 |
 | 91 | [Y Todo Para Que](https://open.spotify.com/track/0SsPLfptdC9CN8XRZzDWTu) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Mis Inicios](https://open.spotify.com/album/7xedJuQ4X8Z5vEwKTwrhqy) | 3:13 |
-| 92 | [Mi Piel No Te Olvida](https://open.spotify.com/track/1EUn3B0k9TCDAjxmeu4MYo) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Piel No Te Olvida](https://open.spotify.com/album/63kE8DHQwfB7v26ikpFHfl) | 3:39 |
-| 93 | [Contigo \- Spotify Sessions](https://open.spotify.com/track/3YucBaaVFM1Rksxn3EEv7B) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Spotify Sessions](https://open.spotify.com/album/4cDORfef1KJLnnlLvRQf11) | 3:36 |
+| 92 | [Contigo \- Spotify Sessions](https://open.spotify.com/track/3YucBaaVFM1Rksxn3EEv7B) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Spotify Sessions](https://open.spotify.com/album/4cDORfef1KJLnnlLvRQf11) | 3:36 |
+| 93 | [Mi Piel No Te Olvida](https://open.spotify.com/track/1EUn3B0k9TCDAjxmeu4MYo) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Piel No Te Olvida](https://open.spotify.com/album/63kE8DHQwfB7v26ikpFHfl) | 3:39 |
 | 94 | [Ayer Pedí](https://open.spotify.com/track/3E665uWyS30wGSFfqNxNFH) | [Luis Carlos Monroy](https://open.spotify.com/artist/5d4WMfgfWrcufKRJLhDIaZ), [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Ayer Pedí](https://open.spotify.com/album/5sjlh9Z1mXCQLek5NsVc7X) | 4:25 |
 | 95 | [Sabor a mi](https://open.spotify.com/track/0t3DKC2ohJL7XVqRVoxk0A) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:19 |
 | 96 | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/track/2DVNDaRh1wAwGTu9dvIFLg) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/album/5DC7bCueW9l1w3Dqddz9q5) | 3:27 |
 | 97 | [Ya Acabo](https://open.spotify.com/track/07NnD0MqN5lesPhy3faZkj) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Ya Acabo](https://open.spotify.com/album/7abRhsrO4FslXCpVvayDPi) | 2:54 |
 | 98 | [Niña De Mi Corazón \- Versión Acústica](https://open.spotify.com/track/49y91R9Macp3pdS04Dsu1k) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Mis Canciones..\. Ustedes Y Yo](https://open.spotify.com/album/1IyqrlZOjdiOqFw7732Dfr) | 3:20 |
-| 99 | [Desvelado](https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl) | [Mau Soles](https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77) | [Canciones](https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X) | 3:36 |
-| 100 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/00AmxTFdakYxpgEvnazsOh) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/43TkMF5ZgCAoKg6Rtuqhgl) | 3:51 |
+| 99 | [Tus Latidos \- Spotify Sessions](https://open.spotify.com/track/3JLdioihOtbPZ0MEORQBV7) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Spotify Sessions](https://open.spotify.com/album/4cDORfef1KJLnnlLvRQf11) | 3:14 |
+| 100 | [Desvelado](https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl) | [Mau Soles](https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77) | [Canciones](https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X) | 3:36 |
 
-Snapshot ID: `MTY1OTU2MzcyMSwwMDAwMDAwMDZkYWM0YjEyZTlkYmJiODIzMDcyMGM5NDc1NDhhODRj`
+Snapshot ID: `MTY1OTU2MzcyMSwwMDAwMDAwMGExOTk2ODlmMzFkNDE2ZmRlYWVjMmQ4MDVmYTkwM2Vl`

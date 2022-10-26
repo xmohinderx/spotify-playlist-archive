@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 186283,
+  "num_followers": 186350,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDExOTNjYWFkZTE3MzdjOWFkZjI3ZWQ4ZTE3NDBmMWQ5",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDBlNzI5OWMyYTRlNmRmMTkxZTcxZThkOGZiMjZmZmEz",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -447,6 +447,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Stay on These Roads",
+        "url": "https://open.spotify.com/album/6lka22PtQOmCt5ri8GPSZm"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "There's Never a Forever Thing",
+      "url": "https://open.spotify.com/track/5OWV0zaieHKpIW5O2EbRjy"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 234546,
       "name": "Send Her My Love",
       "url": "https://open.spotify.com/track/48Wu7j5ANO17SOpjb3oVPC"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Architecture And Morality",
-        "url": "https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i"
-      },
-      "artists": [
-        {
-          "name": "Orchestral Manoeuvres In The Dark",
-          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "Souvenir - Remastered 2003",
-      "url": "https://open.spotify.com/track/4i4QN9Zs5s7OZRRLIYHMmP"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -495,18 +495,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Stay on These Roads",
-        "url": "https://open.spotify.com/album/6lka22PtQOmCt5ri8GPSZm"
+        "name": "Architecture And Morality",
+        "url": "https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i"
       },
       "artists": [
         {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
         }
       ],
-      "duration_ms": 171573,
-      "name": "There's Never a Forever Thing",
-      "url": "https://open.spotify.com/track/5OWV0zaieHKpIW5O2EbRjy"
+      "duration_ms": 219506,
+      "name": "Souvenir - Remastered 2003",
+      "url": "https://open.spotify.com/track/4i4QN9Zs5s7OZRRLIYHMmP"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -559,22 +559,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Best Of Jon & Vangelis",
-        "url": "https://open.spotify.com/album/4alWkBQdvkbrs1cB5pFjzc"
-      },
-      "artists": [
-        {
-          "name": "Jon & Vangelis",
-          "url": "https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "I Hear You Now",
-      "url": "https://open.spotify.com/track/0rhUvAqeXfG4gl4IZhglgX"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Tunnel Of Love",
         "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 261826,
       "name": "One Step Up",
       "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Best Of Jon & Vangelis",
+        "url": "https://open.spotify.com/album/4alWkBQdvkbrs1cB5pFjzc"
+      },
+      "artists": [
+        {
+          "name": "Jon & Vangelis",
+          "url": "https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae"
+        }
+      ],
+      "duration_ms": 288200,
+      "name": "I Hear You Now",
+      "url": "https://open.spotify.com/track/0rhUvAqeXfG4gl4IZhglgX"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -639,22 +639,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 279413,
-      "name": "Has Anyone Ever Written Anything for You",
-      "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "It'll End In Tears (Remastered)",
         "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 209093,
       "name": "Kangaroo - Remastered",
       "url": "https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 279413,
+      "name": "Has Anyone Ever Written Anything for You",
+      "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -967,22 +967,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Yellow Moon",
-        "url": "https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF"
-      },
-      "artists": [
-        {
-          "name": "The Neville Brothers",
-          "url": "https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/1Aw8AzGtFssawCsiCxxyAr"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Music for the Masses (2006 Remaster)",
         "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 239720,
       "name": "The Things You Said - 2006 Remaster",
       "url": "https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Yellow Moon",
+        "url": "https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF"
+      },
+      "artists": [
+        {
+          "name": "The Neville Brothers",
+          "url": "https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/1Aw8AzGtFssawCsiCxxyAr"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Yellow Moon",
-        "url": "https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF"
-      },
-      "artists": [
-        {
-          "name": "The Neville Brothers",
-          "url": "https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg"
-        }
-      ],
-      "duration_ms": 400266,
-      "name": "With God On Our Side",
-      "url": "https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Yellow Moon",
+        "url": "https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF"
+      },
+      "artists": [
+        {
+          "name": "The Neville Brothers",
+          "url": "https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg"
+        }
+      ],
+      "duration_ms": 400266,
+      "name": "With God On Our Side",
+      "url": "https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Brilliant Trees (Remastered 2003)",
         "url": "https://open.spotify.com/album/5YIZcFDFKpUrcqviez8QWn"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Korgis Kollection",
-        "url": "https://open.spotify.com/album/13sFIOMblyr8x7TwD546jN"
-      },
-      "artists": [
-        {
-          "name": "The Korgis",
-          "url": "https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3"
-        }
-      ],
-      "duration_ms": 251946,
-      "name": "Everybody's Got To Learn Sometime",
-      "url": "https://open.spotify.com/track/2PxyiPwogw6C9yu1jRgFiA"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The Princess Bride",
         "url": "https://open.spotify.com/album/0SVtLk3aXj2bGGckuynp00"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 264400,
       "name": "Storybook Love",
       "url": "https://open.spotify.com/track/2qd9sd9JjKFe4OTqaaHTkc"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Korgis Kollection",
+        "url": "https://open.spotify.com/album/13sFIOMblyr8x7TwD546jN"
+      },
+      "artists": [
+        {
+          "name": "The Korgis",
+          "url": "https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3"
+        }
+      ],
+      "duration_ms": 251946,
+      "name": "Everybody's Got To Learn Sometime",
+      "url": "https://open.spotify.com/track/2PxyiPwogw6C9yu1jRgFiA"
     },
     {
       "added_at": "2018-12-12 11:36:39",

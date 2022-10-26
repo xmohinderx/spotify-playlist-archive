@@ -4,7 +4,7 @@
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-136 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/1hAa8J0PFUdYrlTpNoEoq8)
+137 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/1hAa8J0PFUdYrlTpNoEoq8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A Dónde Va Nuestro Amor?](https://open.spotify.com/track/4y5SzY2HuX5UM4cFJTkaxS) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [RCA 100 Años De Musica](https://open.spotify.com/album/6kmo9ICrHMtTWTr6AghTa2) | 3:02 | 2022-05-10 | 2022-07-29 |
 | [A Esa](https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Personalidad](https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY) | 3:08 | 2022-05-10 |  |
 | [A Quien?](https://open.spotify.com/track/5BgwRXKJe9sdeEtFm8d43u) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2GfGn4V16KyYJFtkKL4OHY) | 3:40 | 2022-05-10 | 2022-07-29 |
-| [A Quién](https://open.spotify.com/track/05Q10ZrEo9dnfaWWs8ODtp) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Amor a Millón](https://open.spotify.com/album/7CVK9XuUrR2Dib3xpjKSkO) | 3:36 | 2022-05-10 |  |
+| [A Quien?](https://open.spotify.com/track/5LTWHnzyEZTZwU6VQKOBJ4) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/27ihlO6JX8joygy2nXsZ1l) | 3:40 | 2022-05-10 |  |
+| [A Quién](https://open.spotify.com/track/05Q10ZrEo9dnfaWWs8ODtp) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Amor a Millón](https://open.spotify.com/album/7CVK9XuUrR2Dib3xpjKSkO) | 3:36 | 2022-05-10 | 2022-10-26 |
 | [A Tu Recuerdo](https://open.spotify.com/track/0ZHoRUV1mugmRfG16MnBwP) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Lo Más Romántico De](https://open.spotify.com/album/4dy1PD7aN1of2Stl7WPwiJ) | 3:21 | 2022-05-10 |  |
 | [A Tu Recuerdo](https://open.spotify.com/track/3SZ5Q0KLVIIFKcXIKXb295) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [A Tu Recuerdo](https://open.spotify.com/album/3lM4QDtuqPnVFLDfjNtzdY) | 3:26 | 2022-05-10 | 2022-07-29 |
 | [Abrázame](https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:11 | 2022-05-10 |  |

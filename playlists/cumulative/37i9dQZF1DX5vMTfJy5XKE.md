@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-208 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/5LfWH4HC2jeu9j5xLz96yV)
+209 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/5LfWH4HC2jeu9j5xLz96yV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Kid Again On Christmas](https://open.spotify.com/track/6xOZ67H31FwSejzrGnHPEB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas \(Deluxe\)](https://open.spotify.com/album/5rUtKnfNHc77VrCwCjLA9K) | 3:04 | 2021-12-24 | 2022-09-28 |
 | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ) | 3:35 | 2021-12-24 |  |
 | [Krampus](https://open.spotify.com/track/26BD6NDCE6Ea74l7ThbIrf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Krampus](https://open.spotify.com/album/3rKCZFTsWdruzZyOxie9Ha) | 2:24 | 2021-12-24 | 2022-10-24 |
-| [Last Christmas](https://open.spotify.com/track/1MhVxSV4FDHXpEKD7gNihY) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Last Christmas](https://open.spotify.com/album/6WgxdPrhXE7bohHIrg622i) | 3:46 | 2022-09-27 |  |
+| [Last Christmas](https://open.spotify.com/track/0ahxJ7fSpq0Jbg81prulC1) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 3:46 | 2022-10-25 |  |
+| [Last Christmas](https://open.spotify.com/track/1MhVxSV4FDHXpEKD7gNihY) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Last Christmas](https://open.spotify.com/album/6WgxdPrhXE7bohHIrg622i) | 3:46 | 2022-09-27 | 2022-10-26 |
 | [Last Christmas](https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 | 2021-12-24 |  |
 | [Let It Snow \(Navidad, Navidad, Navidad\)](https://open.spotify.com/track/4T4aFeXq0ApaWfaZhB3qnO) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Let It Snow \(Navidad, Navidad, Navidad\)](https://open.spotify.com/album/3gj5VjrRGd6bdZLsKSppSd) | 2:41 | 2021-12-24 | 2022-09-28 |
 | [Let It Snow! \- 10th Anniversary](https://open.spotify.com/track/5YBmVtkeoRdxU1GhRDrxuz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Let It Snow! \(10th Anniversary\)](https://open.spotify.com/album/17Qr6J860gp3HrESuJ5D2M) | 2:39 | 2021-12-24 | 2022-10-24 |

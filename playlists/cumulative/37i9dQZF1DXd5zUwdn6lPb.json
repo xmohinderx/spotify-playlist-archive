@@ -1273,46 +1273,20 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
           "name": "English Baroque Soloists",
           "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
         }
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 131479,
-      "name": "Handel: Concerto Grosso in F Major, Op. 3 No. 4a, HWV 315: II. Andante",
+      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
       "url": "https://open.spotify.com/track/1SSaWY93eyPcEOtDyMaMab"
-    },
-    {
-      "album": {
-        "name": "Handel Edition Volume 9 - Orchestral Music",
-        "url": "https://open.spotify.com/album/35kbdKykOEAZoj86xtsLms"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        }
-      ],
-      "date_added": "2022-08-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138239,
-      "name": "Handel: Water Music - Suite No. 1 in F Major, HWV 348: IV. Andante",
-      "url": "https://open.spotify.com/track/3LRFULohtv8BnMrqPEq3Sv"
     },
     {
       "album": {
@@ -1339,58 +1313,6 @@
       "duration_ms": 230426,
       "name": "Handel: Water Music - Suite No. 1 in F Major, HWV 348: VI. Air",
       "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
-    },
-    {
-      "album": {
-        "name": "Handel Edition Volume 9 - Orchestral Music",
-        "url": "https://open.spotify.com/album/35kbdKykOEAZoj86xtsLms"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        }
-      ],
-      "date_added": "2022-08-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230426,
-      "name": "Handel: Water Music - Suite No. 1 in F Major, HWV 348: VI. Air",
-      "url": "https://open.spotify.com/track/4Vre4ayOqSjTABaRrdsjlc"
-    },
-    {
-      "album": {
-        "name": "Handel Edition Volume 9 - Orchestral Music",
-        "url": "https://open.spotify.com/album/35kbdKykOEAZoj86xtsLms"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        }
-      ],
-      "date_added": "2022-08-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 261213,
-      "name": "Handel: Water Music - Suite No. 3 in G Major, HWV 350: III. Minuets I & II",
-      "url": "https://open.spotify.com/track/4dXyWBr5kq1krarOWzFxIO"
     },
     {
       "album": {
@@ -1443,6 +1365,84 @@
       "duration_ms": 138239,
       "name": "Handel: Water Music Suite No. 1, HWV 348: Andante",
       "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
+    },
+    {
+      "album": {
+        "name": "Handel Edition Volume 9 - Orchestral Music",
+        "url": "https://open.spotify.com/album/35kbdKykOEAZoj86xtsLms"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138239,
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: IV. Andante",
+      "url": "https://open.spotify.com/track/3LRFULohtv8BnMrqPEq3Sv"
+    },
+    {
+      "album": {
+        "name": "Handel Edition Volume 9 - Orchestral Music",
+        "url": "https://open.spotify.com/album/35kbdKykOEAZoj86xtsLms"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230426,
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
+      "url": "https://open.spotify.com/track/4Vre4ayOqSjTABaRrdsjlc"
+    },
+    {
+      "album": {
+        "name": "Handel Edition Volume 9 - Orchestral Music",
+        "url": "https://open.spotify.com/album/35kbdKykOEAZoj86xtsLms"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261213,
+      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: III. Minuets I & II",
+      "url": "https://open.spotify.com/track/4dXyWBr5kq1krarOWzFxIO"
     },
     {
       "album": {

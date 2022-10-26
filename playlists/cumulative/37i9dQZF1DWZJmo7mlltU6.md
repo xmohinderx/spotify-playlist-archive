@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: Frankie Cosmos.
 
-446 songs - 1 day 0 hr 45 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
+447 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Elon Musk \(W ogniu się unoszę\)](https://open.spotify.com/track/3UH5SVLXiVcilknjQzhvT4) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Elon Musk \(W ogniu się unoszę\)](https://open.spotify.com/album/0CgdTE0nRKpJdkjviXCtr0) | 3:33 | 2022-03-28 | 2022-06-18 |
 | [empleado del mes](https://open.spotify.com/track/1p4PINMyO9rjyt4AN0DWxo) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [empleado del mes](https://open.spotify.com/album/4YvqwFBW0pc0HXX4D7xGfI) | 2:58 | 2022-03-28 | 2022-08-27 |
 | [Empty Air](https://open.spotify.com/track/0uDk3TAVnAQXQmsrEuZHbc) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [I Don't Like Roses](https://open.spotify.com/album/58syBUrmo8UCiWFF2BuszZ) | 3:00 | 2022-03-28 | 2022-10-01 |
-| [Empty Head](https://open.spotify.com/track/1yEHKriEfBw6k1Dcb9sEBj) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Empty Head](https://open.spotify.com/album/3cLIlAzid7cOpdsfECmON9) | 5:13 | 2022-10-21 |  |
+| [Empty Head](https://open.spotify.com/track/1yEHKriEfBw6k1Dcb9sEBj) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Empty Head](https://open.spotify.com/album/3cLIlAzid7cOpdsfECmON9) | 5:13 | 2022-10-21 | 2022-10-26 |
+| [Empty Head](https://open.spotify.com/track/54DjNRB4TFeXOpRMBJyNv3) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 5:13 | 2022-10-21 |  |
 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 | 2022-08-12 |  |
 | [Enjoy The Night](https://open.spotify.com/track/6NXwQZIgrp61brkGDG8uo9) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE), [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo) | [Enjoy The Night](https://open.spotify.com/album/0RCzYsJhABlRPi6bz2gnxn) | 3:13 | 2022-01-28 | 2022-04-09 |
 | [Euroyeyé](https://open.spotify.com/track/043vbS11R0MfvPr7BS8Bp5) | [Evripidis and His Tragedies](https://open.spotify.com/artist/5m1U2MS7bnlNKB72RJSeys) | [Euroyeyé](https://open.spotify.com/album/3Gy1Ofv3Il9tmBahQeP6sJ) | 4:47 | 2022-05-11 | 2022-06-18 |

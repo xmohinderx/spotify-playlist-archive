@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 628154,
+  "num_followers": 628204,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM3OTc4NCwwMDAwMDAwMDQwZDJiOTk2NDQwNjc2NjU0ZGQ5MDBlMDNlNThjNDFh",
+  "snapshot_id": "MTY2NjM3OTc4NCwwMDAwMDAwMGRjMWVlNGJhOWEwNDQ4MWY4N2JmY2NhZDRmODVlOTUx",
   "tracks": [
     {
       "added_at": "2022-10-21 19:16:24",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Ulayaw",
-        "url": "https://open.spotify.com/album/2qoEb7DazQiYwE5zsGtiDd"
-      },
-      "artists": [
-        {
-          "name": "Elise Ryen",
-          "url": "https://open.spotify.com/artist/1Y8OBKQHdu5wZvspKzUzPc"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Ulayaw",
-      "url": "https://open.spotify.com/track/6mk4Fk0a1ZEQZTBBQBccIm"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 192309,
       "name": "Entirely",
       "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Ulayaw",
+        "url": "https://open.spotify.com/album/2qoEb7DazQiYwE5zsGtiDd"
+      },
+      "artists": [
+        {
+          "name": "Elise Ryen",
+          "url": "https://open.spotify.com/artist/1Y8OBKQHdu5wZvspKzUzPc"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Ulayaw",
+      "url": "https://open.spotify.com/track/6mk4Fk0a1ZEQZTBBQBccIm"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
+        "name": "Through The Mist",
+        "url": "https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C"
+      },
+      "artists": [
+        {
+          "name": "The Sleep Crew",
+          "url": "https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Through The Mist",
+      "url": "https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
         "name": "Hum",
         "url": "https://open.spotify.com/album/5Cg1qCOjqRuBWMsxs6hNtK"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Son\u00e1mbulos",
-        "url": "https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V"
-      },
-      "artists": [
-        {
-          "name": "Abril Iluso",
-          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Luminescent",
         "url": "https://open.spotify.com/album/64UGm861qokqOZbmpjR6du"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 264000,
       "name": "Luminescent",
       "url": "https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Son\u00e1mbulos",
+        "url": "https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V"
+      },
+      "artists": [
+        {
+          "name": "Abril Iluso",
+          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -535,22 +551,6 @@
       "duration_ms": 162500,
       "name": "Hvis du bare vidste",
       "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
-        "name": "Through The Mist",
-        "url": "https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C"
-      },
-      "artists": [
-        {
-          "name": "The Sleep Crew",
-          "url": "https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Through The Mist",
-      "url": "https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
+        "name": "432 hz Frequency of Universe",
+        "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
+      },
+      "artists": [
+        {
+          "name": "Binaural Landscapes",
+          "url": "https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn"
+        }
+      ],
+      "duration_ms": 160345,
+      "name": "Precious 432 hz",
+      "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
         "name": "Porto Fino",
         "url": "https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 105626,
       "name": "Piano Ele\u0301ctrico",
       "url": "https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
-        "name": "432 hz Frequency of Universe",
-        "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
-      },
-      "artists": [
-        {
-          "name": "Binaural Landscapes",
-          "url": "https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn"
-        }
-      ],
-      "duration_ms": 160345,
-      "name": "Precious 432 hz",
-      "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -751,18 +751,18 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Neend",
-        "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
+        "name": "Legend Of Zea",
+        "url": "https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce"
       },
       "artists": [
         {
-          "name": "Asanah",
-          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
+          "name": "Cora Zea",
+          "url": "https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg"
         }
       ],
-      "duration_ms": 157306,
-      "name": "Neend",
-      "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
+      "duration_ms": 211583,
+      "name": "Afternoon Spirits",
+      "url": "https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -783,18 +783,18 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Legend Of Zea",
-        "url": "https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce"
+        "name": "Neend",
+        "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
       },
       "artists": [
         {
-          "name": "Cora Zea",
-          "url": "https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg"
+          "name": "Asanah",
+          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
         }
       ],
-      "duration_ms": 211583,
-      "name": "Afternoon Spirits",
-      "url": "https://open.spotify.com/track/6kAwnVIencquZ72t4X46Lh"
+      "duration_ms": 157306,
+      "name": "Neend",
+      "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Would I Bother",
-        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Johansson",
-          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Would I Bother",
-      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Tenebris",
         "url": "https://open.spotify.com/album/1fTSx4utQoMMsOizIynWza"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 233174,
       "name": "Aragorn",
       "url": "https://open.spotify.com/track/2b5orbKm9tbggBIMQu9quT"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Would I Bother",
+        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Johansson",
+          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Would I Bother",
+      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
+        "name": "Ambientes",
+        "url": "https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "duration_ms": 120172,
+      "name": "Lagrima",
+      "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
         "name": "Song For Wermland",
         "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Ambientes",
-        "url": "https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0"
+        "name": "Frozen Sunlight",
+        "url": "https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b"
       },
       "artists": [
         {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+          "name": "Sun Echo",
+          "url": "https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D"
         }
       ],
-      "duration_ms": 120172,
-      "name": "Lagrima",
-      "url": "https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm"
+      "duration_ms": 210277,
+      "name": "Frozen Sunlight - Music Only",
+      "url": "https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Frozen Sunlight",
-        "url": "https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b"
-      },
-      "artists": [
-        {
-          "name": "Sun Echo",
-          "url": "https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D"
-        }
-      ],
-      "duration_ms": 210277,
-      "name": "Frozen Sunlight - Music Only",
-      "url": "https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Darashinai Beach",
         "url": "https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc"
       },
@@ -1455,22 +1455,6 @@
       "duration_ms": 219090,
       "name": "Darashinai Beach",
       "url": "https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
-        "name": "Open Eyes",
-        "url": "https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Johansson",
-          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
-        }
-      ],
-      "duration_ms": 212028,
-      "name": "Open Eyes",
-      "url": "https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Hope And Glory",
-        "url": "https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE"
+        "name": "Open Eyes",
+        "url": "https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8"
       },
       "artists": [
         {
-          "name": "Figgy Malone",
-          "url": "https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl"
+          "name": "Fredrik Johansson",
+          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
         }
       ],
-      "duration_ms": 204870,
-      "name": "Hope And Glory",
-      "url": "https://open.spotify.com/track/25UAQI7VfhuesIWLxUd6Tp"
+      "duration_ms": 212028,
+      "name": "Open Eyes",
+      "url": "https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1519,6 +1503,22 @@
       "duration_ms": 227093,
       "name": "Minism",
       "url": "https://open.spotify.com/track/2yAb7Su6vkaBvnhCkkBQFx"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Hope And Glory",
+        "url": "https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE"
+      },
+      "artists": [
+        {
+          "name": "Figgy Malone",
+          "url": "https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl"
+        }
+      ],
+      "duration_ms": 204870,
+      "name": "Hope And Glory",
+      "url": "https://open.spotify.com/track/25UAQI7VfhuesIWLxUd6Tp"
     },
     {
       "added_at": "2022-10-21 19:16:24",

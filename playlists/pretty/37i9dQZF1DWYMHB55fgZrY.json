@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Plastilina Mosh en portada.",
-  "num_followers": 456527,
+  "num_followers": 456650,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIyODA3MCwwMDAwMDAwMDI0ODJjYzA5MTViN2E4ZDcxNjA1MDQ2MzZhMjQyYmY5",
+  "snapshot_id": "MTY2NDIyODA3MCwwMDAwMDAwMGVhMmMwMmVhODkzMDVhMGIwZDUwODI3OTM3M2VkNDRm",
   "tracks": [
     {
       "added_at": "2022-01-28 17:39:37",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 180826,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Donde los Ponys Pastan",
         "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+        "name": "Arunima",
+        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
         }
       ],
-      "duration_ms": 180826,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+      "duration_ms": 228534,
+      "name": "No Es Que No Te Quiera",
+      "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -843,22 +859,6 @@
       "duration_ms": 205175,
       "name": "En Tu Orilla",
       "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Arunima",
-        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 228534,
-      "name": "No Es Que No Te Quiera",
-      "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/3b9yTPrrIquBZsco8jVPi1"
     },
     {
-      "added_at": "2022-06-30 21:30:11",
-      "album": {
-        "name": "Caminar Sola",
-        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Caminar Sola",
-      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
-    },
-    {
       "added_at": "2022-01-28 17:39:37",
       "album": {
         "name": "Salon Victoria",
@@ -1331,6 +1315,22 @@
       "duration_ms": 183480,
       "name": "Mi Vida es un Tango",
       "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
+    },
+    {
+      "added_at": "2022-06-30 21:30:11",
+      "album": {
+        "name": "Caminar Sola",
+        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Caminar Sola",
+      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po"
     },
     {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Caballeros del Albedr\u00edo",
-        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "El Hombre P\u00e1nico",
-      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
-    },
-    {
       "added_at": "2022-04-04 22:59:45",
       "album": {
         "name": "El mundo bajo el brazo",
@@ -1459,6 +1443,22 @@
       "duration_ms": 225836,
       "name": "El mundo bajo el brazo",
       "url": "https://open.spotify.com/track/22QKZaf3rD04GwLPiCeL4q"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Caballeros del Albedr\u00edo",
+        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "El Hombre P\u00e1nico",
+      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
     },
     {
       "added_at": "2022-01-28 17:39:37",

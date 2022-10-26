@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 394505,
+  "num_followers": 394658,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM1Mzc2MSwwMDAwMDAwMDliYzk5MjkxOTViNDFiMmM1MDg1YjQzODkwNzFhMGUw",
+  "snapshot_id": "MTY2NjM1Mzc2MSwwMDAwMDAwMDg3YTk1ZTY1NGFmZGM3ZGYyZDk4NjRjMTNiNDJlOTIw",
   "tracks": [
     {
       "added_at": "2022-10-21 12:02:40",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Alfa EP",
-        "url": "https://open.spotify.com/album/6nHbGBXnZxCP0PAq2Wt4rd"
-      },
-      "artists": [
-        {
-          "name": "Crackazat",
-          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
-        }
-      ],
-      "duration_ms": 285772,
-      "name": "Alfa - Original Mix",
-      "url": "https://open.spotify.com/track/1UabDxiLk78adOCYuQzhpu"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "porco rosso",
         "url": "https://open.spotify.com/album/1Fp9w0o4EBXaWTuV6UJ3VL"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 219840,
       "name": "porco rosso",
       "url": "https://open.spotify.com/track/5lwjdvgblpKI77ferBvdNl"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Alfa EP",
+        "url": "https://open.spotify.com/album/6nHbGBXnZxCP0PAq2Wt4rd"
+      },
+      "artists": [
+        {
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        }
+      ],
+      "duration_ms": 285772,
+      "name": "Alfa - Original Mix",
+      "url": "https://open.spotify.com/track/1UabDxiLk78adOCYuQzhpu"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Everytime EP",
-        "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
-      },
-      "artists": [
-        {
-          "name": "Jason Hersco",
-          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
-        }
-      ],
-      "duration_ms": 308269,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "We Should Chill On The Windowsill More",
         "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 326129,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Everytime EP",
+        "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
+      },
+      "artists": [
+        {
+          "name": "Jason Hersco",
+          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
+        }
+      ],
+      "duration_ms": 308269,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "The Sayers",
-        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
-      },
-      "artists": [
-        {
-          "name": "Klein Zage",
-          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
-        }
-      ],
-      "duration_ms": 293584,
-      "name": "The Sayers",
-      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "Late Night Basix Vol. 2",
         "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 359793,
       "name": "Deep -N- Dirty",
       "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "The Sayers",
+        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
+      },
+      "artists": [
+        {
+          "name": "Klein Zage",
+          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
+        }
+      ],
+      "duration_ms": 293584,
+      "name": "The Sayers",
+      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
+        "name": "lo-fi_house.zip",
+        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
+      },
+      "artists": [
+        {
+          "name": "kemt",
+          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
+        }
+      ],
+      "duration_ms": 375000,
+      "name": "100 reasons",
+      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
         "name": "Spanish Steroids",
         "url": "https://open.spotify.com/album/2c5f2MHRXHZVhIf9ayKlbv"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 371205,
       "name": "Spanish Steroids",
       "url": "https://open.spotify.com/track/4RwzGoLeOErK6f4W0d9nzO"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
-        "name": "lo-fi_house.zip",
-        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
-      },
-      "artists": [
-        {
-          "name": "kemt",
-          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
-        }
-      ],
-      "duration_ms": 375000,
-      "name": "100 reasons",
-      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
+        "name": "Intimate Fantasy - EP",
+        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 493000,
+      "name": "Intimate Fantasy",
+      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
         "name": "Ocean Drift",
         "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "The Sinner \u2014 Time Traveller",
-        "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        }
-      ],
-      "duration_ms": 282857,
-      "name": "The Sinner",
-      "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "Asakusa Light",
         "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
+        "name": "The Sinner \u2014 Time Traveller",
+        "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "duration_ms": 282857,
+      "name": "The Sinner",
+      "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
         "name": "Ode to Ipse",
         "url": "https://open.spotify.com/album/5Ki88XhcuWUk8WlXmaKrwS"
       },
@@ -851,6 +867,22 @@
       "duration_ms": 338997,
       "name": "Ode to Ipse",
       "url": "https://open.spotify.com/track/5gcjlg6RtrnSz5mtk3kvi0"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Tokyo Cruise",
+        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Tokyo Cruise",
+      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -875,22 +907,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Tokyo Cruise",
-        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Tokyo Cruise",
-      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "Dosages, Vol. 2",
         "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 178983,
       "name": "Lofi Vs. House",
       "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
-        "name": "Intimate Fantasy - EP",
-        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 493000,
-      "name": "Intimate Fantasy",
-      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Moonlite",
-        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
-      },
-      "artists": [
-        {
-          "name": "Functionist",
-          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
-        }
-      ],
-      "duration_ms": 212554,
-      "name": "Moonlite",
-      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "Moon II Remixes Pt. II",
         "url": "https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 277567,
       "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
       "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Moonlite",
+        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
+      },
+      "artists": [
+        {
+          "name": "Functionist",
+          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
+        }
+      ],
+      "duration_ms": 212554,
+      "name": "Moonlite",
+      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
     },
     {
       "added_at": "2022-10-21 12:02:40",

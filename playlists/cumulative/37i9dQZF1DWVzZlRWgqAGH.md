@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: NxWorries \(Anderson .Paak, Knxwledge\)
 
-744 songs - 1 day 19 hr 58 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+745 songs - 1 day 20 hr 2 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Cobra](https://open.spotify.com/track/57Ip2iaVNNmdT3DmwRzusR) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Cobra](https://open.spotify.com/album/7800pzSqn95TKPwGSm51Mr) | 4:01 | 2020-10-23 | 2022-07-29 |
 | [Coco Blood](https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Coco Blood](https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k) | 3:35 | 2019-11-01 | 2020-02-20 |
 | [Colourblind](https://open.spotify.com/track/10yEuVTCQqGA6faDOEQC2r) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Collard](https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH) | [Colourblind](https://open.spotify.com/album/2kD19A5nIp6JE9jepPss3W) | 4:26 | 2020-07-18 | 2022-07-29 |
+| [Colourblind](https://open.spotify.com/track/37z4KRlnEhRforTs0t23Pa) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Collard](https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH) | [Current Blues](https://open.spotify.com/album/0eLcH4iKjPc7Hx10C6UpWB) | 4:26 | 2022-10-21 |  |
 | [Come Over](https://open.spotify.com/track/2M5Ua4xtwQ4TYq7bxTpz1P) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Come Over](https://open.spotify.com/album/2Bi5qaVs4IlEgp3mUGrum8) | 4:01 | 2020-09-11 | 2022-04-19 |
 | [Compassion \(feat\. Chiiild\)](https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 4:22 | 2022-04-15 |  |
 | [COMPLEX OF KILLING A MAN](https://open.spotify.com/track/6ihpg1nZjVS5N7rLIWeEXn) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [COMPLEX OF KILLING A MAN](https://open.spotify.com/album/0kroCqy4KxlRc6gRT9PneG) | 3:11 | 2022-05-27 | 2022-07-31 |
@@ -182,7 +183,7 @@
 | [Don't Matter](https://open.spotify.com/track/2Hqnf47u2FVZSMor6JKlj2) | [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Don't Matter](https://open.spotify.com/album/00FU9LXDlgYWumFuNzT1tR) | 2:50 | 2021-10-10 | 2022-04-21 |
 | [Don't Turn Around](https://open.spotify.com/track/6FzZMJGhI5JA5nDVM87s5w) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/4DJijRH1nTtLoQt8s8gUI3) | 2:51 | 2020-07-24 | 2020-10-21 |
 | [Don't Wanna See You](https://open.spotify.com/track/6qyjr0RjKwLPR1rigpI1HZ) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Don't Wanna See You](https://open.spotify.com/album/1hfCLmpFaBuEt8STQPSpqK) | 3:27 | 2019-11-15 | 2020-02-01 |
-| [Dos Uvas](https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Dos Uvas](https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf) | 3:29 | 2021-09-04 |  |
+| [Dos Uvas](https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Dos Uvas](https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf) | 3:29 | 2021-09-04 | 2022-10-26 |
 | [Doubt Nothing](https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Doubt Nothing](https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK) | 3:00 | 2020-10-23 | 2022-10-21 |
 | [Down for You \- Remix](https://open.spotify.com/track/2Ucd1gHdGTBc90QgWgcUN5) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Down for You \(Remix\)](https://open.spotify.com/album/4XrzUp8eT1yeWAA4QM32Of) | 2:46 | 2021-10-11 | 2022-04-18 |
 | [Downhill \(7\-Inch\)](https://open.spotify.com/track/1zkjy33RfNhOk0MKi8SLsL) | [Nick Kurosawa](https://open.spotify.com/artist/1KhJeoBHUcDkcc5rudoWlK), [Ohtoro](https://open.spotify.com/artist/6ZZLqFuJgm4rdhWaPuiodW), [Maxmo](https://open.spotify.com/artist/0G2GQqRpPXGMyzbyir24Vp), [Neal Chin](https://open.spotify.com/artist/50ljmcpKFwjgX2vQ0Ux59A) | [Downhill EP](https://open.spotify.com/album/1u9CZjWQujbIwYnF59WNXj) | 2:02 | 2021-06-16 | 2022-07-29 |

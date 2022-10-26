@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,948 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,026 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 30 | [Give Me One Reason](https://open.spotify.com/track/3psdUK3ZLT8VLl6ZdCyfUc) | [Earl Thomas](https://open.spotify.com/artist/2RXD3UIiRZuEk1hVfKyPK2) | [Unplugged At Caffe Calabria](https://open.spotify.com/album/2WzdzAGB2md2dBKPbpC1oK) | 5:48 |
 | 31 | [Crossroads \- Live](https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:18 |
 | 32 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
-| 33 | [I’ve Been Loving You Too Long \- Live](https://open.spotify.com/track/5D0ZRPvZOCbR520eCZ5mCs) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Blues From The Heart Live](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 6:52 |
+| 33 | [I’ve Been Loving You Too Long \(Live\)](https://open.spotify.com/track/5D0ZRPvZOCbR520eCZ5mCs) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 6:52 |
 | 34 | [Tom Cat Blues](https://open.spotify.com/track/69LGgafa9setHOHVyPQyJK) | [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [Blue Country Heart](https://open.spotify.com/album/4p6mFvVULKm6iU8BXksH6r) | 3:03 |
 | 35 | [Don't Give a Damn](https://open.spotify.com/track/2jFIiF5GpgS5PL8y7rFurn) | [Pete Alderton](https://open.spotify.com/artist/6ZcrtRB04NsWQp5bTnMSem) | [Cover My Blues](https://open.spotify.com/album/417wJrH380kNJ1SBJwAgtm) | 2:27 |
 | 36 | [Te Ni Nee Ni Nu](https://open.spotify.com/track/6FLhQua5ju8et7kCH6pDLA) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [All Time Favorites: Lou Ann Barton](https://open.spotify.com/album/05lqmLDciO40z9cFmFSLYJ) | 2:54 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 64 | [Hound Dog](https://open.spotify.com/track/4zWSge8GdwbqY2aTFX98rR) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Greatest Blues Covers](https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG) | 5:33 |
 | 65 | [Ain't No Way](https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 6:47 |
 | 66 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/4HTF7QhXhZQyuowEaGAiBl) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 5:57 |
-| 67 | [Stop Messin’ Round \- Live](https://open.spotify.com/track/7FD3t0JgZ46k28egOPYfHa) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Blues From The Heart Live](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 3:49 |
+| 67 | [Stop Messin’ Round \(Live\)](https://open.spotify.com/track/7FD3t0JgZ46k28egOPYfHa) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 3:49 |
 | 68 | [I'll Play the Blues for You](https://open.spotify.com/track/6mu0vqpaJQJ0qoTMiP64ao) | [Frank Marino](https://open.spotify.com/artist/4N7EfXrDs4KJFXuN2BIuCT) | [L.A\. Blues Authority Vol\. Iv: Fit for a King](https://open.spotify.com/album/3BsSIZf9F8d6dejzNht08w) | 5:30 |
 | 69 | [Love That Burns \(with Rick Vito\) \- Live from The London Palladium](https://open.spotify.com/track/7avlGe2Kmp0yagByGRT9x0) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Rick Vito](https://open.spotify.com/artist/0yC7EvUceCEZm3ZeawauQA) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac \(Live from The London Palladium\)](https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA) | 5:54 |
 | 70 | [Funny How Time Slips Away](https://open.spotify.com/track/1fDmvwNjghVsHWjrIruFJU) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Country Blues Hits](https://open.spotify.com/album/7zmKufdRW5fhQ1TfCBRV0h) | 4:08 |

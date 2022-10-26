@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: French Montana, NAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,671 likes - 101 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,714 likes - 101 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 35 | [Time For a Perc](https://open.spotify.com/track/17Yn0fc79e5Q2P8GTgYGLg) | [KHEM](https://open.spotify.com/artist/5oR5JjCXsdwdho4arNfO4C) | [Time For a Perc](https://open.spotify.com/album/7hbqa2241vZn0BWja427GZ) | 1:46 |
 | 36 | [HEAT](https://open.spotify.com/track/5C2lBA8cceb0EwyCPDEsH8) | [Ramsay Almighty](https://open.spotify.com/artist/1wkmDig3ums4HIkGMfFwqE) | [HEAT](https://open.spotify.com/album/0nM49aJlprwlEfV674EPDv) | 2:58 |
 | 37 | [Monopoly](https://open.spotify.com/track/2uEYMGlmvdRrBuAFIZr7pQ) | [Che](https://open.spotify.com/artist/3E5ZrCLCq0HP63QQHF6ttp) | [Underdog](https://open.spotify.com/album/0KYMGFkSgpb5bAqKQojkUQ) | 3:00 |
-| 38 | [Celebration \(feat\. Waayve, Temia, Liyah & Mannie\)](https://open.spotify.com/track/1OxmuIHpa6a9DM352tvhlG) | [Nycesound Production](https://open.spotify.com/artist/4KuYv8blOVBw5mqckQ4a6L), [Waayve](https://open.spotify.com/artist/43frrjZm4xIly8czdRd2ix), [Temia](https://open.spotify.com/artist/1lNU1BvYhxDcUyXkgyUVMa), [Mannie](https://open.spotify.com/artist/0zgAhjlUqDIcAm9hwZmiFw), [Liyah](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [Celebration \(feat\. Waayve, Temia, Liyah & Mannie\)](https://open.spotify.com/album/7FJPusS9ib4zXgwL3gzEZv) | 3:02 |
+| 38 | [Celebration \(feat\. Waayve, Temia, Liyah & Mannie\)](https://open.spotify.com/track/1OxmuIHpa6a9DM352tvhlG) | [Nycesound Production](https://open.spotify.com/artist/4KuYv8blOVBw5mqckQ4a6L), [Waayve](https://open.spotify.com/artist/43frrjZm4xIly8czdRd2ix), [Mannie](https://open.spotify.com/artist/0zgAhjlUqDIcAm9hwZmiFw), [Liyah](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu), [Temia](https://open.spotify.com/artist/1lNU1BvYhxDcUyXkgyUVMa) | [Celebration \(feat\. Waayve, Temia, Liyah & Mannie\)](https://open.spotify.com/album/7FJPusS9ib4zXgwL3gzEZv) | 3:02 |
 | 39 | [Money](https://open.spotify.com/track/1rZL6SPpk7ac7zEzr9u0iO) | [Ghostboyrj](https://open.spotify.com/artist/2JOM9U6c8ef5pDlJwHAbjO) | [Money](https://open.spotify.com/album/7DlLdhTs5xf4IgOqPosrPC) | 3:26 |
 | 40 | [Say My Name](https://open.spotify.com/track/1vlmCUUrQiAb2sYPbnnBJz) | [2WINS](https://open.spotify.com/artist/0gdlcU9uKxLUgllCz1B3iO), [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6), [Keysha Freshh](https://open.spotify.com/artist/5dOPo7YOqsRrH0cqw8ol3u) | [Say My Name](https://open.spotify.com/album/2vGTIVVWNdQts1YI1Gp0OH) | 2:19 |
 | 41 | [STICKTOPLAN](https://open.spotify.com/track/3jgmjzB8ldjrniRAmZTnan) | [NLN](https://open.spotify.com/artist/62n4U1X9Uk7DF9jQkAaBrW) | [STICKTOPLAN](https://open.spotify.com/album/5Nj7zGiWNIMJIe87TatNKH) | 2:30 |

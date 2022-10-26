@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-220 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
+221 songs - 13 hr 58 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Burned \(2022 Remaster\)](https://open.spotify.com/track/3RvsARgXxO6AAgZ4lF5lZK) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT), [Matthew Sweet](https://open.spotify.com/artist/2idymNTKUdnTxforkb12Mw) | [Hollywood Blues: Songs and Stories from the Family Tree \(1997\-2022\)](https://open.spotify.com/album/7LE2GFTq1Smdeezt2eTAcx) | 2:35 | 2022-05-13 | 2022-06-11 |
 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl) | 3:43 | 2021-12-17 |  |
 | [Catfish Blues](https://open.spotify.com/track/22AC1MxK4QD3RiS7BeTIXt) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/6fgTw3IgOwR0YN0YyRhAws) | 4:11 | 2021-12-17 | 2022-07-29 |
-| [Catfish Blues](https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/133vVuyhmwo2fWJNs6u5AK) | 4:11 | 2022-01-28 |  |
+| [Catfish Blues](https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/133vVuyhmwo2fWJNs6u5AK) | 4:11 | 2022-01-28 | 2022-10-26 |
 | [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 | 2022-08-12 |  |
 | [Change My Mind](https://open.spotify.com/track/0H2MZlPGsXeQuNzLY6dL1P) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [Change My Mind](https://open.spotify.com/album/5D4wpw1J1QrlUFg9N95wHh) | 5:01 | 2021-12-17 | 2022-06-11 |
 | [Clotilda's On Fire](https://open.spotify.com/track/1B3KOfW9ZxFB4sVDK4s9a8) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Clotilda's On Fire](https://open.spotify.com/album/47ADK0ggtSLXrjHdLqRf9D) | 4:26 | 2021-12-17 | 2022-07-29 |
@@ -102,6 +102,7 @@
 | [I Walk On Guilded Splinters](https://open.spotify.com/track/0un5nhtFkx4GF6QMjuQQ0f) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [I Walk On Guilded Splinters](https://open.spotify.com/album/0iS2DhekYLvmmY2eylbJgc) | 4:53 | 2022-05-06 | 2022-07-31 |
 | [I'll Come Running Back To You](https://open.spotify.com/track/4rDmjHyy754Js2SaojUVjZ) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [I'll Come Running Back To You](https://open.spotify.com/album/5FwYTrkDxnTwmKIZ54CGzh) | 4:11 | 2022-03-11 | 2022-06-12 |
 | [Ice Cream & Cigarettes](https://open.spotify.com/track/4MF13EQrQftevIUwXcLQHS) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [Ice Cream & Cigarettes](https://open.spotify.com/album/2y2szuP1tMpaGCJhb2TfRM) | 2:52 | 2021-12-17 | 2022-10-18 |
+| [Ice Cream & Cigarettes](https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [Ice Cream & Cigarettes](https://open.spotify.com/album/0UQLBWKz03PwXhVUocA0Ir) | 2:52 | 2022-01-28 |  |
 | [If Heaven Is A Hotel](https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Strange Time To Be Alive](https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA) | 3:08 | 2022-08-19 | 2022-09-17 |
 | [If These Walls Could Talk](https://open.spotify.com/track/4yYzxF8zUXEG5bsnebYxXe) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/0JP5Rmp9tMhI1M6wa44XRU) | 3:24 | 2022-04-22 | 2022-05-07 |
 | [In Every Heart](https://open.spotify.com/track/76mL8jSzIJGybicOOMP3up) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Let Me Get By](https://open.spotify.com/album/0nE6b7My7kpkI9dRs0pGoV) | 6:20 | 2021-12-17 | 2022-07-25 |

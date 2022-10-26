@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: The Rudeboyz, Maluma, Adam Levine
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,750 likes - 315 songs - 17 hr 21 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,745 likes - 315 songs - 17 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

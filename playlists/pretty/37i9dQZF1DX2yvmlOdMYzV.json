@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 805109,
+  "num_followers": 805382,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjE5NTM5NywwMDAwMDAwMGZkNzE0OWNjZDE5YjlhMmZkMTYxOTE3NzMyMjNmYmM1",
+  "snapshot_id": "MTY2NjE5NTM5NywwMDAwMDAwMGUzOGFhNzU0ZDQzNTEwNThmOTgzYjM3ZjliNDhlMjQw",
   "tracks": [
     {
       "added_at": "2022-10-19 16:03:17",
@@ -131,26 +131,6 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Tiffany Gouch\u00e9",
-          "url": "https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Queen Tings",
-      "url": "https://open.spotify.com/track/5tkR9JkBj3Ueeo8W4k8IZD"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 201933,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7e8vTtMnxTcE2gvs1junW8"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Tiffany Gouch\u00e9",
+          "url": "https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Queen Tings",
+      "url": "https://open.spotify.com/track/5tkR9JkBj3Ueeo8W4k8IZD"
     },
     {
       "added_at": "2022-10-19 16:03:17",
@@ -247,6 +247,34 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
+        "name": "Flight 99",
+        "url": "https://open.spotify.com/album/45IpQ6F0GYcas0yFGMzvac"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+        },
+        {
+          "name": "matt mcwaters",
+          "url": "https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK"
+        },
+        {
+          "name": "Please Wait",
+          "url": "https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Flight 99",
+      "url": "https://open.spotify.com/track/5z2XleKRbvbiytGucM5v2D"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
         "name": "Durand Jones & The Indications (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
       },
@@ -295,34 +323,6 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
-        "name": "Flight 99",
-        "url": "https://open.spotify.com/album/45IpQ6F0GYcas0yFGMzvac"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
-        },
-        {
-          "name": "matt mcwaters",
-          "url": "https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK"
-        },
-        {
-          "name": "Please Wait",
-          "url": "https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Flight 99",
-      "url": "https://open.spotify.com/track/5z2XleKRbvbiytGucM5v2D"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
+        "name": "FEELS",
+        "url": "https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 194303,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
       },
@@ -375,22 +391,6 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 143092,
-      "name": "BILL$",
-      "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
         "name": "Thee Sacred Souls",
         "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 190546,
       "name": "Can I Call You Rose?",
       "url": "https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 143092,
+      "name": "BILL$",
+      "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
     },
     {
       "added_at": "2022-10-19 16:03:17",
@@ -439,22 +455,6 @@
       "duration_ms": 178066,
       "name": "Two Worlds Apart",
       "url": "https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
-        "name": "FEELS",
-        "url": "https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 194303,
-      "name": "Fool For You",
-      "url": "https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5"
     },
     {
       "added_at": "2022-10-19 16:03:17",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
-        "name": "Negro Swan",
-        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "Orlando",
-      "url": "https://open.spotify.com/track/1H8BKN1WYV6AW1kghI3ldP"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
         "name": "Yah / Element (Medley)",
         "url": "https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 176374,
       "name": "Yah / Element - Medley",
       "url": "https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
+        "name": "Negro Swan",
+        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "Orlando",
+      "url": "https://open.spotify.com/track/1H8BKN1WYV6AW1kghI3ldP"
     },
     {
       "added_at": "2022-10-19 16:03:17",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
-        "name": "KMS - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt"
-      },
-      "artists": [
-        {
-          "name": "Marzz",
-          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "KMS - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/6FU20y55c31IEB6YEFzeYB"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 178200,
       "name": "Silence",
       "url": "https://open.spotify.com/track/7CFxO2nX0rV1L94i55PNRO"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
+        "name": "KMS - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7JuVeXXc2QDZxdkMdNPaNt"
+      },
+      "artists": [
+        {
+          "name": "Marzz",
+          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "KMS - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/24JuKCMs4ZabanWcmwqnUA"
     },
     {
       "added_at": "2022-10-19 16:03:17",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
-        "name": "You're Too Precious",
-        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 223900,
-      "name": "You're Too Precious",
-      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
         "name": "I Wonder Why",
         "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
+        "name": "You're Too Precious",
+        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 223900,
+      "name": "You're Too Precious",
+      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/0tgZwo1Li7rgLBzSEF2eIh"
       },
@@ -1159,6 +1159,38 @@
       "duration_ms": 239425,
       "name": "These Days",
       "url": "https://open.spotify.com/track/3u0s2L2nv0gUuDwLlVi4qH"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
+        "name": "SUGA",
+        "url": "https://open.spotify.com/album/5E5QGOClKXPXlVwOW9cWUz"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "duration_ms": 154817,
+      "name": "69 Camaro",
+      "url": "https://open.spotify.com/track/70XkGdEfN4RM7bEwaNaBao"
     },
     {
       "added_at": "2022-10-19 16:03:17",
@@ -1199,22 +1231,6 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
-        "name": "SUGA",
-        "url": "https://open.spotify.com/album/5E5QGOClKXPXlVwOW9cWUz"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dion",
-          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
-        }
-      ],
-      "duration_ms": 154817,
-      "name": "69 Camaro",
-      "url": "https://open.spotify.com/track/70XkGdEfN4RM7bEwaNaBao"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
         "name": "Do 2 Me",
         "url": "https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
         "name": "Honeycomb",
         "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
       },
@@ -1263,6 +1263,30 @@
       "duration_ms": 204324,
       "name": "I'm a Rock",
       "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "FARR",
+          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
+        }
+      ],
+      "duration_ms": 223641,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D"
     },
     {
       "added_at": "2022-10-19 16:03:17",
@@ -1339,22 +1363,6 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
-        "name": "I'll Be Loving You",
-        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 246144,
-      "name": "I'll Be Loving You",
-      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
         "name": "Buying Time",
         "url": "https://open.spotify.com/album/4w2JvzBwaKaYBdLWeepWI3"
       },
@@ -1367,6 +1375,22 @@
       "duration_ms": 236949,
       "name": "Buying Time",
       "url": "https://open.spotify.com/track/3Yt0liwMgB3I0xv3FQBDzI"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
+        "name": "I'll Be Loving You",
+        "url": "https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 246144,
+      "name": "I'll Be Loving You",
+      "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
     },
     {
       "added_at": "2022-10-19 16:03:17",
@@ -1447,6 +1471,26 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
+      },
+      "artists": [
+        {
+          "name": "Chelan",
+          "url": "https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH"
+        },
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "duration_ms": 224050,
+      "name": "PATTERNS",
+      "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
         "name": "Bound (with Blood Orange)",
         "url": "https://open.spotify.com/album/1j3PtWvJUNpsU6tYkjD3FX"
       },
@@ -1483,50 +1527,6 @@
       "duration_ms": 201253,
       "name": "Lava/Treacle",
       "url": "https://open.spotify.com/track/227jTRlttZd3Qjoe1cdtmb"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV"
-      },
-      "artists": [
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
-          "name": "FARR",
-          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
-        }
-      ],
-      "duration_ms": 223641,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
-      },
-      "artists": [
-        {
-          "name": "Chelan",
-          "url": "https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH"
-        },
-        {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
-        }
-      ],
-      "duration_ms": 224050,
-      "name": "PATTERNS",
-      "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
     },
     {
       "added_at": "2022-10-19 16:03:17",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
-        "name": "Jewels in the Night",
-        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
-      },
-      "artists": [
-        {
-          "name": "GINGE",
-          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
-        }
-      ],
-      "duration_ms": 225890,
-      "name": "Jewels in the Night",
-      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
         "name": "You Can't Steal My Joy",
         "url": "https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 154426,
       "name": "Space is the Place",
       "url": "https://open.spotify.com/track/38PFECJBX4yGhiHFH9XgYX"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
+        "name": "Jewels in the Night",
+        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
+      },
+      "artists": [
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "duration_ms": 225890,
+      "name": "Jewels in the Night",
+      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
     },
     {
       "added_at": "2022-10-19 16:03:17",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
-        "name": "Poster Girl",
-        "url": "https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph"
-      },
-      "artists": [
-        {
-          "name": "Talia Goddess",
-          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
-        }
-      ],
-      "duration_ms": 174330,
-      "name": "Poster Girl",
-      "url": "https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
         "name": "C BOTH SIDES",
         "url": "https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 129882,
       "name": "CYCLOPS",
       "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
+        "name": "Poster Girl",
+        "url": "https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph"
+      },
+      "artists": [
+        {
+          "name": "Talia Goddess",
+          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
+        }
+      ],
+      "duration_ms": 174330,
+      "name": "Poster Girl",
+      "url": "https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn"
     },
     {
       "added_at": "2022-10-19 16:03:17",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
-        "name": "Lost In America",
-        "url": "https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T"
-      },
-      "artists": [
-        {
-          "name": "Lo Village",
-          "url": "https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Out The Window",
-      "url": "https://open.spotify.com/track/33U8TA2GLgQOKLhmrK36dp"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 270031,
       "name": "Stay",
       "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
+        "name": "Lost In America",
+        "url": "https://open.spotify.com/album/2WbkuaOgi9oDxB5INkQW9T"
+      },
+      "artists": [
+        {
+          "name": "Lo Village",
+          "url": "https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Out The Window",
+      "url": "https://open.spotify.com/track/33U8TA2GLgQOKLhmrK36dp"
     },
     {
       "added_at": "2022-10-19 16:03:17",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-10-19 16:03:17",
       "album": {
-        "name": "Dying in the Subtlety",
-        "url": "https://open.spotify.com/album/6nJj5oB6KSg74PcIDrp2HP"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Dying in the Subtlety",
-      "url": "https://open.spotify.com/track/5k9BcVWNFpsU35Ojv7LjGQ"
-    },
-    {
-      "added_at": "2022-10-19 16:03:17",
-      "album": {
         "name": "Wu Hen",
         "url": "https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 200596,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
+    },
+    {
+      "added_at": "2022-10-19 16:03:17",
+      "album": {
+        "name": "Dying in the Subtlety",
+        "url": "https://open.spotify.com/album/6nJj5oB6KSg74PcIDrp2HP"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Dying in the Subtlety",
+      "url": "https://open.spotify.com/track/5k9BcVWNFpsU35Ojv7LjGQ"
     },
     {
       "added_at": "2022-10-19 16:03:17",

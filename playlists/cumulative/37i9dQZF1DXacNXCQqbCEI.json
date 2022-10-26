@@ -2254,6 +2254,28 @@
     },
     {
       "album": {
+        "name": "Escape Plan",
+        "url": "https://open.spotify.com/album/4qYVBtC9qkZpEIRZDLyUHg"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        },
+        {
+          "name": "Benjam\u00edn Vanegas",
+          "url": "https://open.spotify.com/artist/3iH5J5um1uCq8fEXkuF5hF"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221925,
+      "name": "Mama Clo",
+      "url": "https://open.spotify.com/track/2jUXoIl9hcfw9JQrOPRHEW"
+    },
+    {
+      "album": {
         "name": "Mama Clo",
         "url": "https://open.spotify.com/album/2zq7CXbAWx4JcraR3Lghn8"
       },
@@ -4367,7 +4389,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-26",
       "duration_ms": 203294,
       "name": "Tribo",
       "url": "https://open.spotify.com/track/0NO3QKBYP9hzHFKGwVufFZ"

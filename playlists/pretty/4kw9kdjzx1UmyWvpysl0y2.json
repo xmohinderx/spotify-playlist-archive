@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127190,
+  "num_followers": 127205,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzcyNSw4MzBkOGM1NzJiYzNjMDQwMjBjOTk2YzllNzIzOGNhY2I1YzA1Y2Q4",
+  "snapshot_id": "MzcyNyw4OTA2ZjcxNGE5MWE1OGZkNDdiYWRkNmMxOWI0MTE4ZTk3YTViYTcw",
   "tracks": [
+    {
+      "added_at": "2022-10-25 19:43:59",
+      "album": {
+        "name": "scars",
+        "url": "https://open.spotify.com/album/7HCCNdm9M09VVaa17mOjES"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "scars",
+      "url": "https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn"
+    },
     {
       "added_at": "2022-10-24 20:03:30",
       "album": {
@@ -1071,26 +1087,6 @@
       "duration_ms": 248400,
       "name": "Black Velvet",
       "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/5PluCcUGUOuGdODZhrYkRH"
-      },
-      "artists": [
-        {
-          "name": "Into The Ether",
-          "url": "https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v"
-        },
-        {
-          "name": "Lumynesynth",
-          "url": "https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/6q0Dab9y6ztIqXXMuqx9Oe"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

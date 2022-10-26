@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 577128,
+  "num_followers": 577201,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc2MzgxMCwwMDAwMDAwMDY5MzE3NmRlMzE3MDBmZmRjYTdmNDFhZDY1ZTE5MGVl",
+  "snapshot_id": "MTY2Mzc2MzgxMCwwMDAwMDAwMDkxNTkzY2ZjZjc1ZGEyODkyMGEwNGVmMjMwYTQ2ZDNm",
   "tracks": [
     {
       "added_at": "2022-09-21 12:36:50",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
+        "name": "Kokaina",
+        "url": "https://open.spotify.com/album/40CYJrASNrMCDr2x4UE60E"
+      },
+      "artists": [
+        {
+          "name": "Miami Yacine",
+          "url": "https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "Kokaina",
+      "url": "https://open.spotify.com/track/2KHbPYI22yWIOgWUsApYIS"
+    },
+    {
+      "added_at": "2022-09-21 12:36:50",
+      "album": {
         "name": "Party 2020",
         "url": "https://open.spotify.com/album/5nf3tQHGdH6J3iINNfOL6T"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
-        "name": "Kokaina",
-        "url": "https://open.spotify.com/album/40CYJrASNrMCDr2x4UE60E"
-      },
-      "artists": [
-        {
-          "name": "Miami Yacine",
-          "url": "https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB"
-        }
-      ],
-      "duration_ms": 201979,
-      "name": "Kokaina",
-      "url": "https://open.spotify.com/track/2KHbPYI22yWIOgWUsApYIS"
-    },
-    {
-      "added_at": "2022-09-21 12:36:50",
-      "album": {
         "name": "Zum Gl\u00fcck in die Zukunft",
         "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
       },
@@ -795,6 +795,38 @@
       "duration_ms": 234400,
       "name": "Verstrahlt",
       "url": "https://open.spotify.com/track/1wblDHAGAHk9v3prkgPZwI"
+    },
+    {
+      "added_at": "2022-09-21 12:36:50",
+      "album": {
+        "name": "Bossaura",
+        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "duration_ms": 364720,
+      "name": "Bossaura",
+      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
+    },
+    {
+      "added_at": "2022-09-21 12:36:50",
+      "album": {
+        "name": "Electro Ghetto (Re-Release)",
+        "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "Wenn wir kommen",
+      "url": "https://open.spotify.com/track/5eJ4MilFcuh4TBxlhSw5lx"
     },
     {
       "added_at": "2022-09-21 12:36:50",
@@ -819,50 +851,18 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
-        "name": "Electro Ghetto (Re-Release)",
-        "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
+        "name": "Aggro Berlin",
+        "url": "https://open.spotify.com/album/1oUbKEimVzsvNablbLWxsr"
       },
       "artists": [
         {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 232280,
-      "name": "Wenn wir kommen",
-      "url": "https://open.spotify.com/track/5eJ4MilFcuh4TBxlhSw5lx"
-    },
-    {
-      "added_at": "2022-09-21 12:36:50",
-      "album": {
-        "name": "Bossaura",
-        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
-      },
-      "artists": [
-        {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
-        }
-      ],
-      "duration_ms": 364720,
-      "name": "Bossaura",
-      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
-    },
-    {
-      "added_at": "2022-09-21 12:36:50",
-      "album": {
-        "name": "Raop +5",
-        "url": "https://open.spotify.com/album/1ziNkIHkCp5WTkduPnjebN"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2yQBDZfOxUudxE1wYUfeuq"
+      "duration_ms": 250706,
+      "name": "Hey Du!",
+      "url": "https://open.spotify.com/track/2SOimocBwo8MH6KKPlwi7x"
     },
     {
       "added_at": "2022-09-21 12:36:50",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
-        "name": "Aggro Berlin",
-        "url": "https://open.spotify.com/album/1oUbKEimVzsvNablbLWxsr"
+        "name": "Raop +5",
+        "url": "https://open.spotify.com/album/1ziNkIHkCp5WTkduPnjebN"
       },
       "artists": [
         {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
         }
       ],
-      "duration_ms": 250706,
-      "name": "Hey Du!",
-      "url": "https://open.spotify.com/track/2SOimocBwo8MH6KKPlwi7x"
+      "duration_ms": 173280,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2yQBDZfOxUudxE1wYUfeuq"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",
