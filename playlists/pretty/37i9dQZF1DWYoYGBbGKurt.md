@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,263 likes - 499 songs - 19 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,419 likes - 499 songs - 19 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -398,7 +398,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 388 | [Crows Fly High On The Lines](https://open.spotify.com/track/6THmTXCVPB5eZtYXp7DGJu) | [The Abyss Calling](https://open.spotify.com/artist/1o3tR9GjcbdimeGFDdyH4t) | [Volatility](https://open.spotify.com/album/5SOjLY6JFfQbHA9195QxxP) | 2:54 |
 | 389 | [Microfowl](https://open.spotify.com/track/0xJ1Er6763iUgvWbVwzkP0) | [Somebodi](https://open.spotify.com/artist/3JxE7ivtgjlIeuU5Hz2Oyt) | [Libraries](https://open.spotify.com/album/60Xk6zBOW5pyniet9nzjQ3) | 2:54 |
 | 390 | [Lonely Alley](https://open.spotify.com/track/7GdkKt3itXtrTefPgNeqDr) | [JAMMI](https://open.spotify.com/artist/7xtiaT1jm9ea1LcG9JxmSL) | [Lonely Alley](https://open.spotify.com/album/0s5lAZmIKOin4EwknOgflW) | 2:35 |
-| 391 | [Zephyr](https://open.spotify.com/track/28VwDI1i3vtqn0csWOig5G) | [Remil](https://open.spotify.com/artist/6ePjIuemRDGXQVQ5c3n282) | [Zephyr](https://open.spotify.com/album/01lJTebBu7GNUKFmLds5Yz) | 2:52 |
+| 391 | [Zephyr](https://open.spotify.com/track/28VwDI1i3vtqn0csWOig5G) | [zxry.](https://open.spotify.com/artist/2KDok9fxr255I38HflZAzC) | [Zephyr](https://open.spotify.com/album/01lJTebBu7GNUKFmLds5Yz) | 2:52 |
 | 392 | [Moths](https://open.spotify.com/track/1fPDT8ofsWYmPA1x80mjyJ) | [Dolow](https://open.spotify.com/artist/4a45hyniqH4TLiUs5rzZsX) | [Moths](https://open.spotify.com/album/26VMqOfJxBeN9xUbqJpUpc) | 1:55 |
 | 393 | [for hire](https://open.spotify.com/track/6IoHBjBeOLB88llhgOX6Za) | [Pellets Brew](https://open.spotify.com/artist/0Hxef8gwqqPVy0rbAvpEAz) | [for hire](https://open.spotify.com/album/1tLwiMmTBCC3l20I7hXOvq) | 2:02 |
 | 394 | [parking lot](https://open.spotify.com/track/5oOq7LVY5RDNkZeajlOhgo) | [Beltiner](https://open.spotify.com/artist/4DzyAL1nvxYKEEavnXxVVm) | [parking lot](https://open.spotify.com/album/0fnroq8pifWBkuAX1bWsKj) | 2:19 |

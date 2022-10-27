@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,655 likes - 83 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,659 likes - 83 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 35 | [2 AM](https://open.spotify.com/track/1Agl3YCXpBcPspuXobCB2d) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [2 AM](https://open.spotify.com/album/4zh2bW9JufjawyuHocxmDj) | 2:13 |
 | 36 | [ghost stories](https://open.spotify.com/track/5mHTITG5dhliz0weC2SqYD) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [ghost stories](https://open.spotify.com/album/2ua5FBvMS5yfDeX3LKIu64) | 2:44 |
 | 37 | [Freeway](https://open.spotify.com/track/2GfkYe0wCV0Rq9ri81Jo9e) | [Crinkle Cut](https://open.spotify.com/artist/2UCFiIIvMdaT4UqRxJVHWk) | [Freeway](https://open.spotify.com/album/7o1TfO6fioQSLVNXttMa8o) | 3:19 |
-| 38 | [Three](https://open.spotify.com/track/3jGr2Lf1VHJ3N4YBu23rqm) | [The Impatient Sisters](https://open.spotify.com/artist/1MrMu9X3lJAQHm0AXOoVgG) | [Three](https://open.spotify.com/album/4agE1p7Jgn1kM0kXKahpDd) | 3:31 |
+| 38 | [Three](https://open.spotify.com/track/3jGr2Lf1VHJ3N4YBu23rqm) | [The Impatient Sisters](https://open.spotify.com/artist/1MrMu9X3lJAQHm0AXOoVgG), [Jamilah](https://open.spotify.com/artist/6GNgz4wTE1TiaTYVHG5GFS) | [Three](https://open.spotify.com/album/4agE1p7Jgn1kM0kXKahpDd) | 3:31 |
 | 39 | [Love You Bad](https://open.spotify.com/track/532mumj8LQy0XYRT9aTeOD) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Love You Bad](https://open.spotify.com/album/0W2l0jnR6dkynLVewVzh6U) | 3:02 |
 | 40 | [C'est La Vie](https://open.spotify.com/track/1cz61f96sBlapUOQHmLNFK) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [C'est La Vie](https://open.spotify.com/album/6NY94ZdXbzACNNuQcWIVlg) | 3:00 |
 | 41 | [Survive My Own Mind](https://open.spotify.com/track/6GiI6EnuQ5V7pJ5WxOJ6z4) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 3:13 |

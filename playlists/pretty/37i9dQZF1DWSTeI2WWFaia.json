@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Ab-Soul",
-  "num_followers": 635196,
+  "num_followers": 635315,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM2NjgxMCwwMDAwMDAwMDFiYTYyMTA1NGIxMGIzODdhMWFlYjJkN2IzYjI1MjYx",
+  "snapshot_id": "MTY2NjM2NjgxMCwwMDAwMDAwMGZkMzBiZDU4OWU5MjE3NzBiYzkwNDVlNjE4ZjlkNzI1",
   "tracks": [
     {
       "added_at": "2022-10-21 15:40:10",
@@ -115,6 +115,30 @@
     {
       "added_at": "2022-10-21 15:40:10",
       "album": {
+        "name": "Wraith",
+        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Smoko Ono",
+          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Wraith",
+      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
+    },
+    {
+      "added_at": "2022-10-21 15:40:10",
+      "album": {
         "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
         "url": "https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae"
       },
@@ -139,30 +163,6 @@
       "duration_ms": 185454,
       "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
       "url": "https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90"
-    },
-    {
-      "added_at": "2022-10-21 15:40:10",
-      "album": {
-        "name": "Wraith",
-        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "Smoko Ono",
-          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Wraith",
-      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
     },
     {
       "added_at": "2022-10-21 15:40:10",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-10-21 15:40:10",
       "album": {
-        "name": "Never Freestyle",
-        "url": "https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH"
-      },
-      "artists": [
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 266996,
-      "name": "Never Freestyle",
-      "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
-    },
-    {
-      "added_at": "2022-10-21 15:40:10",
-      "album": {
         "name": "Fast Life",
         "url": "https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 117211,
       "name": "Fast Life",
       "url": "https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z"
+    },
+    {
+      "added_at": "2022-10-21 15:40:10",
+      "album": {
+        "name": "Never Freestyle",
+        "url": "https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 266996,
+      "name": "Never Freestyle",
+      "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
     },
     {
       "added_at": "2022-10-21 15:40:10",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-10-21 15:40:10",
       "album": {
+        "name": "247",
+        "url": "https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "247",
+      "url": "https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H"
+    },
+    {
+      "added_at": "2022-10-21 15:40:10",
+      "album": {
         "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
         "url": "https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 248000,
       "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
       "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
-    },
-    {
-      "added_at": "2022-10-21 15:40:10",
-      "album": {
-        "name": "247",
-        "url": "https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "247",
-      "url": "https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H"
     },
     {
       "added_at": "2022-10-21 15:40:10",
@@ -623,26 +623,6 @@
     {
       "added_at": "2022-10-21 15:40:10",
       "album": {
-        "name": "Checkmate",
-        "url": "https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "Checkmate",
-      "url": "https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4"
-    },
-    {
-      "added_at": "2022-10-21 15:40:10",
-      "album": {
         "name": "Comfortable",
         "url": "https://open.spotify.com/album/0Pylmck9B199lPMHwtdu8O"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 216267,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/10zQ7RusGiAimQv92m9wlj"
+    },
+    {
+      "added_at": "2022-10-21 15:40:10",
+      "album": {
+        "name": "Checkmate",
+        "url": "https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 170373,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4"
     },
     {
       "added_at": "2022-10-21 15:40:10",
@@ -863,6 +863,30 @@
     {
       "added_at": "2022-10-21 15:40:10",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "FARR",
+          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
+        }
+      ],
+      "duration_ms": 223641,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D"
+    },
+    {
+      "added_at": "2022-10-21 15:40:10",
+      "album": {
         "name": "Apt. 505",
         "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
       },
@@ -951,22 +975,6 @@
       "duration_ms": 172023,
       "name": "Rushmore Pack",
       "url": "https://open.spotify.com/track/0v8HKx7pfToMOp5j1K5Dww"
-    },
-    {
-      "added_at": "2022-10-21 15:40:10",
-      "album": {
-        "name": "Soccer Dad",
-        "url": "https://open.spotify.com/album/3ZKzd6YDXHItIxx83IxXIS"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "Soccer Dad",
-      "url": "https://open.spotify.com/track/3hdaeIlrACjMK5FnahqrLG"
     }
   ],
   "unique_name": "Spilled Ink",

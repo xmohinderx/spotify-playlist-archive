@@ -2,9 +2,9 @@
 
 ### [Spotify Singles: Pride](https://open.spotify.com/playlist/37i9dQZF1DXcaEXdyjLdxm)
 
-> LGBTQQIA+ artists like you've never heard before\. Cover: DOSS
+> LGBTQQIA+ artists like you've never heard before\. Cover: Ethel Cain.
 
-73 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/5hCASO58LS3FyWd4FiMjbC)
+74 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/5hCASO58LS3FyWd4FiMjbC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Declare Independence \- Spotify Singles](https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Spotify Singles](https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8) | 3:48 | 2021-06-14 |  |
 | [Doubt \- Recorded at HOB Studios, Toronto](https://open.spotify.com/track/10MkHbBBIHqr8GF6dKlP0S) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Spotify Singles](https://open.spotify.com/album/4zT3trMgbFpd8Bgc0rBxEa) | 3:37 | 2022-06-01 | 2022-07-29 |
 | [Doubt \- Recorded at HOB Studios, Toronto](https://open.spotify.com/track/3xJMcGj2CbFWm8tBOoZsst) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Spotify Singles](https://open.spotify.com/album/0Qa7Ch1yrrx9nNxSJE9Oaf) | 3:37 | 2022-06-01 |  |
+| [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 | 2022-10-26 |  |
 | [Face Like Thunder \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0OKn9iHjJ8ZNfCRff1mLJA) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 4:14 | 2021-05-25 |  |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 3:40 | 2021-05-25 | 2022-07-29 |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 | 2021-05-25 |  |

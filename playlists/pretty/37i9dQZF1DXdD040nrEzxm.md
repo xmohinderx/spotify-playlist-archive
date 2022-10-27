@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 
 > Editor's picks: The best African songs of 2021\. Cover: <a href="https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu?si=nFgcQ\_fRQH6RnMN65adARg">LADIPOE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,363 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,364 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 | 43 | [Baajo](https://open.spotify.com/track/21Dj85OlxW3ANBe5JndDfo) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baajo](https://open.spotify.com/album/4Yi1z6QAHnztoLxZqNiDEg) | 2:40 |
 | 44 | [KOLO \(feat\. Oxlade\)](https://open.spotify.com/track/1UM3RVanAaakxcx9GkfNTL) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KOLO \(feat\. Oxlade\)](https://open.spotify.com/album/4SGcHxa7P2vKHNknKXYRXu) | 2:48 |
 | 45 | [FOR YOU](https://open.spotify.com/track/1tj7Pn7RFy82MTwM3TvLkw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FOR YOU](https://open.spotify.com/album/0G24UhXGf5SSfBS9QNRKa0) | 3:08 |
-| 46 | [Activate](https://open.spotify.com/track/0Bc66CwO7NENnqW60RBDzG) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Activate](https://open.spotify.com/album/0u50DEuHzfYNHFRMPaM2H9) | 3:37 |
+| 46 | [Activate](https://open.spotify.com/track/7ka9HaPbdwYUsMmHvaie41) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Activate](https://open.spotify.com/album/2sproMXb0ZqQefLlgjYPfo) | 3:37 |
 | 47 | [Rock](https://open.spotify.com/track/5mcD4M6ERcFxeB2T6oe4dZ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Rock](https://open.spotify.com/album/6Wi0eIgEMemIdqHhBfe1ti) | 3:05 |
 | 48 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e) | 4:23 |
 | 49 | [Godly](https://open.spotify.com/track/6NgjdJrK7Bpyvsm8yDtx4H) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [What Have We Done](https://open.spotify.com/album/6Omn5bpukrwK9EerIyJEcI) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 | 99 | [Only You](https://open.spotify.com/track/28cKZOhv7MWfUnlOIj1Rid) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [Les vestiges du fleau](https://open.spotify.com/album/10BrhVps4lNlCk75szZSIk) | 3:37 |
 | 100 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
 
-Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMGQ5OWUzZWQ3ZTNlNjYyMTlhYTA4ZGVhODBhODM5MjI1`
+Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMGI3ZWFlMzY4YWVlNWNiNTZiMGE5MmY0OWY3NTM3ZGRm`

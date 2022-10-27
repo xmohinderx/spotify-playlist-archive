@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 327227,
+  "num_followers": 327462,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYyNjY5MywwMDAwMDAwMGJhZjU5NTE1ZTFjOTg3ZGFhZWNjYTFhMDJhYzFiNjY5",
+  "snapshot_id": "MTY2NjYyNjY5MywwMDAwMDAwMDUyNzFiNmIzOTgyMTIwNGM5Zjg2OTM5Zjc0YTNhNTlk",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -597,6 +597,22 @@
       "url": "https://open.spotify.com/track/43wAEql15k2lLyDC568uTE"
     },
     {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Walking Away",
+        "url": "https://open.spotify.com/album/7dEfqz2vpf9b77Lx4e4FkR"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "duration_ms": 425906,
+      "name": "Walking Away",
+      "url": "https://open.spotify.com/track/6j0ao2DgHem5dpnGeHwufi"
+    },
+    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "Fragile",
@@ -619,22 +635,6 @@
       "duration_ms": 236000,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Walking Away",
-        "url": "https://open.spotify.com/album/7dEfqz2vpf9b77Lx4e4FkR"
-      },
-      "artists": [
-        {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
-        }
-      ],
-      "duration_ms": 425906,
-      "name": "Walking Away",
-      "url": "https://open.spotify.com/track/6j0ao2DgHem5dpnGeHwufi"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Balafonerra",
-        "url": "https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        }
-      ],
-      "duration_ms": 251465,
-      "name": "Balafonerra",
-      "url": "https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "A Time To",
         "url": "https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 231980,
       "name": "A Time To",
       "url": "https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Balafonerra",
+        "url": "https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "duration_ms": 251465,
+      "name": "Balafonerra",
+      "url": "https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1040,6 +1040,10 @@
           "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
         },
         {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
           "name": "Fideles",
           "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
         }
@@ -1065,22 +1069,6 @@
       "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Visage 6 (Never Loved)",
-        "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        }
-      ],
-      "duration_ms": 253780,
-      "name": "Never Loved",
-      "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Infinity",
@@ -1095,6 +1083,22 @@
       "duration_ms": 424979,
       "name": "Unlocked",
       "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Visage 6 (Never Loved)",
+        "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        }
+      ],
+      "duration_ms": 253780,
+      "name": "Never Loved",
+      "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
     },
     {
       "added_at": "2022-08-01 18:07:32",
@@ -1185,22 +1189,6 @@
       "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Losing Game",
-        "url": "https://open.spotify.com/album/5QP8mNwbdpxuz9cLG49igL"
-      },
-      "artists": [
-        {
-          "name": "GHEIST",
-          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
-        }
-      ],
-      "duration_ms": 331457,
-      "name": "Losing Game",
-      "url": "https://open.spotify.com/track/4eSPKciUMc2ZzzCqwBuWNA"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Noir",
@@ -1215,6 +1203,22 @@
       "duration_ms": 246462,
       "name": "Bacall",
       "url": "https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Losing Game",
+        "url": "https://open.spotify.com/album/5QP8mNwbdpxuz9cLG49igL"
+      },
+      "artists": [
+        {
+          "name": "GHEIST",
+          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
+        }
+      ],
+      "duration_ms": 331457,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/4eSPKciUMc2ZzzCqwBuWNA"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1259,6 +1263,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Little Darling",
+        "url": "https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 220524,
+      "name": "Little Darling",
+      "url": "https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Mesta",
         "url": "https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G"
       },
@@ -1275,22 +1295,6 @@
       "duration_ms": 371106,
       "name": "Mesta",
       "url": "https://open.spotify.com/track/3HIyzleWbghroY372GMajL"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Little Darling",
-        "url": "https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 220524,
-      "name": "Little Darling",
-      "url": "https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1331,22 +1335,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "WAYU Various Artists, Vol. 2",
-        "url": "https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 328089,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Alongside",
         "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
       },
@@ -1363,6 +1351,22 @@
       "duration_ms": 410000,
       "name": "Alongside - Omeria & NU Edit",
       "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "WAYU Various Artists, Vol. 2",
+        "url": "https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 328089,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/4qK2KHiMFdZG9DLJRuEHge"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1441,6 +1445,22 @@
       "url": "https://open.spotify.com/track/42bZq7YzcIsrIpbQesd5nh"
     },
     {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/6ZbJmCC26Y3968mSLS2VNc"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Made of Wood",
@@ -1459,26 +1479,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Farsi",
-        "url": "https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 521940,
-      "name": "Farsi",
-      "url": "https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Sarcophyton / Trilobit",
         "url": "https://open.spotify.com/album/1nIHLbnTwGfJXGVHW1SW0E"
       },
@@ -1491,22 +1491,6 @@
       "duration_ms": 460165,
       "name": "Trilobit",
       "url": "https://open.spotify.com/track/3G6h7nE6eciZDrNVs6Mlov"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/6ZbJmCC26Y3968mSLS2VNc"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1535,18 +1519,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD"
+        "name": "Farsi",
+        "url": "https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU"
       },
       "artists": [
         {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         }
       ],
-      "duration_ms": 402545,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs"
+      "duration_ms": 521940,
+      "name": "Farsi",
+      "url": "https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1575,18 +1563,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Oxygen Levels Low EP",
-        "url": "https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il"
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD"
       },
       "artists": [
         {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
         }
       ],
-      "duration_ms": 403864,
-      "name": "KL427",
-      "url": "https://open.spotify.com/track/0tfSHgbBF0wudizTFesANb"
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1607,6 +1595,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Oxygen Levels Low EP",
+        "url": "https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        }
+      ],
+      "duration_ms": 403864,
+      "name": "KL427",
+      "url": "https://open.spotify.com/track/0tfSHgbBF0wudizTFesANb"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Changes EP",
         "url": "https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J"
       },
@@ -1619,6 +1623,22 @@
       "duration_ms": 341419,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Calmo",
+        "url": "https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f"
+      },
+      "artists": [
+        {
+          "name": "Juanma Salinas",
+          "url": "https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS"
+        }
+      ],
+      "duration_ms": 428181,
+      "name": "Calmo",
+      "url": "https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -1639,22 +1659,6 @@
       "duration_ms": 377612,
       "name": "Home - Boys Noize Remix",
       "url": "https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Calmo",
-        "url": "https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f"
-      },
-      "artists": [
-        {
-          "name": "Juanma Salinas",
-          "url": "https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS"
-        }
-      ],
-      "duration_ms": 428181,
-      "name": "Calmo",
-      "url": "https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1809,6 +1813,22 @@
       "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
     },
     {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Epic Resurrection",
+        "url": "https://open.spotify.com/album/30HmyV4zjyZiB4ET1b9Kma"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "duration_ms": 401361,
+      "name": "Epic Resurrection",
+      "url": "https://open.spotify.com/track/5lqCgngDCc1YtBoWvAT5tI"
+    },
+    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "Inhibitions",
@@ -1827,22 +1847,6 @@
       "duration_ms": 276494,
       "name": "Inhibitions - Edit",
       "url": "https://open.spotify.com/track/5ugyEMUjFOX7FS2Ao1Vyak"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Epic Resurrection",
-        "url": "https://open.spotify.com/album/30HmyV4zjyZiB4ET1b9Kma"
-      },
-      "artists": [
-        {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
-        }
-      ],
-      "duration_ms": 401361,
-      "name": "Epic Resurrection",
-      "url": "https://open.spotify.com/track/5lqCgngDCc1YtBoWvAT5tI"
     },
     {
       "added_at": "2022-09-30 04:00:00",

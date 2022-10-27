@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon\. Cover: Cat Burns.
 
-859 songs - 2 day 0 hr 14 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
+860 songs - 2 day 0 hr 18 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Als Jij Maar Bij Me Bent](https://open.spotify.com/track/5AimUqVfhUXe1jCRanTK72) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Jij Maar Bij Me Bent](https://open.spotify.com/album/5feJik71vEqH5bSdktYTjq) | 2:40 | 2022-09-08 |  |
 | [Always On My Mind](https://open.spotify.com/track/0AqDOURJIPJuDF4xlmBl3a) | [Aoyoru](https://open.spotify.com/artist/7cAWrsBFr4MijHHrCiSJkS), [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Always On My Mind](https://open.spotify.com/album/49UsIaXcWcDICEV1JcPZ9E) | 3:27 | 2022-03-24 |  |
 | [Amber Bare Skin](https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3) | 3:25 | 2022-02-03 | 2022-08-02 |
+| [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 | 2022-10-26 |  |
 | [Amnesia](https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a) | 3:08 | 2022-08-01 | 2022-09-16 |
 | [Amnesia](https://open.spotify.com/track/3T0DeQvOtdqd7Yo3t2Ig3N) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/3ihNLfYyXbYNyp5FHCUdtu) | 3:08 | 2022-04-12 | 2022-04-17 |
 | [Amsa](https://open.spotify.com/track/2hwqhmHv3wwymqi0OXNQyO) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Amsa](https://open.spotify.com/album/09JMopi9QF7XjcanC5iFVK) | 0:54 | 2022-03-24 | 2022-04-19 |

@@ -1,12 +1,12 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 102176,
+  "num_followers": 102252,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkwMTkzMiwwMDAwMDAwMDc2OWY5MGZhNWRkZmVlZDBiM2Q0NmUxNDI2Mzg5Nzhj",
+  "snapshot_id": "MTY1MzkwMTkzMiwwMDAwMDAwMGYxY2NiOWM0YTRiNGZhMjVmM2FkYWEwZmM1Njc3ZmIz",
   "tracks": [
     {
       "added_at": "2022-05-30 09:12:12",
@@ -839,22 +839,18 @@
     {
       "added_at": "2022-05-30 09:12:12",
       "album": {
-        "name": "Loom",
-        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 226866,
-      "name": "Loom (feat. Bonobo)",
-      "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
+      "duration_ms": 343400,
+      "name": "Parallel 7",
+      "url": "https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh"
     },
     {
       "added_at": "2022-05-30 09:12:12",
@@ -875,18 +871,22 @@
     {
       "added_at": "2022-05-30 09:12:12",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
+        "name": "Loom",
+        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 343400,
-      "name": "Parallel 7",
-      "url": "https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh"
+      "duration_ms": 226866,
+      "name": "Loom (feat. Bonobo)",
+      "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
     }
   ],
   "unique_name": "Melantronic",

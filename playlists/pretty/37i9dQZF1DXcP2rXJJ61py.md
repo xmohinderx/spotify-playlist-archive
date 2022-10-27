@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcP2rXJJ61py.md) - [plain]
 
 ### [House of the Dragon: Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcP2rXJJ61py)
 
-> The official playlist for House of the Dragon \(and House Targaryen\)\. Watch Sundays on HBO Max.
+> The official playlist for House of the Dragon \(and House Targaryen\)\. Watch the entire first season on HBO Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,465 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,266 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Main Title \(From Game of Thrones: Season 5\)](https://open.spotify.com/track/3Y4egKQO2gOYob1oDITCzV) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 1:45 |
+| 1 | [Main Title \(from “Game of Thrones”\)](https://open.spotify.com/track/3Y4egKQO2gOYob1oDITCzV) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 1:45 |
 | 2 | [The Heirs of the Dragon](https://open.spotify.com/track/75EiP8M4Egeqndtv08lD66) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 2:27 |
 | 3 | [Reign of the Targaryens](https://open.spotify.com/track/3XcPY110hQ07HNWqDZIZgU) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 1:31 |
 | 4 | [Rhaenyra's Welcome](https://open.spotify.com/track/7c26XfyVKLyrcU1KV7KS86) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 1:39 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcP2rXJJ61py.md) - [plain]
 | 84 | [See You for What You Are](https://open.spotify.com/track/3Yz362ZLSTnk3ndIm1ZvZY) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:09 |
 | 85 | [Truth](https://open.spotify.com/track/5QKK7785dSYrutocW7lGub) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 3:31 |
 
-Snapshot ID: `MTY2NjU4NDAwMCwwMDAwMDAwMGZlNGVjYWM1MWUzYTczYmFkNjkzNzZmYTQwMGZjMjZl`
+Snapshot ID: `MTY2NjgxMDE4NiwwMDAwMDAwMGY3OGQzOTBjMzE4Yzc3MGZkZGE2NWI4YmY5YjQ0NDk4`

@@ -1,12 +1,12 @@
 {
   "description": "indie pop when ur crushing so hard it hurts",
-  "num_followers": 434981,
+  "num_followers": 435279,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjA0MTQxMywwMDAwMDAwMDBjODNiZWE4MTQyNDNkODU5MmQxNTUwZTQ1YTNmZTI2",
+  "snapshot_id": "MTY2NjA0MTQxMywwMDAwMDAwMDkxMWYwMjAzMDM1MTIyZTk4ZTgzNDgzOWY3NDAwNjE5",
   "tracks": [
     {
       "added_at": "2022-10-17 21:16:53",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-10-17 21:16:53",
       "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2022-10-17 21:16:53",
+      "album": {
         "name": "Marlboro Nights",
         "url": "https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2022-10-17 21:16:53",
-      "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
       "added_at": "2022-10-17 21:16:53",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-10-17 21:16:53",
       "album": {
-        "name": "at least i'm pretty",
-        "url": "https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 106800,
-      "name": "at least i'm pretty",
-      "url": "https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj"
-    },
-    {
-      "added_at": "2022-10-17 21:16:53",
-      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2022-10-17 21:16:53",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc"
+        "name": "at least i'm pretty",
+        "url": "https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg"
       },
       "artists": [
         {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
         }
       ],
-      "duration_ms": 116666,
-      "name": "Please Notice",
-      "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
+      "duration_ms": 106800,
+      "name": "at least i'm pretty",
+      "url": "https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj"
     },
     {
       "added_at": "2022-10-17 21:16:53",
@@ -475,6 +459,22 @@
       "duration_ms": 262231,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd"
+    },
+    {
+      "added_at": "2022-10-17 21:16:53",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 116666,
+      "name": "Please Notice",
+      "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
     },
     {
       "added_at": "2022-10-17 21:16:53",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-10-17 21:16:53",
       "album": {
-        "name": "Cyclones and Hey Lover",
-        "url": "https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0"
-      },
-      "artists": [
-        {
-          "name": "Wabie",
-          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "Hey Lover!",
-      "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
-    },
-    {
-      "added_at": "2022-10-17 21:16:53",
-      "album": {
         "name": "Next Thing",
         "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 124021,
       "name": "Fool",
       "url": "https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0"
+    },
+    {
+      "added_at": "2022-10-17 21:16:53",
+      "album": {
+        "name": "Cyclones and Hey Lover",
+        "url": "https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0"
+      },
+      "artists": [
+        {
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "Hey Lover!",
+      "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
     },
     {
       "added_at": "2022-10-17 21:16:53",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-10-17 21:16:53",
       "album": {
-        "name": "Bad Ideas",
-        "url": "https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl"
-      },
-      "artists": [
-        {
-          "name": "Tessa Violet",
-          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/6MYJv37Mpj5njLLbxKWNun"
-    },
-    {
-      "added_at": "2022-10-17 21:16:53",
-      "album": {
         "name": "striptease",
         "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 160659,
       "name": "striptease",
       "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
+    },
+    {
+      "added_at": "2022-10-17 21:16:53",
+      "album": {
+        "name": "Bad Ideas",
+        "url": "https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/6MYJv37Mpj5njLLbxKWNun"
     },
     {
       "added_at": "2022-10-17 21:16:53",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-10-17 21:16:53",
       "album": {
+        "name": "One More Weekend",
+        "url": "https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 142829,
+      "name": "One More Weekend",
+      "url": "https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc"
+    },
+    {
+      "added_at": "2022-10-17 21:16:53",
+      "album": {
         "name": "FIRE ON MARZZ",
         "url": "https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 184500,
       "name": "blue",
       "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
-    },
-    {
-      "added_at": "2022-10-17 21:16:53",
-      "album": {
-        "name": "One More Weekend",
-        "url": "https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 142829,
-      "name": "One More Weekend",
-      "url": "https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc"
     },
     {
       "added_at": "2022-10-17 21:16:53",

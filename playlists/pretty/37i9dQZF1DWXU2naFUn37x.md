@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Vale Pain
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,465 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,555 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 42 | [NESSUNO \(feat\. Geolier\)](https://open.spotify.com/track/0HdrGJfHWYG5A0cNhiMDG4) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:28 |
 | 43 | [LAPROVINCE \#2](https://open.spotify.com/track/3eBjQXQ5CuRaUbKXj9WIVJ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [LAPROVINCE \#2](https://open.spotify.com/album/1WhTXqgT1roQzqSCYnrnSH) | 1:56 |
 | 44 | [Goyard](https://open.spotify.com/track/3e9L7P1Cu91OWiak39QUkH) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Goyard](https://open.spotify.com/album/0CuTFVpBoXLYDy1Rvaa0JA) | 2:44 |
-| 45 | [Star \(feat\. Shiva\)](https://open.spotify.com/track/4LC3IJxi0FnvPALxJ8k6zw) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:01 |
+| 45 | [Star \(feat\. Shiva\)](https://open.spotify.com/track/7mHGPB2hXrQHrNvbMGvYON) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 3:01 |
 | 46 | [Fake \(con Geolier & Luchè\)](https://open.spotify.com/track/0xKBCd6EttVyRv1Sdgo9PX) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:57 |
 | 47 | [Hustle](https://open.spotify.com/track/5p9uRbOaI8YwMa9n3QP4BZ) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:36 |
 | 48 | [Totò Riina](https://open.spotify.com/track/1tC2jyKepT8S8xd7vzBcPK) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo) | [Immigrato](https://open.spotify.com/album/7gyW0t8LnPglkkU1gICpCQ) | 2:22 |
 | 49 | [Walkie Talkie](https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Walkie Talkie](https://open.spotify.com/album/02sDUCaTdnQXVqsTwlFA9B) | 2:20 |
 | 50 | [YO](https://open.spotify.com/track/50ku9kOIoxwfKfdQCqbe8m) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [YO](https://open.spotify.com/album/27hO8daTikBVebKuEhZFGT) | 2:25 |
 
-Snapshot ID: `MTY2NjY1MjQ2MCwwMDAwMDAwMGRmMmExYzE4ZmU2NWYwZDQxODM3YTYzZDU0ODAwNTZh`
+Snapshot ID: `MTY2NjY1MjQ2MCwwMDAwMDAwMGVhOGY0YmY3ZTExMTJjNWY3NzU4NGYxNTk1NjZkNGVk`

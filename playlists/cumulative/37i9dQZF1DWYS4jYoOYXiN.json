@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 272253,
       "name": "Lo Atar\u00e1 la Arache",
       "url": "https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV"
@@ -1527,6 +1527,40 @@
       "duration_ms": 510400,
       "name": "Son Cuero Y Boogaloo",
       "url": "https://open.spotify.com/track/3yGmOWLc5eScSOv84vs6dm"
+    },
+    {
+      "album": {
+        "name": "Live At The Red Garter, Vol. 2 (Live At Red Garter / Greenwich Village, NY / 1968)",
+        "url": "https://open.spotify.com/album/4hk83t4es3QZMhxOPZHh8T"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        },
+        {
+          "name": "Jimmy Sabater",
+          "url": "https://open.spotify.com/artist/2MQ4Kb9A8KkwQmK2LjaSw2"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510400,
+      "name": "Son Cuero Y Boogaloo - Live At Red Garter / Greenwich Village, NY / 1968",
+      "url": "https://open.spotify.com/track/0nkCr4yTg9Wnr7VsaaZ09j"
     },
     {
       "album": {

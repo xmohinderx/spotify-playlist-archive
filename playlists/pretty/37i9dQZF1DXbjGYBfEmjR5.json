@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 240831,
+  "num_followers": 241012,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMSwwMDAwMDAwMDQ4ZTk2Mjg3NzlkZTZmODYyZGM4N2JmODdkNWNkMjA0",
+  "snapshot_id": "MTY2MzMwMDgwMSwwMDAwMDAwMGI2MDg1YzNlMzIyM2Y3MTEyODQ4NmU1MzIxNTdlZjQ4",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        }
+      ],
+      "duration_ms": 232699,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Miki Matsubara Night Tempo Presents the Showa Groove",
         "url": "https://open.spotify.com/album/4zUIo4G8FTJoWN9zEW5NoR"
       },
@@ -955,18 +971,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
+        "name": "LORD GIVE ME ONE MORE CHANCE",
+        "url": "https://open.spotify.com/album/5W1QeUlrv6EyYzXM0mqJOC"
       },
       "artists": [
         {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+          "name": "yuugen",
+          "url": "https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J"
         }
       ],
-      "duration_ms": 232699,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
+      "duration_ms": 120028,
+      "name": "LORD GIVE ME ONE MORE CHANCE",
+      "url": "https://open.spotify.com/track/7ED68OyaSlwkb65lRydjHn"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 128399,
       "name": "Need Somebody",
       "url": "https://open.spotify.com/track/6MBojwg01wXb54WWeIBa5A"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "LORD GIVE ME ONE MORE CHANCE",
-        "url": "https://open.spotify.com/album/5W1QeUlrv6EyYzXM0mqJOC"
-      },
-      "artists": [
-        {
-          "name": "yuugen",
-          "url": "https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J"
-        }
-      ],
-      "duration_ms": 120028,
-      "name": "LORD GIVE ME ONE MORE CHANCE",
-      "url": "https://open.spotify.com/track/7ED68OyaSlwkb65lRydjHn"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Talk Of The Dancefloor",
-        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
-        }
-      ],
-      "duration_ms": 196997,
-      "name": "Anita",
-      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "love u!!",
         "url": "https://open.spotify.com/album/3gol9bGLiZ4BS2AgPLFn8C"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 150004,
       "name": "love u!!",
       "url": "https://open.spotify.com/track/0EeokoKzJwbnEzJi6cDbry"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Talk Of The Dancefloor",
+        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
+        }
+      ],
+      "duration_ms": 196997,
+      "name": "Anita",
+      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Summer Splash",
-        "url": "https://open.spotify.com/album/1iE6CCfXd6uw7kHsKTgpe6"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 227812,
-      "name": "Summer Splash",
-      "url": "https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "You Can't Run",
         "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 201142,
       "name": "You Can't Run",
       "url": "https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Summer Splash",
+        "url": "https://open.spotify.com/album/1iE6CCfXd6uw7kHsKTgpe6"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 227812,
+      "name": "Summer Splash",
+      "url": "https://open.spotify.com/track/4g6njasxys1UEQxHu8VWg7"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Orca Adventure DX",
-        "url": "https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7"
-      },
-      "artists": [
-        {
-          "name": "Groovy Kaiju",
-          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
-        }
-      ],
-      "duration_ms": 171135,
-      "name": "Orca Adventure DX",
-      "url": "https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Mental Geller",
         "url": "https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT"
       },
@@ -1315,34 +1299,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Glimmer / Change",
-        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
+        "name": "Orca Adventure DX",
+        "url": "https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7"
       },
       "artists": [
         {
-          "name": "AGST",
-          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
+          "name": "Groovy Kaiju",
+          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
         }
       ],
-      "duration_ms": 215125,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 269752,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
+      "duration_ms": 171135,
+      "name": "Orca Adventure DX",
+      "url": "https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1363,6 +1331,54 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 269752,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Glimmer / Change",
+        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
+      },
+      "artists": [
+        {
+          "name": "AGST",
+          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
+        }
+      ],
+      "duration_ms": 215125,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Lynx",
+        "url": "https://open.spotify.com/album/4BCVAAm5eV08IVm2yISDN3"
+      },
+      "artists": [
+        {
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+        }
+      ],
+      "duration_ms": 245882,
+      "name": "Lynx",
+      "url": "https://open.spotify.com/track/524FkjRzQa1CWYCpKrb6wV"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Get Up, Get Out",
         "url": "https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI"
       },
@@ -1379,6 +1395,22 @@
       "duration_ms": 202577,
       "name": "Get Up, Get Out",
       "url": "https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
+      },
+      "artists": [
+        {
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
+        }
+      ],
+      "duration_ms": 128032,
+      "name": "Dancefloor Sneakers",
+      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1431,38 +1463,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Meta",
-        "url": "https://open.spotify.com/album/4jer70CR6OE98ndQsd5EhS"
-      },
-      "artists": [
-        {
-          "name": "Xalaxia",
-          "url": "https://open.spotify.com/artist/4IapR7yGjcCQrQYnYKAI0z"
-        }
-      ],
-      "duration_ms": 238064,
-      "name": "Meta",
-      "url": "https://open.spotify.com/track/2ZKw6mmUGhML0Ij90TZh6w"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
-      },
-      "artists": [
-        {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
-        }
-      ],
-      "duration_ms": 128032,
-      "name": "Dancefloor Sneakers",
-      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "This Is Just a Test",
         "url": "https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 363156,
       "name": "This Is Just a Test",
       "url": "https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Meta",
+        "url": "https://open.spotify.com/album/4jer70CR6OE98ndQsd5EhS"
+      },
+      "artists": [
+        {
+          "name": "Xalaxia",
+          "url": "https://open.spotify.com/artist/4IapR7yGjcCQrQYnYKAI0z"
+        }
+      ],
+      "duration_ms": 238064,
+      "name": "Meta",
+      "url": "https://open.spotify.com/track/2ZKw6mmUGhML0Ij90TZh6w"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1495,22 +1511,6 @@
       "duration_ms": 230163,
       "name": "Stellae",
       "url": "https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Lynx",
-        "url": "https://open.spotify.com/album/4BCVAAm5eV08IVm2yISDN3"
-      },
-      "artists": [
-        {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
-        }
-      ],
-      "duration_ms": 245882,
-      "name": "Lynx",
-      "url": "https://open.spotify.com/track/524FkjRzQa1CWYCpKrb6wV"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/6RsxQBaT4Is0CkuN05nwoa"
-      },
-      "artists": [
-        {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
-        }
-      ],
-      "duration_ms": 207874,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/6RrxIc1TzDcUE0vaIYaNQL"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Notilde Tapes, Vol. 1",
         "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 230655,
       "name": "Answer",
       "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/6RsxQBaT4Is0CkuN05nwoa"
+      },
+      "artists": [
+        {
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+        }
+      ],
+      "duration_ms": 207874,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/6RrxIc1TzDcUE0vaIYaNQL"
     },
     {
       "added_at": "2022-09-16 04:00:00",

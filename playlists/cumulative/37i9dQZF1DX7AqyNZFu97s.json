@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Qazi & Qazi",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Jayahadadream",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -167,6 +167,24 @@
       "duration_ms": 160519,
       "name": "77bpm",
       "url": "https://open.spotify.com/track/2kUO8aZdDRU2WWS7vy04o2"
+    },
+    {
+      "album": {
+        "name": "80s Playlist",
+        "url": "https://open.spotify.com/album/7q6qFSEuDVDBb7mpfjbDqj"
+      },
+      "artists": [
+        {
+          "name": "MIMI",
+          "url": "https://open.spotify.com/artist/5TEHYI7zYtKMil1eoihSBT"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214687,
+      "name": "80s Playlist",
+      "url": "https://open.spotify.com/track/5pkotCJgUMHn2DLY9hms0N"
     },
     {
       "album": {
@@ -387,7 +405,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 167588,
       "name": "all on me",
       "url": "https://open.spotify.com/track/7Bqk3RPCq9QJDWF8WR0vXP"
@@ -1712,6 +1730,24 @@
     },
     {
       "album": {
+        "name": "Call Me Up",
+        "url": "https://open.spotify.com/album/01PBDRObq98AepDMLCLYAT"
+      },
+      "artists": [
+        {
+          "name": "Reevah",
+          "url": "https://open.spotify.com/artist/0vreRJnfkwQlxI2KQarKGQ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171889,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/362rlBjH5QCosaI0tjoISk"
+    },
+    {
+      "album": {
         "name": "Call me?",
         "url": "https://open.spotify.com/album/2SPWg0pRrifWZ2cL91beub"
       },
@@ -1806,6 +1842,24 @@
     },
     {
       "album": {
+        "name": "CEO of the friendship group",
+        "url": "https://open.spotify.com/album/4gMyGaNUQDGHkH3yAY2fjr"
+      },
+      "artists": [
+        {
+          "name": "Zino Vinci",
+          "url": "https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108812,
+      "name": "CEO of the friendship group",
+      "url": "https://open.spotify.com/track/7s9JSNHbOpZuvOmMsDeurN"
+    },
+    {
+      "album": {
         "name": "Checking Out",
         "url": "https://open.spotify.com/album/7tIW7DzHOZ4cq58o69PpV3"
       },
@@ -1821,6 +1875,24 @@
       "duration_ms": 227583,
       "name": "Checking Out",
       "url": "https://open.spotify.com/track/32b9LaU7UASe1jgJXnkCW5"
+    },
+    {
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/6Sqh7KRcEF0OERdPogt5Tp"
+      },
+      "artists": [
+        {
+          "name": "Arnon Ray Pereira",
+          "url": "https://open.spotify.com/artist/6b8O9G6rsfpC5IHc2VRrMu"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180964,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/3IyhbPo2UWUwiEhIsxAur3"
     },
     {
       "album": {
@@ -1897,6 +1969,24 @@
       "duration_ms": 159600,
       "name": "Coca-cola",
       "url": "https://open.spotify.com/track/62cxDxb6w2bGzr4gYoZYEA"
+    },
+    {
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/6VhH8FHPySyL2CS6nh6fK3"
+      },
+      "artists": [
+        {
+          "name": "Tom Gortler",
+          "url": "https://open.spotify.com/artist/2BAJypvks27ENNB8vX1P2u"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179669,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3z2YAeIQ5DZUtB33aWXRdq"
     },
     {
       "album": {
@@ -3538,6 +3628,24 @@
     },
     {
       "album": {
+        "name": "Force",
+        "url": "https://open.spotify.com/album/4Gb6ekyYn7G2EGx9VkDoWy"
+      },
+      "artists": [
+        {
+          "name": "Jayahadadream",
+          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184137,
+      "name": "Force",
+      "url": "https://open.spotify.com/track/3J0gyp94IxVZynoALNhL5x"
+    },
+    {
+      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG"
       },
@@ -3639,7 +3747,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 174347,
       "name": "gaslight",
       "url": "https://open.spotify.com/track/3EEBPFJts7jsz37sD5PvOW"
@@ -5028,6 +5136,24 @@
     },
     {
       "album": {
+        "name": "Lovestruck in London",
+        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
+      },
+      "artists": [
+        {
+          "name": "Immy",
+          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174764,
+      "name": "If You Love The Moon",
+      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
+    },
+    {
+      "album": {
         "name": "If You Were Mine",
         "url": "https://open.spotify.com/album/5kerw9tRpakleiSbiSvUnI"
       },
@@ -5513,7 +5639,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 135266,
       "name": "Just Talk",
       "url": "https://open.spotify.com/track/5FQOnQ2UDM4uSjlL3IQ3XP"
@@ -5643,7 +5769,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 217183,
       "name": "last kiss",
       "url": "https://open.spotify.com/track/25j9iRq1hEGZZxGn2EBl68"
@@ -5683,6 +5809,24 @@
       "duration_ms": 186034,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/2HwbhTmYp3oTpCBwIbWcgK"
+    },
+    {
+      "album": {
+        "name": "leave her",
+        "url": "https://open.spotify.com/album/4u7DeTIrAdV5lvatL0iWlO"
+      },
+      "artists": [
+        {
+          "name": "kid apollo",
+          "url": "https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183335,
+      "name": "leave her",
+      "url": "https://open.spotify.com/track/1jRTd3222ruwh0czzrjZKo"
     },
     {
       "album": {
@@ -5969,6 +6113,24 @@
       "duration_ms": 176500,
       "name": "lose yourself.",
       "url": "https://open.spotify.com/track/6Y02Lvx6q0vqxMZ6qJMOJo"
+    },
+    {
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/3fl1PTS9pEXnTMTDWI8k50"
+      },
+      "artists": [
+        {
+          "name": "Light Grey",
+          "url": "https://open.spotify.com/artist/7hc1azqwLVlCwtE6acW1mZ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3Owt7XwR5mvtLbfFdMdbj9"
     },
     {
       "album": {
@@ -6821,7 +6983,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 175909,
       "name": "Mrs. C",
       "url": "https://open.spotify.com/track/44uqxWNGTZIEpX6BuBB42I"
@@ -7943,7 +8105,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 190000,
       "name": "Prettier",
       "url": "https://open.spotify.com/track/5GS5Na3mniJLdcD92SFrQd"
@@ -7997,7 +8159,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 161066,
       "name": "pure misery",
       "url": "https://open.spotify.com/track/1WwL6QCTxjaBs15RpM1jqt"
@@ -8318,6 +8480,24 @@
     },
     {
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/4ccThge1HXXsxIKGuXCMlN"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148557,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/1hiUjws67EtIOAIRVJgrlW"
+    },
+    {
+      "album": {
         "name": "Room Service",
         "url": "https://open.spotify.com/album/5FKplGtCUy18MNBsrfe5x7"
       },
@@ -8495,7 +8675,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 220743,
       "name": "Second Single Bed",
       "url": "https://open.spotify.com/track/3BehfRcWSWPFZNIZfwMu7I"
@@ -8935,7 +9115,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 201290,
       "name": "so sweet",
       "url": "https://open.spotify.com/track/04U2Kyn7PaUMQHO2xjtd8Z"
@@ -9119,7 +9299,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 363251,
       "name": "SPU1",
       "url": "https://open.spotify.com/track/7G6kWELR0qp5cNd0uwdBZu"
@@ -9257,7 +9437,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 286874,
       "name": "Sud Pour Toi",
       "url": "https://open.spotify.com/track/6qw2IQMLKCUEahcYwNo0rR"
@@ -9958,6 +10138,24 @@
     },
     {
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/5WPx9qyAI1f4usJksD1JTG"
+      },
+      "artists": [
+        {
+          "name": "The Jones Project",
+          "url": "https://open.spotify.com/artist/1N04kJkNSCv3yABCO5f68e"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224366,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/0KURTvQRjhgU6RYD7lbugy"
+    },
+    {
+      "album": {
         "name": "Treasure",
         "url": "https://open.spotify.com/album/7iRJXmnwUZPGlrtWxTb3PN"
       },
@@ -10319,7 +10517,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 177272,
       "name": "Visa",
       "url": "https://open.spotify.com/track/1fCwLjSNuCfihsYmrItaVW"
@@ -10785,6 +10983,24 @@
       "duration_ms": 209352,
       "name": "Wrong",
       "url": "https://open.spotify.com/track/7u71EJQ0InrG1hfmcLjj8B"
+    },
+    {
+      "album": {
+        "name": "Wrong Time",
+        "url": "https://open.spotify.com/album/1bvWzIQc2FIHvwKBWKwpVt"
+      },
+      "artists": [
+        {
+          "name": "Helen Murray",
+          "url": "https://open.spotify.com/artist/1BajVu1w4nkiCKvtB74Nei"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164076,
+      "name": "Wrong Time",
+      "url": "https://open.spotify.com/track/1zA5w3XKojHK8ITzAU7Xx3"
     },
     {
       "album": {

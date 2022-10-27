@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-54 songs - 3 hr 13 min - not published yet
+55 songs - 3 hr 16 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [BE MY BABY](https://open.spotify.com/track/0YlpoSZnQJT2Yz52JT8YwA) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [BE MY BABY](https://open.spotify.com/album/6nQNbDEhVWM81pdcb5CSjb) | 2:51 | 2022-10-20 |  |
 | [BURU](https://open.spotify.com/track/1pJPzYGmUJF92NRelGfyIn) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [Buru](https://open.spotify.com/album/0hXRW6dvSRdOt2OHcQOjh6) | 4:07 | 2022-10-20 |  |
 | [Bus Stop](https://open.spotify.com/track/6FEXVKbPtuW2D7Q1EbAFyo) | [RAq](https://open.spotify.com/artist/0I6KWC4h8huHA3Mgj2NaqZ) | [Bus Stop](https://open.spotify.com/album/0ChQDwCuMzeh0jXTs2vPyG) | 2:40 | 2022-10-20 |  |
-| [celeste feat\. 春野](https://open.spotify.com/track/1xD7JuI2jpGFFZYMtcmuC9) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [celeste feat\. 春野](https://open.spotify.com/album/4bGZJtVoi4Rk5gQYHmDgct) | 2:47 | 2022-10-25 |  |
+| [celeste feat\. Haruno](https://open.spotify.com/track/1sqmG9MPr7oBAPPVSku4LQ) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [celeste feat\. Haruno](https://open.spotify.com/album/0vZK7EGOEaKHWScSOnKJ5O) | 2:47 | 2022-10-25 |  |
+| [celeste feat\. 春野](https://open.spotify.com/track/1xD7JuI2jpGFFZYMtcmuC9) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [celeste feat\. 春野](https://open.spotify.com/album/4bGZJtVoi4Rk5gQYHmDgct) | 2:47 | 2022-10-25 | 2022-10-27 |
 | [cloud](https://open.spotify.com/track/6v08DvIdLDGOwKj1h71S4x) | [hyou](https://open.spotify.com/artist/5MKWIRBAlanbDXXUTGaCRT) | [cloud](https://open.spotify.com/album/3MPWlGx8FPXB14cugsvrFA) | 3:52 | 2022-10-20 |  |
 | [Flower](https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [20 \(Complete Mixtape\)](https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD) | 3:28 | 2022-10-20 |  |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-10-20 |  |

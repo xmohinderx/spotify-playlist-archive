@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-279 songs - 1 day 2 hr 29 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
+280 songs - 1 day 2 hr 36 min - [published](https://open.spotify.com/playlist/476LKMTEI8iEbPIKztl18B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 | 2022-01-14 |  |
 | [Caprice](https://open.spotify.com/track/6UJTyXQvDe3hv8NQXOKOCl) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Caprice](https://open.spotify.com/album/0zv9KQqPhVAPleEi8anQ4R) | 3:50 | 2021-11-26 |  |
 | [Cenote](https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf) | [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk) | [Cenote](https://open.spotify.com/album/1TXpoAyR5Z3q3IixFnUiwf) | 4:58 | 2021-11-26 |  |
+| [Ceremony](https://open.spotify.com/track/1jtwpsdVEAxcHMuTDkmsla) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 7:00 | 2022-09-30 |  |
 | [Ceremony](https://open.spotify.com/track/5JQZTqHVXa1ShGEZjOnlgN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Ceremony](https://open.spotify.com/album/0xeaiWr64U3fCTxizuRi0e) | 7:00 | 2022-02-18 | 2022-10-18 |
 | [Changes](https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 5:41 | 2021-11-26 |  |
 | [Close](https://open.spotify.com/track/4PjQnCqdF2VmzGsFp2IRAt) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Close](https://open.spotify.com/album/77RSDxlKlExpQzlphu88eC) | 6:16 | 2021-11-26 | 2022-04-05 |
@@ -202,7 +203,7 @@
 | [Rebirth](https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rebirth](https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY) | 7:59 | 2021-11-26 |  |
 | [Release](https://open.spotify.com/track/3YQxEnlF1MSmxMbge5HwQS) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Bring The Good Mood Back](https://open.spotify.com/album/4oHJfzm4Snx1mvehq0a9RE) | 6:58 | 2022-06-17 | 2022-07-20 |
 | [Reminiscence](https://open.spotify.com/track/1uyOpyskQrpOUR5FW0kt3E) | [Dayne S](https://open.spotify.com/artist/2OWQQKizLqny2GKSvqfV9h) | [Reminiscence](https://open.spotify.com/album/5rTtvod3o7BesmyPzfwowr) | 5:21 | 2021-11-26 | 2022-04-21 |
-| [Restless](https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [Ahmet Kilic](https://open.spotify.com/artist/5OyOddK42Hm0pENFDWxn39), [Lynn](https://open.spotify.com/artist/7nzbcK2bzEtoMgTQAwHQVl) | [Restless & Wild](https://open.spotify.com/album/47XQrAPZL4Ez2RGs3nkXHX) | 6:43 | 2022-04-04 |  |
+| [Restless](https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [Ahmet Kilic](https://open.spotify.com/artist/5OyOddK42Hm0pENFDWxn39), [Lynn](https://open.spotify.com/artist/7nzbcK2bzEtoMgTQAwHQVl) | [Restless & Wild](https://open.spotify.com/album/47XQrAPZL4Ez2RGs3nkXHX) | 6:43 | 2022-04-04 | 2022-10-27 |
 | [Restless Mind](https://open.spotify.com/track/1cWqKMY9UmPen1n6XH4byq) | [Armen Miran](https://open.spotify.com/artist/4qxDuHrnTYQkihZiJYLWdy), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj) | [Restless Mind](https://open.spotify.com/album/5wWBNB3N4JQM0ZvaU9cnNQ) | 7:44 | 2021-11-26 | 2022-06-25 |
 | [Rio Secreto](https://open.spotify.com/track/6Dtmck4yTQkCEjnOhKfOBh) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Human Nature \(Night\)](https://open.spotify.com/album/6HqvZTY7Gmp0pIub9JfkXi) | 6:14 | 2021-11-26 | 2022-05-07 |
 | [River \- Stephan Zovsky Remix](https://open.spotify.com/track/7220jXD5H9FEezY7uotmVl) | [Andy's Echo](https://open.spotify.com/artist/7AsYa6HcbppsUd6qcYwJew), [Bjørk Stellar](https://open.spotify.com/artist/0SjbZtXCVUjIpW0y94un1D), [Stephan Zovsky](https://open.spotify.com/artist/7311LpGBvRgQVXyxBl2PzP) | [River \(Stephan Zovsky Remix\)](https://open.spotify.com/album/6xNNwm1kLkbbdXitIolOxi) | 7:36 | 2022-03-09 | 2022-06-25 |

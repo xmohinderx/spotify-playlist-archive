@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists\. Cover: Cat Burns
 
-164 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
+165 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/6qn9QC3gawWvZcEMTsuVpt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [PBFF](https://open.spotify.com/track/6EyvkNx0su9PD8splN00kl) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [PBFF](https://open.spotify.com/album/6MbOTpj7i8XQU6DDEyTgCH) | 2:45 | 2022-10-06 |  |
 | [PBFF](https://open.spotify.com/track/6fs1giNt7VJabuEvZ4ybqM) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [PBFF](https://open.spotify.com/album/1PMpkPlvHMuzQiNNsc1qxr) | 2:45 | 2022-02-18 | 2022-10-13 |
 | [PDA](https://open.spotify.com/track/4R8M7LBaiGPR77dYRMJJlI) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [PDA](https://open.spotify.com/album/1yyjVQNw4bUrVQgEzcE1A9) | 3:27 | 2022-02-18 |  |
+| [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 | 2022-10-26 |  |
 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 | 2022-09-08 |  |
 | [Pinging \(6 Figures\)](https://open.spotify.com/track/5DioDvyrdjUIyeA07BPpm4) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Pinging \(6 Figures\)](https://open.spotify.com/album/0UzN4R3iiz264XP5UXk3bo) | 2:45 | 2022-02-18 |  |
 | [Pressure](https://open.spotify.com/track/1CCzCMKgPsm27LgUWhP4Up) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Someone Who Knows](https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe) | 3:01 | 2022-05-19 |  |

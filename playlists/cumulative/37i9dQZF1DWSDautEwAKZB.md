@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Latin](https://open.spotify.com/playlist/37i9dQZF1DWSDautEwAKZB)
 
-> Latin superstars like you've never heard before\.  Cover: Twin Shadow.
+> Latin superstars like you've never heard before\. Cover: LUMILLA
 
 63 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/5TwbIYs6Yq7MRkumDdjTE9)
 

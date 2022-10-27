@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: David Guetta &amp; MORTEN
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,443 likes - 27 songs - 1 hr 15 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,449 likes - 27 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

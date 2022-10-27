@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1055105,
+  "num_followers": 1055102,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMGI0YjNiZmQ0M2E5NjZmOTk2M2YxMmM0ZjlhM2RmNzM0",
+  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMGI0ODY1ZTQ1NjljMDE4NjA2YWZlYTE0OTRhNjU5YjIx",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "I Wanna Feel",
+        "url": "https://open.spotify.com/album/18hwLKK9KK28ceLoxjPCG3"
+      },
+      "artists": [
+        {
+          "name": "Secondcity",
+          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "I Wanna Feel",
+      "url": "https://open.spotify.com/track/5nrdOK0i7daIsDAt4zRbHM"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
         "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 170716,
       "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
       "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "I Wanna Feel",
-        "url": "https://open.spotify.com/album/18hwLKK9KK28ceLoxjPCG3"
-      },
-      "artists": [
-        {
-          "name": "Secondcity",
-          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "I Wanna Feel",
-      "url": "https://open.spotify.com/track/5nrdOK0i7daIsDAt4zRbHM"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Bright Idea",
-        "url": "https://open.spotify.com/album/1hkpfGagWyjViaKQlkwrnG"
-      },
-      "artists": [
-        {
-          "name": "Orson",
-          "url": "https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ"
-        }
-      ],
-      "duration_ms": 254786,
-      "name": "Bright Idea",
-      "url": "https://open.spotify.com/track/1zy1Rc0OFMaLOXjQkp14Ae"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Dance Party",
         "url": "https://open.spotify.com/album/5uHL9eW2VsoCIdnxNJJkcK"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 235850,
       "name": "Sunchyme",
       "url": "https://open.spotify.com/track/5tQQCJaNdtafROf7M6hXax"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Bright Idea",
+        "url": "https://open.spotify.com/album/1hkpfGagWyjViaKQlkwrnG"
+      },
+      "artists": [
+        {
+          "name": "Orson",
+          "url": "https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ"
+        }
+      ],
+      "duration_ms": 254786,
+      "name": "Bright Idea",
+      "url": "https://open.spotify.com/track/1zy1Rc0OFMaLOXjQkp14Ae"
     }
   ],
   "unique_name": "Feel Good Friday",

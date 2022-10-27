@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 
 > Con un poco de buena salsa todo queda limpio y reluciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,303 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,322 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 47 | [Con Salsa Y Sabor](https://open.spotify.com/track/6N4aFctccB3Zyz1hD0SpYs) | [Menique](https://open.spotify.com/artist/3rBtQkDCUdPSBvE7k0pgfP), [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Con Salsa y Sabor](https://open.spotify.com/album/4JV5MpIrOZ8GDgoUVU79Zr) | 4:10 |
 | 48 | [Manyoma](https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:08 |
 | 49 | [Rumba En El Patio](https://open.spotify.com/track/2nCRjY5GCdAmZwQnjsCVro) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [El Gigante del Sur](https://open.spotify.com/album/3dnroWv7dsrbXlx9uHG0xZ) | 4:34 |
-| 50 | [Amigo De Qué](https://open.spotify.com/track/6xlMy3tJb0DWQrnO8qFHzO) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [Infinito](https://open.spotify.com/album/4XPP8oI0Vb2Lm86YUyosog) | 3:28 |
+| 50 | [Canela Pura](https://open.spotify.com/track/4jHw06ZYNzwbwybNGo3QKU) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Personalidad](https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy) | 2:50 |
 
-Snapshot ID: `MTU4NjgyMjU1OCwwMDAwMDAwMGNiYWQzOTBiYTI3ZjAxMTEzYTZjYmUwMTZlOTkxNzVl`
+Snapshot ID: `MTU4NjgyMjU1OCwwMDAwMDAwMDJhZTBiY2UxNzAzNGM3MzhmZjJiNzk0NDY3NTYxNWI1`

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-457 songs - 1 day 9 hr 59 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+458 songs - 1 day 10 hr 3 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Bukaroo Bank](https://open.spotify.com/track/4mAXzM7ZF1nFrJY6qSjdpX) | [The Mauskovic Dance Band](https://open.spotify.com/artist/02riqGdWw4EdqKJzOeWRZS) | [Bukaroo Bank](https://open.spotify.com/album/6gwODjchuMhNcNRfbwsrZw) | 3:19 | 2022-09-09 | 2022-10-19 |
 | [Bumayé \- Voilaaa Disco Remix](https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL) | [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Bumayé \(Voilaaa Disco Remix\)](https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB) | 4:27 | 2022-09-30 |  |
 | [C'est Vrai](https://open.spotify.com/track/2o727Omitml7Jvj7AVEa4f) | [Prosper](https://open.spotify.com/artist/46Vmd1YA5zUO017xsfAAIa), [Le Marabout](https://open.spotify.com/artist/4YXND3dd55ervyH4b8G1hS), [Fou Malade](https://open.spotify.com/artist/6c96fgZXjavQnU9WxH1P2D), [Niagass](https://open.spotify.com/artist/0EQjerybhkqKvlfnVIvAOW) | [C'est Vrai](https://open.spotify.com/album/6OiJQ75UZXmMjltmTNIHXb) | 4:27 | 2022-04-22 | 2022-05-25 |
-| [Calentita](https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [Nuria](https://open.spotify.com/artist/21sVXoR17xphV2u6PNTpo2) | [Calentita](https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce) | 3:20 | 2021-10-06 |  |
+| [Calentita](https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [Nuria](https://open.spotify.com/artist/21sVXoR17xphV2u6PNTpo2) | [Calentita](https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce) | 3:20 | 2021-10-06 | 2022-10-27 |
 | [Calling England Home](https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2) | [Anthony Joseph](https://open.spotify.com/artist/622cbugSJevUkEanSBCab9) | [Calling England Home](https://open.spotify.com/album/4qO6OhmdEda5cfBjDOTduz) | 6:13 | 2021-10-06 | 2022-07-29 |
 | [Canette \- Bosq remix](https://open.spotify.com/track/1lon4oPNClhPdQfPUui0SM) | [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj), [Le Super Mojo](https://open.spotify.com/artist/5gS8DfFU8NYsqLiuZ96bHd), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Canette](https://open.spotify.com/album/3bFbLHjl3kb0DZYtrNWOt5) | 6:13 | 2021-10-06 | 2022-07-28 |
 | [Canette \- Voilaaa Remix](https://open.spotify.com/track/3x6CogjX5kIA5593VCQCRQ) | [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj), [Le Super Mojo](https://open.spotify.com/artist/5gS8DfFU8NYsqLiuZ96bHd), [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1) | [Canette \(Voilaaa Remix\)](https://open.spotify.com/album/1OVujmnR5Y4FhVfBbkuohV) | 5:11 | 2022-04-17 | 2022-07-22 |
@@ -385,6 +385,7 @@
 | [Spiritual Ideation](https://open.spotify.com/track/6rsGTJ70GhGINYsscc8nJy) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Spiritual Ideation](https://open.spotify.com/album/3LE82F0VE2gOX0IBweuq7H) | 3:57 | 2021-10-06 | 2022-04-29 |
 | [Strange Heat](https://open.spotify.com/track/2lO10mx8zbxhneyaVtzP52) | [Wanubalé](https://open.spotify.com/artist/2Hvw8u0ssZnBDtqANHbnI2) | [Strange Heat](https://open.spotify.com/album/4uHsKnz3QbwjMU7HHXdyW0) | 5:18 | 2021-10-06 | 2022-04-21 |
 | [Suburban Breeze](https://open.spotify.com/track/5zz75fDAvsJj7e63D5iMyY) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Suburban Breeze](https://open.spotify.com/album/3fmEXZmMuAdvDGXqfRPeq9) | 2:07 | 2022-08-31 |  |
+| [Sun Khosi](https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Sun Khosi](https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb) | 3:56 | 2021-10-06 |  |
 | [Sun Khosi](https://open.spotify.com/track/5jY2fC4kHyTwFfThR7CFTh) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Sun Khosi](https://open.spotify.com/album/5NgVPG2bQoy2wlGTFZZdRV) | 3:56 | 2021-10-06 | 2022-06-24 |
 | [Sunset Sound](https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA) | 3:44 | 2021-10-06 | 2022-07-29 |
 | [Suro Nipa](https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ) | [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi), [The Zongo Brigade](https://open.spotify.com/artist/0smAHgNDEZESnCeJmPkWAd) | [Wahala Wahala](https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx) | 6:01 | 2021-10-06 |  |

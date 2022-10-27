@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,715 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,719 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 25 | [Falling](https://open.spotify.com/track/4SlkCNvosh6H75Cx46Y4K0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Falling](https://open.spotify.com/album/5NqGASv5yESq6lk0qkE2iI) | 3:10 |
 | 26 | [Love You Forever](https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [Love You Forever](https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr) | 3:54 |
 | 27 | [Sparks \(Turn Off Your Mind\) \- Atmozfears & Audiotricz Radio Mix](https://open.spotify.com/track/3I70IwAiyXo2RewHZVyvje) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Sparks \(Turn Off Your Mind\) \(Atmozfears & Audiotricz Remix\)](https://open.spotify.com/album/0L0FpVSbtev9gdi2wIgjlD) | 2:49 |
-| 28 | [Where Would We Be \- Nicky Romero Edit](https://open.spotify.com/track/2SvB51IGKJkEYBTglXdQiw) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Where Would We Be \(Remixes Vol\. 2\)](https://open.spotify.com/album/1LPAVRah84cEMrMhAeJbGx) | 3:46 |
-| 29 | [Sometimes](https://open.spotify.com/track/1MqBckcnN45W32KSSHnylW) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [Sometimes](https://open.spotify.com/album/0ChhDqqwkpYPaawxGwxkKW) | 3:02 |
+| 28 | [Sometimes](https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [Sometimes](https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40) | 3:02 |
+| 29 | [Where Would We Be \- Nicky Romero Edit](https://open.spotify.com/track/2SvB51IGKJkEYBTglXdQiw) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Where Would We Be \(Remixes Vol\. 2\)](https://open.spotify.com/album/1LPAVRah84cEMrMhAeJbGx) | 3:46 |
 | 30 | [Into The Light](https://open.spotify.com/track/75xY9IS7nE2da6q4207HsW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Timmo Hendriks](https://open.spotify.com/artist/7rNPTious4qaZVcKH3cmX3), [David Shane](https://open.spotify.com/artist/3Ao6gAvkCZUtj4ALBjNmXV) | [Into The Light](https://open.spotify.com/album/1ATxWnFY5KAry1bKnyP1yi) | 3:11 |
 | 31 | [Midnight Sun](https://open.spotify.com/track/6qTP59Amjny78Qd8zayuNW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Florian Picasso](https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn) | [Midnight Sun](https://open.spotify.com/album/2ygLSy0t0RxPNo6CSybOVZ) | 2:25 |
 | 32 | [Time](https://open.spotify.com/track/1uTqxBGvEiffBv41ih1nYB) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Redefine EP](https://open.spotify.com/album/7tpXMYDfo95hIG6AAbCMrJ) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 49 | [Iron](https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:39 |
 | 50 | [Back To You](https://open.spotify.com/track/1eZXJrEbdGSuST1f8NY5Qk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Back To You](https://open.spotify.com/album/5MuuG7O578wt7v4fwLwkrs) | 3:05 |
 
-Snapshot ID: `Mjc3Nzg0ODQsMDAwMDAwMDBmZDQ2OGE1OWE1MDMxMzEyYjEwYzg0YjkzNDRiNzgwNw==`
+Snapshot ID: `Mjc3Nzk4ODEsMDAwMDAwMDBiOWE3NzhmZDU3ODQ0ZTI5YjIyNjZhMjc5YmM5OWJmMA==`

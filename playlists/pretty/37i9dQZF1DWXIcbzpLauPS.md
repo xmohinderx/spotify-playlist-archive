@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new Core at its finest\. Cover: Parkway Drive
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,741 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,841 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,23 +30,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 20 | [Pull From The Ghost](https://open.spotify.com/track/5X0o92ihmXE7KP5fcmNSFv) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pull From The Ghost](https://open.spotify.com/album/2KElNfghT2G7tHLaOCMqFe) | 4:11 |
 | 21 | [Into Oblivion](https://open.spotify.com/track/1ZlTDTGu86Bxf0RQX2RjMz) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Curse Of Existence](https://open.spotify.com/album/7GiQ5guVJwb7hScDnhfsAW) | 4:15 |
 | 22 | [Graveyard](https://open.spotify.com/track/4lDhUegBfuSYmL2REY3P8y) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Empires Fall](https://open.spotify.com/album/1A8gLXrhRu9GJl0j8D9oJb) | 3:03 |
-| 23 | [This Means War](https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF) | 3:55 |
-| 24 | [Plagued](https://open.spotify.com/track/6xC8tcFBMMjJIyfPw66lDF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 3:29 |
+| 23 | [Plagued](https://open.spotify.com/track/6xC8tcFBMMjJIyfPw66lDF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 3:29 |
+| 24 | [This Means War](https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF) | 3:55 |
 | 25 | [Throne](https://open.spotify.com/track/1IIHG2cRp9PBYSGLSKAdgD) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Throne](https://open.spotify.com/album/66snwEHAdTrN5gw7z3mpoA) | 3:27 |
-| 26 | [Hangfire](https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [Hangfire](https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC) | 3:15 |
-| 27 | [Mass Produced](https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [Mass Produced](https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w) | 3:01 |
+| 26 | [Mass Produced](https://open.spotify.com/track/2gq5XvSm3XrbKmyV4m3wSX) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [Mass Produced](https://open.spotify.com/album/48PMipn3cRGT6Ck9KCbV8w) | 3:01 |
+| 27 | [Hangfire](https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [Hangfire](https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC) | 3:15 |
 | 28 | [Stand Down](https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine](https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg) | 4:06 |
 | 29 | [Shade Astray](https://open.spotify.com/track/4nsRC5m6nhWEGytiaDgewc) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Shade Astray](https://open.spotify.com/album/13V5598DE5BTivaX1zecEF) | 4:37 |
 | 30 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
-| 31 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 |
-| 32 | [Fever](https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [Fever](https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc) | 3:08 |
-| 33 | [You Must Die](https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [You Must Die](https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj) | 2:42 |
-| 34 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 |
+| 31 | [Fever](https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [Fever](https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc) | 3:08 |
+| 32 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 |
+| 33 | [Losing Control](https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Losing Control](https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP) | 3:28 |
+| 34 | [You Must Die](https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [You Must Die](https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj) | 2:42 |
 | 35 | [Heretic](https://open.spotify.com/track/6O6U83grucuxSktER0IbrM) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Heretic](https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y) | 3:22 |
 | 36 | [Sol](https://open.spotify.com/track/3Svbk7PnKp2hKqViRCti7S) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Disparity](https://open.spotify.com/album/2aI7O7ukQBWxfMimo9pUo8) | 3:21 |
 | 37 | [Venenosa](https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Venenosa](https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7) | 3:10 |
-| 38 | [Ketamine](https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Ketamine](https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke) | 2:52 |
-| 39 | [Code of Honor](https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Fury](https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl) | 3:06 |
+| 38 | [Code of Honor](https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Fury](https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl) | 3:06 |
+| 39 | [Ketamine](https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Ketamine](https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke) | 2:52 |
 | 40 | [A Killing Word](https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Deathrattle Sing for Me](https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As) | 4:44 |
 | 41 | [Alive or Only Burning](https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:09 |
 | 42 | [Hotel Underground](https://open.spotify.com/track/0CoxiZuaRFycPJ0Xl1oSOJ) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Hotel Underground](https://open.spotify.com/album/3GdgTYJ6MCD7nsQ8uZZly5) | 2:46 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 49 | [Dead Circus](https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [Dead Circus](https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY) | 3:10 |
 | 50 | [NWWM](https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d) | [Borders](https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO), [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ) | [NWWM](https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm) | 3:02 |
 | 51 | [Your Love I'll Never Need](https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Your Love I'll Never Need](https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2) | 3:20 |
-| 52 | [Lost](https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [The Collapse](https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr) | 3:30 |
-| 53 | [Losing You](https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Losing You](https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb) | 3:18 |
+| 52 | [Losing You](https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Losing You](https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb) | 3:18 |
+| 53 | [Lost](https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [The Collapse](https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr) | 3:30 |
 | 54 | [Alone](https://open.spotify.com/track/16DXW7yFac4ooTafH0osLY) | [Awake the Dreamer](https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I) | [Alone](https://open.spotify.com/album/2wtaBMxUZXDi7VEPvBLd69) | 3:17 |
 | 55 | [What Is War](https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [What Is War](https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9) | 3:59 |
 | 56 | [Suffer](https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Suffer](https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 74 | [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 |
 | 75 | [Sunchaser](https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H) | [The Wise Man's Fear](https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44) | [Sunchaser](https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl) | 3:29 |
 
-Snapshot ID: `MTY2NjMzNTYwMCwwMDAwMDAwMDg0YmExNWZjMDdmYWMxMDVjZjA4NTdlNWQyZTdlZjdh`
+Snapshot ID: `MTY2NjMzNTYwMCwwMDAwMDAwMDhlNzc0ZGRlMWVkMjAyMTc1MzJkMzZhNDJmNmVmYjRl`

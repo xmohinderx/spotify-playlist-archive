@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,924 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,028 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 37 | [Ike](https://open.spotify.com/track/6qomGFqXFcN7sbXL2j8wwX) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Ike](https://open.spotify.com/album/6gpDalXus4E4FYDyMJNfAU) | 3:49 |
 | 38 | [Still Blessed](https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Nathanael](https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs) | [Still Blessed](https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt) | 2:55 |
 | 39 | [Made Whole](https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV) | [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [Made Whole](https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM) | 3:32 |
-| 40 | [Highly Favoured](https://open.spotify.com/track/02JJjf7HWHylohQftv7muI) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn) | [Highly Favoured](https://open.spotify.com/album/5EG3FrFomhVsocyhiwkJYA) | 3:00 |
-| 41 | [Nobody Like You \- Radio Edit](https://open.spotify.com/track/7pbKyiwB7gL0VRzLPWqXmA) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Nobody Like You EP](https://open.spotify.com/album/2PFlmqHVo3ywJl9GqxOxaL) | 3:05 |
+| 40 | [Nobody Like You \- Radio Edit](https://open.spotify.com/track/7pbKyiwB7gL0VRzLPWqXmA) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Nobody Like You EP](https://open.spotify.com/album/2PFlmqHVo3ywJl9GqxOxaL) | 3:05 |
+| 41 | [Highly Favoured](https://open.spotify.com/track/02JJjf7HWHylohQftv7muI) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn) | [Highly Favoured](https://open.spotify.com/album/5EG3FrFomhVsocyhiwkJYA) | 3:00 |
 | 42 | [Valentine](https://open.spotify.com/track/3H4fCGhKPlPz7okIvwz1kg) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Valentine](https://open.spotify.com/album/4HUTFKjRVJGPSIbMFDI1fo) | 3:15 |
 | 43 | [THANK GOD](https://open.spotify.com/track/1zMORse6eODeibmofSgrxS) | [Waconzy](https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm) | [THANK GOD](https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg) | 2:10 |
 | 44 | [Right Now](https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Right Now](https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x) | 2:14 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 47 | [Lotta Things](https://open.spotify.com/track/190mAgySPlWSbOZd5kLlyq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Lotta Things](https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5) | 2:36 |
 | 48 | [Blessings](https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Blessings](https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW) | 2:41 |
 | 49 | [Blessings](https://open.spotify.com/track/4RQmD3QilYPTo0rL9SctoW) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Blessings](https://open.spotify.com/album/05vAjr5Ya7OdDuivg8xHk6) | 3:04 |
-| 50 | [Conflicted](https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Higher Life](https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg) | 3:06 |
-| 51 | [Keep You](https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc) | [Michael Oyo](https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Keep You](https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh) | 2:51 |
+| 50 | [Keep You](https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc) | [Michael Oyo](https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Keep You](https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh) | 2:51 |
+| 51 | [Conflicted](https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Higher Life](https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg) | 3:06 |
 | 52 | [No Stress](https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z) | [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn), [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl) | [No Stress](https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL) | 3:20 |
 | 53 | [True Love](https://open.spotify.com/track/4bJfDj5FDY5cP1cndlE9Vj) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Break The Eyes](https://open.spotify.com/artist/0ySk960unJNGQV1FrSen3p) | [True Love](https://open.spotify.com/album/1jEbLKBbUdvKqLoCoNTDz4) | 2:56 |
-| 54 | [Wait 4 Me](https://open.spotify.com/track/1hoD8vWdFVWzKRiD2BFgZl) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [Wait 4 Me](https://open.spotify.com/album/7pSEGaQlzam71MMqCONXDM) | 3:02 |
-| 55 | [Yakpa](https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yakpa](https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh) | 2:43 |
+| 54 | [Yakpa](https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yakpa](https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh) | 2:43 |
+| 55 | [Wait 4 Me](https://open.spotify.com/track/1hoD8vWdFVWzKRiD2BFgZl) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [Wait 4 Me](https://open.spotify.com/album/7pSEGaQlzam71MMqCONXDM) | 3:02 |
 
-Snapshot ID: `MTY2NDYwMTQxNCwwMDAwMDAwMDQ4NGVhN2I1YWUwNWI1M2M0MWI0YWM5ZTRmYTRkMGE1`
+Snapshot ID: `MTY2NDYwMTQxNCwwMDAwMDAwMGM4M2EwY2M0MmM5MjVkNDE2OWQ3OTkzY2I4NjdkMmU5`

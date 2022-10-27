@@ -4,7 +4,7 @@
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-259 songs - 16 hr 49 min - [published](https://open.spotify.com/playlist/6fMWxdc4tVDZLm5e3A4GlR)
+261 songs - 16 hr 58 min - [published](https://open.spotify.com/playlist/6fMWxdc4tVDZLm5e3A4GlR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-02-10 | 2022-04-21 |
 | [Change \(In The House Of Flies\) \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/0DFMMdvzwHhvTXVQs26mA0) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Spotify Singles](https://open.spotify.com/album/2jPjaTdyhWQ3dEa7NQXJui) | 4:55 | 2022-03-25 | 2022-06-20 |
 | [Come On Up To The House \(feat\. X Ambassadors\) \- Spotify Singles](https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Spotify Singles](https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy) | 4:17 | 2022-03-25 | 2022-06-13 |
+| [Come Together](https://open.spotify.com/track/3LZwy0CZYV6qLowXzbzRE0) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Come Together](https://open.spotify.com/album/2kdNcS7QqKABgzxfcwR5xg) | 3:53 | 2022-10-26 |  |
 | [Come Together](https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Come Together](https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC) | 3:13 | 2021-05-20 |  |
 | [Come Together](https://open.spotify.com/track/16vXR0dOUTYtz5OtkXKFkT) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live & Inspired](https://open.spotify.com/album/4ZG8bDbk5S0SRIcHyH01y2) | 3:46 | 2020-12-16 | 2022-07-29 |
 | [Come Together \- Live From Fox Theatre Detroit, MI/2012](https://open.spotify.com/track/02LrmnkHvOcQo6L2RBdfqu) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live & Inspired](https://open.spotify.com/album/4qq3w5Bfb46Rw9kE6QSYNT) | 3:46 | 2022-06-17 |  |
@@ -81,6 +82,7 @@
 | [Feeling Good](https://open.spotify.com/track/4QTZCaX7Xs1hiApvK93dpF) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Feeling Good](https://open.spotify.com/album/0Ybt2bnCBFHh8opWZE0ITt) | 4:35 | 2022-03-25 | 2022-04-18 |
 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 | 2022-03-25 |  |
 | [Fly Away](https://open.spotify.com/track/1exxuu9LFRjU12jZFmYjc5) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Fly Away](https://open.spotify.com/album/4bEqT3WEG6xMGuHs5XPEbr) | 3:30 | 2020-12-16 | 2022-07-29 |
+| [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 | 2022-10-26 |  |
 | [For What It’s Worth \- Acoustic](https://open.spotify.com/track/4CE87dn3A0PIln5HKfqo55) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [For What It’s Worth \(Acoustic\)](https://open.spotify.com/album/5hBO2Vq4w0jbT7slr9ZIhi) | 2:54 | 2020-12-16 |  |
 | [Fortunate Son](https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS) | [The Dead Daisies](https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH) | [Fortunate Son](https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg) | 3:23 | 2020-12-16 |  |
 | [Friday I'm in Love](https://open.spotify.com/track/1L57KREIb1zy96iB3rHGLR) | [Vista Wolf](https://open.spotify.com/artist/05Rmh9BjeHNphP1VGE59s1) | [Friday I'm in Love](https://open.spotify.com/album/0QJj08o4kP6OM7CX9Y6Qxd) | 3:12 | 2022-03-25 | 2022-04-21 |
@@ -195,7 +197,7 @@
 | [Royals](https://open.spotify.com/track/5BOlH2d2muo9YSCBARiKLJ) | [Youth in Revolt](https://open.spotify.com/artist/2bAEq3Pn4AHfpyffs2s8ai) | [Punk Goes Pop, Vol\. 6](https://open.spotify.com/album/6J3znrWBoBl1Px81FNdn7d) | 3:24 | 2022-03-25 | 2022-04-20 |
 | [Run](https://open.spotify.com/track/2a2X3OXuaM2DgkH9ZJpRyb) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [The Things We Can't Stop](https://open.spotify.com/album/5iopG3zr3NGtSNRbUuz7Co) | 4:21 | 2020-12-16 | 2022-07-23 |
 | [Runaway](https://open.spotify.com/track/7glhk9s9UWuq9Nhd8l8dPi) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs), [Warren Fitzgerald](https://open.spotify.com/artist/42Wl7GLDaY4vAQrbttojF5) | [Runaway](https://open.spotify.com/album/3RRQDqMVvcFSFaomwUBFqT) | 2:49 | 2020-12-16 | 2022-07-29 |
-| [Running Up That Hill](https://open.spotify.com/track/5Ew5pDFGWVbKqJj7RjAGRA) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Running Up That Hill](https://open.spotify.com/album/4taGbRcoDIs8PgQ341IvfB) | 3:03 | 2022-07-26 |  |
+| [Running Up That Hill](https://open.spotify.com/track/5Ew5pDFGWVbKqJj7RjAGRA) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Running Up That Hill](https://open.spotify.com/album/4taGbRcoDIs8PgQ341IvfB) | 3:03 | 2022-07-26 | 2022-10-27 |
 | [Running Up That Hill](https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running Up That Hill](https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq) | 4:23 | 2022-06-10 |  |
 | [Running Up That Hill](https://open.spotify.com/track/0uYVJ8z5kgMayMNPJA6Cz9) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/7kTsa1wUFrahJJf1cJEOpZ) | 4:57 | 2022-08-19 |  |
 | [Running Up That Hill](https://open.spotify.com/track/6RHHbAbyIcPpvS1dP3KUGq) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw) | 4:57 | 2022-06-10 | 2022-10-13 |
@@ -235,7 +237,7 @@
 | [The Sound of Silence](https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:08 | 2020-12-16 |  |
 | [There She Goes](https://open.spotify.com/track/398o7wmnG0V0jL8Y7bbmif) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [There She Goes](https://open.spotify.com/album/6AoYYnPKJTL1W0KCvXuJ6x) | 2:43 | 2022-03-25 | 2022-04-20 |
 | [This Kiss](https://open.spotify.com/track/7jC8Zmo0vOAc2dnXTLALqP) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [This Kiss](https://open.spotify.com/album/2jnpavQpoUrK2dmsueCbt9) | 3:34 | 2022-03-25 | 2022-04-21 |
-| [Tonite](https://open.spotify.com/track/5KbA3Hml9oZTyYcWNqvZsj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Tonite](https://open.spotify.com/album/06cCkE9CvIjGlPss6HAwH7) | 3:09 | 2022-07-29 |  |
+| [Tonite](https://open.spotify.com/track/5KbA3Hml9oZTyYcWNqvZsj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Tonite](https://open.spotify.com/album/06cCkE9CvIjGlPss6HAwH7) | 3:09 | 2022-07-29 | 2022-10-27 |
 | [Torn](https://open.spotify.com/track/4mBJUbN4VLcpT36O4uf8t3) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Punk Goes 90's, Vol\. 2](https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv) | 3:45 | 2022-06-17 |  |
 | [Torn](https://open.spotify.com/track/1Sq5AdWdZnBOivrBPrPeTF) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Punk Goes 90's: Vol\. 2](https://open.spotify.com/album/4dHcQtlTPXfeB4HQArsDhW) | 3:45 | 2022-03-25 | 2022-07-29 |
 | [True Colors \(Cyndi Lauper Cover\)](https://open.spotify.com/track/3jWZlzNRO2WYjYw0H0fGbc) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Love Is Hopeless 2013](https://open.spotify.com/album/7640HI9pqZOifqm2vBOov4) | 3:11 | 2020-12-16 | 2022-07-29 |

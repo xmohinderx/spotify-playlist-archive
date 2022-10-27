@@ -1,12 +1,12 @@
 {
   "description": "Si la salsa se cruza con la chamba... \u00a1s\u00fabele a la bocina y ponle sabor a tus labores!",
-  "num_followers": 14801,
+  "num_followers": 14894,
   "original_name": "Chambeando con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4MDc5MywwMDAwMDAwMDQzYzE4ODI5M2JjOGQ5ODg3MjFmZmQ2YWU3YjY4MWY2",
+  "snapshot_id": "MTY1OTQ4MDc5MywwMDAwMDAwMDliMTg5NmQ3ZGRlMzY5MjVhYjdhZjdlYjM5NmY0MjM4",
   "tracks": [
     {
       "added_at": "2022-08-02 22:53:13",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Sex Symbol",
-        "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
-      },
-      "artists": [
-        {
-          "name": "Adalberto Santiago",
-          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
-        }
-      ],
-      "duration_ms": 343353,
-      "name": "La Noche Mas Linda",
-      "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Corazon de Acero",
         "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 225953,
       "name": "Corazon de Acero",
       "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Sex Symbol",
+        "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
+      },
+      "artists": [
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        }
+      ],
+      "duration_ms": 343353,
+      "name": "La Noche Mas Linda",
+      "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/02IhbBURLOQ1PiaDODuHfW"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 292973,
-      "name": "Mi Media Mitad",
-      "url": "https://open.spotify.com/track/0vffx55ffXHq2bz0yKlZiM"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Luchar\u00e9",
         "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 303306,
       "name": "Y Qu\u00e9 Me Pasa - Salsa",
       "url": "https://open.spotify.com/track/7E6LWDOm7duh7iXF3is22H"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/02IhbBURLOQ1PiaDODuHfW"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 292973,
+      "name": "Mi Media Mitad",
+      "url": "https://open.spotify.com/track/0vffx55ffXHq2bz0yKlZiM"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Memoria",
-        "url": "https://open.spotify.com/album/1GoscVGngfCuRuqRtv1hZP"
-      },
-      "artists": [
-        {
-          "name": "Polo Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
-        }
-      ],
-      "duration_ms": 364466,
-      "name": "Un Monton De Estrellas",
-      "url": "https://open.spotify.com/track/6aRaqc6pTMrm530rf7uL0S"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Hechizando",
         "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
@@ -892,9 +876,25 @@
           "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
         }
       ],
-      "duration_ms": 293067,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB"
+      "duration_ms": 199862,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4Qr4M2eMQCLmpMdnLjDKYB"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/1GoscVGngfCuRuqRtv1hZP"
+      },
+      "artists": [
+        {
+          "name": "Polo Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
+        }
+      ],
+      "duration_ms": 364466,
+      "name": "Un Monton De Estrellas",
+      "url": "https://open.spotify.com/track/6aRaqc6pTMrm530rf7uL0S"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Victor Manuelle (3 CD Box Set)",
-        "url": "https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 303373,
-      "name": "He Tratado",
-      "url": "https://open.spotify.com/track/3Aw66bt9BL2sjqxhFRpyDy"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Aut\u00e9ntico",
         "url": "https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 289706,
       "name": "Sombra Loca",
       "url": "https://open.spotify.com/track/7hqI73OXybfZ6FV9O4WrNs"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Victor Manuelle (3 CD Box Set)",
+        "url": "https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 303373,
+      "name": "He Tratado",
+      "url": "https://open.spotify.com/track/3Aw66bt9BL2sjqxhFRpyDy"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -995,6 +995,26 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "Hechizando",
+        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
+      },
+      "artists": [
+        {
+          "name": "Danny Daniel",
+          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
+        },
+        {
+          "name": "Prix 06",
+          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
+        }
+      ],
+      "duration_ms": 293067,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "La Negra Tiene Tumbao",
         "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 294000,
       "name": "El Preso",
       "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Hechizando",
-        "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
-      },
-      "artists": [
-        {
-          "name": "Danny Daniel",
-          "url": "https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB"
-        },
-        {
-          "name": "Prix 06",
-          "url": "https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX"
-        }
-      ],
-      "duration_ms": 199862,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4Qr4M2eMQCLmpMdnLjDKYB"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "Solo Salsa",
+        "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        }
+      ],
+      "duration_ms": 215118,
+      "name": "Como la Quiero Cuanto la Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4kkwiypjdscH8OgHQ36Jbw"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "Hechizando",
         "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 267311,
       "name": "Hechizo",
       "url": "https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "Solo Salsa",
-        "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 215118,
-      "name": "Como la Quiero Cuanto la Extra\u00f1o",
-      "url": "https://open.spotify.com/track/4kkwiypjdscH8OgHQ36Jbw"
     },
     {
       "added_at": "2022-08-02 22:53:13",

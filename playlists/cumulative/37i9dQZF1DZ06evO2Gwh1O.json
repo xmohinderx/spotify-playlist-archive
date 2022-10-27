@@ -78,6 +78,24 @@
     },
     {
       "album": {
+        "name": "Casually Dressed And Deep In Conversation",
+        "url": "https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260706,
+      "name": "Bend Your Arms to Look Like Wings",
+      "url": "https://open.spotify.com/track/3N9ZntO9poYoBRXWMSfpAr"
+    },
+    {
+      "album": {
         "name": "Memory and Humanity",
         "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
       },
@@ -899,7 +917,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 164533,
       "name": "Your Revolution Is a Joke",
       "url": "https://open.spotify.com/track/73EV46BBjJo06nFtEb0JRS"

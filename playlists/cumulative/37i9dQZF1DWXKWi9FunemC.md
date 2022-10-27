@@ -4,7 +4,7 @@
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-149 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/0oJReVcQbzcC4wJyLv9HIi)
+150 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/0oJReVcQbzcC4wJyLv9HIi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Do it Again \(Acoustic\)](https://open.spotify.com/track/7pO0Llg3bXvM4HfOtWcdSZ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Do It Again \- EP](https://open.spotify.com/album/6EXWsOIhMYWY2kGHbhmERE) | 4:32 | 2020-08-31 |  |
 | [Find My Home](https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK) | [Shiny Penny](https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy) | [Find My Home](https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy) | 4:20 | 2020-08-31 |  |
 | [Footprints \- Acoustic](https://open.spotify.com/track/6HoK4mYxRsiNKf8eO1bMWd) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Footprints \(Acoustic\)](https://open.spotify.com/album/5z8CdQ3QbVZo9xqlZ3Dcd1) | 4:07 | 2020-08-31 | 2022-10-13 |
+| [Footprints \- Acoustic](https://open.spotify.com/track/6MXvYbGJjKhMTXb33yOkfH) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Footprints \(Acoustic\)](https://open.spotify.com/album/3uppRGTB0NYCvIdVdch91O) | 4:07 | 2020-08-31 |  |
 | [For The Joy Set Before Him](https://open.spotify.com/track/5BtD8FDmGP1XOS7OkPceW1) | [Latifah Makuyi](https://open.spotify.com/artist/4UDfz6xyv6xFkaj2P0ILpz), [Pete YB](https://open.spotify.com/artist/1rKqURNGRPah0QKnAefXyz) | [Eternal Gospel](https://open.spotify.com/album/6aQlH2u5lUVu4uJpRWYZiX) | 4:07 | 2020-08-31 | 2022-10-23 |
 | [For The Joy Set Before Him](https://open.spotify.com/track/5z77cuUf9NLQO6imnFhsE0) | [Latifah Makuyi](https://open.spotify.com/artist/4UDfz6xyv6xFkaj2P0ILpz), [Pete YB](https://open.spotify.com/artist/1rKqURNGRPah0QKnAefXyz) | [Eternal Gospel](https://open.spotify.com/album/2WAwtUNSzV2pesSu8ImeQB) | 4:07 | 2020-08-31 | 2022-07-29 |
 | [Fortress \(Acoustic\)](https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3) | [Refuge Worship](https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz) | [Fortress \(Acoustic\)](https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X) | 4:09 | 2020-08-31 |  |
@@ -65,7 +66,7 @@
 | [I Know Just What You Need](https://open.spotify.com/track/4yKLqYXt2tQaBw4qta5iMs) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Rebekah Autumn](https://open.spotify.com/artist/20ed7TTssoM14jZNDm7dJJ) | [I Know Just What You Need](https://open.spotify.com/album/5Sn2cIEG2QQcTFAdrJ29BV) | 3:33 | 2020-08-31 | 2022-07-29 |
 | [I Need You](https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV) | [Momentum Music](https://open.spotify.com/artist/2kpba1AKOu5D6aj3Wp4aKt) | [I Need You](https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA) | 6:27 | 2020-08-31 | 2022-08-08 |
 | [I Never Knew](https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8) | [Ben Ford](https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi) | [The Longing](https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj) | 4:49 | 2020-08-31 |  |
-| [I Want You](https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC) | [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Different Story](https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6) | 4:04 | 2020-08-31 |  |
+| [I Want You](https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC) | [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Different Story](https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6) | 4:04 | 2020-08-31 | 2022-10-27 |
 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 | 2020-08-31 |  |
 | [I Will Wait for You \(Psalm 130\) \[Live\]](https://open.spotify.com/track/4FwOCO9W6aH5QSh7dix8ey) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns Live](https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx) | 6:18 | 2020-08-31 |  |
 | [If It Wasn’t for the Cross](https://open.spotify.com/track/07zvagUEBLjgBUGRALm963) | [The Lowly Heirs](https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX) | [If It Wasn’t for the Cross](https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN) | 4:14 | 2020-08-31 |  |

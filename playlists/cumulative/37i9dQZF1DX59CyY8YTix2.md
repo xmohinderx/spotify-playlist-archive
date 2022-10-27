@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: BiSH
 
-634 songs - 1 day 16 hr 54 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+635 songs - 1 day 16 hr 58 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [dude](https://open.spotify.com/track/5jrxtIyNZ3N9FMTu8bIXSw) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [dude](https://open.spotify.com/album/1pNDXyvB9CPWie2vbNyf2Y) | 3:44 | 2022-05-26 | 2022-07-09 |
 | [Early So](https://open.spotify.com/track/6iAT9mTKqFZKuSpGPZYDjD) | [cesco](https://open.spotify.com/artist/0d5y6aTfiTyAnTlzsI0Nh9) | [The Natural Diet](https://open.spotify.com/album/0FROvwBj7H0OOj0JPKFXtA) | 2:41 | 2022-05-26 | 2022-07-24 |
 | [Echoes](https://open.spotify.com/track/2LQDW2xIf0oc9etllp4IVS) | [micanythm](https://open.spotify.com/artist/6cdhUq2L2ThjOTK1dAE1Rg) | [Echoes](https://open.spotify.com/album/6jaqGA6f2hFO7D2QexBEVr) | 3:13 | 2022-07-07 | 2022-07-13 |
+| [Emergence No.1](https://open.spotify.com/track/18RsGEb4NcRC6T0dqTq235) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [Emergence No.1](https://open.spotify.com/album/5fkgRBj5V38v5dF62PBJnS) | 3:21 | 2022-10-25 |  |
 | [Enter, Enter](https://open.spotify.com/track/5PMyUxPsleC4vModENzE3c) | [THE ROMANTIC MOTEL](https://open.spotify.com/artist/05vTDhjOwhFqCTxAErSC4K) | [MAISON de ROMANTIC](https://open.spotify.com/album/1LvEJrGQu3aEIfq1GoYAkL) | 2:57 | 2022-06-21 | 2022-07-15 |
 | [eri](https://open.spotify.com/track/5RhTrT5KJNdhi287gWh4Gb) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [eri](https://open.spotify.com/album/2yoPSy5bhS0ou9N1quxGtS) | 3:51 | 2022-06-28 | 2022-06-30 |
 | [ESSAFOSSA](https://open.spotify.com/track/0Us98qR9hodEUjrik1cwBc) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [ESSAFOSSA](https://open.spotify.com/album/3DmTR6NKkXhmnTnwO0Kt1N) | 4:49 | 2022-06-30 | 2022-07-18 |
@@ -569,7 +570,7 @@
 | [煙](https://open.spotify.com/track/7dGYY5OqFqcHCGfXANJpnd) | [ナカムラマユ](https://open.spotify.com/artist/0SEwHBIuSqJzE4b8OrOlKz) | [煙](https://open.spotify.com/album/3bcnckNl3V1iMXQnKXd3NG) | 3:40 | 2022-06-07 | 2022-06-27 |
 | [熱帯的シンドローム](https://open.spotify.com/track/29L3dMe6SV4B9JpgpQBxon) | [Muvidat](https://open.spotify.com/artist/2nZDTiqeubNWxIrxObKyER) | [熱帯的シンドローム](https://open.spotify.com/album/5iBv9IQMKZbKsmb74rTWqZ) | 4:20 | 2022-06-07 | 2022-06-15 |
 | [犬姫](https://open.spotify.com/track/1O8Z5URYRvYs8O8Qo1Uuja) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [犬姫](https://open.spotify.com/album/7bRCiRgKNFmtuVX8BpwZvl) | 3:05 | 2022-05-31 | 2022-06-19 |
-| [独立上昇曲 第一番](https://open.spotify.com/track/0hzicSH2fJO8RQYzmX4RJA) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [独立上昇曲 第一番](https://open.spotify.com/album/2IoQpVdhjPj4YMa5OqXNdf) | 3:21 | 2022-10-25 |  |
+| [独立上昇曲 第一番](https://open.spotify.com/track/0hzicSH2fJO8RQYzmX4RJA) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [独立上昇曲 第一番](https://open.spotify.com/album/2IoQpVdhjPj4YMa5OqXNdf) | 3:21 | 2022-10-25 | 2022-10-27 |
 | [獅子奮迅フルスイング](https://open.spotify.com/track/6VW6j5OaLv9IOLvmq52DFh) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [獅子奮迅フルスイング](https://open.spotify.com/album/3KJXFbHkKqwW1qSdaYOVlp) | 3:41 | 2022-07-14 | 2022-07-19 |
 | [獣の理](https://open.spotify.com/track/0pUQH30znBxboQoTtmh9Oe) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [音楽](https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj) | 2:56 | 2022-05-31 | 2022-07-15 |
 | [甘い渇き](https://open.spotify.com/track/09bJEKD6myZ8kxUkDiWeox) | [梅星えあ](https://open.spotify.com/artist/69jZ4CN29BP2IsNdGh6ULF) | [甘い渇き](https://open.spotify.com/album/1M5b05Y2eiVcKI2CIscBFs) | 4:22 | 2022-07-12 | 2022-07-15 |

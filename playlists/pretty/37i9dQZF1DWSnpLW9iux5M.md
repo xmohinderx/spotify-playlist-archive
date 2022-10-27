@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,174 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,223 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 19 | [O Holy Night \- Amapiano](https://open.spotify.com/track/2nygE7wq6PU04FZB0x9OGb) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [P\-Tempo](https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7) | [O Holy Night \(Amapiano\)](https://open.spotify.com/album/1DOZF7MPZV7oIHfRKfOVwi) | 6:09 |
 | 20 | [No Christmas Without You](https://open.spotify.com/track/6BWDAG7jAXf6ZWRakQdKjn) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Presents The Family, No Christmas Without You](https://open.spotify.com/album/4INLEQC6BDLqHaCwoP8xY6) | 4:21 |
 | 21 | [Jesus What a Wonderful Child](https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC) | [Dottie Peoples](https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb) | [Christmas With Dottie](https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU) | 4:15 |
-| 22 | [Angels We Have Heard On High](https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 4:27 |
-| 23 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/4DEyCl5t6wuxLZnUBQss8N) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 4:24 |
+| 22 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/4DEyCl5t6wuxLZnUBQss8N) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 4:24 |
+| 23 | [Angels We Have Heard On High](https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 4:27 |
 | 24 | [For Unto Us \(A Child Is Born\)](https://open.spotify.com/track/6vCh1sz0DsccWhs5nJHk3q) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [First Christmas](https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl) | 4:30 |
 | 25 | [Christmas Joy](https://open.spotify.com/track/160XASc2EehpJy98jRemCI) | [Brandon Camphor & One Way](https://open.spotify.com/artist/4mLHthOzPH2UIygTENj5Bm) | [Christmas Joy](https://open.spotify.com/album/04GuFkpdc8tIOklBEsS8Tl) | 3:26 |
 | 26 | [O Come All Ye Faithful](https://open.spotify.com/track/4Ck4Qah5oq4a8hyVROESHj) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 5:18 |
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 58 | [Emmanuel is Here](https://open.spotify.com/track/0DDNfG9ZxThYp79QSsp36H) | [Patrick Dopson](https://open.spotify.com/artist/2Aw6herTftgxyGaUxkHTNX) | [Emmanuel is Here](https://open.spotify.com/album/7MLDmQxZUyRAtVQ8cSLbmf) | 5:31 |
 | 59 | [Follow That Star](https://open.spotify.com/track/6GlITLVkUAH2XsVNuUWeLj) | [Renwick Duesbury](https://open.spotify.com/artist/7GyRgZVKAKXs8RZKz4Omn4) | [Follow That Star](https://open.spotify.com/album/4H2iB9EQCZD4Zl031kB8ML) | 2:37 |
 | 60 | [O' Holy Night \(feat\. Michelle Williams\)](https://open.spotify.com/track/2WAHk7Lno9MgQk7bUnZu01) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [Michelle Williams](https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui) | [8 Days Of Christmas](https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ) | 4:23 |
-| 61 | [Give Me A Star](https://open.spotify.com/track/2vbCMcecSWwccm1ojWKOaZ) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [A Motown Gospel Christmas](https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr) | 4:35 |
+| 61 | [Silver Bells](https://open.spotify.com/track/21vPbghHpjCwafsiFEdJuN) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Family Christmas](https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh) | 3:03 |
 | 62 | [Silent Night](https://open.spotify.com/track/2EtIX4Jay8443y66nzTTpr) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Christmas with Yolanda Adams](https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5) | 3:20 |
-| 63 | [Silver Bells](https://open.spotify.com/track/21vPbghHpjCwafsiFEdJuN) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Family Christmas](https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh) | 3:03 |
+| 63 | [Give Me A Star](https://open.spotify.com/track/2vbCMcecSWwccm1ojWKOaZ) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [A Motown Gospel Christmas](https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr) | 4:35 |
 | 64 | [With Us \(Oh Emmanuel\)](https://open.spotify.com/track/3xizrkWnSm5XHZ9HAatpbq) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [A Timeless Christmas](https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8) | 3:55 |
 | 65 | [It's Christmas Time](https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk) | [Juanita Bynum](https://open.spotify.com/artist/7s6c1gQXQCakbFxmgKAQDV) | [Christmas at Home with Juanita Bynum](https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN) | 5:03 |
-| 66 | [You Are Our Joy Christmas](https://open.spotify.com/track/1ubujbBg5S9NvxNtmJzOBB) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [You Are Our Joy Christmas \- Single](https://open.spotify.com/album/5ZZZb56SsULyqOgcgTzuMi) | 3:48 |
-| 67 | [Holy, Holy, Holy](https://open.spotify.com/track/3GiK89ZgpCTYgefDuHLP0Y) | [Kurt Carr Singers](https://open.spotify.com/artist/47GFnTaDeJDSKuxzYyNYrs) | [Gospel Heritage Christmas Vol\. 2](https://open.spotify.com/album/401xeKiJnhyWCWDLdca40p) | 4:58 |
+| 66 | [Holy, Holy, Holy](https://open.spotify.com/track/3GiK89ZgpCTYgefDuHLP0Y) | [Kurt Carr Singers](https://open.spotify.com/artist/47GFnTaDeJDSKuxzYyNYrs) | [Gospel Heritage Christmas Vol\. 2](https://open.spotify.com/album/401xeKiJnhyWCWDLdca40p) | 4:58 |
+| 67 | [You Are Our Joy Christmas](https://open.spotify.com/track/1ubujbBg5S9NvxNtmJzOBB) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [You Are Our Joy Christmas \- Single](https://open.spotify.com/album/5ZZZb56SsULyqOgcgTzuMi) | 3:48 |
 | 68 | [Jesus, Oh What A Wonderful Child](https://open.spotify.com/track/7MF4wDB1bvI0QpOwIrAIuO) | [The Collective](https://open.spotify.com/artist/1MxfqwWO3lgJpvQuTxVTna), [Nakitta Foxx](https://open.spotify.com/artist/3O7k7XATIWSxApm2qnj7qd) | [A VGNBae Christmas](https://open.spotify.com/album/0U8IUFHq5HDnMOTpH5HeVj) | 4:41 |
 | 69 | [Glory To The Lamb](https://open.spotify.com/track/3DeqedtaqSp4TDnYD5VXcy) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Joy To The World](https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK) | 5:40 |
 | 70 | [What Child Is This?](https://open.spotify.com/track/76DWigqwydczFqlnEPB7Bf) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Holiday Love: The Rebirth](https://open.spotify.com/album/6ZrPBCoj4N9621iaZ4tuOI) | 2:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 74 | [Song For The Hopeful \(feat\. Kim Burrell\)](https://open.spotify.com/track/12cTeug1pE6zXTxZY5tJHj) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 4:35 |
 | 75 | [Hark The Herald Angels Sing](https://open.spotify.com/track/4Zgd9TerFAB6delKBFITmX) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Family Christmas](https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh) | 3:03 |
 
-Snapshot ID: `MTY0MDMyMjMwMCwwMDAwMDAwMGQ5NmNkMTA5M2ZhMDMxZGZhYmYyYmMwMjRhYjM3MDhk`
+Snapshot ID: `MTY0MDMyMjMwMCwwMDAwMDAwMDEzYmY1ODYyODM3ZTUwNTZlYTM2MGQwMTkwY2I4Y2Fm`

@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Hozier
 
-349 songs - 19 hr 56 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
+350 songs - 20 hr 1 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Hollow](https://open.spotify.com/track/6spkJelK61dvwggDt6WTOr) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Train of Thoughts](https://open.spotify.com/album/66vmDvKQOqSaUq0HzVKu8B) | 3:03 | 2021-11-19 | 2022-07-08 |
 | [Holy Water](https://open.spotify.com/track/7EWkSYW9mvDlOZaqdbGyMF) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Holy Water](https://open.spotify.com/album/40VGDgVk859imEpxMsI26B) | 3:39 | 2021-11-19 | 2022-04-25 |
 | [Hope](https://open.spotify.com/track/4HoL1fewA33MBWjTWikc5D) | [Cap Carter](https://open.spotify.com/artist/6tlZOlraBrfKljvD2O6wTV) | [Notes](https://open.spotify.com/album/3TBhwwvmk3yGVZpWMbZTRY) | 3:22 | 2021-12-13 | 2022-01-31 |
-| [Horses](https://open.spotify.com/track/6GRKAd64XPuij4RWeSUhSX) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Horses](https://open.spotify.com/album/4eVDNftCpVDAzrh80ayq1D) | 5:05 | 2022-07-15 |  |
+| [Horses](https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 5:05 | 2022-08-12 |  |
+| [Horses](https://open.spotify.com/track/6GRKAd64XPuij4RWeSUhSX) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Horses](https://open.spotify.com/album/4eVDNftCpVDAzrh80ayq1D) | 5:05 | 2022-07-15 | 2022-10-27 |
 | [How Do You Dress for the Rain?](https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [How Do You Dress for the Rain?](https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh) | 2:40 | 2022-03-11 |  |
 | [Hurt Like That](https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Hurt Like That](https://open.spotify.com/album/1YixmyGKRqTOBdBrwb0Xvh) | 3:16 | 2021-11-19 | 2022-09-27 |
 | [Hush Little Baby](https://open.spotify.com/track/1sFNKEPNYHzkTO63cQgGdv) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Hush Little Baby](https://open.spotify.com/album/1NGIXygorffIaEpPpFwpgm) | 3:19 | 2022-02-21 | 2022-04-17 |

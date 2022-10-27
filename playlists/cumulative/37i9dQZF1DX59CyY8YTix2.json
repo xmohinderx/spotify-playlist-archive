@@ -982,6 +982,24 @@
     },
     {
       "album": {
+        "name": "Emergence No.1",
+        "url": "https://open.spotify.com/album/5fkgRBj5V38v5dF62PBJnS"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u6728\u6e1a",
+          "url": "https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201492,
+      "name": "Emergence No.1",
+      "url": "https://open.spotify.com/track/18RsGEb4NcRC6T0dqTq235"
+    },
+    {
+      "album": {
         "name": "MAISON de ROMANTIC",
         "url": "https://open.spotify.com/album/1LvEJrGQu3aEIfq1GoYAkL"
       },
@@ -10213,7 +10231,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 201492,
       "name": "\u72ec\u7acb\u4e0a\u6607\u66f2 \u7b2c\u4e00\u756a",
       "url": "https://open.spotify.com/track/0hzicSH2fJO8RQYzmX4RJA"

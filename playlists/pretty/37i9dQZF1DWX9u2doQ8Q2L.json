@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 344382,
+  "num_followers": 344446,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjcxMDAwMCwwMDAwMDAwMGFmZmE0N2MxYmY4OTkwZDI0ZDY1NmNhZDNhMmMyMjVk",
+  "snapshot_id": "MTY2NjcxMDAwMCwwMDAwMDAwMDcxZmNkZjZjOWFkZDVmNGNjNTJiYmRjZjBiNDc5ZjJj",
   "tracks": [
     {
       "added_at": "2022-10-25 15:00:00",
@@ -116,7 +116,7 @@
       "added_at": "2022-10-25 15:00:00",
       "album": {
         "name": "friends",
-        "url": "https://open.spotify.com/album/6KmdWsxO8aqBaWuFt37dCX"
+        "url": "https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8"
       },
       "artists": [
         {
@@ -126,7 +126,7 @@
       ],
       "duration_ms": 229653,
       "name": "friends",
-      "url": "https://open.spotify.com/track/0KZNnObrPorScIX3cT3sjW"
+      "url": "https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -284,7 +284,7 @@
       "added_at": "2022-10-25 15:00:00",
       "album": {
         "name": "your room",
-        "url": "https://open.spotify.com/album/7khBUxZhpj2K9019INmwGe"
+        "url": "https://open.spotify.com/album/3JijWekYCz4gBkWB1jFeX6"
       },
       "artists": [
         {
@@ -298,7 +298,7 @@
       ],
       "duration_ms": 215400,
       "name": "your room",
-      "url": "https://open.spotify.com/track/1SQyaGfArVFSknUxwXzn80"
+      "url": "https://open.spotify.com/track/0ny70e6ql2HOEmQVfnWI8N"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -443,6 +443,38 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
+        "name": "Chrome Season",
+        "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
+      },
+      "artists": [
+        {
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+        }
+      ],
+      "duration_ms": 186176,
+      "name": "come again",
+      "url": "https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/6YuddXfc7Sthy3IZnshpmC"
+      },
+      "artists": [
+        {
+          "name": "Keisuke Murakami",
+          "url": "https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu"
+        }
+      ],
+      "duration_ms": 219989,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/7HNzutKeiNnnBvW2GJbner"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx"
       },
@@ -467,38 +499,6 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
-        "name": "Midnight Train",
-        "url": "https://open.spotify.com/album/7AH6O5WhlOlODKPvlHaurH"
-      },
-      "artists": [
-        {
-          "name": "Murakami Keisuke",
-          "url": "https://open.spotify.com/artist/34EzrWHspo4wT6YmLjE0IH"
-        }
-      ],
-      "duration_ms": 219989,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/3jaZ0zYnnidsLD9qlDMPRp"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "Baby I love you so",
-        "url": "https://open.spotify.com/album/16kwSHBXn4IfnEhuUXI4rb"
-      },
-      "artists": [
-        {
-          "name": "Shota Shimizu",
-          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
-        }
-      ],
-      "duration_ms": 221500,
-      "name": "Baby I love you so",
-      "url": "https://open.spotify.com/track/2HK0fhLAZML38nA3EQnuQe"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
         "name": "Mocktails",
         "url": "https://open.spotify.com/album/13LPbNHtgyYfvozXn7JYcA"
       },
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
-        "name": "Chrome Season",
-        "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
+        "name": "Baby I love you so",
+        "url": "https://open.spotify.com/album/16kwSHBXn4IfnEhuUXI4rb"
       },
       "artists": [
         {
-          "name": "Bleecker Chrome",
-          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
         }
       ],
-      "duration_ms": 186176,
-      "name": "come again",
-      "url": "https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX"
+      "duration_ms": 221500,
+      "name": "Baby I love you so",
+      "url": "https://open.spotify.com/track/2HK0fhLAZML38nA3EQnuQe"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -631,6 +631,26 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
+        "name": "Toxins",
+        "url": "https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR"
+      },
+      "artists": [
+        {
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+        },
+        {
+          "name": "TARVETHZ",
+          "url": "https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR"
+        }
+      ],
+      "duration_ms": 180861,
+      "name": "Toxins",
+      "url": "https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
         "name": "Orbit",
         "url": "https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p"
       },
@@ -667,6 +687,26 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
+        "name": "\u6708\u306b\u5420\u3048\u308b",
+        "url": "https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        },
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "\u6708\u306b\u5420\u3048\u308b",
+      "url": "https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
         "name": "Departure : My New Me",
         "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
       },
@@ -679,26 +719,6 @@
       "duration_ms": 222320,
       "name": "Trickster",
       "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "Toxins",
-        "url": "https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR"
-      },
-      "artists": [
-        {
-          "name": "Bleecker Chrome",
-          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
-        },
-        {
-          "name": "TARVETHZ",
-          "url": "https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR"
-        }
-      ],
-      "duration_ms": 180861,
-      "name": "Toxins",
-      "url": "https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -743,6 +763,22 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
+        "name": "\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
         "name": "STARLIGHT",
         "url": "https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf"
       },
@@ -779,22 +815,18 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
-        "name": "\u6708\u306b\u5420\u3048\u308b",
-        "url": "https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3"
+        "name": "from JAPAN 3",
+        "url": "https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx"
       },
       "artists": [
         {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
-        },
-        {
-          "name": "\u4e2d\u6751\u4f73\u7a42",
-          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
         }
       ],
-      "duration_ms": 205920,
-      "name": "\u6708\u306b\u5420\u3048\u308b",
-      "url": "https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ"
+      "duration_ms": 271525,
+      "name": "\u7d9a\u30fb\u9769\u547d\u524d\u591c",
+      "url": "https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -815,38 +847,6 @@
       "duration_ms": 231895,
       "name": "\u30bf\u30a4\u30df\u30f3\u30b0\u3067\u3057\u3087 (feat. Awich)",
       "url": "https://open.spotify.com/track/5TsBHbTbAUNQmUtvpS4kDI"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "\u30ed\u30de\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
-      },
-      "artists": [
-        {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "\u30ed\u30de\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "from JAPAN 3",
-        "url": "https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx"
-      },
-      "artists": [
-        {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
-        }
-      ],
-      "duration_ms": 271525,
-      "name": "\u7d9a\u30fb\u9769\u547d\u524d\u591c",
-      "url": "https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
+        "name": "D'Addario",
+        "url": "https://open.spotify.com/album/0Jo41bqYOYzkwRA7MtttF3"
+      },
+      "artists": [
+        {
+          "name": "ZOOKARADERU",
+          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+        }
+      ],
+      "duration_ms": 288241,
+      "name": "D'Addario",
+      "url": "https://open.spotify.com/track/39F8ghQo929nMGZAbNPpXM"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
         "name": "Sweet Home",
         "url": "https://open.spotify.com/album/6U8mea9zHq3z2yJmx8wKA7"
       },
@@ -907,18 +923,18 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
-        "name": "D'Addario",
-        "url": "https://open.spotify.com/album/0Jo41bqYOYzkwRA7MtttF3"
+        "name": "\u30d4\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/4CDlpPToQl8dlAYsvYriko"
       },
       "artists": [
         {
-          "name": "ZOOKARADERU",
-          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+          "name": "Ritsuki Akiyama",
+          "url": "https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9"
         }
       ],
-      "duration_ms": 288241,
-      "name": "D'Addario",
-      "url": "https://open.spotify.com/track/39F8ghQo929nMGZAbNPpXM"
+      "duration_ms": 284531,
+      "name": "\u30d4\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/2BUaLRp0NsvfWOWtqnJrYe"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -935,22 +951,6 @@
       "duration_ms": 171000,
       "name": "HOMEWORK",
       "url": "https://open.spotify.com/track/0gq75lykNVUk0zaHVruLGB"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "\u30d4\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/4CDlpPToQl8dlAYsvYriko"
-      },
-      "artists": [
-        {
-          "name": "Ritsuki Akiyama",
-          "url": "https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9"
-        }
-      ],
-      "duration_ms": 284531,
-      "name": "\u30d4\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/2BUaLRp0NsvfWOWtqnJrYe"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
+        "name": "\u5411\u3053\u3046\u304b\u3089",
+        "url": "https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR"
+      },
+      "artists": [
+        {
+          "name": "Ritsuki Akiyama",
+          "url": "https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9"
+        }
+      ],
+      "duration_ms": 225643,
+      "name": "\u5411\u3053\u3046\u304b\u3089",
+      "url": "https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
         "name": "\u30b4\u30ed\u30ef\u30fc\u30ba\u3092\u5438\u3063\u305f\u3053\u3068\u304c\u3042\u308b\u304b\u3044",
         "url": "https://open.spotify.com/album/6al4FiqNmuoWldC5lksg1i"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 282493,
       "name": "\u7d9a\u30fbNew York City",
       "url": "https://open.spotify.com/track/0SEtY9Z4GWq9i0sNyIttFA"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "Todai",
-        "url": "https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 177662,
-      "name": "Todai",
-      "url": "https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m"
     }
   ],
   "unique_name": "Tokyo Rising",

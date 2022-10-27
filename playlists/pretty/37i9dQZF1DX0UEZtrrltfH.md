@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,396 likes - 61 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,419 likes - 61 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 14 | [Shining Star](https://open.spotify.com/track/7irDybhGY1HtUM7iL2QzFq) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [Eternity](https://open.spotify.com/album/10NLvLAsQvYjHb9n8299xy) | 5:22 |
 | 15 | [Post Kyiv](https://open.spotify.com/track/06kHHYnF6GMJodEs26JmnN) | [D.Dan](https://open.spotify.com/artist/7kocSfpPxPoSIRa1yNIQvB) | [Standard Deviation 2](https://open.spotify.com/album/0wuAbWI6ufYWrIxy2oHnvg) | 6:40 |
 | 16 | [Surrounded By Your Love \- Original Mix](https://open.spotify.com/track/4POoYFKC1c5gCAGLRd9J8K) | [DJ Shog](https://open.spotify.com/artist/36g2U19HPpLeY5FyrPhrfp), [Aven](https://open.spotify.com/artist/2siYiqx6CaKJhNwdJ5FguP) | [Empire of Trance Vol.1 \(The World Domination of Progressive, Vocal and Energetic Trance\)](https://open.spotify.com/album/4ezh1K0lPTIyfoADQUFWiQ) | 6:02 |
-| 17 | [Supersoaker](https://open.spotify.com/track/21lsxNQxBO9TLUsq3AqDfK) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/2Rs0kFucNpFQVVjFxrt9e9) | 3:04 |
+| 17 | [Supersoaker](https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA) | 3:04 |
 | 18 | [Fanta](https://open.spotify.com/track/1WkpBBeTduExO6DOrqsRri) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Deep Trouble](https://open.spotify.com/album/686lcsXGAd6hqtjI4W7vLZ) | 3:18 |
 | 19 | [Amygdala](https://open.spotify.com/track/7z4a9JihC3kZh8Hdt0tqOR) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Amygdala](https://open.spotify.com/album/7IUUaatsZEC81o9uWHJ1Nv) | 2:10 |
 | 20 | [Quantum Stealth](https://open.spotify.com/track/4GzdUe7khLDV3vct1UnTBE) | [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [Neptune](https://open.spotify.com/album/7FcOUT8CZy3r7nc4IDm1is) | 2:54 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 60 | [FELL](https://open.spotify.com/track/2Vv2boJ8svGFAOA348ApxQ) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [SIREN CALL](https://open.spotify.com/album/3Mozvi21Fv8p7YSjRcRSkg) | 3:03 |
 | 61 | [Puppy](https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn) | 4:08 |
 
-Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMGE2MDI1OTQ0ZTExYmE2NTZjNGZlODc0NTU0YjVjMGYx`
+Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMDcyMTM0ODFiMWU5M2Q4MzgxM2QxMDRjMjE3MmY0ZDM3`

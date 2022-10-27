@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Silvana Estrada
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,822 likes - 71 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,811 likes - 71 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 11 | [Mole](https://open.spotify.com/track/1mXJe2PaWhSNWXvNIZKpqX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [TRÊS](https://open.spotify.com/album/3QiDWIyxyDbRfMsgZJrdCV) | 2:10 |
 | 12 | [Bloody Samaritan \(with Kelly Rowland\) \- Remix](https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Bloody Samaritan \(with Kelly Rowland\) \[Remix\]](https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX) | 3:09 |
 | 13 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 |
-| 14 | [Soygun](https://open.spotify.com/track/2UuC5wKOxlhB3JIwA88gxO) | [Feride Hilal Akın](https://open.spotify.com/artist/2dLBhX7dIdWL6Fsk9l0n1n) | [Soygun](https://open.spotify.com/album/0QGEwC4RnPMAfuTnOj0sti) | 3:16 |
-| 15 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 |
+| 14 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 |
+| 15 | [Soygun](https://open.spotify.com/track/2UuC5wKOxlhB3JIwA88gxO) | [Feride Hilal Akın](https://open.spotify.com/artist/2dLBhX7dIdWL6Fsk9l0n1n) | [Soygun](https://open.spotify.com/album/0QGEwC4RnPMAfuTnOj0sti) | 3:16 |
 | 16 | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/track/6z7CbJhWEVXZyFv2Y0CjCs) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT), [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/album/6rW1RDPhTkzVFgvJZatSbY) | 2:30 |
 | 17 | [Cute Boy](https://open.spotify.com/track/7DS5SpsWS7rtKeAfe9rbfn) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG), [Sagi Kariv](https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a), [Forever Tel Aviv](https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q) | [Cute Boy](https://open.spotify.com/album/3oOsxujiwXlaed2q2h71Fv) | 3:05 |
 | 18 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 27 | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/track/318MngwqDyMYOzhDcZkUoq) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [NAILS \(feat\. Missy Elliott\)](https://open.spotify.com/album/250tsczCTKdauTN2QJgak4) | 2:51 |
 | 28 | [FREAK LIKE ME](https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [FREAK LIKE ME](https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG) | 2:47 |
 | 29 | [căn gác mùa hè \(sweet summer\)](https://open.spotify.com/track/5IdhOcCGRjpmEBFmOJTM6g) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [căn gác mùa hè \(sweet summer\)](https://open.spotify.com/album/5bQzfLbguTeovN8JxHkCPP) | 3:11 |
-| 30 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 |
-| 31 | [Yellow Brick Road](https://open.spotify.com/track/7MYJYInfkV4Jp1CnY2bihc) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 2:37 |
+| 30 | [Yellow Brick Road](https://open.spotify.com/track/7MYJYInfkV4Jp1CnY2bihc) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 2:37 |
+| 31 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 |
 | 32 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 |
 | 33 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 |
 | 34 | [AMAN](https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [AMAN](https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5) | 3:10 |
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 50 | [Get It Right](https://open.spotify.com/track/1zB3PXJUnLtaKwh8BFgrPZ) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Get It Right](https://open.spotify.com/album/0ZHtV08dK9qMw9g3cSCpz8) | 3:08 |
 | 51 | [Let Me In](https://open.spotify.com/track/0zVDBpbaqYg7lmBfAdX75p) | [Luise Najib](https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0) | [Let Me In](https://open.spotify.com/album/1QPXK7Ig0chdgC8wPHmxyI) | 3:36 |
 | 52 | [Nereye Gömsem?](https://open.spotify.com/track/5LnoItjgkP1jQB1BT3xmMc) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Nereye Gömsem?](https://open.spotify.com/album/4L4pTQbsLkzPJWUogZTw05) | 2:55 |
-| 53 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 |
-| 54 | [木頭人的飛行](https://open.spotify.com/track/4GYYWzauSMxdeMcawMMZX2) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [木頭人的飛行](https://open.spotify.com/album/469Eh4wVgpq7Xw5lpBGEAV) | 3:10 |
-| 55 | [Tudu Tudu Tu](https://open.spotify.com/track/4FOCWMx3Xl36xlEQoEYmpn) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Slow Burn](https://open.spotify.com/album/3rsmCfSkLjDUcjSembmp3S) | 2:40 |
-| 56 | [De X Vida](https://open.spotify.com/track/7KdlLGCuAA25rzatYxDNHM) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [De X Vida](https://open.spotify.com/album/46dyRolsnFXlMp7J707OIc) | 3:04 |
+| 53 | [Tudu Tudu Tu](https://open.spotify.com/track/4FOCWMx3Xl36xlEQoEYmpn) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Slow Burn](https://open.spotify.com/album/3rsmCfSkLjDUcjSembmp3S) | 2:40 |
+| 54 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 |
+| 55 | [木頭人的飛行](https://open.spotify.com/track/4GYYWzauSMxdeMcawMMZX2) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [木頭人的飛行](https://open.spotify.com/album/469Eh4wVgpq7Xw5lpBGEAV) | 3:10 |
+| 56 | [Oh my mind](https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Oh my mind](https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O) | 2:51 |
 | 57 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
-| 58 | [Oh my mind](https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Oh my mind](https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O) | 2:51 |
+| 58 | [De X Vida](https://open.spotify.com/track/7KdlLGCuAA25rzatYxDNHM) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [De X Vida](https://open.spotify.com/album/46dyRolsnFXlMp7J707OIc) | 3:04 |
 | 59 | [An kapou kapou m' agapas](https://open.spotify.com/track/1iGn8Ro9AvGcgFC9Bpl4M1) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [An kapou kapou m' agapas](https://open.spotify.com/album/7LueUWaZS06KOtNLvQRK8J) | 3:12 |
 | 60 | [Kalimutan](https://open.spotify.com/track/1degd7Nhtw4z6zt8y6KwDZ) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Kalimutan](https://open.spotify.com/album/4abIbIvI6BG7uRdrUocI1D) | 3:29 |
 | 61 | [Milkshake](https://open.spotify.com/track/1l2vMP0Cov7ogJOF2l6MXm) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Milkshake](https://open.spotify.com/album/1T9A30JUrolQtPiDHxwDiG) | 3:42 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 70 | [Day Off](https://open.spotify.com/track/3HV9EPgIUq0SM4NZfJvBHs) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Darnos Un Dia / Day Off](https://open.spotify.com/album/6EM4z696J7abauiSw0RtXZ) | 4:04 |
 | 71 | [Back to the Basics](https://open.spotify.com/track/7kBaoqgIZPVngTiN3nbjab) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Back to the Basics](https://open.spotify.com/album/0o3Tghkt3jiW5t21LHttmC) | 3:28 |
 
-Snapshot ID: `MTY2NjAxNTI3NSwwMDAwMDAwMDIwYmRkYTRkYzU0ZTk2NDJlNDdkMDRiMTE4MzhiNmU2`
+Snapshot ID: `MTY2NjAxNTI3NSwwMDAwMDAwMDlkYjViM2UxMjU0NDBiYWI1ZjZhYzI0Y2FjOGZhNmU0`

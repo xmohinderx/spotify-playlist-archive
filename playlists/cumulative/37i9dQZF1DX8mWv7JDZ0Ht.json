@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Vitor Kley",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Ludmilla",
   "name": "Pop Leve",
   "published_playlist_ids": [
     "5tkcffSh1F75PZZSEVmuv8"
@@ -1890,6 +1890,24 @@
     },
     {
       "album": {
+        "name": "Maria Maria - Spotify Singles",
+        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143933,
+      "name": "Maria Maria - Spotify Singles",
+      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
+    },
+    {
+      "album": {
         "name": "Me Beija",
         "url": "https://open.spotify.com/album/6jT8SLaJHeOgSReiWWNLQI"
       },
@@ -2261,6 +2279,28 @@
       "duration_ms": 247423,
       "name": "o mesmo dia",
       "url": "https://open.spotify.com/track/0zCv49QKlB6qzqSpc3FA7F"
+    },
+    {
+      "album": {
+        "name": "O P\u00e1ssaro e o Diamante",
+        "url": "https://open.spotify.com/album/6k8CfbckxXsinhYMDIhOks"
+      },
+      "artists": [
+        {
+          "name": "San Joe",
+          "url": "https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX"
+        },
+        {
+          "name": "Freitera",
+          "url": "https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149032,
+      "name": "O P\u00e1ssaro e o Diamante",
+      "url": "https://open.spotify.com/track/6HTH0CTtSz0qzAmXKMFYIZ"
     },
     {
       "album": {

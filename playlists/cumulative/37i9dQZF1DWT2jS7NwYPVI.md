@@ -4,7 +4,7 @@
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Pinkshift
 
-893 songs - 1 day 23 hr 37 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
+895 songs - 1 day 23 hr 43 min - [published](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU) | 2:54 | 2022-05-13 | 2022-07-23 |
 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 | 2022-10-07 |  |
 | [Out the Neighbourhood](https://open.spotify.com/track/6eApoyaNF3DBw1cZhnBBp6) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Out the Neighbourhood](https://open.spotify.com/album/18G8aSVGXVAwHgwDWiolgL) | 4:25 | 2021-11-19 | 2022-01-15 |
+| [Overrated](https://open.spotify.com/track/2G4wx9rJZ5bkfR4cof9lZz) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Who Are You Now, Who Were You Then?](https://open.spotify.com/album/7t6WeUtPzEPJXjL0e7fp82) | 2:59 | 2022-10-26 |  |
 | [Overrated](https://open.spotify.com/track/5pfU5BzNAY2ICD6ebEdTQ2) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Overrated](https://open.spotify.com/album/4bwu7tY0egNlRfdnckf6gE) | 2:59 | 2022-08-05 | 2022-10-01 |
 | [Own Worst Enemy](https://open.spotify.com/track/5NZ5pvpLr7iu8BFWekMhLW) | [Robert DeLong](https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC) | [Own Worst Enemy](https://open.spotify.com/album/1EA7zX9nD45098NQxoToAo) | 3:11 | 2021-11-19 | 2022-01-15 |
 | [Oxygen Thief](https://open.spotify.com/track/59lsHvsyh49rejXU31xY2s) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Oxygen Thief](https://open.spotify.com/album/3HIalBoWd1Rx8a01MhuBhS) | 2:56 | 2022-01-21 | 2022-04-09 |
@@ -854,6 +855,7 @@
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-01-21 | 2022-03-05 |
 | [War Boys](https://open.spotify.com/track/6YEBtj2zB0ZHYPbJVg0Jku) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [War Boys](https://open.spotify.com/album/7eIQ1zCmcFaBiqyV8idtNB) | 3:09 | 2022-09-02 | 2022-09-24 |
 | [Warning Signs](https://open.spotify.com/track/4Ip0oLPBQq9jbzEuR1foRV) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Things Are Great](https://open.spotify.com/album/3hWOJ8Xj5yVqcHWtjkMQ3q) | 4:20 | 2022-03-04 | 2022-05-20 |
+| [Wasted on You](https://open.spotify.com/track/1ooipOkryJnMA85CNpZzUV) | [Homes at Night](https://open.spotify.com/artist/4KxAWQwGcTuJrLwamRGDaS) | [Wasted on You](https://open.spotify.com/album/7hi4Xy19HUpJ0xBBJlSMuR) | 3:20 | 2022-10-26 |  |
 | [watery](https://open.spotify.com/track/3R0GEzbTqMY6Iba9ftP4ll) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [watery](https://open.spotify.com/album/5Kxux1R2Ke01Uh5oa1loXi) | 2:28 | 2022-08-26 |  |
 | [Way Back When](https://open.spotify.com/track/0sHwaKBOtXCz4vrlVFafXv) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ) | [Way Back When](https://open.spotify.com/album/4dclpKjcjXDAL8UllLWrTC) | 2:14 | 2021-12-17 | 2022-03-18 |
 | [Wayfinding](https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wayfinding](https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl) | 3:09 | 2022-09-23 |  |

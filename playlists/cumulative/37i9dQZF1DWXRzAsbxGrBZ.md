@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer\. Cover: <a href="https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ?si=0OWx2PBgRkOGhZ\-vZNiOsQ">beatsbyhand</a>
 
-59 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/6reWCzCyOkzCijlcHOaUin)
+60 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/6reWCzCyOkzCijlcHOaUin)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Day And Night \(Mmawe\) \- Original Mix](https://open.spotify.com/track/1dxD8L9rjsFBTIoYHjkVqM) | [Chymamusique](https://open.spotify.com/artist/0nzV2U3TuoZhNqZFW564NI) | [3 By 3](https://open.spotify.com/album/4T4acJ3hbsdQG6lvuJIOqV) | 6:32 | 2022-09-14 |  |
 | [Different You](https://open.spotify.com/track/7DKC7x1wGVEhex4r5b0FDC) | [DJ Hloni](https://open.spotify.com/artist/0zsgveyOjZ0R4EVtx4NjNu), [MacZito](https://open.spotify.com/artist/2thqWGNDvNBDTetSDqquhC), [YBE](https://open.spotify.com/artist/5M7Y8ONhBfgoR2nC5VuJvz) | [Different You](https://open.spotify.com/album/0EoAED2djxx2kPF6RgWk89) | 6:59 | 2022-09-14 |  |
 | [Don’t Get Me Wrong](https://open.spotify.com/track/2ntpd9lUjPovqyEFfbYwmK) | [Deepconsoul](https://open.spotify.com/artist/5i4JeNw6u1j4B6f8ezRHRf), [Freeman Gumede](https://open.spotify.com/artist/72TQ8KmrZj6SfF2SgDWWib) | [Don’t Get Me Wrong](https://open.spotify.com/album/6fuxtJsTxSzDWBpjkOGFsh) | 7:53 | 2022-09-29 |  |
-| [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 | 2022-09-14 |  |
+| [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 | 2022-09-14 | 2022-10-27 |
 | [E.O.L \(Extraordinary Life\) \(Original LP Mix\)](https://open.spotify.com/track/7o0UkICXQlYARbMU6C4TTc) | [Nini Maluks](https://open.spotify.com/artist/4wt6OI7hl305rb96PueedT), [Pascale Yav](https://open.spotify.com/artist/73wxsmF4LKKCMsHJVIMH75) | [G.E.N.U.F.L.E.X.I.O.N](https://open.spotify.com/album/7l9FWrlJl4ANd95P9MC7RD) | 8:17 | 2022-09-29 |  |
 | [Eternal Existence \- Original Mix](https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [New Beginning EP](https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4) | 6:42 | 2022-09-14 |  |
 | [False Facade](https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza) | [DRMZ](https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ) | [False Facade](https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs) | 6:56 | 2022-09-14 |  |
@@ -49,6 +49,7 @@
 | [Push It](https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs) | [Mizo4Real](https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y) | [Let It Rain](https://open.spotify.com/album/7gXMf35rmuaFwW1uWG4U0X) | 7:56 | 2022-09-14 |  |
 | [Reflections](https://open.spotify.com/track/7acjQDLMT1IiCLlazKTe4U) | [Alley SA](https://open.spotify.com/artist/1ScHe3PMvTSjbH6A0XYxoy) | [Reflections](https://open.spotify.com/album/2ZfibpJkXSN6n3Gtsb3Zzk) | 6:45 | 2022-09-14 | 2022-10-04 |
 | [S'khanyisele](https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Sir Bless](https://open.spotify.com/artist/0vJss0iY4jFfFk1DQP3I2m) | [Thief In The Night](https://open.spotify.com/album/5qVSIkvWJAuaMVwBov8b0b) | 6:15 | 2022-09-14 |  |
+| [Safari \- Original Mix](https://open.spotify.com/track/5C2yySU4ikyeeqkD3ULcBf) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [Safari](https://open.spotify.com/album/1cuuxsujV2CDpUAK2B4mnj) | 6:08 | 2022-09-14 |  |
 | [Sarhalel \- Ed\-Ward Remix](https://open.spotify.com/track/0RAXgMtZEM2KFwbsVqFCYU) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Jonny Miller](https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Ed\-Ward, Intr0beatz & Jonny Miller Remixes](https://open.spotify.com/album/35EzfNv7BipGFSlUFlZbQX) | 6:10 | 2022-09-29 |  |
 | [Schrödinger's Cat](https://open.spotify.com/track/0rXVfF7ICT4NpN0p3PfUb0) | [Graham Deep](https://open.spotify.com/artist/3PMsRDsMJopoHrverCOp1R) | [Enemies By Monday](https://open.spotify.com/album/5zHZUfKSjM3kmpcjnj9CQp) | 6:48 | 2022-09-14 | 2022-10-04 |
 | [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 | 2022-09-14 | 2022-10-16 |

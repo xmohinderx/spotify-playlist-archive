@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 129722,
+  "num_followers": 129795,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgyMzQ1MiwwMDAwMDAwMGUxNzU0N2IwNTcwNzcwZjJjMDkxMTBmZWEzOTkyMGM3",
+  "snapshot_id": "MTY2NDgyMzQ1MiwwMDAwMDAwMGNhYjE5MTJlNmFhNTdjMWFmY2NlY2FjNzMyMjgzNGE0",
   "tracks": [
     {
       "added_at": "2022-09-30 03:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-09-30 03:00:00",
       "album": {
-        "name": "El Impulso",
-        "url": "https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 245986,
-      "name": "Para No Verme M\u00e1s",
-      "url": "https://open.spotify.com/track/270ieNCOt945nOdUQubFI5"
-    },
-    {
-      "added_at": "2022-09-30 03:00:00",
-      "album": {
         "name": "Las Pastillas del Abuelo",
         "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 303866,
       "name": "Tantas Escaleras",
       "url": "https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn"
+    },
+    {
+      "added_at": "2022-09-30 03:00:00",
+      "album": {
+        "name": "El Impulso",
+        "url": "https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 245986,
+      "name": "Para No Verme M\u00e1s",
+      "url": "https://open.spotify.com/track/270ieNCOt945nOdUQubFI5"
     },
     {
       "added_at": "2022-09-30 03:00:00",

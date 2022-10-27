@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-85 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/3yQMXI3L8r8uiVbAjwi08d)
+86 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/3yQMXI3L8r8uiVbAjwi08d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Softic Dnb](https://open.spotify.com/track/2Jv4UqZIYSubikMXCBKIfd) | [Soft Blade](https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG) | [Softic](https://open.spotify.com/album/4NbqAiI9p6BzEvkGdSDcgI) | 3:41 | 2022-09-05 |  |
 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 | 2022-09-05 |  |
 | [Su Payita \(Gramos\)](https://open.spotify.com/track/2WPFpC4oQxjBpSgsCoQrCf) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Su Payita \(Gramos\)](https://open.spotify.com/album/2kCottSg9MVr1WU5284qM4) | 2:20 | 2022-09-05 |  |
-| [Supersoaker](https://open.spotify.com/track/21lsxNQxBO9TLUsq3AqDfK) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/2Rs0kFucNpFQVVjFxrt9e9) | 3:04 | 2022-09-05 |  |
+| [Supersoaker](https://open.spotify.com/track/21lsxNQxBO9TLUsq3AqDfK) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/2Rs0kFucNpFQVVjFxrt9e9) | 3:04 | 2022-09-05 | 2022-10-27 |
+| [Supersoaker](https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA) | 3:04 | 2022-10-14 |  |
 | [Sweet Love](https://open.spotify.com/track/2XdL95Ifg9gysRDpFWNYWt) | [M\-Beat](https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g), [Nazlin](https://open.spotify.com/artist/7EHyk9B3KdWJFIbMpte5GL) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 3:58 | 2022-09-05 |  |
 | [Testarossa](https://open.spotify.com/track/4HfyaFz85yjeikeF3l6Y0W) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Testarossa](https://open.spotify.com/album/0pIFnkzgnoGCpGvT7XQIYW) | 3:56 | 2022-09-05 | 2022-10-14 |
 | [Testarossa](https://open.spotify.com/track/4NyxjOX2aMNPAmSmrxY9PJ) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Testarossa](https://open.spotify.com/album/7hcXy9jJgel4us2iha33uv) | 3:56 | 2022-09-05 |  |

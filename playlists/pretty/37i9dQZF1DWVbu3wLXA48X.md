@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Tegan and Sara
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,836 likes - 85 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,857 likes - 85 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 34 | [Pair Of You](https://open.spotify.com/track/6ekoBPfdfnWhQ8oJveaZSk) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Pair Of You](https://open.spotify.com/album/67lgGIywB4fMJ0xHsHgUiL) | 2:24 |
 | 35 | [plastic pony](https://open.spotify.com/track/4nx1caorxzv8ItosxZqrfG) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 2:22 |
 | 36 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 |
-| 37 | [F.O.O.F.](https://open.spotify.com/track/2Yo3BxnzxMeWkvTx1QKBo9) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [F.O.O.F.](https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z) | 2:08 |
+| 37 | [F.O.O.F.](https://open.spotify.com/track/6Xr3s1NTck8lLiLF7VGReD) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 2:08 |
 | 38 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
 | 39 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 |
 | 40 | [daydream](https://open.spotify.com/track/5QsaZbHC7scH5i7UdCYNip) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [daydream](https://open.spotify.com/album/07yuPYTf3qC2d5Olk0xYwf) | 3:26 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 84 | [We Are \(우리는\)](https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [We Are \(우리는\)](https://open.spotify.com/album/5fHWkEYEMeqoOCYaGB6WH5) | 3:46 |
 | 85 | [Off Goes The Light](https://open.spotify.com/track/7EqezifSDgoyiNnj7TPJYc) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Off Goes The Light](https://open.spotify.com/album/1fTS59Y3aXI3fg1eLHUuZV) | 4:33 |
 
-Snapshot ID: `MTY2NjYyNzc1NywwMDAwMDAwMGI3MzVlN2RhNDA3NDhiZDQ4MzJjMDk5OTE2ZmI4NjU5`
+Snapshot ID: `MTY2NjYyNzc1NywwMDAwMDAwMDhjYzllZDc3ZDUxNjU2NzdmMDZjZjc2YzBjZGY1NTJk`

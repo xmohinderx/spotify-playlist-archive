@@ -1,12 +1,12 @@
 {
   "description": "\u00a1SOULFIA y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9621,
+  "num_followers": 9623,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkzODg2MCwwMDAwMDAwMDFmMTRjM2E3NmQ2OWQ2NDQ4N2E4NGNmMjZhOGE0YmVl",
+  "snapshot_id": "MTY2NDkzODg2MCwwMDAwMDAwMGJlMTEwNzg5YmQ4NzEyNDE2YzRkN2I2M2YwM2QyZTIw",
   "tracks": [
     {
       "added_at": "2022-10-05 03:01:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-10-05 03:01:00",
       "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
+      },
+      "artists": [
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 182384,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
+    },
+    {
+      "added_at": "2022-10-05 03:01:00",
+      "album": {
         "name": "Stefany",
         "url": "https://open.spotify.com/album/74vpSPUywXW5tWyCz7WWYx"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 223448,
       "name": "Stefany",
       "url": "https://open.spotify.com/track/2itkoR7NhZ71ORPGweN2WS"
-    },
-    {
-      "added_at": "2022-10-05 03:01:00",
-      "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
-      },
-      "artists": [
-        {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
-        }
-      ],
-      "duration_ms": 182384,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
     },
     {
       "added_at": "2022-10-05 03:01:00",

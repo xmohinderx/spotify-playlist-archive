@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 2533,
+  "num_followers": 2646,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjA3MiwwMDAwMDAwMDNhNDZlNDJmMTgyNDBkNmQ5ODVhOTU5YTNlNTFkM2Nm",
+  "snapshot_id": "MTY2NDY1NjA3MiwwMDAwMDAwMGQxYjZkNDdiMWZmYjNhMWJkODA3OTNlYzNlN2E3NDQw",
   "tracks": [
     {
       "added_at": "2022-10-01 20:14:07",
@@ -307,22 +307,18 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 166911,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke"
+      "duration_ms": 272500,
+      "name": "way back",
+      "url": "https://open.spotify.com/track/2Zy7XVdxyZQB8xp5xbpJdl"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -363,18 +359,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 272500,
-      "name": "way back",
-      "url": "https://open.spotify.com/track/2Zy7XVdxyZQB8xp5xbpJdl"
+      "duration_ms": 166911,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Wins & Losses",
-        "url": "https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 282666,
-      "name": "1942 Flows",
-      "url": "https://open.spotify.com/track/7sLDnUauivS2vN6Z9EfUJT"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "My Turn (Deluxe)",
         "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 191583,
       "name": "Humble",
       "url": "https://open.spotify.com/track/6heRfvHrUIIPx9TqRg8SCq"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Wins & Losses",
+        "url": "https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 282666,
+      "name": "1942 Flows",
+      "url": "https://open.spotify.com/track/7sLDnUauivS2vN6Z9EfUJT"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -551,26 +551,18 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+        "name": "All In",
+        "url": "https://open.spotify.com/album/5VVILXgB1joAxfZkOlWs8U"
       },
       "artists": [
         {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 362839,
-      "name": "What's Free (feat. Rick Ross & Jay Z)",
-      "url": "https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox"
+      "duration_ms": 156032,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/1ZRjLZcNTm1vUgrexBp3px"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -631,18 +623,26 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/5VVILXgB1joAxfZkOlWs8U"
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
-      "duration_ms": 156032,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/1ZRjLZcNTm1vUgrexBp3px"
+      "duration_ms": 362839,
+      "name": "What's Free (feat. Rick Ross & Jay Z)",
+      "url": "https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -739,46 +739,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Back of My Mind",
-        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 197413,
-      "name": "Find A Way (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/3CtfBYewF9YoIj4tN1Xuh6"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 171970,
-      "name": "CANDY (feat. Nipsey Hussle)",
-      "url": "https://open.spotify.com/track/5Bas7y9Uy1Ce7e3vqngqVF"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -799,6 +759,26 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 197413,
+      "name": "Find A Way (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/3CtfBYewF9YoIj4tN1Xuh6"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Future Hndrxx Presents: The WIZRD",
         "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 137133,
       "name": "Jumpin on a Jet",
       "url": "https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 171970,
+      "name": "CANDY (feat. Nipsey Hussle)",
+      "url": "https://open.spotify.com/track/5Bas7y9Uy1Ce7e3vqngqVF"
     },
     {
       "added_at": "2022-10-01 20:14:07",

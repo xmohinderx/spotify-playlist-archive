@@ -4,13 +4,14 @@
 
 > Editor's picks: The best African songs of 2021\. Cover: <a href="https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu?si=nFgcQ\_fRQH6RnMN65adARg">LADIPOE</a>
 
-111 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/6yGvt4AKJQKkos6TrQLQgc)
+112 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/6yGvt4AKJQKkos6TrQLQgc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ababuyanga](https://open.spotify.com/track/61fo1fYkvovgboDvh96ypB) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Josiah De Disciple](https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte) | [Ababuyanga](https://open.spotify.com/album/7cxge2UzseXMcSs2BMlGrg) | 6:15 | 2021-12-01 |  |
 | [Abalele](https://open.spotify.com/track/2qxgejJTaZIHNSHDD22Uhl) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Abalele](https://open.spotify.com/album/59lFnkd1eVH8wl0cAXAPoz) | 6:56 | 2021-12-01 |  |
-| [Activate](https://open.spotify.com/track/0Bc66CwO7NENnqW60RBDzG) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Activate](https://open.spotify.com/album/0u50DEuHzfYNHFRMPaM2H9) | 3:37 | 2021-12-01 |  |
+| [Activate](https://open.spotify.com/track/0Bc66CwO7NENnqW60RBDzG) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Activate](https://open.spotify.com/album/0u50DEuHzfYNHFRMPaM2H9) | 3:37 | 2021-12-01 | 2022-10-27 |
+| [Activate](https://open.spotify.com/track/7ka9HaPbdwYUsMmHvaie41) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Activate](https://open.spotify.com/album/2sproMXb0ZqQefLlgjYPfo) | 3:37 | 2021-12-01 |  |
 | [Adiwele \(feat\. Kabza De Small & DJ Maphorisa\)](https://open.spotify.com/track/2dTQe0W5KXs6TNVV7yi2oS) | [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [Notumato](https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge) | 7:51 | 2021-12-01 |  |
 | [All of This \(Jorja Smith x GuiltyBeatz\)](https://open.spotify.com/track/6u06O02Qv5ZdwD0x9SqEbX) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [All of This \(Jorja Smith X GuiltyBeatz\)](https://open.spotify.com/album/0Q7QMfuDDS2Pm0OAxaJSPU) | 5:13 | 2021-12-01 |  |
 | [Alright \(feat\. Shatta Wale\)](https://open.spotify.com/track/2UTceOEpYfmOud3DVdH5YI) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Alright \(feat\. Shatta Wale\)](https://open.spotify.com/album/4BLHs4HKOkzO4lofvYlHa4) | 2:58 | 2021-12-01 |  |

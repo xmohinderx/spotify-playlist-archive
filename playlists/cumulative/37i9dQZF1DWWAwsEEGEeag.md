@@ -4,7 +4,7 @@
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-117 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
+118 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Od'e](https://open.spotify.com/track/6BWGXZi3hVmSOpAeDIexfi) | [Amarula Café Club](https://open.spotify.com/artist/5ESiClFEihXPGrgq9t36Gd) | [Od'e](https://open.spotify.com/album/1CDTfbRnxNry1wFOrpDxhT) | 2:48 | 2022-06-24 |  |
 | [One More](https://open.spotify.com/track/1V9gmvgZao4w35fRR2HEXX) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [One More](https://open.spotify.com/album/3lTa4RymzaLm4pPHsDIDfA) | 3:18 | 2022-09-23 |  |
 | [One More](https://open.spotify.com/track/68PHyiXuEvfC5y75346tGx) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [One More](https://open.spotify.com/album/1NDD9D0teHWXmLkZGF0Cnc) | 3:18 | 2022-06-24 | 2022-10-15 |
-| [Oulala](https://open.spotify.com/track/1RDA0pMc3xtJDhugv492iK) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Equilibre](https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t) | 3:35 | 2022-06-24 |  |
+| [Oulala](https://open.spotify.com/track/01mg6H8PhXNuGZj8tRsWCZ) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Equilibre](https://open.spotify.com/album/05i1g2VNkI7hBdIADta182) | 3:35 | 2022-09-23 |  |
+| [Oulala](https://open.spotify.com/track/1RDA0pMc3xtJDhugv492iK) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Equilibre](https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t) | 3:35 | 2022-06-24 | 2022-10-27 |
 | [Pajaros](https://open.spotify.com/track/7yZ5kBFO6VTjrFHIKXWA4S) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 4:09 | 2022-06-24 |  |
 | [Papier foil](https://open.spotify.com/track/0OucVUxG7ZgIsOW8LROcTA) | [Comment Debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [Comment Debord](https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK) | 3:43 | 2022-06-24 |  |
 | [Pas d'ici](https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pas d'ici](https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU) | 3:37 | 2022-06-24 |  |

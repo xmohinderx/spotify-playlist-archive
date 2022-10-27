@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2022</a>! Meet them first at the MU:CON 2022 official playlist\. \(뮤콘 2022 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,001 likes - 114 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,002 likes - 114 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 47 | [Warm Salad](https://open.spotify.com/track/7Mln2Uqs4WNOwzQCk5RnRK) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [Name of The Seasons](https://open.spotify.com/album/1PtJ3s9wuWD2WjtYV2BG1e) | 4:16 |
 | 48 | [reyn \- KR version](https://open.spotify.com/track/5qTwTJu5yGjomZF68WgCmP) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [Name of The Seasons](https://open.spotify.com/album/1PtJ3s9wuWD2WjtYV2BG1e) | 4:36 |
 | 49 | [Love&Art](https://open.spotify.com/track/7lyWHvKsAx1N9CwQIDRCJU) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [4pricøt](https://open.spotify.com/album/3t8eCpA20zjLJdAFdYAslp) | 6:30 |
-| 50 | [Arcade](https://open.spotify.com/track/6kOD1O3e5ffbL2KXjYZ8aq) | [DongYan Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [Arcade](https://open.spotify.com/album/6pCv1wTcIyLp4IrXFm2G4Q) | 6:03 |
-| 51 | [Feed](https://open.spotify.com/track/1a9h5EvYxY6NQNr4aaSXoT) | [DongYan Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [SURFACE](https://open.spotify.com/album/11zBjw0fW6jHj8dv8cnOpX) | 3:26 |
-| 52 | [혼](https://open.spotify.com/track/63fnEF2CXivwsI11SDzx3u) | [DongYan Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [틈](https://open.spotify.com/album/1yX7JNKgiXKbbrKVQ1Y1ks) | 6:39 |
+| 50 | [Arcade](https://open.spotify.com/track/6kOD1O3e5ffbL2KXjYZ8aq) | [DongYang Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [Arcade](https://open.spotify.com/album/6pCv1wTcIyLp4IrXFm2G4Q) | 6:03 |
+| 51 | [Feed](https://open.spotify.com/track/1a9h5EvYxY6NQNr4aaSXoT) | [DongYang Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [SURFACE](https://open.spotify.com/album/11zBjw0fW6jHj8dv8cnOpX) | 3:26 |
+| 52 | [혼](https://open.spotify.com/track/63fnEF2CXivwsI11SDzx3u) | [DongYang Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [틈](https://open.spotify.com/album/1yX7JNKgiXKbbrKVQ1Y1ks) | 6:39 |
 | 53 | [Return 귀환](https://open.spotify.com/track/1Cc0qT3PT4uUaq5yDY5SOG) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Return 귀환](https://open.spotify.com/album/1uCKVS95jFfKuR1vUAvoxr) | 3:27 |
 | 54 | [Breath 숨](https://open.spotify.com/track/08XpmEE4Qrfw14PsMuXXcG) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Harmony 화](https://open.spotify.com/album/5G5tvzJf7JitZ0x4GpoUxh) | 3:15 |
 | 55 | [kk](https://open.spotify.com/track/7HYtRBGVkaka9OAvifc7g2) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Harmony 화](https://open.spotify.com/album/5G5tvzJf7JitZ0x4GpoUxh) | 2:51 |

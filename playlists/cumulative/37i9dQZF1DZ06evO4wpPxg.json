@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 265373,
       "name": "A Friend Like Lonely Jesus",
       "url": "https://open.spotify.com/track/4udQfSjph8yVpoy4fcC2In"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 91280,
       "name": "Dill Pickles Rag",
       "url": "https://open.spotify.com/track/39ZOeEk6e6kEg7zWZGVDNT"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 215066,
       "name": "I Am The Light Of This World",
       "url": "https://open.spotify.com/track/2nIHJvqg8mQzUviTZfFcoQ"
@@ -1232,6 +1232,24 @@
     },
     {
       "album": {
+        "name": "Live at Gerde's Folk City",
+        "url": "https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51973,
+      "name": "Intro to Oh Glory, How Happy I Am",
+      "url": "https://open.spotify.com/track/09PuW4CZdMAli1XaV1RIKj"
+    },
+    {
+      "album": {
         "name": "Demons & Angels - the Music of Rev. Gary Davis",
         "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
       },
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 258240,
       "name": "Lo, I Be With You Always",
       "url": "https://open.spotify.com/track/3ris8TaqMl6ZwmlClJ59VG"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 210466,
       "name": "Lord, I Feel Just Like Goin' On",
       "url": "https://open.spotify.com/track/3eaZpjNLBMyX8mcT0vpK3D"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 183902,
       "name": "Lord, I Wish I Could See",
       "url": "https://open.spotify.com/track/6KX8xLpTnIIfa4D5mB9zxS"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 274800,
       "name": "Lovin' Spoonful",
       "url": "https://open.spotify.com/track/0ip6BefXd5LbaNsSwTLRZj"
@@ -1873,7 +1891,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 224080,
       "name": "Penitentiary Blues",
       "url": "https://open.spotify.com/track/4gcuHPIMriKkLPALmkxmso"
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 177706,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/08GtrSkf0Z8YmjUoJXQNv9"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 221029,
       "name": "Slippin' Till My Gal Comes in Partner",
       "url": "https://open.spotify.com/track/5z2zAtdqXz1IV5MnE8ML0v"
@@ -2341,7 +2359,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 193666,
       "name": "There's A Bright Side Somewhere",
       "url": "https://open.spotify.com/track/3BsgSIICiGyLR3niypMiOt"
@@ -2431,7 +2449,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 227066,
       "name": "Tryin' To Get Home",
       "url": "https://open.spotify.com/track/0wBrXIcKnvLfRuiWWNyDH2"
@@ -2467,7 +2485,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "Twelve Gates To The City",
       "url": "https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti"
@@ -2593,7 +2611,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 156266,
       "name": "West Coast Blues (Blind Blake)",
       "url": "https://open.spotify.com/track/43IBl2Kq835k1iknfUqbvU"
@@ -2683,7 +2701,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-24",
+      "date_removed": null,
       "duration_ms": 199160,
       "name": "You Got To Move",
       "url": "https://open.spotify.com/track/2LJwLyGJKoqkLhsen51Yqp"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. Bladee
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,270 likes - 99 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,458 likes - 99 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 13 | [gone](https://open.spotify.com/track/6rRgZPx71jR3C9HuMHboje) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [gone](https://open.spotify.com/album/69fQ99VuqUX8HYDKaxONvu) | 2:40 |
 | 14 | [One Long Firework in the Sky](https://open.spotify.com/track/1OmPgwGZtgwdKZp5S0gy7I) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [One Long Firework in the Sky](https://open.spotify.com/album/7xH5oPxIAovNTLDxHj1kVG) | 3:45 |
 | 15 | [exit life](https://open.spotify.com/track/1YKq9aptgpNiyfoMSWXIFr) | [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [exit life](https://open.spotify.com/album/4uvTUbN7nlJaNzIeXGPVP3) | 1:50 |
-| 16 | [abandon](https://open.spotify.com/track/2T3mlpTdnLm7CE9TxTMxwq) | [i9bonsai](https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3) | [abandon](https://open.spotify.com/album/7KVEom6rfRS0PzOJZ4Xsi6) | 2:58 |
+| 16 | [abandon](https://open.spotify.com/track/2T3mlpTdnLm7CE9TxTMxwq) | [i9bonsai](https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3), [bodyGaard](https://open.spotify.com/artist/2LBjk8Kcii9JHM18uYW873) | [abandon](https://open.spotify.com/album/7KVEom6rfRS0PzOJZ4Xsi6) | 2:58 |
 | 17 | [doubts](https://open.spotify.com/track/1Ur4CR2gD4Foa5i7WVutK8) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [doubts](https://open.spotify.com/album/3kEnFT44CdWVwOoDYsUj5J) | 4:04 |
 | 18 | [hate if ur mad \(● ˃̶͈̀ロ˂̶͈́\)੭ꠥ⁾⁾](https://open.spotify.com/track/58o6AY4WfMsGlVrpfsbtGs) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [hate if ur mad \(● ˃̶͈̀ロ˂̶͈́\)੭ꠥ⁾⁾](https://open.spotify.com/album/63heSQkoOwkxslMsR623dg) | 2:23 |
 | 19 | [stranded \(feat\. angelus\)](https://open.spotify.com/track/4ybA4RmMlEjU83umFZnTVj) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h), [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [stranded \(feat\. angelus\)](https://open.spotify.com/album/4yAZzAMHd6AnEJtN0gglFm) | 1:55 |

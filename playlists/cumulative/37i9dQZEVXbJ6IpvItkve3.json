@@ -2591,7 +2591,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 204852,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
@@ -4091,7 +4091,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 210556,
       "name": "Question...?",
       "url": "https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B"
@@ -5131,7 +5131,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 164801,
       "name": "Vigilante Shit",
       "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
@@ -8313,7 +8313,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 204520,
       "name": "\u05de\u05d3\u05dc\u05d9\u05e7\u05d4 \u05dc\u05d9 \u05d4\u05db\u05dc",
       "url": "https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq"
@@ -8766,6 +8766,24 @@
     },
     {
       "album": {
+        "name": "\u05de\u05e1\u05d9\u05d1\u05d4 \u05e1\u05d2\u05d5\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/10fZ79kkzYNB03JptFAPid"
+      },
+      "artists": [
+        {
+          "name": "Avi Aburomi",
+          "url": "https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "\u05de\u05e1\u05d9\u05d1\u05d4 \u05e1\u05d2\u05d5\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/6yxcOGpAvcmrQSuS5hB0Se"
+    },
+    {
+      "album": {
         "name": "\u05de\u05e1\u05e2",
         "url": "https://open.spotify.com/album/4SasepGB65iZK6zcUGAo2Q"
       },
@@ -8879,6 +8897,28 @@
       "duration_ms": 235740,
       "name": "\u05de\u05e7\u05d5\u05dd \u05dc\u05e9\u05e0\u05d9\u05e0\u05d5 \u2013 A place for both of us",
       "url": "https://open.spotify.com/track/7h9XW2kUG2AUmfrQFDUbnP"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05e9\u05d5\u05d2\u05e2\u05ea (Prod. by Triangle)",
+        "url": "https://open.spotify.com/album/6aomx4aKsyvgSV5ecL7PXY"
+      },
+      "artists": [
+        {
+          "name": "Gal Adam",
+          "url": "https://open.spotify.com/artist/5sbVEFMCfdQ0T3vCqXax1K"
+        },
+        {
+          "name": "NOROZ",
+          "url": "https://open.spotify.com/artist/0rj0bYZWazgyJ3hZTDKQHD"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "\u05de\u05e9\u05d5\u05d2\u05e2\u05ea (Prod. by Triangle)",
+      "url": "https://open.spotify.com/track/3idINUuyRidKbQiMFt6EkU"
     },
     {
       "album": {

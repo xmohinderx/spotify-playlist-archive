@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Uzi Vert, A Boogie Wit Da Hoodie and more\. Cover: Roddy Ricch
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,460 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,534 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 26 | [Understanding](https://open.spotify.com/track/0dbrw7unsnoUBwS3WSLTiO) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz) | [So Icy Boyz 22](https://open.spotify.com/album/0W19oEiOst4LmXpd4X2wb8) | 2:35 |
 | 27 | [My Body \(feat\. B.O.G\. Vonnie\)](https://open.spotify.com/track/2eJXmksBzY3XlLj1obQJs0) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [B.O.G\. Vonnie](https://open.spotify.com/artist/5ZDrZTQOHAwkOmg0IvQO9U) | [UNLV](https://open.spotify.com/album/2599H2Ny0MB33Zvd1n7WNU) | 2:54 |
 | 28 | [Nice Guy](https://open.spotify.com/track/3zVBnFMVe9XMOLigMPjpsv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Nice Guy](https://open.spotify.com/album/1qGq80zAWFFmOTXQ7Iqvh8) | 2:53 |
-| 29 | [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2IceBv1anwFlb42SoIXlt4) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/7GKeNLuPGAk0hvaSosnfoo) | 2:19 |
+| 29 | [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2IceBv1anwFlb42SoIXlt4) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/7GKeNLuPGAk0hvaSosnfoo) | 2:56 |
 | 30 | [MMY Freestyle](https://open.spotify.com/track/6cT6Qvq4eWtSlw7hsSjWOz) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [MMY Freestyle](https://open.spotify.com/album/1x6O481QedU8F9975vecpt) | 2:50 |
 | 31 | [Heaven For Thugs \(Letter to Wap\)](https://open.spotify.com/track/1Um0VBEUksMQfbeHOaDcrv) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Heaven For Thugs \(Letter to Wap\)](https://open.spotify.com/album/5DJezMQf5AEqwXDZhJrLbI) | 6:30 |
 | 32 | [Chief](https://open.spotify.com/track/7MN2fQ1oMGvhKf0NQolm9R) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [So Icy Boyz 22](https://open.spotify.com/album/0W19oEiOst4LmXpd4X2wb8) | 2:49 |

@@ -1,12 +1,12 @@
 {
   "description": "Emo rap feels for the misunderstood. Cover: iann dior",
-  "num_followers": 1346822,
+  "num_followers": 1347370,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM3MTQ2OSwwMDAwMDAwMDA0NmEwOGYzNGRhYWMwN2ExN2Q0MTE0NTg1NjMzYjQ5",
+  "snapshot_id": "MTY2NjM3MTQ2OSwwMDAwMDAwMDlkZmUyZWY3NDk0NjJjZTI5NmU2NDI5MjFiYmMzOTM0",
   "tracks": [
     {
       "added_at": "2022-10-07 04:18:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Cherry Blossoms",
+        "url": "https://open.spotify.com/album/7z0GlCgOrEaME0BYpVPAtI"
+      },
+      "artists": [
+        {
+          "name": "Shady Moon",
+          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
+        }
+      ],
+      "duration_ms": 138367,
+      "name": "Cherry Blossoms",
+      "url": "https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "You Broke My Heart Again",
         "url": "https://open.spotify.com/album/6YYYy7rXFNjORVy1V9nzTn"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 103400,
       "name": "You Broke My Heart Again",
       "url": "https://open.spotify.com/track/3jZDWsoxRHzzp3DYV8qeXE"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Cherry Blossoms",
-        "url": "https://open.spotify.com/album/7z0GlCgOrEaME0BYpVPAtI"
-      },
-      "artists": [
-        {
-          "name": "Shady Moon",
-          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
-        }
-      ],
-      "duration_ms": 138367,
-      "name": "Cherry Blossoms",
-      "url": "https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
     },
     {
-      "added_at": "2022-10-26 01:39:41",
+      "added_at": "2022-10-27 01:42:18",
       "album": {
         "name": "A Love Letter To You 4",
         "url": "https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz"
@@ -927,6 +927,26 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "right here",
+        "url": "https://open.spotify.com/album/4UDIkdymlERIIdW744hTmY"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "Horsehead",
+          "url": "https://open.spotify.com/artist/07NLoddXdBEh9nmUH7tYVq"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "right here",
+      "url": "https://open.spotify.com/track/1FY8LJWKivOdoxZX5TSLpm"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Not a Home",
         "url": "https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 119371,
       "name": "Pray",
       "url": "https://open.spotify.com/track/4zcVQvCRJRafP6JtLGyy7R"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "right here",
-        "url": "https://open.spotify.com/album/4UDIkdymlERIIdW744hTmY"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        },
-        {
-          "name": "Horsehead",
-          "url": "https://open.spotify.com/artist/07NLoddXdBEh9nmUH7tYVq"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "right here",
-      "url": "https://open.spotify.com/track/1FY8LJWKivOdoxZX5TSLpm"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Tell Me About Tomorrow",
-        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 155673,
-      "name": "BETTER OFF DEAD",
-      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "tell me your feelings and i won't tell you mine",
         "url": "https://open.spotify.com/album/0nyUIJbb1bEIRCTpD2sQ2R"
       },
@@ -1103,22 +1087,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Digikid 2",
-        "url": "https://open.spotify.com/album/3RoNCb8HWjDW4u1DTaDQVL"
-      },
-      "artists": [
-        {
-          "name": "Yxngxr1",
-          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
-        }
-      ],
-      "duration_ms": 121457,
-      "name": "PIGEONS",
-      "url": "https://open.spotify.com/track/6a23CwL8bVeizmNRR9AACs"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "EAT YOUR HEART OUT",
         "url": "https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC"
       },
@@ -1135,6 +1103,38 @@
       "duration_ms": 249475,
       "name": "KILL CUPID",
       "url": "https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Digikid 2",
+        "url": "https://open.spotify.com/album/3RoNCb8HWjDW4u1DTaDQVL"
+      },
+      "artists": [
+        {
+          "name": "Yxngxr1",
+          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
+        }
+      ],
+      "duration_ms": 121457,
+      "name": "PIGEONS",
+      "url": "https://open.spotify.com/track/6a23CwL8bVeizmNRR9AACs"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Tell Me About Tomorrow",
+        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 155673,
+      "name": "BETTER OFF DEAD",
+      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "WHEN THE DEVIL CRIES",
+        "url": "https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 148324,
+      "name": "WHEN THE DEVIL CRIES",
+      "url": "https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "watch me miss (feat. Jomie)",
         "url": "https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 156585,
       "name": "watch me miss (feat. Jomie)",
       "url": "https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "WHEN THE DEVIL CRIES",
-        "url": "https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x"
-      },
-      "artists": [
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 148324,
-      "name": "WHEN THE DEVIL CRIES",
-      "url": "https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG"
     },
     {
       "added_at": "2022-10-07 04:18:00",

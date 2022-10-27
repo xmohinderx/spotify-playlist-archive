@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jas
 
-593 songs - 1 day 8 hr 8 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+594 songs - 1 day 8 hr 11 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Never Leave Me](https://open.spotify.com/track/3ADSlfZRKzY1C9mXue8YiD) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC) | [Hop & Folk](https://open.spotify.com/album/1Lvs59XUDFgvbeSAXMwtBs) | 4:04 | 2022-01-28 | 2022-02-01 |
 | [Ni Mai Tera \(From "Television"\)](https://open.spotify.com/track/16u2ZrcDO9IoVqfZYmL9fh) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Ni Mai Tera \(From "Television"\)](https://open.spotify.com/album/2SquNcbWkgMseCOKsWQjO9) | 2:18 | 2022-06-23 | 2022-07-06 |
 | [Nikaah](https://open.spotify.com/track/7JWXRlnVMEyWc82ZpBusj8) | [Ipsitaa](https://open.spotify.com/artist/0LqSWTlLvalcwFJjdj4fil), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Nikaah](https://open.spotify.com/album/1fmxvtOcXQGakPho77JrJe) | 2:22 | 2022-08-19 | 2022-09-01 |
+| [Nikke Nikke Chaa](https://open.spotify.com/track/6uPemGQUbxNIeBKKgbveXK) | [Khushi Pandher](https://open.spotify.com/artist/6JgrVNpfoFwE3imEDPrzqJ) | [Nikke Nikke Chaa](https://open.spotify.com/album/2yWvNW53jxW9TTt4wSXyBT) | 2:54 | 2022-10-26 |  |
 | [Nikki Bindi](https://open.spotify.com/track/52thul1E3Oa72G8MMzcb6Z) | [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nikki Bindi](https://open.spotify.com/album/1AYMW3qoaAOlkakEPBNuJi) | 3:16 | 2022-05-04 | 2022-05-11 |
 | [No Flex](https://open.spotify.com/track/2WtW8vJmsvAubR7caT1m95) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [VIP](https://open.spotify.com/album/6rzd1ct61FJBCt9YkyJ8L3) | 3:03 | 2022-09-06 | 2022-09-23 |
 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-09-02 |  |

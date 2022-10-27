@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Phoenix
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,350 likes - 99 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,360 likes - 99 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 44 | [Love Is My Condition](https://open.spotify.com/track/5b8JmtL7IhN8GF6wHgCzmt) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Love Is My Condition](https://open.spotify.com/album/1Gybu76KwSDNNyK2K13PlK) | 3:08 |
 | 45 | [HotMom.com](https://open.spotify.com/track/6leIMUV6IC5hQEvwPPdsrK) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK) | [HotMom.com](https://open.spotify.com/album/7m4p607UjRClyEYBjPr2GN) | 2:24 |
 | 46 | [Sunflower](https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 4:23 |
-| 47 | [F.O.O.F.](https://open.spotify.com/track/2Yo3BxnzxMeWkvTx1QKBo9) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [F.O.O.F.](https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z) | 2:08 |
+| 47 | [F.O.O.F.](https://open.spotify.com/track/6Xr3s1NTck8lLiLF7VGReD) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 2:08 |
 | 48 | [rien dire](https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rien dire](https://open.spotify.com/album/2Kl3eV9Yo13AR4mgAXgWQu) | 3:02 |
 | 49 | [Why Not?](https://open.spotify.com/track/4CZrDrP8pmwHkUl2eqwPeG) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Why Not?](https://open.spotify.com/album/1B3Vg4apTV7ods0nVQmuNF) | 2:29 |
 | 50 | [Falling Out](https://open.spotify.com/track/3H8zeSxIzl98QJaM5gi4tv) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Bad Posture](https://open.spotify.com/album/7fAznyEY9ZOOGn4fR5sCpt) | 3:02 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 98 | [Puzzled Thought](https://open.spotify.com/track/3oH3wjuNC6VCS9rj50vO81) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [You're The Boss](https://open.spotify.com/album/4Z4w4EAFUrD4B16A1Uy34e) | 4:16 |
 | 99 | [Survivor's Guilt](https://open.spotify.com/track/2dPYz3ceO14cgKZzsrTx5A) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Survivor's Guilt](https://open.spotify.com/album/482gKoUvLQrjPmTx8ihrXm) | 3:30 |
 
-Snapshot ID: `MTY2NjYzMzUzNywwMDAwMDAwMDY5ZWQ0N2RkODNkOTE1MWNhZGE2ODI1OGNkYTAzY2U4`
+Snapshot ID: `MTY2NjYzMzUzNywwMDAwMDAwMDg2OTI0YjYwZDZhZTYzNDNkMTA1MjlhMDMxYjA4MTk2`

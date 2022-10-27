@@ -1,12 +1,12 @@
 {
   "description": "\u0645\u0644\u062a\u0642\u064a \u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0646\u0633\u0627\u0621 \u0627\u0644\u0639\u0631\u0628\u064a\u0627\u062a! \u0627\u0644\u063a\u0644\u0627\u0641: \u0623\u0635\u064a\u0644 \u0647\u0645\u064a\u0645\n",
-  "num_followers": 45713,
+  "num_followers": 45744,
   "original_name": "\u0645\u0644\u0643\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645 \u0627\u0644\u0639\u0631\u0628\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjI3NzQ1MSwwMDAwMDAwMDZkNmNlYTM2YTY0MjQ4NGU1MTMyZGE2YjE4YjhkNWUx",
+  "snapshot_id": "MTY2NjI3NzQ1MSwwMDAwMDAwMDFhMDJlN2Q2ZmViM2VmZDczZWUyMTAwOGEzOTFjOTA1",
   "tracks": [
     {
       "added_at": "2022-09-26 10:49:03",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2"
     },
     {
-      "added_at": "2022-10-26 01:48:40",
+      "added_at": "2022-10-27 01:53:24",
       "album": {
         "name": "\u0645\u063a\u0631\u0648\u0645\u0629 \u0628\u0645\u064a\u0646",
         "url": "https://open.spotify.com/album/4HQ1AeGjuScD19ns8f67uM"
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "\"\u0647\u0630\u0627 \u0627\u0644\u062d\u0644\u0648 \"\u0627\u0644\u062f\u0628\u0643\u0629 \u0647\u064a \u0627\u0644\u0686\u0648\u0628\u064a",
-        "url": "https://open.spotify.com/album/6Jxuxu3edECF9htilsdN3h"
-      },
-      "artists": [
-        {
-          "name": "Myriam Fares",
-          "url": "https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh"
-        }
-      ],
-      "duration_ms": 235909,
-      "name": "\"\u0647\u0630\u0627 \u0627\u0644\u062d\u0644\u0648 \"\u0627\u0644\u062f\u0628\u0643\u0629 \u0647\u064a \u0627\u0644\u0686\u0648\u0628\u064a",
-      "url": "https://open.spotify.com/track/47DMM1KiRfrqHw3YS7a9Dq"
-    },
-    {
-      "added_at": "2022-09-26 10:49:03",
-      "album": {
         "name": "Albi Ya Albi",
         "url": "https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 206963,
       "name": "Albi Ya Albi",
       "url": "https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q"
+    },
+    {
+      "added_at": "2022-09-26 10:49:03",
+      "album": {
+        "name": "\"\u0647\u0630\u0627 \u0627\u0644\u062d\u0644\u0648 \"\u0627\u0644\u062f\u0628\u0643\u0629 \u0647\u064a \u0627\u0644\u0686\u0648\u0628\u064a",
+        "url": "https://open.spotify.com/album/6Jxuxu3edECF9htilsdN3h"
+      },
+      "artists": [
+        {
+          "name": "Myriam Fares",
+          "url": "https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh"
+        }
+      ],
+      "duration_ms": 235909,
+      "name": "\"\u0647\u0630\u0627 \u0627\u0644\u062d\u0644\u0648 \"\u0627\u0644\u062f\u0628\u0643\u0629 \u0647\u064a \u0627\u0644\u0686\u0648\u0628\u064a",
+      "url": "https://open.spotify.com/track/47DMM1KiRfrqHw3YS7a9Dq"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "Eiish Ahla Snin",
-        "url": "https://open.spotify.com/album/0I58q7plyh0jifvzl4gMzh"
-      },
-      "artists": [
-        {
-          "name": "Maya Diab",
-          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "Eiish Ahla Snin",
-      "url": "https://open.spotify.com/track/5cTeuErPw3vt8SBga9YAfM"
-    },
-    {
-      "added_at": "2022-09-26 10:49:03",
-      "album": {
         "name": "Hikayi",
         "url": "https://open.spotify.com/album/2DPOCdXwCUpJSSrJZDfkFD"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 192818,
       "name": "Waynak",
       "url": "https://open.spotify.com/track/29xE91g0DONeUAgbAtjAMJ"
+    },
+    {
+      "added_at": "2022-09-26 10:49:03",
+      "album": {
+        "name": "Eiish Ahla Snin",
+        "url": "https://open.spotify.com/album/0I58q7plyh0jifvzl4gMzh"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Eiish Ahla Snin",
+      "url": "https://open.spotify.com/track/5cTeuErPw3vt8SBga9YAfM"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
+        "name": "Bella Ciao Bel Arabi",
+        "url": "https://open.spotify.com/album/4rTKNYQ6nGFFLEQB6sheLI"
+      },
+      "artists": [
+        {
+          "name": "Shiraz",
+          "url": "https://open.spotify.com/artist/2KgAOVriwhdrRqxdETTOFX"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Bella Ciao Bel Arabi",
+      "url": "https://open.spotify.com/track/2lqv1Q4s6uMaYaDWOuhRh0"
+    },
+    {
+      "added_at": "2022-09-26 10:49:03",
+      "album": {
         "name": "Ya Badr",
         "url": "https://open.spotify.com/album/0jy64j7QqUi1sNXZBnkRZW"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "Bella Ciao Bel Arabi",
-        "url": "https://open.spotify.com/album/4rTKNYQ6nGFFLEQB6sheLI"
-      },
-      "artists": [
-        {
-          "name": "Shiraz",
-          "url": "https://open.spotify.com/artist/2KgAOVriwhdrRqxdETTOFX"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Bella Ciao Bel Arabi",
-      "url": "https://open.spotify.com/track/2lqv1Q4s6uMaYaDWOuhRh0"
-    },
-    {
-      "added_at": "2022-09-26 10:49:03",
-      "album": {
         "name": "Endi Rooh",
         "url": "https://open.spotify.com/album/7HiwjvsxLEWs1IEZ6VK2J9"
       },
@@ -911,38 +911,6 @@
       "duration_ms": 221492,
       "name": "Endi Rooh",
       "url": "https://open.spotify.com/track/1D01O8Tk05AZtAPqMQQT7C"
-    },
-    {
-      "added_at": "2022-09-26 10:49:03",
-      "album": {
-        "name": "Wahda Wahda",
-        "url": "https://open.spotify.com/album/2GfNHV6Jme9rnDNZw4zpi9"
-      },
-      "artists": [
-        {
-          "name": "\u0634\u064a\u0645\u064a",
-          "url": "https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw"
-        }
-      ],
-      "duration_ms": 233755,
-      "name": "Wahda Wahda",
-      "url": "https://open.spotify.com/track/3CTjHSDqf0X49TmRSxaG4T"
-    },
-    {
-      "added_at": "2022-09-26 10:49:03",
-      "album": {
-        "name": "Ketha Momken",
-        "url": "https://open.spotify.com/album/4msyixtcGnoCq1Jk9JCi2l"
-      },
-      "artists": [
-        {
-          "name": "Dalia",
-          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
-        }
-      ],
-      "duration_ms": 283062,
-      "name": "Ketha Momken",
-      "url": "https://open.spotify.com/track/67JFzbhL6RGZj2WgSZbt34"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -963,18 +931,34 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "El Gaw Helw",
-        "url": "https://open.spotify.com/album/6Dv9RkMigQXKZyNLQz4JE8"
+        "name": "Ketha Momken",
+        "url": "https://open.spotify.com/album/4msyixtcGnoCq1Jk9JCi2l"
       },
       "artists": [
         {
-          "name": "Nicole Saba",
-          "url": "https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w"
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
         }
       ],
-      "duration_ms": 229080,
-      "name": "El Gaw Helw",
-      "url": "https://open.spotify.com/track/2W1f8o9Af7QEf6VBXzAXdG"
+      "duration_ms": 283062,
+      "name": "Ketha Momken",
+      "url": "https://open.spotify.com/track/67JFzbhL6RGZj2WgSZbt34"
+    },
+    {
+      "added_at": "2022-09-26 10:49:03",
+      "album": {
+        "name": "Wahda Wahda",
+        "url": "https://open.spotify.com/album/2GfNHV6Jme9rnDNZw4zpi9"
+      },
+      "artists": [
+        {
+          "name": "\u0634\u064a\u0645\u064a",
+          "url": "https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw"
+        }
+      ],
+      "duration_ms": 233755,
+      "name": "Wahda Wahda",
+      "url": "https://open.spotify.com/track/3CTjHSDqf0X49TmRSxaG4T"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -991,6 +975,22 @@
       "duration_ms": 206044,
       "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0"
+    },
+    {
+      "added_at": "2022-09-26 10:49:03",
+      "album": {
+        "name": "El Gaw Helw",
+        "url": "https://open.spotify.com/album/6Dv9RkMigQXKZyNLQz4JE8"
+      },
+      "artists": [
+        {
+          "name": "Nicole Saba",
+          "url": "https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "El Gaw Helw",
+      "url": "https://open.spotify.com/track/2W1f8o9Af7QEf6VBXzAXdG"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "Fil Lail",
-        "url": "https://open.spotify.com/album/2fb3xGUCZ3yLQ0wX4mg7bv"
-      },
-      "artists": [
-        {
-          "name": "Nouran AbuTaleb",
-          "url": "https://open.spotify.com/artist/0b8NJrWFSqne10bMREfuQh"
-        }
-      ],
-      "duration_ms": 253444,
-      "name": "Fil Lail",
-      "url": "https://open.spotify.com/track/64kEs3TmxItCXxNWtoEhco"
-    },
-    {
-      "added_at": "2022-09-26 10:49:03",
-      "album": {
         "name": "Karari",
         "url": "https://open.spotify.com/album/1k7BvvvSQh4WoUvtpNWaLt"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "Eshtghala Wala Laa ?",
-        "url": "https://open.spotify.com/album/6U6EkwNEO4wbGFb9hIK9OZ"
+        "name": "Fil Lail",
+        "url": "https://open.spotify.com/album/2fb3xGUCZ3yLQ0wX4mg7bv"
       },
       "artists": [
         {
-          "name": "Shaza",
-          "url": "https://open.spotify.com/artist/1EfSs3W0Qb8i6Rbw60nv5b"
+          "name": "Nouran AbuTaleb",
+          "url": "https://open.spotify.com/artist/0b8NJrWFSqne10bMREfuQh"
         }
       ],
-      "duration_ms": 207968,
-      "name": "Eshtaghla Wala Laa ?",
-      "url": "https://open.spotify.com/track/2bNxNculDJujQoC2Z5cdVi"
+      "duration_ms": 253444,
+      "name": "Fil Lail",
+      "url": "https://open.spotify.com/track/64kEs3TmxItCXxNWtoEhco"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -1119,6 +1103,22 @@
       "duration_ms": 249642,
       "name": "La Zher La Maktoub",
       "url": "https://open.spotify.com/track/5sYkyX02CapaYwK5qJRZSt"
+    },
+    {
+      "added_at": "2022-09-26 10:49:03",
+      "album": {
+        "name": "Eshtghala Wala Laa ?",
+        "url": "https://open.spotify.com/album/6U6EkwNEO4wbGFb9hIK9OZ"
+      },
+      "artists": [
+        {
+          "name": "Shaza",
+          "url": "https://open.spotify.com/artist/1EfSs3W0Qb8i6Rbw60nv5b"
+        }
+      ],
+      "duration_ms": 207968,
+      "name": "Eshtaghla Wala Laa ?",
+      "url": "https://open.spotify.com/track/2bNxNculDJujQoC2Z5cdVi"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "Ezayak Elnaharda",
-        "url": "https://open.spotify.com/album/1d7Oy5ZIdbZUsrroHbLRmH"
-      },
-      "artists": [
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5"
-        }
-      ],
-      "duration_ms": 237019,
-      "name": "Ezayak Elnaharda",
-      "url": "https://open.spotify.com/track/4kNbcRHWX5fgJoCyVgI9Tv"
-    },
-    {
-      "added_at": "2022-09-26 10:49:03",
-      "album": {
         "name": "\u062a\u0639\u0627\u0644\u0649 \u062a\u0634\u0648\u0641",
         "url": "https://open.spotify.com/album/1Swp3onpJy5TMMKQPF4cHu"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 200019,
       "name": "\u062a\u0639\u0627\u0644\u0649 \u062a\u0634\u0648\u0641",
       "url": "https://open.spotify.com/track/4ekRE8jtEHBH9palfFvtqG"
+    },
+    {
+      "added_at": "2022-09-26 10:49:03",
+      "album": {
+        "name": "Ezayak Elnaharda",
+        "url": "https://open.spotify.com/album/1d7Oy5ZIdbZUsrroHbLRmH"
+      },
+      "artists": [
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5"
+        }
+      ],
+      "duration_ms": 237019,
+      "name": "Ezayak Elnaharda",
+      "url": "https://open.spotify.com/track/4kNbcRHWX5fgJoCyVgI9Tv"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "Bukra Ahla",
-        "url": "https://open.spotify.com/album/6g3GiO6nDZm1yQWPyuXUsB"
-      },
-      "artists": [
-        {
-          "name": "Nina Abdel Malak",
-          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
-        }
-      ],
-      "duration_ms": 160199,
-      "name": "Bukra Ahla",
-      "url": "https://open.spotify.com/track/1XY2yjkH0QlflcX3cp3j5f"
-    },
-    {
-      "added_at": "2022-09-26 10:49:03",
-      "album": {
         "name": "\u064a\u0632\u064a\u062f \u0627\u0644\u0647\u0645",
         "url": "https://open.spotify.com/album/29D1k5ambOiIO7J9KuQzCf"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "Eshrit Sinin",
-        "url": "https://open.spotify.com/album/6Sw1IoBzUkQllqXLAwdhNe"
+        "name": "Bukra Ahla",
+        "url": "https://open.spotify.com/album/6g3GiO6nDZm1yQWPyuXUsB"
       },
       "artists": [
         {
-          "name": "Dalia",
-          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+          "name": "Nina Abdel Malak",
+          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
         }
       ],
-      "duration_ms": 246613,
-      "name": "Eshrit Sinin",
-      "url": "https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo"
+      "duration_ms": 160199,
+      "name": "Bukra Ahla",
+      "url": "https://open.spotify.com/track/1XY2yjkH0QlflcX3cp3j5f"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -1487,6 +1471,22 @@
       "duration_ms": 226800,
       "name": "Daba",
       "url": "https://open.spotify.com/track/4f6oJ6niLEOd8pOuINJtlx"
+    },
+    {
+      "added_at": "2022-09-26 10:49:03",
+      "album": {
+        "name": "Eshrit Sinin",
+        "url": "https://open.spotify.com/album/6Sw1IoBzUkQllqXLAwdhNe"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "Eshrit Sinin",
+      "url": "https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo"
     },
     {
       "added_at": "2022-09-26 10:49:03",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-09-26 10:49:03",
       "album": {
-        "name": "Mangelaksh Fe Haga Wehsha",
-        "url": "https://open.spotify.com/album/14NKZOqLBAHVR8Azv5RgnR"
+        "name": "Ghyabe Wagaak",
+        "url": "https://open.spotify.com/album/72Lvo8ez65pAReNdGyCPkv"
       },
       "artists": [
         {
-          "name": "Shaimaa ElShayeb",
-          "url": "https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr"
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
         }
       ],
-      "duration_ms": 264257,
-      "name": "Mangelaksh Fe Haga Wehsha",
-      "url": "https://open.spotify.com/track/3UQjEjar8JoOUwXpGz4ysa"
+      "duration_ms": 246341,
+      "name": "Ghyabe Wagaak",
+      "url": "https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J"
     }
   ],
   "unique_name": "\u0645\u0644\u0643\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645 \u0627\u0644\u0639\u0631\u0628\u064a",

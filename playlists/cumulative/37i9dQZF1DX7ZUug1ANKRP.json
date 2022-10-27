@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: Mau P",
+  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: Timmy Trumpet",
   "name": "Main Stage",
   "published_playlist_ids": [
     "4Sc3vClwMPjm8ROhpN4cCx"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 161589,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
@@ -3146,6 +3146,24 @@
     },
     {
       "album": {
+        "name": "The Midnight Club GT",
+        "url": "https://open.spotify.com/album/0FmLggi6nTAi3eY0xz8aFx"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286145,
+      "name": "Phonky Tribu",
+      "url": "https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA"
+    },
+    {
+      "album": {
         "name": "Piece Of My Heart",
         "url": "https://open.spotify.com/album/0vulF8iwEhbGEvguCuxQeK"
       },
@@ -3713,7 +3731,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 150813,
       "name": "Stuck in My Head",
       "url": "https://open.spotify.com/track/4WAJO0Q4fJiXa7jUJGonvq"
@@ -3859,7 +3877,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 169047,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/45zEAdqIS7fixXnr1mhLHX"
@@ -4164,6 +4182,24 @@
     },
     {
       "album": {
+        "name": "To Love You",
+        "url": "https://open.spotify.com/album/75XQkvZc9NkmMqJvNu46pS"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150476,
+      "name": "To Love You",
+      "url": "https://open.spotify.com/track/6VIwh7DAOiO453jDxFPPQD"
+    },
+    {
+      "album": {
         "name": "To the Moon",
         "url": "https://open.spotify.com/album/7a33tuAXRrTQpjzIlUv57M"
       },
@@ -4449,6 +4485,28 @@
       "duration_ms": 139000,
       "name": "Weekend On A Tuesday",
       "url": "https://open.spotify.com/track/2vluroRO5pYzzeMwUxpXkq"
+    },
+    {
+      "album": {
+        "name": "Weekend Party",
+        "url": "https://open.spotify.com/album/4iELrv5c4zQNNlzEZdLdo1"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143600,
+      "name": "Weekend Party",
+      "url": "https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8"
     },
     {
       "album": {

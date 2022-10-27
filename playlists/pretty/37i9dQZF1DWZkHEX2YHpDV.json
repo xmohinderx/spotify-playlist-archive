@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Knuckle Puck",
-  "num_followers": 438470,
+  "num_followers": 438480,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjY0MzUzNywwMDAwMDAwMDcwOWFmNmQ1NzI1MzI0Y2I5NmUxZDdlMTQ2NWVmMzU1",
+  "snapshot_id": "MTY2NjY0MzUzNywwMDAwMDAwMDdmZjcyYzU1MDZiZDQzMTVlZTlhNmY1ZDdjNDQwOTc3",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -363,26 +363,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "love race (feat. Kellin Quinn)",
-        "url": "https://open.spotify.com/album/3q4wUTOTsRASPClG5Fg3tk"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 188779,
-      "name": "love race (feat. Kellin Quinn)",
-      "url": "https://open.spotify.com/track/1F9kEuwT29fgqlovIclu81"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Last Resort (Reloaded)",
         "url": "https://open.spotify.com/album/3VXjXfZCtUllbqHKAYLSzC"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 137297,
       "name": "Last Resort (Reloaded)",
       "url": "https://open.spotify.com/track/52KlXDEkCkgZxuMjSqzY4L"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "love race (feat. Kellin Quinn)",
+        "url": "https://open.spotify.com/album/3q4wUTOTsRASPClG5Fg3tk"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "duration_ms": 188779,
+      "name": "love race (feat. Kellin Quinn)",
+      "url": "https://open.spotify.com/track/1F9kEuwT29fgqlovIclu81"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN"
     },
     {
-      "added_at": "2022-10-26 01:25:12",
+      "added_at": "2022-10-27 01:27:29",
       "album": {
         "name": "Blistered World",
         "url": "https://open.spotify.com/album/70mjHoRyTAkG4RcXi265ku"
@@ -739,22 +739,6 @@
       "duration_ms": 185191,
       "name": "Blistered World",
       "url": "https://open.spotify.com/track/5qGZW9TilPRhXIYDB1amjE"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "she knows it",
-        "url": "https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 156584,
-      "name": "she knows it",
-      "url": "https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -779,6 +763,38 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "I Won\u2019t Reach Out to You",
+        "url": "https://open.spotify.com/album/5xSwJaRKEx137KQmidxkw6"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Featuring Mark Hoppus",
+      "url": "https://open.spotify.com/track/41hMYBgv6teOnu64kn4Ylb"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "she knows it",
+        "url": "https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 156584,
+      "name": "she knows it",
+      "url": "https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Brand New Vision",
         "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 198000,
       "name": "Into The Dark (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "I Won\u2019t Reach Out to You",
-        "url": "https://open.spotify.com/album/5xSwJaRKEx137KQmidxkw6"
-      },
-      "artists": [
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Featuring Mark Hoppus",
-      "url": "https://open.spotify.com/track/41hMYBgv6teOnu64kn4Ylb"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "SUBSTANCE",
-        "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "SUBSTANCE",
-      "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "MY FAVORITE NIGHTMARES",
         "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
       },
@@ -915,98 +899,18 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "PARANOIA",
-        "url": "https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw"
+        "name": "SUBSTANCE",
+        "url": "https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX"
       },
       "artists": [
         {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 159636,
-      "name": "Crash and Burn",
-      "url": "https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 189101,
-      "name": "When You Know",
-      "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Get A Job",
-        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 186581,
-      "name": "Get A Job",
-      "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/1rO6JlIBPhEnyY9fdO7BsI"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Erase You",
-      "url": "https://open.spotify.com/track/3PXPKC81NbQc9Eaig0vLZO"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Benchwarmer",
-        "url": "https://open.spotify.com/album/2rdvIq3fjQ2b286ufFTGcV"
-      },
-      "artists": [
-        {
-          "name": "Shallowdiver",
-          "url": "https://open.spotify.com/artist/1nNb90iGRqEXUzloJlJZ7z"
-        }
-      ],
-      "duration_ms": 189116,
-      "name": "Benchwarmer",
-      "url": "https://open.spotify.com/track/4GrymHcT6DkUsbH5CoUmos"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "hover like a GODDESS",
-        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 143357,
-      "name": "hover like a GODDESS",
-      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
+      "duration_ms": 160441,
+      "name": "SUBSTANCE",
+      "url": "https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1027,6 +931,102 @@
       "duration_ms": 178263,
       "name": "Misfits",
       "url": "https://open.spotify.com/track/0b7hOMh8Md7QaMC9Dhzo4n"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 189101,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Crash and Burn",
+      "url": "https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Get A Job",
+        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 186581,
+      "name": "Get A Job",
+      "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Benchwarmer",
+        "url": "https://open.spotify.com/album/2rdvIq3fjQ2b286ufFTGcV"
+      },
+      "artists": [
+        {
+          "name": "Shallowdiver",
+          "url": "https://open.spotify.com/artist/1nNb90iGRqEXUzloJlJZ7z"
+        }
+      ],
+      "duration_ms": 189116,
+      "name": "Benchwarmer",
+      "url": "https://open.spotify.com/track/4GrymHcT6DkUsbH5CoUmos"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/1rO6JlIBPhEnyY9fdO7BsI"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Erase You",
+      "url": "https://open.spotify.com/track/3PXPKC81NbQc9Eaig0vLZO"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "hover like a GODDESS",
+        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 143357,
+      "name": "hover like a GODDESS",
+      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Halloween Mixtape",
+        "url": "https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 137052,
+      "name": "10 for 10",
+      "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Kings of the New Age",
         "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
       },
@@ -1163,38 +1179,18 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "DIE OUT HERE (feat. POORSTACY)",
-        "url": "https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ"
+        "name": "MOSH PIT",
+        "url": "https://open.spotify.com/album/5Sv5JHuSztH7ntDjnUSUqe"
       },
       "artists": [
         {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        },
-        {
-          "name": "POORSTACY",
-          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+          "name": "MILES",
+          "url": "https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH"
         }
       ],
-      "duration_ms": 134266,
-      "name": "DIE OUT HERE (feat. POORSTACY)",
-      "url": "https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Halloween Mixtape",
-        "url": "https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 137052,
-      "name": "10 for 10",
-      "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
+      "duration_ms": 127058,
+      "name": "MOSH PIT",
+      "url": "https://open.spotify.com/track/1fQlfeG7u0xzRVuzqUwtGA"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "MOSH PIT",
-        "url": "https://open.spotify.com/album/5Sv5JHuSztH7ntDjnUSUqe"
+        "name": "DIE OUT HERE (feat. POORSTACY)",
+        "url": "https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ"
       },
       "artists": [
         {
-          "name": "MILES",
-          "url": "https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH"
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
         }
       ],
-      "duration_ms": 127058,
-      "name": "MOSH PIT",
-      "url": "https://open.spotify.com/track/1fQlfeG7u0xzRVuzqUwtGA"
+      "duration_ms": 134266,
+      "name": "DIE OUT HERE (feat. POORSTACY)",
+      "url": "https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Get A Job",
+        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 179850,
+      "name": "I Hope You\u2019re Happy",
+      "url": "https://open.spotify.com/track/1sBvGY100lfD3w6tR22M1D"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Earthquake (feat. jxdn)",
         "url": "https://open.spotify.com/album/1AJCMgQmWGjHZTGS38BgUW"
       },
@@ -1339,18 +1355,18 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Get A Job",
-        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
+        "name": "Drink Milk and Run",
+        "url": "https://open.spotify.com/album/5DCxVycZRkODZCbWyGBZFG"
       },
       "artists": [
         {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
         }
       ],
-      "duration_ms": 179850,
-      "name": "I Hope You\u2019re Happy",
-      "url": "https://open.spotify.com/track/1sBvGY100lfD3w6tR22M1D"
+      "duration_ms": 170390,
+      "name": "Drink Milk and Run",
+      "url": "https://open.spotify.com/track/3ZKGPsRTyFBnZETepLrDVl"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1367,22 +1383,6 @@
       "duration_ms": 216474,
       "name": "Wake Me Up (When This Nightmare\u2019s Over)",
       "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Drink Milk and Run",
-        "url": "https://open.spotify.com/album/5DCxVycZRkODZCbWyGBZFG"
-      },
-      "artists": [
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 170390,
-      "name": "Drink Milk and Run",
-      "url": "https://open.spotify.com/track/3ZKGPsRTyFBnZETepLrDVl"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1459,6 +1459,42 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Harder Than It Looks",
+        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 195898,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/79Cr40AJWWnmUNTxyi2nhp"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Seize the Power",
+        "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        },
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 139728,
+      "name": "Clique",
+      "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "SOS (feat. Travis Barker)",
         "url": "https://open.spotify.com/album/0n7Nnzxv7WBKDdpUdhL8C2"
       },
@@ -1495,26 +1531,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Seize the Power",
-        "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        },
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 139728,
-      "name": "Clique",
-      "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Timebomb (feat. MOD SUN)",
         "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 182040,
       "name": "Timebomb (feat. MOD SUN)",
       "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Harder Than It Looks",
-        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 195898,
-      "name": "The Antidote",
-      "url": "https://open.spotify.com/track/79Cr40AJWWnmUNTxyi2nhp"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "The Hum Goes on Forever",
-        "url": "https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 225838,
-      "name": "Wyatt\u2019s Song (Your Name)",
-      "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Happy Never After",
         "url": "https://open.spotify.com/album/2SmBv7YTCsWRzlMcsp18he"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 175172,
       "name": "Cursive",
       "url": "https://open.spotify.com/track/2qMJb05RCtQAO3OdoqxEMH"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "The Hum Goes on Forever",
+        "url": "https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 225838,
+      "name": "Wyatt\u2019s Song (Your Name)",
+      "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
     },
     {
       "added_at": "2022-10-21 04:00:00",

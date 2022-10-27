@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > sabe aquela música que cê ouve pelas redes mas não sabe o nome? pois então
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,150 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,342 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sorrisin de Puto](https://open.spotify.com/track/40k60zCk96BsZNf2IbN0mY) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Sorrisin de Puto](https://open.spotify.com/album/70Vfc79R6cAOrP1ZMa7TGv) | 2:17 |
 | 2 | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u) | 2:46 |
-| 3 | [Sóca Fofo](https://open.spotify.com/track/0zRsByaebl5MgRe51RP6uE) | [A Dama](https://open.spotify.com/artist/6r2Jxpiepf5Yc7SdvK4w0K) | [Sóca Fofo](https://open.spotify.com/album/1fFWCmbCHx0tNkdpTaEhV1) | 1:52 |
+| 3 | [Soca Fofo](https://open.spotify.com/track/2Dr1TBlRFIXJUPEgQVh5Zq) | [A Dama](https://open.spotify.com/artist/6r2Jxpiepf5Yc7SdvK4w0K) | [Soca Fofo](https://open.spotify.com/album/5zQocLAf5L3TjSXaEHwztg) | 1:52 |
 | 4 | [202 \- Speed](https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [202 \(Speed\)](https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ) | 2:22 |
 | 5 | [Bota Em Você Machuca \(feat\. Flow Key, Bernax e DJ RD\)](https://open.spotify.com/track/37aYm4KlP3ZG78NrFFAT9O) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY), [Bernax](https://open.spotify.com/artist/71VXdKWeovwJtO5nzDQ7mt), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb), [Flow Key](https://open.spotify.com/artist/1qObxOBQWYkdfJhMGdMwmU) | [Bota Em Você Machuca \(feat\. Flow Key, Bernax e DJ RD\)](https://open.spotify.com/album/1YpMz1WLeqmMr51EpGOczq) | 2:09 |
 | 6 | [Não faz isso Comigo não](https://open.spotify.com/track/0zTZONeg1hFNplaZGc7siE) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [CalliCartel](https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q) | [É o Trem!](https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx) | 2:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 69 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 |
 | 70 | [Pro Nosso Bem \- Ao Vivo](https://open.spotify.com/track/73u22uLsakf8W12suab1QO) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Pro Nosso Bem \(Ao Vivo\)](https://open.spotify.com/album/1XFfWQRZRRgvyapnWUHPFg) | 3:14 |
 
-Snapshot ID: `MTY2NjYyOTQxNiwwMDAwMDAwMDQ2OTY0ODI0N2FhYjY3YTdmMDg0YTZhMjg5OTQzMDU5`
+Snapshot ID: `MTY2NjYyOTQxNiwwMDAwMDAwMDUwYmE5MmJkOTJmYmJlNDUyZmY2NjkwM2NkOTZhZDU4`

@@ -4,7 +4,7 @@
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-186 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/532FWuTW1QFsPK6DTMO5T1)
+187 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/532FWuTW1QFsPK6DTMO5T1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Glem ikkje](https://open.spotify.com/track/0jJfGO3RFH8cq3Y3Y6ylQH) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [Det vi har](https://open.spotify.com/album/3UVZaTuwdmyjzuPHbHuf7L) | 4:44 | 2022-03-23 | 2022-07-18 |
 | [Gloria](https://open.spotify.com/track/3zjd0rRzuHVOSOp7iELNOi) | [Jo Nesbø](https://open.spotify.com/artist/1KcYLo3wUtAqUsLfhZ5iA4) | [Karusellmusikk](https://open.spotify.com/album/688qnCk0FVKWecwgbjn73z) | 5:52 | 2022-03-23 | 2022-07-15 |
 | [God morgen, min kjære](https://open.spotify.com/track/1y7t76EK1A3lsh6iLQwqH8) | [Benny Borg](https://open.spotify.com/artist/3eYsDUyn51BM8warjE2uX0), [Sigmund Groven](https://open.spotify.com/artist/35he9yh8ik3SiRr3RnafUT) | [Den Største Reisen](https://open.spotify.com/album/3tvpaisrdoJlVNKcOexM8w) | 4:08 | 2021-12-16 | 2022-07-29 |
-| [God morgen, min kjære](https://open.spotify.com/track/5umEvtxcXt8FOguVU8jeKV) | [Benny Borg](https://open.spotify.com/artist/3eYsDUyn51BM8warjE2uX0), [Sigmund Groven](https://open.spotify.com/artist/35he9yh8ik3SiRr3RnafUT) | [Den største reisen](https://open.spotify.com/album/6SztCAuymcjUkhwCITQozJ) | 4:08 | 2022-07-14 |  |
+| [God morgen, min kjære](https://open.spotify.com/track/5umEvtxcXt8FOguVU8jeKV) | [Benny Borg](https://open.spotify.com/artist/3eYsDUyn51BM8warjE2uX0), [Sigmund Groven](https://open.spotify.com/artist/35he9yh8ik3SiRr3RnafUT) | [Den største reisen](https://open.spotify.com/album/6SztCAuymcjUkhwCITQozJ) | 4:08 | 2022-07-14 | 2022-10-27 |
 | [God Natt Oslo](https://open.spotify.com/track/03DAM7GVONIxrPlxD2nUbp) | [Lillebjørn Nilsen](https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e) | [Original Nilsen](https://open.spotify.com/album/5luzv9hkJpBEPW4DhXHjzm) | 4:48 | 2022-01-06 | 2022-07-29 |
 | [God Natt Oslo](https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu) | [Lillebjørn Nilsen](https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e) | [Original Nilsen](https://open.spotify.com/album/60ho1oZFKQpCjkNqQigoSz) | 4:48 | 2022-07-14 | 2022-08-19 |
 | [Godt nok](https://open.spotify.com/track/534GzSVJHfkIWPNkwobLAi) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [Sigrid Aase](https://open.spotify.com/artist/2mq4hucx5aRIPYrZbYgdYK) | [Inn i skogen](https://open.spotify.com/album/6IMNPChZ6uTdewFHcbv9Wq) | 3:56 | 2022-10-06 |  |
@@ -118,6 +118,7 @@
 | [Kom Sommarvijnn](https://open.spotify.com/track/4Fd3PLV1eWKmWt3MvQp6kq) | [Tove Karoline Knutsen](https://open.spotify.com/artist/0H20aoTibm2Q403c4RD4Dk) | [Blå Kveill](https://open.spotify.com/album/6lAQCB6EzlD0mBAwWj84Zs) | 2:31 | 2022-01-06 | 2022-07-29 |
 | [Kommer du snart hjem](https://open.spotify.com/track/5H3qr0j1gHk6VOyFwqtbfn) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Kommer du snart hjem](https://open.spotify.com/album/01TKLXHh77apQPHag1FgAZ) | 4:16 | 2022-01-06 | 2022-05-13 |
 | [Kongen Av Ingenting](https://open.spotify.com/track/7i9MaELeXg5h6AZVLHkgTM) | [Johbru](https://open.spotify.com/artist/2h1VhxgeLNVn9VxkzlEhli) | [Kongen Av Ingenting](https://open.spotify.com/album/19x4mrX3ctHNseL2wiOf5f) | 4:17 | 2022-03-23 | 2022-04-22 |
+| [Kvelden Lister Seg På Tå](https://open.spotify.com/track/05VWAlqAeLSMuwTED7O0Fu) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Ved Sengekanten](https://open.spotify.com/album/32hQouZsr5n9bcFbqKiNbf) | 1:53 | 2022-10-20 |  |
 | [Kvelden Lister Seg På Tå](https://open.spotify.com/track/3aAlj4WfClIgNtli1nBnBm) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Ved Sengekanten](https://open.spotify.com/album/77LUUJWapj666rvWseXTAy) | 1:53 | 2022-01-27 | 2022-06-24 |
 | [Kyss med smak av tårer](https://open.spotify.com/track/0f7pE9aRfLoGaVEaRUUO4U) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an) | [Ingen vei hjem](https://open.spotify.com/album/7arXs3uqnOvvUBeeuhbADc) | 4:03 | 2022-03-23 | 2022-06-19 |
 | [La oss ta en idealist](https://open.spotify.com/track/7sW9cHKbqoR9e8eL8M5uP0) | [Doddo](https://open.spotify.com/artist/7gWtJcbCpqPRWhvtGo9n1k) | [La oss ta en idealist](https://open.spotify.com/album/5ojGw9GLoqjqfb0hLJGb45) | 4:10 | 2022-01-27 | 2022-07-25 |

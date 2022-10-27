@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,406 likes - 108 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,414 likes - 108 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 50 | [Narnia](https://open.spotify.com/track/5Dapp02vk3WQ44jPAWjPyA) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH) | [Narnia](https://open.spotify.com/album/50DRuTbiPt6kANqNov3wL0) | 2:17 |
 | 51 | [Hedda & Mie \(Jagger\)](https://open.spotify.com/track/6mfNhGLRGXHZwvI7XetbTX) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7), [Frej Larsson](https://open.spotify.com/artist/3B2Q6VDxVx3WMP620Nk4GH) | [Hedda & Mie \(Jagger\)](https://open.spotify.com/album/4qJY6lAtJzBPImRxRlHZYt) | 2:22 |
 | 52 | [Roll The Dice](https://open.spotify.com/track/0BhLfxWA4TwGu8bGVKBotN) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Feel Again, Pt\. 2](https://open.spotify.com/album/3dEp3i7jIlR5VtsOlMhi3Q) | 2:35 |
-| 53 | [80s Playlist](https://open.spotify.com/track/5pkotCJgUMHn2DLY9hms0N) | [MIMI](https://open.spotify.com/artist/3wjHre7Ny1iXkW5XNgzX8s) | [80s Playlist](https://open.spotify.com/album/7q6qFSEuDVDBb7mpfjbDqj) | 3:34 |
+| 53 | [80s Playlist](https://open.spotify.com/track/5pkotCJgUMHn2DLY9hms0N) | [MIMI](https://open.spotify.com/artist/5TEHYI7zYtKMil1eoihSBT) | [80s Playlist](https://open.spotify.com/album/7q6qFSEuDVDBb7mpfjbDqj) | 3:34 |
 | 54 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 |
 | 55 | [Defender](https://open.spotify.com/track/4x9l3fDzgvzg9t7Csbufrn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Defender](https://open.spotify.com/album/76up5uRogXO3CPwA2OO6Wy) | 6:14 |
 | 56 | [frog](https://open.spotify.com/track/0nSw4I1cTMMBZBIk9ChgBn) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [frog](https://open.spotify.com/album/4kejzAQudxr4R5CNfvbwmz) | 3:26 |

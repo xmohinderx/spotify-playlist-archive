@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: A Boogie Wit Da Hoodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,976 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,078 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 11 | [MMY Freestyle](https://open.spotify.com/track/6cT6Qvq4eWtSlw7hsSjWOz) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [MMY Freestyle](https://open.spotify.com/album/1x6O481QedU8F9975vecpt) | 2:50 |
 | 12 | [Repeat \(feat\. Fivio Foreign\)](https://open.spotify.com/track/0l3ED5kPEnls7T2nrTbI7H) | [FNF Chop](https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Repeat \(feat\. Fivio Foreign\)](https://open.spotify.com/album/0rdtKU3AkeqY9st4yQorjj) | 2:37 |
 | 13 | [For U I Wait](https://open.spotify.com/track/2GRVU7KutSHfakWuk0lnIL) | [Ciggy Blacc](https://open.spotify.com/artist/0IN0wP9ki18ys6EW4OtoQJ) | [For U I Wait](https://open.spotify.com/album/4EWKUi80vCkFRIP2kAAG6H) | 2:05 |
-| 14 | [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2IceBv1anwFlb42SoIXlt4) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/7GKeNLuPGAk0hvaSosnfoo) | 2:19 |
+| 14 | [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2IceBv1anwFlb42SoIXlt4) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/7GKeNLuPGAk0hvaSosnfoo) | 2:56 |
 | 15 | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/track/2NVXBBbO4xGO851zrMfCFi) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/album/43AaQNHNlJlf8F2iQkivyx) | 2:16 |
 | 16 | [Sanity](https://open.spotify.com/track/7EueLkefPMk3k2oj9tSroP) | [Ciggy Blacc](https://open.spotify.com/artist/0IN0wP9ki18ys6EW4OtoQJ), [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [Sanity](https://open.spotify.com/album/0LAtyMzfkeb169friF3FUa) | 3:26 |
 | 17 | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ) | 2:38 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 65 | [BEAM \(feat\. KALIQ\)](https://open.spotify.com/track/3CG9KBVHm20sqYDpNMFeHe) | [Melvoni](https://open.spotify.com/artist/01Kz5ab1oYMaey58CaGTxA), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [KALIQ](https://open.spotify.com/artist/0jEh2LSTBnGfUf6A0zefdR) | [BEAM \(feat\. KALIQ\)](https://open.spotify.com/album/5tRtIAhnIprppyv4if1GAB) | 2:12 |
 | 66 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 |
 | 67 | [DOA \(feat\. Set Da Trend\)](https://open.spotify.com/track/3i4yWKMRIoCcquLwOPhqZ1) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Set Da Trend](https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB) | [DOA \(feat\. Set Da Trend\)](https://open.spotify.com/album/0z0OfFcfdNLWfCuo6VS6ql) | 1:48 |
-| 68 | [40s N 9s](https://open.spotify.com/track/6c74xJ6LgdJDnv8bYOElUP) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [SugarHill Ddot](https://open.spotify.com/artist/2mET8bpTc6j2lm5YjVUeFq) | [40s N 9s](https://open.spotify.com/album/3xaTN7UyEJIVnnjdclui5E) | 2:25 |
+| 68 | [40s N 9s](https://open.spotify.com/track/6tApynt36Q9U9Tl7ulJyL2) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [40s N 9s](https://open.spotify.com/album/5vGhbSeR8O9f0i0zOiZd6j) | 2:25 |
 | 69 | [Misunderstood \(feat\. Tish Hyman\)](https://open.spotify.com/track/4VnOiQpgmc3uPLc9iYWhsT) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [Tish Hyman](https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K) | [Life In Plastic 3](https://open.spotify.com/album/1dBsWvtX0Ji3sMHKjvjEyR) | 2:38 |
 | 70 | [Luv Me Again](https://open.spotify.com/track/6jXaJ37W4yKIBOEMpjGlli) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Luv Me Again](https://open.spotify.com/album/5eJKFgn1w9nPytqjnt1x0s) | 2:07 |
 | 71 | [Love](https://open.spotify.com/track/0upllbKPY8iblcZvcPCSnL) | [KUR](https://open.spotify.com/artist/1l9MB9QHLcmvuI3wwiWCkB) | [Loyal To A Fault](https://open.spotify.com/album/0uqMJaqDaSIBEAKn9tTBU8) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Unappreciated](https://open.spotify.com/track/3XY9A28it4ayh188fbjCnK) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Talk More Soon](https://open.spotify.com/album/3Vg8Ol5x9bUzhLk42ABXnc) | 3:46 |
 | 100 | [Finish \(feat\. PGF Nuk\)](https://open.spotify.com/track/5h2Zeh9a3iTVOJt66ymosq) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [FLYEST OOTA](https://open.spotify.com/album/39kwAzCvXewcbqclbXHE9X) | 2:53 |
 
-Snapshot ID: `MTY2NjM2NjM3NSwwMDAwMDAwMGNjODBhMzg5MmQ5N2U0MjAyNGVkNDIxNDljODEzNDNk`
+Snapshot ID: `MTY2NjM2NjM3NSwwMDAwMDAwMDhlZGRhNGFjZjMwOTVlNzM0ZmU4OWIwMmU2MGJkMTJh`

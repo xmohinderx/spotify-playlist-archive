@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 50728,
+  "num_followers": 51072,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3NDM0NCwwMDAwMDAwMDBhOWRhOTlhYmM5M2ZkY2EzYWJiZWI0ZjU1MGE5NjQ2",
+  "snapshot_id": "MTY2NTc3NDM0NCwwMDAwMDAwMDcxYzEwOTdlZWM5OWM3OWY3YmM0ZWY2OGM2NTM5YTU3",
   "tracks": [
     {
       "added_at": "2022-10-14 19:05:43",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
         "name": "we fell in love in october / October Passed Me By",
         "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "Middle Of Nowhere",
-        "url": "https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 402654,
-      "name": "Middle Of Nowhere",
-      "url": "https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
         "name": "I Should Go (Solo Version)",
         "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 151178,
       "name": "I Should Go - Solo Version",
       "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
+        "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 402654,
+      "name": "Middle Of Nowhere",
+      "url": "https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "False Floors",
-        "url": "https://open.spotify.com/album/520kCQ9Z5WEWih341YHcmT"
-      },
-      "artists": [
-        {
-          "name": "Rogue Valley",
-          "url": "https://open.spotify.com/artist/1EbGAjTV50qpZ53jXTvmV7"
-        }
-      ],
-      "duration_ms": 256535,
-      "name": "The Wolves and the Ravens",
-      "url": "https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6"
-    },
-    {
-      "added_at": "2022-10-14 19:05:43",
-      "album": {
         "name": "Sunset Traveler",
         "url": "https://open.spotify.com/album/6mRDTbYQi7iQEbrCtAHibh"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 104260,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/1ru2yZCJsLgHuiFJr506BV"
+    },
+    {
+      "added_at": "2022-10-14 19:05:43",
+      "album": {
+        "name": "False Floors",
+        "url": "https://open.spotify.com/album/520kCQ9Z5WEWih341YHcmT"
+      },
+      "artists": [
+        {
+          "name": "Rogue Valley",
+          "url": "https://open.spotify.com/artist/1EbGAjTV50qpZ53jXTvmV7"
+        }
+      ],
+      "duration_ms": 256535,
+      "name": "The Wolves and the Ravens",
+      "url": "https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6"
     },
     {
       "added_at": "2022-10-14 19:05:43",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2022-10-14 19:05:43",
       "album": {
-        "name": "Grapefruit Season",
-        "url": "https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z"
+        "name": "Northern Towns",
+        "url": "https://open.spotify.com/album/4LvJMCbh5kKJrCkwzyOOQ8"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 212634,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/5RgQixDEabaSuMdeT5Hf7l"
+      "duration_ms": 176328,
+      "name": "Northern Towns",
+      "url": "https://open.spotify.com/track/6wKeiw7N5DVCX4QvlVZ33j"
     },
     {
       "added_at": "2022-10-14 19:05:43",

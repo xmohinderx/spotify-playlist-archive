@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Zamzam, Artwork: Isu Kim
 
-72 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/5WHUFzJa9ZzmLS4KcMCdPY)
+73 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/5WHUFzJa9ZzmLS4KcMCdPY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Lina](https://open.spotify.com/track/2ig3Y0b35whG1FrAVG27tv) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Lina](https://open.spotify.com/album/11CqECgUKAF3kZCsAPTMmo) | 2:15 | 2022-09-20 | 2022-10-05 |
 | [Living Hell](https://open.spotify.com/track/15bKspAx2YSj1Ce0TdeVRH) | [Abra Salem](https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6) | [Living Hell](https://open.spotify.com/album/4gpNHmz52QOOfQzGvFGFNh) | 2:01 | 2022-09-20 | 2022-10-26 |
 | [LOGAN](https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:06 | 2022-09-20 |  |
+| [Lonely Night](https://open.spotify.com/track/6bQLBvEkp8GNL5tQrmBA5A) | [Dirty Backseat](https://open.spotify.com/artist/1Hk62j2Aypk6ykn1lgLPhf) | [Lonely Night](https://open.spotify.com/album/0qFSrdCbQowcEfJPnulGzF) | 4:10 | 2022-10-26 |  |
 | [Masquerading Crowd](https://open.spotify.com/track/0zaMCsXxqGXrz1quaVDBtP) | [Skeleton Crowd](https://open.spotify.com/artist/35q8gwzaxeJGQQImnaF0Fo) | [Molly Crapton](https://open.spotify.com/album/2FiCEJT0xGOZJn5s2I00KK) | 3:50 | 2022-09-20 |  |
 | [MAYBE](https://open.spotify.com/track/3CvYWahCnpUZENXen3KuRm) | [Khaleeji Blonde](https://open.spotify.com/artist/7CQ4LU9FOCvhabssN8fbYt), [REDD Nine](https://open.spotify.com/artist/3RZ8kpxXH8uKpzQI6Rt1pt) | [MAYBE](https://open.spotify.com/album/6Pxc7DoXnVBuHvFBcBODPJ) | 3:03 | 2022-09-20 |  |
 | [Mesh assef](https://open.spotify.com/track/0IpW4bdat4oWMYc1zLGkaW) | [Kahareb](https://open.spotify.com/artist/4aTviAzgeJt2fOMZF1FXnB) | [Mesh assef](https://open.spotify.com/album/7ebyUIpo86c9WqIYZfeSQI) | 3:36 | 2022-09-20 | 2022-09-28 |

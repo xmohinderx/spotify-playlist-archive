@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover: Kwon Jin Ah(\uad8c\uc9c4\uc544)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover: Roy Kim(\ub85c\uc774\ud0b4)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "published_playlist_ids": [
     "50vXMaH1sm7s2jq2W5LswS"
@@ -3731,7 +3731,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 235349,
       "name": "How painful it must be to forget",
       "url": "https://open.spotify.com/track/0pnBmZHznIWiv1NQktqt3S"
@@ -4237,6 +4237,24 @@
       "duration_ms": 227866,
       "name": "I still love you a lot",
       "url": "https://open.spotify.com/track/2zCORPZHF7g9SPjZfrGVuy"
+    },
+    {
+      "album": {
+        "name": "I Still Miss You",
+        "url": "https://open.spotify.com/album/1uYtRlk8QH2pFmvTW8g2CA"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180746,
+      "name": "I Still Miss You",
+      "url": "https://open.spotify.com/track/7mSnpktbVTwtCAiJTlSJN9"
     },
     {
       "album": {
@@ -4972,6 +4990,24 @@
     },
     {
       "album": {
+        "name": ",and",
+        "url": "https://open.spotify.com/album/5fJXjW9On6vPk1f58kMQNP"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258186,
+      "name": "It\u2032ll Be Alright",
+      "url": "https://open.spotify.com/track/4xrLFswrUOP8MHJaTHHD8T"
+    },
+    {
+      "album": {
         "name": "It's You (YERI of Red Velvet)",
         "url": "https://open.spotify.com/album/1TntT6QwLz97YzItvpyLKf"
       },
@@ -5073,7 +5109,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 242213,
       "name": "Just Watching You",
       "url": "https://open.spotify.com/track/0pPl0eb7HcfwuXkFZqp4TU"
@@ -6025,10 +6061,28 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 340520,
       "name": "Mom",
       "url": "https://open.spotify.com/track/7bGQ0dO8Phe5kcx6HkwwuT"
+    },
+    {
+      "album": {
+        "name": "Monthly Project 2022 October Yoon Jong Shin - Island",
+        "url": "https://open.spotify.com/album/5kKaGfyHpg7vTZwClw7cTc"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Shin",
+          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302666,
+      "name": "Monthly Project 2022 October Yoon Jong Shin - Island",
+      "url": "https://open.spotify.com/track/0wkdaGYXz1jRKZYlqhS2Ot"
     },
     {
       "album": {
@@ -8271,10 +8325,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 234160,
       "name": "Take Me Back In Time",
       "url": "https://open.spotify.com/track/3GOC3sFDrsNK61FQNEqODL"
+    },
+    {
+      "album": {
+        "name": ",and",
+        "url": "https://open.spotify.com/album/5fJXjW9On6vPk1f58kMQNP"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234160,
+      "name": "Take Me Back In Time",
+      "url": "https://open.spotify.com/track/4kclNUEfSlW8uJK9j0LQqt"
     },
     {
       "album": {

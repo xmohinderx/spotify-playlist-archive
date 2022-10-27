@@ -4,7 +4,7 @@
 
 > For those cozy moments.
 
-253 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/18y1K7szva4ApQnZGnbzQT)
+254 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/18y1K7szva4ApQnZGnbzQT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 | 2022-05-23 |  |
 | [everytime we fall](https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [everytime we fall](https://open.spotify.com/album/1wmhx7Q7Y4dYDWJ7jOWwUQ) | 3:09 | 2022-03-18 |  |
 | [Eyes on You](https://open.spotify.com/track/3Q6ppHSPI9Kpuc5ipKb7bP) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Eyes on You](https://open.spotify.com/album/6jsMdQu4HDvujVp2IQmweI) | 2:48 | 2022-07-08 | 2022-10-13 |
+| [Eyes on You](https://open.spotify.com/track/5ewnuTcT10UI7zOx3OWRmQ) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Eyes on You](https://open.spotify.com/album/1EyIaOsVGxxr2LKxlxCH9Q) | 2:48 | 2022-09-30 |  |
 | [Eyes on You](https://open.spotify.com/track/6Txx3Uj0rRXPixi9V1DZek) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Eyes on You](https://open.spotify.com/album/1iLPhaq2JCR9dDnh9omdRE) | 2:48 | 2021-10-26 | 2022-07-28 |
 | [Fade](https://open.spotify.com/track/2EWR4QeZ5U0eEYIQCK8YMg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Fade](https://open.spotify.com/album/3CSKbUsAvaLmFXIhDysN0M) | 4:04 | 2021-10-26 | 2022-07-29 |
 | [Fade](https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 4:06 | 2022-07-08 |  |
@@ -162,7 +163,7 @@
 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 | 2022-08-26 |  |
 | [My Forever](https://open.spotify.com/track/227G6rcO65LFq39h8yKBqS) | [Ajuki](https://open.spotify.com/artist/04Og4FnZhjF2p1kCwkUnIe) | [My Forever](https://open.spotify.com/album/3ZaJWZD6PWBwamO1m2Gfkb) | 3:37 | 2022-03-28 |  |
 | [My Way](https://open.spotify.com/track/5FhcvuzMHoDYbcSTB1CsIf) | [Calynn](https://open.spotify.com/artist/3Z3fwHyjzkwiQKgZNrpodY) | [My Way](https://open.spotify.com/album/2DROrOtdP62RWxCiXnT1zF) | 2:26 | 2022-08-12 | 2022-08-17 |
-| [Need Luv](https://open.spotify.com/track/3Jiwk6k8VfEyVreUDIJYre) | [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n) | [Need Luv](https://open.spotify.com/album/4s2lpY7AB9lsOFCPPdEbWz) | 2:36 | 2022-05-11 |  |
+| [Need Luv](https://open.spotify.com/track/3Jiwk6k8VfEyVreUDIJYre) | [SHRETA](https://open.spotify.com/artist/3JIPXppV2oYMltqGqBCo9n) | [Need Luv](https://open.spotify.com/album/4s2lpY7AB9lsOFCPPdEbWz) | 2:36 | 2022-05-11 | 2022-10-27 |
 | [Need You Now \- Acoustic](https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:23 | 2022-07-08 |  |
 | [Need You Now \- Acoustic](https://open.spotify.com/track/5whjxzYUc8eXlfrvlh9Y9B) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Need You Now \(Acoustic\)](https://open.spotify.com/album/13LpVxAm6NZ3uaCYgPwi2M) | 3:23 | 2021-10-26 | 2022-07-29 |
 | [Nice and Slow](https://open.spotify.com/track/3EfqfnRqI4Tq2RZVRHvgoM) | [Tony Michael](https://open.spotify.com/artist/5DVMoEqGsSj3jFCIR2inf8) | [Trill RNB](https://open.spotify.com/album/2gMRm8weTdryJsOJGxCpvi) | 3:33 | 2022-06-02 | 2022-07-29 |

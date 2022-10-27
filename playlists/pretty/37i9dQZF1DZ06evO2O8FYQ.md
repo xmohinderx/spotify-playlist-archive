@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O8FYQ.md) - [plain]
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,214 likes - 29 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215 likes - 29 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,15 +27,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O8FYQ.md) - [plain]
 | 17 | [Long Way Down](https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 4:33 |
 | 18 | [Broken Knee](https://open.spotify.com/track/75vR9yvIpqKdQv5CneGDP0) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:33 |
 | 19 | [In My Room](https://open.spotify.com/track/1ax2C3KOkZSbmvHJMJrEPh) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/582YI5j1QSyYKquXe641zi) | 3:16 |
-| 20 | [White T\-Shirt and Jeans](https://open.spotify.com/track/2B66zZymYWxQqP8QQxQUAy) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 3:14 |
+| 20 | [Arizona Waiting](https://open.spotify.com/track/4HYEQtuuZTsj0RIIi3Yneh) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 3:04 |
 | 21 | [Celebrity Mansions](https://open.spotify.com/track/2cGYrleMCxBKTYbsiGXF56) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:38 |
 | 22 | [Hey Man \(Home You Ruin\)](https://open.spotify.com/track/6GFqj7vEpTwcCG3LqRwjN7) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 5:20 |
 | 23 | [Friend of Mine](https://open.spotify.com/track/6m9erDNRC0oxTESUE13wzJ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 2:19 |
-| 24 | [Arizona Waiting](https://open.spotify.com/track/4HYEQtuuZTsj0RIIi3Yneh) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 3:04 |
+| 24 | [White T\-Shirt and Jeans](https://open.spotify.com/track/2B66zZymYWxQqP8QQxQUAy) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 3:14 |
 | 25 | [Hanging by a Thread](https://open.spotify.com/track/7B2ZyQ9zyrosGaDcaQ7wLB) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/582YI5j1QSyYKquXe641zi) | 3:34 |
 | 26 | [Hey You](https://open.spotify.com/track/3q9ztoncWzO58rJsadhUfi) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 5:37 |
 | 27 | [Bad Penny](https://open.spotify.com/track/0QdXCN2gjKlzCjrilt6iLG) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 2:48 |
 | 28 | [Opposites Attract](https://open.spotify.com/track/3JWFXdyx7SnfKJDFXBsEmp) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [The Music Sounds Better With Huw](https://open.spotify.com/album/4qqFPGX26bRA4TPlbVAjGW) | 3:10 |
 | 29 | [Bella](https://open.spotify.com/track/70XGnbj2KKcAaTEwZRqzYR) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/582YI5j1QSyYKquXe641zi) | 2:45 |
 
-Snapshot ID: `Mjc3Nzg0ODMsMDAwMDAwMDBiZjllYmFlMzljOTBmZTFlODk1ZGJmYzk4Yzg5NDI4Zg==`
+Snapshot ID: `Mjc3Nzk4ODEsMDAwMDAwMDA4YjI0ZTVkNTg3MzQ0MDI3ZTBmODRjNzYyMzU4NWI4Nw==`

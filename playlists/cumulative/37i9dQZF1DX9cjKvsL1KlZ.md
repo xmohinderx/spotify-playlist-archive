@@ -4,7 +4,7 @@
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-244 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/0rqcdEr09hY4EkqH1rg5qo)
+245 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/0rqcdEr09hY4EkqH1rg5qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [21 Questions](https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:44 | 2022-03-01 | 2022-07-30 |
 | [2nd Intro](https://open.spotify.com/track/7tYu8dbXS8Ma6hUtszmd1s) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 1:56 | 2022-03-01 | 2022-05-11 |
 | [30 \(feat\. Bizzy Banks\)](https://open.spotify.com/track/24YG5Z8Of1VHovrfXsbvCZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:48 | 2022-06-17 | 2022-08-17 |
-| [40s N 9s](https://open.spotify.com/track/6c74xJ6LgdJDnv8bYOElUP) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [SugarHill Ddot](https://open.spotify.com/artist/2mET8bpTc6j2lm5YjVUeFq) | [40s N 9s](https://open.spotify.com/album/3xaTN7UyEJIVnnjdclui5E) | 2:25 | 2022-10-07 |  |
+| [40s N 9s](https://open.spotify.com/track/6tApynt36Q9U9Tl7ulJyL2) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [40s N 9s](https://open.spotify.com/album/5vGhbSeR8O9f0i0zOiZd6j) | 2:25 | 2022-10-07 |  |
+| [40s N 9s](https://open.spotify.com/track/6c74xJ6LgdJDnv8bYOElUP) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [SugarHill Ddot](https://open.spotify.com/artist/2mET8bpTc6j2lm5YjVUeFq) | [40s N 9s](https://open.spotify.com/album/3xaTN7UyEJIVnnjdclui5E) | 2:25 | 2022-10-07 | 2022-10-27 |
 | [6 foot 7 foot](https://open.spotify.com/track/5NmzosNjAiwHUXxi3jfOy2) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x), [Tazzo B](https://open.spotify.com/artist/6xq21H5LtfKGLHs8LRsdkG) | [6 foot 7 foot](https://open.spotify.com/album/42WX64EFrVX9hMaguk1TqT) | 2:15 | 2022-06-17 |  |
 | [8th Block](https://open.spotify.com/track/4CkIPO65Pvs90PNoCGDZlM) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [THE UNLUCCY LUCCY KID](https://open.spotify.com/album/3Xvvi8uwGnuj9nF7fr2h39) | 2:07 | 2022-03-25 | 2022-06-04 |
 | [Ain't Care](https://open.spotify.com/track/4xeAQ6sFPZzhR3lWdlMaqe) | [Bouba Savage](https://open.spotify.com/artist/6IvMzEgPA1Ftl3XbMV0s0m) | [Ain't Care](https://open.spotify.com/album/4FFQEpyPlQoHlIJ4EvXWAO) | 1:49 | 2022-08-16 | 2022-10-08 |

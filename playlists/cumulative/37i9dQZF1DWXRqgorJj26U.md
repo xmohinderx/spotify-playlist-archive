@@ -2,7 +2,7 @@
 
 ### [Rock Classics](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U)
 
-> Rock legends & epic songs that continue to inspire generations.
+> Rock legends & epic songs that continue to inspire generations\. Cover: Led Zeppelin
 
 291 songs - 21 hr 22 min - [published](https://open.spotify.com/playlist/0QZOz4xhBHfQBRKVMnekpO)
 

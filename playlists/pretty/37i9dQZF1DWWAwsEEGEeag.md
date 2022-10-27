@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,579 likes - 102 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,584 likes - 102 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 18 | [Gainsbourg](https://open.spotify.com/track/78LCyYqnfKvUq9ke5oZkIY) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Gainsbourg](https://open.spotify.com/album/15UrQv2Y3bLPt6rSovqtLl) | 3:15 |
 | 19 | [Jamais \(j'aurais pensé\)](https://open.spotify.com/track/52zPlH7KmcY1B97sAm7TC6) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 3:55 |
 | 20 | [Ta main](https://open.spotify.com/track/6VbVuMbEi9LhL5GTHqpkBx) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Ta main](https://open.spotify.com/album/23cFhtNMnvM3aXnQoJ2f3C) | 4:05 |
-| 21 | [Oulala](https://open.spotify.com/track/1RDA0pMc3xtJDhugv492iK) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Equilibre](https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t) | 3:35 |
+| 21 | [Oulala](https://open.spotify.com/track/01mg6H8PhXNuGZj8tRsWCZ) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Equilibre](https://open.spotify.com/album/05i1g2VNkI7hBdIADta182) | 3:35 |
 | 22 | [Étrange Mélange](https://open.spotify.com/track/4kQwLlzkmWIfbiGkyEZkGl) | [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC) | [Bleu](https://open.spotify.com/album/6fpbdcvp2uiG3K28AaweQN) | 3:00 |
 | 23 | [I Won't Bite](https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Anxious Avoidant](https://open.spotify.com/album/6yIPE5sUMMMh70i6ApdQCt) | 4:17 |
 | 24 | [Casse\-cou](https://open.spotify.com/track/0tKyyTsiNdilQyQuDQHLU7) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [Bulle](https://open.spotify.com/album/2d48WjzpUsNHq9NkSxmbXN) | 3:06 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 101 | [Stand Tall](https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/4aHhefASnscousZOaHk1OH) | 3:57 |
 | 102 | [bye bye again \- Bob Sinclar Remix](https://open.spotify.com/track/7uGd2sO212d36Ja4wMlTdJ) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [bye bye again \(Bob Sinclar Remix\)](https://open.spotify.com/album/2QROzydHnLXAaKhAEVLVqn) | 2:40 |
 
-Snapshot ID: `MTY2NDU0Nzc5OSwwMDAwMDAwMGY0ZDQ2NjY1ODM1NGNmNWE4YzNiMjBjMTlmM2YwNTJm`
+Snapshot ID: `MTY2NDU0Nzc5OSwwMDAwMDAwMGQ2MWRmN2YxOWVhMTYzOWU4MjliNjA1NDZlMWEwYzA1`

@@ -1,12 +1,12 @@
 {
   "description": "alternative songs and a good time.",
-  "num_followers": 670280,
+  "num_followers": 670331,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGFiMmU2NzNjM2IxNTc5OWI5OGFmYTYyOTM0YzgxOTk2",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDQ0NDQ5MDM0YmRjNGE3OTMxYThjN2FkODVlOWM5MzUw",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Another Man's Jeans",
-        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 165067,
-      "name": "Another Man's Jeans",
-      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "the first glass beach album",
         "url": "https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 207925,
       "name": "I Just Wanna Shine",
       "url": "https://open.spotify.com/track/4GZ3YCkuH0VvTluVLwUp4g"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Another Man's Jeans",
+        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "Another Man's Jeans",
+      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "DEAR MISS HOLLOWAY",
         "url": "https://open.spotify.com/album/4VKhpWhs1QkJ6UXn1hkMjU"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 209906,
       "name": "DEAR MISS HOLLOWAY",
       "url": "https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Easy / Where Do We Go From Here?",
-        "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 231670,
-      "name": "Where Do We Go From Here?",
-      "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "The Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 248000,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Easy / Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 231670,
+      "name": "Where Do We Go From Here?",
+      "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Petals For Armor",
-        "url": "https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 199412,
-      "name": "Dead Horse",
-      "url": "https://open.spotify.com/track/5RdkyZw1KQ1v0EbquUAsx2"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "f**k it, i'm the man",
         "url": "https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 150693,
       "name": "f**k it, i'm the man",
       "url": "https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Petals For Armor",
+        "url": "https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 199412,
+      "name": "Dead Horse",
+      "url": "https://open.spotify.com/track/5RdkyZw1KQ1v0EbquUAsx2"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 162880,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Young Rising Sons",
         "url": "https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 165720,
       "name": "High",
       "url": "https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Castlecomer",
+        "url": "https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15"
+      },
+      "artists": [
+        {
+          "name": "Castlecomer",
+          "url": "https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "If I Could Be Like You",
+      "url": "https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Castlecomer",
-        "url": "https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15"
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX"
       },
       "artists": [
         {
-          "name": "Castlecomer",
-          "url": "https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0"
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
         }
       ],
-      "duration_ms": 166920,
-      "name": "If I Could Be Like You",
-      "url": "https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9"
+      "duration_ms": 162880,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Brighter Day",
-        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Brighter Day",
-      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "D.I.L.Y.D.",
         "url": "https://open.spotify.com/album/5UvMqJ7iarMJtztwBUG6UL"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 199274,
       "name": "Do It Like You Do",
       "url": "https://open.spotify.com/track/69LmDU9Ykb2ffpDDisnf1w"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Brighter Day",
+        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Brighter Day",
+      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Orca",
+        "url": "https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 279691,
+      "name": "Post Humorous",
+      "url": "https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/6XFQzh3r6YdjB6yK2hmEbG"
       },
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Orca",
-        "url": "https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 279691,
-      "name": "Post Humorous",
-      "url": "https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
       },
@@ -1727,6 +1727,22 @@
       "duration_ms": 204226,
       "name": "Gimme Twice",
       "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Off To The Races",
+        "url": "https://open.spotify.com/album/0vGId8rvkYSChOrt2A6HVc"
+      },
+      "artists": [
+        {
+          "name": "Jukebox The Ghost",
+          "url": "https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Fred Astaire",
+      "url": "https://open.spotify.com/track/2lYLaKcZ1bwrIEJcD5LGOx"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1795,22 +1811,6 @@
       "duration_ms": 204428,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/6mJoYRUTiqeVowwWNAeCjR"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Off To The Races",
-        "url": "https://open.spotify.com/album/0vGId8rvkYSChOrt2A6HVc"
-      },
-      "artists": [
-        {
-          "name": "Jukebox The Ghost",
-          "url": "https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Fred Astaire",
-      "url": "https://open.spotify.com/track/2lYLaKcZ1bwrIEJcD5LGOx"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "JR JR",
-        "url": "https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS"
-      },
-      "artists": [
-        {
-          "name": "JR JR",
-          "url": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
-        }
-      ],
-      "duration_ms": 227506,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/4MVgnDxPZUCmN4LNb0Urui"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 193186,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "JR JR",
+        "url": "https://open.spotify.com/album/3shFtH3EfvyztGl2sdsmHS"
+      },
+      "artists": [
+        {
+          "name": "JR JR",
+          "url": "https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/3mxMrdo3fJjDbb64nagoXR"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Nella Vita",
-        "url": "https://open.spotify.com/album/5j86yI68MjgZLKaYsL6Sd7"
-      },
-      "artists": [
-        {
-          "name": "Grayscale",
-          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/3W8kkKICWGoH413PLYUcGh"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "don't you wanna be glad?",
         "url": "https://open.spotify.com/album/272SGdcepKg8hv0LlOBT3U"
       },
@@ -2015,18 +1999,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
+        "name": "Nella Vita",
+        "url": "https://open.spotify.com/album/5j86yI68MjgZLKaYsL6Sd7"
       },
       "artists": [
         {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+          "name": "Grayscale",
+          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
+      "duration_ms": 189520,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/3W8kkKICWGoH413PLYUcGh"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2043,6 +2027,22 @@
       "duration_ms": 179356,
       "name": "Lone Survivor",
       "url": "https://open.spotify.com/track/4xoMkzXVLIr2Lal6gIX18L"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Going Mainstream",
-        "url": "https://open.spotify.com/album/2K2u7usRIF03pywk6qxGlM"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Sunshine Time",
-      "url": "https://open.spotify.com/track/08ag3RWt1LlRWDFU44XSss"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "The Shelters",
         "url": "https://open.spotify.com/album/451kD1EliOug21dypPYnMn"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 238924,
       "name": "Rebel Heart",
       "url": "https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Going Mainstream",
+        "url": "https://open.spotify.com/album/2K2u7usRIF03pywk6qxGlM"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 211040,
+      "name": "Sunshine Time",
+      "url": "https://open.spotify.com/track/08ag3RWt1LlRWDFU44XSss"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2379,6 +2379,30 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "True Colour",
+        "url": "https://open.spotify.com/album/1cyOlB789kiQTJtkkv1Htn"
+      },
+      "artists": [
+        {
+          "name": "The Terrys",
+          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
+        },
+        {
+          "name": "Esoterik",
+          "url": "https://open.spotify.com/artist/09NAbswyxDbzblZovO1XcQ"
+        },
+        {
+          "name": "Scraps",
+          "url": "https://open.spotify.com/artist/4xKRehjx1as1IPImlKDta8"
+        }
+      ],
+      "duration_ms": 188304,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/2zwmQwHIlwDBbzMkdrG8rw"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Wind of Change (feat. Brandon Boyd of Incubus & Portugal. The Man)",
         "url": "https://open.spotify.com/album/5Nu3B843pAWSp8gOCcVxkx"
       },
@@ -2403,30 +2427,6 @@
       "duration_ms": 309066,
       "name": "Wind of Change (feat. Brandon Boyd of Incubus & Portugal. The Man)",
       "url": "https://open.spotify.com/track/6dgniKsterTlem7d54gGjP"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "True Colour",
-        "url": "https://open.spotify.com/album/1cyOlB789kiQTJtkkv1Htn"
-      },
-      "artists": [
-        {
-          "name": "The Terrys",
-          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
-        },
-        {
-          "name": "Esoterik",
-          "url": "https://open.spotify.com/artist/09NAbswyxDbzblZovO1XcQ"
-        },
-        {
-          "name": "Scraps",
-          "url": "https://open.spotify.com/artist/4xKRehjx1as1IPImlKDta8"
-        }
-      ],
-      "duration_ms": 188304,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/2zwmQwHIlwDBbzMkdrG8rw"
     },
     {
       "added_at": "2022-10-07 04:01:00",

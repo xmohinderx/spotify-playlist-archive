@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: Dreamcatcher(\ub4dc\ub9bc\uce90\uccd0)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: CLASS:y(\ud074\ub77c\uc528)",
   "name": "Girl Krush",
   "published_playlist_ids": [
     "1NPspPN8vwoPb2Vd2JfxrK"
@@ -4812,6 +4812,24 @@
     },
     {
       "album": {
+        "name": "Day&Night",
+        "url": "https://open.spotify.com/album/6tsh5bEFhDVuWVaNCGVhjc"
+      },
+      "artists": [
+        {
+          "name": "CLASS:y",
+          "url": "https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "Tick Tick Boom",
+      "url": "https://open.spotify.com/track/19WBBlTBTcgNGYBbY6HZB6"
+    },
+    {
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
       },
@@ -5079,7 +5097,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 189173,
       "name": "VISION",
       "url": "https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP"

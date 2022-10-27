@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Koe Wetzel",
-  "num_followers": 477076,
+  "num_followers": 477172,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDMyNjRjNjM0MDBjZDM3OWViM2M5NTRhZDgxOGZjZTVk",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDQyZTA5NDVlN2EyNTliYWFhOThkYzViMDU4ODNkYjgy",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -139,8 +139,8 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "SOLD OUT",
-        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
+        "name": "JACK",
+        "url": "https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 202912,
-      "name": "SOLD OUT",
-      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
+      "duration_ms": 168630,
+      "name": "JACK",
+      "url": "https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -259,8 +259,8 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "JACK",
-        "url": "https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc"
+        "name": "SOLD OUT",
+        "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 168630,
-      "name": "JACK",
-      "url": "https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY"
+      "duration_ms": 202912,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
-        "url": "https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv"
+        "name": "Whole World Gone Crazy",
+        "url": "https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur"
       },
       "artists": [
         {
-          "name": "Kendell Marvel",
-          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 195386,
-      "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz"
+      "duration_ms": 184760,
+      "name": "Whole World Gone Crazy",
+      "url": "https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1155,18 +1151,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Whole World Gone Crazy",
-        "url": "https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur"
+        "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
+        "url": "https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+          "name": "Kendell Marvel",
+          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 184760,
-      "name": "Whole World Gone Crazy",
-      "url": "https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI"
+      "duration_ms": 195386,
+      "name": "Don't Tell Me How to Drink (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Backslider",
-        "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
+        "name": "Antioch",
+        "url": "https://open.spotify.com/album/0idg67gnx68XH65agkb7Dn"
       },
       "artists": [
         {
-          "name": "Elvie Shane",
-          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 210532,
-      "name": "Sundress",
-      "url": "https://open.spotify.com/track/2YoecwfC0hko9DhQyezZVK"
+      "duration_ms": 245643,
+      "name": "Antioch",
+      "url": "https://open.spotify.com/track/51WNjmzTaO4kBTM7xBQP9h"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Antioch",
-        "url": "https://open.spotify.com/album/0idg67gnx68XH65agkb7Dn"
+        "name": "Backslider",
+        "url": "https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+          "name": "Elvie Shane",
+          "url": "https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j"
         }
       ],
-      "duration_ms": 245643,
-      "name": "Antioch",
-      "url": "https://open.spotify.com/track/51WNjmzTaO4kBTM7xBQP9h"
+      "duration_ms": 210532,
+      "name": "Sundress",
+      "url": "https://open.spotify.com/track/2YoecwfC0hko9DhQyezZVK"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "I'm Not For Everyone",
-        "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "I'm Not For Everyone",
-      "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Year to Be Young 1994",
         "url": "https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 200898,
       "name": "Year to Be Young 1994",
       "url": "https://open.spotify.com/track/189qLE479B11BbwQlOFxQO"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "I'm Not For Everyone",
+        "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Still a Few Cowboys Left",
+        "url": "https://open.spotify.com/album/4M2nYHoEGhqwfGKWtUXowD"
+      },
+      "artists": [
+        {
+          "name": "Ben Gallaher",
+          "url": "https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ"
+        }
+      ],
+      "duration_ms": 194186,
+      "name": "Still a Few Cowboys Left",
+      "url": "https://open.spotify.com/track/064qcqSMgEpFffFjsePeaU"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "EOM - EP",
         "url": "https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d"
       },
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Still a Few Cowboys Left",
-        "url": "https://open.spotify.com/album/4M2nYHoEGhqwfGKWtUXowD"
-      },
-      "artists": [
-        {
-          "name": "Ben Gallaher",
-          "url": "https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ"
-        }
-      ],
-      "duration_ms": 194186,
-      "name": "Still a Few Cowboys Left",
-      "url": "https://open.spotify.com/track/064qcqSMgEpFffFjsePeaU"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Whiskey in a Wine Glass",
         "url": "https://open.spotify.com/album/0TEPeGUIFSQ9aB0w8HC4GZ"
       },
@@ -1539,6 +1539,26 @@
       "duration_ms": 187885,
       "name": "Whiskey in a Wine Glass",
       "url": "https://open.spotify.com/track/2KIlRbwYuRiD1U7DFceJK2"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "High Country Sound",
+        "url": "https://open.spotify.com/album/0XsPCNDdepOg4OP3Z1X6Za"
+      },
+      "artists": [
+        {
+          "name": "Canaan Smith",
+          "url": "https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck"
+        },
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 169700,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/4yxdTF0DcdXfD9XA3F8gvX"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1571,26 +1591,6 @@
       "duration_ms": 254090,
       "name": "Right or Wrong",
       "url": "https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "High Country Sound",
-        "url": "https://open.spotify.com/album/0XsPCNDdepOg4OP3Z1X6Za"
-      },
-      "artists": [
-        {
-          "name": "Canaan Smith",
-          "url": "https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck"
-        },
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 169700,
-      "name": "Catch Me If You Can",
-      "url": "https://open.spotify.com/track/4yxdTF0DcdXfD9XA3F8gvX"
     },
     {
       "added_at": "2022-10-14 04:00:00",

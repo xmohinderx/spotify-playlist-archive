@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 11001,
+  "num_followers": 11034,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMDlhZWYzNDJhYTdhNzYxNDVhNjUzNGE4MDU1MjkzZmE1",
+  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMGQ2YmRmNTliZWU3Y2VmNzJhYjBhYmFlOTZiNDJiMGYx",
   "tracks": [
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Perdido",
-        "url": "https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz"
-      },
-      "artists": [
-        {
-          "name": "Alegre All Stars",
-          "url": "https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc"
-        }
-      ],
-      "duration_ms": 489000,
-      "name": "Y Yo Ganga",
-      "url": "https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas, Vol. 1",
         "url": "https://open.spotify.com/album/7vaMXZuLGhTU0dXTKrq0LQ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 271072,
       "name": "Carro de Fuego",
       "url": "https://open.spotify.com/track/2rbiq6pvtMMxPyy8JvXdBg"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "Perdido",
+        "url": "https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz"
+      },
+      "artists": [
+        {
+          "name": "Alegre All Stars",
+          "url": "https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc"
+        }
+      ],
+      "duration_ms": 489000,
+      "name": "Y Yo Ganga",
+      "url": "https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Gustavo Rodriguez",
+          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
+        }
+      ],
+      "duration_ms": 293067,
+      "name": "Mujer de Carne y Hueso",
+      "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
         "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
         "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
       },
@@ -1415,22 +1435,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Hecho Y Derecho",
-        "url": "https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 167331,
-      "name": "Hecho Y Derecho",
-      "url": "https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "Pura Salsa",
         "url": "https://open.spotify.com/album/7riHCrKoLv3Y0Vg9tnDWg1"
       },
@@ -1447,22 +1451,18 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
-        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+        "name": "Hecho Y Derecho",
+        "url": "https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy"
       },
       "artists": [
         {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        },
-        {
-          "name": "Gustavo Rodriguez",
-          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
         }
       ],
-      "duration_ms": 293067,
-      "name": "Mujer de Carne y Hueso",
-      "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
+      "duration_ms": 167331,
+      "name": "Hecho Y Derecho",
+      "url": "https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP"
     },
     {
       "added_at": "2022-08-17 18:30:29",

@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 235481,
+  "num_followers": 235472,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDUzM2M2ODY0MTY2YmM5NDZkZDIxNGI5MjczZDYyZTll",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGZiZmE4MjJhMzgxNTg3YjViNzUyYmQyMTk5OWI2YTU3",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -225,22 +225,6 @@
       "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
     },
     {
-      "added_at": "2022-08-08 19:18:25",
-      "album": {
-        "name": "Beach House",
-        "url": "https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 150004,
-      "name": "Beach House",
-      "url": "https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Kids Are Born Stars",
@@ -255,6 +239,22 @@
       "duration_ms": 187026,
       "name": "Kids Are Born Stars",
       "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
+    },
+    {
+      "added_at": "2022-08-08 19:18:25",
+      "album": {
+        "name": "Beach House",
+        "url": "https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 150004,
+      "name": "Beach House",
+      "url": "https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -345,46 +345,6 @@
       "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
     },
     {
-      "added_at": "2022-08-08 19:18:25",
-      "album": {
-        "name": "All She Wanna Do",
-        "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 195715,
-      "name": "All She Wanna Do (with Saweetie)",
-      "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
-    },
-    {
       "added_at": "2021-08-06 04:01:00",
       "album": {
         "name": "Groove Continental: Side A",
@@ -407,6 +367,46 @@
       "duration_ms": 176293,
       "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
       "url": "https://open.spotify.com/track/14NGdYOr9abOGH6euZcpu5"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
+    },
+    {
+      "added_at": "2022-08-08 19:18:25",
+      "album": {
+        "name": "All She Wanna Do",
+        "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 195715,
+      "name": "All She Wanna Do (with Saweetie)",
+      "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -857,20 +857,20 @@
       "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
+      "added_at": "2022-05-20 04:01:00",
       "album": {
-        "name": "Never Seen You Dance",
-        "url": "https://open.spotify.com/album/73VzHaRZwnn6YkkfCYFGh6"
+        "name": "All Day Long",
+        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
       },
       "artists": [
         {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
         }
       ],
-      "duration_ms": 288062,
-      "name": "Never Seen You Dance",
-      "url": "https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu"
+      "duration_ms": 169433,
+      "name": "All Day Long",
+      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -893,20 +893,20 @@
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
+      "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "All Day Long",
-        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
+        "name": "Never Seen You Dance",
+        "url": "https://open.spotify.com/album/73VzHaRZwnn6YkkfCYFGh6"
       },
       "artists": [
         {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
         }
       ],
-      "duration_ms": 169433,
-      "name": "All Day Long",
-      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
+      "duration_ms": 288062,
+      "name": "Never Seen You Dance",
+      "url": "https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/4VAUxogl12wnQQHvQ3zVuD"
     },
     {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Ashamed",
+      "url": "https://open.spotify.com/track/6V5dtTAY64G0bIzQAdxuEl"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Don't Lose Sight",
@@ -965,20 +981,28 @@
       "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
     },
     {
-      "added_at": "2021-09-21 15:07:50",
+      "added_at": "2022-06-03 04:01:00",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6"
+        "name": "I Told You",
+        "url": "https://open.spotify.com/album/7D4zYU5Rp03kIE3HMG7fzp"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Haywood",
+          "url": "https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu"
+        },
+        {
+          "name": "Loote",
+          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+        },
+        {
+          "name": "Petey Martin",
+          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
         }
       ],
-      "duration_ms": 204213,
-      "name": "Ashamed",
-      "url": "https://open.spotify.com/track/6V5dtTAY64G0bIzQAdxuEl"
+      "duration_ms": 207023,
+      "name": "I Told You",
+      "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -1023,30 +1047,6 @@
       "duration_ms": 264501,
       "name": "WE ARE",
       "url": "https://open.spotify.com/track/3CAUdHOsgijdnNsjO7o7Hd"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "I Told You",
-        "url": "https://open.spotify.com/album/7D4zYU5Rp03kIE3HMG7fzp"
-      },
-      "artists": [
-        {
-          "name": "Haywood",
-          "url": "https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu"
-        },
-        {
-          "name": "Loote",
-          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
-        },
-        {
-          "name": "Petey Martin",
-          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
-        }
-      ],
-      "duration_ms": 207023,
-      "name": "I Told You",
-      "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "Tango",
-        "url": "https://open.spotify.com/album/4MHpFObESLtJVZ2vLJbf7Y"
-      },
-      "artists": [
-        {
-          "name": "Onyx Collective",
-          "url": "https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf"
-        }
-      ],
-      "duration_ms": 304838,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "My Tribe",
@@ -1229,6 +1213,46 @@
       "url": "https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug"
     },
     {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
+        "name": "Chicken Wings (Remix)",
+        "url": "https://open.spotify.com/album/7MdK6WWMMy9V2w8prCgycb"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Bando.",
+          "url": "https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90"
+        }
+      ],
+      "duration_ms": 165565,
+      "name": "Chicken Wings - Remix",
+      "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "Tango",
+        "url": "https://open.spotify.com/album/4MHpFObESLtJVZ2vLJbf7Y"
+      },
+      "artists": [
+        {
+          "name": "Onyx Collective",
+          "url": "https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf"
+        }
+      ],
+      "duration_ms": 304838,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Lost & Alive",
@@ -1263,30 +1287,6 @@
       "duration_ms": 222496,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Chicken Wings (Remix)",
-        "url": "https://open.spotify.com/album/7MdK6WWMMy9V2w8prCgycb"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Bando.",
-          "url": "https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90"
-        }
-      ],
-      "duration_ms": 165565,
-      "name": "Chicken Wings - Remix",
-      "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
     },
     {
       "added_at": "2022-07-29 04:02:00",

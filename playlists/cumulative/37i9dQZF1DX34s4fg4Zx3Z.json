@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 162857,
       "name": "0808",
       "url": "https://open.spotify.com/track/7Kq1Hnk5NorUNG7bL8cZ7z"
@@ -359,6 +359,24 @@
       "duration_ms": 171692,
       "name": "Anh Bi\u1ebft Anh \u0110ang Sai",
       "url": "https://open.spotify.com/track/17w5ebCui16ZhSH1iq8d9m"
+    },
+    {
+      "album": {
+        "name": "Anh Ch\u01b0a Bi\u1ebft Em",
+        "url": "https://open.spotify.com/album/3AtUCcrqH1LnCRjkixPcKQ"
+      },
+      "artists": [
+        {
+          "name": "Liu Grace",
+          "url": "https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Anh Ch\u01b0a Bi\u1ebft Em",
+      "url": "https://open.spotify.com/track/0U9TFIiCYcOqULZ2dYJcmu"
     },
     {
       "album": {
@@ -1743,7 +1761,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 145115,
       "name": "Chilavi",
       "url": "https://open.spotify.com/track/2P0EXCEfOWHSzxje3JgM4f"
@@ -1999,7 +2017,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 248020,
       "name": "Ch\u01a1i",
       "url": "https://open.spotify.com/track/2ogSoDRRrXcEfQ7EPAdllM"
@@ -4407,7 +4425,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 295865,
       "name": "Hay L\u00e0 Tr\u0103ng N\u00f3i",
       "url": "https://open.spotify.com/track/4kXWF8M4uXzDG1e4BMxq1h"
@@ -6562,6 +6580,24 @@
     },
     {
       "album": {
+        "name": "Mu\u1ed1n Em L\u00e0m V\u1ee3 Anh",
+        "url": "https://open.spotify.com/album/0DwBYylWqE5BMO4VppoKuv"
+      },
+      "artists": [
+        {
+          "name": "Vang",
+          "url": "https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213567,
+      "name": "Mu\u1ed1n Em L\u00e0m V\u1ee3 Anh",
+      "url": "https://open.spotify.com/track/7k8al8QjxMj3bb3jHzRFLR"
+    },
+    {
+      "album": {
         "name": "Mu\u1ed1n Th\u1ea5y Em C\u01b0\u1eddi",
         "url": "https://open.spotify.com/album/63KwHbke58wYWQSeXSRjsJ"
       },
@@ -6959,7 +6995,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 244000,
       "name": "m\u1ed9t ng\u00e0y m\u00f9a h\u00e8",
       "url": "https://open.spotify.com/track/7Btxzd8xrtFSgMjTifSZpN"
@@ -7051,6 +7087,24 @@
       "duration_ms": 367995,
       "name": "M\u1ed9t Ph\u00fat Ch\u1edd Anh",
       "url": "https://open.spotify.com/track/0q9JgYS1lgCVOB7gaEbaLg"
+    },
+    {
+      "album": {
+        "name": "M\u1edd Phai",
+        "url": "https://open.spotify.com/album/5NDbjgiuywTUC1KwApFLsD"
+      },
+      "artists": [
+        {
+          "name": "1nG",
+          "url": "https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215264,
+      "name": "M\u1edd Phai",
+      "url": "https://open.spotify.com/track/3R88vu0fqoQZnbmQvvpCiN"
     },
     {
       "album": {
@@ -8172,6 +8226,32 @@
     },
     {
       "album": {
+        "name": "N\u1ebfu Anh Mu\u1ed1n \u0110\u1ed5i Vai",
+        "url": "https://open.spotify.com/album/5PQT7LL2JzKlJCvPUfzR5T"
+      },
+      "artists": [
+        {
+          "name": "UMIE",
+          "url": "https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj"
+        },
+        {
+          "name": "SimonC",
+          "url": "https://open.spotify.com/artist/6zOVCw3nQ3Yjs6uzNVF2OQ"
+        },
+        {
+          "name": "H\u1ed5",
+          "url": "https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "N\u1ebfu Anh Mu\u1ed1n \u0110\u1ed5i Vai",
+      "url": "https://open.spotify.com/track/7aVRP688Ccal9JNpWL1ww4"
+    },
+    {
+      "album": {
         "name": "N\u1ebfu Anh N\u00f3i Ra",
         "url": "https://open.spotify.com/album/5YfsMBownyfsaMuNTX77ZB"
       },
@@ -8387,7 +8467,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 164522,
       "name": "OUT OF HOOD",
       "url": "https://open.spotify.com/track/2r10JAoXwARhesYFMEclLI"
@@ -10005,7 +10085,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 196842,
       "name": "the clouds",
       "url": "https://open.spotify.com/track/6rzcgZB4BVuNOnYjYHcCDW"
@@ -10111,6 +10191,24 @@
       "duration_ms": 247848,
       "name": "Th\u00e0nh Ph\u1ed1 M\u01b0a R\u01a1i",
       "url": "https://open.spotify.com/track/3NhzsDOJP7wmEZ7GqJsbqN"
+    },
+    {
+      "album": {
+        "name": "Th\u00e1ng 10",
+        "url": "https://open.spotify.com/album/6vf3ZhjFDvS5iWGVOT64Fl"
+      },
+      "artists": [
+        {
+          "name": "Thanh Flame",
+          "url": "https://open.spotify.com/artist/5BIYaAkUzKMHjpraGoi0uo"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218072,
+      "name": "Th\u00e1ng 10",
+      "url": "https://open.spotify.com/track/2CIxRhsTe26CKRIkb7NIdX"
     },
     {
       "album": {
@@ -10525,6 +10623,24 @@
       "duration_ms": 191645,
       "name": "Trapstar",
       "url": "https://open.spotify.com/track/6RWov91Kfe7fpiIRNdtfIF"
+    },
+    {
+      "album": {
+        "name": "Treasury",
+        "url": "https://open.spotify.com/album/3CgdNsf3i6eGkcreRrOdJ7"
+      },
+      "artists": [
+        {
+          "name": "KHOANORON",
+          "url": "https://open.spotify.com/artist/5SWCxs6dmoJxmZr77ibOhZ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232571,
+      "name": "Treasury",
+      "url": "https://open.spotify.com/track/27sWhYLOt2zBIfPLthVrh2"
     },
     {
       "album": {
@@ -12197,6 +12313,24 @@
       "duration_ms": 289786,
       "name": "\u0110au R\u1ed3i C\u0169ng S\u1ebd Qua",
       "url": "https://open.spotify.com/track/3r48jIujtQqYEM8nxM1B9U"
+    },
+    {
+      "album": {
+        "name": "\u0110eo Balo L\u00ean V\u00e0 \u0110i",
+        "url": "https://open.spotify.com/album/635pkWQUjOyCfxjZ8GXK1e"
+      },
+      "artists": [
+        {
+          "name": "Tronie D",
+          "url": "https://open.spotify.com/artist/0QSJjUmyhAEA57ZLoPiYdG"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160814,
+      "name": "\u0110eo Balo L\u00ean V\u00e0 \u0110i",
+      "url": "https://open.spotify.com/track/2tCiFRGFl1orY7MTUlBtOK"
     },
     {
       "album": {

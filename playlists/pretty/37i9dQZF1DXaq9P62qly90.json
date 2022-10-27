@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 11754,
+  "num_followers": 11753,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMDNmYzhlZTJiNDBhNDRmOTJkZDY4NzY0M2E2M2RhN2Fi",
+  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMGVkYjRmZDdjYzcxN2VlMzYwYmQ2ZmFiNTUxOGVmYThl",
   "tracks": [
     {
       "added_at": "2020-11-25 03:15:55",
@@ -235,18 +235,18 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Take Your Power Back",
-        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
+        "name": "The Education of the Individual Soul",
+        "url": "https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot"
       },
       "artists": [
         {
-          "name": "Nahko And Medicine For The People",
-          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
         }
       ],
-      "duration_ms": 236064,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/4sqyxt6b47PF0mKE7OvLxH"
+      "duration_ms": 259746,
+      "name": "10 Laws",
+      "url": "https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -271,18 +271,18 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "The Education of the Individual Soul",
-        "url": "https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot"
+        "name": "Take Your Power Back",
+        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
       },
       "artists": [
         {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+          "name": "Nahko And Medicine For The People",
+          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
         }
       ],
-      "duration_ms": 259746,
-      "name": "10 Laws",
-      "url": "https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm"
+      "duration_ms": 236064,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/4sqyxt6b47PF0mKE7OvLxH"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -319,22 +319,6 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "HOKA",
-        "url": "https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T"
-      },
-      "artists": [
-        {
-          "name": "Nahko And Medicine For The People",
-          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
-        }
-      ],
-      "duration_ms": 321388,
-      "name": "Tus Pies (Your Feet)",
-      "url": "https://open.spotify.com/track/1K8fvoDctaQ9unJB40F5Qj"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
         "name": "The Cornerstone",
         "url": "https://open.spotify.com/album/27QcGr8iNyMvM2JvARlX47"
       },
@@ -367,6 +351,38 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
+        "name": "Location 13 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "duration_ms": 255191,
+      "name": "Letter to Lady J",
+      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
+        "name": "HOKA",
+        "url": "https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T"
+      },
+      "artists": [
+        {
+          "name": "Nahko And Medicine For The People",
+          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+        }
+      ],
+      "duration_ms": 321388,
+      "name": "Tus Pies (Your Feet)",
+      "url": "https://open.spotify.com/track/1K8fvoDctaQ9unJB40F5Qj"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
         "name": "Wandering Soul",
         "url": "https://open.spotify.com/album/60xPMD97KJfh5x6KBbHYs9"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 259133,
       "name": "Good Vibration (feat. Trevor Hall)",
       "url": "https://open.spotify.com/track/01N1T689bhEHqXWs3ZMZcO"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
-        "name": "Location 13 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
-      },
-      "artists": [
-        {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
-        }
-      ],
-      "duration_ms": 255191,
-      "name": "Letter to Lady J",
-      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
     },
     {
       "added_at": "2020-11-25 03:15:55",

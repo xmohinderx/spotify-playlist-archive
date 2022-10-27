@@ -4,7 +4,7 @@
 
 > JAWNY makes anti pop.
 
-1,157 songs - 2 day 8 hr 8 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,158 songs - 2 day 8 hr 11 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [bastard](https://open.spotify.com/track/22MVIVqYMJbhA5OHRNRzdS) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [bastard](https://open.spotify.com/album/2jRWZxXbVHdP0JTBQgIzSV) | 2:03 | 2021-08-17 | 2021-09-09 |
 | [batman](https://open.spotify.com/track/3AqM4BZgbOgNIrGQslY2fa) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [batman](https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN) | 2:07 | 2021-05-29 | 2022-02-12 |
 | [Battery](https://open.spotify.com/track/3TZD1tcwJWCu5Zitgx362G) | [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Van Goghs Left Ear](https://open.spotify.com/album/1f92L2RYQBvolOuzzpQYbP) | 1:06 | 2022-05-09 | 2022-05-14 |
+| [BBC](https://open.spotify.com/track/7zgsDaX02rdtq3zpdVqrpK) | [jaboukie](https://open.spotify.com/artist/5LDOwn10Stw9m0QVi2dgNo) | [BBC](https://open.spotify.com/album/70gNu3PKq0dtMlfyytf44t) | 2:55 | 2022-10-26 |  |
 | [Beam](https://open.spotify.com/track/1IIw5oVR1xE4bzdl4JgGsc) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [It's Just Music](https://open.spotify.com/album/4fgQwJZr6I6TOLmKhffHlx) | 1:43 | 2021-02-20 | 2021-05-03 |
 | [Beam, Pt\. 2 \(feat\. Jackboy\)](https://open.spotify.com/track/5rX78TuBsOrCiYFkcwmNbw) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Beam, Pt\. 2 \(feat\. Jackboy\)](https://open.spotify.com/album/7xsy6ClgFJG4SJZI7LXxGA) | 2:00 | 2021-05-03 | 2021-10-14 |
 | [Beautiful](https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Beautiful](https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU) | 2:46 | 2022-09-10 |  |
@@ -936,7 +937,7 @@
 | [Speedracer](https://open.spotify.com/track/1553AbLOOvznLdnApxX2dO) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Speedracer](https://open.spotify.com/album/6DfhecdmHLG4t9vcBYXroX) | 3:15 | 2022-07-01 | 2022-08-06 |
 | [Spoiled little brat](https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 3:19 | 2022-05-09 | 2022-05-19 |
 | [SPORTS CAR](https://open.spotify.com/track/6WYZ4NWTQzzT5fLnL88yJ0) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [SPORTS CAR](https://open.spotify.com/album/3qsYtGNKLYJrBslFEQVOgO) | 3:06 | 2022-01-21 | 2022-02-12 |
-| [spotlight](https://open.spotify.com/track/6tq52AOqtrdflzU4SA4SHc) | [mioskii](https://open.spotify.com/artist/5ATiuD7BObN5uz3nIeepr4) | [spotlight](https://open.spotify.com/album/3fYonFGxkLex2Y1Aif6YLP) | 2:58 | 2022-10-04 |  |
+| [spotlight](https://open.spotify.com/track/6tq52AOqtrdflzU4SA4SHc) | [mioskii](https://open.spotify.com/artist/5ATiuD7BObN5uz3nIeepr4) | [spotlight](https://open.spotify.com/album/3fYonFGxkLex2Y1Aif6YLP) | 2:58 | 2022-10-04 | 2022-10-27 |
 | [spy?](https://open.spotify.com/track/0QsZ3W21xNvnUnUMbiAY4z) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:33 | 2021-06-11 | 2021-08-04 |
 | [Ssx](https://open.spotify.com/track/1eCImHqurFCsE6du2nF6jh) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Vol\. 1](https://open.spotify.com/album/5HanfTZtL71gW1KGgg1HMA) | 3:36 | 2022-05-09 | 2022-08-06 |
 | [Starface\*](https://open.spotify.com/track/4MiX7u7J52zRIvyaqDVsmJ) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Starface\*](https://open.spotify.com/album/3DrMygq5GYmIo7jiTbpbdQ) | 2:56 | 2020-10-13\* | 2021-02-27 |

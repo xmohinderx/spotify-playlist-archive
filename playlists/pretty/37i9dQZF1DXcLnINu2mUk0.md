@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,579 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,627 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 48 | [Toque](https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Toque](https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC) | 3:16 |
 | 49 | [Chilla Chilla](https://open.spotify.com/track/3Ujr8v4IABZpysC8WBhuPu) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF) | [Chilla Chilla](https://open.spotify.com/album/3Cn1Go38UQg7fIpzzC0GeW) | 2:38 |
 | 50 | [Calor](https://open.spotify.com/track/0hJQmqriIYh2lL8nqOPQLq) | [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Calor](https://open.spotify.com/album/7bSGqZgFrAhPYWeZsVUjVk) | 3:41 |
-| 51 | [Cashh](https://open.spotify.com/track/4dQPcRiNXw6idTGWW4ngZF) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O) | [Cashh](https://open.spotify.com/album/4Mi08knLklj8pKdeFfvhF5) | 4:28 |
-| 52 | [Novo Demais](https://open.spotify.com/track/5oSmue3lpl1Ur8RkMFRj32) | [TRIQ](https://open.spotify.com/artist/3Xk6FbumarAUp9dsJ3AoLd), [eaux](https://open.spotify.com/artist/0AtdC5zNnXJq428tUMW7uh) | [Novo Demais](https://open.spotify.com/album/66py2LrNUY7Q6zXrEo8vjH) | 3:08 |
+| 51 | [Novo Demais](https://open.spotify.com/track/5oSmue3lpl1Ur8RkMFRj32) | [TRIQ](https://open.spotify.com/artist/3Xk6FbumarAUp9dsJ3AoLd), [eaux](https://open.spotify.com/artist/0AtdC5zNnXJq428tUMW7uh) | [Novo Demais](https://open.spotify.com/album/66py2LrNUY7Q6zXrEo8vjH) | 3:08 |
+| 52 | [Cashh](https://open.spotify.com/track/4dQPcRiNXw6idTGWW4ngZF) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O) | [Cashh](https://open.spotify.com/album/4Mi08knLklj8pKdeFfvhF5) | 4:28 |
 | 53 | [Going Now](https://open.spotify.com/track/5UV8AqgYXjTn1T9RFxXsm7) | [Fenzil Ferreira](https://open.spotify.com/artist/5CJIUlZZ22FVlDmaRzozSJ) | [Drama](https://open.spotify.com/album/6qInMSJMIQMkUNZkICKUDd) | 3:20 |
 | 54 | [Losing](https://open.spotify.com/track/7w2yYropy6oWtdrrQZX6EZ) | [SLR](https://open.spotify.com/artist/76VHpa0HS1HbibsmCYo4oD) | [Losing](https://open.spotify.com/album/7KoeAFFIVeRL1VDajEgLjI) | 3:56 |
 | 55 | [Sentimento Claro](https://open.spotify.com/track/2fFMcXmF5eTXRymJe4CM0n) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Sentimento Claro](https://open.spotify.com/album/41xlHVxJaHyXSUBD6Vl9vw) | 3:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 59 | [Slow Motion](https://open.spotify.com/track/21SPIQSg34YDZTJNIybhBE) | [Camy Breezy](https://open.spotify.com/artist/1j8AO6p658k4Zv7q7WMWZZ) | [Slow Motion](https://open.spotify.com/album/3wMiRqzoARY1TtiPOvAnAg) | 3:06 |
 | 60 | [Já Não Dá](https://open.spotify.com/track/0iWK3yXRNehoxd3mGzOf4x) | [Nello Fellirio](https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4), [Johnny B.O.B](https://open.spotify.com/artist/2eSh5msnLJbgXewXSm9XvJ), [Penelas Sidney](https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K) | [Já Não Dá](https://open.spotify.com/album/0AxsOCsnd0mdbqV8XExiTS) | 3:43 |
 
-Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMDM5ZDgyNWZmYTllZTExNTU3MDdkMjFiYWIwZDFhYWRk`
+Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMGI1MjQ1OGNiZDUzZDUzNGQ3MWVjNDk3M2FhNDcwZTky`

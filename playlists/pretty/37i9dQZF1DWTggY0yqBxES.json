@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: Kenny Mason",
-  "num_followers": 893032,
+  "num_followers": 893139,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDNhMzU3ZWI5MWY1ZGZhYjg1ODEyYWUzMmI0M2MwODI5",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGRkNjIzN2FjNjFkZmVlMGFjMjc4MDBjMzMxZjM2ZWI0",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -63,6 +63,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Persuasive",
+        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 216707,
+      "name": "Persuasive",
+      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Willing To Trust",
         "url": "https://open.spotify.com/album/2JjCiFis8TPrbTGCoK7T61"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 282053,
       "name": "Willing To Trust (with Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Persuasive",
-        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 216707,
-      "name": "Persuasive",
-      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Moonshooter",
+        "url": "https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "Moonshooter",
+      "url": "https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Ce Soir",
         "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 162222,
       "name": "Ce Soir",
       "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Moonshooter",
-        "url": "https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "Moonshooter",
-      "url": "https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "RUFFS",
-        "url": "https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh"
-      },
-      "artists": [
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "MINUTE FOREVER",
-      "url": "https://open.spotify.com/track/2TTowxYr4R1mapPbdZban7"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "MEMO",
         "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 268151,
       "name": "SOHO HOUSE (feat. Hello O'shay)",
       "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "RUFFS",
+        "url": "https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "MINUTE FOREVER",
+      "url": "https://open.spotify.com/track/2TTowxYr4R1mapPbdZban7"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Dear Life",
-        "url": "https://open.spotify.com/album/6DoMHHNrKIdY1716LUmdfZ"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Dear Life",
-      "url": "https://open.spotify.com/track/5A9ctbShMyrhJqLqW0G1lB"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Hollandaise",
         "url": "https://open.spotify.com/album/64HygXbyafPahxN1avR56P"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 178677,
       "name": "Hollandaise",
       "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Dear Life",
+        "url": "https://open.spotify.com/album/6DoMHHNrKIdY1716LUmdfZ"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Dear Life",
+      "url": "https://open.spotify.com/track/5A9ctbShMyrhJqLqW0G1lB"
     },
     {
       "added_at": "2022-10-21 04:00:00",

@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-529 songs - 1 day 6 hr 21 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+531 songs - 1 day 6 hr 28 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [can't say](https://open.spotify.com/track/5zU11rGz9E06aZRUO8E3rm) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [堂村 璃羽](https://open.spotify.com/artist/6E4FILsUkNyAGEImXCN1zz), [301](https://open.spotify.com/artist/2NYKFt0lji6afg6POKWPrr), [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi) | [can't say](https://open.spotify.com/album/64CZVcDI0nZSz0HkpRhlcH) | 3:36 | 2022-06-16 | 2022-07-16 |
 | [CapSule](https://open.spotify.com/track/4M7mmhZvhN1wBypbu0Z0zY) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [CapSule](https://open.spotify.com/album/6GsX8yyTYKzLxYoKoSdydQ) | 2:54 | 2022-07-28 | 2022-09-09 |
 | [CARNIVAL](https://open.spotify.com/track/4TVk57e2MiaT2Ni3rW0XJA) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [CARNIVAL](https://open.spotify.com/album/49bgoQUh4RgDbFD6PBKjxO) | 3:35 | 2022-06-23 | 2022-06-29 |
-| [celeste feat\. 春野](https://open.spotify.com/track/1xD7JuI2jpGFFZYMtcmuC9) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [celeste feat\. 春野](https://open.spotify.com/album/4bGZJtVoi4Rk5gQYHmDgct) | 2:47 | 2022-10-25 |  |
+| [celeste feat\. Haruno](https://open.spotify.com/track/1sqmG9MPr7oBAPPVSku4LQ) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [celeste feat\. Haruno](https://open.spotify.com/album/0vZK7EGOEaKHWScSOnKJ5O) | 2:47 | 2022-10-25 |  |
+| [celeste feat\. 春野](https://open.spotify.com/track/1xD7JuI2jpGFFZYMtcmuC9) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [celeste feat\. 春野](https://open.spotify.com/album/4bGZJtVoi4Rk5gQYHmDgct) | 2:47 | 2022-10-25 | 2022-10-27 |
 | [Character](https://open.spotify.com/track/0eurhU5ak9lXwhOFgmo42M) | [ACAね](https://open.spotify.com/artist/7tCgZB3cHou13zCzimxILs), [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [Character](https://open.spotify.com/album/2V2kyrZQe0YXQ1LCr8zNDa) | 4:44 | 2022-06-23 | 2022-07-13 |
 | [Chewinggum](https://open.spotify.com/track/0MAV5mwsbDdiAKetZciXta) | [cyberMINK](https://open.spotify.com/artist/6HIQj3zppWYAxrSCKt5hPk), [響木アオ](https://open.spotify.com/artist/7JbBmfOwEH5JnrcLI5pXlg) | [Chewinggum](https://open.spotify.com/album/3MeAFXpDUwGd0OoDGDCpaM) | 3:49 | 2022-07-14 | 2022-07-20 |
 | [Contrail](https://open.spotify.com/track/6Jffw7lJh3tD8SV6rRo1D3) | [H△G](https://open.spotify.com/artist/7GsiDAKduqD0ezEeOWeldb) | [Contrail](https://open.spotify.com/album/5FULlgWKDYs668WaYaUq4l) | 2:55 | 2022-06-09 | 2022-06-14 |
@@ -126,6 +127,7 @@
 | [sakura breeze](https://open.spotify.com/track/0wA4jgSYocJbr3VMGhgFI7) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8), [sekai](https://open.spotify.com/artist/7fnGQtfTGswQS3T0tMZ0xZ) | [sakura breeze](https://open.spotify.com/album/5wG74dZ07tw3YFQu3BdpKp) | 3:33 | 2022-06-09 | 2022-07-15 |
 | [Sansan to Furitsumoru Yoru ha](https://open.spotify.com/track/79y2tDJEkshvARtHIWlv5g) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [ONE MORE SHABON](https://open.spotify.com/album/1Xeegi7QJ8HdQWnow6IO2U) | 3:12 | 2022-06-21 | 2022-07-19 |
 | [See You in My Dream](https://open.spotify.com/track/5teehiaGmTZ9hE5cvFLGBV) | [Nyarons](https://open.spotify.com/artist/4L5K9BR3qaZQw8QAoMBUta) | [See You in My Dream](https://open.spotify.com/album/38x51ZTP1Rhlm2jNSPi4c4) | 4:26 | 2022-07-12 | 2022-07-14 |
+| [SeishunKippu](https://open.spotify.com/track/0gb9k8uR9jC9Jtk2OdapKs) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [SeishunKippu](https://open.spotify.com/album/4bHwSxmTANprSv6iGwNezt) | 4:04 | 2022-10-25 |  |
 | [Seishunnofuriwoshita](https://open.spotify.com/track/3xxI0EKXVS1hDXlaSBA81L) | [Kami\-sama, I have noticed](https://open.spotify.com/artist/19hnen14uXCUMoBAnTmrCp) | [Seishunnofuriwoshita](https://open.spotify.com/album/6D246le5cvlDziPoiEBQCv) | 3:20 | 2022-06-21 | 2022-07-20 |
 | [Seventeen](https://open.spotify.com/track/1zUv5N8VNYUoArDdlmsqIm) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Seventeen](https://open.spotify.com/album/5OmgNJdapnMoouxa46n9Pc) | 2:45 | 2022-06-23 | 2022-07-19 |
 | [Shasai](https://open.spotify.com/track/5Wpc0b0sUVtQ6m2u2fW5ZY) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [Shasai](https://open.spotify.com/album/1zz1GyAxNbd8uG9w2v1SEq) | 3:07 | 2022-09-01 | 2022-09-07 |
@@ -528,7 +530,7 @@
 | [雨模様](https://open.spotify.com/track/6QXXNAsEEMHodRbWURBZ2C) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [雨模様](https://open.spotify.com/album/1HiYotEPD69v7gjl73sY73) | 2:42 | 2022-09-27 | 2022-09-29 |
 | [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 | 2022-06-09 | 2022-07-09 |
 | [雲を恋う](https://open.spotify.com/track/28mPWAyHiXIBnovrBeWwot) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [雲を恋う/落花流水](https://open.spotify.com/album/3HCB9aNa4oUuAm0pvmZdUK) | 3:33 | 2022-10-06 |  |
-| [青春切符](https://open.spotify.com/track/5lZbYGHSJPnnvMDjyqLnms) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [青春切符](https://open.spotify.com/album/6JjbcI0T2ATnzl0sLF6I6C) | 4:04 | 2022-10-25 |  |
+| [青春切符](https://open.spotify.com/track/5lZbYGHSJPnnvMDjyqLnms) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [青春切符](https://open.spotify.com/album/6JjbcI0T2ATnzl0sLF6I6C) | 4:04 | 2022-10-25 | 2022-10-27 |
 | [非可逆転PLAN](https://open.spotify.com/track/7fhn1t3Q8fkCncsY7aSNiT) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [非可逆転PLAN](https://open.spotify.com/album/1JVhSWUqZGPfHkTEIayeRP) | 2:17 | 2022-06-16 | 2022-06-23 |
 | [頭を撃つ](https://open.spotify.com/track/6UqgG3oq14F9qnMVpeysOS) | [WATER KIN](https://open.spotify.com/artist/0hbPjU0grzdufGU0VDy0Ev) | [頭を撃つ](https://open.spotify.com/album/1QrnAdOaQtW4LhJH9BrxxR) | 3:38 | 2022-06-16 | 2022-06-22 |
 | [風、花](https://open.spotify.com/track/2LyD72XzzJMSKqGrddyVr4) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [風、花](https://open.spotify.com/album/0uZBgvAuuoejT0ZcCzFXaj) | 3:16 | 2022-06-23 | 2022-07-25 |

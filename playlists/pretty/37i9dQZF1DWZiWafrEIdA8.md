@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,200 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,210 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 9 | [Day Day \(Prod\. By GRAY\)](https://open.spotify.com/track/3i6vV5Z2P9uMlxf8wdm2WK) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Show Me the Money 5 Episode 4](https://open.spotify.com/album/4iSAd5Tg8jNhoRLnZ0Tb0X) | 3:29 |
 | 10 | [Time limit \(Feat\. Leellamarz, Loco\)](https://open.spotify.com/track/1jQg7ImfH2OVpp9lu9mOj0) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Curtain Call](https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx) | 3:49 |
 | 11 | [Bar Code \(Prod\. GroovyRoom\)](https://open.spotify.com/track/0el9gNyGpY6xGwOkPwKsPR) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB) | [School Rapper 2 Team\-Battle Part 3](https://open.spotify.com/album/5gzRcFZt1zI7Vpxq3N14vL) | 3:42 |
-| 12 | [Freedom \(Feat\. DUT2\) \(Prod\. Way Ched\)](https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Freedom](https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8) | 3:59 |
-| 13 | [wish](https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:41 |
+| 12 | [wish](https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:41 |
+| 13 | [Freedom \(Feat\. DUT2\) \(Prod\. Way Ched\)](https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Freedom](https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8) | 3:59 |
 | 14 | [Re\-Birth](https://open.spotify.com/track/48KTWbSSxOh07mbYtitG2x) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:23 |
 | 15 | [Tomorrow \(Feat\. GIRIBOY, BIG Naughty\)](https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 4:36 |
 | 16 | [Comfortable](https://open.spotify.com/track/2lEzKOtt7q64jQZ5meZsY8) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [ONE](https://open.spotify.com/artist/36Hd8M3GV2FLpHUEDH6bCz) | [Show Me the Money 5 Episode 2](https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [sleep tight](https://open.spotify.com/track/3W2PPFdSBQeK96qQwKBnhH) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:49 |
 | 50 | [Sky](https://open.spotify.com/track/4cUIXgusfY382xu0JCIXrl) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Sky](https://open.spotify.com/album/1V3slxpwvt8VioYBmnzEdT) | 3:39 |
 
-Snapshot ID: `MTY2NTExNzM3MiwwMDAwMDAwMDEwMDJiYTc2MzYyYmZhNmJiOWJmZmE1YzVkMDYxYzhj`
+Snapshot ID: `MTY2NTExNzM3MiwwMDAwMDAwMGMxMzg1ODRiNGQ2ZjcwZTRiMTI3OGQ2NWJlY2FiYmU5`

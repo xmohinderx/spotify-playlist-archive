@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,203 likes - 51 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,318 likes - 51 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GHAZALI](https://open.spotify.com/track/1hZrz8xkp0QEJNNmdKYNVP) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/7Abvw9BQxOgFT6FTld7zoC) | 5:04 |
+| 1 | [GHAZALI](https://open.spotify.com/track/2LSRM5FkmDXXWQaVQ5SaLM) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/28hdmFb32V93d3Nt4gs6rP) | 5:04 |
 | 2 | [Zahri Win Wana Win](https://open.spotify.com/track/7JaAkijrRoUPIeJaLJbLoq) | [Abdou Goumbita](https://open.spotify.com/artist/2c5isiSrNIixIIqPQABwo9) | [Zahri Win Wana Win](https://open.spotify.com/album/7jKeS8lavzWlG7r9DPIGud) | 3:04 |
 | 3 | [La Faute Machi Fik](https://open.spotify.com/track/0ojwGiICDOIGEU9BJEpRFW) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2), [Cheba Dalila](https://open.spotify.com/artist/5CZ5sGdn0X47HhndSYKqdz) | [La Faute Machi Fik](https://open.spotify.com/album/0jHuBbd36BrkF1Ct1D63zJ) | 4:22 |
 | 4 | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/track/4hQgTdJF1Z1PdDrhjYBiUC) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/album/2FN9F2iscX3gYpuqvsxAdD) | 5:25 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 50 | [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 |
 | 51 | [Mimti Khali Bab Mahloul](https://open.spotify.com/track/6vzwnkS56YV0JbqQuZFnXj) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Mimti Khali Bab Mahloul](https://open.spotify.com/album/7BMI1KVKuODfFt4wnNhuuD) | 4:32 |
 
-Snapshot ID: `MTY2NjY5ODc1NiwwMDAwMDAwMDNlYTRjYWMyYTk5YmJkMWQ5ZWY5MDE1ZTA3MTVjMTAz`
+Snapshot ID: `MTY2NjY5ODc1NiwwMDAwMDAwMDczYTMxMzM1Y2I0ZTI1MTBiMjJjMjM1YjYzYTMwNGY5`

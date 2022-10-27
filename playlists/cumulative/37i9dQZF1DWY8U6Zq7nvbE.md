@@ -4,10 +4,11 @@
 
 > The best from the world of acoustic songs right now.
 
-225 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/4k2X8AujYuVA9s50gTmPB1)
+228 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/4k2X8AujYuVA9s50gTmPB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [...Baby One More Time \- Acoustic Version](https://open.spotify.com/track/2ta83B4eCsS7PFuBpahkTV) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [...Baby One More Time](https://open.spotify.com/album/0X8CWMaapiIEowia7TUbBM) | 3:40 | 2022-10-26 |  |
 | [Ain't That Why \- Acoustic](https://open.spotify.com/track/1vHAmQNceQbCjx8mqh0gLg) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Wave EP \(Acoustic, Pt\. 2\)](https://open.spotify.com/album/1jN9d28anuaMCN1zwv1NPw) | 2:47 | 2022-08-31 | 2022-10-14 |
 | [Ain't That Why \- Acoustic](https://open.spotify.com/track/1wIf4GoPEDn4BIHlTmyrxi) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Ain't That Why \(Acoustic\)](https://open.spotify.com/album/4urkIKItqfoz5YKTsdszCV) | 2:47 | 2021-03-11 | 2022-07-23 |
 | [Ain't That Why \- Acoustic](https://open.spotify.com/track/6BLpUsQeShohqV1ubHzWb3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Wave EP \(Acoustic, Pt\. 2\)](https://open.spotify.com/album/7yiKHPRucPsuBPJr6Sh20Q) | 2:47 | 2022-09-30 |  |
@@ -162,7 +163,8 @@
 | [OTW \- Acoustic Version](https://open.spotify.com/track/3kK2BuV20t1y7zMLSxDy6h) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [OTW \(Acoustic Version\)](https://open.spotify.com/album/6l6dNBkA3JjaUHbfQqidei) | 3:21 | 2022-08-31 |  |
 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 | 2022-08-31 |  |
 | [Parachute](https://open.spotify.com/track/0LYQVYp8WakLB6RSyOXNBM) | [Vide](https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539) | [Parachute](https://open.spotify.com/album/7iXzUCCibpn6n3ujGDg7XK) | 2:04 | 2021-03-11 |  |
-| [PILLOWTALK \- the living room session](https://open.spotify.com/track/3Tluzy27Qdbe8aRK2OCQf3) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [PILLOWTALK \(the living room session\)](https://open.spotify.com/album/7bWxyXxuT9LVzVkgDEWm5V) | 2:25 | 2022-10-14 |  |
+| [Pillow Talk \(Acoustic\)](https://open.spotify.com/track/3u1RjvWGVcVWPUMMbhDaA7) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Pillow Talk \(Acoustic\)](https://open.spotify.com/album/3zmJKO6OA2iy1J2ml9nvGz) | 3:30 | 2022-10-26 |  |
+| [PILLOWTALK \- the living room session](https://open.spotify.com/track/3Tluzy27Qdbe8aRK2OCQf3) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [PILLOWTALK \(the living room session\)](https://open.spotify.com/album/7bWxyXxuT9LVzVkgDEWm5V) | 2:25 | 2022-10-14 | 2022-10-27 |
 | [Pulling Away \(acoustic\)](https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love \- Acoustic](https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR) | 3:28 | 2021-03-11 |  |
 | [Ransom](https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Ransom](https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb) | 2:46 | 2021-03-11 |  |
 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 | 2021-03-11 |  |
@@ -183,7 +185,8 @@
 | [September Weather](https://open.spotify.com/track/12MmyqfCmqmqOAJaBL35BF) | [Rasmus Nelausen](https://open.spotify.com/artist/1mrACLxjCoANoKSwcEWqNA) | [September Weather](https://open.spotify.com/album/6hiPLXEGXCLzHH48Mczk4c) | 4:21 | 2021-03-11 |  |
 | [September Weather](https://open.spotify.com/track/2KZ3DD0we4RMEhJrWuXun7) | [Rasmus Nelausen](https://open.spotify.com/artist/1mrACLxjCoANoKSwcEWqNA) | [September Weather](https://open.spotify.com/album/7IDIIx7H9eydffK9b6PMcy) | 4:21 | 2021-03-11 | 2022-07-29 |
 | [Señorita \- Acoustic](https://open.spotify.com/track/3kSYLN853QF9qDkmmFy66C) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Covers with Friends](https://open.spotify.com/album/6XBy6IeZBCHz5D1Frv6jGY) | 3:19 | 2021-03-11 | 2022-09-01 |
-| [she's all i wanna be \- Acoustic](https://open.spotify.com/track/3iJVCCW5equhyyZcxrMABz) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be \(Acoustic\)](https://open.spotify.com/album/249BQ5FeDE1TqBLFlUt9uZ) | 3:18 | 2022-08-31 |  |
+| [she's all i wanna be](https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [she's all i wanna be](https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul) | 3:17 | 2022-10-26 |  |
+| [she's all i wanna be \- Acoustic](https://open.spotify.com/track/3iJVCCW5equhyyZcxrMABz) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be \(Acoustic\)](https://open.spotify.com/album/249BQ5FeDE1TqBLFlUt9uZ) | 3:18 | 2022-08-31 | 2022-10-27 |
 | [Simple Days](https://open.spotify.com/track/18hzcFq9jqdTlI3D8WmOdy) | [Jack & Tim](https://open.spotify.com/artist/1fgrPRvmKUdRM6nwm3skRB) | [Simple Days](https://open.spotify.com/album/4zWB8j5CBMeEbmkFFY9c8W) | 3:12 | 2021-03-11 |  |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2022-10-14 |  |
 | [Somebody Loved](https://open.spotify.com/track/1wflx5YklLYToaIbXkrZSq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Somebody Loved](https://open.spotify.com/album/4T7n2myY9sAcGSJD2v0IAf) | 2:33 | 2021-03-11 |  |

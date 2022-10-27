@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-152 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/0JIQYIs8BcYEYxPxINEZdb)
+153 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/0JIQYIs8BcYEYxPxINEZdb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [010](https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 3:02 | 2022-07-22 |  |
 | [010](https://open.spotify.com/track/6IIgIXUwRTY5wKfLYbJXqO) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Show Me the Money 8 Final](https://open.spotify.com/album/1QS1GA2jf4dkhvS7YXFAlT) | 3:02 | 2022-05-11 | 2022-07-29 |
 | [2018 \(feat\. YunB\)](https://open.spotify.com/track/64pPakl5rfhazEQ7DZiOw8) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [YunB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG) | [YEAREND](https://open.spotify.com/album/2hvPqD3IqDzDgqdal3pr6F) | 3:02 | 2022-06-03 | 2022-07-14 |
+| [20180222\-20180930](https://open.spotify.com/track/2nrWw9mH2R5IiNFRtcAkIK) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf) | 2:43 | 2022-07-22 |  |
 | [20180222\-20180930](https://open.spotify.com/track/5918ji3b3679cnAjHFo9sU) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/6LB9gCiUqrrHOZEoYZ730k) | 2:43 | 2022-05-11 | 2022-07-28 |
 | [3 GUINEAS](https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [ZOO](https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa) | 3:54 | 2022-05-11 |  |
 | [3355 \(feat\. Ugly Duck\)](https://open.spotify.com/track/1BtUFAuADaGleNA3ojpcUc) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [YEAREND](https://open.spotify.com/album/2hvPqD3IqDzDgqdal3pr6F) | 3:09 | 2022-07-22 | 2022-07-26 |
@@ -96,7 +97,7 @@
 | [Meantime \(Feat\. Fana, DJ 2BAE\)](https://open.spotify.com/track/2rdNa1AvbBQeX76hd2ho9o) | [ChaMane](https://open.spotify.com/artist/2jyURAEr7r2UfWMpFQDOQd), [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT), [DJ 2BAE](https://open.spotify.com/artist/56HgJJsZOfLWZpf4pIbNVO) | [26](https://open.spotify.com/album/4S72a69hZrCFmoPzclt3QR) | 2:31 | 2022-05-11 | 2022-07-27 |
 | [merlot](https://open.spotify.com/track/1YXYleLFyTRQMMitfL2mdL) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 3:05 | 2022-07-22 |  |
 | [merlot](https://open.spotify.com/track/41f3dRuhkSuXHSA3MuVjLh) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u part\. 1](https://open.spotify.com/album/1uh4mxq9YJpKUAmX7eoTkB) | 3:05 | 2022-05-11 | 2022-07-28 |
-| [Message In A Bottle](https://open.spotify.com/track/3Ypwf52y6piITO7AFTdqFc) | [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R) | [Message In A Bottle](https://open.spotify.com/album/26rsyTRa4oAqcqBgJTKE3R) | 3:00 | 2022-05-11 |  |
+| [Message In A Bottle](https://open.spotify.com/track/3Ypwf52y6piITO7AFTdqFc) | [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R) | [Message In A Bottle](https://open.spotify.com/album/26rsyTRa4oAqcqBgJTKE3R) | 3:00 | 2022-05-11 | 2022-10-27 |
 | [Money Serenade](https://open.spotify.com/track/6ihTPZHEJk83jNYr58dQL3) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [GOOD GIRL \(Episode 3\)](https://open.spotify.com/album/2bKpgH4MLl6pRfl6ZzuOkj) | 3:40 | 2022-05-11 | 2022-07-29 |
 | [Money Serenade \(Feat\. Wonstein & Kim Seung Min\)](https://open.spotify.com/track/1rZAKzPkA1VfkakGSszBg7) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [GOOD GIRL Episode 3](https://open.spotify.com/album/2iY5eEAH23aCB9JGCNZO5k) | 3:40 | 2022-07-22 |  |
 | [MOONSTRUCK](https://open.spotify.com/track/3X59f3kPYiJ3odC71ArJb7) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY), [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [WALKIN', Vol.2](https://open.spotify.com/album/2CPepitv0LvH8IqvIAu5Uc) | 3:50 | 2022-07-22 |  |

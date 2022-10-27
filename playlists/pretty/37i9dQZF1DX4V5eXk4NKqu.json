@@ -1,12 +1,12 @@
 {
   "description": "Best Latin Indie tracks right now. Cover: Kevin Kaarl",
-  "num_followers": 138163,
+  "num_followers": 138183,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MjI5MSwwMDAwMDAwMDljMGZkMGQ5ZTUzNzM5YjhiYzU3NDM0MjdmZmZhNzI5",
+  "snapshot_id": "MTY2MjQ4MjI5MSwwMDAwMDAwMDIxODNlMTgzMzMyYjk5NzAyZTU4NmU4Y2MzNTQ3YTM0",
   "tracks": [
     {
       "added_at": "2022-09-06 16:38:11",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
+        "name": "Oscuridad",
+        "url": "https://open.spotify.com/album/6LEhYzZ4z4xjIBJeDPIqll"
+      },
+      "artists": [
+        {
+          "name": "Jasper",
+          "url": "https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Oscuridad",
+      "url": "https://open.spotify.com/track/46ii3SsKP0k6qZYo0mYKi6"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
         "name": "NTE",
         "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 132545,
       "name": "Dead Leaves",
       "url": "https://open.spotify.com/track/6GoHJOvRcdEPmcjgylYg1b"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
-        "name": "Oscuridad",
-        "url": "https://open.spotify.com/album/6LEhYzZ4z4xjIBJeDPIqll"
-      },
-      "artists": [
-        {
-          "name": "Jasper",
-          "url": "https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "Oscuridad",
-      "url": "https://open.spotify.com/track/46ii3SsKP0k6qZYo0mYKi6"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Month One",
-        "url": "https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE"
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
       },
       "artists": [
         {
-          "name": "The Acapulco Express",
-          "url": "https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N"
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
         }
       ],
-      "duration_ms": 310090,
-      "name": "Week 4",
-      "url": "https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v"
+      "duration_ms": 251520,
+      "name": "Te Espero Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3mreuRI6pOkAXMm0vaBSzx"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1203,18 +1203,34 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Gardenia",
-        "url": "https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX"
+        "name": "Month One",
+        "url": "https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE"
       },
       "artists": [
         {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+          "name": "The Acapulco Express",
+          "url": "https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N"
         }
       ],
-      "duration_ms": 251520,
-      "name": "Te Espero Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3mreuRI6pOkAXMm0vaBSzx"
+      "duration_ms": 310090,
+      "name": "Week 4",
+      "url": "https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/25UGhYhmmE81CnCdl2UL3v"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 263080,
+      "name": "You Were Bored",
+      "url": "https://open.spotify.com/track/4Qghywsxi70o4Kk5D2hoyL"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1235,22 +1251,6 @@
       "duration_ms": 137961,
       "name": "Hear Me Out - Stripped",
       "url": "https://open.spotify.com/track/0EX3OCeGdjwz2P017sOEIk"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
-        "name": "Everlasting",
-        "url": "https://open.spotify.com/album/25UGhYhmmE81CnCdl2UL3v"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 263080,
-      "name": "You Were Bored",
-      "url": "https://open.spotify.com/track/4Qghywsxi70o4Kk5D2hoyL"
     },
     {
       "added_at": "2022-09-06 16:38:11",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-09-06 16:38:11",
       "album": {
-        "name": "Tormenta",
-        "url": "https://open.spotify.com/album/35c6RFSwT57u84wDbLX4c0"
-      },
-      "artists": [
-        {
-          "name": "Hunters of the Alps",
-          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
-        }
-      ],
-      "duration_ms": 233750,
-      "name": "Tormenta",
-      "url": "https://open.spotify.com/track/7mHipoaIXyNYiJXwV5TjQw"
-    },
-    {
-      "added_at": "2022-09-06 16:38:11",
-      "album": {
         "name": "Better Than This",
         "url": "https://open.spotify.com/album/5fvNHqH5OcWu55dUAi03qP"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 164535,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/72QD8GncVMD1DdHOtTjDM5"
+    },
+    {
+      "added_at": "2022-09-06 16:38:11",
+      "album": {
+        "name": "Tormenta",
+        "url": "https://open.spotify.com/album/35c6RFSwT57u84wDbLX4c0"
+      },
+      "artists": [
+        {
+          "name": "Hunters of the Alps",
+          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
+        }
+      ],
+      "duration_ms": 233750,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/7mHipoaIXyNYiJXwV5TjQw"
     },
     {
       "added_at": "2022-09-06 16:38:11",

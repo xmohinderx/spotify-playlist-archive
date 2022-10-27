@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: The Rudeboyz, Maluma, Adam Levine",
-  "num_followers": 56745,
+  "num_followers": 56743,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzQ5Niw3OTdjOGJkYzQ4NjY3NDc3ZGMwMmY4Mjg5ZWM4Y2I1NjY2YTliZmYz",
+  "snapshot_id": "MzUwMSw1Y2M1Njg3NmIyMDZkZTQxOWYzZmVlZjgwNGFjZWE2OGY3OGZiMGFm",
   "tracks": [
     {
       "added_at": "2022-10-20 22:13:44",
@@ -33,6 +33,26 @@
       "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
     },
     {
+      "added_at": "2022-10-26 13:53:41",
+      "album": {
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 208894,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/4yXBfJAPsDZjpjMEp9NyjT"
+    },
+    {
       "added_at": "2022-10-20 00:14:01",
       "album": {
         "name": "Monoton\u00eda",
@@ -51,6 +71,46 @@
       "duration_ms": 158804,
       "name": "Monoton\u00eda",
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
+    },
+    {
+      "added_at": "2022-10-14 04:20:24",
+      "album": {
+        "name": "INTRUSO",
+        "url": "https://open.spotify.com/album/4K5N6FoZm9Oki26KjmLrRw"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 192073,
+      "name": "S\u00e9 Que Est\u00e1s Con \u00c9l",
+      "url": "https://open.spotify.com/track/003A7dXikhqxbT1dWXPuf3"
+    },
+    {
+      "added_at": "2022-10-26 22:45:46",
+      "album": {
+        "name": "INTRUSO",
+        "url": "https://open.spotify.com/album/4K5N6FoZm9Oki26KjmLrRw"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 182948,
+      "name": "Hoy Me Emborracho",
+      "url": "https://open.spotify.com/track/6d8eIIRwnEarPsYEXHJ7a7"
     },
     {
       "added_at": "2022-10-21 04:21:39",
@@ -119,30 +179,6 @@
       "duration_ms": 303626,
       "name": "Viaje",
       "url": "https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw"
-    },
-    {
-      "added_at": "2022-10-14 04:20:24",
-      "album": {
-        "name": "INTRUSO",
-        "url": "https://open.spotify.com/album/4K5N6FoZm9Oki26KjmLrRw"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 192073,
-      "name": "S\u00e9 Que Est\u00e1s Con \u00c9l",
-      "url": "https://open.spotify.com/track/003A7dXikhqxbT1dWXPuf3"
     },
     {
       "added_at": "2022-10-06 23:06:41",
@@ -5516,8 +5552,8 @@
           "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
           "name": "Anuel AA",

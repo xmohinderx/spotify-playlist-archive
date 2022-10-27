@@ -2,15 +2,16 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Broederliefde exclusieve tracks in La Vida Loca! Hier alleen maar good vibes en motion.
+> Drie exclusieve Broederliefde tracks in La Vida Loca! Hier alleen maar good vibes en motion.
 
-237 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+238 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [,Habiba](https://open.spotify.com/track/3cz2SEC5wqPaelfVB6btbJ) | [Kalibiboy D](https://open.spotify.com/artist/3WVqcOKgdST367tFuk2lzm) | [,Habiba](https://open.spotify.com/album/4XReWOoUunJg7CBW3c0tF2) | 2:14 | 2022-09-15 | 2022-09-17 |
 | [1 Blik](https://open.spotify.com/track/3YD8JSsQWSyRr3OhIrUR6y) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Avenue](https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw) | [1 Blik](https://open.spotify.com/album/7dp8ZZuptJZo40Jn8OCTMm) | 2:11 | 2022-10-06 |  |
 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 | 2022-07-21 | 2022-08-26 |
+| [5 Shots](https://open.spotify.com/track/6ayHgGpGR1GL8DYYcQZ0T4) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [5 Shots](https://open.spotify.com/album/3cD8xzylIG2Y8a4jRp8Ftd) | 3:02 | 2022-10-26 |  |
 | [Actief in de night](https://open.spotify.com/track/4EPomXYQdoGjFbBH03Tvf0) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [C.c](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT) | [Actief in de night](https://open.spotify.com/album/2BqrpEnSgDTsrD6ZcVmHA7) | 2:53 | 2022-09-15 |  |
 | [Activeren](https://open.spotify.com/track/2BTLc3HjGW71DtDGe0ngbB) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Passion](https://open.spotify.com/artist/1J83abhW7lGHgDpTeTUuSd) | [Activeren](https://open.spotify.com/album/3diG0itmo6d1DN24tNl7CF) | 2:48 | 2022-09-15 | 2022-10-07 |
 | [Air Max](https://open.spotify.com/track/5G65Qm4RBZM7VzsiP8tZ0P) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2) | [Koning Met Principes](https://open.spotify.com/album/4u9j22MWqT44ICoxWoV9nc) | 2:46 | 2022-10-11 |  |

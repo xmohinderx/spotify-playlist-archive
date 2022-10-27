@@ -4,7 +4,7 @@
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/26XIbqN6SHbg7Y0qsWzhfG)
+87 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/26XIbqN6SHbg7Y0qsWzhfG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [En Mil Pedazos](https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [También De Los Ranchos Bajan](https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj) | 3:14 | 2022-06-04 |  |
 | [Eslabón Por Eslabón](https://open.spotify.com/track/1oystWhvsBVxFmDeXiY0Az) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:58 | 2022-06-01 |  |
 | [Ferrari](https://open.spotify.com/track/6h1lY9QMidoG5C3h9d80Mg) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT), [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Ferrari](https://open.spotify.com/album/0VX66bGU3eaYBlNTqFHBGp) | 1:38 | 2022-06-01 | 2022-06-10 |
-| [Ferrari](https://open.spotify.com/track/5RU4aCfWgiDxrTqWLZTlsW) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Vinniys](https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr) | 1:35 | 2022-08-04 |  |
+| [Ferrari](https://open.spotify.com/track/5RU4aCfWgiDxrTqWLZTlsW) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Vinniys](https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr) | 1:35 | 2022-08-04 | 2022-10-27 |
 | [Gorrión Errante](https://open.spotify.com/track/315gGtlPXz4RJX7kZa2FPa) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:54 | 2022-06-19 | 2022-07-11 |
 | [govio](https://open.spotify.com/track/18hY6S67TUvc5UKpDNiC6J) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [hill](https://open.spotify.com/album/4WGjDGdwITVGUyrFcl5tDl) | 2:51 | 2022-08-22 | 2022-10-14 |
 | [Herida De Amor](https://open.spotify.com/track/1bq6FVl1BWHIDC4MkirNyg) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE) | 3:35 | 2022-06-01 |  |
@@ -66,6 +66,7 @@
 | [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/4bSkZ266UEFGDDeAjyqu2G) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Ama a Su Público \(En Vivo\)](https://open.spotify.com/album/41u7D6sCeN75276OJs8FgM) | 3:33 | 2022-06-01 |  |
 | [Mil Pedazos](https://open.spotify.com/track/4kRTaSby9ON4sBp9WsP0z6) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:50 | 2022-06-01 |  |
 | [Muchacha Bonita](https://open.spotify.com/track/2wJwbI9zDg7Mmm6uUFjW8s) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Éxitos Con Sax, Vol\. 2](https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht) | 3:15 | 2022-08-01 | 2022-08-03 |
+| [Muriendo Por Ella](https://open.spotify.com/track/7D63GyavsqDG7i9JzlZDr7) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:11 | 2022-10-26 |  |
 | [Nadie Como Ella](https://open.spotify.com/track/5x6ZJ3RkIKCcIFdQtgKq8J) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:53 | 2022-06-01 | 2022-10-24 |
 | [Naynara II](https://open.spotify.com/track/6vxjsQZkRuLZPtQGyGiMi4) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT), [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Naynara II](https://open.spotify.com/album/6wH1P1qyh8v0gvCYCHIojN) | 2:39 | 2022-06-01 | 2022-07-18 |
 | [Necesito Odiarte](https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE) | 3:01 | 2022-06-01 |  |

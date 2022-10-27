@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Architects
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,032 likes - 150 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,254 likes - 150 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 70 | [Worst Is On Its Way](https://open.spotify.com/track/4mvAZT5CKaKZjvNGmjoHRA) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 4:03 |
 | 71 | [Mirror](https://open.spotify.com/track/7j2Tf7HjW3yEFr0QekLuzs) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Under The Midnight Sun](https://open.spotify.com/album/6yUltme6Sb7ErFkqJ1TgQh) | 3:48 |
 | 72 | [City Of The Dead](https://open.spotify.com/track/4CPlagY81Aa98saLVpwj2O) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia](https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s) | 2:53 |
-| 73 | [Live by the Gun](https://open.spotify.com/track/4qOp8ymDf9u2T1uvUPL0Cq) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Live by the Gun](https://open.spotify.com/album/4W8CCom5htHk8yUrHJeB02) | 3:33 |
+| 73 | [Live by the Gun \( feat\. Ice\-T \)](https://open.spotify.com/track/4qOp8ymDf9u2T1uvUPL0Cq) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Live by the Gun](https://open.spotify.com/album/4W8CCom5htHk8yUrHJeB02) | 3:33 |
 | 74 | [Motherlode](https://open.spotify.com/track/50lNoDOWVxhdWbmgvecuXa) | [The Standstills](https://open.spotify.com/artist/2OCAyLpPne0X14kjvE535s), [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Motherlode](https://open.spotify.com/album/1uMPUDzADwngjGfHFUCuf8) | 3:02 |
 | 75 | [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 |
 | 76 | [New Era](https://open.spotify.com/track/4zNXCkMYWJSHN7t23Eek2r) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [New Era](https://open.spotify.com/album/3NnxQ5HSHpZGl0MCyVEwFA) | 3:07 |

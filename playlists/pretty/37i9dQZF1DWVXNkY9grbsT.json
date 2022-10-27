@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 28628,
+  "num_followers": 28663,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2Mjg0MCwwMDAwMDAwMGJhOGNmZTRiZWMwODRjNjlkMTViOTkwYzVmOGY0MTdm",
+  "snapshot_id": "MTY2NTc2Mjg0MCwwMDAwMDAwMDJlYmRmZmIyZTI1NmE3MTE1YjhiNzBjYjBhZGNiNGJm",
   "tracks": [
     {
       "added_at": "2022-09-30 17:57:08",
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/5bWxtgC36JZDNgXckBfXGy"
     },
     {
-      "added_at": "2022-10-26 01:17:44",
+      "added_at": "2022-10-27 01:18:46",
       "album": {
         "name": "Proof of My Existence",
         "url": "https://open.spotify.com/album/1yqH34M8NBfm5sDYW6Idqh"
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
+        "name": "Objekt",
+        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 302367,
+      "name": "Objekt",
+      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
         "name": "Tar (Jan Jelinek Remix)",
         "url": "https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 359543,
       "name": "Tar - Jan Jelinek Remix",
       "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
-        "name": "Objekt",
-        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 302367,
-      "name": "Objekt",
-      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
+        "name": "Breakdown",
+        "url": "https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0"
+      },
+      "artists": [
+        {
+          "name": "Tentacle",
+          "url": "https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap"
+        }
+      ],
+      "duration_ms": 447034,
+      "name": "Breakdown (The End of Chemical Romance)",
+      "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
         "name": "Unheard Melodies",
         "url": "https://open.spotify.com/album/64bBUTyvKyfQa0A0tKCdxz"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 280658,
       "name": "Unheard Melodies",
       "url": "https://open.spotify.com/track/2FSAkRFMiBKnZhdDuogrRa"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
-        "name": "Breakdown",
-        "url": "https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0"
-      },
-      "artists": [
-        {
-          "name": "Tentacle",
-          "url": "https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap"
-        }
-      ],
-      "duration_ms": 447034,
-      "name": "Breakdown (The End of Chemical Romance)",
-      "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh"
     },
     {
-      "added_at": "2022-10-26 01:17:44",
+      "added_at": "2022-10-27 01:18:46",
       "album": {
         "name": "Balmy Evening",
         "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
@@ -939,26 +939,6 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/669AB2aEnksA5gFdVYfvv6"
-      },
-      "artists": [
-        {
-          "name": "Jacob Haage",
-          "url": "https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p"
-        },
-        {
-          "name": "Sarah Assbring",
-          "url": "https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4"
-        }
-      ],
-      "duration_ms": 197021,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3AljM5qQOlyk5NApH8pWJn"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
         "name": "58500 (Daniel Avery Remix)",
         "url": "https://open.spotify.com/album/2t85UNkhR842v0V60Fb3N8"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 223986,
       "name": "58500 - Daniel Avery Remix",
       "url": "https://open.spotify.com/track/2ejCzJvM2f7tqG2fu56EEm"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/669AB2aEnksA5gFdVYfvv6"
+      },
+      "artists": [
+        {
+          "name": "Jacob Haage",
+          "url": "https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p"
+        },
+        {
+          "name": "Sarah Assbring",
+          "url": "https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4"
+        }
+      ],
+      "duration_ms": 197021,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3AljM5qQOlyk5NApH8pWJn"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
+        "name": "a journey...",
+        "url": "https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR"
+      },
+      "artists": [
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "A Journey",
+      "url": "https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
         "name": "Night Journeys III",
         "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
-        "name": "a journey...",
-        "url": "https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR"
+        "name": "Plonk",
+        "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
       },
       "artists": [
         {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+          "name": "Huerco S.",
+          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
         }
       ],
-      "duration_ms": 256146,
-      "name": "A Journey",
-      "url": "https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF"
+      "duration_ms": 564154,
+      "name": "Plonk VI",
+      "url": "https://open.spotify.com/track/6r5vGrYSklN6D9QGwfCxii"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -1175,22 +1191,6 @@
       "duration_ms": 278174,
       "name": "Sine Waves",
       "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
-        "name": "Plonk",
-        "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
-      },
-      "artists": [
-        {
-          "name": "Huerco S.",
-          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
-        }
-      ],
-      "duration_ms": 564154,
-      "name": "Plonk VI",
-      "url": "https://open.spotify.com/track/6r5vGrYSklN6D9QGwfCxii"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -1395,38 +1395,6 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
-        "name": "Martes + Utop\u00eda",
-        "url": "https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 399893,
-      "name": "Mir",
-      "url": "https://open.spotify.com/track/6ws5eFRss9GyI0q8shl6U4"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
-        "name": "Past and Future Tense",
-        "url": "https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 224848,
-      "name": "MD 2",
-      "url": "https://open.spotify.com/track/6EOKh3JL7rmv0pCM1R0UVW"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
         "name": "Rone & Friends",
         "url": "https://open.spotify.com/album/7jvfKfpDTc8bioLeCboUcv"
       },
@@ -1447,6 +1415,22 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
+        "name": "Martes + Utop\u00eda",
+        "url": "https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 399893,
+      "name": "Mir",
+      "url": "https://open.spotify.com/track/6ws5eFRss9GyI0q8shl6U4"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
         "name": "Burst / Glimmer",
         "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
       },
@@ -1459,6 +1443,38 @@
       "duration_ms": 316293,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
+        "name": "Past and Future Tense",
+        "url": "https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 224848,
+      "name": "MD 2",
+      "url": "https://open.spotify.com/track/6EOKh3JL7rmv0pCM1R0UVW"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
+        "name": "CRATER",
+        "url": "https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0"
+      },
+      "artists": [
+        {
+          "name": "Booker Stardrum",
+          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
+        }
+      ],
+      "duration_ms": 322948,
+      "name": "Walking Through Still Air",
+      "url": "https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -1499,18 +1515,22 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
-        "name": "CRATER",
-        "url": "https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0"
+        "name": "Agalma",
+        "url": "https://open.spotify.com/album/2y82aUBnl81FdYBLqpA1C6"
       },
       "artists": [
         {
-          "name": "Booker Stardrum",
-          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
+          "name": "Drew McDowall",
+          "url": "https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4"
+        },
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
         }
       ],
-      "duration_ms": 322948,
-      "name": "Walking Through Still Air",
-      "url": "https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl"
+      "duration_ms": 450006,
+      "name": "Agalma V",
+      "url": "https://open.spotify.com/track/6pwsr8MsXAGYWHeJirQyRW"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -1535,26 +1555,6 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
-        "name": "Agalma",
-        "url": "https://open.spotify.com/album/2y82aUBnl81FdYBLqpA1C6"
-      },
-      "artists": [
-        {
-          "name": "Drew McDowall",
-          "url": "https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4"
-        },
-        {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
-        }
-      ],
-      "duration_ms": 450006,
-      "name": "Agalma V",
-      "url": "https://open.spotify.com/track/6pwsr8MsXAGYWHeJirQyRW"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
         "name": "Overflow",
         "url": "https://open.spotify.com/album/091dnUcBWWE8YXH340kf9Z"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 304053,
       "name": "Touches Everything",
       "url": "https://open.spotify.com/track/0i7HGzGIrquBSmKD7WLBeI"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 286283,
+      "name": "Adagio I - Mut",
+      "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
-        "name": "Nothing Lasts Forever",
-        "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
-      },
-      "artists": [
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
-        }
-      ],
-      "duration_ms": 286283,
-      "name": "Adagio I - Mut",
-      "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
         "name": "R\u00e9gime des Fleurs",
         "url": "https://open.spotify.com/album/7cIyUAuwTnbQEvTIy5Nsju"
       },
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
-        "name": "Cradle (Patience Rework)",
-        "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
-      },
-      "artists": [
-        {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        },
-        {
-          "name": "Ben Frost",
-          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Cradle - Patience Rework",
-      "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
         "name": "Cry Me A Blizzard (AFRODEUTSCHE I'm Here Remix)",
         "url": "https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3"
       },
@@ -1699,18 +1679,22 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
-        "name": "Remember Rainbow Bridge",
-        "url": "https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy"
+        "name": "Cradle (Patience Rework)",
+        "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
       },
       "artists": [
         {
-          "name": "Croatian Amor",
-          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        },
+        {
+          "name": "Ben Frost",
+          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
         }
       ],
-      "duration_ms": 239224,
-      "name": "Alabaster",
-      "url": "https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3"
+      "duration_ms": 324000,
+      "name": "Cradle - Patience Rework",
+      "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -1727,6 +1711,22 @@
       "duration_ms": 361854,
       "name": "Vespera",
       "url": "https://open.spotify.com/track/4AaprdeMMgEgo2iIOQAztk"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
+        "name": "Remember Rainbow Bridge",
+        "url": "https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy"
+      },
+      "artists": [
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        }
+      ],
+      "duration_ms": 239224,
+      "name": "Alabaster",
+      "url": "https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3"
     },
     {
       "added_at": "2022-09-30 17:57:08",

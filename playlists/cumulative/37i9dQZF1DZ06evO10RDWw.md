@@ -4,7 +4,7 @@
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-29 songs - 1 hr 42 min - not published yet
+30 songs - 1 hr 45 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Control and The Urge to Pray](https://open.spotify.com/track/1HiAniCwjwIap3YoeqB807) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 4:17 | 2022-10-25 |  |
 | [Count Back from TEN](https://open.spotify.com/track/69ycJyqz0Sy7jk5hQ43afA) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 3:06 | 2022-10-25 |  |
 | [Deep Down](https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:25 | 2022-10-25 |  |
-| [Follow And Feel](https://open.spotify.com/track/66yzHUHNo6Rg1wbpFjJ1MH) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:19 | 2022-10-25 |  |
+| [Finding Home](https://open.spotify.com/track/6rOx8Ymk3bv7k7DBcxqjwp) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:09 | 2022-10-26 |  |
+| [Follow And Feel](https://open.spotify.com/track/66yzHUHNo6Rg1wbpFjJ1MH) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:19 | 2022-10-25 | 2022-10-27 |
 | [I Can Tell There Was an Accident Here Earlier](https://open.spotify.com/track/5llAcLZpMCl8KmrcVUrE8d) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [I Can Tell There Was an Accident Here Earlier](https://open.spotify.com/album/1Q2ViPnZVbM8Seu1tkebNT) | 3:36 | 2022-10-25 |  |
 | [I Keep Secrets Safe](https://open.spotify.com/track/2jAZg043nuMGUcdtvmEIJE) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:54 | 2022-10-25 |  |
 | [I Wanna Hear Another Fast Song](https://open.spotify.com/track/0j5u3UNJIH1ZRouEyWO1TE) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/3WFPpbGgppW9ZgXQ4eyH0w) | 2:44 | 2022-10-25 |  |

@@ -4,7 +4,7 @@
 
 > The newest songs from LGBTQIA+ artists\. Cover: corook
 
-418 songs - 22 hr 40 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
+419 songs - 22 hr 44 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [I Miss You](https://open.spotify.com/track/4QVIZ1C5fOvlwVaWywkkHz) | [Abigail Fierce](https://open.spotify.com/artist/24q2VAybFrs4Lzy0eEnXga) | [I Miss You](https://open.spotify.com/album/3XtttQ1KmntgU5cx1wOmW2) | 3:30 | 2022-01-07 | 2022-06-18 |
 | [I Specialise In Love](https://open.spotify.com/track/7E55wyDIwjs18uExRw3zOM) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [I Specialise In Love](https://open.spotify.com/album/2S4VA2f8WDqZEkF67ZjtBA) | 2:49 | 2022-05-27 | 2022-06-09 |
 | [I THINK YOU TURNED ME](https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [I THINK YOU TURNED ME](https://open.spotify.com/album/3vEwn7lE02KAqyueIsflyl) | 2:12 | 2022-06-24 |  |
+| [I Wanna Be a Boy](https://open.spotify.com/track/4O7UPnI2rePU0JndPCI09d) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [I Wanna Be a Boy](https://open.spotify.com/album/4o84MA22X4ofp4LM9z7U3y) | 3:19 | 2022-10-08 |  |
 | [I Wanna Be a Boy](https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [I Wanna Be a Boy](https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw) | 3:19 | 2022-01-21 | 2022-10-13 |
 | [I'll Answer \(i love you mom\)](https://open.spotify.com/track/3uyoqx222UxlCRhl3uYvs4) | [Emma Oliver](https://open.spotify.com/artist/7KUmMAnwfGBOs77ReTZJte) | [I'll Answer \(i love you mom\)](https://open.spotify.com/album/42kB1RW9zTC5gHCpyjKvXn) | 3:05 | 2021-12-17 | 2022-01-29 |
 | [IDK SH!T](https://open.spotify.com/track/0S3xP5jVO84UzVeWpwXMK8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [IDK SH!T](https://open.spotify.com/album/2gfnBbxQ9zW5VH0wBt2uzF) | 2:51 | 2022-07-31 |  |
@@ -336,7 +337,7 @@
 | [Serial Heartbreaker](https://open.spotify.com/track/1UmFLqmTmgHoSyvss6Q7gw) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:13 | 2022-09-16 |  |
 | [SFU](https://open.spotify.com/track/5uVAcFHtYKGGbgWc835OLx) | [Cayley Spivey](https://open.spotify.com/artist/3HQfKxOBZRhStH5QbZVJ4H) | [SFU](https://open.spotify.com/album/2OzZ92BmcO7CVmBOQOwvXY) | 3:34 | 2021-12-24 | 2022-06-21 |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-01-28 | 2022-08-01 |
-| [SHE CAN DANCE](https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [SHE CAN DANCE](https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR) | 3:04 | 2022-07-31 |  |
+| [SHE CAN DANCE](https://open.spotify.com/track/5rWi2q5zyWZzQupvHJgrWB) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [SHE CAN DANCE](https://open.spotify.com/album/0ZvZsk1tWYnw35slDlTXXR) | 3:04 | 2022-07-31 | 2022-10-27 |
 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2021-12-17 |  |
 | [she knows it](https://open.spotify.com/track/5M24GbbGWy0Z2W4RmLqFFf) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [self sabotage](https://open.spotify.com/album/34u86bUB4rmIcU8FGjPj4C) | 2:36 | 2022-09-16 | 2022-10-08 |
 | [SHOW OFF \(feat\. Nicole Scherzinger\)](https://open.spotify.com/track/1jpnnxTKqfvSWl6MccJjAd) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [FEMULINE](https://open.spotify.com/album/5HMKe2aSQafz0Oix7nePGT) | 3:40 | 2021-12-17 | 2022-01-17 |

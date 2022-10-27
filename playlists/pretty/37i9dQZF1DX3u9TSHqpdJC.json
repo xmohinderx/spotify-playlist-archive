@@ -1,13 +1,29 @@
 {
-  "description": "The best new pop music by independent artists. Updates every Wednesday. Cover: emlyn Artwork: Paola Saliby\n",
-  "num_followers": 169261,
+  "description": "The best new pop music by independent artists. Updates every Wednesday. Cover: ili Artwork: Paola Saliby\n",
+  "num_followers": 169376,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjE3MzAyMSwwMDAwMDAwMDdkZmM2NmY2NzEzMGVjZTYzMmU2MDc2MWNmNWU3YmI1",
+  "snapshot_id": "MTY2NjgwMjA4MiwwMDAwMDAwMDE2ZTVkMzc4ODM5OTE5NmMwYjlmMDNiMTZhODljYTU5",
   "tracks": [
+    {
+      "added_at": "2022-10-26 04:00:00",
+      "album": {
+        "name": "2 Cool 2 Be Somebody",
+        "url": "https://open.spotify.com/album/2DnO2F70y4jUWMHC65awMe"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "duration_ms": 187183,
+      "name": "2 Cool 2 Be Somebody",
+      "url": "https://open.spotify.com/track/1KLEHZfhkCNpdhSXMGAGXW"
+    },
     {
       "added_at": "2022-10-19 09:50:21",
       "album": {
@@ -25,6 +41,102 @@
       "url": "https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763"
     },
     {
+      "added_at": "2022-10-26 04:00:00",
+      "album": {
+        "name": "BRUTAL - Spotify Singles",
+        "url": "https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 166904,
+      "name": "BRUTAL - Spotify Singles",
+      "url": "https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw"
+    },
+    {
+      "added_at": "2022-10-26 04:00:00",
+      "album": {
+        "name": "lexapro",
+        "url": "https://open.spotify.com/album/0ftQ4DSqbNkIUrKM7uc0Kh"
+      },
+      "artists": [
+        {
+          "name": "Jack Price",
+          "url": "https://open.spotify.com/artist/3LX53Q6Lfgpr309q3yiHMh"
+        }
+      ],
+      "duration_ms": 163138,
+      "name": "lexapro",
+      "url": "https://open.spotify.com/track/61KFAZbfP6fnb8lEZU20yG"
+    },
+    {
+      "added_at": "2022-10-26 04:00:00",
+      "album": {
+        "name": "fvcked up lullaby",
+        "url": "https://open.spotify.com/album/4SR38hThbFln7NLagFLIk8"
+      },
+      "artists": [
+        {
+          "name": "davvn",
+          "url": "https://open.spotify.com/artist/1QF0qdoDTPGn3h3zl3YIpT"
+        }
+      ],
+      "duration_ms": 145935,
+      "name": "fvcked up lullaby",
+      "url": "https://open.spotify.com/track/7pGwWkymWnATjyrsOfJeNm"
+    },
+    {
+      "added_at": "2022-10-26 04:00:00",
+      "album": {
+        "name": "Nightshade",
+        "url": "https://open.spotify.com/album/08GKug36f7WyoVZVW5wAc5"
+      },
+      "artists": [
+        {
+          "name": "Madison",
+          "url": "https://open.spotify.com/artist/2QsEueA30koO3IDvTgrQD2"
+        }
+      ],
+      "duration_ms": 211142,
+      "name": "Nightshade",
+      "url": "https://open.spotify.com/track/3sivx4DwnH31JwTw1iHsnX"
+    },
+    {
+      "added_at": "2022-10-26 04:00:00",
+      "album": {
+        "name": "realign",
+        "url": "https://open.spotify.com/album/3IFkgTx4UyMIKBH6tZFven"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "realign",
+      "url": "https://open.spotify.com/track/5mVqxsl2BeRV0TBRKcWL6v"
+    },
+    {
+      "added_at": "2022-10-26 04:00:00",
+      "album": {
+        "name": "i hate 1st dates",
+        "url": "https://open.spotify.com/album/3oohxGSBp3TZzox2F69jMN"
+      },
+      "artists": [
+        {
+          "name": "valentina cy",
+          "url": "https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx"
+        }
+      ],
+      "duration_ms": 176992,
+      "name": "i hate 1st dates",
+      "url": "https://open.spotify.com/track/5hRMLeMCXo7EC7uJfe9kQH"
+    },
+    {
       "added_at": "2022-10-19 09:50:21",
       "album": {
         "name": "Almost",
@@ -39,6 +151,70 @@
       "duration_ms": 140658,
       "name": "Almost",
       "url": "https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr"
+    },
+    {
+      "added_at": "2022-10-26 04:00:00",
+      "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/6QsBDIZ6CRltVA7wTpjdoU"
+      },
+      "artists": [
+        {
+          "name": "Calista Del Toro",
+          "url": "https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc"
+        }
+      ],
+      "duration_ms": 151741,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/4xPb3jN1lrnKE5ivMlNubW"
+    },
+    {
+      "added_at": "2022-10-26 04:00:00",
+      "album": {
+        "name": "Henrietta\u2019s",
+        "url": "https://open.spotify.com/album/3fDVyQ1UFd15mD10T4jDGy"
+      },
+      "artists": [
+        {
+          "name": "Eva Westphal",
+          "url": "https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Henrietta\u2019s",
+      "url": "https://open.spotify.com/track/6GRsmpkN66rvxNSKsHYi7E"
+    },
+    {
+      "added_at": "2022-10-26 04:00:00",
+      "album": {
+        "name": "Better in My Bed",
+        "url": "https://open.spotify.com/album/6NqTWeRCZNHX8Qt12SYyU4"
+      },
+      "artists": [
+        {
+          "name": "Dylan Jett",
+          "url": "https://open.spotify.com/artist/1lVI7cnpOOQbZ7drrB3S9W"
+        }
+      ],
+      "duration_ms": 120789,
+      "name": "Better in My Bed",
+      "url": "https://open.spotify.com/track/1OHQMTnq6xp44ScQQlM4Ts"
+    },
+    {
+      "added_at": "2022-10-26 04:00:00",
+      "album": {
+        "name": "Nice Guy But",
+        "url": "https://open.spotify.com/album/4XSMbB9TbKYikmr5D5w5sM"
+      },
+      "artists": [
+        {
+          "name": "KTJ & CARLY",
+          "url": "https://open.spotify.com/artist/1rHyIyvEXaXtHCCMEhhN4M"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Nice Guy But",
+      "url": "https://open.spotify.com/track/10c0FbEwZqw3xs8yzIJYnH"
     },
     {
       "added_at": "2022-10-19 09:50:21",
@@ -1435,182 +1611,6 @@
       "duration_ms": 198243,
       "name": "Flying",
       "url": "https://open.spotify.com/track/28IEay5ppQw0PtZiBAkfUK"
-    },
-    {
-      "added_at": "2022-09-29 15:26:28",
-      "album": {
-        "name": "Peaked in High School",
-        "url": "https://open.spotify.com/album/0KVApYeZKlPebizwZOxt9m"
-      },
-      "artists": [
-        {
-          "name": "Isabel Wood",
-          "url": "https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO"
-        }
-      ],
-      "duration_ms": 204702,
-      "name": "Peaked in High School",
-      "url": "https://open.spotify.com/track/0iuo9ILD4Wc17e3fytZxS7"
-    },
-    {
-      "added_at": "2022-09-29 15:26:28",
-      "album": {
-        "name": "nobody loves me",
-        "url": "https://open.spotify.com/album/7JljDQSHufuK9PQ7pEsow9"
-      },
-      "artists": [
-        {
-          "name": "Kayla Grace",
-          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
-        }
-      ],
-      "duration_ms": 183923,
-      "name": "nobody loves me",
-      "url": "https://open.spotify.com/track/3hPtLdxyDpXuXPzX4IMB1o"
-    },
-    {
-      "added_at": "2022-09-29 15:26:28",
-      "album": {
-        "name": "stranded",
-        "url": "https://open.spotify.com/album/3qs9gXt1C4H0sQWwZez46q"
-      },
-      "artists": [
-        {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "stranded",
-      "url": "https://open.spotify.com/track/4rNxKKcPHhGtEHX4xfw9WT"
-    },
-    {
-      "added_at": "2022-09-29 15:26:28",
-      "album": {
-        "name": "Prove Me Wrong",
-        "url": "https://open.spotify.com/album/53TzirikVEadE7olXyhihD"
-      },
-      "artists": [
-        {
-          "name": "Zenia Marshall",
-          "url": "https://open.spotify.com/artist/4HlESG7NB6TG0XWygNOXtu"
-        }
-      ],
-      "duration_ms": 222384,
-      "name": "Prove Me Wrong",
-      "url": "https://open.spotify.com/track/6KPeO8qQW8pspEUFRZIlcn"
-    },
-    {
-      "added_at": "2022-09-29 15:26:28",
-      "album": {
-        "name": "lavender blossom",
-        "url": "https://open.spotify.com/album/6PIOx12CeW8YKx4cKWz7t0"
-      },
-      "artists": [
-        {
-          "name": "Salty Licorice",
-          "url": "https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "lavender blossom",
-      "url": "https://open.spotify.com/track/5504ozM505NGOFiLPSvijC"
-    },
-    {
-      "added_at": "2022-09-29 15:26:28",
-      "album": {
-        "name": "What Happened to Forever?",
-        "url": "https://open.spotify.com/album/60xOgVSjEdjBG4rfZllE03"
-      },
-      "artists": [
-        {
-          "name": "Luke Alvin",
-          "url": "https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc"
-        }
-      ],
-      "duration_ms": 151058,
-      "name": "What Happened to Forever?",
-      "url": "https://open.spotify.com/track/6ICGj9koDOkKXNda8lEpMH"
-    },
-    {
-      "added_at": "2022-09-29 15:26:28",
-      "album": {
-        "name": "day&night",
-        "url": "https://open.spotify.com/album/6Cs7wRAZ5t3ubnRVq9orLq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Roche",
-          "url": "https://open.spotify.com/artist/6YwDZ1txRytZuE9Zvx5Pl0"
-        }
-      ],
-      "duration_ms": 148503,
-      "name": "day&night",
-      "url": "https://open.spotify.com/track/5ydXHGn98Gr9sW5YMKcEkj"
-    },
-    {
-      "added_at": "2022-09-29 15:26:28",
-      "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/6pVIHOBTCcdujAJiFiPSct"
-      },
-      "artists": [
-        {
-          "name": "Hunter Moreau",
-          "url": "https://open.spotify.com/artist/18E7vRs277FpAIZelUzoCQ"
-        }
-      ],
-      "duration_ms": 153174,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/5bHg9IGNlg3kc9sBbgeASE"
-    },
-    {
-      "added_at": "2022-09-29 15:26:28",
-      "album": {
-        "name": "Magnetic Strangers",
-        "url": "https://open.spotify.com/album/2u6sJ3W6GMH0ZbGBCcsXd8"
-      },
-      "artists": [
-        {
-          "name": "Blonde Diamond",
-          "url": "https://open.spotify.com/artist/0skYMbISqV2drnQbJopK8Y"
-        }
-      ],
-      "duration_ms": 176802,
-      "name": "We Just Wanna Dance",
-      "url": "https://open.spotify.com/track/4HUegUTOoGP2tEWyPufMoN"
-    },
-    {
-      "added_at": "2022-09-29 15:26:28",
-      "album": {
-        "name": "Wild Things",
-        "url": "https://open.spotify.com/album/1GgOyUSPYBz9682lLJWBWj"
-      },
-      "artists": [
-        {
-          "name": "EEVAH",
-          "url": "https://open.spotify.com/artist/3yJNIN3Ih9pFuG4cgfzCRL"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "Wild Things",
-      "url": "https://open.spotify.com/track/23IorJ28ZIRUI7VpKCaTSV"
-    },
-    {
-      "added_at": "2022-09-29 15:26:28",
-      "album": {
-        "name": "More Than Friends",
-        "url": "https://open.spotify.com/album/4Gz11cvWtWUZSVfHhaYY9T"
-      },
-      "artists": [
-        {
-          "name": "Laura Gomes",
-          "url": "https://open.spotify.com/artist/4otLEIeqdTrM0mgj9oPobm"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "More Than Friends",
-      "url": "https://open.spotify.com/track/7rGd1xAX5A7fz5NDhgIq6X"
     }
   ],
   "unique_name": "Fresh Finds Pop",

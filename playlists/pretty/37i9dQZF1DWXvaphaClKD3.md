@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>\. Los Dos Carnales en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,427 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,606 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 34 | [Me lo vas a agradecer](https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Me lo vas a agradecer](https://open.spotify.com/album/4wmK6yBz7s8AyDW2hOcv3a) | 3:10 |
 | 35 | [Ataques De Ansiedad](https://open.spotify.com/track/4mLYqHjHO41UyhZaKeRIo3) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [Ataques De Ansiedad](https://open.spotify.com/album/5hLJjkRApGVwpxU2eVlgXS) | 3:01 |
 | 36 | [Lo Siento](https://open.spotify.com/track/0AlHZrXmw6AXSZWFyod4OA) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3) | [Lo Siento](https://open.spotify.com/album/6s48NMBVJfyctHI6aYP1HC) | 2:53 |
-| 37 | [Dile](https://open.spotify.com/track/4pFQaV8nT6TLt4W4CB7fdk) | [La Imponente Vientos de Jalisco](https://open.spotify.com/artist/4Tx6Ti44QhL2JRmHSu1mU7) | [Dile](https://open.spotify.com/album/4eQZXvE1t18T17oKSNIQ9D) | 3:47 |
+| 37 | [Dile](https://open.spotify.com/track/4pFQaV8nT6TLt4W4CB7fdk) | [La Imponente Vientos de Jalisco](https://open.spotify.com/artist/4Tx6Ti44QhL2JRmHSu1mU7) | [Dile](https://open.spotify.com/album/4eQZXvE1t18T17oKSNIQ9D) | 3:51 |
 | 38 | [A Ti Sí Puedo Decirte \- En Vivo](https://open.spotify.com/track/4Cpf3m0qqFRlkS1EN2R8m6) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [A Ti Sí Puedo Decirte \(En Vivo\)](https://open.spotify.com/album/21nc9vR24k3KsBpQF9MCSc) | 3:48 |
 | 39 | [Me Siento Orgulloso \(En Vivo\)](https://open.spotify.com/track/6agjBUIsDpoDOjxlkm0Z87) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw), [Jesus Adame](https://open.spotify.com/artist/07XVE0MtKBkaHfiacGsjhU) | [Me Siento Orgulloso \(En Vivo\)](https://open.spotify.com/album/47QtB4fVFb5RG0DceF0HDC) | 3:02 |
 | 40 | [Mami](https://open.spotify.com/track/4LCpAvkUkxraMENrZFOaiF) | [Oscar Villegas](https://open.spotify.com/artist/5svDCvSbuXuUW2aFpXuLJJ), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Mami](https://open.spotify.com/album/0PHT3i9BhhR17HzyskYe8v) | 3:34 |

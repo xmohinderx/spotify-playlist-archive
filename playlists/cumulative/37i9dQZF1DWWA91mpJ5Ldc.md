@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-209 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
+210 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Casa de Rainha](https://open.spotify.com/track/1IVWmTRwsQ26NZaZRJBzeQ) | [Jana Linhares](https://open.spotify.com/artist/77u8LWH7M6Q4Zlj1XaDdTB), [Ilya](https://open.spotify.com/artist/49O2UcGOyDqSyG68AsBs4t) | [Casa de Rainha](https://open.spotify.com/album/2CcOFEG5xtqUyYz5oBttsJ) | 3:43 | 2022-02-04 | 2022-07-29 |
 | [Chiaroscuro](https://open.spotify.com/track/0iBrVpfKq4r2XknTgrAhXi) | [Ina Magdala](https://open.spotify.com/artist/77b9EH7qYCrmbjrwBNaM5r) | [Chiaroscuro](https://open.spotify.com/album/1J35JnrGiEsvWtSsi28jRt) | 2:58 | 2022-03-22 | 2022-07-10 |
 | [Chora Pra Ver Como É](https://open.spotify.com/track/1AVP6stez9yP6UUBVejcda) | [O Sal](https://open.spotify.com/artist/4Unl4daavawO8JikEhYaWf) | [Chora Pra Ver Como É](https://open.spotify.com/album/1bOzgMlaHNqngd89O48g7u) | 6:41 | 2022-02-04 | 2022-07-26 |
-| [Chororô](https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:29 | 2022-02-04 |  |
+| [Chororô](https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:29 | 2022-02-04 | 2022-10-27 |
 | [CHUVA](https://open.spotify.com/track/5AmJktSakS5ylLbH1eSch0) | [Vitor Santana](https://open.spotify.com/artist/55SGl5TD6wQPQC1vfDiT4h), [Mariana Nunes](https://open.spotify.com/artist/1QncCJuv8b2wtCvB2w6XPm) | [CHUVA](https://open.spotify.com/album/1hOM5AcF4BzqtAVb305nSu) | 3:36 | 2022-03-14 | 2022-07-29 |
 | [Cine Odeon](https://open.spotify.com/track/3dhkyXQt5Uqd46ELRN2YsU) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA) | [Cine Odeon](https://open.spotify.com/album/4VlLZDtiIZoXoosJUMCGc8) | 2:30 | 2022-02-04 | 2022-07-28 |
 | [Coisas Que Eu Sei](https://open.spotify.com/track/5ioP40av2BguaCaZnw0D1P) | [Oframe](https://open.spotify.com/artist/1Ypveoe8x8UyHG9r8d5uDS), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Coisas Que Eu Sei](https://open.spotify.com/album/0IbfNcarhEDFOLz9cTjzft) | 2:27 | 2022-03-14 | 2022-07-04 |
@@ -118,6 +118,7 @@
 | [Mais Uma de Carnaval](https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [O Funk Mais Triste da Cidade](https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs) | 2:50 | 2022-08-19 |  |
 | [Mais uma de Carnaval](https://open.spotify.com/track/6k8PAIzeAC6wcyaptR2j1B) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [Mais uma de Carnaval](https://open.spotify.com/album/7m6keRuXSLhirRhf4PHQq3) | 2:50 | 2022-02-04 | 2022-07-27 |
 | [Mantra \(Feat\. Emicida\)](https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Casas](https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX) | 4:54 | 2022-02-04 |  |
+| [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 | 2022-10-26 |  |
 | [Masculino e Feminino](https://open.spotify.com/track/6VBHnaEuCH37LFsFjtdrTl) | [Baby Do Brasil](https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls), [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Masculino e Feminino](https://open.spotify.com/album/1Q39jXJ5DrFtBbim0HqxOb) | 4:21 | 2022-04-08 | 2022-07-25 |
 | [Me Deixa Ser Mulher](https://open.spotify.com/track/5z5oYrfZK1o8Kr92UtZkvZ) | [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [Me Deixa Ser Mulher](https://open.spotify.com/album/4JAqjvMMOk3Cn4yQaXbVGb) | 2:22 | 2022-02-04 | 2022-07-27 |
 | [Me Diz](https://open.spotify.com/track/17gHlev8j37uRl3cCcX63G) | [LUMANZIN](https://open.spotify.com/artist/5P182zXWK4CDlGXxVW0WjD) | [Me Diz](https://open.spotify.com/album/1ISs7XPLNUdIgQk5mPjQof) | 3:21 | 2022-03-22 | 2022-07-09 |

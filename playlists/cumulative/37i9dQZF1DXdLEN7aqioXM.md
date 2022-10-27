@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-354 songs - 1 day 1 hr 39 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+355 songs - 1 day 1 hr 43 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Get Better John](https://open.spotify.com/track/0zDx80J7Tu1li6oKFK27bQ) | [Mux Mool](https://open.spotify.com/artist/5ExPH13WUhdGVNnMq6RLCr) | [Skulltaste](https://open.spotify.com/album/5BqY0szu3DTIPZaEfkAupg) | 3:34 | 2022-04-01 | 2022-04-21 |
 | [Getting Started](https://open.spotify.com/track/49oqW7nyd1MvKCbVgiwYGY) | [The Toxic Avenger](https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s) | [Getting Started](https://open.spotify.com/album/2ve5ciAj64GM826NChWq6u) | 5:58 | 2022-09-30 |  |
 | [Ghost Ship](https://open.spotify.com/track/56N8p428pdGMvLHRWmklzH) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [S A Z E R](https://open.spotify.com/artist/4ITqwIiGfTR7LWAuLLuaaL) | [Ghost Ship](https://open.spotify.com/album/6x7BjhCKuTsCnO5WbH348z) | 4:19 | 2021-10-15 | 2022-07-29 |
-| [Golden Hour](https://open.spotify.com/track/75sLIs9n3Odv5YxXe9VIrw) | [Balcony Sunrise](https://open.spotify.com/artist/18fGpvh05JqB697yJxo5mF) | [Golden Hour](https://open.spotify.com/album/7z7cyWuCDqW8PxQ0luSVb5) | 4:13 | 2022-07-22 |  |
+| [Golden Hour](https://open.spotify.com/track/75sLIs9n3Odv5YxXe9VIrw) | [Balcony Sunrise](https://open.spotify.com/artist/18fGpvh05JqB697yJxo5mF) | [Golden Hour](https://open.spotify.com/album/7z7cyWuCDqW8PxQ0luSVb5) | 4:13 | 2022-07-22 | 2022-10-27 |
 | [Golden Taurus](https://open.spotify.com/track/4yR6KeaGWGEDpVRiDFXeR7) | [Vercetti Technicolor](https://open.spotify.com/artist/28qRQnzpymzgyB5QxvioKO) | [Golden Taurus EP](https://open.spotify.com/album/3rBTMGNErkX6ia4TGBvsqq) | 5:45 | 2022-04-01 |  |
 | [Gorwel](https://open.spotify.com/track/28L1PMK9pGoujuvl91DwEo) | [Carw](https://open.spotify.com/artist/7AaeIQ8PJitJJcScxTWL13) | [Gorwel](https://open.spotify.com/album/37peSNX9tLt9iy3UFYOeF3) | 3:29 | 2022-02-04 | 2022-02-16 |
 | [Gravity \(Of U & I\)](https://open.spotify.com/track/5phvikd8m1kALvoBuKfnIO) | [HELIXIRx](https://open.spotify.com/artist/3k8Yy0uBrm0uDy3P6Txzgc) | [Authenticity: The Instrumentals](https://open.spotify.com/album/4PFdNLbzmXK25Ui4SfQJpw) | 4:49 | 2022-02-04 | 2022-02-19 |
@@ -290,6 +290,7 @@
 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 | 2022-04-01 |  |
 | [Space Love](https://open.spotify.com/track/5AamX2jl0VgeqZBxb3wMwO) | [Silenx](https://open.spotify.com/artist/52prKDZVNIMMwjH2OVQJxE) | [Space Love](https://open.spotify.com/album/07ElOFLsLx4La8qu48ahVs) | 5:16 | 2022-04-08 | 2022-04-20 |
 | [Spaceship Gurl \- Dream Fiend Remix](https://open.spotify.com/track/0g0oAeUKg8TDY5HrnUvzeh) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Dream Fiend](https://open.spotify.com/artist/5L6COTBfO2KjrJgFYe96Q7) | [Home Remixed](https://open.spotify.com/album/29vsvULVaOYhiT8F1nyzva) | 4:04 | 2021-10-15 | 2022-07-29 |
+| [Speedboat Night Sweat](https://open.spotify.com/track/4nUMeyAW2t1Jj7Hnvh2jLs) | [Swimware](https://open.spotify.com/artist/4aoqU9IlofUpiw9CWk9siH) | [Algorithm Nation](https://open.spotify.com/album/1XFxC8GRoWcJI5wyqbyflY) | 3:49 | 2022-10-21 |  |
 | [Speedboat Night Sweat](https://open.spotify.com/track/3sgFYGElABoVcyPHNCKyki) | [Swimware](https://open.spotify.com/artist/4aoqU9IlofUpiw9CWk9siH) | [Speedboat Night Sweat](https://open.spotify.com/album/0Jd5r7NN4zeP20n1BXrs0r) | 3:51 | 2021-10-15 | 2022-10-20 |
 | [Star Hustler](https://open.spotify.com/track/1W8SQHV65hlZ7lj9XRQCnd) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Visitors](https://open.spotify.com/album/0cG3hLxNXIBC4NX64AnoJK) | 4:43 | 2022-07-22 |  |
 | [Star Hustler](https://open.spotify.com/track/37EQA0kVvBeapSntcWLZr8) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Visitors](https://open.spotify.com/album/7gT2kKK6QOjrc2dY5V0NzM) | 4:43 | 2022-04-01 | 2022-04-19 |

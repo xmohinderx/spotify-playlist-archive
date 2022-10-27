@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Silvana Estrada.
 
-303 songs - 18 hr 41 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
+304 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Recordarte](https://open.spotify.com/track/2UKW3RttwFxadMfhUpFyfW) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Recordarte](https://open.spotify.com/album/4A3YmQtJWc47KCXQ5zd9KQ) | 3:40 | 2022-10-15 |  |
 | [Recuérdame](https://open.spotify.com/track/7zpVwSOoFqDa1c42D6EzwF) | [Lena Carrilero](https://open.spotify.com/artist/4w7xZndYz2tIKdflbxPFu9) | [Cenizas en el aire](https://open.spotify.com/album/5wTCsh7UUqLRfH146aAgAl) | 4:38 | 2022-07-22 | 2022-07-29 |
 | [Relieve](https://open.spotify.com/track/4KAWkrPuZ4bkpjS799ZHaw) | [Franco Masciarelli](https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c), [Delfina Mancardo](https://open.spotify.com/artist/7aCKt3m8guXnz3VYRgNO1q) | [Relieve](https://open.spotify.com/album/7i0jP7k6WFshAcXTVz8sNR) | 2:27 | 2022-07-22 | 2022-07-25 |
-| [Renacido](https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg) | 4:13 | 2022-10-10 |  |
+| [Renacido](https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg) | 4:13 | 2022-10-10 | 2022-10-27 |
 | [Respiración](https://open.spotify.com/track/7DUE1MoTbfmTYgjGuSYxGM) | [Kike M](https://open.spotify.com/artist/03V1FJKRO1ZPrdA8zLxFu9) | [Respiración](https://open.spotify.com/album/1Zg0cgFR4YMkJ4f8eNR2P1) | 3:12 | 2022-04-01 | 2022-04-08 |
 | [Resurgiré](https://open.spotify.com/track/2jRyj7njfqgDh6xYZHR5mz) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Resurgiré](https://open.spotify.com/album/2PPlk816eHbyJdUE8O53vJ) | 3:25 | 2021-12-24 | 2022-07-28 |
 | [Rie Chinito](https://open.spotify.com/track/2xtOCbkXoyEXS06TPG1fWd) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Perotá Chingó](https://open.spotify.com/album/5XmjAhsZGqo1jyxickY36s) | 5:09 | 2022-07-22 |  |
@@ -302,6 +302,7 @@
 | [Viento](https://open.spotify.com/track/7F5YuObBApawjkj91ltz9f) | [Natalia Vega](https://open.spotify.com/artist/5ksEvufQxwKs7S2DZb8mxK) | [Viento](https://open.spotify.com/album/6AaumDD4kbBMzZyO94VB9M) | 3:39 | 2021-12-24 | 2022-01-01 |
 | [Visiones Doradas](https://open.spotify.com/track/3K2EEF60dB0dGNlKXXxljH) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk) | [Visiones Doradas](https://open.spotify.com/album/0Mf1iyELe7inwpUyiOmDL8) | 2:46 | 2021-12-24 | 2022-08-15 |
 | [Volaré](https://open.spotify.com/track/1Xzn8guV6Xwux2sS786EwA) | [Chiki Lora](https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY), [Miryam Latrece](https://open.spotify.com/artist/3QcEeHjRSvL4aQBDaTDKi7) | [Volaré](https://open.spotify.com/album/7nFTKMMawHcln7i25yJpoF) | 3:15 | 2021-12-24 | 2022-09-17 |
+| [Volaré](https://open.spotify.com/track/3uOlDLlb6pSt6W4VffyXJR) | [Chiki Lora](https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY), [Miryam Latrece](https://open.spotify.com/artist/3QcEeHjRSvL4aQBDaTDKi7) | [Volaré](https://open.spotify.com/album/4hRvRKx006dk4eFUtNrDH1) | 3:15 | 2022-10-21 |  |
 | [Voltearemos](https://open.spotify.com/track/6aICoU4YETT0xmhGkQNWVr) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Voltearemos](https://open.spotify.com/album/2SgQl7yy0oMnEJ22uaYIfQ) | 3:12 | 2022-09-09 | 2022-10-11 |
 | [Voy a Lo Que Voy](https://open.spotify.com/track/1w0upZ7jE1EVNcywPE7awm) | [Maruja Limón](https://open.spotify.com/artist/15weuOZLZZBnFfkmkfVxPu) | [Vidas](https://open.spotify.com/album/18hCohjBmXY0XoQDZNZOB4) | 2:54 | 2022-01-21 | 2022-01-23 |
 | [Vuelvo](https://open.spotify.com/track/21gHC3HUcfc2OJRHhiHQvo) | [Fran Fernández](https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe) | [Vuelvo](https://open.spotify.com/album/3RLOj7QqN1Krsej9ek5FFr) | 3:21 | 2022-06-03 | 2022-06-06 |

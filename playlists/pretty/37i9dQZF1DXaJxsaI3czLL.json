@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 116376,
+  "num_followers": 116430,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjcxMDAwMCwwMDAwMDAwMGQ5YWNkNTVjNGU2ODFhZTc4NjQzMTYxNTRiYjYxYmJl",
+  "snapshot_id": "MTY2NjcxMDAwMCwwMDAwMDAwMDQzZGU0NTg5ZmVhYTY0ZjIyMTVmYzc2OGE3ZWI2OWY3",
   "tracks": [
     {
       "added_at": "2022-10-25 15:00:00",
@@ -579,54 +579,6 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
-        "name": "Acoustic Versions",
-        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
-      },
-      "artists": [
-        {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
-        }
-      ],
-      "duration_ms": 132390,
-      "name": "Midnight Song",
-      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "This is music too",
-        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 264680,
-      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
-      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "\u702c\u3068\u702c",
-        "url": "https://open.spotify.com/album/5gWa4l4159qeKUNFDBbmhS"
-      },
-      "artists": [
-        {
-          "name": "\u4e0a\u91ce\u5927\u6a39",
-          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
-        }
-      ],
-      "duration_ms": 283149,
-      "name": "\u540c\u3058\u6708\u3092\u898b\u3066\u3044\u308b",
-      "url": "https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
         "name": "Beautiful World",
         "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
       },
@@ -647,6 +599,38 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
+        "name": "Acoustic Versions",
+        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
+      },
+      "artists": [
+        {
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+        }
+      ],
+      "duration_ms": 132390,
+      "name": "Midnight Song",
+      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
+        "name": "\u702c\u3068\u702c",
+        "url": "https://open.spotify.com/album/5gWa4l4159qeKUNFDBbmhS"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u91ce\u5927\u6a39",
+          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
+        }
+      ],
+      "duration_ms": 283149,
+      "name": "\u540c\u3058\u6708\u3092\u898b\u3066\u3044\u308b",
+      "url": "https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
         "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
         "url": "https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 344749,
       "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
       "url": "https://open.spotify.com/track/4HXShgD3c3dq65CtAqoqzh"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
+        "name": "This is music too",
+        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 264680,
+      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
+      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -707,22 +707,6 @@
       "duration_ms": 245746,
       "name": "\u5e0c\u671b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "This is music too",
-        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 356973,
-      "name": "Lady - 2020",
-      "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -787,6 +771,22 @@
       "duration_ms": 228005,
       "name": "Separate Seasons",
       "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
+        "name": "This is music too",
+        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 356973,
+      "name": "Lady - 2020",
+      "url": "https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
-        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "\u307e\u305f\u305f\u304d",
-      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
         "name": "Lamp",
         "url": "https://open.spotify.com/album/4xD9RDDnKrG3MHzvuP0GCd"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 272436,
       "name": "Lamp",
       "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
+        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "\u307e\u305f\u305f\u304d",
+      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
+        "name": "THUNDERBIRD",
+        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "\u3064\u3050\u307f",
+      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
         "name": "PURPLE",
         "url": "https://open.spotify.com/album/3ChhP60S76aPShSmSifkpf"
       },
@@ -1067,6 +1083,22 @@
     {
       "added_at": "2022-10-25 15:00:00",
       "album": {
+        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
+      },
+      "artists": [
+        {
+          "name": "KENTA MAENO",
+          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
+        }
+      ],
+      "duration_ms": 67203,
+      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
+    },
+    {
+      "added_at": "2022-10-25 15:00:00",
+      "album": {
         "name": "\u3051\u3082\u306e\u305f\u3061\u306e\u540d\u524d",
         "url": "https://open.spotify.com/album/1wbLdEmioNHnFkV9Q7muxt"
       },
@@ -1079,22 +1111,6 @@
       "duration_ms": 316210,
       "name": "Skiffle Song",
       "url": "https://open.spotify.com/track/5NyhaNUwfFWrfu5TRGlgi1"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "THUNDERBIRD",
-        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "\u3064\u3050\u307f",
-      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
     },
     {
       "added_at": "2022-10-25 15:00:00",
@@ -1131,22 +1147,6 @@
       "duration_ms": 233946,
       "name": "\u7720\u308c\u306c\u7f8a - with TENDRE",
       "url": "https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
-      },
-      "artists": [
-        {
-          "name": "KENTA MAENO",
-          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
-        }
-      ],
-      "duration_ms": 67203,
-      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
     },
     {
       "added_at": "2022-10-25 15:00:00",

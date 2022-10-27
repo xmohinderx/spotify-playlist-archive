@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 193056,
+  "num_followers": 193297,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk4NzExOSwwMDAwMDAwMDBiYmVkN2FlMGY4MWYxNDRkNGI1NTRiODMwMTllMTFh",
+  "snapshot_id": "MTY2NDk4NzExOSwwMDAwMDAwMDAwMzYyMzk5OWZiZmZkNWVjY2NlMzY1Y2M2YjU5MDZj",
   "tracks": [
     {
       "added_at": "2022-10-03 17:26:41",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
-        "name": "Hidden Treasures",
-        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/0WTc2jsUgF4Y2MOz0aYvsR"
-    },
-    {
-      "added_at": "2022-10-03 17:26:41",
-      "album": {
         "name": "As Daylight Dies (Special Edition)",
         "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 250253,
       "name": "Holy Diver",
       "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
+    },
+    {
+      "added_at": "2022-10-03 17:26:41",
+      "album": {
+        "name": "Hidden Treasures",
+        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/0WTc2jsUgF4Y2MOz0aYvsR"
     },
     {
       "added_at": "2022-10-03 17:26:41",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
-        "name": "The Premonition",
-        "url": "https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj"
-      },
-      "artists": [
-        {
-          "name": "Firewind",
-          "url": "https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r"
-        }
-      ],
-      "duration_ms": 295440,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs"
-    },
-    {
-      "added_at": "2022-10-03 17:26:41",
-      "album": {
         "name": "Diamonds in the Rough",
         "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 162690,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ"
+    },
+    {
+      "added_at": "2022-10-03 17:26:41",
+      "album": {
+        "name": "The Premonition",
+        "url": "https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj"
+      },
+      "artists": [
+        {
+          "name": "Firewind",
+          "url": "https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r"
+        }
+      ],
+      "duration_ms": 295440,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs"
     },
     {
       "added_at": "2022-10-03 17:26:41",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
-        "name": "Born Dead",
-        "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
-      },
-      "artists": [
-        {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
-        }
-      ],
-      "duration_ms": 268240,
-      "name": "Hey Joe",
-      "url": "https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe"
-    },
-    {
-      "added_at": "2022-10-03 17:26:41",
-      "album": {
         "name": "Stairway to Nick John",
         "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 485018,
       "name": "Stairway to Heaven",
       "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
+    },
+    {
+      "added_at": "2022-10-03 17:26:41",
+      "album": {
+        "name": "Born Dead",
+        "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe"
     },
     {
       "added_at": "2022-10-03 17:26:41",
@@ -675,21 +675,21 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
-        "name": "Toss A Coin To Your Witcher",
-        "url": "https://open.spotify.com/album/2O8wiCuevOATbL5OJRYLP0"
+        "name": "Chamber Music",
+        "url": "https://open.spotify.com/album/3XqNiYuQRjJ6w3yTnt5B06"
       },
       "artists": [
         {
-          "name": "Matthew K. Heafy",
-          "url": "https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5"
+          "name": "Coal Chamber",
+          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
         }
       ],
-      "duration_ms": 179295,
-      "name": "Toss A Coin To Your Witcher",
-      "url": "https://open.spotify.com/track/3Oz3R5UH9ynO4h1dcpEey1"
+      "duration_ms": 222533,
+      "name": "Shock the Monkey",
+      "url": "https://open.spotify.com/track/5NXTDuDe0BQ8trPWGaE5ih"
     },
     {
-      "added_at": "2022-10-26 01:15:35",
+      "added_at": "2022-10-27 01:16:39",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/3hudUutcEtY3bKxEyA75IM"
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
+        "name": "Toss A Coin To Your Witcher",
+        "url": "https://open.spotify.com/album/2O8wiCuevOATbL5OJRYLP0"
+      },
+      "artists": [
+        {
+          "name": "Matthew K. Heafy",
+          "url": "https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5"
+        }
+      ],
+      "duration_ms": 179295,
+      "name": "Toss A Coin To Your Witcher",
+      "url": "https://open.spotify.com/track/3Oz3R5UH9ynO4h1dcpEey1"
+    },
+    {
+      "added_at": "2022-10-03 17:26:41",
+      "album": {
         "name": "Chop Suey!",
         "url": "https://open.spotify.com/album/6FDx7On1oIaLAn95L3Swhx"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 214500,
       "name": "Chop Suey!",
       "url": "https://open.spotify.com/track/6mAtV1MrrpaAFtcUgSj3q0"
-    },
-    {
-      "added_at": "2022-10-03 17:26:41",
-      "album": {
-        "name": "Chamber Music",
-        "url": "https://open.spotify.com/album/3XqNiYuQRjJ6w3yTnt5B06"
-      },
-      "artists": [
-        {
-          "name": "Coal Chamber",
-          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Shock the Monkey",
-      "url": "https://open.spotify.com/track/5NXTDuDe0BQ8trPWGaE5ih"
     },
     {
       "added_at": "2022-10-03 17:26:41",
@@ -835,6 +835,26 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
+        "name": "The Devil Went Down to Georgia",
+        "url": "https://open.spotify.com/album/3yzFM8wOw5cRoFbG6lFjQt"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        }
+      ],
+      "duration_ms": 231627,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/1fUn2ABChAzrqDgrlZdk6W"
+    },
+    {
+      "added_at": "2022-10-03 17:26:41",
+      "album": {
         "name": "Hunting High and Low",
         "url": "https://open.spotify.com/album/6Q564q0CmThXMx6rGrqPEf"
       },
@@ -883,26 +903,6 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
-        "name": "The Devil Went Down to Georgia",
-        "url": "https://open.spotify.com/album/3yzFM8wOw5cRoFbG6lFjQt"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Yelawolf",
-          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
-        }
-      ],
-      "duration_ms": 231627,
-      "name": "The Devil Went Down to Georgia",
-      "url": "https://open.spotify.com/track/1fUn2ABChAzrqDgrlZdk6W"
-    },
-    {
-      "added_at": "2022-10-03 17:26:41",
-      "album": {
         "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
         "url": "https://open.spotify.com/album/4LSbhtzHdQtsE6XPF4xNdy"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 264125,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/0d76QXv2R4RIvWWb2y1MIu"
+    },
+    {
+      "added_at": "2022-10-03 17:26:41",
+      "album": {
+        "name": "Tainted Love",
+        "url": "https://open.spotify.com/album/3AQfYezv6vSxiWrnMyWere"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 182188,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0i8Tfa791mCIJAXVwc9NEf"
     },
     {
       "added_at": "2022-10-03 17:26:41",
@@ -935,22 +951,6 @@
       "duration_ms": 168000,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/7FZUfolwtcio2RGu12QAOp"
-    },
-    {
-      "added_at": "2022-10-03 17:26:41",
-      "album": {
-        "name": "Tainted Love",
-        "url": "https://open.spotify.com/album/3AQfYezv6vSxiWrnMyWere"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 182188,
-      "name": "Tainted Love",
-      "url": "https://open.spotify.com/track/0i8Tfa791mCIJAXVwc9NEf"
     },
     {
       "added_at": "2022-10-03 17:26:41",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
+        "name": "Renegades",
+        "url": "https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM"
+      },
+      "artists": [
+        {
+          "name": "36 Crazyfists",
+          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP"
+    },
+    {
+      "added_at": "2022-10-03 17:26:41",
+      "album": {
         "name": "CMFB \u2026Sides",
         "url": "https://open.spotify.com/album/1pVmpuWEzjlWne9vxtbtTw"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 232173,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7nCfQgMxKhFd4bnFZi9fqN"
-    },
-    {
-      "added_at": "2022-10-03 17:26:41",
-      "album": {
-        "name": "Renegades",
-        "url": "https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM"
-      },
-      "artists": [
-        {
-          "name": "36 Crazyfists",
-          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Renegades",
-      "url": "https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP"
     },
     {
       "added_at": "2022-10-03 17:26:41",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-10-03 17:26:41",
       "album": {
+        "name": "Devil Inside",
+        "url": "https://open.spotify.com/album/42VxwbDQ4YorE3wuS7ofYq"
+      },
+      "artists": [
+        {
+          "name": "Wednesday 13",
+          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
+        }
+      ],
+      "duration_ms": 314357,
+      "name": "Devil Inside",
+      "url": "https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo"
+    },
+    {
+      "added_at": "2022-10-03 17:26:41",
+      "album": {
         "name": "Only for the Weak",
         "url": "https://open.spotify.com/album/0LGDnOKdzUM9QtXTFvOWQu"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 276571,
       "name": "Only for the Weak",
       "url": "https://open.spotify.com/track/0OBxEhj74scqtN9l1RxANI"
-    },
-    {
-      "added_at": "2022-10-03 17:26:41",
-      "album": {
-        "name": "Devil Inside",
-        "url": "https://open.spotify.com/album/42VxwbDQ4YorE3wuS7ofYq"
-      },
-      "artists": [
-        {
-          "name": "Wednesday 13",
-          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
-        }
-      ],
-      "duration_ms": 314357,
-      "name": "Devil Inside",
-      "url": "https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo"
     },
     {
       "added_at": "2022-10-03 17:26:41",

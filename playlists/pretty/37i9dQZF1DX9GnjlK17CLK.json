@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 64363,
+  "num_followers": 64518,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg4MjM1MCwwMDAwMDAwMGZkNDkwYzhlZDA2NmYzZjhjMjE2NTc3MDgzNzY0YzJk",
+  "snapshot_id": "MTY2NDg4MjM1MCwwMDAwMDAwMGFlMWUyNzExOTA2OTY1ZjM3MDBlYTVlY2FlOGFjOGE0",
   "tracks": [
     {
       "added_at": "2022-10-04 11:19:10",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-10-04 11:19:10",
       "album": {
-        "name": "Al's Big Deal",
-        "url": "https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn"
-      },
-      "artists": [
-        {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
-        }
-      ],
-      "duration_ms": 414000,
-      "name": "Albert's Shuffle",
-      "url": "https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14"
-    },
-    {
-      "added_at": "2022-10-04 11:19:10",
-      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 221360,
       "name": "Things I Used to Do",
       "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
+    },
+    {
+      "added_at": "2022-10-04 11:19:10",
+      "album": {
+        "name": "Al's Big Deal",
+        "url": "https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn"
+      },
+      "artists": [
+        {
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+        }
+      ],
+      "duration_ms": 414000,
+      "name": "Albert's Shuffle",
+      "url": "https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14"
     },
     {
       "added_at": "2022-10-04 11:19:10",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-10-04 11:19:10",
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 223906,
+      "name": "Red House",
+      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
+    },
+    {
+      "added_at": "2022-10-04 11:19:10",
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 174466,
       "name": "Snatch It Back And Hold It",
       "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
-    },
-    {
-      "added_at": "2022-10-04 11:19:10",
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "Red House",
-      "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
     },
     {
       "added_at": "2022-10-04 11:19:10",

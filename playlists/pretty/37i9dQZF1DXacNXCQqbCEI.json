@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 325471,
+  "num_followers": 325544,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMDU5NmE5MTBmYTU5M2NmMjRhZGM5MzhjMTlhNDA5MjAy",
+  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMDk5MGFmY2VjMDAwM2FiYzc4YjViNGE2YWE3NmMwMTE3",
   "tracks": [
     {
       "added_at": "2022-04-15 04:56:09",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA"
     },
     {
-      "added_at": "2022-10-26 01:44:55",
+      "added_at": "2022-10-27 01:49:13",
       "album": {
         "name": "El pavo real",
         "url": "https://open.spotify.com/album/1U651FMxGylI8PoQysziz6"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
     },
     {
-      "added_at": "2022-10-26 01:44:55",
+      "added_at": "2022-10-27 01:49:13",
       "album": {
         "name": "Yo-Po-No-Po Prieto Riddiman Remixes",
         "url": "https://open.spotify.com/album/0ahus37xHDFIzFfq7sdzU4"
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
+      },
+      "artists": [
+        {
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+        }
+      ],
+      "duration_ms": 206148,
+      "name": "Quema",
+      "url": "https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Sonido Campechano",
         "url": "https://open.spotify.com/album/4yCDTz9oDmbOTGnoT2VjT2"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 332830,
       "name": "Paso Por El Fuego",
       "url": "https://open.spotify.com/track/3309nFqWGA4rnzfjqrQYzX"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Or\u00edgenes",
-        "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
-      },
-      "artists": [
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        }
-      ],
-      "duration_ms": 206148,
-      "name": "Quema",
-      "url": "https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -735,6 +735,46 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Cuando Canto Grito",
+        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
+      },
+      "artists": [
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "Luc\u00eda Pulido",
+          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
+        }
+      ],
+      "duration_ms": 341074,
+      "name": "Cuando Canto Grito",
+      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Azulejos",
+        "url": "https://open.spotify.com/album/5rC8m03xKIoFTt5iLPRtZY"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 206895,
+      "name": "Azul Oro",
+      "url": "https://open.spotify.com/track/7fAxYPaTKRmQnxJMjg51xc"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Shika Shika / Botanas, Vol. 15",
         "url": "https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW"
       },
@@ -787,26 +827,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Cuando Canto Grito",
-        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
-      },
-      "artists": [
-        {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        },
-        {
-          "name": "Luc\u00eda Pulido",
-          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
-        }
-      ],
-      "duration_ms": 341074,
-      "name": "Cuando Canto Grito",
-      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Bleu de lune (El Buho Remix)",
         "url": "https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 281100,
       "name": "Bleu de lune (El Buho Remix)",
       "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Azulejos",
-        "url": "https://open.spotify.com/album/5rC8m03xKIoFTt5iLPRtZY"
-      },
-      "artists": [
-        {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 206895,
-      "name": "Azul Oro",
-      "url": "https://open.spotify.com/track/7fAxYPaTKRmQnxJMjg51xc"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Bennu",
+        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Chapinero",
+      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Semillero",
         "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 220725,
       "name": "Sutileza",
       "url": "https://open.spotify.com/track/4eALrRnySVDdjAlWHYjrOX"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Bennu",
-        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
-      },
-      "artists": [
-        {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Chapinero",
-      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "Escape Plan",
+        "url": "https://open.spotify.com/album/4qYVBtC9qkZpEIRZDLyUHg"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        },
+        {
+          "name": "Benjam\u00edn Vanegas",
+          "url": "https://open.spotify.com/artist/3iH5J5um1uCq8fEXkuF5hF"
+        }
+      ],
+      "duration_ms": 221925,
+      "name": "Mama Clo",
+      "url": "https://open.spotify.com/track/2jUXoIl9hcfw9JQrOPRHEW"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Desierto",
         "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 162765,
       "name": "A Short Story of the Mahale Mountains",
       "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Escape Plan",
-        "url": "https://open.spotify.com/album/4qYVBtC9qkZpEIRZDLyUHg"
-      },
-      "artists": [
-        {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        },
-        {
-          "name": "Benjam\u00edn Vanegas",
-          "url": "https://open.spotify.com/artist/3iH5J5um1uCq8fEXkuF5hF"
-        }
-      ],
-      "duration_ms": 221925,
-      "name": "Mama Clo",
-      "url": "https://open.spotify.com/track/2jUXoIl9hcfw9JQrOPRHEW"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

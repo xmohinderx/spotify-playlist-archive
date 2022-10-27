@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Pocah e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,795 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,791 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 30 | [Bruta](https://open.spotify.com/track/3mQSEDjzQnlvL4wPZbIGxY) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Bruta](https://open.spotify.com/album/5R9BgwbDW54Y7ijTpolkep) | 2:16 |
 | 31 | [Tropa das Malvadinhas](https://open.spotify.com/track/6WRoWBweP92LSMGoa6NfUs) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Tropa das Malvadinhas](https://open.spotify.com/album/2KZ6lFznkf87HOnY8tdm7Q) | 2:25 |
 | 32 | [QUANDO EU TE OLHEI \- A COLORS SHOW](https://open.spotify.com/track/0enyOQLhOZz4DjK3TZ7UX3) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [QUANDO EU TE OLHEI \- A COLORS SHOW](https://open.spotify.com/album/1TSgZiq063sQKhMft5tpeF) | 2:33 |
-| 33 | [Liga pro Samu](https://open.spotify.com/track/6rmmUAr6RY43JjvFYRUuWK) | [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Liga pro Samu](https://open.spotify.com/album/2hUNPuvV5NTPUymQihNGhm) | 2:20 |
-| 34 | [Tormento](https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Tormento](https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI) | 3:18 |
+| 33 | [Tormento](https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Tormento](https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI) | 3:18 |
+| 34 | [Liga pro Samu](https://open.spotify.com/track/6rmmUAr6RY43JjvFYRUuWK) | [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Liga pro Samu](https://open.spotify.com/album/2hUNPuvV5NTPUymQihNGhm) | 2:20 |
 | 35 | [É o Poder](https://open.spotify.com/track/2BCiFaDZ3oZdVRxet12Lga) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [É o Poder](https://open.spotify.com/album/0Fdps7yyNESfqZsISQSsOc) | 3:36 |
 | 36 | [Quer Ir no Meu Show ?](https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Quer Ir no Meu Show ?](https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt) | 4:40 |
 | 37 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Nocaute](https://open.spotify.com/track/61jYnAUclCOarbNsNWDYS4) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Nocaute](https://open.spotify.com/album/72xcNZ9fxb3V7dw5u2zHNT) | 2:04 |
 | 50 | [Voltei](https://open.spotify.com/track/5xM24ffgOwCwJ9bYyNlQMW) | [Agatha](https://open.spotify.com/artist/212rAq8nUlNPTaWl7Y0b5i), [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Voltei](https://open.spotify.com/album/1cWeUMEeeityWPHsjU5Nbb) | 2:03 |
 
-Snapshot ID: `MTY2NTcxNjQwMCwwMDAwMDAwMGI4MzE4MGFkNjE5OTc3MmQzMTQ3YzI4ZDgwNTk3ODMz`
+Snapshot ID: `MTY2NTcxNjQwMCwwMDAwMDAwMDA3NTdmOTUzNmNkN2QxMzhmOGVlMzQ4ODNhYjM4ZmQw`

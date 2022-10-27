@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Lee Fields",
-  "num_followers": 151468,
+  "num_followers": 151700,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDM2NDY1NjQ1OTEyZTc0YzM0NThkNTY1YWIzZWZhNzM3",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGVhNTAwOWQyZDUxMTQ2Y2RmNjYwZGFhN2EwNzZhOTJk",
   "tracks": [
     {
       "added_at": "2022-10-14 04:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Lazy Days",
-        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
-      },
-      "artists": [
-        {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Sun Go Down",
-      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "No Time For Dreaming",
         "url": "https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 191552,
       "name": "Stay Away",
       "url": "https://open.spotify.com/track/4ml0940tmn92PzmkSb2lwU"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
+      },
+      "artists": [
+        {
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Sun Go Down",
+      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
     },
     {
       "added_at": "2021-08-02 16:49:06",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "The Dip Delivers",
-        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 227680,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l"
-    },
-    {
       "added_at": "2021-11-05 04:01:00",
       "album": {
         "name": "Last Call For Coco",
@@ -803,6 +787,22 @@
       "duration_ms": 163766,
       "name": "Love To Last",
       "url": "https://open.spotify.com/track/492FG3XeaSPRftcsu8vD9k"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "The Dip Delivers",
+        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 227680,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l"
     },
     {
       "added_at": "2022-04-05 15:36:09",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Envy",
-        "url": "https://open.spotify.com/album/6rGn9CWP5MHpGCh3muc5ax"
-      },
-      "artists": [
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        }
-      ],
-      "duration_ms": 247133,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/1r5Wy0mdNNjrQ4ZDsfeluz"
-    },
-    {
       "added_at": "2021-07-09 02:40:08",
       "album": {
         "name": "Durand Jones & The Indications (Deluxe Edition)",
@@ -851,6 +835,22 @@
       "duration_ms": 229403,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Envy",
+        "url": "https://open.spotify.com/album/6rGn9CWP5MHpGCh3muc5ax"
+      },
+      "artists": [
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/1r5Wy0mdNNjrQ4ZDsfeluz"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
-        "name": "Hard Up (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo"
-      },
-      "artists": [
-        {
-          "name": "The Bamboos",
-          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
-        }
-      ],
-      "duration_ms": 255227,
-      "name": "Hard Up",
-      "url": "https://open.spotify.com/track/2PdrcHhYBZdzP4yhkgpuhw"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Run Home Slow",
@@ -917,6 +901,22 @@
       "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
     },
     {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Hard Up (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo"
+      },
+      "artists": [
+        {
+          "name": "The Bamboos",
+          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
+        }
+      ],
+      "duration_ms": 255227,
+      "name": "Hard Up",
+      "url": "https://open.spotify.com/track/2PdrcHhYBZdzP4yhkgpuhw"
+    },
+    {
       "added_at": "2021-12-17 05:01:00",
       "album": {
         "name": "Piece of Me",
@@ -931,6 +931,26 @@
       "duration_ms": 204747,
       "name": "Through It All",
       "url": "https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Cruisin' To The Parque feat. Y La Bamba",
+        "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 215204,
+      "name": "Cruisin' to the Parque feat. Y La Bamba",
+      "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1009,26 +1029,6 @@
       "url": "https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Cruisin' To The Parque feat. Y La Bamba",
-        "url": "https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 215204,
-      "name": "Cruisin' to the Parque feat. Y La Bamba",
-      "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
-    },
-    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Thee Sacred Souls",
@@ -1081,6 +1081,22 @@
       "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
     },
     {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "California Wine",
+        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
+      },
+      "artists": [
+        {
+          "name": "Quinn Devlin",
+          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
+        }
+      ],
+      "duration_ms": 187231,
+      "name": "California Wine",
+      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Bury Me",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "California Wine",
-        "url": "https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje"
-      },
-      "artists": [
-        {
-          "name": "Quinn Devlin",
-          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
-        }
-      ],
-      "duration_ms": 187231,
-      "name": "California Wine",
-      "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "It Rains Love",
         "url": "https://open.spotify.com/album/6sPPhqjKQHveRVqR6Ijf8s"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 235213,
       "name": "It Rains Love",
       "url": "https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Sorry You Couldn't Make It",
-        "url": "https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP"
-      },
-      "artists": [
-        {
-          "name": "Swamp Dogg",
-          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
-        }
-      ],
-      "duration_ms": 170040,
-      "name": "Good, Better, Best",
-      "url": "https://open.spotify.com/track/5xJ2iRDQ7jKJl2DLsYJPYD"
     },
     {
       "added_at": "2021-10-29 04:01:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 231853,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Sorry You Couldn't Make It",
+        "url": "https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP"
+      },
+      "artists": [
+        {
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "Good, Better, Best",
+      "url": "https://open.spotify.com/track/5xJ2iRDQ7jKJl2DLsYJPYD"
     },
     {
       "added_at": "2021-12-17 05:01:00",

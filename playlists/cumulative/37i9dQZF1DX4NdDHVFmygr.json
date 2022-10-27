@@ -2246,6 +2246,24 @@
     },
     {
       "album": {
+        "name": "Mouja",
+        "url": "https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195195,
+      "name": "Mouja",
+      "url": "https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W"
+    },
+    {
+      "album": {
         "name": "Moulat Taj (Delali)",
         "url": "https://open.spotify.com/album/3EYxGv2x4HKpr1vpugqB9y"
       },

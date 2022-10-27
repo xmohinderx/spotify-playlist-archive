@@ -4,13 +4,14 @@
 
 > Rimas argentinas\. Foto: WOS.
 
-167 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
+168 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#AYFKM \(Freestyle\)](https://open.spotify.com/track/0eFPzxF2X9hlNcgzv3w6z6) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [\#AYFKM \(Freestyle\)](https://open.spotify.com/album/6Rsg3XLgMN3w02847bvAb8) | 1:56 | 2021-11-26 | 2022-04-12 |
 | [\#Ysya2020 Vol\. 6 \- Un Flow de Infarto](https://open.spotify.com/track/2byu6eeLWaBq88ZtusqU4V) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [\#Ysya2020 Vol\. 6 \- Un Flow de Infarto](https://open.spotify.com/album/7LGfXrv3UV7GAMuUOQZ37L) | 2:22 | 2021-11-26 |  |
-| [2 Gramos](https://open.spotify.com/track/4b3bC2qVLpBmsQXoOPCB1R) | [Fazzini](https://open.spotify.com/artist/0UgMoItq2HrVT6sRUF9ouY), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Always](https://open.spotify.com/album/5A6Dg5sCDSjW26RNkRYMmV) | 2:50 | 2022-04-11 |  |
+| [2 Gramos](https://open.spotify.com/track/4b3bC2qVLpBmsQXoOPCB1R) | [Fazzini](https://open.spotify.com/artist/0UgMoItq2HrVT6sRUF9ouY), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Always](https://open.spotify.com/album/5A6Dg5sCDSjW26RNkRYMmV) | 2:50 | 2022-04-11 | 2022-10-27 |
+| [2 Gramos \(feat\. Homer El Mero Mero\)](https://open.spotify.com/track/7jjSgpWXy3UePS4WrMy4fa) | [Fazzini](https://open.spotify.com/artist/0UgMoItq2HrVT6sRUF9ouY), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Always](https://open.spotify.com/album/72zreB9MSH7K9V8q19AgvV) | 2:53 | 2022-09-22 |  |
 | [21334 \- Red Bull](https://open.spotify.com/track/42sYKO9iXIJK3tsm9jJvLn) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [BIG MENU](https://open.spotify.com/artist/5J4zBfajQeBkyZuicSOL7Q) | [21334 \(Red Bull\)](https://open.spotify.com/album/03NZ1TUdzSrKP4NAvUXEJY) | 3:15 | 2021-11-26 | 2022-02-19 |
 | [333](https://open.spotify.com/track/3zdIMwE2l96zC7Txbg9g5Q) | [Flaco Vazquez](https://open.spotify.com/artist/4Ohr1XPB2qzNiiWRJlelPO) | [333](https://open.spotify.com/album/1BkbDtwVUYLHEynzgC6yKg) | 3:49 | 2022-04-11 | 2022-09-23 |
 | [333](https://open.spotify.com/track/7uRjkDEmtb4CngdV8GoW4d) | [Flaco Vazquez](https://open.spotify.com/artist/4Ohr1XPB2qzNiiWRJlelPO) | [333](https://open.spotify.com/album/36IBUMoqZrk1yx1p6OML8B) | 3:49 | 2022-09-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > Are you a day 1 fan of your favourite rapper? Prove it!\. Rap UK Day 1 Club has just launched\. <a href='https://day1club\-uk.byspotify.com/'>Check it out.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,224,476 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225,058 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 15 | [LA Leakers Freestyle](https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LA Leakers Freestyle](https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH) | 2:58 |
 | 16 | [4 The Win](https://open.spotify.com/track/78UihSJn90VSGBBES12kFL) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:27 |
 | 17 | [What's Good](https://open.spotify.com/track/1MN3iFMSQ8dfqNAZMyUp5h) | [SR](https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h), [Poundz](https://open.spotify.com/artist/2jItxZsB8PA3vday7b0RLT) | [What's Good](https://open.spotify.com/album/0wL43OLCtMsaFW7yzuc4DL) | 2:57 |
-| 18 | [Mob Ties](https://open.spotify.com/track/5U5isNSylokILAW2uvHNKV) | [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE), [Flights](https://open.spotify.com/artist/6PwC700VMuCnWok9xHSM6y) | [Mob Ties](https://open.spotify.com/album/6ZB0YUbV1yhGuhAWdIv77s) | 2:56 |
+| 18 | [Mob Ties](https://open.spotify.com/track/5U5isNSylokILAW2uvHNKV) | [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE), [Fee Gonzales](https://open.spotify.com/artist/0yXGvYSu3nMyc3UeQR0QgY) | [Mob Ties](https://open.spotify.com/album/6ZB0YUbV1yhGuhAWdIv77s) | 2:56 |
 | 19 | [ABC](https://open.spotify.com/track/0CrxeIxaG1YeUXSh9HRds2) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [ABC](https://open.spotify.com/album/73ckXQB3MX3943IOdQUIhc) | 1:53 |
 | 20 | [Seoul](https://open.spotify.com/track/1Q8L5GiqKchiwSkdMDXyP6) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Seoul](https://open.spotify.com/album/6fV7M6efvo4Qw9T2jatNbv) | 2:51 |
 | 21 | [9 Ways](https://open.spotify.com/track/1EValAfV6r4yzQHsAcUSES) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [Risk It All](https://open.spotify.com/album/7gibSSIiQtHeqSW8hbaBKx) | 3:38 |

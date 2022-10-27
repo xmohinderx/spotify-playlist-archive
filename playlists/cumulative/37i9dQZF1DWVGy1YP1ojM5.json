@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 184586,
       "name": "Crazy Down",
       "url": "https://open.spotify.com/track/3zFmqleGOMgKmkXYZH5WID"
@@ -1435,6 +1435,24 @@
       "duration_ms": 233493,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R"
+    },
+    {
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201869,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ"
     },
     {
       "album": {

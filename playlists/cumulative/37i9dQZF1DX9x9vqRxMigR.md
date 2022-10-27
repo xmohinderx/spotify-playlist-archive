@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-332 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
+333 songs - 22 hr 1 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Beat You Up](https://open.spotify.com/track/2WNaD99Z0V1BKzRH0R0dKA) | [Big Little Lions](https://open.spotify.com/artist/1S25eHELHGJo2jLuayK0X3) | [Beat You Up](https://open.spotify.com/album/4mvyk4OwjZOsBQFjrKczKW) | 3:59 | 2022-04-25 |  |
 | [Beautiful Blue](https://open.spotify.com/track/6z9uzN3jTAQUpiNupUph7c) | [Nigel Wearne](https://open.spotify.com/artist/46borjrmKCaBVcb2SMBNHe) | [Black Crow](https://open.spotify.com/album/0EgNQoG4XI7zMCANczcliz) | 4:25 | 2022-04-25 |  |
 | [Beauty & Ruin](https://open.spotify.com/track/7zuXN804bamLNUagGBwaZ6) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [Beauty & Ruin](https://open.spotify.com/album/22f2PwCpdkK6JkYRrZ3lC0) | 4:04 | 2022-04-25 |  |
-| [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 | 2022-04-25 |  |
+| [Before I Do](https://open.spotify.com/track/1boVXkkZMBJaziXMLXCiFG) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J) | 3:18 | 2022-04-25 |  |
+| [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 | 2022-04-25 | 2022-10-27 |
 | [Best Day Ever](https://open.spotify.com/track/0FpG7xhSQGo2PJnfD7FM6G) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2grVEoGEw92ONy96YK5bsr) | 3:03 | 2021-02-23 | 2022-04-26 |
 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 | 2021-02-23 | 2022-04-26 |
 | [Between Leeville & Fourchon](https://open.spotify.com/track/6fj5gmfiaiWKJRh0ogl5Ds) | [Nonc Nu & Da Wild Matous](https://open.spotify.com/artist/6WLaGxyLmxB0kKWC9ZKUty) | [Pass A Good Time or Two](https://open.spotify.com/album/5dOxHSvzEkqq2pYxob2K7g) | 3:59 | 2021-02-23 | 2022-04-26 |

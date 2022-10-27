@@ -4,7 +4,7 @@
 
 > Easy listening for a pleasant drive.
 
-344 songs - 21 hr 59 min - [published](https://open.spotify.com/playlist/1d47Qc11bpmTvpUoDV1dDf)
+345 songs - 22 hr 3 min - [published](https://open.spotify.com/playlist/1d47Qc11bpmTvpUoDV1dDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Lost](https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:39 | 2019-06-21 |  |
 | [Lost in My Mind](https://open.spotify.com/track/2A4eOWCeNZHFQnLEEJKuZX) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:19 | 2019-06-21 | 2022-10-14 |
 | [Lost in My Mind](https://open.spotify.com/track/3gvAGvbMCRvVDDp8ZaIPV5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 4:19 | 2019-06-21 | 2022-07-29 |
+| [Lost in My Mind](https://open.spotify.com/track/3n263SWk3jGYfGMxHIRukn) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 4:19 | 2019-06-21 |  |
 | [Lost Stars](https://open.spotify.com/track/30p0klayCW8WvkcTehVvqs) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [V \(Deluxe\)](https://open.spotify.com/album/3z4ASjF9zQ6efgXFr9bQXu) | 4:27 | 2019-06-21 | 2022-07-29 |
 | [Lost Stars](https://open.spotify.com/track/7rdGrVIoqwPWOULauvglio) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Lost Stars](https://open.spotify.com/album/2BSWHdGzkcZlhQmZKaNyOF) | 4:27 | 2019-06-21 |  |
 | [Lost Without You](https://open.spotify.com/track/3QlF2ExmrRP0RM7ffv7y0Q) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Lost Without You](https://open.spotify.com/album/0GNvEDf1HoEeYk6RBXxpn7) | 3:45 | 2019-06-21 | 2022-07-29 |
@@ -221,7 +222,7 @@
 | [Open up Your Eyes](https://open.spotify.com/track/4xbHz6WrKIZaIb7omWi7Jr) | [Tristan Prettyman](https://open.spotify.com/artist/49RRjdOtssOA73G9NnVeUM) | [Back to Home](https://open.spotify.com/album/6WI8PZgFya82QRcFkvoCc4) | 2:57 | 2019-06-21 | 2022-07-19 |
 | [Orange Sky](https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW) | 6:19 | 2019-06-21 |  |
 | [Orange Sky](https://open.spotify.com/track/5Szn0p3DlnawyuhX8ULCg4) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/3Wk7Z5ZUufzA163eaf8qZG) | 6:19 | 2019-06-21 | 2022-07-23 |
-| [Over And Over Again](https://open.spotify.com/track/26h6qDR3KtieqIWgnveqmC) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 4:06 | 2019-06-21 |  |
+| [Over And Over Again](https://open.spotify.com/track/26h6qDR3KtieqIWgnveqmC) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 4:06 | 2019-06-21 | 2022-10-27 |
 | [Over And Over Again](https://open.spotify.com/track/1X6kxrjWVWiKMqulM8XZpj) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Over And Over Again](https://open.spotify.com/album/1IVuFM49EVxrSfn6AJZAn9) | 4:06 | 2019-06-21 | 2022-07-29 |
 | [Over My Head \(Cable Car\)](https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 3:56 | 2019-06-21 |  |
 | [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 | 2019-06-21 |  |

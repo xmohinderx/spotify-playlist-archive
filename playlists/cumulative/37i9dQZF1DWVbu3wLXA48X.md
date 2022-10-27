@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Tegan and Sara
 
-641 songs - 1 day 14 hr 7 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
+642 songs - 1 day 14 hr 9 min - [published](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [Everysunrise](https://open.spotify.com/track/7FgIyU5i7Y2Eo8coZ1eeNW) | [Olin MattiBlue](https://open.spotify.com/artist/2E5pDM8XRBqBVdALkdcgcH) | [Everysunrise](https://open.spotify.com/album/4PrgQIQ3rmux1TSWa8Fzsv) | 3:14 | 2021-12-23 | 2022-01-21 |
 | [Everything You Do](https://open.spotify.com/track/4vy6Lc1ko2F0CF4Elc2dMj) | [The Kopycat](https://open.spotify.com/artist/7y4M1no7kXEEsCeIAZkeuR), [Nick temp.](https://open.spotify.com/artist/1NXenNaio8ydGsJz9bHZxB) | [Everything You Do](https://open.spotify.com/album/6LfR1BcfmDBr6KTaSx02qT) | 3:17 | 2021-12-23 | 2022-02-18 |
 | [Eyes](https://open.spotify.com/track/3SSXUmJovq6rivUE81Smvs) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Oldies & Goldies](https://open.spotify.com/album/0n4sAkLa48ycqcY8mpLfVt) | 3:41 | 2022-08-26 | 2022-09-23 |
-| [F.O.O.F.](https://open.spotify.com/track/2Yo3BxnzxMeWkvTx1QKBo9) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [F.O.O.F.](https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z) | 2:08 | 2022-09-30 |  |
+| [F.O.O.F.](https://open.spotify.com/track/2Yo3BxnzxMeWkvTx1QKBo9) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [F.O.O.F.](https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z) | 2:08 | 2022-09-30 | 2022-10-27 |
+| [F.O.O.F.](https://open.spotify.com/track/6Xr3s1NTck8lLiLF7VGReD) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 2:08 | 2022-10-20 |  |
 | [Fables](https://open.spotify.com/track/7qaJfp7zJoJoLxdkVnwgC2) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Fables](https://open.spotify.com/album/2Z3UKI5vh7I4zLsEOWjqEE) | 4:34 | 2022-05-20 | 2022-06-18 |
 | [Fade Into A Dream](https://open.spotify.com/track/77dJLayRVnZpqhReztMZ1l) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Fade Into A Dream](https://open.spotify.com/album/6GCENCYB7bj7ZKEZivC1as) | 2:51 | 2021-12-16 | 2021-12-31 |
 | [Fall In Love With A Girl \(feat\. Orla Gartland\)](https://open.spotify.com/track/3oDm8bWMqVw2Hn4R8nYwyZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Fall In Love With A Girl \(feat\. Orla Gartland\)](https://open.spotify.com/album/4rhuxHJsNJdATS6PHxMvQ6) | 2:48 | 2022-06-10 | 2022-06-25 |

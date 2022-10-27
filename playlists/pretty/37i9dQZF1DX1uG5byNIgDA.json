@@ -1,15 +1,15 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 217270,
+  "num_followers": 217277,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTczNTYwMCwwMDAwMDAwMDA0Mjk3NGFmN2EzNTk0N2JmZmU5YWQxY2NhNDE5ZTEx",
+  "snapshot_id": "MTY2NTczNTYwMCwwMDAwMDAwMDkxODEyNDY1ODA2MWRmNmI5YTBiYTM3MDQ0YTA4NWRk",
   "tracks": [
     {
-      "added_at": "2022-10-26 01:29:24",
+      "added_at": "2022-10-27 01:32:20",
       "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/1iAuetaxhsYUgaoD7elfxx"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/52ZJqAyxIpF0T2erjO8Ug2"
     },
     {
-      "added_at": "2022-10-26 01:29:24",
+      "added_at": "2022-10-27 01:32:20",
       "album": {
         "name": "THE SECOND STEP : CHAPTER TWO",
         "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
     },
     {
-      "added_at": "2022-10-26 01:29:24",
+      "added_at": "2022-10-27 01:32:20",
       "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/7pJ3vpCpbPy4RTACGs0ThQ"
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-10-03 14:43:12",
       "album": {
-        "name": "Savage - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
-    },
-    {
-      "added_at": "2022-10-03 14:43:12",
-      "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 181373,
       "name": "Some",
       "url": "https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9"
+    },
+    {
+      "added_at": "2022-10-03 14:43:12",
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
     },
     {
       "added_at": "2022-10-03 14:43:12",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-10-03 14:43:12",
       "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 181196,
-      "name": "Not For Sale",
-      "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
-    },
-    {
-      "added_at": "2022-10-03 14:43:12",
-      "album": {
         "name": "Glitch Mode - The 2nd Album",
         "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 207053,
       "name": "Glitch Mode",
       "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
+    },
+    {
+      "added_at": "2022-10-03 14:43:12",
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 181196,
+      "name": "Not For Sale",
+      "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
     },
     {
       "added_at": "2022-10-03 14:43:12",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-10-03 14:43:12",
       "album": {
-        "name": "NOEASY",
-        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "Mixtape : OH",
-      "url": "https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp"
-    },
-    {
-      "added_at": "2022-10-03 14:43:12",
-      "album": {
         "name": "SEVENTEEN 8th Mini Album 'Your Choice'",
         "url": "https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 232226,
       "name": "Heaven's Cloud",
       "url": "https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q"
+    },
+    {
+      "added_at": "2022-10-03 14:43:12",
+      "album": {
+        "name": "NOEASY",
+        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "Mixtape : OH",
+      "url": "https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp"
     },
     {
       "added_at": "2022-10-03 14:43:12",

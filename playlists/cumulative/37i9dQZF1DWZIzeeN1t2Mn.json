@@ -412,6 +412,28 @@
     },
     {
       "album": {
+        "name": "Get to the Point",
+        "url": "https://open.spotify.com/album/174ooCzMlQMKhUXTuuNVN4"
+      },
+      "artists": [
+        {
+          "name": "Mogli the Iceburg",
+          "url": "https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy"
+        },
+        {
+          "name": "Joey Vantes",
+          "url": "https://open.spotify.com/artist/7hJoApA9cwgCqWGvIhbCyc"
+        }
+      ],
+      "date_added": "2020-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199999,
+      "name": "Get to the Point",
+      "url": "https://open.spotify.com/track/1HgGj4WxlNXcXIuK6yRlrz"
+    },
+    {
+      "album": {
         "name": "Sad People Make Dope Music 2",
         "url": "https://open.spotify.com/album/1ZHVd9db3bAhaUI8Rwux6r"
       },
@@ -427,7 +449,7 @@
       ],
       "date_added": "2020-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 200000,
       "name": "Get to the Point (feat. Joey Vantes)",
       "url": "https://open.spotify.com/track/3hpmL5m63iqmLE4WaZariC"

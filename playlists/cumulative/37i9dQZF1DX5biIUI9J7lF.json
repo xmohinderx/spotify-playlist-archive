@@ -709,6 +709,40 @@
     {
       "album": {
         "name": "Kpo K3k3",
+        "url": "https://open.spotify.com/album/3tIuMo7OzLP6UmPvKRkPKB"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260178,
+      "name": "Kpo K3K3",
+      "url": "https://open.spotify.com/track/2ZYPJ5WrWZISMG6tfbfrIa"
+    },
+    {
+      "album": {
+        "name": "Kpo K3k3",
         "url": "https://open.spotify.com/album/6bhUfbzNRqZj6R00rNaBup"
       },
       "artists": [
@@ -735,7 +769,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 260179,
       "name": "Kpo K3K3",
       "url": "https://open.spotify.com/track/3GZ25pRVcc3JagPw86buqd"

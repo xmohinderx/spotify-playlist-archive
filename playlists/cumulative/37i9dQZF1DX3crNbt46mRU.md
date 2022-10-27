@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Taylor Swift
 
-3,771 songs - 8 day 1 hr 14 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+3,772 songs - 8 day 1 hr 17 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2158,7 +2158,8 @@
 | [Medicine](https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Medicine](https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0) | 2:38 | 2022-07-21 | 2022-07-29 |
 | [Medizin](https://open.spotify.com/track/1nKKBo5kGMhOY1KHEhz94H) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [Medizin](https://open.spotify.com/album/0OjPadk58MsNEhEVRJ7Y8N) | 2:51 | 2022-09-22 | 2022-09-30 |
 | [Medizin](https://open.spotify.com/track/23QvvFds2ICn6Ho2Em1GOX) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Rebell Army](https://open.spotify.com/album/1CZA75tUwcH9Sz9ftOnFoy) | 2:48 | 2022-02-17 | 2022-02-25 |
-| [Medizin \(feat\. Jamule\)](https://open.spotify.com/track/3fAz5OBCj54Ar8vzps112y) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Medizin \(feat\. Jamule\)](https://open.spotify.com/album/6pKa9ZwiXrysumGnan5sFS) | 3:15 | 2022-10-20 |  |
+| [Medizin \(feat\. Jamule\)](https://open.spotify.com/track/1KKdLVAi0Z4YKrdiyQS3vF) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Medizin \(feat\. Jamule\)](https://open.spotify.com/album/43VvqUcYspfTwTgmQLfVTw) | 3:15 | 2022-10-21 |  |
+| [Medizin \(feat\. Jamule\)](https://open.spotify.com/track/3fAz5OBCj54Ar8vzps112y) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Medizin \(feat\. Jamule\)](https://open.spotify.com/album/6pKa9ZwiXrysumGnan5sFS) | 3:15 | 2022-10-20 | 2022-10-27 |
 | [Medusa](https://open.spotify.com/track/2qGF6Ip9MpiVD5UFhYxkko) | [Zemine](https://open.spotify.com/artist/7zB3RuBgX3ssVdhKBQOEjJ) | [Medusa](https://open.spotify.com/album/00fUPMqGfKBFujvU8Zt1zM) | 2:50 | 2022-05-19 | 2022-05-27 |
 | [Mehr Liebe](https://open.spotify.com/track/5xfihzCcIG17TPpmApmKbw) | [K\-Fly](https://open.spotify.com/artist/4jDdEv3oafVcJfrywVDi4p), [Tim Schulz](https://open.spotify.com/artist/21rzx6lVcI7kO5XYpBJq0D) | [Mehr Liebe](https://open.spotify.com/album/6KIFKGiqUa4VX7Su0LKdJW) | 2:37 | 2022-06-30 | 2022-07-08 |
 | [Mehr von Dir](https://open.spotify.com/track/5VtRiKpekD4HgCk95LkV6c) | [Mike Singer](https://open.spotify.com/artist/1LRpAVWq5z6VZMG3tTdZKU), [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Mehr von Dir](https://open.spotify.com/album/0CynIKWTz1zlob0Q2Nmwx9) | 2:11 | 2022-06-16 | 2022-06-24 |

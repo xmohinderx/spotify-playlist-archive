@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,392 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,261 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 10 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 |
 | 11 | [心臓](https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:34 |
 | 12 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 |
-| 13 | [Car♡Wash♡Girl](https://open.spotify.com/track/6L4HbL7C0cCMHAdEKCHux2) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/7BV3D6bYqrgCq7S4WYDG3x) | 3:37 |
+| 13 | [Car♡Wash♡Girl](https://open.spotify.com/track/2ijNxRyvM9bEqNZPo1ievQ) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 3:37 |
 | 14 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 |
 | 15 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 |
-| 16 | [青春切符](https://open.spotify.com/track/5lZbYGHSJPnnvMDjyqLnms) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [青春切符](https://open.spotify.com/album/6JjbcI0T2ATnzl0sLF6I6C) | 4:04 |
-| 17 | [HIGHEST](https://open.spotify.com/track/7IptC49keGgOpsfPYd9mXt) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [TVアニメ「陰の実力者になりたくて!」オープニングテーマ「HIGHEST」](https://open.spotify.com/album/2yOfQVtm4LE6TdA0Xc7bbG) | 3:36 |
+| 16 | [SeishunKippu](https://open.spotify.com/track/0gb9k8uR9jC9Jtk2OdapKs) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [SeishunKippu](https://open.spotify.com/album/4bHwSxmTANprSv6iGwNezt) | 4:04 |
+| 17 | [HIGHEST](https://open.spotify.com/track/1ocxu4f7ZOjOcwAbqQ8l1T) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPENING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW”](https://open.spotify.com/album/0thfg8QuF1USWyk0XYYqMh) | 3:36 |
 | 18 | [Speak Out meets Giga](https://open.spotify.com/track/2lEO1KZiyh5gsSM10H2q4o) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [Speak Out meets Giga](https://open.spotify.com/album/5JHClsBOrIzUUMWUbJpceO) | 2:45 |
 | 19 | [鍋奉行](https://open.spotify.com/track/3OiSm2385mSfDIMvnYapBV) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 2:21 |
 | 20 | [SKETCH](https://open.spotify.com/track/1hoeIeIVXV9nDPWL21Nbjj) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [SKETCH](https://open.spotify.com/album/0A1gohH5dOABV1NkjK49dL) | 3:57 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 23 | [NEVER SAY GOODBYE](https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [NEVER SAY GOODBYE](https://open.spotify.com/album/0f9ojxk4DzroHLGAU5iUA3) | 4:50 |
 | 24 | [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 |
 | 25 | [最果て](https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [最果て](https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC) | 3:00 |
-| 26 | [irony \- from CrosSing](https://open.spotify.com/track/20luTPJsOleiRaFlAOogRE) | [竹達彩奈](https://open.spotify.com/artist/4R1zxy2LxEjEgKpMre81HN) | [irony \- from CrosSing](https://open.spotify.com/album/7o1ijK5UmH6NhdgClRsDOj) | 4:19 |
+| 26 | [Irony \- From CrosSing](https://open.spotify.com/track/61zeExliFdY7LIiAYAFKW7) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Irony \- From CrosSing](https://open.spotify.com/album/1RkwCpcgPJkwaXFIeGRxt4) | 4:19 |
 | 27 | [君よ 気高くあれ](https://open.spotify.com/track/0rlYL6IQIwLZwYIguyy3l0) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [君よ 気高くあれ](https://open.spotify.com/album/50H81UtyttWHuL3qK9TwLc) | 3:36 |
 | 28 | [いつしか](https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [いつしか](https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq) | 4:00 |
 | 29 | [Z.E.R.O.](https://open.spotify.com/track/72q1f85sG2GZRo3i9GdkOg) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Z.E.R.O.](https://open.spotify.com/album/1Oz6fVlYIPMO4VKT8UmPPx) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 74 | [友情的行進](https://open.spotify.com/track/0VjvxavbMLReB2maDJwokt) | [ファンタスティック☆パイセン](https://open.spotify.com/artist/2VRte4lrD9hgjwg0js8r53) | [友情的行進](https://open.spotify.com/album/0yduV9d4GQsFrVg9pn7fY4) | 3:55 |
 | 75 | [FRIENDS \(from "永久少年 Eternal Boys"\)](https://open.spotify.com/track/0xALdPJdiAiU1JzkPDaG7L) | [Story of Love](https://open.spotify.com/artist/3LVHQwyhX567rGRU09vt6I) | [FRIENDS \(from "永久少年 Eternal Boys"\)](https://open.spotify.com/album/2rcdKb5IEzwFT0BpzzflwZ) | 3:43 |
 
-Snapshot ID: `MTY2NjcxMDAwMCwwMDAwMDAwMDU3NzlmNmU0MzVjY2M3ZjgwNjc3ZjFlYjRlY2M3MDZj`
+Snapshot ID: `MTY2NjcxMDAwMCwwMDAwMDAwMGVlMDllYmNhZjNlMDE5NWU5Yjg5MzllZGM3ZTA5MjFk`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNzM1NSwwMDAwMDAwMDI0M2FhYzIxNDgxMGQ1MmU1NDc5NzEzMTljM2Y4ODc2",
+  "snapshot_id": "MTY2NTExNzM1NSwwMDAwMDAwMDU2NTRmYzZmM2IzNDUxMTFhOTZhYWY1OTBiNDk5ZGQ0",
   "tracks": [
     {
       "added_at": "2022-10-07 04:35:55",
@@ -899,8 +899,8 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "GENERATION",
-        "url": "https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b"
+        "name": "Man proposes God disposes",
+        "url": "https://open.spotify.com/album/0DGRyeNfJkwnivIlc63OHV"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
         }
       ],
-      "duration_ms": 214293,
-      "name": "GENERATION(Prod. Lean$moke)",
-      "url": "https://open.spotify.com/track/55ZNU07XDdynQMykHXYglz"
+      "duration_ms": 212000,
+      "name": "Man proposes God disposes",
+      "url": "https://open.spotify.com/track/1a5jrYSUrsPeI4riWgQ7XQ"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "MARZ 2 AMBITION",
+        "url": "https://open.spotify.com/album/4U1XmZrQVn3R0Y8GDTw356"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 152921,
+      "name": "TRUE (Prod. by Way Ched)",
+      "url": "https://open.spotify.com/track/71z0yOhlBsiuUZvLxs6xbz"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "SAVED MY LIFE",
         "url": "https://open.spotify.com/album/3AMcOPFUmreqG9qamdjzfa"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 229106,
       "name": "SAVED MY LIFE (Prod. Kidstone)",
       "url": "https://open.spotify.com/track/14dJ7lD1iJhxfx6b4vutVY"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "MARZ 2 AMBITION",
-        "url": "https://open.spotify.com/album/4U1XmZrQVn3R0Y8GDTw356"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 152921,
-      "name": "TRUE (Prod. by Way Ched)",
-      "url": "https://open.spotify.com/track/71z0yOhlBsiuUZvLxs6xbz"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
+        "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
+      },
+      "artists": [
+        {
+          "name": "Han Yo Han",
+          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
+      "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Dingo X DAMOIM Pt. 4",
         "url": "https://open.spotify.com/album/7rx1WSSYwxyUkH30KbqftE"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 231023,
       "name": "RUN DAMOIM",
       "url": "https://open.spotify.com/track/69tNPP4pKkRmXGqFAMxlyE"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
-        "url": "https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS"
-      },
-      "artists": [
-        {
-          "name": "Han Yo Han",
-          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Not Like You (HANLIM GYM X Han Yo Han, JUSTHIS)",
-      "url": "https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        }
-      ],
-      "duration_ms": 123287,
-      "name": "MIRACLE(Album version)",
-      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "UNDERGROUND ROCKSTAR",
         "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 197266,
       "name": "Little Brothers (Feat. LIL GIMCHI)",
       "url": "https://open.spotify.com/track/3pJnCMY3ox7NCXYU1kERms"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        }
+      ],
+      "duration_ms": 123287,
+      "name": "MIRACLE(Album version)",
+      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1891,6 +1891,26 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "Show Me the Money 4 Episode 5",
+        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
+      },
+      "artists": [
+        {
+          "name": "BlackNut",
+          "url": "https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ"
+        },
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/3YFNWBXKaHtR6RVvReN99N"
+        }
+      ],
+      "duration_ms": 410810,
+      "name": "Something I can do",
+      "url": "https://open.spotify.com/track/0QOvc1Y1gPItKQf3l3eBTR"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -1911,26 +1931,6 @@
       "duration_ms": 237986,
       "name": "Mask On (Feat. Paloalto & Coogie) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/0jbjJFQsatcRCswxTl9X7J"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "Show Me the Money 4 Episode 5",
-        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
-      },
-      "artists": [
-        {
-          "name": "BlackNut",
-          "url": "https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ"
-        },
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/3YFNWBXKaHtR6RVvReN99N"
-        }
-      ],
-      "duration_ms": 410810,
-      "name": "Something I can do",
-      "url": "https://open.spotify.com/track/0QOvc1Y1gPItKQf3l3eBTR"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "natural high",
+        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 140411,
+      "name": "dreamin'",
+      "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/0I2m1bRabNDluBDGQIW4EG"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 197573,
       "name": "Going Home (feat. Koonta)",
       "url": "https://open.spotify.com/track/5aisTRqmjj5DUb22KUmzjq"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "natural high",
-        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 140411,
-      "name": "dreamin'",
-      "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"
     }
   ],
   "unique_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",

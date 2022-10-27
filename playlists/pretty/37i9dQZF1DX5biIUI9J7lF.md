@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > more than just a lifestyle
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,451 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,475 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 56 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 |
 | 57 | [Poppin'](https://open.spotify.com/track/582GTwikEv86oVKjYvfwcM) | [Django23](https://open.spotify.com/artist/6idAEKryH3ywILH6WYFWZ9), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [Poppin'](https://open.spotify.com/album/16HLb3NFsQ4lZj405mBHyG) | 3:01 |
 | 58 | [Soft Life](https://open.spotify.com/track/6u2IvQN4TBBPLXkGYwWTlw) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Amagama](https://open.spotify.com/album/0BGc6z2e1fCAEi2GAngKRm) | 4:08 |
-| 59 | [Kpo K3K3](https://open.spotify.com/track/3GZ25pRVcc3JagPw86buqd) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Kpo K3k3](https://open.spotify.com/album/6bhUfbzNRqZj6R00rNaBup) | 4:20 |
+| 59 | [Kpo K3K3](https://open.spotify.com/track/2ZYPJ5WrWZISMG6tfbfrIa) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Kpo K3k3](https://open.spotify.com/album/3tIuMo7OzLP6UmPvKRkPKB) | 4:20 |
 | 60 | [Chop Life \- Remix](https://open.spotify.com/track/2Xy2VaKdByJ1zMyGTy0T0L) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A), [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6), [Mr\. Dutch](https://open.spotify.com/artist/14v8N6lM4z703uXHAVC9zN) | [Chop Life \(Remix\)](https://open.spotify.com/album/5EldLnHAzHgBxsqv6S6XDd) | 3:02 |
 
-Snapshot ID: `MTY2NTc0NTIwMCwwMDAwMDAwMDMyODAzYzdhZmFhYTZmOTFiNjZlZjBiMGVkNmVmMjk3`
+Snapshot ID: `MTY2NTc0NTIwMCwwMDAwMDAwMGM5M2FiYjRhNTJhOTA1NDYyMWFlYTY3OTAzMDUwZGYz`

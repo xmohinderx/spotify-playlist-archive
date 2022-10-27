@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,211 likes - 116 songs - 6 hr 34 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,211 likes - 117 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,5 +124,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 114 | [Spirit On Mine \(feat\. Luck\)](https://open.spotify.com/track/0RHKaHbjq89tHmr2HSxyvE) | [Venessa Michaels](https://open.spotify.com/artist/7dPE07dAqbgWkJEdewUJDC), [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M) | [Spirit On Mine \(feat\. Luck\)](https://open.spotify.com/album/6AuypIwd3phed9BaarcGk2) | 3:13 |
 | 115 | [Joan](https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Joan](https://open.spotify.com/album/6j8J7woocVNSo52ASBg2b3) | 5:18 |
 | 116 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 |
+| 117 | [Nightmare](https://open.spotify.com/track/4NTVnhW1sP7N6GmnYPzK18) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8) | [Nightmare](https://open.spotify.com/album/2Z3uMCXliH7RDx4ab2oMlz) | 2:27 |
 
-Snapshot ID: `MTAwMjgsMTljYTdhY2QwOThmNzA1ZTA4ZGZjMDVhNzk2MWYyY2M2OTVmYTkzZA==`
+Snapshot ID: `MTAwMjksOTgyNTAzNDYyZmIyMjgwNTM4NzQ1ZDVhMGUzZjUyODUzZGE5ZWVmOQ==`

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-119 songs - 6 hr 12 min - not published yet
+121 songs - 6 hr 18 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bot Fight](https://open.spotify.com/track/29g0FD7lk8B3Qj2VXKihLt) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Bot Fight](https://open.spotify.com/album/03XCiMYaPTpQs5ntaHG3Hg) | 4:35 | 2022-08-05 |  |
 | [BOUNCE!](https://open.spotify.com/track/0tDQdGzAuoz7H21SYlAyCj) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm) | [BOUNCE!](https://open.spotify.com/album/2W9hlXiWGgzaeZ3N6LavPE) | 2:30 | 2022-06-17 |  |
 | [Bring Me The Light \- Rob Gasser Remix](https://open.spotify.com/track/5i2aGKutUx2keiTqQXAm8j) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Bring Me The Light \(Rob Gasser Remix\)](https://open.spotify.com/album/30gpaJcuO1M6izxV6osZvG) | 4:11 | 2022-03-31 |  |
+| [By Your Side](https://open.spotify.com/track/7xdLOiw41ACPrR6lKRhMgk) | [God's Warrior](https://open.spotify.com/artist/4OGggb4JhHb8BejoK3Y0zh) | [By Your Side](https://open.spotify.com/album/0SprUbV3HTNOWG5guO0VSU) | 3:25 | 2022-10-26 |  |
 | [Call On Me](https://open.spotify.com/track/6IZBXIuMsIuVYL6MI5IW50) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791) | [Call On Me](https://open.spotify.com/album/1LfH2dTHBSEuUqfqjxFP5e) | 3:05 | 2022-09-21 |  |
 | [Calling Out](https://open.spotify.com/track/1XhtyPGOGR7Hk2QZPBo5gV) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Calling Out](https://open.spotify.com/album/5rnsg03WBzzwHsgQICocX4) | 2:08 | 2022-08-02 |  |
 | [Can't You Feel It](https://open.spotify.com/track/7qw1FDLaNC5LA6kifisldI) | [MIDNIGHT CVLT](https://open.spotify.com/artist/6fT08N8EN9rPdbeWxXkNdX), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU) | [Can't You Feel It](https://open.spotify.com/album/1mdT842jxLeARBJpahEw6f) | 3:43 | 2022-09-20 |  |
@@ -73,6 +74,7 @@
 | [Moments](https://open.spotify.com/track/1sTKNKmcwHyE8Nxo2gNq77) | [Lost Identities](https://open.spotify.com/artist/76BHKmTZPOUV3itxUUXmkQ), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Moments](https://open.spotify.com/album/7IpkM4Q4T63J4C56pAFgQc) | 3:39 | 2022-04-14 |  |
 | [Need U](https://open.spotify.com/track/0JlKZ0W9iPJctsUMNSDMeo) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Lynzz](https://open.spotify.com/artist/7BNmWFren7JBhowtx1SgdH) | [Need U](https://open.spotify.com/album/1PShwrLIuLYacTtC9O6U8b) | 1:57 | 2022-07-19 |  |
 | [Need Ya](https://open.spotify.com/track/2S1JV3N08V5poRs2RbIMOp) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Need Ya](https://open.spotify.com/album/7shTamr3MYWd0OOIBWcwwu) | 2:40 | 2022-07-29 |  |
+| [Neomorph](https://open.spotify.com/track/6W6mHDZCAcdRdFFavmru6u) | [NO QVLT](https://open.spotify.com/artist/4KhqCc2m8ZmB3fraLwK4fg) | [Neomorph](https://open.spotify.com/album/68jkhRlVn7skH09QaF5AzL) | 2:46 | 2022-10-26 |  |
 | [No Rival](https://open.spotify.com/track/1Q9IvR1mzz2qzElvcARuXF) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [No Rival](https://open.spotify.com/album/7cf61DeA3JoCN9n9nyBQ4V) | 3:18 | 2022-04-29 |  |
 | [No Way Back](https://open.spotify.com/track/4M5FGieNXYe8aZDnLehIJ8) | [SFRNG](https://open.spotify.com/artist/0PkBrqmi8Ma9hmKD0hB2W2), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [Just Isac](https://open.spotify.com/artist/4WfRJXoLtLLCxbyOGBbzKV), [Custody](https://open.spotify.com/artist/7dzrpQi4ITF86WilQbPBr8) | [No Way Back](https://open.spotify.com/album/4rpSDrUxE8fzv247TUX9Da) | 2:39 | 2022-06-28 |  |
 | [Nobody](https://open.spotify.com/track/2wsH9mYlpO698u3NOsD6Xw) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Nobody](https://open.spotify.com/album/5CyvFcv9b2H2dRpQ3EzI2M) | 3:10 | 2022-07-07 |  |

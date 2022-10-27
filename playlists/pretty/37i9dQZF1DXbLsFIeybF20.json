@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 139328,
+  "num_followers": 139338,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMGVhZmVmMzA2M2E2NzZkZmQxZDM1MDhlMGRhM2Q1OGE0",
+  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMGQ0Yjc2YjQ2ZmM4MGU5Y2M5MTBjMjVjM2ZjNjI4NzNh",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -435,6 +435,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Mr. New Orleans",
+        "url": "https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH"
+      },
+      "artists": [
+        {
+          "name": "Pete Fountain",
+          "url": "https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd"
+        }
+      ],
+      "duration_ms": 169026,
+      "name": "Walking Through New Orleans",
+      "url": "https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Presenting Johnny Dodds",
         "url": "https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 179600,
       "name": "I'm Goin' Huntin'",
       "url": "https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Mr. New Orleans",
-        "url": "https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH"
-      },
-      "artists": [
-        {
-          "name": "Pete Fountain",
-          "url": "https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd"
-        }
-      ],
-      "duration_ms": 169026,
-      "name": "Walking Through New Orleans",
-      "url": "https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK"
     },
     {
       "added_at": "2021-04-26 16:53:52",

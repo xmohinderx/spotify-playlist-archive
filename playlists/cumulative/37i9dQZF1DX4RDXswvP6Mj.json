@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: KWON EUN BI(\uad8c\uc740\ube44)) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
+  "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: EPEX(\uc774\ud399\uc2a4)) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
   "name": "K-Club Party",
   "published_playlist_ids": [
     "0IIEvRANFzgYAa88SFKSJA"
@@ -424,6 +424,24 @@
     },
     {
       "album": {
+        "name": "BEFORE SUNRISE Part. 4",
+        "url": "https://open.spotify.com/album/21QlwJM8El7dXWi16woW0G"
+      },
+      "artists": [
+        {
+          "name": "TFN",
+          "url": "https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202571,
+      "name": "AMAZON",
+      "url": "https://open.spotify.com/track/52duVlQdX7yyZ98WygiPrH"
+    },
+    {
+      "album": {
         "name": "Be My BoyFriend (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1XfnCND8h4hRky8uOw0u0Q"
       },
@@ -631,6 +649,24 @@
       "duration_ms": 180066,
       "name": "Attention",
       "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+    },
+    {
+      "album": {
+        "name": "The Beginning : \u59cb\u4f5c",
+        "url": "https://open.spotify.com/album/2rk5luKry7s1kCsklJmxKL"
+      },
+      "artists": [
+        {
+          "name": "ATBO",
+          "url": "https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196373,
+      "name": "ATTITUDE",
+      "url": "https://open.spotify.com/track/4G3kw5Y7pbwK9aE8mjfivE"
     },
     {
       "album": {
@@ -4116,6 +4152,24 @@
     },
     {
       "album": {
+        "name": "EPEX 4th EP Album Prelude of Love Chapter 1. \u2018Puppy Love\u2019",
+        "url": "https://open.spotify.com/album/2JZJ0Eo9Zi2hqFS3ddBumM"
+      },
+      "artists": [
+        {
+          "name": "EPEX",
+          "url": "https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194186,
+      "name": "Hymn to Love",
+      "url": "https://open.spotify.com/track/3HsBjL08LXLjzTAjlJNVLA"
+    },
+    {
+      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
@@ -4697,7 +4751,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
@@ -5757,7 +5811,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 221573,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
@@ -8210,6 +8264,24 @@
     },
     {
       "album": {
+        "name": "Day&Night",
+        "url": "https://open.spotify.com/album/6tsh5bEFhDVuWVaNCGVhjc"
+      },
+      "artists": [
+        {
+          "name": "CLASS:y",
+          "url": "https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "Tick Tick Boom",
+      "url": "https://open.spotify.com/track/19WBBlTBTcgNGYBbY6HZB6"
+    },
+    {
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
       },
@@ -8463,7 +8535,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 170600,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ"
@@ -8643,7 +8715,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 183693,
       "name": "WA DA DA",
       "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"

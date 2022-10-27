@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 27120,
+  "num_followers": 27160,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDk2MywwMDAwMDAwMDk5OTc1ODlkY2ExODI0ZjUwZGEyMGFiNmMyYmJiNjBh",
+  "snapshot_id": "MTY2MTkzMDk2MywwMDAwMDAwMDY4N2ZlMmUzOWFmNThhNDNjZTE3Y2I3YTBkNmQ3NmY4",
   "tracks": [
     {
       "added_at": "2022-08-31 07:29:23",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "Mi Historia: Paco De Lucia",
-        "url": "https://open.spotify.com/album/4psU1Z4bLtTOwZjmmL6lid"
-      },
-      "artists": [
-        {
-          "name": "Paco de Luc\u00eda",
-          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
-        }
-      ],
-      "duration_ms": 360426,
-      "name": "Entre Dos Aguas",
-      "url": "https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
         "name": "Abraxas",
         "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 170106,
       "name": "Se a Cabo",
       "url": "https://open.spotify.com/track/5JPXVcoVUZd3JYTQEFf9ug"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
+        "name": "Mi Historia: Paco De Lucia",
+        "url": "https://open.spotify.com/album/4psU1Z4bLtTOwZjmmL6lid"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "duration_ms": 360426,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa"
     },
     {
       "added_at": "2022-08-31 07:29:23",

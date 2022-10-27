@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 55240,
+  "num_followers": 55276,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDcyNzMyOGZkYzc5ZGMyMDc2MDU2NGViM2FlZmVjMDk4",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDA0ZjA0MDlmNDY3YWRlYzJlNjE2YzU0ZDYyNDM2ZWYx",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "S\u00e9 Que Me Enga\u00f1aste un D\u00eda",
-        "url": "https://open.spotify.com/album/6QAmZA5XSfwanx2QdCyxT1"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
-        }
-      ],
-      "duration_ms": 201514,
-      "name": "Me Dices Que Te Vas",
-      "url": "https://open.spotify.com/track/3N2a9M6Dm9azoY1YmmSBmu"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "La Historia De Jose Feliciano",
         "url": "https://open.spotify.com/album/0Nev5wXF40lBeYwjz1syW9"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
-        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
+        "name": "S\u00e9 Que Me Enga\u00f1aste un D\u00eda",
+        "url": "https://open.spotify.com/album/6QAmZA5XSfwanx2QdCyxT1"
       },
       "artists": [
         {
-          "name": "Dino",
-          "url": "https://open.spotify.com/artist/7xyshlh8wadJg6dB4SYfPm"
+          "name": "Iv\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
         }
       ],
-      "duration_ms": 294000,
-      "name": "Mil A\u00f1os",
-      "url": "https://open.spotify.com/track/5uF6rmLCccjT8C08GUESf4"
+      "duration_ms": 201514,
+      "name": "Me Dices Que Te Vas",
+      "url": "https://open.spotify.com/track/3N2a9M6Dm9azoY1YmmSBmu"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -371,6 +355,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
+        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
+      },
+      "artists": [
+        {
+          "name": "Dino",
+          "url": "https://open.spotify.com/artist/7xyshlh8wadJg6dB4SYfPm"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Mil A\u00f1os",
+      "url": "https://open.spotify.com/track/5uF6rmLCccjT8C08GUESf4"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Musica...Recuerdo Inolvidable",
         "url": "https://open.spotify.com/album/7pZ3OkH9YbE4zebon4dvhl"
       },
@@ -383,22 +383,6 @@
       "duration_ms": 159240,
       "name": "Se Rompio la Cadena",
       "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/0AKTrMTiF6tFzOt2oYkwhW"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
-        }
-      ],
-      "duration_ms": 240625,
-      "name": "Mozo Deme Otra Copa",
-      "url": "https://open.spotify.com/track/6NwgRRmIOlAdhicVB7T6Xt"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -451,6 +435,22 @@
       "duration_ms": 183306,
       "name": "Total",
       "url": "https://open.spotify.com/track/5nUf759XOaK2vnUws4acJM"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/0AKTrMTiF6tFzOt2oYkwhW"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
+        }
+      ],
+      "duration_ms": 240625,
+      "name": "Mozo Deme Otra Copa",
+      "url": "https://open.spotify.com/track/6NwgRRmIOlAdhicVB7T6Xt"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
-        }
-      ],
-      "duration_ms": 137826,
-      "name": "En El Balcon Aquel",
-      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Inolvidable (Boleros)",
         "url": "https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 215000,
       "name": "Ma\u00f1anas de Carnaval",
       "url": "https://open.spotify.com/track/1TpiHiQiv8TY3Tw0KZKv0V"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+      },
+      "artists": [
+        {
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+        }
+      ],
+      "duration_ms": 137826,
+      "name": "En El Balcon Aquel",
+      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr"
-      },
-      "artists": [
-        {
-          "name": "Bobby Capo",
-          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Lo Que Quiera Lola",
-      "url": "https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "El Rey de las Cantinas",
         "url": "https://open.spotify.com/album/2B0w9D8Ras1AmoZnp6DZcP"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 192040,
       "name": "Corazoncito",
       "url": "https://open.spotify.com/track/4O7oTlSS1fOAmhdXIhRlIU"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr"
+      },
+      "artists": [
+        {
+          "name": "Bobby Capo",
+          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Lo Que Quiera Lola",
+      "url": "https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ"
     },
     {
       "added_at": "2021-12-17 05:01:00",

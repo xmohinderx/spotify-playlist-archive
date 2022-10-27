@@ -222,6 +222,32 @@
     },
     {
       "album": {
+        "name": "27 in Accra Town",
+        "url": "https://open.spotify.com/album/45b0DqkIiLicB6YcNHea52"
+      },
+      "artists": [
+        {
+          "name": "DJ Yamz",
+          "url": "https://open.spotify.com/artist/7r7jLkop1QhNvbiD9iWG5D"
+        },
+        {
+          "name": "Prince Hakeem Matthews",
+          "url": "https://open.spotify.com/artist/3VR8K8yMdHiA5lmKKMSCCt"
+        },
+        {
+          "name": "Rama Brew",
+          "url": "https://open.spotify.com/artist/21UP1AGVLvaDd2bNaHnpRf"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284117,
+      "name": "Blue Film",
+      "url": "https://open.spotify.com/track/2hyzt7X3NUy8cEnIqJqA0C"
+    },
+    {
+      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/52NNbFus4RMbeBzdYmNmx5"
       },
@@ -1133,7 +1159,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 152723,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/47Ktfsy8HVbU7bGZik0ASR"

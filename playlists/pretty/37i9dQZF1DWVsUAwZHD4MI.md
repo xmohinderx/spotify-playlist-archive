@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,641 likes - 78 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,689 likes - 78 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 54 | [Lo tek massacre](https://open.spotify.com/track/0B0e0FZ8FYGJ6uqUc3lEN7) | [Kim](https://open.spotify.com/artist/0VgI6DYUxqxSQ110X1Na3s) | [Improvisations à la galerie du pop up](https://open.spotify.com/album/5QoU3qy0qdMfoOVGdWEHLR) | 9:24 |
 | 55 | [Silver Surfer \- Original Short Mix](https://open.spotify.com/track/1gP8rVBBao6qibrpqxKFWM) | [Hardy Hard](https://open.spotify.com/artist/5yJMXLqbrMgnN7DIck3hz9) | [Silver Surfer](https://open.spotify.com/album/5wAmqHwD5TGM7ETiJnwFPT) | 3:28 |
 | 56 | [Play](https://open.spotify.com/track/5oiTnaEHK3OFDZIL8AIYwu) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Play](https://open.spotify.com/album/20sS6wKU6D5dQfps6dGh41) | 3:21 |
-| 57 | [Supersoaker](https://open.spotify.com/track/21lsxNQxBO9TLUsq3AqDfK) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/2Rs0kFucNpFQVVjFxrt9e9) | 3:04 |
+| 57 | [Supersoaker](https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA) | 3:04 |
 | 58 | [Tic](https://open.spotify.com/track/6rhaQghzTIhGhwebTAe0hD) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Tic](https://open.spotify.com/album/0w92mMZkUdgkJIJWGaX83W) | 2:10 |
 | 59 | [Lalala \(Want Somebody\) \- X\-Coast Remix](https://open.spotify.com/track/2wC5MC7ya0YtiMPi11zIgn) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [TDJ002 DELUXE](https://open.spotify.com/album/6Bni8QVdMurBYVtt3625xQ) | 3:55 |
 | 60 | [Good Luck](https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Good Luck](https://open.spotify.com/album/51QKtoBoHMU2dcOrRzeYBg) | 3:55 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 77 | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/track/3VlqU2BNVsIl5MQpNOAbG7) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj) | [LVCKY \(feat\. Rakky Ripper\)](https://open.spotify.com/album/4pWJWWFJFknXNb0rFrV8zl) | 3:06 |
 | 78 | [Love Me Still](https://open.spotify.com/track/372TjIX9F2p8WXOs7zaPYd) | [J!mmy](https://open.spotify.com/artist/5EKRIE9OkMU5e5l5kbWAQa), [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Love Me Still](https://open.spotify.com/album/4uA5ljpobuwL5AhtEubmSG) | 3:12 |
 
-Snapshot ID: `MTY2NTc1NTMxOCwwMDAwMDAwMDVmNzYyYTEyYzBiOTA0YjZlZTE2NDY1ZTUzOTMwYzM3`
+Snapshot ID: `MTY2NTc1NTMxOCwwMDAwMDAwMDIzNzUzODQ2MGU5MGE0NGRiOWNiYTA4NmViOGFmOTZk`

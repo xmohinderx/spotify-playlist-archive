@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127205,
+  "num_followers": 127207,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzcyNyw4OTA2ZjcxNGE5MWE1OGZkNDdiYWRkNmMxOWI0MTE4ZTk3YTViYTcw",
+  "snapshot_id": "MzcyOSw5N2Q1MDlhODliZTVjZmZjYzBhNjZkOTQxMmFlM2RlYjk4ZjRhNmJi",
   "tracks": [
+    {
+      "added_at": "2022-10-26 19:10:18",
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS"
+      },
+      "artists": [
+        {
+          "name": "Approaching Black",
+          "url": "https://open.spotify.com/artist/0SfWu37246YXADKirimzyW"
+        },
+        {
+          "name": "Indi Starling",
+          "url": "https://open.spotify.com/artist/7dUCSkUMN048CYGYKfjDZe"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/6PZDe8NpAjiUSkD3q6gCPs"
+    },
     {
       "added_at": "2022-10-25 19:43:59",
       "album": {
@@ -1067,26 +1087,6 @@
       "duration_ms": 204800,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/57qREwXYYpVtANx4Vldnux"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Black Velvet",
-        "url": "https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i"
-      },
-      "artists": [
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        },
-        {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

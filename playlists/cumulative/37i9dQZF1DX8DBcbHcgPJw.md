@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Dj Alex & La Joaqui.
 
-312 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/7vDusSvVBxYbBiawprvkqw)
+313 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/7vDusSvVBxYbBiawprvkqw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Tatuaje](https://open.spotify.com/track/7y3pKqVYRJYJHh1cJOLe5z) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [Tatuaje](https://open.spotify.com/album/6eOb2ADmqBZpXdVwy73ZJq) | 3:01 | 2022-03-04 | 2022-07-01 |
 | [Te Burlaste de Mi](https://open.spotify.com/track/2YCaTaj5GdDjb7iujE6Lfi) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Te Burlaste de Mi](https://open.spotify.com/album/74lgU8LH2m43mBmX45Lzl8) | 3:13 | 2022-02-04 | 2022-06-10 |
 | [Te Conozco / Te Extraño Te Olvido Te Amo / Me Dedique a Perderte](https://open.spotify.com/track/5LtwSwkkWZ3QGdrpcf6gHh) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Locho](https://open.spotify.com/artist/187Mm9XkT2XrJNPzRN5akm) | [Te Conozco / Te Extraño Te Olvido Te Amo / Me Dedique a Perderte](https://open.spotify.com/album/4rPgckceMkw5f90Dk6055G) | 6:07 | 2022-07-29 | 2022-08-07 |
+| [Te Digo Adios](https://open.spotify.com/track/3Q3QScOdp6oBTqCN4PkDOp) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx) | [Te Digo Adios](https://open.spotify.com/album/4r580obRkuoYxHNi9np9XD) | 3:19 | 2022-10-27 |  |
 | [Te Extraño :\(](https://open.spotify.com/track/5Lg7nUobqmANgJAnb8XHWo) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Te Extraño :\(](https://open.spotify.com/album/7sRJzszfNpe3RjjTgNovwZ) | 2:45 | 2021-12-23 | 2022-07-25 |
 | [Te Mentiría](https://open.spotify.com/track/1GtBrm91qZLzAZ0OR8uSCk) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Te Mentiría](https://open.spotify.com/album/44z3iqLwB13tqTae7ohMfF) | 2:34 | 2021-12-23 |  |
 | [Te Quiero y Nada Más](https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Te Quiero y Nada Más](https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA) | 3:12 | 2021-12-23 |  |
@@ -297,7 +298,7 @@
 | [Tú y Yo](https://open.spotify.com/track/2pOyGffUJGMYMOwBMuGp9A) | [Dezä](https://open.spotify.com/artist/33xFSM46z4vpFiOCtaSct6), [Olvidate!](https://open.spotify.com/artist/7Czvx73uua4PB239Dza1Je) | [Tú y Yo](https://open.spotify.com/album/1nCBjPmIMOl44buXxgJovD) | 2:44 | 2022-07-01 | 2022-07-13 |
 | [UH](https://open.spotify.com/track/6ExxGGEr58N4ZxtGmn9tCA) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [Ivan Fitt](https://open.spotify.com/artist/1uYtYzLtitQ4nbh9pMOBcS) | [UH](https://open.spotify.com/album/2InVnsWW1i8gpWbOU3n0Ga) | 2:37 | 2022-01-03 | 2022-07-29 |
 | [Un Verano Sin Ti](https://open.spotify.com/track/3DsXV8kdzLcHkpYo5PBrry) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Un Verano Sin Ti](https://open.spotify.com/album/2Fjfa3X3uAu6UlAj3cmcnn) | 3:09 | 2022-05-27 | 2022-07-16 |
-| [Una Cerveza \- Versión 2018](https://open.spotify.com/track/2uViGylyj39rq8G0pqyX9y) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza \(Versión 2018\)](https://open.spotify.com/album/1dITUaScyif6DqZs7ESCxL) | 3:58 | 2021-12-23 |  |
+| [Una Cerveza \- Versión 2018](https://open.spotify.com/track/2uViGylyj39rq8G0pqyX9y) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza \(Versión 2018\)](https://open.spotify.com/album/1dITUaScyif6DqZs7ESCxL) | 3:58 | 2021-12-23 | 2022-10-27 |
 | [Una Cumbia](https://open.spotify.com/track/5yQMJ4KDVaTlTQ7lVq14aO) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Una Cumbia](https://open.spotify.com/album/0x5gIzkxBkX890iLnH2oKM) | 2:03 | 2021-12-23 |  |
 | [Una y Otra Vez](https://open.spotify.com/track/3VSt7R9LHTomKGP1RhkvuT) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Una y Otra Vez](https://open.spotify.com/album/71mlOj56vndSW8GcB5Edfv) | 3:19 | 2022-03-25 | 2022-04-19 |
 | [Universo Paralelo](https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Universo Paralelo](https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP) | 2:36 | 2022-03-25 |  |

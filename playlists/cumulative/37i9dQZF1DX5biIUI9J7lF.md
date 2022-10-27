@@ -4,7 +4,7 @@
 
 > more than just a lifestyle
 
-64 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/0NLbMYpAMwQLpeCANQMHmc)
+65 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/0NLbMYpAMwQLpeCANQMHmc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Just Because](https://open.spotify.com/track/0YL65Oqm2oVKSC2GIdZf69) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Just Because](https://open.spotify.com/album/1nNcCg5KTRsySgCji6NvcS) | 3:12 | 2022-07-27 |  |
 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 | 2022-07-27 |  |
 | [Koroba](https://open.spotify.com/track/18t2ofQiViidZHxOBVjpD1) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Celia](https://open.spotify.com/album/0v0pKqegGprcnGYUGitYvO) | 2:33 | 2022-07-27 |  |
-| [Kpo K3K3](https://open.spotify.com/track/3GZ25pRVcc3JagPw86buqd) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Kpo K3k3](https://open.spotify.com/album/6bhUfbzNRqZj6R00rNaBup) | 4:20 | 2022-07-27 |  |
+| [Kpo K3K3](https://open.spotify.com/track/2ZYPJ5WrWZISMG6tfbfrIa) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Kpo K3k3](https://open.spotify.com/album/3tIuMo7OzLP6UmPvKRkPKB) | 4:20 | 2022-07-27 |  |
+| [Kpo K3K3](https://open.spotify.com/track/3GZ25pRVcc3JagPw86buqd) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Kpo K3k3](https://open.spotify.com/album/6bhUfbzNRqZj6R00rNaBup) | 4:20 | 2022-07-27 | 2022-10-27 |
 | [Lifestyle](https://open.spotify.com/track/5hXEPdj7dDxfKcowpjiVwf) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:32 | 2022-07-27 |  |
 | [Like Tu Danz](https://open.spotify.com/track/1JseAs562lQva7llJ0bibp) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Colour](https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28) | 3:29 | 2022-07-27 |  |
 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 | 2022-07-27 |  |

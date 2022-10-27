@@ -170,6 +170,28 @@
     },
     {
       "album": {
+        "name": "celeste feat. Haruno",
+        "url": "https://open.spotify.com/album/0vZK7EGOEaKHWScSOnKJ5O"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        },
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "celeste feat. Haruno",
+      "url": "https://open.spotify.com/track/1sqmG9MPr7oBAPPVSku4LQ"
+    },
+    {
+      "album": {
         "name": "celeste feat. \u6625\u91ce",
         "url": "https://open.spotify.com/album/4bGZJtVoi4Rk5gQYHmDgct"
       },
@@ -185,7 +207,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 167533,
       "name": "celeste feat. \u6625\u91ce",
       "url": "https://open.spotify.com/track/1xD7JuI2jpGFFZYMtcmuC9"
@@ -421,7 +443,7 @@
     {
       "album": {
         "name": "friends",
-        "url": "https://open.spotify.com/album/6KmdWsxO8aqBaWuFt37dCX"
+        "url": "https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8"
       },
       "artists": [
         {
@@ -432,6 +454,24 @@
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 229653,
+      "name": "friends",
+      "url": "https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi"
+    },
+    {
+      "album": {
+        "name": "friends",
+        "url": "https://open.spotify.com/album/6KmdWsxO8aqBaWuFt37dCX"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
       "duration_ms": 229653,
       "name": "friends",
       "url": "https://open.spotify.com/track/0KZNnObrPorScIX3cT3sjW"
@@ -819,6 +859,24 @@
     {
       "album": {
         "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/6YuddXfc7Sthy3IZnshpmC"
+      },
+      "artists": [
+        {
+          "name": "Keisuke Murakami",
+          "url": "https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219989,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/7HNzutKeiNnnBvW2GJbner"
+    },
+    {
+      "album": {
+        "name": "Midnight Train",
         "url": "https://open.spotify.com/album/7AH6O5WhlOlODKPvlHaurH"
       },
       "artists": [
@@ -829,7 +887,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 219989,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/3jaZ0zYnnidsLD9qlDMPRp"

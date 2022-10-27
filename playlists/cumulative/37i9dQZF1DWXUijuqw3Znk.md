@@ -4,7 +4,7 @@
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-329 songs - 19 hr 17 min - [published](https://open.spotify.com/playlist/2ficOkbgvrKWFtT4FiaV9N)
+330 songs - 19 hr 21 min - [published](https://open.spotify.com/playlist/2ficOkbgvrKWFtT4FiaV9N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [G.O.A.T](https://open.spotify.com/track/5khcyvK7ALtkTWzkeDJLpq) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [G.O.A.T](https://open.spotify.com/album/7AdS4E2vRy33fuTjRB04tX) | 3:29 | 2022-05-11 | 2022-07-22 |
 | [GANGSHIN](https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [MANTA BIPOLAR, Pt\. 2](https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd) | 2:00 | 2022-05-11 | 2022-07-29 |
 | [Gathering Spilt Water](https://open.spotify.com/track/3WzMBZbpvmRjIWRwfQwp5R) | [Digiri](https://open.spotify.com/artist/5AkXQoXgGrx1J1zkiyRATG) | [Do you know Hip\-Hop \(Episode 2\)](https://open.spotify.com/album/6zQqsR9eN3LcJkVr4vpgkc) | 1:53 | 2022-05-11 | 2022-07-20 |
-| [GENERATION\(Prod\. Lean$moke\)](https://open.spotify.com/track/55ZNU07XDdynQMykHXYglz) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [GENERATION](https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b) | 3:34 | 2022-05-11 |  |
+| [GENERATION\(Prod\. Lean$moke\)](https://open.spotify.com/track/55ZNU07XDdynQMykHXYglz) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [GENERATION](https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b) | 3:34 | 2022-05-11 | 2022-10-27 |
 | [Genius \(Behind the scene\)](https://open.spotify.com/track/1ofekwUlqznnRt2xNbzteY) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [TELEVISION](https://open.spotify.com/album/6IiCQhyb6Hqm2yY3qiZgLr) | 2:56 | 2022-05-11 | 2022-07-21 |
 | [Genius \(Behind the scene\)](https://open.spotify.com/track/1wP1P6ERIaWfQKZNwp8xzU) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [TELEVISION](https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN) | 2:56 | 2022-07-22 |  |
 | [GNGB](https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:14 | 2022-05-11 | 2022-07-29 |
@@ -172,6 +172,7 @@
 | [Louis Vuitton belt \(prod\. Kidstone\)](https://open.spotify.com/track/57gtcByN4XDSisWK4h2rkW) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Family Business](https://open.spotify.com/album/2vYMpNE7JybdLEKOEhyLcp) | 3:31 | 2022-05-11 | 2022-09-28 |
 | [Low Budget](https://open.spotify.com/track/7fRWF3IzHpsKiyzSioNCi5) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z) | [FOUNDER](https://open.spotify.com/album/6Vo6Xzfo7nBk8VVWxLOrRb) | 2:53 | 2022-05-11 | 2022-07-18 |
 | [Mamba Mentality](https://open.spotify.com/track/6D8ifXpkDFahNDYHipD5y0) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Serenity, Courage, Wisdom](https://open.spotify.com/album/7v2h74y3Yr9IypF8N7MGuJ) | 2:44 | 2022-05-11 | 2022-07-22 |
+| [Man proposes God disposes](https://open.spotify.com/track/1a5jrYSUrsPeI4riWgQ7XQ) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Man proposes God disposes](https://open.spotify.com/album/0DGRyeNfJkwnivIlc63OHV) | 3:32 | 2022-10-07 |  |
 | [Mask On \(Feat\. Paloalto & Coogie\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/0jbjJFQsatcRCswxTl9X7J) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 3:57 | 2022-05-11 |  |
 | [Meeting is easy, parting is hard \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:51 | 2022-05-11 |  |
 | [Memories](https://open.spotify.com/track/2mCJmKJnOkHZWQm2maBteJ) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Good Time For The Team](https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw) | 4:18 | 2022-05-11 | 2022-07-29 |

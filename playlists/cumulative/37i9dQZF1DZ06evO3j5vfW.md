@@ -4,7 +4,7 @@
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/0igVTu5HvdcrsZRrSSQai3)
+75 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/0igVTu5HvdcrsZRrSSQai3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [See You On The Dancefloor](https://open.spotify.com/track/7CAKhC9pd2xM5mBg7HtJbr) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [See You On The Dancefloor EP](https://open.spotify.com/album/5jZFGN9q2mdbRPoQhopk2k) | 3:14 | 2022-02-05 | 2022-10-13 |
 | [So Much Love](https://open.spotify.com/track/1357S0gcYA0NXIJArUWKTx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [So Much Love](https://open.spotify.com/album/7knxt2XRQA2Z6EXxd2jGSw) | 3:11 | 2022-02-27 |  |
 | [Sober](https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Sober](https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk) | 2:42 | 2021-12-20 |  |
-| [Sometimes](https://open.spotify.com/track/1MqBckcnN45W32KSSHnylW) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [Sometimes](https://open.spotify.com/album/0ChhDqqwkpYPaawxGwxkKW) | 3:02 | 2021-12-20 |  |
+| [Sometimes](https://open.spotify.com/track/1MqBckcnN45W32KSSHnylW) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [Sometimes](https://open.spotify.com/album/0ChhDqqwkpYPaawxGwxkKW) | 3:02 | 2021-12-20 | 2022-10-27 |
+| [Sometimes](https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [Sometimes](https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40) | 3:02 | 2022-10-26 |  |
 | [Sparks \(Turn Off Your Mind\) \- Atmozfears & Audiotricz Radio Mix](https://open.spotify.com/track/3I70IwAiyXo2RewHZVyvje) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Sparks \(Turn Off Your Mind\) \(Atmozfears & Audiotricz Remix\)](https://open.spotify.com/album/0L0FpVSbtev9gdi2wIgjlD) | 2:49 | 2021-12-20 |  |
 | [Stargazing](https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Stargazing](https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC) | 3:59 | 2022-09-24 |  |
 | [Techtronic](https://open.spotify.com/track/756vcXfBaXXBV68aT7OVSh) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Techtronic](https://open.spotify.com/album/1wnat2fR8nky0aO4pNnkWm) | 3:44 | 2022-10-09 |  |

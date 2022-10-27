@@ -4,7 +4,7 @@
 
 > Music to get fly to\. Cover: Thom Browne SS 2023
 
-283 songs - 15 hr 36 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
+286 songs - 15 hr 46 min - [published](https://open.spotify.com/playlist/1rO8B2vsAs9SO6ZWOsVe5g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-03 | 2022-06-18 |
 | [I Look Good](https://open.spotify.com/track/79aQX5Uq6t8apowFe5uueL) | [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o) | [I Look Good](https://open.spotify.com/album/2AqcOLyhqhrNMLCawOsMpo) | 1:41 | 2022-02-01 | 2022-02-12 |
 | [I THINK](https://open.spotify.com/track/4f8Mh5wuWHOsfXtzjrJB3t) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:32 | 2021-08-05 | 2022-07-30 |
+| [I Wish](https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA) | 4:09 | 2022-10-26 |  |
 | [I'm Honestly Not a Gangster](https://open.spotify.com/track/2QXlFiKu516LyFVFJO6yqG) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [I'm Honestly Not a Gangster](https://open.spotify.com/album/5B0qPW68yVN9r1ZC43s62R) | 3:56 | 2021-10-15 | 2022-05-04 |
 | [I.Crawl](https://open.spotify.com/track/0ccmrEgpKa5iFvijTxIrGf) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:29 | 2022-04-15 | 2022-09-15 |
 | [IDK WHAT TO TELL YOU](https://open.spotify.com/track/67Ca21PiqjzovVSAwBMwUf) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LOVE BLACK](https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA) | 3:30 | 2022-01-04 |  |
@@ -125,6 +126,7 @@
 | [In My Head](https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Far Away](https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn) | 1:44 | 2022-07-29 |  |
 | [its alright :\)](https://open.spotify.com/track/0ITjrJTxJWUVqthwUIOKPZ) | [Kevin Walkman](https://open.spotify.com/artist/0Q1Xt8JEFDwfiuNBIM60E4) | [its alright :\)](https://open.spotify.com/album/4x8tDeytfMzIVZMrDwlF0Y) | 3:22 | 2021-09-03 | 2022-09-15 |
 | [Izzat Love? \- 2015 Remaster](https://open.spotify.com/track/5hb92JsDZjB3PuysBhwTAS) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Todd](https://open.spotify.com/album/5YJKOoQMuYleCbGAktTp1y) | 1:55 | 2022-09-13 | 2022-10-08 |
+| [Jam](https://open.spotify.com/track/1GOEgRr0Mm0mDjGisgnC6y) | [JNTHN STEIN](https://open.spotify.com/artist/2tW7TitNzNibILuWCEhBLS) | [Jam](https://open.spotify.com/album/3ohDyQ11gPOSIbpXFgJ4Ks) | 3:41 | 2022-10-26 |  |
 | [Jars of It](https://open.spotify.com/track/06wlFUDDfck4732GJz6LvZ) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 2:24 | 2022-09-13 | 2022-10-08 |
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-04-12 | 2022-09-15 |
 | [Just A Stranger \(feat\. Steve Lacy\)](https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 2:57 | 2021-08-05 | 2022-06-18 |
@@ -249,6 +251,7 @@
 | [Sweet Feeling](https://open.spotify.com/track/7Mn9dYd4L0AQZCRWqqnkPw) | [Soulecta](https://open.spotify.com/artist/0lZSMQUghOj3ujE8UL2721), [Zefer](https://open.spotify.com/artist/63lkUTZYWny7rlcy00F0jE) | [Sweet Feeling](https://open.spotify.com/album/39EnCB11xB9RNE7wNDNYmc) | 3:54 | 2022-10-07 |  |
 | [Swing & A Miss](https://open.spotify.com/track/1572zYzvWUopUEbwmjeLiO) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:59 | 2022-02-18 | 2022-06-28 |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/43zOaM9seVvQuWIdDf88yV) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/album/45gXJvbzPOYudQDvu9OktY) | 3:16 | 2022-01-21 | 2022-04-16 |
+| [Tell Me Your Fears](https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tell Me Your Fears](https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS) | 2:14 | 2022-10-26 |  |
 | [THE BOTTOM](https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [HEATWAVE](https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26) | 3:39 | 2021-08-05 |  |
 | [THE ONE](https://open.spotify.com/track/02WA04hf6p2mOqI6fQHYfv) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [VF VOL II](https://open.spotify.com/album/7AXixkDgPe0WxaVuwD4qT1) | 2:58 | 2022-10-14 |  |
 | [The Perfect Girl \- The Motion Retrowave Remix](https://open.spotify.com/track/1UcyzhmBDfdw07DiuT7DEG) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo), [The Motion](https://open.spotify.com/artist/2Oa32CWdPcsW36MkDRjM5n) | [The Perfect Girl \(The Motion Retrowave Remix\)](https://open.spotify.com/album/6LtIcRhkNqGdXl2OESjDPE) | 3:01 | 2022-05-27 |  |

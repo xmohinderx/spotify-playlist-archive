@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 248400,
       "name": "Black Velvet",
       "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
@@ -3145,6 +3145,28 @@
       "duration_ms": 201600,
       "name": "Magma",
       "url": "https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm"
+    },
+    {
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS"
+      },
+      "artists": [
+        {
+          "name": "Approaching Black",
+          "url": "https://open.spotify.com/artist/0SfWu37246YXADKirimzyW"
+        },
+        {
+          "name": "Indi Starling",
+          "url": "https://open.spotify.com/artist/7dUCSkUMN048CYGYKfjDZe"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/6PZDe8NpAjiUSkD3q6gCPs"
     },
     {
       "album": {

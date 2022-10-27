@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,027 likes - 247 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,524 likes - 247 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,7 +182,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 172 | [clear blue atmosphere](https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [clear blue atmosphere](https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ) | 2:20 |
 | 173 | [Smile Up](https://open.spotify.com/track/7lR1Eqou30iTbm75DHiPpL) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Smile Up](https://open.spotify.com/album/4LEXn8d1a2Qm7QLCR3xtPV) | 2:09 |
 | 174 | [Little Green Tree](https://open.spotify.com/track/5mOFSMCqvnmURwCPdpFg9R) | [Kewlie](https://open.spotify.com/artist/3Nu9d1nTBjPHOfI9HccCrZ) | [Little Green Tree](https://open.spotify.com/album/2jid4g828XJ7bUesPQ0M9B) | 2:26 |
-| 175 | [Suave Atardecer](https://open.spotify.com/track/2zKvPJR0yAqGzU5RLFyGdx) | [Jose Bautista](https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB) | [Suave Atardecer](https://open.spotify.com/album/6oS5TuBmeJtZWY75CrOO92) | 2:18 |
+| 175 | [Suave Atardecer](https://open.spotify.com/track/5unmGonICINuVcoPHZMtx0) | [Jose Bautista](https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB) | [Suave Atardecer](https://open.spotify.com/album/7jHoODN6djm7R2HvOcUBi0) | 2:18 |
 | 176 | [Further And Further Away](https://open.spotify.com/track/4qlBEvReaCZVYKqnY0QCHx) | [LUQĘT](https://open.spotify.com/artist/2ZSBQcpkzOiygKAT0uRmaH) | [Further And Further Away](https://open.spotify.com/album/392goaKomeDTzV5pkLrQwk) | 2:00 |
 | 177 | [The Girl I Never Knew](https://open.spotify.com/track/3flmyLmt80BjEtq2jvKcN3) | [Tymedust](https://open.spotify.com/artist/0AdnZTLX42p5C4VjSU7WLi), [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb) | [Reminiscence](https://open.spotify.com/album/35GUgfTNe8vEq9TplTSWSk) | 2:01 |
 | 178 | [waitingfor.](https://open.spotify.com/track/37MEWP8hGDYRhKjGZqFgH7) | [Sleepless](https://open.spotify.com/artist/2vlnZUh8Q9nh7EYXHF9Tzg) | [waitingfor.](https://open.spotify.com/album/3PtY6hGRqNzJquQm14oWrQ) | 1:44 |
@@ -256,4 +256,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 246 | [The right way](https://open.spotify.com/track/3ARJRdBJRpWr21xER2FgXr) | [Deep In A Dream](https://open.spotify.com/artist/3WOrrOBvpsk3noSkNQgRxj), [leo.drummer](https://open.spotify.com/artist/7gwqxYpgDJabcweudcwoUd) | [Dreamy Waves](https://open.spotify.com/album/5Gsb3ipeljvyBgi3aJBVMs) | 2:03 |
 | 247 | [Dawn](https://open.spotify.com/track/36BMjs8wDcpQZjRcipxlgx) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Dawn](https://open.spotify.com/album/0kPlC8bFxLBcTsdavgWq2j) | 1:44 |
 
-Snapshot ID: `MTY2NTcwNTY2MCwwMDAwMDAwMGU0NDI2ZTlmOWNiOTQxMWVkNjU4ZTA3MWQxNzZmMmIy`
+Snapshot ID: `MTY2NTcwNTY2MCwwMDAwMDAwMDFiY2MyNjZkNDk2ZTU4OGZiZWFkNmVlMzQ3NTBmM2Rk`

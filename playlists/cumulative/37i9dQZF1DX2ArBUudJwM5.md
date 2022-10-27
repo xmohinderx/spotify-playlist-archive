@@ -4,7 +4,7 @@
 
 > ¡TINI y más mujeres a todo volumen!
 
-448 songs - 1 day 0 hr 27 min - [published](https://open.spotify.com/playlist/2QVxsIRorz9KsDBcQ2nOCU)
+449 songs - 1 day 0 hr 30 min - [published](https://open.spotify.com/playlist/2QVxsIRorz9KsDBcQ2nOCU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Fase](https://open.spotify.com/track/6xIjRp5fpHDeBnVjMrFwRZ) | [ABRIL](https://open.spotify.com/artist/2ohJ1APj2H5vPiD3EJrent) | [Fase](https://open.spotify.com/album/2vNk8ExCVLUn0aZ9E7gVkg) | 2:58 | 2022-03-08 | 2022-04-07 |
 | [FC](https://open.spotify.com/track/69FdDBCt7D7LFJrupeujMz) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [FC](https://open.spotify.com/album/2hea6PJnjJvM6QG3vjCscG) | 2:59 | 2022-04-06 | 2022-05-05 |
 | [Felices x Siempre](https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Felices x Siempre](https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2) | 3:19 | 2022-03-08 | 2022-04-07 |
-| [Fenty](https://open.spotify.com/track/6lwgQv2SQz5LqJ1rPDHcyz) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Fenty](https://open.spotify.com/album/2PJSIJ8hS6z6fncc8zjw6o) | 2:30 | 2022-10-06 |  |
+| [Fenty](https://open.spotify.com/track/6lwgQv2SQz5LqJ1rPDHcyz) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Fenty](https://open.spotify.com/album/2PJSIJ8hS6z6fncc8zjw6o) | 2:30 | 2022-10-06 | 2022-10-27 |
+| [Fenty](https://open.spotify.com/track/1o4DbSmhwZ08Rnq99Lhqvo) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Fenty](https://open.spotify.com/album/3Zkt2UDHWaklY7JxWnaAtp) | 2:30 | 2022-10-27 |  |
 | [Florcita de Cardón](https://open.spotify.com/track/1U915FEbsFzXgJc048OQC6) | [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Jallalla](https://open.spotify.com/album/01SdCRVuXrG61V4nWyHGSt) | 3:51 | 2022-09-07 | 2022-10-06 |
 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 | 2022-04-06 | 2022-05-05 |
 | [FOCUS](https://open.spotify.com/track/4QXjF2n7YiPFp7xeGKfdhr) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [FOCUS](https://open.spotify.com/album/6PXxcZ9wQu4tLIJvL42WOw) | 2:34 | 2021-12-17 | 2022-04-07 |
@@ -199,7 +200,7 @@
 | [KILOWA](https://open.spotify.com/track/54acJyeShQSK5DfEdW7J7n) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [KILOWA](https://open.spotify.com/album/1U4rNnGAuoDm01x3kOHnU9) | 2:12 | 2021-12-17 | 2022-04-07 |
 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 | 2022-04-06 | 2022-08-04 |
 | [La Bella Bellaki](https://open.spotify.com/track/0kExgLrS36TtLnKtKpcgbF) | [Sassyggirl](https://open.spotify.com/artist/1ZQkPQNVDMxVNpJx6lQ7HR), [Tomasa del Real](https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD), [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6), [DJ Sustancia](https://open.spotify.com/artist/5i4Sx94vXjon4B5IPzdTZ9) | [Intima](https://open.spotify.com/album/6wiiBiKiKn4L3PqnmAJkyy) | 4:07 | 2021-12-17 | 2022-01-06 |
-| [La Canción + Bella](https://open.spotify.com/track/7CzpCeOIKnwtXElfbChIl3) | [Yami](https://open.spotify.com/artist/75VSooQWxUPUgShRYhCCIh) | [La Canción + Bella](https://open.spotify.com/album/7fEUwHSLF8byHlbpQY8B1q) | 3:24 | 2022-10-06 |  |
+| [La Canción + Bella](https://open.spotify.com/track/7CzpCeOIKnwtXElfbChIl3) | [Yami](https://open.spotify.com/artist/3hy2sPEDV0cdhA6SYc9Jc6) | [La Canción + Bella](https://open.spotify.com/album/7fEUwHSLF8byHlbpQY8B1q) | 3:24 | 2022-10-06 |  |
 | [La Casa de A](https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 3:16 | 2022-06-01 | 2022-07-07 |
 | [La Cascada de Tu Pelo Enredado](https://open.spotify.com/track/3NsRU4E09BC9qlWS7Pn2wY) | [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [En vivo en El Xirgu](https://open.spotify.com/album/1e44sKDnluTHDRNuuDyVeJ) | 2:45 | 2022-02-02 | 2022-07-07 |
 | [La Chain](https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La Chain](https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid) | 2:19 | 2022-10-06 |  |

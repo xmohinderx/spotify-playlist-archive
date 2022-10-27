@@ -2,7 +2,7 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça os hits do momento do pop BR! Foto: Pabllo Vittar
+> Ouça os hits do momento do pop BR! Foto: Pedro Sampaio, Zé Felipe
 
 139 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
 

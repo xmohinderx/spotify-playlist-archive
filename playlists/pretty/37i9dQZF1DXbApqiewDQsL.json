@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Kany Garc\u00eda & Christian Nodal. ",
-  "num_followers": 16600,
+  "num_followers": 16618,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGYzM2E2NDQ5MGEzODkyMjRiY2YwMWFkM2Y4MjJiZjI2",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDgzYzc4NTcyYzVkM2M3NWNmMzc2MGE1YTE1YTJkMDgz",
   "tracks": [
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "DEL Barrio a la Ciudad",
-        "url": "https://open.spotify.com/album/1IzjCzWQ3SsMwjoY8TMmlx"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 217458,
-      "name": "DEL Barrio a la Ciudad",
-      "url": "https://open.spotify.com/track/3kk2ouD96VMdv8WUz57OLm"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
       },
@@ -1051,26 +1031,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Eres la Persona Correcta en el Momento Equivocado (feat. Luis Coronel & Espinoza Paz)",
-        "url": "https://open.spotify.com/album/64Cku1ubYVNse8ZPaKuDM6"
+        "name": "DEL Barrio a la Ciudad",
+        "url": "https://open.spotify.com/album/1IzjCzWQ3SsMwjoY8TMmlx"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         },
         {
-          "name": "Luis Coronel",
-          "url": "https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL"
-        },
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 239480,
-      "name": "Eres la Persona Correcta en el Momento Equivocado (feat. Luis Coronel & Espinoza Paz)",
-      "url": "https://open.spotify.com/track/0MKRo7E8MaLketrDrtIqnE"
+      "duration_ms": 217458,
+      "name": "DEL Barrio a la Ciudad",
+      "url": "https://open.spotify.com/track/3kk2ouD96VMdv8WUz57OLm"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1095,6 +1071,30 @@
       "duration_ms": 212500,
       "name": "Corrido Tumbero",
       "url": "https://open.spotify.com/track/56Mx6yWQj6UWk37LHMHqI4"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Eres la Persona Correcta en el Momento Equivocado (feat. Luis Coronel & Espinoza Paz)",
+        "url": "https://open.spotify.com/album/64Cku1ubYVNse8ZPaKuDM6"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Luis Coronel",
+          "url": "https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "Eres la Persona Correcta en el Momento Equivocado (feat. Luis Coronel & Espinoza Paz)",
+      "url": "https://open.spotify.com/track/0MKRo7E8MaLketrDrtIqnE"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "SEIS",
-        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "Se Me Va A Quemar El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2VedKSBZCY9ucVSlXNnxGc"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Las Ni\u00f1as Malas (with Edwin Luna y La Trakalosa de Monterrey)",
         "url": "https://open.spotify.com/album/0zdgLvmtc5MJmD8Xf8gwsX"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 183337,
       "name": "Las Ni\u00f1as Malas (with Edwin Luna y La Trakalosa de Monterrey)",
       "url": "https://open.spotify.com/track/3o9y6YJzOuWn6yB26AhiFW"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "No Hay Pedo",
+        "url": "https://open.spotify.com/album/5o7CtNJewla3ScdV8RrePn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sigma",
+          "url": "https://open.spotify.com/artist/0vUz4dhz7qB3FS6ShK0e4j"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 183840,
+      "name": "No Hay Pedo",
+      "url": "https://open.spotify.com/track/7FMa8CKN1im2uXR9bArJvX"
     }
   ],
   "unique_name": "Internacional Mexicano",

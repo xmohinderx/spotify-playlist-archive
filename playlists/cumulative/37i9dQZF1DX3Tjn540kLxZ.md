@@ -4,7 +4,7 @@
 
 > bops you can always rely on ◡̈
 
-336 songs - 19 hr 1 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
+337 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Depends On What I Know](https://open.spotify.com/track/3OwpLHUKP1y9PYIaSsxaew) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Depends On What I Know](https://open.spotify.com/album/2h8jILwZwRaN9hHzThEn4G) | 2:52 | 2022-02-04 | 2022-07-29 |
 | [Describe Stoke\-on\-Trent](https://open.spotify.com/track/2NfqiJwXzUPUXDCR2IUK2B) | [Jimothy Lacoste](https://open.spotify.com/artist/0sq3OExudqk1vOkbSuc8KW) | [Describe Stoke\-on\-Trent](https://open.spotify.com/album/3Z0LUzNgytpAR3BAJyp2KE) | 3:11 | 2022-03-31 | 2022-05-21 |
 | [Diet Mountain Dew](https://open.spotify.com/track/21xo9jhNSsYyNk8TRKBkY0) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die](https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI) | 3:42 | 2021-12-22 | 2022-07-06 |
-| [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/album/12W0CN6ybPdK5ZeHnff5k4) | 2:38 | 2021-12-22 |  |
+| [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/album/12W0CN6ybPdK5ZeHnff5k4) | 2:38 | 2021-12-22 | 2022-10-27 |
 | [dog cuddles](https://open.spotify.com/track/7c2HKfs86p4Leyxh6SFAs8) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [dog cuddles](https://open.spotify.com/album/2NudU808g9JHUywNJpgd29) | 2:31 | 2021-12-22 | 2022-07-29 |
 | [Don't Shut Me Down](https://open.spotify.com/track/2AHnmlkyZbnxqSA66B7jK3) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [I Still Have Faith In You / Don't Shut Me Down](https://open.spotify.com/album/02hUNciNYPRn4Fk5tY4toP) | 3:58 | 2022-03-31 |  |
 | [Drama Queen](https://open.spotify.com/track/7ojngZF30QLSk5yRBpDAQk) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [Drama Queen](https://open.spotify.com/album/4OhlOxCucVO6BAeTN83OHr) | 3:58 | 2021-12-22 | 2022-07-29 |
@@ -150,6 +150,7 @@
 | [IDK](https://open.spotify.com/track/5oObGXk0NriZXxV78aIO0X) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [IDK](https://open.spotify.com/album/15GbsI16l3f6XhdEVxn0EM) | 3:26 | 2022-03-31 | 2022-06-22 |
 | [IDK About You](https://open.spotify.com/track/7Abvdek4ynLb8dewhwrkqD) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [The Sun Won't Stay After Summer](https://open.spotify.com/album/4LqvOUjwO0FrMQQSQ8bJmC) | 2:31 | 2022-03-31 | 2022-07-26 |
 | [If Only](https://open.spotify.com/track/4EdAQ5rPO3X9NClqwhqsIt) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Four° In Winter \(Deluxe\)](https://open.spotify.com/album/3G1jxG3M4rwWm3CZG4S1Wq) | 3:22 | 2022-02-05 | 2022-04-01 |
+| [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/3LQDkH5zNQ4x0UUsmH4zkj) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 2:49 | 2022-10-21 |  |
 | [If You Ever Leave, I'm Coming With You](https://open.spotify.com/track/5QLG4LB186lFqtZ28Zm7PC) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [If You Ever Leave, I'm Coming With You](https://open.spotify.com/album/6LqjK0AZPEVfDJndQLskMT) | 2:49 | 2021-12-22 | 2022-07-29 |
 | [Instant Karma! \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/2hDBp24pTlFbqNggNVYlDv) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Minions: The Rise Of Gru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN) | 3:41 | 2022-07-04 | 2022-07-29 |
 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh) | 3:36 | 2022-02-18 | 2022-07-29 |

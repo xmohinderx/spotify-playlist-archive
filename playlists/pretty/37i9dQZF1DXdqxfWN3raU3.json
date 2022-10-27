@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Foto: Elena Rose",
-  "num_followers": 88853,
+  "num_followers": 88868,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTkxMDk0NCwwMDAwMDAwMGUzMWVlYWEyZmViOWQ0N2Q4Njg3ZjM0MjMzMzkyN2Qw",
+  "snapshot_id": "MTY2NjgxMzk2NCwwMDAwMDAwMDAzNjRjODYzYjBjZTFhNzU4NTAxNDVhYzZlYjRkMjNh",
   "tracks": [
     {
       "added_at": "2022-10-16 09:02:24",
@@ -179,6 +179,22 @@
       "duration_ms": 174000,
       "name": "Seguro Te Pierdo",
       "url": "https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55"
+    },
+    {
+      "added_at": "2022-10-16 09:02:24",
+      "album": {
+        "name": "Not The One",
+        "url": "https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ"
     },
     {
       "added_at": "2022-10-16 09:02:24",
@@ -467,22 +483,6 @@
       "duration_ms": 244700,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/3J1nlJLXVzSVgVEYhR6zPY"
-    },
-    {
-      "added_at": "2022-10-16 09:02:24",
-      "album": {
-        "name": "Not The One",
-        "url": "https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Not The One",
-      "url": "https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ"
     },
     {
       "added_at": "2022-10-16 09:02:24",

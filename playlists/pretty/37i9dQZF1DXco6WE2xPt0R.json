@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 82818,
+  "num_followers": 82848,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMDZlMzYxOGQ1MDhhMzlhZWNhZTBmMWIwOGYyNDI4NGFm",
+  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMGUxZjJmZWE4NmZlZWRhZDQyOTE3MGU0ODMwNDAxMWQw",
   "tracks": [
     {
       "added_at": "2022-10-14 03:01:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
         "name": "moonlit room",
         "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 250679,
       "name": "moonlit room",
       "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "Public Displays Of Affection Too",
-        "url": "https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 196641,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
         "name": "Feelings 4 You",
         "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 256202,
       "name": "Feelings 4 You",
       "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
+        "name": "Public Displays Of Affection Too",
+        "url": "https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 196641,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -1007,30 +1007,6 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "Intersections",
-        "url": "https://open.spotify.com/album/1mhJA30itw9ItQOGXb9s4N"
-      },
-      "artists": [
-        {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
-        },
-        {
-          "name": "ESTA.",
-          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
-        },
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        }
-      ],
-      "duration_ms": 217079,
-      "name": "Thought of You (feat. Joyce Wrice)",
-      "url": "https://open.spotify.com/track/0OLSlzgN1eafqbICQ5vOdo"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
         "name": "Still Wonder",
         "url": "https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 238153,
       "name": "Still Wonder",
       "url": "https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
+        "name": "Intersections",
+        "url": "https://open.spotify.com/album/1mhJA30itw9ItQOGXb9s4N"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        },
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 217079,
+      "name": "Thought of You (feat. Joyce Wrice)",
+      "url": "https://open.spotify.com/track/0OLSlzgN1eafqbICQ5vOdo"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "Milly",
-        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
+        "name": "Ology",
+        "url": "https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf"
       },
       "artists": [
         {
-          "name": "Amaal",
-          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
         }
       ],
-      "duration_ms": 183586,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
+      "duration_ms": 221960,
+      "name": "Bone + Tissue",
+      "url": "https://open.spotify.com/track/1THUV2tiTLxNNbJwC8m4pE"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "Ology",
-        "url": "https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf"
+        "name": "Milly",
+        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
       },
       "artists": [
         {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+          "name": "Amaal",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
         }
       ],
-      "duration_ms": 221960,
-      "name": "Bone + Tissue",
-      "url": "https://open.spotify.com/track/1THUV2tiTLxNNbJwC8m4pE"
+      "duration_ms": 183586,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Comeback.",
+      "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
         "name": "Little Men (Deluxe)",
         "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 240074,
       "name": "Crash for a Couple",
       "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
-        "name": "Midnight Snacks",
-        "url": "https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Midnight Snacks",
-      "url": "https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa"
     },
     {
       "added_at": "2022-10-14 03:01:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
+        "name": "Midnight Snacks",
+        "url": "https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh"
       },
       "artists": [
         {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
         }
       ],
-      "duration_ms": 183373,
-      "name": "Comeback.",
-      "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
+      "duration_ms": 195000,
+      "name": "Midnight Snacks",
+      "url": "https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa"
     },
     {
       "added_at": "2022-10-14 03:01:00",

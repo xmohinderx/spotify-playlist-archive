@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 82552,
+  "num_followers": 82568,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDExNjdlZDk1ZTFjYWM1OWExNmFlYzQ4M2I1MmU2NmMx",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDk1NjUyMGU5NjY1MmNjM2I4MjA2Y2U1ODYyYzc5YzJm",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -247,42 +247,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Fake It",
-        "url": "https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 186483,
-      "name": "Fake It",
-      "url": "https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "God Thing",
-        "url": "https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW"
-      },
-      "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "God Thing",
-      "url": "https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Be Alright (Remix)",
         "url": "https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7"
       },
@@ -303,6 +267,42 @@
       "duration_ms": 222854,
       "name": "Be Alright - Remix",
       "url": "https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "God Thing",
+        "url": "https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "God Thing",
+      "url": "https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Fake It",
+        "url": "https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 186483,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "In You",
-        "url": "https://open.spotify.com/album/6CGOHFD1cO5u0jldukqYNO"
-      },
-      "artists": [
-        {
-          "name": "Iveth Luna",
-          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
-        }
-      ],
-      "duration_ms": 205060,
-      "name": "In You",
-      "url": "https://open.spotify.com/track/1oaifckP3fuz18gjdB1m9z"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "This Is the Day",
         "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 325247,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "In You",
+        "url": "https://open.spotify.com/album/6CGOHFD1cO5u0jldukqYNO"
+      },
+      "artists": [
+        {
+          "name": "Iveth Luna",
+          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
+        }
+      ],
+      "duration_ms": 205060,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/1oaifckP3fuz18gjdB1m9z"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Loved By You",
-        "url": "https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 193934,
-      "name": "Loved By You",
-      "url": "https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 184000,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Loved By You",
+        "url": "https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 193934,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Good Mood",
-        "url": "https://open.spotify.com/album/6p5sAqadaOyuHTiuhGujJx"
-      },
-      "artists": [
-        {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
-        }
-      ],
-      "duration_ms": 191905,
-      "name": "Good Mood",
-      "url": "https://open.spotify.com/track/0he118W7JdHcfV0ooMYt7X"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Well Done",
         "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 222693,
       "name": "Well Done",
       "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Good Mood",
+        "url": "https://open.spotify.com/album/6p5sAqadaOyuHTiuhGujJx"
+      },
+      "artists": [
+        {
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+        }
+      ],
+      "duration_ms": 191905,
+      "name": "Good Mood",
+      "url": "https://open.spotify.com/track/0he118W7JdHcfV0ooMYt7X"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "heaven come",
         "url": "https://open.spotify.com/album/7xcKfIPvCRido81mmOFmzs"
       },
@@ -991,22 +975,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Somebody Tell That Girl (feat. Anne Wilson)",
-        "url": "https://open.spotify.com/album/6Ge39Vt6n9l36QBXRfvMuS"
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
       },
       "artists": [
         {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
-        },
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Somebody Tell That Girl (feat. Anne Wilson)",
-      "url": "https://open.spotify.com/track/3j1MPB5dZLR9kl7k37Ra2u"
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1031,6 +1011,26 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Somebody Tell That Girl (feat. Anne Wilson)",
+        "url": "https://open.spotify.com/album/6Ge39Vt6n9l36QBXRfvMuS"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        },
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Somebody Tell That Girl (feat. Anne Wilson)",
+      "url": "https://open.spotify.com/track/3j1MPB5dZLR9kl7k37Ra2u"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Mind of Christ (Philippians 2)",
         "url": "https://open.spotify.com/album/78xHy1AXOcqDNevyty5BK6"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Say It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 196161,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Who You Want Me To Be",
         "url": "https://open.spotify.com/album/2QX3GyZIXeWsJog7XwWV03"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 196746,
       "name": "Who You Want Me To Be",
       "url": "https://open.spotify.com/track/5VXVRtAzzsHT2KQbeOdnlz"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Say It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 196161,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Secret Place",
-        "url": "https://open.spotify.com/album/1D5UImCRj2c5oLZXoO5ZP4"
-      },
-      "artists": [
-        {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
-        }
-      ],
-      "duration_ms": 307780,
-      "name": "Secret Place",
-      "url": "https://open.spotify.com/track/5JQ1uGXqZSbEnabW64psrB"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Places (Des Endroits)",
         "url": "https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 212680,
       "name": "Places (Des Endroits)",
       "url": "https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Secret Place",
+        "url": "https://open.spotify.com/album/1D5UImCRj2c5oLZXoO5ZP4"
+      },
+      "artists": [
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        }
+      ],
+      "duration_ms": 307780,
+      "name": "Secret Place",
+      "url": "https://open.spotify.com/track/5JQ1uGXqZSbEnabW64psrB"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Breaking Boundaries",
-        "url": "https://open.spotify.com/album/30TzQ0x522lnXuyPa3Jizb"
-      },
-      "artists": [
-        {
-          "name": "Sunday Drive",
-          "url": "https://open.spotify.com/artist/61wd87YGKRXNDwJQyml1tY"
-        }
-      ],
-      "duration_ms": 243155,
-      "name": "Breaking Boundaries",
-      "url": "https://open.spotify.com/track/2vY0q9Qys4nbtXNre1VFxR"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "I Can't Believe",
         "url": "https://open.spotify.com/album/5MQnRj4S6kW4BhrTKujeZR"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 270250,
       "name": "I Can't Believe",
       "url": "https://open.spotify.com/track/3qfEOVHVZVy7Yjb3JDJcf5"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Breaking Boundaries",
+        "url": "https://open.spotify.com/album/30TzQ0x522lnXuyPa3Jizb"
+      },
+      "artists": [
+        {
+          "name": "Sunday Drive",
+          "url": "https://open.spotify.com/artist/61wd87YGKRXNDwJQyml1tY"
+        }
+      ],
+      "duration_ms": 243155,
+      "name": "Breaking Boundaries",
+      "url": "https://open.spotify.com/track/2vY0q9Qys4nbtXNre1VFxR"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/0T7foqa4zcqlZkjuEBEiGu"
-      },
-      "artists": [
-        {
-          "name": "Marci Coleman",
-          "url": "https://open.spotify.com/artist/1aaF5ghHXxc7ArAYYHEWAs"
-        }
-      ],
-      "duration_ms": 201617,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/0Tge7UWTXFSd4ITIURqk0k"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/7flhQQ1ZSd3SbvIr6fgF7J"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 223399,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/1BekaQxRu7onRBnQ6PADyw"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0T7foqa4zcqlZkjuEBEiGu"
+      },
+      "artists": [
+        {
+          "name": "Marci Coleman",
+          "url": "https://open.spotify.com/artist/1aaF5ghHXxc7ArAYYHEWAs"
+        }
+      ],
+      "duration_ms": 201617,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0Tge7UWTXFSd4ITIURqk0k"
     },
     {
       "added_at": "2022-05-27 18:07:44",

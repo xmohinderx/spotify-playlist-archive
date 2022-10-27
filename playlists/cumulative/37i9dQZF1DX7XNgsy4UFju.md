@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Phoenix
 
-747 songs - 1 day 20 hr 1 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+748 songs - 1 day 20 hr 3 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,8 @@
 | [Exactly What I Needed](https://open.spotify.com/track/10psreRFEdx5WLA6zqg7m2) | [Michael Rault](https://open.spotify.com/artist/1bcztlEOrJIIfLbUIKQY6O) | [Exactly What I Needed](https://open.spotify.com/album/30pn8Kg0lKsUOEEUhIS6DY) | 4:02 | 2022-05-06 | 2022-06-11 |
 | [Explore](https://open.spotify.com/track/6sb1CGojNdNMiToRfSNwzY) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Explore](https://open.spotify.com/album/7DxTQ86fPK4BPoJ1RIeFos) | 4:46 | 2021-12-31 | 2022-01-29 |
 | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/album/605QJC3syWgn2xXR3LHbds) | 2:52 | 2022-04-29 | 2022-07-16 |
-| [F.O.O.F.](https://open.spotify.com/track/2Yo3BxnzxMeWkvTx1QKBo9) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [F.O.O.F.](https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z) | 2:08 | 2022-09-30 |  |
+| [F.O.O.F.](https://open.spotify.com/track/2Yo3BxnzxMeWkvTx1QKBo9) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [F.O.O.F.](https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z) | 2:08 | 2022-09-30 | 2022-10-27 |
+| [F.O.O.F.](https://open.spotify.com/track/6Xr3s1NTck8lLiLF7VGReD) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 2:08 | 2022-10-24 |  |
 | [Fables](https://open.spotify.com/track/7qaJfp7zJoJoLxdkVnwgC2) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Fables](https://open.spotify.com/album/2Z3UKI5vh7I4zLsEOWjqEE) | 4:34 | 2022-05-20 | 2022-07-09 |
 | [Fade into You](https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Fade into You](https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg) | 4:12 | 2022-09-09 |  |
 | [Faded Like A Feeling](https://open.spotify.com/track/3EdDIJmkL63TgqZUXTZmVp) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Faded Like A Feeling](https://open.spotify.com/album/5MAsi8cTi6hxEhkQckX1nh) | 3:22 | 2022-08-27 | 2022-10-01 |

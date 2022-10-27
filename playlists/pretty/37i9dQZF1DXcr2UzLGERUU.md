@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,502 likes - 113 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,560 likes - 113 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 77 | [Colors](https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 2:40 |
 | 78 | [XO](https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 3:55 |
 | 79 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
-| 80 | [Little Willow \- Remastered 2020](https://open.spotify.com/track/7yx52w4rHycV4mLZhhAdYP) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Jeff Lynne](https://open.spotify.com/artist/3bTAaMx9nf237AkBnGw3vL) | [Flaming Pie \(Archive Collection\)](https://open.spotify.com/album/3F4cHaIJDFBWdTdlZPGRmO) | 2:58 |
+| 80 | [Little Willow \- 2020 Remaster](https://open.spotify.com/track/7yx52w4rHycV4mLZhhAdYP) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Jeff Lynne](https://open.spotify.com/artist/3bTAaMx9nf237AkBnGw3vL) | [Flaming Pie \(Archive Collection\)](https://open.spotify.com/album/3F4cHaIJDFBWdTdlZPGRmO) | 2:58 |
 | 81 | [momma told me imma be](https://open.spotify.com/track/5oFhakk58OBApacdBhYDkW) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:13 |
 | 82 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
 | 83 | [Free](https://open.spotify.com/track/1OO4WRqPN9XlkcnjQzIYKr) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Free](https://open.spotify.com/album/5AnKO6sCuaEqkOtFesYiBQ) | 3:11 |

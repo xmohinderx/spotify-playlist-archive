@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/zackbia/\">Zack Bia</a>",
-  "num_followers": 524,
+  "num_followers": 534,
   "original_name": "Zack Bia's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0NTg3NywwMDAwMDAwMDY0ZDA3NTExNzE1ZDBmOGUwYzcxOWU3OTFiMzhiYjE3",
+  "snapshot_id": "MTY2NDY0NTg3NywwMDAwMDAwMDRhNDFjN2U5YTk0NWNkZDZiNDM2OWRmM2U1MzNlZTJi",
   "tracks": [
     {
       "added_at": "2022-10-01 17:37:57",
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
+        "name": "4NEM",
+        "url": "https://open.spotify.com/album/1sujvm6paInfm8fYnNdjIy"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
         }
       ],
-      "duration_ms": 129479,
-      "name": "LOVE YOU BETTER",
-      "url": "https://open.spotify.com/track/40zU9RnT0liuXMjornRlhn"
+      "duration_ms": 248372,
+      "name": "Yes Sir",
+      "url": "https://open.spotify.com/track/3v0x0ScI9wcUlPZIdfRETf"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -451,18 +451,18 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "4NEM",
-        "url": "https://open.spotify.com/album/1sujvm6paInfm8fYnNdjIy"
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
       },
       "artists": [
         {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 248372,
-      "name": "Yes Sir",
-      "url": "https://open.spotify.com/track/3v0x0ScI9wcUlPZIdfRETf"
+      "duration_ms": 129479,
+      "name": "LOVE YOU BETTER",
+      "url": "https://open.spotify.com/track/40zU9RnT0liuXMjornRlhn"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -535,22 +535,18 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Trapped On Cleveland 3",
-        "url": "https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM"
+        "name": "Me, Myself & I",
+        "url": "https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok"
       },
       "artists": [
         {
-          "name": "Lil Keed",
-          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
         }
       ],
-      "duration_ms": 240640,
-      "name": "Wavy (Remix) [feat. Travis Scott]",
-      "url": "https://open.spotify.com/track/7kRVWQ1G4o8w3ubfNW2ZHB"
+      "duration_ms": 224365,
+      "name": "50-0",
+      "url": "https://open.spotify.com/track/1Smhzk6DHo8aR11SkZAtEY"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -587,18 +583,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Me, Myself & I",
-        "url": "https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok"
+        "name": "Trapped On Cleveland 3",
+        "url": "https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM"
       },
       "artists": [
         {
-          "name": "BashfortheWorld",
-          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+          "name": "Lil Keed",
+          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 224365,
-      "name": "50-0",
-      "url": "https://open.spotify.com/track/1Smhzk6DHo8aR11SkZAtEY"
+      "duration_ms": 240640,
+      "name": "Wavy (Remix) [feat. Travis Scott]",
+      "url": "https://open.spotify.com/track/7kRVWQ1G4o8w3ubfNW2ZHB"
     },
     {
       "added_at": "2022-10-01 17:37:57",

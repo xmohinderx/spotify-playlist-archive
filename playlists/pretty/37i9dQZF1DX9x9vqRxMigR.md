@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,153 likes - 153 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,162 likes - 153 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 126 | [The Long Way Around](https://open.spotify.com/track/0QrbEUOAudJejbINJ4CrF0) | [Gaelynn Lea](https://open.spotify.com/artist/68zltLWXjBB3dIqHikDXZy) | [The Long Way Around](https://open.spotify.com/album/2WCLjdMsLwL0pJSBL7dHhf) | 4:42 |
 | 127 | [All My Tears](https://open.spotify.com/track/2V5R8G8QTVOWBDhEdix5bK) | [Hayde Bluegrass Orchestra](https://open.spotify.com/artist/5L3ac0hlDxpbLBj3oQq3Ly) | [Migrants](https://open.spotify.com/album/6RxcdpNk84CB6gLrWZz4kO) | 5:17 |
 | 128 | [100 Years](https://open.spotify.com/track/5wLFq2Gu7YomnXRw8wwX6g) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [100 Years](https://open.spotify.com/album/3bpXxgMyuQNlM1EdM7VI7Y) | 3:42 |
-| 129 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 |
+| 129 | [Before I Do](https://open.spotify.com/track/1boVXkkZMBJaziXMLXCiFG) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/3LCCg30JxlBYnoym6eUA3J) | 3:18 |
 | 130 | [Tutti Frutti \(Romania\)](https://open.spotify.com/track/6NJIni5Ox3ctX2UPi226pK) | [Tamar Ilana](https://open.spotify.com/artist/6yg31IgiCsfyMbYZ7uqt49), [Ventanas](https://open.spotify.com/artist/5pJv6qSU0xDncvHANxHHz6) | [Mistrāl](https://open.spotify.com/album/2mMjuNBDElmQDXBBRL6O3H) | 2:50 |
 | 131 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
 | 132 | [Chicago Lightning](https://open.spotify.com/track/6iV92WJqN9bjroWHVpaFw5) | [A Tale Of Two](https://open.spotify.com/artist/0UIRFGfnwxgKe1DEoCLMT7) | [Chicago Lightning](https://open.spotify.com/album/5mRggL0ry5MpePYb39PNT6) | 3:52 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 152 | [Colorblind](https://open.spotify.com/track/1XdZWeMVsFrzso8pd77g7E) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj), [Peter Groenwald](https://open.spotify.com/artist/2wqqNArnu0CDW5rZFHVAYK) | [Colorblind](https://open.spotify.com/album/5Ptnky6pcPheTjCPrBsR1t) | 2:58 |
 | 153 | [Yemaya \(Ile Ladde\)](https://open.spotify.com/track/3oHbYtoQrQwjakUd4OfzYz) | [Okan](https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt), [Rauzzy Ferrer](https://open.spotify.com/artist/2kyhJaXsjTZOEdp5LVpnj0) | [Yemaya \(Ile Ladde\)](https://open.spotify.com/album/3bl3gaq46FVVtgJksDM9up) | 4:22 |
 
-Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMDhkZDVkNGI0ODNlZTA0ODg3YTU4NmVlNTJjMmFmODcw`
+Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMDJjNmJkMWZjOTdkN2E3NDllM2MzMTY4ZDg1NGJmMjBk`

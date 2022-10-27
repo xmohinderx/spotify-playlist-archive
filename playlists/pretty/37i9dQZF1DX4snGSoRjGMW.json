@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Bettye LaVette",
-  "num_followers": 5468,
+  "num_followers": 5482,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDg1YzY3YTAxMzk5N2Y2NWZmZGM0NzMzNDhjNjk0ODRh",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGNlYmEwNTA4YTA5NzkyOGVkOGMyMzllY2JhNzFmZTk4",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Right On Time!",
-        "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
+        "name": "Bridge to a Legacy",
+        "url": "https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H"
       },
       "artists": [
         {
-          "name": "Little Buster & the Soul Brothers",
-          "url": "https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs"
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
         }
       ],
-      "duration_ms": 265506,
-      "name": "First You Cry",
-      "url": "https://open.spotify.com/track/28hYrUWnji9pKfEZ5RcZQD"
+      "duration_ms": 189093,
+      "name": "Who's Still in Love",
+      "url": "https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Bridge to a Legacy",
-        "url": "https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H"
+        "name": "Right On Time!",
+        "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
       },
       "artists": [
         {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+          "name": "Little Buster & the Soul Brothers",
+          "url": "https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs"
         }
       ],
-      "duration_ms": 189093,
-      "name": "Who's Still in Love",
-      "url": "https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja"
+      "duration_ms": 265506,
+      "name": "First You Cry",
+      "url": "https://open.spotify.com/track/28hYrUWnji9pKfEZ5RcZQD"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Back In The Game",
+        "url": "https://open.spotify.com/album/1LJKmJgD6dS77Ud3MgEqsZ"
+      },
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "duration_ms": 257133,
+      "name": "I Can't Stop",
+      "url": "https://open.spotify.com/track/4zKzINcISloFWm2mh0yyFG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Tiger in a Cage",
         "url": "https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Back In The Game",
-        "url": "https://open.spotify.com/album/1LJKmJgD6dS77Ud3MgEqsZ"
-      },
-      "artists": [
-        {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
-        }
-      ],
-      "duration_ms": 257133,
-      "name": "I Can't Stop",
-      "url": "https://open.spotify.com/track/4zKzINcISloFWm2mh0yyFG"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Right On Time!",
         "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
       },
@@ -839,6 +839,26 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Memphisapolis",
+        "url": "https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL"
+      },
+      "artists": [
+        {
+          "name": "Willie Walker",
+          "url": "https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t"
+        },
+        {
+          "name": "The Butanes",
+          "url": "https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "I Won't Be Lonely",
+      "url": "https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "People Love The Blues",
         "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 208266,
       "name": "You're Only Good For One Thang Baby",
       "url": "https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "This Time For Real",
-        "url": "https://open.spotify.com/album/749QhTw8T5oHNNZ3MigsLQ"
-      },
-      "artists": [
-        {
-          "name": "Billy Price",
-          "url": "https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI"
-        },
-        {
-          "name": "Otis Clay",
-          "url": "https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Going to the Shack",
-      "url": "https://open.spotify.com/track/7Edg1SdyEws5DfX5FEkME2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -891,22 +891,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Memphisapolis",
-        "url": "https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL"
+        "name": "This Time For Real",
+        "url": "https://open.spotify.com/album/749QhTw8T5oHNNZ3MigsLQ"
       },
       "artists": [
         {
-          "name": "Willie Walker",
-          "url": "https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t"
+          "name": "Billy Price",
+          "url": "https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI"
         },
         {
-          "name": "The Butanes",
-          "url": "https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L"
+          "name": "Otis Clay",
+          "url": "https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL"
         }
       ],
-      "duration_ms": 227800,
-      "name": "I Won't Be Lonely",
-      "url": "https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2"
+      "duration_ms": 255693,
+      "name": "Going to the Shack",
+      "url": "https://open.spotify.com/track/7Edg1SdyEws5DfX5FEkME2"
     },
     {
       "added_at": "2020-12-01 05:01:00",

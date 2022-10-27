@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 274041,
+  "num_followers": 274178,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM1NDc5OSwwMDAwMDAwMGY3MDA1YWY5Y2Y4Y2ZhNGM0YjcyMmJmNzI5MzMzMGQw",
+  "snapshot_id": "MTY2NjM1NDc5OSwwMDAwMDAwMDQ3MTdhMzU4ZjY0Y2Q4MjkwMTJjZDBmY2VhN2RmMGNm",
   "tracks": [
     {
       "added_at": "2022-10-21 12:19:58",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-10-21 12:19:58",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "duration_ms": 144677,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp"
+    },
+    {
+      "added_at": "2022-10-21 12:19:58",
+      "album": {
         "name": "Redlight",
         "url": "https://open.spotify.com/album/2xz9ov07OnNqQnXhDTVa1e"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 177780,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/24osWl0SQSyHzGyEMdf394"
-    },
-    {
-      "added_at": "2022-10-21 12:19:58",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        }
-      ],
-      "duration_ms": 144677,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp"
     },
     {
       "added_at": "2022-10-21 12:19:58",
@@ -567,26 +567,6 @@
     {
       "added_at": "2022-10-21 12:19:58",
       "album": {
-        "name": "Skippin",
-        "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
-      },
-      "artists": [
-        {
-          "name": "MAXAM",
-          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
-        },
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        }
-      ],
-      "duration_ms": 157446,
-      "name": "Skippin",
-      "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
-    },
-    {
-      "added_at": "2022-10-21 12:19:58",
-      "album": {
         "name": "Mistakes",
         "url": "https://open.spotify.com/album/3U16S348ETHW0DTPeM9Pp0"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 153719,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/0RvQLK3wSHhRuC55sjxeSQ"
+    },
+    {
+      "added_at": "2022-10-21 12:19:58",
+      "album": {
+        "name": "Skippin",
+        "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
+      },
+      "artists": [
+        {
+          "name": "MAXAM",
+          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        }
+      ],
+      "duration_ms": 157446,
+      "name": "Skippin",
+      "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
     },
     {
       "added_at": "2022-10-21 12:19:58",
@@ -647,6 +647,26 @@
     {
       "added_at": "2022-10-21 12:19:58",
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+        },
+        {
+          "name": "Croell",
+          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
+    },
+    {
+      "added_at": "2022-10-21 12:19:58",
+      "album": {
         "name": "Talk Talk Talk",
         "url": "https://open.spotify.com/album/2P2GJ1cTTO7tWABUUMwrIE"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 148657,
       "name": "Talk Talk Talk",
       "url": "https://open.spotify.com/track/1ktSui7aiz9XceMdTDeCUF"
-    },
-    {
-      "added_at": "2022-10-21 12:19:58",
-      "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
-      },
-      "artists": [
-        {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
-        },
-        {
-          "name": "Croell",
-          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
     },
     {
       "added_at": "2022-10-21 12:19:58",
@@ -959,26 +959,6 @@
     {
       "added_at": "2022-10-21 12:19:58",
       "album": {
-        "name": "Send Me An Angel",
-        "url": "https://open.spotify.com/album/1sXi6KyXfyzY772trggvEm"
-      },
-      "artists": [
-        {
-          "name": "Perfect Pitch",
-          "url": "https://open.spotify.com/artist/5dCHZZCETvtgvg88AYg13g"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Send Me An Angel",
-      "url": "https://open.spotify.com/track/6NQJeMKCVNBerVdZw9S3hj"
-    },
-    {
-      "added_at": "2022-10-21 12:19:58",
-      "album": {
         "name": "World in Your Eyes",
         "url": "https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 131142,
       "name": "World in Your Eyes",
       "url": "https://open.spotify.com/track/5ma7yZhAlSKgFYYEqYHOD9"
+    },
+    {
+      "added_at": "2022-10-21 12:19:58",
+      "album": {
+        "name": "Send Me An Angel",
+        "url": "https://open.spotify.com/album/1sXi6KyXfyzY772trggvEm"
+      },
+      "artists": [
+        {
+          "name": "Perfect Pitch",
+          "url": "https://open.spotify.com/artist/5dCHZZCETvtgvg88AYg13g"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Send Me An Angel",
+      "url": "https://open.spotify.com/track/6NQJeMKCVNBerVdZw9S3hj"
     },
     {
       "added_at": "2022-10-21 12:19:58",
@@ -1067,22 +1067,22 @@
     {
       "added_at": "2022-10-21 12:19:58",
       "album": {
-        "name": "Barking",
-        "url": "https://open.spotify.com/album/5DS8dJack2dJ939t7xjaeT"
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/1mAJ1htzZKsFXwbcTatxIq"
       },
       "artists": [
         {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+          "name": "Max + Johann",
+          "url": "https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow"
         },
         {
-          "name": "WISEKIDS",
-          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
+          "name": "Charming Horses",
+          "url": "https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3"
         }
       ],
-      "duration_ms": 139500,
-      "name": "Barking",
-      "url": "https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY"
+      "duration_ms": 169717,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/26gSKAMIFzwMd4htHklFfN"
     },
     {
       "added_at": "2022-10-21 12:19:58",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2022-10-21 12:19:58",
       "album": {
+        "name": "Barking",
+        "url": "https://open.spotify.com/album/5DS8dJack2dJ939t7xjaeT"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+        },
+        {
+          "name": "WISEKIDS",
+          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Barking",
+      "url": "https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY"
+    },
+    {
+      "added_at": "2022-10-21 12:19:58",
+      "album": {
         "name": "redruM (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/4nnIvDNj4KOJgN2dAZThea"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 176785,
       "name": "redruM - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/6Jl7TcHDKlM8pBfupmRpwp"
-    },
-    {
-      "added_at": "2022-10-21 12:19:58",
-      "album": {
-        "name": "I Just Wanna Dance",
-        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
-      },
-      "artists": [
-        {
-          "name": "Coldabank",
-          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
-        },
-        {
-          "name": "Freedo",
-          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
-        }
-      ],
-      "duration_ms": 154904,
-      "name": "I Just Wanna Dance",
-      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
     },
     {
       "added_at": "2022-10-21 12:19:58",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2022-10-21 12:19:58",
       "album": {
+        "name": "I Just Wanna Dance",
+        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
+      },
+      "artists": [
+        {
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+        },
+        {
+          "name": "Freedo",
+          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
+        }
+      ],
+      "duration_ms": 154904,
+      "name": "I Just Wanna Dance",
+      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
+    },
+    {
+      "added_at": "2022-10-21 12:19:58",
+      "album": {
         "name": "Who U Gonna Love (feat. Amber Van Day)",
         "url": "https://open.spotify.com/album/0yzEsLH4U52Qd9cTB3W3Rt"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 179600,
       "name": "Who U Gonna Love (feat. Amber Van Day)",
       "url": "https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d"
-    },
-    {
-      "added_at": "2022-10-21 12:19:58",
-      "album": {
-        "name": "Try Again",
-        "url": "https://open.spotify.com/album/1mAJ1htzZKsFXwbcTatxIq"
-      },
-      "artists": [
-        {
-          "name": "Max + Johann",
-          "url": "https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow"
-        },
-        {
-          "name": "Charming Horses",
-          "url": "https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3"
-        }
-      ],
-      "duration_ms": 169717,
-      "name": "Try Again",
-      "url": "https://open.spotify.com/track/26gSKAMIFzwMd4htHklFfN"
     },
     {
       "added_at": "2022-10-21 12:19:58",

@@ -2,9 +2,9 @@
 
 ### [Spotify Singles: Indie & Alternative](https://open.spotify.com/playlist/37i9dQZF1DWXMetQrUYhar)
 
-> Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: MUNA
+> Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Japanese Breakfast.
 
-186 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
+187 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Have You Ever Seen The Rain \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/7a7v27v9qrwjKBbsqrCZt9) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles](https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp) | 2:34 | 2021-10-27 | 2022-07-29 |
 | [hey! \- Spotify Singles](https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [hey! \- Spotify Singles](https://open.spotify.com/album/36A3sE4wnPiEtVP1KfO3DQ) | 2:13 | 2021-10-27 |  |
 | [Higher \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6wZkI07C2wRQE2W3LkW9Uk) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Spotify Singles](https://open.spotify.com/album/2ospU0wa9ux7r054JMFbEL) | 3:38 | 2021-10-27 | 2022-10-13 |
+| [Higher \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7JDqyb4SkgzrSCeBtYS3L8) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Spotify Singles](https://open.spotify.com/album/13scWMWL4kcdSX4yFLF0x5) | 3:38 | 2022-10-26 |  |
 | [Hold Your Head Up High \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1e57DutOjV5KXlNjqWOC61) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 3:34 | 2022-06-22 |  |
 | [Holding On \- Recorded at Spotify Studios NYC, 6/07/2017](https://open.spotify.com/track/3rfvu2jVkQVnMZe8wDDCoi) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Spotify Singles](https://open.spotify.com/album/0GCIrOKHsVmCyk1RsWYCWt) | 5:15 | 2021-10-27 |  |
 | [home/i want your love \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0Abdq8INymRlkYbgM9QnGe) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Spotify Singles](https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf) | 10:22 | 2021-10-27 |  |
@@ -119,7 +120,7 @@
 | [Nocturne \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5T0gOPHHcr98UlcATj39XV) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn) | 4:52 | 2022-03-30 |  |
 | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/1s2MMnIR3TYcujFBpNwVQ6) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/7Ehs7TrzgoVYYPaVMa7ZTH) | 2:38 | 2022-03-30 |  |
 | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/49rILSmVLmGmknARFACh3N) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/0QvkS38s3iUF88PeNqeXzt) | 2:38 | 2021-10-27 | 2022-10-14 |
-| [One More Time \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/1FpKPMzqIltTIcJHPcbgAR) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 2:44 | 2022-03-30 |  |
+| [One More Time \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/1FpKPMzqIltTIcJHPcbgAR) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 2:44 | 2022-03-30 | 2022-10-27 |
 | [One More Time \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/2j6vcPcY74uDQZe4wtZpG0) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles](https://open.spotify.com/album/5kjS3oqA3uScfk2Z7B4Jyc) | 2:44 | 2021-10-27 | 2022-07-29 |
 | [One Rizla \- Recorded at RAK Studios, London](https://open.spotify.com/track/2LGpPEKUG5Urc2EHqxxaKE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Spotify Singles](https://open.spotify.com/album/2OxXAGSBSRLl1fvZUaCPu5) | 3:39 | 2022-03-30 | 2022-10-26 |
 | [One Rizla \- Recorded at RAK Studios, London](https://open.spotify.com/track/5HW2dyB6NN46JbpOjc9KSC) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Spotify Singles](https://open.spotify.com/album/7yd0SwBCQ68uqyqaipNkKp) | 3:39 | 2021-10-27 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,077 songs - 4 day 23 hr 12 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,078 songs - 4 day 23 hr 14 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,7 @@
 | [Breathe](https://open.spotify.com/track/4XFHj5iPz0w7Xg332eJDBu) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Breathe](https://open.spotify.com/album/208s6z5LCAwPTMthwfAzks) | 2:28 | 2021-02-06 | 2021-07-30 |
 | [Breathe](https://open.spotify.com/track/2H6eQvYX7SpVeM9pQI4Vye) | [Takeleave](https://open.spotify.com/artist/3H4357cuK5CEmtrOB5lPv9) | [Breathe](https://open.spotify.com/album/1Wzv7i1QJmARDuuNxI81YE) | 2:37 | 2020-01-22 | 2020-04-07 |
 | [Breeze](https://open.spotify.com/track/1fchzZDR5OAZmYaiNw4lCw) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8) | [Breeze](https://open.spotify.com/album/2CaTH37U3mdBeI3gGEjO9K) | 1:53 | 2021-09-03 | 2022-07-29 |
-| [Breeze](https://open.spotify.com/track/2gQIvqNyPgHhYikdasHcKz) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8) | [Breeze](https://open.spotify.com/album/1wMQXGKSXttqDFcdl89t6U) | 1:53 | 2022-07-28 |  |
+| [Breeze](https://open.spotify.com/track/2gQIvqNyPgHhYikdasHcKz) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8) | [Breeze](https://open.spotify.com/album/1wMQXGKSXttqDFcdl89t6U) | 1:53 | 2022-07-28 | 2022-10-27 |
 | [Breeze](https://open.spotify.com/track/0y5CCmJVloME4rFQok92Wz) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Breeze](https://open.spotify.com/album/4f8S0BsnhOXyyznc0D7PEj) | 2:26 | 2020-08-08 | 2021-03-26 |
 | [Breeze Machine](https://open.spotify.com/track/5F0wvcZnwbW88vARSp8rsh) | [Spectacular Diagnostics](https://open.spotify.com/artist/3z32OCr8soKhZ5CYuTti9a) | [Breeze Machine](https://open.spotify.com/album/1vEaBxTIr2WM2RSwwLzQIq) | 1:29 | 2020-08-07 | 2021-02-06 |
 | [Breezin´](https://open.spotify.com/track/6sIsbvTlsYgmNshvUEXnK9) | [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Breezin'](https://open.spotify.com/album/4Ksw5V9d8EcWYBe1SgWQXD) | 2:37 | 2020-10-09 | 2021-05-14 |
@@ -1239,6 +1239,7 @@
 | [In You](https://open.spotify.com/track/33TIyliC9yRwNUgXqBJh72) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [In You](https://open.spotify.com/album/1miOLtSTTm6mouIoUam6dq) | 2:19 | 2021-04-20 | 2021-11-26 |
 | [In Your Own Time](https://open.spotify.com/track/2xFlZfIkBQwlz8ZY4AP4Qc) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [In Your Own Time](https://open.spotify.com/album/54ESNC9gVJDkcX9pzm3uG8) | 1:42 | 2022-07-14 |  |
 | [Indian Summer](https://open.spotify.com/track/1lUBPpihHy91TTKP3d2bAd) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Indian Summer](https://open.spotify.com/album/75hRvWdyt0w9HZUFrnDi5z) | 3:10 | 2021-11-19 | 2021-12-17 |
+| [Indian Summer](https://open.spotify.com/track/0WHE2eIQ0AvKdfRXakZIHc) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Indian Summer](https://open.spotify.com/album/6nDt870gW8iPtN9MrI8QvF) | 1:51 | 2022-10-27 |  |
 | [Indigo](https://open.spotify.com/track/6o072JVrUHju3ReQDwnQvX) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Indigo](https://open.spotify.com/album/0RIbSmYZMUBN2RVXYYbdxy) | 2:11 | 2021-07-24 |  |
 | [infinity](https://open.spotify.com/track/1EsXJnF4BXO4XRYFl1Q9Xv) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [infinity](https://open.spotify.com/album/235sBSaHxVy5qDfDIpEfGO) | 1:33 | 2019-06-22 | 2019-11-15 |
 | [Inglewood](https://open.spotify.com/track/4gDjDAHlUwUfPgnmkf6fzY) | [Don Fizzy](https://open.spotify.com/artist/2zhwqqLtDHazsSVAZq0Jfj), [Cuebe](https://open.spotify.com/artist/3csK4XuQwgxouOsLopZhlH), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Inglewood](https://open.spotify.com/album/5puInZRtSIUcDseYJ1Ckwf) | 2:18 | 2021-08-20 | 2022-08-12 |

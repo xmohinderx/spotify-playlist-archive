@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's Carly Rae Jepsen album week! If you like this, you'll love  <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,908 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,124 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

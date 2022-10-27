@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 
 > The official playlist of JTBC Begin Again, which contains the busking live soundtracks of the best musicians in Korea\. \(국내 최정상 뮤지션들의 버스킹 라이브 음원들이 담긴 JTBC 비긴어게인의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,022 likes - 113 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,047 likes - 113 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 | 2 | [그냥](https://open.spotify.com/track/5GgQU0TN9RPF2LKdKe6t3r) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Begin Again Open Mic Episode.20](https://open.spotify.com/album/0ZNp4OVNgtklehdJ6PeoGt) | 3:29 |
 | 3 | [Say something](https://open.spotify.com/track/2MJb8O0NxWoGyQfTgvnOHs) | [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Begin Again Open Mic Episode.20](https://open.spotify.com/album/0ZNp4OVNgtklehdJ6PeoGt) | 3:50 |
 | 4 | [사랑이라는 이유로](https://open.spotify.com/track/5pjX0eoIpAeFOKr7w02KFH) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Begin Again Open Mic Episode.20](https://open.spotify.com/album/0ZNp4OVNgtklehdJ6PeoGt) | 3:29 |
-| 5 | [Imagine](https://open.spotify.com/track/6Zp6FBGVX8ImV87avj0CNx) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Imagine](https://open.spotify.com/album/3NaDUkOgBqIjZiRsVRRBbP) | 3:18 |
+| 5 | [Imagine](https://open.spotify.com/track/2HtEpIeH7UlvHULbuo3I5M) | [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Begin Again Open Mic Episode.19](https://open.spotify.com/album/1jTBZ8SWpQ5S3ziV2iXyXV) | 3:18 |
 | 6 | [그냥](https://open.spotify.com/track/5GgQU0TN9RPF2LKdKe6t3r) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Begin Again Open Mic Episode.20](https://open.spotify.com/album/0ZNp4OVNgtklehdJ6PeoGt) | 3:29 |
 | 7 | [오르막길](https://open.spotify.com/track/5gDBSrtG6Ox5byTHXl7gU5) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Begin Again Open Mic Episode.14](https://open.spotify.com/album/0HKnfbrCiRQkm2We6lG6vK) | 4:44 |
 | 8 | [Little By Little](https://open.spotify.com/track/4FCPsSCbSXowT9efMSK46c) | [CAR](https://open.spotify.com/artist/4E6gDpK1tuDrU59sIUzqW8), [THE GARDEN](https://open.spotify.com/artist/3E97A3nnlnYvm47G9uN6t4), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Begin Again Open Mic Episode.14](https://open.spotify.com/album/0HKnfbrCiRQkm2We6lG6vK) | 3:12 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 | 112 | [I bless you – Chamonix Busking ver](https://open.spotify.com/track/5ujO0nDWSnIEYZrH5YLghc) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [You Hee Yeol](https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB), [RO HONG CHUL](https://open.spotify.com/artist/0zcTx4R5R60a41u2jDVQbP) | [Begin Again\-Episode12](https://open.spotify.com/album/6H41cjcgNBY9xBvoF2Ffpb) | 3:57 |
 | 113 | [In Front Of The Autumn Post Office – Chamonix Busking ver](https://open.spotify.com/track/33hWdbayWz9hmNKnqhr7EN) | [You Hee Yeol](https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Begin Again\-Episode12](https://open.spotify.com/album/5eWfAwyHVx7TpQ12HTFzwh) | 4:44 |
 
-Snapshot ID: `MTY1MjI1MTk3OSwwMDAwMDAwMDE1MTI2MTUyZDE0MjA1MzkyZTUwNTljNjM3Zjk1NWE4`
+Snapshot ID: `MTY1MjI1MTk3OSwwMDAwMDAwMDk0ZjE2OWMwM2NjNDBjZjM4ODk0MWU2MjFhNDZiNWQz`

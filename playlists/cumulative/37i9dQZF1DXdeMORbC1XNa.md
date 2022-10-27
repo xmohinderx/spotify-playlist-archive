@@ -2,7 +2,7 @@
 
 ### [Afro Bashment](https://open.spotify.com/playlist/37i9dQZF1DXdeMORbC1XNa)
 
-> The best in Afro Bashment, Afro Swing and all that good stuff\. Cover: Wuave
+> The best in Afro Bashment, Afro Swing and all that good stuff\. Cover: Wauve
 
 352 songs - 18 hr 37 min - [published](https://open.spotify.com/playlist/60Bw7Cwgr0oH9rAK1w2wYZ)
 

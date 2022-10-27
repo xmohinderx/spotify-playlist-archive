@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-328 songs - 18 hr 14 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+329 songs - 18 hr 17 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Never Be Mine](https://open.spotify.com/track/0awYObOk6SaUF1HovGwrVI) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Never Be Mine](https://open.spotify.com/album/7hJjm7oazb7hP0lTmLEuWF) | 2:34 | 2022-04-18 | 2022-06-25 |
 | [Never Easy](https://open.spotify.com/track/22exPrZW0fcBOwlcA2HOhY) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 3:44 | 2022-07-21 | 2022-07-23 |
 | [Never Easy](https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Never Easy](https://open.spotify.com/album/6hfjf52GzZmtmlz4hzsoFo) | 3:44 | 2022-07-19 |  |
+| [Nightmare](https://open.spotify.com/track/4NTVnhW1sP7N6GmnYPzK18) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8) | [Nightmare](https://open.spotify.com/album/2Z3uMCXliH7RDx4ab2oMlz) | 2:27 | 2022-10-26 |  |
 | [Nightmares In NYC](https://open.spotify.com/track/3avSZvZd5Cvb2TDyS9yFbb) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Nightmares In NYC](https://open.spotify.com/album/5aOwEJun2fyoIIFpftCmph) | 2:57 | 2022-06-28 | 2022-09-19 |
 | [NO JOY](https://open.spotify.com/track/2lg0LnYXyclXEQA0ygfsop) | [Boski](https://open.spotify.com/artist/59cyz7Zo2B3ISbNUVnSIYp), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [NO JOY](https://open.spotify.com/album/5U3Qs2QlAepmJ38IrG5gJI) | 2:35 | 2022-02-28 | 2022-03-31 |
 | [NOT YOUR GUY](https://open.spotify.com/track/4oUTs1BJ5YFltx2PnUdD2y) | [Robokid](https://open.spotify.com/artist/3n7KOlGKfaR8KKKSkC4tA3) | [NOT YOUR GUY](https://open.spotify.com/album/46EJol667xsMTmS2KotaDy) | 2:10 | 2021-11-08 | 2022-01-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
-  "num_followers": 163142,
+  "num_followers": 163220,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1OTA2OCwwMDAwMDAwMDVhNzJmMGVmMDU4YzViZTAzMzY0NjAzY2E2MThiNGI3",
+  "snapshot_id": "MTY2NTE1OTA2OCwwMDAwMDAwMDMzZTdlZDFiYmYxODZiMDFkMDg2ODZlNDIzNTJkM2Ex",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -359,22 +359,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Collisions",
-        "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
-      },
-      "artists": [
-        {
-          "name": "TAUK",
-          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
-        }
-      ],
-      "duration_ms": 300876,
-      "name": "Friction",
-      "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Black Market",
         "url": "https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 390640,
       "name": "Black Market",
       "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Collisions",
+        "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
+      },
+      "artists": [
+        {
+          "name": "TAUK",
+          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
+        }
+      ],
+      "duration_ms": 300876,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Time In Place",
+        "url": "https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 462373,
+      "name": "Chromazone",
+      "url": "https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz"
+    },
+    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Common Ground",
@@ -643,22 +659,6 @@
       "duration_ms": 406453,
       "name": "The Little Boxer",
       "url": "https://open.spotify.com/track/6x7mEZbbec6EPOJVWYvmve"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Time In Place",
-        "url": "https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 462373,
-      "name": "Chromazone",
-      "url": "https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Magnetic",
-        "url": "https://open.spotify.com/album/2q2x4y9M2p1TuWPNfKMBHb"
-      },
-      "artists": [
-        {
-          "name": "Steps Ahead",
-          "url": "https://open.spotify.com/artist/5RKuvhYscPTUScwoFLAeK5"
-        }
-      ],
-      "duration_ms": 451440,
-      "name": "Trains",
-      "url": "https://open.spotify.com/track/3cTBzCdxKbuczWo9cfPic1"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Opuntia",
@@ -783,6 +767,22 @@
       "duration_ms": 242000,
       "name": "Up and Down",
       "url": "https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/2q2x4y9M2p1TuWPNfKMBHb"
+      },
+      "artists": [
+        {
+          "name": "Steps Ahead",
+          "url": "https://open.spotify.com/artist/5RKuvhYscPTUScwoFLAeK5"
+        }
+      ],
+      "duration_ms": 451440,
+      "name": "Trains",
+      "url": "https://open.spotify.com/track/3cTBzCdxKbuczWo9cfPic1"
     },
     {
       "added_at": "2021-10-15 04:01:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Mondo Garaj",
-        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO"
       },
       "artists": [
         {
-          "name": "Garaj Mahal",
-          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
+          "name": "Lydian Collective",
+          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
         }
       ],
-      "duration_ms": 333413,
-      "name": "Mondo Garaj",
-      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
+      "duration_ms": 227150,
+      "name": "Thirty One",
+      "url": "https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -935,6 +935,22 @@
       "duration_ms": 309800,
       "name": "Spacy Country",
       "url": "https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Mondo Garaj",
+        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
+      },
+      "artists": [
+        {
+          "name": "Garaj Mahal",
+          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
+        }
+      ],
+      "duration_ms": 333413,
+      "name": "Mondo Garaj",
+      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -955,22 +971,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Vtt2",
-        "url": "https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T"
-      },
-      "artists": [
-        {
-          "name": "Vital Techtones",
-          "url": "https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Catch Me If U Can",
-      "url": "https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Shapeless",
         "url": "https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 348733,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Vtt2",
+        "url": "https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T"
+      },
+      "artists": [
+        {
+          "name": "Vital Techtones",
+          "url": "https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Catch Me If U Can",
+      "url": "https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1011,22 +1027,6 @@
       "duration_ms": 672106,
       "name": "Blues for Tony",
       "url": "https://open.spotify.com/track/4XUR0xfOMphdT9qnTb1iG3"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Adventure",
-        "url": "https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO"
-      },
-      "artists": [
-        {
-          "name": "Lydian Collective",
-          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
-        }
-      ],
-      "duration_ms": 227150,
-      "name": "Thirty One",
-      "url": "https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1297,6 +1297,22 @@
       "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
     },
     {
+      "added_at": "2021-07-16 04:01:00",
+      "album": {
+        "name": "Liberation Time",
+        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
+      },
+      "artists": [
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        }
+      ],
+      "duration_ms": 321693,
+      "name": "As the Spirit Sings",
+      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Legacy",
@@ -1315,22 +1331,6 @@
       "duration_ms": 356243,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc"
-    },
-    {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Liberation Time",
-        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
-      },
-      "artists": [
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        }
-      ],
-      "duration_ms": 321693,
-      "name": "As the Spirit Sings",
-      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
     },
     {
       "added_at": "2021-04-09 04:01:00",

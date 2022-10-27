@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Plumas + Pedropiedra",
-  "num_followers": 199620,
+  "num_followers": 199635,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDllNzg0YTE0ZmE2ODA1NzUyNTRjY2ExMWYyZDkwYzFk",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGNhMTI2MmRlMGJhODk3OTUyZTBkOThlYTBjM2EyNTA4",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Reyes de la Fiesta",
-        "url": "https://open.spotify.com/album/3vhouOwCgJHxA4NRWD1PHd"
-      },
-      "artists": [
-        {
-          "name": "Tomo Como Rey",
-          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
-        }
-      ],
-      "duration_ms": 175966,
-      "name": "Reyes de la Fiesta",
-      "url": "https://open.spotify.com/track/0ewtyCU8eGNvE1OtjfOMbg"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Abr\u00e1zame",
         "url": "https://open.spotify.com/album/5Beu32a70MC8gI1fh43xKW"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 255484,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/386W9zuYD4lZhb0WfAk79s"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Reyes de la Fiesta",
+        "url": "https://open.spotify.com/album/3vhouOwCgJHxA4NRWD1PHd"
+      },
+      "artists": [
+        {
+          "name": "Tomo Como Rey",
+          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
+        }
+      ],
+      "duration_ms": 175966,
+      "name": "Reyes de la Fiesta",
+      "url": "https://open.spotify.com/track/0ewtyCU8eGNvE1OtjfOMbg"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Rocanrol de los Misterios",
-        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
+        "name": "Ases Falsos En El Coliseo",
+        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
       },
       "artists": [
         {
-          "name": "Congreso",
-          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
         }
       ],
-      "duration_ms": 259329,
-      "name": "Rocanrol de los Misterios",
-      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
+      "duration_ms": 243270,
+      "name": "Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Ases Falsos En El Coliseo",
-        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
+        "name": "Rocanrol de los Misterios",
+        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
       },
       "artists": [
         {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
         }
       ],
-      "duration_ms": 243270,
-      "name": "Mala Fama - En Vivo",
-      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
+      "duration_ms": 259329,
+      "name": "Rocanrol de los Misterios",
+      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q"
+      },
+      "artists": [
+        {
+          "name": "Candy66",
+          "url": "https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ"
+        },
+        {
+          "name": "Nk Profeta",
+          "url": "https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5"
+        }
+      ],
+      "duration_ms": 342186,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "25 A\u00f1os (En Vivo Teatro Caupolic\u00e1n)",
         "url": "https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 237940,
       "name": "Sale",
       "url": "https://open.spotify.com/track/0JwfanqBJszF8B8bVjuXuU"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Una Vieja Carta",
-        "url": "https://open.spotify.com/album/25Dz6g8tUZuiZlihux27UJ"
-      },
-      "artists": [
-        {
-          "name": "Kolumbia",
-          "url": "https://open.spotify.com/artist/4kspMj0rOe3V4NCUx3iJlH"
-        },
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        }
-      ],
-      "duration_ms": 226464,
-      "name": "Una Vieja Carta",
-      "url": "https://open.spotify.com/track/4mdMFl8IeINEY0jZNgEdAp"
     },
     {
       "added_at": "2022-10-14 04:00:00",

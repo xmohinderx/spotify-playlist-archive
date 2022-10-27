@@ -4,7 +4,7 @@
 
 > Proudly South African classics\. Cover: <a href="https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3\-HGc030gg">Johnny Clegg</a>
 
-135 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
+136 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Manenberg Revisited](https://open.spotify.com/track/7oJpfT2cGrOwxwuFRunY9i) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ) | [Water from an Ancient Well](https://open.spotify.com/album/5EQkSknw8twG8oiukc55la) | 6:11 | 2019-02-12 | 2022-07-25 |
 | [Manyonyoba](https://open.spotify.com/track/2MVoYPJL7n4OynoawmOzJc) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [King Of Kwaito](https://open.spotify.com/album/4HOkw5G26NKfIf8yR41dTW) | 5:20 | 2019-02-03 |  |
 | [Matofotofo](https://open.spotify.com/track/1mJzCGXZm1kRtzWY5VxovQ) | [Pitch Black Afro](https://open.spotify.com/artist/40hpSUVJeh3CRFkG0ANx5G) | [Tsotsi](https://open.spotify.com/album/3sxJlbcLIDvXZLbGSNnyq9) | 4:50 | 2019-02-12 | 2022-07-26 |
-| [Mbuso's Revenge](https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2) | [DJ Mbuso](https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3) | [House Player](https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6) | 6:10 | 2019-02-03 |  |
+| [Mbuso's Revenge](https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2) | [DJ Mbuso](https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3) | [House Player](https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6) | 6:10 | 2019-02-03 | 2022-10-27 |
 | [Mhlobo Wami](https://open.spotify.com/track/41iaiTayLoUcyUD6DGr4dm) | [Teargas](https://open.spotify.com/artist/6ffbZWFEp3uVx8w46WlNvD) | [Dark or Blue](https://open.spotify.com/album/7fyiKhxCy9RPxEIpme9QYo) | 3:45 | 2019-02-03 | 2022-07-29 |
 | [Ndawo Yami](https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:47 | 2019-02-03 |  |
 | [Ndihamba Nawe](https://open.spotify.com/track/07lXD6nPERzJiv2Pzhs4iv) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Kalawa Jazmee 2012 Pre\-Release](https://open.spotify.com/album/1d2LRuYBx8Ne97H6lJqiLJ) | 5:50 | 2018-09-23 | 2022-07-29 |
@@ -83,6 +83,7 @@
 | [Ngud' \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/0i2EASYXRiIMjKmExaOk6v) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [DaKAR II](https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC) | 4:31 | 2019-02-03 |  |
 | [Nkalakatha](https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Nkalakatha](https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg) | 4:45 | 2019-02-03 |  |
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/0iB3VQaspXWa6ckESoxORk) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw) | 3:30 | 2019-03-07 | 2022-10-15 |
+| [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:30 | 2019-03-07 |  |
 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 | 2019-03-07 | 2022-09-27 |
 | [Nomvula](https://open.spotify.com/track/3YtH3wMFfBa8zkXTwNruza) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Buyelekhaya](https://open.spotify.com/album/5QDuNg1KisnJkrMzSqGo4i) | 4:37 | 2018-09-23 | 2022-07-29 |
 | [Nomvula](https://open.spotify.com/track/4gqlaIb409m6NNMG5w64kN) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Buyelekhaya](https://open.spotify.com/album/2PGgRx2PWQEGzs9Eu2SM0A) | 4:37 | 2018-09-23 |  |

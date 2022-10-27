@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": " \u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u0634\u0627\u0631\u0645\u0648\u0641\u0631\u0632 \u0648 \u062d\u0633\u0646 \u0634\u0627\u0643\u0648\u0634",
+  "description": " \u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641:\u0623\u062d\u0645\u062f \u0633\u0639\u062f",
   "name": "\u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a",
   "published_playlist_ids": [
     "7rd0UNTK9BBzffp6c0LMpx"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 194373,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/1uE7Gln68v4duncYy4QgQm"
@@ -1931,7 +1931,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 276792,
       "name": "Khaleena A\u2019din",
       "url": "https://open.spotify.com/track/4GRMwobUes0Q9SQOa6C9e3"
@@ -2288,6 +2288,24 @@
     },
     {
       "album": {
+        "name": "Leh Badary Men Film Hashtag Gawwzny",
+        "url": "https://open.spotify.com/album/2kSwBV93jeWgrbYcLUVXHV"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225475,
+      "name": "Leh Badary Men Film Hashtag Gawwzny",
+      "url": "https://open.spotify.com/track/6XqswjwRHsf5DMSdxEhFSm"
+    },
+    {
+      "album": {
         "name": "Leila",
         "url": "https://open.spotify.com/album/0ShTnsYxPSo8zOhyglIrB4"
       },
@@ -2613,7 +2631,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 230424,
       "name": "Mawkef Da\u2019af",
       "url": "https://open.spotify.com/track/1IYbo7etxraFnbLaBNufRb"
@@ -3697,6 +3715,24 @@
       "duration_ms": 238248,
       "name": "Wasa3 Wasa3",
       "url": "https://open.spotify.com/track/2hZb0DuHOlqka9VYhHlTpM"
+    },
+    {
+      "album": {
+        "name": "Welad El Nas",
+        "url": "https://open.spotify.com/album/3C47PBslEIMHA8C5MSC7ms"
+      },
+      "artists": [
+        {
+          "name": "Aziz El Shafei",
+          "url": "https://open.spotify.com/artist/5afhldfOH1zWp9nhlvxFQL"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223469,
+      "name": "Welad El Nas",
+      "url": "https://open.spotify.com/track/7IVOH9iOYCLh4ghPc2IjEn"
     },
     {
       "album": {

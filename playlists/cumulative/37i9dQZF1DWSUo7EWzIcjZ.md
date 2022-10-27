@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-348 songs - 1 day 1 hr 40 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+349 songs - 1 day 1 hr 45 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,8 @@
 | [Soy Dominicano](https://open.spotify.com/track/7kxbZkurFVuJNDqnvg4auZ) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [La Cartita](https://open.spotify.com/album/68mEpO3bp4lsLlC6auxCWD) | 4:51 | 2021-02-02 | 2022-07-29 |
 | [Susana](https://open.spotify.com/track/6mlAC07B08tW5DiGp7Il84) | [Aramis Camilo](https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C) | [Candela](https://open.spotify.com/album/1mwtfjfZmESmvHoPZvTQZU) | 4:50 | 2021-02-02 | 2022-07-29 |
 | [Susana](https://open.spotify.com/track/5FHQXLRtTEnuHrnx76umZV) | [Aramis Camilo](https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C) | [Merengues Limpio](https://open.spotify.com/album/771HsH0BQNvh1S8iYiX1Ss) | 4:52 | 2021-02-02 |  |
-| [Ta' Encendio](https://open.spotify.com/track/3tAplt4FkuuOBYvMlfq8wA) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:46 | 2021-02-02 |  |
+| [Ta Encendio](https://open.spotify.com/track/2FI5ftUcHYCXv1NfCed6g6) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [El Poder de New York](https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji) | 4:45 | 2021-02-02 |  |
+| [Ta' Encendio](https://open.spotify.com/track/3tAplt4FkuuOBYvMlfq8wA) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:46 | 2021-02-02 | 2022-10-27 |
 | [Ta' Pillao](https://open.spotify.com/track/5BT0M93MhPMXKGpPNZrE5C) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Los Años Dorados](https://open.spotify.com/album/5dzAnKjNryZOUWh0xp7hKR) | 4:35 | 2021-02-02 | 2022-10-15 |
 | [Ta' Pillao](https://open.spotify.com/track/5ES8lZiYDoVmEbnEz93ak9) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Los Años Dorados](https://open.spotify.com/album/2jCQgKg1Ugv4CdWKJMSma4) | 4:35 | 2021-02-02 | 2022-07-29 |
 | [Ta' Pillao](https://open.spotify.com/track/7bNcX3QJYa9zHvseMSSTed) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Los Años Dorados](https://open.spotify.com/album/7cVxbZREoOPYMAgTyPR4jz) | 4:35 | 2021-02-02 |  |

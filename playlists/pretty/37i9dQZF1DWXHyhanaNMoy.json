@@ -1,13 +1,29 @@
 {
-  "description": "Broederliefde exclusieve tracks in La Vida Loca! Hier alleen maar good vibes en motion.",
-  "num_followers": 306023,
+  "description": "Drie exclusieve Broederliefde tracks in La Vida Loca! Hier alleen maar good vibes en motion.",
+  "num_followers": 306133,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjczNTIwMCwwMDAwMDAwMGNjZTNhMGIyZDJhNDZhYzNjYmYxN2MzNzAyNzgwYjIz",
+  "snapshot_id": "MTY2NjgyMTYwMCwwMDAwMDAwMGZkOWU4YTQyNDE3MGU5OTM2ODZmZDZhYThkNWRlMDQ2",
   "tracks": [
+    {
+      "added_at": "2022-10-26 22:00:00",
+      "album": {
+        "name": "5 Shots",
+        "url": "https://open.spotify.com/album/3cD8xzylIG2Y8a4jRp8Ftd"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 182618,
+      "name": "5 Shots",
+      "url": "https://open.spotify.com/track/6ayHgGpGR1GL8DYYcQZ0T4"
+    },
     {
       "added_at": "2022-10-25 22:00:00",
       "album": {

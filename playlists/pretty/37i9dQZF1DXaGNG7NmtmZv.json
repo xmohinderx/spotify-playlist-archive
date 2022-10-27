@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 168311,
+  "num_followers": 168382,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGNlMDhlODA2M2NjZjg4YjMxMDBhOTcwZDNlZDM4MWRj",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGEzMDM1N2QxNWI4NDQzMmE0ODFlYTVlMzcyNTVkZjY0",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "This Is Just the Beginning",
-        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
-      },
-      "artists": [
-        {
-          "name": "Kill Your Idols",
-          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
-        }
-      ],
-      "duration_ms": 96053,
-      "name": "Can't Take It Away",
-      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Manic Compression",
         "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Death Knows Your Name",
-        "url": "https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK"
+        "name": "This Is Just the Beginning",
+        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
       },
       "artists": [
         {
-          "name": "The Hope Conspiracy",
-          "url": "https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d"
+          "name": "Kill Your Idols",
+          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
         }
       ],
-      "duration_ms": 220413,
-      "name": "Animal Farm",
-      "url": "https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa"
+      "duration_ms": 96053,
+      "name": "Can't Take It Away",
+      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -343,6 +327,22 @@
       "duration_ms": 189026,
       "name": "Step Down",
       "url": "https://open.spotify.com/track/0S3YlKnOR7F6T8t20gLhf0"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Death Knows Your Name",
+        "url": "https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK"
+      },
+      "artists": [
+        {
+          "name": "The Hope Conspiracy",
+          "url": "https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Animal Farm",
+      "url": "https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
-      },
-      "artists": [
-        {
-          "name": "H2O",
-          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
-        }
-      ],
-      "duration_ms": 170213,
-      "name": "I Know Why",
-      "url": "https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Silence Is Betrayal",
         "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 53168,
       "name": "Silence",
       "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "I Know Why",
+      "url": "https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy"
     },
     {
       "added_at": "2020-12-08 15:12:11",

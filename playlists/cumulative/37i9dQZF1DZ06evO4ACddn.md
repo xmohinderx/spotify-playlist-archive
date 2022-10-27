@@ -4,7 +4,7 @@
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-38 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/4Am2nGzT1v1T7bvwT3pcGs)
+39 songs - 2 hr 24 min - [published](https://open.spotify.com/playlist/4Am2nGzT1v1T7bvwT3pcGs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Place Isn't Lost](https://open.spotify.com/track/1rQPIRmI5TbCwL3uXvCpjQ) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Place Isn't Lost](https://open.spotify.com/album/0nRCOJnkNw1P1AR0vRJYEa) | 2:58 | 2022-09-16 |  |
 | [Radar \- Redux](https://open.spotify.com/track/1ncOAqP2tJ6sHcPPn6NOAg) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5Pr1REYMnyucyL3tC1V9Zr) | 3:53 | 2022-09-16 | 2022-10-26 |
 | [Radar \- Redux](https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter \(Redux\)](https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm) | 3:53 | 2022-10-25 |  |
+| [Rattlesnakes](https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:28 | 2022-10-26 |  |
 | [Rattlesnakes](https://open.spotify.com/track/4c3BGa7Epnb2X2t5jLRU0x) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB) | 3:28 | 2022-10-12 | 2022-10-17 |
 | [Something I Said](https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 4:12 | 2022-09-21 |  |
 | [Tank Wave](https://open.spotify.com/track/4zy4pghyBzcwv3G5hsYLIg) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB) | 4:20 | 2022-09-16 |  |
@@ -43,7 +44,7 @@
 | [Two Heads](https://open.spotify.com/track/4a7J8atRYTomOWzMAJm6UN) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Diamond Days EP](https://open.spotify.com/album/70FYVDqcCDDDWrDxosXSfB) | 3:38 | 2022-09-16 |  |
 | [Untitled](https://open.spotify.com/track/0lryMnVnArBTEoQdha8vqc) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 1:12 | 2022-09-19 | 2022-09-21 |
 | [Victory Line](https://open.spotify.com/track/5ANtXtO9R4gR16Q41yCOtR) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:54 | 2022-09-16 |  |
-| [Wait in the Car](https://open.spotify.com/track/7mbFHs6TntthnhNEEFHo4m) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB) | 3:40 | 2022-09-16 |  |
+| [Wait in the Car](https://open.spotify.com/track/7mbFHs6TntthnhNEEFHo4m) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB) | 3:40 | 2022-09-16 | 2022-10-27 |
 | [What If You Fall In](https://open.spotify.com/track/251AzOLaomMJ24QdX5BvxC) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB) | 5:14 | 2022-09-16 |  |
 | [Your Heavy Heart](https://open.spotify.com/track/1FlChalmUyVX8JVrvcHK4F) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 3:44 | 2022-09-16 |  |
 

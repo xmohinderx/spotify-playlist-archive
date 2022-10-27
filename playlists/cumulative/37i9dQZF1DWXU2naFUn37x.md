@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Vale Pain
 
-151 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
+152 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [SOLITE PARE \(feat\. tha Supreme & Sfera Ebbasta\)](https://open.spotify.com/track/3NbehQmQsyuN17EP7dW5mJ) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 3:31 | 2022-05-11 | 2022-05-27 |
 | [SPACCIATORE \(feat\. Gazo, Vale Pain, Keta, Nko\)](https://open.spotify.com/track/61CX76RLIHI1RELTfVT0mM) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 2:46 | 2022-05-26 | 2022-06-03 |
 | [Speranza e Fame](https://open.spotify.com/track/35ubuxGRmfd6DySV1R63th) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [Speranza e Fame](https://open.spotify.com/album/4s42ucGhAufNpCj9bbKrOJ) | 2:48 | 2022-07-21 | 2022-09-23 |
-| [Star \(feat\. Shiva\)](https://open.spotify.com/track/4LC3IJxi0FnvPALxJ8k6zw) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:01 | 2022-05-11 |  |
+| [Star \(feat\. Shiva\)](https://open.spotify.com/track/4LC3IJxi0FnvPALxJ8k6zw) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:01 | 2022-05-11 | 2022-10-27 |
+| [Star \(feat\. Shiva\)](https://open.spotify.com/track/7mHGPB2hXrQHrNvbMGvYON) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 3:01 | 2022-10-24 |  |
 | [Strade Unite \(feat\. Helmi sa7bi, emanuelino\)](https://open.spotify.com/track/6PYMcSZlBqCgFOojTLMJgD) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Strade Unite \(feat\. Helmi sa7bi, emanuelino\)](https://open.spotify.com/album/4pqW2BaSQ7qOdg8KMSxId3) | 3:30 | 2022-09-29 | 2022-10-21 |
 | [Street Fight](https://open.spotify.com/track/0RfsPdWv4vmccAVm17aYvS) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Street Fight](https://open.spotify.com/album/7LyS71YF8VLbGIcFZsmGOf) | 3:07 | 2022-07-14 | 2022-08-24 |
 | [STURDY](https://open.spotify.com/track/5KYHtcY0dtXkSxZwtVMjgp) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [STURDY](https://open.spotify.com/album/368Ku2KAei8qwbELqc1Rzl) | 3:57 | 2022-05-11 |  |

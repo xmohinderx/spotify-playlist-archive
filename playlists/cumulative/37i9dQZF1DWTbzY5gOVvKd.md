@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-172 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/70IqB6MweM6qsbIR6Kn9aT)
+173 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/70IqB6MweM6qsbIR6Kn9aT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Our Love Is Here To Stay](https://open.spotify.com/track/4sG2lkGzzYu7CAT0Z2V8Vu) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 3:29 | 2022-06-22 |  |
 | [People Will Say We're In Love](https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Come Closer](https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39) | 2:58 | 2019-05-26\* |  |
 | [Photograph](https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [I Know I Dream : The Orchestral Sessions \(Deluxe Version\)](https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH) | 6:07 | 2019-05-26\* | 2022-10-22 |
+| [Photograph](https://open.spotify.com/track/2XDNzwJkyFfqqnc1FP8UJg) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [I Know I Dream: The Orchestral Sessions \(Deluxe Version\)](https://open.spotify.com/album/02o5Ry59Ocv0UskowTlrlZ) | 6:09 | 2022-10-11 |  |
 | [Prelude to a Kiss](https://open.spotify.com/track/60wOZ1b6EFfnSa4eXyLDwl) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [In the Moonlight](https://open.spotify.com/album/4fxUiKusGBrkfnP7t5WoL5) | 4:35 | 2019-05-26\* | 2022-07-22 |
 | [Prelude To A Kiss](https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [In The Moonlight](https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL) | 4:36 | 2022-09-13 | 2022-10-23 |
 | [Save Your Love For Me](https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:00 | 2022-05-02 |  |
@@ -171,7 +172,7 @@
 | [Unforgettable](https://open.spotify.com/track/3hMtwMsTU2H3iD5mu0cpiE) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL), [Taylor Eigsti](https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp) | [Unforgettable](https://open.spotify.com/album/6HiKJ6DURPZIyr837e7rBX) | 2:56 | 2019-05-26\* | 2022-07-29 |
 | [Unforgettable](https://open.spotify.com/track/0DHyfTHCTvbeVJyXIzVhlq) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Taylor Eigsti](https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL) | [Shadow Train](https://open.spotify.com/album/1dzuSstYTLU34HvWhd6CIh) | 2:56 | 2022-06-22 |  |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-02-14 | 2022-05-25 |
-| [We'll Be Together Again](https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [It Had To be You..\. The Great American Songbook](https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM) | 3:54 | 2022-05-02 |  |
+| [We'll Be Together Again](https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [It Had To be You..\. The Great American Songbook](https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM) | 3:54 | 2022-05-02 | 2022-10-27 |
 | [What A Difference A Day Made](https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 5:09 | 2022-05-02 |  |
 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 | 2019-05-26\* |  |
 | [Wild Is The Wind](https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [Wild Is The Wind](https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp) | 5:43 | 2021-02-12 |  |

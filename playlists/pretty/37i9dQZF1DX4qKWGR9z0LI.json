@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Gilberto Santa Rosa",
-  "num_followers": 1789757,
+  "num_followers": 1789958,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczNjE3MiwwMDAwMDAwMGEwY2YzYTlkMTY5MTQzZjZkZjJlZjU2NDMyYmVhNzg4",
+  "snapshot_id": "MTY2MjczNjE3MiwwMDAwMDAwMGRiZjE0ZTI5YTcyZjlmZGE5NmQ2M2IwNDZhNmRmNzky",
   "tracks": [
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
+        "name": "Mi Propiedad Privada",
+        "url": "https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "Mi Propiedad Privada",
+      "url": "https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl"
+    },
+    {
+      "added_at": "2022-09-09 15:09:32",
+      "album": {
         "name": "Es por Ti",
         "url": "https://open.spotify.com/album/3jRMh7EFk5BXNdVwPfd9Et"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 184690,
       "name": "Es por Ti",
       "url": "https://open.spotify.com/track/0g09E1yhLVHS7R57vxhlEM"
-    },
-    {
-      "added_at": "2022-09-09 15:09:32",
-      "album": {
-        "name": "Mi Propiedad Privada",
-        "url": "https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "Mi Propiedad Privada",
-      "url": "https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu"
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
       },
       "artists": [
         {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
         }
       ],
-      "duration_ms": 200760,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5"
+      "duration_ms": 291106,
+      "name": "Por Retenerte",
+      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
     },
     {
       "added_at": "2022-09-09 15:09:32",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2022-09-09 15:09:32",
       "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu"
       },
       "artists": [
         {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
         }
       ],
-      "duration_ms": 291106,
-      "name": "Por Retenerte",
-      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
+      "duration_ms": 200760,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5"
     },
     {
       "added_at": "2022-09-09 15:09:32",

@@ -1,12 +1,12 @@
 {
   "description": "in the evening the real me comes alive",
-  "num_followers": 156290,
+  "num_followers": 156395,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDVkZjE3NDExYTZlOTk3OWNiNGNhYjQwMjhkZDFkMTgx",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDg5NDliMDVjZWZkNjA0OGY5NjgwNDY3Y2Q2ZGZmMDlm",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/3ZFmdgfTOEBGApsmwbYIQy"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4WNrx9GTx4RvdnxR6qVysR"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Diamonds (feat. Aleyna Tilki)",
         "url": "https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 168196,
       "name": "Diamonds (feat. Aleyna Tilki)",
       "url": "https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/3ZFmdgfTOEBGApsmwbYIQy"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4WNrx9GTx4RvdnxR6qVysR"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Easy / Where Do We Go From Here?",
-        "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/17Wr40mwfgaeUREqsKQNRt"
       },
       "artists": [
         {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
         }
       ],
-      "duration_ms": 231670,
-      "name": "Where Do We Go From Here?",
-      "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
+      "duration_ms": 344580,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1U6NDSRMcLYdJIUzwPASni"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/17Wr40mwfgaeUREqsKQNRt"
+        "name": "Easy / Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
       },
       "artists": [
         {
-          "name": "Emilie Nicolas",
-          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
         }
       ],
-      "duration_ms": 344580,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1U6NDSRMcLYdJIUzwPASni"
+      "duration_ms": 231670,
+      "name": "Where Do We Go From Here?",
+      "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL"
+      },
+      "artists": [
+        {
+          "name": "Grant Knoche",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        }
+      ],
+      "duration_ms": 155327,
+      "name": "ICARUS",
+      "url": "https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Hold On Baby",
         "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 242266,
       "name": "Save A Kiss",
       "url": "https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "ICARUS",
-        "url": "https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL"
-      },
-      "artists": [
-        {
-          "name": "Grant Knoche",
-          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
-        }
-      ],
-      "duration_ms": 155327,
-      "name": "ICARUS",
-      "url": "https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Somebody Like You",
-        "url": "https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 233211,
-      "name": "Somebody Like You",
-      "url": "https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "How To Let Go",
         "url": "https://open.spotify.com/album/4V714KyABj469FBI9Dao8T"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 167000,
       "name": "A Driver Saved My Night",
       "url": "https://open.spotify.com/track/4e64oQwdgwUUADrC26DCdI"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Somebody Like You",
+        "url": "https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 233211,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh"
     },
     {
       "added_at": "2022-10-21 04:00:00",

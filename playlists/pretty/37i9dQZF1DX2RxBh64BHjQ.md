@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2qoQgPAilErOKCwE2Y8wOG">GloRilla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,689,872 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,690,189 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,18 +20,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 10 | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Can't Stop Won't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ) | 2:38 |
 | 11 | [Bullseye 2 \(with Future\)](https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 2:37 |
 | 12 | [247](https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [247](https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z) | 2:43 |
-| 13 | [40s N 9s](https://open.spotify.com/track/6c74xJ6LgdJDnv8bYOElUP) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [SugarHill Ddot](https://open.spotify.com/artist/2mET8bpTc6j2lm5YjVUeFq) | [40s N 9s](https://open.spotify.com/album/3xaTN7UyEJIVnnjdclui5E) | 2:25 |
+| 13 | [40s N 9s](https://open.spotify.com/track/6tApynt36Q9U9Tl7ulJyL2) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [40s N 9s](https://open.spotify.com/album/5vGhbSeR8O9f0i0zOiZd6j) | 2:25 |
 | 14 | [Understanding](https://open.spotify.com/track/0dbrw7unsnoUBwS3WSLTiO) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz) | [So Icy Boyz 22](https://open.spotify.com/album/0W19oEiOst4LmXpd4X2wb8) | 2:35 |
 | 15 | [Celine Frames](https://open.spotify.com/track/0Gmi0VeJIjybMPkJwLlS80) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Last Man Standing](https://open.spotify.com/album/2aFnmYzaupGK12iAYejKC4) | 2:35 |
 | 16 | [Nice Guy](https://open.spotify.com/track/3zVBnFMVe9XMOLigMPjpsv) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Nice Guy](https://open.spotify.com/album/1qGq80zAWFFmOTXQ7Iqvh8) | 2:53 |
 | 17 | [SIMPLE](https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [SIMPLE](https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF) | 2:34 |
 | 18 | [Face no Book](https://open.spotify.com/track/5LIIVNlJGqtFrfe9pl3Gw2) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw) | 2:25 |
 | 19 | [I Want You \(with Future\)](https://open.spotify.com/track/30pBgahZNXNLvtQVi5HUxQ) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 3:25 |
-| 20 | [Creepers \- Extended](https://open.spotify.com/track/4bw3e2IYWIoyEvQo7G8DOC) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Creepers](https://open.spotify.com/album/1MkTOfJ6KeXotp6u2QRqzt) | 1:51 |
+| 20 | [Creepers](https://open.spotify.com/track/4bw3e2IYWIoyEvQo7G8DOC) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Creepers](https://open.spotify.com/album/1MkTOfJ6KeXotp6u2QRqzt) | 1:51 |
 | 21 | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/track/3d19P64cMd5IM6jGGwKcSS) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/album/3Ej4xcq9U5V4cUsfjxeXgV) | 2:55 |
 | 22 | [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 |
 | 23 | [Heaven For Thugs \(Letter to Wap\)](https://open.spotify.com/track/1Um0VBEUksMQfbeHOaDcrv) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Heaven For Thugs \(Letter to Wap\)](https://open.spotify.com/album/5DJezMQf5AEqwXDZhJrLbI) | 6:30 |
-| 24 | [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2IceBv1anwFlb42SoIXlt4) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/7GKeNLuPGAk0hvaSosnfoo) | 2:19 |
+| 24 | [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2IceBv1anwFlb42SoIXlt4) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/7GKeNLuPGAk0hvaSosnfoo) | 2:56 |
 | 25 | [Chief](https://open.spotify.com/track/7MN2fQ1oMGvhKf0NQolm9R) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [So Icy Boyz 22](https://open.spotify.com/album/0W19oEiOst4LmXpd4X2wb8) | 2:49 |
 | 26 | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/track/6QCWPC6OFUxuoaMtRe573z) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/album/341UBgXu04jXD1oESdpDWa) | 3:14 |
 | 27 | [Reel Em In](https://open.spotify.com/track/50yCs2ldgkd0OJji21ZAAa) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Reel Em In](https://open.spotify.com/album/4JNBTgwYusBL4RfduIShBZ) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Team Player \(feat\. Lil Poppa & Morray\)](https://open.spotify.com/track/5O5BKCnAoF5Djt90t2wpma) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa), [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Team Player \(feat\. Lil Poppa & Morray\)](https://open.spotify.com/album/3E1E6Qlhvo9uS3hwx3J0Hz) | 3:01 |
 | 100 | [DOA \(feat\. Set Da Trend\)](https://open.spotify.com/track/3i4yWKMRIoCcquLwOPhqZ1) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Set Da Trend](https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB) | [DOA \(feat\. Set Da Trend\)](https://open.spotify.com/album/0z0OfFcfdNLWfCuo6VS6ql) | 1:48 |
 
-Snapshot ID: `MTY2NjMzMDMwMCwwMDAwMDAwMGE4MjhiODYzMjc4NTdiZjE4ZTRlZGM2ZDk1ODUwYjhl`
+Snapshot ID: `MTY2NjMzMDMwMCwwMDAwMDAwMDc5MWU0NThmNGRkYzY4MjQzYWJhZGQwMzU0NzE0MWRl`

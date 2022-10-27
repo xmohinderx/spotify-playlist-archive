@@ -1,12 +1,12 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 90442,
+  "num_followers": 90448,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTM5MjkzNywwMDAwMDAwMGNlNGE0ZGM3ZDc1OTc2YzhjNGMzODJkOGNhYjE2MzQw",
+  "snapshot_id": "MTY2NTM5MjkzNywwMDAwMDAwMDkyZDMyNjQwN2NiMjI3OWMyYjA1YjY3MDJkNTdhY2Nm",
   "tracks": [
     {
       "added_at": "2022-10-10 09:08:21",
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm"
     },
     {
-      "added_at": "2022-10-26 01:14:13",
+      "added_at": "2022-10-27 01:14:58",
       "album": {
         "name": "c@ra++ere s?ec!@le",
         "url": "https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS"
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2022-10-10 09:08:21",
       "album": {
-        "name": "Salvatore",
-        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 122373,
-      "name": "No wallet (feat. Marracash)",
-      "url": "https://open.spotify.com/track/4vU79ET0F49d3bepSr0Aee"
-    },
-    {
-      "added_at": "2022-10-10 09:08:21",
-      "album": {
         "name": "La zone (feat. Shiva)",
         "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
       },
@@ -1543,22 +1523,42 @@
     {
       "added_at": "2022-10-10 09:08:21",
       "album": {
-        "name": "Salvatore",
-        "url": "https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B"
+        "name": "TAXI DRIVER",
+        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
       "artists": [
         {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
         },
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
         }
       ],
-      "duration_ms": 181266,
-      "name": "Star (feat. Shiva)",
-      "url": "https://open.spotify.com/track/4LC3IJxi0FnvPALxJ8k6zw"
+      "duration_ms": 174727,
+      "name": "10 RAGAZZE (con ERNIA)",
+      "url": "https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV"
+    },
+    {
+      "added_at": "2022-10-10 09:08:21",
+      "album": {
+        "name": "LAPROVINCE #1",
+        "url": "https://open.spotify.com/album/3THjA1Ova7s3TevMi65qTS"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 158372,
+      "name": "LAPROVINCE #1",
+      "url": "https://open.spotify.com/track/2Z9uQAn8v8m6ZPFh4bsqY4"
     }
   ],
   "unique_name": "GOOD GAME",

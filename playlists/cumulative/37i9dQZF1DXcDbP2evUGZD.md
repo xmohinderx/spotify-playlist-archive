@@ -14,7 +14,7 @@
 | [A Shining Warrior \- A Heartfelt Joy](https://open.spotify.com/track/5kkyQRkRWwnrs7Ic4DrfzW) | [HAEPAARY](https://open.spotify.com/artist/3ltYPanqVYTC1qV0OIRaAc) | [Born by Gorgeousness](https://open.spotify.com/album/6KaKMpXtDpcCEDK56xNWOg) | 6:38 | 2022-09-27 |  |
 | [Addiction](https://open.spotify.com/track/2ZRrHoDIwkUj66lyJQkxct) | [Vanilla Mousse](https://open.spotify.com/artist/4DGY1BlqxH29zb9DGXLpB3) | [Addiction](https://open.spotify.com/album/79WY9MZSvE8n84Nn0U8UEX) | 4:19 | 2022-10-17 |  |
 | [All Night Long](https://open.spotify.com/track/1YBmtuDdD5of0Ok6rSrMzf) | [PRSNT](https://open.spotify.com/artist/4Aj920LL1N15pxyHm4heD1) | [All Night Long](https://open.spotify.com/album/1ynvJyDJzoxQLD2S1quViA) | 3:36 | 2022-09-27 |  |
-| [Arcade](https://open.spotify.com/track/6kOD1O3e5ffbL2KXjYZ8aq) | [DongYan Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [Arcade](https://open.spotify.com/album/6pCv1wTcIyLp4IrXFm2G4Q) | 6:03 | 2022-09-27 |  |
+| [Arcade](https://open.spotify.com/track/6kOD1O3e5ffbL2KXjYZ8aq) | [DongYang Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [Arcade](https://open.spotify.com/album/6pCv1wTcIyLp4IrXFm2G4Q) | 6:03 | 2022-09-27 |  |
 | [Around](https://open.spotify.com/track/0WGDTNPUH5ywFcatKn4DUo) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Around](https://open.spotify.com/album/6tICS1jK7fDG4e2Mmlcsw3) | 4:49 | 2022-09-27 |  |
 | [Beat and Lullaby \- Live](https://open.spotify.com/track/2OWyBarwiz2gSFa17kNbvI) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [Dancing On The Farm](https://open.spotify.com/album/79YkPV1Zt74Ndv1mHdAUEQ) | 7:01 | 2022-09-27 |  |
 | [Beautiful Dance](https://open.spotify.com/track/5cHJhIxCTJui1WlWyo0V2O) | [byebyesea](https://open.spotify.com/artist/6riFTYc983NGqLzQBW3UZK) | [Boy's Universe](https://open.spotify.com/album/0kF1FU29WSqWcDcxA3Wg67) | 3:13 | 2022-09-27 |  |
@@ -47,7 +47,7 @@
 | [Drive Thru](https://open.spotify.com/track/5z780k9o8KNblm25qUVsjU) | [A\-Fuzz](https://open.spotify.com/artist/113w9vmZPkX93Pc3pkUby3) | [Moonshine](https://open.spotify.com/album/79RORAgkofZCqc3LAFZHNX) | 3:40 | 2022-09-27 |  |
 | [Dry Flower](https://open.spotify.com/track/1Dqo8RY50LMCvjjA3kOrNZ) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [I Know](https://open.spotify.com/album/62r3CabGyFZ0nkJLr5vean) | 3:03 | 2022-09-27 |  |
 | [Far Away](https://open.spotify.com/track/13HukOYtNe0njFlMNI23kx) | [Lacuna 라쿠나](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [I Love You](https://open.spotify.com/album/1lr6Bw7U5CK7fVY05suiQx) | 5:09 | 2022-09-27 |  |
-| [Feed](https://open.spotify.com/track/1a9h5EvYxY6NQNr4aaSXoT) | [DongYan Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [SURFACE](https://open.spotify.com/album/11zBjw0fW6jHj8dv8cnOpX) | 3:26 | 2022-09-27 |  |
+| [Feed](https://open.spotify.com/track/1a9h5EvYxY6NQNr4aaSXoT) | [DongYang Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [SURFACE](https://open.spotify.com/album/11zBjw0fW6jHj8dv8cnOpX) | 3:26 | 2022-09-27 |  |
 | [Foolish](https://open.spotify.com/track/6sjr0RGxsvJfn1olYrUBU2) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Discovery](https://open.spotify.com/album/1SP1YJnXmb53GB5rk6p6B6) | 3:05 | 2022-09-27 |  |
 | [Future That Never Comes](https://open.spotify.com/track/7KTE0zDJilsV92AppzPkLl) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Future That Never Comes](https://open.spotify.com/album/5LSPgxkmWoM0HPmwn6sW54) | 3:58 | 2022-09-27 |  |
 | [Get Away](https://open.spotify.com/track/3R935V7o6B0hdzA9svew6v) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [JUST BURN](https://open.spotify.com/album/1LZ8Ox2ip5t4tFNZwsMtvC) | 3:34 | 2022-09-27 |  |
@@ -128,6 +128,6 @@
 | [Zinnia](https://open.spotify.com/track/0ll9zCUAVr3qmpGPfenFvI) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [Zinnia](https://open.spotify.com/album/5MQ5dlRGUTSmWeKAYw9Ckh) | 3:47 | 2022-09-27 |  |
 | [Zoom in](https://open.spotify.com/track/2KqDiLmDIG3Q7DoxS07tCr) | [JACKINGCONG](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [Dress code](https://open.spotify.com/album/7dG75t5CvFXocpg2OnrSFd) | 3:30 | 2022-09-27 |  |
 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 | 2022-09-27 |  |
-| [혼](https://open.spotify.com/track/63fnEF2CXivwsI11SDzx3u) | [DongYan Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [틈](https://open.spotify.com/album/1yX7JNKgiXKbbrKVQ1Y1ks) | 6:39 | 2022-09-27 |  |
+| [혼](https://open.spotify.com/track/63fnEF2CXivwsI11SDzx3u) | [DongYang Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [틈](https://open.spotify.com/album/1yX7JNKgiXKbbrKVQ1Y1ks) | 6:39 | 2022-09-27 |  |
 
 \*This playlist was first scraped on 2022-09-28. Prior content cannot be recovered.

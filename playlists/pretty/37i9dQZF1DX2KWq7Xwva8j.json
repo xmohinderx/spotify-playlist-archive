@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Walls",
-  "num_followers": 19951,
+  "num_followers": 19964,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkxNzM2OSwwMDAwMDAwMGQxZmUzMDkwOGM5ZDg3MDlhNGE1MmMzZjczYzE4ZWNh",
+  "snapshot_id": "MTY2MzkxNzM2OSwwMDAwMDAwMGNhNDBjMjViNWNlY2I3NmZiMzhhN2Q1Y2I5ZDAzYzE2",
   "tracks": [
     {
       "added_at": "2022-09-23 07:16:09",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
+    },
+    {
+      "added_at": "2022-09-23 07:16:09",
+      "album": {
         "name": "No Llores (feat. Alice Wonder)",
         "url": "https://open.spotify.com/album/2NlrMp7I85XX6HdkFJmJBM"
       },
@@ -339,34 +355,22 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
-        "name": "Ansiedad",
-        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
-    },
-    {
-      "added_at": "2022-09-23 07:16:09",
-      "album": {
-        "name": "J*DER",
-        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
-      },
-      "artists": [
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        },
         {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
         }
       ],
-      "duration_ms": 127661,
-      "name": "J*DER",
-      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
+      "duration_ms": 167000,
+      "name": "de qu\u00e9 sirve?",
+      "url": "https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37"
     },
     {
       "added_at": "2022-09-23 07:16:09",
@@ -403,22 +407,18 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
-        "name": "ya se me pasar\u00e1",
-        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
+        "name": "J*DER",
+        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
       },
       "artists": [
         {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
         }
       ],
-      "duration_ms": 167000,
-      "name": "de qu\u00e9 sirve?",
-      "url": "https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37"
+      "duration_ms": 127661,
+      "name": "J*DER",
+      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
     },
     {
       "added_at": "2022-09-23 07:16:09",
@@ -435,6 +435,22 @@
       "duration_ms": 199537,
       "name": "me gustas mas que un bigmac",
       "url": "https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY"
+    },
+    {
+      "added_at": "2022-09-23 07:16:09",
+      "album": {
+        "name": "Alex Turner",
+        "url": "https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Alex Turner",
+      "url": "https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x"
     },
     {
       "added_at": "2022-09-23 07:16:09",
@@ -459,22 +475,6 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
-        "name": "EN EL CIELO",
-        "url": "https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 148915,
-      "name": "EN EL CIELO",
-      "url": "https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C"
-    },
-    {
-      "added_at": "2022-09-23 07:16:09",
-      "album": {
         "name": "Lo Que No Te Cuentan",
         "url": "https://open.spotify.com/album/7IxhNoNw5mq24KbJ6VgrYz"
       },
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
+        "name": "EN EL CIELO",
+        "url": "https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 148915,
+      "name": "EN EL CIELO",
+      "url": "https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C"
+    },
+    {
+      "added_at": "2022-09-23 07:16:09",
+      "album": {
         "name": "100tas / Nunca",
         "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 192136,
       "name": "Nunca",
       "url": "https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt"
-    },
-    {
-      "added_at": "2022-09-23 07:16:09",
-      "album": {
-        "name": "Alex Turner",
-        "url": "https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Alex Turner",
-      "url": "https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x"
     },
     {
       "added_at": "2022-09-23 07:16:09",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
-        "name": "Indie esperanzador",
-        "url": "https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 170285,
-      "name": "Indie esperanzador",
-      "url": "https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH"
-    },
-    {
-      "added_at": "2022-09-23 07:16:09",
-      "album": {
         "name": "CHINO CADA MARTES",
         "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 163125,
       "name": "chino cada martes",
       "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
+    },
+    {
+      "added_at": "2022-09-23 07:16:09",
+      "album": {
+        "name": "Indie esperanzador",
+        "url": "https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 170285,
+      "name": "Indie esperanzador",
+      "url": "https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH"
     },
     {
       "added_at": "2022-09-23 07:16:09",
@@ -675,22 +675,6 @@
       "duration_ms": 131871,
       "name": "friki",
       "url": "https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g"
-    },
-    {
-      "added_at": "2022-09-23 07:16:09",
-      "album": {
-        "name": "un poco s\u00ed...",
-        "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "un poco s\u00ed...",
-      "url": "https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl"
     },
     {
       "added_at": "2022-09-23 07:16:09",
@@ -775,6 +759,22 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
+        "name": "un poco s\u00ed...",
+        "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "un poco s\u00ed...",
+      "url": "https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl"
+    },
+    {
+      "added_at": "2022-09-23 07:16:09",
+      "album": {
         "name": "Ya No Hace Falta",
         "url": "https://open.spotify.com/album/3Al8q1fJTsyuYI9xogyDHV"
       },
@@ -843,6 +843,26 @@
     {
       "added_at": "2022-09-23 07:16:09",
       "album": {
+        "name": "Nada Mal",
+        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        },
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Nada Mal",
+      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
+    },
+    {
+      "added_at": "2022-09-23 07:16:09",
+      "album": {
         "name": "Soy Un Desastre",
         "url": "https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 174623,
       "name": "Soy Un Desastre",
       "url": "https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr"
-    },
-    {
-      "added_at": "2022-09-23 07:16:09",
-      "album": {
-        "name": "Dime Algo (bonito) (True Fans Edition)",
-        "url": "https://open.spotify.com/album/3Pvc669UGSa0e2LajSLL9g"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        },
-        {
-          "name": "Buffetlibre",
-          "url": "https://open.spotify.com/artist/4wlrSsiSPO3L9DbJVuzXuh"
-        }
-      ],
-      "duration_ms": 202126,
-      "name": "Ojal\u00e1 Fu\u00e9ramos Amigos (Buffetlibre Remix)",
-      "url": "https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB"
     }
   ],
   "unique_name": "Radar Espa\u00f1a",

@@ -1,12 +1,12 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 418752,
+  "num_followers": 419079,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDk4NzA5NSwwMDAwMDAwMGIwZTY4OGI1Y2Q1MDhjYTQ0NGI1YTQ1NGQyMWJjOTBk",
+  "snapshot_id": "MTY2NDk4NzA5NSwwMDAwMDAwMDQ3MGFkNDAwMjc3ZDJkMzZjZDNlYzYwNGY2YjQyMWZm",
   "tracks": [
     {
       "added_at": "2021-03-29 12:26:54",
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83"
     },
     {
-      "added_at": "2022-10-26 01:25:50",
+      "added_at": "2022-10-27 01:28:23",
       "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
     },
     {
-      "added_at": "2022-10-26 01:25:50",
+      "added_at": "2022-10-27 01:28:23",
       "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "The Great War",
-        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 268266,
-      "name": "Great War",
-      "url": "https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Manifest",
         "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 203373,
       "name": "Archangel",
       "url": "https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "The Great War",
+        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 268266,
+      "name": "Great War",
+      "url": "https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "The Mortal Coil",
-        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 243913,
-      "name": "The Remedy",
-      "url": "https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "The Nexus",
         "url": "https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 196040,
       "name": "The Nexus",
       "url": "https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "The Mortal Coil",
+        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 243913,
+      "name": "The Remedy",
+      "url": "https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1243,6 +1243,22 @@
       "duration_ms": 217533,
       "name": "Super Charger Heaven",
       "url": "https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Manifest",
+        "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Viral",
+      "url": "https://open.spotify.com/track/23nQ0OXajph2n9yzYjP7Hs"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Manifest",
-        "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Viral",
-      "url": "https://open.spotify.com/track/23nQ0OXajph2n9yzYjP7Hs"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "St. Anger",
         "url": "https://open.spotify.com/album/4ljK2LVKvEPd5xPgUJn0Bs"
       },
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
+        "name": "Let The Chaos Reign",
+        "url": "https://open.spotify.com/album/0fLVaBxd0GUChzkvsKGTx8"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 198552,
+      "name": "Let The Chaos Reign",
+      "url": "https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
         "name": "Talk To Me (feat. Lzzy Hale)",
         "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 208021,
       "name": "Talk To Me (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
-        "name": "Let The Chaos Reign",
-        "url": "https://open.spotify.com/album/0fLVaBxd0GUChzkvsKGTx8"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 198552,
-      "name": "Let The Chaos Reign",
-      "url": "https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d"
     },
     {
       "added_at": "2021-03-29 12:26:54",

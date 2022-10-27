@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 150010,
+  "num_followers": 150059,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDUxMThmMGVmMjgzZWI2MTU5N2JkNzhkODYyM2RjNzQw",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMGZmNDAyNDY5MzMzYTY5YTU5ZTIwMWI1MzZkOGUyNDAy",
   "tracks": [
     {
       "added_at": "2022-02-21 19:44:42",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
+        "name": "El Duende De Las Guitarras",
+        "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
+      },
+      "artists": [
+        {
+          "name": "Argentino Luna",
+          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Las Manos De Mi Madre",
+      "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
         "name": "Chamame",
         "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 182200,
       "name": "Criollita Santiague\u00f1a",
       "url": "https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
-        "name": "El Duende De Las Guitarras",
-        "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
-      },
-      "artists": [
-        {
-          "name": "Argentino Luna",
-          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Las Manos De Mi Madre",
-      "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1275,8 +1275,8 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Romance De Luna Y Flor",
-        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV"
       },
       "artists": [
         {
@@ -1284,25 +1284,25 @@
           "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
         }
       ],
-      "duration_ms": 192480,
-      "name": "L\u00f3pez Pereyra",
-      "url": "https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf"
+      "duration_ms": 196773,
+      "name": "Guitarra de Medianoche",
+      "url": "https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt"
     },
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
+        "name": "Folclore - La Colecci\u00f3n - Los Del Suqu\u00eda",
+        "url": "https://open.spotify.com/album/1KquXVu2VO9cPvwoAM0Oik"
       },
       "artists": [
         {
-          "name": "D\u00fao Salte\u00f1o",
-          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
+          "name": "Los Del Suqu\u00eda",
+          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
         }
       ],
-      "duration_ms": 255680,
-      "name": "Balderrama",
-      "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
+      "duration_ms": 214893,
+      "name": "De Alberdi - Zamba",
+      "url": "https://open.spotify.com/track/0TY0g0YvayB5r6mJ3nUT9U"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1339,24 +1339,24 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Folclore - La Colecci\u00f3n - Los Del Suqu\u00eda",
-        "url": "https://open.spotify.com/album/1KquXVu2VO9cPvwoAM0Oik"
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
       },
       "artists": [
         {
-          "name": "Los Del Suqu\u00eda",
-          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
+          "name": "D\u00fao Salte\u00f1o",
+          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
         }
       ],
-      "duration_ms": 214893,
-      "name": "De Alberdi - Zamba",
-      "url": "https://open.spotify.com/track/0TY0g0YvayB5r6mJ3nUT9U"
+      "duration_ms": 255680,
+      "name": "Balderrama",
+      "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
     },
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV"
+        "name": "Romance De Luna Y Flor",
+        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
       },
       "artists": [
         {
@@ -1364,9 +1364,9 @@
           "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
         }
       ],
-      "duration_ms": 196773,
-      "name": "Guitarra de Medianoche",
-      "url": "https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt"
+      "duration_ms": 192480,
+      "name": "L\u00f3pez Pereyra",
+      "url": "https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Salte\u00f1o",
-          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
-        }
-      ],
-      "duration_ms": 233314,
-      "name": "La Pome\u00f1a",
-      "url": "https://open.spotify.com/track/3iSkp3Yk2Eiw34ev6v38JY"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Mi Ultima Canci\u00f3n",
         "url": "https://open.spotify.com/album/3TC7aNPSbpymAXQmWlM5hz"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 364226,
       "name": "Dios a la Una",
       "url": "https://open.spotify.com/track/4yioHSOUbNFggQSlFCg6HE"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Salte\u00f1o",
+          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
+        }
+      ],
+      "duration_ms": 233314,
+      "name": "La Pome\u00f1a",
+      "url": "https://open.spotify.com/track/3iSkp3Yk2Eiw34ev6v38JY"
     },
     {
       "added_at": "2022-02-21 19:44:42",

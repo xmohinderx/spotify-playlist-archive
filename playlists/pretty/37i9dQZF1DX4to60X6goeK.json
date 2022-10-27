@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMDI1ZTJjMjA3NjY0MWUyMjhmNWU3NmNjZTlhZWY1NjMz",
+  "snapshot_id": "MTY2MDMyMjA5MSwwMDAwMDAwMGE5Y2UyNWE5NWIyZjQ4OGM2ZjU4YzRjNWRkY2FlODZj",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Offender",
+        "url": "https://open.spotify.com/album/0HGC8S4h6lsfrPw2lWWbZh"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Offender",
+      "url": "https://open.spotify.com/track/39dkTH7uL26INRkJYxmPmz"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Freak (Used Remix)",
         "url": "https://open.spotify.com/album/1MCWIGoES5nxFBS2inrKRn"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Offender",
-        "url": "https://open.spotify.com/album/0HGC8S4h6lsfrPw2lWWbZh"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Offender",
-      "url": "https://open.spotify.com/track/39dkTH7uL26INRkJYxmPmz"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Us / When the Lights Go",
+        "url": "https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE"
+      },
+      "artists": [
+        {
+          "name": "Tesen",
+          "url": "https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP"
+        }
+      ],
+      "duration_ms": 271542,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Essence",
         "url": "https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 237284,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Us / When the Lights Go",
-        "url": "https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE"
-      },
-      "artists": [
-        {
-          "name": "Tesen",
-          "url": "https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP"
-        }
-      ],
-      "duration_ms": 271542,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh"
     },
     {
       "added_at": "2022-08-12 16:34:51",

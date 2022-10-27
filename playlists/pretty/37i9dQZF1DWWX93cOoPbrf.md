@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2022\. Grupo Los De La O en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,460 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,678 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 32 | [De Ladrillo a Ladrillo](https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 2:57 |
 | 33 | [El Deportivo](https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Deportivo](https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg) | 3:12 |
 | 34 | [La Bolsita](https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Bolsita](https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB) | 3:00 |
-| 35 | [El Jami](https://open.spotify.com/track/0v4ySxml0fwgYJAYazBBJB) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/6TxjuxsKG1IWdgLS9Xq1eF) | [El Jami](https://open.spotify.com/album/1nRul8PMSoyoLfdJ2JDgne) | 2:59 |
+| 35 | [El Jami](https://open.spotify.com/track/0v4ySxml0fwgYJAYazBBJB) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [El Jami](https://open.spotify.com/album/1nRul8PMSoyoLfdJ2JDgne) | 2:59 |
 | 36 | [Culon y Medio](https://open.spotify.com/track/77eIFriAVgrCYshgQMYXC1) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Culon y Medio](https://open.spotify.com/album/0Ss8cCDMszxtrvcozbvgQ9) | 2:39 |
 | 37 | [Las Parrandas Del Gordo \- En Vivo](https://open.spotify.com/track/26Dv27PxgMRMS0kiWhUbEY) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Las Parrandas Del Gordo \(En Vivo\)](https://open.spotify.com/album/6RgjLB7vJ5K3Wb6cnoWqWv) | 2:38 |
 | 38 | [Ave De Mal Agüero](https://open.spotify.com/track/5e15YyvzUqMEFf1DqJaxrn) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ave De Mal Agüero](https://open.spotify.com/album/3cqoRpYWykozNTwUUwf9JX) | 3:07 |

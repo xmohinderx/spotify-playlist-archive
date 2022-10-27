@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,898 likes - 300 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,180 likes - 300 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 45 | [That FULLness](https://open.spotify.com/track/4chATeCAyWRsO7PEptGM41) | [Stay Nice](https://open.spotify.com/artist/0e0CMuJm0h7Dl1pFGb7MUD) | [That FULLness](https://open.spotify.com/album/1eRPL8SVCLThFHOWYRWgXD) | 3:00 |
 | 46 | [solstice](https://open.spotify.com/track/0nSchxt6Ucc5gSX5n8HnLV) | [owlh](https://open.spotify.com/artist/0kCNNJfXF8AOSqRIC4aoza) | [in the clouds](https://open.spotify.com/album/3MxySDz5dvG7BxCttkLEue) | 3:43 |
 | 47 | [Lucid Living](https://open.spotify.com/track/4wzysfxJsTFm2UvgOYFvrV) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Lucid Living](https://open.spotify.com/album/2ynlL4uaTJ9hMecU8W5LKb) | 2:26 |
-| 48 | [Luscious](https://open.spotify.com/track/1Ab68vQtCoAu7KKcqTaE6G) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo), [No Catch](https://open.spotify.com/artist/7FLGelyblSnmtdBhUCx4bb) | [Luscious](https://open.spotify.com/album/0SKdzfxXvINsaKXNpGn83J) | 1:57 |
+| 48 | [Luscious](https://open.spotify.com/track/1Ab68vQtCoAu7KKcqTaE6G) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo), [No Catch](https://open.spotify.com/artist/73wiYU4PA3rTJ6Bu9clbfS) | [Luscious](https://open.spotify.com/album/0SKdzfxXvINsaKXNpGn83J) | 1:57 |
 | 49 | [Bakery](https://open.spotify.com/track/6fvn2bC5eyxUBr5I2lFHRD) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Bakery \| A Walk In Central Park](https://open.spotify.com/album/2ZNLy8gIAiDnhhh2CyhbvX) | 2:13 |
 | 50 | [Chanterelle](https://open.spotify.com/track/3JSg9IUjqze3mySqLn4HmT) | [Silva Sax](https://open.spotify.com/artist/4J3sbgdgKQeaCSv5oM2xq9) | [Cartoons & Cereal](https://open.spotify.com/album/6eY7VIvnJeoNfWVpE5N29q) | 3:45 |
 | 51 | [Ilene](https://open.spotify.com/track/0Y5hAGvfwXoQnjWEd90ju2) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [Sharingan](https://open.spotify.com/album/5ISSZnA4V8C7eCia0WIhsY) | 2:09 |

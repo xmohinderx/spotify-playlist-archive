@@ -1,12 +1,12 @@
 {
   "description": "An introduction to some of alt-rock\u2019s most seminal tracks.",
-  "num_followers": 76084,
+  "num_followers": 76169,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjAzODk4MiwwMDAwMDAwMDAxYzg1MWVmYzlmNTA1ZDRjMjg5ZTRiNzgzMzlkMDRk",
+  "snapshot_id": "MTY2NjAzODk4MiwwMDAwMDAwMDY4YWU4ZjdhZjdkYjI1MjkzMjc3NzBkMDMxOGU3MDFj",
   "tracks": [
     {
       "added_at": "2022-10-11 07:35:44",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Other Voices, Other Rooms",
-        "url": "https://open.spotify.com/album/5HXLYD2Iu9rKlpTDMFyNWI"
-      },
-      "artists": [
-        {
-          "name": "The Getaway Plan",
-          "url": "https://open.spotify.com/artist/5JmeloS88DjYXJulG7qgwF"
-        }
-      ],
-      "duration_ms": 215946,
-      "name": "Where the City Meets the Sea",
-      "url": "https://open.spotify.com/track/0uX6Y7mRIJjswGAcLg1oz9"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Home, Like Noplace Is There",
         "url": "https://open.spotify.com/album/37ohOvaKOQIEkFjTWfg9Q4"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 227213,
       "name": "Your Deep Rest",
       "url": "https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Other Voices, Other Rooms",
+        "url": "https://open.spotify.com/album/5HXLYD2Iu9rKlpTDMFyNWI"
+      },
+      "artists": [
+        {
+          "name": "The Getaway Plan",
+          "url": "https://open.spotify.com/artist/5JmeloS88DjYXJulG7qgwF"
+        }
+      ],
+      "duration_ms": 215946,
+      "name": "Where the City Meets the Sea",
+      "url": "https://open.spotify.com/track/0uX6Y7mRIJjswGAcLg1oz9"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Springtime and Blind",
-        "url": "https://open.spotify.com/album/5pdYblYPTSzOOBWC2zm2Kw"
-      },
-      "artists": [
-        {
-          "name": "Fiddlehead",
-          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
-        }
-      ],
-      "duration_ms": 166101,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/6df7gORFCqOHTzWquFhLKW"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Heavy in the Day",
         "url": "https://open.spotify.com/album/281202APzTHOf2hs6RFcmr"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 210893,
       "name": "Something Better",
       "url": "https://open.spotify.com/track/49p2lVw2SIn1cCfjaBptQo"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Springtime and Blind",
+        "url": "https://open.spotify.com/album/5pdYblYPTSzOOBWC2zm2Kw"
+      },
+      "artists": [
+        {
+          "name": "Fiddlehead",
+          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
+        }
+      ],
+      "duration_ms": 166101,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/6df7gORFCqOHTzWquFhLKW"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
+        "name": "The New Vice EP",
+        "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
+      },
+      "artists": [
+        {
+          "name": "Otherkin",
+          "url": "https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX"
+        }
+      ],
+      "duration_ms": 213492,
+      "name": "Yeah, I Know",
+      "url": "https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
         "name": "Under Exit Lights",
         "url": "https://open.spotify.com/album/5c4rnFo67posi6omJUtu02"
       },
@@ -891,18 +907,18 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "The New Vice EP",
-        "url": "https://open.spotify.com/album/6zXwvojHgkZOyU2FeRgz8U"
+        "name": "Infinite Pleasure",
+        "url": "https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY"
       },
       "artists": [
         {
-          "name": "Otherkin",
-          "url": "https://open.spotify.com/artist/3KozMLMh8J2iR3jmwndtfX"
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
         }
       ],
-      "duration_ms": 213492,
-      "name": "Yeah, I Know",
-      "url": "https://open.spotify.com/track/3b1neRAhz6hJ5cXfiBAKtB"
+      "duration_ms": 247360,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -951,22 +967,6 @@
       "duration_ms": 207000,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
-        "name": "Infinite Pleasure",
-        "url": "https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
-      },
-      "artists": [
-        {
-          "name": "Superchunk",
-          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
-        }
-      ],
-      "duration_ms": 281173,
-      "name": "Driveway to Driveway",
-      "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "Brave Faces Everyone",
         "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 242365,
       "name": "Kick",
       "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
+      },
+      "artists": [
+        {
+          "name": "Superchunk",
+          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
+        }
+      ],
+      "duration_ms": 281173,
+      "name": "Driveway to Driveway",
+      "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 259266,
-      "name": "Driving Nowhere",
-      "url": "https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "United By Fate",
         "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "Workbook",
-        "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
       },
       "artists": [
         {
-          "name": "Bob Mould",
-          "url": "https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A"
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 212066,
-      "name": "See A Little Light",
-      "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
+      "duration_ms": 259266,
+      "name": "Driving Nowhere",
+      "url": "https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1207,6 +1191,22 @@
       "duration_ms": 273200,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "Workbook",
+        "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
+      },
+      "artists": [
+        {
+          "name": "Bob Mould",
+          "url": "https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "See A Little Light",
+      "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
     },
     {
       "added_at": "2022-10-11 07:35:44",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-10-11 07:35:44",
       "album": {
-        "name": "United By Fate",
-        "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
-      },
-      "artists": [
-        {
-          "name": "Rival Schools",
-          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
-        }
-      ],
-      "duration_ms": 198160,
-      "name": "Used For Glue",
-      "url": "https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH"
-    },
-    {
-      "added_at": "2022-10-11 07:35:44",
-      "album": {
         "name": "The Vertigo of Bliss",
         "url": "https://open.spotify.com/album/5gFvzz68wze0kCwbkIwWeW"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 237893,
       "name": "Grey Flap",
       "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
+    },
+    {
+      "added_at": "2022-10-11 07:35:44",
+      "album": {
+        "name": "United By Fate",
+        "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
+      },
+      "artists": [
+        {
+          "name": "Rival Schools",
+          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
+        }
+      ],
+      "duration_ms": 198160,
+      "name": "Used For Glue",
+      "url": "https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH"
     },
     {
       "added_at": "2022-10-11 07:35:44",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ALALA",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Mai Davika",
   "name": "T-Pop Now",
   "published_playlist_ids": [
     "46jC5TDLIJijd5c6Z3EIRR"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 185746,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 188610,
       "name": "MY TIME",
       "url": "https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 242154,
       "name": "Sunkissed",
       "url": "https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n"
@@ -961,6 +961,28 @@
       "duration_ms": 254716,
       "name": "\u0e01\u0e47\u0e09\u0e31\u0e19\u0e19\u0e48\u0e30\u0e41\u0e2d\u0e1a\u0e0a\u0e2d\u0e1a (For a while)",
       "url": "https://open.spotify.com/track/4LJlTY8XrrrcNpfdExSF5C"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e4a\u0e2d\u0e01 \u0e01\u0e4a\u0e2d\u0e01",
+        "url": "https://open.spotify.com/album/6Bq2DNYOVC2UhJ8OetxqEf"
+      },
+      "artists": [
+        {
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        },
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "\u0e01\u0e4a\u0e2d\u0e01 \u0e01\u0e4a\u0e2d\u0e01",
+      "url": "https://open.spotify.com/track/5apV16Mj5WQ3OW2qPxMuu4"
     },
     {
       "album": {
@@ -1565,7 +1587,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 207789,
       "name": "\u0e0a\u0e2d\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2b\u0e07\u0e32 (Loneliness)",
       "url": "https://open.spotify.com/track/1QTwE3bpK1t6W3H4ffpFc1"
@@ -1605,6 +1627,24 @@
       "duration_ms": 222727,
       "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM"
+    },
+    {
+      "album": {
+        "name": "\u0e0a\u0e2d\u0e1a\u0e1b\u0e48\u0e30\u0e40\u0e19\u0e35\u0e48\u0e22 (Can I Call You Mine)",
+        "url": "https://open.spotify.com/album/2LrGMUuGqI7ceHkBsDs0GF"
+      },
+      "artists": [
+        {
+          "name": "Mai Davika",
+          "url": "https://open.spotify.com/artist/0XZFmjFo1arDluB0KncejC"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192559,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e1b\u0e48\u0e30\u0e40\u0e19\u0e35\u0e48\u0e22 (Can I Call You Mine)",
+      "url": "https://open.spotify.com/track/742XEz0qAabkTmEVdMzqKb"
     },
     {
       "album": {
@@ -2159,6 +2199,46 @@
       "duration_ms": 288923,
       "name": "\u0e19\u0e30\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/4iA3PrcsOt6bmoXTaDXhf3"
+    },
+    {
+      "album": {
+        "name": "\u0e19\u0e31\u0e01\u0e41\u0e2a\u0e14\u0e07\u0e17\u0e48\u0e32\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07",
+        "url": "https://open.spotify.com/album/1pKxGewGwSeGm5GWraCDoi"
+      },
+      "artists": [
+        {
+          "name": "WHAWHA",
+          "url": "https://open.spotify.com/artist/5UxAoeg42uFHbc9mrnHGa2"
+        },
+        {
+          "name": "Quang H\u00f9ng MasterD",
+          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "\u0e19\u0e31\u0e01\u0e41\u0e2a\u0e14\u0e07\u0e17\u0e48\u0e32\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07",
+      "url": "https://open.spotify.com/track/1bOp9fTreRtgduisx31YZc"
+    },
+    {
+      "album": {
+        "name": "\u0e19\u0e34\u0e19\u0e08\u0e32",
+        "url": "https://open.spotify.com/album/2HYlo3paB7Tb3dBeFPVuA2"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e2d\u0e49\u0e22 \u0e08\u0e34\u0e23\u0e31\u0e0a",
+          "url": "https://open.spotify.com/artist/57LTnxDtihPVR9HlkAN3OY"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226981,
+      "name": "\u0e19\u0e34\u0e19\u0e08\u0e32",
+      "url": "https://open.spotify.com/track/6MySIb6kDy1Qedt2sANIYW"
     },
     {
       "album": {
@@ -2723,7 +2803,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 235781,
       "name": "\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49\u0e14\u0e31\u0e07\u0e46 (Not A Chance)",
       "url": "https://open.spotify.com/track/5j7vOGEPZsnigRggWqYQJr"
@@ -3109,7 +3189,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 179375,
       "name": "\u0e2b\u0e22\u0e2d\u0e01 \u0e2b\u0e22\u0e2d\u0e01",
       "url": "https://open.spotify.com/track/6tkhy9Be0jO98dyeJtlX8s"
@@ -3603,7 +3683,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 186156,
       "name": "\u0e40\u0e14\u0e32\u0e44\u0e21\u0e48\u0e40\u0e01\u0e48\u0e07",
       "url": "https://open.spotify.com/track/0FQuyJ6MTsvGcXQur2EPgk"
@@ -3711,7 +3791,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 189500,
       "name": "\u0e40\u0e1c\u0e25\u0e2d\u0e2b\u0e23\u0e37\u0e2d\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08",
       "url": "https://open.spotify.com/track/7GfFmnGewokTR7RwkMpbW5"
@@ -4503,7 +4583,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 233317,
       "name": "\u0e44\u0e21\u0e48\u0e22\u0e34\u0e19\u0e14\u0e35",
       "url": "https://open.spotify.com/track/4OHu1M6xtQLkgTSao8nYS3"

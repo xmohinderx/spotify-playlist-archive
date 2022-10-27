@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 
 > Esto es un perreo a lo Jhayco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,374 likes - 101 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,646 likes - 101 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

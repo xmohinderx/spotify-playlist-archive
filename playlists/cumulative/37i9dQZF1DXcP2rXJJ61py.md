@@ -2,7 +2,7 @@
 
 ### [House of the Dragon: Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcP2rXJJ61py)
 
-> The official playlist for House of the Dragon \(and House Targaryen\)\. Watch Sundays on HBO Max.
+> The official playlist for House of the Dragon \(and House Targaryen\)\. Watch the entire first season on HBO Max.
 
 85 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/6wtPhYZd7evCLez2bU4QX6)
 
@@ -51,7 +51,7 @@
 | [Lanterns at Nightfall](https://open.spotify.com/track/3S8rPbConHBKf0TIGR9pRm) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 5:00 | 2022-10-24 |  |
 | [Love In The Eyes \- From The "Game Of Thrones" Soundtrack](https://open.spotify.com/track/19kA9MB5gD4xX27NFmBTVs) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 4:00 | 2022-08-19 |  |
 | [Main Title \(From Game of Thrones: Season 3\)](https://open.spotify.com/track/0M9QjRGZhvqJATvgQS4Hob) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 1:44 | 2022-08-19 |  |
-| [Main Title \(From Game of Thrones: Season 5\)](https://open.spotify.com/track/3Y4egKQO2gOYob1oDITCzV) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 1:45 | 2022-10-24 |  |
+| [Main Title \(from “Game of Thrones”\)](https://open.spotify.com/track/3Y4egKQO2gOYob1oDITCzV) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 1:45 | 2022-10-24 |  |
 | [Mereen](https://open.spotify.com/track/66fCNaWh2YZ1mNrOozbZMj) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 2:53 | 2022-08-19 |  |
 | [Mhysa](https://open.spotify.com/track/4wxaEgPlUbEUwiAnThBUkw) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 3:54 | 2022-08-19 |  |
 | [Mother Of Dragons \- From The "Game Of Thrones: Season 2" Soundtrack](https://open.spotify.com/track/4E7bdPSJTPdAMg0H2CUoqf) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2) | 2:35 | 2022-08-19 |  |

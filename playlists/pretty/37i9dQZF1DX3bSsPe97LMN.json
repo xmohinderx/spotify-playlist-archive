@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Xavi en portada.",
-  "num_followers": 44953,
+  "num_followers": 44976,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMDMwYWVjODBjNTk0OTQzMzlhMTNlZjg2NzdkYTk1OTNj",
+  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMGY1NGJjNzc1YTMyMjRkZWU4YzQ1ZmQyZDg0OGE0YTlk",
   "tracks": [
     {
       "added_at": "2022-10-14 05:00:00",
@@ -27,42 +27,6 @@
       "duration_ms": 142298,
       "name": "Zero Sentimientos",
       "url": "https://open.spotify.com/track/6iYEK8ZLg74oeRBCpgaRXi"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Belico El Asunto (En Vivo)",
-        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Belico El Asunto (En Vivo)",
-      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
-    },
-    {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Rosas",
-        "url": "https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 287135,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -87,6 +51,42 @@
     {
       "added_at": "2022-10-14 05:00:00",
       "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 287135,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Belico El Asunto (En Vivo)",
+        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Belico El Asunto (En Vivo)",
+      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
         "name": "El Gallo Fino",
         "url": "https://open.spotify.com/album/3bRPnVJJsQhT6pLsOQoX6V"
       },
@@ -99,22 +99,6 @@
       "duration_ms": 186069,
       "name": "El Gallo Fino",
       "url": "https://open.spotify.com/track/6b43Rukjyuskfp9yGnpX6w"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Aprendimos A Jugar",
-        "url": "https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        }
-      ],
-      "duration_ms": 152789,
-      "name": "Pensando",
-      "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
     },
     {
       "added_at": "2022-10-07 15:36:37",
@@ -131,6 +115,22 @@
       "duration_ms": 188471,
       "name": "365",
       "url": "https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Aprendimos A Jugar",
+        "url": "https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "duration_ms": 152789,
+      "name": "Pensando",
+      "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
+        "name": "Vuela y Vuela",
+        "url": "https://open.spotify.com/album/35EBcHRE2GuFcYfCkwyX7l"
+      },
+      "artists": [
+        {
+          "name": "Grupo H-100",
+          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
+        }
+      ],
+      "duration_ms": 181141,
+      "name": "Vuela y Vuela",
+      "url": "https://open.spotify.com/track/7qQZ6wGQO2lb4jRyuysx6s"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
         "name": "Salud Por Eso",
         "url": "https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Vuela y Vuela",
-        "url": "https://open.spotify.com/album/35EBcHRE2GuFcYfCkwyX7l"
-      },
-      "artists": [
-        {
-          "name": "Grupo H-100",
-          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
-        }
-      ],
-      "duration_ms": 181141,
-      "name": "Vuela y Vuela",
-      "url": "https://open.spotify.com/track/7qQZ6wGQO2lb4jRyuysx6s"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Tres Veces Te Enga\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/5xHrXcWSCwKsn7v4pzuqmN"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Tres Veces Te Enga\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5E8jO69OMYtFRsrxW04Upw"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
         "name": "2 vidas",
         "url": "https://open.spotify.com/album/5XCxOvIc7sl0UhPvQsMnc4"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 216851,
       "name": "Dices Que Me Quieres",
       "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Tres Veces Te Enga\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/5xHrXcWSCwKsn7v4pzuqmN"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Tres Veces Te Enga\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5E8jO69OMYtFRsrxW04Upw"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -763,26 +763,6 @@
     {
       "added_at": "2022-10-07 15:36:37",
       "album": {
-        "name": "Mario Aguirre (En Vivo)",
-        "url": "https://open.spotify.com/album/57eBE9Vtn8Xpeyqts4aeEU"
-      },
-      "artists": [
-        {
-          "name": "Betillo Guerrero",
-          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
-        },
-        {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
-        }
-      ],
-      "duration_ms": 178979,
-      "name": "Mario Aguirre (En Vivo)",
-      "url": "https://open.spotify.com/track/7ysAUADcyTyB2EmPXrtLoJ"
-    },
-    {
-      "added_at": "2022-10-07 15:36:37",
-      "album": {
         "name": "No S\u00e9 Que Tengas",
         "url": "https://open.spotify.com/album/1hlrfVbr5Bh0xcoXtggDOF"
       },
@@ -801,20 +781,24 @@
       "url": "https://open.spotify.com/track/5jjIkLaQZA4iaPz0wwZZBo"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
+      "added_at": "2022-10-07 15:36:37",
       "album": {
-        "name": "SRT",
-        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
+        "name": "Mario Aguirre (En Vivo)",
+        "url": "https://open.spotify.com/album/57eBE9Vtn8Xpeyqts4aeEU"
       },
       "artists": [
         {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+          "name": "Betillo Guerrero",
+          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
+        },
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
         }
       ],
-      "duration_ms": 178748,
-      "name": "SRT",
-      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
+      "duration_ms": 178979,
+      "name": "Mario Aguirre (En Vivo)",
+      "url": "https://open.spotify.com/track/7ysAUADcyTyB2EmPXrtLoJ"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -835,6 +819,22 @@
       "duration_ms": 194025,
       "name": "Viaje Verde",
       "url": "https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "SRT",
+        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 178748,
+      "name": "SRT",
+      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -871,6 +871,26 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
+        "name": "Loko (with Los Primos Del Este)",
+        "url": "https://open.spotify.com/album/27xtTUsTfkXQgDPbaVNMQ3"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 128739,
+      "name": "Loko (with Los Primos Del Este)",
+      "url": "https://open.spotify.com/track/3KHRKLRl85jnsNSLICgy7t"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
         "name": "Ya Los Miraron Pasar",
         "url": "https://open.spotify.com/album/4L4RHzgMeqzU8LeXix4JLh"
       },
@@ -889,24 +909,20 @@
       "url": "https://open.spotify.com/track/04ETVcXvStIz96bDxqpr2S"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
+      "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "Loko (with Los Primos Del Este)",
-        "url": "https://open.spotify.com/album/27xtTUsTfkXQgDPbaVNMQ3"
+        "name": "Casa en Llamas",
+        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
         }
       ],
-      "duration_ms": 128739,
-      "name": "Loko (with Los Primos Del Este)",
-      "url": "https://open.spotify.com/track/3KHRKLRl85jnsNSLICgy7t"
+      "duration_ms": 194403,
+      "name": "Casa en Llamas",
+      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -939,22 +955,6 @@
       "duration_ms": 138448,
       "name": "1942",
       "url": "https://open.spotify.com/track/05PjWpRVnilvGEVMSgng6m"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Casa en Llamas",
-        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
-      },
-      "artists": [
-        {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        }
-      ],
-      "duration_ms": 194403,
-      "name": "Casa en Llamas",
-      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "El Chivo",
-        "url": "https://open.spotify.com/album/7MPluGvg6suOskXTNg0W5i"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Mendoza",
-          "url": "https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "El Chivo",
-      "url": "https://open.spotify.com/track/61l7b4tV5lhopAO25OaUhP"
-    },
-    {
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "Extra\u00f1o Tus Besos",
@@ -1203,6 +1187,22 @@
       "duration_ms": 227727,
       "name": "Extra\u00f1o Tus Besos",
       "url": "https://open.spotify.com/track/7AG9PxwpxXdBKZB2eOP3LL"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "El Chivo",
+        "url": "https://open.spotify.com/album/7MPluGvg6suOskXTNg0W5i"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Mendoza",
+          "url": "https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "El Chivo",
+      "url": "https://open.spotify.com/track/61l7b4tV5lhopAO25OaUhP"
     },
     {
       "added_at": "2022-09-30 05:00:00",

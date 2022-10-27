@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: MacKenzie Porter
 
-291 songs - 14 hr 52 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+293 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Eat Pray Drugs](https://open.spotify.com/track/1Cmxg862124HUQNshfcYtO) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Eat Pray Drugs](https://open.spotify.com/album/5prG4hTUYdc5db6QewYWwQ) | 2:56 | 2022-09-16 |  |
 | [Effortless](https://open.spotify.com/track/6cxnYQWZdZDlfJiCtI1vnr) | [Salemtown](https://open.spotify.com/artist/6Lblad81pn8Lhh6OKNiax2) | [Effortless](https://open.spotify.com/album/2Afegl9NLgCYGQCHfYjSVd) | 3:24 | 2021-12-10 | 2022-05-20 |
 | [Everything Changes](https://open.spotify.com/track/5qDERSuqkR2swJWGkH2Oox) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Everything Changes](https://open.spotify.com/album/3u1603AetS0Vg1TWSRIU1N) | 3:10 | 2021-12-10 | 2022-02-26 |
-| [Everything I'm Not](https://open.spotify.com/track/2Sh4TM6Ypg3KiEjdOS2GVy) | [Bri Fletcher](https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m) | [Everything I'm Not](https://open.spotify.com/album/69xhM28ljDGkmazJoODM87) | 3:11 | 2021-12-10 |  |
+| [Everything I'm Not](https://open.spotify.com/track/2Sh4TM6Ypg3KiEjdOS2GVy) | [Bri Fletcher](https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m) | [Everything I'm Not](https://open.spotify.com/album/69xhM28ljDGkmazJoODM87) | 3:11 | 2021-12-10 | 2022-10-27 |
+| [Everything I'm Not](https://open.spotify.com/track/1Qfz8zzYBAdEJ3Wl7MQex2) | [Bri Fletcher](https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m) | [chapter one](https://open.spotify.com/album/1hAadiHj1Iz5JXmfWhrWy6) | 3:11 | 2022-10-21 |  |
 | [FACTS](https://open.spotify.com/track/4uJ0vf7Z8kTBOCIyS9mMwH) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw), [Deonte D\-real Davis](https://open.spotify.com/artist/1J5Zw6ilv5oXEKRrh1V3rm) | [FACTS](https://open.spotify.com/album/4ipyMe9sckjf2FM7hSWepV) | 3:26 | 2022-04-08 | 2022-06-11 |
 | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/album/2Z6lVnDJpJPmFro7dOziHA) | 2:41 | 2021-12-10 | 2022-01-08 |
 | [First Rodeo](https://open.spotify.com/track/2I75JDeFu2xQ1FaSU4otFO) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [First Rodeo](https://open.spotify.com/album/5ECjElUCcGjURvHvdarOyz) | 3:06 | 2022-07-08 |  |
@@ -239,7 +240,8 @@
 | [SMALL TOWN STATE OF MIND](https://open.spotify.com/track/3RFWukwb1wfvfdMs1nxCpu) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [SMALL TOWN STATE OF MIND](https://open.spotify.com/album/1gUdZq24aNQxWBnemJm505) | 2:40 | 2021-12-10 | 2022-07-29 |
 | [SMALL TOWN STATE OF MIND](https://open.spotify.com/track/5Niq20xLM1pt53ijI6qTmK) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 2:40 | 2022-07-22 |  |
 | [Some Other Bar](https://open.spotify.com/track/1Y4smjUloaPcgZh99z0SGJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Some Other Bar](https://open.spotify.com/album/6hYRFzxWwKRLpasujAegzw) | 3:19 | 2022-02-25 |  |
-| [Something I'll Never Get Back](https://open.spotify.com/track/1LQ1PCZsbIxz2uhkGNct9p) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Silver Linings](https://open.spotify.com/album/5EMEAda8t8zLXlZ0oSFUZg) | 3:08 | 2021-12-10 |  |
+| [Something I'll Never Get Back](https://open.spotify.com/track/1LQ1PCZsbIxz2uhkGNct9p) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Silver Linings](https://open.spotify.com/album/5EMEAda8t8zLXlZ0oSFUZg) | 3:08 | 2021-12-10 | 2022-10-27 |
+| [Something I'll Never Get Back](https://open.spotify.com/track/7JhkoQ5QEhOTrx7Gedt7id) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Silver Linings](https://open.spotify.com/album/3sJZ4bPGiUVmgHUC02frvL) | 3:08 | 2022-10-21 |  |
 | [Son Of A Sinner](https://open.spotify.com/track/25VQoiuyc0HkC5FQTj1a8G) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads Of The Broken](https://open.spotify.com/album/4aWPCLZWr9gG0ucLIMJavx) | 3:52 | 2021-12-10 |  |
 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 | 2022-04-22 |  |
 | [Stop Coming Over](https://open.spotify.com/track/0aU4TRPwmyeIp9Au0mfdJi) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Stop Coming Over](https://open.spotify.com/album/3B5uozvXEhL4bUzv91pqJt) | 2:18 | 2021-12-10 |  |

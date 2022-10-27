@@ -4,7 +4,7 @@
 
 > A feel\-good soulful house  and disco selection.
 
-170 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/4JyXGtfxADyxCIBU0wnIqy)
+171 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/4JyXGtfxADyxCIBU0wnIqy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Clam Factory](https://open.spotify.com/track/1ytBSZM9XcPxcxIaHMk4qA) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [Clam Factory](https://open.spotify.com/album/4FtjKjfY2EixthfAcX2yRM) | 6:37 | 2021-12-07 | 2022-06-23 |
 | [Closer](https://open.spotify.com/track/2uRCNWP7u6JSo1ypJ7qJMx) | [Aevion](https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg) | [Closer](https://open.spotify.com/album/4M1Ge6mFbDrV1LdQFiVtRE) | 4:10 | 2021-12-07 | 2022-10-14 |
 | [Clouds](https://open.spotify.com/track/408bsdaoubEwBNge4SXKSa) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL) | [Clouds](https://open.spotify.com/album/48FqgHeNtZBXi5hgFmE0NM) | 2:27 | 2021-12-07 | 2022-01-10 |
+| [Come Back](https://open.spotify.com/track/0jnfcPhR4K98OgIwih63Wk) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/2TbxuBCoWx2x5gQE6bW44R) | 4:37 | 2022-03-11 |  |
 | [Come Back](https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/1cXkPZuXwZLqHZdGBlKgWi) | 4:37 | 2021-12-07 | 2022-10-15 |
 | [Come Together](https://open.spotify.com/track/0aITsSU1pXt3Tt3noutwzM) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7) | [Come Together](https://open.spotify.com/album/2tYibtINwIiW3kyX8XToVY) | 6:49 | 2021-12-07 | 2022-07-26 |
 | [Come Together \- Danny Rhys Remix](https://open.spotify.com/track/5y0SrwRs0zzCOy6syRtvnD) | [Joey McCrilley](https://open.spotify.com/artist/4ew3WXgHuVN5LOVn0KfiNI), [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S) | [Come Together](https://open.spotify.com/album/7C51SL4F5IQ5RDiF9XjY1g) | 3:05 | 2021-12-07 | 2022-01-19 |
@@ -167,7 +168,7 @@
 | [We All Got The Time](https://open.spotify.com/track/00jeVohtKvmlZ2Vkb5SGrk) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [I Think It's Too Late](https://open.spotify.com/album/529Ek6Q8cyUjMrYWdoE6Z6) | 5:00 | 2021-12-07 | 2022-05-02 |
 | [We Want Our Clubs Back](https://open.spotify.com/track/3uTQEBLSKHtAcDcp6fTwfh) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [We Want Our Clubs Back](https://open.spotify.com/album/144eDSLaQUM5FTn2ip2Wgs) | 3:37 | 2021-12-07 | 2022-07-07 |
 | [What Ya Here For?](https://open.spotify.com/track/27rjwJcRIohIoNI4GNewxo) | [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [What Ya Here For?](https://open.spotify.com/album/6z9WzYceZqPgG45iTxiYFf) | 4:20 | 2021-12-07 |  |
-| [What's Your World \(feat\. Gloria Ann Taylor\)](https://open.spotify.com/track/7ir78RK7dikfhptUV0S6kC) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Gloria Ann Taylor](https://open.spotify.com/artist/1xpBuU9oUPQIYw2bP0XOu8) | [What's Your World \(feat\. Gloria Ann Taylor\)](https://open.spotify.com/album/0B1JIgirhhCL0onK0olkc0) | 4:33 | 2021-12-07 |  |
+| [What's Your World \(feat\. Gloria Ann Taylor\)](https://open.spotify.com/track/7ir78RK7dikfhptUV0S6kC) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Gloria Ann Taylor](https://open.spotify.com/artist/1xpBuU9oUPQIYw2bP0XOu8) | [What's Your World \(feat\. Gloria Ann Taylor\)](https://open.spotify.com/album/0B1JIgirhhCL0onK0olkc0) | 4:33 | 2021-12-07 | 2022-10-27 |
 | [WHITE FLAG \(feat\. Alex Mills\) \- Sandy Rivera's Extended Mix](https://open.spotify.com/track/7abQVPJ5J8taCRoE5TvGHt) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq), [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3) | [WHITE FLAG \(feat\. Alex Mills\) \[Sandy Rivera's Extended Mix\]](https://open.spotify.com/album/3cUZjK4dVZMXi2O3pPNna2) | 4:47 | 2021-12-07 | 2022-07-24 |
 | [White Rabbit \- Moxy Club Mix](https://open.spotify.com/track/2Zp0oCiV6xQZjLHUzrTJxv) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [White Rabbit \(Moxy Club Mix\)](https://open.spotify.com/album/1F3pHJB16ExPcfcLfZpJQZ) | 2:44 | 2021-12-07 |  |
 | [Why Do You Hate Me](https://open.spotify.com/track/5AHf5Pftzij1bIXPe8aT2o) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Why Do You Hate Me / Crosstown Romance](https://open.spotify.com/album/5CbkremE3TomU5U8ICYeq1) | 5:14 | 2021-12-07 | 2021-12-26 |

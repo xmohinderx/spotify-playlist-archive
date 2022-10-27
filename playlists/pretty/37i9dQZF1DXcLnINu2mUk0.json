@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 19579,
+  "num_followers": 19627,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMDM5ZDgyNWZmYTllZTExNTU3MDdkMjFiYWIwZDFhYWRk",
+  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMGI1MjQ1OGNiZDUzZDUzNGQ3MWVjNDk3M2FhNDcwZTky",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -899,6 +899,26 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Novo Demais",
+        "url": "https://open.spotify.com/album/66py2LrNUY7Q6zXrEo8vjH"
+      },
+      "artists": [
+        {
+          "name": "TRIQ",
+          "url": "https://open.spotify.com/artist/3Xk6FbumarAUp9dsJ3AoLd"
+        },
+        {
+          "name": "eaux",
+          "url": "https://open.spotify.com/artist/0AtdC5zNnXJq428tUMW7uh"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Novo Demais",
+      "url": "https://open.spotify.com/track/5oSmue3lpl1Ur8RkMFRj32"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Cashh",
         "url": "https://open.spotify.com/album/4Mi08knLklj8pKdeFfvhF5"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 268851,
       "name": "Cashh",
       "url": "https://open.spotify.com/track/4dQPcRiNXw6idTGWW4ngZF"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Novo Demais",
-        "url": "https://open.spotify.com/album/66py2LrNUY7Q6zXrEo8vjH"
-      },
-      "artists": [
-        {
-          "name": "TRIQ",
-          "url": "https://open.spotify.com/artist/3Xk6FbumarAUp9dsJ3AoLd"
-        },
-        {
-          "name": "eaux",
-          "url": "https://open.spotify.com/artist/0AtdC5zNnXJq428tUMW7uh"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Novo Demais",
-      "url": "https://open.spotify.com/track/5oSmue3lpl1Ur8RkMFRj32"
     },
     {
       "added_at": "2022-10-13 23:00:00",

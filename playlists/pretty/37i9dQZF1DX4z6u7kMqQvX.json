@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 87946,
+  "num_followers": 88010,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMDAwODE4M2Y4NGYzYTY4MjEzN2ZkNzVlMGEyYzBmMjYw",
+  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMGI1MDdhZGVlOGZkN2RhN2RlODNiNTUxNzMwYjU2ZWYw",
   "tracks": [
     {
       "added_at": "2022-10-14 03:00:00",
@@ -176,29 +176,13 @@
           "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         },
         {
-          "name": "Adan Jodorowsky",
-          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
         }
       ],
       "duration_ms": 234866,
       "name": "Departamento",
       "url": "https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Lo Que Hoy Quieras",
-        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 175218,
-      "name": "Lo Que Hoy Quieras",
-      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -215,6 +199,22 @@
       "duration_ms": 158840,
       "name": "Tu Geograf\u00eda",
       "url": "https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Lo Que Hoy Quieras",
+        "url": "https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 175218,
+      "name": "Lo Que Hoy Quieras",
+      "url": "https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 162288,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Solstis - De Le\u00f3n Larregui",
         "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 202053,
       "name": "Acic\u00e1lame",
       "url": "https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Radar",
-        "url": "https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 162288,
-      "name": "Radar",
-      "url": "https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Cada Letra Que Escribo",
-        "url": "https://open.spotify.com/album/0aoLxPrjSF2e0BOxRFTS6G"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 202804,
-      "name": "Cada Letra Que Escribo",
-      "url": "https://open.spotify.com/track/06cYrvLQxg2YngN0sx8zXS"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Las Voces",
         "url": "https://open.spotify.com/album/5MlI1naMkXMqRxNS0YsftP"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 210911,
       "name": "Las Voces",
       "url": "https://open.spotify.com/track/4JW6406Y4xsE9ZVE318A7c"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Cada Letra Que Escribo",
+        "url": "https://open.spotify.com/album/0aoLxPrjSF2e0BOxRFTS6G"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 202804,
+      "name": "Cada Letra Que Escribo",
+      "url": "https://open.spotify.com/track/06cYrvLQxg2YngN0sx8zXS"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Paranoia Pop",
+        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 219386,
+      "name": "Sin Se\u00f1al",
+      "url": "https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Feroza",
         "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 178756,
       "name": "Susurrito",
       "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Ni\u00f1o Eterno",
-        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Nin\u0303o Eterno",
-      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Paranoia Pop",
-        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
+        "name": "Ni\u00f1o Eterno",
+        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
       },
       "artists": [
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 219386,
-      "name": "Sin Se\u00f1al",
-      "url": "https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW"
+      "duration_ms": 161617,
+      "name": "Nin\u0303o Eterno",
+      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1016,8 +1016,8 @@
           "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
         },
         {
-          "name": "Adan Jodorowsky",
-          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
         }
       ],
       "duration_ms": 186386,
@@ -1471,38 +1471,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Sexo Con Modelos",
-        "url": "https://open.spotify.com/album/0chduE6pCglPaH32gP0ctx"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "Enterrarte",
-      "url": "https://open.spotify.com/track/1426f7xQMhO5HTvKpv7TbI"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "La Casa No Existe",
-        "url": "https://open.spotify.com/album/7FwDCtgp0Y4IPyGKpv2Ze7"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 197652,
-      "name": "La Pel\u00edcula",
-      "url": "https://open.spotify.com/track/25u3WkPBXmdjFhDr9qYAff"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Ni una Gota de Amor",
         "url": "https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y"
       },
@@ -1519,6 +1487,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Sexo Con Modelos",
+        "url": "https://open.spotify.com/album/0chduE6pCglPaH32gP0ctx"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "Enterrarte",
+      "url": "https://open.spotify.com/track/1426f7xQMhO5HTvKpv7TbI"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Dulce Mal",
         "url": "https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 242046,
       "name": "Dulce Mal",
       "url": "https://open.spotify.com/track/4bVaYbaxhHaxeCLGyERNfT"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "La Casa No Existe",
+        "url": "https://open.spotify.com/album/7FwDCtgp0Y4IPyGKpv2Ze7"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 197652,
+      "name": "La Pel\u00edcula",
+      "url": "https://open.spotify.com/track/25u3WkPBXmdjFhDr9qYAff"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -1587,42 +1587,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Un Vaso de Agua",
-        "url": "https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN"
-      },
-      "artists": [
-        {
-          "name": "Candelaria Zamar",
-          "url": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
-        },
-        {
-          "name": "Hern\u00e1n Segret",
-          "url": "https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU"
-        }
-      ],
-      "duration_ms": 88957,
-      "name": "Si No Es As\u00ed",
-      "url": "https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Te Pense un Monton",
-        "url": "https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 144179,
-      "name": "Te Pense un Monton",
-      "url": "https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Conf\u00eda",
         "url": "https://open.spotify.com/album/6OBErs3AYUFKYyZYDDavCU"
       },
@@ -1643,6 +1607,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Te Pense un Monton",
+        "url": "https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 144179,
+      "name": "Te Pense un Monton",
+      "url": "https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Admirador",
         "url": "https://open.spotify.com/album/19h3hwEv0Soo77O7j0JoSy"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 212133,
       "name": "Admirador",
       "url": "https://open.spotify.com/track/1jaQ4o6VRWRPxzf560sMWZ"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Un Vaso de Agua",
+        "url": "https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN"
+      },
+      "artists": [
+        {
+          "name": "Candelaria Zamar",
+          "url": "https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1"
+        },
+        {
+          "name": "Hern\u00e1n Segret",
+          "url": "https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU"
+        }
+      ],
+      "duration_ms": 88957,
+      "name": "Si No Es As\u00ed",
+      "url": "https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB"
     },
     {
       "added_at": "2022-10-14 03:00:00",

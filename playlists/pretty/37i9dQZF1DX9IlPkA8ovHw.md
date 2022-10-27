@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IlPkA8ovHw.md) - [plain]
 
 > The best of the Fab Four and their post\-Beatles ventures and solo albums.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,459 likes - 124 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,482 likes - 124 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IlPkA8ovHw.md) - [plain]
 | 83 | [Get Back \- Take 8](https://open.spotify.com/track/4Nv5jaoI3rsX5JauuCfZ2f) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Super Deluxe\)](https://open.spotify.com/album/1BdxbYp1FaNejpDgtDo25V) | 3:52 |
 | 84 | [Stand By Me \- Remastered 2010](https://open.spotify.com/track/3ntrdR24dLkKrzSGRv1FlH) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Rock 'N' Roll](https://open.spotify.com/album/4D5tTcz72CXGPtzTabLTDY) | 3:31 |
 | 85 | [Day Tripper \- Remastered 2015](https://open.spotify.com/track/29b2b96jozyD9GPCkOrVLs) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:49 |
-| 86 | [The World Tonight \- Remastered 2020](https://open.spotify.com/track/18siFvu6aAdIC8Ksucmeox) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Jeff Lynne](https://open.spotify.com/artist/3bTAaMx9nf237AkBnGw3vL) | [Flaming Pie](https://open.spotify.com/album/4PdxBagz2MlU1nLA9RxgJ5) | 4:05 |
+| 86 | [The World Tonight \- 2020 Remaster](https://open.spotify.com/track/18siFvu6aAdIC8Ksucmeox) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Jeff Lynne](https://open.spotify.com/artist/3bTAaMx9nf237AkBnGw3vL) | [Flaming Pie](https://open.spotify.com/album/4PdxBagz2MlU1nLA9RxgJ5) | 4:05 |
 | 87 | [I Feel Fine \- Remastered 2009](https://open.spotify.com/track/4gxs9En3aoaOm2J5wNMMm9) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:20 |
 | 88 | [Stuck Inside A Cloud](https://open.spotify.com/track/0IF7XHfvCoEkabkVvaLvv4) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Brainwashed](https://open.spotify.com/album/2VFLjY1S0D8nKml6nlU2MD) | 4:04 |
 | 89 | [Drive My Car \- Remastered 2009](https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:28 |

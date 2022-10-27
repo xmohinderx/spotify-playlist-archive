@@ -452,6 +452,24 @@
     },
     {
       "album": {
+        "name": "The Beginning : \u59cb\u4f5c",
+        "url": "https://open.spotify.com/album/2rk5luKry7s1kCsklJmxKL"
+      },
+      "artists": [
+        {
+          "name": "ATBO",
+          "url": "https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196373,
+      "name": "ATTITUDE",
+      "url": "https://open.spotify.com/track/4G3kw5Y7pbwK9aE8mjfivE"
+    },
+    {
+      "album": {
         "name": "Love in Bloom",
         "url": "https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi"
       },
@@ -6079,6 +6097,24 @@
       "duration_ms": 248133,
       "name": "The Song",
       "url": "https://open.spotify.com/track/6bqbFluyEgXV0hkLd9duMc"
+    },
+    {
+      "album": {
+        "name": "Day&Night",
+        "url": "https://open.spotify.com/album/6tsh5bEFhDVuWVaNCGVhjc"
+      },
+      "artists": [
+        {
+          "name": "CLASS:y",
+          "url": "https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "Tick Tick Boom",
+      "url": "https://open.spotify.com/track/19WBBlTBTcgNGYBbY6HZB6"
     },
     {
       "album": {

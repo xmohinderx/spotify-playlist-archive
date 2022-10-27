@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,609 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,625 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 | 5 | [Eye of the Tiger](https://open.spotify.com/track/0q9BEc2ph335v37QaqHSNq) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 4:12 |
 | 6 | [Crazy Train](https://open.spotify.com/track/4GIhMr21KbdGGBlN9VBj1Y) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Uno](https://open.spotify.com/album/3mCK5Vz0CRwcc4GglR3Q5v) | 4:32 |
 | 7 | [Viva La Vida](https://open.spotify.com/track/4hI8sKg524kUczaWwFYp9r) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos De Jalisco, Vol\. 2](https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c) | 4:06 |
-| 8 | [California Dreamin'](https://open.spotify.com/track/6EYpYR8PT5jq4y8L6qkbYj) | [Mariachi Los Soñadores](https://open.spotify.com/artist/1N0WkGJo1trgGY1x1hMPJk) | [California Dreamin'](https://open.spotify.com/album/2pBIPtKailH8feE3DLoJVr) | 2:46 |
-| 9 | [Tequila](https://open.spotify.com/track/2LKet8MxLq0FY6PWvBIJFh) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Fiesta](https://open.spotify.com/album/4ew6gZSo0k4PBTRYyydx3G) | 3:18 |
+| 8 | [Tequila](https://open.spotify.com/track/2LKet8MxLq0FY6PWvBIJFh) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Fiesta](https://open.spotify.com/album/4ew6gZSo0k4PBTRYyydx3G) | 3:18 |
+| 9 | [California Dreamin'](https://open.spotify.com/track/6EYpYR8PT5jq4y8L6qkbYj) | [Mariachi Los Soñadores](https://open.spotify.com/artist/1N0WkGJo1trgGY1x1hMPJk) | [California Dreamin'](https://open.spotify.com/album/2pBIPtKailH8feE3DLoJVr) | 2:46 |
 | 10 | [Rock and Roll All Nite](https://open.spotify.com/track/5IfLw9fO0JnoPdXMSlP1yH) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Tres](https://open.spotify.com/album/7gn4wimMjqxFD4Qd6JuKCw) | 4:52 |
 | 11 | [Dragon Roost Island \(from "The Legend of Zelda: Wind Waker"\)](https://open.spotify.com/track/1IwZ6sH6uw3B6Nt6xmBfl5) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:20 |
 | 12 | [We Will Rock You \- Instrumental](https://open.spotify.com/track/40qLT0EWRDmmC6inQjcpag) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 1:57 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 | 41 | [Gerudo Valley \(from "The Legend of Zelda: Ocarina of Time"\)](https://open.spotify.com/track/1Tj2GsPM4kfI5FXU1ODvTk) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:33 |
 | 42 | [Penny Lane \- Instrumental](https://open.spotify.com/track/7iPzul10s8hh3dFxuZ6ixJ) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 3:03 |
 | 43 | [The Fool on the Hill \- Instrumental](https://open.spotify.com/track/7HBsdQUoEtTKmPfOEZdd9o) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 2:56 |
-| 44 | [Michelle \- Instrumental](https://open.spotify.com/track/3QSpwlTu9gXxyrUAVKwzDh) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 2:47 |
-| 45 | [Proud Mary](https://open.spotify.com/track/7tkTRdDsuCBpTj9lzpRCfL) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos de Jalisco, Vol\. 3](https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m) | 3:31 |
+| 44 | [Proud Mary](https://open.spotify.com/track/7tkTRdDsuCBpTj9lzpRCfL) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos de Jalisco, Vol\. 3](https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m) | 3:31 |
+| 45 | [Michelle \- Instrumental](https://open.spotify.com/track/3QSpwlTu9gXxyrUAVKwzDh) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 2:47 |
 | 46 | [Guardia Millenial Fair \(from "Chrono Trigger"\)](https://open.spotify.com/track/1YIYF9bKptGXXMKvJ6SrQx) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:12 |
 | 47 | [Sweet Caroline](https://open.spotify.com/track/1qvshK9S8bSNnsHxDhYhiJ) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos de Jalisco, Vol\. 3](https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m) | 3:58 |
 | 48 | [The Moon \(from "Duck Tales"\)](https://open.spotify.com/track/17TNiZlIoLFxy18GzMKZwD) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 1:44 |
 | 49 | [Here I Go Again](https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Dos](https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb) | 4:25 |
 | 50 | [Octopus's Garden](https://open.spotify.com/track/73I3tHlaStjv20avY2n1aw) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos Instrumentales](https://open.spotify.com/album/5Jrvf6K3Q6Yfh8RstOvZMg) | 2:54 |
 
-Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDJiOWJmN2U0MjdiMzgxNjg2ZjIzNzE1NDA0ZTM0MWQw`
+Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDgwYTNlOTNkNzRiMDliZDUwOTlmNzRiODA5ZWUyODdk`

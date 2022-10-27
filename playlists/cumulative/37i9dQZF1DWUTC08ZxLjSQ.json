@@ -708,6 +708,24 @@
     },
     {
       "album": {
+        "name": "Lonely Night",
+        "url": "https://open.spotify.com/album/0qFSrdCbQowcEfJPnulGzF"
+      },
+      "artists": [
+        {
+          "name": "Dirty Backseat",
+          "url": "https://open.spotify.com/artist/1Hk62j2Aypk6ykn1lgLPhf"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250500,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/6bQLBvEkp8GNL5tQrmBA5A"
+    },
+    {
+      "album": {
         "name": "Molly Crapton",
         "url": "https://open.spotify.com/album/2FiCEJT0xGOZJn5s2I00KK"
       },

@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Stripped](https://open.spotify.com/playlist/37i9dQZF1DXdFhiq9L31be)
 
-> Stripped back recordings like nothing you’ve heard before\.  Cover: girl in red.
+> Stripped back recordings like nothing you’ve heard before\.  Cover: Lewis Capaldi.
 
 165 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/6NzdJpHKbdku7XZqdDTuMi)
 

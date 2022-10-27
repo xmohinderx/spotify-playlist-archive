@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-515 songs - 1 day 5 hr 13 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
+516 songs - 1 day 5 hr 18 min - [published](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Geb Felos](https://open.spotify.com/track/71T1Jdg4J5uNesxvFa9hzZ) | [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Geb Felos](https://open.spotify.com/album/0c1v4DRKoIb4bJJWSscoc3) | 3:03 | 2021-03-31 | 2021-04-03 |
 | [Ghaba](https://open.spotify.com/track/45GbniNGdKE7vSgggfcBWl) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Ghaba](https://open.spotify.com/album/3dllHmcOIukOlPcbo5i6mJ) | 3:04 | 2021-03-27\* | 2021-04-06 |
 | [Ghaba](https://open.spotify.com/track/4Zpg4neFtdTJJF4wsrTJRa) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 3:04 | 2021-04-06 | 2022-05-19 |
+| [Ghasb Anny](https://open.spotify.com/track/20MpmTGEcFIfMxxqobnxnl) | [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Ghasb Anny](https://open.spotify.com/album/0XAMmhfNF6ezT5eEYPYKSy) | 4:24 | 2022-10-26 |  |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-09 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-13 | 2022-08-20 |
 | [God Breathed](https://open.spotify.com/track/1dPNJDYuW9QAtkOpK3eBvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:33 | 2021-08-31 | 2021-09-01 |
@@ -364,7 +365,7 @@
 | [Sindbad](https://open.spotify.com/track/5xDaIms5HB1DTj5keH6sJc) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Sindbad](https://open.spotify.com/album/5ThW1IgtegLvKW8R0sQCSJ) | 3:39 | 2021-03-27\* | 2022-06-10 |
 | [SIRI](https://open.spotify.com/track/1w8I30qzVlqUgkp0P9bXh1) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [SIRI](https://open.spotify.com/album/0bFMGtbNkgppqYHjBai2oN) | 3:33 | 2021-06-28 | 2022-04-06 |
 | [Siri](https://open.spotify.com/track/224pf1HG3LAO6LvR3AlRNy) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Siri](https://open.spotify.com/album/1Ju4yo5yf3HZpeqEbaXPpi) | 3:33 | 2022-04-22 | 2022-09-18 |
-| [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-22 |  |
+| [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-22 | 2022-10-27 |
 | [Sogara](https://open.spotify.com/track/3C6zfNQAGVjYFXaYg7xLTY) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Sogara](https://open.spotify.com/album/2aeMrypRZmVeuvuTzRjF67) | 4:15 | 2021-05-28 | 2021-12-20 |
 | [Solid \(feat\. Drake\)](https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:35 | 2021-04-18 | 2021-04-19 |
 | [Soma El 3asher](https://open.spotify.com/track/5tOPuHDCI5SwJA0YAWd5XL) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [5 X El Wesh](https://open.spotify.com/album/00cFCDHS48GY9LlaEThN9T) | 2:56 | 2021-08-13 | 2021-08-14 |

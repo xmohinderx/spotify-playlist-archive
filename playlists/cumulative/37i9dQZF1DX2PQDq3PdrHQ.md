@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-363 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
+364 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,8 @@
 | [stillness](https://open.spotify.com/track/4OkCZxOjG1y7G9Op1SkbnH) | [Goudo J](https://open.spotify.com/artist/59xol4VJ5T58RiIgiMFKR8) | [stillness](https://open.spotify.com/album/1Fu5fXIXJOoa1GI9lSAONp) | 2:15 | 2022-05-20 |  |
 | [stoneflower](https://open.spotify.com/track/4VfTff5Wn4O8hfLFbBecBE) | [Shane Houghtaling](https://open.spotify.com/artist/1zYSgEq8kLr65eHLGaIUK5) | [stoneflower](https://open.spotify.com/album/3KPC11dv6Rfwq0y9m4LUgS) | 1:22 | 2022-05-27 | 2022-07-15 |
 | [Straight To Hell](https://open.spotify.com/track/08fjnLkCscrpiSTzLF2pzo) | [T.O.M](https://open.spotify.com/artist/68rwVO9em9O2JzESsN2whJ) | [Straight To Hell](https://open.spotify.com/album/6GXQFqjqPiKtphQfUO1aYO) | 2:08 | 2022-07-01 |  |
-| [Suave Atardecer](https://open.spotify.com/track/2zKvPJR0yAqGzU5RLFyGdx) | [Jose Bautista](https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB) | [Suave Atardecer](https://open.spotify.com/album/6oS5TuBmeJtZWY75CrOO92) | 2:18 | 2022-07-15 |  |
+| [Suave Atardecer](https://open.spotify.com/track/2zKvPJR0yAqGzU5RLFyGdx) | [Jose Bautista](https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB) | [Suave Atardecer](https://open.spotify.com/album/6oS5TuBmeJtZWY75CrOO92) | 2:18 | 2022-07-15 | 2022-10-27 |
+| [Suave Atardecer](https://open.spotify.com/track/5unmGonICINuVcoPHZMtx0) | [Jose Bautista](https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB) | [Suave Atardecer](https://open.spotify.com/album/7jHoODN6djm7R2HvOcUBi0) | 2:18 | 2022-10-14 |  |
 | [Sugar Plum Fairy](https://open.spotify.com/track/3zAmy6lWGOr1pdZm22JKdD) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Sugar Plum Fairy](https://open.spotify.com/album/19VLvrZrAyfkJVbmr62aK8) | 2:24 | 2022-08-12 |  |
 | [Summer Sky](https://open.spotify.com/track/2pTLw2Qhbw7hzxWaMLnfG9) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [Summer Sky](https://open.spotify.com/album/6M8eXj3hrtG5zXSiVBmWKp) | 1:50 | 2022-09-02 |  |
 | [Summernightz](https://open.spotify.com/track/1Q2DIrKEgw0QFrqaqKRJGC) | [kBeats](https://open.spotify.com/artist/5w3SUOG1J2oz1vsUQyvIyt), [icey wavs](https://open.spotify.com/artist/5bH4uA7ERJ2A6EIWa7eHwQ) | [Summertales](https://open.spotify.com/album/5MlDX6IrEuvRqMSduJE0Fa) | 1:55 | 2022-09-23 |  |

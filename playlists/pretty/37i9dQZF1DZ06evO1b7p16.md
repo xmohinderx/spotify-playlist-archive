@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 
 > This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,705 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,722 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 49 | [Mutual Head Club \- Demo](https://open.spotify.com/track/5UYNFezTaq71mYe6dfu9LO) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(20th Anniversary Edition\)](https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG) | 3:21 |
 | 50 | [Nothing At All](https://open.spotify.com/track/0IKqfoRn3Lp8gGnM8IcrcD) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:59 |
 
-Snapshot ID: `Mjc3Nzg0ODMsMDAwMDAwMDBhZDI1ZGY2YTZlMWRjNzU5NzE1ZGJiOTYxNjk3NGU5Mw==`
+Snapshot ID: `Mjc3Nzk4ODEsMDAwMDAwMDAyNWQ0Mzk2YmNhYjFlMjUxOTEzZGViOWViY2MwZWU1ZQ==`

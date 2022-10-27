@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-399 songs - 1 day 6 hr 31 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
+400 songs - 1 day 6 hr 36 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Foreign Flowers \- Dengue Dengue Dengue & Prisma Remix](https://open.spotify.com/track/3ipEDZ30eJhJhmrEXnZD1s) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Prisma](https://open.spotify.com/artist/29hY8nWTDqkPqK947tjznd) | [Foreign Flowers \(Dengue Dengue Dengue & Prisma Remix\)](https://open.spotify.com/album/1qvopyrc7IiA4DFAR6iJf8) | 4:33 | 2022-02-17 | 2022-06-08 |
 | [Forest Creature](https://open.spotify.com/track/0fSYoxjDM5kVUY8Gb6rEKp) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Killa Nova](https://open.spotify.com/artist/4oqNFwNfj5heqFXv9DzV2H) | [Forest Creature](https://open.spotify.com/album/1iTJY4YpGDnJpu3rIKrXBn) | 4:20 | 2022-02-17 | 2022-10-19 |
 | [Forest Creature](https://open.spotify.com/track/1av7ANQCAb4mizrrUko4Pc) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Killa Nova](https://open.spotify.com/artist/4oqNFwNfj5heqFXv9DzV2H) | [Pretty Dark Loud](https://open.spotify.com/album/4PyidAIMkmFa0iAdoyhOOC) | 4:20 | 2022-07-08 | 2022-10-23 |
+| [Forest Creature](https://open.spotify.com/track/24FFTMGz9qesaHsQY2N6Y9) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Killa Nova](https://open.spotify.com/artist/4oqNFwNfj5heqFXv9DzV2H) | [Pretty Dark Loud](https://open.spotify.com/album/5vAEBOXanr6tB799kZ6vtA) | 4:20 | 2022-07-08 |  |
 | [Fryst \- Original Mix](https://open.spotify.com/track/4koiKX3qu8B1ENF1mICkak) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD), [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [Positive Energy](https://open.spotify.com/album/0Syi76rGMdgXiHzzYUfkcO) | 6:53 | 2022-02-17 |  |
 | [Fuck 'em](https://open.spotify.com/track/46y1L481OwLpWAg222Dzvi) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Wrath of God](https://open.spotify.com/album/2SYwkpBdH7qfUde6PCA0EU) | 4:21 | 2022-02-17 | 2022-07-30 |
 | [G Shit](https://open.spotify.com/track/0KE0pJOq71sJWqsO1FGfmH) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [XXIV Bit EP](https://open.spotify.com/album/44zt80xY9vVrpdBIS4cc9I) | 4:15 | 2022-07-08 |  |
@@ -251,7 +252,7 @@
 | [Outsider](https://open.spotify.com/track/07y4T2wnzanwqOd1oKJ1Gl) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Outsider](https://open.spotify.com/album/2yrmCs1rJzdEJHAiaQY8lV) | 5:05 | 2022-07-08 |  |
 | [Outsider](https://open.spotify.com/track/1oXyK54bcvrHNNtSOAgHDw) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Outsider](https://open.spotify.com/album/4AnGaGVFpOVLacdRqyGQ83) | 5:05 | 2022-02-17 | 2022-07-29 |
 | [Over Deh So](https://open.spotify.com/track/23RPCs2edmTWH0yJTCiz6m) | [Kahn](https://open.spotify.com/artist/6X0Kd3L9wHWDzWU7cOgjW3) | [Abattoir](https://open.spotify.com/album/2b1HN0avZHrA8vNL0vP1Gw) | 5:09 | 2022-02-17 | 2022-05-08 |
-| [Oxytocin \- Original](https://open.spotify.com/track/7vQ9jJ34D9xXwy3g0pUuio) | [Myxed Up](https://open.spotify.com/artist/2mR4ZcnojwIngGlGGCeDma) | [Oxytocin](https://open.spotify.com/album/0ETitPaX7CspZoPHtrdSMb) | 4:33 | 2022-02-17 |  |
+| [Oxytocin \- Original](https://open.spotify.com/track/7vQ9jJ34D9xXwy3g0pUuio) | [Myxed Up](https://open.spotify.com/artist/2mR4ZcnojwIngGlGGCeDma) | [Oxytocin](https://open.spotify.com/album/0ETitPaX7CspZoPHtrdSMb) | 4:33 | 2022-02-17 | 2022-10-27 |
 | [Paradisius](https://open.spotify.com/track/3Rbs2FjHW5RdpNW3mfdUm8) | [CJ Broad](https://open.spotify.com/artist/6KvQZNIPCsdqw8zLV2w4AV), [Oxidia](https://open.spotify.com/artist/6mFF0UJS77vtqd8RKYXTjK) | [Eventually](https://open.spotify.com/album/3330jVvbXSjdT8vlQx2zHf) | 5:05 | 2022-02-17 | 2022-04-09 |
 | [Parsley Tea](https://open.spotify.com/track/333rUt9ztQHYmwMjcS0CaB) | [DPRTNDRP](https://open.spotify.com/artist/1OsyLdBrbBzicSLMOKUUEH) | [Unshaken](https://open.spotify.com/album/5Cx5XQNyEIiajYz3qdhlun) | 4:13 | 2022-02-17 | 2022-07-28 |
 | [Pistola](https://open.spotify.com/track/65ztgzqmVXzHqHQ7DuPMhT) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Zeroes](https://open.spotify.com/album/7IqtStixf9Y4W529LVRxca) | 5:31 | 2022-07-08 | 2022-07-30 |

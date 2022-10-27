@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? Cover: UP10TION\(업텐션\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? Cover: ATBO \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-389 songs - 22 hr 5 min - [published](https://open.spotify.com/playlist/1rQmqTB8OYYXGSYSv738KR)
+392 songs - 22 hr 15 min - [published](https://open.spotify.com/playlist/1rQmqTB8OYYXGSYSv738KR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,12 +29,14 @@
 | [ALL FOR YOU](https://open.spotify.com/track/5nHD2GbiDHXc7PF0i3p64I) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [ALL FOR YOU](https://open.spotify.com/album/093T3GW8oztPbgt0y3WYLx) | 4:02 | 2022-03-30 | 2022-04-10 |
 | [Alligator](https://open.spotify.com/track/2pmbxzWBNM6j5p9CQH32f1) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:12 | 2022-04-04 | 2022-04-21 |
 | [Always](https://open.spotify.com/track/6bLZ6JV1mAGz4xfS1ZwOMV) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Always](https://open.spotify.com/album/0kwAgLzLnzQxaKcdubyaMh) | 3:06 | 2022-02-24 | 2022-07-29 |
+| [AMAZON](https://open.spotify.com/track/52duVlQdX7yyZ98WygiPrH) | [TFN](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 4](https://open.spotify.com/album/21QlwJM8El7dXWi16woW0G) | 3:22 | 2022-10-26 |  |
 | [Answer](https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EPILOGUE : Action To Answer](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) | 3:39 | 2021-12-08 | 2022-09-27 |
 | [Anthem of Teen Spirit](https://open.spotify.com/track/3NWxwoXlvgtTd3fNHuX2Vv) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [3rd EP Album Prelude of Anxiety Chapter 1\. ‘21st Century Boys’](https://open.spotify.com/album/4fsF93AXASOvrmhfvC4grd) | 3:02 | 2022-04-12 | 2022-05-12 |
 | [Anti\-Romantic](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:35 | 2021-12-08 |  |
 | [Are you ready?](https://open.spotify.com/track/5bxKTvUKf8aT7JmezbUQcQ) | [D\-CRUNCH](https://open.spotify.com/artist/1CNEzaJTiE6s43DHohcujW) | [M0527](https://open.spotify.com/album/5rzxz5goZRPXKJxYJrz7iX) | 3:24 | 2022-03-22 | 2022-04-18 |
 | [Ascension](https://open.spotify.com/track/0ZabC2gf38O0lQsPs00irH) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. IV\. Dann](https://open.spotify.com/album/28FMfifUwgR7vNCGjuAzBy) | 3:44 | 2022-03-31 | 2022-04-20 |
 | [Atlantis](https://open.spotify.com/track/0BBUGRUURDjwcXmDS3kQkN) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atlantis \- The 7th Album Repackage](https://open.spotify.com/album/4hyhyzEkMEsaSHzkuMn4Ds) | 2:58 | 2021-12-08 | 2022-04-11 |
+| [ATTITUDE](https://open.spotify.com/track/4G3kw5Y7pbwK9aE8mjfivE) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [The Beginning : 始作](https://open.spotify.com/album/2rk5luKry7s1kCsklJmxKL) | 3:16 | 2022-10-26 |  |
 | [BABY COME BACK HOME](https://open.spotify.com/track/7Jv9ITjXlAP3gMwDPKhTVC) | [TARGET](https://open.spotify.com/artist/66TV1ErY4LqbhZSfhnxQ1r) | [S the P](https://open.spotify.com/album/0jCwmO2FbZ1qrM7eRa1z6b) | 3:05 | 2022-04-15 | 2022-04-19 |
 | [Baby Don’t Stop](https://open.spotify.com/track/1EYSS9Lp7a9f20C3FaOVgI) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:03 | 2022-04-04 | 2022-09-20 |
 | [Back Door](https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:09 | 2022-07-27 |  |
@@ -180,6 +182,7 @@
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-30 |  |
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-08 |  |
 | [Humph!](https://open.spotify.com/track/0m3W71Oliiv3gQWXi2YAmJ) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [SUM\(ME:R\)](https://open.spotify.com/album/4hlhRlDPvdfc7hQoD8gxZ1) | 3:12 | 2022-02-15 | 2022-07-23 |
+| [Hymn to Love](https://open.spotify.com/track/3HsBjL08LXLjzTAjlJNVLA) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 4th EP Album Prelude of Love Chapter 1\. ‘Puppy Love’](https://open.spotify.com/album/2JZJ0Eo9Zi2hqFS3ddBumM) | 3:14 | 2022-10-26 |  |
 | [I Got U](https://open.spotify.com/track/23W0eq63H9sTGG8SjJu6Ke) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Gatcha!](https://open.spotify.com/album/2LQ1gERkYGpu5pGpUoLNjr) | 3:15 | 2022-01-17 | 2022-06-15 |
 | [I LOVE YOU](https://open.spotify.com/track/1SxqqC1aQ8JiLyfMrHYmnF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:01 | 2022-08-03 | 2022-08-07 |
 | [I LOVE YOU](https://open.spotify.com/track/4zazrdH47Bkgunb3riXVlJ) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER TWO](https://open.spotify.com/album/3qOsKiuw6NaywkQnlmETP7) | 3:01 | 2021-12-08 | 2022-07-28 |
@@ -280,7 +283,7 @@
 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 | 2022-07-07 | 2022-07-10 |
 | [PARALLEL](https://open.spotify.com/track/3O9IkVwJuq1cOZDtOezHWw) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [PARALLEL](https://open.spotify.com/album/7L3tjtUJCskQ8sFoWWZyYA) | 3:33 | 2022-03-31 | 2022-04-07 |
 | [Parallel Universe](https://open.spotify.com/track/5BMiCwETGMSSC7gM88cemX) | [NINE.i](https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye) | [NEW WORLD](https://open.spotify.com/album/0acSMtQwyale1dQDfJSwzL) | 3:28 | 2022-03-30 | 2022-06-25 |
-| [PARTY ROCK](https://open.spotify.com/track/5n81hoM1QMLib476FVMp2Y) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [NEW WAVE](https://open.spotify.com/album/43PdGV8b4Xb1a4ffk3Ywt6) | 3:04 | 2022-09-27 |  |
+| [PARTY ROCK](https://open.spotify.com/track/5n81hoM1QMLib476FVMp2Y) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [NEW WAVE](https://open.spotify.com/album/43PdGV8b4Xb1a4ffk3Ywt6) | 3:04 | 2022-09-27 | 2022-10-27 |
 | [Pirate King](https://open.spotify.com/track/5Jl2i6LR3Socm4TYqRzZw3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1: All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:15 | 2022-03-31 | 2022-04-13 |
 | [Poison](https://open.spotify.com/track/2EjhZeOHjascxc4ph4RLjw) | [VAV](https://open.spotify.com/artist/3riGN5iBVBk5naQxUDr5fk) | [POISON](https://open.spotify.com/album/41Ja2h7SkGQxDbzwHD7SBy) | 3:31 | 2021-12-08 | 2022-05-03 |
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-01-26 |  |
@@ -337,7 +340,7 @@
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-04 |  |
 | [Still Loving You](https://open.spotify.com/track/4JvJw1ZMpmCnv6RjPUM1GT) | [100%](https://open.spotify.com/artist/3fkFO5lmipe654caBLBD6n) | [RE:tro](https://open.spotify.com/album/2N5nMmoKGeFwXB3mKBrHKT) | 3:00 | 2022-03-16 | 2022-07-29 |
 | [Stupid O'clock](https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chaos](https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO) | 3:05 | 2022-05-31 | 2022-07-05 |
-| [Sugarcoat](https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 2:49 | 2022-10-04 |  |
+| [Sugarcoat](https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 2:49 | 2022-10-04 | 2022-10-27 |
 | [SUPER Clap](https://open.spotify.com/track/52ubrjNeYr0bJNuYGmxfpV) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Time\_Slip \- The 9th Album](https://open.spotify.com/album/7jKVdT1syYOuRRWcjo50og) | 3:29 | 2022-03-31 | 2022-04-18 |
 | [Superhuman](https://open.spotify.com/track/0TU7xhMfZbI1okpLyHptFV) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/15DNWLVXy5ES2USQ1PFnF5) | 3:57 | 2022-03-11 | 2022-04-15 |
 | [Sweet](https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Sweet](https://open.spotify.com/album/3l2REQK2yQqFlIVLNMApC8) | 3:04 | 2022-07-04 | 2022-07-08 |
@@ -375,7 +378,7 @@
 | [WAVE](https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 1st Album 'OK' Prologue : Be OK](https://open.spotify.com/album/3pDsgSLUn5213aS3II19WR) | 3:19 | 2022-01-03 | 2022-07-22 |
 | [We Go Up](https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Go Up](https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj) | 3:03 | 2021-12-08 | 2022-07-28 |
 | [What a life](https://open.spotify.com/track/3TfLZodlQ1TzNpdrc4KXR5) | [EXO\-SC](https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5) | [What a life \- The 1st Mini Album](https://open.spotify.com/album/60dCcEJcX0TamOud2jS87a) | 3:23 | 2022-04-04 | 2022-04-16 |
-| [What If Love](https://open.spotify.com/track/5M2fQ0KSLYRwrpIm4SxDl8) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Code Name: Arrow](https://open.spotify.com/album/6lGBHQBYL3eRzQ2ONYaxYc) | 3:10 | 2022-10-12 |  |
+| [What If Love](https://open.spotify.com/track/5M2fQ0KSLYRwrpIm4SxDl8) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Code Name: Arrow](https://open.spotify.com/album/6lGBHQBYL3eRzQ2ONYaxYc) | 3:10 | 2022-10-12 | 2022-10-27 |
 | [WHAT'S GOIN' ON](https://open.spotify.com/track/5RYFLurX0Vg85bgnClS6im) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Single Album \[WHAT'S GOIN' ON\]](https://open.spotify.com/album/0DYLNTiiA03sjrXPHDaU7z) | 3:11 | 2022-01-27 | 2022-04-21 |
 | [WHISPER](https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 7TH MINI ALBUM \[BE AWARE\]](https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR) | 3:11 | 2022-08-18 | 2022-10-25 |
 | [White](https://open.spotify.com/track/4RUF7vLA3KutJHfQ1eGWuA) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single 'White'](https://open.spotify.com/album/1YYdEA6ykYQ0dpXrqj7tWP) | 4:05 | 2022-03-22 | 2022-04-16 |

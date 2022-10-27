@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,521 likes - 94 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,531 likes - 94 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 4 | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D) | 3:50 |
 | 5 | [Weinst du](https://open.spotify.com/track/4djlVYFizR8zKmKGDlLcn7) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Weinst du](https://open.spotify.com/album/1ztBBLPehkF0sGu8CJWqHK) | 2:24 |
 | 6 | [Better Safe Than Sorry](https://open.spotify.com/track/4afdW2RH5IO4zTX1CWjRIZ) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Better Safe Than Sorry](https://open.spotify.com/album/7a7gT0AdLeQXLzlOp2s3Z9) | 2:38 |
-| 7 | [Medizin \(feat\. Jamule\)](https://open.spotify.com/track/3fAz5OBCj54Ar8vzps112y) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Medizin \(feat\. Jamule\)](https://open.spotify.com/album/6pKa9ZwiXrysumGnan5sFS) | 3:15 |
+| 7 | [Medizin \(feat\. Jamule\)](https://open.spotify.com/track/1KKdLVAi0Z4YKrdiyQS3vF) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Medizin \(feat\. Jamule\)](https://open.spotify.com/album/43VvqUcYspfTwTgmQLfVTw) | 3:15 |
 | 8 | [Clean Break](https://open.spotify.com/track/4d1WoQ6dW7feMW9dGchNyL) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Clean Break](https://open.spotify.com/album/5P5zoDRaqk5X3wZvcuZdYK) | 2:53 |
 | 9 | [Aston Martin Truck](https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Aston Martin Truck](https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc) | 3:00 |
 | 10 | [Don't Leave Me Lonely](https://open.spotify.com/track/4uZKz3TLaSEY4vVb86jyAp) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Don't Leave Me Lonely](https://open.spotify.com/album/3f0b6DdDRkMTVAPs8WHpDW) | 2:53 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 93 | [Don't Take Your Love](https://open.spotify.com/track/35fBkyvLRrHKO4edE69LtA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9) | 3:06 |
 | 94 | [Voll sein](https://open.spotify.com/track/5UPuNiekVnBNoIhXDTSHSj) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Voll sein](https://open.spotify.com/album/4UiwmYx5SkgWTXgP9mgBzV) | 4:19 |
 
-Snapshot ID: `MTY2NjM0Njg1MiwwMDAwMDAwMGY1ZDBjNTUxYTRhNGRiZTNmMTRiYTQxMzI3YzI2OTY3`
+Snapshot ID: `MTY2NjM0Njg1MiwwMDAwMDAwMDAxYmRiNmUxZTdkMmJlMDI4ZTc0MjVlNjI3MWE1OTBl`

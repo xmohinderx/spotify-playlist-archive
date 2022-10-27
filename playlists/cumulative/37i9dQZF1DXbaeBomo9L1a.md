@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbaeBomo9L1a.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbaeBomo9L1a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbaeBomo9L1a)
 
-### [Llamada de Medianoche](https://open.spotify.com/playlist/37i9dQZF1DXbaeBomo9L1a)
+### [Texteo de Medianoche](https://open.spotify.com/playlist/37i9dQZF1DXbaeBomo9L1a)
 
 > R&B sensual para una apasionada noche en excelente compañía.
 
-59 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/1i4e9zZGg6WcrvjDTSglUO)
+60 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/1i4e9zZGg6WcrvjDTSglUO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 | 2022-04-18 |  |
 | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:21 | 2022-04-18 |  |
 | [Nobody Else but You](https://open.spotify.com/track/1HOUzEsetdIPSpAgRPhZQt) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Tremaine the Album](https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C) | 3:49 | 2022-04-18 |  |
+| [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 | 2022-10-26 |  |
 | [NOTHING TO ME](https://open.spotify.com/track/6QTxtk3ZO30mI8gHj8aGTP) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [NOTHING TO ME](https://open.spotify.com/album/20U3r75IWJb3KTYl479lQk) | 4:25 | 2022-04-18 |  |
 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 | 2022-04-18 |  |
 | [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:58 | 2022-04-18 |  |

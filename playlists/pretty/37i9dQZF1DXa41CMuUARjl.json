@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Lastlings.",
-  "num_followers": 405870,
+  "num_followers": 406037,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM0ODEyMywwMDAwMDAwMDIxMzA0OTIzODEyMDQ2YjAxMjMzZTBiYTJmM2I3YTRl",
+  "snapshot_id": "MTY2NjM0ODEyMywwMDAwMDAwMGNlYTdmMmY5ODliNmFkMjJhYTI3OGRmNGI4N2NkOWM0",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -935,26 +935,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "It's All Love",
-        "url": "https://open.spotify.com/album/5Ice6CemgzmMEz9xPvwDA5"
-      },
-      "artists": [
-        {
-          "name": "Toddla T",
-          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 132124,
-      "name": "It's All Love",
-      "url": "https://open.spotify.com/track/61JJq5TIjXl5rr4zzniJVs"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Silhouettes & Outlines",
         "url": "https://open.spotify.com/album/2TqFbEO7jboBpbViBLHE4u"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 264047,
       "name": "Silhouettes & Outlines",
       "url": "https://open.spotify.com/track/6DGN1jEIfFtodDQoFg0JXv"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "It's All Love",
+        "url": "https://open.spotify.com/album/5Ice6CemgzmMEz9xPvwDA5"
+      },
+      "artists": [
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 132124,
+      "name": "It's All Love",
+      "url": "https://open.spotify.com/track/61JJq5TIjXl5rr4zzniJVs"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/1UeNYoQ1jRhOGHgiKppMZX"
-      },
-      "artists": [
-        {
-          "name": "Attom",
-          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
-        }
-      ],
-      "duration_ms": 201467,
-      "name": "Rested",
-      "url": "https://open.spotify.com/track/2ssp2O5R8rnNFlZU1BtAkI"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Gang Gang",
         "url": "https://open.spotify.com/album/2UoDlleSyih3WgzHZYBElH"
       },
@@ -1195,22 +1179,18 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "In My Soul",
-        "url": "https://open.spotify.com/album/3uKNbJePIfbIBFWlbQ4Hdk"
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/1UeNYoQ1jRhOGHgiKppMZX"
       },
       "artists": [
         {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+          "name": "Attom",
+          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
         }
       ],
-      "duration_ms": 180000,
-      "name": "In My Soul",
-      "url": "https://open.spotify.com/track/6NLZEoGMoml2czKixvO1Ze"
+      "duration_ms": 201467,
+      "name": "Rested",
+      "url": "https://open.spotify.com/track/2ssp2O5R8rnNFlZU1BtAkI"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1227,22 +1207,6 @@
       "duration_ms": 187142,
       "name": "Bump",
       "url": "https://open.spotify.com/track/27X0DzpPoWQrmN1NYQ83Rv"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/0i141tJ8P78xA2XHZMVfme"
-      },
-      "artists": [
-        {
-          "name": "Klur",
-          "url": "https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ"
-        }
-      ],
-      "duration_ms": 343440,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/3ZjQCZJpyxQjNSEctNnAvD"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1271,6 +1235,42 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0i141tJ8P78xA2XHZMVfme"
+      },
+      "artists": [
+        {
+          "name": "Klur",
+          "url": "https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ"
+        }
+      ],
+      "duration_ms": 343440,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/3ZjQCZJpyxQjNSEctNnAvD"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "In My Soul",
+        "url": "https://open.spotify.com/album/3uKNbJePIfbIBFWlbQ4Hdk"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "In My Soul",
+      "url": "https://open.spotify.com/track/6NLZEoGMoml2czKixvO1Ze"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "For The Birds - Jacana People Remix",
         "url": "https://open.spotify.com/album/69BhpU9uyNw6kcFnetZUJx"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 277413,
       "name": "For The Birds - Jacana People Remix",
       "url": "https://open.spotify.com/track/67A94Xl5KTj6R7Rxauy3f5"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "TASTE EP",
-        "url": "https://open.spotify.com/album/5QkocZRhfRHQbbGkWpRnTo"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 184356,
-      "name": "RUNNIN BACK TO YOU [03.27.21]",
-      "url": "https://open.spotify.com/track/6WkX6pwo3HyoSB4xNO1QdV"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "TASTE EP",
+        "url": "https://open.spotify.com/album/5QkocZRhfRHQbbGkWpRnTo"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "duration_ms": 184356,
+      "name": "RUNNIN BACK TO YOU [03.27.21]",
+      "url": "https://open.spotify.com/track/6WkX6pwo3HyoSB4xNO1QdV"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Hotel Koko",
         "url": "https://open.spotify.com/album/0K5N4Inr14bXYElF0RsJBW"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "ANGEL",
-        "url": "https://open.spotify.com/album/2PW5mn3I40LZWKhI1AKCgL"
-      },
-      "artists": [
-        {
-          "name": "glue70",
-          "url": "https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "ANGEL",
-      "url": "https://open.spotify.com/track/6M00AA8X2EZR6xaLFKRdGA"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Dream About You",
         "url": "https://open.spotify.com/album/505Swy2YfuiUBAGNjYsQGH"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 241931,
       "name": "Dream About You",
       "url": "https://open.spotify.com/track/4VLjG1xYxMN7jKgDjqWw9s"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "ANGEL",
+        "url": "https://open.spotify.com/album/2PW5mn3I40LZWKhI1AKCgL"
+      },
+      "artists": [
+        {
+          "name": "glue70",
+          "url": "https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "ANGEL",
+      "url": "https://open.spotify.com/track/6M00AA8X2EZR6xaLFKRdGA"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Joan",
-        "url": "https://open.spotify.com/album/6j8J7woocVNSo52ASBg2b3"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 318560,
-      "name": "Joan",
-      "url": "https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "By Design - EP",
         "url": "https://open.spotify.com/album/2sslqbfPaW51KADtMlJD6w"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 301458,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/1IXhUwbSASGau6O0uHSG3t"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Joan",
+        "url": "https://open.spotify.com/album/6j8J7woocVNSo52ASBg2b3"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 318560,
+      "name": "Joan",
+      "url": "https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "I Would If I Could",
-        "url": "https://open.spotify.com/album/26bOgHQAgNQY9uT27H94Md"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 315726,
-      "name": "I Would If I Could",
-      "url": "https://open.spotify.com/track/1wAoYSqlPb6TMbWJkFooxN"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Pyramid Square",
         "url": "https://open.spotify.com/album/5riGKMJNAw7LJri91iKr0s"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 385289,
       "name": "Pyramid Square",
       "url": "https://open.spotify.com/track/6ALUSlbwOTZK5MQmjRdbPJ"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "I Would If I Could",
+        "url": "https://open.spotify.com/album/26bOgHQAgNQY9uT27H94Md"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 315726,
+      "name": "I Would If I Could",
+      "url": "https://open.spotify.com/track/1wAoYSqlPb6TMbWJkFooxN"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Idiolect",
+        "url": "https://open.spotify.com/album/0frIUdgEHaHJPL6Jyc6yFT"
+      },
+      "artists": [
+        {
+          "name": "Affelaye",
+          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
+        }
+      ],
+      "duration_ms": 320500,
+      "name": "Kalmer",
+      "url": "https://open.spotify.com/track/1Rwjkkw9lj4UPEEQq5TzW5"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Stretchpants",
         "url": "https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 364749,
       "name": "Stretchpants",
       "url": "https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Idiolect",
-        "url": "https://open.spotify.com/album/0frIUdgEHaHJPL6Jyc6yFT"
-      },
-      "artists": [
-        {
-          "name": "Affelaye",
-          "url": "https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ"
-        }
-      ],
-      "duration_ms": 320500,
-      "name": "Kalmer",
-      "url": "https://open.spotify.com/track/1Rwjkkw9lj4UPEEQq5TzW5"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "#PlasticFreeParty",
-        "url": "https://open.spotify.com/album/1cvskFPm3EvkVSleUYgNaL"
-      },
-      "artists": [
-        {
-          "name": "Shiba San",
-          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
-        },
-        {
-          "name": "Millad",
-          "url": "https://open.spotify.com/artist/574xqhCKP0QEiezbn8pcXP"
-        }
-      ],
-      "duration_ms": 232330,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5gPmpgnbsl3d6u9s8bIMcb"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Club Der Misionaere",
         "url": "https://open.spotify.com/album/3z20MOvwRM4cqksDwcHfUI"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 403570,
       "name": "Club Der Misionaere",
       "url": "https://open.spotify.com/track/30fy9vPjBmCXoJpvWCh2Iz"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "#PlasticFreeParty",
+        "url": "https://open.spotify.com/album/1cvskFPm3EvkVSleUYgNaL"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        },
+        {
+          "name": "Millad",
+          "url": "https://open.spotify.com/artist/574xqhCKP0QEiezbn8pcXP"
+        }
+      ],
+      "duration_ms": 232330,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5gPmpgnbsl3d6u9s8bIMcb"
     }
   ],
   "unique_name": "New Music Friday Dance",

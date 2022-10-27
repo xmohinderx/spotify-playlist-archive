@@ -4,7 +4,7 @@
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-75 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/13en7Orf0L2LROM0phnA8F)
+76 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/13en7Orf0L2LROM0phnA8F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Everybody Needs A 303](https://open.spotify.com/track/3kKa6jshpLfxKW9GOb3IXK) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry \(20th Anniversary Edition\)](https://open.spotify.com/album/2GWrgTg7zDKCz1FxxG6htP) | 5:47 | 2021-10-22 | 2022-07-29 |
 | [Everybody Needs A 303](https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry](https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB) | 5:49 | 2021-10-22 |  |
 | [Fantasy Girl \- Acid Mix](https://open.spotify.com/track/40PQvC2BjFlPQRB2bMUDqs) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk) | [Fantasy Girl](https://open.spotify.com/album/1JeuP73XhGYm89uqMxi4kF) | 7:02 | 2021-10-22 | 2022-07-29 |
-| [Fantasy Girl \- Acid Mix](https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk), [J.R.](https://open.spotify.com/artist/0NBCjCwv45St1Vqpv5bjyP) | [Fantasy Girl](https://open.spotify.com/album/5OAK0SGieqJ1jwW6vrVHjK) | 7:02 | 2021-10-22 |  |
+| [Fantasy Girl \- Acid Mix](https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk), [J.R.](https://open.spotify.com/artist/0NBCjCwv45St1Vqpv5bjyP) | [Fantasy Girl](https://open.spotify.com/album/5OAK0SGieqJ1jwW6vrVHjK) | 7:02 | 2021-10-22 | 2022-10-27 |
 | [Firecracker](https://open.spotify.com/track/0VDi0h6uXz4r24TyAz5eJu) | [Todd Terje & The Olsens](https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq) | [The Big Cover\-Up](https://open.spotify.com/album/2DSRpIJMFmV2cEUxGq2N2H) | 6:31 | 2021-10-22 | 2022-10-14 |
 | [Firecracker](https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx) | [Todd Terje & The Olsens](https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq) | [The Big Cover\-Up](https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt) | 6:31 | 2021-10-22 |  |
 | [Higher State of Consciousness \- Tweekin Acid Funk](https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 6:17 | 2021-10-22 |  |
@@ -74,6 +74,7 @@
 | [Sumo Acid Crew](https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [In Gold](https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR) | 6:19 | 2021-10-22 |  |
 | [TAKE YOUR LIFE](https://open.spotify.com/track/2nl2twiYDrw6PAT4cy2Uev) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV), [Koogan](https://open.spotify.com/artist/0NDsaErrMCFW3S8PmwO5za) | [HAVEL](https://open.spotify.com/album/3pFWjCpLWiqqzuTcKRxwl7) | 3:30 | 2021-10-22 |  |
 | [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/4zaf5qzolYOVprALV0NAZ8) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af) | [The Garden of Eden](https://open.spotify.com/album/1YHqqYaDOVkOHZAMZDFmqv) | 4:01 | 2021-10-22 | 2022-10-17 |
+| [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/2yheDn4bIOJVZmfDSTzILA) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af), [Angela McCluskey](https://open.spotify.com/artist/0cJMitw1iwiFVc1MwfRxWX), [Mark Tinley](https://open.spotify.com/artist/0ytLhQB1D6Syrgetn8QHco), [Pam Hogg](https://open.spotify.com/artist/7uyKQ6IUwjoSSiwvmFi0YG) | [The Garden of Eden](https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX) | 4:01 | 2021-10-22 |  |
 | [The Smell Of Suds And Steel](https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Qualm](https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H) | 8:11 | 2021-10-22 |  |
 | [Tokyo](https://open.spotify.com/track/6tbVS79XlDQNSctKIYEhkP) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [For Those Who](https://open.spotify.com/album/2ClfMqAZvuQ8uFH9z5Ac90) | 6:26 | 2021-10-22 |  |
 | [Try Again](https://open.spotify.com/track/6dp3XPQJuC7qP7TaEFVgL5) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/0vqRNgbh25rbYpiZ2Ejv6s) | 4:44 | 2021-10-22 | 2022-07-21 |

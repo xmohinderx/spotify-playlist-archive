@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,879 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,889 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 83 | [Jolene From Her Own Perspective](https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb), [zannie](https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd) | [Jolene From Her Own Perspective](https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj) | 3:27 |
 | 84 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 |
 | 85 | [9 Preludes, Op\. 1: No\. 1 in B Minor\. Andante ma non troppo](https://open.spotify.com/track/73cFlYu63RLX1qn9qzMXiJ) | [Karol Szymanowski](https://open.spotify.com/artist/3WLh1Qe8WgEBbb2QJWYYal), [Krystian Zimerman](https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz) | [Szymanowski: 9 Preludes, Op\. 1: No\. 1 in B Minor\. Andante ma non troppo](https://open.spotify.com/album/2a4mPDnGKkY1ZnxhsHIrK0) | 2:56 |
-| 86 | [tasogare](https://open.spotify.com/track/3tDQvzH52bu9gXmTtMSboM) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH), [The Flipside](https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1) | [tasogare](https://open.spotify.com/album/6vkWYfXeLfiSenOG4BouTR) | 2:16 |
+| 86 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 |
 | 87 | [Variations on a Polish Folk Theme, Op\. 10: Var\. 5\. Andantino](https://open.spotify.com/track/07f9skCq3UJKxj7szEoC04) | [Karol Szymanowski](https://open.spotify.com/artist/3WLh1Qe8WgEBbb2QJWYYal), [Krystian Zimerman](https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz) | [Karol Szymanowski: Piano Works](https://open.spotify.com/album/6iF2vN5SK1pXAn2jdND1Zq) | 1:09 |
-| 88 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 |
+| 88 | [tasogare](https://open.spotify.com/track/3tDQvzH52bu9gXmTtMSboM) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH), [The Flipside](https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1) | [tasogare](https://open.spotify.com/album/6vkWYfXeLfiSenOG4BouTR) | 2:16 |
 | 89 | [亡き王女のためのパヴァーヌ](https://open.spotify.com/track/3MS8nkpuVTS53i1WlKUkP8) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Fujiko Hemming](https://open.spotify.com/artist/4dHQoSYxFs7VSpbMRC9S6t) | [ピアノ名曲集](https://open.spotify.com/album/45XasnhM03A5fXf12xumR3) | 7:02 |
 | 90 | [Kyle \(Northern Line\)](https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:44 |
 | 91 | [アランフェス協奏曲より II\. アダージョ](https://open.spotify.com/track/4drls67YIZQVwF03TxkIJa) | [ホアキン・ロドリーゴ](https://open.spotify.com/artist/4rrSNmtdtILZy9sQ4OGtp9), [Shin\-ichi Fukuda](https://open.spotify.com/artist/1VpxOqn6Ruc8z3AS7yexEm), [Norichika Iimori](https://open.spotify.com/artist/3tGixEmlU0amxltz83a0tc), [Württembergische Philharmonie Reutlingen](https://open.spotify.com/artist/3aSDuAvPFkSnli24u0aZDp) | [マチネの終わりに](https://open.spotify.com/album/1dbUHD0sP27OXcdIKItn06) | 10:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 99 | [Ise sonorite](https://open.spotify.com/track/4i9aNdBvZgUdZoWXvI8zth) | [齊藤桃子](https://open.spotify.com/artist/38rBUCUOs3mjE227Zh9znJ) | [Oto No Eiga](https://open.spotify.com/album/2VOWJSvAakSiq0fHX19rjF) | 6:55 |
 | 100 | [Adoration \(Version for Solo Violin and String Orchestra\)](https://open.spotify.com/track/1ah3n5wpOQhFQzl9t3qGIu) | [Florence Beatrice Price](https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Zürcher Kammerorchester](https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM) | [America](https://open.spotify.com/album/4s9avSHrTQWXFYuEy0IfNZ) | 3:52 |
 
-Snapshot ID: `MTY2NjcxMDAwMCwwMDAwMDAwMGNiYjA5NmI5MjhmY2U4ZjY5ZjVhOTg5NmQxMDQzZGUw`
+Snapshot ID: `MTY2NjcxMDAwMCwwMDAwMDAwMGY4ZjlmNTRjZmNmNWE1NjNhMjliMzZhZDhmZTYxMzMw`

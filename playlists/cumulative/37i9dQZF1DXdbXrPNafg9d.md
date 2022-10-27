@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Arctic Monkeys
 
-4,343 songs - 10 day 15 hr 13 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,344 songs - 10 day 15 hr 15 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1163,7 +1163,8 @@
 | [Eye 2 Eye](https://open.spotify.com/track/4qu0t0ALzfAHmzuFliman4) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Stars Are The Light](https://open.spotify.com/album/3J3wekJNr78DPFd865z9PP) | 4:21 | 2019-09-27 | 2019-10-18 |
 | [Eyes of a child](https://open.spotify.com/track/3ReqqO2NE1UVLoCvHX5Qqt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Eyes of a child](https://open.spotify.com/album/29glYr8nEQaKugRTY9lU8D) | 4:40 | 2020-07-03 | 2020-07-31 |
 | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/album/605QJC3syWgn2xXR3LHbds) | 2:52 | 2022-04-22 | 2022-05-28 |
-| [F.O.O.F.](https://open.spotify.com/track/2Yo3BxnzxMeWkvTx1QKBo9) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [F.O.O.F.](https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z) | 2:08 | 2022-09-30 |  |
+| [F.O.O.F.](https://open.spotify.com/track/2Yo3BxnzxMeWkvTx1QKBo9) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [F.O.O.F.](https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z) | 2:08 | 2022-09-30 | 2022-10-27 |
+| [F.O.O.F.](https://open.spotify.com/track/6Xr3s1NTck8lLiLF7VGReD) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 2:08 | 2022-09-30 |  |
 | [Fables](https://open.spotify.com/track/7qaJfp7zJoJoLxdkVnwgC2) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Fables](https://open.spotify.com/album/2Z3UKI5vh7I4zLsEOWjqEE) | 4:34 | 2022-05-20 | 2022-06-22 |
 | [Face Again](https://open.spotify.com/track/5jTfAzJUjjQAw6UDhozqHc) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Hats Off](https://open.spotify.com/album/5xsUExmsWh1AB0eSCDkiqz) | 2:14 | 2021-04-17 | 2021-05-29 |
 | [Face to Face](https://open.spotify.com/track/0RQPktmooLA3TJqQVyR29m) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Face to Face](https://open.spotify.com/album/3vwhtBspoJYUhNjQs47ztR) | 3:39 | 2019-10-25 | 2019-12-13 |

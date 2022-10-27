@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest soul tracks from the 1970s.",
-  "num_followers": 1313493,
+  "num_followers": 1313900,
   "original_name": "70s Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMGJkYjhiYjM4NDBhMmI3YTkzZDI0NmE1NDZhNzc3MzEz",
+  "snapshot_id": "MTY2MDgyNDY2OSwwMDAwMDAwMGY2NmVhOTg3ZTZmODA0OGE4OGI5NzZiOTdmNWUxODg4",
   "tracks": [
     {
       "added_at": "2022-02-04 15:57:42",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "What's Going On",
         "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 233000,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "Let's Get It On (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 290933,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "Ultimate Collection: Dobie Gray",
         "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 284906,
       "name": "Me and Mrs. Jones",
       "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Let's Get It On (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 290933,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "In Philadelphia",
-        "url": "https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Don't Let the Green Grass Fool You",
-      "url": "https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Maybe Tomorrow",
         "url": "https://open.spotify.com/album/30gDRAWUg1hC8TYAtzr0i9"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 179773,
       "name": "Never Can Say Goodbye",
       "url": "https://open.spotify.com/track/5RHf8SmHRWbF3oywpXaQ2i"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "In Philadelphia",
+        "url": "https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Don't Let the Green Grass Fool You",
+      "url": "https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH"
     },
     {
       "added_at": "2022-02-04 15:57:42",

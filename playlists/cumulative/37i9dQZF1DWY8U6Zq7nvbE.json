@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "...Baby One More Time",
+        "url": "https://open.spotify.com/album/0X8CWMaapiIEowia7TUbBM"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220866,
+      "name": "...Baby One More Time - Acoustic Version",
+      "url": "https://open.spotify.com/track/2ta83B4eCsS7PFuBpahkTV"
+    },
+    {
+      "album": {
         "name": "The Wave EP (Acoustic, Pt. 2)",
         "url": "https://open.spotify.com/album/1jN9d28anuaMCN1zwv1NPw"
       },
@@ -2944,6 +2962,24 @@
     },
     {
       "album": {
+        "name": "Pillow Talk (Acoustic)",
+        "url": "https://open.spotify.com/album/3zmJKO6OA2iy1J2ml9nvGz"
+      },
+      "artists": [
+        {
+          "name": "POOL KIDS",
+          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210850,
+      "name": "Pillow Talk (Acoustic)",
+      "url": "https://open.spotify.com/track/3u1RjvWGVcVWPUMMbhDaA7"
+    },
+    {
+      "album": {
         "name": "PILLOWTALK (the living room session)",
         "url": "https://open.spotify.com/album/7bWxyXxuT9LVzVkgDEWm5V"
       },
@@ -2955,7 +2991,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 145250,
       "name": "PILLOWTALK - the living room session",
       "url": "https://open.spotify.com/track/3Tluzy27Qdbe8aRK2OCQf3"
@@ -3342,6 +3378,24 @@
     },
     {
       "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
+      },
+      "artists": [
+        {
+          "name": "who's heather",
+          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197357,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
+    },
+    {
+      "album": {
         "name": "she's all i wanna be (Acoustic)",
         "url": "https://open.spotify.com/album/249BQ5FeDE1TqBLFlUt9uZ"
       },
@@ -3353,7 +3407,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 198705,
       "name": "she's all i wanna be - Acoustic",
       "url": "https://open.spotify.com/track/3iJVCCW5equhyyZcxrMABz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Big Bllakk, LEALL, Major RD, Derxan
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,337 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,387 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 25 | [Infravermelho](https://open.spotify.com/track/03uTSC6wATLjv3wWme4Tzm) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Luna](https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW), [OG BRITTO](https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Infravermelho](https://open.spotify.com/album/3kk0Iagt9p1hYO6TpC0YPx) | 3:06 |
 | 26 | [Clone](https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Clone](https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v) | 3:18 |
 | 27 | [Puxa o Gatilho Primeiro](https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Rap dos Novos Bandidos](https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O) | 1:31 |
-| 28 | [Edgar Davids](https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Edgar Davids](https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf) | 2:43 |
-| 29 | [Rumo ao Estrelato](https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2) | [Rumo ao Estrelato](https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9) | 2:49 |
+| 28 | [Rumo ao Estrelato](https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2) | [Rumo ao Estrelato](https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9) | 2:49 |
+| 29 | [Edgar Davids](https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Edgar Davids](https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf) | 2:43 |
 | 30 | [CHELSEA](https://open.spotify.com/track/2ush2pr0bKqYdT9oeBsHS7) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [BRIME!](https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979) | 2:30 |
 | 31 | [Fura Bilionários](https://open.spotify.com/track/2T2Xc0TPWKnUTcvN4XbmBC) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Xaga](https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6), [Ghetto ZN](https://open.spotify.com/artist/3j081Zyys4b40Q0DSogq1K), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Fura Bilionários](https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w) | 5:00 |
 | 32 | [Desfile Bélico](https://open.spotify.com/track/2HKkqPRwK207KezeMbiTTA) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b) | [Esculpido a Machado](https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [A Carne](https://open.spotify.com/track/6wLaOOvCUJLlu5B1unlkeJ) | [Huzz](https://open.spotify.com/artist/1L8dHj74BnLILHGcwVWMVd) | [A Carne](https://open.spotify.com/album/291VU3hGETSBpUuULFxNKT) | 2:20 |
 | 50 | [Dez e Faixa](https://open.spotify.com/track/6IL4ZRTz8QlJ6VuSg3F3Rv) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [TONCALi](https://open.spotify.com/artist/3enZVLaByIf1A6appp41gc) | [Dez e Faixa](https://open.spotify.com/album/0soK3TwSlDh53P3q48WPdK) | 2:37 |
 
-Snapshot ID: `MTY2NTcxNjQ2MCwwMDAwMDAwMDFiMTFlNjRlYzRmYjcxNmM0YWQxYWM0NWJkNDc4Nzkw`
+Snapshot ID: `MTY2NTcxNjQ2MCwwMDAwMDAwMGU2N2UyM2I3NDgzNDU5ODFjZWNkNjY4ZDM2NmM5NmM4`

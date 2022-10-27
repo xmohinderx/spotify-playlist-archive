@@ -4,7 +4,7 @@
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-96 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/6bR2ddpU2tR5Go5U5HI8SW)
+97 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/6bR2ddpU2tR5Go5U5HI8SW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [La Bamba](https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mr\. Watermelon Man](https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn) | 3:58 | 2022-04-09 | 2022-07-16 |
 | [La Pachanga Que No Cansa](https://open.spotify.com/track/0xiThgRoeQilpwuxg5MOTy) | [Manolin Morel Y Sus Charangueros](https://open.spotify.com/artist/49AjAnT2Y4TsKSNqleTT5W), [Wilfredo Figueroa](https://open.spotify.com/artist/6QJbXsvlvNE1vKPMRtfnBl) | [La Rueda\. Pachangas](https://open.spotify.com/album/5PRHaanSDGxhni8mfy46LF) | 3:01 | 2022-04-09 | 2022-04-20 |
 | [Llegaron Los Bonches](https://open.spotify.com/track/3ngiYxmfg5E6F8iu0o0IVv) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Volando Bajito](https://open.spotify.com/album/2bm3ZMpGBpOb89fKbq8Fp7) | 3:22 | 2021-09-07 | 2022-07-09 |
-| [Lo Atará la Arache](https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 4:32 | 2022-04-09 |  |
+| [Lo Atará la Arache](https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 4:32 | 2022-04-09 | 2022-10-27 |
 | [Lookie, Lookie](https://open.spotify.com/track/0xSaQcf3Yhi8AfiRna5OoU) | [Ricardo Ray](https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq) | [Se Solto \- On The Loose](https://open.spotify.com/album/2p0oSn1smy7KlFq9k64fK2) | 3:34 | 2021-09-07 | 2022-07-28 |
 | [Mambo Rock](https://open.spotify.com/track/5WlSFezblkdRb9PxagXagR) | [Alfredito Linares](https://open.spotify.com/artist/6nk62hgvBZTiWHfJDqQnFi) | [Mi Nuevo Ritmo](https://open.spotify.com/album/7EL9BpPDY9eX3ITD9JfJAd) | 3:35 | 2022-04-09 | 2022-07-24 |
 | [Marilu](https://open.spotify.com/track/0fkWQUZ8Rhh99dNDAIT5Q1) | [George Guzman](https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL) | [Introducing George Guzman](https://open.spotify.com/album/6jP4TUoDIjzM85nWsPdFgb) | 4:07 | 2021-09-07 |  |
@@ -89,6 +89,7 @@
 | [Sabre Olvidar](https://open.spotify.com/track/6PIJEKugYG10SjXzGnWZ32) | [TNT Band](https://open.spotify.com/artist/4ljGaqO3BLQFsZKlV63RLF) | [Discos Bailables](https://open.spotify.com/album/04bxlf3LWGIRIC1b0lZKoI) | 3:56 | 2022-04-09 |  |
 | [Seis Chorreao](https://open.spotify.com/track/1GOi0KnWNKAUdedvhHCshA) | [Ricardo Ray](https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [En Fiesta Navideña](https://open.spotify.com/album/7btZsLsMrGMiu6C6tofNAQ) | 2:50 | 2022-04-09 | 2022-04-19 |
 | [Son Cuero Y Boogaloo](https://open.spotify.com/track/3yGmOWLc5eScSOv84vs6dm) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Live at the Red Garter Vol 2](https://open.spotify.com/album/6D8lBJUjjeDz6ZhkhZlKCS) | 8:30 | 2021-09-07 | 2022-07-29 |
+| [Son Cuero Y Boogaloo \- Live At Red Garter / Greenwich Village, NY / 1968](https://open.spotify.com/track/0nkCr4yTg9Wnr7VsaaZ09j) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Jimmy Sabater](https://open.spotify.com/artist/2MQ4Kb9A8KkwQmK2LjaSw2) | [Live At The Red Garter, Vol\. 2 \(Live At Red Garter / Greenwich Village, NY / 1968\)](https://open.spotify.com/album/4hk83t4es3QZMhxOPZHh8T) | 8:30 | 2021-09-07 |  |
 | [Summertime Blues](https://open.spotify.com/track/1e6jHVb4C6ehwXrMgqBk47) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Back On The Streets Of Spanish Harlem](https://open.spotify.com/album/3ea0oHYXJgewFJpRvH7iip) | 4:41 | 2021-09-07 | 2022-07-29 |
 | [Summertime Blues](https://open.spotify.com/track/0ODEACdZ8xmsxosolVPkkI) | [The Lebron Brothers Orchestra](https://open.spotify.com/artist/6zb5tBPPvk4nRXW33IqztD) | [Psychedelic Goes Latin](https://open.spotify.com/album/2SOvavOrKySlz9Zet58rCC) | 4:44 | 2021-09-07 |  |
 | [That's How Rumors Start](https://open.spotify.com/track/4HbyfigTHGdBuBaD1GsmKe) | [Joey Pastrana and His Orchestra](https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2) | [Joey](https://open.spotify.com/album/4I6Y0n7bB7op6vgT9YfW3R) | 7:32 | 2021-09-07 | 2022-07-29 |

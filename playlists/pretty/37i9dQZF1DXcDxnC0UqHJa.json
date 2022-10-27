@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Madison Cunningham",
-  "num_followers": 466330,
+  "num_followers": 466370,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDFjNDg2NzhlZTgyYjljZmQyMzQ5ZmY4OTY0ZjlkOWI2",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDVmZGEyMDUzNzVlYzM5NmVmYTg1ZjVkYjBkZjNjZTc2",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Hit 'Em up Style",
+      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "That's How You Know",
         "url": "https://open.spotify.com/album/3L2xXFvMayei3lV4JLqLTU"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 225151,
       "name": "That's How You Know",
       "url": "https://open.spotify.com/track/3Vnpr2sEVngZQgAZYmAgl3"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Hit 'Em up Style",
-      "url": "https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Look At Miss Ohio",
-        "url": "https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Look At Miss Ohio",
-      "url": "https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "1979",
         "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 290518,
       "name": "1979",
       "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Look At Miss Ohio",
+        "url": "https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "Look At Miss Ohio",
+      "url": "https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Talk to Me of Mendocino",
+        "url": "https://open.spotify.com/album/0ntpjEfIKTQAZbC7fqBYts"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        },
+        {
+          "name": "Katherine Priddy",
+          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Talk to Me of Mendocino",
+      "url": "https://open.spotify.com/track/72X7jvDpgZyNjUeTixq15d"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Don't Dream It's Over / Everything Is Free",
         "url": "https://open.spotify.com/album/0cmgOTDZk3SgW61MEE1v2v"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 253493,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/1SQhbY8R2c10L76ZDtHTgm"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Talk to Me of Mendocino",
-        "url": "https://open.spotify.com/album/0ntpjEfIKTQAZbC7fqBYts"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        },
-        {
-          "name": "Katherine Priddy",
-          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Talk to Me of Mendocino",
-      "url": "https://open.spotify.com/track/72X7jvDpgZyNjUeTixq15d"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "By Your Side / Landslide",
+        "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Polyhymnia",
         "url": "https://open.spotify.com/album/4ThHnK1QSkpfwzHqpybmlz"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 395120,
       "name": "Like a Rolling Stone",
       "url": "https://open.spotify.com/track/43SCvTx9ME4KhHAVMKGnrT"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "By Your Side / Landslide",
-        "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "A Case of You",
-        "url": "https://open.spotify.com/album/11Inyi8jNCYIdhJgECS9f3"
-      },
-      "artists": [
-        {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
-        }
-      ],
-      "duration_ms": 260093,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/2q6vlgBJ432KeZZNt2ZZBV"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 138383,
       "name": "Simple Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "A Case of You",
+        "url": "https://open.spotify.com/album/11Inyi8jNCYIdhJgECS9f3"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 260093,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/2q6vlgBJ432KeZZNt2ZZBV"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Ohio / After The Gold Rush",
-        "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 294142,
-      "name": "After The Gold Rush",
-      "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Leave Me Breathless",
         "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 240080,
       "name": "Girl From The North Country",
       "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Ohio / After The Gold Rush",
+        "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 294142,
+      "name": "After The Gold Rush",
+      "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Pieces of the Sky (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "Bluebird Wine - 2003 Remaster",
+      "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Reason to Believe (feat. Courtney Barnett)",
         "url": "https://open.spotify.com/album/3XS1FYnvexIhkkkLEkaEMX"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 149445,
       "name": "Reason to Believe (feat. Courtney Barnett)",
       "url": "https://open.spotify.com/track/7aDf2PpDNfT5NbKEIZVKtW"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Pieces of the Sky (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "Bluebird Wine - 2003 Remaster",
-      "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "This Land Is Your Land",
-        "url": "https://open.spotify.com/album/6egKGbJYX9n7YJhUBDibh9"
+        "name": "Something",
+        "url": "https://open.spotify.com/album/4orDzkPsSJkrAilIccQasl"
       },
       "artists": [
         {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 220621,
-      "name": "This Land Is Your Land",
-      "url": "https://open.spotify.com/track/4UtOOzXrtDa7G4gecQptuf"
+      "duration_ms": 142153,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/1GVjmjhCqS0J050HkO18PA"
     }
   ],
   "unique_name": "Folksy Covers",

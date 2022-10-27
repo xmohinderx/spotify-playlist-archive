@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 236733,
       "name": "Have You Ever",
       "url": "https://open.spotify.com/track/2fIpea5Sh5celp8JRI7Z4U"
@@ -419,6 +419,24 @@
       "duration_ms": 234666,
       "name": "I Choose",
       "url": "https://open.spotify.com/track/19cjuo0y4w2my2GcybUunG"
+    },
+    {
+      "album": {
+        "name": "Ignition",
+        "url": "https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196373,
+      "name": "Kick Him When He's Down",
+      "url": "https://open.spotify.com/track/5r5pPZLoablansl2iYPohk"
     },
     {
       "album": {
@@ -581,7 +599,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 188666,
       "name": "Pretty Fly (For A White Guy)",
       "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 212173,
       "name": "Race Against Myself",
       "url": "https://open.spotify.com/track/1ZoTvDjwvmXDOQ3B2g5nDx"

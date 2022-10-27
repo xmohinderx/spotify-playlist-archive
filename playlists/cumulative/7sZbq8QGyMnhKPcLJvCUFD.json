@@ -368,6 +368,24 @@
     },
     {
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/0SprUbV3HTNOWG5guO0VSU"
+      },
+      "artists": [
+        {
+          "name": "God's Warrior",
+          "url": "https://open.spotify.com/artist/4OGggb4JhHb8BejoK3Y0zh"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/7xdLOiw41ACPrR6lKRhMgk"
+    },
+    {
+      "album": {
         "name": "Call On Me",
         "url": "https://open.spotify.com/album/1LfH2dTHBSEuUqfqjxFP5e"
       },
@@ -1393,6 +1411,24 @@
       "duration_ms": 160766,
       "name": "Need Ya",
       "url": "https://open.spotify.com/track/2S1JV3N08V5poRs2RbIMOp"
+    },
+    {
+      "album": {
+        "name": "Neomorph",
+        "url": "https://open.spotify.com/album/68jkhRlVn7skH09QaF5AzL"
+      },
+      "artists": [
+        {
+          "name": "NO QVLT",
+          "url": "https://open.spotify.com/artist/4KhqCc2m8ZmB3fraLwK4fg"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Neomorph",
+      "url": "https://open.spotify.com/track/6W6mHDZCAcdRdFFavmru6u"
     },
     {
       "album": {

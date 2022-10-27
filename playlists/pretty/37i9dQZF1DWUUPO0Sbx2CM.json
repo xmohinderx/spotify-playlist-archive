@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 107223,
+  "num_followers": 107318,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDg4NzJmODFiYzI4ZTM4ODU4ZDQ3MTBhYjk4ZTdiMDQx",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDI0YTBiYzIwYjJjMDFjYTFmZThlNTkwYjkwYTE1N2Zk",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Grace Got You",
-      "url": "https://open.spotify.com/track/4BhKsrfLowNbN7F3JVhI8i"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Give Up On Love",
         "url": "https://open.spotify.com/album/6z7orYrUDr1Lyl9IteS5PE"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 202790,
       "name": "Give Up On Love",
       "url": "https://open.spotify.com/track/6yKHDbeC3YP4u0dNPniIyg"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Grace Got You",
+      "url": "https://open.spotify.com/track/4BhKsrfLowNbN7F3JVhI8i"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Better View, Part I - EP",
-        "url": "https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 213373,
-      "name": "perfection",
-      "url": "https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Never Land II",
         "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 193809,
       "name": "Working On It",
       "url": "https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Better View, Part I - EP",
+        "url": "https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "perfection",
+      "url": "https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -803,6 +803,26 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "If You Only Knew!",
+        "url": "https://open.spotify.com/album/5pnN1A9ab2o78lXfuoYeYd"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "If You Only Knew!",
+      "url": "https://open.spotify.com/track/2iRRQUaxQ1OjbGwymK1Fwb"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "One More Day",
         "url": "https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar"
       },
@@ -835,26 +855,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "If You Only Knew!",
-        "url": "https://open.spotify.com/album/5pnN1A9ab2o78lXfuoYeYd"
-      },
-      "artists": [
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        },
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "If You Only Knew!",
-      "url": "https://open.spotify.com/track/2iRRQUaxQ1OjbGwymK1Fwb"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
       },
@@ -871,18 +871,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "WILD LOVE",
-        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
         }
       ],
-      "duration_ms": 167499,
-      "name": "WILD LOVE",
-      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
+      "duration_ms": 180469,
+      "name": "SLINGSHOT",
+      "url": "https://open.spotify.com/track/1Rk9TO61bMjJFhDD46TOe0"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -907,18 +907,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
+        "name": "WILD LOVE",
+        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
       },
       "artists": [
         {
-          "name": "GAWVI",
-          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 180469,
-      "name": "SLINGSHOT",
-      "url": "https://open.spotify.com/track/1Rk9TO61bMjJFhDD46TOe0"
+      "duration_ms": 167499,
+      "name": "WILD LOVE",
+      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Never Have I Ever",
-      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Stages",
         "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 188473,
       "name": "Stages",
       "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
-      },
-      "artists": [
-        {
-          "name": "Verses",
-          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
-        }
-      ],
-      "duration_ms": 192775,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "MOMENTUM",
         "url": "https://open.spotify.com/album/4esF2tcUU0yctPIEoeW8VJ"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 160874,
       "name": "BUENA ONDA",
       "url": "https://open.spotify.com/track/3HxiAQPqGjVSFLLtZSeHYW"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
+      },
+      "artists": [
+        {
+          "name": "Verses",
+          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
+        }
+      ],
+      "duration_ms": 192775,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 221368,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/1cscp6VyUW7xxk5miGbtN1"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Come Back Home",
         "url": "https://open.spotify.com/album/37KbHpLg12eExNN9OMUmcu"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 158198,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/7lseQ8V4zahQi2cUWvREEU"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 221368,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1cscp6VyUW7xxk5miGbtN1"
     },
     {
       "added_at": "2021-10-31 00:47:30",

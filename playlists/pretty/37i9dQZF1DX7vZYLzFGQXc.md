@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: Effie\(에피\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,051 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,092 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 18 | [Plop](https://open.spotify.com/track/6WDTIIGDwLCQuinI8mhino) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Plop](https://open.spotify.com/album/0VSc7ag5Du2ixzHI5OYJic) | 2:49 |
 | 19 | [Nightfall](https://open.spotify.com/track/6y0m2ZqxryJvRtjSlW2Uw0) | [SKIPJACK](https://open.spotify.com/artist/3eqel93sPqKCJfZsgi1uHp) | [Nightfall](https://open.spotify.com/album/4XKHSscld4s0dTFovtcb0l) | 4:12 |
 | 20 | [WINDFALL](https://open.spotify.com/track/4vDQif49Q72QYDvv6wY3Jm) | [Batu](https://open.spotify.com/artist/46KDmhUlDVGGuku0s3n06t) | [EMOTION AND HARMONY](https://open.spotify.com/album/03ikfIg0GxnNMlFl6wlKLi) | 4:43 |
-| 21 | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR) | [Jisokury](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2) | 4:15 |
+| 21 | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/track/5oKr4zxLZxe4rNj2SrzWYR) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [생각없는생각에털썩머무르자 Mindless mind](https://open.spotify.com/album/7lGC2tpIRttYuRWGazMQP2) | 4:15 |
 | 22 | [Evening Glow](https://open.spotify.com/track/1Yuua9AnSRDl0taHxpVNzM) | [Dayangsung](https://open.spotify.com/artist/3nVkLQWe6gkgmqia9kl89z) | [A World Full Of Paper Planes & Balloons](https://open.spotify.com/album/5QlrdfNsruHMELFrb9xEDd) | 3:41 |
 | 23 | [Continent of Mu](https://open.spotify.com/track/4v2IhNJLpJ3DPVbTZoEO77) | [Oah!](https://open.spotify.com/artist/5SH8ZbsJIqONusEcizNep3) | [PANORAMA](https://open.spotify.com/album/1kVaKFcXxNM6LPkJlDVGCE) | 3:26 |
 | 24 | [Beautiful days](https://open.spotify.com/track/20aQQG44sUAjvVIhwAn5ES) | [밴드기린](https://open.spotify.com/artist/1eIXaK6EOhmMncTZ2L1SWG) | [Beautiful days](https://open.spotify.com/album/38b0Ivf0z7RQcT01oiuFqd) | 3:40 |

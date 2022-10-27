@@ -3164,6 +3164,24 @@
     },
     {
       "album": {
+        "name": "Soca Fofo",
+        "url": "https://open.spotify.com/album/5zQocLAf5L3TjSXaEHwztg"
+      },
+      "artists": [
+        {
+          "name": "A Dama",
+          "url": "https://open.spotify.com/artist/6r2Jxpiepf5Yc7SdvK4w0K"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "Soca Fofo",
+      "url": "https://open.spotify.com/track/2Dr1TBlRFIXJUPEgQVh5Zq"
+    },
+    {
+      "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
@@ -3415,7 +3433,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 112941,
       "name": "S\u00f3ca Fofo",
       "url": "https://open.spotify.com/track/0zRsByaebl5MgRe51RP6uE"

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 34890,
+  "num_followers": 34942,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU1Nzk4NiwwMDAwMDAwMGUzY2MyNzNiZjNlYWYyYjJiNGQwODBlNTgwMWMzMDc3",
+  "snapshot_id": "MTY2MjU1Nzk4NiwwMDAwMDAwMGQ4ZTA5ZjFlOGNlMzVmNTAwMTgxNmNkM2Q0NGRiNmZi",
   "tracks": [
     {
       "added_at": "2022-09-07 13:39:46",
@@ -815,26 +815,6 @@
     {
       "added_at": "2022-09-07 13:39:46",
       "album": {
-        "name": "Leave like this",
-        "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
-      },
-      "artists": [
-        {
-          "name": "Seokman Cheon",
-          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
-        },
-        {
-          "name": "INYU",
-          "url": "https://open.spotify.com/artist/3DGTTI7kUEwQUoBOykiS0t"
-        }
-      ],
-      "duration_ms": 205002,
-      "name": "Leave like this",
-      "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
-    },
-    {
-      "added_at": "2022-09-07 13:39:46",
-      "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 171204,
       "name": "Let's Go (feat. DA:ON, Gunjae & H!)",
       "url": "https://open.spotify.com/track/6mtNKbzf60GX22QiHfX4cE"
+    },
+    {
+      "added_at": "2022-09-07 13:39:46",
+      "album": {
+        "name": "Leave like this",
+        "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
+      },
+      "artists": [
+        {
+          "name": "Seokman Cheon",
+          "url": "https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0"
+        },
+        {
+          "name": "INYU",
+          "url": "https://open.spotify.com/artist/3DGTTI7kUEwQUoBOykiS0t"
+        }
+      ],
+      "duration_ms": 205002,
+      "name": "Leave like this",
+      "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
     },
     {
       "added_at": "2022-09-07 13:39:46",

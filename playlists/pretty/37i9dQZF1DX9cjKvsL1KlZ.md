@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,352 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,429 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 47 | [Walk Em](https://open.spotify.com/track/4PRtRKkYJhWBWOPnxX6Lcq) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [FLYEST OOTA](https://open.spotify.com/album/39kwAzCvXewcbqclbXHE9X) | 2:01 |
 | 48 | [I Can't Lack](https://open.spotify.com/track/5j6BUHDeL8xvlGrREK5uoe) | [Set Da Trend](https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB) | [I Can't Lack](https://open.spotify.com/album/08QWzIlOLGjSWraQItdwHz) | 1:49 |
 | 49 | [Misconceptions](https://open.spotify.com/track/4pUQktt2ispCFMBtIvqPol) | [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Misconceptions](https://open.spotify.com/album/6cdDbqEhuDFmWdWEHGic2y) | 1:39 |
-| 50 | [40s N 9s](https://open.spotify.com/track/6c74xJ6LgdJDnv8bYOElUP) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [SugarHill Ddot](https://open.spotify.com/artist/2mET8bpTc6j2lm5YjVUeFq) | [40s N 9s](https://open.spotify.com/album/3xaTN7UyEJIVnnjdclui5E) | 2:25 |
+| 50 | [40s N 9s](https://open.spotify.com/track/6tApynt36Q9U9Tl7ulJyL2) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [40s N 9s](https://open.spotify.com/album/5vGhbSeR8O9f0i0zOiZd6j) | 2:25 |
 
-Snapshot ID: `MTY2NjMzMzA2MiwwMDAwMDAwMDViMWI2ZTQ4OWIzYzUwNWY5Y2E2MjFmODc4YTQ2YzA1`
+Snapshot ID: `MTY2NjMzMzA2MiwwMDAwMDAwMDkwODZiMWIyNDg4ZGFhZjYxZDA4Yzc3ZGYyMDljNDA4`

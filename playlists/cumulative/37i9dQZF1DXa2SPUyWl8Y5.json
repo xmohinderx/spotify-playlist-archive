@@ -1944,6 +1944,24 @@
     },
     {
       "album": {
+        "name": "We're Back Chilling",
+        "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
+      },
+      "artists": [
+        {
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267096,
+      "name": "Finding Atlantis",
+      "url": "https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G"
+    },
+    {
+      "album": {
         "name": "Finja",
         "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
       },
@@ -5257,7 +5275,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 242926,
       "name": "Supercycle",
       "url": "https://open.spotify.com/track/2NlMxXyjJimm3OSjQDwKOX"

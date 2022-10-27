@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? Cover: \bUP10TION(\uc5c5\ud150\uc158) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? Cover: ATBO [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "published_playlist_ids": [
     "1rQmqTB8OYYXGSYSv738KR"
@@ -390,6 +390,24 @@
     },
     {
       "album": {
+        "name": "BEFORE SUNRISE Part. 4",
+        "url": "https://open.spotify.com/album/21QlwJM8El7dXWi16woW0G"
+      },
+      "artists": [
+        {
+          "name": "TFN",
+          "url": "https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202571,
+      "name": "AMAZON",
+      "url": "https://open.spotify.com/track/52duVlQdX7yyZ98WygiPrH"
+    },
+    {
+      "album": {
         "name": "TREASURE EPILOGUE : Action To Answer",
         "url": "https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE"
       },
@@ -495,6 +513,24 @@
       "duration_ms": 178213,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/0BBUGRUURDjwcXmDS3kQkN"
+    },
+    {
+      "album": {
+        "name": "The Beginning : \u59cb\u4f5c",
+        "url": "https://open.spotify.com/album/2rk5luKry7s1kCsklJmxKL"
+      },
+      "artists": [
+        {
+          "name": "ATBO",
+          "url": "https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196373,
+      "name": "ATTITUDE",
+      "url": "https://open.spotify.com/track/4G3kw5Y7pbwK9aE8mjfivE"
     },
     {
       "album": {
@@ -3152,6 +3188,24 @@
     },
     {
       "album": {
+        "name": "EPEX 4th EP Album Prelude of Love Chapter 1. \u2018Puppy Love\u2019",
+        "url": "https://open.spotify.com/album/2JZJ0Eo9Zi2hqFS3ddBumM"
+      },
+      "artists": [
+        {
+          "name": "EPEX",
+          "url": "https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194186,
+      "name": "Hymn to Love",
+      "url": "https://open.spotify.com/track/3HsBjL08LXLjzTAjlJNVLA"
+    },
+    {
+      "album": {
         "name": "Gatcha!",
         "url": "https://open.spotify.com/album/2LQ1gERkYGpu5pGpUoLNjr"
       },
@@ -4991,7 +5045,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 184533,
       "name": "PARTY ROCK",
       "url": "https://open.spotify.com/track/5n81hoM1QMLib476FVMp2Y"
@@ -6017,7 +6071,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 169080,
       "name": "Sugarcoat",
       "url": "https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy"
@@ -6701,7 +6755,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 190360,
       "name": "What If Love",
       "url": "https://open.spotify.com/track/5M2fQ0KSLYRwrpIm4SxDl8"

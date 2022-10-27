@@ -4042,6 +4042,24 @@
     },
     {
       "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/2Z3uMCXliH7RDx4ab2oMlz"
+      },
+      "artists": [
+        {
+          "name": "8RO8",
+          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147555,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/4NTVnhW1sP7N6GmnYPzK18"
+    },
+    {
+      "album": {
         "name": "Nightmares In NYC",
         "url": "https://open.spotify.com/album/5aOwEJun2fyoIIFpftCmph"
       },

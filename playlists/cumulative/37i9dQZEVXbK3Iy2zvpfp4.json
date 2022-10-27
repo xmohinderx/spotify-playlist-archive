@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 117434,
       "name": "Crazy Phonk - Remix",
       "url": "https://open.spotify.com/track/2REq597W1UwW66BWqMRfJY"
@@ -3121,7 +3121,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 197333,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
@@ -4573,7 +4573,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 155100,
       "name": "Mlad\u00fd",
       "url": "https://open.spotify.com/track/3o6QbvMtAJkcuKx3XXvBDU"
@@ -4795,6 +4795,24 @@
       "duration_ms": 115200,
       "name": "Murder In My Mind - Sped Up",
       "url": "https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx"
+    },
+    {
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/18zxs5BJDd4q59cxUnXs2H"
+      },
+      "artists": [
+        {
+          "name": "Still",
+          "url": "https://open.spotify.com/artist/4dJxXNwpOnZxDCuZN4MFqo"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71122,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5CqGUEYDnCrUxqqk5siUpX"
     },
     {
       "album": {

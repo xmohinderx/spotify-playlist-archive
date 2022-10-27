@@ -4,7 +4,7 @@
 
 > sabe aquela música que cê ouve pelas redes mas não sabe o nome? pois então
 
-187 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/3aGLOKPh8MlI1eHVaaRScY)
+188 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/3aGLOKPh8MlI1eHVaaRScY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [So High](https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [So High](https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT) | 3:21 | 2022-05-25 | 2022-07-29 |
 | [Soap](https://open.spotify.com/track/03f7xZmt2wHCIDJBFPK8G4) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:29 | 2022-07-28 | 2022-09-22 |
 | [Soap](https://open.spotify.com/track/72tjRfShNhVuqUKKw44O0F) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Soap](https://open.spotify.com/album/7iUnzXQIdikXQiNpQyv7Ig) | 3:29 | 2022-05-25 | 2022-07-29 |
+| [Soca Fofo](https://open.spotify.com/track/2Dr1TBlRFIXJUPEgQVh5Zq) | [A Dama](https://open.spotify.com/artist/6r2Jxpiepf5Yc7SdvK4w0K) | [Soca Fofo](https://open.spotify.com/album/5zQocLAf5L3TjSXaEHwztg) | 1:52 | 2022-10-24 |  |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-05-25 | 2022-09-22 |
 | [Somebody's Watching Me](https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody's Watching Me](https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw) | 4:58 | 2022-05-25 | 2022-07-16 |
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-07-28 | 2022-08-18 |
@@ -170,7 +171,7 @@
 | [Swing Lynn](https://open.spotify.com/track/6hIOunhsLUT66KQgZV5dMD) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [I'm Sure](https://open.spotify.com/album/79zUXfErg2kVJQxQ7ypEZ8) | 5:21 | 2022-05-25 | 2022-07-29 |
 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 | 2022-07-25 |  |
 | [Só Rock 2](https://open.spotify.com/track/3r9ljWQNQMV0xLY5v44Hwp) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Young Ganni](https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 3:59 | 2022-05-25 | 2022-07-21 |
-| [Sóca Fofo](https://open.spotify.com/track/0zRsByaebl5MgRe51RP6uE) | [A Dama](https://open.spotify.com/artist/6r2Jxpiepf5Yc7SdvK4w0K) | [Sóca Fofo](https://open.spotify.com/album/1fFWCmbCHx0tNkdpTaEhV1) | 1:52 | 2022-10-10 |  |
+| [Sóca Fofo](https://open.spotify.com/track/0zRsByaebl5MgRe51RP6uE) | [A Dama](https://open.spotify.com/artist/6r2Jxpiepf5Yc7SdvK4w0K) | [Sóca Fofo](https://open.spotify.com/album/1fFWCmbCHx0tNkdpTaEhV1) | 1:52 | 2022-10-10 | 2022-10-27 |
 | [Take My Breath Away](https://open.spotify.com/track/3T9K3rHpNZrcXAnlMBIakW) | [EZI](https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC) | [in between everything](https://open.spotify.com/album/1ssO74VtSjbPQlf6sA0oNF) | 2:38 | 2022-10-05 |  |
 | [Tapinha](https://open.spotify.com/track/51kGHvWwCdwbHWAVXnwPSC) | [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Tapinha](https://open.spotify.com/album/153Ri9zQdq540R7a2uYQ4q) | 2:26 | 2022-08-11 |  |
 | [Te Love \- Ao Vivo](https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Te Love \(Ao Vivo\)](https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX) | 2:49 | 2022-09-08 |  |

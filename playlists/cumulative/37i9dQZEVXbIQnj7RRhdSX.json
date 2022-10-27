@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -13195,7 +13195,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 181661,
       "name": "Non Abbiamo Et\u00e0",
       "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
@@ -16483,10 +16483,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 195555,
       "name": "Shakerando",
       "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
+    },
+    {
+      "album": {
+        "name": "Sharm El Sheikh",
+        "url": "https://open.spotify.com/album/2nS6UzfcpGjaukHeQOiofW"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125652,
+      "name": "Sharm El Sheikh",
+      "url": "https://open.spotify.com/track/1mmYcbjgplZto84xmMFJA3"
     },
     {
       "album": {
@@ -19455,10 +19473,32 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 182338,
       "name": "VIOLA \u2013 with Salmo",
       "url": "https://open.spotify.com/track/6UMOpKOam549hPEhpLtS9L"
+    },
+    {
+      "album": {
+        "name": "DISUMANO",
+        "url": "https://open.spotify.com/album/6V0eR7z7L18DaMqE3162mD"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182338,
+      "name": "VIOLA \u2013 with Salmo",
+      "url": "https://open.spotify.com/track/777HuEF4geB6YjiSclPB32"
     },
     {
       "album": {

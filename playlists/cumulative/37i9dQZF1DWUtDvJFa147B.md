@@ -4,7 +4,7 @@
 
 > The official playlist of JTBC Begin Again, which contains the busking live soundtracks of the best musicians in Korea\. \(국내 최정상 뮤지션들의 버스킹 라이브 음원들이 담긴 JTBC 비긴어게인의 공식 플레이리스트입니다.\)
 
-221 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/58WldI3Tf0pggEKgykjjQQ)
+222 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/58WldI3Tf0pggEKgykjjQQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,8 +92,9 @@
 | [idontwannabeyouanymore](https://open.spotify.com/track/6d96MTMZcL03crteO2p3Tx) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Begin Again Open Mic Episode.12](https://open.spotify.com/album/5jAVwXMXOdL9kU5NKBnB8J) | 3:25 | 2022-05-11 |  |
 | [idontwannabeyouanymore](https://open.spotify.com/track/7CGavzZt9IbPA89xdY7B1n) | [Soyou](https://open.spotify.com/artist/7Eu1Td5FeUk2mNfcpCOfch) | [idontwannabeyouanymore](https://open.spotify.com/album/77pctl0ZYGmSN5QkY10JVX) | 3:25 | 2022-05-11 | 2022-10-08 |
 | [Imagine](https://open.spotify.com/track/4HZ6YCDuFapuudcmp1IScD) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Begin Again Open MIC EPISODE\. 19](https://open.spotify.com/album/6VMr6eyRSbYR9C2hcg8fnB) | 3:18 | 2022-05-11 | 2022-07-29 |
-| [Imagine](https://open.spotify.com/track/6Zp6FBGVX8ImV87avj0CNx) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Imagine](https://open.spotify.com/album/3NaDUkOgBqIjZiRsVRRBbP) | 3:18 | 2022-05-11 |  |
+| [Imagine](https://open.spotify.com/track/6Zp6FBGVX8ImV87avj0CNx) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Imagine](https://open.spotify.com/album/3NaDUkOgBqIjZiRsVRRBbP) | 3:18 | 2022-05-11 | 2022-10-27 |
 | [Imagine](https://open.spotify.com/track/2mMHK2SKzZfuiortMxkyhe) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Begin Again Open Mic Episode.7](https://open.spotify.com/album/0N69CWf8jOk19aH16ciFTN) | 3:47 | 2022-05-11 |  |
+| [Imagine](https://open.spotify.com/track/2HtEpIeH7UlvHULbuo3I5M) | [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv), [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Begin Again Open Mic Episode.19](https://open.spotify.com/album/1jTBZ8SWpQ5S3ziV2iXyXV) | 3:18 | 2022-05-11 |  |
 | [Imagine \- Manchester Busking ver](https://open.spotify.com/track/1O3boY1QMeYR5EEcT8DJHd) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [You Hee Yeol](https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Begin Again\-Episode8](https://open.spotify.com/album/5Yl1eOTjtEKht90y8axctm) | 3:43 | 2022-05-11 |  |
 | [Imagine \- 맨체스터 버스킹 Ver.](https://open.spotify.com/track/12cJk7oxB93ROH3Ef34Z6Z) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC), [You Hee Yeol](https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Begin Again\-Episode8](https://open.spotify.com/album/747Keu3SPtrLGBzmrGldo4) | 3:43 | 2022-05-11 | 2022-07-29 |
 | [In Front Of The Autumn Post Office \- 샤모니 버스킹 Ver.](https://open.spotify.com/track/7f9q1NvND0emgaCVmTCAdw) | [You Hee Yeol](https://open.spotify.com/artist/74lyHu0f9jhFumU0aEu5mi), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Begin Again\-Episode12](https://open.spotify.com/album/6Zp2c4CjqsTpvupqR1mRyI) | 4:44 | 2022-05-11 | 2022-07-29 |

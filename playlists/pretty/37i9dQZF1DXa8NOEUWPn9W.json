@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:house\">House</a> music lives here. United in one house. Cover: Mau P",
-  "num_followers": 1700839,
+  "num_followers": 1701342,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDQ5MDc2OTQyNjIyOGU1ZGRmYzliMDI2YTQ3OGMzZDg2",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGJhM2JhMTkzMzlmNmZiYzY5MzdkOGNjMzhiOTdkZTMy",
   "tracks": [
     {
       "added_at": "2022-08-23 16:47:20",
@@ -505,26 +505,6 @@
       "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
     },
     {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Morenita",
-        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 176491,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
-    },
-    {
       "added_at": "2022-10-11 14:25:54",
       "album": {
         "name": "Believe (feat. Goodboys)",
@@ -543,6 +523,26 @@
       "duration_ms": 188709,
       "name": "Believe (feat. Goodboys)",
       "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Morenita",
+        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 176491,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Don\u2019t Keep Me Waiting",
-        "url": "https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 209687,
-      "name": "Don\u2019t Keep Me Waiting",
-      "url": "https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
         "name": "Back Tomorrow",
         "url": "https://open.spotify.com/album/1UOQt2dEoHhoJTinUxvFaI"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 118871,
       "name": "Back Tomorrow",
       "url": "https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Don\u2019t Keep Me Waiting",
+        "url": "https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 209687,
+      "name": "Don\u2019t Keep Me Waiting",
+      "url": "https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1431,30 +1431,6 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "You & I (Emily Nash Remix)",
-        "url": "https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        },
-        {
-          "name": "HARLEE",
-          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
-        },
-        {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "You & I - Emily Nash Remix",
-      "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
         "name": "Tripasia",
         "url": "https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS"
       },
@@ -1491,6 +1467,30 @@
       "duration_ms": 145984,
       "name": "The Music Began To Play",
       "url": "https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "You & I (Emily Nash Remix)",
+        "url": "https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        },
+        {
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
+        },
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "You & I - Emily Nash Remix",
+      "url": "https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1533,22 +1533,6 @@
       "url": "https://open.spotify.com/track/59ujQJCSRNgLtKQ1ly3b7c"
     },
     {
-      "added_at": "2022-06-21 14:42:08",
-      "album": {
-        "name": "La Murga (Michael's Midnight Mix)",
-        "url": "https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 206971,
-      "name": "La Murga - Michael's Midnight Mix",
-      "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
-    },
-    {
       "added_at": "2022-08-23 16:47:20",
       "album": {
         "name": "Poison",
@@ -1565,24 +1549,36 @@
       "url": "https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe"
     },
     {
-      "added_at": "2022-05-27 11:57:28",
+      "added_at": "2022-06-21 14:42:08",
       "album": {
-        "name": "For The Same Man (Nic Fanciulli Remix)",
-        "url": "https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4"
+        "name": "La Murga (Michael's Midnight Mix)",
+        "url": "https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M"
       },
       "artists": [
         {
-          "name": "B Beat Girls",
-          "url": "https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a"
-        },
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
         }
       ],
-      "duration_ms": 214036,
-      "name": "For The Same Man - Nic Fanciulli Remix",
-      "url": "https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO"
+      "duration_ms": 206971,
+      "name": "La Murga - Michael's Midnight Mix",
+      "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Love You Like That",
+        "url": "https://open.spotify.com/album/47Nuvze924yiqkfwcXkcTT"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Love You Like That",
+      "url": "https://open.spotify.com/track/6QNOYe6I5Dt7oHtcIkmYZ5"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1619,18 +1615,22 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Love You Like That",
-        "url": "https://open.spotify.com/album/47Nuvze924yiqkfwcXkcTT"
+        "name": "For The Same Man (Nic Fanciulli Remix)",
+        "url": "https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "B Beat Girls",
+          "url": "https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Love You Like That",
-      "url": "https://open.spotify.com/track/6QNOYe6I5Dt7oHtcIkmYZ5"
+      "duration_ms": 214036,
+      "name": "For The Same Man - Nic Fanciulli Remix",
+      "url": "https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/3xxhyf3KiklWpiPbtiUizi"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/5UkoWcFsdWn8NtSAh73Vli"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
       },
@@ -1763,6 +1747,22 @@
     {
       "added_at": "2022-05-27 11:57:28",
       "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/3xxhyf3KiklWpiPbtiUizi"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/5UkoWcFsdWn8NtSAh73Vli"
+    },
+    {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg"
       },
@@ -1775,30 +1775,6 @@
       "duration_ms": 190512,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq"
-    },
-    {
-      "added_at": "2022-05-27 11:57:28",
-      "album": {
-        "name": "Rizzla",
-        "url": "https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM"
-      },
-      "artists": [
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        },
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 217749,
-      "name": "Rizzla",
-      "url": "https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1837,6 +1813,30 @@
       "url": "https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs"
     },
     {
+      "added_at": "2022-05-27 11:57:28",
+      "album": {
+        "name": "Rizzla",
+        "url": "https://open.spotify.com/album/0gWPTkI4xuHRPDbbHHjfqM"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 217749,
+      "name": "Rizzla",
+      "url": "https://open.spotify.com/track/3mJyZXpI7SKiOA4l0pSm0v"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Strut",
@@ -1851,22 +1851,6 @@
       "duration_ms": 160664,
       "name": "Strut",
       "url": "https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Shake My Booty",
-        "url": "https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi"
-      },
-      "artists": [
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        }
-      ],
-      "duration_ms": 202943,
-      "name": "Shake My Booty",
-      "url": "https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve"
     },
     {
       "added_at": "2022-05-27 11:57:28",
@@ -1887,6 +1871,22 @@
       "duration_ms": 238264,
       "name": "Carry Us",
       "url": "https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Shake My Booty",
+        "url": "https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "duration_ms": 202943,
+      "name": "Shake My Booty",
+      "url": "https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve"
     }
   ],
   "unique_name": "Housewerk",

@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve! Foto: Vitor Kley
+> Novidades e hits do pop nacional pra te deixar mais leve! Foto: Ludmilla
 
-172 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
+174 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Leve](https://open.spotify.com/track/6lpvsomA1rOjC9Nf1Na4sz) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [Leve](https://open.spotify.com/album/55a1xNRpaWDSLBJpcOSvzQ) | 3:04 | 2022-08-05 | 2022-10-01 |
 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 | 2022-08-01 |  |
 | [Maior Que Nós](https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Maior Que Nós](https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51) | 2:52 | 2022-05-13 |  |
+| [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 | 2022-10-26 |  |
 | [Me Beija](https://open.spotify.com/track/4s5FI0NH6yiJ85tatkCJ8h) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Me Beija](https://open.spotify.com/album/6jT8SLaJHeOgSReiWWNLQI) | 3:10 | 2022-08-01 |  |
 | [Me Diz](https://open.spotify.com/track/19CpE9SJKY9PRqbvotkT21) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68) | [Me Diz](https://open.spotify.com/album/5c5YT2WVKy13v8uoDl3EgV) | 2:37 | 2022-05-13 | 2022-08-02 |
 | [me diz \(onde que isso vai dar\) \- remix](https://open.spotify.com/track/1TmIANDx58ikRR4m4y4xaV) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68), [Leandro Buenno](https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B) | [me diz \(onde que isso vai dar\)](https://open.spotify.com/album/0uqM63Os3PzmyNceXp3nFX) | 2:37 | 2022-09-23 |  |
@@ -122,6 +123,7 @@
 | [Não Vou Mais Ceder](https://open.spotify.com/track/4iV9n0PFuhKaFYHv0FHUoM) | [GHABI](https://open.spotify.com/artist/1yzhaT2wIvdMuJdrd2iRPM) | [Não Vou Mais Ceder](https://open.spotify.com/album/1EYEen74TH7ONTnfLKYBaf) | 3:00 | 2022-10-14 |  |
 | [Nós Dois](https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Nós Dois](https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR) | 2:56 | 2022-05-13 |  |
 | [o mesmo dia](https://open.spotify.com/track/0zCv49QKlB6qzqSpc3FA7F) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [o mesmo dia](https://open.spotify.com/album/6rNYmmx6Jd5McewaZiyKjN) | 4:07 | 2022-09-02 | 2022-09-24 |
+| [O Pássaro e o Diamante](https://open.spotify.com/track/6HTH0CTtSz0qzAmXKMFYIZ) | [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [O Pássaro e o Diamante](https://open.spotify.com/album/6k8CfbckxXsinhYMDIhOks) | 2:29 | 2022-10-26 |  |
 | [O quanto eu gosto de você\. \(feat\. Clarissa\)](https://open.spotify.com/track/6Rt0yn8luPG73Yp7yiESyc) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [O quanto eu gosto de você\. \(feat\. Clarissa\)](https://open.spotify.com/album/12PaS2qZIHeuwWbL6owjQl) | 2:45 | 2022-05-13 | 2022-06-04 |
 | [O Velho e a Flor](https://open.spotify.com/track/2oKVyl56KtxaO05okhItx5) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [O Velho e a Flor](https://open.spotify.com/album/0UTyRrnBF6udLySAWfLBDL) | 2:41 | 2022-09-30 |  |
 | [Oceana](https://open.spotify.com/track/41F3OUGWKcsdIn1ujcx5hN) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Oceana](https://open.spotify.com/album/0Keuh6VaVM7GNPET0kkSnN) | 2:28 | 2022-05-13 |  |

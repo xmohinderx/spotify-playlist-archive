@@ -1,12 +1,12 @@
 {
   "description": "el amor es pico tres <3 ",
-  "num_followers": 40483,
+  "num_followers": 40579,
   "original_name": "amor = <3 ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc4NzQ3MSwwMDAwMDAwMDllY2EzOWE5YzZiODI4NWY5MTg4YjY0NGQyNzJkYTU5",
+  "snapshot_id": "MTY2NTc4NzQ3MSwwMDAwMDAwMGJjNzJhNGViOTg4NTBjNGUyMzFiOWUxMTljZmEyNTE4",
   "tracks": [
     {
       "added_at": "2022-10-14 22:44:31",
@@ -723,7 +723,7 @@
     {
       "added_at": "2022-10-14 22:44:31",
       "album": {
-        "name": "Charles Ans x Neto Pe\u00f1a x Yoss Bones - LQRA Session #5",
+        "name": "LQRA Session #5",
         "url": "https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a"
       },
       "artists": [
@@ -745,7 +745,7 @@
         }
       ],
       "duration_ms": 308000,
-      "name": "Charles Ans x Neto Pe\u00f1a x Yoss Bones - LQRA Session #5",
+      "name": "LQRA Session #5",
       "url": "https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI"
     },
     {
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2022-10-14 22:44:31",
       "album": {
+        "name": "Todo Va a Estar Bien",
+        "url": "https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 267796,
+      "name": "Todo Va Estar Bien",
+      "url": "https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE"
+    },
+    {
+      "added_at": "2022-10-14 22:44:31",
+      "album": {
         "name": "Lo S\u00e9",
         "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 193413,
       "name": "Somos Instantes",
       "url": "https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb"
-    },
-    {
-      "added_at": "2022-10-14 22:44:31",
-      "album": {
-        "name": "Todo Va a Estar Bien",
-        "url": "https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 267796,
-      "name": "Todo Va Estar Bien",
-      "url": "https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE"
     },
     {
       "added_at": "2022-10-14 22:44:31",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-10-14 22:44:31",
       "album": {
-        "name": "Perfecta En Mis Ojos",
-        "url": "https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp"
-      },
-      "artists": [
-        {
-          "name": "Angel Perez",
-          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
-        }
-      ],
-      "duration_ms": 165745,
-      "name": "Perfecta En Mis Ojos",
-      "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
-    },
-    {
-      "added_at": "2022-10-14 22:44:31",
-      "album": {
         "name": "856 para el Mundo",
         "url": "https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 281106,
       "name": "Amor",
       "url": "https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS"
+    },
+    {
+      "added_at": "2022-10-14 22:44:31",
+      "album": {
+        "name": "Perfecta En Mis Ojos",
+        "url": "https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp"
+      },
+      "artists": [
+        {
+          "name": "Angel Perez",
+          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
+        }
+      ],
+      "duration_ms": 165745,
+      "name": "Perfecta En Mis Ojos",
+      "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
     },
     {
       "added_at": "2022-10-14 22:44:31",

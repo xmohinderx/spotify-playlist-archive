@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-842 songs - 19 hr 48 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
+844 songs - 19 hr 50 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Glowing Horizon](https://open.spotify.com/track/3Uaga0agcWdJ9qoFXh13CM) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Calming Moments](https://open.spotify.com/album/4yz3qOY8SkpbzyUarrx00Z) | 1:01 | 2022-05-15 |  |
 | [Going Home](https://open.spotify.com/track/2Hus16RfZ3pJNoM2IsP7Aw) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Homeward Bound](https://open.spotify.com/album/2hNoqAr3GbLHwASZS5mmTU) | 1:01 | 2022-04-16 |  |
 | [Goodness](https://open.spotify.com/track/2UOpRmjNLkg9LmRydkIckC) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Goodness](https://open.spotify.com/album/3FPdizOPFtG7h2zmIO6rFz) | 3:00 | 2022-02-17 |  |
+| [Goodnight My Dear](https://open.spotify.com/track/5aX3bLFHhfINcAGHkIFdmf) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Piano Sleep Music](https://open.spotify.com/album/6AyyuaLstiPUOMvGOfpvjy) | 0:55 | 2022-10-26 |  |
 | [Grace](https://open.spotify.com/track/6bo5pPlUvW9L2oRZGnFhD7) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Cello Dreams](https://open.spotify.com/album/3HDyEyTIt0YuxfXZWMzbuH) | 1:21 | 2022-01-12 |  |
 | [Grace And Love](https://open.spotify.com/track/73vlR62kP2Fj8ZaFfoikNZ) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Grace And Love](https://open.spotify.com/album/0RthfvS77mL4IQRyRxJ6J7) | 1:02 | 2022-07-13 |  |
 | [Graceful Lift](https://open.spotify.com/track/3gsxlodexjDM8vvT89msbS) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soulful Treasures](https://open.spotify.com/album/59cxCCKChUXYJIIDUdxafC) | 1:04 | 2022-03-08 |  |
@@ -518,6 +519,7 @@
 | [Only Now We Know](https://open.spotify.com/track/7zXNK7kkEbuNumDeAHJuTe) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Hillside Songs](https://open.spotify.com/album/32e44ep6VLvMxxIEawIlGc) | 1:03 | 2022-02-11 |  |
 | [Openings](https://open.spotify.com/track/1PXZMlOmucm8ECTfjES30h) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Timeless](https://open.spotify.com/album/3Q1zoGkmvuAfIwBL08Fd4w) | 1:15 | 2022-01-12 |  |
 | [Orlando's Bloom](https://open.spotify.com/track/2tf0u3pAmrKiJdjiDAtiDm) | [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Orlando's Bloom](https://open.spotify.com/album/2j28BID7Ma6pZo5Wpjg5qw) | 2:25 | 2022-01-12 |  |
+| [Our Hope](https://open.spotify.com/track/5WRURK4pSM0zW2KAYRVpnd) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Piano Sleep Music](https://open.spotify.com/album/6AyyuaLstiPUOMvGOfpvjy) | 1:03 | 2022-10-26 |  |
 | [Our Time](https://open.spotify.com/track/1Hl9OB0Gafyd2cKMZcARfx) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios](https://open.spotify.com/album/3W0i0ISKNweZGXfbsCwJRH) | 1:20 | 2022-03-14 |  |
 | [Our Years](https://open.spotify.com/track/29p3TUzToo2wSOcEjHsHxu) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Ambient Harp](https://open.spotify.com/album/5Fr7wNbfLCDor0R70n0CUD) | 1:04 | 2022-03-03 |  |
 | [Outlander Theme \(Skye Boat Song\)](https://open.spotify.com/track/5TKfDj8gFLeOEvcxyIC03T) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO), [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Outlander Theme \(Skye Boat Song\)](https://open.spotify.com/album/14RxInhfFNtK17T8n4c1uR) | 1:59 | 2022-01-12 |  |

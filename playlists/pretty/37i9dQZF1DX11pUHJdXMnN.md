@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,101 likes - 45 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,129 likes - 45 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 16 | [80s In My Blood](https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE) | [VIGI](https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o) | [Rhodes Island](https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc) | 4:34 |
 | 17 | [First Sight](https://open.spotify.com/track/1T8DhSO31RKXplrFySKAAy) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [First Sight](https://open.spotify.com/album/0KODhsUPoNi0IBrMxobYr1) | 2:32 |
 | 18 | [Curb Dog '88](https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX) | [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Enter Castillo](https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE) | 5:16 |
-| 19 | [Giving Up On \- Alan Dixon Remix](https://open.spotify.com/track/54SGVJ4xSCRha8ViDwy7MU) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Giving Up On \(Alan Dixon Remix\)](https://open.spotify.com/album/1DBWInKdDJNULdOigOID9t) | 7:32 |
-| 20 | [The Rollercoaster](https://open.spotify.com/track/6h5pPzgM2z1WcqNbxyki9v) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [The Rollercoaster](https://open.spotify.com/album/54KyCRQfilqmeDuCygaZXF) | 3:39 |
+| 19 | [The Rollercoaster](https://open.spotify.com/track/6h5pPzgM2z1WcqNbxyki9v) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [The Rollercoaster](https://open.spotify.com/album/54KyCRQfilqmeDuCygaZXF) | 3:39 |
+| 20 | [Giving Up On \- Alan Dixon Remix](https://open.spotify.com/track/54SGVJ4xSCRha8ViDwy7MU) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Giving Up On \(Alan Dixon Remix\)](https://open.spotify.com/album/1DBWInKdDJNULdOigOID9t) | 7:32 |
 | 21 | [Lemonade \- The Magician Italo '85' remix](https://open.spotify.com/track/6jE1Qo5DBq6ij0eg36top0) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lemonade \(The Magician Italo '85' Remix\)](https://open.spotify.com/album/5KYMm8CqIacDxfisj3A16B) | 3:15 |
 | 22 | [Blue Tuesday](https://open.spotify.com/track/2tFz3AlZ1GUacsccZgo2Mt) | [Delphi](https://open.spotify.com/artist/0FxxlEAfGqWZySxlKiEjCe) | [Unleashed Tapes Vol\. 1](https://open.spotify.com/album/5RvIMDFgtLTIGSgGewq4gG) | 6:25 |
 | 23 | [Under Control](https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Music Made Paradise](https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU) | 5:39 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Roma](https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5) | [Italo Disco](https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi) | 3:25 |
 | 45 | [Accidentally We Rushed](https://open.spotify.com/track/6jYu8ME42CQX7IsQuJToe1) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym) | [Nothing Stays in One Place for Long](https://open.spotify.com/album/6LG30qpC6gwWTx4JsGWGf9) | 5:18 |
 
-Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDE1MThmZmVkOTU2ZjBmMDZjNDk2ZGJjYjZkZGMxMTc2`
+Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDA4NzM2NGMwMWM0ZGY2OTVmYTY3MDk2MTA3OTNjZTY1`

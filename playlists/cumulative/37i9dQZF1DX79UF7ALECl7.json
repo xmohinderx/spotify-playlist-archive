@@ -836,6 +836,50 @@
     },
     {
       "album": {
+        "name": "Cosmic Breeze 003",
+        "url": "https://open.spotify.com/album/7j6WWLDq1XvZX4LJmhwlYq"
+      },
+      "artists": [
+        {
+          "name": "Toolate Groove",
+          "url": "https://open.spotify.com/artist/2ztp3GKsaGp6ZWLzs12OEN"
+        },
+        {
+          "name": "Reda",
+          "url": "https://open.spotify.com/artist/73gK6cuWHbh5kUPwvKd4im"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466398,
+      "name": "Keep Me Satisfied",
+      "url": "https://open.spotify.com/track/4YNHbvr4RfxsAWXIwSxyYs"
+    },
+    {
+      "album": {
+        "name": "Ltdblbl008",
+        "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
+      },
+      "artists": [
+        {
+          "name": "Retromigration",
+          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
+        },
+        {
+          "name": "Nephews",
+          "url": "https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396501,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
+    },
+    {
+      "album": {
         "name": "LTDBLBL008",
         "url": "https://open.spotify.com/album/3qPngaI3gHhdep7JeGVEsY"
       },
@@ -1001,7 +1045,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 236671,
       "name": "Love International Inc.",
       "url": "https://open.spotify.com/track/7lu8PAKaE50FzPOZ9LDXR5"
@@ -1143,7 +1187,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-27",
       "duration_ms": 158563,
       "name": "No More",
       "url": "https://open.spotify.com/track/1XHCxvbJuVLd6n8Tj9oiCy"

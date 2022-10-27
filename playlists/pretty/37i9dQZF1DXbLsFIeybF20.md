@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,328 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,338 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 23 | [Hot Lips](https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [New New Orleans Jazz](https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K) | 4:54 |
 | 24 | [Eh, La Bas](https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans Vol\. 9](https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T) | 4:48 |
 | 25 | [Take It To The Street](https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [Take It To The Street](https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM) | 4:19 |
-| 26 | [I'm Goin' Huntin'](https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ) | [Johnny Dodds](https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp), [Jimmy Blythe](https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C) | [Presenting Johnny Dodds](https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA) | 2:59 |
-| 27 | [Walking Through New Orleans](https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK) | [Pete Fountain](https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd) | [Mr\. New Orleans](https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH) | 2:49 |
+| 26 | [Walking Through New Orleans](https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK) | [Pete Fountain](https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd) | [Mr\. New Orleans](https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH) | 2:49 |
+| 27 | [I'm Goin' Huntin'](https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ) | [Johnny Dodds](https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp), [Jimmy Blythe](https://open.spotify.com/artist/4JpiyXXxkMVaLebTRD2T7C) | [Presenting Johnny Dodds](https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA) | 2:59 |
 | 28 | [Handa Wanda](https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu) | [The Wild Magnolias](https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz) | [Best of New Orleans \(Mardi Gras Indians\)](https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8) | 3:15 |
 | 29 | [Careless Love](https://open.spotify.com/track/5pIopYQV6wCCPEKa8k712A) | [George Lewis](https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt) | [Jazz At Preservation Hall: The George Lewis Band Of New Orleans](https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu) | 3:39 |
 | 30 | [Hotter Than That](https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O) | [Louis Armstrong & His Hot Five](https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S) | [The Complete Hot Five And Hot Seven Recordings Volume 3](https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
 | 50 | [Rosetta](https://open.spotify.com/track/1F6G1ewad31utaep702loo) | [Willie Humphrey](https://open.spotify.com/artist/1f2eTArDk6ozYuU1WiThYT), [Brian O'Connell](https://open.spotify.com/artist/5wt1TGwGYlTiTMs7MiIZ9u), [Les Muscutt](https://open.spotify.com/artist/4Tc3iSDuGy7MYV0ztG9mE7), [Frank Fields](https://open.spotify.com/artist/1SJJ0uLObOdsO8AKkWqBrW), [Ernie Elly](https://open.spotify.com/artist/55C95qwaJr1WvCRkFriDQ7) | [Two Clarinets on the Porch](https://open.spotify.com/album/5JCa8sHMS5xgVNrXaMRVTE) | 3:50 |
 
-Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMGVhZmVmMzA2M2E2NzZkZmQxZDM1MDhlMGRhM2Q1OGE0`
+Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMGQ0Yjc2YjQ2ZmM4MGU5Y2M5MTBjMjVjM2ZjNjI4NzNh`

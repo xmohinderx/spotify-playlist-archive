@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 35958,
+  "num_followers": 35988,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDg2MCwwMDAwMDAwMDM0ZjBmNzZlYmQyNDMzMWNlOGJlMGU1NzBmYWI2NmM0",
+  "snapshot_id": "MTY2NjMyNDg2MCwwMDAwMDAwMDAwYTA3NTdiM2Y3NGExZTc3MzhiZWMzZDYyYmYzMzVl",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -193,6 +193,26 @@
       "url": "https://open.spotify.com/track/1qt0cGs4U8qDpuhbJ0NxeW"
     },
     {
+      "added_at": "2020-11-14 05:01:00",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/050YbB6NQItIjmOwthAdzN"
+      },
+      "artists": [
+        {
+          "name": "Sun Ra",
+          "url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX"
+        },
+        {
+          "name": "Sun Ra & His Arkestra",
+          "url": "https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw"
+        }
+      ],
+      "duration_ms": 295680,
+      "name": "Third Planet",
+      "url": "https://open.spotify.com/track/1vgyXQyuvQHXWfQwprXBKc"
+    },
+    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Agora Aqui",
@@ -215,26 +235,6 @@
       "duration_ms": 212416,
       "name": "Talvez Certamente",
       "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
-    },
-    {
-      "added_at": "2020-11-14 05:01:00",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/050YbB6NQItIjmOwthAdzN"
-      },
-      "artists": [
-        {
-          "name": "Sun Ra",
-          "url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX"
-        },
-        {
-          "name": "Sun Ra & His Arkestra",
-          "url": "https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw"
-        }
-      ],
-      "duration_ms": 295680,
-      "name": "Third Planet",
-      "url": "https://open.spotify.com/track/1vgyXQyuvQHXWfQwprXBKc"
     },
     {
       "added_at": "2020-11-06 04:01:00",
@@ -329,30 +329,6 @@
       "url": "https://open.spotify.com/track/2VqEeQ1BvCK1VfYH3ww4I0"
     },
     {
-      "added_at": "2020-09-18 04:02:00",
-      "album": {
-        "name": "Kaiju Eats Cheeseburgers",
-        "url": "https://open.spotify.com/album/5aK9YyyApw9GvYr6mNxPng"
-      },
-      "artists": [
-        {
-          "name": "Sylvain Darrifourcq",
-          "url": "https://open.spotify.com/artist/6cUMBp5tJSfV9KjQVJeXDy"
-        },
-        {
-          "name": "Manuel Hermia",
-          "url": "https://open.spotify.com/artist/766wo5YOpIMfTn1Ri0jKO4"
-        },
-        {
-          "name": "Valentin Ceccaldi",
-          "url": "https://open.spotify.com/artist/0geMtndIutPk5Fu9863Hyb"
-        }
-      ],
-      "duration_ms": 310773,
-      "name": "Charbon",
-      "url": "https://open.spotify.com/track/1aAoU8KcgP5JQSkuWML8xG"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Bold Dream",
@@ -375,6 +351,30 @@
       "duration_ms": 372440,
       "name": "Bold Dream",
       "url": "https://open.spotify.com/track/0x9UCjrqI1D3pBeGDqxRk9"
+    },
+    {
+      "added_at": "2020-09-18 04:02:00",
+      "album": {
+        "name": "Kaiju Eats Cheeseburgers",
+        "url": "https://open.spotify.com/album/5aK9YyyApw9GvYr6mNxPng"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Darrifourcq",
+          "url": "https://open.spotify.com/artist/6cUMBp5tJSfV9KjQVJeXDy"
+        },
+        {
+          "name": "Manuel Hermia",
+          "url": "https://open.spotify.com/artist/766wo5YOpIMfTn1Ri0jKO4"
+        },
+        {
+          "name": "Valentin Ceccaldi",
+          "url": "https://open.spotify.com/artist/0geMtndIutPk5Fu9863Hyb"
+        }
+      ],
+      "duration_ms": 310773,
+      "name": "Charbon",
+      "url": "https://open.spotify.com/track/1aAoU8KcgP5JQSkuWML8xG"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -477,6 +477,22 @@
       "url": "https://open.spotify.com/track/3U66YsEEXqz0rig8U0bVNd"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Poetry in Motion",
+        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
+      },
+      "artists": [
+        {
+          "name": "Conference Call",
+          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
+    },
+    {
       "added_at": "2020-10-23 19:03:00",
       "album": {
         "name": "Supersense",
@@ -495,18 +511,34 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Poetry in Motion",
-        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
+        "name": "Prometheus",
+        "url": "https://open.spotify.com/album/5hDTAZ18Nidb0ZFV0Cyjhw"
       },
       "artists": [
         {
-          "name": "Conference Call",
-          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
+          "name": "Dejan Terzic",
+          "url": "https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065"
+        },
+        {
+          "name": "Axiom",
+          "url": "https://open.spotify.com/artist/0ESOGrX3Po8l3sparIKmQS"
+        },
+        {
+          "name": "Chris Speed",
+          "url": "https://open.spotify.com/artist/2KTHYtycTGrBi1xcLaQ2AO"
+        },
+        {
+          "name": "Matt Penman",
+          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
+        },
+        {
+          "name": "Bojan Zulfikarpa\u0161i\u0107",
+          "url": "https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD"
         }
       ],
-      "duration_ms": 258333,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
+      "duration_ms": 334762,
+      "name": "Prometheus",
+      "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -551,38 +583,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Prometheus",
-        "url": "https://open.spotify.com/album/5hDTAZ18Nidb0ZFV0Cyjhw"
-      },
-      "artists": [
-        {
-          "name": "Dejan Terzic",
-          "url": "https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065"
-        },
-        {
-          "name": "Axiom",
-          "url": "https://open.spotify.com/artist/0ESOGrX3Po8l3sparIKmQS"
-        },
-        {
-          "name": "Chris Speed",
-          "url": "https://open.spotify.com/artist/2KTHYtycTGrBi1xcLaQ2AO"
-        },
-        {
-          "name": "Matt Penman",
-          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
-        },
-        {
-          "name": "Bojan Zulfikarpa\u0161i\u0107",
-          "url": "https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD"
-        }
-      ],
-      "duration_ms": 334762,
-      "name": "Prometheus",
-      "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "Argonautica",
         "url": "https://open.spotify.com/album/779K5iF5o1GS0GR0v1YUEu"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 2573175,
       "name": "Argonautica",
       "url": "https://open.spotify.com/track/0GJKX05V9I7tOtGeGlUkWA"
+    },
+    {
+      "added_at": "2021-12-03 05:02:00",
+      "album": {
+        "name": "In The Moment (The Music of Charlie Haden)",
+        "url": "https://open.spotify.com/album/5frTCZPZdaT4Zp3tUmosWs"
+      },
+      "artists": [
+        {
+          "name": "Rope",
+          "url": "https://open.spotify.com/artist/3N0PjNFTj32WSkDS31jbAO"
+        }
+      ],
+      "duration_ms": 214201,
+      "name": "Fiasco : In the Moment",
+      "url": "https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG"
     },
     {
       "added_at": "2020-10-02 04:02:00",
@@ -621,22 +637,6 @@
       "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
-      "album": {
-        "name": "In The Moment (The Music of Charlie Haden)",
-        "url": "https://open.spotify.com/album/5frTCZPZdaT4Zp3tUmosWs"
-      },
-      "artists": [
-        {
-          "name": "Rope",
-          "url": "https://open.spotify.com/artist/3N0PjNFTj32WSkDS31jbAO"
-        }
-      ],
-      "duration_ms": 214201,
-      "name": "Fiasco : In the Moment",
-      "url": "https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG"
-    },
-    {
       "added_at": "2021-11-19 05:02:00",
       "album": {
         "name": "Playing Retention",
@@ -655,26 +655,6 @@
       "duration_ms": 458760,
       "name": "Playing Retention",
       "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Old Stories",
-        "url": "https://open.spotify.com/album/6UqK3CSEE52UwtK2e9JQPc"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shipp",
-          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
-        },
-        {
-          "name": "Chad Fowler",
-          "url": "https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj"
-        }
-      ],
-      "duration_ms": 374688,
-      "name": "Chapter I",
-      "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -709,56 +689,24 @@
       "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
+      "added_at": "2022-04-15 04:02:00",
       "album": {
-        "name": "In Cahoots",
-        "url": "https://open.spotify.com/album/0STbF1O34unFR85y3dX67B"
+        "name": "Old Stories",
+        "url": "https://open.spotify.com/album/6UqK3CSEE52UwtK2e9JQPc"
       },
       "artists": [
         {
-          "name": "Ned Rothenberg",
-          "url": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+          "name": "Matthew Shipp",
+          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
         },
         {
-          "name": "Mark Feldman",
-          "url": "https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA"
-        },
-        {
-          "name": "Sylvie Courvoisier",
-          "url": "https://open.spotify.com/artist/3ApjZpZhqZNl21HprnmXW3"
+          "name": "Chad Fowler",
+          "url": "https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj"
         }
       ],
-      "duration_ms": 227346,
-      "name": "Shudder to Think",
-      "url": "https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv"
-    },
-    {
-      "added_at": "2021-01-29 05:01:00",
-      "album": {
-        "name": "Ars Transmutatoria Bleu",
-        "url": "https://open.spotify.com/album/7JN9wfjViqGbhNXLDoQHIB"
-      },
-      "artists": [
-        {
-          "name": "Michel Lambert",
-          "url": "https://open.spotify.com/artist/6wFJMSmNda7ijEwiKkEinm"
-        },
-        {
-          "name": "Adrian Northover",
-          "url": "https://open.spotify.com/artist/6tvX3XArnkloqYWpKpfipR"
-        },
-        {
-          "name": "Susanna Ferrar",
-          "url": "https://open.spotify.com/artist/41czcSnPZdIJlkGfkYcfm3"
-        },
-        {
-          "name": "Hyelim Kim",
-          "url": "https://open.spotify.com/artist/5Pct3KTj2tVIwsBu6Vtxeq"
-        }
-      ],
-      "duration_ms": 335256,
-      "name": "Haie d'eau II",
-      "url": "https://open.spotify.com/track/40gD1hE47Zwows0Wy5JVI6"
+      "duration_ms": 374688,
+      "name": "Chapter I",
+      "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -799,6 +747,58 @@
       "duration_ms": 210440,
       "name": "Blue Threads",
       "url": "https://open.spotify.com/track/0B1u1Vumpo3xlVdoR3SnLY"
+    },
+    {
+      "added_at": "2021-01-29 05:01:00",
+      "album": {
+        "name": "Ars Transmutatoria Bleu",
+        "url": "https://open.spotify.com/album/7JN9wfjViqGbhNXLDoQHIB"
+      },
+      "artists": [
+        {
+          "name": "Michel Lambert",
+          "url": "https://open.spotify.com/artist/6wFJMSmNda7ijEwiKkEinm"
+        },
+        {
+          "name": "Adrian Northover",
+          "url": "https://open.spotify.com/artist/6tvX3XArnkloqYWpKpfipR"
+        },
+        {
+          "name": "Susanna Ferrar",
+          "url": "https://open.spotify.com/artist/41czcSnPZdIJlkGfkYcfm3"
+        },
+        {
+          "name": "Hyelim Kim",
+          "url": "https://open.spotify.com/artist/5Pct3KTj2tVIwsBu6Vtxeq"
+        }
+      ],
+      "duration_ms": 335256,
+      "name": "Haie d'eau II",
+      "url": "https://open.spotify.com/track/40gD1hE47Zwows0Wy5JVI6"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "In Cahoots",
+        "url": "https://open.spotify.com/album/0STbF1O34unFR85y3dX67B"
+      },
+      "artists": [
+        {
+          "name": "Ned Rothenberg",
+          "url": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "name": "Mark Feldman",
+          "url": "https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA"
+        },
+        {
+          "name": "Sylvie Courvoisier",
+          "url": "https://open.spotify.com/artist/3ApjZpZhqZNl21HprnmXW3"
+        }
+      ],
+      "duration_ms": 227346,
+      "name": "Shudder to Think",
+      "url": "https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv"
     },
     {
       "added_at": "2020-08-25 21:55:35",

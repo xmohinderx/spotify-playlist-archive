@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: joan
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,385 likes - 68 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,407 likes - 68 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

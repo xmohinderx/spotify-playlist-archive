@@ -4,7 +4,7 @@
 
 > It's Hits – bästa och största hitsen just nu.
 
-285 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/5FW2JUcG1GBhEhBYMh9n3a)
+287 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/5FW2JUcG1GBhEhBYMh9n3a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Flyg Fula Fluga Flyg](https://open.spotify.com/track/01fQ3xuWfYAHmUIiFC1JVP) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Flyg Fula Fluga Flyg \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/5xwu2ZxKFPk1wM1JBEO2Jf) | 2:39 | 2021-12-16 | 2022-03-12 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-07 |  |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-08 |  |
-| [FREE SMOKE](https://open.spotify.com/track/3KSegg0APyp082vo9peW7e) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [FREE SMOKE](https://open.spotify.com/album/7d10wpjHWZ4lII0zOfTenv) | 2:39 | 2022-08-25 |  |
+| [FREE SMOKE](https://open.spotify.com/track/3KSegg0APyp082vo9peW7e) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [FREE SMOKE](https://open.spotify.com/album/7d10wpjHWZ4lII0zOfTenv) | 2:39 | 2022-08-25 | 2022-10-27 |
 | [FUCK MITT EKS](https://open.spotify.com/track/4YGMqFWObIcl5RFrqghmOz) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [FUCK MITT EKS](https://open.spotify.com/album/2eY4rIMTU8UGFnCq1JFpZj) | 2:29 | 2022-01-13 | 2022-04-12 |
 | [Förför mig](https://open.spotify.com/track/5i8OzyvCnieyg5twoH0kMh) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Förför mig](https://open.spotify.com/album/4Ocv8AAKKEe9YaE7B6FtMe) | 2:39 | 2022-04-28 | 2022-06-10 |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-12-16 | 2022-04-22 |
@@ -105,7 +105,7 @@
 | [Heaven med dig](https://open.spotify.com/track/787m7kcyC5KB6IQ87jkwbX) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Heaven med dig](https://open.spotify.com/album/2vzCnj1pPXHhvobiWvRFtK) | 3:03 | 2022-05-13 | 2022-07-29 |
 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 | 2022-04-14 | 2022-08-19 |
 | [Hela världen är min](https://open.spotify.com/track/07l5IJqrY6ERJw7HNdnM0G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Hela världen är min](https://open.spotify.com/album/2FD0zqU3iO8cwQkR2SEgMN) | 3:06 | 2022-03-18 | 2022-07-22 |
-| [Hemlisar](https://open.spotify.com/track/1lRhiGwhU0rOvdQegTNmND) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Hemlisar](https://open.spotify.com/album/39yJ200hiDcZB9tvsjbPzP) | 3:35 | 2022-09-26 |  |
+| [Hemlisar](https://open.spotify.com/track/1lRhiGwhU0rOvdQegTNmND) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Hemlisar](https://open.spotify.com/album/39yJ200hiDcZB9tvsjbPzP) | 3:35 | 2022-09-26 | 2022-10-27 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 |  |
 | [Hjerteløs](https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Hjerteløs](https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV) | 2:17 | 2022-09-19 |  |
 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 | 2022-03-11 | 2022-07-15 |
@@ -135,6 +135,7 @@
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-04-05 | 2022-04-22 |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-28 |  |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2022-01-07 | 2022-03-18 |
+| [Ingen annan rör mig som du](https://open.spotify.com/track/6D434uIe6ssDPXbCx9O9Bn) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Ingen annan rör mig som du](https://open.spotify.com/album/6HUWcyVUOcdPTMcqvmX02a) | 3:37 | 2022-10-26 |  |
 | [Ingen luft mellan oss](https://open.spotify.com/track/1SOGSI8UPEwBnqG15h6NiC) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Ingen luft mellan oss](https://open.spotify.com/album/50pmFuV7ABGcA6cZz0Cqmt) | 3:16 | 2021-12-16 | 2022-01-21 |
 | [Internet \- Spotify Studio 100 Recording](https://open.spotify.com/track/1gnCpBKizZd2w23fb0eOS2) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Internet \(Spotify Studio 100 Recording\)](https://open.spotify.com/album/4U1ARXYplRDpLRth2YBocA) | 2:31 | 2022-02-17 | 2022-04-01 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-28 | 2022-03-18 |
@@ -245,6 +246,7 @@
 | [SÖDERMALM \- Remix](https://open.spotify.com/track/3tVnfy2EiiiEgLgkbQ1weS) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [SÖDERMALM \(Remix\)](https://open.spotify.com/album/3UwYbsJK4kFYtSGENGqK7S) | 2:34 | 2022-10-21 |  |
 | [Tappat \- Spotify Singles](https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Tappat \- Spotify Singles](https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW) | 2:30 | 2022-09-29 |  |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-12-16 | 2021-12-29 |
+| [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 | 2022-10-26 |  |
 | [The Days](https://open.spotify.com/track/6PEk3WWhhxbQQwQVVbGB0f) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [The Days](https://open.spotify.com/album/4dLgdo7d2lTiVnK4Fzk3Zu) | 2:36 | 2022-03-03 | 2022-06-10 |
 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2022-05-03 | 2022-05-14 |
 | [The Fall](https://open.spotify.com/track/7hWt5I5sEA54Za6KKzislx) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good \(+ The Fall\)](https://open.spotify.com/album/2IRmdXQtVBxUdicuQfSaSB) | 3:16 | 2022-06-09 | 2022-06-15 |

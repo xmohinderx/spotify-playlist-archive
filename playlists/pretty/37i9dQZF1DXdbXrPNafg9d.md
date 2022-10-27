@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,244,616 likes - 173 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244,778 likes - 173 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 103 | [Kill Her Freak Out](https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Kill Her Freak Out](https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1) | 4:20 |
 | 104 | [rien dire](https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rien dire](https://open.spotify.com/album/2Kl3eV9Yo13AR4mgAXgWQu) | 3:02 |
 | 105 | [Oceans of Darkness](https://open.spotify.com/track/5vORDyXwEqms2j4jQ8Qx17) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore \(Deluxe Edition\)](https://open.spotify.com/album/4xYRRdTJEO6tyUkycKuaWR) | 3:35 |
-| 106 | [F.O.O.F.](https://open.spotify.com/track/2Yo3BxnzxMeWkvTx1QKBo9) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [F.O.O.F.](https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z) | 2:08 |
+| 106 | [F.O.O.F.](https://open.spotify.com/track/6Xr3s1NTck8lLiLF7VGReD) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 2:08 |
 | 107 | [Nomatterday](https://open.spotify.com/track/5SIuyYZIVW9WU90puvFG1x) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doggerel](https://open.spotify.com/album/2Z7bVVJJrnoLILscuubJIU) | 4:11 |
 | 108 | [Bugs](https://open.spotify.com/track/0uzlPTCYCYrMVeBW9alXHr) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/1vVB5JCXtIwEddrx43Em7C) | 2:42 |
 | 109 | [Leaving The Canyons \- Radio Edit](https://open.spotify.com/track/1y7qBQRPUsnA1ff3LoK3p5) | [Kennebec](https://open.spotify.com/artist/2SF8LSy53kKd82omO2FHNc), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Leaving the Canyons](https://open.spotify.com/album/6vlOyEcveIrRtQRT7FeaU6) | 3:06 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 172 | [Run The Credits](https://open.spotify.com/track/03vgK21xN1rnN2WbSY2txK) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Run The Credits](https://open.spotify.com/album/1AYmvWV0JLTdgNMAxngkGy) | 4:21 |
 | 173 | [Half Life](https://open.spotify.com/track/5Gn8dr5NrwoxtCQhs6WO9v) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Half Life](https://open.spotify.com/album/7g5yKklmczUfA3pEuNjnrE) | 3:47 |
 
-Snapshot ID: `MTY2NjMzODk5MiwwMDAwMDAwMGQ2OWJkODc0Y2U2ZjU4NjJlM2RlMzNiZmEwNjMyZTBk`
+Snapshot ID: `MTY2NjMzODk5MiwwMDAwMDAwMDEwMTNiNDRlODg4YTFmMDBmYWJkMjUyZTRkNzkzNjBi`

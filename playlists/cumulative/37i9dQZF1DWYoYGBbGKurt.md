@@ -1064,6 +1064,6 @@
 | [You Might Miss These Days](https://open.spotify.com/track/3WoDI6W6JzmyT8Jke5rgUX) | [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [You Might Miss These Days](https://open.spotify.com/album/1wbyEWNJo8ZruBLJBT8bQw) | 3:15 | 2022-05-13 |  |
 | [Your Jacket Though](https://open.spotify.com/track/1uiK8qFJkHkC3OASMBPzvG) | [wahzaf:tru](https://open.spotify.com/artist/1PZFqQ7hbIOK3Drq2aXKuC) | [Your Jacket Though](https://open.spotify.com/album/7FyNe1k7S2nSp34iszDkr2) | 2:58 | 2022-01-26 |  |
 | [Zeeez](https://open.spotify.com/track/6MKV08WI49nZjhC5nqzOvi) | [Dizzy Halos](https://open.spotify.com/artist/4qiOgE9uEz6UkqPEpUA6Md) | [Zeeez](https://open.spotify.com/album/47YQYybeQm0ZQEAYanjOu3) | 3:06 | 2021-12-07 | 2022-07-01 |
-| [Zephyr](https://open.spotify.com/track/28VwDI1i3vtqn0csWOig5G) | [Remil](https://open.spotify.com/artist/6ePjIuemRDGXQVQ5c3n282) | [Zephyr](https://open.spotify.com/album/01lJTebBu7GNUKFmLds5Yz) | 2:52 | 2022-06-03 |  |
+| [Zephyr](https://open.spotify.com/track/28VwDI1i3vtqn0csWOig5G) | [zxry.](https://open.spotify.com/artist/2KDok9fxr255I38HflZAzC) | [Zephyr](https://open.spotify.com/album/01lJTebBu7GNUKFmLds5Yz) | 2:52 | 2022-06-03 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.
