@@ -4,7 +4,7 @@
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-353 songs - 22 hr 39 min - [published](https://open.spotify.com/playlist/55GdQaI3M6rHQD7agSU7NY)
+354 songs - 22 hr 44 min - [published](https://open.spotify.com/playlist/55GdQaI3M6rHQD7agSU7NY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Africa Unite](https://open.spotify.com/track/2qmHhaOmlcKDeGfipGhF1j) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 2:55 | 2021-10-18 | 2022-07-29 |
 | [Afrikan Children](https://open.spotify.com/track/4c8z56rvgeuTfJ7Pm9XGeE) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Black On Purpose](https://open.spotify.com/album/5lFtGwlHH9ek0vfIeNXg4E) | 3:38 | 2021-10-18 | 2022-07-29 |
 | [After 3 \(feat\. Mortimer\)](https://open.spotify.com/track/6l9v8pNy1P39VNfqpbKuFL) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA), [Mortimer](https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 4:20 | 2022-08-18 | 2022-09-10 |
-| [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 | 2022-09-23 |  |
+| [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 | 2022-09-23 | 2022-10-28 |
 | [All You Need Is Love](https://open.spotify.com/track/3xyC7nabfT7TgqrTiTcpve) | [Playing For Change](https://open.spotify.com/artist/645m90txZTycwJGdZTWscc) | [Songs Around The World \(10 Year Anniversary Edition\)](https://open.spotify.com/album/23h2MOMXI92CmIdRLy9uMC) | 3:58 | 2021-10-18 | 2022-07-28 |
 | [Allow Me to Live](https://open.spotify.com/track/2ocgbHELlfQPXMFwQhIblw) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM) | [Allow Me to Live](https://open.spotify.com/album/5zN94MvRvUzdrwrt2MSWbx) | 3:03 | 2021-10-18 | 2022-07-22 |
 | [Angel](https://open.spotify.com/track/7FDV5ELOJHCGLe52AnttEd) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rayvon](https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN) | [Hot Shot](https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b) | 3:55 | 2022-06-20 |  |
@@ -51,6 +51,7 @@
 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 | 2022-06-20 |  |
 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 | 2021-10-18 |  |
 | [Cocody Rock](https://open.spotify.com/track/3LTJjpjOGt6lW8TaenjHlr) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Best Of](https://open.spotify.com/album/0kgrabkcDrHLFf2296GzIF) | 4:53 | 2022-06-20 | 2022-09-26 |
+| [Cocody Rock](https://open.spotify.com/track/2ocFan1CsWNJqdaIdv2Uux) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG), [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Cocodi Rock !!! \- Remastered Edition](https://open.spotify.com/album/19PEEkcZKlFpiDLi8KSnom) | 4:54 | 2022-10-13 |  |
 | [Cocody Rock](https://open.spotify.com/track/7wimjp5W96jhlIMblyBJmq) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Cocodi Rock !!! \- Remastered Edition](https://open.spotify.com/album/1t7PXlZc0yy5fCNxoTkeLR) | 4:54 | 2021-10-18 | 2022-07-29 |
 | [Cold & Clear](https://open.spotify.com/track/40bhrR8iRfr1RfMUsHbGNH) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Cold & Clear](https://open.spotify.com/album/08ON867DuEeQi8HzI7mZID) | 3:16 | 2021-10-18 | 2022-07-29 |
 | [Come Inna The Dance](https://open.spotify.com/track/6PypmvbTpaIMtrnd1IDGta) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Come Inna The Dance](https://open.spotify.com/album/3IBH9s4xuvCVerk95xEpXI) | 3:34 | 2021-10-18 | 2022-07-29 |

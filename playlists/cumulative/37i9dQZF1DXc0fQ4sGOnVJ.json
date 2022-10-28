@@ -2128,6 +2128,24 @@
     },
     {
       "album": {
+        "name": "Alabama Pimpin",
+        "url": "https://open.spotify.com/album/0X4B3EhbmaAFg4bUfEJL2s"
+      },
+      "artists": [
+        {
+          "name": "BirdsFlyStoned",
+          "url": "https://open.spotify.com/artist/6aqvueqkAH2Tv29y41vJ0r"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "Talladega Nights",
+      "url": "https://open.spotify.com/track/4R2KbMUCTKc4Jzv3gj97NS"
+    },
+    {
+      "album": {
         "name": "Talladega Nights",
         "url": "https://open.spotify.com/album/27zyvGZrG0Wx7YmXGhWMB7"
       },
@@ -2139,7 +2157,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 125142,
       "name": "Talladega Nights",
       "url": "https://open.spotify.com/track/6TAtFV2RxtPoF8K9gXv6iA"

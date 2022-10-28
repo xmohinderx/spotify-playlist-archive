@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Genevieve Stokes
 
-640 songs - 1 day 10 hr 33 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+643 songs - 1 day 10 hr 44 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/track/1U6aNzlYxoCGGm7K6Nu9EE) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Like You Do](https://open.spotify.com/album/2jxyIfyUY0yhPANWWrwnca) | 3:23 | 2021-04-24 |  |
 | [Before](https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Before](https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY) | 3:54 | 2022-06-03 |  |
 | [Before It Started](https://open.spotify.com/track/5gWSR9TZ6txeyTzENxOq0O) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [Before It Started](https://open.spotify.com/album/2S05xv4jp1GyRdeCvcze8r) | 2:51 | 2022-05-06 |  |
+| [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 | 2022-10-27 |  |
 | [Best Bad News](https://open.spotify.com/track/7yQmb20fEbWamV36vs2pPL) | [Kat Edwards](https://open.spotify.com/artist/08i7j3DXn5p7I5PrdVd5bV) | [Best Bad News](https://open.spotify.com/album/02KwGACJtzQlRRgTpNYBL7) | 3:52 | 2022-06-17 |  |
 | [Best Friend](https://open.spotify.com/track/61KP2LeOc3xFonfrEezl13) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [2Sides \(Side 1\)](https://open.spotify.com/album/1RaqQTAjpuj7N5GEIA87OC) | 2:58 | 2019-11-08 | 2020-04-06 |
 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 | 2022-06-05 |  |
@@ -78,6 +79,7 @@
 | [BRB \(feat\. Pink Sweat$\)](https://open.spotify.com/track/3cIYfp1jvO622pUW5zaeEF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [BRB \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6MDVwRIC8PaZFkggzSFBso) | 3:38 | 2020-07-24 | 2021-05-12 |
 | [Break](https://open.spotify.com/track/36kIYxNoFwQn8hurOf62mK) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Break](https://open.spotify.com/album/7eOnQ0iEjNVGE5VmWEe8FQ) | 3:23 | 2020-07-18 | 2021-05-12 |
 | [Break My Heart](https://open.spotify.com/track/6KMkEX692kOyqJ7WuPhRab) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Break My Heart](https://open.spotify.com/album/0kNjRXrrBrXGUFkGhf2HVI) | 2:59 | 2021-01-08 |  |
+| [Breakfast in Bed](https://open.spotify.com/track/3c5sWNPKG69X0JcGUgbBOj) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Breakfast in Bed](https://open.spotify.com/album/24aSDb1blluKkN02Wy4Tl4) | 2:43 | 2022-10-28 |  |
 | [Breathe](https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:06 | 2022-05-06 |  |
 | [Bubble](https://open.spotify.com/track/2ohheZzavZxvs6Gm3o8EUS) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Bubble](https://open.spotify.com/album/2lkx1nUXlyvRiKtZoHEyeN) | 2:37 | 2020-07-06 | 2021-01-18 |
 | [Built To Last \(feat\. RØRY\)](https://open.spotify.com/track/3OmKuGbtu4U2UnQpDqLXHi) | [Feki](https://open.spotify.com/artist/3oZDqlOiOQTolPJZsxivaN), [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Built To Last \(feat\. RØRY\)](https://open.spotify.com/album/0kxZB0MTOz0PIUfHGrVRIj) | 2:45 | 2019-08-27\* | 2020-02-12 |
@@ -164,6 +166,7 @@
 | [Fall Too Easily \- Acoustic](https://open.spotify.com/track/55LJxD8qjfEpIgApl2pG1X) | [Dylan Joel](https://open.spotify.com/artist/6PsZs1L8zuW49bEUbkQ4JD) | [Fall Too Easily \(Acoustic\)](https://open.spotify.com/album/4x77NRmIq1XbyX8EywKuTA) | 2:10 | 2020-08-07 | 2021-05-12 |
 | [Falling](https://open.spotify.com/track/4UDYQS82BKheDNUXPTn3ZD) | [Hugo Basclain](https://open.spotify.com/artist/0AMwJ7ohVHJl0iKC0CpdVG) | [Falling](https://open.spotify.com/album/1U69yRb3dZPVQwcH1q4r1R) | 2:56 | 2020-10-22 | 2021-05-12 |
 | [Falling Down](https://open.spotify.com/track/3zvlEWkWzQmra8m2sAr7I6) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Falling Down](https://open.spotify.com/album/6591ep39TT3nXZmOWDFfOf) | 3:45 | 2019-08-27\* | 2020-02-12 |
+| [Falling Down](https://open.spotify.com/track/4SbfErHS8XanSeTwTt7zjI) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [Falling Down](https://open.spotify.com/album/7xQN6B74Y5G7LA3VgTTwYc) | 4:38 | 2022-10-27 |  |
 | [Falling For You](https://open.spotify.com/track/0jJ02ZLSajw7XfUXctp4bS) | [Jean.](https://open.spotify.com/artist/2zJvqNRTYmSVh9ZMTWtIWs) | [Falling For You](https://open.spotify.com/album/3zTQhoRpxoayusfsdRjDLe) | 2:36 | 2019-10-18 | 2021-05-12 |
 | [False Truths](https://open.spotify.com/track/4Ns62r4p5eRBe6gOsiIi0C) | [DENNIS.](https://open.spotify.com/artist/1rnhbIE4GzdmkCKnfG15nM) | [False Truths](https://open.spotify.com/album/342sq3kgSMxlHQzHlDEH8C) | 3:24 | 2022-03-18 |  |
 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 | 2019-08-27\* | 2019-11-11 |

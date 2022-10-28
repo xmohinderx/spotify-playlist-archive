@@ -4,7 +4,7 @@
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-330 songs - 19 hr 21 min - [published](https://open.spotify.com/playlist/2ficOkbgvrKWFtT4FiaV9N)
+331 songs - 19 hr 24 min - [published](https://open.spotify.com/playlist/2ficOkbgvrKWFtT4FiaV9N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,11 +113,12 @@
 | [GNGB](https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:14 | 2022-05-11 | 2022-07-29 |
 | [Go, dude !](https://open.spotify.com/track/1YWO7jS4KEyIW8aZvHcba2) | [ChaMane](https://open.spotify.com/artist/2jyURAEr7r2UfWMpFQDOQd) | [26](https://open.spotify.com/album/4S72a69hZrCFmoPzclt3QR) | 2:28 | 2022-05-11 | 2022-07-28 |
 | [Going Home \(feat\. Koonta\)](https://open.spotify.com/track/3eNvKpsWbefSkN2PReDxPf) | [A\-chess](https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Going Home](https://open.spotify.com/album/4Bhx96JxhZK8hiEhIpCNA0) | 3:17 | 2022-05-11 | 2022-07-27 |
-| [Going Home \(feat\. Koonta\)](https://open.spotify.com/track/5aisTRqmjj5DUb22KUmzjq) | [A\-chess](https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Going Home](https://open.spotify.com/album/0I2m1bRabNDluBDGQIW4EG) | 3:17 | 2022-07-22 |  |
+| [Going Home \(feat\. Koonta\)](https://open.spotify.com/track/5aisTRqmjj5DUb22KUmzjq) | [A\-chess](https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Going Home](https://open.spotify.com/album/0I2m1bRabNDluBDGQIW4EG) | 3:17 | 2022-07-22 | 2022-10-28 |
 | [Goliath](https://open.spotify.com/track/2Bt8coDMy6hRHlI0pblFJO) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Goliath](https://open.spotify.com/album/0HicYrogMGpsUABO8atO2q) | 3:11 | 2022-05-11 | 2022-07-29 |
 | [Good Day](https://open.spotify.com/track/72F9GGy4X7Q1EwagZdvNcU) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me the Money 777 \(Episode 1\)](https://open.spotify.com/album/3Heh3t93xHF918mqcIi0QB) | 4:26 | 2022-05-11 | 2022-07-29 |
 | [Good Day \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/6CxxgFhfvh5uz6h4l0ltzP) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me the Money 777 Episode 1](https://open.spotify.com/album/6yr53YySD8G0GRwveBg835) | 4:26 | 2022-07-22 |  |
 | [Good Time For The Team](https://open.spotify.com/track/1XROjtYVZkHRwCt79VzwZc) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Good Time For The Team](https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw) | 3:52 | 2022-05-11 | 2022-07-29 |
+| [GOT TO KNOW](https://open.spotify.com/track/4YwC2hm29FAHzKtO2TTIXc) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [THE STRANGER](https://open.spotify.com/album/68qFH3Tshdnqp4u3ttmHJB) | 2:41 | 2022-10-07 |  |
 | [GOT TO KNOW](https://open.spotify.com/track/7mV9IJjCAVKmTGXgzBcc7R) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [THE STRANGER](https://open.spotify.com/album/1AHvYJ00JEw2rhqGVM3Yi8) | 2:41 | 2022-05-11 | 2022-07-25 |
 | [Gray](https://open.spotify.com/track/1nY2vivgpuGiMDBWlhM8tI) | [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66) | [G2's Life](https://open.spotify.com/album/76bK1X3OsiDnXaZ4TkBO3W) | 3:26 | 2022-06-03 | 2022-07-17 |
 | [Green Ideology](https://open.spotify.com/track/2TEZ1dTfRIgsWYWOa3Ibf8) | [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Green Ideology](https://open.spotify.com/album/0KPNc9K0TqosJCKuMm9VyN) | 3:27 | 2022-06-03 | 2022-07-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Regula e Gson entram na zona. ",
+  "description": "Mizzy Miles, Sippinpurpp e Greg Ferreira entram na zona. ",
   "name": "Na Zona",
   "published_playlist_ids": [
     "22ncssGshPQaFSB3hgligM"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 257146,
       "name": "300",
       "url": "https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 172788,
       "name": "Atrevido",
       "url": "https://open.spotify.com/track/5mB4UQn41Z70o7PXiINlj4"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 186139,
       "name": "Desconfinamento",
       "url": "https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 159452,
       "name": "Juvena",
       "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
@@ -1506,6 +1506,28 @@
     },
     {
       "album": {
+        "name": "METE1LIKE",
+        "url": "https://open.spotify.com/album/4J4OCfvHHWAMZ6unYRvBOd"
+      },
+      "artists": [
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        },
+        {
+          "name": "Wine TKK",
+          "url": "https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210415,
+      "name": "METE1LIKE",
+      "url": "https://open.spotify.com/track/2w6x13VWPqhAKHjmX5kMbj"
+    },
+    {
+      "album": {
         "name": "Mo Money Mo Problems",
         "url": "https://open.spotify.com/album/6oRVzgSnlpjjbP6mix56ap"
       },
@@ -1521,6 +1543,28 @@
       "duration_ms": 158555,
       "name": "Mo Money Mo Problems",
       "url": "https://open.spotify.com/track/4bRd2tebqOfIYxsyIGUzDd"
+    },
+    {
+      "album": {
+        "name": "Ouro Sobre Azul",
+        "url": "https://open.spotify.com/album/1Za7fc64cyBoDqo4XJVSHO"
+      },
+      "artists": [
+        {
+          "name": "Regula",
+          "url": "https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP"
+        },
+        {
+          "name": "King Bigs",
+          "url": "https://open.spotify.com/artist/6WecxeaCHGhmwXiyBQPv61"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174013,
+      "name": "Momma",
+      "url": "https://open.spotify.com/track/7fW7scs325n2ZwvWBjA75O"
     },
     {
       "album": {
@@ -2741,7 +2785,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 249078,
       "name": "\u00c9 ASSIM",
       "url": "https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71"

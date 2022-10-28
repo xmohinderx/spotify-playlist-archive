@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Pinkshift
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,451 likes - 127 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,494 likes - 127 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

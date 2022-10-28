@@ -2,7 +2,7 @@
 
 ### [Cantautoras](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
 
-> El don de cantar y componer, una playlist llena de talento\. Foto: Rozalén y Sílvia Pérez Cruz.
+> El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
 204 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/1rcqnJTuxkgmJDpLbQBBLY)
 

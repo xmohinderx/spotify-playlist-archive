@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2010s.",
-  "num_followers": 65588,
+  "num_followers": 65686,
   "original_name": "10s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE3NzIzOCwwMDAwMDAwMDkzZmQ4NmYzY2E5ZmYwNjEzZTgzNzk5OGE4NWFjZmNi",
+  "snapshot_id": "MTY1NDE3NzIzOCwwMDAwMDAwMGVlNjA0ZDRkNmJiMjQ2ZWIzNDUzZGJmMDFjOWM5YzRm",
   "tracks": [
     {
       "added_at": "2020-12-08 17:53:04",
@@ -995,22 +995,6 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Songs Of Innocence",
-        "url": "https://open.spotify.com/album/45Ec0wYJ7npo6lXH4GWmxz"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 226763,
-      "name": "Song For Someone",
-      "url": "https://open.spotify.com/track/6PmvNS601Mcd2H0UcqMWb0"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 181026,
       "name": "See Me Now",
       "url": "https://open.spotify.com/track/5iRNKJoGqjD8RG7RNwOWYb"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Songs Of Innocence",
+        "url": "https://open.spotify.com/album/45Ec0wYJ7npo6lXH4GWmxz"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 226763,
+      "name": "Song For Someone",
+      "url": "https://open.spotify.com/track/6PmvNS601Mcd2H0UcqMWb0"
     },
     {
       "added_at": "2020-12-08 17:53:04",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/0t1WPoT5kNNIyNyUbOBOsV"
     },
     {
-      "added_at": "2022-04-28 07:02:19",
-      "album": {
-        "name": "Bad Omens",
-        "url": "https://open.spotify.com/album/1TiLgvJa0wRTWbkVfFZFUc"
-      },
-      "artists": [
-        {
-          "name": "Eagle Eye Jones",
-          "url": "https://open.spotify.com/artist/5XUOoULG4ihSaob7ju7rn9"
-        }
-      ],
-      "duration_ms": 212044,
-      "name": "Bad Omens",
-      "url": "https://open.spotify.com/track/1cm9QEpMgBOoByAzIsrKg8"
-    },
-    {
       "added_at": "2020-12-08 17:53:04",
       "album": {
         "name": "Wilder Mind (Deluxe)",
@@ -1119,6 +1103,22 @@
       "duration_ms": 236883,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5RJeg1KeRTQxsgZcPrxWBD"
+    },
+    {
+      "added_at": "2022-04-28 07:02:19",
+      "album": {
+        "name": "Bad Omens",
+        "url": "https://open.spotify.com/album/1TiLgvJa0wRTWbkVfFZFUc"
+      },
+      "artists": [
+        {
+          "name": "Eagle Eye Jones",
+          "url": "https://open.spotify.com/artist/5XUOoULG4ihSaob7ju7rn9"
+        }
+      ],
+      "duration_ms": 212044,
+      "name": "Bad Omens",
+      "url": "https://open.spotify.com/track/1cm9QEpMgBOoByAzIsrKg8"
     },
     {
       "added_at": "2020-12-08 17:53:04",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Biig Piig",
+  "description": "The home of the best new alternative music. Cover: BERWYN",
   "name": "The Other List",
   "published_playlist_ids": [
     "2P9CK2lB90NpmCPDPSex2G"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 167588,
       "name": "all on me",
       "url": "https://open.spotify.com/track/7Bqk3RPCq9QJDWF8WR0vXP"
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 245426,
       "name": "Asphalt Meadows",
       "url": "https://open.spotify.com/track/7xjbn0bhs7zx7E1s0lCqT3"
@@ -2250,6 +2250,24 @@
     },
     {
       "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/5gHHjvl70x2T4DdWKFVLM7"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199861,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/0fgULj9VZdizE6MMuy9rnf"
+    },
+    {
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/7iJOysKUXYwx78G17DT3sh"
       },
@@ -2869,7 +2887,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 320629,
       "name": "Bunker",
       "url": "https://open.spotify.com/track/7tdhnR3o3p2jPZL7WD1u6k"
@@ -3447,10 +3465,28 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 179406,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/3ZHYcClXs86zM8475d2s3V"
+    },
+    {
+      "album": {
+        "name": "Check For Signs Of Life",
+        "url": "https://open.spotify.com/album/6kAl3cYMeh0BV0CGBU1jp3"
+      },
+      "artists": [
+        {
+          "name": "Philip Selway",
+          "url": "https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261984,
+      "name": "Check For Signs Of Life",
+      "url": "https://open.spotify.com/track/2LswW8KbYNsM36agVAWeF0"
     },
     {
       "album": {
@@ -4462,6 +4498,24 @@
     },
     {
       "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/2cmdkQwsHvGHJtLpkkt8jj"
+      },
+      "artists": [
+        {
+          "name": "pinkpirate",
+          "url": "https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188613,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/4bwN3sKoTKlrhK36sFIoyg"
+    },
+    {
+      "album": {
         "name": "Dance on the Rain",
         "url": "https://open.spotify.com/album/0XbBAwdTn0ahj3prcY0HlQ"
       },
@@ -4549,6 +4603,24 @@
       "duration_ms": 168848,
       "name": "Darker Place",
       "url": "https://open.spotify.com/track/5fUzMvyRsUklP0Pdmsh9Mz"
+    },
+    {
+      "album": {
+        "name": "Darkness Forever (Sophie's Version)",
+        "url": "https://open.spotify.com/album/6DopROneeNJjLXhotOv4AC"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210268,
+      "name": "Darkness Forever - Sophie's Version",
+      "url": "https://open.spotify.com/track/3VDeyVAxUr6MBBgpKewRw6"
     },
     {
       "album": {
@@ -4849,6 +4921,24 @@
       "duration_ms": 197100,
       "name": "Diet",
       "url": "https://open.spotify.com/track/5k0yxFSktMecsYRc0O3mEo"
+    },
+    {
+      "album": {
+        "name": "And I Have Been",
+        "url": "https://open.spotify.com/album/0rmOAkvn9gkrPcPqGreQs4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Clementine",
+          "url": "https://open.spotify.com/artist/7zHIrsSBL7A0gEJfzv1m7z"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115043,
+      "name": "Difference",
+      "url": "https://open.spotify.com/track/0doT09dfiZKhbsASMqzZGh"
     },
     {
       "album": {
@@ -5401,7 +5491,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 194253,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/3H8JYbDDyS65ui2Obl7QTW"
@@ -6416,6 +6506,24 @@
     },
     {
       "album": {
+        "name": "Euphoria, Where Were You?",
+        "url": "https://open.spotify.com/album/5F3s345rSD0UJe8IWo3imC"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268650,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0yUymvlfxHWxE62ys8VtbM"
+    },
+    {
+      "album": {
         "name": "For You & I",
         "url": "https://open.spotify.com/album/5S3BeEXXJk52SJWwUtbBiT"
       },
@@ -6489,6 +6597,24 @@
       "duration_ms": 250673,
       "name": "Forever Is Too Long",
       "url": "https://open.spotify.com/track/0EH1NRDT9U59ZfiuJL78XN"
+    },
+    {
+      "album": {
+        "name": "forget me",
+        "url": "https://open.spotify.com/album/0DOeWNGUzTLQxom5d82lJF"
+      },
+      "artists": [
+        {
+          "name": "Revenant",
+          "url": "https://open.spotify.com/artist/48Icw89LgB8t7C7AnUIT0Q"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224473,
+      "name": "forget me",
+      "url": "https://open.spotify.com/track/5xzcEBIRnbCQgwkZH6QTKS"
     },
     {
       "album": {
@@ -9122,6 +9248,24 @@
     },
     {
       "album": {
+        "name": "i don\u2019t feel the same",
+        "url": "https://open.spotify.com/album/6dh383KA5FHseEX1QEHRCj"
+      },
+      "artists": [
+        {
+          "name": "Couros",
+          "url": "https://open.spotify.com/artist/7g0azP1aJBtmhhOk00SpIM"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164186,
+      "name": "i don\u2019t feel the same",
+      "url": "https://open.spotify.com/track/6uLkhHrg56r7qzGzIKTmpx"
+    },
+    {
+      "album": {
         "name": "Damsel in Distress",
         "url": "https://open.spotify.com/album/0yRDXJyXgyTbBqqONVcX27"
       },
@@ -9187,7 +9331,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 132840,
       "name": "i just want to hide my face",
       "url": "https://open.spotify.com/track/1xDZoTi6F9wZtpcQ1dlyE7"
@@ -9781,6 +9925,24 @@
       "duration_ms": 205026,
       "name": "In-between and Overseas",
       "url": "https://open.spotify.com/track/6cUdw19oUUBNpRafkJ0nYs"
+    },
+    {
+      "album": {
+        "name": "In2you",
+        "url": "https://open.spotify.com/album/55WmVdXpFLvKiVh6fLhT1A"
+      },
+      "artists": [
+        {
+          "name": "Downtown Kayoto",
+          "url": "https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194106,
+      "name": "In2you",
+      "url": "https://open.spotify.com/track/4y6c69qw9NAWBpTq7bZS0W"
     },
     {
       "album": {
@@ -12800,6 +12962,24 @@
     },
     {
       "album": {
+        "name": "Never Knew Love Like This Before",
+        "url": "https://open.spotify.com/album/0V8CxXbaA8IjHYXnxeD4xw"
+      },
+      "artists": [
+        {
+          "name": "Walt Disco",
+          "url": "https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294017,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/7bwNFy8IJ2S1YWoZ4UqivL"
+    },
+    {
+      "album": {
         "name": "Seeking Thrills",
         "url": "https://open.spotify.com/album/26FuPLPN5Vyznv9yFxKOTM"
       },
@@ -13851,7 +14031,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 218154,
       "name": "Ovule",
       "url": "https://open.spotify.com/track/3epjx0KBU45yCx7KtOXF2Z"
@@ -14075,6 +14255,24 @@
       "duration_ms": 164640,
       "name": "Passive Aggressive",
       "url": "https://open.spotify.com/track/7ybwV07T2WkKIjOTeaHFX7"
+    },
+    {
+      "album": {
+        "name": "Path To Satisfaction",
+        "url": "https://open.spotify.com/album/0hXna6yrdMX7r4OTTFbLsT"
+      },
+      "artists": [
+        {
+          "name": "BERWYN",
+          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156203,
+      "name": "Path To Satisfaction",
+      "url": "https://open.spotify.com/track/1YlyisbwvzWI4Z8miR8ZNX"
     },
     {
       "album": {
@@ -15499,7 +15697,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 272065,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/6Oodwo629BxWY8uooHtP64"
@@ -16452,6 +16650,24 @@
     },
     {
       "album": {
+        "name": "Sleeplessness",
+        "url": "https://open.spotify.com/album/702mzBc6stopS5Abyrt3Fu"
+      },
+      "artists": [
+        {
+          "name": "Russell Stewart",
+          "url": "https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219272,
+      "name": "Sleeplessness",
+      "url": "https://open.spotify.com/track/7bHYR8QOlwz0LC0BPNRvAU"
+    },
+    {
+      "album": {
         "name": "Slow Song (feat. Kasien)",
         "url": "https://open.spotify.com/album/0654CJQBHuYuCzKLb9ak0A"
       },
@@ -17095,7 +17311,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 248546,
       "name": "Spotlight Television",
       "url": "https://open.spotify.com/track/5o5CADtcyCZFR2COk8EJ2g"
@@ -17335,7 +17551,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 152460,
       "name": "Still Running",
       "url": "https://open.spotify.com/track/0V8Uz3SGvOnDgF4waSuoaU"
@@ -19741,7 +19957,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 189004,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/1sSL9TPiaJ70iBOdGWEDuL"
@@ -19965,7 +20181,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 141782,
       "name": "Vexed",
       "url": "https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0"
@@ -20023,7 +20239,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 159230,
       "name": "vic's odyssey",
       "url": "https://open.spotify.com/track/2SmXnn9oFXV7WGztLX0MJT"

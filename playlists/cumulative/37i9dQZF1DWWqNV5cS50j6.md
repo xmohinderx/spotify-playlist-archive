@@ -4,7 +4,7 @@
 
 > JAWNY makes anti pop.
 
-1,158 songs - 2 day 8 hr 11 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,159 songs - 2 day 8 hr 14 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [Haptics](https://open.spotify.com/track/6gOoqDFoY7cekwNDGbIjJ9) | [Santangelo](https://open.spotify.com/artist/23PgufXbWsCNunDb9szzKk), [Quiet Luke](https://open.spotify.com/artist/54oBi8aje0nWVrrCNJAmRF), [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh) | [Haptics](https://open.spotify.com/album/6KC0z9SE9jU5lvhS14iIUe) | 3:12 | 2022-02-25 | 2022-05-10 |
 | [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 | 2021-02-19 | 2021-05-15 |
 | [Haunted Be Thy](https://open.spotify.com/track/42LJtYCKDdJWidHx4neMcF) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [Haunted Be Thy](https://open.spotify.com/album/4iY3mLMgC6eAPRY7ZM6dIq) | 3:40 | 2022-10-25 |  |
-| [HAZY](https://open.spotify.com/track/0U8iXqyuhoFL07KOXIbN2P) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [SASSY \(Deluxe\)](https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38) | 2:48 | 2022-10-25 |  |
+| [HAZY](https://open.spotify.com/track/0U8iXqyuhoFL07KOXIbN2P) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [SASSY \(Deluxe\)](https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38) | 2:48 | 2022-10-25 | 2022-10-28 |
 | [HAZY](https://open.spotify.com/track/5JucQb5AlYCoNWXAlA1Hhp) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [SASSY \(Deluxe\)](https://open.spotify.com/album/51sUPyQRFL5HlwIqQYop4q) | 2:48 | 2022-08-13 | 2022-10-13 |
 | [Head In The Clouds](https://open.spotify.com/track/0oHivrvqAyEBDgjFF9JPXa) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Head In The Clouds](https://open.spotify.com/album/6V6rqC1c4zTWXa6MDYW56U) | 2:27 | 2020-10-13\* | 2021-05-29 |
 | [HEADCASE](https://open.spotify.com/track/2QMnichNFAhM0f4gi01Az1) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HEADCASE](https://open.spotify.com/album/5t4tKq5VpoVRF9KKZU3TwA) | 2:54 | 2021-08-21 | 2022-05-10 |
@@ -509,6 +509,7 @@
 | [I'm Just A Fan](https://open.spotify.com/track/53yFY7gXPnSk05ME87QL5D) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [I'm Just A Fan](https://open.spotify.com/album/4TTB112bXXIMtLVgiHjDA0) | 3:03 | 2021-09-29 | 2022-06-01 |
 | [I'm Not Daddy](https://open.spotify.com/track/1j8w4X9aIP06DxTm3rVSe6) | [Whu Else](https://open.spotify.com/artist/4YzpHOw5CeN2PhIgiEyGML) | [Big Brain Man](https://open.spotify.com/album/0LLhxk0MpRXHXYAVI9CXga) | 3:26 | 2020-10-13\* | 2020-11-03 |
 | [I've Seen Better Days](https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [I've Seen Better Days](https://open.spotify.com/album/7mYHrBhLey9y1r5TpL05cL) | 3:04 | 2022-01-12 | 2022-03-04 |
+| [Ibuprofen](https://open.spotify.com/track/2ZEGluhGO9zXiJp2ANmTIS) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I) | [Ibuprofen](https://open.spotify.com/album/2AGrBOB6cqH51o0oCuB69G) | 2:20 | 2022-10-27 |  |
 | [Ice Cream](https://open.spotify.com/track/4r0gNBmnMUbyj9DmVfnftn) | [Drelli](https://open.spotify.com/artist/6OO8a55KYiZw6WzH1npKd5) | [Ice Cream](https://open.spotify.com/album/4j3BuKpIifauN9ymSb9IFu) | 1:53 | 2020-10-13\* | 2020-11-03 |
 | [Icing](https://open.spotify.com/track/5TaJDVZLSreKLg31wRR284) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Icing](https://open.spotify.com/album/4gyxc8Wv6vQE8JXCcCmIAV) | 1:44 | 2021-08-01 | 2021-10-13 |
 | [Icon](https://open.spotify.com/track/22nyEAEM29tcBRhukR089b) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [SYRE](https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E) | 3:40 | 2021-07-24 | 2021-07-31 |

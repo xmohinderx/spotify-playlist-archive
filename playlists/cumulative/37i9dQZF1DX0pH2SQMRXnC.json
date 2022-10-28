@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 159200,
       "name": "Caprice",
       "url": "https://open.spotify.com/track/5hShWhULwT3YUfIBQvh9VW"
@@ -3779,7 +3779,7 @@
           "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
         }
       ],
-      "date_added": "2022-10-14",
+      "date_added": "2022-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182000,
@@ -4384,6 +4384,24 @@
     },
     {
       "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/2uJIyCqmlx44HWXmU7Q1iY"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174603,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/3FNx300XZ4FRDRYO7KlxNH"
+    },
+    {
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/6GmZJ3iIRKtvpUd4JV9x22"
       },
@@ -4515,7 +4533,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 170295,
       "name": "Jaipur - Radio Edit",
       "url": "https://open.spotify.com/track/0toVxnrTHTMb0RbILsF4a0"
@@ -4972,6 +4990,24 @@
     },
     {
       "album": {
+        "name": "Like A Lion",
+        "url": "https://open.spotify.com/album/6KdB1uh7yYtDq5VKnja2ui"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199740,
+      "name": "Like A Lion",
+      "url": "https://open.spotify.com/track/2kxeK97qaeEnpwIJDPYCQG"
+    },
+    {
+      "album": {
         "name": "Living For The Moment (2020 Remix)",
         "url": "https://open.spotify.com/album/2t6M7HjXueQfUFDIjQhPEG"
       },
@@ -5241,6 +5277,10 @@
         {
           "name": "Tuneboy",
           "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        },
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
         }
       ],
       "date_added": "2021-12-16",
@@ -6930,6 +6970,28 @@
     },
     {
       "album": {
+        "name": "Rooftop (Jordiz Remix)",
+        "url": "https://open.spotify.com/album/2aoSEx5cv3XNolGmCvskbv"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217841,
+      "name": "Rooftop - Jordiz Remix",
+      "url": "https://open.spotify.com/track/6HbyNftAudWl9wILXAN3DZ"
+    },
+    {
+      "album": {
         "name": "Run From Reality",
         "url": "https://open.spotify.com/album/43eHHMBCkXFjxWdwda3XLQ"
       },
@@ -8205,7 +8267,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 212800,
       "name": "The 9th Gate",
       "url": "https://open.spotify.com/track/0jhcGAgbsq1gNfdsDEYCIG"
@@ -8275,7 +8337,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 263800,
       "name": "The Elite",
       "url": "https://open.spotify.com/track/6RbtosFO5C2pMbPaFeMf9b"
@@ -8428,6 +8490,28 @@
     },
     {
       "album": {
+        "name": "The Night (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/7foUHVIJy7YFBDP1OFskL1"
+      },
+      "artists": [
+        {
+          "name": "Rob & Chris",
+          "url": "https://open.spotify.com/artist/4TpbEVsX4U0Cs9QhhI2JyG"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "The Night - Hardstyle Mix",
+      "url": "https://open.spotify.com/track/3XikEye0OgF9rJ4BSCtLp1"
+    },
+    {
+      "album": {
         "name": "The Reawakening (Qlimax 2021 Anthem)",
         "url": "https://open.spotify.com/album/55K2df6HQPTMQUkQfum7ET"
       },
@@ -8505,7 +8589,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 225418,
       "name": "The Things You Hated",
       "url": "https://open.spotify.com/track/6Hd0c6zBKqg1xNEjY2QYyM"
@@ -9693,6 +9777,28 @@
       "duration_ms": 222113,
       "name": "We Got The Fire",
       "url": "https://open.spotify.com/track/3ytpNDBUIoqJtqm6Xe8mtF"
+    },
+    {
+      "album": {
+        "name": "Weekend Party",
+        "url": "https://open.spotify.com/album/4iELrv5c4zQNNlzEZdLdo1"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143600,
+      "name": "Weekend Party",
+      "url": "https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8"
     },
     {
       "album": {

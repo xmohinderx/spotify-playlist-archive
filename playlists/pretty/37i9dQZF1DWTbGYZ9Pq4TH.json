@@ -1,12 +1,12 @@
 {
   "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
-  "num_followers": 158172,
+  "num_followers": 158204,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMGQwMjk4ZTU0NWY4MzE2MDNjYzE5Yjc0YzlkNzJiZjhm",
+  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDQxZmJlOTAwOTczZjZmOTkyNjBjZDdhNDU0NzIwNTFh",
   "tracks": [
     {
       "added_at": "2021-09-26 18:38:53",
@@ -295,22 +295,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Destri",
-        "url": "https://open.spotify.com/album/6xIlY5dzwgDm4dVeTteILC"
-      },
-      "artists": [
-        {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
-        }
-      ],
-      "duration_ms": 185503,
-      "name": "Destri",
-      "url": "https://open.spotify.com/track/0WBg2If3H9nN9RFl2xO2SZ"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/5lws5rpO14cspkEls5WGpq"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 186147,
       "name": "Estate",
       "url": "https://open.spotify.com/track/7AKMq2HTg8FQs9LE0v9uoy"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Destri",
+        "url": "https://open.spotify.com/album/6xIlY5dzwgDm4dVeTteILC"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "duration_ms": 185503,
+      "name": "Destri",
+      "url": "https://open.spotify.com/track/0WBg2If3H9nN9RFl2xO2SZ"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Come Nelle Favole",
-      "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Le cose che non ho",
         "url": "https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 169520,
       "name": "Ti ho voluto bene veramente",
       "url": "https://open.spotify.com/track/3z5eL4hQXaBWxSWZUTwI4e"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Come Nelle Favole",
+      "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Il bacio di Klimt",
-        "url": "https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB"
-      },
-      "artists": [
-        {
-          "name": "Emanuele Aloia",
-          "url": "https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Il bacio di Klimt",
-      "url": "https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Unica",
         "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 234600,
       "name": "Unica",
       "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Il bacio di Klimt",
+        "url": "https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Aloia",
+          "url": "https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Il bacio di Klimt",
+      "url": "https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -819,18 +819,22 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "22 settembre",
-        "url": "https://open.spotify.com/album/2XXtM3qexPIlNtotrYZjRp"
+        "name": "Soundtrack '96 - 06 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW"
       },
       "artists": [
         {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        },
+        {
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
         }
       ],
-      "duration_ms": 230693,
-      "name": "22 settembre",
-      "url": "https://open.spotify.com/track/15RRpHBNzv0gvjIry4jyOs"
+      "duration_ms": 266746,
+      "name": "Gli Ostacoli Del Cuore",
+      "url": "https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx"
     }
   ],
   "unique_name": "Amore Davvero",

@@ -1302,6 +1302,24 @@
     },
     {
       "album": {
+        "name": "Pasahili",
+        "url": "https://open.spotify.com/album/1ap5tsIDusVksftqQzTSQL"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196428,
+      "name": "Pagbilang Ng Tatlo",
+      "url": "https://open.spotify.com/track/6qLfX65ENPhm38xQruqoVP"
+    },
+    {
+      "album": {
         "name": "Pagsamo",
         "url": "https://open.spotify.com/album/2a4tsCtI450vuuBKJ3nSP2"
       },

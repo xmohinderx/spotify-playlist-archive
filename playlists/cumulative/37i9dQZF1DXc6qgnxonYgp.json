@@ -2688,6 +2688,32 @@
     },
     {
       "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/0WJLJJL367rGzVyUHSqjg8"
+      },
+      "artists": [
+        {
+          "name": "Emzy Shady",
+          "url": "https://open.spotify.com/artist/3kNgX4u7lDyGcp1cK9osEQ"
+        },
+        {
+          "name": "Vidushaan",
+          "url": "https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB"
+        },
+        {
+          "name": "Kxngxta",
+          "url": "https://open.spotify.com/artist/1PZUOVm0y4rZsnhRAFeQbC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175788,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/5HUbuhPO54I6iEQrpmOLoJ"
+    },
+    {
+      "album": {
         "name": "Take That - Single",
         "url": "https://open.spotify.com/album/1ktYvRdoJA2HTOiqZux4wj"
       },

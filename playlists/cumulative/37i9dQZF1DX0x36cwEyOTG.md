@@ -4,7 +4,7 @@
 
 > Relax with this Peaceful Indie Ambient mix.
 
-213 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/6bqSuckRW2PaqS6qzZhBpE)
+214 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/6bqSuckRW2PaqS6qzZhBpE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Dorian](https://open.spotify.com/track/1YIkJe2liZVGzSPyq6B6ij) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine](https://open.spotify.com/album/0T6V4pt9LwYgrYTEQrjISP) | 4:46 | 2018-11-26 | 2022-07-29 |
 | [Dorian](https://open.spotify.com/track/0ZilhIkx5dOgRSi7GdnKqp) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine](https://open.spotify.com/album/011ifQyKbsMAWCUFDZiMaa) | 4:48 | 2018-11-26 |  |
 | [Dreams](https://open.spotify.com/track/0TvEtOKh0AS1S0pkPVihWJ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dreams](https://open.spotify.com/album/2hfWwGFFKnNs19lM3XYVND) | 3:13 | 2018-11-26 | 2022-07-29 |
+| [Dreams](https://open.spotify.com/track/0aGgSo3vgB84TUIZTH4Qaz) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dreams](https://open.spotify.com/album/4lDEVX4314LFOTcWVWO9x0) | 3:13 | 2018-11-26 |  |
 | [Dungtitled \(In a Major\)](https://open.spotify.com/track/3OgkfYg13Jj96E982moWje) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 5:54 | 2018-11-26 |  |
 | [Ekki múkk](https://open.spotify.com/track/4aLf8xu5v9TuzVAeIPFETC) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Valtari](https://open.spotify.com/album/0ZHkshyLAi9f8DXdj3Z5ph) | 7:44 | 2018-11-26 |  |
 | [Ekki Múkk](https://open.spotify.com/track/6vHRHxt4D2odA3DUUdTfKg) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Valtari](https://open.spotify.com/album/0zNndSTi4Kqg98hzSU6d2x) | 7:44 | 2018-11-26 | 2022-07-29 |
@@ -136,7 +137,7 @@
 | [Neptune](https://open.spotify.com/track/2JU3S0fBRx71WdoPNxjJTf) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [James McAlister](https://open.spotify.com/artist/2TvVB6B050Aj5y2Hk4H84z), [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Planetarium](https://open.spotify.com/album/1wQiDPyqj92SnCIejeVn9P) | 3:04 | 2018-11-26 |  |
 | [Neptune](https://open.spotify.com/track/1kq2bV4B6akHsI5BHf48wQ) | [James McAlister](https://open.spotify.com/artist/2TvVB6B050Aj5y2Hk4H84z), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc), [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l) | [Planetarium](https://open.spotify.com/album/0msgMFYRkWX6HixjvGOQHJ) | 3:04 | 2018-11-26 | 2022-07-29 |
 | [Neverending Fountain \- Alt\. Version](https://open.spotify.com/track/77qe3JNMJjOr3HFGR3JJP0) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Neverending Fountain \(Alt\. Version\)](https://open.spotify.com/album/5am9AY6vfhvXyZ4QNqYmtX) | 4:34 | 2018-11-26 | 2022-07-27 |
-| [new forever](https://open.spotify.com/track/1nBrPEFJ72RxsFqDo5kh0C) | [trayer tryon](https://open.spotify.com/artist/2gD51qPCP8XNnk0D2ugS4R) | [new forever](https://open.spotify.com/album/3mM2ficqgN8yway90ENDCC) | 2:55 | 2020-10-15 |  |
+| [new forever](https://open.spotify.com/track/1nBrPEFJ72RxsFqDo5kh0C) | [trayer tryon](https://open.spotify.com/artist/2gD51qPCP8XNnk0D2ugS4R) | [new forever](https://open.spotify.com/album/3mM2ficqgN8yway90ENDCC) | 2:55 | 2020-10-15 | 2022-10-28 |
 | [Noise](https://open.spotify.com/track/1nWhdD40KXZgvoh8KpnjSJ) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Noise](https://open.spotify.com/album/4kOLBB19jvRtoVfnMEN5Cg) | 4:00 | 2019-09-16 | 2022-10-13 |
 | [Noise](https://open.spotify.com/track/22W6gfcddD3TeZbykBt4eR) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Noise](https://open.spotify.com/album/4d5ozUYjkVhiVCYxGTk5rO) | 4:00 | 2019-09-16 |  |
 | [Obrecht](https://open.spotify.com/track/2fgEVpafPGM0IDRRf3Q32K) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves EP](https://open.spotify.com/album/7aahYegJjCZ1QLnIBxsTwb) | 3:36 | 2018-11-26 |  |

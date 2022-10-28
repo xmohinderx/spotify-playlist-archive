@@ -4,7 +4,7 @@
 
 > 11月11日\(金\)に公開される映画<a href="https://suzume\-tojimari\-movie.jp/">『すずめの戸締まり』</a>を記念して、新海誠監督作品を彩ってきた数多くの名曲をひとつのプレイリストにしました。 <a href="spotify:show:5nlDsmpul9enHhSHgkfPD5">音声版『聴く小説・すずめの戸締まり』</a>は平日毎日更新。 © 2022「すずめの戸締まり」製作委員会
 
-30 songs - 1 hr 42 min - [published](https://open.spotify.com/playlist/2IqiBMkw1MhLU3qAermgTC)
+31 songs - 1 hr 48 min - [published](https://open.spotify.com/playlist/2IqiBMkw1MhLU3qAermgTC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Grand Escape \(Movie Edit\) \[feat\. Toko Miura\]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 3:08 | 2022-09-30 |  |
 | [Hello Goodbye & Hello \(For Movie\)](https://open.spotify.com/track/5CcOp5Xa3jLVyUmuTwJcwo) | [Anri Kumaki](https://open.spotify.com/artist/03r5Qp1stBSmYxUSF7T7vc) | [劇場アニメーション映画 星を追う子ども Original SoundTrack](https://open.spotify.com/album/4gIx3Duk6wl9yOD45Bqfbq) | 5:00 | 2022-09-30 |  |
 | [Is There Still Anything That Love Can Do? \(Movie Edit\)](https://open.spotify.com/track/4iRat7YqKIWOwkXwDwoEZc) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 2:30 | 2022-09-30 |  |
+| [KANATA HALUKA](https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [KANATA HALUKA](https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p) | 5:55 | 2022-10-27 |  |
 | [Katawaredoki](https://open.spotify.com/track/4WedBZTeFawYCBCgfj36iK) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 2:50 | 2022-09-30 |  |
 | [Main Theme](https://open.spotify.com/track/2H1FBwAjqbTn8aEj65Xfd4) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [彼女と彼女の猫 SOUNDTRACKS](https://open.spotify.com/album/0IC4wHA2HkbqzZI6oxUcSJ) | 1:23 | 2022-09-30 |  |
 | [Nandemonaiya \- movie ver.](https://open.spotify.com/track/7dEfa89dZfo6CQPdsgGCF6) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 5:44 | 2022-09-30 |  |

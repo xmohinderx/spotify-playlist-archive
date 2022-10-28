@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,876 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,951 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 43 | [POC POC](https://open.spotify.com/track/1IIoQ4SDLTA1I0KU5mHlgl) | [Recayd Mob](https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [BONE](https://open.spotify.com/artist/3YZaqF0u6XGhg6MoZBWN58), [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC) | [POC POC](https://open.spotify.com/album/5JBShduEBqPGoydz7DD1l3) | 3:43 |
 | 44 | [Criminal Influencer](https://open.spotify.com/track/1yGJUwPOptMclOwV2kvAxH) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [Criminal Influencer](https://open.spotify.com/album/4c14Voy3lrcEd4pseEreG3) | 1:56 |
 | 45 | [Avião](https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Avião](https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf) | 2:19 |
-| 46 | [Como a chuva cai](https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Como a chuva cai](https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R) | 2:32 |
-| 47 | [Olha Pro Oclin](https://open.spotify.com/track/7BWjPllXbBJu4BMNAOJSSw) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [Doka Language](https://open.spotify.com/album/4y7lYLaNRtK7cBfDUtCuNH) | 3:41 |
+| 46 | [Olha Pro Oclin](https://open.spotify.com/track/7BWjPllXbBJu4BMNAOJSSw) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [Doka Language](https://open.spotify.com/album/4y7lYLaNRtK7cBfDUtCuNH) | 3:41 |
+| 47 | [Como a chuva cai](https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Como a chuva cai](https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R) | 2:32 |
 | 48 | [Reunião Dos Cria](https://open.spotify.com/track/3Kk5YDf8pTK4TwQyWkBex5) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Miatã](https://open.spotify.com/artist/40OkyQ4ZTOm2VzUBgsRfRG), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Reunião Dos Cria](https://open.spotify.com/album/1isnAVgrx4jWF2O66HzDl5) | 3:48 |
 | 49 | [RJ Mais Que Atlanta](https://open.spotify.com/track/65iZrNUeKYgiQXSYvVQVWQ) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs) | [RJ Mais Que Atlanta](https://open.spotify.com/album/3fkbibWGlHrHzaaoJ6MXq1) | 3:04 |
 | 50 | [C Walk 2](https://open.spotify.com/track/0CeaAvEotqd1vxT25x2oQ2) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [C Walk 2](https://open.spotify.com/album/1acftUORHmGwfl2HMP2ZUH) | 3:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [OUTRO PATAMAR](https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [OUTRO PATAMAR](https://open.spotify.com/album/1nb3EIZXO75bxWDz0Agxfo) | 3:26 |
 | 60 | [Perfil \#84 \- Eu Vim de Lá](https://open.spotify.com/track/543Yg40LdcfkZkoxCR0kY9) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Perfil \#84 \- Eu Vim de Lá](https://open.spotify.com/album/1JjmIotWoVrQ8i8ZI1if1R) | 3:10 |
 
-Snapshot ID: `MTYzMDYwNzc5NywwMDAwMDAwMDQ4YjEyN2I3ZDU5MDRiYWI0Y2YyMzA4ZDRkNGUxMzky`
+Snapshot ID: `MTYzMDYwNzc5NywwMDAwMDAwMDQ2NWJmNjI0NGZhYWM4OGViYWRjYTQyNDhmZjU5YjZm`

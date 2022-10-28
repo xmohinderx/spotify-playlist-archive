@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-511 songs - 22 hr 50 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+513 songs - 22 hr 56 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 | 2022-07-28 |  |
 | [Jazz Neko](https://open.spotify.com/track/49j4lOcuvvZfzixq12K6QR) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Jazz Neko](https://open.spotify.com/album/2RmRQMaWxREHFSyoS1F4O2) | 2:32 | 2021-12-23 | 2022-07-29 |
 | [JUNK STORY](https://open.spotify.com/track/3EioC8UfNqsaHgVKTktNUE) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [JUNK STORY](https://open.spotify.com/album/0MtEmJKf6IBPaCjafWEeDr) | 2:07 | 2021-12-23 | 2022-07-27 |
+| [JUST KEEP IT](https://open.spotify.com/track/3Drv8dUZUirRJpOvixlDUA) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/4DrsfHl7wo90fuejIXyrGM) | 3:13 | 2022-10-28 |  |
 | [K Bye](https://open.spotify.com/track/7K6TygqDoUz9TqhVzZWxVj) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [K Bye](https://open.spotify.com/album/5BevqJGwWGDUtatocaA6Ef) | 3:18 | 2021-12-23 | 2022-02-10 |
 | [Kadena Sea Wall](https://open.spotify.com/track/2V6xMEfwzUfjxW4beJlgsu) | [SENZU BEATS](https://open.spotify.com/artist/6pi8VD4XdJYHEesPGqySWV) | [Kadena Sea Wall](https://open.spotify.com/album/2xmvVG7ZhKDDAAWjx2QSWv) | 1:56 | 2021-12-23 | 2022-07-29 |
 | [kageokuri](https://open.spotify.com/track/3Nw9mVyDGmSQ3Ik9BUBBD9) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [kageokuri](https://open.spotify.com/album/0d6OaFJOV6iROQFrRhew6C) | 3:35 | 2022-07-21 | 2022-07-27 |
@@ -292,7 +293,7 @@
 | [Moravian waltz \- DJ Mitsu The Beats Remix](https://open.spotify.com/track/6Fo7bDpgv3HqQyR1gvcdnE) | [Otoji + Ray](https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Moravian waltz \(DJ Mitsu The Beats Remix\)](https://open.spotify.com/album/5wj3jMzvyINv4fegRBOl5O) | 3:57 | 2022-06-30 | 2022-07-07 |
 | [More Peace and More Love \(Instrumental\)](https://open.spotify.com/track/0zOA0CG5eTYDavVvMAYFSi) | [Malus & Lyrical Waterside](https://open.spotify.com/artist/0sdUyJQkA7yID44LkCB5M8) | [Connectivity \(Instrumental\)](https://open.spotify.com/album/2kYgVgfTdzEbZcE03h7li3) | 4:10 | 2021-12-23 | 2022-07-28 |
 | [Morioka](https://open.spotify.com/track/75K6I2OaSRUa66asvVZw0U) | [Taikutsu](https://open.spotify.com/artist/4C8imA7ub7SiyiwApuSqc6) | [Morioka](https://open.spotify.com/album/7Mypulnxrlxema141l9vui) | 1:20 | 2021-12-23 | 2022-04-18 |
-| [morning bird](https://open.spotify.com/track/3uePfJnilCndpwIOXXNF5J) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [82](https://open.spotify.com/album/2APV4kqvbJkCrZGm11otCT) | 1:47 | 2022-07-28 |  |
+| [morning bird](https://open.spotify.com/track/3uePfJnilCndpwIOXXNF5J) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [82](https://open.spotify.com/album/2APV4kqvbJkCrZGm11otCT) | 1:47 | 2022-07-28 | 2022-10-28 |
 | [morning bird](https://open.spotify.com/track/7zxNy5zBGGh8avoNcoWQMH) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [82](https://open.spotify.com/album/4ZyJ3LQ1XKC8GAM9RUKLE6) | 1:47 | 2021-12-23 | 2022-07-23 |
 | [Morning Bird \- Instrumental](https://open.spotify.com/track/3AAkAL6VTVBJ4ZNSeRr0ai) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Morning Bird \(Instrumental\)](https://open.spotify.com/album/0iMEZTSuLyOsJvkqmzeqe6) | 3:17 | 2021-12-23 |  |
 | [Morning Steps](https://open.spotify.com/track/5z9YljuHcRfG76Pb5Yclb1) | [Lively Rhymes](https://open.spotify.com/artist/5uuJ6BtUscRMOJduZM48pz) | [Morning Steps](https://open.spotify.com/album/75joiSrDFFsnz9tDsXSiDF) | 3:01 | 2022-01-06 | 2022-07-12 |
@@ -382,7 +383,7 @@
 | [Ryukyu](https://open.spotify.com/track/71V8pJTnwxmHFUW2U1VK16) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP) | [Waterfall Dreams](https://open.spotify.com/album/2swHxeQeuQjjBpS7i0ANsA) | 1:54 | 2022-07-28 |  |
 | [Sacred Forest](https://open.spotify.com/track/5XWbKddO95oyc40rBD6BSM) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Sacred Forest](https://open.spotify.com/album/3pkcpe7vqTaDXDQ9Xs6vth) | 2:08 | 2021-12-23 | 2022-01-10 |
 | [Sad Night](https://open.spotify.com/track/79Pb3io6V2GVUutWyBFmX2) | [Davide Perico](https://open.spotify.com/artist/2HieRZlSa2pQdRBWVN5CqT), [Dojee](https://open.spotify.com/artist/7JSYzekfB8Bq2w9OAo7TK3) | [Sad Night](https://open.spotify.com/album/2JjbSOCacC05VRJkJGcdEG) | 2:04 | 2021-12-23 | 2022-07-26 |
-| [SAKURA](https://open.spotify.com/track/2CyocAM5pT88oWHLUGSLyy) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SAKURA](https://open.spotify.com/album/6UamsYfTZIbK3iD1vxw5J3) | 2:02 | 2022-03-31 |  |
+| [SAKURA](https://open.spotify.com/track/2CyocAM5pT88oWHLUGSLyy) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SAKURA](https://open.spotify.com/album/6UamsYfTZIbK3iD1vxw5J3) | 2:02 | 2022-03-31 | 2022-10-28 |
 | [sakura](https://open.spotify.com/track/3lgIJDGKrpEAmzcZ8KwjIa) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [scat](https://open.spotify.com/album/4Ys3tmuEwecgFxmnCSKLlK) | 3:35 | 2021-12-23 | 2022-07-29 |
 | [SAKURA \(SOUND TOUR\)](https://open.spotify.com/track/0ZbCIFHHkC4pOBxD1qJUJX) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31) | [SAKURA \(SOUND TOUR\)](https://open.spotify.com/album/65hKXJu0KmXrQ7Skss7sXN) | 1:36 | 2022-04-14 | 2022-07-11 |
 | [Samui](https://open.spotify.com/track/02vMiqjglGHUt0poNcIf5v) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8) | [Samui](https://open.spotify.com/album/6elgJt4O7fsS80BDj992CN) | 1:24 | 2022-03-24 | 2022-04-19 |
@@ -417,6 +418,7 @@
 | [Sous les étoiles](https://open.spotify.com/track/2VGD6dKxBoh6Yq94XTidZg) | [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Sous les étoiles](https://open.spotify.com/album/0U29rwwf7QYM3vJIKeZCqj) | 1:38 | 2022-01-13 | 2022-05-27 |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2022-01-13 |  |
 | [SPHERE](https://open.spotify.com/track/7z5sMgAaXOcToQhgynYjHG) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPHERE](https://open.spotify.com/album/5zpSPICBYaR5EX73CtD2a1) | 1:39 | 2022-09-22 |  |
+| [SPICA](https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPICA](https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt) | 2:16 | 2022-10-28 |  |
 | [Spiritual State](https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [The Champloo](https://open.spotify.com/artist/2qhjN0fdlNPZtCiP3MALRH) | [Spiritual State](https://open.spotify.com/album/3vJyN20ZkQ2x5YMjniVrwY) | 6:57 | 2022-04-21 |  |
 | [Spring Fever](https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk) | 4:03 | 2022-07-28 |  |
 | [Spring Fever](https://open.spotify.com/track/2k21QRkejIDUk5b7K9YA27) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/7wFqHdaHXqzKDepQNoh5EZ) | 4:03 | 2021-12-23 | 2022-07-26 |

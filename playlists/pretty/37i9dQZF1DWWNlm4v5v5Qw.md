@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: DEETRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,495 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,493 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 2 | [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 |
 | 3 | [CHECK IN](https://open.spotify.com/track/5IkL3uOBNhkXoyG8NkSNHY) | [Deetranada](https://open.spotify.com/artist/2wZt8FDVui01y98mChSK0t), [Ky$hia](https://open.spotify.com/artist/5g3QyuruqPVJplxTxIxAyK) | [CHECK IN](https://open.spotify.com/album/1SYTg7nRTnrI3lFz9QqxPk) | 2:38 |
 | 4 | [HEAD TO HADES](https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 2:55 |
-| 5 | [I Tried w/ Juveniletristen](https://open.spotify.com/track/2PrbHDq2BPmBJhQknUMs9j) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [Juveniletristen](https://open.spotify.com/artist/0DpzEg1qaTcFvCmpiHm4vc) | [I Tried w/ Juveniletristen](https://open.spotify.com/album/7omH8kpRfBmkwRDrtWrLiW) | 1:57 |
+| 5 | [I Tried](https://open.spotify.com/track/2PrbHDq2BPmBJhQknUMs9j) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [Juveniletristen](https://open.spotify.com/artist/0DpzEg1qaTcFvCmpiHm4vc) | [I Tried](https://open.spotify.com/album/7omH8kpRfBmkwRDrtWrLiW) | 1:57 |
 | 6 | [Boy Bye \(feat\. Lucky Daye\)](https://open.spotify.com/track/0U8tC6UzgYePgOJT6Chlw9) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 5:01 |
 | 7 | [Xpensive](https://open.spotify.com/track/57MTexDSwasDyOT7ydwJze) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0) | [Incrementum](https://open.spotify.com/album/3aLjR6JIlVbHFtajRHtMsR) | 3:13 |
 | 8 | [Contact](https://open.spotify.com/track/5TQSK96ovPsfX7JsWGPxEQ) | [3ohBlack](https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT) | [Contact](https://open.spotify.com/album/5seomwiB0N53hjaEoLOdb4) | 2:14 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 28 | [Gratuity](https://open.spotify.com/track/1hegHGW3yUFJxRWOVl5ga9) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Gratuity](https://open.spotify.com/album/3RGJQBgfxj2bYWCoEPoc5e) | 3:37 |
 | 29 | [Streets](https://open.spotify.com/track/1TYByBVUgkH7lndO0YRmbl) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Streets](https://open.spotify.com/album/0JRGXtHtaXzYM4fEhtXJw3) | 2:24 |
 | 30 | [If You Must Go](https://open.spotify.com/track/7l5t0qNaHHMUOWgIrnJ4ft) | [Sækyi](https://open.spotify.com/artist/6I1XGf08ZvqDUBCgpRjqzB) | [If You Must Go](https://open.spotify.com/album/67mwgOp6oS2Gx7AHJ9icFr) | 3:16 |
-| 31 | [Wicked](https://open.spotify.com/track/3EhGkHOfcJ0ltSDht5vMRg) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Wicked](https://open.spotify.com/album/7ohqrhLykiF5AddwBzGdPs) | 2:07 |
+| 31 | [wicked](https://open.spotify.com/track/3EhGkHOfcJ0ltSDht5vMRg) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [wicked](https://open.spotify.com/album/7ohqrhLykiF5AddwBzGdPs) | 2:07 |
 | 32 | [Every Void](https://open.spotify.com/track/6Dn9TvQo2iHiioQ7nsixUc) | [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [Pit of My Dreams](https://open.spotify.com/album/5ZiFmjZokDMuuYnbjdEdzZ) | 3:38 |
 | 33 | [Life for Now](https://open.spotify.com/track/4vkNiRlxV9Aagzbcp1HI3M) | [Jru Anthony](https://open.spotify.com/artist/3x8X8PhtVyn9Mo90kONWLZ) | [Life for Now](https://open.spotify.com/album/5yYhR2rpdtHsdG9Nwo3OhS) | 4:04 |
 | 34 | [Something To Talk About](https://open.spotify.com/track/7hKWeVTJDVKf9Ogd21RmpB) | [Until The Very End](https://open.spotify.com/artist/5Jv5Lpg9AV9WJK9kfnZAX0), [FNSHLINE](https://open.spotify.com/artist/2BveIQx5v3GG0w8aI7zFUE) | [Something To Talk About](https://open.spotify.com/album/4MaSCgUF7hMjc7QCdIBsb0) | 3:37 |

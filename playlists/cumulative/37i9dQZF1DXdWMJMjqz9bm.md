@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-398 songs - 18 hr 36 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
+399 songs - 18 hr 38 min - [published](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,8 @@
 | [Sorry Not Sorry](https://open.spotify.com/track/41ojBJmLyjj9l1e0iLK98X) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [Sorry Not Sorry](https://open.spotify.com/album/1wG5Kl0kWVFOWxs3SZ2JTo) | 2:40 | 2022-08-03 | 2022-10-13 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4eeYVXUqJdGePFWBsNQDBR) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw), [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [Sorry Not Sorry](https://open.spotify.com/album/3pq8h5l46v9qk2Cx03qX0q) | 2:40 | 2022-09-09 | 2022-10-15 |
 | [spilled drinks](https://open.spotify.com/track/78zcMX1Gpla399x1Clykdh) | [Eian Blue](https://open.spotify.com/artist/72n6CG0Bz1LM5zLWK54gVQ), [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV) | [spilled drinks](https://open.spotify.com/album/12lilHxzKXof8gLRxAILiW) | 1:55 | 2022-01-11 | 2022-02-19 |
-| [Splash](https://open.spotify.com/track/56K7o58HvDoJW9ABFhJrmR) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [Excuse Me](https://open.spotify.com/album/5fkjcxPbrRsPGruhqix8pF) | 3:19 | 2022-10-07 |  |
+| [Spinnin](https://open.spotify.com/track/5OzgCc3gQsqchX95k1C1Qa) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [Spinnin](https://open.spotify.com/album/00MzZpBeVYJBvnt6dKrvS4) | 1:50 | 2022-10-27 |  |
+| [Splash](https://open.spotify.com/track/56K7o58HvDoJW9ABFhJrmR) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [Excuse Me](https://open.spotify.com/album/5fkjcxPbrRsPGruhqix8pF) | 3:19 | 2022-10-07 | 2022-10-28 |
 | [Spooky SZN 3](https://open.spotify.com/track/5Lr1ffVzV34ash1NqbAPIR) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Spooky SZN 3](https://open.spotify.com/album/2azBbeh6hFJvP0eLUGn7hz) | 3:01 | 2022-09-23 |  |
 | [Star](https://open.spotify.com/track/46e8kngVlFjuDTCyyTbLfJ) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [If Not Now, When?](https://open.spotify.com/album/5K4Ygp0yLgeaYSKFizi15P) | 1:31 | 2022-05-06 | 2022-07-13 |
 | [Stars In The Sky \- From Sonic The Hedgehog 2](https://open.spotify.com/track/0WFOl7P9gowO92fuI0eJIZ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Stars In The Sky \(From Sonic The Hedgehog 2\)](https://open.spotify.com/album/77nZgGhFXUDxjZobYTej2e) | 3:05 | 2022-03-25 | 2022-04-23 |

@@ -522,6 +522,24 @@
     },
     {
       "album": {
+        "name": "Abismo",
+        "url": "https://open.spotify.com/album/3porkH8eOkskOaA6nVerJy"
+      },
+      "artists": [
+        {
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217836,
+      "name": "Abismo",
+      "url": "https://open.spotify.com/track/1HoIcMd7Ad4mnJiL45ozKR"
+    },
+    {
+      "album": {
         "name": "Abril",
         "url": "https://open.spotify.com/album/4lOYOtCwasC7FplyxCZhHu"
       },

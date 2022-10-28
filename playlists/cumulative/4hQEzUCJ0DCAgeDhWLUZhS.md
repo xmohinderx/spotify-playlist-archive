@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Paramore
 
-333 songs - 20 hr 1 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+334 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Venus Fly Trap](https://open.spotify.com/track/6h7AmUi3ghBeEfsZygAxOd) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land](https://open.spotify.com/album/5fa6oWFXuvaVkY49mfOsRd) | 2:38 | 2021-06-12 |  |
 | [Vigil](https://open.spotify.com/track/3O5iJnOsqmlJ52ilqbpJJv) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Vigil](https://open.spotify.com/album/5y1eOXlhAxRMDTy2OhbSP6) | 3:14 | 2022-08-05 |  |
 | [Village](https://open.spotify.com/track/5mfY6VHihf9dv2XWPxWoYU) | [Merpire](https://open.spotify.com/artist/4oTaPrNvNtZW1MwNmmhxuY) | [Village](https://open.spotify.com/album/28Ju3dlegCS6jtkVO6n0h2) | 3:23 | 2021-05-14 | 2022-03-18 |
+| [Vivien](https://open.spotify.com/track/4GPYVJUBEXr0WfhozDhvfr) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Vivien](https://open.spotify.com/album/0gaTBHvBZXbQvhDzMjDnlh) | 3:53 | 2022-10-28 |  |
 | [Voices](https://open.spotify.com/track/1MAgyApG5ey1xaXbziJ4ji) | [Shaman's Harvest](https://open.spotify.com/artist/3pigXV2QUatr3szcb3MacR) | [Voices](https://open.spotify.com/album/1MiW0BArEWAmqqTuvX63n9) | 4:00 | 2021-08-25 |  |
 | [Vortex](https://open.spotify.com/track/58ZtTGuySqYHlquNK2ryyI) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Vortex](https://open.spotify.com/album/2yTgZSjCAn1w9n7hnyb78L) | 4:38 | 2021-08-21 |  |
 | [Vulnerability](https://open.spotify.com/track/4mO3tgKhdb21D92dDmgnCR) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [Vulnerability](https://open.spotify.com/album/3G0PSYxUg6w3YRYn85XBsO) | 3:50 | 2022-01-14 |  |

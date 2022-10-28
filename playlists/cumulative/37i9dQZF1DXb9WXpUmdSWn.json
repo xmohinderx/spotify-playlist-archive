@@ -161,7 +161,7 @@
     {
       "album": {
         "name": "Cecilia",
-        "url": "https://open.spotify.com/album/5ruxIkJ6nUwvGo30icvE1k"
+        "url": "https://open.spotify.com/album/5dc2PCEENKvXQQD9KkodNx"
       },
       "artists": [
         {
@@ -172,6 +172,24 @@
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 149854,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/16d7q5zl3kD0qiREcYb15w"
+    },
+    {
+      "album": {
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/5ruxIkJ6nUwvGo30icvE1k"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
       "duration_ms": 149854,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/47t7MRzHXJ3mnL3TjN6a8J"

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: High Loc & Henry \(西屯純愛組\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,593 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,604 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [同一掛](https://open.spotify.com/track/23qZ0SZ4i906noxRI1SRZW) | [西屯純愛組](https://open.spotify.com/artist/6cYpkZJmpjYnWD6M5IDddT) | [水牛精神](https://open.spotify.com/album/1uX15wp7tUZGAJ1XR56I4y) | 2:48 |
 | 2 | [Flow Guilty](https://open.spotify.com/track/3zemDQh2rewuC7FBsnmFa4) | [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [Humble Swag GT Mixtape](https://open.spotify.com/album/1PfhJ0gIqA0wMpEScU9mCd) | 3:24 |
-| 3 | [外面有點冷 feat\. 蛋堡 Soft Lipa](https://open.spotify.com/track/5mQKqKNAINBrhl5MCXeDPi) | [Gordon](https://open.spotify.com/artist/4L4ArdVJzY6Uxbd82fJjqu), [蛋堡](https://open.spotify.com/artist/3YAm4gDR6RoEAU2wjDtXbm) | [外面有點冷 feat\. 蛋堡 Soft Lipa](https://open.spotify.com/album/3iBaI177ig9AIswqdDMzp7) | 4:27 |
+| 3 | [外面有點冷 feat\. 蛋堡 Soft Lipa](https://open.spotify.com/track/5mQKqKNAINBrhl5MCXeDPi) | [Gordon](https://open.spotify.com/artist/4L4ArdVJzY6Uxbd82fJjqu), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [外面有點冷 feat\. 蛋堡 Soft Lipa](https://open.spotify.com/album/3iBaI177ig9AIswqdDMzp7) | 4:27 |
 | 4 | [Why so hard](https://open.spotify.com/track/33vxVNJ4hEGkTLGwJzulZV) | [CuzyBoii](https://open.spotify.com/artist/1trYwqXrzNL5dSXx7xrclq) | [Why so hard](https://open.spotify.com/album/5xJ889nCzswDhcG8yuZxaR) | 2:13 |
 | 5 | [屁股動](https://open.spotify.com/track/429DUcYNuIWjxTVgFxOEu0) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [屁股動](https://open.spotify.com/album/0SzNil3bqbUcHu1upqywj1) | 3:03 |
 | 6 | [閉上雙眼 Close Eyes](https://open.spotify.com/track/5hyiN9P6myxfj1vc20C7gT) | [Isey](https://open.spotify.com/artist/7t4roTZZKbgz1RJbEgLq7z) | [閉上雙眼 Close Eyes](https://open.spotify.com/album/0opuLa29h9UEqzH2ZQ78RK) | 3:42 |

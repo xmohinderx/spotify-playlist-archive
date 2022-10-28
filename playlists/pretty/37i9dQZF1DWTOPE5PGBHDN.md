@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 
 > Para las mujeres que le dan duro al  gym\. ¡A quemar grasa con este playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,241 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,374 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 | 82 | [La Respuesta](https://open.spotify.com/track/2fOjendzUzepHwR9QrVyYF) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Respuesta](https://open.spotify.com/album/4lKXaL7t6jn8V4nvmZ6ggZ) | 3:02 |
 | 83 | [Coronao Now](https://open.spotify.com/track/7FbKipScVxkjQxQXwTd0gL) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [Coronao Now](https://open.spotify.com/album/5VVkOFYXmjtYd6hoasaWKQ) | 3:37 |
 | 84 | [Bebesita](https://open.spotify.com/track/69XHHNUwwgm7I0dlfqaGJS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:05 |
-| 85 | [Te Soñé de Nuevo](https://open.spotify.com/track/4oPnxZzoc8HM5Pva4FDeIp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nibiru](https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH) | 3:18 |
-| 86 | [badwine \- Remix](https://open.spotify.com/track/5MPQfbK3LIOyPT84WJyD7g) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [badwine \(Remix\)](https://open.spotify.com/album/6lv1q40UA6Fpe6MEImlzpc) | 2:34 |
+| 85 | [badwine \- Remix](https://open.spotify.com/track/5MPQfbK3LIOyPT84WJyD7g) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [badwine \(Remix\)](https://open.spotify.com/album/6lv1q40UA6Fpe6MEImlzpc) | 2:34 |
+| 86 | [Te Soñé de Nuevo](https://open.spotify.com/track/4oPnxZzoc8HM5Pva4FDeIp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nibiru](https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH) | 3:18 |
 | 87 | [La Pared 360](https://open.spotify.com/track/2w8SKQCnT2YQK1qCqKl2uW) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Pared 360](https://open.spotify.com/album/396afOAgz7QHqygyGhMJbw) | 2:32 |
 | 88 | [No Te Veo \- Remix](https://open.spotify.com/track/0stKSegkdrfLTDvm5sIO38) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [No Te Veo](https://open.spotify.com/album/5hwGqi428VUXq9w1Lg8rIP) | 4:12 |
 | 89 | [Cúrame \(feat\. Manuel Turizo\)](https://open.spotify.com/track/6rXxAohZzTDsP5KT3IDFIU) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Cúrame \(feat\. Manuel Turizo\)](https://open.spotify.com/album/0BqAMr6G5Ag5xUNxxvmwpm) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 | 99 | [Guayo](https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Guayo](https://open.spotify.com/album/7wGdslyqdVvqMV3nPAL6uN) | 3:42 |
 | 100 | [Me Gusta \- Remix](https://open.spotify.com/track/17G9G5tBsdzmKmoHIh00sX) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Me Gusta \(Remix\)](https://open.spotify.com/album/1D7lFbv4p8DjJVKOcHfX1r) | 3:17 |
 
-Snapshot ID: `MTU5MzcxMTM1MywwMDAwMDAwMDdkODBmZTZlNjk5ZTRlZjU3OThkODcwOTY5ZTNiNDQx`
+Snapshot ID: `MTU5MzcxMTM1MywwMDAwMDAwMDc1N2NjODA4NjRkYmMwYWZiNDQ2OTIzNzVjZTg0MzBk`

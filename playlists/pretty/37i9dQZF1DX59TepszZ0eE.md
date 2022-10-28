@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=30kKyVSiQHO0XN\_Fsd07xA">Benjamin Dube</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,152 likes - 75 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,165 likes - 75 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 41 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 |
 | 42 | [He Brought Me This Far](https://open.spotify.com/track/768aDfYOtuztbTQvPOQitB) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Ebenezer](https://open.spotify.com/album/3YmVRVznUow3ci23VqyVel) | 6:24 |
 | 43 | [Mkhulumsebenzi](https://open.spotify.com/track/49kdVsVi2XuVxEnPHdwxnk) | [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ), [Oasis Worship](https://open.spotify.com/artist/7ayajVitzTv40GuERpcE72) | [All About Jesus](https://open.spotify.com/album/2gkN4HGwahDA9X52GFzwrx) | 5:01 |
-| 44 | [Yiwo Lawa Amandla \- Live](https://open.spotify.com/track/55jg7cLwPqviukIJ5l9Jg5) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Mandla Tshabalala](https://open.spotify.com/artist/5WjrNT5ivnPHMPMPowIFFm), [House of Grace Choir](https://open.spotify.com/artist/16EVGD7dtcBHbkDPS1oItu) | [Victorious in His Presence \(Live\)](https://open.spotify.com/album/4QykhBdI1H5g8dUYjmTBz0) | 8:28 |
+| 44 | [Yiwo Lawa Amandla](https://open.spotify.com/track/0TlaxuJDdtZuTnTjgkNzEa) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Mandla Tshabalala; House of Grace Choir](https://open.spotify.com/artist/2ahSbEy0lmfTqf1iK3kQrU) | [Victorious in His Presence](https://open.spotify.com/album/0Zcuz4iyNg81kcMSY140p6) | 8:28 |
 | 45 | [UnguJehova Igama Lakho \(Live\)](https://open.spotify.com/track/2GrEouhLr4QoieMsy1LD8u) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [UnguJehova Igama Lakho \(Live\)](https://open.spotify.com/album/3NbtHoVq45LvFW1yS9Tjzn) | 7:14 |
 | 46 | [Jehova Retshepile Wena \- Live](https://open.spotify.com/track/41VfsXDe70EMrh0j4aLnuM) | [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [Another Level of Worship \(Live\)](https://open.spotify.com/album/1IjS2iFryRCTlyUbG20PGX) | 5:41 |
 | 47 | [Ulwandle](https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Egameni LikaJesu](https://open.spotify.com/album/5GyAo0sFpDRvvkXH7xT35R) | 4:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 74 | [The Lord Is My Sheperd](https://open.spotify.com/track/1a4rMlkfKsKxIgtJkeXI99) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [The Lord Is My Sheperd](https://open.spotify.com/album/4Q325PCLn40PKPLMQzgSS0) | 4:56 |
 | 75 | [Ziphozenkosi](https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx) | 4:52 |
 
-Snapshot ID: `MTY2Mzg4Mzk0MCwwMDAwMDAwMGVhYzhkMTJiOGE4NWE0MGYwOWRlMjI5MGVhOWNkOTNh`
+Snapshot ID: `MTY2Mzg4Mzk0MCwwMDAwMDAwMGI4NjM0NmQ5NzUyMmUxOWNjMzBlY2ExZDVmNGEzM2U4`

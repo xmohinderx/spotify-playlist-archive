@@ -4,7 +4,7 @@
 
 > Conscious songs for everyday reflection.
 
-94 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/6PGA40jJvnwvOGylzYEmlj)
+95 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/6PGA40jJvnwvOGylzYEmlj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Breathe](https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Kulture](https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT) | 4:36 | 2020-11-25 |  |
 | [Call on the Wolves](https://open.spotify.com/track/1h1rjRbZwiVc1y2jNqYphX) | [Dustin Thomas](https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK) | [Call on the Wolves](https://open.spotify.com/album/3ne5IY3MK0FoaxXccvBvR4) | 5:33 | 2020-11-25 | 2022-07-29 |
 | [Caribbean Skies](https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [Heroin and Helicopters](https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1) | 3:59 | 2020-11-25 |  |
-| [Chill Out](https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Chill Out](https://open.spotify.com/album/16PDU6lKWAdHpYTGvggfz7) | 3:55 | 2020-11-25 |  |
+| [Chill Out](https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Chill Out](https://open.spotify.com/album/16PDU6lKWAdHpYTGvggfz7) | 3:55 | 2020-11-25 | 2022-10-28 |
 | [Cowboys & Indians](https://open.spotify.com/track/5gd7jhg0RA2X26uA4iRqyZ) | [Dustin Thomas](https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK) | [Cowboys & Indians](https://open.spotify.com/album/3U3TLuR9tNcwQKdpWyTXVJ) | 4:42 | 2020-11-25 | 2022-07-28 |
 | [Directions](https://open.spotify.com/track/2h5silGx7nHrQ6IWMw1huo) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb), [Joseph](https://open.spotify.com/artist/3nYWxemw6BD1qgixGfn8cI) | [HOKA](https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T) | 4:21 | 2020-11-25 |  |
 | [Directions](https://open.spotify.com/track/60VDrzU6bCr3QJ1T6ctymr) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb), [Joseph](https://open.spotify.com/artist/4Th1eLJe7p566Z4NNwfF1o) | [HOKA](https://open.spotify.com/album/4qk7ZGYGZvCN0qB3JHhuLF) | 4:21 | 2020-11-25 | 2022-07-28 |
@@ -73,6 +73,7 @@
 | [Sometimes I](https://open.spotify.com/track/6sP0vf4MzuUvN1r5FXtg2d) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/16bQ6nIkVt3GrGNFOyiGIX) | 6:17 | 2020-11-25 | 2022-09-30 |
 | [Speak out](https://open.spotify.com/track/4WE6L50VXeRbYOqybh2Wi9) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Leylines](https://open.spotify.com/album/6nGSseeEzhTHlK2z4R2xQE) | 3:55 | 2020-11-25 | 2022-09-30 |
 | [Speak Out](https://open.spotify.com/track/56PweNlDakf2ookZBGHO9M) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Leylines](https://open.spotify.com/album/0DhPojwiQq6BREwY5DJjYC) | 3:55 | 2020-11-25 | 2022-07-29 |
+| [Speak out](https://open.spotify.com/track/5WpkhH54wP0WQBMhFZiTdq) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Leylines](https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G) | 3:55 | 2020-11-25 |  |
 | [Steppegrass](https://open.spotify.com/track/0r2RnFIvxFCX4zspqQg86F) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Road Goes All Night](https://open.spotify.com/album/1lxUhQ6Hf8WfhPhO9vHH6q) | 5:51 | 2020-11-25 | 2022-07-29 |
 | [Steppegrass](https://open.spotify.com/track/4qKOmcvaDx0hYHdOCqq90L) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Road Goes All Night](https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D) | 5:51 | 2020-11-25 |  |
 | [Storm Boy](https://open.spotify.com/track/7J4GmvwgVBKMS6BAWnhLwB) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Storm Boy](https://open.spotify.com/album/1hVCb34MRa3jaxuah3HHT7) | 3:59 | 2020-11-25 |  |

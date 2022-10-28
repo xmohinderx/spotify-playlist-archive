@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-135 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+136 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Less](https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Less](https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo) | 1:25 | 2022-03-25 |  |
 | [Let Go](https://open.spotify.com/track/44YtzfSlmFcDPozHlfeivt) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Let Go](https://open.spotify.com/album/2ts5wKcg6bvwzDutdpfFAj) | 2:57 | 2022-08-25 |  |
 | [Let's Be Dead Together](https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 3:19 | 2022-03-03 |  |
+| [Lights Down Low](https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Riunga](https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN) | [R\-/LBT](https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc) | 3:50 | 2022-10-27 |  |
 | [Lollipop](https://open.spotify.com/track/4UHMy4KxMAAEu4dSSHMe8h) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Lollipop](https://open.spotify.com/album/5kZxneIXl7kwSMClNweMki) | 3:26 | 2022-02-24 |  |
 | [Lonely In Nairobi](https://open.spotify.com/track/6ilStQsc2cozlrjmseAJ7N) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Lonely In Nairobi](https://open.spotify.com/album/3O3f7B13CuboRb9Pbv505l) | 3:09 | 2021-12-09 |  |
 | [Lorn](https://open.spotify.com/track/3xJP7Xi4hmhkDLev7KyMrX) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Lorn](https://open.spotify.com/album/5XgH8gmjANlwLv4w4k9NnO) | 3:39 | 2021-10-15 | 2022-02-05 |
@@ -87,7 +88,7 @@
 | [Ndanu](https://open.spotify.com/track/6BQHAffEfWfGqZK9WKZGuJ) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Ndanu](https://open.spotify.com/album/0S5c02uwpmrACcV7UFgm6y) | 3:28 | 2022-02-04 |  |
 | [Never Left](https://open.spotify.com/track/5NmZh4HWwcrABFobXleIF6) | [Cxnrvd](https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ) | [Never Left](https://open.spotify.com/album/1S9nZvo7L2skkCIx6QxlNN) | 2:52 | 2022-02-11 |  |
 | [Never Loose](https://open.spotify.com/track/3W7ZhocyMpK2b4MxwbpGu5) | [Bura](https://open.spotify.com/artist/368JQ3ZxIJ55JQaKaGdh8k) | [Never Loose](https://open.spotify.com/album/3AnUhJWeLVlQ1hD16fQ4bC) | 3:15 | 2021-12-16 |  |
-| [New Level // SUPERWATER](https://open.spotify.com/track/0wIDhVcSIKvB8zxpfJc9dC) | [BEMATA](https://open.spotify.com/artist/795rusHeDFKZwVrgmzx87x) | [New Level // SUPERWATER](https://open.spotify.com/album/2N0k8TVpxu2uZuR3C0tQHH) | 3:20 | 2021-10-15 |  |
+| [New Level // SUPERWATER](https://open.spotify.com/track/0wIDhVcSIKvB8zxpfJc9dC) | [BEMATA](https://open.spotify.com/artist/795rusHeDFKZwVrgmzx87x) | [New Level // SUPERWATER](https://open.spotify.com/album/2N0k8TVpxu2uZuR3C0tQHH) | 3:20 | 2021-10-15 | 2022-10-28 |
 | [Oh! My Dear...](https://open.spotify.com/track/28HrRHjy9GDMcHjOzLMOVE) | [Wamugunda](https://open.spotify.com/artist/2Mj0SBavSxKCv3MMUfvBEP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Oh! My Dear...](https://open.spotify.com/album/6Is4wsIEwh0xT5FZ9aRnaI) | 6:39 | 2021-12-16 |  |
 | [Old Ghosts](https://open.spotify.com/track/7mdxLKcj9fgsMPy3pJhadc) | [Jason Sibi\-Okumu](https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06) | [Old Ghosts](https://open.spotify.com/album/0L2hcwVhhMdCrT2WDxNJor) | 2:51 | 2021-10-29 |  |
 | [olivine](https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [AA side](https://open.spotify.com/album/2zcsqTWzsWlCDn9M2pnzvr) | 3:38 | 2022-03-17 |  |

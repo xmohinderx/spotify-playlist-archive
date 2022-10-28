@@ -692,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Fan On",
+        "url": "https://open.spotify.com/album/5NyZLTuvYFH5pfMAwOhNq5"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204685,
+      "name": "Eggshell",
+      "url": "https://open.spotify.com/track/1yLVGAg988iUYmodV42kT5"
+    },
+    {
+      "album": {
         "name": "Eggshell",
         "url": "https://open.spotify.com/album/2SW5ToU0ODNlsTMifq2p2A"
       },
@@ -721,7 +739,7 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 204685,
       "name": "Eggshell",
       "url": "https://open.spotify.com/track/5ISzaoRF9ba11ieojyXV5l"

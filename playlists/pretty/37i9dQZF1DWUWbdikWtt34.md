@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Rhoma Irama, Elvi Sukaesih
+> Dendang Dangdut teratas\. Cover: Ndarboy Genk
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,514 likes - 62 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,557 likes - 62 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 61 | [Ada Cerita](https://open.spotify.com/track/3UQldVp9e0dWy72Kb6pQW6) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Ada Cerita](https://open.spotify.com/album/6U9TkrXKstXYQjcBqAHCJR) | 3:42 |
 | 62 | [Garam Rasanya Gula](https://open.spotify.com/track/14XsJn6NhFfRhjt3DLCov2) | [Nabilla Gomes](https://open.spotify.com/artist/6ivuhvyIqTHWSUXinAOcyQ) | [Garam Rasanya Gula](https://open.spotify.com/album/1ZfC7jspXMGt9eWOKW8G37) | 4:18 |
 
-Snapshot ID: `MTY2NTY4Mjk4NiwwMDAwMDAwMDlkNDJiNWY1N2MwYzQ4YjAzZjVmMGE4MTRjZWM3M2Qy`
+Snapshot ID: `MTY2Njg5MDAwMCwwMDAwMDAwMDcxNGYyNDI4MDgzNjA2MGI4YWY0ZThkMzgxZDAyN2Qz`

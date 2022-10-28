@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-412 songs - 16 hr 47 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+414 songs - 16 hr 53 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [I Don't Know](https://open.spotify.com/track/1MjFP2nL6oYKCCuLyXCvwp) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Beats That Collected Dust Vol\. 2](https://open.spotify.com/album/6VDSvx3Z6cfz6GXkFBNYLX) | 4:05 | 2019-05-26\* | 2020-01-14 |
 | [I love it](https://open.spotify.com/track/6juVtd4rGuI2QEZq1J6ynW) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD), [Snuggles](https://open.spotify.com/artist/0hMbS7DvRkVNTnrCMeUUAX) | [I love it](https://open.spotify.com/album/056GhecTPMIPkXqFoTehqf) | 1:35 | 2020-08-30 | 2022-06-23 |
 | [Idkanymore](https://open.spotify.com/track/6pFiKji7aJCwMIYKROgQw9) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [Lately](https://open.spotify.com/album/4YhoDyn5WAPosG9mHsVY6F) | 1:24 | 2019-05-26\* | 2021-12-21 |
-| [Ill](https://open.spotify.com/track/4323T7gQ9C4lbPo8qKfOoe) | [U\-LEE](https://open.spotify.com/artist/30v2h3jcT6xjq4wl9KTFNN), [100KILOGRAMS](https://open.spotify.com/artist/6zzok5REMtPHkxSKU0MFWP) | [BEAT TAPE VOL.1](https://open.spotify.com/album/78IHrBIWAaWblwiMtAZaYu) | 2:13 | 2022-08-25 |  |
+| [Ill](https://open.spotify.com/track/4323T7gQ9C4lbPo8qKfOoe) | [U\-LEE](https://open.spotify.com/artist/30v2h3jcT6xjq4wl9KTFNN), [100KILOGRAMS](https://open.spotify.com/artist/6zzok5REMtPHkxSKU0MFWP) | [BEAT TAPE VOL.1](https://open.spotify.com/album/78IHrBIWAaWblwiMtAZaYu) | 2:13 | 2022-08-25 | 2022-10-28 |
 | [Ill](https://open.spotify.com/track/4AzgTPH2g48lzCouXzfuI6) | [U\-LEE](https://open.spotify.com/artist/5brBirPSajSulsPdYTRAtf), [100KILOGRAMS](https://open.spotify.com/artist/6zzok5REMtPHkxSKU0MFWP) | [BEAT TAPE VOL.1](https://open.spotify.com/album/1j7AF82YktleBZEnfPLKgk) | 2:13 | 2022-02-15 | 2022-07-29 |
 | [In A Dream](https://open.spotify.com/track/6pURCbgUBnUcthAErdm0aM) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [In A Dream](https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y) | 2:39 | 2022-07-28 | 2022-10-18 |
 | [Ingleside](https://open.spotify.com/track/0S93H7eyA5mCZdjrZAk85p) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Ingleside](https://open.spotify.com/album/7vBTC4qkmg5CQsYBp6eKsQ) | 1:24 | 2019-05-26\* | 2021-05-27 |
@@ -178,6 +178,7 @@
 | [Jet Set](https://open.spotify.com/track/3QnFMeJXIvaqoSRlni1Bwl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Jet Set](https://open.spotify.com/album/1SAJSNSz3o3smlfj08jDFK) | 2:31 | 2020-07-03 | 2021-09-10 |
 | [Johnson](https://open.spotify.com/track/522A3dgrvWe27tK3L3gbYF) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [Johnson](https://open.spotify.com/album/0zFfGh28x0n1fOOl8d0yOg) | 5:38 | 2020-09-19 | 2020-10-02 |
 | [Jugo](https://open.spotify.com/track/2EjXmFS0j9nEhBgWA1pLjU) | [Cohoba](https://open.spotify.com/artist/26qfDCdS9BHoOYwPmA9BI1) | [Jugo](https://open.spotify.com/album/73357oCuAwugagwiTBIBgh) | 1:39 | 2019-05-26\* | 2019-08-31 |
+| [JUST KEEP IT](https://open.spotify.com/track/3Drv8dUZUirRJpOvixlDUA) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/4DrsfHl7wo90fuejIXyrGM) | 3:13 | 2022-10-28 |  |
 | [Juveniles](https://open.spotify.com/track/4v6tBoTZzfqMy4A2rWfvzS) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Juveniles](https://open.spotify.com/album/0H4xna6qufppi1I5U8tho0) | 2:05 | 2020-06-19 | 2020-11-06 |
 | [kageokuri](https://open.spotify.com/track/3Nw9mVyDGmSQ3Ik9BUBBD9) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [kageokuri](https://open.spotify.com/album/0d6OaFJOV6iROQFrRhew6C) | 3:35 | 2022-07-21 | 2022-07-27 |
 | [keep in mind](https://open.spotify.com/track/2dsS4ryKRRykuRQZEMcZSu) | [V\. James](https://open.spotify.com/artist/7Kl0EH83Xb2SJbgxs6eDTq) | [keep in mind](https://open.spotify.com/album/2RyHibjNTyEZgWm04yjWWn) | 2:03 | 2020-06-29 | 2021-05-28 |
@@ -338,6 +339,7 @@
 | [Spaw](https://open.spotify.com/track/3uV21zNSHZB4UigNPKGOnm) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [TABAL](https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ) | [Spaw](https://open.spotify.com/album/2gR1HQyCYL5P0oL2hPLF3a) | 2:13 | 2019-05-26\* | 2022-04-15 |
 | [speakeasy](https://open.spotify.com/track/2zydp8cUmry4L6ytMJnSju) | [soder.](https://open.spotify.com/artist/2N2hOy7cgLlfage0jrE1Kb), [Summit One](https://open.spotify.com/artist/4LjrwGL6ImaewVOcW6kJ42) | [speakeasy](https://open.spotify.com/album/1pwu6ZNXnjxMbXaRZOTNpt) | 1:24 | 2020-07-18 | 2021-10-29 |
 | [Spectrum](https://open.spotify.com/track/08MKPjHs36u2XVRJIBaveH) | [El Jazzy Chavo](https://open.spotify.com/artist/46Pwdl99hYWTIpSLrraBet) | [Echoes from Another Cosmogony](https://open.spotify.com/album/3CxsD8WVWvUVTpyChM89py) | 3:04 | 2019-05-26\* | 2019-06-15 |
+| [SPICA](https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPICA](https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt) | 2:16 | 2022-10-28 |  |
 | [Spring and Fall](https://open.spotify.com/track/2KDCFFEyox8PJpoidOyk2f) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av) | [Spring and Fall](https://open.spotify.com/album/6pH0bbiw8SzL4HvQ8Z83p5) | 2:30 | 2019-05-26\* | 2019-06-15 |
 | [Stargazer](https://open.spotify.com/track/3XTSVcS7PAcPRH3UezID60) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Stargazer](https://open.spotify.com/album/7dYatSw8Opfly87QzILAlK) | 4:29 | 2019-05-26\* | 2022-04-20 |
 | [Stay](https://open.spotify.com/track/2e9tMyioLH6yW0jp3EXtVs) | [brillion.](https://open.spotify.com/artist/77aATgrzmuoRjmqxPcEIHU) | [Stay](https://open.spotify.com/album/3q2ekURToVNnqatEF9283y) | 1:46 | 2020-06-29 | 2020-10-02 |
@@ -408,7 +410,7 @@
 | [Whatsreal](https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Whatsreal](https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T) | 2:28 | 2020-06-29 |  |
 | [Whiskey Sour](https://open.spotify.com/track/2VfsGpk0cMWyzM42hqKu5r) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Whiskey Sour / Strammer Max](https://open.spotify.com/album/5XGfotYYtQVErNef3THqQ8) | 1:42 | 2020-07-18 | 2022-04-06 |
 | [White Tea](https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ) | [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [White Tea](https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ) | 1:28 | 2019-06-14 |  |
-| [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 | 2021-12-16 |  |
+| [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 | 2021-12-16 | 2022-10-28 |
 | [winter in rio](https://open.spotify.com/track/2DteRLMODVzxYxT62LI5hB) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/1sDUK1NkzRGYnvrskdWcMe) | 1:40 | 2022-07-28 |  |
 | [winter in rio](https://open.spotify.com/track/2FKsGoYghIBDdxsXXBIfJg) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/7brRaqvhSGMhAV5cCRb3LQ) | 1:40 | 2019-07-26 | 2022-04-19 |
 | [Within 2 Days](https://open.spotify.com/track/7ecgSXG1hWOAbanFbWFGj2) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Within 2 Days](https://open.spotify.com/album/3EETnuqXGJCgR7BA1LRYwc) | 2:02 | 2020-07-18 | 2022-04-20 |

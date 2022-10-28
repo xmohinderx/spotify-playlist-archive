@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,129 likes - 45 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,169 likes - 45 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 5 | [Groove Society](https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Groove Society](https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP) | 3:03 |
 | 6 | [Lille Vals](https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ) | [Storken](https://open.spotify.com/artist/2o1hHXIXOjhZpIY7V49HNi) | [Lille Vals](https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x) | 3:55 |
 | 7 | [Place And Time](https://open.spotify.com/track/6CBJ7na2t7S6dx1MCDpS73) | [Walk Then Dance](https://open.spotify.com/artist/7DpsCj5MSS01dxB3aG4Wx6) | [Place And Time](https://open.spotify.com/album/6FbKm2ygSB2fq7Hl51RsaW) | 4:04 |
-| 8 | [Brain Machine](https://open.spotify.com/track/01CKAEZULi2Ddw4Xg4rDr7) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Brain Machine](https://open.spotify.com/album/2hZCIw0C4L89eTpCkwdkkA) | 5:48 |
-| 9 | [Deleters \- Palms Trax Remix](https://open.spotify.com/track/0oqga82uitzPVW5TR8SKVx) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11), [Angus Andrew](https://open.spotify.com/artist/4sKeiukDMta5llXZ8v4Vdu), [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [Deleter Remixed](https://open.spotify.com/album/6zys7HVqBqIlAHqQM1eruT) | 4:15 |
+| 8 | [Deleters \- Palms Trax Remix](https://open.spotify.com/track/0oqga82uitzPVW5TR8SKVx) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11), [Angus Andrew](https://open.spotify.com/artist/4sKeiukDMta5llXZ8v4Vdu), [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [Deleter Remixed](https://open.spotify.com/album/6zys7HVqBqIlAHqQM1eruT) | 4:15 |
+| 9 | [Brain Machine](https://open.spotify.com/track/01CKAEZULi2Ddw4Xg4rDr7) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Brain Machine](https://open.spotify.com/album/2hZCIw0C4L89eTpCkwdkkA) | 5:48 |
 | 10 | [Love Divide](https://open.spotify.com/track/6ezKiq5uvUlNlxCzQzZZ9n) | [PADDY](https://open.spotify.com/artist/0Dcbqd0bkwytdhGS8Zvuky) | [Love Divide](https://open.spotify.com/album/362ceaJQRuOKtYw8xsGIa3) | 3:52 |
 | 11 | [First Wave](https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx) | [Roland Tings](https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR) | [First Wave](https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6) | 4:38 |
 | 12 | [Life Is A Song Worth Singing \- Jamie Jones Remix](https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Mixmag Presents Teddy Pendergrass: The Remixes \- EP](https://open.spotify.com/album/1pwd4Ug25kzaZbdHDhT1Ho) | 8:47 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Roma](https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5) | [Italo Disco](https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi) | 3:25 |
 | 45 | [Accidentally We Rushed](https://open.spotify.com/track/6jYu8ME42CQX7IsQuJToe1) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym) | [Nothing Stays in One Place for Long](https://open.spotify.com/album/6LG30qpC6gwWTx4JsGWGf9) | 5:18 |
 
-Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDA4NzM2NGMwMWM0ZGY2OTVmYTY3MDk2MTA3OTNjZTY1`
+Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDE5OTRjMTg2YTUxMTNiOGU1NmUxMjUzODU0YWM1NDMw`

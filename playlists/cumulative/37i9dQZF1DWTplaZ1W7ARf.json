@@ -204,6 +204,28 @@
     },
     {
       "album": {
+        "name": "Better Days 2 (Pain In The Ghetto)",
+        "url": "https://open.spotify.com/album/25gVtjurDgtCiz6nt0W4ZM"
+      },
+      "artists": [
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "Og Bobby Billions",
+          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181499,
+      "name": "Better Days 2 (Pain In The Ghetto)",
+      "url": "https://open.spotify.com/track/2KQrHFHMLiToEoSyNCyCkQ"
+    },
+    {
+      "album": {
         "name": "Family & Mula",
         "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
       },
@@ -1227,7 +1249,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 195590,
       "name": "Last One Left (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/1NYJ8olXaPcCp45wfKfUun"
@@ -1569,6 +1591,28 @@
       "duration_ms": 166956,
       "name": "Mud Brothers",
       "url": "https://open.spotify.com/track/1E6xPYt9FyvkMnDeyVHLby"
+    },
+    {
+      "album": {
+        "name": "Vultures Don't Kry (Deluxe)",
+        "url": "https://open.spotify.com/album/0P23gdec7VQ44s1dZaxWLv"
+      },
+      "artists": [
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176926,
+      "name": "Neighborhood Hero (feat. No Cap)",
+      "url": "https://open.spotify.com/track/2Ebn0K5I06J09d9GmzNNkU"
     },
     {
       "album": {
@@ -2237,7 +2281,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 176697,
       "name": "Shackles to Diamonds",
       "url": "https://open.spotify.com/track/1uPxCL3bvUZKMnwXmAz6rM"

@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 7079,
+  "num_followers": 7089,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODg1NCwwMDAwMDAwMGNlODU2N2M1NGQ5ODBjZTg1ZTNlMTA1MzFiYWE5Y2Fj",
+  "snapshot_id": "MTY2NTExODg1NCwwMDAwMDAwMGI1MTk5ZGU2ODhjMmZkNjYzMDIxY2U4NzgwMDRjYTgy",
   "tracks": [
     {
       "added_at": "2022-10-04 14:53:35",
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU"
     },
     {
-      "added_at": "2022-10-27 01:52:33",
+      "added_at": "2022-10-28 01:53:18",
       "album": {
         "name": "Cape",
         "url": "https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu"
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-10-04 14:53:35",
       "album": {
+        "name": "6equence",
+        "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "ddu ddu ddu",
+      "url": "https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN"
+    },
+    {
+      "added_at": "2022-10-04 14:53:35",
+      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
-    },
-    {
-      "added_at": "2022-10-04 14:53:35",
-      "album": {
-        "name": "6equence",
-        "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "ddu ddu ddu",
-      "url": "https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN"
     },
     {
       "added_at": "2022-10-04 14:53:35",

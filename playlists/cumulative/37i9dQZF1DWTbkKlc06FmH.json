@@ -518,6 +518,32 @@
     },
     {
       "album": {
+        "name": "Genuine",
+        "url": "https://open.spotify.com/album/2S5UhMvmBlRAInHflPAM7t"
+      },
+      "artists": [
+        {
+          "name": "Tsukasa Inoue",
+          "url": "https://open.spotify.com/artist/3czcDGwX9EJRdAaiYQKwBn"
+        },
+        {
+          "name": "\u5927\u795e:OHGA",
+          "url": "https://open.spotify.com/artist/3vJfeYxL12SXLvPMwBY25d"
+        },
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283800,
+      "name": "Genuine",
+      "url": "https://open.spotify.com/track/0oc9vttTtk0Yv0856GYwzw"
+    },
+    {
+      "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
@@ -667,6 +693,24 @@
       "duration_ms": 205384,
       "name": "Iced Tea",
       "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
+    },
+    {
+      "album": {
+        "name": "ira",
+        "url": "https://open.spotify.com/album/71VtyqcUwda8LRXpHzr44W"
+      },
+      "artists": [
+        {
+          "name": "Spangle Call Lilli Line",
+          "url": "https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182680,
+      "name": "ira",
+      "url": "https://open.spotify.com/track/7AwHsYxLFMFrrpU7ykqfWJ"
     },
     {
       "album": {
@@ -825,7 +869,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 225461,
       "name": "Love Will Work It Out",
       "url": "https://open.spotify.com/track/4bQhGIHwo1ZpixP9MudUbV"
@@ -1171,7 +1215,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 273818,
       "name": "ordinary people feat. BIM",
       "url": "https://open.spotify.com/track/0mKYojgtx7iemkvDaPyFhe"
@@ -1259,7 +1303,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 191857,
       "name": "Precious",
       "url": "https://open.spotify.com/track/5kn2g75RCLUFj9FEY3aoYh"
@@ -1787,6 +1831,24 @@
       "duration_ms": 249254,
       "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
       "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
+    },
+    {
+      "album": {
+        "name": "\u77b3\u60da\u308c",
+        "url": "https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257687,
+      "name": "\u77b3\u60da\u308c",
+      "url": "https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTbkKlc06FmH"

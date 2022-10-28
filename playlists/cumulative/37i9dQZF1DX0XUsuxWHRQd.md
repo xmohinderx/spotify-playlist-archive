@@ -4,7 +4,7 @@
 
 > New music from Lil Uzi Vert, Roddy Ricch and A Boogie Wit da Hoodie.
 
-1,401 songs - 3 day 0 hr 6 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,402 songs - 3 day 0 hr 10 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Down \(feat\. Latto\)](https://open.spotify.com/track/3tLhjMOfbdRGQNudmIABp4) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Down \(feat\. Latto\)](https://open.spotify.com/album/4fN30wOcfdGOYY1BYDqUHD) | 3:37 | 2020-09-04 | 2020-09-11 |
 | [Down Bad \(feat\. JID, Bas, J\. Cole, EARTHGANG & Young Nudy\)](https://open.spotify.com/track/4eqrNsKy9Mvg1fvfsTVIAE) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [1\-888\-88\-DREAM](https://open.spotify.com/album/3VTNWsdPxKZjJvEY87GivP) | 2:49 | 2019-06-13 | 2019-08-13 |
 | [Drankin N Smokin](https://open.spotify.com/track/0k7wmahjkn389wAZdz19Cv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto](https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt) | 3:33 | 2020-11-13 | 2021-02-26 |
+| [Dreams and Nightmares](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:50 | 2022-10-27 |  |
 | [Dreams Unfold](https://open.spotify.com/track/5ChX0Yt1wPpRJFPPecJZPh) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Dreams Unfold](https://open.spotify.com/album/5sAWMGha4PtgcM7CWksfE6) | 3:21 | 2021-08-26 | 2021-10-30 |
 | [Drop \(feat\. DaBaby\)](https://open.spotify.com/track/6Ht7wDd0wi2wPDLde7m1Gr) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Drop \(feat\. DaBaby\)](https://open.spotify.com/album/0lziEfJ5vqzrFLev10QnAz) | 2:51 | 2021-06-05 | 2021-06-12 |
 | [Drop A Location](https://open.spotify.com/track/4UBicDBC9UqwGau3sWIw86) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Kommunity Service](https://open.spotify.com/album/79kXQIGEmAb2QlundO0hRi) | 2:14 | 2021-05-22 | 2021-05-29 |

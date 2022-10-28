@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Beendo Z au top de la première playlist de rap français !
+> Tiakola au top de la première playlist de rap français !
 
 103 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 

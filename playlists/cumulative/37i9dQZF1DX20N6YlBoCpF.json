@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die varste in Afrikaanse musiek Cover: <a href=\"https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj?si=OrAs6Y8TRA-bdlraKjBqcA\">Il\u00e1n van Staden</a>",
+  "description": "Net die varste in Afrikaanse musiek Cover: <a href=\"https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw?si=5GyYCl9TR1inmSlWVghwgw\">Samantha Leonard</a> & <a href=\"https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=s7kj8Q57R5G9suIJCzn36g\">Dodo Nyoka</a>",
   "name": "Nuwe Afrikaans",
   "published_playlist_ids": [
     "0RKP7WChEoliblztnGqALh"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 170617,
       "name": "Afrika Son",
       "url": "https://open.spotify.com/track/6AmJU5Rtf7vXcubCYJitGa"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 203000,
       "name": "Braaibroodjies",
       "url": "https://open.spotify.com/track/2vpifO1DPguAHOEpXiy7AX"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 148968,
       "name": "BRANDARM - Original",
       "url": "https://open.spotify.com/track/0i3zJthM72JmUTSWuAOXsP"
@@ -360,6 +360,24 @@
     },
     {
       "album": {
+        "name": "Foto's",
+        "url": "https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU"
+      },
+      "artists": [
+        {
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194890,
+      "name": "Foto's",
+      "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
+    },
+    {
+      "album": {
         "name": "Glo",
         "url": "https://open.spotify.com/album/50ehh8dDKeB8qjwLboZ2ez"
       },
@@ -371,7 +389,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 208998,
       "name": "Glo",
       "url": "https://open.spotify.com/track/0fQ5MOq8VDkLmOmXj9nfGZ"
@@ -614,6 +632,44 @@
     },
     {
       "album": {
+        "name": "KOM SKUD JOU LYF (Original)",
+        "url": "https://open.spotify.com/album/4kvHhlnDUuMJk0ardGH7J1"
+      },
+      "artists": [
+        {
+          "name": "Kenny Lindgren",
+          "url": "https://open.spotify.com/artist/63CLd9qh364gsZdw3bj6TL"
+        },
+        {
+          "name": "Slamma D",
+          "url": "https://open.spotify.com/artist/4fRD6JB528hNdAVikqKvHb"
+        },
+        {
+          "name": "ShokBasse",
+          "url": "https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj"
+        },
+        {
+          "name": "Snacci",
+          "url": "https://open.spotify.com/artist/373NRUyodyMISLLxcN2qr1"
+        },
+        {
+          "name": "Donnevin De Bruin",
+          "url": "https://open.spotify.com/artist/15CxNfyU2DHZqIX5dOZ4SD"
+        },
+        {
+          "name": "Victor Snyman",
+          "url": "https://open.spotify.com/artist/2K9S07tWOuDIMGCMVs2LuG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190750,
+      "name": "KOM SKUD JOU LYF - Original",
+      "url": "https://open.spotify.com/track/6XlqzuqRyzesB8IoCHt7Xs"
+    },
+    {
+      "album": {
         "name": "Aansteeklik",
         "url": "https://open.spotify.com/album/3dOKf9YXYnPLlRLaCwsL2G"
       },
@@ -802,6 +858,28 @@
     },
     {
       "album": {
+        "name": "Mermaid",
+        "url": "https://open.spotify.com/album/0aXpcLp49iI5h6y3MhSKDY"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        },
+        {
+          "name": "Loki Rothman",
+          "url": "https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193628,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/6nxQX5P9TDm2iDtH5gCIQc"
+    },
+    {
+      "album": {
         "name": "Money Moves",
         "url": "https://open.spotify.com/album/6tOaJp6D6jf2In3yo9CcYX"
       },
@@ -825,10 +903,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 251145,
       "name": "Money Moves",
       "url": "https://open.spotify.com/track/0nQOgFt2weQjJ1tOoc5OAo"
+    },
+    {
+      "album": {
+        "name": "Mooiste Meisies",
+        "url": "https://open.spotify.com/album/6CPg4uM54Rc86XT2bRfamF"
+      },
+      "artists": [
+        {
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221571,
+      "name": "Mooiste Meisies",
+      "url": "https://open.spotify.com/track/4V3i57trY95kxR28rEgMaw"
     },
     {
       "album": {
@@ -919,6 +1015,24 @@
       "duration_ms": 224516,
       "name": "Nes Ons Kan",
       "url": "https://open.spotify.com/track/552ct0DgK65AjtFjXwnakh"
+    },
+    {
+      "album": {
+        "name": "Net Een Keer",
+        "url": "https://open.spotify.com/album/1NPoFcEaJg6MkRsHVPeN0M"
+      },
+      "artists": [
+        {
+          "name": "Samantha Leonard",
+          "url": "https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "Net Een Keer",
+      "url": "https://open.spotify.com/track/71tkxqyBp1FnQYMI9R2NQY"
     },
     {
       "album": {
@@ -1045,7 +1159,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 153984,
       "name": "Ou Kraalliedjie",
       "url": "https://open.spotify.com/track/3uyiLQ7snZ6Njes5kNyyrD"
@@ -1196,6 +1310,24 @@
     },
     {
       "album": {
+        "name": "Briewe Uit Die Argiewe",
+        "url": "https://open.spotify.com/album/0S5HPecNnxsYdKnQXPVdcG"
+      },
+      "artists": [
+        {
+          "name": "Bouwer Bosch",
+          "url": "https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225911,
+      "name": "Skemer",
+      "url": "https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA"
+    },
+    {
+      "album": {
         "name": "Skildery (Remix)",
         "url": "https://open.spotify.com/album/4kHqoFMstt9NCU6WJfejDn"
       },
@@ -1294,6 +1426,24 @@
     },
     {
       "album": {
+        "name": "Soos Die Re\u00ebn",
+        "url": "https://open.spotify.com/album/00PSQBBvSucHGg8H4KdgpF"
+      },
+      "artists": [
+        {
+          "name": "Tertius rooi",
+          "url": "https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164558,
+      "name": "Soos Die Re\u00ebn",
+      "url": "https://open.spotify.com/track/1L9ZfKohXeXru4K0qGk5pX"
+    },
+    {
+      "album": {
         "name": "Spicy",
         "url": "https://open.spotify.com/album/5L9LZdUqlU9xccbynFA7Vf"
       },
@@ -1305,7 +1455,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 169333,
       "name": "Spicy",
       "url": "https://open.spotify.com/track/7cMWtLwxWs08ckWJFSFpZ0"
@@ -1327,7 +1477,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 196701,
       "name": "Standbeelde",
       "url": "https://open.spotify.com/track/5iq0M2V0jJRu7IJYYxJ4vl"
@@ -1363,7 +1513,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 163160,
       "name": "Tweegesig",
       "url": "https://open.spotify.com/track/4ocISX46WBEfML6wNG4Bos"
@@ -1435,7 +1585,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 228753,
       "name": "Want Ek Mis Jou Hier",
       "url": "https://open.spotify.com/track/18p1L84lxNJovlSUeHblc9"
@@ -1478,6 +1628,24 @@
     },
     {
       "album": {
+        "name": "Wat Het Jy Met My Gemaak (Afrikaans Wil Dans Remix )",
+        "url": "https://open.spotify.com/album/2x26bsnWaQDktxyWMEMhzr"
+      },
+      "artists": [
+        {
+          "name": "Jolanda Fouch\u00e9",
+          "url": "https://open.spotify.com/artist/0V7auwP4exRWU5qL6LvyzD"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Wat Het Jy Met My Gemaak - Afrikaans Wil Dans Remix",
+      "url": "https://open.spotify.com/track/53ca5ecKaK7GFtqO9xYG43"
+    },
+    {
+      "album": {
         "name": "Wat my Pa sou s\u00ea",
         "url": "https://open.spotify.com/album/5FP9ioRvPrNL2LavCBjU70"
       },
@@ -1496,6 +1664,24 @@
     },
     {
       "album": {
+        "name": "Wie's Jou Kat?",
+        "url": "https://open.spotify.com/album/1eQFe82cj7zrCeh3R0XizG"
+      },
+      "artists": [
+        {
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205294,
+      "name": "Wie's Jou Kat?",
+      "url": "https://open.spotify.com/track/1cpPxUeohprGjsQInKBggX"
+    },
+    {
+      "album": {
         "name": "Witblits",
         "url": "https://open.spotify.com/album/1j0JxyVmQLkrFIZRY4m9xT"
       },
@@ -1511,6 +1697,24 @@
       "duration_ms": 187094,
       "name": "Witblits",
       "url": "https://open.spotify.com/track/1MJagJs7aC4UJYZK3j5iIO"
+    },
+    {
+      "album": {
+        "name": "Wolkedans",
+        "url": "https://open.spotify.com/album/0NZATPM2wR2yYJuKy1sZsM"
+      },
+      "artists": [
+        {
+          "name": "Leon Gropp",
+          "url": "https://open.spotify.com/artist/6IuWDLRpLJQk3xUQoTMuYU"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285714,
+      "name": "Wolkedans",
+      "url": "https://open.spotify.com/track/2X2QSGLuvsDZX7i0s2fXnC"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4756,
+  "num_followers": 4762,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDkwZTkwN2YyMDQ0YmQwOTE1ZmRhNzQyYzNhNjlkOTY1",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGNiNWQ0MWYwZWFmY2JjNmFhOTlhZWZlOGE0NmJmNzQz",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Microdosing",
-        "url": "https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW"
-      },
-      "artists": [
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "Microdosing",
-      "url": "https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "CLUB TOPPERIA",
         "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 188307,
       "name": "SCANDALOSA",
       "url": "https://open.spotify.com/track/1X3JDUHgRkJXG2RKKeRjDI"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Microdosing",
+        "url": "https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 238167,
+      "name": "Microdosing",
+      "url": "https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Supino",
+          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Tocco di Lusso",
         "url": "https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 210698,
       "name": "Se\u00f1oras Bien",
       "url": "https://open.spotify.com/track/0C60TsFeKSPCyTHolDUN0n"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Supino",
-          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
     },
     {
       "added_at": "2022-09-08 22:01:00",

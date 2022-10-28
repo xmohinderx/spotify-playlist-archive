@@ -3552,6 +3552,24 @@
     },
     {
       "album": {
+        "name": "Unleash",
+        "url": "https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204106,
+      "name": "Sense",
+      "url": "https://open.spotify.com/track/6Nawx5sqYFIbcx2qQgrA67"
+    },
+    {
+      "album": {
         "name": "Sense",
         "url": "https://open.spotify.com/album/6AaDmp2qhU98vhQ7ukQ6PQ"
       },
@@ -5463,7 +5481,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 278662,
       "name": "\u306a\u3093\u3068\u306a\u304f\u3002",
       "url": "https://open.spotify.com/track/685E7VfekdXLLM2KB6zpav"
@@ -9129,7 +9147,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 229977,
       "name": "\u5b9d\u7269\u3092\u63a2\u3057\u3066",
       "url": "https://open.spotify.com/track/1iCmaoArriFC1tl6AVWDN2"
@@ -9309,7 +9327,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 269893,
       "name": "\u5fc3\u3068\u3044\u3046\u540d\u306e\u4e0d\u53ef\u89e3",
       "url": "https://open.spotify.com/track/5dwkmgutIFdurpXlzEyCtB"

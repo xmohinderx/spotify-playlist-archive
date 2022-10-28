@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: José James
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,011 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,091 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 2 | [Legacy](https://open.spotify.com/track/3WTAzJLGxBLvgzPKdcn7Zo) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 2:53 |
 | 3 | [Crimson](https://open.spotify.com/track/5KFzvsPOf6r5UBwxy6yj5x) | [Dawn Richard and Spencer Zahn](https://open.spotify.com/artist/70AgFt0zXsxmU7iQa3TnJE), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Pigments](https://open.spotify.com/album/6OLAKpxvkhfL4dckL6RlE8) | 3:36 |
 | 4 | [Jimmy](https://open.spotify.com/track/6Z7lba4JYt48ztwt2bu7up) | [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [Erameld](https://open.spotify.com/artist/7onTqmjsNs182OQexatI7N) | [Jimmy](https://open.spotify.com/album/3SSySSNMkNqyYdXR208dRE) | 2:08 |
-| 5 | [BETTER \(arr\. Emawk\)](https://open.spotify.com/track/5kZhsoeFVmoLWOkRNx8YmB) | [Malika Tirolien](https://open.spotify.com/artist/0ikYn0NEcQ8rC64TA3Rh4N), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [BETTER \(arr\. Emawk\)](https://open.spotify.com/album/1pTdZPhmgOd5rTJa7a1YtT) | 5:40 |
+| 5 | [BETTER \(arr\. Emawk\)](https://open.spotify.com/track/5kZhsoeFVmoLWOkRNx8YmB) | [Malika Tirolien](https://open.spotify.com/artist/0ikYn0NEcQ8rC64TA3Rh4N), [emawk](https://open.spotify.com/artist/7gSZocK2o1aDYdXQcVZKJp) | [BETTER \(arr\. Emawk\)](https://open.spotify.com/album/1pTdZPhmgOd5rTJa7a1YtT) | 5:40 |
 | 6 | [The Sun \(feat\. Bran Movay\)](https://open.spotify.com/track/0TjxhONN1mFhhIwUnaVpcm) | [Kabwasa](https://open.spotify.com/artist/4n3BiuRU79B4qPqiqsnhQ4), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Bran Movay](https://open.spotify.com/artist/6qOnVqczf3XJzyy3eQazOu) | [The Sun \(feat\. Bran Movay\)](https://open.spotify.com/album/0sjw26JHZs8ETCZkMMYDRD) | 2:49 |
 | 7 | [You Make Me Feel So Good](https://open.spotify.com/track/52ZUwYOfSHJB2aJ4nfz9ic) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [You Make Me Feel So Good](https://open.spotify.com/album/1aTswqm0IddXx54iXrPpSQ) | 3:10 |
 | 8 | [Humble](https://open.spotify.com/track/684Emdg5WsDqirI7XQPQkE) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [Somebody's Gotta Do It](https://open.spotify.com/album/2WFzXFDjr6IVRaUTC8jgrH) | 3:39 |

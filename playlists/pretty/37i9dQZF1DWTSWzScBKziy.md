@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,568 likes - 99 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,583 likes - 99 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 46 | [HELP!](https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [HELP!](https://open.spotify.com/album/0sVketRXWDWlozs5jNopci) | 3:03 |
 | 47 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 |
 | 48 | [Church](https://open.spotify.com/track/5c5Cn75uLZbYsGHVbDHVHD) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Church](https://open.spotify.com/album/30cPB00t2FzvXPQLtSNJF8) | 2:49 |
-| 49 | [Amen \(The Lord's Prayer\)](https://open.spotify.com/track/5ZHTFwzhEpa1OJMyrpdGE7) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [Heaven's on the Move \(Deluxe\)](https://open.spotify.com/album/5VLaZK1eadF5WEd2N9q0Mc) | 5:50 |
-| 50 | [More Than Ever](https://open.spotify.com/track/00cHdJO9E4TvmJBeuJq0pr) | [After Grace](https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd) | [More Than Ever](https://open.spotify.com/album/68OLHztu1jW6VilxvWZEtf) | 3:14 |
+| 49 | [More Than Ever](https://open.spotify.com/track/00cHdJO9E4TvmJBeuJq0pr) | [After Grace](https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd) | [More Than Ever](https://open.spotify.com/album/68OLHztu1jW6VilxvWZEtf) | 3:14 |
+| 50 | [Amen \(The Lord's Prayer\)](https://open.spotify.com/track/5ZHTFwzhEpa1OJMyrpdGE7) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [Heaven's on the Move \(Deluxe\)](https://open.spotify.com/album/5VLaZK1eadF5WEd2N9q0Mc) | 5:50 |
 | 51 | [Unexpected Roads](https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Unexpected Roads](https://open.spotify.com/album/270YkGxScjMXCnszT2tEgm) | 3:44 |
 | 52 | [Milk & Honey](https://open.spotify.com/track/56JGnyYpo9I2g8yOfgEt4p) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Sensibilities](https://open.spotify.com/album/2OE5HEsnnFAKghpqqEkmpl) | 2:26 |
 | 53 | [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 86 | [Rest In You](https://open.spotify.com/track/7jtl5N8T1YFvVXkbNypLDL) | [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Beautiful Name](https://open.spotify.com/album/0Hv5gNQ7XVnYjJDaHlqkYI) | 3:48 |
 | 87 | [How Can I Be Silent](https://open.spotify.com/track/7IgnVHqxDysutaj7txWS9U) | [Chelsea](https://open.spotify.com/artist/68rhcOBBEa3q3lKZbOAd18) | [How Can I Be Silent](https://open.spotify.com/album/3GudEZtWF1vRHf1AM0hH9C) | 3:24 |
 | 88 | [Born to Love](https://open.spotify.com/track/6uaXa66iQYahdrRKN3txNP) | [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7) | [Born to Love](https://open.spotify.com/album/0LBm9x0GNGI68k11b8AIwY) | 3:49 |
-| 89 | [I Can't Believe](https://open.spotify.com/track/3qfEOVHVZVy7Yjb3JDJcf5) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh), [Madison Nightingale](https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq) | [I Can't Believe](https://open.spotify.com/album/5MQnRj4S6kW4BhrTKujeZR) | 4:30 |
-| 90 | [Breaking Boundaries](https://open.spotify.com/track/2vY0q9Qys4nbtXNre1VFxR) | [Sunday Drive](https://open.spotify.com/artist/61wd87YGKRXNDwJQyml1tY) | [Breaking Boundaries](https://open.spotify.com/album/30TzQ0x522lnXuyPa3Jizb) | 4:03 |
+| 89 | [Breaking Boundaries](https://open.spotify.com/track/2vY0q9Qys4nbtXNre1VFxR) | [Sunday Drive](https://open.spotify.com/artist/61wd87YGKRXNDwJQyml1tY) | [Breaking Boundaries](https://open.spotify.com/album/30TzQ0x522lnXuyPa3Jizb) | 4:03 |
+| 90 | [I Can't Believe](https://open.spotify.com/track/3qfEOVHVZVy7Yjb3JDJcf5) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh), [Madison Nightingale](https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq) | [I Can't Believe](https://open.spotify.com/album/5MQnRj4S6kW4BhrTKujeZR) | 4:30 |
 | 91 | [All Things New](https://open.spotify.com/track/48o0RHEBz13nEEAd7wE4Bk) | [The Vigil Project](https://open.spotify.com/artist/2Qtvrlcjx83rryARiEIPeI), [John Finch](https://open.spotify.com/artist/1mImDYSR7mM7wvH3dewoG3), [Andrea Thomas](https://open.spotify.com/artist/5iwn6MUdevcMCJ96CYVJZn) | [All Things New](https://open.spotify.com/album/4lPhR9VgNgWuPgNZEeuJJw) | 4:53 |
 | 92 | [Close To You](https://open.spotify.com/track/1BekaQxRu7onRBnQ6PADyw) | [Billy Ballenger](https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN) | [Close To You](https://open.spotify.com/album/7flhQQ1ZSd3SbvIr6fgF7J) | 3:43 |
 | 93 | [Bloom](https://open.spotify.com/track/0Tge7UWTXFSd4ITIURqk0k) | [Marci Coleman](https://open.spotify.com/artist/1aaF5ghHXxc7ArAYYHEWAs) | [Bloom](https://open.spotify.com/album/0T7foqa4zcqlZkjuEBEiGu) | 3:21 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 98 | [I Now Have Purpose](https://open.spotify.com/track/0wOfICh5Zv8w1tB78ro0rp) | [Sarah Hawkyard](https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr) | [The Greatest Discovery](https://open.spotify.com/album/4sL4lTlL4SJqho15bwT2LK) | 4:17 |
 | 99 | [God Who Saves](https://open.spotify.com/track/4uIlq5zbKVweM4MM94orVe) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Ballroom](https://open.spotify.com/album/5H7qkvj9OItrJcvT4r2XxN) | 4:50 |
 
-Snapshot ID: `MTY1MzY3NDg2NCwwMDAwMDAwMDk1NjUyMGU5NjY1MmNjM2I4MjA2Y2U1ODYyYzc5YzJm`
+Snapshot ID: `MTY1MzY3NDg2NCwwMDAwMDAwMDQxY2E4Y2Q2NWM3NTQwODExNDhmYjUwYjcwYTExZmMx`

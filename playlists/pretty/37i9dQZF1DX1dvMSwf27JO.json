@@ -1,12 +1,12 @@
 {
   "description": "Music to get fly to. Cover: Thom Browne SS 2023",
-  "num_followers": 469216,
+  "num_followers": 469207,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgwOTA0NCwwMDAwMDAwMDIxYTYyMTAxMmE4OWIxNmM4MmFkZjBiNTQzNDViYWZi",
+  "snapshot_id": "MTY2NjgwOTA0NCwwMDAwMDAwMDZkMmRhMjMwYmZhODU0NmI2NmFiN2FhNjI1OTUyYzhm",
   "tracks": [
     {
       "added_at": "2022-10-26 17:46:30",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
+        "name": "Kauai",
+        "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 252013,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
         "name": "Love Angel Music Baby (Deluxe Version)",
         "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Kauai",
-        "url": "https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE"
+        "name": "striptease",
+        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "carwash",
+          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
         }
       ],
-      "duration_ms": 252013,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl"
+      "duration_ms": 160659,
+      "name": "striptease",
+      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -683,22 +699,6 @@
       "duration_ms": 249293,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
-        "name": "striptease",
-        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
-      },
-      "artists": [
-        {
-          "name": "carwash",
-          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
-        }
-      ],
-      "duration_ms": 160659,
-      "name": "striptease",
-      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "LOVE BLACK",
-        "url": "https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA"
-      },
-      "artists": [
-        {
-          "name": "Bktherula",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        }
-      ],
-      "duration_ms": 210730,
-      "name": "IDK WHAT TO TELL YOU",
-      "url": "https://open.spotify.com/track/67Ca21PiqjzovVSAwBMwUf"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 263920,
       "name": "Alright - Remastered",
       "url": "https://open.spotify.com/track/2WkHXAVVMgRnBmQ3HYAVla"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "LOVE BLACK",
+        "url": "https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA"
+      },
+      "artists": [
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "duration_ms": 210730,
+      "name": "IDK WHAT TO TELL YOU",
+      "url": "https://open.spotify.com/track/67Ca21PiqjzovVSAwBMwUf"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Ce Soir",
-        "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Ce Soir",
-      "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "Count Contessa",
         "url": "https://open.spotify.com/album/0RqyL11UPCgfuj67lTcJlS"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 303230,
       "name": "Count Contessa",
       "url": "https://open.spotify.com/track/5qc9oEjMRZvdECu3g5vU8P"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "Ce Soir",
+        "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Ce Soir",
+      "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "The Red Light District",
         "url": "https://open.spotify.com/album/1KushUovbraTDRu9sbO5fg"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 234973,
       "name": "The Potion",
       "url": "https://open.spotify.com/track/4zXMw51RgLPRE3vPDuqBvt"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
+        "name": "Sad B!tch",
+        "url": "https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB"
+      },
+      "artists": [
+        {
+          "name": "CLIP",
+          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
+        }
+      ],
+      "duration_ms": 135069,
+      "name": "Sad B!tch",
+      "url": "https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 218146,
       "name": "Pharaohs",
       "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
-        "name": "Sad B!tch",
-        "url": "https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB"
-      },
-      "artists": [
-        {
-          "name": "CLIP",
-          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
-        }
-      ],
-      "duration_ms": 135069,
-      "name": "Sad B!tch",
-      "url": "https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
+        "name": "Nectarine Lane",
+        "url": "https://open.spotify.com/album/5q3B3Qg7msN3QYZYxQBm9q"
+      },
+      "artists": [
+        {
+          "name": "Salina Killa",
+          "url": "https://open.spotify.com/artist/5dmNompaODMC0v2jhwEzS0"
+        }
+      ],
+      "duration_ms": 149813,
+      "name": "Nectarine Lane",
+      "url": "https://open.spotify.com/track/7rUdHARMP5eILXLw9ysN5F"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
         "name": "cracked screen",
         "url": "https://open.spotify.com/album/5JzrI4ObDjPuTLfD84VmAm"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 212282,
       "name": "cracked screen",
       "url": "https://open.spotify.com/track/74iw3OCAb3it0SjOVw4Dnq"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
-        "name": "Nectarine Lane",
-        "url": "https://open.spotify.com/album/5q3B3Qg7msN3QYZYxQBm9q"
-      },
-      "artists": [
-        {
-          "name": "Salina Killa",
-          "url": "https://open.spotify.com/artist/5dmNompaODMC0v2jhwEzS0"
-        }
-      ],
-      "duration_ms": 149813,
-      "name": "Nectarine Lane",
-      "url": "https://open.spotify.com/track/7rUdHARMP5eILXLw9ysN5F"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1771,6 +1771,22 @@
       "duration_ms": 133085,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/58NhjNniLzv9moIlOzPQGp"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "Tell Me Your Fears",
+        "url": "https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 134750,
+      "name": "Tell Me Your Fears",
+      "url": "https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1911,22 +1927,6 @@
       "duration_ms": 221217,
       "name": "Jam",
       "url": "https://open.spotify.com/track/1GOEgRr0Mm0mDjGisgnC6y"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
-        "name": "Tell Me Your Fears",
-        "url": "https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 134750,
-      "name": "Tell Me Your Fears",
-      "url": "https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj"
     }
   ],
   "unique_name": "'fit check",

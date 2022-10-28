@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,061 likes - 94 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,079 likes - 94 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 52 | [Po\-Dunk](https://open.spotify.com/track/4IYnTLWG9mP1MNeFNjZm7T) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Po\-Dunk](https://open.spotify.com/album/3vNP6j3Vc3hg8ftOsbi4gR) | 4:31 |
 | 53 | [Reload \(feat\. Taylor Ray Holbrook\)](https://open.spotify.com/track/6llkjVv0O5lSXD56Ns7R6b) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI) | [Reload \(feat\. Taylor Ray Holbrook\)](https://open.spotify.com/album/3QUpdmU4KAaXYviYcy0Du6) | 2:57 |
 | 54 | [White Trash](https://open.spotify.com/track/2RYTHqaNac6IoCVmXBiR9A) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [American White Trash](https://open.spotify.com/album/7nCe0ikRQH305XDZ7MUwpN) | 2:47 |
-| 55 | [Talladega Nights](https://open.spotify.com/track/6TAtFV2RxtPoF8K9gXv6iA) | [BirdsFlyStoned](https://open.spotify.com/artist/6aqvueqkAH2Tv29y41vJ0r) | [Talladega Nights](https://open.spotify.com/album/27zyvGZrG0Wx7YmXGhWMB7) | 2:05 |
+| 55 | [Talladega Nights](https://open.spotify.com/track/4R2KbMUCTKc4Jzv3gj97NS) | [BirdsFlyStoned](https://open.spotify.com/artist/6aqvueqkAH2Tv29y41vJ0r) | [Alabama Pimpin](https://open.spotify.com/album/0X4B3EhbmaAFg4bUfEJL2s) | 2:05 |
 | 56 | [Dirt Road Anthem \(Revisited\)](https://open.spotify.com/track/13KyJdVV5uKFdwwkJiK7Vc) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 4:38 |
 | 57 | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2) | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE) | 3:55 |
 | 58 | [Good Friends](https://open.spotify.com/track/12HvBvQI60HRKnsAEABRId) | [Haystak](https://open.spotify.com/artist/1Cv4OTcRrMvpUqKQftW88M), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Haywire](https://open.spotify.com/album/18jrZYZL0jeARmFJgt0yZX) | 3:36 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 93 | [Watch This](https://open.spotify.com/track/0q8DxBCyj91Wrh1zlmcx5H) | [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Tommy Chayne](https://open.spotify.com/artist/3EuDaf0CO8MR6eH3ax8EHO), [Hard Target](https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf) | [Lethal](https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci) | 3:51 |
 | 94 | [Fire’t Up](https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Fire & Brimstone](https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0) | 2:56 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDRlYTBlODk3YjgwMDFkYjNhOTVlZDRmYmU4ODQ4MDc3`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGY4OWUxM2RiZjk2MjFhMTQ1ZDlkNTE4N2MwNzg1NWEx`

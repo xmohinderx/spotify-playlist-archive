@@ -1,12 +1,12 @@
 {
   "description": "\u00a1SOULFIA y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9623,
+  "num_followers": 9627,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkzODg2MCwwMDAwMDAwMGJlMTEwNzg5YmQ4NzEyNDE2YzRkN2I2M2YwM2QyZTIw",
+  "snapshot_id": "MTY2NDkzODg2MCwwMDAwMDAwMDlkNGFhYmI4OGJlNjYxNWE0MGRkMGM2NmI5YmZjYjhh",
   "tracks": [
     {
       "added_at": "2022-10-05 03:01:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-10-05 03:01:00",
       "album": {
-        "name": "Eso Ta Perfecto",
-        "url": "https://open.spotify.com/album/3rkeqmoFs3k8SmnZwZwnA9"
-      },
-      "artists": [
-        {
-          "name": "Flowyn",
-          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
-        }
-      ],
-      "duration_ms": 137777,
-      "name": "Eso Ta Perfecto",
-      "url": "https://open.spotify.com/track/2sC0GlXccYYlRfian9JVsY"
-    },
-    {
-      "added_at": "2022-10-05 03:01:00",
-      "album": {
         "name": "No Ver\u00e1n",
         "url": "https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 205712,
       "name": "No Ver\u00e1n",
       "url": "https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO"
+    },
+    {
+      "added_at": "2022-10-05 03:01:00",
+      "album": {
+        "name": "Eso Ta Perfecto",
+        "url": "https://open.spotify.com/album/3rkeqmoFs3k8SmnZwZwnA9"
+      },
+      "artists": [
+        {
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+        }
+      ],
+      "duration_ms": 137777,
+      "name": "Eso Ta Perfecto",
+      "url": "https://open.spotify.com/track/2sC0GlXccYYlRfian9JVsY"
     },
     {
       "added_at": "2022-10-05 03:01:00",

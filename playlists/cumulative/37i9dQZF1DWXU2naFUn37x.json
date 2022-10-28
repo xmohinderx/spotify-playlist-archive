@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La casa dello street rap italiano. Cover: Vale Pain",
+  "description": "La casa dello street rap italiano. Salvatore vive, Paky in cover.",
   "name": "Street Culto",
   "published_playlist_ids": [
     "2xFrA1gU60YSyblsw3BI3i"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 159840,
       "name": "Auto tedesca",
       "url": "https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK"
@@ -291,6 +291,24 @@
       "duration_ms": 159840,
       "name": "Auto tedesca",
       "url": "https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy"
+    },
+    {
+      "album": {
+        "name": "Tik Tock Summer 2022",
+        "url": "https://open.spotify.com/album/0ccHINP8gj7HmMqarNr8lG"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "Auto tedesca",
+      "url": "https://open.spotify.com/track/4gKPKREX0hNzsm3jXdoLmh"
     },
     {
       "album": {
@@ -387,6 +405,24 @@
       "duration_ms": 166120,
       "name": "BEBE (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/5BpDpH327X9ExEJr4Oa5UY"
+    },
+    {
+      "album": {
+        "name": "Salvatore Vive",
+        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135833,
+      "name": "Belen",
+      "url": "https://open.spotify.com/track/4fqKW95uLtaRlz55OEscMb"
     },
     {
       "album": {
@@ -559,6 +595,32 @@
       "duration_ms": 180266,
       "name": "Blitz! (feat. Geolier)",
       "url": "https://open.spotify.com/track/00gEB0MSDWojSbzIt1TrFT"
+    },
+    {
+      "album": {
+        "name": "Blow (feat. Yung Snapp & MV Killa)",
+        "url": "https://open.spotify.com/album/2IlA92NHGZauM3Q6vkEVXR"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Blow (feat. Yung Snapp & MV Killa)",
+      "url": "https://open.spotify.com/track/5gKTEHncscaUVJOCCuRSed"
     },
     {
       "album": {
@@ -781,7 +843,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 187680,
       "name": "Che Stai Dicenn (feat. Paky)",
       "url": "https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm"
@@ -2024,6 +2086,28 @@
     },
     {
       "album": {
+        "name": "Mari\u00e8 (feat. Kassimi)",
+        "url": "https://open.spotify.com/album/47yhTU5uScGBADR14wgyC3"
+      },
+      "artists": [
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        },
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174558,
+      "name": "Mari\u00e8 (feat. Kassimi)",
+      "url": "https://open.spotify.com/track/5MfWyat51dW4EnIAl3HL3j"
+    },
+    {
+      "album": {
         "name": "MASK",
         "url": "https://open.spotify.com/album/2SD92ubkmpy5cnEy1Xfmpt"
       },
@@ -2097,7 +2181,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 127552,
       "name": "Mh Ah Ah",
       "url": "https://open.spotify.com/track/6zbKIw7roanc3RdrWALwVx"
@@ -2633,7 +2717,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 132660,
       "name": "RS6",
       "url": "https://open.spotify.com/track/61CNHYt7uT3l3NwDltun2K"
@@ -3364,6 +3448,24 @@
     },
     {
       "album": {
+        "name": "V\u00e9rit\u00e9",
+        "url": "https://open.spotify.com/album/3G6ekX43dDTjzjPbO50N5m"
+      },
+      "artists": [
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145894,
+      "name": "V\u00e9rit\u00e9",
+      "url": "https://open.spotify.com/track/0z3NbX7fjSqEOP1fHc3khu"
+    },
+    {
+      "album": {
         "name": "WAKANDA",
         "url": "https://open.spotify.com/album/65snFdLpTuZB0dYzHscNpg"
       },
@@ -3397,7 +3499,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 140571,
       "name": "Walkie Talkie",
       "url": "https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa"

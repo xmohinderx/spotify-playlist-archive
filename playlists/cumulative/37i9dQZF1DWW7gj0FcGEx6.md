@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-185 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+186 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [The New Fraser's Ridge](https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 2:57 | 2021-12-20 | 2022-07-09 |
 | [The Outfit](https://open.spotify.com/track/2JiHkNF8d6JBqmxy54WYQw) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Outfit \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7BW9vSuV4tHPcmu5A3G2Rw) | 4:36 | 2022-03-18 |  |
 | [The Pool](https://open.spotify.com/track/1VpnWzCSImeP7cU1p9prFs) | [Raphaelle Thibaut](https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw) | [Introducing, Selma Blair \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0RjlzqoO4f1Z2VDmwa7JuC) | 3:18 | 2021-12-20 |  |
-| [The Prince That Was Promised \(from "House of the Dragon"\)](https://open.spotify.com/track/4PJXXyHln0QBOir9G0GTtM) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [The Prince That Was Promised \(from "House of the Dragon"\)](https://open.spotify.com/album/43fIo5bKCsGrhWkSaTAPCj) | 4:34 | 2022-09-23 |  |
+| [The Prince That Was Promised \(from "House of the Dragon"\)](https://open.spotify.com/track/4PJXXyHln0QBOir9G0GTtM) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [The Prince That Was Promised \(from "House of the Dragon"\)](https://open.spotify.com/album/43fIo5bKCsGrhWkSaTAPCj) | 4:34 | 2022-09-23 | 2022-10-28 |
+| [The Prince That Was Promised \(from "House of the Dragon"\)](https://open.spotify.com/track/5HSQJnJ9Y2yjI9Y2oX6sgl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 4:34 | 2022-10-07 |  |
 | [The Rise of Skywalker](https://open.spotify.com/track/5mwobK7yPtQQgrywkyvTLu) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Rise of Skywalker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26pelVOow8ODvBktJbDiua) | 4:18 | 2021-12-20 | 2022-08-20 |
 | [The Sound](https://open.spotify.com/track/4m6bEYRJBo9GCcOCkBKnAU) | [Aska Matsumiya](https://open.spotify.com/artist/4Xe7FFX2aXXi3Q5lnfzhUU) | [Betty \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/3EyUG8yv7LIKyHIr1yQ7yT) | 3:15 | 2021-12-20 | 2022-07-09 |
 | [The Theft](https://open.spotify.com/track/4WHjBK90nJUJO6pDhDUcq0) | [Uno Helmersson](https://open.spotify.com/artist/1kadYRHFCmrICPStobY2qm) | [The Painter and the Thief \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BodeWKh4jOpa1qLXESWpT) | 2:49 | 2021-12-20 | 2022-07-09 |

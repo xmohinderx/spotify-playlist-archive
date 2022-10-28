@@ -4,11 +4,12 @@
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-67 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/55rWXReL0BbQ3M8WTdiEh6)
+68 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/55rWXReL0BbQ3M8WTdiEh6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Aguacero](https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD) | 6:42 | 2022-09-19 |  |
+| [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 | 2022-10-13 |  |
+| [Aguacero](https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD) | 6:42 | 2022-09-19 | 2022-10-28 |
 | [Algerian Resurrection](https://open.spotify.com/track/3trqXz0dgBUORXtrwYTUtU) | [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q) | [Algerian Resurrection](https://open.spotify.com/album/3ZjvsoFEJSX0wKoqvf18M3) | 5:45 | 2022-10-13 |  |
 | [Anatolia](https://open.spotify.com/track/3rAXhCYxW5UIwPYmGGiHl7) | [KHAIKHAN](https://open.spotify.com/artist/0EhNqmWsXRucbAgAKfac75) | [Annem](https://open.spotify.com/album/4cCQiTtZbWocNmkqQWyXcI) | 4:17 | 2022-08-24 | 2022-10-14 |
 | [Anchor Point](https://open.spotify.com/track/38VyljyWXnVxtYWSiH5Hzc) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Anchor Point EP](https://open.spotify.com/album/1L8kegBtw3HkqpxTlqc1Fm) | 5:59 | 2022-08-24 |  |

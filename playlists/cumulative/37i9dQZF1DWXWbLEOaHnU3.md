@@ -4,11 +4,12 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-212 songs - 19 hr 6 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+213 songs - 19 hr 13 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11:11](https://open.spotify.com/track/0nJu3is8rdbac8Lk04XgBJ) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Pawan Nair](https://open.spotify.com/artist/4OQmNNocyNfgJYMLTT5kr8) | [11:11](https://open.spotify.com/album/17SywTwoudMf2yyauxWIfs) | 6:33 | 2022-04-15 |  |
+| [7 Seas](https://open.spotify.com/track/1JD4cRuzRriKTiMlwDKjF5) | [Avatar Project](https://open.spotify.com/artist/2EYGaKp7rT0DIbVSJORNUn), [Crazy Box](https://open.spotify.com/artist/1dRcKuOPCEqKUxF42QSnLP), [Invader Space](https://open.spotify.com/artist/1eS05zjEuBm4DT6j2prv6Q) | [7 Seas](https://open.spotify.com/album/1tfvM0KU4wHsTQXJFgSxrF) | 7:12 | 2022-10-27 |  |
 | [A Cookie From Space](https://open.spotify.com/track/7q2h3i7mn0mpO847Yo4rUC) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bliss](https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk) | [A Cookie From Space](https://open.spotify.com/album/1QbTncSh1e7wfVvJXLEX4G) | 10:19 | 2022-07-07 | 2022-08-26 |
 | [A Mountain Told Me](https://open.spotify.com/track/3j41oMxuWlmLLDGdIsi8ZF) | [Krama](https://open.spotify.com/artist/6fz3m9HgQ3s7171AZHvk0j) | [A Mountain Told Me](https://open.spotify.com/album/4XbEEymjllRINpMPy3JUMw) | 9:16 | 2022-04-15 | 2022-08-06 |
 | [Abducted by Aliens \- Original Mix](https://open.spotify.com/track/3mrlDJmGdbW7wZxnvLJXo5) | [Atromna](https://open.spotify.com/artist/1u11cHfaKyffkPQ6i8sFLW), [Misaya](https://open.spotify.com/artist/0uMYB7w6oXQDdyVKNoxtQD) | [Psychedelic Dimensions](https://open.spotify.com/album/0XdJUFA5QeWlK4TXSMimGE) | 8:43 | 2022-04-15 | 2022-07-20 |
@@ -205,7 +206,7 @@
 | [Warriors](https://open.spotify.com/track/3445XMTjDR2ChC666brlZb) | [Brandon Hombre](https://open.spotify.com/artist/6qkkXjwUwpMqFSL98y95aU), [Trip\-Tamine](https://open.spotify.com/artist/0ap0HvoHVGPmbqVxjWGEtT), [ALY](https://open.spotify.com/artist/7mAoNqdajE6YXCeH0GxzDG) | [Warriors](https://open.spotify.com/album/0sZMCJ4r2zZThSx4jnUaaF) | 3:51 | 2022-06-16 | 2022-06-22 |
 | [Warzone](https://open.spotify.com/track/5NO5KgBLdWdD3oMWWL8CEB) | [Berg](https://open.spotify.com/artist/2r7sssoF6zZbPOG0U0YOem), [Wilder](https://open.spotify.com/artist/3390KzXc8S55RvdrUd3vYa) | [Warzone](https://open.spotify.com/album/5plYYsJuzV4NJYWeA2SKRI) | 5:22 | 2022-04-15 | 2022-07-28 |
 | [Water Is Life](https://open.spotify.com/track/43y8VDnBiV5q9eKlSk1aoA) | [Phenomenal](https://open.spotify.com/artist/3n1MLjPurbOnrhDXePNrQU), [Miirage](https://open.spotify.com/artist/6w716f7d5r850erAdyJjzA) | [Water Is Life](https://open.spotify.com/album/0E6AoFodwPylN7AcgFBMJM) | 6:14 | 2022-06-10 | 2022-08-15 |
-| [Way Down](https://open.spotify.com/track/3vQurSrefHhu4M7f71U0is) | [Cloud7](https://open.spotify.com/artist/1v58vTDfehAnHXZ3pvvkbs) | [Way Down](https://open.spotify.com/album/6k5XMwU0mIwIgRmCZVKKwI) | 6:19 | 2022-04-15 |  |
+| [Way Down](https://open.spotify.com/track/3vQurSrefHhu4M7f71U0is) | [Cloud7](https://open.spotify.com/artist/1v58vTDfehAnHXZ3pvvkbs) | [Way Down](https://open.spotify.com/album/6k5XMwU0mIwIgRmCZVKKwI) | 6:19 | 2022-04-15 | 2022-10-28 |
 | [Way Down](https://open.spotify.com/track/2LLflcAjE262tLv9vK7Dqz) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [Way Down](https://open.spotify.com/album/1UMYvR9XMNjp9gIxPKRHHX) | 4:18 | 2022-04-15 | 2022-07-08 |
 | [We Are One](https://open.spotify.com/track/6D5Ueh4E9uj7H67UV6FBJO) | [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7), [Joicey](https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK) | [We Are One](https://open.spotify.com/album/3fldSmcRWqzfoe3QjmwmN6) | 6:00 | 2022-09-09 |  |
 | [We are Psychedelic \- GMS Remix](https://open.spotify.com/track/3qehmGY1DnlBI5W9iFlUhR) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Tristan](https://open.spotify.com/artist/4dksllH87LsrZgin0ee2uc), [Killerwatts](https://open.spotify.com/artist/2TWfxrplORQwuUCsF9husH), [GMS](https://open.spotify.com/artist/1jLsr1sNO2WshuzmSibSIt) | [Rise The Remixes](https://open.spotify.com/album/7aJEOvh6tSmx81Sz7OVQg3) | 7:07 | 2022-06-03 |  |

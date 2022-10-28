@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,748 likes - 98 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,808 likes - 98 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 97 | [Wonderful Christmastime](https://open.spotify.com/track/7G1cFCMNKHixbmq9I8nRvh) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Wonderful Christmastime](https://open.spotify.com/album/7Aw5Eeq7mSfQGqQj2bZT7V) | 4:14 |
 | 98 | [Merry Christmas Wherever You Are \(Acoustic\)](https://open.spotify.com/track/3teWqnWLFpJ6RquvJzwG4O) | [Meiko](https://open.spotify.com/artist/6tW9jWf8lpuzDzAdVMvNMV) | [Merry Christmas Wherever You Are \(Acoustic\)](https://open.spotify.com/album/6STtqwEkgI7Kqvwem94mZv) | 3:21 |
 
-Snapshot ID: `MTY2NjYxNTM5NSwwMDAwMDAwMDY3OTE2NTI1MWNmNzdlNGE5YTFmNjU0NDY3ZjA4NGMw`
+Snapshot ID: `MTY2Njg1NTUyNSwwMDAwMDAwMGUyZTkxYjVmMWJjNzE5OTdiZWYzMzk0Nzc0MTY3ZmU1`

@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Taylor Swift, Pabllo Vittar com Gloria Groove, Planet Hemp e mais!
 
-3,709 songs - 7 day 23 hr 24 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
+3,710 songs - 7 day 23 hr 27 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -888,6 +888,7 @@
 | [Deprimida](https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Deprimida](https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3) | 3:37 | 2022-02-18 | 2022-02-26 |
 | [Desamor](https://open.spotify.com/track/0ALH6Nj9I5t3DkYTvg0And) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Refúgio](https://open.spotify.com/album/3nP5WWMB5Wgx4lX752C1dC) | 2:46 | 2022-02-05 | 2022-02-12 |
 | [Desapaixonar](https://open.spotify.com/track/4GL2GTaFhPInsjmhNMSFd9) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Desapaixonar](https://open.spotify.com/album/0t3IQv7Y2zvBumYHhht8Gv) | 3:49 | 2022-04-15 | 2022-04-23 |
+| [Desatando O Nó](https://open.spotify.com/track/0451VryXB08LczGyRitwnK) | [Victor Santos](https://open.spotify.com/artist/3swRzPZRzlzeGczSJxhxne) | [Desatando O Nó](https://open.spotify.com/album/1ARSsfHJnvRj8GZRc75pBp) | 2:51 | 2022-10-21 |  |
 | [Desbloqueia o Sentimento \- Ao Vivo](https://open.spotify.com/track/3sPTuTnYdLk52ZhFYVQa4k) | [Rudã & Raphael](https://open.spotify.com/artist/2dTa5ZNDWHVykOQMebU2uU), [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Desbloqueia o Sentimento \(Ao Vivo\)](https://open.spotify.com/album/244RIl9qRIK25c2nPAkrSR) | 2:56 | 2022-09-09 | 2022-09-17 |
 | [DESCANSA](https://open.spotify.com/track/3w0DZSyTT18YbE2UeneB7j) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [DESCANSA](https://open.spotify.com/album/3cXIRdtQDTqWNNWOQl0hvU) | 2:49 | 2022-03-04 | 2022-03-12 |
 | [Descansa em Mim](https://open.spotify.com/track/7Il0f4313mhJYA9Gz6ahnX) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [Descansa em Mim](https://open.spotify.com/album/6Fs7lJ0VlCqUQoa9sGQLt5) | 2:42 | 2022-06-17 | 2022-06-25 |

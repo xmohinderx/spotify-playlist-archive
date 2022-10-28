@@ -4,7 +4,7 @@
 
 > Get ready, to do, do rocksteady
 
-76 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/5E2s1kfen5rRaZahEjSJBP)
+77 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/5E2s1kfen5rRaZahEjSJBP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Blow Roland Blow](https://open.spotify.com/track/3HWPrduj1Nv7woSyLV3lDy) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn) | [Skatalites & Friends At Randy's](https://open.spotify.com/album/0xXoIWRmo6jchM2Tf1AjDF) | 2:29 | 2014-12-10 |  |
 | [Book Of Rules](https://open.spotify.com/track/4PKri4OX2AB2RXj95Y9ZgB) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Night Food](https://open.spotify.com/album/4ZOQeByfXd1iAgmMk8xpYN) | 3:31 | 2022-03-28 |  |
 | [Book Of Rules](https://open.spotify.com/track/6ObB3ZyEvBhS63dnJq8Usl) | [The Heptones](https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4) | [Night Food](https://open.spotify.com/album/0pCUQIGfNzmCGjgYR6iahT) | 3:31 | 2014-12-10 | 2022-07-29 |
-| [Bye Bye Bye](https://open.spotify.com/track/0GBuiTCk9nfS967lbsrZIP) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [Safe Travel With Phil Pratt & Friends 1966\-68](https://open.spotify.com/album/2vRdzGbhGDvIfNOeu7Miab) | 2:50 | 2018-04-23 |  |
+| [Bye Bye Bye](https://open.spotify.com/track/0GBuiTCk9nfS967lbsrZIP) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [Safe Travel With Phil Pratt & Friends 1966\-68](https://open.spotify.com/album/2vRdzGbhGDvIfNOeu7Miab) | 2:50 | 2018-04-23 | 2022-10-28 |
+| [Bye, Bye, Bye](https://open.spotify.com/track/4OH81njfQUHI0cUelNICwA) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [A Day Will Come \(Reggae Fever Picks 1963\-72\)](https://open.spotify.com/album/6errP0q4AbDH2Qw8nOhrJ6) | 2:47 | 2022-03-28 |  |
 | [Carry Go Bring Home](https://open.spotify.com/track/2f5ZBl9lzXKLKcKxeauyPp) | [Justin Hinds & The Dominoes](https://open.spotify.com/artist/0TxAbj3qE2NdYzg0SVG09Q) | [Sinners](https://open.spotify.com/album/5hcgXkJak0lw7Z34ujQgG7) | 2:45 | 2014-12-10 |  |
 | [Don't Stay Away](https://open.spotify.com/track/2VhVawD5meWiuyI4sL9WAo) | [Phyllis Dillon](https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh) | [Love Is All I Had: A Tribute to the Queen of Jamaican Soul](https://open.spotify.com/album/4Op7as0pv5F8nGEu4oR0Cl) | 2:33 | 2018-04-23 |  |
 | [Everybody Needs Love](https://open.spotify.com/track/3NkNPO35ZtRaNHqBY2fj1y) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Unearthed Gold of Rocksteady Vol\. 2](https://open.spotify.com/album/5enppz5hOX0NQo5Jl8B1kZ) | 2:15 | 2014-12-10 | 2022-07-29 |

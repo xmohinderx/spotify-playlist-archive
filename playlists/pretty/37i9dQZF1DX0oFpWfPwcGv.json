@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 31004,
+  "num_followers": 31047,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMGZkYTY1ZjhiNGE5N2RlMDQ4NTliNjk4YWY5NzAwZGM3",
+  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMDkzNWZjYzc2YzljYTJmNTNjY2E1OTRiN2U3OTAzNzNl",
   "tracks": [
     {
       "added_at": "2022-09-12 22:27:59",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
-        "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
-      },
-      "artists": [
-        {
-          "name": "Elbow Bones And The Racketeers",
-          "url": "https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj"
-        }
-      ],
-      "duration_ms": 261293,
-      "name": "A Night in New York - Remastered",
-      "url": "https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
         "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 274960,
       "name": "My Forbidden Lover - 2018 Remaster",
       "url": "https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
+        "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
+      },
+      "artists": [
+        {
+          "name": "Elbow Bones And The Racketeers",
+          "url": "https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj"
+        }
+      ],
+      "duration_ms": 261293,
+      "name": "A Night in New York - Remastered",
+      "url": "https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1311,38 +1311,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Miss Gladys Knight",
-        "url": "https://open.spotify.com/album/2mY1RyBSnE7tkjh7EVJNNc"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight",
-          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
-        }
-      ],
-      "duration_ms": 351453,
-      "name": "It's a Better Than Good Time",
-      "url": "https://open.spotify.com/track/07HoKinMluYrInnQoMj4zu"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "Slippin' and Dippin' (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO"
-      },
-      "artists": [
-        {
-          "name": "Coffee",
-          "url": "https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h"
-        }
-      ],
-      "duration_ms": 460880,
-      "name": "I Wanna Be With You",
-      "url": "https://open.spotify.com/track/6CkJTGW06HbJqXRrlRJaG7"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "If You Could Read My Mind",
         "url": "https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L"
       },
@@ -1371,6 +1339,38 @@
       "duration_ms": 338973,
       "name": "Sinner Man",
       "url": "https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Slippin' and Dippin' (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO"
+      },
+      "artists": [
+        {
+          "name": "Coffee",
+          "url": "https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h"
+        }
+      ],
+      "duration_ms": 460880,
+      "name": "I Wanna Be With You",
+      "url": "https://open.spotify.com/track/6CkJTGW06HbJqXRrlRJaG7"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Miss Gladys Knight",
+        "url": "https://open.spotify.com/album/2mY1RyBSnE7tkjh7EVJNNc"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight",
+          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+        }
+      ],
+      "duration_ms": 351453,
+      "name": "It's a Better Than Good Time",
+      "url": "https://open.spotify.com/track/07HoKinMluYrInnQoMj4zu"
     },
     {
       "added_at": "2022-09-12 22:27:59",

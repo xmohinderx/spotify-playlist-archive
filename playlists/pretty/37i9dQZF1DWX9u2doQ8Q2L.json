@@ -1,15 +1,47 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 344446,
+  "num_followers": 344534,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjcxMDAwMCwwMDAwMDAwMDcxZmNkZjZjOWFkZDVmNGNjNTJiYmRjZjBiNDc5ZjJj",
+  "snapshot_id": "MTY2Njg4MjgwMCwwMDAwMDAwMDI4YTZmZDM1MDNjYWRjNDU5ZmQxZTIyMDhlZTdiNmMx",
   "tracks": [
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "KANATA HALUKA",
+        "url": "https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 355706,
+      "name": "KANATA HALUKA",
+      "url": "https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "KICK BACK",
+        "url": "https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 193495,
+      "name": "KICK BACK",
+      "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "Sugar Magic",
         "url": "https://open.spotify.com/album/7vFtPaViNfyM9xb66JZtbF"
@@ -25,59 +57,7 @@
       "url": "https://open.spotify.com/track/25QIhqinwmNWzkM60wXLEK"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "SEASONS",
-        "url": "https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao"
-      },
-      "artists": [
-        {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "Suzume",
-        "url": "https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        },
-        {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
-        }
-      ],
-      "duration_ms": 236390,
-      "name": "Suzume",
-      "url": "https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "Late summer waves",
-        "url": "https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 155242,
-      "name": "Late summer waves",
-      "url": "https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
@@ -93,7 +73,23 @@
       "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "SEASONS",
+        "url": "https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "U.F.O",
         "url": "https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0"
@@ -113,7 +109,7 @@
       "url": "https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8"
@@ -129,7 +125,7 @@
       "url": "https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "19\u2103",
         "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
@@ -145,27 +141,7 @@
       "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "Don't go (feat. ASH ISLAND)",
-        "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 155267,
-      "name": "Don't go (feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "\u8d64\u3068\u9752",
         "url": "https://open.spotify.com/album/46J15A4lTJm1BtYxgA9ZoQ"
@@ -181,7 +157,7 @@
       "url": "https://open.spotify.com/track/6AsQ1wqbmYSRmc3S9mxbaj"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "We'll be fine (English Version)",
         "url": "https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi"
@@ -197,7 +173,7 @@
       "url": "https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "REACH!",
         "url": "https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7"
@@ -213,23 +189,23 @@
       "url": "https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
-        "name": "KICK BACK",
-        "url": "https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B"
+        "name": "popcorn nights",
+        "url": "https://open.spotify.com/album/3c4Hal6qduUYmKYuz5ca3H"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
         }
       ],
-      "duration_ms": 193495,
-      "name": "KICK BACK",
-      "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
+      "duration_ms": 219992,
+      "name": "popcorn nights",
+      "url": "https://open.spotify.com/track/3zIg70E1b4dXlK2zFSPHlF"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "BE THE GROOVE",
         "url": "https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb"
@@ -249,7 +225,7 @@
       "url": "https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "grace",
         "url": "https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu"
@@ -265,23 +241,23 @@
       "url": "https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
-        "name": "Hold The Girl",
-        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+        "name": "ira",
+        "url": "https://open.spotify.com/album/71VtyqcUwda8LRXpHzr44W"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "Spangle Call Lilli Line",
+          "url": "https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB"
         }
       ],
-      "duration_ms": 236078,
-      "name": "This Hell",
-      "url": "https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4"
+      "duration_ms": 182680,
+      "name": "ira",
+      "url": "https://open.spotify.com/track/7AwHsYxLFMFrrpU7ykqfWJ"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "your room",
         "url": "https://open.spotify.com/album/3JijWekYCz4gBkWB1jFeX6"
@@ -301,23 +277,27 @@
       "url": "https://open.spotify.com/track/0ny70e6ql2HOEmQVfnWI8N"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
-        "name": "NIGHT TAPE",
-        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
+        "name": "Suzume",
+        "url": "https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr"
       },
       "artists": [
         {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
         }
       ],
-      "duration_ms": 266900,
-      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+      "duration_ms": 236390,
+      "name": "Suzume",
+      "url": "https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "Day N Night",
         "url": "https://open.spotify.com/album/2E3Drk037gBwve6OJOIlau"
@@ -341,23 +321,23 @@
       "url": "https://open.spotify.com/track/2bS0bzrGfnbnGiZhyRqpAt"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
-        "name": "SWAM",
-        "url": "https://open.spotify.com/album/07dVrbFzLZIszN5tGtSeVn"
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
       },
       "artists": [
         {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 154005,
-      "name": "SWAM",
-      "url": "https://open.spotify.com/track/3mUDs6V97GirTDSNLJr5z6"
+      "duration_ms": 236078,
+      "name": "This Hell",
+      "url": "https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "DEEP",
         "url": "https://open.spotify.com/album/6plK6Io4aV3wSY53pZjSW9"
@@ -373,23 +353,27 @@
       "url": "https://open.spotify.com/track/0EVdzF6jNEL5fKH1FeONbb"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
-        "name": "Luxury Disease",
-        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
+        "name": "Don't go (feat. ASH ISLAND)",
+        "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
       },
       "artists": [
         {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 194695,
-      "name": "Vandalize",
-      "url": "https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt"
+      "duration_ms": 155267,
+      "name": "Don't go (feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "\u30cf\u30ca\u30ce\u30e8\u30a6",
         "url": "https://open.spotify.com/album/1NORsBbP4WjmIBG2P8OsCt"
@@ -405,7 +389,103 @@
       "url": "https://open.spotify.com/track/5WwC895TwQsdgxiH9qkuq5"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "Running In The Dark (Image Song for Arknights mobile game)",
+        "url": "https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR"
+      },
+      "artists": [
+        {
+          "name": "Monkey Majik",
+          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Running In The Dark - Image Song for Arknights mobile game",
+      "url": "https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "SWAM",
+        "url": "https://open.spotify.com/album/07dVrbFzLZIszN5tGtSeVn"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 154005,
+      "name": "SWAM",
+      "url": "https://open.spotify.com/track/3mUDs6V97GirTDSNLJr5z6"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/6YuddXfc7Sthy3IZnshpmC"
+      },
+      "artists": [
+        {
+          "name": "Keisuke Murakami",
+          "url": "https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu"
+        }
+      ],
+      "duration_ms": 219989,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/7HNzutKeiNnnBvW2GJbner"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 194695,
+      "name": "Vandalize",
+      "url": "https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "Mocktails",
+        "url": "https://open.spotify.com/album/13LPbNHtgyYfvozXn7JYcA"
+      },
+      "artists": [
+        {
+          "name": "leift",
+          "url": "https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3"
+        }
+      ],
+      "duration_ms": 164120,
+      "name": "Mocktails",
+      "url": "https://open.spotify.com/track/2cUhZvGJpb3gUfH61am2OL"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28"
@@ -425,23 +505,27 @@
       "url": "https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
-        "name": "Running In The Dark (Image Song for Arknights mobile game)",
-        "url": "https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2u6IqayyTuhTHxT3elTrCT"
       },
       "artists": [
         {
-          "name": "Monkey Majik",
-          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
+          "name": "Mirage Collective",
+          "url": "https://open.spotify.com/artist/468Drn2keEN3vswfh1qHHf"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
         }
       ],
-      "duration_ms": 220533,
-      "name": "Running In The Dark - Image Song for Arknights mobile game",
-      "url": "https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA"
+      "duration_ms": 247787,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/3oJOpUiLV5btPhLXTKiT6U"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "Chrome Season",
         "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
@@ -457,23 +541,55 @@
       "url": "https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
-        "name": "Midnight Train",
-        "url": "https://open.spotify.com/album/6YuddXfc7Sthy3IZnshpmC"
+        "name": "Love's Daydream End",
+        "url": "https://open.spotify.com/album/1JqhrNaGYbmXQlrTJ4Id6q"
       },
       "artists": [
         {
-          "name": "Keisuke Murakami",
-          "url": "https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu"
+          "name": "\u5ca1\u6751\u5321\u7d18",
+          "url": "https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR"
         }
       ],
-      "duration_ms": 219989,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/7HNzutKeiNnnBvW2GJbner"
+      "duration_ms": 239647,
+      "name": "Love's Daydream End",
+      "url": "https://open.spotify.com/track/63DFBgVx1eBrMQkG5LuwCh"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
+        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "duration_ms": 203554,
+      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
+      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "September - Daydream Remix -",
+        "url": "https://open.spotify.com/album/4K5Ab56fYvafThohRSJ8gS"
+      },
+      "artists": [
+        {
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+        }
+      ],
+      "duration_ms": 198076,
+      "name": "September - Daydream Remix -",
+      "url": "https://open.spotify.com/track/3UVNNLapPN64OWvWk3nwD6"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx"
@@ -497,23 +613,7 @@
       "url": "https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "Mocktails",
-        "url": "https://open.spotify.com/album/13LPbNHtgyYfvozXn7JYcA"
-      },
-      "artists": [
-        {
-          "name": "leift",
-          "url": "https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3"
-        }
-      ],
-      "duration_ms": 164120,
-      "name": "Mocktails",
-      "url": "https://open.spotify.com/track/2cUhZvGJpb3gUfH61am2OL"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "Baby I love you so",
         "url": "https://open.spotify.com/album/16kwSHBXn4IfnEhuUXI4rb"
@@ -529,59 +629,7 @@
       "url": "https://open.spotify.com/track/2HK0fhLAZML38nA3EQnuQe"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2u6IqayyTuhTHxT3elTrCT"
-      },
-      "artists": [
-        {
-          "name": "Mirage Collective",
-          "url": "https://open.spotify.com/artist/468Drn2keEN3vswfh1qHHf"
-        },
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        }
-      ],
-      "duration_ms": 247787,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/3oJOpUiLV5btPhLXTKiT6U"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
-        "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
-      },
-      "artists": [
-        {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
-        }
-      ],
-      "duration_ms": 203554,
-      "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
-      "url": "https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "Love's Daydream End",
-        "url": "https://open.spotify.com/album/1JqhrNaGYbmXQlrTJ4Id6q"
-      },
-      "artists": [
-        {
-          "name": "\u5ca1\u6751\u5321\u7d18",
-          "url": "https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR"
-        }
-      ],
-      "duration_ms": 239647,
-      "name": "Love's Daydream End",
-      "url": "https://open.spotify.com/track/63DFBgVx1eBrMQkG5LuwCh"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "TWO",
         "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
@@ -597,7 +645,7 @@
       "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
         "url": "https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta"
@@ -613,7 +661,7 @@
       "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
         "url": "https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd"
@@ -629,27 +677,7 @@
       "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "Toxins",
-        "url": "https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR"
-      },
-      "artists": [
-        {
-          "name": "Bleecker Chrome",
-          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
-        },
-        {
-          "name": "TARVETHZ",
-          "url": "https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR"
-        }
-      ],
-      "duration_ms": 180861,
-      "name": "Toxins",
-      "url": "https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "Orbit",
         "url": "https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p"
@@ -669,7 +697,27 @@
       "url": "https://open.spotify.com/track/0ivm0kmxQLyp6njZ7QerWn"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "Toxins",
+        "url": "https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR"
+      },
+      "artists": [
+        {
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+        },
+        {
+          "name": "TARVETHZ",
+          "url": "https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR"
+        }
+      ],
+      "duration_ms": 180861,
+      "name": "Toxins",
+      "url": "https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "dead2me.",
         "url": "https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7"
@@ -685,7 +733,7 @@
       "url": "https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "\u6708\u306b\u5420\u3048\u308b",
         "url": "https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3"
@@ -705,43 +753,7 @@
       "url": "https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "Departure : My New Me",
-        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Trickster",
-      "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "Left Alone feat. \u571f\u5c90\u9ebb\u5b50",
-        "url": "https://open.spotify.com/album/1UBA1poMb5uU40hvC6ld9r"
-      },
-      "artists": [
-        {
-          "name": "Deep Sea Diving Club",
-          "url": "https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY"
-        },
-        {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Left Alone feat. \u571f\u5c90\u9ebb\u5b50",
-      "url": "https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "Trust the change",
         "url": "https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu"
@@ -761,7 +773,23 @@
       "url": "https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "Departure : My New Me",
+        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Trickster",
+      "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "\u30ed\u30de\u30f3\u30b9",
         "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
@@ -777,7 +805,27 @@
       "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "Left Alone feat. \u571f\u5c90\u9ebb\u5b50",
+        "url": "https://open.spotify.com/album/1UBA1poMb5uU40hvC6ld9r"
+      },
+      "artists": [
+        {
+          "name": "Deep Sea Diving Club",
+          "url": "https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY"
+        },
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Left Alone feat. \u571f\u5c90\u9ebb\u5b50",
+      "url": "https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "STARLIGHT",
         "url": "https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf"
@@ -793,7 +841,7 @@
       "url": "https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "Amber (DJ Mitsu the Beats Remix)",
         "url": "https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR"
@@ -813,23 +861,7 @@
       "url": "https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "from JAPAN 3",
-        "url": "https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx"
-      },
-      "artists": [
-        {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
-        }
-      ],
-      "duration_ms": 271525,
-      "name": "\u7d9a\u30fb\u9769\u547d\u524d\u591c",
-      "url": "https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "\u30bf\u30a4\u30df\u30f3\u30b0\u3067\u3057\u3087 (feat. Awich)",
         "url": "https://open.spotify.com/album/3n2RDR1czTdnOTO52bx3OB"
@@ -849,7 +881,39 @@
       "url": "https://open.spotify.com/track/5TsBHbTbAUNQmUtvpS4kDI"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "A revolution",
+        "url": "https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD"
+      },
+      "artists": [
+        {
+          "name": "LOVE PSYCHEDELICO",
+          "url": "https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Radio song",
+      "url": "https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "from JAPAN 3",
+        "url": "https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx"
+      },
+      "artists": [
+        {
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+        }
+      ],
+      "duration_ms": 271525,
+      "name": "\u7d9a\u30fb\u9769\u547d\u524d\u591c",
+      "url": "https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "Who are you ?",
         "url": "https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX"
@@ -869,23 +933,7 @@
       "url": "https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "A revolution",
-        "url": "https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD"
-      },
-      "artists": [
-        {
-          "name": "LOVE PSYCHEDELICO",
-          "url": "https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Radio song",
-      "url": "https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "D'Addario",
         "url": "https://open.spotify.com/album/0Jo41bqYOYzkwRA7MtttF3"
@@ -901,7 +949,23 @@
       "url": "https://open.spotify.com/track/39F8ghQo929nMGZAbNPpXM"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "\u30d4\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/4CDlpPToQl8dlAYsvYriko"
+      },
+      "artists": [
+        {
+          "name": "Ritsuki Akiyama",
+          "url": "https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9"
+        }
+      ],
+      "duration_ms": 284531,
+      "name": "\u30d4\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/2BUaLRp0NsvfWOWtqnJrYe"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "Sweet Home",
         "url": "https://open.spotify.com/album/6U8mea9zHq3z2yJmx8wKA7"
@@ -921,39 +985,7 @@
       "url": "https://open.spotify.com/track/4fA0MAm36U4x4B3gb9qE36"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "\u30d4\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/4CDlpPToQl8dlAYsvYriko"
-      },
-      "artists": [
-        {
-          "name": "Ritsuki Akiyama",
-          "url": "https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9"
-        }
-      ],
-      "duration_ms": 284531,
-      "name": "\u30d4\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/2BUaLRp0NsvfWOWtqnJrYe"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "HOMEWORK",
-        "url": "https://open.spotify.com/album/30ZEBL5NnWPGAwd80jEsHG"
-      },
-      "artists": [
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "HOMEWORK",
-      "url": "https://open.spotify.com/track/0gq75lykNVUk0zaHVruLGB"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "\u4e0d\u601d\u8b70\u306a\u95a2\u4fc2",
         "url": "https://open.spotify.com/album/1W2FaF800M2nRqZlPFMhG9"
@@ -969,7 +1001,23 @@
       "url": "https://open.spotify.com/track/00Nj6hCC9wNg86MO0sIGJf"
     },
     {
-      "added_at": "2022-10-25 15:00:00",
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "HOMEWORK",
+        "url": "https://open.spotify.com/album/30ZEBL5NnWPGAwd80jEsHG"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "HOMEWORK",
+      "url": "https://open.spotify.com/track/0gq75lykNVUk0zaHVruLGB"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
       "album": {
         "name": "Dancing Womer",
         "url": "https://open.spotify.com/album/5ZPkVkgnqXl4XOYyKe1q3w"
@@ -987,78 +1035,6 @@
       "duration_ms": 243000,
       "name": "Dancing Womer",
       "url": "https://open.spotify.com/track/1gnwP3EsVfF9ZNB9ILG5Bq"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "Rules",
-        "url": "https://open.spotify.com/album/0zRsI6dnQZsxKZvbNdM7fn"
-      },
-      "artists": [
-        {
-          "name": "TAIKING",
-          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
-        },
-        {
-          "name": "Tao Tsuchiya",
-          "url": "https://open.spotify.com/artist/078uTew0ffZM8zKSYdZsDQ"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Rules",
-      "url": "https://open.spotify.com/track/6x108QFQh3AP7wzQt6zqxY"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "\u5411\u3053\u3046\u304b\u3089",
-        "url": "https://open.spotify.com/album/6jH9JpnMI6GmtHZYAjoacR"
-      },
-      "artists": [
-        {
-          "name": "Ritsuki Akiyama",
-          "url": "https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9"
-        }
-      ],
-      "duration_ms": 225643,
-      "name": "\u5411\u3053\u3046\u304b\u3089",
-      "url": "https://open.spotify.com/track/1FVA1zzhSi7U7SwTIidQeC"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "\u30b4\u30ed\u30ef\u30fc\u30ba\u3092\u5438\u3063\u305f\u3053\u3068\u304c\u3042\u308b\u304b\u3044",
-        "url": "https://open.spotify.com/album/6al4FiqNmuoWldC5lksg1i"
-      },
-      "artists": [
-        {
-          "name": "Yu Sakai",
-          "url": "https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y"
-        },
-        {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
-        }
-      ],
-      "duration_ms": 252842,
-      "name": "\u30b4\u30ed\u30ef\u30fc\u30ba\u3092\u5438\u3063\u305f\u3053\u3068\u304c\u3042\u308b\u304b\u3044",
-      "url": "https://open.spotify.com/track/4O8StLbAlIS1HnasVicPEI"
-    },
-    {
-      "added_at": "2022-10-25 15:00:00",
-      "album": {
-        "name": "\u7d9a\u30fbNew York City",
-        "url": "https://open.spotify.com/album/2YGIs4EQXhDL9R9D1lz3WZ"
-      },
-      "artists": [
-        {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
-        }
-      ],
-      "duration_ms": 282493,
-      "name": "\u7d9a\u30fbNew York City",
-      "url": "https://open.spotify.com/track/0SEtY9Z4GWq9i0sNyIttFA"
     }
   ],
   "unique_name": "Tokyo Rising",

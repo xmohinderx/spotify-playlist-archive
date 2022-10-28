@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 265846,
       "name": "39 Music!",
       "url": "https://open.spotify.com/track/7DZrnvfd78FMJgPYa8FSEy"
@@ -1054,6 +1054,24 @@
     },
     {
       "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/2prhLJdoX7DM6qZtXJETnP"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165173,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/3iMc2ekQxOIfSamAkxfiGu"
+    },
+    {
+      "album": {
         "name": "Exit Tunes Presents Gumism From Megpoid (Vocaloid)",
         "url": "https://open.spotify.com/album/6LRbHwDnHpqcLxGfXR0C5c"
       },
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 196666,
       "name": "Killer Spider",
       "url": "https://open.spotify.com/track/3nOEQq57iGLmixCoGY0rOR"
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 141777,
       "name": "Shadow Shadow",
       "url": "https://open.spotify.com/track/3kKrLW9Fi7FdPi5oeLER7U"
@@ -1833,6 +1851,24 @@
       "duration_ms": 175000,
       "name": "Sky Passing Around, Moon Rabbit",
       "url": "https://open.spotify.com/track/5Zz1U1ghsgYAEs8cRSB7WE"
+    },
+    {
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/6J6DEqdZgV06poctPNvXCL"
+      },
+      "artists": [
+        {
+          "name": "Nazonomi",
+          "url": "https://open.spotify.com/artist/5siGWWBtTCo6WlwTBLRQW5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122422,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/0ACamuYJ0EyIW7TfkM97EV"
     },
     {
       "album": {
@@ -1941,7 +1977,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 158307,
       "name": "Volcano - Vocaloid Ver.",
       "url": "https://open.spotify.com/track/0FyYZ5VcmMFd3Ijimml5c6"
@@ -3495,7 +3531,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 201428,
       "name": "\u30ab\u30ec\u30e9",
       "url": "https://open.spotify.com/track/528tDJOGh348cRU6KySLmA"
@@ -3535,6 +3571,24 @@
       "duration_ms": 315095,
       "name": "\u30ad\u30e3\u30c3\u30c8\u30d5\u30fc\u30c9 -\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2014\u300dLive-",
       "url": "https://open.spotify.com/track/2gNtSUrrJSgWgQUxsFKoxn"
+    },
+    {
+      "album": {
+        "name": "\u30ad\u30e3\u30c3\u30c8\u30e9\u30d3\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/06G3jp8JrZdGeJqMKIAfiP"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u690e\u30e2\u30a4\u30df",
+          "url": "https://open.spotify.com/artist/09bfsJNaKxdLPpxiX1kfwZ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117055,
+      "name": "\u30ad\u30e3\u30c3\u30c8\u30e9\u30d3\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/1YIr7kCHsECRkVclYvFRUY"
     },
     {
       "album": {
@@ -6120,6 +6174,24 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u5b8c\u5168\u611b\u60c5\u9032\u884c\u4e2d",
+        "url": "https://open.spotify.com/album/1FIf5JBEDDWxaqwvtCiRAM"
+      },
+      "artists": [
+        {
+          "name": "Misumi",
+          "url": "https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "\u4e0d\u5b8c\u5168\u611b\u60c5\u9032\u884c\u4e2d",
+      "url": "https://open.spotify.com/track/1kccUSvGvxEt7tccnrfV4y"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u7d14\u306a\u30d9\u30f3\u30ac\u30e9",
         "url": "https://open.spotify.com/album/43eiB8sDKy4v5spvmTTZdr"
       },
@@ -6149,7 +6221,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 223400,
       "name": "\u4e59\u5973\u89e3\u5256",
       "url": "https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ"
@@ -6691,6 +6763,28 @@
       "duration_ms": 169838,
       "name": "\u5929\u4f7f",
       "url": "https://open.spotify.com/track/6jw5E0T0vpB2ydhgSymvnD"
+    },
+    {
+      "album": {
+        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4\u300d10th Anniversary OFFICIAL ALBUM",
+        "url": "https://open.spotify.com/album/2YxLUDzV68rc9cM1v7SFeE"
+      },
+      "artists": [
+        {
+          "name": "Karasuya Sabou",
+          "url": "https://open.spotify.com/artist/1UaHeL0MQ2sgcGGx4hasHA"
+        },
+        {
+          "name": "\u93e1\u97f3\u30ea\u30f3",
+          "url": "https://open.spotify.com/artist/2gz31oKYxWOkb2KKixMv73"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "\u5929\u624d\u30ed\u30c3\u30af (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/01xhuS2onjqAzLdYxF25fj"
     },
     {
       "album": {
@@ -8149,7 +8243,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 178788,
       "name": "\u98a8",
       "url": "https://open.spotify.com/track/0wU8Ejhr1mAA9DdCw1nBcz"

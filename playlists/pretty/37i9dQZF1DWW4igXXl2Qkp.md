@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Dom Corleo
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,564 likes - 49 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,615 likes - 49 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 19 | [Starry Night](https://open.spotify.com/track/3xUKMt4RGN9V3ofnWDbQ1X) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Do Your Worst](https://open.spotify.com/album/2zoKhONaJBKUHsbPZLFubF) | 2:14 |
 | 20 | [Ben10](https://open.spotify.com/track/7KBZKRX0WpvB5Wkqb7TcvD) | [Yung Sinn](https://open.spotify.com/artist/6LAFFVSbnH98HCIvehSG6c) | [Ben10](https://open.spotify.com/album/1nA3Vx5C8t2yduDXgkHQbW) | 2:51 |
 | 21 | [Murder 2.0](https://open.spotify.com/track/44BSQfTmbO2Onoj8Oi02vq) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Murder 2.0](https://open.spotify.com/album/2404wXyauFNBZvmfuKLVUK) | 3:06 |
-| 22 | [I'M GOOD](https://open.spotify.com/track/1o4TXR8pDa6LQHBPhfg9zs) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I'M GOOD](https://open.spotify.com/album/4Yi6Tiw8YKTj43Yy6oQDtd) | 3:16 |
+| 22 | [I'M GOOD](https://open.spotify.com/track/1o4TXR8pDa6LQHBPhfg9zs) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I'M GOOD](https://open.spotify.com/album/4Yi6Tiw8YKTj43Yy6oQDtd) | 3:15 |
 | 23 | [Contact](https://open.spotify.com/track/5TQSK96ovPsfX7JsWGPxEQ) | [3ohBlack](https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT) | [Contact](https://open.spotify.com/album/5seomwiB0N53hjaEoLOdb4) | 2:14 |
 | 24 | [Southside](https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8) | [Southside](https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo) | 3:21 |
 | 25 | [Free Yola](https://open.spotify.com/track/0Qu4PugaDauBLVb2aj9FLp) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:43 |

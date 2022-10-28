@@ -1,13 +1,29 @@
 {
   "description": "Discover new artists on the horizon.",
-  "num_followers": 58539,
+  "num_followers": 58562,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjY4MDg1MSwwMDAwMDAwMGQzZThmMWFiN2U5YjZhNzBkMWExZjI1MzMwYTM4NDZl",
+  "snapshot_id": "MTY2Njg4NjQwMCwwMDAwMDAwMDVkN2I5YTM4MDc0MmVkNjUzNWI5YTI0ZWMzNDRmMjU2",
   "tracks": [
+    {
+      "added_at": "2022-10-27 16:00:00",
+      "album": {
+        "name": "Pasahili",
+        "url": "https://open.spotify.com/album/1ap5tsIDusVksftqQzTSQL"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "duration_ms": 196428,
+      "name": "Pagbilang Ng Tatlo",
+      "url": "https://open.spotify.com/track/6qLfX65ENPhm38xQruqoVP"
+    },
     {
       "added_at": "2022-10-25 06:53:28",
       "album": {

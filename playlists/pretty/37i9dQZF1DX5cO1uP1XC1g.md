@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > Top Arabic hits are right here\. Cover: Muslim \- مُسلِم
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,224 likes - 97 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,470 likes - 97 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

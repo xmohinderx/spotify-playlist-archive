@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Knuckle Puck
 
-833 songs - 1 day 20 hr 31 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+834 songs - 1 day 20 hr 35 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Everyone Knows](https://open.spotify.com/track/3nOwNZLewhpiuX8W1smZih) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Overrated](https://open.spotify.com/album/5VUkRHHQ12rH4g6c0hp2T6) | 2:21 | 2022-03-25 | 2022-05-22 |
 | [Everything \(I Wish I Could Claim to Be\)](https://open.spotify.com/track/5PUDFlvi5guWNkYmhGy10A) | [Catapults](https://open.spotify.com/artist/1kgH8UtIKcjH6fuUj1DnFG) | [Everything \(I Wish I Could Claim to Be\)](https://open.spotify.com/album/2X9d1U1s9GZ9GeYm0TTdsf) | 3:30 | 2022-02-04 | 2022-05-12 |
 | [Everything We Need](https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Everything We Need](https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF) | 3:05 | 2021-12-10 | 2022-06-25 |
+| [Face Down \- Symphonic Edition](https://open.spotify.com/track/3rzwBdOX741P5N394o5faL) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Face Down \(Symphonic Edition\)](https://open.spotify.com/album/0caq5KRRpwucrgDUX9jaTx) | 3:27 | 2022-10-21 |  |
 | [Fairytale](https://open.spotify.com/track/1idRNmfKufjZPlCic15EsI) | [WVNDER](https://open.spotify.com/artist/56LuTyFDFBgcq4hkc4XMu5) | [Nothing Stays](https://open.spotify.com/album/2yP06M3lbojJ7ihnjlSdX5) | 3:19 | 2021-12-10 | 2022-04-25 |
 | [Fake Blood](https://open.spotify.com/track/7vhpxl3VrqXZNEMs8NZhHe) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Fake Blood](https://open.spotify.com/album/6k8qOuAcyMoZi69txxTTtb) | 3:19 | 2021-12-10 | 2022-06-24 |
 | [fake friend](https://open.spotify.com/track/574469CWNKsxl4D7RF1fJt) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [fake friend](https://open.spotify.com/album/2Ku1KXTvHwKtcaCNSx0bLL) | 2:49 | 2021-12-10 | 2022-07-29 |
@@ -347,7 +348,7 @@
 | [Horoscope](https://open.spotify.com/track/0GdurIUMGkwNPQCLWYj9Y3) | [Thick Skin](https://open.spotify.com/artist/6daSwa3QR61QH1s8t426c2) | [Horoscope](https://open.spotify.com/album/1m1cehDYl8Nt3xqMmKWxAk) | 3:41 | 2022-04-01 | 2022-04-21 |
 | [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 | 2022-08-05 |  |
 | [How Am I Still Alive? \(with Lydia Night\)](https://open.spotify.com/track/2ymOJYGe3noIiQF83yAysV) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E), [Lydia Night](https://open.spotify.com/artist/0J5n8cS1rKCAZ7eJek1uYK) | [How Am I Still Alive? \(with Lydia Night\)](https://open.spotify.com/album/6JMXuj7c10IpXdwHWp7ZHd) | 3:12 | 2021-12-10 | 2022-07-12 |
-| [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 | 2022-04-29 |  |
+| [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/track/6jhBI8HZ1qxetz13hjL1PE) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [how could you do this to me? feat\. Kellin Quinn from Sleeping With Sirens](https://open.spotify.com/album/5d9zUPulqyPiHYS48HbkX0) | 2:40 | 2022-04-29 | 2022-10-28 |
 | [How It Feels to Be Lost](https://open.spotify.com/track/3A1jkLwsYjaH30J0v6oZCF) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:38 | 2021-12-10 | 2022-07-04 |
 | [I Can't Sleep](https://open.spotify.com/track/1gckzXZppc8a5qHZy4MCZJ) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [The Breakfast Club](https://open.spotify.com/album/2nGlHs1tylkU5Wv8SgVZv9) | 3:22 | 2021-12-10 | 2022-08-06 |
 | [I Don't Care](https://open.spotify.com/track/1I6s7XgnKIkGXtm4bcUWuf) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [I Don't Care](https://open.spotify.com/album/4z09qzhq7zGxibWmwcZxFE) | 3:45 | 2022-03-25 | 2022-04-20 |

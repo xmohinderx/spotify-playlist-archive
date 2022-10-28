@@ -4,11 +4,11 @@
 
 > Die beste in Afrikaanse Hip Hop Cover: <a href="https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=w8EU1cUrSMGlI2MssXYRjA">Jack Parow</a>
 
-51 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/2L0hHi2CI7ZbUGqYTWQUQ1)
+52 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/2L0hHi2CI7ZbUGqYTWQUQ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Asemrowers](https://open.spotify.com/track/5gpo2x24coDr17KWjuT6Le) | [Bittereinder](https://open.spotify.com/artist/5x7rnGctpbwn7srAYLDD0F) | [Asemrowers](https://open.spotify.com/album/1qkUI57JztayVSb6ReQkTv) | 3:37 | 2022-09-08 |  |
+| [Asemrowers](https://open.spotify.com/track/5gpo2x24coDr17KWjuT6Le) | [Bittereinder](https://open.spotify.com/artist/5x7rnGctpbwn7srAYLDD0F) | [Asemrowers](https://open.spotify.com/album/1qkUI57JztayVSb6ReQkTv) | 3:37 | 2022-09-08 | 2022-10-28 |
 | [Awe](https://open.spotify.com/track/1rNWkKVhuRBqwJ6nsjQIgw) | [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B), [Cream Machine](https://open.spotify.com/artist/3ogDnSPAOIkeH3EJgkw6sd) | [Awe](https://open.spotify.com/album/0uikFOqO0GXZKxzs3Nab8Y) | 2:08 | 2022-09-08 |  |
 | [Awe My Ma Se Kind](https://open.spotify.com/track/0Ht2LLaQovMRWaQSRdGD9t) | [Pret Kadet](https://open.spotify.com/artist/6HViHb4IhV0UAMVV1KMUIk), [Foksie Konyn](https://open.spotify.com/artist/12VZK2SvbJyoOw5OYKee5a) | [Awe My Ma Se Kind](https://open.spotify.com/album/40nAWEdpwiLQLdzqWTQB17) | 3:08 | 2022-09-08 | 2022-10-14 |
 | [Bons](https://open.spotify.com/track/27rWp1eK0aH82c8Uo9nJAB) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic), [Katinka Band](https://open.spotify.com/artist/4KQ5Y1mDvgEUSxKk5FT7pS) | [The Party Starter](https://open.spotify.com/album/1Rzyo8ixVvtCt3ygXclytD) | 3:06 | 2022-09-08 |  |
@@ -39,6 +39,7 @@
 | [Mal](https://open.spotify.com/track/63Q6SWhpOsG1KnCZZTGPjy) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Mal](https://open.spotify.com/album/41DsSF0XlDJlNPaZTMRaTw) | 2:11 | 2022-09-08 |  |
 | [Meisies & Partytjies](https://open.spotify.com/track/1psMgy1yY92I0iEDmiEtmT) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Meisies & Partytjies](https://open.spotify.com/album/6zuBf5TT5VdAvijbdb3oCT) | 3:42 | 2022-09-08 |  |
 | [Meisies & Partytjies](https://open.spotify.com/track/2gesUnuudnlfvTFeuIF8Rw) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [There It Is](https://open.spotify.com/album/3lSkOBovZW9Ex1crkCF54B) | 3:42 | 2022-09-08 |  |
+| [Mermaid](https://open.spotify.com/track/6nxQX5P9TDm2iDtH5gCIQc) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Loki Rothman](https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3) | [Mermaid](https://open.spotify.com/album/0aXpcLp49iI5h6y3MhSKDY) | 3:13 | 2022-10-27 |  |
 | [okay, oraait](https://open.spotify.com/track/30yMwESJ0zz1TlosluFC2t) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Ek Belowe, Demos \(pt\. 1\)](https://open.spotify.com/album/09ugntywMtYnjHWgLInVuj) | 2:37 | 2022-09-08 |  |
 | [Ongerep](https://open.spotify.com/track/3eXMAAp2vmVQYzau6Tr2Zy) | [Jaak](https://open.spotify.com/artist/7xPfiz8ANL69EeDuLNS8hm) | [Ongerep](https://open.spotify.com/album/5Q9qa3yXeuPfgDBBKrD7W5) | 3:32 | 2022-09-08 |  |
 | [Playa](https://open.spotify.com/track/1rNz535f5FjsnATLQQbSvN) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [Jong Grotes](https://open.spotify.com/album/6fkDB86zPbNpiJ0JnyPhlb) | 3:26 | 2022-09-08 |  |

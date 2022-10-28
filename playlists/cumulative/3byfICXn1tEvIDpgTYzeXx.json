@@ -3080,6 +3080,24 @@
     },
     {
       "album": {
+        "name": "Yokai 2",
+        "url": "https://open.spotify.com/album/43XgFPRDol7FxWU4DyH8tt"
+      },
+      "artists": [
+        {
+          "name": "NECROLX",
+          "url": "https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163376,
+      "name": "Yokai 2",
+      "url": "https://open.spotify.com/track/3SuJdvsccLAYXlzRdSXutG"
+    },
+    {
+      "album": {
         "name": "You and I Falling",
         "url": "https://open.spotify.com/album/22cb8HbxgIEp6BbqHwGhXb"
       },

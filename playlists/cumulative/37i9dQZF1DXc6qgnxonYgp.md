@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Hip Hop Tamizha
 
-142 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/2SIjOp6tcQivzahElH8QdC)
+143 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/2SIjOp6tcQivzahElH8QdC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Still I Am Underground](https://open.spotify.com/track/6eqASpXily8EUKmTlmGbWS) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf) | [82 D Block](https://open.spotify.com/album/1N5AaCpih0kuUt1g0BPgq5) | 3:05 | 2021-12-01 |  |
 | [Sughamaai Subbulakshmi](https://open.spotify.com/track/1IB74mbEhfJP47gqSkiC1C) | [Buggimaan](https://open.spotify.com/artist/0r4YXuFgQ7PpwQpi9cVrSo), [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW), [Craankstar](https://open.spotify.com/artist/2LCwaZuvqQ9ZuPXffrriQf) | [Vocagenie Hits](https://open.spotify.com/album/3cMW72eTUhEbDJf3KqJRYu) | 4:22 | 2021-12-01 |  |
 | [Sughamaai Subbulakshmi](https://open.spotify.com/track/4MZlRVYcMpOP5kaP5jUM4j) | [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW), [Buggimaan](https://open.spotify.com/artist/0r4YXuFgQ7PpwQpi9cVrSo), [Craankstar](https://open.spotify.com/artist/2LCwaZuvqQ9ZuPXffrriQf) | [Sughamaai Subbulakshmi](https://open.spotify.com/album/3BBkHJ0SExwQWXmGnk5BCc) | 4:22 | 2021-12-01 | 2022-07-29 |
+| [SUPERSTAR](https://open.spotify.com/track/5HUbuhPO54I6iEQrpmOLoJ) | [Emzy Shady](https://open.spotify.com/artist/3kNgX4u7lDyGcp1cK9osEQ), [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [Kxngxta](https://open.spotify.com/artist/1PZUOVm0y4rZsnhRAFeQbC) | [SUPERSTAR](https://open.spotify.com/album/0WJLJJL367rGzVyUHSqjg8) | 2:55 | 2022-10-28 |  |
 | [Take That](https://open.spotify.com/track/4QUyLvSaIiD55ZI3w29g2p) | [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B), [Vashanth\. S](https://open.spotify.com/artist/0FTvERyv9kjWsVjAbgiZxA), [Markia](https://open.spotify.com/artist/6iyRYKiBfGIO9ZktfVrotJ) | [Take That \- Single](https://open.spotify.com/album/1ktYvRdoJA2HTOiqZux4wj) | 3:26 | 2021-12-01 |  |
 | [Takkaru Ponnu \(feat\. Achu, Tish & Suhaas\)](https://open.spotify.com/track/7lwbPOPH4zZdieuln3t49w) | [Jerone B](https://open.spotify.com/artist/4EYTQPjQI2KbkhdCziPYd5), [Achu](https://open.spotify.com/artist/4Sc40e3TYBxiUHsKcbFvmi), [Tish](https://open.spotify.com/artist/6FMygGtquMtVqHfKJFDwd2), [Suhaas](https://open.spotify.com/artist/60dfpfbm69UbJ1HHFdWigm) | [Takkaru Ponnu \(feat\. Achu, Tish & Suhaas\)](https://open.spotify.com/album/4kbUdycaiJbtGIpI8LkynE) | 4:16 | 2021-12-01 |  |
 | [Tamil Shawty](https://open.spotify.com/track/6AaSFQ51Kxc04PPCRqXMSP) | [M.Kowtham](https://open.spotify.com/artist/71LicWNSBQwSA0kd8Ncm63), [Brian](https://open.spotify.com/artist/0RiP4IKxniLXo7uvjlNBTI), [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Tha Mystro](https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ), [Daniel Yogathas](https://open.spotify.com/artist/4epMOagTIGQjYgprh7PGRf), [CJ Germany](https://open.spotify.com/artist/4tbcGaG4EXyjI51Qiz3BIp) | [Tamil Shawty](https://open.spotify.com/album/13u61KVb6mW6Y0vjIexfPR) | 4:31 | 2021-12-01 |  |

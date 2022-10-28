@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, chiello\)
 
-142 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+144 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,9 +89,11 @@
 | [molecole \(interlude\)](https://open.spotify.com/track/7vsofh7bdDeL0n0lodFiCi) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:05 | 2022-09-29 |  |
 | [No Gang](https://open.spotify.com/track/623cfQ9zSGXfFrSMVeQuJq) | [CASEMURATE](https://open.spotify.com/artist/0XW9hp8oaDssenWWFn75NM), [Carati](https://open.spotify.com/artist/5axMNLVsaKFpGeViCOqsw4) | [No Gang](https://open.spotify.com/album/5Uny5coi7UWX8gYF5bf869) | 2:24 | 2022-09-22 |  |
 | [Non farà mai bel tempo](https://open.spotify.com/track/5pWYWGu1JPZ3eR4HZ4LLy9) | [Male](https://open.spotify.com/artist/5aq75Phv7uG3Rhi24AMf6X) | [Non farà mai bel tempo](https://open.spotify.com/album/3LeOUccVRyzs5oB5vM60lI) | 2:37 | 2022-04-21 |  |
+| [Non Mi Passa](https://open.spotify.com/track/1ZukPve2ImtM1f1ZbD9ATQ) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [Non Mi Passa](https://open.spotify.com/album/4hDPcR2QtJ6o9uAh2UEmxh) | 2:16 | 2022-10-27 |  |
 | [NON PIANGERE](https://open.spotify.com/track/0IVsYyzXsH5QZNMNxO8LfT) | [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5), [Thierry](https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx) | [NON PIANGERE](https://open.spotify.com/album/60rupYxX1cyqiXYltdInJl) | 2:45 | 2022-06-02 | 2022-09-17 |
 | [NON PIANGERE](https://open.spotify.com/track/0aF8dGSr4JxGrNiCLYKydt) | [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5), [Thierry](https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx) | [NON PIANGERE](https://open.spotify.com/album/3POuzBmU79UAhUbtXjp0IM) | 2:45 | 2022-09-08 |  |
 | [Non pioverà per sempre](https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Non pioverà per sempre](https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm) | 3:09 | 2022-04-21 |  |
+| [Non Sarà Uguale](https://open.spotify.com/track/0JpKsj1vVqq0NqYyNrQQdt) | [Poet](https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs) | [Non Sarà Uguale](https://open.spotify.com/album/5JLlWPE1rQ1sDVEsBjpVlf) | 2:23 | 2022-10-27 |  |
 | [nostalgia](https://open.spotify.com/track/5INaFlBjbZ9lDKCsUkdMbY) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [nostalgia](https://open.spotify.com/album/39DvGGAGYEeXvR1Tvvd7F6) | 3:15 | 2022-04-21 |  |
 | [Notti Sbagliate](https://open.spotify.com/track/5Nx5sc8gzP2xHckhw3bWSL) | [Delfa](https://open.spotify.com/artist/4RkRi2pyK00Awctep7AkSc) | [Notti Sbagliate](https://open.spotify.com/album/6FkMcHq9A51wDuUlOQCTpg) | 2:10 | 2022-09-29 | 2022-10-14 |
 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 | 2022-09-22 |  |

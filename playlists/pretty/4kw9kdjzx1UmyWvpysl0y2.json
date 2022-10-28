@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127207,
+  "num_followers": 127208,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzcyOSw5N2Q1MDlhODliZTVjZmZjYzBhNjZkOTQxMmFlM2RlYjk4ZjRhNmJi",
+  "snapshot_id": "Mzc0Miw2OTA4ZTk4YjQwNTkxMWZjM2E0MTM4ODQ0N2ZjZGI4MjE2M2U1NGQ3",
   "tracks": [
+    {
+      "added_at": "2022-10-27 19:07:14",
+      "album": {
+        "name": "Be Here (La La La)",
+        "url": "https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "The Duchess",
+          "url": "https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B"
+        }
+      ],
+      "duration_ms": 140645,
+      "name": "Be Here (La La La)",
+      "url": "https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD"
+    },
+    {
+      "added_at": "2022-10-27 19:10:27",
+      "album": {
+        "name": "My Heart\u2019s on Fire",
+        "url": "https://open.spotify.com/album/1PjXmgO0le7vEsrAW732b2"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Qvckslvr",
+          "url": "https://open.spotify.com/artist/59dor9AF3qBCxesH4MKQ6M"
+        }
+      ],
+      "duration_ms": 191064,
+      "name": "My Heart\u2019s on Fire",
+      "url": "https://open.spotify.com/track/6kIduXkQyuc3hP28wgntnJ"
+    },
     {
       "added_at": "2022-10-26 19:10:18",
       "album": {
@@ -29,22 +69,6 @@
       "url": "https://open.spotify.com/track/6PZDe8NpAjiUSkD3q6gCPs"
     },
     {
-      "added_at": "2022-10-25 19:43:59",
-      "album": {
-        "name": "scars",
-        "url": "https://open.spotify.com/album/7HCCNdm9M09VVaa17mOjES"
-      },
-      "artists": [
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "scars",
-      "url": "https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn"
-    },
-    {
       "added_at": "2022-10-24 20:03:30",
       "album": {
         "name": "2Nite",
@@ -61,40 +85,20 @@
       "url": "https://open.spotify.com/track/6Jw4guwTyYoV8bsMhK1mTG"
     },
     {
-      "added_at": "2022-10-21 20:08:11",
+      "added_at": "2022-10-25 19:43:59",
       "album": {
-        "name": "Slip Away",
-        "url": "https://open.spotify.com/album/7zLGfYzZkeMd6rVaYgA2c9"
+        "name": "scars",
+        "url": "https://open.spotify.com/album/7HCCNdm9M09VVaa17mOjES"
       },
       "artists": [
         {
-          "name": "Arlow",
-          "url": "https://open.spotify.com/artist/0UUg4WqiuFaqavE3JSZtHQ"
-        },
-        {
-          "name": "Kid Spirit",
-          "url": "https://open.spotify.com/artist/6biLxqgIjSH15QbzXE8v8A"
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
         }
       ],
-      "duration_ms": 202886,
-      "name": "Slip Away",
-      "url": "https://open.spotify.com/track/316uf691AwTyNmSmcr6ceL"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "SLEEPER / SICKO",
-        "url": "https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY"
-      },
-      "artists": [
-        {
-          "name": "Godlands",
-          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "SLEEPER",
-      "url": "https://open.spotify.com/track/5vkaCS15NjWCJzEAEFbP4q"
+      "duration_ms": 205000,
+      "name": "scars",
+      "url": "https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn"
     },
     {
       "added_at": "2022-10-21 20:08:11",
@@ -117,6 +121,58 @@
       "url": "https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd"
     },
     {
+      "added_at": "2022-10-27 19:11:33",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00f8a",
+          "url": "https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I"
+        },
+        {
+          "name": "OAI",
+          "url": "https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/1WnSUyG5FQwIwWYMzMTkRS"
+    },
+    {
+      "added_at": "2022-10-21 20:08:11",
+      "album": {
+        "name": "SLEEPER / SICKO",
+        "url": "https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "SLEEPER",
+      "url": "https://open.spotify.com/track/5vkaCS15NjWCJzEAEFbP4q"
+    },
+    {
+      "added_at": "2022-10-27 19:11:54",
+      "album": {
+        "name": "SLEEPER / SICKO",
+        "url": "https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "SICKO",
+      "url": "https://open.spotify.com/track/5e9Pd60eHsH6ERbuzh6krO"
+    },
+    {
       "added_at": "2022-10-21 20:08:11",
       "album": {
         "name": "Nara",
@@ -131,6 +187,26 @@
       "duration_ms": 249836,
       "name": "Nara",
       "url": "https://open.spotify.com/track/3RGmpu3LDxFSMRhrvZsIXV"
+    },
+    {
+      "added_at": "2022-10-21 20:08:11",
+      "album": {
+        "name": "Slip Away",
+        "url": "https://open.spotify.com/album/7zLGfYzZkeMd6rVaYgA2c9"
+      },
+      "artists": [
+        {
+          "name": "Arlow",
+          "url": "https://open.spotify.com/artist/0UUg4WqiuFaqavE3JSZtHQ"
+        },
+        {
+          "name": "Kid Spirit",
+          "url": "https://open.spotify.com/artist/6biLxqgIjSH15QbzXE8v8A"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "Slip Away",
+      "url": "https://open.spotify.com/track/316uf691AwTyNmSmcr6ceL"
     },
     {
       "added_at": "2022-10-21 20:08:11",
@@ -1071,22 +1147,6 @@
       "duration_ms": 157058,
       "name": "Lose Our Minds",
       "url": "https://open.spotify.com/track/2cjPokboQDr7xI0esIgg0h"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/0BzcyBDEuFW1q3fR8gSf7G"
-      },
-      "artists": [
-        {
-          "name": "Dr. Ush\u016bu",
-          "url": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/57qREwXYYpVtANx4Vldnux"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

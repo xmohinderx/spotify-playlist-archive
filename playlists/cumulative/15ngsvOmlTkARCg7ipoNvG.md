@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-844 songs - 19 hr 50 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
+847 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Deep in the Ocean](https://open.spotify.com/track/5gwfVxwbdodvFKYiP3BzzG) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Timeless](https://open.spotify.com/album/3Q1zoGkmvuAfIwBL08Fd4w) | 1:29 | 2022-01-12 |  |
 | [Deep Love](https://open.spotify.com/track/2QcN3Qj70hATPDcMgvXM50) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Present](https://open.spotify.com/album/7iNVMa6OBF7uixhm3CCb20) | 1:04 | 2022-01-12 |  |
 | [Deep Ocean Love](https://open.spotify.com/track/6yt1GUomZZlUPni7Hk98le) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Overcome](https://open.spotify.com/album/2P1dLjwu0Pwq46QZFOiwMX) | 1:03 | 2022-04-29 |  |
+| [Deep Peace](https://open.spotify.com/track/4IM8omw7AMaEqo7GOr1O9Z) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Peace In The Valley](https://open.spotify.com/album/3QnGMS9zCvuSDGB5OCKeqy) | 1:01 | 2022-10-27 |  |
 | [Deep Slumber](https://open.spotify.com/track/702t7ndwehwB24ETTQpXZr) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Transformations](https://open.spotify.com/album/7zcrSTb4ci1zBg74hBazBk) | 1:01 | 2022-03-18 |  |
 | [Deep Trust](https://open.spotify.com/track/2M3xe4J28kYqFK7GlJs3Q8) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Silent Moments](https://open.spotify.com/album/7ElTb4v89gDTEgMyANjw0s) | 1:02 | 2022-05-09 |  |
 | [Deep Yellow Sunrise](https://open.spotify.com/track/0NSCeOVRzjT8E0PqWEHrVE) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Hillside Songs](https://open.spotify.com/album/32e44ep6VLvMxxIEawIlGc) | 1:03 | 2022-02-11 |  |
@@ -396,6 +397,7 @@
 | [Horizon Beauty](https://open.spotify.com/track/0L7IMxGj5RyDBmihXXU6WZ) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Harp Ambience](https://open.spotify.com/album/2c4j85kdUZni7cXlfYmzid) | 1:02 | 2022-03-03 |  |
 | [I See You](https://open.spotify.com/track/5qTt6yeVh26pNDRdsW3d8N) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Present](https://open.spotify.com/album/7iNVMa6OBF7uixhm3CCb20) | 1:06 | 2022-01-12 |  |
 | [I Will See You Again](https://open.spotify.com/track/76lVffYsiVWQPR2yPw0X0l) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Reunion](https://open.spotify.com/album/6mqrhNRHkLiMLL6bop27xc) | 2:24 | 2022-01-12 |  |
+| [Immersed](https://open.spotify.com/track/3UkC0FuxRTb9eRhnzdtynk) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Peace In The Valley](https://open.spotify.com/album/3QnGMS9zCvuSDGB5OCKeqy) | 1:01 | 2022-10-27 |  |
 | [Improvisation](https://open.spotify.com/track/4lydgWXLMlGiK3fJ3C8AHJ) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Stories in Motion](https://open.spotify.com/album/6RMXjqDjCXmqPjsnjhqQkj) | 2:49 | 2022-01-12 |  |
 | [In Flight](https://open.spotify.com/track/1Ii9os1paPNRVNQ6jJTBGY) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [In Flight](https://open.spotify.com/album/6TtqC8f8bnohOml2Un2t04) | 1:49 | 2022-01-12 |  |
 | [In Flight \- Violin Version](https://open.spotify.com/track/35td6pNBOxZnVWVuDY90vk) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [In Flight \(Violin Version\)](https://open.spotify.com/album/31XlOOqL9GHJfTLi995Qed) | 1:33 | 2022-01-12 |  |
@@ -438,6 +440,7 @@
 | [Lightness Appears](https://open.spotify.com/track/5NloHLffvoZluBiGgy6xiq) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Calming Moments](https://open.spotify.com/album/4yz3qOY8SkpbzyUarrx00Z) | 1:02 | 2022-05-15 |  |
 | [Long Long Ago \- Cello Version](https://open.spotify.com/track/4tbNROZdkXo7KN7lx2wRxp) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Peaceful Preludes](https://open.spotify.com/album/4tIT4F5ewlUNyT7CttXaZo) | 1:09 | 2022-01-12 |  |
 | [Long Long Ago Lullaby](https://open.spotify.com/track/1qSKM237rmanD12Y0BKppR) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Resting For Now](https://open.spotify.com/album/0EZX5YZrwunVI1jToSLK0P) | 1:03 | 2022-02-21 |  |
+| [Looking Up](https://open.spotify.com/track/2xGKxZUYoavTEUcK7fiOI3) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Peace In The Valley](https://open.spotify.com/album/3QnGMS9zCvuSDGB5OCKeqy) | 1:00 | 2022-10-27 |  |
 | [Looking Up At The Stars](https://open.spotify.com/track/5sVFFFRqTv7TdhqOaQUg3J) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spaces To See](https://open.spotify.com/album/5amtYQ4oVN6PKjBpf67bYI) | 1:09 | 2022-02-06 |  |
 | [Looking Up At The Stars Again](https://open.spotify.com/track/4tjkyjBnXdhiznU4a7rqgl) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Transformations](https://open.spotify.com/album/7zcrSTb4ci1zBg74hBazBk) | 1:09 | 2022-03-18 |  |
 | [Looking Within](https://open.spotify.com/track/3v2Dddd0N2O4Uh5F15GUSo) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Reflections in the Rain](https://open.spotify.com/album/76c8s62YW3udlHNuB7HK7N) | 1:37 | 2022-01-20 |  |

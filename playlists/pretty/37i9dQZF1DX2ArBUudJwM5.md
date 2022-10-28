@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > ¡TINI y más mujeres a todo volumen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,771 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,801 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 26 | [La Canción + Bella](https://open.spotify.com/track/7CzpCeOIKnwtXElfbChIl3) | [Yami](https://open.spotify.com/artist/3hy2sPEDV0cdhA6SYc9Jc6) | [La Canción + Bella](https://open.spotify.com/album/7fEUwHSLF8byHlbpQY8B1q) | 3:24 |
 | 27 | [SOLA](https://open.spotify.com/track/4m7ZXTzncCmDo1yCjNC4xh) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [SOLA](https://open.spotify.com/album/6ibXgT9otExjpjJBdgzkp9) | 2:55 |
 | 28 | [Último Intento](https://open.spotify.com/track/5N46aoYA89KyIT6FN2qeW7) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Que Me Duela](https://open.spotify.com/album/2Tppy6h0ayWLfO2F4YLsQh) | 3:04 |
-| 29 | [Guión](https://open.spotify.com/track/2t62hRi4tkJBVOaGACBDHm) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [Guión](https://open.spotify.com/album/48lmDUazktmj8rbHN6LaCj) | 3:43 |
-| 30 | [UN MONTÓN](https://open.spotify.com/track/6I2Mqnx01jGIVN7WtBpQvg) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [UN MONTÓN](https://open.spotify.com/album/2JZufH3ls7984cI37E98bH) | 3:22 |
+| 29 | [UN MONTÓN](https://open.spotify.com/track/6I2Mqnx01jGIVN7WtBpQvg) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [UN MONTÓN](https://open.spotify.com/album/2JZufH3ls7984cI37E98bH) | 3:22 |
+| 30 | [Guión](https://open.spotify.com/track/2t62hRi4tkJBVOaGACBDHm) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE) | [Guión](https://open.spotify.com/album/48lmDUazktmj8rbHN6LaCj) | 3:43 |
 | 31 | [SKYS4U](https://open.spotify.com/track/5q7znvNbDgFyaqqKmcQhuU) | [Dakillah](https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ) | [SKYS4U](https://open.spotify.com/album/0H2sPezhGKddiabtPIbdX2) | 5:26 |
 | 32 | [Ley de Atracción](https://open.spotify.com/track/3Hg8KE0DQjo6aFJwFp2A8D) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Ley de Atracción](https://open.spotify.com/album/1uFe6wvy8CAtjsszaOVwNW) | 3:37 |
 | 33 | [LENTO](https://open.spotify.com/track/5wwlnhATLTTuBoR9cRPGJA) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [LENTO](https://open.spotify.com/album/4eYCA1xUqDbj74cyKm1mG8) | 2:43 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 36 | [ILY](https://open.spotify.com/track/7qCfzzn1iPRpCnMCEFi7Lv) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [ILY](https://open.spotify.com/album/6WQonABzkyv6R7VsNhRjo9) | 2:35 |
 | 37 | [DIME](https://open.spotify.com/track/4v2Z37jBeiXElntL44c8By) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [DIME](https://open.spotify.com/album/2ghzNoVMDodH8mFIkWimPD) | 2:36 |
 | 38 | [No Ves](https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [No Ves](https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC) | 3:19 |
-| 39 | [Papi](https://open.spotify.com/track/7xq8QM5WqLHEaVA3JKSYhm) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Papi](https://open.spotify.com/album/4yTkZSHc8RTwoREgGKzB5L) | 2:13 |
-| 40 | [Hipócrita](https://open.spotify.com/track/6NV79c4HHFD43MJlDGFpSQ) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [Hipócrita](https://open.spotify.com/album/6DGtE7wbmpWsvnT0nz8MSz) | 2:11 |
-| 41 | [No Tengo Plan](https://open.spotify.com/track/04PsS3DioqmG4mY3xJ94oo) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [TRIP](https://open.spotify.com/album/3nWqKWhGA2RhqakbVi1cRY) | 3:04 |
-| 42 | [Ansiedad](https://open.spotify.com/track/6HMvXSoGDvH7bdodbanNRI) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Ansiedad](https://open.spotify.com/album/3CcGC27xjlj7Tav8aPffog) | 2:41 |
+| 39 | [Hipócrita](https://open.spotify.com/track/6NV79c4HHFD43MJlDGFpSQ) | [Critical Baby](https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl) | [Hipócrita](https://open.spotify.com/album/6DGtE7wbmpWsvnT0nz8MSz) | 2:11 |
+| 40 | [Papi](https://open.spotify.com/track/7xq8QM5WqLHEaVA3JKSYhm) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Papi](https://open.spotify.com/album/4yTkZSHc8RTwoREgGKzB5L) | 2:13 |
+| 41 | [Ansiedad](https://open.spotify.com/track/6HMvXSoGDvH7bdodbanNRI) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Ansiedad](https://open.spotify.com/album/3CcGC27xjlj7Tav8aPffog) | 2:41 |
+| 42 | [No Tengo Plan](https://open.spotify.com/track/04PsS3DioqmG4mY3xJ94oo) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [TRIP](https://open.spotify.com/album/3nWqKWhGA2RhqakbVi1cRY) | 3:04 |
 | 43 | [Sabor a Mí \(feat\. María Campos\)](https://open.spotify.com/track/63QIJSFaLx6KDXvHjAkBmW) | [DJ MÄMI](https://open.spotify.com/artist/1K6cDuo2mI7CvYIxrRNeOP), [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Sabor A Luis](https://open.spotify.com/album/3NCShsVe4IouPiB6VuQRp4) | 2:57 |
 | 44 | [Wake Up](https://open.spotify.com/track/5Es7s4L8NK4sA94voUVtH6) | [AGOS NISI](https://open.spotify.com/artist/5kZiVSij35JYVdPb63VH69) | [Wake Up](https://open.spotify.com/album/45Wa01P9HDdOTBg30gM6MX) | 2:21 |
 | 45 | [Refix](https://open.spotify.com/track/3QJMu7OYarjBc4OApftxLg) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Refix](https://open.spotify.com/album/6JNY4TqZRwjnI47Q73lN5j) | 2:57 |
 | 46 | [Que Pena](https://open.spotify.com/track/5I8FPzO6XJuzCNcsV06OVO) | [The Sistars](https://open.spotify.com/artist/3aF1PR6CAzeVXwYKDlIkPa) | [Que Pena](https://open.spotify.com/album/7cfA3U2121DCGSBjS6SHoQ) | 2:40 |
-| 47 | [Call Me](https://open.spotify.com/track/5iUS5k0A8ZN0Vgr01obiR2) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [Call Me](https://open.spotify.com/album/1rYrD5yRhwQnDb67POVJgy) | 2:33 |
-| 48 | [qué mal que me hiciste](https://open.spotify.com/track/322PbBjLJ4hLEorcfIqOwN) | [Angie Cadenas](https://open.spotify.com/artist/5dCM3LJZcUHR9tD9cQFrKG) | [qué mal que me hiciste](https://open.spotify.com/album/1NcI916JiO27M6yqhWtcan) | 2:49 |
+| 47 | [qué mal que me hiciste](https://open.spotify.com/track/322PbBjLJ4hLEorcfIqOwN) | [Angie Cadenas](https://open.spotify.com/artist/5dCM3LJZcUHR9tD9cQFrKG) | [qué mal que me hiciste](https://open.spotify.com/album/1NcI916JiO27M6yqhWtcan) | 2:49 |
+| 48 | [Call Me](https://open.spotify.com/track/5iUS5k0A8ZN0Vgr01obiR2) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [Call Me](https://open.spotify.com/album/1rYrD5yRhwQnDb67POVJgy) | 2:33 |
 | 49 | [SALVAJE](https://open.spotify.com/track/0O4zac4Aw1cfTW6FItIW06) | [Marty D](https://open.spotify.com/artist/0rEsgtmQIANiqf2zWpQUIq), [AGOS NISI](https://open.spotify.com/artist/5kZiVSij35JYVdPb63VH69) | [SALVAJE](https://open.spotify.com/album/2jtm6HoR8h5EyVrhhKkRaP) | 3:04 |
 | 50 | [Fenty](https://open.spotify.com/track/1o4DbSmhwZ08Rnq99Lhqvo) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Fenty](https://open.spotify.com/album/3Zkt2UDHWaklY7JxWnaAtp) | 2:30 |
 
-Snapshot ID: `MTY2NDkzODg2MCwwMDAwMDAwMDM2Y2I0ZGY3N2I5OGZiMTIxN2RlMjhjNGRiNjRhY2Nj`
+Snapshot ID: `MTY2NDkzODg2MCwwMDAwMDAwMGFjZjNhNWQ1YjYyNzVmMTNjNWJjODg1YWY0ZDM3Yzc4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,789 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,814 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 78 | [無法抗拒的你](https://open.spotify.com/track/3UIGjEhegNpwGvgGj2vXOd) | [Maderlin Weng](https://open.spotify.com/artist/4fpCZI760JLt135sUs4y5A) | [無法抗拒的你](https://open.spotify.com/album/05Ie7yjRI6t4ZMCBHVWlvi) | 5:01 |
 | 79 | [我說了謊 \- 《你在我心上》電影主題曲](https://open.spotify.com/track/7B6qvkY9cVoly9GKIFRIFm) | [張庭瑚](https://open.spotify.com/artist/3UeFOb0UQEgIbRjYON9Xo2) | [我說了謊 \(《你在我心上》電影主題曲\)](https://open.spotify.com/album/2tDMmzqCJw7oAdh0NyrsRI) | 4:10 |
 | 80 | [想和你看五月的晚霞](https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [華與浪漫](https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT) | 3:53 |
-| 81 | [不小心愛上你 Accidentally in Love ft\. 魏如萱 waa wei](https://open.spotify.com/track/0Gw3VYIA5RbpZVnOYUiLsP) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [不小心愛上你 Accidentally in Love ft\. 魏如萱 waa wei](https://open.spotify.com/album/6IFGIOFQtPKTytLxFnoweD) | 3:59 |
+| 81 | [不小心愛上你 ft\. 魏如萱 waa wei](https://open.spotify.com/track/49vNlEFxO7Uv95ZNC9stIP) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [In Mind](https://open.spotify.com/album/2tU8bZsg1ZnPRZO1gfGdpZ) | 3:59 |
 | 82 | [如果你還在](https://open.spotify.com/track/7xMrfjKU6faIWYqvsAdydq) | [綠繡眼](https://open.spotify.com/artist/7dwt5S8gmrCEnG5WWtbCri) | [願溫柔的你](https://open.spotify.com/album/3urGVIT0WNv1rYUtgUMUEh) | 4:02 |
 | 83 | [暗戀\(電影《暗戀·橘生淮南》主題曲\)](https://open.spotify.com/track/1oJTWZecSvNcxXrPvY6AHA) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [暗戀\(電影《暗戀·橘生淮南》主題曲\)](https://open.spotify.com/album/01zbyEJxIWAjzrOiWtiSSz) | 4:26 |
 | 84 | [不完美不後悔](https://open.spotify.com/track/7enqjdBiOa8RK3P9NBIRz7) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [不完美不後悔](https://open.spotify.com/album/443gH48fTBtHf7dHNyh4uW) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [明室](https://open.spotify.com/track/61rAMMOHksE6rLlkWnXV9m) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [明室](https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D) | 4:19 |
 | 100 | [匱乏怪物](https://open.spotify.com/track/0VPddmuoKl500jnGQ6dYu0) | [雍巧筠](https://open.spotify.com/artist/7dqZzdmzblgZ9nyITlx1zc) | [匱乏怪物](https://open.spotify.com/album/2133cl4fFwG2ZCa1cGvtfR) | 4:22 |
 
-Snapshot ID: `MTY2NjYxOTQ4MCwwMDAwMDAwMGE3NzUwMTczZjZmNjMxZDliZGY4MGU0NTg4MDliYWM0`
+Snapshot ID: `MTY2NjYxOTQ4MCwwMDAwMDAwMDRkOGNlNjhhOGM0MzkxMTJiY2U2NTUzYmNkNmUzNjQx`

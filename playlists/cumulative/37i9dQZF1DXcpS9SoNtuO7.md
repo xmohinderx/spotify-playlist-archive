@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-217 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/2kZ1zZmes8GAXikynt0gqK)
+219 songs - 15 hr 21 min - [published](https://open.spotify.com/playlist/2kZ1zZmes8GAXikynt0gqK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bomb A Head!V](https://open.spotify.com/track/56A2HquYMTBQjx1XBCCO7E) | [m.c.A・T](https://open.spotify.com/artist/63Y91rXxT9bh4sLc0SGq41) | [m.c.A・T Best Singles+](https://open.spotify.com/album/3UFWewzTxmw6eGmA0a250n) | 4:08 | 2022-07-19 |  |
 | [Cautionary Warning](https://open.spotify.com/track/0DQre1WvAlGHKpLFTEf3Hp) | [John Sykes](https://open.spotify.com/artist/3ZZT5Z4TDnzZWq9SiYHS4P) | [20th Century](https://open.spotify.com/album/2IaBluULXQF4YpVXSf8m3s) | 3:28 | 2022-09-27 |  |
 | [CHILDISH♡LOVE♡WORLD](https://open.spotify.com/track/7GYaGCgFlBvFiDjGl1XIjE) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [秘密](https://open.spotify.com/album/5rPBIsN8uSoOWTgTB4jQSC) | 4:31 | 2022-06-07 |  |
+| [dawn of infinity](https://open.spotify.com/track/2OQNKCDRobcgG9C7dSvZOZ) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [dawn of infinity](https://open.spotify.com/album/48KN9sTWeXhFViJ7rFr24z) | 4:54 | 2022-10-27 |  |
 | [Dill](https://open.spotify.com/track/53xS6BAEamt3IqJXOJGwqH) | [Aki Toyosaki](https://open.spotify.com/artist/6aieZOzFuKqDoq1QWdZEEP) | [Dill](https://open.spotify.com/album/5DJzos9EXFstPvAjFSHgkj) | 4:06 | 2022-06-22 |  |
 | [DISCOTHEQUE](https://open.spotify.com/track/13cBduKLG8MagInFwkjmen) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Trickster](https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq) | 3:57 | 2022-10-12 |  |
 | [Do You Want To](https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [You Could Have It So Much Better](https://open.spotify.com/album/3GNG4NPXfTeIGYjZ2FpS6P) | 3:35 | 2022-08-30 |  |
@@ -86,6 +87,7 @@
 | [Roundabout \- 2003 Remaster](https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Deluxe Edition\)](https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG) | 8:30 | 2022-08-30 |  |
 | [secret base \~君がくれたもの\~ \(10 years after Ver.\)](https://open.spotify.com/track/4rPmTBTX1wobDkGYXKvcGR) | [本間芽衣子（CV.茅野愛衣）](https://open.spotify.com/artist/6Ft6iUd8wRclZv2vqqwJ1u), [安城鳴子（CV.戸松 遥）](https://open.spotify.com/artist/4Yk6VO0E6sRSsHQ48l71V6), [鶴見知利子（CV.早見沙織）](https://open.spotify.com/artist/1auIZlPiXupfHjk1B3nm74) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/3QfuS80shCRvZHSzRfpEHU) | 5:52 | 2022-08-02 |  |
 | [Shine](https://open.spotify.com/track/7hzfrKYkRfPUIiagwhBtZS) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 3:42 | 2022-08-30 |  |
+| [SHOOT!](https://open.spotify.com/track/6elO5EQOutntcr1jvo9fAf) | [RO\-KYU\-BU!](https://open.spotify.com/artist/4wYkcNvXaicy52BVx4zWXS) | [SHOOT!](https://open.spotify.com/album/49DiKQqQHNqVtc9nAXd0ws) | 4:46 | 2022-10-27 |  |
 | [sign](https://open.spotify.com/track/5w1L7Bj14oC7II12HdZP1k) | [Ray](https://open.spotify.com/artist/7cN69jaR3jtYeBaNsiVFoN) | [sign](https://open.spotify.com/album/5tuOGEA8zB2GxrUgtkzP2e) | 4:47 | 2022-08-02 |  |
 | [Starcast](https://open.spotify.com/track/1kXwbB3yb4Q1uH5qViNB6t) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Starcast](https://open.spotify.com/album/1HYwwTJGLzhoi0RajLuGhx) | 4:05 | 2022-08-16 |  |
 | [Step by Step](https://open.spotify.com/track/1tNJsCNetfUrYgwBeOZdao) | [Yumiko Takahashi](https://open.spotify.com/artist/0FMKy2BXh6rzZiNJ1K9O2c) | [SINGLE COLLECTION Steps](https://open.spotify.com/album/6AOaqJsIUEahZ0IC5nldPj) | 4:09 | 2022-10-12 |  |

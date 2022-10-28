@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: charlieonnafriday",
-  "num_followers": 173399,
+  "num_followers": 173510,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM2MDg2NSwwMDAwMDAwMGU1ZTRhMzY2NDk5N2NlYTc4NGRkNTY3MDE1OWE5YThj",
+  "snapshot_id": "MTY2Njg4MTE2NSwwMDAwMDAwMDJmN2VhNDJkOTliMTM1ZTEyZTIzNDZlODE5Y2I0YzRm",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -143,6 +143,26 @@
       "duration_ms": 220539,
       "name": "leave me",
       "url": "https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT"
+    },
+    {
+      "added_at": "2022-10-27 14:32:45",
+      "album": {
+        "name": "Spinnin",
+        "url": "https://open.spotify.com/album/00MzZpBeVYJBvnt6dKrvS4"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Bens",
+          "url": "https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7"
+        }
+      ],
+      "duration_ms": 110938,
+      "name": "Spinnin",
+      "url": "https://open.spotify.com/track/5OzgCc3gQsqchX95k1C1Qa"
     },
     {
       "added_at": "2022-10-21 14:01:05",
@@ -635,22 +655,6 @@
       "duration_ms": 203502,
       "name": "adios",
       "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
-    },
-    {
-      "added_at": "2022-10-07 04:02:00",
-      "album": {
-        "name": "Excuse Me",
-        "url": "https://open.spotify.com/album/5fkjcxPbrRsPGruhqix8pF"
-      },
-      "artists": [
-        {
-          "name": "Allday",
-          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
-        }
-      ],
-      "duration_ms": 199921,
-      "name": "Splash",
-      "url": "https://open.spotify.com/track/56K7o58HvDoJW9ABFhJrmR"
     },
     {
       "added_at": "2022-09-09 04:00:00",

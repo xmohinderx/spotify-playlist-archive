@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Los sonidos de Belén.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,664 likes - 95 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,783 likes - 95 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vives tú y vivo yo](https://open.spotify.com/track/6uxOAF2PW2Smg8g6wooYR5) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Regreso a Ti](https://open.spotify.com/album/0MKjR7eouvKif4m6IaI8jA) | 4:12 |
-| 2 | [Puede Ser Navidad](https://open.spotify.com/track/7naVrw3GRQOQibLuD2TGye) | [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/artist/2FHN0lFkoif5aZHW55PNKD) | [Estrella De Paz](https://open.spotify.com/album/0iGZXdsTLxQC3mUZgxlIMT) | 5:28 |
+| 2 | [Hoy Puede Ser Navidad](https://open.spotify.com/track/1WTqYoiusgeMYeOeGz4xSi) | [Ríos de Vida](https://open.spotify.com/artist/3IGeqLLvzpZyCpjWshL46h), [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/artist/2FHN0lFkoif5aZHW55PNKD), [Villancicos](https://open.spotify.com/artist/49iliMsEPTb3WSr1ZjQPdq) | [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/album/7AAySYmxfLbTfxTNGhR3e0) | 5:28 |
 | 3 | [Oh, Noche Santa](https://open.spotify.com/track/2IPzoGzqgaPURImpB0dLnb) | [Alysia](https://open.spotify.com/artist/5i1cFj8DOqbxlWSRzDaWlE), [Joivan Jimenez](https://open.spotify.com/artist/6Z6iqWKEiZ3n2zOkSVqnUu) | [Oh, Noche Santa](https://open.spotify.com/album/2pdxLLrvUCDz1KA2Li6DJZ) | 3:53 |
 | 4 | [Naciste en Mi Corazón](https://open.spotify.com/track/6Emxozbb1RmuF1UiSxJikp) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Nació en Mi Corazón](https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18) | 4:17 |
 | 5 | [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 94 | [Santa la Noche](https://open.spotify.com/track/0UVctJP9Ts6HwuW5jtYqao) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP) | 4:18 |
 | 95 | [Santa la noche](https://open.spotify.com/track/34OQJBdPvh88lHD6Oiuwc1) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Santa la noche](https://open.spotify.com/album/3JQymi6jdlocnrFuPfVBcG) | 4:13 |
 
-Snapshot ID: `MTY0MDMyMjMwMCwwMDAwMDAwMDc4ZmIyYTBiYzdkYzUxZTNkNDFmYmE0ZmJjODFjN2M0`
+Snapshot ID: `MTY0MDMyMjMwMCwwMDAwMDAwMGQzZThkMmJiOWEwN2U3MjM5ZGQ0N2ZkYTc0Yzc3MGIz`

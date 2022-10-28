@@ -618,6 +618,28 @@
     },
     {
       "album": {
+        "name": "Be Here (La La La)",
+        "url": "https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "The Duchess",
+          "url": "https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140645,
+      "name": "Be Here (La La La)",
+      "url": "https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD"
+    },
+    {
+      "album": {
         "name": "wonder years pt. 1",
         "url": "https://open.spotify.com/album/4TAy3EjqjNvl5LtVWAH4gM"
       },
@@ -2262,6 +2284,28 @@
     },
     {
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00f8a",
+          "url": "https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I"
+        },
+        {
+          "name": "OAI",
+          "url": "https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/1WnSUyG5FQwIwWYMzMTkRS"
+    },
+    {
+      "album": {
         "name": "Grimoire",
         "url": "https://open.spotify.com/album/5PnPerL51mnpKq9HOo7vS0"
       },
@@ -3448,6 +3492,28 @@
     },
     {
       "album": {
+        "name": "My Heart\u2019s on Fire",
+        "url": "https://open.spotify.com/album/1PjXmgO0le7vEsrAW732b2"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Qvckslvr",
+          "url": "https://open.spotify.com/artist/59dor9AF3qBCxesH4MKQ6M"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191064,
+      "name": "My Heart\u2019s on Fire",
+      "url": "https://open.spotify.com/track/6kIduXkQyuc3hP28wgntnJ"
+    },
+    {
+      "album": {
         "name": "My Wicked",
         "url": "https://open.spotify.com/album/7skCuoEmOR3b0sMdWbKkVq"
       },
@@ -4325,7 +4391,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 204800,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/57qREwXYYpVtANx4Vldnux"
@@ -4613,7 +4679,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 105000,
       "name": "SICKO",
       "url": "https://open.spotify.com/track/5e9Pd60eHsH6ERbuzh6krO"

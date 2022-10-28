@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Suicide Silence
 
-407 songs - 1 day 2 hr 34 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
+408 songs - 1 day 2 hr 38 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Eternal Kingdoms, Pt\. 1](https://open.spotify.com/track/0ieUAXNchbeeMZMMxM2Slu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Call of the Void](https://open.spotify.com/album/1wmQtsU7BQxYk9xKSicyFM) | 3:57 | 2021-12-17 | 2022-07-28 |
 | [Everything Has Been Read](https://open.spotify.com/track/6gReyVGau1E5dK06bppV8f) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Sulphur Cvlt](https://open.spotify.com/album/2xBOvDwOXI5I3zviRQzb92) | 4:19 | 2021-12-17 | 2022-07-28 |
 | [Exiled](https://open.spotify.com/track/3nf8onNmC1LSOWISZIusa6) | [FRCTRD](https://open.spotify.com/artist/7z9n8Q0icbgvXqx1RWoGrd) | [Exiled](https://open.spotify.com/album/4KPBLz4aGh3g8edhS1gVBq) | 4:22 | 2021-12-31 | 2022-07-24 |
-| [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 | 2021-12-17 | 2022-09-10 |
+| [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 | 2021-12-17 |  |
 | [Exit Wound](https://open.spotify.com/track/4EqYki9QKkXPAv3SwHUep4) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Exit Wound](https://open.spotify.com/album/5WaWYyhULgfNhIxwN0ZHI2) | 2:43 | 2022-09-09 |  |
 | [Exit, Exist](https://open.spotify.com/track/3Ks0l9pRwBoobHURPrTNPs) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Evergreen](https://open.spotify.com/album/5TYkzohGue5TQbhIk2T8xH) | 3:54 | 2022-07-08 |  |
 | [Exit, Exist](https://open.spotify.com/track/4qHgKQGInYni9Ml3l3RO0u) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Exit, Exist](https://open.spotify.com/album/0ZW4okAGcfZ6fKOBE5Fp6T) | 3:54 | 2021-12-17 | 2022-07-29 |
@@ -326,6 +326,7 @@
 | [Song of Courage](https://open.spotify.com/track/08MoIG52suSMunVtYB4rs8) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Song of Courage](https://open.spotify.com/album/4NsOIiejj3z08OrDKnjl4o) | 4:51 | 2022-01-28 | 2022-04-09 |
 | [Spirit Side Dreaming](https://open.spotify.com/track/2tSD44vMbqFgVpsUFJgtCl) | [Solution .45](https://open.spotify.com/artist/4g9Ml8899yUDi8YLnfZxmi) | [Spirit Side Dreaming](https://open.spotify.com/album/4OMhHRFQis9LzRmqxtHRjx) | 3:46 | 2021-12-17 | 2022-07-25 |
 | [Spiteful Nature](https://open.spotify.com/track/6bLT2cXYDuDuaHcgQcXjep) | [I Shall Devour](https://open.spotify.com/artist/0FucnPgykhKoPTybQL5Qkm) | [The Misanthropist](https://open.spotify.com/album/3OlDPRhqOBpxp9JNxLFj3w) | 3:37 | 2021-12-17 | 2022-02-02 |
+| [Stained In Rot](https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Stained In Rot](https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu) | 4:14 | 2022-10-27 |  |
 | [Stay Out of My Swamp](https://open.spotify.com/track/7puhKmQVgOl50FiOOYXgZH) | [The Ogre Packet Slammers](https://open.spotify.com/artist/7zSuK84B2D61DFzsOPQrev), [Tre' Perdue](https://open.spotify.com/artist/3Y82rXGkKUgvWCkGA8qpHR) | [Giant Green Destruction](https://open.spotify.com/album/2oXcYDIhZg7GSqqYHLeMnP) | 3:04 | 2021-12-17 |  |
 | [Sub\-Zero](https://open.spotify.com/track/1UWb4Kbsax46Xuf1lZmkhC) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Fault](https://open.spotify.com/album/3j0OEnLwmAxsrhjdTLC848) | 3:09 | 2022-07-08 |  |
 | [Sub\-Zero](https://open.spotify.com/track/3SyPQjd6eabSThIx1Ylfal) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Sub\-Zero](https://open.spotify.com/album/6Ybz3YCMwMNTbg03fnRPKu) | 3:09 | 2021-12-17 | 2022-07-29 |
@@ -399,11 +400,11 @@
 | [Warpath](https://open.spotify.com/track/4Wgs1VkZJNQzhVoX7q4Ji7) | [Boris The Blade](https://open.spotify.com/artist/2A29DtGB7jTFgF7f5rMJja) | [Warpath](https://open.spotify.com/album/0m0L8MISvMJAyWuraMzD6H) | 3:44 | 2021-12-17 | 2022-02-11 |
 | [We Came And You Were Silent](https://open.spotify.com/track/3S0wA4OSwXV0DOGJ3wGNI1) | [Bloodbather](https://open.spotify.com/artist/4TJI1F5Daal9sWewNRz9TO) | [We Came And You Were Silent](https://open.spotify.com/album/6ld8muW0QmYLw5WrjIpiMb) | 3:03 | 2021-12-17 | 2022-06-04 |
 | [What a Horrible Night to Have a Curse](https://open.spotify.com/track/430xmK8Tw4J4VG8PxCqO4I) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Nocturnal](https://open.spotify.com/album/5ls56sziRLk01UpqwT8d97) | 3:50 | 2021-12-17 | 2022-04-09 |
-| [What I Would Give](https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dusk](https://open.spotify.com/album/1jEj7ctr3pPvcVW6mFkt3i) | 4:10 | 2021-12-17 |  |
+| [What I Would Give](https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dusk](https://open.spotify.com/album/1jEj7ctr3pPvcVW6mFkt3i) | 4:10 | 2021-12-17 | 2022-10-28 |
 | [When a Demon Defiles a Witch](https://open.spotify.com/track/5TxPQCs5RQ1340581L36NX) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [When a Demon Defiles a Witch](https://open.spotify.com/album/6S5iL3cTuKV9r56qEIlI7I) | 4:44 | 2021-12-17 |  |
 | [Where Millions Have Come to Die](https://open.spotify.com/track/1k3vemIRqlSdlBPFUrqhMY) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Elegy](https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb) | 4:23 | 2022-07-08 |  |
 | [Where Millions Have Come to Die](https://open.spotify.com/track/52af9CWTZlmXbkR0qLUCdi) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Where Millions Have Come to Die](https://open.spotify.com/album/39etS8zmHojH5CgZ8urdGl) | 4:23 | 2021-12-17 | 2022-07-29 |
-| [Wide Open](https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Wide Open](https://open.spotify.com/album/0B7QibJPKamPw36p7FY79u) | 5:17 | 2022-06-10 |  |
+| [Wide Open](https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Wide Open](https://open.spotify.com/album/0B7QibJPKamPw36p7FY79u) | 5:17 | 2022-06-10 | 2022-10-28 |
 | [Willow](https://open.spotify.com/track/5t3CqKmwm2g9zaqKtAya5Q) | [Eternal Void](https://open.spotify.com/artist/6RE2QvLMJiCXSzVynym0CV) | [Willow](https://open.spotify.com/album/3TZUu12GD5dpuW0scNGbvJ) | 4:11 | 2022-04-01 | 2022-04-19 |
 | [Wired For Destruction](https://open.spotify.com/track/4UeTms4wgdOHut4jLtzi2p) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Wired For Destruction](https://open.spotify.com/album/7DLD3wgKis2uwClmtZI9V9) | 3:07 | 2022-04-01 | 2022-04-23 |
 | [Without End](https://open.spotify.com/track/6vE0AhseePfs2so9cqszSh) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Without End](https://open.spotify.com/album/0IA2Y65MEFgE8x2y6OhNwP) | 2:34 | 2022-02-11 |  |

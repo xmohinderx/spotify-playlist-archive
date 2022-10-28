@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 11753,
+  "num_followers": 11760,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMGVkYjRmZDdjYzcxN2VlMzYwYmQ2ZmFiNTUxOGVmYThl",
+  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMGM4NGQ0YzI2OGVmYWM1NjQ0NDVhMzE3ODAzY2YyZmE4",
   "tracks": [
     {
       "added_at": "2020-11-25 03:15:55",
@@ -663,6 +663,22 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
+        "name": "Sometimes I",
+        "url": "https://open.spotify.com/album/3acnEcu23lZXhYda51Nzpp"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 377258,
+      "name": "Sometimes I",
+      "url": "https://open.spotify.com/track/4lS9Ni8jEjk5ffXDTSYkSp"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
         "name": "Take Your Power Back",
         "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 169689,
       "name": "Just to Say I Love You",
       "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
-        "name": "Sometimes I",
-        "url": "https://open.spotify.com/album/3acnEcu23lZXhYda51Nzpp"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        }
-      ],
-      "duration_ms": 377258,
-      "name": "Sometimes I",
-      "url": "https://open.spotify.com/track/4lS9Ni8jEjk5ffXDTSYkSp"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -811,6 +811,26 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
+        "name": "Leylines",
+        "url": "https://open.spotify.com/album/4gwfotwBZc0PPZ2evoPh2G"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        },
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Speak out",
+      "url": "https://open.spotify.com/track/5WpkhH54wP0WQBMhFZiTdq"
+    },
+    {
+      "added_at": "2020-11-25 03:15:55",
+      "album": {
         "name": "Por Favor",
         "url": "https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN"
       },
@@ -839,22 +859,6 @@
       "duration_ms": 231000,
       "name": "Vaporize",
       "url": "https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf"
-    },
-    {
-      "added_at": "2020-11-25 03:15:55",
-      "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/16PDU6lKWAdHpYTGvggfz7"
-      },
-      "artists": [
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        }
-      ],
-      "duration_ms": 235654,
-      "name": "Chill Out",
-      "url": "https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX"
     }
   ],
   "unique_name": "Peace Of Mind",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: blond.",
+  "description": "The best French indie tracks right now. Cover: SANTA.",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 270293,
       "name": "Am I A Fool ?",
       "url": "https://open.spotify.com/track/4LFitgMfDKkO9ffcDmIetz"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 188693,
       "name": "By the beach (piano)",
       "url": "https://open.spotify.com/track/3K94ZgWTPl5KVOMxysvbRF"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 168280,
       "name": "Dessus-dessous",
       "url": "https://open.spotify.com/track/2TdEBZtsNm1yd6O7zImH9x"
@@ -1096,6 +1096,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7dhFtgAxeAxanyNhh8k1ur"
+      },
+      "artists": [
+        {
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2BY27TSBwYybHpRPp0tqyd"
+    },
+    {
+      "album": {
         "name": "Fun And Games",
         "url": "https://open.spotify.com/album/0TARB7CV4PQJKl6ceVpyfG"
       },
@@ -1302,6 +1320,28 @@
     },
     {
       "album": {
+        "name": "Honey Pot",
+        "url": "https://open.spotify.com/album/4k98b6BUFd4WMauM70RI3Z"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        },
+        {
+          "name": "KESMAR",
+          "url": "https://open.spotify.com/artist/3KHK5h7PZYBEfcTsGfkfJW"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201641,
+      "name": "Honey Pot",
+      "url": "https://open.spotify.com/track/2daydqWuTYcHevpQm0bnYz"
+    },
+    {
+      "album": {
         "name": "Humains apr\u00e8s tout",
         "url": "https://open.spotify.com/album/32C0qziCh9lCnOujTtF3gd"
       },
@@ -1371,7 +1411,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 188936,
       "name": "I'll Think About It",
       "url": "https://open.spotify.com/track/0RLKhd3wbu8733GCu03nNn"
@@ -2882,6 +2922,28 @@
     },
     {
       "album": {
+        "name": "postcard from Rio",
+        "url": "https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166916,
+      "name": "saudade",
+      "url": "https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5"
+    },
+    {
+      "album": {
         "name": "Septembre",
         "url": "https://open.spotify.com/album/67evLF3OWRoaiAiHcwJx3K"
       },
@@ -3657,6 +3719,24 @@
       "duration_ms": 209045,
       "name": "When She's Gone",
       "url": "https://open.spotify.com/track/4vJfsc95OA87AhNghRsVHo"
+    },
+    {
+      "album": {
+        "name": "Winter Solstice",
+        "url": "https://open.spotify.com/album/76ZPEP13Boqv4Da5XihzG0"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236240,
+      "name": "Winter Solstice",
+      "url": "https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8"
     },
     {
       "album": {

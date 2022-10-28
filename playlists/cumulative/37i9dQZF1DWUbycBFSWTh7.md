@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-118 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+120 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [4U](https://open.spotify.com/track/7yiQpdAvNV3geOS6l7y7BK) | [Vesin](https://open.spotify.com/artist/16bt4x9EfkHTAvJsaz9wh5) | [4U](https://open.spotify.com/album/3IvQRuVR9rXDXd3bUIfEKo) | 3:26 | 2022-09-15 |  |
 | [A Dream I have](https://open.spotify.com/track/4zEH0wmtKUm2T4vLmmJnBi) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:33 | 2022-09-15 |  |
 | [Amazonas Secret Kingdom \- Atjazz Remix](https://open.spotify.com/track/1pdpsWAi3pxzzg1xjbiZhs) | [Juan Laya](https://open.spotify.com/artist/31adPVgHKIKQObfZaJKOYq), [Jorge Montiel](https://open.spotify.com/artist/4QtcMQvGCQSFmqX3eHEYHO), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Electropical: Amazonas Secret Kingdom \(Atjazz Remix\)](https://open.spotify.com/album/7E5N7gF47PmoHZcJFEVM6L) | 6:48 | 2022-09-15 |  |
+| [Another Day](https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Heavy Tangled](https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX) | 7:40 | 2022-10-27 |  |
 | [Aqui Conmigo](https://open.spotify.com/track/26S5zDzwDUN1GKKNvlaZPw) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Aqui Conmigo E.P.](https://open.spotify.com/album/0HX7nQolcrzsoeAXdw99WZ) | 4:24 | 2022-09-15 |  |
 | [Ave](https://open.spotify.com/track/6oDWwQrIwz0AZQAWOv787F) | [Milio](https://open.spotify.com/artist/3NoWSOGaFNLvKXxho4phMO) | [Ave](https://open.spotify.com/album/3I01ShTuRryxPPJzRW5vht) | 5:04 | 2022-09-15 |  |
 | [Average Party Tool](https://open.spotify.com/track/07UeBq7UkdDgUq5c4U2gZc) | [Herr Krank](https://open.spotify.com/artist/6867qRW4fPy1KtxyeBIKkl), [Deborah Aime La Bagarre](https://open.spotify.com/artist/6jZ18ATjOFUAgDXX3H9x5w) | [Average Party Tool](https://open.spotify.com/album/5Fon2UPFVSQlWGP7Rj8Isw) | 5:56 | 2022-09-15 |  |
@@ -77,6 +78,7 @@
 | [Nine O Nine](https://open.spotify.com/track/4crwNn1Wsq9ukwC0k99z7e) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB) | [Nine O Nine](https://open.spotify.com/album/4wM0efpVUJ0P8rGfVhEdxW) | 3:16 | 2022-10-13 |  |
 | [Nine O Nine](https://open.spotify.com/track/69AqhrS5e4snOxqLvoplPW) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB) | [Nine O Nine](https://open.spotify.com/album/3IlhSayycfkGlctTf9xvz2) | 3:16 | 2022-09-15 | 2022-10-20 |
 | [Noemie](https://open.spotify.com/track/0WcwBpZZ0CLBz47Z1fEqfy) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX) | [Noemie](https://open.spotify.com/album/2QOW9TFUMABmFYGMPXDi1c) | 2:58 | 2022-09-15 |  |
+| [NY Disco](https://open.spotify.com/track/63yOUifcWAb8ijGT0uPWXd) | [Seb Skalski](https://open.spotify.com/artist/1TMuRToXVLIjYsYYg3jmp1), [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan) | [NY Disco](https://open.spotify.com/album/4ZpUokSb2Jf6c6J6PV0sHY) | 5:31 | 2022-10-27 |  |
 | [Olvidar](https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 5:48 | 2022-09-15 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/0DWjD72IBxl4TlgKpo10Rf) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Once in a Lifetime](https://open.spotify.com/album/5bXt3GoApEy9r31rREuBMv) | 7:52 | 2022-09-15 |  |
 | [One More Love](https://open.spotify.com/track/6DdGPbxUhVUQLd3iTHbesX) | [Riigs](https://open.spotify.com/artist/6PCar1mreA7PgSjgwNncXe), [Skenna](https://open.spotify.com/artist/6WEGFGTaD1HrAbVu9Roshb) | [One More Love](https://open.spotify.com/album/1l6nkIkQMwxWFpEC8gsrMA) | 6:58 | 2022-09-15 |  |

@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sandy
 
-211 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+212 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Ok Kanmani](https://open.spotify.com/track/37l0opOPNNFZHQpb1ZW8XX) | [Sudharshan Senthilkumar](https://open.spotify.com/artist/12FIsAEo2PTfy3o0fmsoyp) | [Ok Kanmani](https://open.spotify.com/album/7hPZ3wh5SLRbrZdBpXgctu) | 4:25 | 2022-08-11 |  |
 | [Ooradangu Uththaravu](https://open.spotify.com/track/1QGUiYP2G9EZoSHLVvaoZU) | [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD), [Simeon Telfer](https://open.spotify.com/artist/4vkn9dybP20UlSOEXxO0ak) | [Ooradangu Uththaravu](https://open.spotify.com/album/5WOcOmhUjF2yrwg9xBN7d4) | 3:19 | 2022-06-02 | 2022-06-16 |
 | [Oorukaaran](https://open.spotify.com/track/72OE3wxjzKlgiqYyKxmJxo) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [ERA](https://open.spotify.com/artist/2CRQKvuqKw8euASgmEJE6p), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Oorukaaran](https://open.spotify.com/album/46Mi0QEBqykFh6kwkZ6qxs) | 2:38 | 2022-06-09 |  |
+| [Ora Siricha](https://open.spotify.com/track/0k9rkC1fR6K1pPPdfxFQMG) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Ora Siricha](https://open.spotify.com/album/1kzyTFgtKfNk99opfrBFe7) | 3:58 | 2022-10-27 |  |
 | [Oru Jappaniya Meenaippol \- From "Naatpadu Theral \- 2"](https://open.spotify.com/track/04dE3IdO8YQkbsDUtjnecw) | [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Vagu Mazan](https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV) | [Oru Jappaniya Meenaippol \(From "Naatpadu Theral \- 2"\)](https://open.spotify.com/album/4MlK59tQe0zTr0zqWjgGsX) | 3:41 | 2022-05-23 | 2022-05-31 |
 | [Oru Ponnu Onnu Enna Paakuthu](https://open.spotify.com/track/0V6jQ4UPA1qZoCjCTlw0WQ) | [Sadish Ragupathy](https://open.spotify.com/artist/1NQn5XmA9wnfmIY4XPFUNL), [Abhijith Anilkumar](https://open.spotify.com/artist/7Lw0R0kCCTfMQaJQiG1ROp), [Madan](https://open.spotify.com/artist/6maVydCk51TQrc7S3wNx49) | [Oru Ponnu Onnu Enna Paakuthu](https://open.spotify.com/album/7Gz4LlHvwyumntJiSvdCQK) | 3:03 | 2022-01-27 |  |
 | [Otha Thamarai \- Original Soundtrack](https://open.spotify.com/track/7e97QgqoYTXOj1s7JI0dHR) | [Bala](https://open.spotify.com/artist/2KGwmllYQr2BgxTkdOH5wt), [Nixen](https://open.spotify.com/artist/5OF6qcEdyCFgyKPHkna1kb), [Sandy Sandellow](https://open.spotify.com/artist/3V0QBKJQQZJdNi5GwWkcyv) | [Otha Thamarai \(Original Soundtrack\)](https://open.spotify.com/album/6sdalaw3mTPzUomDNnWjeN) | 3:39 | 2022-04-29 |  |

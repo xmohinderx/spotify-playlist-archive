@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Moha MMZ",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : F430",
   "name": "Cloud Rap",
   "published_playlist_ids": [
     "5hZd800bY7alcQHZCY6dmZ"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": ".QUI.TU.VEUX.",
+        "url": "https://open.spotify.com/album/4WKVTE8FvoBIfvI29lHRGF"
+      },
+      "artists": [
+        {
+          "name": "Kobo",
+          "url": "https://open.spotify.com/artist/5O5o8ORa6JnUInvOUmmvft"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212793,
+      "name": ".QUI.TU.VEUX.",
+      "url": "https://open.spotify.com/track/04t1VtWunMLp3CvPFk0Axf"
+    },
     {
       "album": {
         "name": "0 Lucidit\u00e9",
@@ -59,10 +77,40 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 161906,
       "name": "A7",
       "url": "https://open.spotify.com/track/2wYqPFq90ncbRAuQdqzaZM"
+    },
+    {
+      "album": {
+        "name": "Le soleil se l\u00e8vera \u00e0 l'Ouest",
+        "url": "https://open.spotify.com/album/6Jtz2endgOr6QYkPhBulKt"
+      },
+      "artists": [
+        {
+          "name": "Raplume",
+          "url": "https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8"
+        },
+        {
+          "name": "sean",
+          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
+        },
+        {
+          "name": "Leith",
+          "url": "https://open.spotify.com/artist/0DQx7HJhLzjbSQNsNhrpLT"
+        },
+        {
+          "name": "Rounhaa",
+          "url": "https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238652,
+      "name": "Alita (feat. Rounhaa)",
+      "url": "https://open.spotify.com/track/4RV2l9VHEPYrUXZXdiusEy"
     },
     {
       "album": {
@@ -85,6 +133,24 @@
       "duration_ms": 207094,
       "name": "Amis d'enfance",
       "url": "https://open.spotify.com/track/59XM6eXdRqsOo0q7e5I4dK"
+    },
+    {
+      "album": {
+        "name": "Angelo",
+        "url": "https://open.spotify.com/album/5bsucbfbgWkkJkO01tSGD0"
+      },
+      "artists": [
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155317,
+      "name": "Angelo",
+      "url": "https://open.spotify.com/track/5R9g2Gpoyu2XQLBVeGqiKm"
     },
     {
       "album": {
@@ -125,7 +191,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 163404,
       "name": "Belle vie",
       "url": "https://open.spotify.com/track/1GcRUhRtcmyK9Wj792TLUN"
@@ -339,7 +405,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 221886,
       "name": "Demain c'est loin",
       "url": "https://open.spotify.com/track/1D7p8EN4kDXCUN0yN8KBr9"
@@ -713,7 +779,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 167973,
       "name": "Ici-bas",
       "url": "https://open.spotify.com/track/6AwuAiYCqeSWzbk4Vzcr3J"
@@ -915,7 +981,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 192322,
       "name": "Life",
       "url": "https://open.spotify.com/track/4IvUUwahzNnmLNx3Fy56BP"
@@ -973,7 +1039,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 161880,
       "name": "M3 (feat. Tiakola)",
       "url": "https://open.spotify.com/track/0MkTS97rxyZjvzcWtoaFYe"
@@ -1111,7 +1177,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 189230,
       "name": "MONEYBAG",
       "url": "https://open.spotify.com/track/4o68P6N8JucUg9apYhAtF9"
@@ -1249,6 +1315,24 @@
       "duration_ms": 187666,
       "name": "Oubli\u00e9",
       "url": "https://open.spotify.com/track/5u6KWtbJeq8QakE5BJ6f8e"
+    },
+    {
+      "album": {
+        "name": "PARADIS",
+        "url": "https://open.spotify.com/album/7a7QrRy6h0tsHctcmvtrW2"
+      },
+      "artists": [
+        {
+          "name": "Araujo",
+          "url": "https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178466,
+      "name": "PARADIS",
+      "url": "https://open.spotify.com/track/5CE5jQ1JFVUNjEufjx2b2U"
     },
     {
       "album": {
@@ -1418,6 +1502,46 @@
     },
     {
       "album": {
+        "name": "Printemps (Live Spectre)",
+        "url": "https://open.spotify.com/album/4b0VShg4Tyz9NTKG6VGdWB"
+      },
+      "artists": [
+        {
+          "name": "Softo",
+          "url": "https://open.spotify.com/artist/58WoaFxsPISuJ0iCyfizNp"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142900,
+      "name": "Printemps - Live Spectre",
+      "url": "https://open.spotify.com/track/2OoO0L9cFKiR2shTXVsDZ6"
+    },
+    {
+      "album": {
+        "name": "LES HUMAINS",
+        "url": "https://open.spotify.com/album/5bjoZWJkq94BDzg2ehm6SD"
+      },
+      "artists": [
+        {
+          "name": "Magnar",
+          "url": "https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja"
+        },
+        {
+          "name": "Sheldon",
+          "url": "https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195230,
+      "name": "PUZZLE",
+      "url": "https://open.spotify.com/track/0yEnRdHmfVURCjohBb7WT3"
+    },
+    {
+      "album": {
         "name": "P\u00c8LERINAGE",
         "url": "https://open.spotify.com/album/3SFxtJqFRhpFnfzu3LI7Ih"
       },
@@ -1469,7 +1593,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 213840,
       "name": "R\u00eaves",
       "url": "https://open.spotify.com/track/4L97bPfGaKer70DbK9tgxM"
@@ -1527,6 +1651,46 @@
       "duration_ms": 146573,
       "name": "Sch\u00e9mas Monotones",
       "url": "https://open.spotify.com/track/6cQrLizVUnTNQz5hNdnmIV"
+    },
+    {
+      "album": {
+        "name": "Kenna",
+        "url": "https://open.spotify.com/album/76pipx8axggIWa1sXWV7K4"
+      },
+      "artists": [
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        },
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Si \u00e7a compte",
+      "url": "https://open.spotify.com/track/2KGyvpsnb8PXovZx4ecfUF"
+    },
+    {
+      "album": {
+        "name": "Silver Haze",
+        "url": "https://open.spotify.com/album/12CHUcB1WTZPeB2KHGyRoq"
+      },
+      "artists": [
+        {
+          "name": "Bakari",
+          "url": "https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233679,
+      "name": "Silver Haze",
+      "url": "https://open.spotify.com/track/03cm8VgdEvDM0rC7txjmpY"
     },
     {
       "album": {

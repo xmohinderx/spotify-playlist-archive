@@ -1,12 +1,12 @@
 {
   "description": "Uptempo gospel songs from West Africa to get you dancing and praising. ",
-  "num_followers": 22213,
+  "num_followers": 22290,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMzMjU3MSwwMDAwMDAwMDBiZTU3NTBiM2FjMzEyYjU2YTczMWUzYTI1NWUxNTAw",
+  "snapshot_id": "MTY2NjMzMjU3MSwwMDAwMDAwMGVkYTQ4MTAwY2NkOGM1NjJhMjk1MWQyMDVmYTFlNGQ3",
   "tracks": [
     {
       "added_at": "2022-09-08 23:00:00",
@@ -749,26 +749,6 @@
       "url": "https://open.spotify.com/track/0pILKxYDI5oilUN52AebIu"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Ogo",
-        "url": "https://open.spotify.com/album/0FR8yTV3mlUHExeORoCCWS"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        },
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 336696,
-      "name": "Ogo",
-      "url": "https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf"
-    },
-    {
       "added_at": "2022-09-19 07:16:17",
       "album": {
         "name": "Relief",
@@ -787,6 +767,26 @@
       "duration_ms": 157309,
       "name": "Relief",
       "url": "https://open.spotify.com/track/5G19pifWY3gRmWff4I4vgD"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Ogo",
+        "url": "https://open.spotify.com/album/0FR8yTV3mlUHExeORoCCWS"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 336696,
+      "name": "Ogo",
+      "url": "https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -893,6 +893,22 @@
       "url": "https://open.spotify.com/track/7G7GIlgSM9eLi84zH9C6Oq"
     },
     {
+      "added_at": "2022-10-21 06:09:31",
+      "album": {
+        "name": "Hallelu",
+        "url": "https://open.spotify.com/album/1ZFY1mPumRKVFzVBxv3lQM"
+      },
+      "artists": [
+        {
+          "name": "Coblaze",
+          "url": "https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs"
+        }
+      ],
+      "duration_ms": 156048,
+      "name": "Hallelu",
+      "url": "https://open.spotify.com/track/7kS7kiFLVZ0UZDpFyPusXG"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Hosanna (Live)",
@@ -907,26 +923,6 @@
       "duration_ms": 344862,
       "name": "Hossana (Live)",
       "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Already Won",
-        "url": "https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 256653,
-      "name": "OMG (feat. JJ Hairston)",
-      "url": "https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7"
     },
     {
       "added_at": "2022-09-30 06:46:03",
@@ -959,6 +955,26 @@
       "duration_ms": 363870,
       "name": "Ga Praise",
       "url": "https://open.spotify.com/track/1IToFXrcx4U7Kdls7DDMzo"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Already Won",
+        "url": "https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 256653,
+      "name": "OMG (feat. JJ Hairston)",
+      "url": "https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1061,22 +1077,6 @@
       "url": "https://open.spotify.com/track/5bIGoKUGaSeOFeqe8qV1aV"
     },
     {
-      "added_at": "2022-10-21 06:09:31",
-      "album": {
-        "name": "Hallelu",
-        "url": "https://open.spotify.com/album/1ZFY1mPumRKVFzVBxv3lQM"
-      },
-      "artists": [
-        {
-          "name": "Coblaze",
-          "url": "https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs"
-        }
-      ],
-      "duration_ms": 156048,
-      "name": "Hallelu",
-      "url": "https://open.spotify.com/track/7kS7kiFLVZ0UZDpFyPusXG"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Other Side",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
-      },
-      "artists": [
-        {
-          "name": "King Dareal",
-          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "Nkwa Abodoo (feat. Nacy)",
         "url": "https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 409999,
       "name": "Nkwa Abodoo (feat. Nacy)",
       "url": "https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW"
+      },
+      "artists": [
+        {
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "W'asem",
-        "url": "https://open.spotify.com/album/1keGuqsg2oO5VeKV7EDa7f"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 219144,
-      "name": "W'asem",
-      "url": "https://open.spotify.com/track/6tkg5oZJuhHOy99LyN1qfN"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
         "name": "Grateful Hearts",
         "url": "https://open.spotify.com/album/1dXixMQ1fxXkygMFcczgYP"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Praise Break Episode 2",
-        "url": "https://open.spotify.com/album/1SAR6co69eCWWIM1NzP76Y"
+        "name": "W'asem",
+        "url": "https://open.spotify.com/album/1keGuqsg2oO5VeKV7EDa7f"
       },
       "artists": [
         {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 1036982,
-      "name": "Praise Break Episode 2",
-      "url": "https://open.spotify.com/track/7knZZf7OPjJUf9nfprWLFi"
+      "duration_ms": 219144,
+      "name": "W'asem",
+      "url": "https://open.spotify.com/track/6tkg5oZJuhHOy99LyN1qfN"
     },
     {
       "added_at": "2022-10-21 06:09:31",
@@ -1275,6 +1259,22 @@
       "duration_ms": 206897,
       "name": "Show Dem",
       "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Praise Break Episode 2",
+        "url": "https://open.spotify.com/album/1SAR6co69eCWWIM1NzP76Y"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        }
+      ],
+      "duration_ms": 1036982,
+      "name": "Praise Break Episode 2",
+      "url": "https://open.spotify.com/track/7knZZf7OPjJUf9nfprWLFi"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Tatafo",
-        "url": "https://open.spotify.com/album/2Acy9jIYYJRVUkHc1M18jK"
+        "name": "No Other God",
+        "url": "https://open.spotify.com/album/558lqIaLddfY4Lh5bZLF8H"
       },
       "artists": [
         {
-          "name": "Fega Michaels",
-          "url": "https://open.spotify.com/artist/1uWU1q5sI8SbB0R56zTj6I"
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
         }
       ],
-      "duration_ms": 155520,
-      "name": "Tatafo",
-      "url": "https://open.spotify.com/track/2FbHSnjLmSF77Uy5IkHjnf"
+      "duration_ms": 437345,
+      "name": "No Other God",
+      "url": "https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0"
     }
   ],
   "unique_name": "Praise and Worship",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Royal & The Serpent",
+  "description": "The best new music from the wide world of punk. Cover: WHOKILLEDXIX",
   "name": "All New Punk",
   "published_playlist_ids": [
     "2haHBtUGc1WwW279RE9x3F"
@@ -464,6 +464,28 @@
     },
     {
       "album": {
+        "name": "all my friends",
+        "url": "https://open.spotify.com/album/25kTH4jXP7PcBlvQ4LLBFQ"
+      },
+      "artists": [
+        {
+          "name": "plxntkid",
+          "url": "https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY"
+        },
+        {
+          "name": "LiL Lotus",
+          "url": "https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142820,
+      "name": "all my friends",
+      "url": "https://open.spotify.com/track/1iOfDDaBNgV2qJhNBRe33l"
+    },
+    {
+      "album": {
         "name": "All The Way",
         "url": "https://open.spotify.com/album/6dzG41t3YPcA7vkeHqDQTz"
       },
@@ -609,6 +631,24 @@
       "duration_ms": 187808,
       "name": "Another Kill For The Highlight Reel",
       "url": "https://open.spotify.com/track/42Zrm6dR3rios7W7I1NizE"
+    },
+    {
+      "album": {
+        "name": "Another Kill For The Highlight Reel (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5fKRf75u7BVXubw0bCSZvb"
+      },
+      "artists": [
+        {
+          "name": "Save Face",
+          "url": "https://open.spotify.com/artist/5DpkPhxrNNiGAJPY5seREe"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189950,
+      "name": "Another Kill For The Highlight Reel - Barber Shop Studios Session",
+      "url": "https://open.spotify.com/track/7MQ3noQQEXxe8BzkvAwpeS"
     },
     {
       "album": {
@@ -1907,6 +1947,28 @@
       "duration_ms": 175306,
       "name": "Cavalier",
       "url": "https://open.spotify.com/track/4N9LPYE07fGLDK2EfCpVpn"
+    },
+    {
+      "album": {
+        "name": "Cdbaby<3 (underscores remix)",
+        "url": "https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133305,
+      "name": "Cdbaby<3 - underscores remix",
+      "url": "https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF"
     },
     {
       "album": {
@@ -3634,6 +3696,24 @@
     },
     {
       "album": {
+        "name": "Fel\u00edz",
+        "url": "https://open.spotify.com/album/1AuXDucHakfrZb2EqrdfeL"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167654,
+      "name": "Fel\u00edz",
+      "url": "https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73"
+    },
+    {
+      "album": {
         "name": "Feral",
         "url": "https://open.spotify.com/album/4zX7ZtYKhct6ZWrPseGfUM"
       },
@@ -3829,6 +3909,24 @@
       "duration_ms": 144000,
       "name": "Freakshow",
       "url": "https://open.spotify.com/track/4qG7VJzZS75eZVv6LFnLbM"
+    },
+    {
+      "album": {
+        "name": "Frenzy",
+        "url": "https://open.spotify.com/album/2kyxzQ0Y1qBQOViyHostqk"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180585,
+      "name": "Frenzy",
+      "url": "https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT"
     },
     {
       "album": {
@@ -5596,6 +5694,24 @@
     },
     {
       "album": {
+        "name": "PULLBACK",
+        "url": "https://open.spotify.com/album/56KbxzO2UdHqcjNF6PAKPF"
+      },
+      "artists": [
+        {
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114146,
+      "name": "it takes two",
+      "url": "https://open.spotify.com/track/4kqN2QZY63RFEbx40O3t6Q"
+    },
+    {
+      "album": {
         "name": "My Other People",
         "url": "https://open.spotify.com/album/6O8ZBxH4IMh214XoMPMVfR"
       },
@@ -6166,6 +6282,24 @@
     },
     {
       "album": {
+        "name": "Leave Her Johnny",
+        "url": "https://open.spotify.com/album/6CTwln0Rti6ZAgzGF1eTQh"
+      },
+      "artists": [
+        {
+          "name": "The Real McKenzies",
+          "url": "https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Leave Her Johnny",
+      "url": "https://open.spotify.com/track/1UlFYPCY4xCW5UQkgogD2I"
+    },
+    {
+      "album": {
         "name": "Leaving Candyland",
         "url": "https://open.spotify.com/album/27CrBBpILjfIQxgnkwg9S6"
       },
@@ -6379,6 +6513,24 @@
       "duration_ms": 215426,
       "name": "Listen Up!",
       "url": "https://open.spotify.com/track/2Itdvgr46i0iwqeN3zkt6V"
+    },
+    {
+      "album": {
+        "name": "Enemy of the World (Re-Recorded)",
+        "url": "https://open.spotify.com/album/2r8iwO5KgjqehFv1ZmBzoF"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "Listen! Do You Smell Something?",
+      "url": "https://open.spotify.com/track/1GdfWouH8J7gz52QVwIsqT"
     },
     {
       "album": {
@@ -6661,6 +6813,24 @@
       "duration_ms": 213560,
       "name": "Love Needs an Encore",
       "url": "https://open.spotify.com/track/0lK2E4HR64nfoi3vOBXt03"
+    },
+    {
+      "album": {
+        "name": "Love Rush",
+        "url": "https://open.spotify.com/album/0ih7kOl1YnsyzdWU7XFd6S"
+      },
+      "artists": [
+        {
+          "name": "Jemma Johnson",
+          "url": "https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173936,
+      "name": "Love Rush",
+      "url": "https://open.spotify.com/track/233q2ABSt2YHztsKiySPWa"
     },
     {
       "album": {
@@ -7904,6 +8074,24 @@
     },
     {
       "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/7lAzdksuYfjKfGf2B6CplG"
+      },
+      "artists": [
+        {
+          "name": "Fucked Up",
+          "url": "https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302910,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/400jc0romvMvPCn7Mmnkyy"
+    },
+    {
+      "album": {
         "name": "One Easy Thing",
         "url": "https://open.spotify.com/album/6QDkHIwDgnao7FF4TpJq7W"
       },
@@ -8045,6 +8233,24 @@
       "duration_ms": 136413,
       "name": "Out Cold",
       "url": "https://open.spotify.com/track/4Uqx6xnZQgev4I4whEg8vK"
+    },
+    {
+      "album": {
+        "name": "Out in Bloom",
+        "url": "https://open.spotify.com/album/4eVijcTaBTYJoMKd2VfuaH"
+      },
+      "artists": [
+        {
+          "name": "LOW IQ 01",
+          "url": "https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290638,
+      "name": "Out in Bloom",
+      "url": "https://open.spotify.com/track/2yVrpY1ilEaovzQW4XS8Zj"
     },
     {
       "album": {
@@ -9266,6 +9472,28 @@
     },
     {
       "album": {
+        "name": "Save It For Myself",
+        "url": "https://open.spotify.com/album/5bzfUN9nM3mCr7goLdbrVF"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        },
+        {
+          "name": "You Over Me",
+          "url": "https://open.spotify.com/artist/5se7CBddY96rvFP3oQ6Pim"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199613,
+      "name": "Save It For Myself",
+      "url": "https://open.spotify.com/track/5AWQZVceAinzjsCQH50WlX"
+    },
+    {
+      "album": {
         "name": "Say It (To My Face)",
         "url": "https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm"
       },
@@ -9660,6 +9888,24 @@
     },
     {
       "album": {
+        "name": "My Favorite Blue Jeans",
+        "url": "https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136066,
+      "name": "SHE\u2019S MY (SEXI BOY)",
+      "url": "https://open.spotify.com/track/6foPSxr70ZhG1ZVu03JzYS"
+    },
+    {
+      "album": {
         "name": "SHIT SHOW",
         "url": "https://open.spotify.com/album/3wqeXZkmQcbxkcUbyAZ2Ce"
       },
@@ -9907,6 +10153,24 @@
       "duration_ms": 187140,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
+    },
+    {
+      "album": {
+        "name": "sleepwalking",
+        "url": "https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120855,
+      "name": "sleepwalking",
+      "url": "https://open.spotify.com/track/4lcDnsR71jJ09R2SZAegws"
     },
     {
       "album": {
@@ -10500,6 +10764,24 @@
     },
     {
       "album": {
+        "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159151,
+      "name": "Swear",
+      "url": "https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J"
+    },
+    {
+      "album": {
         "name": "Sweet Dreams of Otherness",
         "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
       },
@@ -10551,6 +10833,24 @@
       "duration_ms": 158360,
       "name": "switchblade",
       "url": "https://open.spotify.com/track/5f5HlAWAgkfAJA1wK2IkCp"
+    },
+    {
+      "album": {
+        "name": "The Hunna",
+        "url": "https://open.spotify.com/album/6o0Cd4hfhFGnVeYSugnzII"
+      },
+      "artists": [
+        {
+          "name": "The Hunna",
+          "url": "https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211578,
+      "name": "Take A Ride (Lights, Camera, Action)",
+      "url": "https://open.spotify.com/track/22TNVzuLGBBaK9a25K3Lo0"
     },
     {
       "album": {
@@ -10981,6 +11281,28 @@
       "duration_ms": 189520,
       "name": "The Croppy Boy '98",
       "url": "https://open.spotify.com/track/4bCSi9lRoWICyG2RM2oocc"
+    },
+    {
+      "album": {
+        "name": "The Delicate Nature",
+        "url": "https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        },
+        {
+          "name": "Laurie Vincent",
+          "url": "https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182407,
+      "name": "The Delicate Nature",
+      "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
     },
     {
       "album": {
@@ -11621,6 +11943,24 @@
       "duration_ms": 223986,
       "name": "Totally Fine",
       "url": "https://open.spotify.com/track/63bJzj2Wd9CTHAjLdJeiQN"
+    },
+    {
+      "album": {
+        "name": "Never Before Seen, Never Again Found",
+        "url": "https://open.spotify.com/album/3myqn4myBolKFhGs0s7lM7"
+      },
+      "artists": [
+        {
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197776,
+      "name": "Tough Love",
+      "url": "https://open.spotify.com/track/62O4kLoFoWtXDIQhdrxXk5"
     },
     {
       "album": {

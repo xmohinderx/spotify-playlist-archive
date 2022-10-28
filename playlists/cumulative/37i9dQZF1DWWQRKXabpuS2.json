@@ -2390,6 +2390,24 @@
     },
     {
       "album": {
+        "name": "Golo",
+        "url": "https://open.spotify.com/album/5eYv9T9otfSlmJOIjNhDEA"
+      },
+      "artists": [
+        {
+          "name": "Emarat Art",
+          "url": "https://open.spotify.com/artist/2HBZw1oHSJLodozzPFVV7k"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324744,
+      "name": "Wfr Alathar",
+      "url": "https://open.spotify.com/track/7AByqTA1IoxIjUYODUrjK9"
+    },
+    {
+      "album": {
         "name": "Ya Ghaeba",
         "url": "https://open.spotify.com/album/3vde6lu7iLNycIgcjJ0FIX"
       },

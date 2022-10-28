@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-229 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
+230 songs - 16 hr 52 min - [published](https://open.spotify.com/playlist/7IeIClkaFsF64hmSNTI4y6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Muíño](https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Solpor](https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs) | 5:19 | 2022-02-18 |  |
 | [Nada](https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Nada](https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK) | 4:58 | 2021-11-26 |  |
 | [Naeku \- John Talabot Remix](https://open.spotify.com/track/54REQf3i68j955Q5nhBHQE) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD) | [Hybridism Remixes](https://open.spotify.com/album/4nLv6zN3cc7riJID6quKYS) | 7:40 | 2021-11-26 | 2022-07-14 |
+| [Nevar](https://open.spotify.com/track/2EEkGybjOcVfAZfceU8HD3) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Didacte](https://open.spotify.com/artist/4gJkcE85yauN8vUrt8bIFT) | [Ramas](https://open.spotify.com/album/2s61LZqkxTwh3PNMxO6mYX) | 6:40 | 2022-04-15 |  |
 | [Nevar](https://open.spotify.com/track/73GA4mNm07rlhf1BfDd4iS) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Didacte](https://open.spotify.com/artist/4gJkcE85yauN8vUrt8bIFT) | [Nevar](https://open.spotify.com/album/7JhEkFHjGqWwPYTrZ5Vu8p) | 6:40 | 2021-11-26 | 2022-07-29 |
 | [Ni el rastro quedó](https://open.spotify.com/track/2aQZapeJZvcTJAoNmfMj8g) | [AfroCromatic](https://open.spotify.com/artist/6V9if50nUdbFrEvryqsWQn) | [Ni el rastro quedó](https://open.spotify.com/album/17jjcLB6tzv1bb6P8q2eeH) | 4:18 | 2022-04-15 | 2022-10-19 |
 | [No Más Velorio \- El Búho Remix](https://open.spotify.com/track/63AWfwvngiv2XdeRo3dK2H) | [Plu Con Pla](https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [No Más Velorio \(El Búho Remix\)](https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU) | 4:51 | 2021-11-26 | 2022-07-28 |
@@ -234,7 +235,7 @@
 | [Viene de Mi](https://open.spotify.com/track/70eSJcVl6nOfDIgROsOMTr) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/0jhVG0QkajdwBeYndOq6aZ) | 3:50 | 2022-04-15 |  |
 | [Woranait](https://open.spotify.com/track/0FoI2Vc2D7S4XNDykwZ8ig) | [Frikstailers](https://open.spotify.com/artist/3kGiP6mQDtEZG5UD7mAlBH) | [Woranait](https://open.spotify.com/album/0NWyOS3YDaME6XkouJg4sM) | 3:31 | 2022-04-15 | 2022-04-19 |
 | [Yo Me Voy \- Cerrero Remix](https://open.spotify.com/track/51dzuq7fCzEYJJn6WSw8pP) | [Bejuco](https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Yo Me Voy \(Cerrero Remix\)](https://open.spotify.com/album/6wczt1oubi6EZecQHkbhxz) | 6:23 | 2021-11-26 | 2022-07-27 |
-| [Yo\-Po\-No\-Po Prieto Riddiman Remixes \- Yo\-Po\-No\-Po, Versión 1 \- Prieto Riddiman Remix](https://open.spotify.com/track/7xgBaxGvCFnyJqLhMrMAIJ) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H), [Prieto Riddiman](https://open.spotify.com/artist/25y4BwAI7JVq6UFvMuYjrD) | [Yo\-Po\-No\-Po Prieto Riddiman Remixes](https://open.spotify.com/album/0ahus37xHDFIzFfq7sdzU4) | 3:34 | 2022-10-11 |  |
+| [Yo\-Po\-No\-Po Prieto Riddiman Remixes \- Yo\-Po\-No\-Po, Versión 1 \- Prieto Riddiman Remix](https://open.spotify.com/track/7xgBaxGvCFnyJqLhMrMAIJ) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H), [Prieto Riddiman](https://open.spotify.com/artist/25y4BwAI7JVq6UFvMuYjrD) | [Yo\-Po\-No\-Po Prieto Riddiman Remixes](https://open.spotify.com/album/0ahus37xHDFIzFfq7sdzU4) | 3:34 | 2022-10-11 | 2022-10-28 |
 | [¿Qué Jue?](https://open.spotify.com/track/1akEZAtudgbskIwOiKt4oD) | [Romperayo](https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu) | [¿Qué Jue?](https://open.spotify.com/album/25Zwhmx8aMwQy3zL2LJX4m) | 3:25 | 2021-11-26 | 2022-07-27 |
 | [Ágni](https://open.spotify.com/track/5Y0h6mUTMYZmXvJGv2XUMe) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Ágni](https://open.spotify.com/album/26gx6UsScJBQZttuIpU2fN) | 5:01 | 2021-11-26 | 2022-07-26 |
 

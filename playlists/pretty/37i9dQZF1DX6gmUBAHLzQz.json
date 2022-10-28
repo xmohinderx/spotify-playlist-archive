@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1MjIxNiwwMDAwMDAwMDk5ODY0ZWY4MGNjMDlhMzVhOTMzMTY1ZGEwZDM2NTY5",
+  "snapshot_id": "MTY1ODg1MjIxNiwwMDAwMDAwMGE0MmIwNGIzZDcwMDY5OTc1MzAwMDNiYjJkMzYxOGMz",
   "tracks": [
     {
       "added_at": "2022-07-26 16:16:56",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 3\u5e74\u76ee2",
+        "url": "https://open.spotify.com/album/4M12YvwwGbcwexRTydDy4H"
+      },
+      "artists": [
+        {
+          "name": "\u308b\u304b\u30fb\u3082\u306a\u30fb\u307f\u304d\u30fb\u307f\u307b\u30fb\u306a\u306a\u305b\u30fb\u304b\u306a from AIKATSU\u2606STARS! with \u5927\u7a7a\u3042\u304b\u308a(cv:\u4e0b\u5730\u7d2b\u91ce)",
+          "url": "https://open.spotify.com/artist/3aoMsZJyWyXfJPHQok7Cp8"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Pretty Pretty",
+      "url": "https://open.spotify.com/track/1WMINjHu4cdhZMIlbHAjTm"
+    },
+    {
+      "added_at": "2022-07-26 16:16:56",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS9",
         "url": "https://open.spotify.com/album/32XLP5WOPpnRg24tRlV2Mt"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 235146,
       "name": "\u8584\u7d05\u30c7\u30a4\u30c8\u30ea\u30c3\u30d1\u30fc",
       "url": "https://open.spotify.com/track/0LCdEIY2ALIEeJKkKUPHAt"
-    },
-    {
-      "added_at": "2022-07-26 16:16:56",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 3\u5e74\u76ee2",
-        "url": "https://open.spotify.com/album/4M12YvwwGbcwexRTydDy4H"
-      },
-      "artists": [
-        {
-          "name": "\u308b\u304b\u30fb\u3082\u306a\u30fb\u307f\u304d\u30fb\u307f\u307b\u30fb\u306a\u306a\u305b\u30fb\u304b\u306a from AIKATSU\u2606STARS! with \u5927\u7a7a\u3042\u304b\u308a(cv:\u4e0b\u5730\u7d2b\u91ce)",
-          "url": "https://open.spotify.com/artist/3aoMsZJyWyXfJPHQok7Cp8"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Pretty Pretty",
-      "url": "https://open.spotify.com/track/1WMINjHu4cdhZMIlbHAjTm"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -830,15 +830,11 @@
         {
           "name": "\u3042\u3044\u306d from BEST FRIENDS!",
           "url": "https://open.spotify.com/artist/3V19PPW9AbnRrNHQMmwAw3"
-        },
-        {
-          "name": "\u307f\u304a from BEST FRIENDS!",
-          "url": "https://open.spotify.com/artist/7yCtHmaXb2JMePfcu2Vj67"
         }
       ],
-      "duration_ms": 241515,
-      "name": "\u3072\u3068\u308a\u3057\u3099\u3083\u306a\u3044! - \u3042\u3044\u306d & \u307f\u304a ver.",
-      "url": "https://open.spotify.com/track/66ITNhiFXDfXRZh33dWO7p"
+      "duration_ms": 249207,
+      "name": "\u3042\u308a\u304c\u3068 \u21c4 \u5927\u4e08\u592b - \u3042\u3044\u306d ver.",
+      "url": "https://open.spotify.com/track/20G4d0MZkzYxrxVedsPDTO"
     },
     {
       "added_at": "2022-07-26 16:16:56",

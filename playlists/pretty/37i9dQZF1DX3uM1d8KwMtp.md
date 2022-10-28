@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,219 likes - 57 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,273 likes - 57 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,6 +64,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 54 | [Won't Forget You \(Eli & Fur Remix\)](https://open.spotify.com/track/2zSgjUuUKVUAV0xoCjCczO) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Won't Forget You \(Remixes\)](https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD) | 7:11 |
 | 55 | [Your Voice](https://open.spotify.com/track/1PdrKQaDMQNS02ICL8DYe1) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl) | [Your Voice](https://open.spotify.com/album/13czSpTI2okjVxVQxnTpK2) | 5:55 |
 | 56 | [Madan](https://open.spotify.com/track/6WnGITNOKFXawCwqnFuYbW) | [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Madan](https://open.spotify.com/album/3MJa5lVzJNQsB8aH7RkGNn) | 3:38 |
-| 57 | [Aguacero](https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD) | 6:42 |
+| 57 | [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 |
 
-Snapshot ID: `MTY2NTY0NjgxMSwwMDAwMDAwMDk5MTRmMGYwZjE1ZGRmNDRkNWM1NzU0Yzc3OGVkZWZk`
+Snapshot ID: `MTY2NTY0NjgxMSwwMDAwMDAwMDIyYmRjODBiNDQ4ZTZkMjUyMDQ4ZmJhMzI4ODU0MGY4`

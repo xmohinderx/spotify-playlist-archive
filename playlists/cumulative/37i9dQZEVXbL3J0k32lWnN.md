@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-861 songs - 1 day 20 hr 59 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+862 songs - 1 day 21 hr 2 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -701,6 +701,7 @@
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-14 | 2022-05-20 |
 | [SIRI](https://open.spotify.com/track/2YBJNTMuSCQKnjEBd52K6L) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [10 YEARS](https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU) | 2:19 | 2021-09-25 | 2021-10-11 |
 | [Sjov Sommer](https://open.spotify.com/track/4wrH1xWnH9UnGiodScaoCo) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Sjov Sommer](https://open.spotify.com/album/7ptAM4rLjJV8QSIbWNjxID) | 2:50 | 2022-03-26 | 2022-04-03 |
+| [Skulder Ved Skulder \(Danmarks Officielle Fodboldsang\)](https://open.spotify.com/track/29413BdSqM2XRMdu4XT4EK) | [The SuperNature](https://open.spotify.com/artist/4P3rTtomMt6HEeYdByPYC7), [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8), [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX) | [Skulder Ved Skulder \(Danmarks Officielle Fodboldsang\)](https://open.spotify.com/album/0Hk4TJWSh64av5ks7t8E0f) | 3:16 | 2022-10-27 |  |
 | [Skæbnen elsker os.](https://open.spotify.com/track/09vYMAdonToKQsyhm0DpTJ) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 2:17 | 2022-10-22 | 2022-10-24 |
 | [Skør For Dig \(feat\. Jada\)](https://open.spotify.com/track/5KFtLArXrvuHjiHsgQSkHz) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Jada](https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB) | [30 Somre](https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS) | 3:37 | 2022-06-18 | 2022-10-16 |
 | [Slikhår](https://open.spotify.com/track/7aGe2uih8NqQWclFqoqmr9) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i) | [Slikhår](https://open.spotify.com/album/3CWV9pisjF5UjDWAskQKxf) | 2:58 | 2021-08-29 | 2021-08-31 |
@@ -752,7 +753,7 @@
 | [Så Længe Vi Danser](https://open.spotify.com/track/4AUQ8Nh5HFtsVOZ629T8KX) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ) | [Så Længe Vi Danser](https://open.spotify.com/album/3nXhMh5hz9EUrKyVU2CxmV) | 3:16 | 2021-06-13 | 2021-08-24 |
 | [Søvnløs](https://open.spotify.com/track/5JYd771CUgV4zByGMZ8zqx) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev) | [Søvnløs](https://open.spotify.com/album/0lf0QTiiKqzuwJuHw9KcyO) | 3:05 | 2021-10-02 | 2021-10-11 |
 | [T\-Pain](https://open.spotify.com/track/7mWm9dmaJfCcxPsTKyB60b) | [Larry 44](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh), [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW) | [T\-Pain](https://open.spotify.com/album/3o1L41rBaXnFIvAqJDE0JU) | 2:00 | 2021-08-08 | 2021-08-16 |
-| [Taber mig i dig\. Føler vi ku vinde](https://open.spotify.com/track/5Iz8v842DvPthAShZWUx3J) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 3:07 | 2022-10-22 |  |
+| [Taber mig i dig\. Føler vi ku vinde](https://open.spotify.com/track/5Iz8v842DvPthAShZWUx3J) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 3:07 | 2022-10-22 | 2022-10-28 |
 | [Tag Med Mig](https://open.spotify.com/track/1AmWJvqz5JV71cOySeQ35R) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [30 Somre](https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS) | 3:50 | 2022-06-18 | 2022-06-20 |
 | [Tag Mig Med \- Fra julekalenderen 'Theo og Den Magiske Talisman'](https://open.spotify.com/track/1fhLYVIe9s7pwYHxtbdiZ1) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Tag Mig Med \(Fra julekalenderen 'Theo og Den Magiske Talisman'\)](https://open.spotify.com/album/70Vvm0aBZgcPxuTH6Aac0G) | 3:39 | 2021-11-28 | 2021-12-27 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-11-14 |

@@ -1,15 +1,15 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 10009,
+  "num_followers": 10075,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODc1NiwwMDAwMDAwMGUyZDY5YmE4MDNjYTU2YTViZDVlYjM3OWMwOTljNjU2",
+  "snapshot_id": "MTY2NTExODc1NiwwMDAwMDAwMGM1ZTJlOThlNmQ5YWVhNWVkOTlkYjcwMzYxNDJjNzc0",
   "tracks": [
     {
-      "added_at": "2022-10-27 01:14:16",
+      "added_at": "2022-10-28 01:18:43",
       "album": {
         "name": "28 Reasons - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw"
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-10-04 14:56:03",
       "album": {
-        "name": "VELVETMOTH",
-        "url": "https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx"
-      },
-      "artists": [
-        {
-          "name": "Bryn",
-          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "CANTSAY",
-      "url": "https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA"
-    },
-    {
-      "added_at": "2022-10-04 14:56:03",
-      "album": {
         "name": "kiss my lips",
         "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
       },
@@ -909,7 +893,23 @@
       "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
     },
     {
-      "added_at": "2022-10-27 01:14:16",
+      "added_at": "2022-10-04 14:56:03",
+      "album": {
+        "name": "VELVETMOTH",
+        "url": "https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx"
+      },
+      "artists": [
+        {
+          "name": "Bryn",
+          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "CANTSAY",
+      "url": "https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA"
+    },
+    {
+      "added_at": "2022-10-28 01:18:43",
       "album": {
         "name": "Be there",
         "url": "https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf"

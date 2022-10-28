@@ -4,12 +4,13 @@
 
 > Mental strength begins here—Dwayne Johnson’s Iron Paradise Tour.
 
-26 songs - 1 hr 46 min - [published](https://open.spotify.com/playlist/0J6jUshvZQCI2YC26M46Hj)
+27 songs - 1 hr 50 min - [published](https://open.spotify.com/playlist/0J6jUshvZQCI2YC26M46Hj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Night Long \- Live; 1999 Remaster](https://open.spotify.com/track/36psUsoODcqVG52lQIzDNy) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles Live](https://open.spotify.com/album/04ZCu8OHFUgbf9Ko0bOSZ2) | 5:34 | 2021-05-06 |  |
-| [Black Adam Theme \(from "Black Adam"\)](https://open.spotify.com/track/6eqwueXTaHqXTRwbOpLmcJ) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Black Adam Theme \(from "Black Adam"\)](https://open.spotify.com/album/1RGC1ShDXu9BKmnDlUj5OC) | 3:56 | 2022-10-24 |  |
+| [Black Adam Theme \(from "Black Adam"\)](https://open.spotify.com/track/1YcqFdl5MQIfN4f8ulc73l) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Black Adam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6QQ1bcCdI8RiiiAgXtK6nj) | 3:56 | 2022-10-24 |  |
+| [Black Adam Theme \(from "Black Adam"\)](https://open.spotify.com/track/6eqwueXTaHqXTRwbOpLmcJ) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Black Adam Theme \(from "Black Adam"\)](https://open.spotify.com/album/1RGC1ShDXu9BKmnDlUj5OC) | 3:56 | 2022-10-24 | 2022-10-28 |
 | [Black Betty](https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [Ram Jam](https://open.spotify.com/album/4z2REZpvRsVMpHFrsIz7PD) | 3:58 | 2021-05-06 |  |
 | [Black Skinhead](https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:08 | 2021-05-06 |  |
 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 | 2021-05-06 |  |

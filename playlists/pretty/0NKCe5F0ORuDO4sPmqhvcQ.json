@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21211,
+  "num_followers": 21210,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAwMjksOTgyNTAzNDYyZmIyMjgwNTM4NzQ1ZDVhMGUzZjUyODUzZGE5ZWVmOQ==",
+  "snapshot_id": "MTAwMzEsNzJhMjJkNmE0NGFhZDI3MjlkNTBlZTAxMjYwZjc5OTY3MmQwYzFlZg==",
   "tracks": [
     {
       "added_at": "2022-10-14 16:55:26",
@@ -2227,6 +2227,46 @@
       "duration_ms": 147555,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/4NTVnhW1sP7N6GmnYPzK18"
+    },
+    {
+      "added_at": "2022-10-27 15:59:03",
+      "album": {
+        "name": "That Place",
+        "url": "https://open.spotify.com/album/2vKw8y7d1kQZa2CogtnBOl"
+      },
+      "artists": [
+        {
+          "name": "cln",
+          "url": "https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1"
+        },
+        {
+          "name": "px",
+          "url": "https://open.spotify.com/artist/77ET8Co2dhEwSqZlYYhtcW"
+        }
+      ],
+      "duration_ms": 230084,
+      "name": "That Place",
+      "url": "https://open.spotify.com/track/4OVBM7qNnMQytRrdQ0jeSj"
+    },
+    {
+      "added_at": "2022-10-27 17:11:22",
+      "album": {
+        "name": "Chain Reaction (feat. GiGi Grombacher)",
+        "url": "https://open.spotify.com/album/2zN7MtOiLmtQOgv0jMYXWd"
+      },
+      "artists": [
+        {
+          "name": "Callie Reiff",
+          "url": "https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy"
+        },
+        {
+          "name": "GiGi Grombacher",
+          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Chain Reaction (feat. GiGi Grombacher)",
+      "url": "https://open.spotify.com/track/4gVsfMkda6yNTVDBq2YJuC"
     }
   ],
   "unique_name": "Moving Castle Monthly",

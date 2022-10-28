@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-55 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/0Ij2p11ySRhLverD0eg7Nv)
+56 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/0Ij2p11ySRhLverD0eg7Nv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Bridge over Troubled Water](https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Very Best of Aretha Franklin \- The 70's](https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn) | 5:33 | 2022-01-21 |  |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/0gaZi6J3Pk7FG7GNMHsK5o) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [That's the Way It Is](https://open.spotify.com/album/5Daouulcid6tWztS39KWhc) | 4:35 | 2022-01-21 |  |
 | [Bridge Over Troubled Water](https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:54 | 2022-01-21 |  |
-| [Cecilia](https://open.spotify.com/track/47t7MRzHXJ3mnL3TjN6a8J) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Cecilia](https://open.spotify.com/album/5ruxIkJ6nUwvGo30icvE1k) | 2:29 | 2022-01-21 |  |
+| [Cecilia](https://open.spotify.com/track/16d7q5zl3kD0qiREcYb15w) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Cecilia](https://open.spotify.com/album/5dc2PCEENKvXQQD9KkodNx) | 2:29 | 2022-01-21 |  |
+| [Cecilia](https://open.spotify.com/track/47t7MRzHXJ3mnL3TjN6a8J) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Cecilia](https://open.spotify.com/album/5ruxIkJ6nUwvGo30icvE1k) | 2:29 | 2022-01-21 | 2022-10-28 |
 | [Cecilia](https://open.spotify.com/track/7x5NXd6osgF8sJajvXsPlv) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1SdiMRASc3tRVgoLPXOHba) | 2:11 | 2022-01-21 | 2022-10-05 |
 | [Cecilia](https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E) | 2:11 | 2022-01-21 |  |
 | [Diamonds on the Soles of Her Shoes](https://open.spotify.com/track/44SAkadYZkexOZgNiVtJr3) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11) | 5:46 | 2022-01-21 | 2022-09-25 |

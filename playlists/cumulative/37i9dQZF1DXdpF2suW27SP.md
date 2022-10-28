@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Regula e Gson entram na zona.
+> Mizzy Miles, Sippinpurpp e Greg Ferreira entram na zona.
 
-135 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
+137 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [2 da Matina](https://open.spotify.com/track/2Nxl2DRXsj7jkRBQ66GUJv) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [2 da Matina](https://open.spotify.com/album/69wSG4zSCMGNb6V7cnxPYS) | 3:31 | 2022-07-16 | 2022-07-29 |
 | [2 da Matina](https://open.spotify.com/track/6mHEUDWaySfb6YvLC7JgPN) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Trilogia Pão Na Mesa](https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi) | 3:31 | 2022-07-21 |  |
 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 | 2022-07-16 |  |
-| [300](https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:17 | 2022-07-16 |  |
+| [300](https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:17 | 2022-07-16 | 2022-10-28 |
 | [4AM no Rio](https://open.spotify.com/track/6Z0omreb7QNSj3ptomTmOU) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [4AM no Rio](https://open.spotify.com/album/08mBO0iH81lIKabmqfHY6S) | 3:27 | 2022-07-16 |  |
 | [Abranda \(feat\. Regula\)](https://open.spotify.com/track/2hnrAClQrOeR4ULNjmSysb) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP) | [Abranda \(feat\. Regula\)](https://open.spotify.com/album/6TpLHdnEVcCFdLUDdLri2M) | 3:05 | 2022-08-01 |  |
 | [Ananás](https://open.spotify.com/track/1iTdMDcECY3gL6SuHyrBGD) | [Russa](https://open.spotify.com/artist/0xvJ9qU06BFpjboJHMulTm) | [Ananás](https://open.spotify.com/album/5MjlR3MAEEhMzwkyWGBLIj) | 3:27 | 2022-07-16 | 2022-07-22 |
@@ -21,7 +21,7 @@
 | [ANTI\-ANTES](https://open.spotify.com/track/2vGtivisPxm14aTTgie6xB) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [CASTANHO](https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU) | 3:48 | 2022-07-16 |  |
 | [Apaga o Meu Número](https://open.spotify.com/track/2iYx9hAUSD5wz7cg5TVIbx) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Apaga o Meu Número](https://open.spotify.com/album/6eobNuVuaVKafZKIPAKvuP) | 2:56 | 2022-07-16 |  |
 | [Assassino](https://open.spotify.com/track/78CpoadoaXB6mcIDX5JXLk) | [Mirai](https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC) | [Assassino](https://open.spotify.com/album/3gmvUc2omtD0XSZapd9Mv0) | 3:33 | 2022-07-16 | 2022-07-22 |
-| [Atrevido](https://open.spotify.com/track/5mB4UQn41Z70o7PXiINlj4) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Atrevido](https://open.spotify.com/album/2GJL9wTnxxyxMUdX4ffKk8) | 2:52 | 2022-07-16 |  |
+| [Atrevido](https://open.spotify.com/track/5mB4UQn41Z70o7PXiINlj4) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Atrevido](https://open.spotify.com/album/2GJL9wTnxxyxMUdX4ffKk8) | 2:52 | 2022-07-16 | 2022-10-28 |
 | [Aulas e Cursos](https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Aulas e Cursos](https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr) | 3:33 | 2022-07-16 |  |
 | [AZTECA](https://open.spotify.com/track/6l8p2VaXEt2oNnzBl2GqIx) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [AZTECA](https://open.spotify.com/album/4ALG22jONW3Qu8UmTUymwy) | 2:31 | 2022-10-13 |  |
 | [BAL4DA 2UM CAR0XO](https://open.spotify.com/track/0uQU529W8MgYYElqJCMdph) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Dave Wolf Rodriguez](https://open.spotify.com/artist/3Zg1i5VdkGHFtEi8xHP0tB) | [BAL4DA 2UM CAR0XO](https://open.spotify.com/album/0Y2hXrh13HOLu6lh30chRo) | 4:42 | 2022-09-15 |  |
@@ -44,7 +44,7 @@
 | [Damas dos Opps](https://open.spotify.com/track/6yyirBOiGfQQhuqpIim06A) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Damas dos Opps](https://open.spotify.com/album/2bgd8LSar1o1zWZLgJfwfy) | 3:03 | 2022-09-01 | 2022-09-23 |
 | [Dentu Di Espanha](https://open.spotify.com/track/7glOAznlQuVCZ3KcqkUqWL) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [Casp3r](https://open.spotify.com/artist/2dNyGUrMkoGzDHTMTukhf6) | [Dentu Di Espanha](https://open.spotify.com/album/3iC4A749XyBNEGTJUvGGGi) | 3:33 | 2022-07-21 | 2022-08-19 |
 | [Desce Do Céu](https://open.spotify.com/track/0sL2N1y2f6tjETXH6CLeHY) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Desce Do Céu](https://open.spotify.com/album/29EhHjUiLnhkhpDJPcln7f) | 4:18 | 2022-10-20 |  |
-| [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 | 2022-07-16 |  |
+| [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 | 2022-07-16 | 2022-10-28 |
 | [Doce](https://open.spotify.com/track/3D0nHtG6BSu5RIsy6j5Wwg) | [$heka](https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2), [ZoHar](https://open.spotify.com/artist/5uLGaEegHHoEEHk5EWH8Q4) | [Doce](https://open.spotify.com/album/3K8LvFUKsMj3seejRF6M0W) | 2:51 | 2022-09-30 | 2022-10-21 |
 | [Don't Lie](https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Sabi na Sabura](https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj) | 3:05 | 2022-07-16 |  |
 | [Dona](https://open.spotify.com/track/3ItaN5uDoA1Muk8S5vpbdZ) | [NGA](https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s) | [Dona](https://open.spotify.com/album/3JwAOwKIEzZ9nFxaRcg9Oo) | 4:05 | 2022-08-11 | 2022-09-02 |
@@ -67,7 +67,7 @@
 | [Golo](https://open.spotify.com/track/3D2xdEo5tgemOTwIhBq7W4) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [Noname](https://open.spotify.com/artist/6xf1SJx82RDLL6wdSDDZXI) | [Golo](https://open.spotify.com/album/6qKW4hsTZL2M2O9lj8jFBe) | 2:54 | 2022-08-04 | 2022-08-26 |
 | [HGS](https://open.spotify.com/track/5Q0GBUZ8UAXkuBk3fs1Qzh) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [HGS](https://open.spotify.com/album/5PcvUawRRRaAEOJD3AGTIQ) | 2:53 | 2022-07-16 | 2022-08-02 |
 | [JOGADOR CARO](https://open.spotify.com/track/3AmAlwNKaJyExmvN6EOSb2) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8), [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [JOGADOR CARO](https://open.spotify.com/album/5CZiBICShN5FDPhQtUsCbC) | 3:06 | 2022-10-20 |  |
-| [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 | 2022-07-16 |  |
+| [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 | 2022-07-16 | 2022-10-28 |
 | [Kala Boka \(Freestyle\)](https://open.spotify.com/track/55XDPmIcLcO79LvrD2BVVM) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS) | [Kala Boka \(Freestyle\)](https://open.spotify.com/album/4FqGp6VMERncBlCWHovVUB) | 2:49 | 2022-07-16 | 2022-07-22 |
 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 | 2022-07-16 |  |
 | [Lingerie](https://open.spotify.com/track/2Cq6yIgdyyaDmY7pvnADVP) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Lingerie](https://open.spotify.com/album/2SopLfpjAF0IespcnP6LG0) | 3:34 | 2022-09-30 |  |
@@ -81,7 +81,9 @@
 | [Marcas De Bikini](https://open.spotify.com/track/6lk0wakzghDJLnlQVK9qD3) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Marcas De Bikini](https://open.spotify.com/album/7FOJWf7cL28upX4jHRdEL3) | 3:23 | 2022-08-11 | 2022-10-01 |
 | [Maçã](https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Maçã](https://open.spotify.com/album/7bLu4omqbTsFAfnvVFUSW8) | 3:39 | 2022-07-16 |  |
 | [Melanina](https://open.spotify.com/track/1jFxvJAGwD8DFctTJZHBjl) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Melanina](https://open.spotify.com/album/1Fu5gGz80ynZmZWgty92Ch) | 4:04 | 2022-07-21 |  |
+| [METE1LIKE](https://open.spotify.com/track/2w6x13VWPqhAKHjmX5kMbj) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx) | [METE1LIKE](https://open.spotify.com/album/4J4OCfvHHWAMZ6unYRvBOd) | 3:30 | 2022-10-27 |  |
 | [Mo Money Mo Problems](https://open.spotify.com/track/4bRd2tebqOfIYxsyIGUzDd) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Mo Money Mo Problems](https://open.spotify.com/album/6oRVzgSnlpjjbP6mix56ap) | 2:38 | 2022-07-16 | 2022-10-07 |
+| [Momma](https://open.spotify.com/track/7fW7scs325n2ZwvWBjA75O) | [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP), [King Bigs](https://open.spotify.com/artist/6WecxeaCHGhmwXiyBQPv61) | [Ouro Sobre Azul](https://open.spotify.com/album/1Za7fc64cyBoDqo4XJVSHO) | 2:54 | 2022-10-27 |  |
 | [Moncler](https://open.spotify.com/track/0DLUkSjuJxOe7kgtQlquDK) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [HOODZ](https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY) | [Moncler](https://open.spotify.com/album/5jIDnCrGqpO9CLhREHvhNg) | 3:40 | 2022-07-16 | 2022-07-29 |
 | [Moncler](https://open.spotify.com/track/2jwNTvtfC1JoroZURUspXC) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [HOODZ](https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY) | [Moncler](https://open.spotify.com/album/5V9MRkH3TQlZJKtHJl00kV) | 3:40 | 2022-07-21 | 2022-09-09 |
 | [Morte do Artista](https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Morte do Artista](https://open.spotify.com/album/7a88VpAUQJiWQbrlWOF9oL) | 3:27 | 2022-07-16 |  |
@@ -141,7 +143,7 @@
 | [Volta](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Volta](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 | 2022-07-16 |  |
 | [WINNER](https://open.spotify.com/track/2UkcmJbpicpLOVxDLgU9Pl) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [WINNER](https://open.spotify.com/album/1oLcRnUJaJ9upTO41XxszJ) | 2:43 | 2022-09-22 | 2022-10-14 |
 | [WUOW](https://open.spotify.com/track/0eXD7LAkqQ9LWyXa0hQkBG) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [WUOW](https://open.spotify.com/album/4KNT4vVQJeSgBmZYRalkHb) | 2:55 | 2022-07-16 | 2022-10-07 |
-| [É ASSIM](https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [É ASSIM](https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu) | 4:09 | 2022-07-16 |  |
+| [É ASSIM](https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [É ASSIM](https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu) | 4:09 | 2022-07-16 | 2022-10-28 |
 | [Última Vez](https://open.spotify.com/track/3IBrb6eBXyPo1EN4ElkLQI) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Última Vez](https://open.spotify.com/album/5qUi6QhO9E4cbVKvJHDiOW) | 3:25 | 2022-09-30 | 2022-10-21 |
 
 \*This playlist was first scraped on 2022-07-17. Prior content cannot be recovered.

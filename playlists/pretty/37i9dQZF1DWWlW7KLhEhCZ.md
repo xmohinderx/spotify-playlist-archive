@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: BIN, MC Ryan SP
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,144 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,269 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 38 | [Jogo do Bicho](https://open.spotify.com/track/4EfCQcyOykgNJxAf1g1K2H) | [Akilla](https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB), [Prod Gomes](https://open.spotify.com/artist/2OykwFvrdokATKdUQPGAFA) | [Jogo do Bicho](https://open.spotify.com/album/1SowDroZuixt9Yt6k9HPGT) | 2:38 |
 | 39 | [Melhor Fase](https://open.spotify.com/track/4FLua0K5SYxcimOi7Py6uf) | [Logri](https://open.spotify.com/artist/1pDdBrq22wMmvTvms7RVEX) | [Melhor Fase](https://open.spotify.com/album/6L0HxGxT6cjhMm0S5QV1d7) | 2:52 |
 | 40 | [Não Posso Parar](https://open.spotify.com/track/0obtACkhdIBCOuIVT87mwZ) | [4LIFE Collective](https://open.spotify.com/artist/5b0GvhvDm06xgOF2AuOyVn), [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [Lil Vxct](https://open.spotify.com/artist/4liBXo1Tt4Zzx7sToYROEZ), [Jeall](https://open.spotify.com/artist/4dL3Sc02sRexL3jylcoGNt) | [Não Posso Parar](https://open.spotify.com/album/2wHwlCUJ3AOtfxMBqWr0PM) | 2:37 |
-| 41 | [Tô Mudado](https://open.spotify.com/track/2rM4PoRWLhbqRaPnqvi9i3) | [Max Único](https://open.spotify.com/artist/3BBE6ygahYvS36yLUe6Lhh) | [Versátil](https://open.spotify.com/album/74KJcP4LVjg2E3X8yoFX6o) | 2:16 |
+| 41 | [Tô Mudado](https://open.spotify.com/track/2rM4PoRWLhbqRaPnqvi9i3) | [Max Único](https://open.spotify.com/artist/3BBE6ygahYvS36yLUe6Lhh), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Versátil](https://open.spotify.com/album/74KJcP4LVjg2E3X8yoFX6o) | 2:16 |
 | 42 | [Ambição e Desejo](https://open.spotify.com/track/6RAJXjuBuK2SvSmVRPuoG5) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Trap de Quebra \(Deluxe\)](https://open.spotify.com/album/19fuY6ljpmJaymifBNFqDf) | 2:59 |
 | 43 | [Do lado de cá](https://open.spotify.com/track/41ngGfqMD5R6NydSjUP1Y7) | [Cinquenta](https://open.spotify.com/artist/1yR2jw1EdzSx6I2SCIWoSb) | [Do lado de cá](https://open.spotify.com/album/7EZ6B5vctZQur5cA6cEdrb) | 2:44 |
 | 44 | [Coração Bandido](https://open.spotify.com/track/5yEBUQCGq72w9EUsOyQQhM) | [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h) | [Coração Bandido](https://open.spotify.com/album/5ae4HOcsJcRvW5vh47Xb04) | 2:40 |

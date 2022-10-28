@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Bad Milk y más mujeres, a todo volumen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,142 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,146 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 60 | [Tío Guachupesito](https://open.spotify.com/track/7AzIWxOIJOqOt6GXZKhDUD) | [Canalón de Timbiquí](https://open.spotify.com/artist/49qnSNt8EO6ppsKVddyInS) | [De Mar y Río](https://open.spotify.com/album/3AjG16gUxVdNEIv09vKTZE) | 6:00 |
 | 61 | [En un Mar](https://open.spotify.com/track/78NnWL4MdpDJhlUcIBhAIY) | [siempre perdida](https://open.spotify.com/artist/0qUAEJHNl1REkrePFbnEnT) | [En un Mar](https://open.spotify.com/album/5gxvjvg1VtOn2EmhNADKRb) | 3:57 |
 | 62 | [Todo por Decir](https://open.spotify.com/track/3zGWhNp4OPM0lWA0EU6sIn) | [Catalina Avila](https://open.spotify.com/artist/0LB0EI1TU5WBU2tI0aXDaK), [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Todo por Decir](https://open.spotify.com/album/1du3Ki9h7sUNzoKgggKrDy) | 3:12 |
-| 63 | [La Golondrina](https://open.spotify.com/track/6C844QxMDqREFU36dK2JOd) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [La Golondrina](https://open.spotify.com/album/4JduN8steJ6xSfzLPHFIHr) | 3:09 |
+| 63 | [La Golondrina](https://open.spotify.com/track/3Cl33QcFC9RYKaCSgofRLR) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [La Golondrina](https://open.spotify.com/album/5Z5sMwjSx1sWjfDF3k4vdu) | 3:09 |
 | 64 | [Vamos por el Magdalena](https://open.spotify.com/track/0doKRvScUdK3sByhEqUasG) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Vamos por el Magdalena](https://open.spotify.com/album/32h1Oyjs5teGmctWjhjRsc) | 3:50 |
 | 65 | [La Cara](https://open.spotify.com/track/48hh5h1N1oe2zmapBQ4uye) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Cara](https://open.spotify.com/album/3n4PlVDnUeFUuS1oIyuS7D) | 2:03 |
 | 66 | [Fashion Criminal](https://open.spotify.com/track/0azenPr5m8N2fGVkp5BEuw) | [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Fashion Criminal](https://open.spotify.com/album/2S6TKxlcxqreIKTckKQAcW) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 74 | [Lluviare](https://open.spotify.com/track/7tQICvPQ491u8JnHnR2ann) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Sodot a Rama](https://open.spotify.com/album/34od7O3gBdrusV1DzlxjM8) | 4:40 |
 | 75 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 
-Snapshot ID: `MTY2NjMyOTQyMCwwMDAwMDAwMDc3ZDAzYzg3N2U2MTY0Zjc5MGUzZDA0NWFiMzNkYzQ2`
+Snapshot ID: `MTY2NjMyOTQyMCwwMDAwMDAwMDlmNjhkMTkxMWI2M2UxNDk2YWJmNDMyNDYzOGQ3OTAw`

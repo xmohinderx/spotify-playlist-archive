@@ -1427,6 +1427,24 @@
     {
       "album": {
         "name": "El Sa3a Tes3a",
+        "url": "https://open.spotify.com/album/6C84DA6uO6CmULWHzZlUxO"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205379,
+      "name": "El Sa3a Tes3a",
+      "url": "https://open.spotify.com/track/0vRNQJC5feiuVq99FruVL6"
+    },
+    {
+      "album": {
+        "name": "El Sa3a Tes3a",
         "url": "https://open.spotify.com/album/1GJZhqPPsieEHz7nLKW17G"
       },
       "artists": [
@@ -5651,7 +5669,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 180000,
       "name": "\u0645\u0634 \u0645\u0633\u062a\u0627\u0647\u0644\u0629",
       "url": "https://open.spotify.com/track/5MPZMTdpuQKvY2QZ0elrFp"

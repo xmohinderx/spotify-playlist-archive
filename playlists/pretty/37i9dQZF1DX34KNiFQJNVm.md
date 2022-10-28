@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Taylor Swift, Pabllo Vittar com Gloria Groove, Planet Hemp e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,786,552 likes - 67 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,786,713 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 63 | [De Volta](https://open.spotify.com/track/2Pe37qEd4Ds7QuuFyyRKgn) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Jef Rodriguez](https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo) | [De Volta](https://open.spotify.com/album/46H9YGkAhQNNBcoW67ZwFQ) | 2:34 |
 | 64 | [NIGHTSHIFT](https://open.spotify.com/track/6vZqkQWq28a1ccZa69KDQd) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal \(Deluxe\)](https://open.spotify.com/album/3lsu0Vp20MZEsHdTDE6G8I) | 2:07 |
 | 65 | [Beijando de Olhos Abertos](https://open.spotify.com/track/7wuAW1rDnoJTrE6qirP5fZ) | [Karol kailler](https://open.spotify.com/artist/3Uroh9qzMYt6Qo9WsrwiXg) | [Beijando de Olhos Abertos](https://open.spotify.com/album/5MoDp4Jf2zEKpzQY8rysIw) | 2:51 |
-| 66 | [Retomada](https://open.spotify.com/track/6BJmMBFnn6CqI6IVr7pxLa) | [Latino](https://open.spotify.com/artist/06EMbW4WO6U4fGNnKjeuI5) | [Retomada](https://open.spotify.com/album/5j19cVPOtzMeh0fs3iJZTT) | 3:30 |
-| 67 | [Blue](https://open.spotify.com/track/7uhaG1MmBzH5KU6X0TMNBJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Blue](https://open.spotify.com/album/4c8A95egg8m0QCgWYxGisw) | 3:27 |
+| 66 | [Desatando O Nó](https://open.spotify.com/track/0451VryXB08LczGyRitwnK) | [Victor Santos](https://open.spotify.com/artist/3swRzPZRzlzeGczSJxhxne) | [Desatando O Nó](https://open.spotify.com/album/1ARSsfHJnvRj8GZRc75pBp) | 2:51 |
+| 67 | [Retomada](https://open.spotify.com/track/6BJmMBFnn6CqI6IVr7pxLa) | [Latino](https://open.spotify.com/artist/06EMbW4WO6U4fGNnKjeuI5) | [Retomada](https://open.spotify.com/album/5j19cVPOtzMeh0fs3iJZTT) | 3:30 |
+| 68 | [Blue](https://open.spotify.com/track/7uhaG1MmBzH5KU6X0TMNBJ) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Blue](https://open.spotify.com/album/4c8A95egg8m0QCgWYxGisw) | 3:27 |
 
 Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMGMwZWI0NTY2ZGNkMTkxMmI4ZjNkNDc2YTRiNzEzNWIw`

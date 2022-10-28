@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > Porter Robinson takes over the Guest List, featuring artists on this year's Second Sky lineup! Second Sky takes place October 29th, 2022 and tickets are available <a href="https://secondskyfest.com/">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,782 likes - 56 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,884 likes - 56 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 51 | [Redeem](https://open.spotify.com/track/6TzwWyuztegjozOpiOpVk8) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5YoNp5U9MsUvXsTWhVhEFU) | 2:09 |
 | 52 | [Point of view](https://open.spotify.com/track/4fROPhCLLcDH4N5pgZv1bW) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [インベーダーインベーダー](https://open.spotify.com/album/1Mai4olFi0VEi2XjyRKKNN) | 3:35 |
 | 53 | [DiSASTER PRELUDE](https://open.spotify.com/track/1yA52ETTFmGPb0uJYShoAu) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Spiderr](https://open.spotify.com/album/59VjMEiXIOpzLAMAHrLlfj) | 1:57 |
-| 54 | [Operator](https://open.spotify.com/track/5JVHMRWlqPuqB331dVe5wl) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Operator](https://open.spotify.com/album/0cUBXDtEC8xdBkwI1KvxAt) | 2:54 |
+| 54 | [Operator](https://open.spotify.com/track/5JVHMRWlqPuqB331dVe5wl) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Operator](https://open.spotify.com/album/0cUBXDtEC8xdBkwI1KvxAt) | 2:53 |
 | 55 | [Furnace Loop](https://open.spotify.com/track/2Afn9DVEGZdNToKzo1HD4I) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Airborne Lard](https://open.spotify.com/album/3d8kb3eoguY0W0rL1Fh9Dy) | 2:51 |
 | 56 | [Pressure](https://open.spotify.com/track/11AZJufpf0EdlyGes9Jgrh) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:29 |
 

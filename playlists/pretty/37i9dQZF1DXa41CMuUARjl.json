@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Lastlings.",
-  "num_followers": 406037,
+  "num_followers": 406215,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM0ODEyMywwMDAwMDAwMGNlYTdmMmY5ODliNmFkMjJhYTI3OGRmNGI4N2NkOWM0",
+  "snapshot_id": "MTY2NjM0ODEyMywwMDAwMDAwMDgwMzIxN2YzOTdkZjJhOGU4NjExZTdjMjEzNWY1ZmFk",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -727,26 +727,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/3khiFvo7qCQ2CDyKD7UP4g"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Maurissa Rose",
-          "url": "https://open.spotify.com/artist/2VZfxVHA2JsWss2mJCYmv1"
-        }
-      ],
-      "duration_ms": 199272,
-      "name": "Feel It - Edit",
-      "url": "https://open.spotify.com/track/1YHpJo0PCcxATrmX55pdCf"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Reputation",
         "url": "https://open.spotify.com/album/19gLqW0o4f8Ua9l9ajQyxT"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 152500,
       "name": "Same Man",
       "url": "https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/3khiFvo7qCQ2CDyKD7UP4g"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Maurissa Rose",
+          "url": "https://open.spotify.com/artist/2VZfxVHA2JsWss2mJCYmv1"
+        }
+      ],
+      "duration_ms": 199272,
+      "name": "Feel It - Edit",
+      "url": "https://open.spotify.com/track/1YHpJo0PCcxATrmX55pdCf"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Way Up",
-        "url": "https://open.spotify.com/album/3GGE7ZpfgZwHSXsoxV5oKL"
-      },
-      "artists": [
-        {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
-        },
-        {
-          "name": "Tima Dee",
-          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
-        }
-      ],
-      "duration_ms": 214954,
-      "name": "Way Up",
-      "url": "https://open.spotify.com/track/5Dmk7WSDEIywhhXKq7lP3j"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "How We Do It",
         "url": "https://open.spotify.com/album/2mMjN1q6t5EoUTmL4Afzla"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 152321,
       "name": "How We Do It - Short Edit",
       "url": "https://open.spotify.com/track/3PBSTL5HTVlqF7t4Zv9Wzq"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Way Up",
+        "url": "https://open.spotify.com/album/3GGE7ZpfgZwHSXsoxV5oKL"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Tima Dee",
+          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
+        }
+      ],
+      "duration_ms": 214954,
+      "name": "Way Up",
+      "url": "https://open.spotify.com/track/5Dmk7WSDEIywhhXKq7lP3j"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Get With You Tonight",
-        "url": "https://open.spotify.com/album/6Oo7dbPYNo8qTQfd9iE7AT"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "Lukas Setto",
-          "url": "https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ"
-        }
-      ],
-      "duration_ms": 224754,
-      "name": "Get With You Tonight",
-      "url": "https://open.spotify.com/track/0l8uYmcOJym0cJwUc1SLfV"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "One Long Firework in the Sky",
         "url": "https://open.spotify.com/album/7xH5oPxIAovNTLDxHj1kVG"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 225045,
       "name": "One Long Firework in the Sky",
       "url": "https://open.spotify.com/track/1OmPgwGZtgwdKZp5S0gy7I"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Get With You Tonight",
+        "url": "https://open.spotify.com/album/6Oo7dbPYNo8qTQfd9iE7AT"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Lukas Setto",
+          "url": "https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ"
+        }
+      ],
+      "duration_ms": 224754,
+      "name": "Get With You Tonight",
+      "url": "https://open.spotify.com/track/0l8uYmcOJym0cJwUc1SLfV"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Supposed To Do",
+        "url": "https://open.spotify.com/album/6OJjqC5F173qh2EUV4qUNg"
+      },
+      "artists": [
+        {
+          "name": "Harpoon",
+          "url": "https://open.spotify.com/artist/2Orr52OAMzjLNDRjiXomFP"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 191941,
+      "name": "Supposed To Do",
+      "url": "https://open.spotify.com/track/4uBuw2GgODVdiJLwRlaZb5"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "In My Soul",
         "url": "https://open.spotify.com/album/3uKNbJePIfbIBFWlbQ4Hdk"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 277413,
       "name": "For The Birds - Jacana People Remix",
       "url": "https://open.spotify.com/track/67A94Xl5KTj6R7Rxauy3f5"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Supposed To Do",
-        "url": "https://open.spotify.com/album/6OJjqC5F173qh2EUV4qUNg"
-      },
-      "artists": [
-        {
-          "name": "Harpoon",
-          "url": "https://open.spotify.com/artist/2Orr52OAMzjLNDRjiXomFP"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 191941,
-      "name": "Supposed To Do",
-      "url": "https://open.spotify.com/track/4uBuw2GgODVdiJLwRlaZb5"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Joan",
+        "url": "https://open.spotify.com/album/6j8J7woocVNSo52ASBg2b3"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 318560,
+      "name": "Joan",
+      "url": "https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Party (Tails Remix)",
         "url": "https://open.spotify.com/album/66zjnLyGqx0Q0e048Cuv9L"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 301458,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/1IXhUwbSASGau6O0uHSG3t"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Joan",
-        "url": "https://open.spotify.com/album/6j8J7woocVNSo52ASBg2b3"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 318560,
-      "name": "Joan",
-      "url": "https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "ASW is Live EP5",
+        "url": "https://open.spotify.com/album/3k7TApRRBBImH76ia0grMM"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 374634,
+      "name": "Purple Eye",
+      "url": "https://open.spotify.com/track/0EMkkx9YEdfvO26dNGnaiQ"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "You May Forget",
         "url": "https://open.spotify.com/album/2lfZr87baexd0UxklNX6UJ"
       },
@@ -1531,6 +1547,22 @@
       "duration_ms": 340645,
       "name": "Fall Out",
       "url": "https://open.spotify.com/track/2U7R0GDfm2D6RwKlg8UFmu"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Pyramid Square",
+        "url": "https://open.spotify.com/album/5riGKMJNAw7LJri91iKr0s"
+      },
+      "artists": [
+        {
+          "name": "Rauschhaus",
+          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
+        }
+      ],
+      "duration_ms": 385289,
+      "name": "Pyramid Square",
+      "url": "https://open.spotify.com/track/6ALUSlbwOTZK5MQmjRdbPJ"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1551,38 +1583,6 @@
       "duration_ms": 227250,
       "name": "Redeem",
       "url": "https://open.spotify.com/track/0Xj22ANM2lfGMK5KGECIVt"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "ASW is Live EP5",
-        "url": "https://open.spotify.com/album/3k7TApRRBBImH76ia0grMM"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 374634,
-      "name": "Purple Eye",
-      "url": "https://open.spotify.com/track/0EMkkx9YEdfvO26dNGnaiQ"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Pyramid Square",
-        "url": "https://open.spotify.com/album/5riGKMJNAw7LJri91iKr0s"
-      },
-      "artists": [
-        {
-          "name": "Rauschhaus",
-          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
-        }
-      ],
-      "duration_ms": 385289,
-      "name": "Pyramid Square",
-      "url": "https://open.spotify.com/track/6ALUSlbwOTZK5MQmjRdbPJ"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "BOUNCE",
-        "url": "https://open.spotify.com/album/7phEmaA0g03ih7AaANssEg"
-      },
-      "artists": [
-        {
-          "name": "Dot",
-          "url": "https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT"
-        }
-      ],
-      "duration_ms": 234193,
-      "name": "BOUNCE",
-      "url": "https://open.spotify.com/track/1fc5DmNF3VDkMsKyOfBQJZ"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Merged",
         "url": "https://open.spotify.com/album/3IrHQ6wzT9PYY2YiNFUbbp"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 386378,
       "name": "Voices",
       "url": "https://open.spotify.com/track/4wqfSuppsgqhLbAW1Vpu8E"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "BOUNCE",
+        "url": "https://open.spotify.com/album/7phEmaA0g03ih7AaANssEg"
+      },
+      "artists": [
+        {
+          "name": "Dot",
+          "url": "https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT"
+        }
+      ],
+      "duration_ms": 234193,
+      "name": "BOUNCE",
+      "url": "https://open.spotify.com/track/1fc5DmNF3VDkMsKyOfBQJZ"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Take Me Under",
+        "url": "https://open.spotify.com/album/0Gpt7EN8k5NY7qwk0fXHbn"
+      },
+      "artists": [
+        {
+          "name": "Volaris",
+          "url": "https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy"
+        }
+      ],
+      "duration_ms": 178165,
+      "name": "Take Me Under",
+      "url": "https://open.spotify.com/track/4DmtkAs0rigHeNhVCR2OGr"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Freak of Nature Vol. 2",
         "url": "https://open.spotify.com/album/2VAunLAvRmj4UdxDXRTLjk"
       },
@@ -1695,6 +1711,22 @@
       "duration_ms": 351664,
       "name": "Post Pump",
       "url": "https://open.spotify.com/track/0ExummW5xGkLfuKfNTobBF"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Move Like That",
+        "url": "https://open.spotify.com/album/0u5m6k9JaCnA2mRtAQw8dV"
+      },
+      "artists": [
+        {
+          "name": "Sam Blacky",
+          "url": "https://open.spotify.com/artist/22b2o0uNHGE6B7bJUGpKSH"
+        }
+      ],
+      "duration_ms": 213603,
+      "name": "Move Like That",
+      "url": "https://open.spotify.com/track/3Vg8yxQYSwTKk2NtYuRaUF"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1715,22 +1747,6 @@
       "duration_ms": 473090,
       "name": "Vigil - Joe Goddard Remix",
       "url": "https://open.spotify.com/track/6qzQyU1lMoWeJxHPUV2Nkt"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Move Like That",
-        "url": "https://open.spotify.com/album/0u5m6k9JaCnA2mRtAQw8dV"
-      },
-      "artists": [
-        {
-          "name": "Sam Blacky",
-          "url": "https://open.spotify.com/artist/22b2o0uNHGE6B7bJUGpKSH"
-        }
-      ],
-      "duration_ms": 213603,
-      "name": "Move Like That",
-      "url": "https://open.spotify.com/track/3Vg8yxQYSwTKk2NtYuRaUF"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1767,22 +1783,6 @@
       "duration_ms": 364749,
       "name": "Stretchpants",
       "url": "https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Take Me Under",
-        "url": "https://open.spotify.com/album/0Gpt7EN8k5NY7qwk0fXHbn"
-      },
-      "artists": [
-        {
-          "name": "Volaris",
-          "url": "https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy"
-        }
-      ],
-      "duration_ms": 178165,
-      "name": "Take Me Under",
-      "url": "https://open.spotify.com/track/4DmtkAs0rigHeNhVCR2OGr"
     },
     {
       "added_at": "2022-10-21 04:00:00",

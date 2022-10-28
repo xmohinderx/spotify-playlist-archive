@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 82237,
+  "num_followers": 82553,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM3NzQ4NSwwMDAwMDAwMGNjOTM2MDE4YjRkYzlhMTQ5M2VlYTg2NWY3NTczZmQx",
+  "snapshot_id": "MTY2MjM3NzQ4NSwwMDAwMDAwMGZlOGI1NzJhNjljYzRiZTUxNjYwYmM3ZGY4NjczMzI5",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 278080,
-      "name": "Dancing On My Own - Radio Edit",
-      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Broken Bells",
         "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 198040,
       "name": "The Ghost Inside",
       "url": "https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 278080,
+      "name": "Dancing On My Own - Radio Edit",
+      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -615,18 +615,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "The Suburbs",
-        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
+        "name": "Broken Bells",
+        "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
       "artists": [
         {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
         }
       ],
-      "duration_ms": 255893,
-      "name": "Ready to Start",
-      "url": "https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj"
+      "duration_ms": 218106,
+      "name": "October",
+      "url": "https://open.spotify.com/track/09zDgbs5NQH1kKFXHppYhr"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -647,18 +647,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Broken Bells",
-        "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI"
       },
       "artists": [
         {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
-      "duration_ms": 218106,
-      "name": "October",
-      "url": "https://open.spotify.com/track/09zDgbs5NQH1kKFXHppYhr"
+      "duration_ms": 255893,
+      "name": "Ready to Start",
+      "url": "https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Journal of Ardency",
-        "url": "https://open.spotify.com/album/0yTVrdU4jqSHyrh6VCQ8Cw"
-      },
-      "artists": [
-        {
-          "name": "Class Actress",
-          "url": "https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl"
-        }
-      ],
-      "duration_ms": 225233,
-      "name": "Journal of Ardency",
-      "url": "https://open.spotify.com/track/3vc0dm7NHZTProvlYlkhmh"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -1319,22 +1303,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Contra",
-        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 286160,
-      "name": "Giving Up the Gun",
-      "url": "https://open.spotify.com/track/40cAeDaZAnPY9bUHf4jYXW"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -1363,6 +1331,22 @@
       "duration_ms": 234800,
       "name": "Norway",
       "url": "https://open.spotify.com/track/2WR4vnUdenSmOQHF2jyBTa"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Contra",
+        "url": "https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 286160,
+      "name": "Giving Up the Gun",
+      "url": "https://open.spotify.com/track/40cAeDaZAnPY9bUHf4jYXW"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1525,6 +1509,22 @@
       "url": "https://open.spotify.com/track/1ghaBtBdpuZMg5nV9E2qRU"
     },
     {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "High Violet",
+        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 205213,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/30YMGz5pjtRaIjtQcpjn01"
+    },
+    {
       "added_at": "2022-01-03 14:21:42",
       "album": {
         "name": "Dark Night of The Soul",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "High Violet",
-        "url": "https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 205213,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/30YMGz5pjtRaIjtQcpjn01"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Pickin' up the Pieces",
         "url": "https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "Dye It Blonde",
+        "url": "https://open.spotify.com/album/5pez3ZFdESESBL9M5KElgt"
+      },
+      "artists": [
+        {
+          "name": "Smith Westerns",
+          "url": "https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/7DQDpDeLVS3L9kgb6ejU3z"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Gorilla Manor",
         "url": "https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID"
       },
@@ -1629,20 +1629,20 @@
       "url": "https://open.spotify.com/track/117XTs9axKflCk5FDwf2kI"
     },
     {
-      "added_at": "2021-10-05 08:40:49",
+      "added_at": "2022-09-05 11:29:45",
       "album": {
-        "name": "Dye It Blonde",
-        "url": "https://open.spotify.com/album/5pez3ZFdESESBL9M5KElgt"
+        "name": "Mine Is Yours",
+        "url": "https://open.spotify.com/album/69Kgl92Q1X2n7ERDX4me1r"
       },
       "artists": [
         {
-          "name": "Smith Westerns",
-          "url": "https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl"
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/7DQDpDeLVS3L9kgb6ejU3z"
+      "duration_ms": 164280,
+      "name": "Louder Than Ever",
+      "url": "https://open.spotify.com/track/5j08C17ks3onk4i4g7XRJi"
     }
   ],
   "unique_name": "Best of Indie 2010",

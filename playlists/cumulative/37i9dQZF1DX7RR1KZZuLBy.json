@@ -244,6 +244,24 @@
     },
     {
       "album": {
+        "name": "Victorious in His Presence",
+        "url": "https://open.spotify.com/album/0Zcuz4iyNg81kcMSY140p6"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
+        }
+      ],
+      "date_added": "2018-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486200,
+      "name": "He Keeps on Doing",
+      "url": "https://open.spotify.com/track/6bJ8juJI2o3zC85hDvbvc4"
+    },
+    {
+      "album": {
         "name": "Victorious in His Presence (Live)",
         "url": "https://open.spotify.com/album/4QykhBdI1H5g8dUYjmTBz0"
       },
@@ -255,7 +273,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 486200,
       "name": "He Keeps on Doing - Live",
       "url": "https://open.spotify.com/track/7MPTAGwPRQ4wymqL3pHD71"

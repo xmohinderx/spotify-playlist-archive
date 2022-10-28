@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Liam Doc\. Artwork: Rewina Beshue.
+> The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Loco & Jam\. Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,115 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,196 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Nether Portal](https://open.spotify.com/track/3B3K5bpuR3OmJ6o1PiVYbJ) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Monnaka](https://open.spotify.com/album/6uVXGsjE9C31ZQQEMTkGE4) | 6:18 |
 | 100 | [VINEGAR HILL](https://open.spotify.com/track/0QqIz4Ut84n1hEqcqn7HSN) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [BADBOI](https://open.spotify.com/album/3ucILeyhjCVjm9Uy6g9tNu) | 3:03 |
 
-Snapshot ID: `MTY2NjgwMTcwMywwMDAwMDAwMGYyOWU3M2QyMDg0OGIxOWI1NzQ5ZGU5NWZhNWJiZDBi`
+Snapshot ID: `MTY2Njg2NDM1OSwwMDAwMDAwMGJmZWRlZGUzZjI0M2Y5MTM4NTI3ZjQ5ZTE2MjUxODBk`

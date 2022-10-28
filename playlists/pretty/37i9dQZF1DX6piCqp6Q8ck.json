@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 73944,
+  "num_followers": 73976,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI2MjAxMiwwMDAwMDAwMGI1OTAyNmU2YjQxMGYwN2MxNzk2YTZlMjJkZjNhNzBl",
+  "snapshot_id": "MTY2NDI2MjAxMiwwMDAwMDAwMGY3ZjhhMGZkOTVhN2U0NzFiZGIwYmQ1YTYzYzVkODNh",
   "tracks": [
     {
       "added_at": "2022-09-27 07:00:12",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
-        "name": "Blue Christmas",
-        "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
+        "name": "Holidays Are Coming",
+        "url": "https://open.spotify.com/album/59CugdPue0ig1rBmTWJ2AB"
       },
       "artists": [
         {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
         }
       ],
-      "duration_ms": 210693,
-      "name": "Cool Yule",
-      "url": "https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9"
+      "duration_ms": 162333,
+      "name": "(Everybody's Waitin' For) The Man With The Bag - Remastered 1996",
+      "url": "https://open.spotify.com/track/3JTXadKmex4K0dSHCWZcLp"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
-        "name": "Holidays Are Coming",
-        "url": "https://open.spotify.com/album/59CugdPue0ig1rBmTWJ2AB"
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
       },
       "artists": [
         {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
         }
       ],
-      "duration_ms": 162333,
-      "name": "(Everybody's Waitin' For) The Man With The Bag - Remastered 1996",
-      "url": "https://open.spotify.com/track/3JTXadKmex4K0dSHCWZcLp"
+      "duration_ms": 210693,
+      "name": "Cool Yule",
+      "url": "https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -1003,6 +1003,34 @@
     {
       "added_at": "2022-09-27 07:00:12",
       "album": {
+        "name": "Hot Jazz for a Cool Night: A Jazz Christmas",
+        "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
+      },
+      "artists": [
+        {
+          "name": "Vincent Herring",
+          "url": "https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL"
+        },
+        {
+          "name": "Dave Birkman",
+          "url": "https://open.spotify.com/artist/4EfQMoNIcpy9wJDuCkYrzc"
+        },
+        {
+          "name": "Essiet Essiet",
+          "url": "https://open.spotify.com/artist/1gQ8mRcuJnb3j7CJpMMTDa"
+        },
+        {
+          "name": "Carl Allen",
+          "url": "https://open.spotify.com/artist/5ufrB7FmfeQ8whmRiRe9gF"
+        }
+      ],
+      "duration_ms": 312440,
+      "name": "O Come, All Ye Faithful",
+      "url": "https://open.spotify.com/track/1B0jJzbxFwEBrsfVKOlSfx"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
         "name": "Pretty/Groovy (Expanded Edition)",
         "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
       },
@@ -1048,34 +1076,6 @@
       },
       "artists": [
         {
-          "name": "Vincent Herring",
-          "url": "https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL"
-        },
-        {
-          "name": "Dave Birkman",
-          "url": "https://open.spotify.com/artist/4EfQMoNIcpy9wJDuCkYrzc"
-        },
-        {
-          "name": "Essiet Essiet",
-          "url": "https://open.spotify.com/artist/1gQ8mRcuJnb3j7CJpMMTDa"
-        },
-        {
-          "name": "Carl Allen",
-          "url": "https://open.spotify.com/artist/5ufrB7FmfeQ8whmRiRe9gF"
-        }
-      ],
-      "duration_ms": 312440,
-      "name": "O Come, All Ye Faithful",
-      "url": "https://open.spotify.com/track/1B0jJzbxFwEBrsfVKOlSfx"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
-        "name": "Hot Jazz for a Cool Night: A Jazz Christmas",
-        "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
-      },
-      "artists": [
-        {
           "name": "Vanguard Jazz Sextet",
           "url": "https://open.spotify.com/artist/5vAzmGwvrItLXbcCquKOQz"
         }
@@ -1083,26 +1083,6 @@
       "duration_ms": 294000,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/2uNFJN1qsfvZ3xepAGNoca"
-    },
-    {
-      "added_at": "2022-09-27 07:00:12",
-      "album": {
-        "name": "Joe Stilgoe's Christmas Album",
-        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
-      },
-      "artists": [
-        {
-          "name": "Joe Stilgoe",
-          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
-        },
-        {
-          "name": "Ben Castle",
-          "url": "https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Little White Berry",
-      "url": "https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt"
     },
     {
       "added_at": "2022-09-27 07:00:12",
@@ -1123,6 +1103,26 @@
       "duration_ms": 305666,
       "name": "The Last Day of the Year",
       "url": "https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp"
+    },
+    {
+      "added_at": "2022-09-27 07:00:12",
+      "album": {
+        "name": "Joe Stilgoe's Christmas Album",
+        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
+      },
+      "artists": [
+        {
+          "name": "Joe Stilgoe",
+          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
+        },
+        {
+          "name": "Ben Castle",
+          "url": "https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Little White Berry",
+      "url": "https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt"
     },
     {
       "added_at": "2022-09-27 07:00:12",

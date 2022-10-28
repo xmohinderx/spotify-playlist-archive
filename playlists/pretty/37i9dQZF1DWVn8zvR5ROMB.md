@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Scotty McCreery, Elle King, Spencer Crandall and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,922 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,044 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 20 | [Blood, Sweat, and Beers \(with Kidd G\)](https://open.spotify.com/track/0IT8OI2fZFTsgouLEbCLkh) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y), [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Hope for Tomorrow](https://open.spotify.com/album/6m5geZHkasXmHn3c4HsJmW) | 3:23 |
 | 21 | [Save the World](https://open.spotify.com/track/54jKxHZsv1bT64yTi2tE2o) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Save the World](https://open.spotify.com/album/4vcIoiu4R9VXbsZp8FDzvl) | 3:07 |
 | 22 | [The Bridge](https://open.spotify.com/track/7B8Yfy0Tc9EeSQz2nGts05) | [Lauren Duski](https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5) | [The Bridge](https://open.spotify.com/album/36ygMk0Pcj7cHyey6FZTNK) | 3:11 |
-| 23 | [Beer Ain't Gonna Drink Itself](https://open.spotify.com/track/4DqZgqdQ1LFum4HmDxH6Ux) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A \(Deluxe Edition\)](https://open.spotify.com/album/0e2HvSY4ODbhzzA1DJIKgz) | 3:33 |
+| 23 | [Beer Ain't Gonna Drink Itself](https://open.spotify.com/track/4DqZgqdQ1LFum4HmDxH6Ux) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son of a \(Deluxe Edition\)](https://open.spotify.com/album/0e2HvSY4ODbhzzA1DJIKgz) | 3:33 |
 | 24 | [Hey Cowboy](https://open.spotify.com/track/5FfgLIooERZ7rcNcwxAcdF) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Hey Cowboy](https://open.spotify.com/album/17wY9BVWaZncYiZBleCcJX) | 3:07 |
 | 25 | [Better on a Backroad \(feat\. Taylor Ray Holbrook\)](https://open.spotify.com/track/6Wd46xtqa9ZkQEPm6rufnc) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI) | [Better on a Backroad \(feat\. Taylor Ray Holbrook\)](https://open.spotify.com/album/6uzc21W0gGM38HmicaYHxl) | 3:45 |
 | 26 | [Fire in the Ocean](https://open.spotify.com/track/7EYcaTSpXviHo3VVOPxbT4) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Fire in the Ocean](https://open.spotify.com/album/7oxHI9icBzcPOsAYA0a7g4) | 3:58 |

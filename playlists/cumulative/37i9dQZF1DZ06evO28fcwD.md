@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-107 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/24imJLVW9FZTNmf0BSg9VS)
+108 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/24imJLVW9FZTNmf0BSg9VS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Lungisa Indlela Yakho \(The Path Is Clear\)](https://open.spotify.com/track/3bPEJki9i3Q6KcAcar5NS1) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Inkanyezi Nezazi](https://open.spotify.com/album/4P7GY4C1i5T2yCHAZh6xPJ) | 3:47 | 2022-10-11 | 2022-10-13 |
 | [Mavungangidluli Jesu](https://open.spotify.com/track/0zE8Rsb271BUh8mLwA3xrQ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ukusindiswa](https://open.spotify.com/album/4tGHNw6RoB8XZ7Swm9L9Yi) | 3:07 | 2021-12-29 | 2022-09-16 |
 | [Mbube \(The Lion Sleeps Tonight\)](https://open.spotify.com/track/3T9NzoLzJZH801UAzGR3rl) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Gift Of The Tortoise: A Musical Journey Through Southern Africa](https://open.spotify.com/album/7BvcUSWIg6eH89Gy5qHZEe) | 3:10 | 2021-12-28 | 2022-06-10 |
-| [Mbube \(Wimoweh\)](https://open.spotify.com/track/42puzIUfTXWBx5CBGIY07j) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw) | 3:01 | 2022-10-01 |  |
+| [Mbube \(Wimoweh\)](https://open.spotify.com/track/08NFba3Px3Oy2AvX5vOtyG) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:01 | 2022-10-27 |  |
+| [Mbube \(Wimoweh\)](https://open.spotify.com/track/42puzIUfTXWBx5CBGIY07j) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw) | 3:01 | 2022-10-01 | 2022-10-28 |
 | [Mining Song](https://open.spotify.com/track/3daDQZZ0pbqL2UBhirffJs) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [World Music](https://open.spotify.com/album/1RZzCdUCiKDMwJFTl3WmSH) | 5:17 | 2021-12-28 | 2022-10-13 |
 | [Music Knows No Boundaries](https://open.spotify.com/track/2Qls7UNIdeX6Q8NsVjdRkW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wenyukela](https://open.spotify.com/album/01mREYanm3BcYGkUlW8CeX) | 3:03 | 2021-12-28 | 2022-10-06 |
 | [Music Knows No Boundaries](https://open.spotify.com/track/3hNFU3wSvNgSENBnsfmp7u) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw) | 3:03 | 2022-10-05 | 2022-10-21 |

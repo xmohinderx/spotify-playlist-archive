@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-444 songs - 1 day 1 hr 4 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
+445 songs - 1 day 1 hr 9 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [Modus](https://open.spotify.com/track/3bPAEgGdK9FyXM1HVFb9ub) | [Android52](https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG) | [Future Groove Product](https://open.spotify.com/album/10pbAphezzKrxAPk4G9OSf) | 4:52 | 2022-01-25 | 2022-04-16 |
 | [Mono](https://open.spotify.com/track/7rs3NuYZ7uQlEISOEKEu5x) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Mono](https://open.spotify.com/album/5kqOnB2l0sCByH4Makzsbn) | 3:07 | 2021-12-08 | 2022-07-26 |
 | [Mono \- Remix](https://open.spotify.com/track/557jUql0HOowUJNOeH2Dpv) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO), [MORLO](https://open.spotify.com/artist/29sJuUxrwcoScHDr2BMaDV) | [Mono \(Remix\)](https://open.spotify.com/album/20nZith2DuaQrq5XxBc40N) | 2:56 | 2022-01-25 | 2022-07-04 |
-| [Monstruo Japonés](https://open.spotify.com/track/7dlwjYsVBalCrf1ko5nFuG) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv), [Rubimente](https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4), [Schizo Forg](https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0) | [Monstruo Japonés](https://open.spotify.com/album/5evm2YJRYg9uTzqr21zic2) | 4:10 | 2022-08-12 |  |
+| [Monstruo Japonés](https://open.spotify.com/track/7dlwjYsVBalCrf1ko5nFuG) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv), [Rubimente](https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4), [Schizo Forg](https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0) | [Monstruo Japonés](https://open.spotify.com/album/5evm2YJRYg9uTzqr21zic2) | 4:10 | 2022-08-12 | 2022-10-28 |
 | [Moonside](https://open.spotify.com/track/6fWWJ80UqYqVY2y9Acy2uz) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [Hanari](https://open.spotify.com/artist/7hpRguUPbso7J2WtKqX4aK), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [Moonside](https://open.spotify.com/album/2EOR7Yb1vYdtFk4jl9ckir) | 2:54 | 2022-06-08 | 2022-07-27 |
 | [Morale](https://open.spotify.com/track/7AOTewkdVbkiA8Um32t58A) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [Morale](https://open.spotify.com/album/1azX1aHJrqVGWqikHgXsRY) | 3:18 | 2021-12-08 | 2022-07-29 |
 | [Need Somebody](https://open.spotify.com/track/6MBojwg01wXb54WWeIBa5A) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Yacht World](https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX) | 2:08 | 2022-06-01 |  |
@@ -278,6 +278,7 @@
 | [No Team](https://open.spotify.com/track/6a7iXxhsrpVdvgTEuC7sOp) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [The Nonanonalbum](https://open.spotify.com/album/2Ui7iX7QECwq2WBNWnCWTu) | 3:36 | 2022-01-25 | 2022-07-27 |
 | [Nostalgic Love](https://open.spotify.com/track/03xrLbDBTxLPrJqM3RhIZd) | [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [NeoGeo FM](https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2) | 2:50 | 2022-07-15 | 2022-08-25 |
 | [NOTFAIR](https://open.spotify.com/track/1goU1eKM9JG3Jmru219zDG) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [HANDZ](https://open.spotify.com/album/1xJmZFeiff6jrbTTJjKCSQ) | 4:40 | 2021-12-08 | 2022-10-22 |
+| [NOTFAIR](https://open.spotify.com/track/3nUNXXdCDSEtaSVqU9xgf6) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [HANDZ](https://open.spotify.com/album/6Ezo4A6I3ALOQb3IFGwmnu) | 4:40 | 2022-09-16 |  |
 | [Nouvel Élan](https://open.spotify.com/track/5iSQMwkqGNq984To7bm4vw) | [FIBRE](https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4) | [Fibre 2014 \- 2016](https://open.spotify.com/album/4AtGiCzzpR9ROkfFOrcvkS) | 3:07 | 2022-04-12 | 2022-06-04 |
 | [Now That You're Leaving Me](https://open.spotify.com/track/363FIsejJPLxyngePklnKA) | [ED.](https://open.spotify.com/artist/2WvX9OTkNK2OI2gkj3y7YM) | [Now That You're Leaving Me](https://open.spotify.com/album/4TUqjv8Z9P9aANCsqYouq7) | 3:14 | 2022-09-16 |  |
 | [Nu Diskette](https://open.spotify.com/track/2xrAAZfTpQAFTHQOdXvqse) | [DUCAT](https://open.spotify.com/artist/4ADZvJH9oSDFHFGkwWGGGD) | [Nu Diskette](https://open.spotify.com/album/0V1oj9EyrtlzLv8B9zAQvX) | 3:28 | 2022-04-12 | 2022-04-21 |

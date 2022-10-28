@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,409 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,474 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 105 | [Django and Jimmie](https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Django and Jimmie](https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG) | 2:53 |
 | 106 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Heartaches & Highways: The Very Best of Emmylou Harris](https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf) | 3:33 |
 | 107 | [Brothers](https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Rifles and Rosary Beads](https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC) | 2:50 |
-| 108 | [All The Trouble](https://open.spotify.com/track/5X1yXxosU8i4nJIwDcvRFd) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP) | 5:41 |
-| 109 | [Jerusalem](https://open.spotify.com/track/3r01IuS9w8YHXg75zlKBu5) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Jerusalem](https://open.spotify.com/album/2alDoMx3PMJpXAnWAfRLrs) | 3:56 |
+| 108 | [Jerusalem](https://open.spotify.com/track/3r01IuS9w8YHXg75zlKBu5) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Jerusalem](https://open.spotify.com/album/2alDoMx3PMJpXAnWAfRLrs) | 3:56 |
+| 109 | [All The Trouble](https://open.spotify.com/track/5X1yXxosU8i4nJIwDcvRFd) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP) | 5:41 |
 | 110 | [Moonshiner](https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 4:23 |
 | 111 | [I Contain Multitudes](https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Contain Multitudes](https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV) | 4:36 |
 | 112 | [Hold My Hand](https://open.spotify.com/track/5bSiS7Kx4rZHdddn0XivEb) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [12 Stories](https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz) | 3:36 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 115 | [Time After Time \- Live from Spotify NYC](https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Spotify Sessions](https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf) | 5:29 |
 | 116 | [If We Don't \(with Alison Krauss\) \- from the Dumplin' Original Motion Picture Soundtrack](https://open.spotify.com/track/6XZFRtDF6VB7FeFQzZ0UWG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Dumplin' Original Motion Picture Soundtrack](https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO) | 2:28 |
 | 117 | [I Shall Not Be Moved \(with Francesco Turrisi\)](https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 4:58 |
-| 118 | [Everything's Gonna Be Alright](https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5) | [Paul Thorn](https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ) | [Too Blessed to Be Stressed](https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p) | 4:44 |
-| 119 | [Tecumseh Valley \- Live](https://open.spotify.com/track/1vYY7pi267AR3t2rmAxMgv) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter, Houston, Texas](https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC) | 4:30 |
+| 118 | [Tecumseh Valley \- Live](https://open.spotify.com/track/1vYY7pi267AR3t2rmAxMgv) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter, Houston, Texas](https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC) | 4:30 |
+| 119 | [Everything's Gonna Be Alright](https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5) | [Paul Thorn](https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ) | [Too Blessed to Be Stressed](https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p) | 4:44 |
 | 120 | [This Will Be Our Year](https://open.spotify.com/track/5iE2kyAuiDrn7khi32V40n) | [Kelly Willis & Bruce Robison](https://open.spotify.com/artist/066FXEfKDbfynlPxfU7T6s) | [Our Year](https://open.spotify.com/album/2feLXfmJaUiM4qicQmrxYw) | 2:22 |
 | 121 | [Rock Island Line](https://open.spotify.com/track/4ngwge7Of6xRIdmqMHZoxb) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Shine a Light: Field Recordings from the Great American Railroad](https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz) | 2:55 |
 | 122 | [Reverie](https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Electro Melodier](https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS) | 3:35 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [Sweet Lucinda](https://open.spotify.com/track/6EMOrIVN27rTNUYn7z15OG) | [Gibson Brothers](https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV) | [Mockingbird](https://open.spotify.com/album/3pOyPju6tohsVyMsnkyyQ2) | 2:45 |
 | 150 | [Learning How to Live Alone](https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [Killin' Uncle Buzzy](https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l) | 4:06 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDcwZjJhNTZiZGM3MTQzY2Q2YWQyY2I5ZDI1ZDI0OThj`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDJkMzFmZmNhNTdiOWQ3MDJkOGFmOWY0OTUwMjQ2Mjgz`

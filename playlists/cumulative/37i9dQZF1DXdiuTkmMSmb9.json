@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tropical jams to catch a vibe and whine to. Cover: Oxlade",
+  "description": "Tropical jams to catch a vibe and whine to. Cover: Wizkid",
   "name": "Afro Fusion",
   "published_playlist_ids": [
     "1ArHPlQ8o3lzkRSvom6Xc2"
@@ -256,7 +256,7 @@
     },
     {
       "album": {
-        "name": "Back In Uni",
+        "name": "BACK IN UNI",
         "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
       },
       "artists": [
@@ -273,7 +273,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 150857,
-      "name": "Back In Uni",
+      "name": "BACK IN UNI",
       "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
     },
     {
@@ -538,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/7pcYv7Nvls8lrZyCzVHHjq"
+      },
+      "artists": [
+        {
+          "name": "Joanny",
+          "url": "https://open.spotify.com/artist/7mNtIw5k6cbKytRLhPIye2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/17CX4RtACoNNYfq7sk8QTf"
+    },
+    {
+      "album": {
         "name": "Calm Down",
         "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
       },
@@ -761,7 +779,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 211764,
       "name": "Finesse - feat. BNXN, PANIA & Kedus",
       "url": "https://open.spotify.com/track/3EDzIGK8XRqX93d8WmdBDD"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 196153,
       "name": "Gucci & Prada",
       "url": "https://open.spotify.com/track/75Wm9MklupjKJBBPTMNVf3"
@@ -1361,7 +1379,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 348106,
       "name": "ISoft Life",
       "url": "https://open.spotify.com/track/1KMdsn40pcqhQcDmWW8rUg"
@@ -1815,7 +1833,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 180571,
       "name": "Masala",
       "url": "https://open.spotify.com/track/01edOubcjFt0LAqJtwaG93"
@@ -1903,6 +1921,24 @@
       "duration_ms": 212975,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
+    },
+    {
+      "album": {
+        "name": "Money & Love",
+        "url": "https://open.spotify.com/album/1a936IexPb6wtpMlymctZz"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191505,
+      "name": "Money & Love",
+      "url": "https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu"
     },
     {
       "album": {
@@ -2085,7 +2121,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 246579,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/3k3SG1f3RYeizBlIFo6CGl"
@@ -2137,7 +2173,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 237480,
       "name": "Nice (feat. Blxst)",
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
@@ -2173,7 +2209,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 258746,
       "name": "No Time To Waste",
       "url": "https://open.spotify.com/track/12smK0BtIgegD4dOysc9nd"
@@ -2359,7 +2395,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 192000,
       "name": "OT",
       "url": "https://open.spotify.com/track/77JvN2qVTXH7NwHO581i5F"
@@ -2545,7 +2581,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 208039,
       "name": "Prada",
       "url": "https://open.spotify.com/track/3exazfhwOkM7KazLYFHi4V"
@@ -3335,7 +3371,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 217263,
       "name": "To The Beach",
       "url": "https://open.spotify.com/track/2JBKNjD8GcbRTg8otsCWm0"
@@ -3701,7 +3737,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 168742,
       "name": "woman",
       "url": "https://open.spotify.com/track/3AUW4YqukPw4YfBV1ZkkNe"

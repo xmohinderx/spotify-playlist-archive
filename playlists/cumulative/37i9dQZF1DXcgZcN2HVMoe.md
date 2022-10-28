@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-661 songs - 1 day 15 hr 29 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
+662 songs - 1 day 15 hr 33 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Count On Me \(Alt\. Version\)](https://open.spotify.com/track/59qgTMCf7xt5HECdmYkQsN) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Count On Me \(Alt\. Version\)](https://open.spotify.com/album/6ivjtNTiHtxtjruHX1BJLp) | 3:04 | 2021-12-17 | 2022-07-11 |
 | [cover girl \- autumn](https://open.spotify.com/track/3QSFvMlRODYxTKeMP3I0VM) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [cover girl \(autumn\)](https://open.spotify.com/album/2TfdtsJVEAkip8ftIeLe05) | 3:21 | 2021-12-17 | 2022-04-21 |
 | [Cups and Balloons](https://open.spotify.com/track/72TIFgfDu1MLMuDAfuUgu8) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cups and Balloons](https://open.spotify.com/album/5NuQaD1CXWZq2RfnFQphIG) | 4:04 | 2022-01-24 | 2022-04-21 |
-| [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 | 2022-07-22 | 2022-10-25 |
+| [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 | 2022-07-22 |  |
 | [Dakota](https://open.spotify.com/track/6zUVhz0qHuwtZETMf7vgUT) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/5veDybiqNFwSXdDtheoXDD) | 4:54 | 2021-12-17 | 2022-07-29 |
 | [Dance With Me](https://open.spotify.com/track/1GqkGxG9T904AiKa6VgdRn) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [Dance With Me](https://open.spotify.com/album/3jondhdBF68JYenWMCIOI4) | 3:25 | 2021-12-17 | 2022-07-29 |
 | [Daylight](https://open.spotify.com/track/0cVrv8dZAhs19LKGX61EvS) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Daylight](https://open.spotify.com/album/3NdmyGu5zVDaihh0BGFnNx) | 3:52 | 2022-01-24 | 2022-04-06 |
@@ -238,7 +238,7 @@
 | [Happy Anniversary, Stranger](https://open.spotify.com/track/2PfEJ9Iqa0HU5Nw5iwXTmq) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:54 | 2021-12-17 | 2022-04-18 |
 | [Happy Just to Know](https://open.spotify.com/track/1tGsl5f0Va7h9IMKEcbVlF) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Happy Just to Know](https://open.spotify.com/album/1xFCOwSpgD2uYcJGTdPdcN) | 3:24 | 2021-12-17 | 2022-04-22 |
 | [Haunted House](https://open.spotify.com/track/4vNxFySlHhuWuxOHvphZuP) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Haunted House](https://open.spotify.com/album/35Qo3iBJ04Num2L8NCOJWz) | 2:13 | 2021-12-17 | 2022-05-21 |
-| [Haunted House](https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 2:13 | 2022-07-22 |  |
+| [Haunted House](https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 2:13 | 2022-07-22 | 2022-10-28 |
 | [Headlights](https://open.spotify.com/track/6PLllSULxhWMcitreJ2isg) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [EVERYTHING&NOTHING](https://open.spotify.com/album/4euXrvF9jz7KK7nFyn90gC) | 2:46 | 2022-07-22 |  |
 | [Headlights](https://open.spotify.com/track/6dyCbIxeynWnHjxNMe2B9M) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [Everything&Nothing](https://open.spotify.com/album/0BtOID4IhQFeaiYTAwn3Gj) | 2:46 | 2021-12-17 | 2022-07-28 |
 | [Headphones](https://open.spotify.com/track/07YRZrOmEGdDicx0YziCPf) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Headphones](https://open.spotify.com/album/57vIjEzVyQAutIjchCgzxn) | 3:24 | 2021-12-17 | 2022-07-28 |
@@ -592,7 +592,8 @@
 | [Thinking of Me](https://open.spotify.com/track/7gXTJiXy2V4wC3BIUKJOsB) | [Cole Scheifele](https://open.spotify.com/artist/1uniPagcRIJmHSFLs5uhj7), [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl) | [Thinking of Me](https://open.spotify.com/album/7aI9Ra1RmKCZmr4w6BdU8p) | 3:08 | 2021-12-17 | 2022-06-10 |
 | [This Kind of Heavy](https://open.spotify.com/track/76HaJZDcYz8XImloe0CaPD) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [The Water](https://open.spotify.com/album/2Jp6BncvrazEkpX1CUn1OW) | 3:42 | 2022-01-24 | 2022-04-21 |
 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 | 2021-12-17 |  |
-| [Through The Echoes](https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Through The Echoes / Lose It](https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC) | 3:41 | 2022-06-08 |  |
+| [Through The Echoes](https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Through The Echoes / Lose It](https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC) | 3:41 | 2022-06-08 | 2022-10-28 |
+| [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 | 2022-07-29 |  |
 | [Thumbs](https://open.spotify.com/track/0mRcrW5I1FIf7Ryv3KBcCr) | [Zander Hawley](https://open.spotify.com/artist/0lfHZCO5590Y3vuuNEXcwZ) | [Thumbs](https://open.spotify.com/album/4vlNZYQOuPR57SatL0VD54) | 4:33 | 2021-12-17 | 2022-07-27 |
 | [Tiger Lilies](https://open.spotify.com/track/3UTtblnDHe2GOuP3Pil8MV) | [Sun On Shade](https://open.spotify.com/artist/7uYtZH0hRJ7VwvaSCiQpFX), [Lloyd Buchanan](https://open.spotify.com/artist/7jO0KHj4AAwPxABUWH9bD4) | [Sun On Shade](https://open.spotify.com/album/3dOOK4Lw9War8p8WA15P2E) | 5:07 | 2021-12-17 |  |
 | [Times Like This](https://open.spotify.com/track/1YldiVKQnq52Y0PeZn94Y4) | [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [Times Like This](https://open.spotify.com/album/0gM1g36RKnxNL66a5OmtXM) | 4:07 | 2021-12-17 | 2022-07-29 |

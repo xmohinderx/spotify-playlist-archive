@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> bringing the punk home with when we were young festival ⛓ cover: Royal & The Serpent
+> bringing the punk home with when we were young festival ⛓ cover: royal & the serpent
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,455 likes - 62 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,584 likes - 62 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 61 | [Walk Like A Zombie](https://open.spotify.com/track/0F56U0Bvvjh0QcqG21USyO) | [Horrorpops](https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ) | [Bring It On!](https://open.spotify.com/album/3erS3yV4uzIgJlJgmQUVJQ) | 4:07 |
 | 62 | [hey prentiss](https://open.spotify.com/track/2mIW33L1ycl9oqBAlkmO7l) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hey prentiss](https://open.spotify.com/album/38KlL9hDNslKeFJ2A0pKXC) | 2:11 |
 
-Snapshot ID: `MTY2NjgyNTIwMCwwMDAwMDAwMDFjNjM4Mzg0MTg5OTczODA2MjM3ZDM5ZmQ3OTI4YzEz`
+Snapshot ID: `MTY2NjkwNTIxMCwwMDAwMDAwMDQ0MmRiN2U2YWIxMmE0OWNjZTA4ZGJkNjBlMzMxMTM5`

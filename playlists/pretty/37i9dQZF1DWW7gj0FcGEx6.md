@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,896 likes - 109 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,999 likes - 109 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 3 | [Khazad\-dûm](https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:20 |
 | 4 | [The Kingdom of Dreams \(Main Title Theme\)](https://open.spotify.com/track/7z5VsNMFFsAufyFUhC0UDo) | [David Buckley](https://open.spotify.com/artist/4XPIcwAIeDGi8lNDSbnGaT) | [The Sandman: Season 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4wHeGUGaQcDQLKcNxuVyDu) | 2:14 |
 | 5 | [The Frozen Planet \- From Frozen Planet II](https://open.spotify.com/track/3Jqj5iGN9OeK6aTJhjKSEA) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Adam Lukas](https://open.spotify.com/artist/4E39NH9eiLP3IMISn28wCd), [James Everingham](https://open.spotify.com/artist/2gn4jnqcC9yMXt6433gleQ), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Frozen Planet \(From Frozen Planet II\)](https://open.spotify.com/album/4KkII36tTfopBWuElxzaQt) | 4:23 |
-| 6 | [The Prince That Was Promised \(from "House of the Dragon"\)](https://open.spotify.com/track/4PJXXyHln0QBOir9G0GTtM) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [The Prince That Was Promised \(from "House of the Dragon"\)](https://open.spotify.com/album/43fIo5bKCsGrhWkSaTAPCj) | 4:34 |
+| 6 | [The Prince That Was Promised \(from "House of the Dragon"\)](https://open.spotify.com/track/5HSQJnJ9Y2yjI9Y2oX6sgl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 4:34 |
 | 7 | [Main Titles](https://open.spotify.com/track/0HY36x94MbEBf0ZNw0eHsP) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Doctor Strange in the Multiverse of Madness \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QDzfMs8x9fkS8vYOKnhfM) | 2:36 |
 | 8 | [Amsterdam \(Ending\)](https://open.spotify.com/track/739N66ZkmRHrLdiLNA2qe3) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Amsterdam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3buBOPR7JMvIlCvoAmUACa) | 5:25 |
 | 9 | [Mama's Got a Brand New Hammer \- From "Thor: Love and Thunder"](https://open.spotify.com/track/4SIfcQHmeKQ7F3K6Tbz5gK) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Mama's Got a Brand New Hammer \(From "Thor: Love and Thunder"\)](https://open.spotify.com/album/5aO8YZeagny83StfnND4jG) | 6:08 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 108 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 |
 | 109 | [Reforestation \(Episode 5 \- Humans\)](https://open.spotify.com/track/0QFSpWrKKRynhxif8HBABr) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [A Perfect Planet \(Soundtrack from the BBC Series\)](https://open.spotify.com/album/3ZJ14xDvYx604elVWCipDz) | 1:40 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDIxYmFjY2Q1ZmVmYzdiODViYjZkOWU0ZTExODYzOTYw`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDdmMzcxOGUwYzZmN2VkY2U1MDgzMzRkODdiNDU0MGI3`

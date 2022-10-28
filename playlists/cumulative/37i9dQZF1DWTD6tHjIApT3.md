@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: iri
 
-824 songs - 2 day 6 hr 18 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+825 songs - 2 day 6 hr 21 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [intersolid](https://open.spotify.com/track/21gAd3WVNMqP0mSaM04CdZ) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [intersolid](https://open.spotify.com/album/31BTiDOOBfmQldZdl6vQgz) | 3:54 | 2022-05-31 | 2022-07-29 |
 | [Interview](https://open.spotify.com/track/5BWn5PRAZMrynehQkByaCU) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 2:52 | 2022-08-18 | 2022-08-24 |
 | [Into the land of Mystery](https://open.spotify.com/track/0Hdp8qkgSCBTldSvIEgFLb) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:01 | 2022-08-18 | 2022-08-24 |
+| [ira](https://open.spotify.com/track/7AwHsYxLFMFrrpU7ykqfWJ) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [ira](https://open.spotify.com/album/71VtyqcUwda8LRXpHzr44W) | 3:02 | 2022-10-27 |  |
 | [ISOGA♡PEACH](https://open.spotify.com/track/2rUXvoihe7UXWbHogW3xNs) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [gokigen](https://open.spotify.com/album/4vNzwzawCSP3840t0wVEdE) | 2:53 | 2022-05-31 | 2022-08-18 |
 | [It might be right](https://open.spotify.com/track/63VjD0uUhIEAiYRvJwKoAT) | [Looisbos](https://open.spotify.com/artist/4vjWfRqGyeAvJ9LZQPRECH) | [It might be right](https://open.spotify.com/album/5pv3ynvQu5MSo80a2k8Cgl) | 3:05 | 2022-08-23 | 2022-08-31 |
 | [It's a Shame](https://open.spotify.com/track/3cJdbYNhTP0M1S39TE3HSQ) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [Hanah Spring](https://open.spotify.com/artist/4XFD2JYE1YxL1pmuigIb7s) | [I Want You / It's a Shame](https://open.spotify.com/album/2GXHmukXmPrIbESzJv4ZXm) | 4:26 | 2022-06-02 | 2022-06-05 |
@@ -399,7 +400,7 @@
 | [Uzu](https://open.spotify.com/track/08GT2hFx15OtWBQ1s0PJNN) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [Uzu](https://open.spotify.com/album/2CUfYSaTdq99eLf6MQOEQS) | 3:46 | 2022-05-31 | 2022-06-09 |
 | [Victim of Love \- feat\. Taka](https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 3:55 | 2022-05-29 |  |
 | [VL](https://open.spotify.com/track/2JhIVaurcN0rafi4UR6TH3) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [VL](https://open.spotify.com/album/7AoX5wN5B336nAV9S8gOQM) | 3:03 | 2022-06-21 | 2022-06-29 |
-| [Voice](https://open.spotify.com/track/3kpvLEb1RrLPRwtuzS15u1) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Voice](https://open.spotify.com/album/4klegJeSCAMEI1FjRvPcLs) | 4:41 | 2022-05-29 |  |
+| [Voice](https://open.spotify.com/track/3kpvLEb1RrLPRwtuzS15u1) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Voice](https://open.spotify.com/album/4klegJeSCAMEI1FjRvPcLs) | 4:41 | 2022-05-29 | 2022-10-28 |
 | [VOWS](https://open.spotify.com/track/5PfcyDudU3anlUOx7dJ9zB) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [VOWS](https://open.spotify.com/album/53bq6nzzOgex7M18gDwKTO) | 4:04 | 2022-06-14 | 2022-07-13 |
 | [Wake Me Up](https://open.spotify.com/track/3mZG0NNBN5Qq75uzqKgMMO) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Wake Me Up](https://open.spotify.com/album/6xJFirsM4D5bLB4K99N6Ag) | 3:26 | 2022-05-29 | 2022-07-29 |
 | [WALK,WALK,WALK!](https://open.spotify.com/track/2A1Ik2CCuE712ltNtwy15b) | [THE FOWLS](https://open.spotify.com/artist/7p01AAKqjfwbZIXxg3OEQ2) | [WALK,WALK,WALK!](https://open.spotify.com/album/0O2J5dgMViRQjJvP7MOnlz) | 4:48 | 2022-10-04 | 2022-10-12 |
@@ -814,7 +815,7 @@
 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 | 2022-05-29 |  |
 | [雨 \[feat\. \(sic\)boy\]](https://open.spotify.com/track/1kiDe0vgBTCTUy26X8bKDj) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [雨 \[feat\. \(sic\)boy\]](https://open.spotify.com/album/1P9KiA8V5mnVYRHmtOA8Fy) | 6:21 | 2022-05-31 | 2022-08-04 |
 | [雨夜の星](https://open.spotify.com/track/6sx6PoQKn1AWzNg6J9AB5U) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9) | [雨夜の星](https://open.spotify.com/album/1hondHlnVapxbGOiX6wT1H) | 6:17 | 2022-06-07 | 2022-07-21 |
-| [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 | 2022-05-29 |  |
+| [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 | 2022-05-29 | 2022-10-28 |
 | [電源](https://open.spotify.com/track/0xTe1EdbvOcB7uFRfGLcgL) | [中野ミホ](https://open.spotify.com/artist/1VGKPNzzfAx82OG0sWXtLS) | [電源](https://open.spotify.com/album/3J2JtTkXqw0j4FGi3d7272) | 4:06 | 2022-07-26 | 2022-08-03 |
 | [青い理想郷 \(feat\. 春茶\)](https://open.spotify.com/track/52sa2Yllu0MIq2SFKRNIbc) | [美的計画](https://open.spotify.com/artist/4hiUgGl5CgLqYUWDTIjlnC), [Harucha](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs) | [青い理想郷 \(feat\. 春茶\)](https://open.spotify.com/album/7CyfZA6EpaopCgBggVu7KB) | 4:09 | 2022-05-31 | 2022-07-15 |
 | [青山Killer物語 \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/03eu5QoG6mWFvdu3IOCmHp) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [RA MU \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/7Dre4HkNvQhl8diVNQugD0) | 5:02 | 2022-10-06 | 2022-10-08 |

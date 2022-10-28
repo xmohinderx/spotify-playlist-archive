@@ -2,7 +2,7 @@
 
 ### [Bass Lounge](https://open.spotify.com/playlist/37i9dQZF1DWX8l0PIEOYVj)
 
-> Future & melodic bass\. Cover: HALIENE.
+> Future & melodic bass\. Cover: Awakend.
 
 268 songs - 16 hr 12 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
 

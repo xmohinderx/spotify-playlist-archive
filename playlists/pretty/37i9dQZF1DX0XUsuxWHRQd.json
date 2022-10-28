@@ -1,12 +1,12 @@
 {
   "description": "New music from Lil Uzi Vert, Roddy Ricch and A Boogie Wit da Hoodie.",
-  "num_followers": 14731929,
+  "num_followers": 14734915,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjY2MzA0OSwwMDAwMDAwMDkxNTgyMzdjYzc3MWQyYTk4YzkxYzU0ZDRlY2ZmZjFj",
+  "snapshot_id": "MTY2Njg0NzMzOSwwMDAwMDAwMGJiNjM5YWU4ZjFlODg3YWQ3YWI1YTRjNjBlZmUyMGE1",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -163,6 +163,22 @@
       "duration_ms": 166039,
       "name": "Walk",
       "url": "https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP"
+    },
+    {
+      "added_at": "2022-10-27 05:08:59",
+      "album": {
+        "name": "Dreams and Nightmares (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Dreams and Nightmares",
+      "url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U"
     },
     {
       "added_at": "2022-10-21 04:00:00",

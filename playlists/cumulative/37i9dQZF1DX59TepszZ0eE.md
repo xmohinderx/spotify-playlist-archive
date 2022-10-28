@@ -4,7 +4,7 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=30kKyVSiQHO0XN\_Fsd07xA">Benjamin Dube</a>
 
-76 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/1ZMetk2R7ibX8I08siiaLQ)
+77 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/1ZMetk2R7ibX8I08siiaLQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 | 2020-04-13 |  |
 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 | 2019-08-19 |  |
 | [Yibanathi](https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Yibanathi](https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm) | 5:07 | 2020-07-13 |  |
-| [Yiwo Lawa Amandla \- Live](https://open.spotify.com/track/55jg7cLwPqviukIJ5l9Jg5) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Mandla Tshabalala](https://open.spotify.com/artist/5WjrNT5ivnPHMPMPowIFFm), [House of Grace Choir](https://open.spotify.com/artist/16EVGD7dtcBHbkDPS1oItu) | [Victorious in His Presence \(Live\)](https://open.spotify.com/album/4QykhBdI1H5g8dUYjmTBz0) | 8:28 | 2019-10-28 |  |
+| [Yiwo Lawa Amandla](https://open.spotify.com/track/0TlaxuJDdtZuTnTjgkNzEa) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Mandla Tshabalala; House of Grace Choir](https://open.spotify.com/artist/2ahSbEy0lmfTqf1iK3kQrU) | [Victorious in His Presence](https://open.spotify.com/album/0Zcuz4iyNg81kcMSY140p6) | 8:28 | 2019-10-28 |  |
+| [Yiwo Lawa Amandla \- Live](https://open.spotify.com/track/55jg7cLwPqviukIJ5l9Jg5) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Mandla Tshabalala](https://open.spotify.com/artist/5WjrNT5ivnPHMPMPowIFFm), [House of Grace Choir](https://open.spotify.com/artist/16EVGD7dtcBHbkDPS1oItu) | [Victorious in His Presence \(Live\)](https://open.spotify.com/album/4QykhBdI1H5g8dUYjmTBz0) | 8:28 | 2019-10-28 | 2022-10-28 |
 | [You Are \- Live](https://open.spotify.com/track/6Ez80l5EUlu2DrjsNdxLTo) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You Are \(Live\)](https://open.spotify.com/album/7dw3lt5NxWooPoTPJBi1es) | 6:37 | 2020-05-21 |  |
 | [You Deserve It](https://open.spotify.com/track/2bpHQbGBRy1qoRRCmYhD5J) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [You Deserve It](https://open.spotify.com/album/56kZ4Ecv5uLYBpwwCsImma) | 9:56 | 2022-04-14 |  |
 | [You Fight for Me](https://open.spotify.com/track/0CxIQOBPmOqPrKyspAc78m) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [You Fight for Me](https://open.spotify.com/album/1QbjMiY42plzk741oVrGS6) | 4:39 | 2020-02-13 |  |

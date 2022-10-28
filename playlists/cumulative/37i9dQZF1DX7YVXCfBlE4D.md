@@ -4,7 +4,7 @@
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-326 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/397jGpRsbRdsmrqQjQPUxi)
+327 songs - 16 hr 7 min - [published](https://open.spotify.com/playlist/397jGpRsbRdsmrqQjQPUxi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Aquellos Ojos Verdes](https://open.spotify.com/track/340Qeg5Z8kGkMlJ8u6DL4D) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ibrahim Ferrer \(Buena Vista Social Club presents\)](https://open.spotify.com/album/27HNh1cyB39ERqdpSjM2i1) | 4:54 | 2021-05-15 | 2022-07-29 |
 | [Aquellos Ojos Verdes](https://open.spotify.com/track/6QTsakwuxHCS58zrmWVQ8M) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU) | 4:54 | 2022-01-21 |  |
 | [Aquellos Ojos Verdes](https://open.spotify.com/track/3qvGMBkSq0m13UnvjMp6wO) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [45 Años Cantandole a los Inutiles](https://open.spotify.com/album/5Y5GjpS87Z0EaoVWb5uOSL) | 3:06 | 2021-05-15 | 2022-01-22 |
-| [As de corazones](https://open.spotify.com/track/2FDxVkfyoolaz19xOwCsW9) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Peerless 80 Aniversario \- 24 Inolvidables](https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO) | 2:51 | 2021-05-15 |  |
+| [As De Corazones](https://open.spotify.com/track/7DCsnZhFAtYRpTY2gRrEEJ) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Te Quiero](https://open.spotify.com/album/01TFuuvyMgVAuEvYFfDwwa) | 2:49 | 2022-01-21 |  |
+| [As de corazones](https://open.spotify.com/track/2FDxVkfyoolaz19xOwCsW9) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Peerless 80 Aniversario \- 24 Inolvidables](https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO) | 2:51 | 2021-05-15 | 2022-10-28 |
 | [Aunque Me Cueste la Vida](https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Aunque Me Cueste la Vida](https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2) | 2:58 | 2021-05-15 | 2022-01-22 |
 | [Azul](https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Homenaje a Agustin Lara \- Toña La Negra](https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L) | 3:17 | 2022-01-21 |  |
 | [Azul](https://open.spotify.com/track/3Jifgl1CGNY25f7R0bvASv) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/4UlE2kIAik6pcM15aztAhs) | 3:19 | 2021-05-15 | 2022-07-29 |

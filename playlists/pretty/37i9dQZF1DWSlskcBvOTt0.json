@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 327462,
+  "num_followers": 327660,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYyNjY5MywwMDAwMDAwMDUyNzFiNmIzOTgyMTIwNGM5Zjg2OTM5Zjc0YTNhNTlk",
+  "snapshot_id": "MTY2NjYyNjY5MywwMDAwMDAwMGExODRhMTY1OGI1Y2Q4MWNmYWIxNjdhNGJkYWVjNjlm",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/5DJ34liCqUWS4AZuEWDkfi"
+      },
+      "artists": [
+        {
+          "name": "Kalaman",
+          "url": "https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "The Church",
         "url": "https://open.spotify.com/album/7B1zROmTZS3MZ2QmtLyV6W"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 440638,
       "name": "The Church",
       "url": "https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Lanarka / Sablier",
-        "url": "https://open.spotify.com/album/0xNfGRZHfkfMdTanJfdcdn"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
-        }
-      ],
-      "duration_ms": 568454,
-      "name": "Lanarka",
-      "url": "https://open.spotify.com/track/3CoXzpJExs6A23Y9r8WM4c"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/5DJ34liCqUWS4AZuEWDkfi"
+        "name": "Lanarka / Sablier",
+        "url": "https://open.spotify.com/album/0xNfGRZHfkfMdTanJfdcdn"
       },
       "artists": [
         {
-          "name": "Kalaman",
-          "url": "https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L"
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
         }
       ],
-      "duration_ms": 384000,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU"
+      "duration_ms": 568454,
+      "name": "Lanarka",
+      "url": "https://open.spotify.com/track/3CoXzpJExs6A23Y9r8WM4c"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -989,26 +989,6 @@
       "url": "https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Aye Aye",
-        "url": "https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Cameron Jack",
-          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
-        }
-      ],
-      "duration_ms": 240144,
-      "name": "Aye Aye",
-      "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Otherside (Fideles Remix Edit)",
@@ -1027,6 +1007,26 @@
       "duration_ms": 270243,
       "name": "Otherside - Fideles Remix Edit",
       "url": "https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Aye Aye",
+        "url": "https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Cameron Jack",
+          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
+        }
+      ],
+      "duration_ms": 240144,
+      "name": "Aye Aye",
+      "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Secrets EP",
-        "url": "https://open.spotify.com/album/1aZ3SBhJnP4B8G4gQ65fT1"
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G"
       },
       "artists": [
         {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+          "name": "Blue Noir",
+          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
         }
       ],
-      "duration_ms": 604426,
-      "name": "Ashes in the Wind",
-      "url": "https://open.spotify.com/track/4PqD4wAf77OxpAiOODf1Rg"
+      "duration_ms": 246462,
+      "name": "Bacall",
+      "url": "https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G"
+        "name": "Secrets EP",
+        "url": "https://open.spotify.com/album/1aZ3SBhJnP4B8G4gQ65fT1"
       },
       "artists": [
         {
-          "name": "Blue Noir",
-          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
         }
       ],
-      "duration_ms": 246462,
-      "name": "Bacall",
-      "url": "https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj"
+      "duration_ms": 604426,
+      "name": "Ashes in the Wind",
+      "url": "https://open.spotify.com/track/4PqD4wAf77OxpAiOODf1Rg"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/3HIyzleWbghroY372GMajL"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Marimba",
-        "url": "https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 359808,
-      "name": "Marimba",
-      "url": "https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW"
-    },
-    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "Human Aura",
@@ -1331,6 +1315,22 @@
       "duration_ms": 404529,
       "name": "Human Aura - Massano Remix",
       "url": "https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Marimba",
+        "url": "https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "duration_ms": 359808,
+      "name": "Marimba",
+      "url": "https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1401,28 +1401,20 @@
       "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "Alkebulan Remix",
-        "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz"
       },
       "artists": [
         {
-          "name": "ANT LaROCK",
-          "url": "https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
-        },
-        {
-          "name": "David Mayer",
-          "url": "https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf"
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
         }
       ],
-      "duration_ms": 470243,
-      "name": "Alkebulan - David Mayer Remix",
-      "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/6ZbJmCC26Y3968mSLS2VNc"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1445,20 +1437,28 @@
       "url": "https://open.spotify.com/track/42bZq7YzcIsrIpbQesd5nh"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz"
+        "name": "Alkebulan Remix",
+        "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+          "name": "ANT LaROCK",
+          "url": "https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        },
+        {
+          "name": "David Mayer",
+          "url": "https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf"
         }
       ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/6ZbJmCC26Y3968mSLS2VNc"
+      "duration_ms": 470243,
+      "name": "Alkebulan - David Mayer Remix",
+      "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD"
-      },
-      "artists": [
-        {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
-        }
-      ],
-      "duration_ms": 402545,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Giza",
         "url": "https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw"
       },
@@ -1641,26 +1625,6 @@
       "url": "https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Nobody Is Not Loved, Remixes, Pt. 4",
-        "url": "https://open.spotify.com/album/6NwJLoXyGez4imDQrZOLD4"
-      },
-      "artists": [
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 377612,
-      "name": "Home - Boys Noize Remix",
-      "url": "https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Alabora",
@@ -1679,6 +1643,26 @@
       "duration_ms": 470335,
       "name": "Alabora - Foxall Pale Blue Remix",
       "url": "https://open.spotify.com/track/32hpq6FjVS2QrE5Z0q8Ffa"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Nobody Is Not Loved, Remixes, Pt. 4",
+        "url": "https://open.spotify.com/album/6NwJLoXyGez4imDQrZOLD4"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 377612,
+      "name": "Home - Boys Noize Remix",
+      "url": "https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1761,6 +1745,22 @@
       "url": "https://open.spotify.com/track/6cUqwmaSHB6bzwAd3TNF2a"
     },
     {
+      "added_at": "2022-07-08 17:15:14",
+      "album": {
+        "name": "Femme Tech",
+        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "duration_ms": 377225,
+      "name": "Psilocybin",
+      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Caminata",
@@ -1797,22 +1797,6 @@
       "url": "https://open.spotify.com/track/7g0E8PZTeRA6NghamzQHfc"
     },
     {
-      "added_at": "2022-07-08 17:15:14",
-      "album": {
-        "name": "Femme Tech",
-        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
-      },
-      "artists": [
-        {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
-        }
-      ],
-      "duration_ms": 377225,
-      "name": "Psilocybin",
-      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Epic Resurrection",
@@ -1827,6 +1811,22 @@
       "duration_ms": 401361,
       "name": "Epic Resurrection",
       "url": "https://open.spotify.com/track/5lqCgngDCc1YtBoWvAT5tI"
+    },
+    {
+      "added_at": "2022-10-24 15:51:33",
+      "album": {
+        "name": "Extassy / In A Distorted Galaxy",
+        "url": "https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        }
+      ],
+      "duration_ms": 583278,
+      "name": "Extassy",
+      "url": "https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw"
     },
     {
       "added_at": "2022-09-02 04:01:00",

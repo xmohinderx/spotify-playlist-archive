@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 278000,
       "name": "666 Voices Inside",
       "url": "https://open.spotify.com/track/7AdA9vNvPC9xdH3l4pPzS5"
@@ -221,6 +221,24 @@
       "duration_ms": 187090,
       "name": "Anguish",
       "url": "https://open.spotify.com/track/63GKWmCfC9dIOOxP16AwZn"
+    },
+    {
+      "album": {
+        "name": "Annihilation Phenomena",
+        "url": "https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO"
+      },
+      "artists": [
+        {
+          "name": "The Last Ten Seconds of Life",
+          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231318,
+      "name": "Annihilation Phenomena",
+      "url": "https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5"
     },
     {
       "album": {
@@ -523,7 +541,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 380773,
       "name": "Black Flames March",
       "url": "https://open.spotify.com/track/67NmAcOBbppWwqory0sYir"
@@ -3471,7 +3489,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 241763,
       "name": "Night",
       "url": "https://open.spotify.com/track/5XH2xL0ahHWmOgfAwJDscJ"
@@ -4522,6 +4540,24 @@
     },
     {
       "album": {
+        "name": "Stained In Rot",
+        "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "Stained In Rot",
+      "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
+    },
+    {
+      "album": {
         "name": "Ov Behest",
         "url": "https://open.spotify.com/album/1zIKlDMfUjGuYZttGLJwTt"
       },
@@ -4947,7 +4983,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 221426,
       "name": "The Secrets of the Black Arts",
       "url": "https://open.spotify.com/track/4UmELaFGGfsLbN1P5kH5Ax"

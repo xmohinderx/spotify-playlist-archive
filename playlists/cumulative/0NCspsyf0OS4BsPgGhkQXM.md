@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-517 songs - 1 day 3 hr 52 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+519 songs - 1 day 4 hr 0 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [NO FAVOURS](https://open.spotify.com/track/4wWlaMxGW7nNI2NgoSYBkO) | [ACER SPADE](https://open.spotify.com/artist/6AMCz8h8BXJhZugOwvOtRJ) | [NO FAVOURS](https://open.spotify.com/album/3xERg2Wr4enMFY9poxdOfG) | 3:15 | 2022-10-11 |  |
 | [No Strings](https://open.spotify.com/track/7ySlDUcybvNllQd4WxCvtT) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [No Strings](https://open.spotify.com/album/2pyDFDmWBK3pAPprRqEOw5) | 2:32 | 2022-04-29 | 2022-06-04 |
 | [Nobody's Home](https://open.spotify.com/track/3h0LOPvZ86ToKELOY3wgFh) | [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Shoshana](https://open.spotify.com/artist/3Mj3E5WO0nwOFzMOW0aC3o) | [Nobody's Home](https://open.spotify.com/album/3Dv9tEnMQdxNZ9lihdYAgE) | 3:25 | 2022-05-06 | 2022-06-04 |
+| [Not Afraid](https://open.spotify.com/track/3tsY9DsMvPqlmZ7ZTGXrQQ) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP) | [Not Afraid](https://open.spotify.com/album/5nb9swutihbSvf5CDDstC6) | 3:41 | 2022-10-27 |  |
 | [Not Letting Go](https://open.spotify.com/track/7ybW2xuOiUz7CNYn9BCJfQ) | [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Not Letting Go](https://open.spotify.com/album/3PmTpFfC6pLv98v8CJlUZV) | 3:03 | 2022-06-14 | 2022-07-29 |
 | [Not The One](https://open.spotify.com/track/77KHZgfInRZq2FJcDOBkKx) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [Not The One](https://open.spotify.com/album/3hkSSsVp5d9oUOWM8kEZSb) | 2:16 | 2022-09-02 | 2022-10-22 |
 | [Nothing's Perfect](https://open.spotify.com/track/4lYIlQcx8vWpKQAHLNwKdE) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [DRMVRSE](https://open.spotify.com/album/3jHod9NV5s98uiMMrPbkVE) | 3:06 | 2022-09-09 |  |
@@ -521,6 +522,7 @@
 | [You Right \(feat Tommy Rage\)](https://open.spotify.com/track/13NgfgB3G5JMnXztqZ3Eoh) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [John Kroon](https://open.spotify.com/artist/1dS74ewrbbEEDYoyUTitml), [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug) | [You Right \(feat Tommy Rage\)](https://open.spotify.com/album/0w536ITKmpuTd0TAhEPf1y) | 2:59 | 2022-05-20 | 2022-06-18 |
 | [You Should See Me In A Crown](https://open.spotify.com/track/6aokYrHjUknteCwKuCfcqY) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [DiFi](https://open.spotify.com/artist/5xAqa5xaSxHC1L3EP8g9KL), [CASSIE](https://open.spotify.com/artist/1vOxtZLlDyrdReqWrm9oMr) | [You Should See Me In A Crown](https://open.spotify.com/album/2JAdofTL8Qu0tJQaTAvT6k) | 2:35 | 2022-06-17 | 2022-08-10 |
 | [You're Free](https://open.spotify.com/track/06lXCDfhIm8pXt62k7rpMQ) | [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab) | [You're Free](https://open.spotify.com/album/50YSVa0d1GEYLy6VBZIqrF) | 2:35 | 2022-01-14 | 2022-02-17 |
+| [You're Not Alone](https://open.spotify.com/track/4idjrwbfYRg5QlqJqdBQyT) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Cinema Kid](https://open.spotify.com/artist/0zPDD8eFOxihKPKPI0uZEz) | [You're Not Alone](https://open.spotify.com/album/6sbh8lCL3pBkNYpx05qFTZ) | 4:02 | 2022-10-27 |  |
 | [Your Eyes](https://open.spotify.com/track/7yrKgSRkxZauC7dwcnA8bs) | [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [Bassline II](https://open.spotify.com/album/55srtArhktHU1UJTjfOcmy) | 2:38 | 2022-03-18 | 2022-07-29 |
 | [Your Vibe](https://open.spotify.com/track/2GHtkrbTsHndIzreO9YNg6) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Your Vibe](https://open.spotify.com/album/2XMvIwxlTm6mHIldjXpiIK) | 4:01 | 2022-07-28 |  |
 | [ケアレス \(Slushii Remix\) \- SACRA BEATS Singles](https://open.spotify.com/track/0Frhp8XDDaf8S8upKYqPx2) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [ケアレス \(Slushii Remix\) \- SACRA BEATS Singles](https://open.spotify.com/album/0ow5kLmDSNugPeajkl6uq5) | 2:58 | 2022-05-06 | 2022-06-18 |

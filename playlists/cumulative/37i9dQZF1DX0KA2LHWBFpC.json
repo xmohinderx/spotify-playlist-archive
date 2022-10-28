@@ -160,6 +160,24 @@
     },
     {
       "album": {
+        "name": "KANATA HALUKA",
+        "url": "https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355706,
+      "name": "KANATA HALUKA",
+      "url": "https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv"
+    },
+    {
+      "album": {
         "name": "Your Name.",
         "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
       },

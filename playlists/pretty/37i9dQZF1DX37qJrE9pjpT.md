@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover Chin Bees
 
-[Spotify](https://open.spotify.com/user/spotify) - 479 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 480 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 47 | [Money Walk \(Mwendo wa Cash\)](https://open.spotify.com/track/4vRC79cET11g2h17CC7YiW) | [Young DareSalama](https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t), [Chekbob](https://open.spotify.com/artist/2VCslciNsD6Uh7Ff8srpDE) | [NYANGUVA](https://open.spotify.com/album/4seKv6V2ceEzYfTvitpgcL) | 3:17 |
 | 48 | [Sponsa](https://open.spotify.com/track/1H85hkPWoVJVp9MZyOowUA) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Sponsa](https://open.spotify.com/album/0jxDFi4yennWvYM9q6DDqR) | 2:45 |
 | 49 | [Kick\-Off](https://open.spotify.com/track/4TEIGXuCB5mCJgVUxgcDXe) | [Nacha](https://open.spotify.com/artist/6y4QyXMrMWdhgSFY2JMbXt) | [TOP SCORER OF ALL TIME EP](https://open.spotify.com/album/1Dh42XiejQ9Vvo6YdedWfA) | 3:20 |
-| 50 | [Dear Gambe](https://open.spotify.com/track/2IUvtf5mREXmyLm2R4Ewkh) | [Young Killer](https://open.spotify.com/artist/33087Y6d4XZj4ZKaXlB6TW) | [Mrs\. Superstar](https://open.spotify.com/album/1XPoBa0RUHPdFNRovQZ9P6) | 4:00 |
+| 50 | [Dear Gambe](https://open.spotify.com/track/5rEFPXvrI6lrVtKLreYZex) | [Msodoki Young Killer](https://open.spotify.com/artist/0EfQfdKNPm4U50wNWTMqtU), [Belle9](https://open.spotify.com/artist/0aiGVd3m2MJUz2x3XHjQuP) | [Dear Gambe](https://open.spotify.com/album/5nBrr7soIGIZhVI6G1AWCO) | 4:00 |
 
-Snapshot ID: `MTY2NjMzNTE5NCwwMDAwMDAwMDFjOTlmYWE2YmRhOGZjOGZmZmJmODgwYzVjYmJmYThk`
+Snapshot ID: `MTY2NjMzNTE5NCwwMDAwMDAwMDRiNjNmYWEwODEzNGI2NTU2NzQ1MWVjMDA3MTQ3MzIy`

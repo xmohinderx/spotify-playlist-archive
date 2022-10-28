@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:5ITI6SEoUZMIXXkzCfr4oE\">Aluna</a>'s favorite tracks. Updated regularly. Curated by Aluna. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 25761,
+  "num_followers": 25778,
   "original_name": "Aluna's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjcwMDk3NiwwMDAwMDAwMDJiMGJiOWUzNzk3ZDc1NmVkNjIzNDc0YjVlYTY4MDBl",
+  "snapshot_id": "MTY2Njg2Mzk2NCwwMDAwMDAwMGQ2YTE4ZWQ1YTNjNjNjMmVlNjQ2ZDc4OTAzN2IwOThk",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -27,6 +27,30 @@
       "duration_ms": 257055,
       "name": "Kiss It Better",
       "url": "https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK"
+    },
+    {
+      "added_at": "2022-10-27 09:46:04",
+      "album": {
+        "name": "Harder (With Busta Rhymes) - Shermanology Remix",
+        "url": "https://open.spotify.com/album/2YKdhOGgOq29ImtFWvwin2"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 391000,
+      "name": "Harder (Shermanology Remix)",
+      "url": "https://open.spotify.com/track/3hVIIqBnoSXWxlUQRWikYL"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -115,6 +139,22 @@
       "duration_ms": 168375,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY"
+    },
+    {
+      "added_at": "2022-10-27 09:46:04",
+      "album": {
+        "name": "Black Mascara.",
+        "url": "https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 241264,
+      "name": "Black Mascara.",
+      "url": "https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -227,6 +267,26 @@
       "duration_ms": 251465,
       "name": "Balafonerra",
       "url": "https://open.spotify.com/track/5FTVEEK5afhsbfpHMFtb4f"
+    },
+    {
+      "added_at": "2022-10-27 09:46:04",
+      "album": {
+        "name": "See the Sun Rising",
+        "url": "https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        }
+      ],
+      "duration_ms": 247873,
+      "name": "See the Sun Rising",
+      "url": "https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -355,6 +415,34 @@
       "duration_ms": 183103,
       "name": "Buga (Lo Lo Lo)",
       "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
+    },
+    {
+      "added_at": "2022-10-27 09:46:04",
+      "album": {
+        "name": "BEETGOZON",
+        "url": "https://open.spotify.com/album/6jpw55D1UlAS2WODETLTg9"
+      },
+      "artists": [
+        {
+          "name": "RM47",
+          "url": "https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL"
+        },
+        {
+          "name": "MAAD",
+          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
+        },
+        {
+          "name": "Raleigh",
+          "url": "https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C"
+        },
+        {
+          "name": "Prince African Child",
+          "url": "https://open.spotify.com/artist/3nNV5KJxjANcM8IIFIi39X"
+        }
+      ],
+      "duration_ms": 268961,
+      "name": "BEETGOZON",
+      "url": "https://open.spotify.com/track/7mRv0BMqcUihPgEeXSDO3z"
     },
     {
       "added_at": "2022-10-12 20:48:38",
@@ -915,26 +1003,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Waiting (feat. Pablo Bravas)",
-        "url": "https://open.spotify.com/album/1b6HpGj2vIApDK5jnQFg3o"
-      },
-      "artists": [
-        {
-          "name": "Crvvcks",
-          "url": "https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98"
-        },
-        {
-          "name": "Pablo Bravas",
-          "url": "https://open.spotify.com/artist/792OYnsrG3nrC4HDDSEwpq"
-        }
-      ],
-      "duration_ms": 144579,
-      "name": "Waiting (feat. Pablo Bravas)",
-      "url": "https://open.spotify.com/track/6R0y6rfttQZqKmbKI9A2VG"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Forget About Me (Eden Prince Remix)",
         "url": "https://open.spotify.com/album/0Ef8AzsApxDZSZM1UuHRLy"
       },
@@ -1319,42 +1387,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Trust You",
-        "url": "https://open.spotify.com/album/2NRC0r4haaa3qR4lSfgTXU"
-      },
-      "artists": [
-        {
-          "name": "MistaJam",
-          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
-        },
-        {
-          "name": "Scott Quinn",
-          "url": "https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1"
-        }
-      ],
-      "duration_ms": 221661,
-      "name": "Trust You",
-      "url": "https://open.spotify.com/track/4zGReDJNtrZkxxNUxgLu3Y"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Convo",
-        "url": "https://open.spotify.com/album/5XiY8TBrVuKs7u3moYyJus"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Convo",
-      "url": "https://open.spotify.com/track/34ol7Eg0ZMHBlBYlz6oeFO"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Renaissance (Remixes)",
         "url": "https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ"
       },
@@ -1403,30 +1435,6 @@
       "duration_ms": 363077,
       "name": "Envision - Argy Vocal Mix",
       "url": "https://open.spotify.com/track/44uPZYQNLFvT3FpAboWlKx"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Pynk (feat. Grimes) [King Topher Remix]",
-        "url": "https://open.spotify.com/album/22snh4CaxLlqDOVoxBRuMa"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "name": "King Topher",
-          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
-        }
-      ],
-      "duration_ms": 238504,
-      "name": "Pynk (feat. Grimes) - King Topher Remix",
-      "url": "https://open.spotify.com/track/2u0FKOdm4sTcnB5JwsEyty"
     },
     {
       "added_at": "2022-09-30 04:00:00",

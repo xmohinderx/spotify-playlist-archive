@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Esther Abrami
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,636 likes - 72 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,939 likes - 72 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 31 | [Cold Front](https://open.spotify.com/track/6wUnsVboh6NAfCDqKos1x3) | [Evgueni Galperine](https://open.spotify.com/artist/6wUwrf6CPtVdxhMX8TejqM), [Sergei Nakariakov](https://open.spotify.com/artist/32h8NkZiQ9UdUBCxiKKffU) | [Theory of Becoming](https://open.spotify.com/album/6AtYwnFjwkqi4klkxRDgEZ) | 5:03 |
 | 32 | [The Well\-tempered Clavier, Book 1, Bwv 846\-869: No\. 1 in C Major, Bwv 846](https://open.spotify.com/track/7shdodc1ElLomtWKMuCB4G) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Naoya Otsuka](https://open.spotify.com/artist/7HEAJbS05wE0LnBXRd1D7I) | [J.S\. Bach: The Well\-Tempered Clavier, Book 1, BWV 846\-869](https://open.spotify.com/album/6xhAzrp7YMaQmiWotDEqjt) | 4:36 |
 | 33 | [Impromptu for Viola & Piano](https://open.spotify.com/track/1aLHxjSHi2jfAiVJaBsHcG) | [Hans Gál](https://open.spotify.com/artist/1Y1uGEkV8B9fhfdH8cTWFx), [Gottlieb Wallisch](https://open.spotify.com/artist/6uhRYtNdQ4poxPyyXxeRvC), [Hartmut Rohde](https://open.spotify.com/artist/7d87rxxZfkcbSoJyDWQo0u) | [Gál: Chamber Works](https://open.spotify.com/album/2VQ7dgWOOSgdQ1yLzgSQLS) | 3:45 |
-| 34 | [Symphony No\. 3, Op\. 44: II\. Adagio](https://open.spotify.com/track/1HhlHkEYALyXY9AAo5jrs2) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Sinfonia Of London](https://open.spotify.com/artist/14WdLIrDMYGjtKZIrgQg4z), [John Wilson](https://open.spotify.com/artist/1Y6MR8p9QIPxDXS99IYmyh) | [Rachmaninoff: Symphony No\. 3, Op.44: II\. Adagio](https://open.spotify.com/album/3JFUyNE4Dakztnu55kiHNO) | 12:48 |
+| 34 | [Symphony No\. 3, Op\. 44: III\. Allegro](https://open.spotify.com/track/1mn3MxJIrfkhmUc3EeA6Ht) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Sinfonia Of London](https://open.spotify.com/artist/14WdLIrDMYGjtKZIrgQg4z), [John Wilson](https://open.spotify.com/artist/1Y6MR8p9QIPxDXS99IYmyh) | [Rachmaninoff: Symphony No\. 3: III\. Allegro](https://open.spotify.com/album/1g9dLKaxOjGT0ayN7RDz9l) | 12:48 |
 | 35 | [Rêverie, L\. 68](https://open.spotify.com/track/5SAipNfxllZbxwysU4hcgf) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Bettiol](https://open.spotify.com/artist/4Rba5C6QZBSFOJLPqAk3Q2) | [Debussy: Rêverie](https://open.spotify.com/album/4DIhcYIzd50FTNHY9YhNOM) | 4:31 |
 | 36 | [Leise rieselt der Schnee](https://open.spotify.com/track/5b1ZwVqDjP9y0DsVQDpyYC) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Diana Damrau](https://open.spotify.com/artist/4gbrnZzPDYl2SBjzAL4KIE), [Richard Whilds](https://open.spotify.com/artist/1CrtEVizXyR8DNERsg7Dio), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR) | [My Christmas \- Leise rieselt der Schnee](https://open.spotify.com/album/5j2izmCXVPsaZ0Fprrcjtd) | 2:51 |
 | 37 | [All Aboard \- from "The Menu" Soundtrack](https://open.spotify.com/track/7pMZEgFDpBqgOm9xRIRm2M) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [All Aboard \(from "The Menu" Soundtrack\)](https://open.spotify.com/album/2yCCyLN60DmuzdYjXRpR5r) | 4:25 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 71 | [Tempo](https://open.spotify.com/track/2JhFx5bnyge6D612AVoV2J) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO), [Tilman Clemens Köhler](https://open.spotify.com/artist/2YuQ08WvFPc5zdqMt6NKZm), [Til Kolare](https://open.spotify.com/artist/0JErhwhLzboFjWPSNsR6Nv) | [Tempo](https://open.spotify.com/album/1VRnGbgR6lm5FObyIlZhXo) | 3:52 |
 | 72 | [Suite française No\. 1 in D Minor, BWV 812: I\. Prélude](https://open.spotify.com/track/7hi9yOsAATUoFuOB9dOzuG) | [François Couperin](https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL), [Pierre Gallon](https://open.spotify.com/artist/013FtnNjAFCdmm3cqSv4ET) | [Bach \- Suites françaises](https://open.spotify.com/album/3MHutwqm7XumqPmGw9fMAv) | 2:22 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMGEwM2NmOTYzMWFlOTQyY2ZkODg4YzQzNTZmOTJlNGFi`
+Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMGQyODc1YWNjNTI4MzY2N2ZlOWZlNjkyNDBlMzM4YmRk`

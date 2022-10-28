@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 3058,
+  "num_followers": 3071,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMGFjZmVkYjBmMzUxNWM3ZjM1YzI3ZTI5NTM2NDk3MjUx",
+  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMDRhNDcwZDkwNjVmNGZmZWMxYjIyZTVmMzA5NGUzY2Q2",
   "tracks": [
     {
       "added_at": "2022-08-18 14:25:32",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex"
-      },
-      "artists": [
-        {
-          "name": "\uc720\ubbf8 Youme",
-          "url": "https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C"
-        }
-      ],
-      "duration_ms": 270880,
-      "name": "\uc0ac\ub791\uc740 \uc5b8\uc81c\ub098 \ubaa9 \ub9c8\ub974\ub2e4 Love Is Always Thirsty",
-      "url": "https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "Afraid To Say I Love You",
         "url": "https://open.spotify.com/album/3W0HGM1NBblqIrhMMLoiDx"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 205797,
       "name": "Afraid To Say I Love You",
       "url": "https://open.spotify.com/track/5q3q7ZIRq7EoCK3kpsfRpz"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex"
+      },
+      "artists": [
+        {
+          "name": "\uc720\ubbf8 Youme",
+          "url": "https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C"
+        }
+      ],
+      "duration_ms": 270880,
+      "name": "\uc0ac\ub791\uc740 \uc5b8\uc81c\ub098 \ubaa9 \ub9c8\ub974\ub2e4 Love Is Always Thirsty",
+      "url": "https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Night Reminiscin\u2019",
-        "url": "https://open.spotify.com/album/6CWt70vxTuufx0Qi0wlntq"
-      },
-      "artists": [
-        {
-          "name": "LUNA",
-          "url": "https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2"
-        }
-      ],
-      "duration_ms": 276227,
-      "name": "\uc6d0\ud558\uae30 \uc804\uc5d0 Falling Out",
-      "url": "https://open.spotify.com/track/4TrPfqO7rtWl3YxXUnCYL2"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "Seoul Vibes, Pt. 6",
         "url": "https://open.spotify.com/album/0aQUxppY2FjNgIGJQm8ote"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 203339,
       "name": "Eul (feat. Gyeong Je Hwan)",
       "url": "https://open.spotify.com/track/7d3e2N9vHD1nJc50Q0HAmf"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Night Reminiscin\u2019",
+        "url": "https://open.spotify.com/album/6CWt70vxTuufx0Qi0wlntq"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2"
+        }
+      ],
+      "duration_ms": 276227,
+      "name": "\uc6d0\ud558\uae30 \uc804\uc5d0 Falling Out",
+      "url": "https://open.spotify.com/track/4TrPfqO7rtWl3YxXUnCYL2"
     }
   ],
   "unique_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",

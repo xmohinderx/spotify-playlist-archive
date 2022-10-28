@@ -1,12 +1,12 @@
 {
   "description": "Here's a taste of power pop. <a href=\"spotify:genre:0JQ5IMCbQBLk5woFi85yOT\">Click here for further discovery.</a> Cover: Cheap Trick\n",
-  "num_followers": 126960,
+  "num_followers": 126989,
   "original_name": "Power Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMDE3N2E4YTJmYzVkZGFhODJiYjNmYjAwNjEwNmQ0Mjc2",
+  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMGM5YTI0MGE3Yzc0OWRjN2YzMmFjNmZlOTEyZmZmNGU3",
   "tracks": [
     {
       "added_at": "2021-12-16 19:14:26",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "All The Pain Money Can Buy",
-        "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
-      },
-      "artists": [
-        {
-          "name": "Fastball",
-          "url": "https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN"
-        }
-      ],
-      "duration_ms": 257093,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "Parallel Lines",
         "url": "https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 229423,
       "name": "Heart Of Glass",
       "url": "https://open.spotify.com/track/4v2rkl1mC3zVAz0nXMx9r4"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "All The Pain Money Can Buy",
+        "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
+      },
+      "artists": [
+        {
+          "name": "Fastball",
+          "url": "https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -693,7 +693,7 @@
         }
       ],
       "duration_ms": 248360,
-      "name": "Jet - Remastered 2010",
+      "name": "Jet - 2010 Remaster",
       "url": "https://open.spotify.com/track/4D40ZlFAWsvX7lua1Kablh"
     },
     {
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Elastica",
-        "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
-      },
-      "artists": [
-        {
-          "name": "Elastica",
-          "url": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
-        }
-      ],
-      "duration_ms": 140480,
-      "name": "Connection",
-      "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best of Donnie Iris",
         "url": "https://open.spotify.com/album/5SflwEXSYK6xowXF9SDrkF"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 222533,
       "name": "Ah! Leah!",
       "url": "https://open.spotify.com/track/3ifaGhNHnCPQ9zdnOfolcZ"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Elastica",
+        "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
+      },
+      "artists": [
+        {
+          "name": "Elastica",
+          "url": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+        }
+      ],
+      "duration_ms": 140480,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
     },
     {
       "added_at": "2021-12-16 19:14:26",

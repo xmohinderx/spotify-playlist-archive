@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > An exclusive collection of Malayalam super hit songs.<br/>Cover: Monster
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,724 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,797 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 74 | [Mele Vaanil](https://open.spotify.com/track/3h1fJqE8XbN151jD9szk11) | [Rahul Subrahmanian](https://open.spotify.com/artist/6mJG2u6SOpg9gE7G8BXbi6), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Meppadiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CgSXUnFaGO1IobnYT6Qjf) | 4:20 |
 | 75 | [Kugramame](https://open.spotify.com/track/3xXGMn7VTB2Zg74PEN3P9M) | [Vipin Raveendran](https://open.spotify.com/artist/02U0IdqBzAwQdBE7LRhSB9), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Minnal Murali](https://open.spotify.com/album/3bBt9Y3qQGSDXws5rNSn3x) | 1:38 |
 
-Snapshot ID: `MTY2NjY4MDE3MSwwMDAwMDAwMDJjMjQxMDZhOTk4MTRhMGMyYzc1NjE3MTAzMTM5OTIw`
+Snapshot ID: `MTY2Njg2OTU1MiwwMDAwMDAwMDZjYWRiNzczNjdkOGRiMjRhMmZkOTY4MDdjYjQ0ZGZj`

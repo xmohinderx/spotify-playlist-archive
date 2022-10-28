@@ -4,7 +4,7 @@
 
 > This is Pauline Oliveros\. The essential tracks, all in one playlist.
 
-123 songs - 22 hr 14 min - [published](https://open.spotify.com/playlist/5xnvtvaufG9BAcEZxHRGmf)
+124 songs - 22 hr 20 min - [published](https://open.spotify.com/playlist/5xnvtvaufG9BAcEZxHRGmf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Alchemilla](https://open.spotify.com/track/1i8eXEIk8cNAVpNSemiMub) | [Else Olsen Storesund](https://open.spotify.com/artist/0ulCRoV5L1IIi1qiudt42t), [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Lisa Dillan](https://open.spotify.com/artist/0Xkd7bZLR8frMJEhgg1wHX), [Øyvind Storesund](https://open.spotify.com/artist/0VZ8JqfDQhdhAAJvVEnteR) | [Botanikk](https://open.spotify.com/album/1UVrkMiSPQsSkql2DCQdm1) | 8:00 | 2022-05-31 | 2022-10-23 |
 | [Alien Makeover](https://open.spotify.com/track/2YBqSfVClH6M5I5Ouyt7w9) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Doug Van Nort](https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv), [Jonas Braasch](https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq) | [phase/transitions \(vol\. 3\)](https://open.spotify.com/album/536OgpfoHLxXaaIadP9ClO) | 2:37 | 2022-10-12 | 2022-10-15 |
 | [All Creatures Get It](https://open.spotify.com/track/175dH359woZbiN6qTMQdwR) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Timothy Hill](https://open.spotify.com/artist/5DbeSCqFNABmMeFodQ6WjS), [David Rothenberg](https://open.spotify.com/artist/2j8Uk5mWrGqT7bce5kD4YR) | [Cicada Dream Band](https://open.spotify.com/album/7KvXprRSBMEGYkWw0tzUwu) | 6:52 | 2022-05-29 | 2022-10-11 |
-| [Altamirage III](https://open.spotify.com/track/0qB2kROt2cgfU7tlCzAqKI) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [James Ilgenfritz](https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE) | [Altamirage](https://open.spotify.com/album/5NmjzDrXmwmwnAyWZ6F8pf) | 6:03 | 2022-10-24 |  |
+| [Altamirage III](https://open.spotify.com/track/0qB2kROt2cgfU7tlCzAqKI) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [James Ilgenfritz](https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE) | [Altamirage](https://open.spotify.com/album/5NmjzDrXmwmwnAyWZ6F8pf) | 6:03 | 2022-10-24 | 2022-10-28 |
+| [Altamirage IV](https://open.spotify.com/track/5zTUDJzSp6AuGHCFlD8Z33) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [James Ilgenfritz](https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE) | [Altamirage](https://open.spotify.com/album/5NmjzDrXmwmwnAyWZ6F8pf) | 6:05 | 2022-10-27 |  |
 | [Altamirage V](https://open.spotify.com/track/73XUdV2DFnlyq1gE8qrS6I) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [James Ilgenfritz](https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE) | [Altamirage](https://open.spotify.com/album/5NmjzDrXmwmwnAyWZ6F8pf) | 3:13 | 2022-10-24 | 2022-10-25 |
 | [Arc Hive](https://open.spotify.com/track/3MyJ4MYNczi8sjZb4eiJrF) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Timothy Hill](https://open.spotify.com/artist/5DbeSCqFNABmMeFodQ6WjS), [David Rothenberg](https://open.spotify.com/artist/2j8Uk5mWrGqT7bce5kD4YR) | [Cicada Dream Band](https://open.spotify.com/album/7KvXprRSBMEGYkWw0tzUwu) | 3:24 | 2022-05-29 |  |
 | [Beautiful Soop \(1966\)](https://open.spotify.com/track/770oSRCwcCfGgRVSVPC1iW) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi) | [Alien Bog / Beautiful Soop](https://open.spotify.com/album/358ik4ynqQBfuceTXXc3LN) | 27:45 | 2022-05-29 | 2022-10-13 |

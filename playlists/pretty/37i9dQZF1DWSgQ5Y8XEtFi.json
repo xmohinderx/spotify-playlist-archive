@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 121179,
+  "num_followers": 121766,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjcxMTI4NCwwMDAwMDAwMDA3NjA4MjQyNTI2YWExN2U0ZmVjYjRjYmU0N2MxNzk0",
+  "snapshot_id": "MTY2NjcxMTI4NCwwMDAwMDAwMDE4M2ZjYjdkZTM3NzdkYTg2NzA5N2RiZGEzMGZmZjIx",
   "tracks": [
     {
       "added_at": "2022-10-07 11:48:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 132453,
-      "name": "I Like Him",
-      "url": "https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "Red Teenage Melody",
         "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 271413,
       "name": "Still Cold / Pathway Private",
       "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 132453,
+      "name": "I Like Him",
+      "url": "https://open.spotify.com/track/68UU9oaQtMDnh6PRlW842H"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "Dat $tick",
-        "url": "https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA"
-      },
-      "artists": [
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        }
-      ],
-      "duration_ms": 126666,
-      "name": "Dat $tick",
-      "url": "https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 173279,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "Dat $tick",
+        "url": "https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "duration_ms": 126666,
+      "name": "Dat $tick",
+      "url": "https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB"
     },
     {
       "added_at": "2022-10-07 11:48:00",

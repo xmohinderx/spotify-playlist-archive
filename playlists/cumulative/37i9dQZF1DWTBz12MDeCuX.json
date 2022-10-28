@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Rowli, Hank\n",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: HENRYY\n",
   "name": "me right now",
   "published_playlist_ids": [
     "4wMgKXJWsULbe4I9HZDGUL"
@@ -178,6 +178,28 @@
     },
     {
       "album": {
+        "name": "4LIFE",
+        "url": "https://open.spotify.com/album/1wp92mDSciu2gjK2n3TrpL"
+      },
+      "artists": [
+        {
+          "name": "Maikel",
+          "url": "https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY"
+        },
+        {
+          "name": "TYM",
+          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183624,
+      "name": "4LIFE",
+      "url": "https://open.spotify.com/track/70sl4aDm1Vr3oCTM0zPYv0"
+    },
+    {
+      "album": {
         "name": "61 Grad (Deep House RMX)",
         "url": "https://open.spotify.com/album/1nKs8Er1df14iV7EHSydim"
       },
@@ -233,7 +255,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 194769,
       "name": "A Place For Us",
       "url": "https://open.spotify.com/track/5XQkLMeRBFzb8zq3Gkr23N"
@@ -681,7 +703,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 114108,
       "name": "Bad Idea",
       "url": "https://open.spotify.com/track/4Z0qEl50Xg5oHY1T6XZpQX"
@@ -823,7 +845,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 126040,
       "name": "BELLA MADONNA",
       "url": "https://open.spotify.com/track/6RINSCuT99TYt1UoJ3R8Ac"
@@ -1369,6 +1391,24 @@
       "duration_ms": 158667,
       "name": "Chanel Bag",
       "url": "https://open.spotify.com/track/4d16JADh71pTeqx0vlHL69"
+    },
+    {
+      "album": {
+        "name": "Welcome to 101",
+        "url": "https://open.spotify.com/album/2HAYtoHrVCzfyNi4XY7jW7"
+      },
+      "artists": [
+        {
+          "name": "Omar101",
+          "url": "https://open.spotify.com/artist/3OSeYeKlvOhNfcLVQNadmB"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98800,
+      "name": "Chasing Dreams",
+      "url": "https://open.spotify.com/track/7iUHBN3E2w2y3MIo8jqzPg"
     },
     {
       "album": {
@@ -1944,6 +1984,24 @@
     },
     {
       "album": {
+        "name": "Du Fehlst",
+        "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155597,
+      "name": "Du Fehlst",
+      "url": "https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9"
+    },
+    {
+      "album": {
         "name": "Dunkelblau",
         "url": "https://open.spotify.com/album/5icoOM6Pwcny1jn2aoLBXf"
       },
@@ -2479,7 +2537,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 120781,
       "name": "Filigran",
       "url": "https://open.spotify.com/track/2f3Sj57K5JYAywJM6u45L1"
@@ -2587,7 +2645,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 206293,
       "name": "frog",
       "url": "https://open.spotify.com/track/0nSw4I1cTMMBZBIk9ChgBn"
@@ -2769,6 +2827,24 @@
       "duration_ms": 152287,
       "name": "Giftig",
       "url": "https://open.spotify.com/track/69hi7EaJMbzSnEFoWrzrKy"
+    },
+    {
+      "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/5Wl4DJMOt13fs92ddL2v9Q"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212736,
+      "name": "Gilded Lily",
+      "url": "https://open.spotify.com/track/1V27TTo9FI2sl8xzGr3sCg"
     },
     {
       "album": {
@@ -2998,6 +3074,24 @@
     },
     {
       "album": {
+        "name": "808s & Heartbreak",
+        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+      "album": {
         "name": "i'm watching you",
         "url": "https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa"
       },
@@ -3193,7 +3287,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 191173,
       "name": "I Ain\u2019t Quite Where I Think I Am",
       "url": "https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx"
@@ -3518,6 +3612,24 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+    },
+    {
+      "album": {
         "name": "In My Room",
         "url": "https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB"
       },
@@ -3649,7 +3761,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 149518,
       "name": "Karma",
       "url": "https://open.spotify.com/track/26IQcxNMKmGiUbJtNiRrZ7"
@@ -4147,7 +4259,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 243561,
       "name": "Mama war der Mann im Haus (Rheingold Soundtrack)",
       "url": "https://open.spotify.com/track/4wjEJULVdwTFlSDPlhdkRa"
@@ -4339,7 +4451,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 121972,
       "name": "MIDNIGHT",
       "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
@@ -5102,6 +5214,28 @@
     },
     {
       "album": {
+        "name": "OLYMPIA",
+        "url": "https://open.spotify.com/album/5WbZKAVH7yBYRscDzZNVgd"
+      },
+      "artists": [
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176838,
+      "name": "OLYMPIA",
+      "url": "https://open.spotify.com/track/4RyN9ul6C39NdpjDE9XuK9"
+    },
+    {
+      "album": {
         "name": "Percocet Party",
         "url": "https://open.spotify.com/album/47nHXYjntjPhI7lf8lVCLH"
       },
@@ -5168,6 +5302,24 @@
     },
     {
       "album": {
+        "name": "ONLY 4 LIFE",
+        "url": "https://open.spotify.com/album/0nUeigcz2YIFDMWrZmnZLU"
+      },
+      "artists": [
+        {
+          "name": "Rubi",
+          "url": "https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145511,
+      "name": "ONLY 4 LIFE",
+      "url": "https://open.spotify.com/track/3cSnRerT5ZRmPLMmGwRJLb"
+    },
+    {
+      "album": {
         "name": "Only Fans",
         "url": "https://open.spotify.com/album/1hUCrAa6N9Gr9aZHhi2N1C"
       },
@@ -5215,7 +5367,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 129882,
       "name": "ORANGE SODA",
       "url": "https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD"
@@ -6013,7 +6165,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 171378,
       "name": "Sch\u00f6neberg/Kreuzberg",
       "url": "https://open.spotify.com/track/35TlBvEYl8Ajm4kyzpOsI5"
@@ -6509,6 +6661,28 @@
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA"
+    },
+    {
+      "album": {
+        "name": "Spannung",
+        "url": "https://open.spotify.com/album/6KOvdB1RpDc3wqdEr1pXmE"
+      },
+      "artists": [
+        {
+          "name": "MADE",
+          "url": "https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj"
+        },
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157808,
+      "name": "Spannung",
+      "url": "https://open.spotify.com/track/7G4wi7IAadEj3pzQeR923K"
     },
     {
       "album": {
@@ -7084,6 +7258,24 @@
     },
     {
       "album": {
+        "name": "Backseat Tape",
+        "url": "https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168675,
+      "name": "Time To Leave",
+      "url": "https://open.spotify.com/track/20U6exJLpbUBHlhl0cWMVc"
+    },
+    {
+      "album": {
         "name": "Tissues",
         "url": "https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew"
       },
@@ -7099,6 +7291,24 @@
       "duration_ms": 215163,
       "name": "Tissues",
       "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
+    },
+    {
+      "album": {
+        "name": "TITANIC",
+        "url": "https://open.spotify.com/album/0o1j2iUlqj20vwpryIkVKd"
+      },
+      "artists": [
+        {
+          "name": "CAN MIT ME$$R",
+          "url": "https://open.spotify.com/artist/0yTH7O3oomQgGZ0rBKzW89"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196760,
+      "name": "TITANIC",
+      "url": "https://open.spotify.com/track/6196SrSk2HZmLYVf6EYptS"
     },
     {
       "album": {
@@ -7646,6 +7856,24 @@
     },
     {
       "album": {
+        "name": "WAS DU MACHST",
+        "url": "https://open.spotify.com/album/1kncUoEED6DHybwlxzOk4j"
+      },
+      "artists": [
+        {
+          "name": "HENRYY",
+          "url": "https://open.spotify.com/artist/7MN3Ivl1zMpNa381IMZ0FN"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134870,
+      "name": "WAS DU MACHST",
+      "url": "https://open.spotify.com/track/5oVrNOVEpDdZaf2aG9YNs0"
+    },
+    {
+      "album": {
         "name": "WAS WEISST DU SCHON",
         "url": "https://open.spotify.com/album/1stNLsegoUNT1ez4bOsQeQ"
       },
@@ -8057,7 +8285,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 138857,
       "name": "Wildberry Lillet (Remix feat. Juju)",
       "url": "https://open.spotify.com/track/1ywM9BP8vzh0Pu1zbnGAfY"

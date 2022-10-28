@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Nocheros
 
-133 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
+134 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Nada \- REMIX](https://open.spotify.com/track/2TjYOCmxd4HTjcZxtjoj1c) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Nada \(REMIX\)](https://open.spotify.com/album/5CHPMtTMwLIL2vK6GnDjMM) | 3:31 | 2022-08-26 |  |
 | [Navidad y Año Nuevo](https://open.spotify.com/track/60SbkLG67htrmPIUDWv68D) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Navidad y Año Nuevo](https://open.spotify.com/album/1HRNGUWQDfazHryTekdgpN) | 2:24 | 2021-12-31 | 2022-07-02 |
 | [No Somos Nada](https://open.spotify.com/track/7JAven4KfvzBPbKyxE99OJ) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/39j7YWFfBTmt99FUy55DRs) | 3:17 | 2022-09-30 | 2022-10-21 |
-| [No Somos Nada](https://open.spotify.com/track/7b4nKzpEOc1Yc4gntR7FVA) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/2ekliaSLvcZmPGWEg56w3B) | 3:18 | 2022-10-07 |  |
+| [No Somos Nada](https://open.spotify.com/track/0RPBYkItMt1otL1Llu5UHv) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/6QpqXyvCMqNHwXM4B840O2) | 3:18 | 2022-10-07 |  |
+| [No Somos Nada](https://open.spotify.com/track/7b4nKzpEOc1Yc4gntR7FVA) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/2ekliaSLvcZmPGWEg56w3B) | 3:18 | 2022-10-07 | 2022-10-28 |
 | [No Te Vayas Carnaval](https://open.spotify.com/track/4P1iwTp5ZqynYoV4X1GQx4) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Jorge Rojas](https://open.spotify.com/album/4Zu0dRK3MZLBOdKr5cM70J) | 4:00 | 2021-12-31 |  |
 | [Noctilucado](https://open.spotify.com/track/4kuKfS9nCQf5TyCGCFmQYm) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [Noctilucado](https://open.spotify.com/album/7crNDxDK2sO3bp9hs1JTxw) | 2:45 | 2021-12-31 | 2022-05-14 |
 | [Nuestras Flores](https://open.spotify.com/track/6wk1i2Wi2eYX4YjPoGnljA) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Nuestras Flores](https://open.spotify.com/album/6DE4XqVKpCNKf59JvyIcRE) | 4:29 | 2022-08-19 |  |

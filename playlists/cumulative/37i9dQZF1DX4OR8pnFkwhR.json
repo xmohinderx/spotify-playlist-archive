@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 203046,
       "name": "Brain Scratch",
       "url": "https://open.spotify.com/track/1AzGq7oRfqR36LzaCWTiTI"
@@ -2537,7 +2537,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 155242,
       "name": "Late summer waves",
       "url": "https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu"
@@ -3582,6 +3582,24 @@
     },
     {
       "album": {
+        "name": "popcorn nights",
+        "url": "https://open.spotify.com/album/3c4Hal6qduUYmKYuz5ca3H"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219992,
+      "name": "popcorn nights",
+      "url": "https://open.spotify.com/track/3zIg70E1b4dXlK2zFSPHlF"
+    },
+    {
+      "album": {
         "name": "pure",
         "url": "https://open.spotify.com/album/6sWvjpeac8oh7gfmEWHZYA"
       },
@@ -3951,10 +3969,28 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 216111,
       "name": "September",
       "url": "https://open.spotify.com/track/7MfwIBaD6I4CsahHSqygDp"
+    },
+    {
+      "album": {
+        "name": "September - Daydream Remix -",
+        "url": "https://open.spotify.com/album/4K5Ab56fYvafThohRSJ8gS"
+      },
+      "artists": [
+        {
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198076,
+      "name": "September - Daydream Remix -",
+      "url": "https://open.spotify.com/track/3UVNNLapPN64OWvWk3nwD6"
     },
     {
       "album": {

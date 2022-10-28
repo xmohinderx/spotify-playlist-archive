@@ -714,6 +714,24 @@
     },
     {
       "album": {
+        "name": "It's Snowing on My Piano",
+        "url": "https://open.spotify.com/album/2GVRqMDD7XThNuI6pxqlAX"
+      },
+      "artists": [
+        {
+          "name": "Bugge Wesseltoft",
+          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365906,
+      "name": "In Dulce Jubilo",
+      "url": "https://open.spotify.com/track/7j2B1yYjSxVg9MGEQLIBqn"
+    },
+    {
+      "album": {
         "name": "I Saw Three Ships",
         "url": "https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS"
       },

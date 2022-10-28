@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-60 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/52aaQ2sYosifo7y9OhYXNf)
+61 songs - 5 hr 58 min - [published](https://open.spotify.com/playlist/52aaQ2sYosifo7y9OhYXNf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Good Grace \- Live](https://open.spotify.com/track/7nzmXUrZwSOJPNmV0mOmEn) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:53 | 2019-01-30 |  |
 | [Graves Into Gardens](https://open.spotify.com/track/4rnoCR7AOaa6RWdyh7JgP0) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:43 | 2020-09-07 |  |
 | [Hallelujah](https://open.spotify.com/track/6CkaTdwbpVVeC6XHbhuzcF) | [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Faith](https://open.spotify.com/album/6JUI72oFpMhRDAlFAMDkZO) | 5:27 | 2019-06-06 |  |
-| [He Keeps on Doing \- Live](https://open.spotify.com/track/7MPTAGwPRQ4wymqL3pHD71) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Victorious in His Presence \(Live\)](https://open.spotify.com/album/4QykhBdI1H5g8dUYjmTBz0) | 8:06 | 2018-09-23 |  |
+| [He Keeps on Doing](https://open.spotify.com/track/6bJ8juJI2o3zC85hDvbvc4) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Victorious in His Presence](https://open.spotify.com/album/0Zcuz4iyNg81kcMSY140p6) | 8:06 | 2018-09-23 |  |
+| [He Keeps on Doing \- Live](https://open.spotify.com/track/7MPTAGwPRQ4wymqL3pHD71) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Victorious in His Presence \(Live\)](https://open.spotify.com/album/4QykhBdI1H5g8dUYjmTBz0) | 8:06 | 2018-09-23 | 2022-10-28 |
 | [Hosanna](https://open.spotify.com/track/2HFkbiZm1jOFG4mBotFZ8X) | [Karabo](https://open.spotify.com/artist/4lVkctc6sd3UNFSUV5m13w) | [Hosanna](https://open.spotify.com/album/7AUWNeNCVeuK8zvK0yy6if) | 4:05 | 2021-11-18 |  |
 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 | 2018-09-23 |  |
 | [In the Room \(Edit\)](https://open.spotify.com/track/6l0BLKt7DuLVdWcjwPFRC6) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [In the Room \(Edit\)](https://open.spotify.com/album/3nbNxLzlz1CY9FzKJPK1O9) | 4:18 | 2019-03-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women that like it loud & heavy. Cover: Poppy",
-  "num_followers": 536848,
+  "num_followers": 537063,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgxODc2MCwwMDAwMDAwMGU0YjgzZGE1MzJjNmY0ZjBmZWQ4YTI5MWM3YTMxMThk",
+  "snapshot_id": "MTY2NDgxODc2MCwwMDAwMDAwMDQzN2VkYmU3NjA4N2EyZmFmMGRhNTQwNzJhMjgxOTk4",
   "tracks": [
     {
       "added_at": "2022-10-03 17:39:20",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-10-03 17:39:20",
       "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 243783,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
-    },
-    {
-      "added_at": "2022-10-03 17:39:20",
-      "album": {
         "name": "The Purge",
         "url": "https://open.spotify.com/album/1rN72pQnsIJo2MqHfqDqYA"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 256466,
       "name": "The Purge",
       "url": "https://open.spotify.com/track/72Cz4BgCt2RZQL3JQVwRwG"
+    },
+    {
+      "added_at": "2022-10-03 17:39:20",
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 243783,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
     },
     {
       "added_at": "2022-10-03 17:39:20",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-10-03 17:39:20",
       "album": {
-        "name": "The Steeple",
-        "url": "https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "The Steeple",
-      "url": "https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2"
-    },
-    {
-      "added_at": "2022-10-03 17:39:20",
-      "album": {
         "name": "Entertain You",
         "url": "https://open.spotify.com/album/0kLPfU7TA882mqHNmrMVWB"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 211045,
       "name": "Entertain You",
       "url": "https://open.spotify.com/track/2yiDAvEEqGrkKZpNYCJ5Wm"
+    },
+    {
+      "added_at": "2022-10-03 17:39:20",
+      "album": {
+        "name": "The Steeple",
+        "url": "https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 207445,
+      "name": "The Steeple",
+      "url": "https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2"
     },
     {
       "added_at": "2022-10-03 17:39:20",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-10-03 17:39:20",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/6fdWJnMaCRzCvsHhTvrXGU"
-      },
-      "artists": [
-        {
-          "name": "Clio Cadence",
-          "url": "https://open.spotify.com/artist/7ptBJGsem3xogV261ZUhtq"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/1D27ysHw4QbNyGfEe4yljT"
-    },
-    {
-      "added_at": "2022-10-03 17:39:20",
-      "album": {
         "name": "Selkie",
         "url": "https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE"
       },
@@ -1243,26 +1227,6 @@
       "duration_ms": 263799,
       "name": "Selkie",
       "url": "https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef"
-    },
-    {
-      "added_at": "2022-10-03 17:39:20",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/0QH0SPSXwLl3PPNdAD1Zuk"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ"
     },
     {
       "added_at": "2022-10-03 17:39:20",
@@ -1299,6 +1263,58 @@
     {
       "added_at": "2022-10-03 17:39:20",
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/6fdWJnMaCRzCvsHhTvrXGU"
+      },
+      "artists": [
+        {
+          "name": "Clio Cadence",
+          "url": "https://open.spotify.com/artist/7ptBJGsem3xogV261ZUhtq"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/1D27ysHw4QbNyGfEe4yljT"
+    },
+    {
+      "added_at": "2022-10-03 17:39:20",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0QH0SPSXwLl3PPNdAD1Zuk"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ"
+    },
+    {
+      "added_at": "2022-10-03 17:39:20",
+      "album": {
+        "name": "Deadly Diminuendo",
+        "url": "https://open.spotify.com/album/18IqZIXN29LgCfyOW1eSFl"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 300579,
+      "name": "Deadly Diminuendo",
+      "url": "https://open.spotify.com/track/2pegQHGPUESaQVskx8abmD"
+    },
+    {
+      "added_at": "2022-10-03 17:39:20",
+      "album": {
         "name": "Serves You Right",
         "url": "https://open.spotify.com/album/1peMzsH0CEKYGcj4t2wdrg"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 214320,
       "name": "Serves You Right",
       "url": "https://open.spotify.com/track/1xPlB6cboQgE0C9yVlVc0v"
-    },
-    {
-      "added_at": "2022-10-03 17:39:20",
-      "album": {
-        "name": "A Villain's Monologue",
-        "url": "https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU"
-      },
-      "artists": [
-        {
-          "name": "Blood Command",
-          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "A Villain's Monologue",
-      "url": "https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP"
     }
   ],
   "unique_name": "Heavy Queens",

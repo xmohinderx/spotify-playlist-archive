@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Tegan & Sara
 
-1,390 songs - 3 day 1 hr 9 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,391 songs - 3 day 1 hr 14 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [AMERICAN DREAM](https://open.spotify.com/track/1dZpKFO7vErbONAuYB4ON3) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [AMERICAN DREAM](https://open.spotify.com/album/2K7Rl7AGmFmMvx4tYnC05u) | 2:31 | 2022-08-19 | 2022-08-23 |
 | [American Football](https://open.spotify.com/track/1NI5y9DsyLxdybMe7i3OdN) | [Kitten](https://open.spotify.com/artist/4zHX9zUUtxUw898g1GyihC) | [American Football](https://open.spotify.com/album/702HLtsHLyZaHqg9S1GWJO) | 3:21 | 2021-03-02 | 2021-05-20 |
 | [American Teenager](https://open.spotify.com/track/2k5D4U0IEcEW5eGyNtpXhH) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [American Teenager](https://open.spotify.com/album/5LFr8f5ZW3vhdaDKsIDh7a) | 4:18 | 2022-04-25 | 2022-08-06 |
+| [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 | 2022-10-21 |  |
 | [Ancient History](https://open.spotify.com/track/7xraSFStWpP7VT3CiJlXAj) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LIFE IN A SIMULATION](https://open.spotify.com/album/2c6v5CCrPsVVSHfEwOVTRT) | 3:56 | 2021-10-22 | 2022-04-21 |
 | [and it sounds like \(ice cream\)](https://open.spotify.com/track/29OFcHc0kWNGMYgs6OWZuN) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [and it sounds like \(ice cream\)](https://open.spotify.com/album/6fWHxmatgCkHpC3BmECELk) | 2:35 | 2021-10-29 | 2022-04-05 |
 | [Angelina](https://open.spotify.com/track/4CGU5NFKLgzgzsWL7kjDUS) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Angelina](https://open.spotify.com/album/3ZDnjVQOnX7EupQ72AxvtC) | 3:50 | 2022-06-17 | 2022-07-24 |
@@ -477,7 +478,7 @@
 | [Garden](https://open.spotify.com/track/0oRKaRJ4wIj7Rh29xRCLyK) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Garden](https://open.spotify.com/album/0dG5hvAPBxw6YpcGXujBUo) | 2:46 | 2021-02-25 | 2021-02-26 |
 | [Garden of Eden](https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Garden of Eden](https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ) | 3:19 | 2021-02-08 | 2021-10-28 |
 | [Gasoline](https://open.spotify.com/track/5tVbKij7vNLI0psFkkzyew) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/6NtEjhPWfZcvJQuvjGX4bk) | 3:13 | 2020-10-20 | 2021-06-03 |
-| [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 | 2022-06-17 |  |
+| [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 | 2022-06-17 | 2022-10-28 |
 | [Georgia Peach \(Sketch\)](https://open.spotify.com/track/4ymCext30WfpFv4suoi0Tg) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Georgia Peach \(Sketch\)](https://open.spotify.com/album/6EoZjS60umuw3aoEDr2kbA) | 2:15 | 2021-10-14 | 2021-10-16 |
 | [Germs](https://open.spotify.com/track/4aYReiTel4KEnn0kUkU1OU) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Germs](https://open.spotify.com/album/0dkT3eIRkeOtwWqRPx4cCH) | 3:51 | 2020-11-20 | 2021-03-23 |
 | [Get Lost](https://open.spotify.com/track/7xhEhQbq7nx52PS3SCtPD7) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O), [sharks!](https://open.spotify.com/artist/71vW7bUZpmzrvFgIwoVyzV) | [Get Lost](https://open.spotify.com/album/1ty6vJDDXNMUNVSPifz6nb) | 2:56 | 2021-07-19 | 2022-04-15 |

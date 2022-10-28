@@ -30,6 +30,32 @@
     },
     {
       "album": {
+        "name": "7 Seas",
+        "url": "https://open.spotify.com/album/1tfvM0KU4wHsTQXJFgSxrF"
+      },
+      "artists": [
+        {
+          "name": "Avatar Project",
+          "url": "https://open.spotify.com/artist/2EYGaKp7rT0DIbVSJORNUn"
+        },
+        {
+          "name": "Crazy Box",
+          "url": "https://open.spotify.com/artist/1dRcKuOPCEqKUxF42QSnLP"
+        },
+        {
+          "name": "Invader Space",
+          "url": "https://open.spotify.com/artist/1eS05zjEuBm4DT6j2prv6Q"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432319,
+      "name": "7 Seas",
+      "url": "https://open.spotify.com/track/1JD4cRuzRriKTiMlwDKjF5"
+    },
+    {
+      "album": {
         "name": "A Cookie From Space",
         "url": "https://open.spotify.com/album/1QbTncSh1e7wfVvJXLEX4G"
       },
@@ -4261,7 +4287,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 379300,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/3vQurSrefHhu4M7f71U0is"

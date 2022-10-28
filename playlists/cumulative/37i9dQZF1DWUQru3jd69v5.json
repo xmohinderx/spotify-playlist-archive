@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Kid Yugi",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Yunes LaGrintaa, Kassimi",
   "name": "Raptopia",
   "published_playlist_ids": [
     "6nhHRG6xegRC3RJpPdvh9l"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 113877,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5AcsGDFaLi9t576So8hFZQ"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 135874,
       "name": "Angel Gabriel",
       "url": "https://open.spotify.com/track/4OEligpS2COR14Plpw8c8f"
@@ -463,10 +463,28 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 187058,
       "name": "BABAMAN",
       "url": "https://open.spotify.com/track/4SoVmDaaTx0BCNDKI76NCf"
+    },
+    {
+      "album": {
+        "name": "Baby Mama",
+        "url": "https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151160,
+      "name": "Baby Mama",
+      "url": "https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5"
     },
     {
       "album": {
@@ -884,6 +902,28 @@
     },
     {
       "album": {
+        "name": "Bricks",
+        "url": "https://open.spotify.com/album/42gd6fvDXBuOPZNn0HpzeF"
+      },
+      "artists": [
+        {
+          "name": "Tommy Brillante",
+          "url": "https://open.spotify.com/artist/3h4O6TeqWlerxYOmNvXQ4A"
+        },
+        {
+          "name": "Westcross",
+          "url": "https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113513,
+      "name": "Bricks",
+      "url": "https://open.spotify.com/track/59RVTRsJCrbxjmIOLT2auU"
+    },
+    {
+      "album": {
         "name": "BUGIE",
         "url": "https://open.spotify.com/album/0og11vK6AW2XIFnr0maeAh"
       },
@@ -1229,6 +1269,28 @@
       "duration_ms": 176561,
       "name": "COCOCHANEL",
       "url": "https://open.spotify.com/track/6wDwxm0gHrcyCWvJ3Fb4WQ"
+    },
+    {
+      "album": {
+        "name": "Come Mai",
+        "url": "https://open.spotify.com/album/7Gvadg1kPZmybKgSZVqhmd"
+      },
+      "artists": [
+        {
+          "name": "Baby Rich",
+          "url": "https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN"
+        },
+        {
+          "name": "Nuto Jr",
+          "url": "https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206533,
+      "name": "Come Mai",
+      "url": "https://open.spotify.com/track/4KJCIFLJoAdl3SDLUEclIR"
     },
     {
       "album": {
@@ -2002,6 +2064,32 @@
     },
     {
       "album": {
+        "name": "FERRAGLIA (feat. DrefGold)",
+        "url": "https://open.spotify.com/album/2pxNC7AEOUgfoN36DkBiW4"
+      },
+      "artists": [
+        {
+          "name": "LUCHITOS",
+          "url": "https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX"
+        },
+        {
+          "name": "Draw Ice",
+          "url": "https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG"
+        },
+        {
+          "name": "DrefGold",
+          "url": "https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144390,
+      "name": "FERRAGLIA (feat. DrefGold)",
+      "url": "https://open.spotify.com/track/6pU1t6H5wAleJFFfs8ebey"
+    },
+    {
+      "album": {
         "name": "Sottozero",
         "url": "https://open.spotify.com/album/48LCLFZnK3dUANh9wnXGMS"
       },
@@ -2115,7 +2203,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 88235,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma"
@@ -3161,7 +3249,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 128020,
       "name": "La Pupa",
       "url": "https://open.spotify.com/track/6BvtGYmwbSqoOH9tMKZVMS"
@@ -3428,6 +3516,28 @@
     },
     {
       "album": {
+        "name": "Mari\u00e8 (feat. Kassimi)",
+        "url": "https://open.spotify.com/album/47yhTU5uScGBADR14wgyC3"
+      },
+      "artists": [
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        },
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174558,
+      "name": "Mari\u00e8 (feat. Kassimi)",
+      "url": "https://open.spotify.com/track/5MfWyat51dW4EnIAl3HL3j"
+    },
+    {
+      "album": {
         "name": "Martelli",
         "url": "https://open.spotify.com/album/44QVejjR4OABkqOxFet7Dt"
       },
@@ -3443,6 +3553,28 @@
       "duration_ms": 148195,
       "name": "Martelli",
       "url": "https://open.spotify.com/track/7EZcFoXgyNqMnv5bVMSHz8"
+    },
+    {
+      "album": {
+        "name": "Materia",
+        "url": "https://open.spotify.com/album/2hBOUQzzVit5kMCbrqYVG7"
+      },
+      "artists": [
+        {
+          "name": "Kira",
+          "url": "https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC"
+        },
+        {
+          "name": "Depha Beat",
+          "url": "https://open.spotify.com/artist/6bwVTFdmpdNygRD0jMUQGm"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163409,
+      "name": "Materia",
+      "url": "https://open.spotify.com/track/0Hw8AUMZgyk70EkMcOZso8"
     },
     {
       "album": {
@@ -3567,7 +3699,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 146275,
       "name": "Minor\u00e8",
       "url": "https://open.spotify.com/track/7LlYj0RhsOxFY3prYoj9Y3"
@@ -3589,6 +3721,24 @@
       "duration_ms": 190000,
       "name": "MISS YOU",
       "url": "https://open.spotify.com/track/0tEcORU8uVMkgFIQ0afTvb"
+    },
+    {
+      "album": {
+        "name": "Mis\u00e8re",
+        "url": "https://open.spotify.com/album/3VFxZgTwenSCh3e3K5kDEU"
+      },
+      "artists": [
+        {
+          "name": "Bubu Doc",
+          "url": "https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136734,
+      "name": "Mis\u00e8re",
+      "url": "https://open.spotify.com/track/3HkGR5ajSAUQzghxcSvJFX"
     },
     {
       "album": {
@@ -3873,7 +4023,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 179280,
       "name": "NO CONFIDENCE",
       "url": "https://open.spotify.com/track/4aCdjK8tuejHwGSTpgRCez"
@@ -4101,7 +4251,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 146000,
       "name": "Pappone",
       "url": "https://open.spotify.com/track/318VJBfV0eQarH5Bmq0NtV"
@@ -4574,6 +4724,40 @@
     },
     {
       "album": {
+        "name": "RM DRILL",
+        "url": "https://open.spotify.com/album/1WUBE6hwh6G1xMcOGPJiEI"
+      },
+      "artists": [
+        {
+          "name": "Naver",
+          "url": "https://open.spotify.com/artist/5uAeyLL0e4StdJe6JvhLep"
+        },
+        {
+          "name": "Nooz",
+          "url": "https://open.spotify.com/artist/0tNnueuFr4i3DqMlhIikmW"
+        },
+        {
+          "name": "Titien",
+          "url": "https://open.spotify.com/artist/4T3Uc7PdFGOqmKxVP8lWSN"
+        },
+        {
+          "name": "Gordo Mendoza",
+          "url": "https://open.spotify.com/artist/01BsDBqdooDuru7PTircPQ"
+        },
+        {
+          "name": "Tropic Thunder",
+          "url": "https://open.spotify.com/artist/6uvs1fRGySw5xUeAOrdyWm"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170416,
+      "name": "RM DRILL",
+      "url": "https://open.spotify.com/track/0gAM6MXX8xyfFDKq2F3Zz6"
+    },
+    {
+      "album": {
         "name": "Immigrato",
         "url": "https://open.spotify.com/album/2TDtTQaaS9DH6KnZsgHP5r"
       },
@@ -4836,6 +5020,28 @@
     },
     {
       "album": {
+        "name": "Settembre",
+        "url": "https://open.spotify.com/album/1W06j6H9EF3HEMxX6yEr3J"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Settembre",
+      "url": "https://open.spotify.com/track/4hUS2xbkB22ErKwVi8PyCg"
+    },
+    {
+      "album": {
         "name": "SIDE HOE",
         "url": "https://open.spotify.com/album/1ntgh7yEXIbKrb73KWz3yr"
       },
@@ -4949,7 +5155,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 128925,
       "name": "SOCIAL",
       "url": "https://open.spotify.com/track/2Q7XAHQ0bk3GooyDG8Nlb6"
@@ -5270,6 +5476,24 @@
     },
     {
       "album": {
+        "name": "Tookie Williams (3/3)",
+        "url": "https://open.spotify.com/album/7ehWKXdXES5KOnM5sSCOjE"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Tookie Williams (3/3)",
+      "url": "https://open.spotify.com/track/0byOney03xKL4Ze0RR18nJ"
+    },
+    {
+      "album": {
         "name": "Immigrato",
         "url": "https://open.spotify.com/album/7gyW0t8LnPglkkU1gICpCQ"
       },
@@ -5355,6 +5579,42 @@
       "duration_ms": 173837,
       "name": "TRENCHES",
       "url": "https://open.spotify.com/track/30Dvav5aDOVbMxBow9H2dR"
+    },
+    {
+      "album": {
+        "name": "Amore Odio",
+        "url": "https://open.spotify.com/album/4I1dXR2vPbyFgSZJKV0NqQ"
+      },
+      "artists": [
+        {
+          "name": "Doll Kill",
+          "url": "https://open.spotify.com/artist/0JOadOTQ5hTC6EYCmKDAsX"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154981,
+      "name": "Trust Nobody",
+      "url": "https://open.spotify.com/track/6ZK1PbmlUBMDtv774We27h"
+    },
+    {
+      "album": {
+        "name": "Turn Up #4",
+        "url": "https://open.spotify.com/album/2SUjwyPhhmrqYsCTKPwDya"
+      },
+      "artists": [
+        {
+          "name": "Em",
+          "url": "https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158550,
+      "name": "Turn Up #4",
+      "url": "https://open.spotify.com/track/3gONZ1bwG2xJFOr8TI0Sz1"
     },
     {
       "album": {
@@ -5608,6 +5868,24 @@
     },
     {
       "album": {
+        "name": "V\u00e9rit\u00e9",
+        "url": "https://open.spotify.com/album/3G6ekX43dDTjzjPbO50N5m"
+      },
+      "artists": [
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145894,
+      "name": "V\u00e9rit\u00e9",
+      "url": "https://open.spotify.com/track/0z3NbX7fjSqEOP1fHc3khu"
+    },
+    {
+      "album": {
         "name": "WAKANDA",
         "url": "https://open.spotify.com/album/65snFdLpTuZB0dYzHscNpg"
       },
@@ -5667,6 +5945,28 @@
       "duration_ms": 153986,
       "name": "Wawa",
       "url": "https://open.spotify.com/track/3OwMlRnyiwe69rAdBSNEOe"
+    },
+    {
+      "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/3YmHryIVevw7zLygiuOgOf"
+      },
+      "artists": [
+        {
+          "name": "Luchino Luce",
+          "url": "https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH"
+        },
+        {
+          "name": "xx.buio",
+          "url": "https://open.spotify.com/artist/79fm1bknXIjgvx5kMmzOm6"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "White boy",
+      "url": "https://open.spotify.com/track/1OUD1z9UQNfhmtdwXE9gPi"
     },
     {
       "album": {

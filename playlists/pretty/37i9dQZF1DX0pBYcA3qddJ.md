@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,889 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,899 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [After Yang Main Theme \- Solo](https://open.spotify.com/track/7oUSWInt45VpluuZWOsygW) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [After Yang Main Theme \(Solo\)](https://open.spotify.com/album/6RZKDe1h0m81vpKaDzkJLf) | 4:21 |
+| 1 | [A Mother's Touch \- 『桜色の風が咲く』オリジナル・サウンドトラックより](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(『桜色の風が咲く』オリジナル・サウンドトラックより\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 |
 | 2 | [月に吠える](https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [月に吠える](https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3) | 3:25 |
 | 3 | [パッヘルベルのカノン \- beautiful sleep ver.](https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム\~beautiful sleep\~](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 3:21 |
 | 4 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 22 | [Temple White](https://open.spotify.com/track/7elLKWtTEMCbOmYZ37ci9r) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 4:24 |
 | 23 | [スカボロー・フェア](https://open.spotify.com/track/4arOaA68Hn65jpwWd5iQcu) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [角田隆太](https://open.spotify.com/artist/4dkZxyYDjevC6xNGRmrUyQ), [広田智之](https://open.spotify.com/artist/4GH4AR07jWn8wTGEvBkFxs), [Yasuji Ohagi](https://open.spotify.com/artist/1VMxb6VCRfw7GNnlIGRlnN) | [ケルト・スピリッツ](https://open.spotify.com/album/7cnkTkfziyo6NKtwHvs9OL) | 3:29 |
 | 24 | [Into My Arms \- 2011 Remastered Version](https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 Remastered Version\)](https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A) | 4:16 |
-| 25 | [エリーゼのために, WoO.59](https://open.spotify.com/track/7w2WJmfMigMYyQMe2xJ9LH) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Rika Miyatani](https://open.spotify.com/artist/5EA6C7SnqfKFFAimI60cq1) | [音楽の玉手箱 Vol\. 1 \- カンタービレ \-](https://open.spotify.com/album/5xChfBf6JMus8YKm0rbioS) | 3:14 |
+| 25 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 |
 | 26 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
 | 27 | [Voyage](https://open.spotify.com/track/6ayNdgQ7ISIGQW6TBelkKl) | [Ichiro Takamoto](https://open.spotify.com/artist/0e6KRrsS9hkrOFoj5fFvFa) | [シャコンヌ・オリエンターレ2](https://open.spotify.com/album/4nuVKjPj8d7HqX8VhOgJsh) | 5:14 |
 | 28 | [You Want It Darker](https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [You Want It Darker](https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU) | 4:44 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 56 | [Pana\-vision](https://open.spotify.com/track/4FXQibsmo2XbStLEBtmIAd) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:08 |
 | 57 | [Found](https://open.spotify.com/track/0nmsZnjOt2rVGToXSyPm18) | [Marika Takeuchi](https://open.spotify.com/artist/0lsDi98XEKVkgN2kdZWBHT) | [Melding](https://open.spotify.com/album/4e9GDgyr6XVS50tjwUeKy0) | 5:13 |
 | 58 | [Home](https://open.spotify.com/track/5vxr0JMWQuHNlpH0YaJADN) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Home](https://open.spotify.com/album/7MszbrrMr9wB55yvce9uGZ) | 3:30 |
-| 59 | [Violin Sonata No\. 1 in D Minor, Op\. 75, R\. 123: II\. Adagio](https://open.spotify.com/track/76zq5F4boCeUXEhxFGPUY9) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [尾池亜美](https://open.spotify.com/artist/3cS5HS2INEMFnSOXCqcZrq), [Takaya Sano](https://open.spotify.com/artist/2RemI5LukbaAX28U1HQzFg) | [French Romanticism](https://open.spotify.com/album/7LlIFbfuWFbB9HliLNU6xj) | 5:48 |
+| 59 | [memories](https://open.spotify.com/track/5jwaNhyhxI7gKHz00a6SKW) | [mayo](https://open.spotify.com/artist/4elfKM7F8wjrq8XOGUDdMo) | [memories](https://open.spotify.com/album/04r704yWWAvWvDWVZGge9i) | 5:03 |
 | 60 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 |
 | 61 | [初戀](https://open.spotify.com/track/1zYjk36LJjAxjAb6izoUSJ) | [Takeshi Senoo](https://open.spotify.com/artist/61n5YgL1SXRIre6tMYlhxq) | [RETRO MODERN DANDY](https://open.spotify.com/album/6uFdwPikkIIXX4dtC7BXuS) | 2:36 |
 | 62 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 99 | [Ise sonorite](https://open.spotify.com/track/4i9aNdBvZgUdZoWXvI8zth) | [齊藤桃子](https://open.spotify.com/artist/38rBUCUOs3mjE227Zh9znJ) | [Oto No Eiga](https://open.spotify.com/album/2VOWJSvAakSiq0fHX19rjF) | 6:55 |
 | 100 | [Adoration \(Version for Solo Violin and String Orchestra\)](https://open.spotify.com/track/1ah3n5wpOQhFQzl9t3qGIu) | [Florence Beatrice Price](https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Zürcher Kammerorchester](https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM) | [America](https://open.spotify.com/album/4s9avSHrTQWXFYuEy0IfNZ) | 3:52 |
 
-Snapshot ID: `MTY2NjcxMDAwMCwwMDAwMDAwMGY4ZjlmNTRjZmNmNWE1NjNhMjliMzZhZDhmZTYxMzMw`
+Snapshot ID: `MTY2Njg4MjgwMCwwMDAwMDAwMDYwZDliZmE2NWRiYWY4NDk0MWU5MTdjMGMyYjliMzli`

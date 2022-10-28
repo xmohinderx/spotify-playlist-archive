@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: French Montana, NAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,748 likes - 101 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,814 likes - 101 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 10 | [Move](https://open.spotify.com/track/5FoSDKPB0QufTlGbOBye0F) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Move](https://open.spotify.com/album/1KaLxqjf1O9xnxS5Z3G1ga) | 3:16 |
 | 11 | [Das U](https://open.spotify.com/track/3zN3TNLf2BHR9889yhofot) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Das U](https://open.spotify.com/album/18WfOTopPutbLshJTL2Mgf) | 2:15 |
 | 12 | [4AM On Dupont](https://open.spotify.com/track/4vxTQp84vJKaHZI0lNbtzP) | [Young Smoke](https://open.spotify.com/artist/3XbEIIeUCZdEDGyTX5pjVD), [Lil Berete](https://open.spotify.com/artist/6FXCc0FAXCsG2WFR1plJjx) | [4AM On Dupont](https://open.spotify.com/album/6S77qSP8TbbRtm9yQiNJve) | 1:59 |
-| 13 | [TRENDSETTER](https://open.spotify.com/track/14ZViTPOLvy5r9PXo9ECAc) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [TRENDSETTER](https://open.spotify.com/album/7D16qtAGlUyoa5nGIpheVb) | 3:52 |
+| 13 | [TRENDSETTER](https://open.spotify.com/track/14ZViTPOLvy5r9PXo9ECAc) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [TRENDSETTER](https://open.spotify.com/album/7D16qtAGlUyoa5nGIpheVb) | 3:50 |
 | 14 | [sophisticated](https://open.spotify.com/track/6p7Fm6TupbX3NU4fsJx5wG) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [sophisticated](https://open.spotify.com/album/1W9TZkECRCF5b1bYbdJxeS) | 2:59 |
 | 15 | [Dude](https://open.spotify.com/track/6C6uzF0DjTq4uG6jcQLftW) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Dude](https://open.spotify.com/album/27dB4D8JGquqfGmnx3wgXi) | 2:28 |
 | 16 | [Ain't Reason](https://open.spotify.com/track/2HCKM5YBNx2D6HX4JHTyTx) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Ain't Reason](https://open.spotify.com/album/3s8ytk8umWShDh35KkDTev) | 2:26 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 65 | [Woah Vicky \(feat\. Michie Mee, Nanna Goodie, LolaBunz, Layla Hendryxx, Charmaine, Keesh\) \[Remix\]](https://open.spotify.com/track/5btK7AGkGad0DaappYjwQ4) | [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE), [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH), [Michie Mee](https://open.spotify.com/artist/1WlzGi0kEyKjZe4egH6BJD), [Keesh](https://open.spotify.com/artist/41Z9f0SLvIWSnG4Z3zRKMg), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Layla Hendryxx](https://open.spotify.com/artist/449ick9GQIWGXhxjSnGlrq), [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa), [Nanna Goodie](https://open.spotify.com/artist/3XH507NuoOIbdyVucztTTB) | [Queen of the 6ix \(Deluxe\)](https://open.spotify.com/album/0GBNs09CluCdn8FUBX4Zzr) | 4:56 |
 | 66 | [ON MY LEVEL](https://open.spotify.com/track/44UhQ3CUjo6W2tRDv0slUZ) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [ON MY LEVEL](https://open.spotify.com/album/1f6EaNTKtT3S9xTqyl4wgm) | 3:22 |
 | 67 | [Nod Off](https://open.spotify.com/track/4WdMHDUWAnPFrQMZVPNjTq) | [Lindasson](https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7) | [Nod Off](https://open.spotify.com/album/3pg3hq3dEacYCNL4htXbLL) | 2:40 |
-| 68 | [I'M GOOD](https://open.spotify.com/track/1o4TXR8pDa6LQHBPhfg9zs) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I'M GOOD](https://open.spotify.com/album/4Yi6Tiw8YKTj43Yy6oQDtd) | 3:16 |
+| 68 | [I'M GOOD](https://open.spotify.com/track/1o4TXR8pDa6LQHBPhfg9zs) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I'M GOOD](https://open.spotify.com/album/4Yi6Tiw8YKTj43Yy6oQDtd) | 3:15 |
 | 69 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 |
 | 70 | [DNA](https://open.spotify.com/track/1XjSSkUJNEckLNcfpwIKYJ) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [DNA](https://open.spotify.com/album/2PDWQaZ40vnTMk59nDZeFz) | 4:35 |
 | 71 | [Black Card](https://open.spotify.com/track/5ejzQ4vFa8FQkHT6qcCBmd) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Black Card](https://open.spotify.com/album/20KFfsB3DWh2V2i2DHqvhc) | 3:46 |

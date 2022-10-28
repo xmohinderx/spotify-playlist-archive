@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:2qoQgPAilErOKCwE2Y8wOG">GloRilla</a>
 
-739 songs - 1 day 9 hr 43 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
+740 songs - 1 day 9 hr 46 min - [published](https://open.spotify.com/playlist/2WbWeZomiAM8yIPIZZMDJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,7 +428,8 @@
 | [My World](https://open.spotify.com/track/3GsQiEOwY9i3q9HQZQWxmr) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [My World](https://open.spotify.com/album/55ko7ulwSD2Mvlhe0sy1ay) | 2:57 | 2022-07-01 | 2022-07-30 |
 | [Naked \(feat\. Latto\)](https://open.spotify.com/track/4aQNaW6LKNMa0FEToHWSmc) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Naked \(feat\. Latto\)](https://open.spotify.com/album/28TW8LGKtoq5vu9h8UYcLM) | 2:54 | 2022-06-03 | 2022-07-23 |
 | [Neck Up \(feat\. Bairi & Dende\)](https://open.spotify.com/track/4RDBqutpLfd5wgkTCVc0Pd) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [Bairi](https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Neck Up \(feat\. Bairi & Dende\)](https://open.spotify.com/album/2nq2LFe4KtUgVTo2m77J97) | 5:05 | 2022-02-18 | 2022-04-09 |
-| [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2IceBv1anwFlb42SoIXlt4) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/7GKeNLuPGAk0hvaSosnfoo) | 2:56 | 2022-10-21 |  |
+| [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2Ebn0K5I06J09d9GmzNNkU) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/0P23gdec7VQ44s1dZaxWLv) | 2:56 | 2022-10-21 |  |
+| [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2IceBv1anwFlb42SoIXlt4) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/7GKeNLuPGAk0hvaSosnfoo) | 2:56 | 2022-10-21 | 2022-10-28 |
 | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/track/5LMk48NX7yjNfN30PP4OQ6) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/album/04owA5C5mh4CyXzpHgFchJ) | 3:59 | 2022-09-16 |  |
 | [Never End Up Broke](https://open.spotify.com/track/05DZcUyOZDX4OR2mc1RIrg) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Never End Up Broke](https://open.spotify.com/album/540ZUOz3g4xw4mokGA0R4K) | 2:42 | 2022-07-01 | 2022-07-30 |
 | [Never End Up Broke Pt\. 2 \(feat\. Pusha T\)](https://open.spotify.com/track/3pPpHxBDoEqEcP4NyPp1iT) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Never End Up Broke Pt\. 2 \(feat\. Pusha T\)](https://open.spotify.com/album/6gVgQxn4oG3WXmcLhK4sBX) | 2:42 | 2022-08-12 | 2022-09-03 |

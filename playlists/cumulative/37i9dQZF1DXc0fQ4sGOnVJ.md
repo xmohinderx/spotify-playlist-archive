@@ -4,7 +4,7 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-119 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
+120 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/5OOV5iyhlmgq86m7yR7wwP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [STOMP YOUR BOOTS](https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [STOMP YOUR BOOTS](https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ) | 2:31 | 2021-11-05 |  |
 | [Stuck](https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Stuck](https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM) | 3:09 | 2021-05-21 |  |
 | [Tall Boy](https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Tall Boy](https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w) | 2:20 | 2021-10-22 |  |
-| [Talladega Nights](https://open.spotify.com/track/6TAtFV2RxtPoF8K9gXv6iA) | [BirdsFlyStoned](https://open.spotify.com/artist/6aqvueqkAH2Tv29y41vJ0r) | [Talladega Nights](https://open.spotify.com/album/27zyvGZrG0Wx7YmXGhWMB7) | 2:05 | 2021-11-19 |  |
+| [Talladega Nights](https://open.spotify.com/track/4R2KbMUCTKc4Jzv3gj97NS) | [BirdsFlyStoned](https://open.spotify.com/artist/6aqvueqkAH2Tv29y41vJ0r) | [Alabama Pimpin](https://open.spotify.com/album/0X4B3EhbmaAFg4bUfEJL2s) | 2:05 | 2022-10-14 |  |
+| [Talladega Nights](https://open.spotify.com/track/6TAtFV2RxtPoF8K9gXv6iA) | [BirdsFlyStoned](https://open.spotify.com/artist/6aqvueqkAH2Tv29y41vJ0r) | [Talladega Nights](https://open.spotify.com/album/27zyvGZrG0Wx7YmXGhWMB7) | 2:05 | 2021-11-19 | 2022-10-28 |
 | [The Barn](https://open.spotify.com/track/0L0dOOe5RvPL80FRNdNY4f) | [Dustin Collins](https://open.spotify.com/artist/0UAApelK1eVZ1azjujCSH6) | [The Barn](https://open.spotify.com/album/2YmaLYYprO8ta9liJ2dOVJ) | 3:25 | 2021-05-21 |  |
 | [The Dream](https://open.spotify.com/track/5TKsfF1CEzUOWe4GDhKKKh) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [The Dream](https://open.spotify.com/album/12sCOUpKUUFF9XS31GKRLN) | 3:12 | 2021-07-02 |  |
 | [The Plane](https://open.spotify.com/track/38HqbvZgTBA7ZDWrzoVdVM) | [Good Ol' Boyz](https://open.spotify.com/artist/7h8lt55X2S8mucaQdnnAqQ), [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Green Handle](https://open.spotify.com/album/5y7pMr1i2gVdTukGSeKFq0) | 5:50 | 2021-05-21 |  |

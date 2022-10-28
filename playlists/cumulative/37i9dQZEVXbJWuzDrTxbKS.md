@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Latvia.
 
-1,077 songs - 2 day 10 hr 5 min - [published](https://open.spotify.com/playlist/1Sy32iFBBMqMOiw8A7cPe3)
+1,078 songs - 2 day 10 hr 8 min - [published](https://open.spotify.com/playlist/1Sy32iFBBMqMOiw8A7cPe3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 |  |
 | [Aomine Daiki](https://open.spotify.com/track/5X1FYw7MXEgnPmQAYwAa0q) | [quiizzzmeow](https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW) | [Aomine Daiki](https://open.spotify.com/album/47JA7w64AWwtd38x8hvCJz) | 2:47 | 2021-10-07 | 2021-10-10 |
 | [Apart](https://open.spotify.com/track/4xpnTZRyz0370mPNC4C233) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd), [Hysaze](https://open.spotify.com/artist/0OvAdt4y8gH1lnUOCRxf9D) | [Apart](https://open.spotify.com/album/4zokRKFdzY9UGRq1Q3oWGW) | 3:18 | 2022-03-07 | 2022-03-09 |
-| [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2022-07-20 |  |
+| [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2022-07-20 | 2022-10-28 |
 | [Ar Mani Atkal Runā Kaijas](https://open.spotify.com/track/4IIwEJPzz7bJOTnvhvBFnf) | [Raimonds Pauls](https://open.spotify.com/artist/01pSsqt7FLdq2SC6UqjER3), [Nora Bumbiere](https://open.spotify.com/artist/4CYZRz0HWS20cTgIhD8Vy0), [Viktors Lapčenoks](https://open.spotify.com/artist/3PaCz9DDjeSdse2rSFttko) | [Teic, Kur Zeme Tā](https://open.spotify.com/album/54s6T3VwuSnASnaIDKSHFL) | 2:40 | 2021-06-25 | 2022-06-26 |
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2021-03-27\* | 2021-06-25 |
 | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9) | 2:36 | 2022-07-23 | 2022-07-25 |
@@ -363,6 +363,7 @@
 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-04-25 | 2022-09-04 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-14 |
 | [HUBLOT](https://open.spotify.com/track/6qbIECewSOpuBhWaU98Sp8) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:03 | 2021-05-30 | 2021-06-02 |
+| [Hunnid Bands](https://open.spotify.com/track/0RHD97kROQIllQV5CYtM62) | [YF Gully](https://open.spotify.com/artist/03HRrYeAv2gGQQHvh369Mm), [Boston Pauly](https://open.spotify.com/artist/2baWwv9fGe90pynkyYcf5G) | [Hunnid Bands](https://open.spotify.com/album/181aXLSzJqg0vrCXb5ywVn) | 3:30 | 2022-10-27 |  |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-10-06 |
 | [Hurricane](https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:03 | 2021-10-06 | 2021-10-07 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-17 |  |

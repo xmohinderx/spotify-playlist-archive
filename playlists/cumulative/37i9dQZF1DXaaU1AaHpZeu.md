@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. En portada: Usted Señalemelo
 
-1,272 songs - 3 day 0 hr 3 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
+1,273 songs - 3 day 0 hr 7 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [A W](https://open.spotify.com/track/4mLDXE5bvaYcblXYmmtSu6) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [A W](https://open.spotify.com/album/48LBK4hbxM0RmMD0ywK5vL) | 2:15 | 2022-05-20 | 2022-05-28 |
 | [Abasto](https://open.spotify.com/track/0JOp3SNxkajfOSvDvisMQ9) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Abasto](https://open.spotify.com/album/6kSBZxDtJqyR3iiezyvxRi) | 3:16 | 2022-05-20 | 2022-05-28 |
 | [Abismo](https://open.spotify.com/track/3YvYHaJRtZvOv5oKtCguhT) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [Abismo](https://open.spotify.com/album/3R5RYQdcsU2RGIPbGXRuTv) | 3:51 | 2022-06-10 | 2022-06-19 |
+| [Abismo](https://open.spotify.com/track/1HoIcMd7Ad4mnJiL45ozKR) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Abismo](https://open.spotify.com/album/3porkH8eOkskOaA6nVerJy) | 3:37 | 2022-10-21 |  |
 | [Abril](https://open.spotify.com/track/22LKta789CJX1LDQ4dcYpg) | [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Abril](https://open.spotify.com/album/4lOYOtCwasC7FplyxCZhHu) | 3:16 | 2022-07-15 | 2022-07-23 |
 | [Abril](https://open.spotify.com/track/75GsChn85KRMCYg66fsJtS) | [The Vue](https://open.spotify.com/artist/1bCVI2X0v8Ext3IXFNd0oY) | [Abril](https://open.spotify.com/album/15Y1J1oNeMDznVZnwApNxO) | 4:00 | 2022-03-25 | 2022-04-02 |
 | [Acantilados](https://open.spotify.com/track/0CqNDLl4FNttIkXRsGseGW) | [La Zorra Zapata](https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5), [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Acantilados](https://open.spotify.com/album/6zwTdrtd3h7xbuTK3a6fpM) | 3:11 | 2022-08-19 | 2022-08-27 |

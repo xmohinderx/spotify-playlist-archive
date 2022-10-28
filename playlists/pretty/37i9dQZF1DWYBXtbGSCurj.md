@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Papatinho, Mc Hariel, L7NNON, Cidinho & Doca
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,077 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,263 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 33 | [Pixadão](https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Pixadão](https://open.spotify.com/album/11XLoSzIKieX8A4zC9mNcq) | 5:10 |
 | 34 | [Trap da Norte](https://open.spotify.com/track/3yGDTQFX8iiwMwSeDpX18B) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Lil Kid 777](https://open.spotify.com/artist/6BMdcFB9reoqzrsCgvkUGq), [Aires 085](https://open.spotify.com/artist/2mmjHXVxg3uNhf6eqWM7yx), [Mukab](https://open.spotify.com/artist/1rUoRdzeWCqoAn2EoSAj0X), [Kayin](https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61) | [Trap da Norte](https://open.spotify.com/album/3SZkt2nthlWDbgpdU2LL5I) | 4:20 |
 | 35 | [Baby Cê é Gata](https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Baby Cê é Gata](https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De) | 1:58 |
-| 36 | [Tô Mudado](https://open.spotify.com/track/2rM4PoRWLhbqRaPnqvi9i3) | [Max Único](https://open.spotify.com/artist/3BBE6ygahYvS36yLUe6Lhh) | [Versátil](https://open.spotify.com/album/74KJcP4LVjg2E3X8yoFX6o) | 2:16 |
+| 36 | [Tô Mudado](https://open.spotify.com/track/2rM4PoRWLhbqRaPnqvi9i3) | [Max Único](https://open.spotify.com/artist/3BBE6ygahYvS36yLUe6Lhh), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Versátil](https://open.spotify.com/album/74KJcP4LVjg2E3X8yoFX6o) | 2:16 |
 | 37 | [Sábado Freestyle](https://open.spotify.com/track/5Uiq0ckUNrjOCzZ2p6MtOx) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Jorge Bask](https://open.spotify.com/artist/5tqwly8nT5UgSI4HHIAPxy), [Orange Money Gang](https://open.spotify.com/artist/7tUDcOWnGnKjNfTVQus7HQ) | [Sábado Freestyle](https://open.spotify.com/album/3s2y1f3OUiGYejtDToklJu) | 2:18 |
 | 38 | [Vida Almejada](https://open.spotify.com/track/43KGGs9ezBSXeBQYICXQJP) | [Real Sagat](https://open.spotify.com/artist/70LmKRWjk1CWMN4v3sTA1T), [1 Giga](https://open.spotify.com/artist/70xMsCOf6Mz0MiqYPqoeQ6), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [Vida Almejada](https://open.spotify.com/album/4aXb83qW0x3INscW6LzuQC) | 3:01 |
 | 39 | [Balazul](https://open.spotify.com/track/1RgJ4lexKGNBlKnyxB5SRt) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU) | [Mateca x Teto](https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7) | 3:22 |

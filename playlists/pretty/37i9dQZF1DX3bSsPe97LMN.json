@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Xavi en portada.",
-  "num_followers": 44976,
+  "num_followers": 45003,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMGY1NGJjNzc1YTMyMjRkZWU4YzQ1ZmQyZDg0OGE0YTlk",
+  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMDdhN2ExYmE1OTg3NWExZmFlZjVmYzVkZWZhMGY5ZGIx",
   "tracks": [
     {
       "added_at": "2022-10-14 05:00:00",
@@ -285,22 +285,6 @@
       "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "El Comienzo del Final",
-        "url": "https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 173816,
-      "name": "El Comienzo del Final",
-      "url": "https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6"
-    },
-    {
       "added_at": "2022-09-30 05:00:00",
       "album": {
         "name": "Volv\u00ed a Creer",
@@ -315,6 +299,22 @@
       "duration_ms": 190624,
       "name": "Volv\u00ed a Creer",
       "url": "https://open.spotify.com/track/2yOfYBPbdI0mi1nTyc9npI"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "El Comienzo del Final",
+        "url": "https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 173816,
+      "name": "El Comienzo del Final",
+      "url": "https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/2ioxOvyD2OAB1FvuE6Whef"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "El Sereno",
-        "url": "https://open.spotify.com/album/3oA4dxVIFwgL6sjPmRZtHz"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 163328,
-      "name": "El Sereno",
-      "url": "https://open.spotify.com/track/5QPWf9dawZ1Y9RbQHIUSlA"
-    },
-    {
       "added_at": "2022-09-30 05:00:00",
       "album": {
         "name": "Ando Bien \u00dc",
@@ -483,6 +467,22 @@
       "duration_ms": 164457,
       "name": "Ando Bien \u00dc",
       "url": "https://open.spotify.com/track/1x6o9oZPUhniTVaSsqPtX8"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "El Sereno",
+        "url": "https://open.spotify.com/album/3oA4dxVIFwgL6sjPmRZtHz"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 163328,
+      "name": "El Sereno",
+      "url": "https://open.spotify.com/track/5QPWf9dawZ1Y9RbQHIUSlA"
     },
     {
       "added_at": "2022-10-07 15:36:37",
@@ -677,38 +677,6 @@
       "url": "https://open.spotify.com/track/08JZ13k4VQOqq14HIb58vk"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Con Un Porte Diferente (Vol 2)",
-        "url": "https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 216851,
-      "name": "Dices Que Me Quieres",
-      "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Tres Veces Te Enga\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/5xHrXcWSCwKsn7v4pzuqmN"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Tres Veces Te Enga\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5E8jO69OMYtFRsrxW04Upw"
-    },
-    {
       "added_at": "2022-09-30 05:00:00",
       "album": {
         "name": "la del rencoroso",
@@ -727,6 +695,38 @@
       "duration_ms": 132631,
       "name": "la del rencoroso",
       "url": "https://open.spotify.com/track/7rGR1C1xvHzZ4D0wRPnJm5"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Tres Veces Te Enga\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/5xHrXcWSCwKsn7v4pzuqmN"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Tres Veces Te Enga\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5E8jO69OMYtFRsrxW04Upw"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Con Un Porte Diferente (Vol 2)",
+        "url": "https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 216851,
+      "name": "Dices Que Me Quieres",
+      "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1025,26 +1025,6 @@
       "url": "https://open.spotify.com/track/7pN65zLIOXe841agZeJIxJ"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Me Muero Por Tenerte",
-        "url": "https://open.spotify.com/album/5fsETqTQv6MtnpTKpLURKa"
-      },
-      "artists": [
-        {
-          "name": "Los Del Puerto",
-          "url": "https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e"
-        },
-        {
-          "name": "Grupo 415",
-          "url": "https://open.spotify.com/artist/4T7VVYDG8RzvV1E0zUP6Gw"
-        }
-      ],
-      "duration_ms": 236464,
-      "name": "Me Muero Por Tenerte",
-      "url": "https://open.spotify.com/track/1TaUH3gMmI52eJwnQjpKrg"
-    },
-    {
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "Bajo la Lluv\u00eda",
@@ -1063,6 +1043,26 @@
       "duration_ms": 154017,
       "name": "Bajo la Lluv\u00eda",
       "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Me Muero Por Tenerte",
+        "url": "https://open.spotify.com/album/5fsETqTQv6MtnpTKpLURKa"
+      },
+      "artists": [
+        {
+          "name": "Los Del Puerto",
+          "url": "https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e"
+        },
+        {
+          "name": "Grupo 415",
+          "url": "https://open.spotify.com/artist/4T7VVYDG8RzvV1E0zUP6Gw"
+        }
+      ],
+      "duration_ms": 236464,
+      "name": "Me Muero Por Tenerte",
+      "url": "https://open.spotify.com/track/1TaUH3gMmI52eJwnQjpKrg"
     },
     {
       "added_at": "2022-09-23 19:34:49",

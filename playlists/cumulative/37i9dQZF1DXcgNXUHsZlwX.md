@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. Photo: Hanorah
 
-377 songs - 22 hr 16 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+378 songs - 22 hr 19 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1000 \- sunset version](https://open.spotify.com/track/4p6e7EE4NVJ8ZkO7UNRyq6) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [1000](https://open.spotify.com/album/2YHeBvEeEKpRN04rUIMRWp) | 3:59 | 2021-09-19 | 2022-07-28 |
 | [1000 Bornes](https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [The Paradise Club](https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7) | 3:04 | 2022-05-20 | 2022-09-26 |
 | [1000 Times](https://open.spotify.com/track/6VhrEDlP5O5zFTrvA7KoXh) | [Metò](https://open.spotify.com/artist/4wp0ECrVP1QOBZNo9JxMY2) | [1000 Times](https://open.spotify.com/album/1uxoj9PkFEBpxrdZay2b9s) | 3:57 | 2022-09-23 |  |
-| [4900$](https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf) | [\(les\) méandres de la soif](https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ) | 2:33 | 2021-01-03\* |  |
+| [4900$](https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf) | [\(les\) méandres de la soif](https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ) | 2:33 | 2021-01-03\* | 2022-10-28 |
 | [Acapulco](https://open.spotify.com/track/1I0rpCvX2MyCp3KRM2kp70) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq) | [Les rêves sont faits](https://open.spotify.com/album/05Ppnlutbe72LvBOawQxZJ) | 3:38 | 2021-01-03\* | 2021-01-30 |
 | [Acid Rain](https://open.spotify.com/track/2GlDzxxz0k9aUZdM7cGAJV) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m) | [Acid Rain](https://open.spotify.com/album/7n06K0Qu5z9cb7KMR7ufHF) | 3:35 | 2022-01-21 | 2022-07-29 |
 | [Aimer pour rien](https://open.spotify.com/track/17VMy2EpU7NqzxwJahfWJM) | [Foisy](https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt) | [Aimer pour rien](https://open.spotify.com/album/3bOZljV3BFvLlKgmZFehgB) | 3:28 | 2021-04-10 | 2021-05-03 |
@@ -188,6 +188,7 @@
 | [Le simple](https://open.spotify.com/track/2Oj0aR9EomWBKMHSXBux77) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Perceptions](https://open.spotify.com/album/5pAGp5FtQCEqqC8uLXoo56) | 2:34 | 2021-03-15 | 2021-05-07 |
 | [Le souhait de Carmen](https://open.spotify.com/track/6SBDaSKJHFlDpaFKDn4Dy7) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Haute Mère](https://open.spotify.com/album/4SwLXWJcGSbeWwhRRCs9Kt) | 4:44 | 2021-05-08 | 2021-09-25 |
 | [Le temps que tu reviennes](https://open.spotify.com/track/3k13v4PvFzIy1EyEYNycUr) | [Louis Delort](https://open.spotify.com/artist/7fcA3cM0NEyWAoXYzyYKW7) | [Stockholm](https://open.spotify.com/album/0fdOiB5OX9vamq8PeI79zf) | 3:06 | 2021-02-22 | 2021-05-04 |
+| [Le Tour](https://open.spotify.com/track/1pCNb1IlrpyBYCKPZ4v9wU) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP) | 3:20 | 2022-10-14 |  |
 | [Le Tour](https://open.spotify.com/track/2bstLxHshzom3DVgB5j8m4) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk) | 3:20 | 2021-09-20 | 2022-10-13 |
 | [Le triomphe d'une perruche](https://open.spotify.com/track/3THc1qpseFOdr5z6JqAk7y) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Travelling](https://open.spotify.com/album/4DansuCidnugwQO3H3S7VA) | 3:47 | 2021-01-03\* |  |
 | [Le vent se lève](https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Et on pleurera ensemble](https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM) | 3:11 | 2021-10-23 |  |

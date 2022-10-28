@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-19",
-  "description": "Rave season is upon us. Cover: Gorgon City",
+  "description": "Rave season is upon us. Album week for Fred again..!",
   "name": "Open Air",
   "published_playlist_ids": [
     "6LxQz3tR6jvzX341WLcVzk"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 402545,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs"
@@ -424,6 +424,24 @@
     },
     {
       "album": {
+        "name": "Biosph\u00e8re",
+        "url": "https://open.spotify.com/album/2Cu8QDxQTHq57dOO2GfkFO"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224516,
+      "name": "Biosph\u00e8re",
+      "url": "https://open.spotify.com/track/4yxlVbgJ5OdE9ipFOSMNGP"
+    },
+    {
+      "album": {
         "name": "Boom Boom (feat. CHRSTPHR)",
         "url": "https://open.spotify.com/album/7pkY5Owef8tkoR7Y88Olwt"
       },
@@ -541,7 +559,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 276695,
       "name": "Can Do This",
       "url": "https://open.spotify.com/track/5lqoNLfzvjzug14fsMP9gt"
@@ -629,6 +647,24 @@
       "duration_ms": 355920,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar"
+    },
+    {
+      "album": {
+        "name": "Clara (the night is dark)",
+        "url": "https://open.spotify.com/album/6nneI0xOh7SR2zvzHcvB5g"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Clara (the night is dark)",
+      "url": "https://open.spotify.com/track/1PuxHPD8l3mm2CbxrMXy8N"
     },
     {
       "album": {
@@ -793,7 +829,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 210576,
       "name": "Dedication To House Music",
       "url": "https://open.spotify.com/track/6eIY3ybQkIOddP1dxDLB3W"
@@ -953,7 +989,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 175000,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/3wcgQtIGQ4QTTI3VLpmKzN"
@@ -1085,7 +1121,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 333853,
       "name": "Eternal September",
       "url": "https://open.spotify.com/track/3Vpn6xh4JmtryjRp80Krqh"
@@ -1431,7 +1467,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 190819,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/3rDxXmZqpSqqJ2xjBOWHya"
@@ -1883,7 +1919,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 238829,
       "name": "Kammy (like i do)",
       "url": "https://open.spotify.com/track/3j4OQit2L6QaepCMBnAt4c"
@@ -1967,10 +2003,36 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 202023,
       "name": "let me know",
       "url": "https://open.spotify.com/track/3dn0YLb6vOGNjls1TCnn7x"
+    },
+    {
+      "album": {
+        "name": "Let Us Rave (feat. Naeem & Velvet Negroni)",
+        "url": "https://open.spotify.com/album/06IFDe9uzaphIEtCAPEqmf"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Naeem",
+          "url": "https://open.spotify.com/artist/2HmiQV6GQR2VlOZmjEmtnX"
+        },
+        {
+          "name": "Velvet Negroni",
+          "url": "https://open.spotify.com/artist/3RGofWmykr8KICouK8pMUm"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158701,
+      "name": "Let Us Rave (feat. Naeem & Velvet Negroni)",
+      "url": "https://open.spotify.com/track/6QCXhEwzuHhytkeWNlUPvi"
     },
     {
       "album": {
@@ -3324,6 +3386,28 @@
     },
     {
       "album": {
+        "name": "Shadow Work",
+        "url": "https://open.spotify.com/album/1vbxoLn1hVe3qlAyE9gfPX"
+      },
+      "artists": [
+        {
+          "name": "Paraleven",
+          "url": "https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr"
+        },
+        {
+          "name": "Jodie Knight",
+          "url": "https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249761,
+      "name": "Survive (feat. Jodie Knight)",
+      "url": "https://open.spotify.com/track/42QeSoTqIdVcg0DEHyaxye"
+    },
+    {
+      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/6VJLQFVzDbxxc6aHma1NsU"
       },
@@ -3395,6 +3479,24 @@
       "duration_ms": 255000,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/4gjN40eaGDu02UhcIB0mVi"
+    },
+    {
+      "album": {
+        "name": "Take Me To America",
+        "url": "https://open.spotify.com/album/0ZlTqa54yd4gXfMSqaF40x"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231134,
+      "name": "Take Me To America",
+      "url": "https://open.spotify.com/track/5OJQ7sgz7ZEb9Mxsfqlpiv"
     },
     {
       "album": {
@@ -3527,6 +3629,28 @@
       "duration_ms": 299360,
       "name": "The Light",
       "url": "https://open.spotify.com/track/7pPoGOBTtlEm724TAegcw2"
+    },
+    {
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213495,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"
     },
     {
       "album": {
@@ -3706,6 +3830,46 @@
     },
     {
       "album": {
+        "name": "Transmission (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224274,
+      "name": "Transmission - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH"
+    },
+    {
+      "album": {
+        "name": "Liveware",
+        "url": "https://open.spotify.com/album/3sA8rKmuHD7BvBbgqSYDrd"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312702,
+      "name": "Trial Motive",
+      "url": "https://open.spotify.com/track/4axLUgmvqOa6lspKcI44n0"
+    },
+    {
+      "album": {
         "name": "True Love to the Grave (feat. Claudia Kane)",
         "url": "https://open.spotify.com/album/4pTvGotVgYC5M4FJc6pfpG"
       },
@@ -3845,7 +4009,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 345489,
       "name": "Unity",
       "url": "https://open.spotify.com/track/4nw0UJNsLOyUMA76q1e7HZ"
@@ -3955,6 +4119,24 @@
       "duration_ms": 345967,
       "name": "Water - Teho Remix",
       "url": "https://open.spotify.com/track/2yIzrmNW8sBNHQM0QGPHxw"
+    },
+    {
+      "album": {
+        "name": "We Don\u2019t Ever Stop",
+        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160638,
+      "name": "We Don't Ever Stop",
+      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
     },
     {
       "album": {
@@ -4127,7 +4309,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-28",
       "duration_ms": 326146,
       "name": "Zone 1 (24 Hours)",
       "url": "https://open.spotify.com/track/0WBT2NT0p99t8c77aJGQUp"

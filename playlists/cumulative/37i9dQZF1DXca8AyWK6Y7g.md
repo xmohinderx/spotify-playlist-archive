@@ -4,7 +4,7 @@
 
 > living life in your 250sq ft micro apartment Cover: Katherine Li
 
-1,347 songs - 2 day 21 hr 16 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,348 songs - 2 day 21 hr 19 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Butterflies](https://open.spotify.com/track/6fv3KtQp4WKtUfgPCGsqwb) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/6FN7cEitzdKJnH6UlZLJXO) | 2:49 | 2022-03-04 | 2022-06-07 |
 | [Butterflies](https://open.spotify.com/track/1RMvWA6XFFN8cciB2GHYFy) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP), [Elaine Mai](https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy), [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Butterflies](https://open.spotify.com/album/4u3b4Pc923P1iz846Lz1Pj) | 3:23 | 2019-08-17 | 2020-06-12 |
 | [by my side](https://open.spotify.com/track/0iL674uEp8AZtgxXDosSmD) | [Ben Yen](https://open.spotify.com/artist/4IcZa7gtPIs352dbFVBjgZ) | [by my side](https://open.spotify.com/album/69CwjFfP6NM3nPw4nhREfn) | 3:00 | 2021-05-10 | 2021-10-16 |
+| [Bye Bye Blues](https://open.spotify.com/track/1qYDuYKKMoAXvZBv1auEz2) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Bye Bye Blues](https://open.spotify.com/album/3AUPIddaKveMAAqY85pcEO) | 2:50 | 2022-10-21 |  |
 | [Bye Bye Bye \- From the Original Motion Picture "Red Rocket"](https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I) | [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [Bye Bye Bye \(From the Original Motion Picture "Red Rocket"\)](https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd) | 2:07 | 2021-12-10 | 2022-01-29 |
 | [Caffeine](https://open.spotify.com/track/3kEegRRwwQnQ7sik2oRoaJ) | [Max Drazen](https://open.spotify.com/artist/2gxdQj1Dy77p45uTuve030) | [Caffeine](https://open.spotify.com/album/7qOX8bMACIwT1T2wGRNj08) | 2:26 | 2022-07-29 |  |
 | [Caged Birds Don't Sing](https://open.spotify.com/track/59yTchIo69gcv6QK4lGcdJ) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [LET ME OUT I'M FREE!](https://open.spotify.com/album/4osFZQaMRxkx5DsfYVBhOG) | 3:29 | 2022-05-20 | 2022-05-31 |
@@ -448,7 +449,7 @@
 | [Girl](https://open.spotify.com/track/69kAcS8DhobvRRPnqosUIC) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [Girl](https://open.spotify.com/album/0vtO2fobzGsMZ8F7XrR4vL) | 3:09 | 2019-12-08 | 2020-04-14 |
 | [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-15 |  |
 | [girl ur so pretty](https://open.spotify.com/track/2U55cNHErmbpOxq9TTrjSG) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [girl ur so pretty](https://open.spotify.com/album/2laKIsp6nPOKXjlGYro4e4) | 3:08 | 2022-05-13 | 2022-06-25 |
-| [Girl Who Does Both](https://open.spotify.com/track/1ewA2ju9VPzBSxG991vQHi) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:50 | 2022-06-17 |  |
+| [Girl Who Does Both](https://open.spotify.com/track/1ewA2ju9VPzBSxG991vQHi) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:50 | 2022-06-17 | 2022-10-28 |
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-10 |  |
 | [Girls In Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 | 2022-02-18 | 2022-07-16 |
 | [girl’s girl \- Spotify Singles](https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [girl’s girl \- Spotify Singles](https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3) | 3:17 | 2022-10-19 |  |

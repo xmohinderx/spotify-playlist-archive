@@ -4,7 +4,7 @@
 
 > \(Deep House /Slap House /G\-House &amp; More\) \| 2022
 
-150 songs - 7 hr 9 min - not published yet
+151 songs - 7 hr 11 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Ya Lili](https://open.spotify.com/track/4RuZ25QfmKPM6KzmPMbYPq) | [Starix](https://open.spotify.com/artist/0swy1XHC1ufrhPon1kZ6xV), [XZEEZ](https://open.spotify.com/artist/2RiUm9R19CexHcvpC5hD8Z) | [Ya Lili](https://open.spotify.com/album/4HuYTCPDm3S20BJEDdE4k5) | 4:19 | 2022-09-23 |  |
 | [Yes](https://open.spotify.com/track/4T7nFNsKu9LwPImYBvU0KC) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [Kaan Avşar](https://open.spotify.com/artist/4PKLgaVH2zXZCuRIbjxse5) | [Yes](https://open.spotify.com/album/35a2fMjv0yBwX4ABhidJkW) | 3:51 | 2022-09-23 |  |
 | [Yokai](https://open.spotify.com/track/2RE1bhXxLWTRQnXHJKooWt) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ) | [Yokai](https://open.spotify.com/album/2eyc4lXVsxLAR0keCe4jti) | 2:55 | 2022-09-23 |  |
+| [Yokai 2](https://open.spotify.com/track/3SuJdvsccLAYXlzRdSXutG) | [NECROLX](https://open.spotify.com/artist/6IQCHQSopenTR9Tr9vIelQ) | [Yokai 2](https://open.spotify.com/album/43XgFPRDol7FxWU4DyH8tt) | 2:43 | 2022-10-27 |  |
 | [You and I Falling](https://open.spotify.com/track/7w53i4JJMMxhsisW7dZPIc) | [maginexM](https://open.spotify.com/artist/1nDal0AmXO9yAx6xoVeUiD) | [You and I Falling](https://open.spotify.com/album/22cb8HbxgIEp6BbqHwGhXb) | 2:41 | 2022-09-23 |  |
 | [Zero Two \- Darling Ohayo](https://open.spotify.com/track/0aBessClKPpJ0ttUno9lD5) | [Bemax](https://open.spotify.com/artist/16rbId8hE3Eg4mpy2I2rcv) | [Zero Two \(Darling Ohayo\)](https://open.spotify.com/album/2r1T1cbhOxQrymKqzldfl9) | 2:10 | 2022-09-23 |  |
 | [Забей](https://open.spotify.com/track/3Qe0qzlUUxpKBn7jx6umQF) | [XZEEZ](https://open.spotify.com/artist/2RiUm9R19CexHcvpC5hD8Z), [A'Lone](https://open.spotify.com/artist/0FdVEJ79HZwk9RlHyU2Tvc), [Zhanelya](https://open.spotify.com/artist/5nemrL2vL312LySJWx8b59) | [Забей](https://open.spotify.com/album/0ZF7L7VhhHXMwfUFuGQ2ww) | 2:38 | 2022-09-23 |  |

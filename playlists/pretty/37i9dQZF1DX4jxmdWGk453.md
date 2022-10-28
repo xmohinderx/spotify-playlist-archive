@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,772 likes - 47 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,830 likes - 47 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 46 | [O Tannenbaum](https://open.spotify.com/track/1cU1C2UyM7Os13XKI8SQPz) | [The Barbershop Singers](https://open.spotify.com/artist/2ihbqMC5FLIURCSTBvsQed) | [A Barbershop Christmas](https://open.spotify.com/album/0sra8b07OvY3gfezNtToSf) | 0:59 |
 | 47 | [O Come, Emmanuel](https://open.spotify.com/track/0WCxyTsIy2WK42bz5yaCgt) | [The Master's Men](https://open.spotify.com/artist/3uaKcB7uDejFLUSGYxs5bM) | [Traditional Christmas](https://open.spotify.com/album/6bZUcVIrMdTBq7wGU7Y6zQ) | 1:34 |
 
-Snapshot ID: `MTY2NjYxNTYwOSwwMDAwMDAwMGQwZjBkMDk2MTE3NDk2MGE0ZjFjMjdjMzFjZWE3MDA5`
+Snapshot ID: `MTY2Njg1NTM4MiwwMDAwMDAwMDA3NGY4MTc2ZmRiYzU2NTk1Zjc1OTVlM2FhMzU5OGU4`

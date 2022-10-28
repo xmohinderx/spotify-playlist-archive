@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-626 songs - 1 day 17 hr 53 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+627 songs - 1 day 17 hr 56 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Do Yeah](https://open.spotify.com/track/5Mr5KZ3tAWKwqsj1wCngmF) | [Bananagun](https://open.spotify.com/artist/2bgMCMbcjoMXemFtGbPPeh) | [Do Yeah](https://open.spotify.com/album/7nWGYZhW6V70zhTEedu2sX) | 2:58 | 2021-04-02 | 2022-04-20 |
 | [Do You](https://open.spotify.com/track/1i40x2PNAf0Z8hfqUYuoty) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Do You](https://open.spotify.com/album/5H1eBKooUBbSn2QlFSAWr6) | 3:04 | 2022-06-17 | 2022-07-25 |
 | [Do You Realize??](https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 3:33 | 2022-07-22 |  |
-| [Don't Come Back](https://open.spotify.com/track/0woeyl9aHAxviN2nEcUxmj) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Don't Come Back](https://open.spotify.com/album/1JIStSjrhT76FZelRHlVSt) | 3:37 | 2022-07-15 |  |
+| [Don't Come Back](https://open.spotify.com/track/0woeyl9aHAxviN2nEcUxmj) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Don't Come Back](https://open.spotify.com/album/1JIStSjrhT76FZelRHlVSt) | 3:37 | 2022-07-15 | 2022-10-28 |
 | [Don't Fight The Feeling](https://open.spotify.com/track/6a94gSINCcIhFs6QM3ivmx) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Don't Fight The Feeling](https://open.spotify.com/album/0F9BfPKfqHWVqFdnm8RJZ5) | 5:04 | 2022-06-03 | 2022-07-29 |
 | [Done Hanging On \- Joel Wolf Alice Remix](https://open.spotify.com/track/7u8pSG11aelk6pqh6z9dE2) | [Attawalpa](https://open.spotify.com/artist/6AJXEIjyYRMwjYNsRL3khD), [Joel Wolf Alice](https://open.spotify.com/artist/5wxpDpOVxfPYTkMx8i0GFj) | [Done Hanging On \(Joel Wolf Alice Remix\)](https://open.spotify.com/album/3lSIo3Zf97kKueaCkNn5Op) | 4:45 | 2021-04-02 | 2022-04-18 |
 | [Doris](https://open.spotify.com/track/01psXbOBykOM12RHATPCjr) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:50 | 2022-04-20 |  |
@@ -501,6 +501,7 @@
 | [SSYNSS](https://open.spotify.com/track/0LygSIQGAgtpX5QDRnek2R) | [Jesse and Forever](https://open.spotify.com/artist/6G2yu1zTnIHZdCgbRhjRju) | [SSYNSS](https://open.spotify.com/album/6yMVQwva34sXtRM3XKznB8) | 2:42 | 2021-04-02 | 2022-07-24 |
 | [St\. Leville](https://open.spotify.com/track/7GywQZS0rFVomHhGEp04lm) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [St\. Leville](https://open.spotify.com/album/1knVOymkpCydLlTpGyXMt8) | 3:08 | 2022-06-17 | 2022-07-30 |
 | [Starting Over](https://open.spotify.com/track/0KtiONnwQ1jQtLnHaXBSku) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Starting Over](https://open.spotify.com/album/3xcxPIPv0dYjPK9XwMRioq) | 3:25 | 2022-04-20 | 2022-06-28 |
+| [Steal This Mug](https://open.spotify.com/track/5AQ7urDH36Z0NobmIIlc2x) | [Meditations on Crime](https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB), [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN), [Harper Simon](https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE) | [Meditations on Crime](https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p) | 3:07 | 2022-10-24 |  |
 | [STILL IN LOVE](https://open.spotify.com/track/2FNDyU7qtE3U4UGZTO1NCo) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [STILL IN LOVE](https://open.spotify.com/album/5fOFmxmkcpTTdC1UloGZG6) | 2:38 | 2022-06-03 | 2022-06-18 |
 | [Story of the Century](https://open.spotify.com/track/5DsZrPJnsKf5sKZtBWXBjz) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Story of the Century](https://open.spotify.com/album/4rBy7vjKDoDQzSP1ghPyAT) | 5:55 | 2022-03-08 | 2022-07-29 |
 | [Strange \(But I Like It\)](https://open.spotify.com/track/3JYeHMyoFPwCztn5PBIm01) | [STACEY](https://open.spotify.com/artist/1rfYzEJpmnmhVM1V6LUHTQ) | [Strange \(But I Like It\)](https://open.spotify.com/album/38f77keNlwqNLlnRhhVg4L) | 3:44 | 2021-06-04 | 2022-07-28 |

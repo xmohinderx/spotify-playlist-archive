@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-438 songs - 1 day 11 hr 11 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+439 songs - 1 day 11 hr 17 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [A Change of a Cityscape](https://open.spotify.com/track/2bQAefezv7y3MI6YumnjMc) | [Motoro Faam](https://open.spotify.com/artist/56TgrV3HK0Dt21DsSTMd92) | [Fragments](https://open.spotify.com/album/3j4kFmNhEp4kNZdltepUbT) | 7:56 | 2022-03-31 | 2022-07-02 |
 | [a few walks](https://open.spotify.com/track/3E5fgDgI17xqZzP1GNGxym) | [Ryoichi Kurokawa](https://open.spotify.com/artist/6ZWwBZl0boEJ7SOZFOlZNv) | [copynature](https://open.spotify.com/album/02WVXDLRKCh4gvuWRn8XyI) | 6:39 | 2022-03-31 | 2022-04-21 |
 | [a guide](https://open.spotify.com/track/6wS9O7pM9gtigUXLHzk242) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [after after hours](https://open.spotify.com/album/6srXbTqiImAu5zPZqbMcy6) | 2:43 | 2022-03-31 | 2022-07-13 |
+| [A Mother's Touch \- 『桜色の風が咲く』オリジナル・サウンドトラックより](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(『桜色の風が咲く』オリジナル・サウンドトラックより\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 | 2022-10-27 |  |
 | [After Dark](https://open.spotify.com/track/3cSsJEy5tiGkJRpMRfPUO8) | [石井悠輝](https://open.spotify.com/artist/3WrQKuYGn08URJ35spu8vJ) | [REFLECTION](https://open.spotify.com/album/6pOjcCujDiE0DvR9aIk3LK) | 1:45 | 2022-03-31 | 2022-05-11 |
 | [AFTER IMAGE](https://open.spotify.com/track/1Jxb8fKZJrobr8T2NCBNlY) | [Masayuki Sakamoto](https://open.spotify.com/artist/3KkI7GpwZIcwRAXOEzP9Pr) | [プシュケ](https://open.spotify.com/album/0olvnM41x2P7CJJ4cvwyFQ) | 3:28 | 2022-04-07 | 2022-06-24 |
 | [Afterglow](https://open.spotify.com/track/7CZqWibNsryIJ3xa4dotBc) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Mirrors in Mirrors](https://open.spotify.com/album/3l3KPWoLYTeX9jYWTFDx4C) | 4:05 | 2022-04-07 | 2022-07-26 |
@@ -292,7 +293,7 @@
 | [rob call](https://open.spotify.com/track/3NOoXCqBqvfCEwaVv9eYud) | [Kadan](https://open.spotify.com/artist/6Kb0sAal8AKieGi3QFuut6), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [CASA](https://open.spotify.com/album/2VZrUwi0qi2hWZIZcveryr) | 4:14 | 2022-04-07 | 2022-07-25 |
 | [Romi and Kuro](https://open.spotify.com/track/3iZbQQ8osjHAw7Mfjeb9fj) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Kuro \(OST\)](https://open.spotify.com/album/19T8jn8CL3WTkwT71g9Hmg) | 2:16 | 2022-03-31 | 2022-04-16 |
 | [ruddy](https://open.spotify.com/track/0taCy75zAy0tSBrSjsDX3A) | [KETA RA](https://open.spotify.com/artist/3uK2cAtHOMJrKpnfplyh7y) | [If...](https://open.spotify.com/album/5mRYoV6IAsh7y93oPxP4UJ) | 6:32 | 2022-03-30 | 2022-07-27 |
-| [Sacred Play Secret Place](https://open.spotify.com/track/5IJ1XPg1t3IAfhxfLRSuA9) | [matryoshka](https://open.spotify.com/artist/4NRS2lkQBjAEWBihpcKUGK) | [Laideronnette](https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs) | 5:17 | 2022-03-30 |  |
+| [Sacred Play Secret Place](https://open.spotify.com/track/5IJ1XPg1t3IAfhxfLRSuA9) | [matryoshka](https://open.spotify.com/artist/4NRS2lkQBjAEWBihpcKUGK) | [Laideronnette](https://open.spotify.com/album/79ayoalAp1qHjyD1UlvNWs) | 5:17 | 2022-03-30 | 2022-10-28 |
 | [said](https://open.spotify.com/track/6xEFlZXHUM23f3fPSwxgHG) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Sea Said](https://open.spotify.com/album/61gdsPUMmubT9HFCl1TahO) | 3:12 | 2022-03-31 | 2022-07-22 |
 | [Saints](https://open.spotify.com/track/5P85wRorhla78MYAhdixph) | [LLLL](https://open.spotify.com/artist/13aiEk0fFVGkLXyNMrdM7o) | [Saints](https://open.spotify.com/album/55PbesXq4QbbiOkZK734g6) | 4:46 | 2022-03-30 | 2022-07-20 |
 | [Saisei](https://open.spotify.com/track/6YSDx6DroSJbceYlvycDve) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Anjunadeep pres\. Reflections Vol\. 2](https://open.spotify.com/album/2VVYtrUzgEsy9sbsOj58DU) | 4:44 | 2022-03-31 | 2022-04-21 |
