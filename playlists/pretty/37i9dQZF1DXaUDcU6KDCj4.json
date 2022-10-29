@@ -1,13 +1,205 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Adam Melchor ",
-  "num_followers": 752985,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Tom Odell",
+  "num_followers": 753220,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDQ3N2JjMGQwYWIzMGNhOTgzNmM0OGRkMTljMjkwYTNm",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGFhNDZjMGJlY2U1OWRhZTgyNmZhODg4NjliZDg4MmI3",
   "tracks": [
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "I felt a Funeral, in my Brain [feat. Phoebe Bridgers]",
+        "url": "https://open.spotify.com/album/2NAQ55IP8e5YH9sasQDuCJ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 249135,
+      "name": "I felt a Funeral, in my Brain [feat. Phoebe Bridgers]",
+      "url": "https://open.spotify.com/track/7ko94TOP3vONuYqHLH6zpe"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 193005,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "The Primrose Chopper",
+        "url": "https://open.spotify.com/album/38gW0qfqleZzjPuV1veLDu"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "duration_ms": 298701,
+      "name": "The Primrose Chopper",
+      "url": "https://open.spotify.com/track/7rCNPDBw9LsnTvY1U262JK"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "No Reason",
+        "url": "https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Alpenglow",
+        "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "5am Paradise",
+        "url": "https://open.spotify.com/album/6KavgnkfM090x9zFOwRoYh"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 195544,
+      "name": "If You\u2019re Falling Asleep",
+      "url": "https://open.spotify.com/track/2ZEtuhomZIuim95sQ3E2Uz"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Friendship (with Mavis Staples) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/1oQ25Ld3o4Rk7SL1xbEgT5"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 265549,
+      "name": "Friendship (with Mavis Staples) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/5qCvajGQcgKD5mSAKXuTKJ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 224893,
+      "name": "How (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Joint Account",
+        "url": "https://open.spotify.com/album/5I8uUf233kr6FLP7lg6hfG"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        },
+        {
+          "name": "Slow Leaves",
+          "url": "https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8"
+        }
+      ],
+      "duration_ms": 186748,
+      "name": "Joint Account",
+      "url": "https://open.spotify.com/track/7MpiFzyjot6mHge9PZKlmm"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Holy Place",
+        "url": "https://open.spotify.com/album/1lqkzKpQ8FInrboRloSa5H"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 179437,
+      "name": "Holy Place",
+      "url": "https://open.spotify.com/track/74rYA2zWSMsMKfhLs47RD0"
+    },
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
@@ -39,6 +231,22 @@
       "duration_ms": 222091,
       "name": "Broken Routine",
       "url": "https://open.spotify.com/track/7C1SOiueqfYPxY443GXgvu"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "The Summer Isles (Sunrise)",
+        "url": "https://open.spotify.com/album/1LKzG8knWyTv8xpdyaJocp"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "The Summer Isles (Sunrise)",
+      "url": "https://open.spotify.com/track/47M7p4dKargxTcRSjvE9Qv"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -75,26 +283,6 @@
       "duration_ms": 176973,
       "name": "Jericho Beach",
       "url": "https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "You and I",
-        "url": "https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        },
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -179,6 +367,26 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "The Giver",
         "url": "https://open.spotify.com/album/49aUKXpJ9U0llET9mhgOqI"
       },
@@ -191,26 +399,6 @@
       "duration_ms": 227209,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/7A3uhvZBmoLzCCFQT14lGU"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "How (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1231,22 +1419,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 270806,
-      "name": "Better Off High",
-      "url": "https://open.spotify.com/track/08iVl7NDnT63Xf1zqokboz"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Look At Miss Ohio",
         "url": "https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE"
       },
@@ -1279,22 +1451,6 @@
       "duration_ms": 204444,
       "name": "Half the Story",
       "url": "https://open.spotify.com/track/73j46sAcr4IumQBuFZGk60"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 221082,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1439,26 +1595,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Dance with Everybody",
-        "url": "https://open.spotify.com/album/3mVV3jcal3oh3hiMmvrxgZ"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        },
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "Dance with Everybody",
-      "url": "https://open.spotify.com/track/7qNIz2zkEnSjnDPuo10HEr"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Heartmind",
         "url": "https://open.spotify.com/album/2HutgntzLdadMPeSLrwmT1"
       },
@@ -1587,22 +1723,6 @@
       "duration_ms": 220466,
       "name": "Something About What Happens When We Talk",
       "url": "https://open.spotify.com/track/3UHWekceJvs3fvvFxKeLtU"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0yjNEKXdYuOln2EHdN0obV"
-      },
-      "artists": [
-        {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
-        }
-      ],
-      "duration_ms": 326971,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/37W0pEWmnXRirotQJEhwHk"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1939,8 +2059,8 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Pterodactyl",
-        "url": "https://open.spotify.com/album/757iG6V3Y2AYwEwGONa6DS"
+        "name": "Strange Encounters",
+        "url": "https://open.spotify.com/album/3kVUhdMFFgYJin3Uk8WQeA"
       },
       "artists": [
         {
@@ -1950,7 +2070,7 @@
       ],
       "duration_ms": 246545,
       "name": "Pterodactyl",
-      "url": "https://open.spotify.com/track/3K8sjM8kS4LnJGjDwg8dSQ"
+      "url": "https://open.spotify.com/track/4wZUbcdQlD6QHNzKyukcGy"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2095,22 +2215,6 @@
       "duration_ms": 229280,
       "name": "Climber",
       "url": "https://open.spotify.com/track/2MP3ACOzrWXQiOLQKdezey"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Flying :))",
-        "url": "https://open.spotify.com/album/05GoTeYEXV6HctXBdaulXs"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 179157,
-      "name": "Flying :))",
-      "url": "https://open.spotify.com/track/39FexuVmNT8zcnB1DoscSn"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2491,22 +2595,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Cedar On The Fire",
-        "url": "https://open.spotify.com/album/70mKz72yFBSjhKZfQDe3VQ"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 280697,
-      "name": "Cedar On The Fire",
-      "url": "https://open.spotify.com/track/0DDyjtzGMb4CAew87M4DCN"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Twin",
         "url": "https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq"
       },
@@ -2551,54 +2639,6 @@
       "duration_ms": 223400,
       "name": "Michigan Cherry",
       "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 325066,
-      "name": "Go Home",
-      "url": "https://open.spotify.com/track/5qbHBepTowbMldhK8RVhTl"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Inside Problems",
-        "url": "https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Make a Picture",
-      "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Restless Heart",
-        "url": "https://open.spotify.com/album/4qrbCVobIn4gb6YgZmHRvA"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Jeremiah",
-          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "Restless Heart",
-      "url": "https://open.spotify.com/track/2NqhpgeIGfvCc2bWnLk7RY"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2663,42 +2703,6 @@
       "duration_ms": 245880,
       "name": "Show Me the Way",
       "url": "https://open.spotify.com/track/6zmNS6dClkVdEncTEwnpGB"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 179173,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Cannonball",
-        "url": "https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0"
-      },
-      "artists": [
-        {
-          "name": "Sam Johnston",
-          "url": "https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl"
-        },
-        {
-          "name": "Emma Klein",
-          "url": "https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8"
-        }
-      ],
-      "duration_ms": 273413,
-      "name": "For a While",
-      "url": "https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj"
     }
   ],
   "unique_name": "Fresh Folk",

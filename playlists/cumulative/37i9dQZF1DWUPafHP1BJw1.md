@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-141 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/4EYrQBqxGeZdiN5pWe9nnm)
+143 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/4EYrQBqxGeZdiN5pWe9nnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Chasing Cars](https://open.spotify.com/track/0QVVV1dbJybtFEDwWndsxC) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Simply Three](https://open.spotify.com/album/0pJfpfWc8YB4HXg89wmMA3) | 3:22 | 2022-10-07 |  |
 | [Chasing Cars](https://open.spotify.com/track/6MtZj0BUdsC03AD40hkEGe) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Simply Three](https://open.spotify.com/album/2LoVzdkeY8B3oSbgS7Xmpq) | 3:22 | 2021-11-19 | 2022-07-29 |
 | [Chasing Cars](https://open.spotify.com/track/6YQcHXmPKwghGkWUZdKPDG) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Simply Three](https://open.spotify.com/album/5PQfgKvAKCS4UodD41FAfb) | 3:22 | 2022-07-08 | 2022-10-14 |
+| [Come As You Are](https://open.spotify.com/track/0ch4tJ0zq4s0obJbXCBgGU) | [Redi Hasa](https://open.spotify.com/artist/7HlXH3lEJtM1yO38Ghi20f) | [Come As You Are](https://open.spotify.com/album/1Uoh8IxgZHWDekaVWnHjbs) | 3:59 | 2022-10-28 |  |
 | [Crazy in Love](https://open.spotify.com/track/6fh2YS29IrmW1yCHMlTDTM) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Novö Piano](https://open.spotify.com/album/21wMUhXhWLew2zsWQhlYEM) | 3:52 | 2021-11-19 | 2022-05-07 |
 | [Dancing on My Own](https://open.spotify.com/track/2g2IYIXc0FDGf0HDkEC0rL) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 9](https://open.spotify.com/album/00WpR5hZn6CsVp6PT5NCvo) | 3:45 | 2021-11-19 |  |
 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 | 2022-03-30 |  |
@@ -53,6 +54,7 @@
 | [Drop the Game \(Piano Arrangement\)](https://open.spotify.com/track/74XiL7qOPpqY1jOItswAWr) | [The Theorist](https://open.spotify.com/artist/6N1GBr0koYYU0W59ECgg5u) | [Piano Covers, Vol\. 1](https://open.spotify.com/album/2QvgQR5we5RgiEkFKpwfB1) | 4:10 | 2021-11-19 | 2022-05-07 |
 | [Earned It \- Solo Piano](https://open.spotify.com/track/5xqYtaFkLcLRe6IWLGoTuL) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Earned It \(Solo Piano\)](https://open.spotify.com/album/7y1j0Vh18d5fWoFc5Ki0Oz) | 4:06 | 2021-11-19 |  |
 | [Easy On Me](https://open.spotify.com/track/2W6AJAQi1lQU8wrZCnaZTy) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Easy On Me](https://open.spotify.com/album/6DgzorRqPflcNX5Gip8ta3) | 3:16 | 2021-11-19 |  |
+| [Eleanor Rigby \- Live](https://open.spotify.com/track/0khHkwiDvthnAUoos65sT5) | [Ted Yoder](https://open.spotify.com/artist/2I8XgaisVpuyjgtBAVDGr9) | [Ted Yoder Band Live](https://open.spotify.com/album/0LXJ1VxJk1ngStZ91N46gV) | 4:03 | 2022-10-28 |  |
 | [everything i wanted \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/1ynzIvi8LlEYcy7QTJV2qT) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [everything i wanted \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/0ndzbkku7rXbTBRhlSt8Zw) | 4:05 | 2021-11-19 |  |
 | [Fake Plastic Trees](https://open.spotify.com/track/6vrXoa46fJUbYKQJLVSyHO) | [Christopher O'Riley](https://open.spotify.com/artist/70sTS2TfD7x40e01or0h2I) | [True Love Waits \(Christopher O'Riley Plays Radiohead\)](https://open.spotify.com/album/3weiYbaSqJtuIBEyqLKNgm) | 4:54 | 2021-11-19 |  |
 | [Fingers Crossed](https://open.spotify.com/track/6naRiNpUvGidp3tXIMMz8J) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Fingers Crossed](https://open.spotify.com/album/70UQKzSLliDROGtzp8BV3k) | 2:57 | 2022-03-25 |  |

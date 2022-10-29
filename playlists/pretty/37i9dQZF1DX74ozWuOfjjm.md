@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: Vera Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,088 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,085 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 88 | [Unaware](https://open.spotify.com/track/3roidInKXgWRTSZYLiZbUY) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [Look Me In The Eyes](https://open.spotify.com/album/6QKGRsT17L0a2JLGIhOvfv) | 3:57 |
 | 89 | [next life](https://open.spotify.com/track/0EMaDLab0jjbGS4OWzDUoW) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [next life](https://open.spotify.com/album/6PLd5OqpdGTqJYpULgXJA1) | 3:01 |
 | 90 | [Higher Love](https://open.spotify.com/track/1yf7KpJKsDEWtBdznkkGAH) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Queen Of Turbulent Hearts](https://open.spotify.com/album/1Djbaj0U3owtsuQSY7Q2Ly) | 3:04 |
-| 91 | [NOT TODAY](https://open.spotify.com/track/08cnccQSKCljeUlyZVSCK4) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [NOT TODAY](https://open.spotify.com/album/3RoUi8w1jkr5Kgf4DItl2O) | 3:22 |
+| 91 | [NOT TODAY](https://open.spotify.com/track/3HsI6hyDi9yuTeT7nHyhFc) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [PURE ENERGY](https://open.spotify.com/album/3daboqKiZqOpKWdsI1tP3k) | 3:22 |
 | 92 | [It's a Lot](https://open.spotify.com/track/4S548hdBDpaVE87HXwGT2a) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [It's a Lot](https://open.spotify.com/album/6HajKAvn7DGmBdXaZUrxbf) | 3:54 |
 | 93 | [Run](https://open.spotify.com/track/7x6KLLjsxpR9zVfzUEGfX4) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Run](https://open.spotify.com/album/2ZDJw4XzF5nEx4dEd7RmJP) | 3:16 |
 | 94 | [reel](https://open.spotify.com/track/6Z53T7w8pY8MM8HxKMOvLO) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [reel](https://open.spotify.com/album/2kpAgM8bcOmEy61adSUmm9) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [Feeling Good Feeling Great](https://open.spotify.com/track/4AQfmenuVJJdptJfjUw8Sj) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Feeling Good Feeling Great](https://open.spotify.com/album/7iB4JqDfRuOuHf0Uiq6n7g) | 1:58 |
 | 100 | [Shut Up](https://open.spotify.com/track/4sqUqP7QJrCtoAUGfFDjFE) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Shut Up](https://open.spotify.com/album/3bn0loXOlkfKBUGszzTz82) | 2:39 |
 
-Snapshot ID: `MTY2NDc1MTk2OCwwMDAwMDAwMDI2ZjEyMzFjYTRmYmQ1MjUwZjRlZTU2ZTcyNjNmZjgx`
+Snapshot ID: `MTY2NDc1MTk2OCwwMDAwMDAwMDY2MmY2MDIxN2Q5YWEzMGQ3MWFmMDIwODQ0NjdjOWQ5`

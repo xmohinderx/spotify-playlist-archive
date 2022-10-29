@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,030 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,059 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 4 | [Go Steady](https://open.spotify.com/track/3ENAIFnD0Qjie0RGjG9Hh9) | [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh), [Saucy Lady](https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2) | [Go Steady](https://open.spotify.com/album/4b5SUYw8o2Z2LIKwlqVpDC) | 4:17 |
 | 5 | [Nowhere But Up](https://open.spotify.com/track/1eSaEAjIt2OOVbvLqtZG6i) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Nowhere But Up](https://open.spotify.com/album/1acFeY7OrZMzmCiAnYWmKU) | 3:55 |
 | 6 | [Slight Variations](https://open.spotify.com/track/6UUmEKtqOuhpUO0nJFzNKW) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Slight Variations](https://open.spotify.com/album/1OcWfQAxxIcL3NqXjLUKaS) | 3:31 |
-| 7 | [U Got Me Good](https://open.spotify.com/track/41FpAljevedgZgroxHNGXi) | [Mishell Ivon](https://open.spotify.com/artist/5PAXTWUw6VJdKHpGafv7yd), [Andrew Napoleon](https://open.spotify.com/artist/4KT3b8EB95e3gD5d9nIo5M) | [U Got Me Good / Dance All Night](https://open.spotify.com/album/4fa6071D0P1jvjIf4mh7rO) | 4:06 |
-| 8 | [Discoman](https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Discoman](https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT) | 3:40 |
-| 9 | [your only](https://open.spotify.com/track/2urUyLEw87dTDkTi2nd1O4) | [PARRIS MITCHELL](https://open.spotify.com/artist/151qX7FdFzbxCQ8lttcotn) | [I Don't Love You, and Other Lies](https://open.spotify.com/album/7C4MqDBPoCkuyiFtKJNaYr) | 3:04 |
-| 10 | [Forever Blue](https://open.spotify.com/track/6UmDgEOlz63QgZFPn0Xn9K) | [Starletta](https://open.spotify.com/artist/72ULrMZm9TVx0SDrpq16Fi) | [Forever Blue](https://open.spotify.com/album/1GzikQt3Pwt8jzx1SO9Wwt) | 3:34 |
-| 11 | [give me your love](https://open.spotify.com/track/1DSP5hDksP9AzPrL5NkHwi) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU) | [give me your love](https://open.spotify.com/album/2fmz2aj1SENvYnc3Gl7Qko) | 3:27 |
-| 12 | [Call It a Trend](https://open.spotify.com/track/2yCeAOeZOz1XaHYQeYD1mL) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:04 |
+| 7 | [Holding Time](https://open.spotify.com/track/6kuVbHd5I1Wdvn3Er735AD) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6) | [Holding Time](https://open.spotify.com/album/23hOpd3AvUxjfHw6kj1ZMA) | 3:29 |
+| 8 | [U Got Me Good](https://open.spotify.com/track/41FpAljevedgZgroxHNGXi) | [Mishell Ivon](https://open.spotify.com/artist/5PAXTWUw6VJdKHpGafv7yd), [Andrew Napoleon](https://open.spotify.com/artist/4KT3b8EB95e3gD5d9nIo5M) | [U Got Me Good / Dance All Night](https://open.spotify.com/album/4fa6071D0P1jvjIf4mh7rO) | 4:06 |
+| 9 | [Discoman](https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Discoman](https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT) | 3:40 |
+| 10 | [your only](https://open.spotify.com/track/2urUyLEw87dTDkTi2nd1O4) | [PARRIS MITCHELL](https://open.spotify.com/artist/151qX7FdFzbxCQ8lttcotn) | [I Don't Love You, and Other Lies](https://open.spotify.com/album/7C4MqDBPoCkuyiFtKJNaYr) | 3:04 |
+| 11 | [Forever Blue](https://open.spotify.com/track/6UmDgEOlz63QgZFPn0Xn9K) | [Starletta](https://open.spotify.com/artist/72ULrMZm9TVx0SDrpq16Fi) | [Forever Blue](https://open.spotify.com/album/1GzikQt3Pwt8jzx1SO9Wwt) | 3:34 |
+| 12 | [give me your love](https://open.spotify.com/track/1DSP5hDksP9AzPrL5NkHwi) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU) | [give me your love](https://open.spotify.com/album/2fmz2aj1SENvYnc3Gl7Qko) | 3:27 |
 | 13 | [Daydreaming](https://open.spotify.com/track/2TqipIeqWRLNrTS7fEEJqB) | [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh), [Saucy Lady](https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2) | [Daydreaming](https://open.spotify.com/album/0NR5gdt1PUmx8yVSNpisVR) | 4:04 |
 | 14 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 |
 | 15 | [Cheugy](https://open.spotify.com/track/4rJNySDhvNZoxACncMIPaA) | [BEMY](https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb) | [Cheugy](https://open.spotify.com/album/4eGjF5hIXSaDxeMB0GNV4Q) | 2:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 79 | [More](https://open.spotify.com/track/74A5yGT7DGBMAmpx6qYfg7) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Funk Aesthetics](https://open.spotify.com/album/67WRfYEKFAYJ5sZlVd0qxO) | 3:03 |
 | 80 | [Keep It Working](https://open.spotify.com/track/37prvjDLAyANTa26VVggl3) | [The Pendletons](https://open.spotify.com/artist/7LzEoX1kEvrogY1Vc5bl55), [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp) | [2 Steps Away](https://open.spotify.com/album/6iUteCVnLSRnsGVgUKlQku) | 3:13 |
 
-Snapshot ID: `MTY2NjMyNDgwMCwwMDAwMDAwMDQ1NWI2ZTJjMDJiOGVlZjFhZDhkZjMxZjJlZDYyNWNm`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDgzMzYyMDY1MWMzZjNjNWI5YTgwNzI4N2I3MDA5ZTI5`

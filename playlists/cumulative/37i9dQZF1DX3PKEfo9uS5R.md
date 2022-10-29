@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-141 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
+142 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Got This](https://open.spotify.com/track/70ZtLYA9LXHb1wGivdTWh2) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Got This](https://open.spotify.com/album/0TtK0hLbzepa08Rosnmgqb) | 4:34 | 2021-11-11 |  |
 | [Growing](https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Growing](https://open.spotify.com/album/7HTo42U44LHzt3eVfKCh0w) | 2:40 | 2021-11-11 | 2022-01-22 |
 | [Habits](https://open.spotify.com/track/7x508VL7l1oKprXAlyKCr4) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Habits](https://open.spotify.com/album/5DheiEg0IKr4iadlv0hn7F) | 3:25 | 2022-07-08 |  |
+| [Hama](https://open.spotify.com/track/0kDUyKS8rnYOqVoCZos7LS) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Hama](https://open.spotify.com/album/16c5hUVkh9T9cMUZ1FRepD) | 2:49 | 2022-10-28 |  |
 | [Hands Up High](https://open.spotify.com/track/6RYUGpSQxQSuV1GbylEB8k) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Forever Friends](https://open.spotify.com/album/5LnNzlXIpyPa5kW1q2c3Qg) | 2:53 | 2021-11-11 |  |
 | [Heart On Fire](https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG) | [Ingbrit](https://open.spotify.com/artist/1oqi1KuDH3koFICALPltAS) | [Heart On Fire](https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN) | 2:28 | 2021-11-11 | 2022-02-11 |
 | [Higher Fun](https://open.spotify.com/track/6Rbptz8SnSzSrQaQIS2agP) | [Turqousie Day](https://open.spotify.com/artist/29YYpH6cWgHKCW4m0nafgG) | [Higher Fun](https://open.spotify.com/album/3nA9zwp2HlLbpoomZGLtHl) | 3:39 | 2022-01-21 |  |

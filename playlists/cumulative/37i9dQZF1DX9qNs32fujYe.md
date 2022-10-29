@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Stryper
+> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Fear Factory
 
-664 songs - 2 day 1 hr 29 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+666 songs - 2 day 1 hr 38 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Black Metal](https://open.spotify.com/track/3yNoEJifUJdly8ucYoWRwl) | [Venom](https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe) | [Black Metal](https://open.spotify.com/album/1e6Osda6t8UDFYQ29sFVlV) | 3:41 | 2022-08-19 | 2022-08-27 |
 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 | 2022-08-19 |  |
 | [Blacklist](https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo of the Damned](https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP) | 6:16 | 2021-12-17 |  |
-| [Blacksong](https://open.spotify.com/track/0cBRw4lIhWudd9hblZ9MlD) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [The Duke](https://open.spotify.com/album/0cdtpGIK6hQdGFni4TZEzE) | 5:36 | 2022-07-08 |  |
+| [Blacksong](https://open.spotify.com/track/0cBRw4lIhWudd9hblZ9MlD) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [The Duke](https://open.spotify.com/album/0cdtpGIK6hQdGFni4TZEzE) | 5:36 | 2022-07-08 | 2022-10-29 |
 | [Blacksong](https://open.spotify.com/track/5cchzU1igYAggOulRcD9Sn) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Dukebox](https://open.spotify.com/album/314eT1BiDyVkpazS12cPkA) | 5:36 | 2021-12-17 | 2022-07-20 |
 | [Blast in the Past](https://open.spotify.com/track/2p5rIZJiwzRKkSBLHJTeGU) | [Burning Point](https://open.spotify.com/artist/3eMK8v3YnHRyrVbBp04jxt) | [Blast in the Past](https://open.spotify.com/album/50NOFmwOY45UaQt33lh19g) | 3:11 | 2021-12-29 | 2022-07-19 |
 | [Bleed](https://open.spotify.com/track/1xKsLEYyHWivhSLTwZZ6JM) | [Days Of Jupiter](https://open.spotify.com/artist/6tS7AajwAlXIU2OKwaXCaM) | [Secrets Brought To Life](https://open.spotify.com/album/7oCOk3WDJVHIi5RcsuKdtH) | 3:07 | 2022-07-08 |  |
@@ -238,6 +238,7 @@
 | [Hardcore](https://open.spotify.com/track/1kKzLv3w7I5NXzEtWkSzi4) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Dark Connection](https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux) | 3:34 | 2021-12-17 |  |
 | [Hardwired](https://open.spotify.com/track/01JszWYuKqRjddPQ4creVF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired](https://open.spotify.com/album/4MQxwNLnVePt7CYmLE50kC) | 3:11 | 2022-03-22 | 2022-04-14 |
 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 | 2022-07-08 |  |
+| [Hatred Will Prevail \- Monolith Remix](https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX), [Rhys Fulber](https://open.spotify.com/artist/3aswb2tJV8Qys1Xufxn59P) | [Recoded](https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj) | 5:44 | 2022-10-28 |  |
 | [Head Like A Hole](https://open.spotify.com/track/3ckd4YA4LcD3j50rfIVwUe) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:59 | 2022-08-19 |  |
 | [Head Splattered in Seven Ways](https://open.spotify.com/track/4oIGyE9WBdHjHLRo03n7c6) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Head Splattered in Seven Ways](https://open.spotify.com/album/2YIHU1f603Mh8ogmzhrXbj) | 3:49 | 2022-03-22 | 2022-04-02 |
 | [Headbangers Ballroom](https://open.spotify.com/track/2UVxYinhlXXOnqzZm0wabj) | [Masterplan](https://open.spotify.com/artist/1OHNvr18TssBKYK0A75yvx) | [Aeronautics](https://open.spotify.com/album/46JmnwmGe1EjFLEGIVSa7G) | 4:55 | 2022-03-22 | 2022-06-01 |
@@ -369,6 +370,7 @@
 | [MY HANDS ARE EMPTY](https://open.spotify.com/track/6uFfNpLvsIesv0dNzsQPvT) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [MY HANDS ARE EMPTY](https://open.spotify.com/album/66fbY55YzWvXGKIDEqxFAh) | 5:31 | 2022-07-13 | 2022-08-28 |
 | [My Midnight Things](https://open.spotify.com/track/6VDQFrgoZmTR0nKVCFXMtc) | [Lizzy Borden](https://open.spotify.com/artist/0ZdLFpb5MhkSrsHef7A3Bb) | [My Midnight Things](https://open.spotify.com/album/74BIJQijc2IChuwZnkGsm3) | 4:21 | 2021-12-17 | 2022-07-15 |
 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 | 2022-08-19 |  |
+| [My Will Be Done](https://open.spotify.com/track/6ueojaNAK670h4Cei9ZG4A) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [My Will Be Done](https://open.spotify.com/album/1rPhn7A7DaQioOB0ku0UXU) | 3:42 | 2022-10-28 |  |
 | [Mystic Voices](https://open.spotify.com/track/23qe3H5ToeXOfFj9gSSPrX) | [Rising Steel](https://open.spotify.com/artist/0R7Gm5z32NOYcpwScO1JSh) | [Mystic Voices](https://open.spotify.com/album/0X5n66zXSf8NkEanAwC7QR) | 5:05 | 2021-12-29 | 2022-04-24 |
 | [Nabbed in Nebraska](https://open.spotify.com/track/2DcykF5eaHu1z2TiuRmns0) | [Anvil](https://open.spotify.com/artist/0maNhqGx60ucjS4UaAH6cP) | [Nabbed in Nebraska](https://open.spotify.com/album/1Q7cGukENcz0K2QPr9AIAE) | 4:33 | 2021-12-17 | 2022-07-20 |
 | [Nemo](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) | 4:36 | 2022-08-19 |  |
@@ -536,7 +538,7 @@
 | [Teardrinker](https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Teardrinker](https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw) | 5:20 | 2021-12-17 | 2022-07-24 |
 | [Teardrinker](https://open.spotify.com/track/7z7A9g6N2prBVa0baThmGq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:20 | 2022-07-13 | 2022-08-06 |
 | [Tears Don't Fall](https://open.spotify.com/track/3iWlbqAaoIR7H7gyO3a6rV) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 5:48 | 2022-08-19 |  |
-| [Tears of a Mandrake](https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Mandrake](https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5) | 7:11 | 2022-07-08 |  |
+| [Tears of a Mandrake](https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Mandrake](https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5) | 7:11 | 2022-07-08 | 2022-10-29 |
 | [Tears of a Mandrake](https://open.spotify.com/track/3rjLNQoQltUK2IH9EHz5Wu) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Monuments](https://open.spotify.com/album/0FqbEsI2QXEaDVGMxslJoa) | 7:14 | 2021-12-17 | 2022-04-21 |
 | [Temples And Towers](https://open.spotify.com/track/6jNJY9mDWROqXDJmU6AXnj) | [Magnus Karlsson’s Free Fall](https://open.spotify.com/artist/44xWxpnL7VA4R3bziyzvfh) | [We Are The Night \(Japan Edition\)](https://open.spotify.com/album/62M2HHDi2MgWE9e2eyUgwX) | 5:37 | 2022-01-07 | 2022-04-18 |
 | [Terial the Hawk](https://open.spotify.com/track/2LmpC836unPeiSTnkiaRm5) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [Terial the Hawk](https://open.spotify.com/album/0njaRtKvDSwT5zvW1HBiJf) | 4:49 | 2021-12-17 | 2022-07-29 |

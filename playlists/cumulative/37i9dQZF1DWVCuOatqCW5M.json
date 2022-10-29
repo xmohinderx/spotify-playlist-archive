@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- KING & Sunidhi Chauhan",
+  "description": "New music from popular Hindi artists. Cover- Ananya Birla & Ankur Tewari",
   "name": "New Music Friday Hindi ",
   "published_playlist_ids": [
     "0VW1oqwEBCO9XMfaGKderP"
@@ -3353,6 +3353,28 @@
       "duration_ms": 162570,
       "name": "Kya Ho Gaya",
       "url": "https://open.spotify.com/track/2TbfqIrC82fKnkawwMlSvK"
+    },
+    {
+      "album": {
+        "name": "Kya Karein",
+        "url": "https://open.spotify.com/album/1mztpgbKJgEuuK3PPhg95g"
+      },
+      "artists": [
+        {
+          "name": "Ananya Birla",
+          "url": "https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162436,
+      "name": "Kya Karein",
+      "url": "https://open.spotify.com/track/4kBknWlaWOLZCbP5BL6PXg"
     },
     {
       "album": {

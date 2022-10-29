@@ -1,15 +1,15 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 85915,
+  "num_followers": 85939,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYxOTg5NSwwMDAwMDAwMDA5OTAyYzU1MTU3NzgyNDdkNDk2ZDk2ZjM1ZTcwMTk0",
+  "snapshot_id": "MTY2NjYxOTg5NSwwMDAwMDAwMDIxOTcyNTk4MzJhNDU4NTc4ZjM5MGUyODc3MDM2OWJi",
   "tracks": [
     {
-      "added_at": "2022-10-28 01:46:13",
+      "added_at": "2022-10-29 01:33:15",
       "album": {
         "name": "\u597d\u50cf\u90fd\u4e00\u6a23 (\u96fb\u8996\u5287\u300a\u5169\u500b\u4eba\u7684\u5c0f\u68ee\u6797\u300b\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/5yMcA6cG26E9Hfgy81EBl6"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1ivCIgrYZyE0BvItL4Z8lk"
     },
     {
-      "added_at": "2022-10-28 01:46:13",
+      "added_at": "2022-10-29 01:33:15",
       "album": {
         "name": "\u6a58\u5b50\u6c7d\u6c34 (\u9752\u6625\u91cd\u7f6e\u8ba1\u52126 \u7279\u8c03\u6c7d\u6c34)",
         "url": "https://open.spotify.com/album/4lz4amhRyl96UMrN2Jh7AC"
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-10-17 14:56:04",
       "album": {
-        "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
-        "url": "https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz"
-      },
-      "artists": [
-        {
-          "name": "OHMYMEITING",
-          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
-        }
-      ],
-      "duration_ms": 221443,
-      "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
-      "url": "https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB"
-    },
-    {
-      "added_at": "2022-10-17 14:56:04",
-      "album": {
         "name": "\u6162\u6162\u61c2",
         "url": "https://open.spotify.com/album/65i87rD1htDv82zSh6hTVn"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 196885,
       "name": "\u5c0f\u661f\u661f",
       "url": "https://open.spotify.com/track/2bRdjYBHfm2dCBOAXHKIyI"
+    },
+    {
+      "added_at": "2022-10-17 14:56:04",
+      "album": {
+        "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
+        "url": "https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz"
+      },
+      "artists": [
+        {
+          "name": "OHMYMEITING",
+          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
+        }
+      ],
+      "duration_ms": 221443,
+      "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
+      "url": "https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB"
     },
     {
       "added_at": "2022-10-17 14:56:04",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-10-17 14:56:04",
       "album": {
-        "name": "123\u6211\u7231\u4f60",
-        "url": "https://open.spotify.com/album/2k5jM3yRT4kHDXpOglZjSo"
-      },
-      "artists": [
-        {
-          "name": "\u65b0\u4e50\u5c18\u7b26",
-          "url": "https://open.spotify.com/artist/1nv7Ro0Pu7kM3ADyxvS1ZA"
-        }
-      ],
-      "duration_ms": 199530,
-      "name": "123\u6211\u7231\u4f60",
-      "url": "https://open.spotify.com/track/0F6nAVTpdghoq4CJDtxI4u"
-    },
-    {
-      "added_at": "2022-10-17 14:56:04",
-      "album": {
         "name": "\u5de6\u8fb9",
         "url": "https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 182400,
       "name": "\u5de6\u8fb9",
       "url": "https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW"
+    },
+    {
+      "added_at": "2022-10-17 14:56:04",
+      "album": {
+        "name": "123\u6211\u7231\u4f60",
+        "url": "https://open.spotify.com/album/2k5jM3yRT4kHDXpOglZjSo"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u4e50\u5c18\u7b26",
+          "url": "https://open.spotify.com/artist/1nv7Ro0Pu7kM3ADyxvS1ZA"
+        }
+      ],
+      "duration_ms": 199530,
+      "name": "123\u6211\u7231\u4f60",
+      "url": "https://open.spotify.com/track/0F6nAVTpdghoq4CJDtxI4u"
     },
     {
       "added_at": "2022-10-17 14:56:04",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-10-17 14:56:04",
       "album": {
+        "name": "\u70ed\u604b\u51b0\u6dc7\u6dcb",
+        "url": "https://open.spotify.com/album/687L7gtiQqSyN6d6E3Omk3"
+      },
+      "artists": [
+        {
+          "name": "yihuik\u82e1\u6167",
+          "url": "https://open.spotify.com/artist/3tkDkXGNpLVIt8qQJHSb7e"
+        }
+      ],
+      "duration_ms": 129631,
+      "name": "\u70ed\u604b\u51b0\u6dc7\u6dcb",
+      "url": "https://open.spotify.com/track/3ILYRPbZSmv9z6zIqlYWrS"
+    },
+    {
+      "added_at": "2022-10-17 14:56:04",
+      "album": {
         "name": "Take Off - The 1st Mini Album",
         "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 245160,
       "name": "\u9ecf\u9ecf",
       "url": "https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL"
-    },
-    {
-      "added_at": "2022-10-17 14:56:04",
-      "album": {
-        "name": "\u70ed\u604b\u51b0\u6dc7\u6dcb",
-        "url": "https://open.spotify.com/album/687L7gtiQqSyN6d6E3Omk3"
-      },
-      "artists": [
-        {
-          "name": "yihuik\u82e1\u6167",
-          "url": "https://open.spotify.com/artist/3tkDkXGNpLVIt8qQJHSb7e"
-        }
-      ],
-      "duration_ms": 129631,
-      "name": "\u70ed\u604b\u51b0\u6dc7\u6dcb",
-      "url": "https://open.spotify.com/track/3ILYRPbZSmv9z6zIqlYWrS"
     },
     {
       "added_at": "2022-10-17 14:56:04",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-10-17 14:56:04",
       "album": {
-        "name": "\u5c0f\u65f6\u5149",
-        "url": "https://open.spotify.com/album/4JNSZfS5N1L2eXSkanU0Cu"
-      },
-      "artists": [
-        {
-          "name": "\u80e1\u671f\u7693",
-          "url": "https://open.spotify.com/artist/7LWH3zy213l4E37464t1CO"
-        }
-      ],
-      "duration_ms": 155948,
-      "name": "\u5c0f\u65f6\u5149",
-      "url": "https://open.spotify.com/track/6R3HSoob9oDK60aNFDkOtE"
-    },
-    {
-      "added_at": "2022-10-17 14:56:04",
-      "album": {
         "name": "Till We Fall in Love",
         "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 240283,
       "name": "Till We Fall in Love",
       "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
+    },
+    {
+      "added_at": "2022-10-17 14:56:04",
+      "album": {
+        "name": "\u5c0f\u65f6\u5149",
+        "url": "https://open.spotify.com/album/4JNSZfS5N1L2eXSkanU0Cu"
+      },
+      "artists": [
+        {
+          "name": "\u80e1\u671f\u7693",
+          "url": "https://open.spotify.com/artist/7LWH3zy213l4E37464t1CO"
+        }
+      ],
+      "duration_ms": 155948,
+      "name": "\u5c0f\u65f6\u5149",
+      "url": "https://open.spotify.com/track/6R3HSoob9oDK60aNFDkOtE"
     },
     {
       "added_at": "2022-10-17 14:56:04",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-10-17 14:56:04",
       "album": {
+        "name": "\u60f3\u8aaa",
+        "url": "https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "\u60f3\u8aaa",
+      "url": "https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY"
+    },
+    {
+      "added_at": "2022-10-17 14:56:04",
+      "album": {
         "name": "\u4e00\u5929 (\u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 208998,
       "name": "\u7b2c\u4e00\u9ed8\u5951 (\u7535\u89c6\u5267 \u300a\u4f60\u5fae\u7b11\u65f6\u5f88\u7f8e\u300b \u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/4Y7gVsky7KNr4P8Bjbtlcy"
-    },
-    {
-      "added_at": "2022-10-17 14:56:04",
-      "album": {
-        "name": "\u60f3\u8aaa",
-        "url": "https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T"
-      },
-      "artists": [
-        {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "\u60f3\u8aaa",
-      "url": "https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY"
     },
     {
       "added_at": "2022-10-17 14:56:04",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2022-10-17 14:56:04",
       "album": {
-        "name": "\u4f60\u597d\u55ce?",
-        "url": "https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj"
-      },
-      "artists": [
-        {
-          "name": "\u9b4f\u5609\u7469 Arrow Wei",
-          "url": "https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO"
-        },
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb \u96de\u4e01",
-          "url": "https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon"
-        }
-      ],
-      "duration_ms": 226317,
-      "name": "\u8981\u600e\u9ebc\u544a\u8a34\u4f60\u6211\u591a\u559c\u6b61 (feat.\u7406\u60f3\u6df7\u86cb \u96de\u4e01)",
-      "url": "https://open.spotify.com/track/3vfFrGe8h1VtO63Zku4KFk"
-    },
-    {
-      "added_at": "2022-10-17 14:56:04",
-      "album": {
         "name": "\u561f\u58f0\u540e\u8bf7\u7559\u604b",
         "url": "https://open.spotify.com/album/4UeNX6glWOvhV0kLV4HCN2"
       },
@@ -1207,18 +1187,22 @@
     {
       "added_at": "2022-10-17 14:56:04",
       "album": {
-        "name": "\u6545\u4e8b(\u65b0\u6b4c+\u7cbe\u9078)",
-        "url": "https://open.spotify.com/album/3Zgjs3ZBOn1h0wj2e1yzpp"
+        "name": "\u4f60\u597d\u55ce?",
+        "url": "https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj"
       },
       "artists": [
         {
-          "name": "Tension",
-          "url": "https://open.spotify.com/artist/7fQvUENMhNj1uudorBk9DO"
+          "name": "\u9b4f\u5609\u7469 Arrow Wei",
+          "url": "https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO"
+        },
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb \u96de\u4e01",
+          "url": "https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon"
         }
       ],
-      "duration_ms": 245133,
-      "name": "\u611f\u60c5\u7dda",
-      "url": "https://open.spotify.com/track/3LgX9DAyToN6qHeCWhuuQH"
+      "duration_ms": 226317,
+      "name": "\u8981\u600e\u9ebc\u544a\u8a34\u4f60\u6211\u591a\u559c\u6b61 (feat.\u7406\u60f3\u6df7\u86cb \u96de\u4e01)",
+      "url": "https://open.spotify.com/track/3vfFrGe8h1VtO63Zku4KFk"
     },
     {
       "added_at": "2022-10-17 14:56:04",
@@ -1255,6 +1239,22 @@
       "duration_ms": 273950,
       "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
+    },
+    {
+      "added_at": "2022-10-17 14:56:04",
+      "album": {
+        "name": "\u6545\u4e8b(\u65b0\u6b4c+\u7cbe\u9078)",
+        "url": "https://open.spotify.com/album/3Zgjs3ZBOn1h0wj2e1yzpp"
+      },
+      "artists": [
+        {
+          "name": "Tension",
+          "url": "https://open.spotify.com/artist/7fQvUENMhNj1uudorBk9DO"
+        }
+      ],
+      "duration_ms": 245133,
+      "name": "\u611f\u60c5\u7dda",
+      "url": "https://open.spotify.com/track/3LgX9DAyToN6qHeCWhuuQH"
     },
     {
       "added_at": "2022-10-17 14:56:04",

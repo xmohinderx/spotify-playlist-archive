@@ -2424,6 +2424,36 @@
     },
     {
       "album": {
+        "name": "The Phantom Of The Opera (Remixes)",
+        "url": "https://open.spotify.com/album/0x8ARrRJMch8bq3bRlzH03"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "ABOUT THAT",
+          "url": "https://open.spotify.com/artist/6HMAEvj17gDdNB5EotNEOe"
+        },
+        {
+          "name": "Ben Crawford",
+          "url": "https://open.spotify.com/artist/3yCAqfaT5jdv88VM9QLMfV"
+        },
+        {
+          "name": "Meghan Picerno",
+          "url": "https://open.spotify.com/artist/4k59GiRs1yYNWEZ7fPMsiL"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "The Phantom Of The Opera - ABOUT THAT Remix",
+      "url": "https://open.spotify.com/track/4Oa6J0jSiwjwKsXRGQO0Qw"
+    },
+    {
+      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/7cHBfJLUCFFCCeFfujtGe0"
       },

@@ -1070,6 +1070,28 @@
     },
     {
       "album": {
+        "name": "Sweet One",
+        "url": "https://open.spotify.com/album/0P9D6NdUurORu6Gk3w0fOW"
+      },
+      "artists": [
+        {
+          "name": "DJ Gibbzy",
+          "url": "https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB"
+        },
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Sweet One",
+      "url": "https://open.spotify.com/track/4ykeDeK1VqRPrwhmhlSC4R"
+    },
+    {
+      "album": {
         "name": "TAKE ONE (EPISODE 1, PT. 2) [Radio Edit]",
         "url": "https://open.spotify.com/album/5H6JC4CL2W3rPd5k1FW9b3"
       },
@@ -1233,7 +1255,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 171428,
       "name": "Watatubu",
       "url": "https://open.spotify.com/track/7rBiGPmJUoaVbkRV4g1lXc"

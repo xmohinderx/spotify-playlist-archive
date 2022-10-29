@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44345,
+  "num_followers": 44343,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NTk2Niw4NDkxMzU3MmZmZDhlODA3NDM0YjU1YjYwOWQ1YzE5MzlmMTJiNWMw",
+  "snapshot_id": "NTk3MSwyYjIzMjg4YTZiM2Y4ODFhMWZmYTExYWU0YWI3OGE2ODJhNWVhNjg2",
   "tracks": [
+    {
+      "added_at": "2022-10-28 23:16:43",
+      "album": {
+        "name": "Dale Loca (with Anna Marchesini)",
+        "url": "https://open.spotify.com/album/2lawLhKlGRsqvS4ETYdPqW"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        },
+        {
+          "name": "Anna Marchesini",
+          "url": "https://open.spotify.com/artist/5pgt3A5TmZz94jyIbUPbtD"
+        }
+      ],
+      "duration_ms": 138480,
+      "name": "Dale Loca (with Anna Marchesini)",
+      "url": "https://open.spotify.com/track/2gadKaKUi5ZGtzawTUfLwr"
+    },
+    {
+      "added_at": "2022-10-28 23:16:43",
+      "album": {
+        "name": "Guaracha En Reggaetonlandia",
+        "url": "https://open.spotify.com/album/2c1dWyAgvufd10liQGhbUf"
+      },
+      "artists": [
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        }
+      ],
+      "duration_ms": 146313,
+      "name": "Guaracha En Reggaetonlandia",
+      "url": "https://open.spotify.com/track/1LwzyjKxQiUwfBWpuwlapN"
+    },
     {
       "added_at": "2022-10-21 18:25:56",
       "album": {
@@ -767,30 +803,6 @@
     {
       "added_at": "2022-10-21 18:25:56",
       "album": {
-        "name": "AD INFINITUM",
-        "url": "https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "SHARPS",
-          "url": "https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8"
-        },
-        {
-          "name": "Hashu",
-          "url": "https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "G.T.F.O.T.W. (feat. Hashu)",
-      "url": "https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty"
-    },
-    {
-      "added_at": "2022-10-21 18:25:56",
-      "album": {
         "name": "Pompeii (feat. Crooked Bangs)",
         "url": "https://open.spotify.com/album/3Y10pwQZ9FUIpOelXxirRx"
       },
@@ -827,30 +839,6 @@
       "duration_ms": 172000,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/7l9iHqc96MliysA243IK2V"
-    },
-    {
-      "added_at": "2022-10-21 18:25:56",
-      "album": {
-        "name": "I Want You (Feat. Sai Sen & SBF)",
-        "url": "https://open.spotify.com/album/67B3KMyswV6p4zF49Sns8Y"
-      },
-      "artists": [
-        {
-          "name": "R3LL",
-          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
-        },
-        {
-          "name": "Sai Sen",
-          "url": "https://open.spotify.com/artist/0ObVSKfdMjPuYydCBG4TX3"
-        },
-        {
-          "name": "Iamsbf",
-          "url": "https://open.spotify.com/artist/21vmR8ceieOHaiCvuwlLpI"
-        }
-      ],
-      "duration_ms": 177103,
-      "name": "I Want You (Feat. Sai Sen & SBF)",
-      "url": "https://open.spotify.com/track/7M58XwtXlqzuRvf25OnWy7"
     },
     {
       "added_at": "2022-10-21 18:25:56",

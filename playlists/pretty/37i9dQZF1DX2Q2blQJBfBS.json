@@ -1,15 +1,15 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 5732,
+  "num_followers": 6131,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc1NTA0MiwwMDAwMDAwMDZmNDE0ODQ3NTZjMDc1MzRhYzdlN2NkY2JlNDYzNjdk",
+  "snapshot_id": "MTY2NTc1NTA0MiwwMDAwMDAwMDhmMmJiMDNjZjg5M2EyOTVkMzQ0OGRjOTY3M2I1NDk4",
   "tracks": [
     {
-      "added_at": "2022-10-28 01:36:13",
+      "added_at": "2022-10-29 01:23:10",
       "album": {
         "name": "Ghetto Pop Life",
         "url": "https://open.spotify.com/album/63LehXDfhT4lOulImEv4Dt"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/5RcqEvIHLKDXa0FqUfKBGK"
     },
     {
-      "added_at": "2022-10-28 01:36:13",
+      "added_at": "2022-10-29 01:23:10",
       "album": {
         "name": "Duck Czn: Tiger Style",
         "url": "https://open.spotify.com/album/79dXRvICjB1MEh59eKYKTi"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/3hdiBpmtZ1hjhB8WidoFAa"
     },
     {
-      "added_at": "2022-10-28 01:36:13",
+      "added_at": "2022-10-29 01:23:10",
       "album": {
         "name": "The Fonz",
         "url": "https://open.spotify.com/album/2H8cEEjOZtLHTMHLcsHclS"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/6UIZmxCu4t5Az180O5ApoT"
     },
     {
-      "added_at": "2022-10-28 01:36:13",
+      "added_at": "2022-10-29 01:23:10",
       "album": {
         "name": "Psychological Cheat Sheet 3",
         "url": "https://open.spotify.com/album/4MvqEZvawXCOx8UpUsm4R6"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/70vNbz9XdqTzDHSh3MILZY"
     },
     {
-      "added_at": "2022-10-28 01:36:13",
+      "added_at": "2022-10-29 01:23:10",
       "album": {
         "name": "Mighty Microphone",
         "url": "https://open.spotify.com/album/2qNBSDhguWLePXxzLBa2O7"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/4X9tIXypCox3srtngLVH88"
     },
     {
-      "added_at": "2022-10-28 01:36:13",
+      "added_at": "2022-10-29 01:23:10",
       "album": {
         "name": "The Fresh Prince of Self Flair",
         "url": "https://open.spotify.com/album/6J5FRVCy8hooEeubGPzfBT"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/3i3frnOvW4NSQOjysqvgN9"
     },
     {
-      "added_at": "2022-10-28 01:36:13",
+      "added_at": "2022-10-29 01:23:10",
       "album": {
         "name": "Cool",
         "url": "https://open.spotify.com/album/6pBNj8Ihr7Av2JRPi2ytAD"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/5z1KkHpvBc6yLiTo19sdHo"
     },
     {
-      "added_at": "2022-10-28 01:36:13",
+      "added_at": "2022-10-29 01:23:10",
       "album": {
         "name": "Trouble (feat. Ronni wit tha K)",
         "url": "https://open.spotify.com/album/48PWkNFdPkB57W3I9pKEv1"
@@ -725,22 +725,6 @@
       "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
     },
     {
-      "added_at": "2022-07-01 12:00:00",
-      "album": {
-        "name": "Uptown Saturday Night",
-        "url": "https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E"
-      },
-      "artists": [
-        {
-          "name": "Camp Lo",
-          "url": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Coolie High",
-      "url": "https://open.spotify.com/track/6yZAdQyPJtXjATvAT8ERQg"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "The Water (S)",
@@ -755,6 +739,22 @@
       "duration_ms": 260160,
       "name": "Jazz",
       "url": "https://open.spotify.com/track/2rk0lCpO1vkKAQ6BC8bjUX"
+    },
+    {
+      "added_at": "2022-07-01 12:00:00",
+      "album": {
+        "name": "Uptown Saturday Night",
+        "url": "https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E"
+      },
+      "artists": [
+        {
+          "name": "Camp Lo",
+          "url": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+        }
+      ],
+      "duration_ms": 241133,
+      "name": "Coolie High",
+      "url": "https://open.spotify.com/track/6yZAdQyPJtXjATvAT8ERQg"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -865,6 +865,22 @@
       "url": "https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 208570,
+      "name": "Understood",
+      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
+    },
+    {
       "added_at": "2022-06-24 12:00:00",
       "album": {
         "name": "Donuts",
@@ -895,22 +911,6 @@
       "duration_ms": 270653,
       "name": "Paris, Tokyo",
       "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Pieces of a Man",
-        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 208570,
-      "name": "Understood",
-      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1189,26 +1189,6 @@
       "url": "https://open.spotify.com/track/0M5pEUmRD3b4nP31L88IdL"
     },
     {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "48",
-        "url": "https://open.spotify.com/album/1TSUdwvGwAGr93YLi7izZn"
-      },
-      "artists": [
-        {
-          "name": "Maxo",
-          "url": "https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe"
-        },
-        {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
-        }
-      ],
-      "duration_ms": 159236,
-      "name": "48 (feat. Pink Siifu)",
-      "url": "https://open.spotify.com/track/5miJWaIbJqBnoybPj4B5ys"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Bread",
@@ -1231,6 +1211,26 @@
       "duration_ms": 175581,
       "name": "Roman Candles (feat. Roc Marciano & Black Thought)",
       "url": "https://open.spotify.com/track/3jj5c4DGogPb9xglsxl4BI"
+    },
+    {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "48",
+        "url": "https://open.spotify.com/album/1TSUdwvGwAGr93YLi7izZn"
+      },
+      "artists": [
+        {
+          "name": "Maxo",
+          "url": "https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        }
+      ],
+      "duration_ms": 159236,
+      "name": "48 (feat. Pink Siifu)",
+      "url": "https://open.spotify.com/track/5miJWaIbJqBnoybPj4B5ys"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1393,22 +1393,6 @@
       "url": "https://open.spotify.com/track/7FShuykT2X15PNUHBBWbGP"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Makeda",
-        "url": "https://open.spotify.com/album/3Kv2GCEL4KCLHzXsNajCBi"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 96067,
-      "name": "Makeda",
-      "url": "https://open.spotify.com/track/32vb0qbbgiZbOkl2N22rIK"
-    },
-    {
       "added_at": "2022-07-08 12:00:00",
       "album": {
         "name": "Capital Punishment (Explicit Version)",
@@ -1427,6 +1411,22 @@
       "duration_ms": 234133,
       "name": "You Came Up (feat. Noreaga)",
       "url": "https://open.spotify.com/track/2uh3tuSkLydG8QpxY4cqgQ"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Makeda",
+        "url": "https://open.spotify.com/album/3Kv2GCEL4KCLHzXsNajCBi"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 96067,
+      "name": "Makeda",
+      "url": "https://open.spotify.com/track/32vb0qbbgiZbOkl2N22rIK"
     },
     {
       "added_at": "2022-08-19 19:38:15",
@@ -1481,6 +1481,26 @@
       "url": "https://open.spotify.com/track/5uzxflxVqVEbyukRQim0v4"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Cocodrillo Turbo",
+        "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        },
+        {
+          "name": "Meyhem Lauren",
+          "url": "https://open.spotify.com/artist/4lph4e07jjlKkioG1bQx95"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Turkish [Feat. Meyhem Lauren]",
+      "url": "https://open.spotify.com/track/3RkZ88ENyaY9WRC2yMAUQ0"
+    },
+    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "Looking for Water (feat. Boldy James)",
@@ -1503,26 +1523,6 @@
       "duration_ms": 163850,
       "name": "Looking for Water (feat. Boldy James)",
       "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Cocodrillo Turbo",
-        "url": "https://open.spotify.com/album/2rmPnKM3T64J7Xz5TEyR0c"
-      },
-      "artists": [
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        },
-        {
-          "name": "Meyhem Lauren",
-          "url": "https://open.spotify.com/artist/4lph4e07jjlKkioG1bQx95"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Turkish [Feat. Meyhem Lauren]",
-      "url": "https://open.spotify.com/track/3RkZ88ENyaY9WRC2yMAUQ0"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1741,22 +1741,6 @@
       "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
     },
     {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
-        "name": "I'll Fight You",
-        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
-      },
-      "artists": [
-        {
-          "name": "Open Mike Eagle",
-          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
-        }
-      ],
-      "duration_ms": 163058,
-      "name": "I'll Fight You",
-      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Gravity",
@@ -1775,6 +1759,38 @@
       "duration_ms": 280220,
       "name": "The Love Song",
       "url": "https://open.spotify.com/track/73Dlr72hp7aI3wTpp5tftn"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "I'll Fight You",
+        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
+      },
+      "artists": [
+        {
+          "name": "Open Mike Eagle",
+          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
+        }
+      ],
+      "duration_ms": 163058,
+      "name": "I'll Fight You",
+      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Balens Cho (Hot Candles)",
+        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "LABOU",
+      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
     },
     {
       "added_at": "2022-07-15 12:00:00",
@@ -1797,20 +1813,20 @@
       "url": "https://open.spotify.com/track/5ME1N55LXNNEx9SP5s1rRv"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
+      "added_at": "2022-07-08 12:00:00",
       "album": {
-        "name": "Balens Cho (Hot Candles)",
-        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
+        "name": "Lyrics to GO, Vol. 3",
+        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
       },
       "artists": [
         {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
         }
       ],
-      "duration_ms": 168000,
-      "name": "LABOU",
-      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
+      "duration_ms": 68830,
+      "name": "Cherry Beach",
+      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1837,22 +1853,6 @@
       "url": "https://open.spotify.com/track/5UgkmxdEqJV0WqBVcLmrSG"
     },
     {
-      "added_at": "2022-07-08 12:00:00",
-      "album": {
-        "name": "Lyrics to GO, Vol. 3",
-        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 68830,
-      "name": "Cherry Beach",
-      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
-    },
-    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "Early",
@@ -1871,34 +1871,6 @@
       "duration_ms": 171647,
       "name": "Early",
       "url": "https://open.spotify.com/track/08C6F1gh1XmARvRNk71nSX"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Component System with the Auto Reverse",
-        "url": "https://open.spotify.com/album/7bvUQdrsKA3o6lkjV1ZRPk"
-      },
-      "artists": [
-        {
-          "name": "Open Mike Eagle",
-          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
-        },
-        {
-          "name": "RAP FERRERIA",
-          "url": "https://open.spotify.com/artist/1TZWbbk7dpKRVKE1EUs5Bt"
-        },
-        {
-          "name": "STILL RIFT",
-          "url": "https://open.spotify.com/artist/3boWloc2DdH8TVDWv9t9IR"
-        },
-        {
-          "name": "Video Dave",
-          "url": "https://open.spotify.com/artist/3S8c2jzWW8n1JgryQzRfD2"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Multi-Game Arcade Cabinet",
-      "url": "https://open.spotify.com/track/46lQe6895zxB3HRP6YPbnl"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1935,6 +1907,34 @@
       "duration_ms": 146573,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Component System with the Auto Reverse",
+        "url": "https://open.spotify.com/album/7bvUQdrsKA3o6lkjV1ZRPk"
+      },
+      "artists": [
+        {
+          "name": "Open Mike Eagle",
+          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
+        },
+        {
+          "name": "RAP FERRERIA",
+          "url": "https://open.spotify.com/artist/1TZWbbk7dpKRVKE1EUs5Bt"
+        },
+        {
+          "name": "STILL RIFT",
+          "url": "https://open.spotify.com/artist/3boWloc2DdH8TVDWv9t9IR"
+        },
+        {
+          "name": "Video Dave",
+          "url": "https://open.spotify.com/artist/3S8c2jzWW8n1JgryQzRfD2"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Multi-Game Arcade Cabinet",
+      "url": "https://open.spotify.com/track/46lQe6895zxB3HRP6YPbnl"
     },
     {
       "added_at": "2022-08-05 12:00:00",

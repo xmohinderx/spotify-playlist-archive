@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-90 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/2Sf77s0V1avylGCj2mU7cJ)
+91 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/2Sf77s0V1avylGCj2mU7cJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [BHAD NUWZ](https://open.spotify.com/track/63WAs3ozlAFSOinuYsM2eO) | [Meter Mobb](https://open.spotify.com/artist/46BNHwKFXtqbecdsfVbIU6) | [BHAD NUWZ](https://open.spotify.com/album/1sIVO1RBkeMR7g21gtxRag) | 3:33 | 2022-07-01 |  |
 | [Blue](https://open.spotify.com/track/2uXcCHlMq7Yh4sOlO2fcKl) | [Skunkhour](https://open.spotify.com/artist/6zKENpFrMgdaWF87sfnmWF) | [Blue](https://open.spotify.com/album/1BIUv1KClJRa3lIJ4E1DEX) | 4:02 | 2022-09-23 |  |
 | [Body, Mind & Soul](https://open.spotify.com/track/3gnwOISx8zFb04hcaWh1YR) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Body, Mind & Soul](https://open.spotify.com/album/7pAQp1KNUBToUb6QWezL0v) | 4:10 | 2021-07-26 |  |
-| [Call It a Trend](https://open.spotify.com/track/2yCeAOeZOz1XaHYQeYD1mL) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:04 | 2022-09-23 |  |
+| [Call It a Trend](https://open.spotify.com/track/2yCeAOeZOz1XaHYQeYD1mL) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:04 | 2022-09-23 | 2022-10-29 |
 | [Caught In The Fire](https://open.spotify.com/track/6p2aqe1losjYYviUrj5hEF) | [Date Night](https://open.spotify.com/artist/2Yb3Wq5bwK9HNXvrLKsnVC), [Dion Isaiah](https://open.spotify.com/artist/3voFDI6eBJt7uGs6c91sws) | [Caught In The Fire](https://open.spotify.com/album/7EUjWQ1i8jshFgeznSp4fw) | 3:07 | 2021-08-13 |  |
 | [Cherry On The Top](https://open.spotify.com/track/0hP7EN4IJ57vtvuLcpIshG) | [Mofak](https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Cherry On The Top](https://open.spotify.com/album/0q0RKHpJIHpNM1QDjnBCht) | 5:18 | 2021-07-26 |  |
 | [Cheugy](https://open.spotify.com/track/4rJNySDhvNZoxACncMIPaA) | [BEMY](https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb) | [Cheugy](https://open.spotify.com/album/4eGjF5hIXSaDxeMB0GNV4Q) | 2:14 | 2022-09-23 |  |
@@ -48,6 +48,7 @@
 | [give me your love](https://open.spotify.com/track/1DSP5hDksP9AzPrL5NkHwi) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU) | [give me your love](https://open.spotify.com/album/2fmz2aj1SENvYnc3Gl7Qko) | 3:27 | 2022-09-16 |  |
 | [Go Steady](https://open.spotify.com/track/3ENAIFnD0Qjie0RGjG9Hh9) | [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh), [Saucy Lady](https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2) | [Go Steady](https://open.spotify.com/album/4b5SUYw8o2Z2LIKwlqVpDC) | 4:17 | 2022-09-23 |  |
 | [Good Fever](https://open.spotify.com/track/64dBx9RrZFa2abQePFWxUv) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Good Fever](https://open.spotify.com/album/4W97F7B5XosEJ64aUiYHo5) | 3:19 | 2022-02-18 |  |
+| [Holding Time](https://open.spotify.com/track/6kuVbHd5I1Wdvn3Er735AD) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6) | [Holding Time](https://open.spotify.com/album/23hOpd3AvUxjfHw6kj1ZMA) | 3:29 | 2022-10-28 |  |
 | [Hotter \(feat\. Laura Jackson\) \[T\-Groove Remix\]](https://open.spotify.com/track/0WF0028K8mwsg2A4C1cm6p) | [The Doggett Brothers](https://open.spotify.com/artist/5JRS1wbye5NN8Pfgixxofg), [Laura Jackson](https://open.spotify.com/artist/4nNJsw5eLM1kBcGMMZJOAu), [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt) | [Hotter \(feat\. Laura Jackson\) \[T\-Groove Remix\]](https://open.spotify.com/album/21zO039GPjGBWUdzowcofq) | 5:36 | 2021-07-26 |  |
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2021-07-26 | 2022-09-03 |
 | [I Feel for You](https://open.spotify.com/track/2eLpwUTbhpvn1Net0jlWQf) | [Phoebe Katis](https://open.spotify.com/artist/0hPB6WmY4JXhcrficlznCx), [KONL](https://open.spotify.com/artist/4GqeovkUhMsSvFkHVshwS0) | [I Feel for You](https://open.spotify.com/album/4pcK8jv3tGQhGTd9dp9VGz) | 3:07 | 2021-07-26 |  |

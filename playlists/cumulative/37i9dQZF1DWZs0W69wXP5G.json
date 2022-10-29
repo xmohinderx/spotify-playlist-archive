@@ -1566,6 +1566,28 @@
     },
     {
       "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169670,
+      "name": "Since U Been Gone - Juliet\u2019s Version",
+      "url": "https://open.spotify.com/track/1ADlPE9dCt0Gajze5L7a75"
+    },
+    {
+      "album": {
         "name": "Songs of the Great Hill",
         "url": "https://open.spotify.com/album/0sxZZDmsx0ih796gVVrA19"
       },
@@ -1755,7 +1777,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 249402,
       "name": "The Anonymous Ones - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/5bOLF8govy2D7heVI0mfuu"

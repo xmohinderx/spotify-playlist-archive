@@ -4,7 +4,7 @@
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 鬼頭明里
 
-122 songs - 8 hr 18 min - [published](https://open.spotify.com/playlist/5RQGiwmI9wGlhuVRQit3UC)
+123 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/5RQGiwmI9wGlhuVRQit3UC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [ICHIBANBOSHI SONORITY](https://open.spotify.com/track/4ogyl3j9wSTM0YLiXrkC5t) | [Yuka Iguchi](https://open.spotify.com/artist/2pEoqcvCSXliNrd8peAUiP) | [ENDING THEME FROM TV SERIES ”UNCLE FROM ANOTHER WORLD”](https://open.spotify.com/album/2ur6B0p344bM6CHn7PNJu0) | 4:14 | 2022-08-30 |  |
 | [Kikoeru?](https://open.spotify.com/track/5JTk3c6TnCYTiVOueXSxKJ) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Kikoeru?](https://open.spotify.com/album/2KGp1amvwo7jNaozKVL4bj) | 4:05 | 2022-07-13 | 2022-09-23 |
 | [KindanKajitsu](https://open.spotify.com/track/7tQbwkztzZrsY6H3eNeKGq) | [Eri Kitamura](https://open.spotify.com/artist/3IYKCbAUuXkZdkiAeYEKwC) | [IRiDESCENT%V!SION](https://open.spotify.com/album/39UmoCVQLTqseM8uksxdVm) | 3:12 | 2022-08-05 |  |
-| [Kyoutaiaika](https://open.spotify.com/track/6NnWap955obIpmguOjHwoQ) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Kyoutaiaika](https://open.spotify.com/album/4PIp9Z8g2XHXLQcFoRIhyS) | 4:03 | 2022-09-22 |  |
+| [Kyoutaiaika](https://open.spotify.com/track/3pxftpVRwWGMq1bZchhVLS) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 4:03 | 2022-09-22 |  |
+| [Kyoutaiaika](https://open.spotify.com/track/6NnWap955obIpmguOjHwoQ) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Kyoutaiaika](https://open.spotify.com/album/4PIp9Z8g2XHXLQcFoRIhyS) | 4:03 | 2022-09-22 | 2022-10-29 |
 | [Love me, Choose me](https://open.spotify.com/track/6RedpoCKKhmd6OWPghPGIG) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [Apiacere](https://open.spotify.com/album/0SmPHcLtOFL7cwPwu07sQr) | 3:40 | 2022-08-05 |  |
 | [Love\-Evidence](https://open.spotify.com/track/4KmhIHRUmZ7ND8RM8Trt2o) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Love\-Evidence](https://open.spotify.com/album/6TDFwzNnos4RFkmDG7lNnG) | 3:25 | 2022-05-31 | 2022-08-31 |
 | [Mayonakano Love](https://open.spotify.com/track/4PdTdZSNbi7QOvdwTBbHrr) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Mayonakano Love](https://open.spotify.com/album/5utUgLJkKaQ3tBDW6y6P65) | 3:23 | 2022-09-22 |  |

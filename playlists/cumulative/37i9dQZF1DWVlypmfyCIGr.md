@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: とた
 
-2,267 songs - 5 day 19 hr 13 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
+2,268 songs - 5 day 19 hr 18 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1064,7 +1064,8 @@
 | [UFOを呼ぶダンス](https://open.spotify.com/track/4g5B27LybXbN9vlPqiQrNx) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [UFOを呼ぶダンス](https://open.spotify.com/album/6Jkx2RR1L9Ibl50t1z0Rhw) | 3:42 | 2022-09-05 | 2022-09-28 |
 | [UMBER](https://open.spotify.com/track/7dxrgQktkyu0KHfrnJKzL0) | [ukei.](https://open.spotify.com/artist/0PISjbPSQ6ucHzarrtkLcK) | [UMBER](https://open.spotify.com/album/3Rl7uFMqXA6Y03z7VKAuUE) | 3:20 | 2022-10-24 |  |
 | [Umbrella](https://open.spotify.com/track/7okiGeaZtMAjH5YnYY5CIf) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Umbrella](https://open.spotify.com/album/6G8DaKmaUuwZmOVOYUHP5C) | 4:32 | 2022-08-01 | 2022-08-16 |
-| [Umikaze no Monologue](https://open.spotify.com/track/4738WpIvtp7gautXrTtSsw) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Umikaze no Monologue](https://open.spotify.com/album/39cGk6J25lOSg0ZFK1PuT0) | 4:20 | 2022-10-10 |  |
+| [Umikaze no Monologue](https://open.spotify.com/track/4738WpIvtp7gautXrTtSsw) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Umikaze no Monologue](https://open.spotify.com/album/39cGk6J25lOSg0ZFK1PuT0) | 4:20 | 2022-10-10 | 2022-10-29 |
+| [Umikaze No Monologue](https://open.spotify.com/track/5P5BTWHMMsyCMsL9kAwpQd) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 4:20 | 2022-10-24 |  |
 | [Under Kids](https://open.spotify.com/track/4i5Dof4iQMmb9pM2EjPXfr) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Under Kids](https://open.spotify.com/album/6JWQwDPRMxFEfb1oXvUrSh) | 3:26 | 2022-08-01 | 2022-08-09 |
 | [Underline](https://open.spotify.com/track/6BfHBUl9feTv4ECMZtshzf) | [ZONe ENERGY MUSIC](https://open.spotify.com/artist/105xgM0ZGgcIZNi49qwnfj), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I), [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [Underline](https://open.spotify.com/album/52OCFHmqgSaOEcf7MKFsWO) | 2:46 | 2022-10-03 | 2022-10-11 |
 | [UneUne](https://open.spotify.com/track/3UYEmZ2fqSnj1PpUCrv2IK) | [0am](https://open.spotify.com/artist/5y1AqWocona4stBLsBw1UJ) | [UneUne](https://open.spotify.com/album/3SP4PAdHIKJJvSPXoPACxA) | 2:48 | 2022-06-07 | 2022-06-28 |

@@ -4,7 +4,7 @@
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-149 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
+150 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/1yPSGL28SyZuxYmPOGgnKz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Euro](https://open.spotify.com/track/2wWxjsBUYA4DjzWEPNyiCG) | [Morenna](https://open.spotify.com/artist/562XNv9p1lt4n74KBe0oV1), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Euro](https://open.spotify.com/album/6hrAJ2kTg8D9HlxyLAf29O) | 3:37 | 2022-03-07 | 2022-08-27 |
 | [Fala Meu Nome](https://open.spotify.com/track/2NoLuR3OGSQNHuG93k5Lgc) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw) | [Fala Meu Nome](https://open.spotify.com/album/0GXHeKI60SntLBSCld7uiB) | 1:37 | 2022-10-24 |  |
 | [Fala Teu Nome](https://open.spotify.com/track/25HvsUOmv504g0FBmfCrS9) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Fala Teu Nome](https://open.spotify.com/album/2Bzo75iiHVwCvHcPMDtimW) | 2:25 | 2022-09-23 | 2022-10-01 |
+| [Faz Tempo](https://open.spotify.com/track/1h377jjzCyoi9v6xv5pyW1) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Ago de Souza](https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Faz Tempo](https://open.spotify.com/album/3n6SL169uRnKgHr8hfw9Ih) | 3:29 | 2022-10-28 |  |
 | [Fica](https://open.spotify.com/track/5XoCHhUCrv2seffIGVzJ3x) | [K4tt0](https://open.spotify.com/artist/5YpokbwUkNnmqyKVJiO2E3) | [Fica](https://open.spotify.com/album/4ms8gh4HzAV6LLWSfMB6jO) | 3:31 | 2022-08-12 |  |
 | [Filha da Primeira Dama](https://open.spotify.com/track/1ys92qqJhLRgD3jaTPCfs2) | [Júlia Castro](https://open.spotify.com/artist/0erBEEMgeNCyNWxbV462iH), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Filha da Primeira Dama](https://open.spotify.com/album/08WzAYR9WHtIJUnNCcfvtj) | 2:42 | 2022-09-30 |  |
 | [Foda Que Ela É Linda](https://open.spotify.com/track/0rHct5QPUUlNEQml8GfglW) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Foda Que Ela É Linda](https://open.spotify.com/album/2GI9HmLvO1YkC15IIrVXCW) | 3:00 | 2022-03-07 |  |
@@ -74,7 +75,7 @@
 | [Good Times](https://open.spotify.com/track/4QBMTlSCdodYRQqsYPBJtZ) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Good Times](https://open.spotify.com/album/40YG2w0Yxz0hJBCaA8dvAv) | 2:27 | 2022-06-27 | 2022-07-30 |
 | [Gumball](https://open.spotify.com/track/3CegdOeCCPTW9vP2KLb10w) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Gumball](https://open.spotify.com/album/3cXNC67o6QAYFzwo86RvVd) | 2:41 | 2022-07-04 |  |
 | [Ilusão](https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Ilusão](https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ) | 3:37 | 2022-03-07 |  |
-| [ISSO É SÉRIO](https://open.spotify.com/track/2h5vOzhRN1CLO2rYZ5V3dL) | [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK), [31couto](https://open.spotify.com/artist/7cUn4j1gy5RABIg4KADSbl) | [ISSO É SÉRIO](https://open.spotify.com/album/5bhn8wz8Ut5DzcYNhHEIZu) | 2:24 | 2022-10-14 |  |
+| [ISSO É SÉRIO](https://open.spotify.com/track/2h5vOzhRN1CLO2rYZ5V3dL) | [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK), [31couto](https://open.spotify.com/artist/7cUn4j1gy5RABIg4KADSbl) | [ISSO É SÉRIO](https://open.spotify.com/album/5bhn8wz8Ut5DzcYNhHEIZu) | 2:24 | 2022-10-14 | 2022-10-29 |
 | [Jogo Sujo](https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Jogo Sujo](https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY) | 3:25 | 2022-03-07 |  |
 | [Já Que É pra Falar de Amor](https://open.spotify.com/track/57SUxDv7h694wc2XjD7eNl) | [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj), [Isadora Vilela](https://open.spotify.com/artist/7pBFXpm3z5suv9hCELSMnU), [Vcktr](https://open.spotify.com/artist/63GwibIxNCB6zO4IkEUbMP) | [Já Que É pra Falar de Amor](https://open.spotify.com/album/7bvRU9VuhMFP1Ef6Ecs0se) | 3:04 | 2022-03-07 | 2022-06-19 |
 | [Ladra de Moletom](https://open.spotify.com/track/4GvMezy9QsvAfNfkazPdyy) | [Lipe](https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3) | [Ladra de Moletom](https://open.spotify.com/album/6jA3l0XIWZkcY0vVZByq7T) | 3:08 | 2022-03-07 | 2022-10-08 |

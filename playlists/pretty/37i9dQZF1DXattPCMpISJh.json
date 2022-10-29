@@ -1,13 +1,41 @@
 {
   "description": "A new take on a classic sound. Cover: The Jack Moves",
-  "num_followers": 62477,
+  "num_followers": 62582,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDgzY2I3YmJjYjFiZmQ0OTdlMDg2MDc1MWQ5NmUwNDcw",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDY4ZDY1NjJjZjQ0ZmRlYTdjYmZjMzljMmRjOTVlMGNh",
   "tracks": [
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "It's Gonna Be Alright (Ricky Birickyno Remix)",
+        "url": "https://open.spotify.com/album/5ypOk5AWTooT79vNee52Ai"
+      },
+      "artists": [
+        {
+          "name": "The Soultrend Orchestra",
+          "url": "https://open.spotify.com/artist/2ZCDrnzQpD9Xp5g2n2esnV"
+        },
+        {
+          "name": "Papik",
+          "url": "https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4"
+        },
+        {
+          "name": "Frankie Lovecchio",
+          "url": "https://open.spotify.com/artist/5v4HimVMqQbkqKg9kBrkQT"
+        },
+        {
+          "name": "Ricky Birickyno",
+          "url": "https://open.spotify.com/artist/1hxQACgW4A0vQr2yzk3IrD"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "It's Gonna Be Alright - Ricky Birickyno Classic Remix Edit",
+      "url": "https://open.spotify.com/track/4zr3R8lzGvORufPJqQW3Di"
+    },
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
@@ -39,6 +67,30 @@
       "duration_ms": 188216,
       "name": "Love And Appreciation - Radio Edit",
       "url": "https://open.spotify.com/track/7a506fRBFFXnalrqcjj3eT"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Slippery People (feat. Ramona Renea & Fiorious)",
+        "url": "https://open.spotify.com/album/38PKVrUY6GoGSxWcDmspPd"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        },
+        {
+          "name": "Ramona Renea",
+          "url": "https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3"
+        },
+        {
+          "name": "Fiorious",
+          "url": "https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor"
+        }
+      ],
+      "duration_ms": 194302,
+      "name": "Slippery People (feat. Ramona Renea & Fiorious) - 7\" Version",
+      "url": "https://open.spotify.com/track/5fMOwEhgSz8fHijNO2wj7y"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -97,6 +149,26 @@
       "url": "https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH"
     },
     {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Don't Mess With My Man",
+        "url": "https://open.spotify.com/album/1tVpuOjXKACzHnClTC3Uqs"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Badwi",
+          "url": "https://open.spotify.com/artist/16Mje1BDQmN1DWp4a94YOC"
+        },
+        {
+          "name": "Sgt Slick",
+          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Don't Mess With My Man - Sgt Slick Remix",
+      "url": "https://open.spotify.com/track/6U4ek0i45P6tT8NMJYJM3G"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Better With You",
@@ -147,6 +219,26 @@
       "duration_ms": 241487,
       "name": "So Good",
       "url": "https://open.spotify.com/track/3Z2lzLWvsEcOiQshHMEXr9"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Crazy World (Opolopo Remix)",
+        "url": "https://open.spotify.com/album/1YTQww6bWfyyf2Z4JMf2gm"
+      },
+      "artists": [
+        {
+          "name": "Kenny Thomas",
+          "url": "https://open.spotify.com/artist/5fYju5a87cW9osqsxH0JwB"
+        },
+        {
+          "name": "Opolopo",
+          "url": "https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94"
+        }
+      ],
+      "duration_ms": 211016,
+      "name": "Crazy World - Opolopo Radio Remix",
+      "url": "https://open.spotify.com/track/3UZOU7uOqYcf5oPCLf5Hyo"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -575,30 +667,6 @@
       "duration_ms": 207360,
       "name": "By the River",
       "url": "https://open.spotify.com/track/2ar9IljRFlIMT87P1j4Bkf"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Climbing Up",
-        "url": "https://open.spotify.com/album/2aToFPKZixcWBADYIsmBNU"
-      },
-      "artists": [
-        {
-          "name": "Colour Castle",
-          "url": "https://open.spotify.com/artist/5PyXw8u0sJbvxMriq8qKBS"
-        },
-        {
-          "name": "Clicks",
-          "url": "https://open.spotify.com/artist/3Bn9LAqhJqcTWngq8RWh7P"
-        },
-        {
-          "name": "Fleur De Mur",
-          "url": "https://open.spotify.com/artist/1T8GyoQt9cAAsIFPEzRxzD"
-        }
-      ],
-      "duration_ms": 233686,
-      "name": "Climbing Up",
-      "url": "https://open.spotify.com/track/37cFA9RlQHyQ6r41LLzjCW"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -1693,22 +1761,6 @@
       "url": "https://open.spotify.com/track/1Ky3doQEPgrKmZzLXEp04b"
     },
     {
-      "added_at": "2022-01-07 05:02:00",
-      "album": {
-        "name": "Over You",
-        "url": "https://open.spotify.com/album/7dl8uSvgqm2HlGL3a0X2Yn"
-      },
-      "artists": [
-        {
-          "name": "Ken@Work",
-          "url": "https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj"
-        }
-      ],
-      "duration_ms": 397226,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/5Rp5SPoEHJswNskrofuysE"
-    },
-    {
       "added_at": "2021-10-29 04:01:00",
       "album": {
         "name": "I Won't Walk Away",
@@ -1859,22 +1911,6 @@
       "duration_ms": 201653,
       "name": "Golden",
       "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
-    },
-    {
-      "added_at": "2021-07-09 04:01:00",
-      "album": {
-        "name": "Crying on the Dance Floor",
-        "url": "https://open.spotify.com/album/7pzEWRSHiJ6SZA8lviN99M"
-      },
-      "artists": [
-        {
-          "name": "Jessy Jones",
-          "url": "https://open.spotify.com/artist/0iMXHXPmYYWhfvjnNK42Kd"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Crying on the Dance Floor",
-      "url": "https://open.spotify.com/track/71j6BFw8ZUvgYolCXfjyRd"
     }
   ],
   "unique_name": "Nu-Disco",

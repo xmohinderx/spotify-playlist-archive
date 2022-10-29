@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,454 likes - 51 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,592 likes - 51 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 12 | [Allo Gatli Nsani](https://open.spotify.com/track/121uD1clN6btttnxb2K9Dt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [Allo Gatli Nsani](https://open.spotify.com/album/17OmiViuVUN1ejZmVY9cl7) | 5:33 |
 | 13 | [Célibataire Taajabni](https://open.spotify.com/track/5b1Ha5pzXLE5t6VjwJnbJz) | [Hbib Himoune](https://open.spotify.com/artist/3SMU7cRz5Li03TpmGncVg6) | [Célibataire Taajabni](https://open.spotify.com/album/73YRT6VgEfaPcS4mRoF2Er) | 5:03 |
 | 14 | [طيري يا طيارة](https://open.spotify.com/track/0qJPN8mWjsORy7v2a6Benw) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [طيري يا طيارة](https://open.spotify.com/album/7jaNQ3MZzO2FS2aCkxP6Xv) | 3:07 |
-| 15 | [La Vérité 3jabtini](https://open.spotify.com/track/64PcYzsiQA5O9AKzpILgmQ) | [Hbib Himoun](https://open.spotify.com/artist/4GzBsqkkdGxCTUeMehLzvQ), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [La Vérité 3jabtini](https://open.spotify.com/album/0YoNua511P9kqo0REoNDJN) | 4:37 |
+| 15 | [La Vérité 3jabtini](https://open.spotify.com/track/64PcYzsiQA5O9AKzpILgmQ) | [Hbib Himoun](https://open.spotify.com/artist/4GzBsqkkdGxCTUeMehLzvQ), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [La Vérité 3jabtini](https://open.spotify.com/album/0YoNua511P9kqo0REoNDJN) | 4:37 |
 | 16 | [Twahacht Hnantek](https://open.spotify.com/track/3oDiYHVVnvPPDpxMNmXXSw) | [Cheb Mehdi](https://open.spotify.com/artist/2uonXDQdHacpjve01wdIGE) | [Twahacht Hnantek](https://open.spotify.com/album/7yG1ZSbQcJrJuf7eEKiAM4) | 4:48 |
 | 17 | [Ghbina Mora Ghbina](https://open.spotify.com/track/6VnRY3NS8IqE93MmXZSNDe) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ghbina Mora Ghbina](https://open.spotify.com/album/6C3JfZkinqjhUVmmuBEU9l) | 6:20 |
 | 18 | [Ghir Wahdi Mdamar](https://open.spotify.com/track/2K6B9NcxYnqwTzFmbjghUm) | [Cheb Mouiz](https://open.spotify.com/artist/2CgN8028PDOYbE4I0tMhZN) | [Ghir Wahdi Mdamar](https://open.spotify.com/album/3yAjMxvfCcH69wFsB9KY7e) | 7:29 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 24 | [Matesem7ech Fi 3ach9ek](https://open.spotify.com/track/2z1eSaF4tmNJlzIrL6cupW) | [Ramzi 31](https://open.spotify.com/artist/52lAkeBbNbBfC529dteQNm) | [Matesem7ech Fi 3ach9ek](https://open.spotify.com/album/67CifKJ5B7obMBt0cNTM0P) | 7:05 |
 | 25 | [Manich 3ayach Ki Nass](https://open.spotify.com/track/6NxbI1vd0HTY4wNqRcbH7t) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Manich 3ayach Ki Nass](https://open.spotify.com/album/1fAiOJLbsRuEPnSTM1HwJp) | 5:34 |
 | 26 | [Manich Fahem Rouhi](https://open.spotify.com/track/1xNX8gG65KGMxVaJucOHrd) | [Cheb Hamidou](https://open.spotify.com/artist/0WJTTlIjjKvee1iq0PdpWb) | [Manich Fahem Rouhi](https://open.spotify.com/album/3kgJcloeiWGoFKeRVGrIOM) | 6:00 |
-| 27 | [Maghadnich Frakek](https://open.spotify.com/track/4uiZQeOtBPgqspq2eBjEIV) | [Cheb Kader Wahrani](https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [Maghadnich Frakek](https://open.spotify.com/album/6zrYBK8X2WIl77dOm7z3mM) | 4:45 |
+| 27 | [الصغر ما يدوم](https://open.spotify.com/track/4uiZQeOtBPgqspq2eBjEIV) | [Cheb Kader Wahrani](https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [الصغر ما يدوم](https://open.spotify.com/album/6zrYBK8X2WIl77dOm7z3mM) | 4:45 |
 | 28 | [Tebghih wela zkara fiya](https://open.spotify.com/track/6B51n6J8Y0BCEuylos9MdY) | [Zaid Laazizi](https://open.spotify.com/artist/6jNObcobsYYSfd7t5RvTPi) | [Tebghih wela zkara fiya](https://open.spotify.com/album/7E1ewz7KmfRN90aYPWpyyr) | 4:13 |
 | 29 | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/track/2Z2orYLp8Ox5gnlVPP5oQY) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/album/58EVW8ZXLjD3ThafQaDCMy) | 4:45 |
 | 30 | [Ma3lich Ya 9albi](https://open.spotify.com/track/4aNE4thhqRIn9KrHpvHsWe) | [Cheb Adoula](https://open.spotify.com/artist/4r6TXvkBwX89bozdSjF8Ch), [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ma3lich Ya 9albi](https://open.spotify.com/album/6acBhqAz0HbGkaN9CEKSWn) | 1:34 |

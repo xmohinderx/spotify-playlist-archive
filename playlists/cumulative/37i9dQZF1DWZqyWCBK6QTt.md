@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Covers](https://open.spotify.com/playlist/37i9dQZF1DWZqyWCBK6QTt)
 
-> The songs you love, in ways you’ve never heard before\. Cover: Lewis Capaldi.
+> The songs you love, in ways you’ve never heard before\. Cover: Sara James.
 
 377 songs - 23 hr 19 min - [published](https://open.spotify.com/playlist/2xTD8zXhA6slKE04Bf9gwn)
 

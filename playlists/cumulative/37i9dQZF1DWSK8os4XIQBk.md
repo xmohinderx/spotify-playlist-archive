@@ -2,9 +2,9 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> Nothing but the best modern country music\. Cover: Bailey Zimmerman
+> Nothing but the best modern country music\. Cover: Zach Bryan
 
-316 songs - 16 hr 59 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
+317 songs - 17 hr 2 min - [published](https://open.spotify.com/playlist/2VWEcpbjTChxEwyaD5k1kM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Best Thing Since Backroads](https://open.spotify.com/track/0R1REdJZIDy7IS3DybdBce) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Best Thing Since Backroads](https://open.spotify.com/album/0V5GJsZdw3zXfrz2oKUhue) | 3:07 | 2022-02-18 |  |
 | [Big Deal](https://open.spotify.com/track/5uuMlGIdD6v3M7egrrP8r2) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Big Deal](https://open.spotify.com/album/6dYvQ89T1GRzpwJxMVVpDg) | 3:22 | 2022-05-20 | 2022-06-18 |
 | [Big for a Small Town](https://open.spotify.com/track/1cssFOIRPAewIVA9cjRXxH) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR) | [Where You Come From](https://open.spotify.com/album/2mO8xA8bcTFLezrNCnUjnF) | 3:07 | 2022-02-18 | 2022-03-26 |
-| [Big Wheels](https://open.spotify.com/track/6DrrFMDjglq6IZGtn0ee1v) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Big Wheels](https://open.spotify.com/album/3aZG6ZinA2CuavlDgSpQDR) | 2:09 | 2022-10-14 |  |
+| [Big Wheels](https://open.spotify.com/track/6DrrFMDjglq6IZGtn0ee1v) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Big Wheels](https://open.spotify.com/album/3aZG6ZinA2CuavlDgSpQDR) | 2:09 | 2022-10-14 | 2022-10-29 |
+| [Blame It On Being Young](https://open.spotify.com/track/2OiQOns4bQK3ZI3JxpXL5m) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Blame It on Being Young](https://open.spotify.com/album/3OAsLLW9T43CBLswannByc) | 3:04 | 2022-10-28 |  |
 | [Blindspot](https://open.spotify.com/track/7esYMuwrOfO33o1wGP8WHK) | [Dan Davidson](https://open.spotify.com/artist/3Av6JdBs0MuhIPnCqPg6EI) | [6 Songs to Midnight](https://open.spotify.com/album/3ByapYH3dkjtEmc868ucv8) | 2:42 | 2022-02-25 | 2022-04-09 |
 | [Bloodlines](https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Bloodlines](https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz) | 3:53 | 2022-01-11 | 2022-07-09 |
 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 | 2022-07-29 | 2022-08-27 |

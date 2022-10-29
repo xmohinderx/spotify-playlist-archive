@@ -1628,6 +1628,32 @@
     },
     {
       "album": {
+        "name": "African American Voices",
+        "url": "https://open.spotify.com/album/4f6XPe8F6DWVrPx3dwcFny"
+      },
+      "artists": [
+        {
+          "name": "George Walker",
+          "url": "https://open.spotify.com/artist/2pPbwLIL97jlqzsKlzVdzz"
+        },
+        {
+          "name": "Kellen Gray",
+          "url": "https://open.spotify.com/artist/2B3W9IVheD4omk92orPHwt"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322596,
+      "name": "Lyric for Strings",
+      "url": "https://open.spotify.com/track/1baQcdtRay9WntS5ySAkOZ"
+    },
+    {
+      "album": {
         "name": "Lullabies for Mila",
         "url": "https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx"
       },

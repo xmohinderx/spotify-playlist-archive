@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 8302,
+  "num_followers": 8325,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDY5MjA2ZGZjZDhiOTI3YTc1YzI3NmQ0N2I5YTJlN2Nk",
+  "snapshot_id": "MTY2Njk2MTQ0NCwwMDAwMDAwMDc2MDMwMDk3NmYxNjc2NmY2YzNiNDI5YzM5ODBlN2E3",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -869,6 +869,26 @@
       "url": "https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn"
     },
     {
+      "added_at": "2022-09-30 06:26:52",
+      "album": {
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
+      },
+      "artists": [
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Naomi Achu",
+          "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
+        }
+      ],
+      "duration_ms": 208896,
+      "name": "Fight For You",
+      "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Naked Wire",
@@ -907,26 +927,6 @@
       "duration_ms": 191544,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6RVmK3M5NsB2jwTUKiKp84"
-    },
-    {
-      "added_at": "2022-09-30 06:26:52",
-      "album": {
-        "name": "Fight For You",
-        "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
-      },
-      "artists": [
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        },
-        {
-          "name": "Naomi Achu",
-          "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
-        }
-      ],
-      "duration_ms": 208896,
-      "name": "Fight For You",
-      "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
     },
     {
       "added_at": "2022-06-09 23:00:00",

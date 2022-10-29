@@ -4,7 +4,7 @@
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-354 songs - 22 hr 44 min - [published](https://open.spotify.com/playlist/55GdQaI3M6rHQD7agSU7NY)
+355 songs - 22 hr 48 min - [published](https://open.spotify.com/playlist/55GdQaI3M6rHQD7agSU7NY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Keep Blazin'](https://open.spotify.com/track/3blQBAryJo7rmvRGW0rcTp) | [Green Lion Crew](https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m), [Roe Summerz](https://open.spotify.com/artist/28qKo7P9G17aasylX64m79) | [Keep Blazin'](https://open.spotify.com/album/0AbmIWR90BHUxSINeBPJ9G) | 3:04 | 2021-10-18 | 2022-07-29 |
 | [King Without a Crown \- Live at Stubb's, Austin, TX \- February 2005](https://open.spotify.com/track/6yalDzJGNoUQ2qSDlAdqU8) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Live at Stubb's](https://open.spotify.com/album/6kfMhZYXTwm9HGMJuLl7HO) | 4:48 | 2022-06-20 |  |
 | [Kingdom](https://open.spotify.com/track/1TtUMxanwZwX0Z3pIZ3Ei6) | [Dre Island](https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8) | [Now I Rise](https://open.spotify.com/album/2sQfxaIn395xqNkYH7VfAp) | 4:18 | 2021-10-18 | 2022-03-04 |
+| [Kingston Be Wise](https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [The 8 Year Affair](https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA) | 4:11 | 2022-10-13 |  |
 | [Kingston Town](https://open.spotify.com/track/2OHQhOiGIYaXqqJVIMpNrF) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Soul Pirate](https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC) | 3:12 | 2022-06-20 |  |
 | [Kingston Town](https://open.spotify.com/track/3e7yziCpnpx2ujgvXqSLzp) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love II](https://open.spotify.com/album/2jfea3275Ef5g1nUwnf1fg) | 3:48 | 2022-06-20 |  |
 | [Kingston Town](https://open.spotify.com/track/3yDxEMaxtUATqs22VgqzTu) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love I & II](https://open.spotify.com/album/5Rl7hIIz0a2O6qQNEeHBV3) | 3:51 | 2021-10-18 | 2022-07-05 |
@@ -151,7 +152,7 @@
 | [Ku Klux Klan](https://open.spotify.com/track/0NlA0b2RNynMGZoxZm8hSq) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Handsworth Revolution](https://open.spotify.com/album/0FxdNrYsdsUlZgZkJgr3NL) | 3:41 | 2022-06-20 | 2022-07-09 |
 | [Kush Kween](https://open.spotify.com/track/6LTwLeddJ64NBmBV7zkB6e) | [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE), [Jah9](https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH) | [Happy Hour](https://open.spotify.com/album/5zEEwjfrpgKb9hexDLouiT) | 3:20 | 2022-08-18 | 2022-09-10 |
 | [La famille](https://open.spotify.com/track/7x5vP5y7h9Rwzcm5s6ZcZ5) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [La famille](https://open.spotify.com/album/0BJBR7bKD0h5vRTX6nE1Jd) | 3:41 | 2021-10-18 | 2022-06-19 |
-| [Late at Night \(feat\. Lila Iké\)](https://open.spotify.com/track/36VvwmbsehGcneBMNgd2N1) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Late at Night \(feat\. Lila Iké\)](https://open.spotify.com/album/3ZQBxCfUR9vLLT2sTV5Q1w) | 3:51 | 2022-09-09 |  |
+| [Late at Night \(feat\. Lila Iké\)](https://open.spotify.com/track/36VvwmbsehGcneBMNgd2N1) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Late at Night \(feat\. Lila Iké\)](https://open.spotify.com/album/3ZQBxCfUR9vLLT2sTV5Q1w) | 3:51 | 2022-09-09 | 2022-10-29 |
 | [Legalize It](https://open.spotify.com/track/73lYI49LhfsscO33ohrGN0) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Legalize It \(Legacy Edition\)](https://open.spotify.com/album/4ESdQfdgBr9yaYraKU0Vle) | 4:39 | 2022-06-20 |  |
 | [Let Me Down](https://open.spotify.com/track/7FomypRpFKzSIBOX338U4P) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [All Eyes On U](https://open.spotify.com/album/2umS0zGMtYWdzitt9wwqqg) | 2:28 | 2021-10-18 |  |
 | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Like Royalty \(feat\. Popcaan\)](https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP) | 4:05 | 2021-10-18 | 2022-09-10 |

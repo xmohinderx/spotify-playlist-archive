@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 cover: nova twins, cassyette, lozeak & girli
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 cover: the class of anti\-prom 2022 🎈<br/>📸 @alicebackham
 
-361 songs - 17 hr 5 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+366 songs - 17 hr 18 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [AGAIN.](https://open.spotify.com/track/2knqxjt5zHq0So8l619O88) | [KDVSGOLIATH](https://open.spotify.com/artist/1fxSfIUHcYGuFkPY7kOCkQ) | [AGAIN.](https://open.spotify.com/album/0VEOmqs7veZkwAQwV88NgF) | 3:01 | 2022-06-02 | 2022-08-05 |
 | [Alice \(Bodies Bodies Bodies\)](https://open.spotify.com/track/3tlLXN7iwOhqLhOS6qHh1J) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck) | [Alice \(Bodies Bodies Bodies\)](https://open.spotify.com/album/6LipFhXDD2PSYBtWIas8If) | 2:21 | 2022-09-29 | 2022-10-07 |
 | [ALL COPS ARE BASTARDS\*](https://open.spotify.com/track/6Bike9oqxqToe0XPwtVIhD) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [ALL COPS ARE BASTARDS\*](https://open.spotify.com/album/22GzbmGV3Uw6honxKUDSYr) | 3:04 | 2021-12-27 | 2022-01-19 |
+| [all my friends](https://open.spotify.com/track/1iOfDDaBNgV2qJhNBRe33l) | [plxntkid](https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [all my friends](https://open.spotify.com/album/25kTH4jXP7PcBlvQ4LLBFQ) | 2:22 | 2022-10-28 |  |
 | [Alter Ego](https://open.spotify.com/track/1miBcqjGpcoTBcdjnFjJrG) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Alter Ego](https://open.spotify.com/album/0vC6K5RFvqdE2CSpYZQXIz) | 2:20 | 2022-07-14 | 2022-10-14 |
 | [Amygdala](https://open.spotify.com/track/46hnqCPtSB5Hz6P3Hh642v) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Amygdala](https://open.spotify.com/album/0mH4AehT1gftVuf8NBYIP6) | 2:10 | 2022-04-19 | 2022-04-29 |
 | [anatomy](https://open.spotify.com/track/4qYSf300bVsKqFJBO4BVE1) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [needle pit](https://open.spotify.com/album/4iuu04DtIfLzlMcCBlEl9E) | 2:43 | 2022-04-28 | 2022-07-22 |
@@ -58,6 +59,7 @@
 | [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 | 2022-08-25 |  |
 | [Butterflies](https://open.spotify.com/track/7yF8jMKIjgHRcwduu0fzWc) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp), [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi), [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Butterflies](https://open.spotify.com/album/4ob92gI2nIurZosVJqttdA) | 3:43 | 2022-02-18 | 2022-04-01 |
 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 | 2022-01-28 | 2022-07-15 |
+| [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 | 2022-10-28 |  |
 | [CEO OF MY ASS](https://open.spotify.com/track/2ZDKYbeCuzfEE2inGU5Ybj) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [CEO OF MY ASS](https://open.spotify.com/album/2rmZayJCme9uQLV2MnNXfp) | 2:04 | 2022-06-23 | 2022-09-30 |
 | [Change \(In the House of Flies\)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:59 | 2022-04-19 | 2022-04-29 |
 | [CHAOS](https://open.spotify.com/track/2jddZTHfshojFoIiuAs0zp) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [CHAOS](https://open.spotify.com/album/7vNoEhF5nw6OltQxoeIgtE) | 2:56 | 2022-03-31 | 2022-08-05 |
@@ -76,6 +78,7 @@
 | [DEAD FLOWERS](https://open.spotify.com/track/54i9YWj8AnEvj1FhJgVZC4) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [DEAD FLOWERS](https://open.spotify.com/album/1RKvRWHyVw3UIfQVuIjcuJ) | 5:01 | 2021-12-27 | 2022-01-19 |
 | [DEADGIRL](https://open.spotify.com/track/6w9KSSd0rKHAgaRInGJXxW) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [DEADGIRL](https://open.spotify.com/album/03VMKQT0OKB5m2xhDJVeWc) | 4:10 | 2022-05-19 | 2022-09-23 |
 | [Death Wish](https://open.spotify.com/track/5TeiMihQPtOXalkkhQC25r) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6), [Mason Levi](https://open.spotify.com/artist/2lx2zCw0a5evbYvfBlft1J) | [Death Wish](https://open.spotify.com/album/6wU1BcX0FRXBFHyNZ7XtQP) | 3:14 | 2022-10-27 |  |
+| [DEATHWISH](https://open.spotify.com/track/3yaX8Vf44B5Ou63LMPjTdw) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [DEATHWISH](https://open.spotify.com/album/3UYh3uBNQeQ5nagIafCnZy) | 2:47 | 2022-10-28 |  |
 | [Deepfake](https://open.spotify.com/track/12rjr4o42cqF77B2t8bvZ1) | [E L L E](https://open.spotify.com/artist/3bWw3wV5j8fYavSXcgOwPn) | [Deepfake](https://open.spotify.com/album/5etIvzB5KdXf4JVZTIhWrZ) | 2:23 | 2022-04-19 | 2022-04-29 |
 | [DEMONWHORES!](https://open.spotify.com/track/6t6pWJtbDZvaHaR6upvZbV) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH) | [DEMONWHORES!](https://open.spotify.com/album/2gTJcARbWybrMvxYT0rjlz) | 2:25 | 2022-10-20 |  |
 | [Designer Sadness](https://open.spotify.com/track/68IpwT2OA86fmmSe9YoZS2) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Designer Sadness](https://open.spotify.com/album/49L8p4r6XSZa7SgaKpFGhK) | 2:40 | 2022-03-11 | 2022-04-01 |
@@ -150,6 +153,7 @@
 | [Hey Joe \(Relax\)](https://open.spotify.com/track/0ZZD2LaUgSslFrnn48Ftez) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [MEN](https://open.spotify.com/album/4g0eoSt8b8hsXudzxwhbV1) | 3:31 | 2022-10-13 |  |
 | [hi, my name is lonely.](https://open.spotify.com/track/4TKrQI3vyPH31FdOd4WOve) | [stef](https://open.spotify.com/artist/3Tqps31ekhHVR7ylpNUzSj) | [A Glitch in Our Virtual Reality](https://open.spotify.com/album/0Z982C1sqouyogCsQqkrwx) | 2:50 | 2022-10-13 |  |
 | [Holiday Capsules!!](https://open.spotify.com/track/2fxsZuNi8s8HrTmbXVCl0v) | [YukoEXE](https://open.spotify.com/artist/62gUqdlgqXPpTiYdenThLs) | [Holiday Capsules!!](https://open.spotify.com/album/7KTQUCb8Went1ZcIjv572K) | 1:46 | 2022-09-22 |  |
+| [I Don't Believe in Anything](https://open.spotify.com/track/5AUGTQppAxp03UpaEVZaiD) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Entropy](https://open.spotify.com/album/02k59B671W2g0wbwqFxPL8) | 3:14 | 2022-10-27 |  |
 | [I DON'T LIKE YA](https://open.spotify.com/track/4uVTa1dafelhcl4DWuY1dX) | [kkbutterfly27xx](https://open.spotify.com/artist/10Ql0msZpTq98eDnRUqyqm) | [I DON'T LIKE YA](https://open.spotify.com/album/0uZI30awLCwvs7eeACAtVh) | 0:58 | 2022-10-20 |  |
 | [I Don't Want It](https://open.spotify.com/track/2Svk6hoXp983eh8f95Oupd) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Don't Want It](https://open.spotify.com/album/1DW7NqqzHq2QdzoDvB5VXm) | 2:15 | 2022-09-22 |  |
 | [I Don’t Like Myself](https://open.spotify.com/track/47CkkBlp2mBiLhLl31BQAI) | [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Damsel in Distress](https://open.spotify.com/album/0yRDXJyXgyTbBqqONVcX27) | 2:44 | 2021-12-27 | 2022-02-04 |
@@ -193,6 +197,7 @@
 | [Let Me Speak](https://open.spotify.com/track/0lZz6LCbnGLe47YzXpxKiZ) | [ZLUTZ](https://open.spotify.com/artist/01hsOOUCeEFoGZZ0YjTJxh) | [Inferno](https://open.spotify.com/album/5DZ1ibBuyjMqbAWuCCDfUn) | 3:43 | 2022-08-18 | 2022-10-19 |
 | [Let Me Speak](https://open.spotify.com/track/238baqXmB5xRxuyaz6Nr6r) | [ZLUTZ](https://open.spotify.com/artist/01hsOOUCeEFoGZZ0YjTJxh) | [Inferno](https://open.spotify.com/album/5vBbMzRTrlu3qxu244QGmc) | 3:43 | 2022-10-13 |  |
 | [Lips Apart](https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [Lips Apart](https://open.spotify.com/album/2KKDs4kcxEjwsrhqYkSNan) | 3:26 | 2022-09-22 |  |
+| [LIPSTICK](https://open.spotify.com/track/36LI0NMcZCEMDum03tPJvy) | [Scotty Overdose](https://open.spotify.com/artist/1oqCZv7Ggltj1xEC5gYjFS) | [LIPSTICK](https://open.spotify.com/album/7yHn0R98t9ozswcXXBRWbO) | 2:12 | 2022-10-27 |  |
 | [Literal Legend](https://open.spotify.com/track/69yvAav3DrSy27zXqJKTIS) | [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J), [Princess Ayesha](https://open.spotify.com/artist/0Pp9K2XkoY77SjmjT1pKqy) | [Literal Legend](https://open.spotify.com/album/76SjHJD2ba8enBmHCAkZZa) | 2:36 | 2022-03-31 | 2022-04-15 |
 | [Little Idiot](https://open.spotify.com/track/6W9k26vOGte8OWV5Aewghg) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Little Idiot](https://open.spotify.com/album/526U6qGZw3OurkTCzxBBNi) | 2:49 | 2022-04-19 | 2022-04-29 |
 | [Living & Surfing](https://open.spotify.com/track/2xicgtm6ERHswB3w5LAXDH) | [BAD WITH PHONES](https://open.spotify.com/artist/6pCduVf5CPK2i5C6FdWfaC) | [Living & Surfing](https://open.spotify.com/album/2RdtBKGtz77ptP08DE4qX3) | 2:51 | 2022-01-28 | 2022-02-13 |
@@ -301,7 +306,7 @@
 | [Silent](https://open.spotify.com/track/1b2zA5ryrida0khSGtp0ZY) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Silent](https://open.spotify.com/album/692IggWHYFp0eyJBWmTW3d) | 2:28 | 2022-09-01 | 2022-09-30 |
 | [Silly Boy](https://open.spotify.com/track/1IWDJT71pjQgy9h3P8UwtG) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Silly Boy](https://open.spotify.com/album/48X1aV5CY95zpcnHiE6WGf) | 3:18 | 2022-02-04 | 2022-04-01 |
 | [silly putty](https://open.spotify.com/track/3AG923oYOUn7ESzHTkthKL) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [silly putty](https://open.spotify.com/album/4HdrJc0K45gBQQSBIkOhx1) | 2:46 | 2021-12-27 | 2022-02-04 |
-| [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 | 2022-08-25 |  |
+| [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 | 2022-08-25 | 2022-10-29 |
 | [Skitz](https://open.spotify.com/track/2ziUaTw3sQHI9FHCVk6ob3) | [Yinyang](https://open.spotify.com/artist/5WesO65aRpHO5Cqjg8IMvA) | [Skitz](https://open.spotify.com/album/5zyNyDGWEAw2OnIGomFxCd) | 2:58 | 2021-12-27 | 2022-02-18 |
 | [Skullflower](https://open.spotify.com/track/5yEg8DS2WhVvX3kLQo1cA9) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:21 | 2022-07-21 |  |
 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 | 2021-12-28 | 2022-01-06 |

@@ -1,13 +1,29 @@
 {
   "description": "The hottest out the south. Cover: Finesse2tymes",
-  "num_followers": 1097374,
+  "num_followers": 1097694,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc1MTA0NCwwMDAwMDAwMDRiMDEwNGZhMGZkYjNmMDNhM2NhYmY2ZWYwYzNkOWQw",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGQ0NjEyODcyYjVkMGJiMzhmYTZlZTVhMmRmY2QyOTZi",
   "tracks": [
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Kutthroat Bill: Vol. 1",
+        "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 166494,
+      "name": "300 Blackout",
+      "url": "https://open.spotify.com/track/3y3NwQPQAjKCunRz2eKggA"
+    },
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
@@ -73,6 +89,22 @@
       "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "OOGA BOOGA!",
+        "url": "https://open.spotify.com/album/0S180TSjO1KVmxh4oZHimt"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "duration_ms": 139038,
+      "name": "OOGA BOOGA!",
+      "url": "https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G"
+    },
+    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Blow",
@@ -109,6 +141,26 @@
       "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Quail Lane Baby",
+        "url": "https://open.spotify.com/album/3wuXWLb7E0oy61UtBh5FvH"
+      },
+      "artists": [
+        {
+          "name": "Dee Watkins",
+          "url": "https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "duration_ms": 176785,
+      "name": "Gleecin (feat. Icewear Vezzo)",
+      "url": "https://open.spotify.com/track/3MK1cTENZGGYtjuwBue1Va"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "It's Only Me",
@@ -123,6 +175,22 @@
       "duration_ms": 163453,
       "name": "Not Finished",
       "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/0gBApcXn5P14zuoBj27Uxd"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Similar",
+      "url": "https://open.spotify.com/track/46GyY53xkfMRYTqZAQ33ne"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -143,6 +211,46 @@
       "duration_ms": 194036,
       "name": "G Nikes (feat. Polo G)",
       "url": "https://open.spotify.com/track/7asQMsxC6dNgY0inCzJC5O"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Soul Keeper",
+        "url": "https://open.spotify.com/album/4Z4kbAHoyH63wCShMOWR3i"
+      },
+      "artists": [
+        {
+          "name": "Foogiano",
+          "url": "https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX"
+        },
+        {
+          "name": "Big Scarr",
+          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
+        }
+      ],
+      "duration_ms": 174891,
+      "name": "Soul Keeper",
+      "url": "https://open.spotify.com/track/32jSEzk83guTTUmAVydHrL"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Gucci Flow",
+        "url": "https://open.spotify.com/album/3lGERq1ZXRcK9x7uSggz3q"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "duration_ms": 131120,
+      "name": "Gucci Flow",
+      "url": "https://open.spotify.com/track/1oqXQ2ghTORGDAkeLwkIDD"
     },
     {
       "added_at": "2022-10-21 05:26:36",
@@ -181,6 +289,66 @@
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
     },
     {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Public Housing",
+        "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 205054,
+      "name": "I Want You (with Future)",
+      "url": "https://open.spotify.com/track/30pBgahZNXNLvtQVi5HUxQ"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "So Icy Boyz 22",
+        "url": "https://open.spotify.com/album/0W19oEiOst4LmXpd4X2wb8"
+      },
+      "artists": [
+        {
+          "name": "Sett",
+          "url": "https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "Break Out Dat Cake",
+      "url": "https://open.spotify.com/track/2WjrrTmJ7ZsZFvCSQy7bYY"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "2Tone (feat. YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/1puqMBYmUpSRiWKCf24G65"
+      },
+      "artists": [
+        {
+          "name": "Cootie",
+          "url": "https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 132310,
+      "name": "2Tone (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/7IOrMgzGar3mbtQKNdlbYz"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Humble",
@@ -192,7 +360,7 @@
           "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
         }
       ],
-      "duration_ms": 168000,
+      "duration_ms": 171302,
       "name": "Humble",
       "url": "https://open.spotify.com/track/1Xlt2TE4O0lERfDaEk3gHY"
     },
@@ -211,6 +379,22 @@
       "duration_ms": 155889,
       "name": "Celine Frames",
       "url": "https://open.spotify.com/track/0Gmi0VeJIjybMPkJwLlS80"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "MEMPHIS MASSACRE III",
+        "url": "https://open.spotify.com/album/6zpMySpRlvtUlFhl3TkZ7k"
+      },
+      "artists": [
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "MR MEMPHIS MASSACRE",
+      "url": "https://open.spotify.com/track/0D6uigxXyrqHiFh6lTN7q5"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -237,24 +421,24 @@
       "url": "https://open.spotify.com/track/6hFAavE0EiilAXtubEpEW0"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Gucci Flow",
-        "url": "https://open.spotify.com/album/3lGERq1ZXRcK9x7uSggz3q"
+        "name": "Stone Cold",
+        "url": "https://open.spotify.com/album/75XtJQhaA2gnlYJ1RsrxgO"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
         },
         {
-          "name": "Finesse2tymes",
-          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 131120,
-      "name": "Gucci Flow",
-      "url": "https://open.spotify.com/track/1oqXQ2ghTORGDAkeLwkIDD"
+      "duration_ms": 150320,
+      "name": "Stone Cold",
+      "url": "https://open.spotify.com/track/2ZJSuTo2KtL066oKKmcUlL"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -273,64 +457,24 @@
       "url": "https://open.spotify.com/track/5tzEcVk8jFSBhTrO0ZYJdZ"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "So Icy Boyz 22",
-        "url": "https://open.spotify.com/album/0W19oEiOst4LmXpd4X2wb8"
+        "name": "Meet The Walkers 2 (With Nardo Wick)",
+        "url": "https://open.spotify.com/album/2cLUowGZhWDNrxBhQM4xYc"
       },
       "artists": [
         {
-          "name": "Sett",
-          "url": "https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d"
+          "name": "Lil Double 0",
+          "url": "https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd"
         },
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
         }
       ],
-      "duration_ms": 211920,
-      "name": "Break Out Dat Cake",
-      "url": "https://open.spotify.com/track/2WjrrTmJ7ZsZFvCSQy7bYY"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "CODE (feat. Moneybagg Yo)",
-        "url": "https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 192427,
-      "name": "CODE (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "2Tone (feat. YoungBoy Never Broke Again)",
-        "url": "https://open.spotify.com/album/1puqMBYmUpSRiWKCf24G65"
-      },
-      "artists": [
-        {
-          "name": "Cootie",
-          "url": "https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 132310,
-      "name": "2Tone (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/7IOrMgzGar3mbtQKNdlbYz"
+      "duration_ms": 186380,
+      "name": "Meet The Walkers 2 (With Nardo Wick)",
+      "url": "https://open.spotify.com/track/4b74N1zeHs4tIOTxTz1Jub"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -347,6 +491,42 @@
       "duration_ms": 163733,
       "name": "247",
       "url": "https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Vanish",
+        "url": "https://open.spotify.com/album/4TCv8hUT2EWButKeOC2jnC"
+      },
+      "artists": [
+        {
+          "name": "Legend Yae",
+          "url": "https://open.spotify.com/artist/41JFOCSk00m4hv4RigJViZ"
+        }
+      ],
+      "duration_ms": 150836,
+      "name": "Vanish",
+      "url": "https://open.spotify.com/track/3WS7XmqLWy2CEXLLABVsDc"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Youngest N Charge",
+        "url": "https://open.spotify.com/album/3ZrjdwkPytOsOz14qHnm4K"
+      },
+      "artists": [
+        {
+          "name": "GMO Stax",
+          "url": "https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 164416,
+      "name": "Do It Again (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/5m9ey3mq1hq68jDytp4sw9"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -403,6 +583,22 @@
       "duration_ms": 158431,
       "name": "Backstage Passes (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "RuleBook",
+        "url": "https://open.spotify.com/album/1ubEirgnCx29hE78AP6iYV"
+      },
+      "artists": [
+        {
+          "name": "Rundown Choppaboy",
+          "url": "https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "RuleBook",
+      "url": "https://open.spotify.com/track/34wuoBWblZ4uwNSO5eTagY"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -463,6 +659,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Anotha 1",
+        "url": "https://open.spotify.com/album/1e6ikk92FBJmOLkRwjLIpy"
+      },
+      "artists": [
+        {
+          "name": "Big Scarr",
+          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
+        }
+      ],
+      "duration_ms": 144568,
+      "name": "Anotha 1",
+      "url": "https://open.spotify.com/track/746KwUCnhLYNK1Jz7XA5Ir"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Nothing Changed",
         "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
       },
@@ -511,6 +723,22 @@
       "duration_ms": 183687,
       "name": "Stressed",
       "url": "https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Chokehold",
+        "url": "https://open.spotify.com/album/5Xr02R2WLFLU2YjI8RfhKK"
+      },
+      "artists": [
+        {
+          "name": "CEO Trayle",
+          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
+        }
+      ],
+      "duration_ms": 203211,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/11wT4KLcZ1LEngx6Himubj"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -569,26 +797,6 @@
       "url": "https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Look Ma I Did It",
-        "url": "https://open.spotify.com/album/6anFwVV3gBuCNINmz4Vnvz"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Baby Racks",
-          "url": "https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Look Ma I Did It",
-      "url": "https://open.spotify.com/track/0JvnmNjMnTQMRizhrKzMSO"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Not My N*gga",
@@ -603,22 +811,6 @@
       "duration_ms": 127441,
       "name": "Not My N*gga",
       "url": "https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Get Right",
-        "url": "https://open.spotify.com/album/5zCLvl2nq5TYhZkf8S1Tfo"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Get Right",
-      "url": "https://open.spotify.com/track/0aEX95JWUga3M8DzNsfiAa"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -641,42 +833,6 @@
       "url": "https://open.spotify.com/track/4iPk2FPM9hZYHqtQsfEz6m"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Public Housing",
-        "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 157261,
-      "name": "Bullseye 2 (with Future)",
-      "url": "https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "I Love You, But...",
-        "url": "https://open.spotify.com/album/7KBzvoBpBIDZzy6z5FqOcl"
-      },
-      "artists": [
-        {
-          "name": "CEO Trayle",
-          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
-        }
-      ],
-      "duration_ms": 176901,
-      "name": "I Love You, But\u2026",
-      "url": "https://open.spotify.com/track/3c2DJDAr8OQ3Eutr9bQkqF"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "WAVE",
@@ -693,46 +849,6 @@
       "url": "https://open.spotify.com/track/6jc7hcVqCDGjjeRokClILI"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Life Worth Living",
-        "url": "https://open.spotify.com/album/0oUpnpxjgrNJmmmoPgiIag"
-      },
-      "artists": [
-        {
-          "name": "BLEU",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Life Worth Living",
-      "url": "https://open.spotify.com/track/33Tvaro7t9LNhkoJdjrFOR"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Fight That Switch (Walk) [with EST Gee]",
-        "url": "https://open.spotify.com/album/3oLGzMCN8fnmDXff3hCtMH"
-      },
-      "artists": [
-        {
-          "name": "Lil Double 0",
-          "url": "https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 199580,
-      "name": "Fight That Switch (Walk) [with EST Gee]",
-      "url": "https://open.spotify.com/track/28yy6AId4shZVCSjTRdCa9"
-    },
-    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "Boys Don't Cry",
@@ -747,26 +863,6 @@
       "duration_ms": 132538,
       "name": "Date Night",
       "url": "https://open.spotify.com/track/1UzEMXvcbY5vT5NTAEyO7T"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Public Housing",
-        "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 205054,
-      "name": "I Want You (with Future)",
-      "url": "https://open.spotify.com/track/30pBgahZNXNLvtQVi5HUxQ"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -787,26 +883,6 @@
       "duration_ms": 249270,
       "name": "Bigger Jeans (feat. NoCap)",
       "url": "https://open.spotify.com/track/0B3iyAwE81D2weW8MrwE7h"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Safehouse (Remix)",
-        "url": "https://open.spotify.com/album/5wuq0OD9nAY88wyniP5XxE"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Safehouse (Remix)",
-      "url": "https://open.spotify.com/track/1skdWyEVQXHMVGagZIahpi"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -839,38 +915,6 @@
       "duration_ms": 171123,
       "name": "SOCKS",
       "url": "https://open.spotify.com/track/060dZ7q9HN8nAS2zn2hwo5"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "RuleBook",
-        "url": "https://open.spotify.com/album/1ubEirgnCx29hE78AP6iYV"
-      },
-      "artists": [
-        {
-          "name": "Rundown Choppaboy",
-          "url": "https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "RuleBook",
-      "url": "https://open.spotify.com/track/34wuoBWblZ4uwNSO5eTagY"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Risk Takers",
-        "url": "https://open.spotify.com/album/4zcudfEaBMysM9hvHiLRN1"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 141888,
-      "name": "Risk Takers",
-      "url": "https://open.spotify.com/track/6BJGlhrDS2mKteYz7o2bt6"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -907,38 +951,6 @@
       "duration_ms": 156059,
       "name": "Baby Shark",
       "url": "https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Anotha 1",
-        "url": "https://open.spotify.com/album/1e6ikk92FBJmOLkRwjLIpy"
-      },
-      "artists": [
-        {
-          "name": "Big Scarr",
-          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
-        }
-      ],
-      "duration_ms": 144568,
-      "name": "Anotha 1",
-      "url": "https://open.spotify.com/track/746KwUCnhLYNK1Jz7XA5Ir"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Laughing so Hard, it Hurts",
-        "url": "https://open.spotify.com/album/0zI5KZ81RN2x6RrQchLLBQ"
-      },
-      "artists": [
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 130156,
-      "name": "High John",
-      "url": "https://open.spotify.com/track/55liByWjb2T7j0vohSel10"
     }
   ],
   "unique_name": "No Cap",

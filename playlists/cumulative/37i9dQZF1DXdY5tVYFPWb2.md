@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-330 songs - 21 hr 54 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
+331 songs - 21 hr 59 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [東京は夜の七時 \(feat\. Night Tempo\)](https://open.spotify.com/track/6mi2Zdi1QmZZaO5wgc8LMB) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [東京は夜の七時 \(feat\. Night Tempo\)](https://open.spotify.com/album/2auz7IkxAJbGaN8brJnJU6) | 4:47 | 2022-06-02 | 2022-06-04 |
 | [東京駅](https://open.spotify.com/track/2hmncm177nmtEvnEmcBAFl) | [THOMAS MARQUARDT](https://open.spotify.com/artist/6AMqCm7iAJKHb6Z7gfBWhr) | [Such an era](https://open.spotify.com/album/5ZQMdNMGxZWDmFepxAJLHV) | 5:24 | 2022-05-24 | 2022-07-13 |
 | [果てることないダンス](https://open.spotify.com/track/1VOwpyWPfAoxW4mNWQcDGt) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [果てることないダンス](https://open.spotify.com/album/70EOTJ54prWfxlJiAlmu49) | 4:10 | 2022-05-24 | 2022-10-27 |
-| [楽園](https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [楽園](https://open.spotify.com/album/4hhJdBBhzeGtjKqCqSwEPY) | 3:59 | 2022-05-24 |  |
+| [楽園](https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [楽園](https://open.spotify.com/album/4hhJdBBhzeGtjKqCqSwEPY) | 3:59 | 2022-05-24 | 2022-10-29 |
 | [渚のアンラッキーボーイズ](https://open.spotify.com/track/5bkLoZFiC5ZeGxrxfIS5EM) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [渚のアンラッキーボーイズ](https://open.spotify.com/album/1xFfuM57uda9hb7wMizQPS) | 5:21 | 2022-05-24 | 2022-06-01 |
 | [潮騒\(feat\. 堀込泰行\)](https://open.spotify.com/track/2IG4w90GCE7P5w5Bu4kyY7) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM), [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [潮騒\(feat\. 堀込泰行\)](https://open.spotify.com/album/1B3X7xeu3s7DR0g4udB640) | 5:00 | 2022-05-28 | 2022-06-15 |
 | [煙たがられて feat\. 細野晴臣](https://open.spotify.com/track/2L48NZsLCdJUZDiqNMIwaK) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [7+](https://open.spotify.com/album/6zqCDu9CpRqAgR8J9ZFmHc) | 3:49 | 2022-06-28 | 2022-07-06 |
@@ -323,6 +323,7 @@
 | [真夏のスキャット \- 2022version](https://open.spotify.com/track/05ua1KAx7AcW7NUNd3F9He) | [Gomes The Hitman](https://open.spotify.com/artist/3PBXjLwd5K3SfNgKcX1I2X) | [slo\-mo replay](https://open.spotify.com/album/5xLIXu1M862sXdSj3VI0ny) | 3:29 | 2022-07-26 | 2022-07-28 |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-08-09 |  |
 | [眩しい街、黒い犬](https://open.spotify.com/track/4iWMAej6JVsPKf0TrmkhsF) | [sty](https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z) | [City & Bops](https://open.spotify.com/album/53fKjDCrTAVr9MU4fkXFsc) | 3:07 | 2022-05-24 | 2022-06-02 |
+| [瞳惚れ](https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [瞳惚れ](https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss) | 4:17 | 2022-10-27 |  |
 | [笑ってほしいよ](https://open.spotify.com/track/6IcZU5CPGK8x5V9GTwxfJ3) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [笑ってほしいよ](https://open.spotify.com/album/4cBISpXQQZkbO29bQj0ZJl) | 2:56 | 2022-06-28 | 2022-07-06 |
 | [素っ頓狂](https://open.spotify.com/track/4lPHtRs5tCsfhY1AzJJ1aw) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [素っ頓狂](https://open.spotify.com/album/16TMPgNd10gTmWUH3Q7ycf) | 5:07 | 2022-05-24 | 2022-07-27 |
 | [終電で帰ります](https://open.spotify.com/track/6D7eSKejjPAow87gnqH3YM) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [終電で帰ります](https://open.spotify.com/album/4ja62FoYYdfe7Ioao9A9Rr) | 4:04 | 2022-05-28 | 2022-07-25 |

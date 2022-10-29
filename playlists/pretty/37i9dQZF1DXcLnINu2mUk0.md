@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,682 likes - 59 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,722 likes - 59 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 55 | [Distância](https://open.spotify.com/track/051QwtFGs13k9NTCDN6AFR) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Distância](https://open.spotify.com/album/0BF0pJFEVCC32BbHKtM3G3) | 3:04 |
 | 56 | [Calma](https://open.spotify.com/track/05t8u8aUPngMb4a0K35GUC) | [CP](https://open.spotify.com/artist/54FkNwUXQGoOXQF6nU3ZeB), [Maurex](https://open.spotify.com/artist/2h8Uc3bjHkRnEc2PVpO8Je) | [Calma](https://open.spotify.com/album/19zw55AIExi0SYdFJRBHGf) | 2:42 |
 | 57 | [Ka nu komplika](https://open.spotify.com/track/4m1wnxbGmnKLE8BsWy6pBD) | [Ricky Man](https://open.spotify.com/artist/3rfltEHnMqq67JqiCU0s6n), [Valter LS](https://open.spotify.com/artist/3HluRyydje2ZZVhFvwXl5P) | [Ka nu komplika](https://open.spotify.com/album/0jVrhfP5LcnoJMftzS7ueW) | 3:19 |
-| 58 | [Naufrágio](https://open.spotify.com/track/3B1Dx1Aw35feOLmZXuGf7t) | [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a) | [Naufrágio](https://open.spotify.com/album/02LpaXLNwr4dcPDYMXl131) | 2:14 |
-| 59 | [UP](https://open.spotify.com/track/50etRztTYtGrwhUi0MV7JX) | [DX](https://open.spotify.com/artist/0omUGjQF2J7gdIUaJqlnzR) | [UP](https://open.spotify.com/album/79gzyakOLwnxmy7mWW4MZi) | 2:37 |
+| 58 | [UP](https://open.spotify.com/track/50etRztTYtGrwhUi0MV7JX) | [DX](https://open.spotify.com/artist/0omUGjQF2J7gdIUaJqlnzR) | [UP](https://open.spotify.com/album/79gzyakOLwnxmy7mWW4MZi) | 2:37 |
+| 59 | [Naufrágio](https://open.spotify.com/track/3B1Dx1Aw35feOLmZXuGf7t) | [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a) | [Naufrágio](https://open.spotify.com/album/02LpaXLNwr4dcPDYMXl131) | 2:14 |
 
-Snapshot ID: `MTY2NjkxMTYwMCwwMDAwMDAwMDY2MjJhMzk5ZmY2MjVkYjY2OWNkMzE4ODIzMjhiZTIz`
+Snapshot ID: `MTY2NjkxMTYwMCwwMDAwMDAwMDc3NzY4Njk3ZTJiNGQwY2UxYjc3YmEzZGRlNzVmYTU3`

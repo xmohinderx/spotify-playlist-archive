@@ -1,12 +1,12 @@
 {
-  "description": "Instrumental guitar shreddery. Cover: TORA",
-  "num_followers": 103493,
+  "description": "Instrumental guitar shreddery. Cover: Polyphia",
+  "num_followers": 103602,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDU0NjdjZGE4ZmM4MzM4MzQ2OThkOGIyMzcxNTcwOTlj",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDEzOTc4ZjA5YmYyZDNiNjc2Y2ZhZDc3MzdjN2VhNTUx",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -79,6 +79,22 @@
       "duration_ms": 325500,
       "name": "SkyBluePink",
       "url": "https://open.spotify.com/track/7epiIQqEvELiXG9YOG5Nj6"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Remember That You Will Die",
+        "url": "https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        }
+      ],
+      "duration_ms": 242693,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/1W5zSvAeIXlw6odInPE4m5"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -167,6 +183,26 @@
       "duration_ms": 153362,
       "name": "I Don't Funk with You",
       "url": "https://open.spotify.com/track/2eiK5sjccZJdNTq8Qej596"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Flight Mode",
+        "url": "https://open.spotify.com/album/4hAUsySEtN8LtIyC3hzeTC"
+      },
+      "artists": [
+        {
+          "name": "Mr. Fastfinger",
+          "url": "https://open.spotify.com/artist/2EwvEoMSkP2QHZfLoN7AVd"
+        },
+        {
+          "name": "Mika Tyysk\u00e4",
+          "url": "https://open.spotify.com/artist/7I3GNszuWihe6wYylLTuie"
+        }
+      ],
+      "duration_ms": 254038,
+      "name": "Flight Mode",
+      "url": "https://open.spotify.com/track/4X7Jsy8kRkRz7LHrrtFunn"
     },
     {
       "added_at": "2022-06-10 04:02:00",

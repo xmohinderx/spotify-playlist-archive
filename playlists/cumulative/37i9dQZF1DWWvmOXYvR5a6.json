@@ -1178,6 +1178,24 @@
     },
     {
       "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/73Qw2FLdzCRM6lCIbk9tSQ"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/3wNyk56POKvJWrFDVWJAEx"
+    },
+    {
+      "album": {
         "name": "MultrillVerse",
         "url": "https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI"
       },
@@ -3179,7 +3197,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 164480,
       "name": "Fragile (Prod. Dayrick)",
       "url": "https://open.spotify.com/track/4OsYZcgIDKPWoezA1sBeUF"
@@ -6091,7 +6109,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 203731,
       "name": "meet me in Toronto",
       "url": "https://open.spotify.com/track/6gnkpiuVtm2b5hzUNnXtQd"
@@ -6391,6 +6409,28 @@
       "duration_ms": 187413,
       "name": "Money Long (Feat. OXYNOVA)",
       "url": "https://open.spotify.com/track/3ijY4NZywujFttinhPRlaM"
+    },
+    {
+      "album": {
+        "name": "MONICA",
+        "url": "https://open.spotify.com/album/3Ui9T2zikgqU2sNzEo7Rh7"
+      },
+      "artists": [
+        {
+          "name": "O'Vell",
+          "url": "https://open.spotify.com/artist/66nFmhYml7OOaQ0xb9xdQB"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "MONICA (feat. Gist) (prod. PEAXE MARKET)",
+      "url": "https://open.spotify.com/track/62bxbTxlEd5AAs6bDOr7aD"
     },
     {
       "album": {
@@ -6808,6 +6848,32 @@
     },
     {
       "album": {
+        "name": "LOVE MAZE",
+        "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227560,
+      "name": "NG (Feat. pH-1, Jay Park)",
+      "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
+    },
+    {
+      "album": {
         "name": "Blended Noise",
         "url": "https://open.spotify.com/album/7EB0Fr3m45Il2lmxA4I87O"
       },
@@ -7111,6 +7177,28 @@
       "duration_ms": 154120,
       "name": "NOYB",
       "url": "https://open.spotify.com/track/4nw8Eht8BorhQfEUZl0l44"
+    },
+    {
+      "album": {
+        "name": "MaRz&B",
+        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231101,
+      "name": "Number (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/0b5xMWDVHK7SSZI0Lr2iNg"
     },
     {
       "album": {
@@ -7867,7 +7955,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 173403,
       "name": "Protect u (Feat. Coogie)",
       "url": "https://open.spotify.com/track/5TTqrk9RPR25mkv0obzS38"
@@ -8545,7 +8633,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 240760,
       "name": "Salad Days (feat. sokodomo, pH-1 & BE'O)",
       "url": "https://open.spotify.com/track/2MrBAJUseysxVN63HrPZL3"
@@ -8567,7 +8655,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 235391,
       "name": "Sariru (Feat. ron)",
       "url": "https://open.spotify.com/track/0n7gKGR1XyEUEA4yZwNZNw"
@@ -9107,6 +9195,36 @@
       "duration_ms": 164013,
       "name": "Sleep with another (feat. Kid Wine)",
       "url": "https://open.spotify.com/track/5rkBTlPFwWwe6pWKLZBP1O"
+    },
+    {
+      "album": {
+        "name": "Yuwol",
+        "url": "https://open.spotify.com/album/71ftm0ABuOLacpeJbIiM88"
+      },
+      "artists": [
+        {
+          "name": "Yuwol",
+          "url": "https://open.spotify.com/artist/5Jr606hvocuVIuk6Es5IlT"
+        },
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        },
+        {
+          "name": "Mirani",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174386,
+      "name": "So Far So Good (feat. TRADE L, JAEHA & Mirani)",
+      "url": "https://open.spotify.com/track/5d3rQVvcXkwYPRut655ANV"
     },
     {
       "album": {
@@ -9715,6 +9833,28 @@
       "duration_ms": 178186,
       "name": "TANG!\u2661",
       "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
+    },
+    {
+      "album": {
+        "name": "Tasty x Tasty",
+        "url": "https://open.spotify.com/album/0edv4ueAsyeQ7uYnIG6ddF"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169717,
+      "name": "Tasty x Tasty",
+      "url": "https://open.spotify.com/track/6ubzgznl4lqaCYV2kd7ewv"
     },
     {
       "album": {
@@ -10479,7 +10619,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 195500,
       "name": "vicious circle (Feat. Rei, Lil Kintexx)",
       "url": "https://open.spotify.com/track/6AnMuoMXMsaNq6TiWuwip4"
@@ -10881,7 +11021,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 186533,
       "name": "WHY Y (Feat. Tiger JK)",
       "url": "https://open.spotify.com/track/7k9rM0ZCWUn5Dg1t0vj0vi"
@@ -11311,7 +11451,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 165214,
       "name": "\uc624\uc5fc",
       "url": "https://open.spotify.com/track/0GtvTl4sjuDRJF59MjywwO"

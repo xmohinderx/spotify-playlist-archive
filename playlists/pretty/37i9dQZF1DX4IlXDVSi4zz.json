@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 125988,
+  "num_followers": 126419,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU4OTMxMSwwMDAwMDAwMDAxMmYwYTJhNGMyMmYxNjA5Y2NlOGY2MDg0Yzg2YmUz",
+  "snapshot_id": "MTY2NTU4OTMxMSwwMDAwMDAwMDViZmM0MGZiNzAyMTRjNzRhNmY1Yjc1YmM2YzVlNDU4",
   "tracks": [
     {
       "added_at": "2022-10-12 15:41:51",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-10-12 15:41:51",
       "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Nan\u00e3",
-      "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
-    },
-    {
-      "added_at": "2022-10-12 15:41:51",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 239417,
       "name": "You Were Right",
       "url": "https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX"
+    },
+    {
+      "added_at": "2022-10-12 15:41:51",
+      "album": {
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Nan\u00e3",
+      "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
     },
     {
       "added_at": "2022-10-12 15:41:51",

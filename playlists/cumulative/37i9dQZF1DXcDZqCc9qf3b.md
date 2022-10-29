@@ -2,7 +2,7 @@
 
 ### [Netflix Kids Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcDZqCc9qf3b)
 
-> Groove to music from your Netflix Kids favorites, such as Ivy + Bean.
+> Groove to music from your Netflix Kids favorites! Cover: Spirit Rangers.
 
 84 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/4OwNQpd4CKtVZ6h2qFxFa1)
 

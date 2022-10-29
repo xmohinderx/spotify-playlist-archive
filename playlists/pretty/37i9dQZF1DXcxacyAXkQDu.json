@@ -1,12 +1,12 @@
 {
   "description": "Enjoy a break with some relaxing soft songs.",
-  "num_followers": 703816,
+  "num_followers": 703923,
   "original_name": "Cozy Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0ODgwNCwwMDAwMDAwMDgzN2FmZDRiZjYyMTE0MDc1YzcyMGExMTBjMWUwNDNl",
+  "snapshot_id": "MTY2Njk1ODQwMCwwMDAwMDAwMGQwOTIxYTYwMGIwMzZjN2M3OTkyYTkxNWNjOTZlYTY2",
   "tracks": [
     {
       "added_at": "2022-10-07 13:20:04",
@@ -307,26 +307,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Ma Fleur",
-        "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
-      },
-      "artists": [
-        {
-          "name": "The Cinematic Orchestra",
-          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
-        },
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 370666,
-      "name": "To Build A Home",
-      "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "Freya Ridings",
         "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
       },
@@ -511,22 +491,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Sad Songs In A Hotel Room",
-        "url": "https://open.spotify.com/album/3myn4byRnfljbPqfO6FBss"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/7ykWjHHszWWVOv7Tz0xya7"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "Everglow",
         "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
       },
@@ -539,6 +503,22 @@
       "duration_ms": 227506,
       "name": "Everglow - Edit",
       "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Sad Songs In A Hotel Room",
+        "url": "https://open.spotify.com/album/3myn4byRnfljbPqfO6FBss"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/7ykWjHHszWWVOv7Tz0xya7"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -559,18 +539,18 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "if we never met",
-        "url": "https://open.spotify.com/album/2KfDGvN1Q2CkL5yYWeSglg"
+        "name": "Hard Settle, Ain't Troubled",
+        "url": "https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR"
       },
       "artists": [
         {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
         }
       ],
-      "duration_ms": 144426,
-      "name": "if we never met",
-      "url": "https://open.spotify.com/track/5HBDBBr5OV90lubqW8ctJF"
+      "duration_ms": 203869,
+      "name": "Portland, Maine",
+      "url": "https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -591,18 +571,18 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Hard Settle, Ain't Troubled",
-        "url": "https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR"
+        "name": "if we never met",
+        "url": "https://open.spotify.com/album/2KfDGvN1Q2CkL5yYWeSglg"
       },
       "artists": [
         {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
         }
       ],
-      "duration_ms": 203869,
-      "name": "Portland, Maine",
-      "url": "https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG"
+      "duration_ms": 144426,
+      "name": "if we never met",
+      "url": "https://open.spotify.com/track/5HBDBBr5OV90lubqW8ctJF"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -783,22 +763,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 384080,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/2Q1zatNlXb0jN5cC4Vaprk"
       },
@@ -811,6 +775,22 @@
       "duration_ms": 138546,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/5qymfocDvwMdWHkYARj9zw"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 384080,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -991,26 +971,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Line By Line (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Line By Line (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "When You Love Someone (Acoustic)",
         "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
       },
@@ -1027,18 +987,22 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Weed Garden",
-        "url": "https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3"
+        "name": "Line By Line (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
       },
       "artists": [
         {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 195200,
-      "name": "Autumn Town Leaves",
-      "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
+      "duration_ms": 208186,
+      "name": "Line By Line (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -1099,6 +1063,22 @@
       "duration_ms": 176974,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Weed Garden",
+        "url": "https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Autumn Town Leaves",
+      "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -1563,6 +1543,22 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
+        "name": "A World Gone By",
+        "url": "https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 253597,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/3y8PDnOgyPXasEnEoYKXwb"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
         "name": "For The Company",
         "url": "https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2"
       },
@@ -1607,22 +1603,6 @@
       "duration_ms": 191935,
       "name": "Cool Again",
       "url": "https://open.spotify.com/track/4CFJuKGq5CiGF95M2Jrw3S"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
-        "name": "A World Gone By",
-        "url": "https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 253597,
-      "name": "Ordinary People",
-      "url": "https://open.spotify.com/track/3y8PDnOgyPXasEnEoYKXwb"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -1743,22 +1723,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/00f9VGHfQhAHMCQ2bSjg3D"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "GREY",
         "url": "https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI"
       },
@@ -1771,6 +1735,22 @@
       "duration_ms": 194066,
       "name": "Morning Breeze",
       "url": "https://open.spotify.com/track/7iM7I3dbNQGC5xkxJMWwrv"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/00f9VGHfQhAHMCQ2bSjg3D"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -1791,22 +1771,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/5YpVthCGQKfsL9ajrnd1ty"
-      },
-      "artists": [
-        {
-          "name": "JORDY",
-          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
-        }
-      ],
-      "duration_ms": 179027,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/6PLmOGIMFHjPqrjDKQoJWk"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "Somebody Loved",
         "url": "https://open.spotify.com/album/4T7n2myY9sAcGSJD2v0IAf"
       },
@@ -1823,6 +1787,22 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/5YpVthCGQKfsL9ajrnd1ty"
+      },
+      "artists": [
+        {
+          "name": "JORDY",
+          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
+        }
+      ],
+      "duration_ms": 179027,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/6PLmOGIMFHjPqrjDKQoJWk"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/3t31ldCb4oXOYSKXyGfaUA"
       },
@@ -1835,6 +1815,22 @@
       "duration_ms": 248000,
       "name": "I Am Falling in Love",
       "url": "https://open.spotify.com/track/6w0hYR4t6m3AYgCDh29t9K"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -1859,22 +1855,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Be Your Man",
-        "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Be Your Man",
-      "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "LA On A Saturday Night",
         "url": "https://open.spotify.com/album/1f2rFcEFmcze28kd4deeS4"
       },
@@ -1887,38 +1867,6 @@
       "duration_ms": 195074,
       "name": "LA On A Saturday Night",
       "url": "https://open.spotify.com/track/0dbp9YwlGEzXmxavRMgZ4T"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
-        "name": "Fill Me Up",
-        "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Fill Me Up",
-      "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
-        "name": "Bigger Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
-      },
-      "artists": [
-        {
-          "name": "Crying Day Care Choir",
-          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
-        }
-      ],
-      "duration_ms": 288731,
-      "name": "Bigger Heart (Acoustic)",
-      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -1939,6 +1887,22 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
+        "name": "Fill Me Up",
+        "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Fill Me Up",
+      "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
         "name": "Be Slow",
         "url": "https://open.spotify.com/album/4bONIjnWMhvhJlgGHqTgY7"
       },
@@ -1951,6 +1915,22 @@
       "duration_ms": 216596,
       "name": "With You",
       "url": "https://open.spotify.com/track/33OQ226Toze7LT0D4ZYUTt"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Bigger Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
+      },
+      "artists": [
+        {
+          "name": "Crying Day Care Choir",
+          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
+        }
+      ],
+      "duration_ms": 288731,
+      "name": "Bigger Heart (Acoustic)",
+      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -2035,22 +2015,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 255885,
-      "name": "Getting Over You",
-      "url": "https://open.spotify.com/track/4G4gtvlaFaI6v6wWD8UvqL"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "T-Shirts (Acoustic)",
         "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
       },
@@ -2079,6 +2043,22 @@
       "duration_ms": 212400,
       "name": "OK",
       "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 255885,
+      "name": "Getting Over You",
+      "url": "https://open.spotify.com/track/4G4gtvlaFaI6v6wWD8UvqL"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -2123,22 +2103,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Leave Me Breathless",
-        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/72dxj4fyqyQ1YGdlFvv2xW"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "Lose You Too",
         "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
       },
@@ -2151,6 +2115,22 @@
       "duration_ms": 186463,
       "name": "Lose You Too",
       "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/72dxj4fyqyQ1YGdlFvv2xW"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -2227,22 +2207,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "More & More",
-        "url": "https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD"
-      },
-      "artists": [
-        {
-          "name": "Finding Hope",
-          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "More & More",
-      "url": "https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
       },
@@ -2291,38 +2255,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Stole the Show",
-        "url": "https://open.spotify.com/album/2dOL5ZOIyLkNjy7sDBCfOI"
-      },
-      "artists": [
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 231522,
-      "name": "Stole the Show",
-      "url": "https://open.spotify.com/track/0uf2MtrLg2WUWYrs1rltpY"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "Grey Fidelity",
         "url": "https://open.spotify.com/album/4gcifqqCaQgrNrhLvsX6wV"
       },
@@ -2339,22 +2271,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Silhouettes",
-        "url": "https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC"
-      },
-      "artists": [
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 255205,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/6MXJdqTuSDXkG21JHWiGko"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "Vacancy",
         "url": "https://open.spotify.com/album/3HTmh4jyCRfi8wjlxmm8uL"
       },
@@ -2367,6 +2283,22 @@
       "duration_ms": 152960,
       "name": "Waiting Around - Acoustic",
       "url": "https://open.spotify.com/track/6fWBQnyz8GrH0neN1IsBRc"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 255205,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6MXJdqTuSDXkG21JHWiGko"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -2403,38 +2335,18 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Dreamers of The Shore",
-        "url": "https://open.spotify.com/album/0EwFSZYlNLASb4kYExEStV"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
       },
       "artists": [
         {
-          "name": "Volcan Peaks",
-          "url": "https://open.spotify.com/artist/40wfCZBIiMy5UAWJjkSWuD"
-        },
-        {
-          "name": "Cody Francis",
-          "url": "https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 171908,
-      "name": "Dreamers Of The Shore",
-      "url": "https://open.spotify.com/track/6ZyZGbujKBzxfzcjVOvGW5"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
-        "name": "ii",
-        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
-      },
-      "artists": [
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 184739,
-      "name": "Who Are You",
-      "url": "https://open.spotify.com/track/5TBWCX4Rgx7eRUs0QMtX7E"
+      "duration_ms": 203546,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -2451,6 +2363,26 @@
       "duration_ms": 189793,
       "name": "Kids In Love",
       "url": "https://open.spotify.com/track/3JNCFaTBMGPaXNGfsfrirX"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Dreamers of The Shore",
+        "url": "https://open.spotify.com/album/0EwFSZYlNLASb4kYExEStV"
+      },
+      "artists": [
+        {
+          "name": "Volcan Peaks",
+          "url": "https://open.spotify.com/artist/40wfCZBIiMy5UAWJjkSWuD"
+        },
+        {
+          "name": "Cody Francis",
+          "url": "https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32"
+        }
+      ],
+      "duration_ms": 171908,
+      "name": "Dreamers Of The Shore",
+      "url": "https://open.spotify.com/track/6ZyZGbujKBzxfzcjVOvGW5"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -2483,6 +2415,38 @@
       "duration_ms": 213213,
       "name": "Perfect To Me - Acoustic",
       "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Place We Were Made",
+        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 185274,
+      "name": "Place We Were Made",
+      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "ii",
+        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 184739,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/5TBWCX4Rgx7eRUs0QMtX7E"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -2551,22 +2515,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Place We Were Made",
-        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 185274,
-      "name": "Place We Were Made",
-      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "No Matter What",
         "url": "https://open.spotify.com/album/5HYPXY6FQXg2pQkOY2Tygw"
       },
@@ -2583,22 +2531,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Hard Act To Follow",
-        "url": "https://open.spotify.com/album/0QbOUPiNJAU4h1tGnxfvnh"
-      },
-      "artists": [
-        {
-          "name": "Billy Lockett",
-          "url": "https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA"
-        }
-      ],
-      "duration_ms": 194422,
-      "name": "Hard Act To Follow",
-      "url": "https://open.spotify.com/track/6IKoE1DlvzdGfzUS9QQaVP"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "A Few More Hours at YYZ",
         "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
       },
@@ -2611,6 +2543,22 @@
       "duration_ms": 183017,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/2lxek8twv43ZPtKHKBVnOG"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Hard Act To Follow",
+        "url": "https://open.spotify.com/album/0QbOUPiNJAU4h1tGnxfvnh"
+      },
+      "artists": [
+        {
+          "name": "Billy Lockett",
+          "url": "https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA"
+        }
+      ],
+      "duration_ms": 194422,
+      "name": "Hard Act To Follow",
+      "url": "https://open.spotify.com/track/6IKoE1DlvzdGfzUS9QQaVP"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -2695,6 +2643,22 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "I'll Never Love",
+      "url": "https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
         "name": "Love & Hurt",
         "url": "https://open.spotify.com/album/14cNayL62Jr1IznQ9KMH9t"
       },
@@ -2711,22 +2675,6 @@
       "duration_ms": 195226,
       "name": "Fraction",
       "url": "https://open.spotify.com/track/0W15FUJGqqbVNvHGYR8nZk"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "I'll Never Love",
-      "url": "https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -2783,22 +2731,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "It's About Us",
-        "url": "https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC"
-      },
-      "artists": [
-        {
-          "name": "Alex & Sierra",
-          "url": "https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2"
-        }
-      ],
-      "duration_ms": 240173,
-      "name": "Bumper Cars",
-      "url": "https://open.spotify.com/track/62UQgDAEzQuKDwa0Lf8wt8"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -2811,6 +2743,22 @@
       "duration_ms": 240266,
       "name": "Till I Found You",
       "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "It's About Us",
+        "url": "https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC"
+      },
+      "artists": [
+        {
+          "name": "Alex & Sierra",
+          "url": "https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2"
+        }
+      ],
+      "duration_ms": 240173,
+      "name": "Bumper Cars",
+      "url": "https://open.spotify.com/track/62UQgDAEzQuKDwa0Lf8wt8"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -2883,6 +2831,22 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
+        "name": "Brutally",
+        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 208105,
+      "name": "Brutally",
+      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
         "name": "Know-It-All (Deluxe)",
         "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
       },
@@ -2899,22 +2863,6 @@
       "duration_ms": 228000,
       "name": "Stone",
       "url": "https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
-        "name": "Brutally",
-        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 208105,
-      "name": "Brutally",
-      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -2967,26 +2915,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Dreaming (Mahogany Sessions)",
-        "url": "https://open.spotify.com/album/58iAtZRKMXR0mg1WntNBsa"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        },
-        {
-          "name": "Mahogany",
-          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
-        }
-      ],
-      "duration_ms": 271580,
-      "name": "Dreaming - Mahogany Sessions",
-      "url": "https://open.spotify.com/track/5myjsv8hybpNWNIWtLaW4T"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "Late Teens / Early Twenties",
         "url": "https://open.spotify.com/album/0HTwVQTBJLcpgvgtf78j55"
       },
@@ -3007,18 +2935,22 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "In Hindsight",
-        "url": "https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0"
+        "name": "Dreaming (Mahogany Sessions)",
+        "url": "https://open.spotify.com/album/58iAtZRKMXR0mg1WntNBsa"
       },
       "artists": [
         {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
         }
       ],
-      "duration_ms": 167942,
-      "name": "Masquerade",
-      "url": "https://open.spotify.com/track/03rrlcjsqarfllXgIr2I2a"
+      "duration_ms": 271580,
+      "name": "Dreaming - Mahogany Sessions",
+      "url": "https://open.spotify.com/track/5myjsv8hybpNWNIWtLaW4T"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -3039,6 +2971,22 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
+        "name": "In Hindsight",
+        "url": "https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 167942,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/03rrlcjsqarfllXgIr2I2a"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
         "name": "I'm Sorry, I'm Not Sorry",
         "url": "https://open.spotify.com/album/2D23kwwoy2JpZVuJwzE42B"
       },
@@ -3051,22 +2999,6 @@
       "duration_ms": 188320,
       "name": "Reason To Stay",
       "url": "https://open.spotify.com/track/7wEXKF8ltyhpiGlUfa3RGh"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
-        "name": "Blink Twice",
-        "url": "https://open.spotify.com/album/0YXMnmlNlrJhL1nC8NXAoT"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 197767,
-      "name": "Blink Twice",
-      "url": "https://open.spotify.com/track/15mBjCfIMBnW92VxkswM2P"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -3087,6 +3019,22 @@
       "duration_ms": 126539,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/1dmnbbKJIzyomxJqxgqj04"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/0YXMnmlNlrJhL1nC8NXAoT"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 197767,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/15mBjCfIMBnW92VxkswM2P"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -3195,26 +3143,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/2uEU5UuZZ57MRlKRMuxN45"
-      },
-      "artists": [
-        {
-          "name": "Good Scott",
-          "url": "https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw"
-        },
-        {
-          "name": "Mahogany",
-          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
-        }
-      ],
-      "duration_ms": 141720,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/3Ek7jLGOKPmLeILZDWJw09"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "River Love",
         "url": "https://open.spotify.com/album/6kfunqkUTOwcfC1bFr6qIF"
       },
@@ -3243,6 +3171,26 @@
       "duration_ms": 185357,
       "name": "Cut Me",
       "url": "https://open.spotify.com/track/1wtrJ0dcTjqP8PMRTczdSi"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/2uEU5UuZZ57MRlKRMuxN45"
+      },
+      "artists": [
+        {
+          "name": "Good Scott",
+          "url": "https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "duration_ms": 141720,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/3Ek7jLGOKPmLeILZDWJw09"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -3279,22 +3227,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "Better Than Today",
-      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "Your Song (Acoustic)",
         "url": "https://open.spotify.com/album/3BfAAuW2nmVgQi1MOb85h3"
       },
@@ -3315,18 +3247,18 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Golden (Acoustic)",
-        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
       },
       "artists": [
         {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 307312,
-      "name": "Golden (Acoustic)",
-      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
+      "duration_ms": 229773,
+      "name": "Better Than Today",
+      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -3347,22 +3279,18 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/2XyiCujhKmb7ezXGUM4EuY"
+        "name": "Golden (Acoustic)",
+        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
       },
       "artists": [
         {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        },
-        {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
         }
       ],
-      "duration_ms": 187520,
-      "name": "You (feat. Emelie Hollow)",
-      "url": "https://open.spotify.com/track/3LUe3VcnrIvCkmAfuzM31Q"
+      "duration_ms": 307312,
+      "name": "Golden (Acoustic)",
+      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -3379,6 +3307,26 @@
       "duration_ms": 185516,
       "name": "Blindfold",
       "url": "https://open.spotify.com/track/1YsGOq2txgbvzKBWjvxNf2"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/2XyiCujhKmb7ezXGUM4EuY"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        },
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "You (feat. Emelie Hollow)",
+      "url": "https://open.spotify.com/track/3LUe3VcnrIvCkmAfuzM31Q"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -3563,22 +3511,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Land Of The Living EP",
-        "url": "https://open.spotify.com/album/2wTv5Kxirms8GrHjYdx1w8"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 291360,
-      "name": "Silver Moon - EP Version",
-      "url": "https://open.spotify.com/track/5fm1kAOmwnlXStu270Mv84"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU"
       },
@@ -3591,6 +3523,22 @@
       "duration_ms": 197055,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Land Of The Living EP",
+        "url": "https://open.spotify.com/album/2wTv5Kxirms8GrHjYdx1w8"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 291360,
+      "name": "Silver Moon - EP Version",
+      "url": "https://open.spotify.com/track/5fm1kAOmwnlXStu270Mv84"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -3695,22 +3643,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Paperweights",
-        "url": "https://open.spotify.com/album/0zD4E1M4PjCAH6qZkXS2Fv"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 176080,
-      "name": "The Original",
-      "url": "https://open.spotify.com/track/0i2G4EegdQ7aO0NnjBJt3R"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "Hundred Acres",
         "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
       },
@@ -3723,42 +3655,6 @@
       "duration_ms": 254920,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
-        "name": "Uncrazy (Acoustic)",
-        "url": "https://open.spotify.com/album/6gcxHD2oNouSKLigpESX0w"
-      },
-      "artists": [
-        {
-          "name": "AFSHEEN",
-          "url": "https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR"
-        },
-        {
-          "name": "Rebecca Ferguson",
-          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
-        }
-      ],
-      "duration_ms": 231827,
-      "name": "Uncrazy - Acoustic",
-      "url": "https://open.spotify.com/track/77Mh4OWNEJiHbMgJZoZRcY"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
-        "name": "Love, me",
-        "url": "https://open.spotify.com/album/3OIuzwZjpwUwyvFhSHYjj6"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Fortress",
-      "url": "https://open.spotify.com/track/3ri08lx68DvAbQuqLuZoFM"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -3783,6 +3679,58 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
+        "name": "Uncrazy (Acoustic)",
+        "url": "https://open.spotify.com/album/6gcxHD2oNouSKLigpESX0w"
+      },
+      "artists": [
+        {
+          "name": "AFSHEEN",
+          "url": "https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR"
+        },
+        {
+          "name": "Rebecca Ferguson",
+          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
+        }
+      ],
+      "duration_ms": 231827,
+      "name": "Uncrazy - Acoustic",
+      "url": "https://open.spotify.com/track/77Mh4OWNEJiHbMgJZoZRcY"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Paperweights",
+        "url": "https://open.spotify.com/album/0zD4E1M4PjCAH6qZkXS2Fv"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 176080,
+      "name": "The Original",
+      "url": "https://open.spotify.com/track/0i2G4EegdQ7aO0NnjBJt3R"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Love, me",
+        "url": "https://open.spotify.com/album/3OIuzwZjpwUwyvFhSHYjj6"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Fortress",
+      "url": "https://open.spotify.com/track/3ri08lx68DvAbQuqLuZoFM"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA"
       },
@@ -3795,22 +3743,6 @@
       "duration_ms": 239178,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
-        "name": "Quiet Man (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0OtB923QBS47Dm0jyolDN4"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "My Sweet Refuge",
-      "url": "https://open.spotify.com/track/0PjNDvcERee30Gvr5OCCHz"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -3867,6 +3799,22 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
+        "name": "Quiet Man (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0OtB923QBS47Dm0jyolDN4"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "My Sweet Refuge",
+      "url": "https://open.spotify.com/track/0PjNDvcERee30Gvr5OCCHz"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
         "name": "My Hurricane",
         "url": "https://open.spotify.com/album/5knuQLXo7V4YnODlay8oKy"
       },
@@ -3883,22 +3831,6 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Covers from Home",
-        "url": "https://open.spotify.com/album/5hRLamvDu0NbkTBuVHkdA4"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/2Or2xCQrCtsu5Pkg8DuAvz"
-    },
-    {
-      "added_at": "2022-10-07 13:20:04",
-      "album": {
         "name": "See Inside",
         "url": "https://open.spotify.com/album/10Xt8fecD3Ih96nA06e2db"
       },
@@ -3911,6 +3843,22 @@
       "duration_ms": 197052,
       "name": "Cold Hands",
       "url": "https://open.spotify.com/track/3P6DtjIrFOrg5SAidrPoUE"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Covers from Home",
+        "url": "https://open.spotify.com/album/5hRLamvDu0NbkTBuVHkdA4"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/2Or2xCQrCtsu5Pkg8DuAvz"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -4011,18 +3959,18 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/16OVlXWsTKjUkhkPxkgUVa"
+        "name": "Long Game",
+        "url": "https://open.spotify.com/album/3GP1FwVwl9fq1G8Dm02Wwg"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Gavin Haley",
+          "url": "https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f"
         }
       ],
-      "duration_ms": 235293,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/4j5oomn30u4WLBPIqBqBg9"
+      "duration_ms": 155322,
+      "name": "Low Beams",
+      "url": "https://open.spotify.com/track/5uxABvfZB7XLBZpD4iQBqb"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -4059,18 +4007,18 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
-        "name": "Long Game",
-        "url": "https://open.spotify.com/album/3GP1FwVwl9fq1G8Dm02Wwg"
+        "name": "Pageant Material",
+        "url": "https://open.spotify.com/album/16OVlXWsTKjUkhkPxkgUVa"
       },
       "artists": [
         {
-          "name": "Gavin Haley",
-          "url": "https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 155322,
-      "name": "Low Beams",
-      "url": "https://open.spotify.com/track/5uxABvfZB7XLBZpD4iQBqb"
+      "duration_ms": 235293,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/4j5oomn30u4WLBPIqBqBg9"
     },
     {
       "added_at": "2022-10-07 13:20:04",
@@ -4155,6 +4103,22 @@
     {
       "added_at": "2022-10-07 13:20:04",
       "album": {
+        "name": "Midnight Waves",
+        "url": "https://open.spotify.com/album/6ZpIBoOCALDVIzJFFASZLP"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "duration_ms": 230314,
+      "name": "Needles & Pins",
+      "url": "https://open.spotify.com/track/1mdTP7WLslCd9TuQMeK9lo"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
         "name": "Give It To You (from Songland)",
         "url": "https://open.spotify.com/album/6cEaN8pCbLYUGTqop8L7e0"
       },
@@ -4167,6 +4131,38 @@
       "duration_ms": 135443,
       "name": "Give It To You (from Songland)",
       "url": "https://open.spotify.com/track/0U2HEoCazR0hZlNavNeWov"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 250453,
+      "name": "Splintered",
+      "url": "https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt"
+    },
+    {
+      "added_at": "2022-10-07 13:20:04",
+      "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/1nOTxGKDWwi8ykUX2IO5Cv"
+      },
+      "artists": [
+        {
+          "name": "Kristofer Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/1iEl2JkciBjbJWP2T1ipXj"
     }
   ],
   "unique_name": "Cozy Blend",

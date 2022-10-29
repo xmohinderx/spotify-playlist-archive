@@ -4,7 +4,7 @@
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Mumford & Sons
 
-119 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/2pddgQow7sguWtYurOyoiM)
+120 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/2pddgQow7sguWtYurOyoiM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Gold Rush](https://open.spotify.com/track/0jQNFJUCFPaTo3obowrbqG) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/3D7fUdOMnkiLuuXDtfxFA4) | 3:33 | 2021-02-12 | 2022-07-29 |
 | [Gold Rush](https://open.spotify.com/track/41HBl0MY8sTTe4ZcpMsm5r) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart Of My Own](https://open.spotify.com/album/6KCtZck76UV1ym4mthQOWH) | 3:33 | 2021-02-12 |  |
 | [Gold Rush](https://open.spotify.com/track/71WTX4gL815zPt0l3wGBTl) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Heart of My Own](https://open.spotify.com/album/2litDL7wIKCHWALJSrdOV8) | 3:33 | 2021-02-12 | 2022-08-10 |
-| [Grenadine](https://open.spotify.com/track/02w4jlD7486J2arFerSVlJ) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Grenadine](https://open.spotify.com/album/5yjhov57fmJ7729YWaveNS) | 3:27 | 2021-02-12 |  |
+| [Grenadine](https://open.spotify.com/track/02w4jlD7486J2arFerSVlJ) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Grenadine](https://open.spotify.com/album/5yjhov57fmJ7729YWaveNS) | 3:27 | 2021-02-12 | 2022-10-29 |
+| [Grenadine](https://open.spotify.com/track/3Y2MtObLigh1plXwhau6Qi) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Grenadine](https://open.spotify.com/album/5CSsUeXe2pGbYTNxXPzLtm) | 3:27 | 2022-09-21 |  |
 | [Guiding Light](https://open.spotify.com/track/4VeCmOb1rAEZQfH7Rlms9C) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz) | 3:37 | 2021-02-12 | 2022-10-13 |
 | [Guiding Light](https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 3:37 | 2022-09-21 |  |
 | [HAPPINESS](https://open.spotify.com/track/7aag0fFgE9K1Gj8lJwQaGI) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [H A R D L O V E](https://open.spotify.com/album/0DjJIQPOsxd5OiUoVskRBH) | 3:25 | 2021-02-12 |  |

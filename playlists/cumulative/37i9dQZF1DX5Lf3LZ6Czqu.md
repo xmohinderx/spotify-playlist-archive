@@ -2,9 +2,9 @@
 
 ### [String Theory](https://open.spotify.com/playlist/37i9dQZF1DX5Lf3LZ6Czqu)
 
-> Instrumental guitar shreddery\. Cover: TORA
+> Instrumental guitar shreddery\. Cover: Polyphia
 
-103 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
+105 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Falling Up](https://open.spotify.com/track/76u0xybJDLKrKS8TOnIE40) | [Allen Hinds](https://open.spotify.com/artist/3GxEPmRiVDifXYi0mswBAK) | [Falling Up](https://open.spotify.com/album/4j7MhzKAEAEzCSD9dXC4uK) | 4:45 | 2021-05-04 |  |
 | [Fat Hair](https://open.spotify.com/track/7xtnntJ25E0IGT9fQny0IP) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Bird of Passage](https://open.spotify.com/album/1nrKhiNrFuverJiIo1zliu) | 3:42 | 2022-04-08 |  |
 | [Five Fourths Will Get You Six](https://open.spotify.com/track/59Arv6QbBfhA5RenhE9kpT) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Still](https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw) | 6:30 | 2021-05-04 |  |
+| [Flight Mode](https://open.spotify.com/track/4X7Jsy8kRkRz7LHrrtFunn) | [Mr\. Fastfinger](https://open.spotify.com/artist/2EwvEoMSkP2QHZfLoN7AVd), [Mika Tyyskä](https://open.spotify.com/artist/7I3GNszuWihe6wYylLTuie) | [Flight Mode](https://open.spotify.com/album/4hAUsySEtN8LtIyC3hzeTC) | 4:14 | 2022-10-28 |  |
 | [Four Day Weekend](https://open.spotify.com/track/2Lv1k8ZSaC8XbjRvLPXqgM) | [Moray Pringle](https://open.spotify.com/artist/2XxpV0Zg0H0BZWCxgZQZKW) | [Four Day Weekend](https://open.spotify.com/album/4BJ2bEGlgs2EMv6GoDLLLt) | 4:25 | 2021-05-04 |  |
 | [Funk Force Five](https://open.spotify.com/track/4717gUSZNJkUiClBF0HS6z) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Unrepentant](https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1) | 3:09 | 2021-05-04 |  |
 | [Ghostfish \- Masterlink Sessions](https://open.spotify.com/track/3x2MCE4ayd3DUhBxVHBaIq) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Mike Outram](https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ), [Tony Remy](https://open.spotify.com/artist/4ZPe9yodynCxVDpH4uExp0) | [Ghostfish \(Masterlink Sessions\)](https://open.spotify.com/album/4yxkHvAV6Uh86YLNlh81r1) | 2:53 | 2022-08-19 |  |
@@ -82,6 +83,7 @@
 | [Reflective](https://open.spotify.com/track/28iQulj2Omv4SI3N5G3RWd) | [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [Sounds of Innocence](https://open.spotify.com/album/4NvAMdVVeCkqIW6oV4KEkk) | 3:45 | 2021-05-04 |  |
 | [Reflective](https://open.spotify.com/track/5B6lWsQXoKghgupCA5yNRY) | [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [Sounds of Innocence](https://open.spotify.com/album/0rtwwQetfvL67PGfCQcngs) | 3:45 | 2021-05-04 | 2022-07-29 |
 | [Revenge Of The Nerd](https://open.spotify.com/track/2oPdW4tRE5sc7xJYdhz6XM) | [Pete Thorn](https://open.spotify.com/artist/2fGIc4JSHwzCB7HIzATFtV) | [Guitar Nerd](https://open.spotify.com/album/3t4ggDv6r3gLGuIyK25Yet) | 4:34 | 2022-07-29 |  |
+| [Reverie](https://open.spotify.com/track/1W5zSvAeIXlw6odInPE4m5) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 4:02 | 2022-10-28 |  |
 | [Riverside Cake](https://open.spotify.com/track/2srAO5RpA2itSztEfbhRsR) | [Keanu Ienco](https://open.spotify.com/artist/13kGFdMMZXBatYiqXx2Wuw) | [Celestial Desire](https://open.spotify.com/album/6yHsXLT981Lxq675nClwrJ) | 5:05 | 2022-03-18 |  |
 | [Sahara](https://open.spotify.com/track/1IyZMP5uZjbk8sbGOC98CG) | [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [The Elephants of Mars](https://open.spotify.com/album/5H7fMVvjyesjzHqRM5GujF) | 4:36 | 2022-10-11 |  |
 | [Same Sun Shines](https://open.spotify.com/track/3PcM0Wc601FYPjLNhbfUme) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Soul Shifter](https://open.spotify.com/album/2kkD4GgJc9OxQ0vheXnCNL) | 4:44 | 2021-05-04 |  |

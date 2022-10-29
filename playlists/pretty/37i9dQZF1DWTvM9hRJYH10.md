@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Madeline Merlo
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,293 likes - 146 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,297 likes - 146 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 74 | [When I Get Home](https://open.spotify.com/track/0pYO30NBbEZTqLzHj1eWww) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [When I Get Home](https://open.spotify.com/album/5Vx9kDNjXzjDyeOVajPWLA) | 3:13 |
 | 75 | [Started Right Here](https://open.spotify.com/track/7AdMQLG4UbBQF6RNFs57IT) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/113bFdIiv0jfchW7SKyBa8) | 2:45 |
 | 76 | [One Girl To Another](https://open.spotify.com/track/6P5B6KUAYlAfHyJmkmrFpf) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [One Girl To Another](https://open.spotify.com/album/6v70eBRRGOT2GHLbSBxedx) | 2:56 |
-| 77 | [Damn You](https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/6C5pn8Iv7yow2MZFhycH0s) | 3:03 |
+| 77 | [Damn You](https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je) | 3:03 |
 | 78 | [Momentum](https://open.spotify.com/track/2Km7p52eJt51AsLoizZsXz) | [Patrick Murphy](https://open.spotify.com/artist/2GV1qOwwdkJFVbDL4u6rlh) | [Momentum](https://open.spotify.com/album/1UVUIMDHj2I0Lt5Mumd6eh) | 3:21 |
 | 79 | [Where Did All The Cowboys Go \(reimagined\)](https://open.spotify.com/track/0Mb7cQgxUHG1sv942JKRQN) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB), [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Where Did All The Cowboys Go \(reimagined\)](https://open.spotify.com/album/0oQTz1ECewqKTOYgkWbiIN) | 3:18 |
 | 80 | [Pretty Damn Close](https://open.spotify.com/track/4GEP4c32r8w23n7vOTrSUD) | [Lexie Hayden](https://open.spotify.com/artist/6zYd6Vq5ssXgIhxm1DTGWh) | [Pretty Damn Close](https://open.spotify.com/album/3Bgy4hqtatQewljCLoW9Ob) | 3:45 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 145 | [That Summer](https://open.spotify.com/track/00oJcls7l9XuLAroemBLy8) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Silver Linings](https://open.spotify.com/album/3sJZ4bPGiUVmgHUC02frvL) | 3:04 |
 | 146 | [Pieces](https://open.spotify.com/track/5h0xfskqYqiDYG4jc8EMyb) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Pieces](https://open.spotify.com/album/5FyigvplnzcKCIfAzvVAA9) | 3:07 |
 
-Snapshot ID: `MTY2NTcyMDM2NCwwMDAwMDAwMGU2YTY3MmY4OTRlZmJiYTI4OGVmMjIxMTViZGFhNTM0`
+Snapshot ID: `MTY2NTcyMDM2NCwwMDAwMDAwMDg3OTUyMzViNGYwMDA2ODQ1NjIyMjQ2NDJmMWZmYTBl`

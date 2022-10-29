@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 394993,
+  "num_followers": 395124,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM1Mzc2MSwwMDAwMDAwMGMyM2ViY2M5ODhjMDQyMTFjYzkxNmYxZjA4OTVjOGI1",
+  "snapshot_id": "MTY2NjM1Mzc2MSwwMDAwMDAwMGJhNGU0YmQwYmU0MTliNTQ4NDJjZGFhOWZiNjZmOTky",
   "tracks": [
     {
       "added_at": "2022-10-21 12:02:40",
@@ -519,42 +519,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Passeggiata",
-        "url": "https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI"
-      },
-      "artists": [
-        {
-          "name": "Vera Fernandez",
-          "url": "https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Tavolo",
-      "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
-        "name": "Spanish Steroids",
-        "url": "https://open.spotify.com/album/2c5f2MHRXHZVhIf9ayKlbv"
-      },
-      "artists": [
-        {
-          "name": "Le Hutin",
-          "url": "https://open.spotify.com/artist/3mO2VqpK4XlqvRGfTbg2k8"
-        },
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 371205,
-      "name": "Spanish Steroids",
-      "url": "https://open.spotify.com/track/4RwzGoLeOErK6f4W0d9nzO"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "Fidelity Radio Club (Toy Tonics Remixes)",
         "url": "https://open.spotify.com/album/7vx7dd3xBvpZeXqKFM6UmF"
       },
@@ -575,6 +539,38 @@
       "duration_ms": 257321,
       "name": "Me at the Zoo - Cody Currie Remix",
       "url": "https://open.spotify.com/track/1fHuXpoTKwt52hIZWuEhr7"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Passeggiata",
+        "url": "https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI"
+      },
+      "artists": [
+        {
+          "name": "Vera Fernandez",
+          "url": "https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Tavolo",
+      "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Intimate Fantasy - EP",
+        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 493000,
+      "name": "Intimate Fantasy",
+      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -607,6 +603,26 @@
       "duration_ms": 244363,
       "name": "Pastis",
       "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
+        "name": "Spanish Steroids",
+        "url": "https://open.spotify.com/album/2c5f2MHRXHZVhIf9ayKlbv"
+      },
+      "artists": [
+        {
+          "name": "Le Hutin",
+          "url": "https://open.spotify.com/artist/3mO2VqpK4XlqvRGfTbg2k8"
+        },
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 371205,
+      "name": "Spanish Steroids",
+      "url": "https://open.spotify.com/track/4RwzGoLeOErK6f4W0d9nzO"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -655,22 +671,6 @@
       "duration_ms": 373974,
       "name": "008A1",
       "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
-        "name": "Intimate Fantasy - EP",
-        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 493000,
-      "name": "Intimate Fantasy",
-      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
+        "name": "Closer To The Essence",
+        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "Closer To The Essence",
+      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+    },
+    {
+      "added_at": "2022-10-21 12:02:40",
+      "album": {
         "name": "Dosages, Vol. 2",
         "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
       },
@@ -923,18 +939,22 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Closer To The Essence",
-        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
+        "name": "I Gotta Cry",
+        "url": "https://open.spotify.com/album/5psitNv3hl8WEoZY7Z2tx1"
       },
       "artists": [
         {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+          "name": "Klaus Layer",
+          "url": "https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x"
+        },
+        {
+          "name": "Rick Flair",
+          "url": "https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m"
         }
       ],
-      "duration_ms": 161152,
-      "name": "Closer To The Essence",
-      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+      "duration_ms": 312000,
+      "name": "I Gotta Cry",
+      "url": "https://open.spotify.com/track/1DtATMMquUii9mswtWJ3tc"
     },
     {
       "added_at": "2022-10-21 12:02:40",
@@ -967,26 +987,6 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "I Gotta Cry",
-        "url": "https://open.spotify.com/album/5psitNv3hl8WEoZY7Z2tx1"
-      },
-      "artists": [
-        {
-          "name": "Klaus Layer",
-          "url": "https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x"
-        },
-        {
-          "name": "Rick Flair",
-          "url": "https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "I Gotta Cry",
-      "url": "https://open.spotify.com/track/1DtATMMquUii9mswtWJ3tc"
-    },
-    {
-      "added_at": "2022-10-21 12:02:40",
-      "album": {
         "name": "Watarase",
         "url": "https://open.spotify.com/album/4NXJDWKX8NbIWW3DaAnIt7"
       },
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2022-10-21 12:02:40",
       "album": {
-        "name": "Moonlite",
-        "url": "https://open.spotify.com/album/6E1BnFNtddCNHFEc0OcDLw"
+        "name": "Godson of House",
+        "url": "https://open.spotify.com/album/0IegYzp9b6XbcSzvd9z4Lm"
       },
       "artists": [
         {
-          "name": "Functionist",
-          "url": "https://open.spotify.com/artist/7vwUDIVQYQllQBukF6zDRs"
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        },
+        {
+          "name": "Byron the Aquarius",
+          "url": "https://open.spotify.com/artist/46Fi6aCaPrBr5ojzhsUkK5"
         }
       ],
-      "duration_ms": 212554,
-      "name": "Moonlite",
-      "url": "https://open.spotify.com/track/5offp7Ms4YpKjS7rzqFCgD"
+      "duration_ms": 516409,
+      "name": "Godson of House",
+      "url": "https://open.spotify.com/track/2zMGp9sLqwuWowUcm53WAX"
     }
   ],
   "unique_name": "Lo-Fi House",

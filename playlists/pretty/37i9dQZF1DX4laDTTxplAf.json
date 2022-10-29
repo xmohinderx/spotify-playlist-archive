@@ -1,12 +1,12 @@
 {
   "description": "All 00s, all ballads. Cover: Norah Jones",
-  "num_followers": 215377,
+  "num_followers": 215484,
   "original_name": "00s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDQwNzU2MCwwMDAwMDAwMDg4MjFhZjAwMTNmMWUyMzBlMGViYjc0YWUzNTFlMDkx",
+  "snapshot_id": "MTY1MDQwNzU2MCwwMDAwMDAwMGQyZGYwMDY2ZjkzOWU1MjQyMzBjOGM5OTlmMTc2MTky",
   "tracks": [
     {
       "added_at": "2021-02-10 17:52:46",
@@ -343,22 +343,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Come Away With Me",
-      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "Exclusive (Expanded Edition)",
         "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 252120,
       "name": "With You",
       "url": "https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -871,22 +871,6 @@
     {
       "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "PCD",
-        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        }
-      ],
-      "duration_ms": 207506,
-      "name": "Stickwitu",
-      "url": "https://open.spotify.com/track/4NjR63Up0uMkQBlKvlZd1l"
-    },
-    {
-      "added_at": "2021-02-10 17:52:46",
-      "album": {
         "name": "\"7\"",
         "url": "https://open.spotify.com/album/3HyLA4cMFGTbf7WslNJFSZ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 240492,
       "name": "Never Had A Dream Come True",
       "url": "https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB"
+    },
+    {
+      "added_at": "2021-02-10 17:52:46",
+      "album": {
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "duration_ms": 207506,
+      "name": "Stickwitu",
+      "url": "https://open.spotify.com/track/4NjR63Up0uMkQBlKvlZd1l"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -933,20 +933,20 @@
       "url": "https://open.spotify.com/track/0kr6d8wHDQPlzuET33NVn6"
     },
     {
-      "added_at": "2022-04-19 14:07:15",
+      "added_at": "2021-02-10 17:52:46",
       "album": {
-        "name": "Elliott Yamin",
-        "url": "https://open.spotify.com/album/4G390E1M4qCVxgAcbYaFwu"
+        "name": "Britney (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
       },
       "artists": [
         {
-          "name": "Elliott Yamin",
-          "url": "https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 261320,
-      "name": "Wait for You",
-      "url": "https://open.spotify.com/track/0U969xYNlAyfzi8P1TaO7u"
+      "duration_ms": 231066,
+      "name": "I'm Not a Girl, Not Yet a Woman",
+      "url": "https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o"
     },
     {
       "added_at": "2021-02-10 17:52:46",
@@ -965,20 +965,20 @@
       "url": "https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr"
     },
     {
-      "added_at": "2021-02-10 17:52:46",
+      "added_at": "2022-04-19 14:07:15",
       "album": {
-        "name": "Britney (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
+        "name": "Elliott Yamin",
+        "url": "https://open.spotify.com/album/4G390E1M4qCVxgAcbYaFwu"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Elliott Yamin",
+          "url": "https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd"
         }
       ],
-      "duration_ms": 231066,
-      "name": "I'm Not a Girl, Not Yet a Woman",
-      "url": "https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o"
+      "duration_ms": 261320,
+      "name": "Wait for You",
+      "url": "https://open.spotify.com/track/0U969xYNlAyfzi8P1TaO7u"
     },
     {
       "added_at": "2022-04-19 14:07:15",

@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-313 songs - 20 hr 38 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
+314 songs - 20 hr 41 min - [published](https://open.spotify.com/playlist/4ugtMYCOMKGk6u5JwB5V7b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [milky skittles](https://open.spotify.com/track/0uQVss7IyO6HrvcLJ8OCvw) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Unmastered](https://open.spotify.com/album/3YnPU75tHxYd9PY7x8uc1q) | 2:20 | 2020-12-22 | 2022-04-21 |
 | [Mind on Fire \- Franz Matthews Remix](https://open.spotify.com/track/1QlWtQTLTet9YwNJZ39euV) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK), [Franz Matthews](https://open.spotify.com/artist/0BIEy45aaKCjwertpSGy4K) | [Mind on Fire \(Franz Matthews Remixes\)](https://open.spotify.com/album/3R0PCSqzGkup3hpCUlwBO6) | 4:00 | 2020-12-22 | 2022-04-15 |
 | [Mirage \- Anoraak Remix](https://open.spotify.com/track/0ouN2uVklDjmE7Aclo3JHR) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Solar Nights \- The Remixes](https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV) | 3:32 | 2020-12-22 | 2022-04-20 |
-| [Moody](https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 2:14 | 2020-12-22 |  |
+| [Moody](https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 2:14 | 2020-12-22 | 2022-10-29 |
 | [Moody](https://open.spotify.com/track/4ZRl4vgRSJqtnJaCXWS6hg) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Moody](https://open.spotify.com/album/4K86Gl0y6IBl8uKxcsJUPq) | 2:14 | 2020-12-22 | 2022-07-22 |
 | [More Colors \(feat\. Chelsea Cutler\)](https://open.spotify.com/track/3WImtS2mfm4XiDTXt20Kjy) | [Kidswaste](https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [More Colors \(feat\. Chelsea Cutler\)](https://open.spotify.com/album/5rjJoAUYiWvyOUEIxcvAF0) | 4:56 | 2020-12-22 | 2022-04-20 |
 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/53QDQjWe8eWDoXp3zd3jjn) | 4:45 | 2020-12-22 |  |
@@ -306,6 +306,7 @@
 | [We Moved \- Edit](https://open.spotify.com/track/3Cb3u4BkHWcRVPp04zDsx9) | [J.Views](https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ), [Benja Lyman](https://open.spotify.com/artist/5eSeBQU6hhknzhLt4nLaEN) | [We Moved \(Edit\)](https://open.spotify.com/album/3Tzt6e2j5gBNiVkX4AYgIS) | 3:03 | 2020-12-22 | 2022-04-18 |
 | [We Stayed Up All Night](https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [We Stayed Up All Night](https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC) | 4:25 | 2020-12-22 |  |
 | [What Falling in Love Is For](https://open.spotify.com/track/3SxAg03DY1UYpP8RABjdDP) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [What Falling in Love Is For](https://open.spotify.com/album/5KFYPrdsq0FtuGtEH4jZUE) | 2:54 | 2020-12-22 | 2022-10-13 |
+| [What Falling in Love Is For](https://open.spotify.com/track/7mLzduqXIyJ8bXxjE6fJUf) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [What Falling in Love Is For](https://open.spotify.com/album/0j4EGK02p89xpridPMp6sI) | 2:54 | 2020-12-22 |  |
 | [What We've Got](https://open.spotify.com/track/5HEpukkNnxdPAV9zsgDLOx) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec), [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT) | [Manatee Commune](https://open.spotify.com/album/6MzzlBosYKeVzYLF5lZzlq) | 4:08 | 2020-12-22 | 2022-04-17 |
 | [When You Lock Eyes](https://open.spotify.com/track/436jz9bb0osX1lD8KUWf9U) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [When You Lock Eyes](https://open.spotify.com/album/5a8Xinn5KJFrMaOYt8Fbpo) | 2:22 | 2020-12-22 | 2022-07-29 |
 | [Where Angels Fear To Tread](https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Moonlight](https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn) | 3:45 | 2020-12-22 |  |

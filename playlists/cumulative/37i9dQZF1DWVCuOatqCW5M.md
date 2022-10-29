@@ -2,9 +2,9 @@
 
 ### [New Music Friday Hindi ](https://open.spotify.com/playlist/37i9dQZF1DWVCuOatqCW5M)
 
-> New music from popular Hindi artists\. Cover\- KING & Sunidhi Chauhan
+> New music from popular Hindi artists\. Cover\- Ananya Birla & Ankur Tewari
 
-288 songs - 16 hr 48 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
+289 songs - 16 hr 50 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Kya Chahiye](https://open.spotify.com/track/484FmzkhfaZ6tTECWsdndK) | [Shruti Rane](https://open.spotify.com/artist/69vXsJLW99gZRgxntkmPop) | [Kya Chahiye](https://open.spotify.com/album/5qsMxpnKKdoVkrbB0USSzn) | 3:07 | 2022-10-07 |  |
 | [Kya Haal Hai Bro?](https://open.spotify.com/track/1rgth5QwNoJ1N8NmR6Xw5B) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Kya Haal Hai Bro?](https://open.spotify.com/album/4ANdzXnb8riLng8auviFnv) | 2:59 | 2022-06-17 | 2022-06-25 |
 | [Kya Ho Gaya](https://open.spotify.com/track/2TbfqIrC82fKnkawwMlSvK) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Kya Ho Gaya](https://open.spotify.com/album/3vTWIcTP2fSZaqHgA2OkfL) | 2:42 | 2022-09-16 | 2022-10-08 |
+| [Kya Karein](https://open.spotify.com/track/4kBknWlaWOLZCbP5BL6PXg) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Kya Karein](https://open.spotify.com/album/1mztpgbKJgEuuK3PPhg95g) | 2:42 | 2022-10-28 |  |
 | [Kyun](https://open.spotify.com/track/6dojrojvZ0DXlTBp592XvY) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Kyun](https://open.spotify.com/album/774KXkBhlv14mwbWbraCcS) | 2:37 | 2022-09-30 |  |
 | [kyun hota hai?](https://open.spotify.com/track/1AwVVK2Qxqwmm0hxj5d8Gs) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [kyun hota hai?](https://open.spotify.com/album/4fx1zgsiT2f3pAVIk6hqjD) | 3:30 | 2022-06-24 | 2022-07-02 |
 | [Laapata](https://open.spotify.com/track/082RMdL3KhOLIKX122AV97) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Laapata](https://open.spotify.com/album/5q22ToqmqdK578sl37Cdwu) | 2:46 | 2022-09-23 | 2022-10-22 |

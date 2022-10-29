@@ -1,12 +1,12 @@
 {
   "description": "Music from and inspired by Wendell & Wild, curated by Tunde Adebimpe of TV on the Radio. Watch now on Netflix.",
-  "num_followers": 1,
+  "num_followers": 36,
   "original_name": "Wendell & Wild Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgxODAxOCwwMDAwMDAwMDgyMmNkMWQ2ZmE2NDllMzQyYzA5OGMxZjI4YmZjZjgw",
+  "snapshot_id": "MTY2Njk4ODc0NiwwMDAwMDAwMDkyZGExMGY1YTQ5N2ExZmEyOTRlNDBlOWExZjFiYWJh",
   "tracks": [
     {
       "added_at": "2022-10-26 20:58:33",
@@ -711,6 +711,22 @@
       "duration_ms": 187720,
       "name": "Goodbye Horses",
       "url": "https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW"
+    },
+    {
+      "added_at": "2022-10-28 20:25:46",
+      "album": {
+        "name": "Another Tear (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4Ka8Hqwfw1X01hlit2QtNC"
+      },
+      "artists": [
+        {
+          "name": "Guitar Gabby & The TxLips Band",
+          "url": "https://open.spotify.com/artist/5X9ip2szSenntdqKlDjzB9"
+        }
+      ],
+      "duration_ms": 381299,
+      "name": "Another Tear (2022 Remaster)",
+      "url": "https://open.spotify.com/track/27bk6lMaDP3Wd3d78ru3oB"
     }
   ],
   "unique_name": "Wendell & Wild Official Playlist",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X62wFct8zv.md) - [plain]
 
 > The best of Fleetwood Mac, together and apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,635 likes - 72 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,682 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,17 +68,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X62wFct8zv.md) - [plain]
 | 58 | [Seven Wonders \- 2017 Remaster](https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:42 |
 | 59 | [Tusk](https://open.spotify.com/track/1iKVDnBTqmZErf96ldGrZe) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:30 |
 | 60 | [I Want You Back](https://open.spotify.com/track/60fa5Is5pB3ipFvX8UfltI) | [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [I'm Not Me](https://open.spotify.com/album/6gVvyTwTcY9AHnvgjD26ln) | 2:53 |
-| 61 | [Oh Pretty Woman](https://open.spotify.com/track/4Pl4oV1Itbwt9Qa17ZwbML) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Crusade](https://open.spotify.com/album/41s6VWZkQ08fumaHr9xR3o) | 3:37 |
-| 62 | [You Make Loving Fun \- 2004 Remaster](https://open.spotify.com/track/55mQhobuwtY7lfLAXylg1k) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:36 |
-| 63 | [Gotta See Her Tonight](https://open.spotify.com/track/7uKDLztrBuHj7LRV06wh62) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [Whatcha Gonna Do? \(Bonus Track Edition\)](https://open.spotify.com/album/5NWR5XTRdYPXYqeDafvW4l) | 5:47 |
-| 64 | [Sisters of the Moon \- 2015 Remaster](https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 4:43 |
-| 65 | [Bitter End](https://open.spotify.com/track/6NrucxtTqwRh2RIDovCO4n) | [The Mick Fleetwood Band](https://open.spotify.com/artist/0idPcvi5XscN5Ngp0P4U6b) | [Something Big](https://open.spotify.com/album/0Fjl9WwQxFsgZCxHt1twoe) | 2:55 |
-| 66 | [Blue Denim](https://open.spotify.com/track/1MjyiWINFr2W13nxxqtHQt) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Street Angel](https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS) | 4:23 |
-| 67 | [Not That Funny \- 2015 Remaster](https://open.spotify.com/track/4ZNcd1iiFpRe1OoTVXPqgy) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 3:14 |
-| 68 | [Can You Hear the Song](https://open.spotify.com/track/7Luxpw38XiJi9BJYeOAVaw) | [Jeremy Spencer & The Children](https://open.spotify.com/artist/2WIWdYSoQOGT0WypVoJLGP) | [Jeremy Spencer & The Children](https://open.spotify.com/album/09OM57EMFHboem3ZcVC3kq) | 2:58 |
-| 69 | [The Derelict](https://open.spotify.com/track/6lnXklx7RUNyJp1OuFOaYw) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Penguin](https://open.spotify.com/album/7f2wzh1hY4adWEoTKIEX6W) | 2:49 |
-| 70 | [Burglar](https://open.spotify.com/track/5C1FrXg3jpHH96FnQjaaqz) | [Peter Green Splinter Group](https://open.spotify.com/artist/77aUDqXRIvkDNxARfYwoHC) | [Destiny Road](https://open.spotify.com/album/4gqGR8JZOJ5IOo5eAQ7TQt) | 5:55 |
-| 71 | [Say You Love Me](https://open.spotify.com/track/6lrQo6KAYvb92MGk6ZuZlt) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:09 |
-| 72 | [Leather and Lace](https://open.spotify.com/track/6L5c6wFGDQswebVAS3BmUw) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 3:54 |
 
 Snapshot ID: `MTY1NDA5MDMzMywwMDAwMDAwMGFjZWIyNGIxMjU3MTBiMTZlYzdjYzVjYzk3ZDFkNzk3`

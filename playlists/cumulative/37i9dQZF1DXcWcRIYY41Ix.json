@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La nueva ola de trovadores del Siglo XXI. En portada: Silvana Estrada.",
+  "description": "La nueva ola de trovadores del Siglo XXI. En portada: \u00c1lex Eugenio.",
   "name": "Cancionistas",
   "published_playlist_ids": [
     "7ol1MtyC0pTpJPNWYLEPMP"
@@ -491,6 +491,24 @@
       "duration_ms": 214047,
       "name": "Aunque No Sea Yo",
       "url": "https://open.spotify.com/track/4zrePmHHjkkic4xZGPg8PB"
+    },
+    {
+      "album": {
+        "name": "A\u00f1oranza Del Amor",
+        "url": "https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178466,
+      "name": "A\u00f1oranza Del Amor",
+      "url": "https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC"
     },
     {
       "album": {
@@ -3757,7 +3775,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 197346,
       "name": "Orquesta natural",
       "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"

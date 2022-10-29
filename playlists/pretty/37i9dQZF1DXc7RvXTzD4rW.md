@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 鬼頭明里
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,359 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,360 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 5 | [Youthful Graffiti](https://open.spotify.com/track/2m1LtT7aAmHs1MxzmQLStx) | [Shirai Yusuke](https://open.spotify.com/artist/1ccP8i48kDMJVsHt2GM6io) | [11\-Eleven\-](https://open.spotify.com/album/64UlPpsdOORwv3ta4AwBd8) | 4:34 |
 | 6 | [Congrats!!\(with Friends\)](https://open.spotify.com/track/7AauH6WocFaN2tvXEbHl40) | [内田雄馬 with 石川界人, 榎木淳弥, 斉藤壮馬, 畠中祐, 花江夏樹, 八代拓](https://open.spotify.com/artist/5OvhqL1GnYZavu83YiOkDo) | [Congrats!!](https://open.spotify.com/album/3U0KKN2FVOuGAYHDQf9Wwy) | 4:17 |
 | 7 | [シンデレラストーリー](https://open.spotify.com/track/6xPeG3ShxpRou7Uqviw0lj) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP) | [シンデレラストーリー](https://open.spotify.com/album/2BZdbHOGCthR1lmX4h6oTx) | 4:08 |
-| 8 | [Kyoutaiaika](https://open.spotify.com/track/6NnWap955obIpmguOjHwoQ) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Kyoutaiaika](https://open.spotify.com/album/4PIp9Z8g2XHXLQcFoRIhyS) | 4:03 |
+| 8 | [Kyoutaiaika](https://open.spotify.com/track/3pxftpVRwWGMq1bZchhVLS) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 4:03 |
 | 9 | [adrenaline!!! \- TrySail Live Tour 2021 "Re Bon Voyage"](https://open.spotify.com/track/6O0yjUbqWb4SOjH8VDcab5) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TrySail Live Tour 2021 "Re Bon Voyage"](https://open.spotify.com/album/40AJJY1WOjKdjSf3P9fzgh) | 4:35 |
 | 10 | [Futari Pinocchio](https://open.spotify.com/track/7x7ca3HLIyu6kGyL6e64mA) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Futari Pinocchio](https://open.spotify.com/album/6K1Gm6CcYyM2xfnur1gE58) | 3:42 |
 | 11 | [Fight\-oh\-Fight!](https://open.spotify.com/track/5ZxsYi8VpFyklvlmI70U8P) | [SMILE PRINCESS](https://open.spotify.com/artist/2ru6Gg9AH0c3ygsQ0jWJtn) | [SMILE PRINCESS BEST FACE OFF](https://open.spotify.com/album/7Hsm62UNySMmkODq1ZmxwX) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Yakusoku no Overture \- Rearranged ver.](https://open.spotify.com/track/3zNFyq66zJofERP33LK5Qt) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Good For](https://open.spotify.com/album/09MqHzTC2kqcsNP362mi7v) | 4:18 |
 | 50 | [カウンターブロウ](https://open.spotify.com/track/2VRG7h2Tmcbnx7yZtSkCuR) | [浪川大輔](https://open.spotify.com/artist/5mchqa3eKySQx0LcrovrJg) | [鼓動](https://open.spotify.com/album/2pOWAQB0Q70R1X5C93aPII) | 3:56 |
 
-Snapshot ID: `MTY2MzgzODM1NywwMDAwMDAwMGM2NzBkZDkyYTk4NDJkYzNlODJiYThjZThlYmEwYmJm`
+Snapshot ID: `MTY2MzgzODM1NywwMDAwMDAwMGQxYzhjY2RjOGZlOTc3Mzc3MzQ1N2IzMTg2MDdhNDZm`

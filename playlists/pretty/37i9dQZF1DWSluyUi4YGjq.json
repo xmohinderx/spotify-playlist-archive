@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Alvvays on cover!",
-  "num_followers": 20961,
+  "num_followers": 20977,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwOTE3NiwwMDAwMDAwMGU3NmNjYWUxOGJhMGU5ZDEyNDgxZTNjYjIxODVjNTdm",
+  "snapshot_id": "MTY2NjkwOTE3NiwwMDAwMDAwMDFlNTI3Mzg4YzJmNTg4ODg3YWM4YmNjNWM3MmEyMjVh",
   "tracks": [
     {
       "added_at": "2022-09-29 00:07:21",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/0i5zjtoRR0U2715BEgUsdS"
     },
     {
-      "added_at": "2022-10-28 01:17:52",
+      "added_at": "2022-10-29 01:05:13",
       "album": {
         "name": "T.W.I.N.",
         "url": "https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz"
@@ -379,6 +379,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "Passive Aggressive",
+        "url": "https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4"
+      },
+      "artists": [
+        {
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+        }
+      ],
+      "duration_ms": 200441,
+      "name": "Pulling Our Weight",
+      "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "The Big Roar",
         "url": "https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 242755,
       "name": "Glow",
       "url": "https://open.spotify.com/track/6Y185DCfJ2mCI7aU65WdJl"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Passive Aggressive",
-        "url": "https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4"
-      },
-      "artists": [
-        {
-          "name": "The Radio Dept.",
-          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
-        }
-      ],
-      "duration_ms": 200441,
-      "name": "Pulling Our Weight",
-      "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "23",
-      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
-    },
-    {
       "added_at": "2022-05-03 02:08:01",
       "album": {
         "name": "Destiny XL",
@@ -759,6 +743,22 @@
       "duration_ms": 189673,
       "name": "eightball",
       "url": "https://open.spotify.com/track/6OvX3WPe2CeyLRVsy3yFxz"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "23",
+      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
     },
     {
       "added_at": "2022-04-12 01:44:39",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Wait to Pleasure",
-        "url": "https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4"
-      },
-      "artists": [
-        {
-          "name": "No Joy",
-          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
-        }
-      ],
-      "duration_ms": 206023,
-      "name": "Hare Tarot Lies",
-      "url": "https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Love Addict",
         "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 182000,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Wait to Pleasure",
+        "url": "https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4"
+      },
+      "artists": [
+        {
+          "name": "No Joy",
+          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
+        }
+      ],
+      "duration_ms": 206023,
+      "name": "Hare Tarot Lies",
+      "url": "https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/0Gz3IknZYVtHaZ0w6CyVMl"
     },
     {
+      "added_at": "2022-04-22 18:16:47",
+      "album": {
+        "name": "Giving The World Away",
+        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 254900,
+      "name": "The Key",
+      "url": "https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Aurora",
@@ -1081,20 +1097,20 @@
       "url": "https://open.spotify.com/track/61iCA0ReZHTA7f8ZaKZyEg"
     },
     {
-      "added_at": "2022-04-22 18:16:47",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Giving The World Away",
-        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
+        "name": "Lesser Matters",
+        "url": "https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV"
       },
       "artists": [
         {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
         }
       ],
-      "duration_ms": 254900,
-      "name": "The Key",
-      "url": "https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV"
+      "duration_ms": 293160,
+      "name": "Keen on Boys",
+      "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Lesser Matters",
-        "url": "https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV"
-      },
-      "artists": [
-        {
-          "name": "The Radio Dept.",
-          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Keen on Boys",
-      "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Ether",
         "url": "https://open.spotify.com/album/79dOItYSIbHwx59fsP3nIu"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 272498,
       "name": "Dance AM",
       "url": "https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS"
-    },
-    {
-      "added_at": "2022-09-03 04:19:36",
-      "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS"
-      },
-      "artists": [
-        {
-          "name": "Laveda",
-          "url": "https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7"
-        }
-      ],
-      "duration_ms": 211707,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1223,6 +1207,42 @@
       "duration_ms": 273533,
       "name": "Runner",
       "url": "https://open.spotify.com/track/0RQxFgbBERaBh9S2GEzXrk"
+    },
+    {
+      "added_at": "2022-09-03 04:19:36",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/3NEmbK6tB99MY5Xbl9KaQS"
+      },
+      "artists": [
+        {
+          "name": "Laveda",
+          "url": "https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7"
+        }
+      ],
+      "duration_ms": 211707,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe"
+    },
+    {
+      "added_at": "2022-08-03 04:10:44",
+      "album": {
+        "name": "What Kind of Blue Are You?",
+        "url": "https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF"
+      },
+      "artists": [
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        },
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 231929,
+      "name": "atonement",
+      "url": "https://open.spotify.com/track/76XJ4MWK8ru7dJCG8GThdM"
     },
     {
       "added_at": "2022-06-20 23:05:31",
@@ -1273,20 +1293,20 @@
       "url": "https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3"
     },
     {
-      "added_at": "2022-09-29 01:17:03",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "\u76f8\u5c0d\u6027\u975c\u6b62",
-        "url": "https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi"
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ"
       },
       "artists": [
         {
-          "name": "Codie",
-          "url": "https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG"
+          "name": "The Pains Of Being Pure At Heart",
+          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
         }
       ],
-      "duration_ms": 186866,
-      "name": "Mobius",
-      "url": "https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN"
+      "duration_ms": 225160,
+      "name": "Heart in Your Heartbreak",
+      "url": "https://open.spotify.com/track/5jTEWDfM9CQO7twh9a299R"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1303,22 +1323,6 @@
       "duration_ms": 197563,
       "name": "Our Goal to Realise",
       "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ"
-      },
-      "artists": [
-        {
-          "name": "The Pains Of Being Pure At Heart",
-          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "Heart in Your Heartbreak",
-      "url": "https://open.spotify.com/track/5jTEWDfM9CQO7twh9a299R"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1357,6 +1361,22 @@
       "url": "https://open.spotify.com/track/0QnzDELjpEoz8DkylcrlCj"
     },
     {
+      "added_at": "2022-09-29 01:17:03",
+      "album": {
+        "name": "\u76f8\u5c0d\u6027\u975c\u6b62",
+        "url": "https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi"
+      },
+      "artists": [
+        {
+          "name": "Codie",
+          "url": "https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Mobius",
+      "url": "https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Pica",
@@ -1371,26 +1391,6 @@
       "duration_ms": 311912,
       "name": "Pica",
       "url": "https://open.spotify.com/track/3XHF4nwGiYuGufZVpdGjvF"
-    },
-    {
-      "added_at": "2022-08-03 04:10:44",
-      "album": {
-        "name": "What Kind of Blue Are You?",
-        "url": "https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF"
-      },
-      "artists": [
-        {
-          "name": "Winter",
-          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
-        },
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 231929,
-      "name": "atonement",
-      "url": "https://open.spotify.com/track/76XJ4MWK8ru7dJCG8GThdM"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1521,22 +1521,6 @@
       "url": "https://open.spotify.com/track/0E6A5gwmEulCFPewEGpJIx"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/2SywxWP4IsaFO8zo9G3Ogx"
-      },
-      "artists": [
-        {
-          "name": "Blankenberge",
-          "url": "https://open.spotify.com/artist/0N9CUdcRxZfnPGAmbkuUrm"
-        }
-      ],
-      "duration_ms": 257533,
-      "name": "Look Around",
-      "url": "https://open.spotify.com/track/5cTWjmahOp7R6KGy7cAhmM"
-    },
-    {
       "added_at": "2022-09-11 03:41:26",
       "album": {
         "name": "What Kind of Blue Are You?",
@@ -1555,6 +1539,22 @@
       "duration_ms": 245219,
       "name": "good",
       "url": "https://open.spotify.com/track/1e4nEB443PyOJEMacc1tvg"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/2SywxWP4IsaFO8zo9G3Ogx"
+      },
+      "artists": [
+        {
+          "name": "Blankenberge",
+          "url": "https://open.spotify.com/artist/0N9CUdcRxZfnPGAmbkuUrm"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "Look Around",
+      "url": "https://open.spotify.com/track/5cTWjmahOp7R6KGy7cAhmM"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Winks & Kisses: Melted",
-        "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
-      },
-      "artists": [
-        {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
-        }
-      ],
-      "duration_ms": 377760,
-      "name": "Sharron Apple",
-      "url": "https://open.spotify.com/track/7yuX2OzkFAm6eKOj2AnL1R"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Love Comes In Waves",
         "url": "https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 288575,
       "name": "Love Comes In Waves",
       "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Winks & Kisses: Melted",
+        "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 377760,
+      "name": "Sharron Apple",
+      "url": "https://open.spotify.com/track/7yuX2OzkFAm6eKOj2AnL1R"
     },
     {
       "added_at": "2022-08-25 17:19:45",
@@ -1653,22 +1653,6 @@
       "url": "https://open.spotify.com/track/5IDA5kOwkjsPPXpqpUDpml"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw"
-      },
-      "artists": [
-        {
-          "name": "Astrobrite",
-          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
-        }
-      ],
-      "duration_ms": 194720,
-      "name": "bottlerocket",
-      "url": "https://open.spotify.com/track/6meqtPZTfzDzYenqPY9DC8"
-    },
-    {
       "added_at": "2022-04-05 16:58:56",
       "album": {
         "name": "New Low",
@@ -1683,6 +1667,22 @@
       "duration_ms": 181301,
       "name": "Panic Song",
       "url": "https://open.spotify.com/track/5DBvoBCnSwerIEIZwwRsw5"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw"
+      },
+      "artists": [
+        {
+          "name": "Astrobrite",
+          "url": "https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ"
+        }
+      ],
+      "duration_ms": 194720,
+      "name": "bottlerocket",
+      "url": "https://open.spotify.com/track/6meqtPZTfzDzYenqPY9DC8"
     },
     {
       "added_at": "2022-08-03 04:18:25",

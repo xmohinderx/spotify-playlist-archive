@@ -1,12 +1,12 @@
 {
   "description": "A happy place.",
-  "num_followers": 50129,
+  "num_followers": 50175,
   "original_name": "DISCOLAND",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyNDI4MiwwMDAwMDAwMGM0M2Q5YzI0MWY3YjAxZGExNDI4ODFiZGQ3NjZhNTZi",
+  "snapshot_id": "MTY2Njk3NTA5NCwwMDAwMDAwMDI0Nzc1NzgwYTk3NDQwN2I5YzE3ZTIyOTZkOTI3N2I5",
   "tracks": [
     {
       "added_at": "2022-09-02 13:11:22",
@@ -65,6 +65,30 @@
       "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
     },
     {
+      "added_at": "2022-10-29 01:35:47",
+      "album": {
+        "name": "My Life (feat. Joe Killington)",
+        "url": "https://open.spotify.com/album/2ozXsht9lh1koItgP8cl9d"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Joe Killington",
+          "url": "https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "My Life (feat. Joe Killington)",
+      "url": "https://open.spotify.com/track/5IhCWukOzeazDOHKCKARki"
+    },
+    {
       "added_at": "2022-09-02 13:11:22",
       "album": {
         "name": "Rasputin",
@@ -85,52 +109,20 @@
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
-      "added_at": "2022-09-02 13:11:22",
+      "added_at": "2022-10-29 01:35:47",
       "album": {
-        "name": "Passion (feat. Nile Rodgers) [Fred Falke Remix]",
-        "url": "https://open.spotify.com/album/26iBlyf3iKR7siw6HxJSJQ"
+        "name": "Don't Feed The Tiger",
+        "url": "https://open.spotify.com/album/03fHImPEUer93Z6lGgAaJE"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Fred Falke",
-          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
         }
       ],
-      "duration_ms": 233757,
-      "name": "Passion (feat. Nile Rodgers) - Fred Falke Remix",
-      "url": "https://open.spotify.com/track/01NJ2sDafTTW8UADIxHMUQ"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
-        "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
-        "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
-        }
-      ],
-      "duration_ms": 157205,
-      "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
-      "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
+      "duration_ms": 342500,
+      "name": "Don't Feed The Tiger",
+      "url": "https://open.spotify.com/track/5mox0C7W3zCyMImxzt5tgb"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -209,24 +201,20 @@
       "url": "https://open.spotify.com/track/4TIXxw9SWztF4eKgPN9Law"
     },
     {
-      "added_at": "2022-09-02 13:11:22",
+      "added_at": "2022-10-29 01:35:47",
       "album": {
-        "name": "Everybody Wants To Party",
-        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
+        "name": "Hello Chic",
+        "url": "https://open.spotify.com/album/2jwn2dK8RhqYcuSj5GXFhw"
       },
       "artists": [
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+          "name": "Mela Femmina",
+          "url": "https://open.spotify.com/artist/3xd5OCys1geIO36hsmS4Xb"
         }
       ],
-      "duration_ms": 184838,
-      "name": "Everybody Wants To Party",
-      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
+      "duration_ms": 266040,
+      "name": "Hello Chic",
+      "url": "https://open.spotify.com/track/3ryT08hgJsNIRKslnjdgeq"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -251,6 +239,50 @@
       "duration_ms": 195507,
       "name": "Soul Full (feat. Joe Killington)",
       "url": "https://open.spotify.com/track/4o8bcX3KzqCI09Xf4a37mJ"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
+        "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
+        "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        }
+      ],
+      "duration_ms": 157205,
+      "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
+      "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
+        "name": "Everybody Wants To Party",
+        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 184838,
+      "name": "Everybody Wants To Party",
+      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -317,6 +349,22 @@
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
     },
     {
+      "added_at": "2022-10-29 01:35:47",
+      "album": {
+        "name": "Kunafa King",
+        "url": "https://open.spotify.com/album/6qtjLtPlebdQ5j8QmXDVyf"
+      },
+      "artists": [
+        {
+          "name": "Moving Still",
+          "url": "https://open.spotify.com/artist/4VVwqrM50CuVgB7yKHkl8Q"
+        }
+      ],
+      "duration_ms": 248727,
+      "name": "Kunafa King",
+      "url": "https://open.spotify.com/track/67Do8TlrqHxuiIcHTlQuLs"
+    },
+    {
       "added_at": "2022-09-02 13:11:22",
       "album": {
         "name": "Techno Disco Tool (Radio Edit)",
@@ -331,6 +379,26 @@
       "duration_ms": 194307,
       "name": "Techno Disco Tool - Radio Edit",
       "url": "https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
+        "name": "Surrender (feat. PRICIE)",
+        "url": "https://open.spotify.com/album/37hBfo5a5MO72OgX37K3KC"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "PRICIE",
+          "url": "https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ"
+        }
+      ],
+      "duration_ms": 237875,
+      "name": "Surrender (feat. PRICIE)",
+      "url": "https://open.spotify.com/track/6seDjSbkqKkOUsHjhhHMJw"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -359,78 +427,6 @@
     {
       "added_at": "2022-09-02 13:11:22",
       "album": {
-        "name": "Let Me Love U",
-        "url": "https://open.spotify.com/album/2IvjJ52cELQb89dchfEG7p"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Let Me Love U",
-      "url": "https://open.spotify.com/track/0GXeIYIvVgQIwAZ70Udnxb"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
-        "name": "Walk Dance Talk Sing",
-        "url": "https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4"
-      },
-      "artists": [
-        {
-          "name": "Crazy P",
-          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
-        }
-      ],
-      "duration_ms": 305649,
-      "name": "Like A Fool",
-      "url": "https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
-        "name": "Surrender (feat. PRICIE)",
-        "url": "https://open.spotify.com/album/37hBfo5a5MO72OgX37K3KC"
-      },
-      "artists": [
-        {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
-        },
-        {
-          "name": "PRICIE",
-          "url": "https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ"
-        }
-      ],
-      "duration_ms": 237875,
-      "name": "Surrender (feat. PRICIE)",
-      "url": "https://open.spotify.com/track/6seDjSbkqKkOUsHjhhHMJw"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
-        "name": "Summer Lovin'",
-        "url": "https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 189003,
-      "name": "Summer Lovin' - Edit",
-      "url": "https://open.spotify.com/track/7q0vM8woumdTUt30GasolR"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/6fK2iNnPSjak23iOthPngs"
       },
@@ -447,42 +443,34 @@
     {
       "added_at": "2022-09-02 13:11:22",
       "album": {
-        "name": "Hipcats",
-        "url": "https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ"
+        "name": "Let Me Love U",
+        "url": "https://open.spotify.com/album/2IvjJ52cELQb89dchfEG7p"
       },
       "artists": [
         {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
-        },
-        {
-          "name": "David Penn",
-          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
         }
       ],
-      "duration_ms": 129836,
-      "name": "Hipcats",
-      "url": "https://open.spotify.com/track/38HvJkH21S2bRciZHohv68"
+      "duration_ms": 189506,
+      "name": "Let Me Love U",
+      "url": "https://open.spotify.com/track/0GXeIYIvVgQIwAZ70Udnxb"
     },
     {
-      "added_at": "2022-09-02 13:11:22",
+      "added_at": "2022-10-29 01:35:47",
       "album": {
-        "name": "Thin Line",
-        "url": "https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk"
+        "name": "Lubek",
+        "url": "https://open.spotify.com/album/0ZCrHhYJmmKSRMqWi0FYDr"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+          "name": "Aniso Tropics",
+          "url": "https://open.spotify.com/artist/4RgCH0IiMGFrkrBUww33ul"
         }
       ],
-      "duration_ms": 188180,
-      "name": "Thin Line",
-      "url": "https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO"
+      "duration_ms": 413926,
+      "name": "Lubek",
+      "url": "https://open.spotify.com/track/6NYJCaipqD2Q0KgRmFXJ2t"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -507,6 +495,62 @@
     {
       "added_at": "2022-09-02 13:11:22",
       "album": {
+        "name": "Walk Dance Talk Sing",
+        "url": "https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4"
+      },
+      "artists": [
+        {
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+        }
+      ],
+      "duration_ms": 305649,
+      "name": "Like A Fool",
+      "url": "https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
+        "name": "Summer Lovin'",
+        "url": "https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 189003,
+      "name": "Summer Lovin' - Edit",
+      "url": "https://open.spotify.com/track/7q0vM8woumdTUt30GasolR"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
+        "name": "Hipcats",
+        "url": "https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        }
+      ],
+      "duration_ms": 129836,
+      "name": "Hipcats",
+      "url": "https://open.spotify.com/track/38HvJkH21S2bRciZHohv68"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
         "name": "Must Be Love (feat. Electric Fields)",
         "url": "https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo"
       },
@@ -527,6 +571,26 @@
     {
       "added_at": "2022-09-02 13:11:22",
       "album": {
+        "name": "Thin Line",
+        "url": "https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        }
+      ],
+      "duration_ms": 188180,
+      "name": "Thin Line",
+      "url": "https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -543,6 +607,22 @@
       "duration_ms": 216770,
       "name": "Dopamine (feat. Eyelar)",
       "url": "https://open.spotify.com/track/4gGWAqJkd3HyvJJZa4CXqN"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
+        "name": "Oh Honey",
+        "url": "https://open.spotify.com/album/1ByX0IB5VnERqw5g5LDkOC"
+      },
+      "artists": [
+        {
+          "name": "Angelo Ferreri",
+          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "Oh Honey",
+      "url": "https://open.spotify.com/track/5lS06mMFuIAalSIrp8cYZW"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -571,22 +651,6 @@
     {
       "added_at": "2022-09-02 13:11:22",
       "album": {
-        "name": "Oh Honey",
-        "url": "https://open.spotify.com/album/1ByX0IB5VnERqw5g5LDkOC"
-      },
-      "artists": [
-        {
-          "name": "Angelo Ferreri",
-          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "Oh Honey",
-      "url": "https://open.spotify.com/track/5lS06mMFuIAalSIrp8cYZW"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
         "name": "Way to Go (Club Soda Mix)",
         "url": "https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet"
       },
@@ -599,26 +663,6 @@
       "duration_ms": 224390,
       "name": "Way to Go - Club Soda Mix",
       "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
-        "name": "Pleasure Love",
-        "url": "https://open.spotify.com/album/1Km9xN9NEfN3tVTnC2n63S"
-      },
-      "artists": [
-        {
-          "name": "Supafly",
-          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
-        },
-        {
-          "name": "De Funk",
-          "url": "https://open.spotify.com/artist/1e2MsinOAaS2JUYEEHSaU5"
-        }
-      ],
-      "duration_ms": 164912,
-      "name": "Pleasure Love",
-      "url": "https://open.spotify.com/track/22itU9LO5xcgMIQ2wDYg3b"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -639,6 +683,26 @@
       "duration_ms": 198039,
       "name": "Solid Gold (feat. bshp)",
       "url": "https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
+        "name": "Pleasure Love",
+        "url": "https://open.spotify.com/album/1Km9xN9NEfN3tVTnC2n63S"
+      },
+      "artists": [
+        {
+          "name": "Supafly",
+          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
+        },
+        {
+          "name": "De Funk",
+          "url": "https://open.spotify.com/artist/1e2MsinOAaS2JUYEEHSaU5"
+        }
+      ],
+      "duration_ms": 164912,
+      "name": "Pleasure Love",
+      "url": "https://open.spotify.com/track/22itU9LO5xcgMIQ2wDYg3b"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -715,30 +779,6 @@
     {
       "added_at": "2022-09-02 13:11:22",
       "album": {
-        "name": "All 4 Love (feat. Tasty Lopez)",
-        "url": "https://open.spotify.com/album/5nG14C8xNuwcroL5obo4dq"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "Rene Amesz",
-          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
-        },
-        {
-          "name": "Tasty Lopez",
-          "url": "https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0"
-        }
-      ],
-      "duration_ms": 205645,
-      "name": "All 4 Love (feat. Tasty Lopez)",
-      "url": "https://open.spotify.com/track/0ib3Pdvgp2ZDk6nO1DC3sJ"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
         "name": "The Vision",
         "url": "https://open.spotify.com/album/7G3RYP4Wc2vtFHihpR8HXN"
       },
@@ -763,6 +803,30 @@
       "duration_ms": 298416,
       "name": "Heaven (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/1L6ZbPR2kIzguE0EjVEsLw"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
+        "name": "All 4 Love (feat. Tasty Lopez)",
+        "url": "https://open.spotify.com/album/5nG14C8xNuwcroL5obo4dq"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Rene Amesz",
+          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
+        },
+        {
+          "name": "Tasty Lopez",
+          "url": "https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0"
+        }
+      ],
+      "duration_ms": 205645,
+      "name": "All 4 Love (feat. Tasty Lopez)",
+      "url": "https://open.spotify.com/track/0ib3Pdvgp2ZDk6nO1DC3sJ"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -915,78 +979,6 @@
       "duration_ms": 239028,
       "name": "Life Is A Dancefloor (feat. Kimberly Davis)",
       "url": "https://open.spotify.com/track/3hrN93f0xTIsejwDB3avn6"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Pink Flamingo Rhythm Revue",
-          "url": "https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp"
-        }
-      ],
-      "duration_ms": 210820,
-      "name": "Money Money",
-      "url": "https://open.spotify.com/track/5Y1hXyy0XdX8R3sY3FAR3q"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
-        "name": "Tutto va bene quando facciamo l'amore (Remixes)",
-        "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
-      },
-      "artists": [
-        {
-          "name": "Alex Rossi",
-          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
-        },
-        {
-          "name": "Jo Wedin",
-          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
-        }
-      ],
-      "duration_ms": 205592,
-      "name": "Tutto va bene quando facciamo l'amore",
-      "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
-        "name": "Sky's the Limit (Edit)",
-        "url": "https://open.spotify.com/album/5pQwvmqU1IU8VdvqBGuSl1"
-      },
-      "artists": [
-        {
-          "name": "Full Intention",
-          "url": "https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB"
-        }
-      ],
-      "duration_ms": 163294,
-      "name": "Sky's the Limit - Edit",
-      "url": "https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 288280,
-      "name": "Je Vulesse",
-      "url": "https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd"
     }
   ],
   "unique_name": "DISCOLAND",

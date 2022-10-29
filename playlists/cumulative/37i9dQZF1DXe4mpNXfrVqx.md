@@ -2,9 +2,9 @@
 
 ### [Só as Minas](https://open.spotify.com/playlist/37i9dQZF1DXe4mpNXfrVqx)
 
-> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Mayarah Magalhães
+> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: slipmami
 
-109 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
+110 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Braba](https://open.spotify.com/track/2S9eAfAmIExYjbpclUpqEv) | [Camilli Miranda](https://open.spotify.com/artist/7fLjiciAnNIg6r6YdYOjvW), [Dj Tom Rc](https://open.spotify.com/artist/0gNoMkZ14tXJmgyPBIIq4N) | [Braba](https://open.spotify.com/album/0pUKN9S8Z1JxZJSbarZbWH) | 2:01 | 2022-03-18 | 2022-08-13 |
 | [Brincando com Fogo](https://open.spotify.com/track/5PBBFVKYsPBj5qUs2O9QwI) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Brincando com Fogo](https://open.spotify.com/album/4fTVijJjlJ0oR9HpGHW1yk) | 3:02 | 2022-06-24 |  |
 | [Bumbunka](https://open.spotify.com/track/79kwyO53ANPImzsvFyRqLa) | [Bea Galhano](https://open.spotify.com/artist/0yFi90XiMn031PAznQsM4X) | [Bumbunka](https://open.spotify.com/album/4PfmEZbermcJZLd0LPgjwW) | 2:48 | 2022-03-18 |  |
-| [Camisa 10](https://open.spotify.com/track/66m7H4PHOFGWWfpBwVfzQc) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Camisa 10](https://open.spotify.com/album/1BT1zwJm02tDL5W2kNAk2H) | 2:34 | 2022-03-18 |  |
+| [Camisa 10](https://open.spotify.com/track/66m7H4PHOFGWWfpBwVfzQc) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Camisa 10](https://open.spotify.com/album/1BT1zwJm02tDL5W2kNAk2H) | 2:34 | 2022-03-18 | 2022-10-29 |
 | [Campo Minado](https://open.spotify.com/track/2uPmyJMVozLNBE6YermhOM) | [Luacih](https://open.spotify.com/artist/7zsL7ceYrzvikWVlI7BnTI), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Campo Minado](https://open.spotify.com/album/1GVoV2r9U7dZNKWXvXFX27) | 3:15 | 2022-04-22 |  |
 | [Cofre](https://open.spotify.com/track/4Ob435otPVxJEvhYVDyaxW) | [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Cofre](https://open.spotify.com/album/1zeiWi4ap2VXX9ldNQXxCK) | 2:17 | 2022-05-27 |  |
 | [Conversas Secretas](https://open.spotify.com/track/54lXGqjLkx1l6nDqvRAw3E) | [NaLua](https://open.spotify.com/artist/1JuaPNMWpUfF5sKtvLs7eA), [Redoma](https://open.spotify.com/artist/0Jit1nn3676eCzXLM8bcxk) | [Conversas Secretas](https://open.spotify.com/album/6sfC8DyOG3WoAXwRZjGdk7) | 2:09 | 2022-08-12 |  |
@@ -72,6 +72,7 @@
 | [MEDITO E ME ACALMO](https://open.spotify.com/track/1L5Y2IEkzzKHY5IpONH3po) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [DO LADO DE FLORA](https://open.spotify.com/album/4GWoodiAMapPzgitxYvygx) | 2:43 | 2022-07-08 |  |
 | [MEDITO E ME ACALMO](https://open.spotify.com/track/1qFKnOalXyNsfeABFGGQCi) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [DO LADO DE FLORA](https://open.spotify.com/album/0HyNbYtVf6qXJRqbdqO9Uk) | 2:43 | 2022-03-18 | 2022-07-29 |
 | [Medusa](https://open.spotify.com/track/2ycdoQS6a9dC33o0v3c1sx) | [Inked Mari](https://open.spotify.com/artist/2bQLU0aXvd4PY08qdTpeUJ) | [Medusa](https://open.spotify.com/album/2k5xtl0YyJVFomryO8MGBp) | 2:19 | 2022-03-18 |  |
+| [Membros Humanos \(Lista de Assassinatos\)](https://open.spotify.com/track/3MbztTv38jaodCxoFoVp2d) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Membros Humanos \(Lista de Assassinatos\)](https://open.spotify.com/album/6WzLu1wOWV39SGQisShEXn) | 2:40 | 2022-10-28 |  |
 | [Meu Lugar de Fala](https://open.spotify.com/track/0ckL8UjwoAYIOJ8hwQ8ASt) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Meu Lugar de Fala](https://open.spotify.com/album/6Z24Hr0ndBCzkExWgb7RNV) | 2:03 | 2022-03-18 |  |
 | [Moreno](https://open.spotify.com/track/7BA05JWlf0qQjtKF9stcWD) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Moreno](https://open.spotify.com/album/2s7D5gKh8Nvn1Euy1KsZh5) | 2:34 | 2022-06-03 | 2022-06-25 |
 | [N.S.D.P](https://open.spotify.com/track/4O4NvDr8ppUzTUcWv9ksnR) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [N.S.D.P](https://open.spotify.com/album/2wv99EMmienicc3M3fXeol) | 2:35 | 2022-03-18 | 2022-10-15 |

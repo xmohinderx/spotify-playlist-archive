@@ -746,6 +746,24 @@
     },
     {
       "album": {
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127780,
+      "name": "i'm yours sped up",
+      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
+    },
+    {
+      "album": {
         "name": "IN THE AIR/BILL$ (SPED UP)",
         "url": "https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58"
       },
@@ -1185,6 +1203,24 @@
       "duration_ms": 120244,
       "name": "prolly my spookiest beat (sped up)",
       "url": "https://open.spotify.com/track/3TK0rB4H4oKHjf1l3Dteop"
+    },
+    {
+      "album": {
+        "name": "reaLitie biTes (Nightcore Mix)",
+        "url": "https://open.spotify.com/album/3FDJomAQ0DopwMB36WNIEp"
+      },
+      "artists": [
+        {
+          "name": "tiLLie",
+          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121186,
+      "name": "reaLitie biTes - (Nightcore Mix)",
+      "url": "https://open.spotify.com/track/3RjKonSan0ZzkbwjgL4nO8"
     },
     {
       "album": {

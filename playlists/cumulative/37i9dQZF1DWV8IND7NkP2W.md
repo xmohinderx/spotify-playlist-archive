@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-513 songs - 22 hr 56 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+514 songs - 22 hr 59 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,8 @@
 | [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 | 2022-07-28 |  |
 | [Jazz Neko](https://open.spotify.com/track/49j4lOcuvvZfzixq12K6QR) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Jazz Neko](https://open.spotify.com/album/2RmRQMaWxREHFSyoS1F4O2) | 2:32 | 2021-12-23 | 2022-07-29 |
 | [JUNK STORY](https://open.spotify.com/track/3EioC8UfNqsaHgVKTktNUE) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [JUNK STORY](https://open.spotify.com/album/0MtEmJKf6IBPaCjafWEeDr) | 2:07 | 2021-12-23 | 2022-07-27 |
-| [JUST KEEP IT](https://open.spotify.com/track/3Drv8dUZUirRJpOvixlDUA) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/4DrsfHl7wo90fuejIXyrGM) | 3:13 | 2022-10-28 |  |
+| [JUST KEEP IT](https://open.spotify.com/track/3Drv8dUZUirRJpOvixlDUA) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/4DrsfHl7wo90fuejIXyrGM) | 3:13 | 2022-10-28 | 2022-10-29 |
+| [JUST KEEP IT](https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE) | 3:13 | 2022-10-29 |  |
 | [K Bye](https://open.spotify.com/track/7K6TygqDoUz9TqhVzZWxVj) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [K Bye](https://open.spotify.com/album/5BevqJGwWGDUtatocaA6Ef) | 3:18 | 2021-12-23 | 2022-02-10 |
 | [Kadena Sea Wall](https://open.spotify.com/track/2V6xMEfwzUfjxW4beJlgsu) | [SENZU BEATS](https://open.spotify.com/artist/6pi8VD4XdJYHEesPGqySWV) | [Kadena Sea Wall](https://open.spotify.com/album/2xmvVG7ZhKDDAAWjx2QSWv) | 1:56 | 2021-12-23 | 2022-07-29 |
 | [kageokuri](https://open.spotify.com/track/3Nw9mVyDGmSQ3Ik9BUBBD9) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [kageokuri](https://open.spotify.com/album/0d6OaFJOV6iROQFrRhew6C) | 3:35 | 2022-07-21 | 2022-07-27 |

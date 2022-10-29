@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-261 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/5A2o18vGcWOns5VqpjBlMZ)
+262 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/5A2o18vGcWOns5VqpjBlMZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,8 @@
 | [Transnistria](https://open.spotify.com/track/51yKQJ4uJXSB2usG9ycoyv) | [Valeria Pintile](https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj) | [Transnistria](https://open.spotify.com/album/7nEu7TPJYmOmvOvhG1mUf2) | 1:56 | 2022-04-14 | 2022-09-15 |
 | [Tristesse](https://open.spotify.com/track/4OfvGX9v55SOo2HvLcaqJF) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Bodi's Modus](https://open.spotify.com/album/2WbdFjoGJQPUuVW5yLzWjx) | 3:12 | 2022-04-14 |  |
 | [Turn](https://open.spotify.com/track/26UD6EFThaMnBcmHxb8MOG) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Turn](https://open.spotify.com/album/5dzEdj4p2MdqoojNvOFEUS) | 2:59 | 2022-04-14 |  |
-| [Two as One](https://open.spotify.com/track/2oQ9cSikCRzxTkynfJ3jnL) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Two as One](https://open.spotify.com/album/61qq7qfNSB23A3xoSECvcH) | 2:13 | 2022-05-26 |  |
+| [Two as One](https://open.spotify.com/track/0Gg26zeooPEayN4uOWZqnd) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Springtime serenade](https://open.spotify.com/album/3sExOMHYNOQhKF6KUlfX8S) | 2:13 | 2022-10-26 |  |
+| [Two as One](https://open.spotify.com/track/2oQ9cSikCRzxTkynfJ3jnL) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Two as One](https://open.spotify.com/album/61qq7qfNSB23A3xoSECvcH) | 2:13 | 2022-05-26 | 2022-10-29 |
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2022-04-14 |  |
 | [Un mazzolino di rose](https://open.spotify.com/track/0Z9EGceqg3e1PlatNVcb6n) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Un mazzolino di rose](https://open.spotify.com/album/3sgL5k7GHsCOUNkG5pvt2n) | 3:18 | 2022-04-14 |  |
 | [Un peu d'espoir](https://open.spotify.com/track/43PPeEImtgU8I1a7Wm41bt) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Un peu d'espoir](https://open.spotify.com/album/1G3A5OJ2NooyclJwgrCHGD) | 2:13 | 2022-04-14 |  |

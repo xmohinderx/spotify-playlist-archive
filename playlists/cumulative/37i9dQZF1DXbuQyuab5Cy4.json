@@ -526,6 +526,24 @@
     },
     {
       "album": {
+        "name": "Ghostbusters",
+        "url": "https://open.spotify.com/album/3vpc3fW5djJuuaF0588LHV"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146129,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/1Yhxmnxo9C5g6rYkM5FRUM"
+    },
+    {
+      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/7AVSiVc6v0OR4aulmhxGro"
       },

@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: Mai Davika
 
-251 songs - 15 hr 19 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
+252 songs - 15 hr 23 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [โอ้ความรัก](https://open.spotify.com/track/2VtEXjR6lKIGBafyHYLbiN) | [Tippsy](https://open.spotify.com/artist/49oJblk17bkNV5DeZhd3OG) | [โอ้ความรัก](https://open.spotify.com/album/7EZylrDrTITMzf3Vx2l4Dk) | 3:47 | 2022-07-01 | 2022-07-08 |
 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 | 2022-09-29 |  |
 | [ใจป๋ม \- You cut my heart cuz you don't care my hair](https://open.spotify.com/track/0SwPGg24r6JbBIMJuJI66s) | [KiRANA](https://open.spotify.com/artist/06EAeUIbwthjzCwW1MRJTC) | [ใจป๋ม \(You cut my heart cuz you don't care my hair\)](https://open.spotify.com/album/3JouJ5dqQEbzJH7pQ4Iffj) | 3:38 | 2022-06-09 | 2022-07-02 |
-| [ใจวาย \(Why Do I Love You?\)](https://open.spotify.com/track/6Ejj2a4mxzY6qZL1CnC3Ut) | [Fairy Dolls](https://open.spotify.com/artist/1EPm0ioGXLfLYoeiGPV07y) | [ใจวาย \(Why Do I Love You?\)](https://open.spotify.com/album/6GwmK1E56jer66kfS4KXIg) | 3:13 | 2022-10-12 |  |
+| [ใจวาย \(Why Do I Love You?\)](https://open.spotify.com/track/6Ejj2a4mxzY6qZL1CnC3Ut) | [Fairy Dolls](https://open.spotify.com/artist/1EPm0ioGXLfLYoeiGPV07y) | [ใจวาย \(Why Do I Love You?\)](https://open.spotify.com/album/6GwmK1E56jer66kfS4KXIg) | 3:13 | 2022-10-12 | 2022-10-29 |
 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 | 2022-05-26 |  |
 | [ใจเกเร](https://open.spotify.com/track/0rDzLlocH57yvez6q3fSWK) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ใจเกเร](https://open.spotify.com/album/06nVVnuo262M0lNw7PwlIQ) | 3:48 | 2022-06-02 | 2022-07-29 |
 | [ใช่รึเปล่า \(Question\)](https://open.spotify.com/track/3SNQ3vBykjNe6WSAXca5g4) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad) | [ใช่รึเปล่า \(Question\)](https://open.spotify.com/album/3GI4Jph1srduTFm8yKqYHe) | 3:53 | 2022-07-14 | 2022-07-23 |
@@ -247,6 +247,7 @@
 | [ให้ลืมได้ไง](https://open.spotify.com/track/2hT18XXbbUSPuu8jRWzIhj) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [ให้ลืมได้ไง](https://open.spotify.com/album/15wHbinXVWnLH0n2NgQ4EI) | 4:18 | 2022-05-26 | 2022-08-19 |
 | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI) | 3:45 | 2022-06-09 |  |
 | [ได้แต่นึกถึง](https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ได้แต่นึกถึง](https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof) | 4:24 | 2022-05-26 |  |
+| [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/track/15MIlusZDUVhN1jZ84OyDA) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/album/0hyMlYAOfsCJrTnHSM2eHj) | 3:53 | 2022-10-28 |  |
 | [ไม่ต้องคิดถึงฉัน](https://open.spotify.com/track/2cfCJjWrK5z2cYg9hzjSx2) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [ไม่ต้องคิดถึงฉัน](https://open.spotify.com/album/1Gx38T6KW5mqd0sl8MSBn3) | 3:39 | 2022-08-11 | 2022-08-26 |
 | [ไม่น่ารักรึเปล่า \(Naughty boy\) Feat\. BONNADOL](https://open.spotify.com/track/0G8DwcIYO47JA5KcW1QwcO) | [CINCIN IRADA](https://open.spotify.com/artist/3bqEpQrRxvblzV4PopBbgK) | [ไม่น่ารักรึเปล่า \(Naughty boy\) Feat\. BONNADOL](https://open.spotify.com/album/4YkMIz5y4V4bsE3THOuEwY) | 3:46 | 2022-05-26 | 2022-06-03 |
 | [ไม่พิเศษ](https://open.spotify.com/track/0b60FpB5Z8zm829xnET7t3) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่พิเศษ](https://open.spotify.com/album/5fT12K1hCBKxCxZhqxJAET) | 3:28 | 2022-05-26 |  |

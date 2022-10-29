@@ -116,6 +116,28 @@
     },
     {
       "album": {
+        "name": "Los Hijos del Rey Con Fernandito Villalona",
+        "url": "https://open.spotify.com/album/5gbSTRxf1XcETgS2r1QqZe"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos Del Rey",
+          "url": "https://open.spotify.com/artist/5CtQgJ02UuGKfEaR3VTH1A"
+        },
+        {
+          "name": "Fernandito Villalona",
+          "url": "https://open.spotify.com/artist/5kKgKEQafTAeimgduQb6N3"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243026,
+      "name": "A Tatico Henriquez",
+      "url": "https://open.spotify.com/track/5xASxsxQSjYYwO2arka7m0"
+    },
+    {
+      "album": {
         "name": "Los Hijos del Rey Con Fernando Villalona",
         "url": "https://open.spotify.com/album/02YZSvA9COToxkKvrIhSTY"
       },
@@ -135,28 +157,6 @@
       "duration_ms": 243026,
       "name": "A Tatico Henriquez",
       "url": "https://open.spotify.com/track/5JnbzJyoUZsuLGPakQmlHm"
-    },
-    {
-      "album": {
-        "name": "Los Hijos del Rey Con Fernando Villalona",
-        "url": "https://open.spotify.com/album/5gbSTRxf1XcETgS2r1QqZe"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos Del Rey",
-          "url": "https://open.spotify.com/artist/5CtQgJ02UuGKfEaR3VTH1A"
-        },
-        {
-          "name": "Fernandito Villanola",
-          "url": "https://open.spotify.com/artist/1TjY3OkTAqbk2fJuMXfll8"
-        }
-      ],
-      "date_added": "2021-02-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 243026,
-      "name": "A Tatico Henriquez",
-      "url": "https://open.spotify.com/track/5xASxsxQSjYYwO2arka7m0"
     },
     {
       "album": {

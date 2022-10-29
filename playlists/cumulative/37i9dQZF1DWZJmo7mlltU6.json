@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: Frankie Cosmos.",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: Lola Marsh.",
   "name": "borderless",
   "published_playlist_ids": [
     "6bA5HVht0DRnYt7fu1eP5j"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 206000,
       "name": "20:37",
       "url": "https://open.spotify.com/track/7wU9V3zmRUSHFLQGc7jRbP"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 237035,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3MGWaWeAl4XWovfBnZAGg3"
@@ -1503,7 +1503,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 170133,
       "name": "Diarro",
       "url": "https://open.spotify.com/track/0st6ip3KUlmuc7ET30ez1V"
@@ -1525,6 +1525,28 @@
       "duration_ms": 180333,
       "name": "die b4 u",
       "url": "https://open.spotify.com/track/6VYPtD8eHf7FDvovfhSJxa"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/1trH6Lu0maC1H9e0UBkQx8"
+      },
+      "artists": [
+        {
+          "name": "Hiribae",
+          "url": "https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3"
+        },
+        {
+          "name": "Tugi",
+          "url": "https://open.spotify.com/artist/66RQGuKdIdvRrU3vxIfbc5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211086,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/1rh9ejTFlDxhfcrGftrJXz"
     },
     {
       "album": {
@@ -1687,7 +1709,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 203269,
       "name": "Don't say my name",
       "url": "https://open.spotify.com/track/2BjQjT3mb5fKiMmYH3bvHm"
@@ -1825,6 +1847,24 @@
       "duration_ms": 303006,
       "name": "Easy Bake Easy Wake",
       "url": "https://open.spotify.com/track/37jlSwK5rjIOTvkzAeV21B"
+    },
+    {
+      "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
     },
     {
       "album": {
@@ -3139,7 +3179,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 209920,
       "name": "Inhibitions / Intuitions",
       "url": "https://open.spotify.com/track/1Wqp5K08ASR7JcAmu1YjTI"
@@ -3367,6 +3407,24 @@
       "duration_ms": 198612,
       "name": "Killer",
       "url": "https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz"
+    },
+    {
+      "album": {
+        "name": "Killer",
+        "url": "https://open.spotify.com/album/3UgmPtg6ADEBPEef7RImgg"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180986,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/3MKBHqQ5EtXnChdVF4P3ji"
     },
     {
       "album": {
@@ -3948,6 +4006,28 @@
     },
     {
       "album": {
+        "name": "Love Factory",
+        "url": "https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Katy J Pearson",
+          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319777,
+      "name": "Love Factory",
+      "url": "https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95"
+    },
+    {
+      "album": {
         "name": "Everything Is Going To Be Alright",
         "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
       },
@@ -4415,7 +4495,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 194630,
       "name": "Meteorite",
       "url": "https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7"
@@ -4983,6 +5063,24 @@
       "duration_ms": 217258,
       "name": "Nos Vemos Luego",
       "url": "https://open.spotify.com/track/2ysdD3d9Do8yEBewLD9rNR"
+    },
+    {
+      "album": {
+        "name": "Nuevo Comienzo",
+        "url": "https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186202,
+      "name": "Nuevo Comienzo",
+      "url": "https://open.spotify.com/track/67tXLMcNhEfTYBsuBQ8aHE"
     },
     {
       "album": {
@@ -5892,6 +5990,24 @@
     },
     {
       "album": {
+        "name": "Record",
+        "url": "https://open.spotify.com/album/6gMEYik1cWddt2je1HT0n1"
+      },
+      "artists": [
+        {
+          "name": "clauscalmo",
+          "url": "https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210870,
+      "name": "Record",
+      "url": "https://open.spotify.com/track/7bJJKJtXIDYsz87fpRArOs"
+    },
+    {
+      "album": {
         "name": "It's All Smiles",
         "url": "https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd"
       },
@@ -6109,7 +6225,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 227213,
       "name": "Sad Disco",
       "url": "https://open.spotify.com/track/2BedHMJWiW5CuiTd2wza1u"
@@ -6354,6 +6470,24 @@
     },
     {
       "album": {
+        "name": "Shot Shot Cherry",
+        "url": "https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152584,
+      "name": "Shot Shot Cherry",
+      "url": "https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW"
+    },
+    {
+      "album": {
         "name": "Si Quieres",
         "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
       },
@@ -6395,6 +6529,24 @@
       "duration_ms": 269768,
       "name": "silver lining",
       "url": "https://open.spotify.com/track/3xCPbU9pp6QEsrqZwtYo0f"
+    },
+    {
+      "album": {
+        "name": "Sleep Baby",
+        "url": "https://open.spotify.com/album/42y5EufFsZNa2nmCMwjajk"
+      },
+      "artists": [
+        {
+          "name": "Kuni",
+          "url": "https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158452,
+      "name": "Sleep Baby",
+      "url": "https://open.spotify.com/track/0CNqOVBbNDAcWlyTaFgonI"
     },
     {
       "album": {
@@ -6489,7 +6641,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 159706,
       "name": "sober",
       "url": "https://open.spotify.com/track/1LmM5Y3OnbNAeTVKg73Jgc"
@@ -6594,6 +6746,24 @@
     },
     {
       "album": {
+        "name": "Space Gazing",
+        "url": "https://open.spotify.com/album/03IJiCb14LPBsmOv2kMN4e"
+      },
+      "artists": [
+        {
+          "name": "YEP MAY YEP",
+          "url": "https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Space Gazing",
+      "url": "https://open.spotify.com/track/4tIKzHo9QunMWBxRsdzVUs"
+    },
+    {
+      "album": {
         "name": "Spin",
         "url": "https://open.spotify.com/album/11lGrv1kUoOvyuWOg4anHX"
       },
@@ -6695,7 +6865,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 219000,
       "name": "Still",
       "url": "https://open.spotify.com/track/7qACmdbzeUXh0DhIpsAjMo"
@@ -6963,7 +7133,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 231000,
       "name": "Tamte Dni",
       "url": "https://open.spotify.com/track/2jgFTzyINVQvbR352yRjAM"
@@ -7163,6 +7333,24 @@
       "duration_ms": 152773,
       "name": "the modern man",
       "url": "https://open.spotify.com/track/47SdFufqr0QnwuRRMM8osK"
+    },
+    {
+      "album": {
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/2T7w6O7kQMd0VcbHqC6hW1"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211746,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/102SBZ2snfZMZhWkgrTIWV"
     },
     {
       "album": {
@@ -7875,7 +8063,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 183643,
       "name": "WHAT IF WE FALL IN LOVE?",
       "url": "https://open.spotify.com/track/2Y7PDa6oYYTbsTp0fRpizS"
@@ -8215,7 +8403,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 180000,
       "name": "Yollar",
       "url": "https://open.spotify.com/track/3ehHsXp8F5VUpywMlxe3iH"

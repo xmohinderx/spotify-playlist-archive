@@ -2,7 +2,7 @@
 
 ### [I Love My East Coast Classics](https://open.spotify.com/playlist/37i9dQZF1DWYGxBNe4qojI)
 
-> Where it all started\. Cover: Ja Rule
+> Where it all started\. Cover: Mase
 
 166 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/3itAObRKbEsL0P6iSCHXHF)
 

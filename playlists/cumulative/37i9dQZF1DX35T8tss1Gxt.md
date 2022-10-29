@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Naomi Raine
 
-334 songs - 20 hr 32 min - [published](https://open.spotify.com/playlist/3eK48lf8axZCOz8TG1pXO8)
+335 songs - 20 hr 35 min - [published](https://open.spotify.com/playlist/3eK48lf8axZCOz8TG1pXO8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [No Better Day](https://open.spotify.com/track/66hPCRer1f35fuUFXiizzo) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Come Home](https://open.spotify.com/album/0RepEC2kqOu4cHOLfxEmiz) | 3:02 | 2022-02-19 | 2022-06-26 |
 | [No Business](https://open.spotify.com/track/7bmDnmD3RiILoffwBo10mV) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Hymns & Soul](https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB) | 5:32 | 2022-02-19 | 2022-06-25 |
 | [No Greater Love](https://open.spotify.com/track/4Sg882Wev4lELJwfKZUSWQ) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [No Greater Love](https://open.spotify.com/album/68nNR4DGruSxsWnhVZMyEd) | 4:48 | 2022-02-19 | 2022-06-26 |
-| [No One's Gonna Save Me](https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [No One's Gonna Save Me](https://open.spotify.com/album/4yP1cRV0rpwGqLnyj0Ye6i) | 2:39 | 2022-03-05 |  |
+| [No One's Gonna Save Me](https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [No One's Gonna Save Me](https://open.spotify.com/album/4yP1cRV0rpwGqLnyj0Ye6i) | 2:39 | 2022-03-05 | 2022-10-29 |
 | [No Reason To Fear \(Radio Edit\)](https://open.spotify.com/track/0q22YqinZnV4mehuz0QiU3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [No Reason To Fear \- Single](https://open.spotify.com/album/48e9qQcXnEsaiib4LUSk1P) | 4:33 | 2022-04-01 | 2022-04-20 |
 | [NO WORRIES](https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4), [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [NO WORRIES](https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ) | 3:32 | 2022-06-25 |  |
 | [NONCHALANT](https://open.spotify.com/track/3btBIKiTNd63mNOmPNuIUG) | [Marv](https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35) | [NONCHALANT](https://open.spotify.com/album/7y48GxVNmMPN5p33iDQ2eh) | 2:59 | 2022-07-08 |  |
@@ -249,6 +249,7 @@
 | [prove it](https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [prove it](https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03) | 2:42 | 2022-02-19 | 2022-06-26 |
 | [Psalm 91](https://open.spotify.com/track/0DG9MlPHBIaiki54DnsF6E) | [Sharyn](https://open.spotify.com/artist/3Q4LCCA4pELbkozdmAZtKS), [Calibleubird](https://open.spotify.com/artist/2lQaoKj7zkAINiqf56vduT) | [In Full Bloom](https://open.spotify.com/album/2jX9LJoAkzvLlqRLoHXgH5) | 5:26 | 2022-02-19 | 2022-06-26 |
 | [Raise Me up](https://open.spotify.com/track/0lJqOsIkXILwog3TlKe4fN) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [BINDANG](https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW) | [Amen](https://open.spotify.com/album/0StVTQHd3IOeTswapad1i7) | 2:46 | 2022-07-17 | 2022-10-21 |
+| [Raise Me up](https://open.spotify.com/track/2TBL8zWxryE0tXrQ7SwkQn) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [BINDANG](https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW) | [Amen](https://open.spotify.com/album/2VgOOSTalU08LZ8Y3lNBZE) | 2:46 | 2022-07-17 |  |
 | [Raise Me up](https://open.spotify.com/track/3lhwLzBFmGqt0gQ4iIExNy) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [BINDANG](https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW) | [Raise Me up](https://open.spotify.com/album/0ejViiyqE6EPBVDoCzd1G4) | 2:46 | 2022-06-25 | 2022-10-14 |
 | [real kind of love](https://open.spotify.com/track/6Nu8k5K4fdWoHMxqSB29oE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 2:49 | 2022-02-27 | 2022-04-05 |
 | [Real Love](https://open.spotify.com/track/2xXPUPVEKoTOdBnSutUqaP) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Real Love](https://open.spotify.com/album/4eMEIG4bEeCfufYVmXPXCp) | 3:36 | 2022-02-19 | 2022-06-26 |

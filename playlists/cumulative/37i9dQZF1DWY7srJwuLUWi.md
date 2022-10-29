@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of MBC's drama Golden Spoon and the 'Songs with Ambition & Emotions to Become a Golden Spoon' selected by the actors themselves! Music Production by SLL \(MBC 드라마 금수저의 사운드 트랙들과 배우진들이 직접 뽑은 '금수저가 되기 위한 야망 & 감성이 담긴 노래들'을 들어보세요!\) 음원제작사: SLL
 
-24 songs - 1 hr 29 min - not published yet
+27 songs - 1 hr 40 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,8 @@
 | [AMBITION \(Prod\. by TOIL\)](https://open.spotify.com/track/7eDOrayTFdlgaxEbsR2gqQ) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [MARZ 2 AMBITION](https://open.spotify.com/album/4U1XmZrQVn3R0Y8GDTw356) | 6:14 | 2022-10-05 |  |
 | [Answer](https://open.spotify.com/track/6HlYlMsI2KmSpTzSkiAy8g) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/7uCiRIGxjJtJdFB4afa443) | 3:55 | 2022-10-05 |  |
 | [BASEMENT BOY](https://open.spotify.com/track/6y8Q8DMl5HLi16tTyh4aDt) | [DEMIAN](https://open.spotify.com/artist/6DNTezBmjBm68oYPCENCcA) | [BASEMENT BOY](https://open.spotify.com/album/2YrodBLR3JJF6EUh88yZVf) | 3:08 | 2022-10-05 |  |
+| [Be there \- Female Ver.](https://open.spotify.com/track/1p1nuzUehAhQ78HTXW4G6t) | [Ki myu](https://open.spotify.com/artist/3Lv45YYk4E4hlWtrimi0r7) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/0si7syMtQ2dRy78dRKzy3i) | 3:38 | 2022-10-28 |  |
+| [Be there \- Male Ver.](https://open.spotify.com/track/67iM5BSDg7tMfnGmwXDlsN) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/0si7syMtQ2dRy78dRKzy3i) | 3:38 | 2022-10-28 |  |
 | [Born Singer](https://open.spotify.com/track/1IthE5GNiRzFN5CVaCa445) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:58 | 2022-10-05 |  |
 | [Dream Chaser](https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Call Me Gray](https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9) | 4:33 | 2022-10-05 |  |
 | [Fear](https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Show Me the Money 4 Episode 5](https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr) | 4:09 | 2022-10-05 |  |
@@ -22,6 +24,7 @@
 | [If I Die Tomorrow](https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [2 4 : 2 6](https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV) | 4:17 | 2022-10-05 |  |
 | [K\-LAND](https://open.spotify.com/track/0NSVyvsN7Wwtu7YZ4sLVdn) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [K\-LAND](https://open.spotify.com/album/2O6DCzRdIxCr5oEu8DwAnE) | 3:19 | 2022-10-05 |  |
 | [Limousine \(Feat\. MINO\) \(Prod\. GRAY\)](https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:40 | 2022-10-05 |  |
+| [Lost](https://open.spotify.com/track/2SmLMEusGr41TShndvKjRr) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [The Golden Spoon \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/5njq9jUSKw10HsTy7ZkdhS) | 3:40 | 2022-10-28 |  |
 | [METEOR](https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:17 | 2022-10-05 |  |
 | [Porsche](https://open.spotify.com/track/1dvfI3ftaPV7odcMps3L3Q) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [Porsche](https://open.spotify.com/album/1js77EUM2hyIE0lcPhWgxB) | 2:20 | 2022-10-05 |  |
 | [remember Remix \(with Chin, Uneducated Kid, Paul Blanco\)](https://open.spotify.com/track/51Je7qQ5Ee0LOyRwUWYlfX) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [remember Remix](https://open.spotify.com/album/6B8gLgbZWKKtv0xGUfDxBG) | 3:43 | 2022-10-05 |  |

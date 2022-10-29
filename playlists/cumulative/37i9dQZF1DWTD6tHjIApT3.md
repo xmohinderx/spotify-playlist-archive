@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: iri
 
-825 songs - 2 day 6 hr 21 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+826 songs - 2 day 6 hr 25 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [30minutes](https://open.spotify.com/track/0h5M1WuZUs7BDAmSWgzzlY) | [Kyoko](https://open.spotify.com/artist/5HRqEGJI62dhk2BuO65mnr) | [30minutes](https://open.spotify.com/album/49UapnkmqyULff9EydUll5) | 3:32 | 2022-08-09 | 2022-08-17 |
 | [33歳のエンディングノート](https://open.spotify.com/track/73qhEfQwAu558SHaGcnjyX) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [Little Woman](https://open.spotify.com/album/4MOwIbt4OSBrLRGw4Bmhu6) | 4:17 | 2022-05-29 | 2022-07-25 |
 | [3636](https://open.spotify.com/track/207OCGfaLuJllRSgHtKLji) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [3636](https://open.spotify.com/album/0LSU1wIbJmGLZhzOnkk9sN) | 4:11 | 2022-07-28 | 2022-08-20 |
-| [3636](https://open.spotify.com/track/2mHWjrN4rIL8vbWt0Od9Ux) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:11 | 2022-08-18 |  |
+| [3636](https://open.spotify.com/track/2mHWjrN4rIL8vbWt0Od9Ux) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:11 | 2022-08-18 | 2022-10-29 |
 | [3月9日](https://open.spotify.com/track/4K8AITUz5UPypFhWL0MOYb) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [3月9日](https://open.spotify.com/album/6NPa5fH3c9XETHgivdKsEk) | 4:36 | 2022-05-31 | 2022-07-29 |
 | [4321](https://open.spotify.com/track/4Ckk9ebEjVFcq8VajCwZad) | [Kana Adachi](https://open.spotify.com/artist/6SY4uTql6IMmzbAJH9oAsJ) | [4321](https://open.spotify.com/album/5fCArNN0ivsSQcVcmHocqt) | 3:28 | 2022-08-30 | 2022-09-07 |
 | [99%](https://open.spotify.com/track/0802zscD81a2HT8qHvCKEx) | [EDOGA\-SULLIVAN](https://open.spotify.com/artist/0MfHOOVaHSNHSiNtOBOkkA) | [99%](https://open.spotify.com/album/42U9fbea5iLDy0epgOxA6q) | 3:24 | 2022-06-16 | 2022-07-23 |
@@ -255,6 +255,7 @@
 | [Midnight Phone](https://open.spotify.com/track/7CnGvZnLIawI3CxWP9cXRu) | [Youmentbay](https://open.spotify.com/artist/2sLSgexahLIueH18ra4hhC) | [Midnight Phone](https://open.spotify.com/album/0qxY6Gw7UVYGWKDELpQwGD) | 3:42 | 2022-09-06 | 2022-09-15 |
 | [Midnight Whisper \- feat\. Masahiro Sengoku](https://open.spotify.com/track/1aPeIT8OXsQMByZQgv5VSj) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [Masahiro Sengoku](https://open.spotify.com/artist/65PWrqCqvJ3I32gOMMVtnt) | [Midnight Whisper \(feat\. Masahiro Sengoku\)](https://open.spotify.com/album/1rQnK2vDkNQMSrqtLv3Q3v) | 2:56 | 2022-08-17 | 2022-08-31 |
 | [Mimosa](https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [魂のハイウェイ](https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N) | 3:28 | 2022-09-29 | 2022-10-05 |
+| [Mirror](https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Mirror](https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws) | 3:31 | 2022-10-27 |  |
 | [Mirrors](https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 4:30 | 2022-05-29 | 2022-07-26 |
 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 | 2022-10-11 |  |
 | [MIU](https://open.spotify.com/track/1qPp3HgkZDNKXcgSMHlYjc) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [MIU](https://open.spotify.com/album/61FMY9vYheCQCzwx2SgExu) | 3:40 | 2022-06-07 | 2022-07-17 |
@@ -815,7 +816,7 @@
 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 | 2022-05-29 |  |
 | [雨 \[feat\. \(sic\)boy\]](https://open.spotify.com/track/1kiDe0vgBTCTUy26X8bKDj) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [雨 \[feat\. \(sic\)boy\]](https://open.spotify.com/album/1P9KiA8V5mnVYRHmtOA8Fy) | 6:21 | 2022-05-31 | 2022-08-04 |
 | [雨夜の星](https://open.spotify.com/track/6sx6PoQKn1AWzNg6J9AB5U) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9) | [雨夜の星](https://open.spotify.com/album/1hondHlnVapxbGOiX6wT1H) | 6:17 | 2022-06-07 | 2022-07-21 |
-| [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 | 2022-05-29 | 2022-10-28 |
+| [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 | 2022-05-29 |  |
 | [電源](https://open.spotify.com/track/0xTe1EdbvOcB7uFRfGLcgL) | [中野ミホ](https://open.spotify.com/artist/1VGKPNzzfAx82OG0sWXtLS) | [電源](https://open.spotify.com/album/3J2JtTkXqw0j4FGi3d7272) | 4:06 | 2022-07-26 | 2022-08-03 |
 | [青い理想郷 \(feat\. 春茶\)](https://open.spotify.com/track/52sa2Yllu0MIq2SFKRNIbc) | [美的計画](https://open.spotify.com/artist/4hiUgGl5CgLqYUWDTIjlnC), [Harucha](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs) | [青い理想郷 \(feat\. 春茶\)](https://open.spotify.com/album/7CyfZA6EpaopCgBggVu7KB) | 4:09 | 2022-05-31 | 2022-07-15 |
 | [青山Killer物語 \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/03eu5QoG6mWFvdu3IOCmHp) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [RA MU \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/7Dre4HkNvQhl8diVNQugD0) | 5:02 | 2022-10-06 | 2022-10-08 |

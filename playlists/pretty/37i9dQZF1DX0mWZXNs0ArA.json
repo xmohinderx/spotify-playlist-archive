@@ -1,12 +1,12 @@
 {
   "description": "150%",
-  "num_followers": 621042,
+  "num_followers": 626563,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc5OTg5NiwwMDAwMDAwMDczZGY3OTEyMDkyODk0NmQ3M2FjYThhNDkyZTQ0YTM2",
+  "snapshot_id": "MTY2Njk3MTI0OSwwMDAwMDAwMGNiNDVkNWNmMmU2MjExOTM0NWNkYjAwMzEwZWUwYmQ1",
   "tracks": [
     {
       "added_at": "2022-10-13 15:16:27",
@@ -39,6 +39,22 @@
       "duration_ms": 191335,
       "name": "Bad Habit - Sped Up",
       "url": "https://open.spotify.com/track/4i7HqWsN7iJzsXpsW5h1nb"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 127780,
+      "name": "i'm yours sped up",
+      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
     },
     {
       "added_at": "2022-10-11 18:23:56",
@@ -919,6 +935,22 @@
       "duration_ms": 80080,
       "name": "SugarCrash!",
       "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
+    },
+    {
+      "added_at": "2022-10-28 15:34:09",
+      "album": {
+        "name": "reaLitie biTes (Nightcore Mix)",
+        "url": "https://open.spotify.com/album/3FDJomAQ0DopwMB36WNIEp"
+      },
+      "artists": [
+        {
+          "name": "tiLLie",
+          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
+        }
+      ],
+      "duration_ms": 121186,
+      "name": "reaLitie biTes - (Nightcore Mix)",
+      "url": "https://open.spotify.com/track/3RjKonSan0ZzkbwjgL4nO8"
     },
     {
       "added_at": "2022-09-09 04:01:00",

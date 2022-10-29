@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover Chin Bees
 
-57 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/1btdo8kMBVWjpbQP3UO41v)
+58 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/1btdo8kMBVWjpbQP3UO41v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,13 +57,14 @@
 | [Stamala Wajada](https://open.spotify.com/track/28kyKItAKiVLl9G1ljmT1e) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS) | [Stamala Wajada](https://open.spotify.com/album/2LmlYgcR3Hctbibrk0vMuD) | 1:59 | 2022-07-08 |  |
 | [Star](https://open.spotify.com/track/3pX5cqNZHI30KtXoJk7l5T) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Star](https://open.spotify.com/album/0ghnUh0FnBB7Ffh7Mh3o65) | 2:29 | 2022-04-28 |  |
 | [Step](https://open.spotify.com/track/4znb2uP2JB0Ws5cIM4ryC9) | [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ), [S2kizzy](https://open.spotify.com/artist/3qnWVd92pqdPqRk7GGnuMc) | [Step](https://open.spotify.com/album/6etPKI16rigpOtRpHLwZCC) | 3:44 | 2022-06-10 |  |
+| [Sweet One](https://open.spotify.com/track/4ykeDeK1VqRPrwhmhlSC4R) | [DJ Gibbzy](https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Sweet One](https://open.spotify.com/album/0P9D6NdUurORu6Gk3w0fOW) | 3:26 | 2022-10-28 |  |
 | [TAKE ONE \(EPISODE 1, PT\. 2\) \- Radio Edit](https://open.spotify.com/track/49TWj4UjkgwzsZ2aklaf4r) | [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW), [tboy mill](https://open.spotify.com/artist/33B36b8EakZMZymt6exgKJ), [Gran Geezy](https://open.spotify.com/artist/6qrKDGfjAaEOGDQpd1HGYW), [mapanch bmb](https://open.spotify.com/artist/0tII1jyAtYaFcW8s6jwRXf), [6ixtoogood](https://open.spotify.com/artist/6CsVa1SWq4HE7VUZ6iVt0h), [10k degree](https://open.spotify.com/artist/1a8EpOfRG4Z7lsZhTqoZzE), [hasheem](https://open.spotify.com/artist/3PnhTnRoracEcdi4mntPDl) | [TAKE ONE \(EPISODE 1, PT\. 2\) \[Radio Edit\]](https://open.spotify.com/album/5H6JC4CL2W3rPd5k1FW9b3) | 5:47 | 2022-03-28 |  |
 | [TAKE ONE\. \(EPISODE 1\) \- Radio Edit](https://open.spotify.com/track/164OfQPxYLyw6REpeCN8SF) | [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [TAKE ONE\. \(EPISODE 1\) \[Radio Edit\]](https://open.spotify.com/album/1W0W5eCgAXD2JtrLlS2bnz) | 2:27 | 2022-03-28 |  |
 | [Tawile](https://open.spotify.com/track/54X7kl16lgMzU0GAvlPkBg) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Rich Mavoko](https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp) | [Tawile](https://open.spotify.com/album/2euF3qZWpwHLVWbzbr6vl6) | 2:54 | 2022-08-19 |  |
 | [Threesome](https://open.spotify.com/track/7mzo7b3xVY0nWdQKOEIHNz) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc), [Chemical](https://open.spotify.com/artist/6SrKsGuGB3I2DQG02GO4Va), [Frida Amani](https://open.spotify.com/artist/1yXUnk7QLJfBTnLIgkwimU) | [Threesome Feat\. Chemical & Frida Amani](https://open.spotify.com/album/6ZglJvIv5Mh9U1du5mbP16) | 3:20 | 2022-08-19 |  |
 | [Tunawaka](https://open.spotify.com/track/5410D9GERkTOPJtAiw1hHH) | [Dj Seven Worldwide](https://open.spotify.com/artist/5L1DjIa8HLvXugMrY6vWzf), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Salmin Swaggz](https://open.spotify.com/artist/29Bao5BzmXldCACxALuPcu) | [Tunawaka](https://open.spotify.com/album/2byooUcfvAqeyX6A25c4PX) | 4:15 | 2022-03-28 |  |
 | [Vitu Vingi](https://open.spotify.com/track/30Mrl3Y5T64ZK1usuQhhZt) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Vitu Vingi](https://open.spotify.com/album/09o8Ri7Y1ThTozxbeUpn6b) | 4:06 | 2022-06-10 |  |
-| [Watatubu](https://open.spotify.com/track/7rBiGPmJUoaVbkRV4g1lXc) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Watatubu](https://open.spotify.com/album/0sqHTy0qJZyhTNnbLKbjtF) | 2:51 | 2022-03-28 |  |
+| [Watatubu](https://open.spotify.com/track/7rBiGPmJUoaVbkRV4g1lXc) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Watatubu](https://open.spotify.com/album/0sqHTy0qJZyhTNnbLKbjtF) | 2:51 | 2022-03-28 | 2022-10-29 |
 | [WE DID IT](https://open.spotify.com/track/4r9aeLsfgxk2kTf5VwFVoc) | [kisanga](https://open.spotify.com/artist/4JjEDrm0ZHeunwcPLwwimR) | [WE DID IT](https://open.spotify.com/album/6zk5eFAcjdMz0dtnbbIkQi) | 3:12 | 2022-06-10 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

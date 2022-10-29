@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/6c7Ay78lDG9A3xep8taktA"
+      },
+      "artists": [
+        {
+          "name": "Darryl Jones",
+          "url": "https://open.spotify.com/artist/3AnAntOFWOdjn8Fn02sfV8"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251439,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/0A2nLIAI5it1fRJYGJ5Qyp"
+    },
+    {
+      "album": {
         "name": "Angel In The Alleyways",
         "url": "https://open.spotify.com/album/0dDD5xoKda8099F4wTuByT"
       },
@@ -627,6 +645,28 @@
       "duration_ms": 223546,
       "name": "Cornbread, Peas, Black Molasses",
       "url": "https://open.spotify.com/track/3nRr46yu7zDTd8ly3PZNXn"
+    },
+    {
+      "album": {
+        "name": "Cryin\u2019 Won\u2019t Help You",
+        "url": "https://open.spotify.com/album/7lz81CRxzCYmryRTxThLaO"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        },
+        {
+          "name": "The SWR Big Band",
+          "url": "https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269816,
+      "name": "Cryin' Won\u00b4t Help You",
+      "url": "https://open.spotify.com/track/1Sfcy8w25PbenC7Xvl5LSk"
     },
     {
       "album": {

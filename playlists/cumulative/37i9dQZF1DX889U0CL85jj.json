@@ -473,6 +473,10 @@
         {
           "name": "Amelia Magdalena",
           "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
         }
       ],
       "date_added": "2022-10-08",
@@ -1793,10 +1797,28 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 275925,
       "name": "everything's worth it",
       "url": "https://open.spotify.com/track/01N0x8m4P4SUren7NBYxQl"
+    },
+    {
+      "album": {
+        "name": "everything's worth it",
+        "url": "https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo"
+      },
+      "artists": [
+        {
+          "name": "iogi",
+          "url": "https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275925,
+      "name": "everything's worth it",
+      "url": "https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF"
     },
     {
       "album": {

@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "5 Foot 9 (Acoustic)",
+        "url": "https://open.spotify.com/album/5gJ69NdMNUqbxOBruy5IGy"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "5 Foot 9 - Acoustic",
+      "url": "https://open.spotify.com/track/4tObgOBsBUpICU6mT4F3Uk"
+    },
+    {
+      "album": {
         "name": "7500 OBO (Acoustic)",
         "url": "https://open.spotify.com/album/1wtgyNAVYVCP5Dd7IoBv2r"
       },
@@ -1399,6 +1417,24 @@
       "duration_ms": 167833,
       "name": "Hope It's Hot Out - Acoustic",
       "url": "https://open.spotify.com/track/2JrieR1DBfhGK2G4zTyeXj"
+    },
+    {
+      "album": {
+        "name": "How It Oughta Be (Acoustic)",
+        "url": "https://open.spotify.com/album/6iMyQOYBiUrmmGXot3QbFs"
+      },
+      "artists": [
+        {
+          "name": "Shane Profitt",
+          "url": "https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184213,
+      "name": "How It Oughta Be - Acoustic",
+      "url": "https://open.spotify.com/track/6d8IG8GblIOXUWMdtQt2jj"
     },
     {
       "album": {
@@ -3055,7 +3091,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 172663,
       "name": "Thought This Through",
       "url": "https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK"
@@ -3441,7 +3477,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 207967,
       "name": "Whiskey And Rain - Acoustic",
       "url": "https://open.spotify.com/track/4hpWtPnZHX9xfb1fr8cVVw"

@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Antonia Navarro
+> Todo el sonido indie de Chile\. Foto: Tunacola
 
-276 songs - 16 hr 50 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
+277 songs - 16 hr 53 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,10 +34,11 @@
 | [Bruma](https://open.spotify.com/track/1s60OAeHfhxvdKeFKEs1lY) | [Ludo Club](https://open.spotify.com/artist/0nV76tggafm4L6neH8qHNc) | [Bruma](https://open.spotify.com/album/3SNTxemEGfgVAsPMcNzkyv) | 3:15 | 2022-04-15 | 2022-07-28 |
 | [Buena Suerte Muchacha](https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Buena Suerte Muchacha](https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0) | 3:13 | 2022-04-15 |  |
 | [Buscar la Luz](https://open.spotify.com/track/2jL1b5zab3ssJCw0fQcdKM) | [Don't Chase the Lizard](https://open.spotify.com/artist/0uC3fovB5pLGi48M5N3NEl) | [Buscar la Luz](https://open.spotify.com/album/2CM4kksvNIaHEuyOV1IERt) | 3:57 | 2022-04-15 | 2022-07-28 |
+| [Cae la Noche](https://open.spotify.com/track/0IfaQfbSQMIjDyYNCLcJ7Z) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2), [Exe](https://open.spotify.com/artist/3GmyHz0dg5CbySGx3j9lOd) | [Cae la Noche](https://open.spotify.com/album/6f3rFnGxXGWoHWUmpxNtCR) | 3:10 | 2022-10-28 |  |
 | [Caer](https://open.spotify.com/track/3zjMO8cxIokdbEPWf7zU1Y) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Caer](https://open.spotify.com/album/6IG8ERwXo9fBFdpUKfSiKV) | 3:47 | 2022-04-15 | 2022-07-26 |
 | [Caliope](https://open.spotify.com/track/7npPZabH0RxwxDrHyosMmt) | [Solución Violeta](https://open.spotify.com/artist/2OsFVQeJTSaO3BcwFC8GXe) | [Caliope](https://open.spotify.com/album/49t7J5Pe7Lro9n9sN9NRmv) | 3:38 | 2022-04-15 | 2022-07-25 |
 | [Caléndula](https://open.spotify.com/track/7syQvWPFTKzEBqLizRgLGI) | [Pelusa](https://open.spotify.com/artist/1uFuJCsLGA1nzL70bbPMzl) | [Caléndula](https://open.spotify.com/album/18e0PrxVPgcZJAQabYznIX) | 2:45 | 2022-04-15 | 2022-07-26 |
-| [Caminar](https://open.spotify.com/track/3Limp2D3b8AVub68UQSA4i) | [Felics](https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [CALMA](https://open.spotify.com/album/2IqLgtGyOuCK8XvtJuBruS) | 3:53 | 2022-10-14 |  |
+| [Caminar](https://open.spotify.com/track/3Limp2D3b8AVub68UQSA4i) | [Felics](https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [CALMA](https://open.spotify.com/album/2IqLgtGyOuCK8XvtJuBruS) | 3:53 | 2022-10-14 | 2022-10-29 |
 | [Camino](https://open.spotify.com/track/6eyZjd6qkNlxds7m6FKapL) | [1960](https://open.spotify.com/artist/5bxjtmxLJ6GfSN09zlyFXR) | [Camino](https://open.spotify.com/album/0evvTTjFCewyr3gkHcxs3L) | 3:03 | 2022-06-03 | 2022-07-27 |
 | [Casi](https://open.spotify.com/track/1rTb0UaBhqtozVWr8Fn9ZN) | [Planetario](https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga), [Circuito Nacional](https://open.spotify.com/artist/3gwaNs7RvWYoa0C2XLApBV) | [Planetario en Circuito Nacional](https://open.spotify.com/album/7e29NNM8RxqgVgv99wP0e2) | 3:18 | 2022-04-15 | 2022-10-08 |
 | [Caudal](https://open.spotify.com/track/4whbPbsW4hp8kem7kAOziT) | [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Pirueta](https://open.spotify.com/album/3Sbf7GZMTahvu2dhHeABe5) | 4:34 | 2022-04-15 | 2022-07-29 |
@@ -124,7 +125,7 @@
 | [Interestellar](https://open.spotify.com/track/4oEU8liJYK8AFs3nu06A9h) | [Kali Mutsa](https://open.spotify.com/artist/7EIUORXc76H7zXG7syAtcT) | [Interestellar](https://open.spotify.com/album/7mELjly5TtO9ypSo6aHtpV) | 4:24 | 2022-04-15 | 2022-10-08 |
 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 | 2022-04-15 |  |
 | [Juliana](https://open.spotify.com/track/4ofA2Txy2wWZdHwc4O8gO5) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Juliana](https://open.spotify.com/album/2DwYhEkb9K1hixzLbQ1T40) | 4:39 | 2022-04-15 | 2022-07-29 |
-| [Karma](https://open.spotify.com/track/2XxJKaZNhPanBkpGSMoApE) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/7kP9AmZtw94OKJ9WwCbcs4) | 3:16 | 2022-10-14 |  |
+| [Karma](https://open.spotify.com/track/2XxJKaZNhPanBkpGSMoApE) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/7kP9AmZtw94OKJ9WwCbcs4) | 3:16 | 2022-10-14 | 2022-10-29 |
 | [Klapaucius](https://open.spotify.com/track/00tq3tSdLI9zOn3ctd3OlQ) | [Al Menos Se Intenta](https://open.spotify.com/artist/6iXVwJ4tstSPx7zMv24ChX), [Aquiestawally](https://open.spotify.com/artist/6cM3ql6as318GpwefoKVIl) | [Klapaucius](https://open.spotify.com/album/2s8fH3h5DAarJXn7jlzBHW) | 3:34 | 2022-04-15 | 2022-07-29 |
 | [Kurt & Courtney](https://open.spotify.com/track/7E1UM6gU9bKFzfWAivMK4M) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [Kurt & Courtney](https://open.spotify.com/album/2ZCQvBGaccRTo4f6pOOn3d) | 3:20 | 2022-04-15 | 2022-07-25 |
 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 | 2022-04-15 |  |
@@ -144,7 +145,7 @@
 | [Lluvia Para el Sol](https://open.spotify.com/track/6y8kBITLyzVN9RGpMBc4iH) | [Pequita](https://open.spotify.com/artist/55ZHeNiYo1WAYjW5kEoZiG) | [Lluvia Para el Sol](https://open.spotify.com/album/3nFS2QursFzce6naclOfBS) | 2:42 | 2022-04-15 | 2022-07-23 |
 | [Lo Nuestro](https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Lo Nuestro](https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz) | 1:53 | 2022-10-14 |  |
 | [Lo Vas a Ver](https://open.spotify.com/track/1TsJ958NQWw2mIwzlWkUXI) | [Corvje](https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3), [EsMikeGarcia](https://open.spotify.com/artist/5FK9isHItaC3GaYIdNX18w) | [Lo Vas a Ver](https://open.spotify.com/album/2wSBCh5Z3VeSQ6a3by0kKP) | 3:35 | 2022-04-15 | 2022-07-25 |
-| [Los chicos están tristes](https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Los chicos están tristes](https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L) | 3:04 | 2022-05-06 | 2022-07-26 |
+| [Los chicos están tristes](https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Los chicos están tristes](https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L) | 3:04 | 2022-05-06 |  |
 | [Madre Mía](https://open.spotify.com/track/1KfTE7KeZzP9re6Z5iVwTT) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Madre Mía](https://open.spotify.com/album/71oVyBiwTfXKZJ4vd7Cg0W) | 3:15 | 2022-04-15 |  |
 | [Maldita Canción de Amor](https://open.spotify.com/track/5Y88RAG3qCTgAZRQiJclRN) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Maldita Canción de Amor](https://open.spotify.com/album/30Nej0tlaXSbJrahd70YLm) | 3:54 | 2022-04-15 |  |
 | [Maldita Canción de Amor \(Acústica\)](https://open.spotify.com/track/2jF6hZEVslHeUfh02sEp4l) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Maldita Canción de Amor \(Acústica\)](https://open.spotify.com/album/2V4qUZfWmrZBJ7Lz2OtZOU) | 3:06 | 2022-04-15 | 2022-10-02 |

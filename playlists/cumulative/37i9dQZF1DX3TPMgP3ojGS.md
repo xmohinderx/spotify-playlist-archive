@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,546 songs - 2 day 22 hr 1 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,547 songs - 2 day 22 hr 3 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,7 +530,7 @@
 | [Guarda](https://open.spotify.com/track/55pNaqKviMlFxtBbqWCMqH) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Zéphyrine](https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58) | 1:38 | 2021-03-20 | 2022-04-07 |
 | [Guiding Light](https://open.spotify.com/track/1yifgXa6NhUmUayr78flWm) | [Lea Lewis](https://open.spotify.com/artist/0wnLoOej9LyiFZKKnJmP9z) | [Guiding Light](https://open.spotify.com/album/020aZCrrAmqQQ7TIobHAZN) | 2:10 | 2021-03-06\* | 2022-04-08 |
 | [Habito](https://open.spotify.com/track/48v3esP9iVCc7HBX0zGKpk) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Habito](https://open.spotify.com/album/2iDCKPyudOHhPufR4rC9BF) | 3:32 | 2021-11-14 | 2022-07-29 |
-| [Halcyon](https://open.spotify.com/track/7nEWerH9vQDQ1wNoH8J3K6) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Halcyon](https://open.spotify.com/album/5XudyMlsXOobZTCBPmqzB8) | 2:30 | 2022-08-17 | 2022-10-26 |
+| [Halcyon](https://open.spotify.com/track/7nEWerH9vQDQ1wNoH8J3K6) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Halcyon](https://open.spotify.com/album/5XudyMlsXOobZTCBPmqzB8) | 2:30 | 2022-08-17 |  |
 | [Halcyon](https://open.spotify.com/track/2PEiFFvNyMykLb2wxnvBfv) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Halcyon & Safe Havens](https://open.spotify.com/album/0nl8ijx6L3t2QVaA05GLCp) | 3:02 | 2022-04-12 | 2022-04-18 |
 | [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 | 2022-03-15 | 2022-05-14 |
 | [Harbinger](https://open.spotify.com/track/1VJFcuWEwolF6y5fS1J98x) | [Global Hum](https://open.spotify.com/artist/3lifXuRT69XpJuFvuml4iu) | [Harbinger](https://open.spotify.com/album/36gPNCQYHXSHGpl5FQ2GnC) | 2:49 | 2021-09-25 | 2022-04-01 |
@@ -929,6 +929,7 @@
 | [O Come, All Ye Faithful](https://open.spotify.com/track/7KlSdIDCajVZgAHpMTMV8Y) | [Arthur Mass](https://open.spotify.com/artist/2ohTFB7ANtgOhXpWTIIl2a) | [Peaceful Christmas Piano](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 1:56 | 2021-03-08 | 2022-04-10 |
 | [O Holy Night](https://open.spotify.com/track/4D0jUYYtsdJywfap3EZg3S) | [Clark Anthony](https://open.spotify.com/artist/4LmgGaZAPNgnIWDtwaWMck) | [O Holy Night](https://open.spotify.com/album/3XNGnpf2mWrkFGRfI67AmW) | 4:00 | 2021-03-20 | 2022-04-21 |
 | [O Soave Fanciulla](https://open.spotify.com/track/5HQp593kflHm8LV12MepjR) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [O Soave Fanciulla](https://open.spotify.com/album/3oCBWqBIPO4gcNWTJq98nl) | 2:56 | 2022-01-26 | 2022-04-06 |
+| [Oaks Bluffs](https://open.spotify.com/track/0jSUVrvKQ0qF8ee1usL34M) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Heart Open & Oak Bluffs](https://open.spotify.com/album/0WUh561iRu6szlrM5pB2eW) | 1:57 | 2022-10-25 |  |
 | [Ocean And 17th](https://open.spotify.com/track/2IUuk04dZVG8KRBJpcrpzt) | [Lummus Park](https://open.spotify.com/artist/6aLdEQv4u2nemqw1v3cQmH) | [Ocean And 17th](https://open.spotify.com/album/4YEDcRREGpiZpyziVG4jIh) | 3:09 | 2021-03-06\* | 2022-03-28 |
 | [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 | 2021-12-18 | 2022-08-30 |
 | [October stroll](https://open.spotify.com/track/0djBbURQR8Zu4SD4K48lzJ) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [October stroll](https://open.spotify.com/album/7dnDyRoLFwV6HSSiZ3L1AP) | 2:09 | 2021-03-06\* | 2021-12-18 |
@@ -963,7 +964,7 @@
 | [Our Distant Past](https://open.spotify.com/track/3JSaZg0IaJ5OPXzoxu8qNi) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm) | [Our Distant Past](https://open.spotify.com/album/5PswxzPZDA2yjrY28yDkXW) | 2:42 | 2021-03-07 | 2022-04-03 |
 | [Ours](https://open.spotify.com/track/5CCZ8wTUbpTI0tTyxEVEy3) | [Benjamin Dobbs](https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP) | [Ours](https://open.spotify.com/album/1Jev1LFCSZwDUn9T837ThU) | 2:19 | 2021-06-22 | 2022-07-12 |
 | [Out of the Blue](https://open.spotify.com/track/3fgqWFz8f9IFJ6k9VPjd2h) | [Melissa Styles](https://open.spotify.com/artist/5MJZC6Xx2EbqrBNbUHkyct) | [Out of the Blue](https://open.spotify.com/album/5yM8DbNm7i3l81c87GOtIU) | 1:36 | 2021-04-21 | 2022-04-17 |
-| [Oyasumi Nasai](https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 2:44 | 2021-12-18 |  |
+| [Oyasumi Nasai](https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 2:44 | 2021-12-18 | 2022-10-29 |
 | [Pachm](https://open.spotify.com/track/5399qRI8W27gFhEdl0WYST) | [Aenor](https://open.spotify.com/artist/23P5JvLFlmlLNsi9ntziQD) | [Pachm](https://open.spotify.com/album/45TOH3gPycKcDDAnDOtQl2) | 1:52 | 2021-03-19 | 2021-05-15 |
 | [Paciente](https://open.spotify.com/track/7iqQzHo7CMFVILlHbYjmX3) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [My Refuge](https://open.spotify.com/album/6ACr0yOkH0ig6fkKzeulSV) | 2:58 | 2021-07-04 | 2022-07-23 |
 | [Palette](https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Palette](https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY) | 3:46 | 2021-03-29 | 2022-07-27 |
@@ -1531,7 +1532,7 @@
 | [Worlds Apart](https://open.spotify.com/track/1oen1dD68x1ZUOhy6WePRG) | [Rick Hagen](https://open.spotify.com/artist/2hOK2gVqLtyZD0Hd4PpqlH) | [Forever Vanished](https://open.spotify.com/album/1ya21A58Y1M8E5sqyHzMaE) | 1:39 | 2021-03-07 | 2022-04-16 |
 | [Wurzeln](https://open.spotify.com/track/1XxpdpkVxh9B3jYOW3Le14) | [Lekk](https://open.spotify.com/artist/0yicpX5myaa6X2hXtsJ1Oj) | [Glass Stone](https://open.spotify.com/album/0nGGwRQAKy5uAoeoE0bjyF) | 2:32 | 2022-07-27 | 2022-09-27 |
 | [Yearn](https://open.spotify.com/track/6cgdhsPAVKmQRRwbW0PuXT) | [Lillia Nava](https://open.spotify.com/artist/2UTWoxg77Il2GH1iI67BIZ) | [Yearn](https://open.spotify.com/album/62Cxt0A2ySZkUMbus2ibi1) | 2:46 | 2021-04-30 | 2022-06-30 |
-| [Yearning](https://open.spotify.com/track/6nAIhrJFemcnHMrtfWcQ7k) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Yearning](https://open.spotify.com/album/5XCkU63XSSr8e4skFj37M9) | 2:10 | 2022-04-12 |  |
+| [Yearning](https://open.spotify.com/track/6nAIhrJFemcnHMrtfWcQ7k) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Yearning](https://open.spotify.com/album/5XCkU63XSSr8e4skFj37M9) | 2:10 | 2022-04-12 | 2022-10-29 |
 | [Yellow Stripes](https://open.spotify.com/track/44NYuWJXr1Ungy67IdODge) | [Placid Warren](https://open.spotify.com/artist/1R1NeLGKtMkDEt6lVqEtyl) | [Yellow Stripes](https://open.spotify.com/album/2ymi4hL6jJPMiNDKnmWHYm) | 2:12 | 2022-02-09 | 2022-07-18 |
 | [Yet To Be Told](https://open.spotify.com/track/0z8KHbvKPSnYXvHGG1LZHW) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [Yet To Be Told](https://open.spotify.com/album/3XMEE4bT4vTpZvPaIj68JI) | 3:06 | 2021-05-20 | 2021-12-19 |
 | [Yokaze](https://open.spotify.com/track/7AxTszt3bSsWC81Qei0ODL) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Yokaze](https://open.spotify.com/album/1roXpyZ4hZzZBSL2Uw6q6L) | 2:32 | 2021-12-13 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: JUNE(\uc900))",
+  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: meenoi(\ubbf8\ub178\uc774))",
   "name": "K-Are & Be",
   "published_playlist_ids": [
     "0kvpJtsvIoyFKt5gsRYiS9"
@@ -205,6 +205,28 @@
       "duration_ms": 254386,
       "name": "Alone (Feat. GSoul)",
       "url": "https://open.spotify.com/track/0TXGMVMHbmV8oHgayKayHs"
+    },
+    {
+      "album": {
+        "name": "WEATHER REPORT",
+        "url": "https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm"
+      },
+      "artists": [
+        {
+          "name": "Slom",
+          "url": "https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202013,
+      "name": "ANIRAGO (feat. Zion.T)",
+      "url": "https://open.spotify.com/track/4udQ9x6PZTNkO6Jwxdn0iw"
     },
     {
       "album": {
@@ -774,6 +796,24 @@
     },
     {
       "album": {
+        "name": "faraway",
+        "url": "https://open.spotify.com/album/13csUC6m7mKJpmyfWG8bz8"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229159,
+      "name": "faraway",
+      "url": "https://open.spotify.com/track/6MysgWeikCdIVrDhPVSCZU"
+    },
+    {
+      "album": {
         "name": "KHAMAI",
         "url": "https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR"
       },
@@ -1297,6 +1337,28 @@
       "duration_ms": 192857,
       "name": "Lock me up",
       "url": "https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb"
+    },
+    {
+      "album": {
+        "name": "Loner (Feat. g0nny)",
+        "url": "https://open.spotify.com/album/1n6h9eUFPgRcDVxPxy40CT"
+      },
+      "artists": [
+        {
+          "name": "yiyona",
+          "url": "https://open.spotify.com/artist/5UxbxMzCNo2m4oyAN4GYCv"
+        },
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213984,
+      "name": "Loner (Feat. g0nny)",
+      "url": "https://open.spotify.com/track/5z71sbduBfZcSWdgdx4Gfk"
     },
     {
       "album": {
@@ -1898,6 +1960,24 @@
     },
     {
       "album": {
+        "name": "S:INEMA",
+        "url": "https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238306,
+      "name": "Talk 2 Me Nice",
+      "url": "https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY"
+    },
+    {
+      "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS"
       },
@@ -1939,8 +2019,8 @@
       },
       "artists": [
         {
-          "name": "Sujin Park",
-          "url": "https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq"
+          "name": "Park Soo Jin",
+          "url": "https://open.spotify.com/artist/2u5C3Wks2FJrz5N86nNiXT"
         }
       ],
       "date_added": "2022-07-07",

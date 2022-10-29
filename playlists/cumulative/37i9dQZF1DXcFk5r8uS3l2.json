@@ -922,6 +922,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Freedom",
+        "url": "https://open.spotify.com/album/1oK1BuADbj2eCKKf24BPwL"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230760,
+      "name": "Feels Like Freedom",
+      "url": "https://open.spotify.com/track/14HCZEU2biaM0hEoOEq1vd"
+    },
+    {
+      "album": {
         "name": "Introducing Junior Kimbrough",
         "url": "https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD"
       },
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 223182,
       "name": "Freedom Road",
       "url": "https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95"
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 262426,
       "name": "Got Love - Made In Muscle Shoals",
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
@@ -1745,6 +1763,24 @@
       "duration_ms": 293960,
       "name": "I Walk On Guilded Splinters",
       "url": "https://open.spotify.com/track/0un5nhtFkx4GF6QMjuQQ0f"
+    },
+    {
+      "album": {
+        "name": "I Won't Let You Die Young",
+        "url": "https://open.spotify.com/album/0Vs88xWZxg55WkewDOgrkZ"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193186,
+      "name": "I Won't Let You Die Young",
+      "url": "https://open.spotify.com/track/0KPKi9xhLz2V1vw2nXJCBM"
     },
     {
       "album": {
@@ -2505,6 +2541,24 @@
       "duration_ms": 235311,
       "name": "Nobody's Wrong",
       "url": "https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac"
+    },
+    {
+      "album": {
+        "name": "Not Ready To Let Go",
+        "url": "https://open.spotify.com/album/1q1jyVZyIQwzq3DG8z9qVR"
+      },
+      "artists": [
+        {
+          "name": "BAYWUD",
+          "url": "https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238455,
+      "name": "Not Ready To Let Go",
+      "url": "https://open.spotify.com/track/4nXIogA01ib6VLHPPKZPxt"
     },
     {
       "album": {
@@ -3497,7 +3551,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 289293,
       "name": "The Kids Are Having None Of It",
       "url": "https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH"

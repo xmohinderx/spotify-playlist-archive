@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 23706,
+  "num_followers": 23717,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGU1M2YzY2YzOTljNDZmYzUzM2M2YjEwOGYxNjIwOTdi",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDQyOGNmZWUwZmU5MWE5ZTllYjJlMjQ3ODczOTEyZTQy",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -103,26 +103,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Float Back To You",
         "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 251082,
       "name": "Oh I Miss Her So",
       "url": "https://open.spotify.com/track/5psuezepdKbS4Iwl8kRY7M"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
+      },
+      "artists": [
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -463,6 +463,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Houses",
+        "url": "https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw"
+      },
+      "artists": [
+        {
+          "name": "Steve Spacek",
+          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
+        }
+      ],
+      "duration_ms": 450950,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Sankofa Season",
         "url": "https://open.spotify.com/album/2X0ipAg7rr3Zzc9bDuhROn"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 342591,
       "name": "Eye Mo K",
       "url": "https://open.spotify.com/track/4LBrt8RUMpGhPXkLqvsh4U"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Houses",
-        "url": "https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw"
-      },
-      "artists": [
-        {
-          "name": "Steve Spacek",
-          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
-        }
-      ],
-      "duration_ms": 450950,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -567,42 +567,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Tanto Tiempo",
-        "url": "https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK"
+        "name": "See-Line Woman",
+        "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
       },
       "artists": [
         {
-          "name": "Scrimshire",
-          "url": "https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL"
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
         },
         {
-          "name": "Penya",
-          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
-        },
-        {
-          "name": "Village Cuts",
-          "url": "https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU"
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 295606,
-      "name": "Tanto Tiempo - Village Cuts Remix",
-      "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Moodymann",
-        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 708706,
-      "name": "Sloppy Cosmic",
-      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
+      "duration_ms": 226000,
+      "name": "See-Line Woman - Main Mix",
+      "url": "https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -623,22 +603,42 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "See-Line Woman",
-        "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
+        "name": "Moodymann",
+        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
       },
       "artists": [
         {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        },
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
         }
       ],
-      "duration_ms": 226000,
-      "name": "See-Line Woman - Main Mix",
-      "url": "https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04"
+      "duration_ms": 708706,
+      "name": "Sloppy Cosmic",
+      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Tanto Tiempo",
+        "url": "https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK"
+      },
+      "artists": [
+        {
+          "name": "Scrimshire",
+          "url": "https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL"
+        },
+        {
+          "name": "Penya",
+          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
+        },
+        {
+          "name": "Village Cuts",
+          "url": "https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU"
+        }
+      ],
+      "duration_ms": 295606,
+      "name": "Tanto Tiempo - Village Cuts Remix",
+      "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -711,6 +711,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Information",
+        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "duration_ms": 272893,
+      "name": "Been A Long Night",
+      "url": "https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Black Focus",
         "url": "https://open.spotify.com/album/1MioiNBndcGhsQOFk3l6fu"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 513226,
       "name": "Salaam",
       "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Information",
-        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
-      },
-      "artists": [
-        {
-          "name": "Galcher Lustwerk",
-          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
-        }
-      ],
-      "duration_ms": 272893,
-      "name": "Been A Long Night",
-      "url": "https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I"
     },
     {
       "added_at": "2021-10-08 17:36:35",

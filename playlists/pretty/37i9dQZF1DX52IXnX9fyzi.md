@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,394 likes - 181 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,523 likes - 181 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 34 | [Shoganai](https://open.spotify.com/track/2Pmiz2tOtQxnrHsQ9RZuKp) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Shoganai](https://open.spotify.com/album/5pOX595aLHeczDXUz0HsL1) | 3:11 |
 | 35 | [Fairy Pools](https://open.spotify.com/track/02jSeRZPyBoysGlvsnFe7N) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Skye](https://open.spotify.com/album/65bltqhMq5gjB9kNxCXqvw) | 2:40 |
 | 36 | [Elskaði](https://open.spotify.com/track/6Pm6hmH3tcxVlZzelFqtmS) | [Guðmundur Helgason](https://open.spotify.com/artist/5enIukwt5q9TDbdmUmRPdz) | [Elskaði](https://open.spotify.com/album/5LMW0Vj3rQYkWTbvdosrsL) | 2:33 |
-| 37 | [Two as One](https://open.spotify.com/track/2oQ9cSikCRzxTkynfJ3jnL) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Two as One](https://open.spotify.com/album/61qq7qfNSB23A3xoSECvcH) | 2:13 |
+| 37 | [Two as One](https://open.spotify.com/track/0Gg26zeooPEayN4uOWZqnd) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Springtime serenade](https://open.spotify.com/album/3sExOMHYNOQhKF6KUlfX8S) | 2:13 |
 | 38 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 |
 | 39 | [Missing The Sunrise](https://open.spotify.com/track/5ZqtRar70d5Kx5P9ow0umc) | [OIYYIO](https://open.spotify.com/artist/2R9k2e0QnakmPpJCxx1Pag) | [Missing The Sunrise](https://open.spotify.com/album/1uPga5l6eVa6S6IuDxCJyD) | 2:24 |
 | 40 | [Possibility](https://open.spotify.com/track/09nOi0lagkDCqWC99TRpWL) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [By The Hour](https://open.spotify.com/album/5wdvYv8r6AgU6fNSnBXHYd) | 2:17 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 180 | [Vogeltrek](https://open.spotify.com/track/4Otyz87ttyTeKK45vlO28b) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:14 |
 | 181 | [Chronostasis](https://open.spotify.com/track/4vLkjOq0df258sEL7zrtE0) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chronostasis](https://open.spotify.com/album/3mEjbYACVfAp3enzgHVyeM) | 2:34 |
 
-Snapshot ID: `MTY2Njc3NDU0MywwMDAwMDAwMDFkNzZhYmY2YzYzNTlmODE2OWNlOWQwNWRkYmViNjEz`
+Snapshot ID: `MTY2Njc3NDU0MywwMDAwMDAwMDgxMTU3NGI4MWY1YWYxNjdmMzU0MjE3ZDllN2U5YzY5`

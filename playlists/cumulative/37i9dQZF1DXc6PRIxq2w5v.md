@@ -2,9 +2,9 @@
 
 ### [Gospel Flow](https://open.spotify.com/playlist/37i9dQZF1DXc6PRIxq2w5v)
 
-> Entre os versos e beats, a palavra do Senhor\. Foto: VICTIN
+> Entre os versos e beats, a palavra do Senhor\. Foto: BIG THE KIID
 
-124 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
+125 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/3j1tW8qwWrXfBEybLADTJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aff](https://open.spotify.com/track/3F25r7aIj83DaGs7kVDnP6) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena](https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA) | 3:26 | 2022-09-19 |  |
 | [Ainda Não É o Fim](https://open.spotify.com/track/5Mo3oOezde7Zt6jAUIPIFI) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Ainda Não É o Fim](https://open.spotify.com/album/4EUUBMaeGHezzHevYOoPu7) | 2:41 | 2022-03-22 |  |
 | [Aliança](https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Fala pra eles que é o Felipin](https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB) | 2:59 | 2022-03-22 |  |
+| [ALMA e CORAÇÃO](https://open.spotify.com/track/6p2HlTzZqNnT5MUG0nDatb) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [ALMA e CORAÇÃO](https://open.spotify.com/album/5PMFsnpPROcW7rR3orYPoX) | 2:54 | 2022-10-28 |  |
 | [Alto](https://open.spotify.com/track/6eFeusECAHuopsDZPeaVte) | [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7), [Curioso Beats](https://open.spotify.com/artist/6yKGxz1NyKpjxh4jAkbU4u) | [Alto](https://open.spotify.com/album/2u6pu9HyxZP9gxKXIZgIco) | 2:45 | 2022-06-24 |  |
 | [Além](https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Notas de um Coração Amado](https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6) | 2:13 | 2022-08-19 |  |
 | [Alívio](https://open.spotify.com/track/2sW3N7yxNRdSQJwGvbCw3I) | [Rodolfo Queiroz](https://open.spotify.com/artist/2tHHhgW6BXwtlwUcBcATjt), [NóizProd](https://open.spotify.com/artist/3ww1Cvu2JnTEqxpRQwlGGZ) | [Alívio](https://open.spotify.com/album/4onqbTvMLqTsOqYoXKbI7c) | 3:38 | 2022-03-22 | 2022-04-27 |
@@ -51,7 +52,7 @@
 | [Entre a Cruz e a Espada](https://open.spotify.com/track/1oIWb7BQVHOQooiQScZUL8) | [Kalebe Pacheco](https://open.spotify.com/artist/4O9AEp24Ozw6pNe89Cl2vZ), [Kolli](https://open.spotify.com/artist/6TdB9Tq21brBwYzP6GxlaV) | [Entre a Cruz e a Espada](https://open.spotify.com/album/0qH63y4wZrzdD1MVF1SuyN) | 2:47 | 2022-03-22 | 2022-03-26 |
 | [Escola do Crime](https://open.spotify.com/track/3E9gQR89YBL51q3o0jqnR3) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Escola do Crime](https://open.spotify.com/album/0CR7CEwmTwYJcXs7svuPQ7) | 2:20 | 2022-09-02 | 2022-10-01 |
 | [Esperança para o Perdido](https://open.spotify.com/track/4UAfUuqFcfimpz2zyhkXPP) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX), [P.N.D.K](https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw), [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Esperança para o Perdido](https://open.spotify.com/album/4ooKIy2sW48ccw5QMIh92Q) | 3:50 | 2022-09-02 |  |
-| [Eu Sou](https://open.spotify.com/track/5nNBTKt7DwBtrvjeX21i3X) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Eu Sou](https://open.spotify.com/album/3A59tNKNF1ZUVBWIegUSFJ) | 2:48 | 2022-09-30 |  |
+| [Eu Sou](https://open.spotify.com/track/5nNBTKt7DwBtrvjeX21i3X) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Eu Sou](https://open.spotify.com/album/3A59tNKNF1ZUVBWIegUSFJ) | 2:48 | 2022-09-30 | 2022-10-29 |
 | [Eu Sou Iluminado](https://open.spotify.com/track/5ypnmxsJvnyiLtqDFv7nbO) | [Mc Miller](https://open.spotify.com/artist/3lPqoloT6yQMReUyZIkes6) | [Iluminado](https://open.spotify.com/album/6HQv3LN7oBn7irJL2GZ7kd) | 3:53 | 2022-08-19 |  |
 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 | 2022-04-29 |  |
 | [Falando a Verdade](https://open.spotify.com/track/1jfHhVoo6TeLUINztgMt0R) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Falando a Verdade](https://open.spotify.com/album/6TlGC5bpUznneRJ0SPNgfv) | 2:22 | 2022-03-25 |  |

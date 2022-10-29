@@ -2,7 +2,7 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez notre sélection des artistes à suivre\. Photo : Olympe Chabert
+> Découvrez notre sélection des artistes à suivre\. Photo : Zaho de Sagazan
 
 76 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/5n9koYIGQWOBSUyvQu30SO)
 

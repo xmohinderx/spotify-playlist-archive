@@ -4,7 +4,7 @@
 
 > The best dance hits of 2022, featuring Felix Jaehn, Gryffin, and more! Find all the best dance tracks here, and discover new favorites! Cover: Gryffin
 
-134 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/6IH94a7PQVQNzjRks3D5kN)
+135 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/6IH94a7PQVQNzjRks3D5kN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2022-09-12 |  |
 | [Taco Tuesday](https://open.spotify.com/track/2b1yiFEFZYuvlBnClvNJHP) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Taco Tuesday](https://open.spotify.com/album/42SNLQYdeiybSNLIxVA2yn) | 1:36 | 2021-07-02 | 2022-09-13 |
 | [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 | 2022-02-18 |  |
+| [The Phantom Of The Opera \- ABOUT THAT Remix](https://open.spotify.com/track/4Oa6J0jSiwjwKsXRGQO0Qw) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [ABOUT THAT](https://open.spotify.com/artist/6HMAEvj17gDdNB5EotNEOe), [Ben Crawford](https://open.spotify.com/artist/3yCAqfaT5jdv88VM9QLMfV), [Meghan Picerno](https://open.spotify.com/artist/4k59GiRs1yYNWEZ7fPMsiL) | [The Phantom Of The Opera \(Remixes\)](https://open.spotify.com/album/0x8ARrRJMch8bq3bRlzH03) | 3:23 | 2022-10-28 |  |
 | [The Way I Love You](https://open.spotify.com/track/3yXYyOqrDdRni2NwgDrADD) | [Daniel Blume](https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj) | [The Way I Love You](https://open.spotify.com/album/7cHBfJLUCFFCCeFfujtGe0) | 3:14 | 2022-09-12 | 2022-10-11 |
 | [Tonight](https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Bastiqe](https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF) | [Tonight](https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh) | 2:29 | 2022-09-19 |  |
 | [Toosie Slide](https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Toosie Slide](https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J) | 4:07 | 2021-07-02 | 2022-09-13 |

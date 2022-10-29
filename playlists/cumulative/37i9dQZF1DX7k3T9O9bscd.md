@@ -4,12 +4,12 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-243 songs - 19 hr 43 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+244 songs - 19 hr 48 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [66Sick](https://open.spotify.com/track/6e2oJXCMp2qsypxbWojc6g) | [Black Lizard](https://open.spotify.com/artist/0Hr1HjUofZNMT0NhNNNt6J) | [Heads](https://open.spotify.com/album/4MsE32cJoljMqgKFZNvwAE) | 3:07 | 2022-06-08 | 2022-06-30 |
-| [9 Vueltas al Sol](https://open.spotify.com/track/7zbGn6Qui3UL9DFpexCKBs) | [Louis Goodman](https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR) | [El Eterno Retorno](https://open.spotify.com/album/3dEdpu1O1ZicjBvchw2Swh) | 5:20 | 2022-09-03 |  |
+| [9 Vueltas al Sol](https://open.spotify.com/track/7zbGn6Qui3UL9DFpexCKBs) | [Louis Goodman](https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR) | [El Eterno Retorno](https://open.spotify.com/album/3dEdpu1O1ZicjBvchw2Swh) | 5:20 | 2022-09-03 | 2022-10-29 |
 | [A Shaman's Hand is Infinite](https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Sacred Drugs](https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST) | 3:06 | 2021-11-12 |  |
 | [Acid Crusher](https://open.spotify.com/track/1Jl2QiqrBXJOVxDx2WqnvO) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [Acid Crusher / Mount Swan](https://open.spotify.com/album/1jnKtfbJTAo2WddUGjuLyZ) | 14:56 | 2021-11-12 |  |
 | [Afrique Victime \- Edit](https://open.spotify.com/track/2FENXc1Etbsd1FgsXx143M) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/2uZNZnHZA4dZNzC5T9271y) | 4:06 | 2021-11-12 | 2022-07-07 |
@@ -51,7 +51,7 @@
 | [Crime em Tânger](https://open.spotify.com/track/5RDLAg3zVPTlsmOlKNNGf9) | [Rapaz Ego](https://open.spotify.com/artist/6KZN67WFv4KQC5kWnCJePK) | [Crime em Tânger](https://open.spotify.com/album/4RGncxsGvUjxsu1A947z4I) | 4:29 | 2021-11-12 | 2022-07-28 |
 | [curl your toes, clench your fists](https://open.spotify.com/track/5Y4QJNJ1Ebr7aCkRuhEUhf) | [Slugabed](https://open.spotify.com/artist/7lGyDgJJYSgOd9R5T4Cwe4), [Miles Spilsbury](https://open.spotify.com/artist/23ZeblILk9U5IlYwQlacaq) | [curl your toes, clench your fists](https://open.spotify.com/album/6sZbrZyD6a9fOyep454rLv) | 7:14 | 2021-11-12 | 2022-07-19 |
 | [Damaged Eyes Squinting into the Beautiful Overhot Sun](https://open.spotify.com/track/0eqsixwwOHKerHiBmaqQQG) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Future Teenage Cave Artists](https://open.spotify.com/album/4I9skhRTov4hKAxAgoclt3) | 3:58 | 2021-11-12 | 2022-06-30 |
-| [Diarabi](https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:56 | 2022-08-31 | 2022-10-27 |
+| [Diarabi](https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:56 | 2022-08-31 |  |
 | [Disciplina](https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt) | [Oruã](https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm) | [Sem Bênção / Sem Crença](https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg) | 5:28 | 2021-11-12 | 2022-07-27 |
 | [Distant Restart](https://open.spotify.com/track/3z6UUdNXqe6RgdCBlB0bn1) | [Klaatu Suuns](https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr) | [Distant Restart](https://open.spotify.com/album/5V94kCDYOSxkZmgnF6gSQF) | 3:21 | 2021-11-12 | 2022-07-28 |
 | [Don't Blow Experiment](https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Panther Rotate](https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR) | 5:09 | 2021-11-12 | 2022-07-29 |
@@ -84,6 +84,7 @@
 | [God of Sun](https://open.spotify.com/track/3Qpjde6a9mDtRjci5lLcC6) | [My Expansive Awareness](https://open.spotify.com/artist/2b1Y52tNwOd5SczAeqw9ND) | [Taste of Blood](https://open.spotify.com/album/7FBGO3V4kns5TlkVmH5Wbn) | 4:29 | 2021-11-12 | 2022-07-26 |
 | [Golden Dawn](https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb) | 2:50 | 2021-11-12 |  |
 | [Golden Dawn](https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [World Music](https://open.spotify.com/album/7luhH7DG3J2silksmUZ73i) | 2:50 | 2021-11-12 | 2022-07-29 |
+| [Gondii](https://open.spotify.com/track/6P7FJBspEtLcqjzltUv74y) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Changes](https://open.spotify.com/album/05ag5ukffFozEnXGOeuTTD) | 4:56 | 2022-10-28 |  |
 | [Greven](https://open.spotify.com/track/54URuxbHDl2XnK5lSWJNNC) | [Fontän](https://open.spotify.com/artist/6EXurtehkPBoE9zRRHW9sO) | [Fontän](https://open.spotify.com/album/4wooYSPNjboju7eYkIn5Kq) | 6:05 | 2021-11-12 | 2022-07-17 |
 | [Greven](https://open.spotify.com/track/5QbDGQdwnrfxWuBDhNMVMN) | [Fontän](https://open.spotify.com/artist/6EXurtehkPBoE9zRRHW9sO) | [Fontän](https://open.spotify.com/album/0kyJHCH5zr45XB4ZXnl9cg) | 6:05 | 2021-11-12 | 2022-08-24 |
 | [Hiisi, Pt\. 1](https://open.spotify.com/track/2gXyYqSL0g17iNfUZVQryO) | [Kiki Pau](https://open.spotify.com/artist/2U4JtZdPoHPqEBofPg0CjC) | [Hiisi, Pt\. 1](https://open.spotify.com/album/1vmhF0O98KUC5m9pH3jzf6) | 6:48 | 2021-11-12 | 2022-07-28 |
@@ -107,7 +108,7 @@
 | [In The Eve](https://open.spotify.com/track/4rVD839xJRAk4jRqB2UzND) | [Stonefield](https://open.spotify.com/artist/2xhrgovPiJBMN8cyW2iflu) | [Far From Earth](https://open.spotify.com/album/7zxPsrcn1bbLrGgzUQo3qg) | 3:56 | 2021-11-12 | 2022-07-24 |
 | [Indian Zone Drum Killer Inc.](https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP) | [Tandy Love](https://open.spotify.com/artist/5VCev3apvTkUABVDvbxM7P) | [Turk Jerk](https://open.spotify.com/album/5YPdvWg02GM4zomzuy40E4) | 3:25 | 2021-11-12 | 2022-08-26 |
 | [Interior People](https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy) | 5:15 | 2021-11-12 |  |
-| [Intrasport](https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 4:12 | 2021-11-12 |  |
+| [Intrasport](https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 4:12 | 2021-11-12 | 2022-10-29 |
 | [It Might Be Time](https://open.spotify.com/track/2P0NiuAfypaw5UZJoo0n0o) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [It Might Be Time](https://open.spotify.com/album/0xUNJrjy4ORR3xQKH93n3a) | 4:33 | 2021-11-12 | 2022-07-24 |
 | [İsyan Manifestosu](https://open.spotify.com/track/0jE2HYDc22ujaaXeWfgRx3) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Yort Savul: İSYAN MANİFESTOSU!](https://open.spotify.com/album/5rGuB8nP1QxmJiu2JIXl1k) | 4:46 | 2021-11-12 | 2022-07-24 |
 | [Jag Ville Va Kvar](https://open.spotify.com/track/5KsIruY61LonaxTD7gvFkN) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d), [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Myths 003](https://open.spotify.com/album/6SDif8qBXlDDEOft27h7ik) | 5:53 | 2021-11-12 | 2022-07-29 |

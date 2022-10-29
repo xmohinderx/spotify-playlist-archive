@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 208973,
       "name": "Bessoka - Version courte",
       "url": "https://open.spotify.com/track/0vl2pa6k6kBZa0LNRC9ufl"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 218945,
       "name": "In the midnight hour",
       "url": "https://open.spotify.com/track/7nHddSyD2K6DBxiIyrEM30"
@@ -1294,6 +1294,28 @@
     },
     {
       "album": {
+        "name": "M & M",
+        "url": "https://open.spotify.com/album/1NHrBasHmhaEvemj74DHPm"
+      },
+      "artists": [
+        {
+          "name": "Moreira Chongui\u00e7a",
+          "url": "https://open.spotify.com/artist/39IHtnX5EC2ge39XUftUle"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386626,
+      "name": "Nonto Sangoma",
+      "url": "https://open.spotify.com/track/6kT24c1WVCsBxX0Jvy7Ma9"
+    },
+    {
+      "album": {
         "name": "Le testament du makossa, Vol. 8",
         "url": "https://open.spotify.com/album/0XUeMGRZi1SsVxmakzESw7"
       },
@@ -1325,7 +1347,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 952386,
       "name": "Nostalgie",
       "url": "https://open.spotify.com/track/3Kn1HI0X47ydVVSHgPBoA7"
@@ -1969,7 +1991,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 423653,
       "name": "Tek Time",
       "url": "https://open.spotify.com/track/3QzRmXp2ANZFcf8Fa3sQ0x"
@@ -1987,7 +2009,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 149346,
       "name": "The Panther",
       "url": "https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv"

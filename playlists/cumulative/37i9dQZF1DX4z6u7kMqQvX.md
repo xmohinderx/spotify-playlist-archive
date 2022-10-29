@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-390 songs - 22 hr 16 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+391 songs - 22 hr 19 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Dos](https://open.spotify.com/track/0J49GNG60XrmImmBl3UGCQ) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Dos](https://open.spotify.com/album/0TEAkQp2XSbE12UE0BsP2W) | 3:54 | 2022-01-07 | 2022-07-25 |
 | [Dos Extraños](https://open.spotify.com/track/0yo7iyDow5BUxs9JFVfU1F) | [Paraleia](https://open.spotify.com/artist/737T198kjU3hbvxpc2wnhC) | [Dos Extraños](https://open.spotify.com/album/5fE8LmOvegL7tIfGmq9dVh) | 5:19 | 2022-04-01 | 2022-04-21 |
 | [Dos Galaxias](https://open.spotify.com/track/6zWr8KVQ5gLbXY43KgxJNI) | [El Mato](https://open.spotify.com/artist/2pOYOOflbI58JsE1IHbwUq), [Un Policia Motorizado](https://open.spotify.com/artist/7u1y4Oo6EnaRmZQuEmDyQn) | [Mujeres Bellas y Fuertes](https://open.spotify.com/album/5aEkGG6aAyvEYVxhaB6tGi) | 4:22 | 2022-01-07 | 2022-10-26 |
+| [duele](https://open.spotify.com/track/0PraCrWXNKfoLpVnqZsfCj) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [duele](https://open.spotify.com/album/0xogsBHAhbvhZg6Qas45J6) | 2:14 | 2022-10-28 |  |
 | [Duele](https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Duele](https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5) | 3:27 | 2022-01-07 |  |
 | [Duele Si Te Vas](https://open.spotify.com/track/3gT4UQNOdFZ5BRKRlAhlvQ) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Duele Si Te Vas](https://open.spotify.com/album/5E4gVqjIF3NP6h5FaDfoT9) | 3:55 | 2022-01-07 | 2022-07-29 |
 | [Dulce Mal](https://open.spotify.com/track/4bVaYbaxhHaxeCLGyERNfT) | [The Chamanas](https://open.spotify.com/artist/4QUnWR26plj0oHiQgRyhvk) | [Dulce Mal](https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y) | 4:02 | 2022-01-07 |  |
@@ -316,7 +317,7 @@
 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 | 2022-01-07 |  |
 | [Salto al Vacío](https://open.spotify.com/track/0LyZKZQYsSkKOkng3pLCIy) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [Salto al Vacío](https://open.spotify.com/album/1OEuHStPc9si4yV1IpWp5a) | 3:16 | 2022-01-07 | 2022-06-21 |
 | [SANTIAGO, PT\. II \(DISTANCIA\) \[feat\. Heartgaze\]](https://open.spotify.com/track/2ncK9wKyHdM93WFVIVcu4r) | [Fco\. Chandia](https://open.spotify.com/artist/655dPMaDIzxF49DrrYNc4p), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [SANTIAGO...](https://open.spotify.com/album/7CWmlWercbmIicYIOGEoUt) | 4:09 | 2022-04-01 | 2022-04-20 |
-| [Sentimental](https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Sentimental](https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd) | 3:18 | 2022-10-14 |  |
+| [Sentimental](https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Sentimental](https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd) | 3:18 | 2022-10-14 | 2022-10-29 |
 | [Ser Eternos](https://open.spotify.com/track/2Nbd4vA664gAa23iCmbP4X) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Ser Eternos](https://open.spotify.com/album/12LRUTem7DZkK72rfo2Jvk) | 3:40 | 2022-01-07 | 2022-07-28 |
 | [Si Fueras Lluvia](https://open.spotify.com/track/2N3LPVCuyWN0A5uodq95RN) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Si Fueras Lluvia](https://open.spotify.com/album/46B8tnPwQdlw6jOY947lGu) | 3:12 | 2022-07-15 |  |
 | [Si Fueras Lluvia](https://open.spotify.com/track/5caJvmpnwLPvsgxiFUZI3d) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Si Fueras Lluvia](https://open.spotify.com/album/37eZe9AY6enYaoBM625PQI) | 3:12 | 2022-01-07 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Shane Smith & the Saints",
+  "description": "A new shade of Country. Cover: Zach Bryan\n",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
@@ -749,6 +749,24 @@
       "duration_ms": 220796,
       "name": "Bonfire At Tina's",
       "url": "https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z"
+    },
+    {
+      "album": {
+        "name": "Boots Mine Gold",
+        "url": "https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB"
+      },
+      "artists": [
+        {
+          "name": "Honey Harper",
+          "url": "https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191919,
+      "name": "Boots Mine Gold",
+      "url": "https://open.spotify.com/track/7ACy8muxyMV2T72wNVDk3k"
     },
     {
       "album": {
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 269286,
       "name": "Dublin, Texas",
       "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
@@ -2321,7 +2339,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 224731,
       "name": "Gone as It Gets",
       "url": "https://open.spotify.com/track/2dNYJcUrqGVNp8KbVWpuZQ"
@@ -4137,6 +4155,28 @@
       "duration_ms": 198800,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/03oJ08eFsEOll82tHJNAY3"
+    },
+    {
+      "album": {
+        "name": "Songs To Keep You Warm",
+        "url": "https://open.spotify.com/album/7CtRGTImiw2tsq1Bf1AXe0"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        },
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191506,
+      "name": "Parallel",
+      "url": "https://open.spotify.com/track/0s0ExKwCRYPLZVw8qkGvbv"
     },
     {
       "album": {

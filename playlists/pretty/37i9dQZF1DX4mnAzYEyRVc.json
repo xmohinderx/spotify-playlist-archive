@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: The Interrupters",
-  "num_followers": 19131,
+  "num_followers": 19195,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjUxMjg5NiwwMDAwMDAwMDIxZGJhNWIxMDdlNTgyMDc2YzI0YjdiNTkyNGY2NWU5",
+  "snapshot_id": "MTY2MjUxMjg5NiwwMDAwMDAwMDAyYjZmYzg0YjY3NDc0M2ZhMDZjZDljNTBjYmRiMjcx",
   "tracks": [
     {
       "added_at": "2022-08-01 20:17:22",
@@ -667,18 +667,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Libres Y Locos",
-        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
       },
       "artists": [
         {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
         }
       ],
-      "duration_ms": 187493,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -715,18 +715,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+        "name": "Libres Y Locos",
+        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
       },
       "artists": [
         {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
         }
       ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
+      "duration_ms": 187493,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -843,6 +843,22 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
+        "name": "The Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "A Message to You Rudy - 2015 Remaster",
+      "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
         "name": "Fight the Good Fight",
         "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 274653,
       "name": "El \u00daltimo Ska",
       "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "The Specials (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "A Message to You Rudy - 2015 Remaster",
-      "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "The Refrescos",
-        "url": "https://open.spotify.com/album/7jaz1BgGyjVENL2vpkbR7L"
-      },
-      "artists": [
-        {
-          "name": "The Refrescos",
-          "url": "https://open.spotify.com/artist/2dN0tlioLsFZ6319yNUNlX"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Aqu\u00ed No Hay Playa",
-      "url": "https://open.spotify.com/track/4PRJD9T23GQKQYKhJQcGGY"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "The Maskatonians All Stars And Friends",
         "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
       },
@@ -1083,18 +1067,34 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+        "name": "The Refrescos",
+        "url": "https://open.spotify.com/album/7jaz1BgGyjVENL2vpkbR7L"
       },
       "artists": [
         {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+          "name": "The Refrescos",
+          "url": "https://open.spotify.com/artist/2dN0tlioLsFZ6319yNUNlX"
         }
       ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
+      "duration_ms": 217626,
+      "name": "Aqu\u00ed No Hay Playa",
+      "url": "https://open.spotify.com/track/4PRJD9T23GQKQYKhJQcGGY"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 191066,
+      "name": "Sol\u00edn",
+      "url": "https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
       "artists": [
         {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
         }
       ],
-      "duration_ms": 191066,
-      "name": "Sol\u00edn",
-      "url": "https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS"
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "The Fury of the Aquabats!",
-        "url": "https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM"
-      },
-      "artists": [
-        {
-          "name": "The Aquabats!",
-          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Super Rad!",
-      "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "El Precio del Sudor",
         "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 164186,
       "name": "Somos del Barrio",
       "url": "https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "The Fury of the Aquabats!",
+        "url": "https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM"
+      },
+      "artists": [
+        {
+          "name": "The Aquabats!",
+          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Super Rad!",
+      "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2515,8 +2515,8 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Los Rabanes",
-        "url": "https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU"
+        "name": "Latin Ska",
+        "url": "https://open.spotify.com/album/6zI1ohCa3KiSQFD5WlTIkX"
       },
       "artists": [
         {
@@ -2524,9 +2524,9 @@
           "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
         }
       ],
-      "duration_ms": 205120,
-      "name": "Se\u00f1orita a Mi Me Gusta Su Style",
-      "url": "https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g"
+      "duration_ms": 194413,
+      "name": "Latin Ska",
+      "url": "https://open.spotify.com/track/3yhSzk3RVZ1BqIYAW8IFGf"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Reggae Greats - Toots & The Maytals",
-        "url": "https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Funky Kingston",
-      "url": "https://open.spotify.com/track/296nf1GZola50p9fWwsaQw"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Motiv Loco",
         "url": "https://open.spotify.com/album/0L1RqcDjhCoQBBK3UhlMdK"
       },
@@ -2623,6 +2607,22 @@
       "duration_ms": 162786,
       "name": "No More Sorrow",
       "url": "https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Reggae Greats - Toots & The Maytals",
+        "url": "https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "Funky Kingston",
+      "url": "https://open.spotify.com/track/296nf1GZola50p9fWwsaQw"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2643,8 +2643,8 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Latin Ska",
-        "url": "https://open.spotify.com/album/6zI1ohCa3KiSQFD5WlTIkX"
+        "name": "Los Rabanes",
+        "url": "https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU"
       },
       "artists": [
         {
@@ -2652,9 +2652,9 @@
           "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
         }
       ],
-      "duration_ms": 194413,
-      "name": "Latin Ska",
-      "url": "https://open.spotify.com/track/3yhSzk3RVZ1BqIYAW8IFGf"
+      "duration_ms": 205120,
+      "name": "Se\u00f1orita a Mi Me Gusta Su Style",
+      "url": "https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2987,22 +2987,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Nightfood Ina Party Time",
-        "url": "https://open.spotify.com/album/0OFYUg9St5uUcg9cTl2UXn"
-      },
-      "artists": [
-        {
-          "name": "The Heptones",
-          "url": "https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4"
-        }
-      ],
-      "duration_ms": 284893,
-      "name": "I Shall Be Released",
-      "url": "https://open.spotify.com/track/1saHtxaqY3zZBRzvILJpkd"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -3015,6 +2999,22 @@
       "duration_ms": 170800,
       "name": "Don't Let the Bastards Grind You Down",
       "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Nightfood Ina Party Time",
+        "url": "https://open.spotify.com/album/0OFYUg9St5uUcg9cTl2UXn"
+      },
+      "artists": [
+        {
+          "name": "The Heptones",
+          "url": "https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4"
+        }
+      ],
+      "duration_ms": 284893,
+      "name": "I Shall Be Released",
+      "url": "https://open.spotify.com/track/1saHtxaqY3zZBRzvILJpkd"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -3199,22 +3199,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Resistirem",
-        "url": "https://open.spotify.com/album/6UaJZmea8LAFpCUfxl5Y0D"
-      },
-      "artists": [
-        {
-          "name": "Rep\u00fablika Ska",
-          "url": "https://open.spotify.com/artist/35QWdwr5mi5FaUdP4FI7U8"
-        }
-      ],
-      "duration_ms": 156395,
-      "name": "Som de l'oest",
-      "url": "https://open.spotify.com/track/4uAO7c2fB3Xnpypuam9YF4"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "De Ke Manera te Olvido... Chimol!!",
         "url": "https://open.spotify.com/album/5E85sgTBqIgUZLyFrLdbmS"
       },
@@ -3227,6 +3211,22 @@
       "duration_ms": 215320,
       "name": "Te Aprovechas",
       "url": "https://open.spotify.com/track/0BVfdk9zeaUh0yh7PyXmMK"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Resistirem",
+        "url": "https://open.spotify.com/album/6UaJZmea8LAFpCUfxl5Y0D"
+      },
+      "artists": [
+        {
+          "name": "Rep\u00fablika Ska",
+          "url": "https://open.spotify.com/artist/35QWdwr5mi5FaUdP4FI7U8"
+        }
+      ],
+      "duration_ms": 156395,
+      "name": "Som de l'oest",
+      "url": "https://open.spotify.com/track/4uAO7c2fB3Xnpypuam9YF4"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -3267,22 +3267,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Motorcity Roots",
-        "url": "https://open.spotify.com/album/4SQvzwKij7TnNJwottSxtw"
-      },
-      "artists": [
-        {
-          "name": "Jazz Jamaica",
-          "url": "https://open.spotify.com/artist/19OQfCaZNNYap4BkxUVh43"
-        }
-      ],
-      "duration_ms": 330866,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/1uPXCYx1ucrJBDgywMjPCp"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Flamingo",
         "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
       },
@@ -3295,6 +3279,22 @@
       "duration_ms": 162930,
       "name": "Ska en la Playa",
       "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Motorcity Roots",
+        "url": "https://open.spotify.com/album/4SQvzwKij7TnNJwottSxtw"
+      },
+      "artists": [
+        {
+          "name": "Jazz Jamaica",
+          "url": "https://open.spotify.com/artist/19OQfCaZNNYap4BkxUVh43"
+        }
+      ],
+      "duration_ms": 330866,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/1uPXCYx1ucrJBDgywMjPCp"
     },
     {
       "added_at": "2021-12-06 21:30:06",

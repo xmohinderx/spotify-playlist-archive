@@ -793,10 +793,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 207706,
       "name": "Grenadine",
       "url": "https://open.spotify.com/track/02w4jlD7486J2arFerSVlJ"
+    },
+    {
+      "album": {
+        "name": "Grenadine",
+        "url": "https://open.spotify.com/album/5CSsUeXe2pGbYTNxXPzLtm"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207706,
+      "name": "Grenadine",
+      "url": "https://open.spotify.com/track/3Y2MtObLigh1plXwhau6Qi"
     },
     {
       "album": {

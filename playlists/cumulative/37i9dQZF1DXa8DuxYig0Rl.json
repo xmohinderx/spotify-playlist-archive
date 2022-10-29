@@ -1808,6 +1808,24 @@
     },
     {
       "album": {
+        "name": "Recordando a",
+        "url": "https://open.spotify.com/album/3kh1YRFggMYWLTBM4aaZCE"
+      },
+      "artists": [
+        {
+          "name": "Los Fantasmas",
+          "url": "https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188840,
+      "name": "Pagina Blanca",
+      "url": "https://open.spotify.com/track/30R25rIDDtXKCTXGwvg8rz"
+    },
+    {
+      "album": {
         "name": "XEW La Voz de America Latina \"Nueva Generaci\u00f3n\"",
         "url": "https://open.spotify.com/album/2fhyDLNES36L4pSz96jeAT"
       },
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 190386,
       "name": "Pagina Blanca",
       "url": "https://open.spotify.com/track/7r95JZ6dviMeIQHYuNlY6A"

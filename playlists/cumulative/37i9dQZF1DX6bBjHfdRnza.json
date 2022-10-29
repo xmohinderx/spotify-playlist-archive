@@ -15462,6 +15462,24 @@
     },
     {
       "album": {
+        "name": "We'll Maintain",
+        "url": "https://open.spotify.com/album/2PA2vTLplYN9RJEVyIdMbD"
+      },
+      "artists": [
+        {
+          "name": "Olive T",
+          "url": "https://open.spotify.com/artist/0zBBG1zpWWiF5OZYSoD1Ud"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307000,
+      "name": "We'll Maintain",
+      "url": "https://open.spotify.com/track/23zt3ZGWNVbSIAIgyn0ZAz"
+    },
+    {
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/2WdmDLfoDPAeDxDpnWtyZA"
       },

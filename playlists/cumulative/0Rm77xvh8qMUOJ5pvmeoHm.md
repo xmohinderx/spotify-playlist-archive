@@ -2,9 +2,9 @@
 
 ### [Party Bangers](https://open.spotify.com/playlist/0Rm77xvh8qMUOJ5pvmeoHm)
 
-> Get the Party started with these instant floorfillers.
+> Get your 2022 Halloween Party started with these party tracks everyone knows and loves!
 
-141 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/7w6mlIi4CNgTR9iJ8AGl4f)
+142 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/7w6mlIi4CNgTR9iJ8AGl4f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Melody \(1983 Club Vinyl Mix\)](https://open.spotify.com/track/2VIJ2Nt8uk3Pi3IqEwtO1y) | [Plustwo](https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK) | [Melody](https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz) | 3:56 | 2022-04-29 | 2022-07-16 |
 | [Memories \(feat\. Kid Cudi\)](https://open.spotify.com/track/5xYC48nOppVemY6U5GRGTb) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:30 | 2022-04-29 | 2022-07-16 |
 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2022-10-21 |  |
+| [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-28 |  |
 | [More Than A Woman](https://open.spotify.com/track/6aCMEu1Lxlz4eFQIawNspd) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Tales From The Brothers Gibb](https://open.spotify.com/album/0rGrmrf9XKC54uU8VR5D2s) | 3:14 | 2022-04-29 | 2022-07-16 |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-04-29 |  |
 | [My House](https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [My House](https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf) | 2:55 | 2022-07-15 |  |

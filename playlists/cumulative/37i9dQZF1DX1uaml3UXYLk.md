@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-504 songs - 1 day 8 hr 39 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
+505 songs - 1 day 8 hr 43 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Changing Rooms](https://open.spotify.com/track/2EgNKyAs31YQeKa3OopRWR) | [\_njet\_](https://open.spotify.com/artist/6LAAoLorV83lTuZZBguNdz) | [Changing Rooms](https://open.spotify.com/album/1TZXe8sX7srvAsWnD6sxNk) | 3:07 | 2020-10-20\* | 2020-12-24 |
 | [Chasing the Now](https://open.spotify.com/track/63ypmPFNZJXv4SgTtsPdG3) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Chasing The Now](https://open.spotify.com/album/4RDnaZuk2ZBBZORVqVdrYT) | 2:27 | 2021-11-10 | 2022-04-06 |
 | [Cheerful Gecko](https://open.spotify.com/track/1Czt8WIBLWwHqRwxvUBnUS) | [Ben Jonovski](https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC) | [Cheerful Gecko](https://open.spotify.com/album/7KQccSlxHaRNIX9eJ1IZMP) | 2:24 | 2021-07-09 | 2021-08-25 |
+| [Cheers Mate](https://open.spotify.com/track/2p7HOQKGCmhqygolKziWKb) | [Dia Louge](https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl) | [New Start](https://open.spotify.com/album/2UcZ7xUeS17aNKDVyORQrf) | 3:17 | 2022-10-28 |  |
 | [Chihiro](https://open.spotify.com/track/092E6eXdo0UbGyDk0CjNTi) | [TOMATOSLICE](https://open.spotify.com/artist/6EqyBfmaGsykcIF15BCATj) | [Chihiro](https://open.spotify.com/album/3qlSKN4HP5Q3tV8Wlx2LID) | 5:10 | 2020-12-24 |  |
 | [Chinook](https://open.spotify.com/track/0m3Ssbp73eDEtjIoPGqNis) | [Alfa State](https://open.spotify.com/artist/09XYEnqYotzkQdZIyltRtW), [Mystic District](https://open.spotify.com/artist/2PDVBt3lvTrglJpt2yYGaF) | [Chinook EP](https://open.spotify.com/album/4bhtTw2nU27UZEpxHH4RfG) | 7:26 | 2020-12-24 | 2021-01-15 |
 | [Chlorine](https://open.spotify.com/track/1B8IrVSNTA8KgHG8MJQaH1) | [Swank Doral](https://open.spotify.com/artist/1zgVVdHt2QiytBSufPLLaV) | [Chlorine](https://open.spotify.com/album/4SCPxSvn4cdrjeZSHSfnMY) | 2:59 | 2021-08-25 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Billy Strings",
+  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Trampled by Turtles",
   "name": "Grass Roots",
   "published_playlist_ids": [
     "1ohgiwSh4jFwvfDQpd6QPG"
@@ -3431,7 +3431,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 239346,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
@@ -4422,6 +4422,28 @@
     },
     {
       "album": {
+        "name": "No Witness in the Laurel but the Leaves",
+        "url": "https://open.spotify.com/album/31n1SX0XpWIMDIoCdSD8HO"
+      },
+      "artists": [
+        {
+          "name": "Tim Stafford",
+          "url": "https://open.spotify.com/artist/5yX1miY4VIySXNpldnJyZ9"
+        },
+        {
+          "name": "Thomm Jutz",
+          "url": "https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186120,
+      "name": "No Witness in the Laurel but the Leaves",
+      "url": "https://open.spotify.com/track/2QZrbqfIyf2JOZm3YJvPa5"
+    },
+    {
+      "album": {
         "name": "North Country",
         "url": "https://open.spotify.com/album/2QoAumKB1qK202raGU4xqr"
       },
@@ -5219,7 +5241,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 369571,
       "name": "Round Rock (feat. Michael Cleveland & Jerry Douglas)",
       "url": "https://open.spotify.com/track/0476Xf6sinSTPQGtvTex9A"
@@ -5699,6 +5721,24 @@
       "duration_ms": 133000,
       "name": "Start Walking Back",
       "url": "https://open.spotify.com/track/2k6mdp1lISrRmor4pFVyOP"
+    },
+    {
+      "album": {
+        "name": "Alpenglow",
+        "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
     },
     {
       "album": {

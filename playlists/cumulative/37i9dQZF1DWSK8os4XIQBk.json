@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Nothing but the best modern country music. Cover: Bailey Zimmerman",
+  "description": "Nothing but the best modern country music. Cover: Zach Bryan",
   "name": "All About Country",
   "published_playlist_ids": [
     "2VWEcpbjTChxEwyaD5k1kM"
@@ -511,10 +511,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 129360,
       "name": "Big Wheels",
       "url": "https://open.spotify.com/track/6DrrFMDjglq6IZGtn0ee1v"
+    },
+    {
+      "album": {
+        "name": "Blame It on Being Young",
+        "url": "https://open.spotify.com/album/3OAsLLW9T43CBLswannByc"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184896,
+      "name": "Blame It On Being Young",
+      "url": "https://open.spotify.com/track/2OiQOns4bQK3ZI3JxpXL5m"
     },
     {
       "album": {

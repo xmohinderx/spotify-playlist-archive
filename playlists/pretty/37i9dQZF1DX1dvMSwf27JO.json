@@ -1,12 +1,12 @@
 {
   "description": "Music to get fly to. Cover: Thom Browne SS 2023",
-  "num_followers": 469207,
+  "num_followers": 469168,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgwOTA0NCwwMDAwMDAwMDZkMmRhMjMwYmZhODU0NmI2NmFiN2FhNjI1OTUyYzhm",
+  "snapshot_id": "MTY2NjgwOTA0NCwwMDAwMDAwMDRmMGMzZmM1ODc1YTk2NTdmOGYwY2E0NThmZDcxNjMy",
   "tracks": [
     {
       "added_at": "2022-10-26 17:46:30",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
+        "name": "Apollo XXI",
+        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "N Side",
+      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 115138,
       "name": "#miles",
       "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
-        "name": "Apollo XXI",
-        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "N Side",
-      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
+        "name": "striptease",
+        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
+      },
+      "artists": [
+        {
+          "name": "carwash",
+          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
+        }
+      ],
+      "duration_ms": 160659,
+      "name": "striptease",
+      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
         "name": "Love Angel Music Baby (Deluxe Version)",
         "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 236213,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/2Y2q7PkD7lvuWr8YaZfWuv"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
-        "name": "striptease",
-        "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
-      },
-      "artists": [
-        {
-          "name": "carwash",
-          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
-        }
-      ],
-      "duration_ms": 160659,
-      "name": "striptease",
-      "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "If This Is House I Want My Money Back 3",
-        "url": "https://open.spotify.com/album/53QDQjWe8eWDoXp3zd3jjn"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 285440,
-      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
-      "url": "https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "Vinyl Days",
         "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 147187,
       "name": "Breath Control (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/7Bi5CtEcDIduA53TdPHMLF"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "If This Is House I Want My Money Back 3",
+        "url": "https://open.spotify.com/album/53QDQjWe8eWDoXp3zd3jjn"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 285440,
+      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
+      "url": "https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1351,22 +1351,18 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Dinsdag",
-        "url": "https://open.spotify.com/album/6d7r7ptbFTp7FfU8hVK1H6"
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH"
       },
       "artists": [
         {
-          "name": "Vieze Asbak",
-          "url": "https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig"
-        },
-        {
-          "name": "Rarri Jackson",
-          "url": "https://open.spotify.com/artist/53HTjUR55iusgWemW2YL4A"
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
         }
       ],
-      "duration_ms": 162997,
-      "name": "Dinsdag",
-      "url": "https://open.spotify.com/track/5EI94cNPh81RIh1NZy5qqR"
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1391,18 +1387,22 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH"
+        "name": "Dinsdag",
+        "url": "https://open.spotify.com/album/6d7r7ptbFTp7FfU8hVK1H6"
       },
       "artists": [
         {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+          "name": "Vieze Asbak",
+          "url": "https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig"
+        },
+        {
+          "name": "Rarri Jackson",
+          "url": "https://open.spotify.com/artist/53HTjUR55iusgWemW2YL4A"
         }
       ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
+      "duration_ms": 162997,
+      "name": "Dinsdag",
+      "url": "https://open.spotify.com/track/5EI94cNPh81RIh1NZy5qqR"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
+        "name": "Sad B!tch",
+        "url": "https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB"
+      },
+      "artists": [
+        {
+          "name": "CLIP",
+          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
+        }
+      ],
+      "duration_ms": 135069,
+      "name": "Sad B!tch",
+      "url": "https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
         "name": "VF VOL II",
         "url": "https://open.spotify.com/album/7AXixkDgPe0WxaVuwD4qT1"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Sad B!tch",
-        "url": "https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB"
-      },
-      "artists": [
-        {
-          "name": "CLIP",
-          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
-        }
-      ],
-      "duration_ms": 135069,
-      "name": "Sad B!tch",
-      "url": "https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 218146,
       "name": "Pharaohs",
       "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "Tell Me Your Fears",
+        "url": "https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 134750,
+      "name": "Tell Me Your Fears",
+      "url": "https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1691,22 +1707,6 @@
     {
       "added_at": "2022-10-26 17:46:30",
       "album": {
-        "name": "Hot Space",
-        "url": "https://open.spotify.com/album/0fZCqpTHYq2k89uG6pPTYE"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Cool Cat",
-      "url": "https://open.spotify.com/track/1xD8LOLKZTBWp7SXQrUANX"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
         "name": "Free Form Mixtape",
         "url": "https://open.spotify.com/album/73rCTj22iO75ygdt5uoj31"
       },
@@ -1719,6 +1719,22 @@
       "duration_ms": 147666,
       "name": "Baby Pillz",
       "url": "https://open.spotify.com/track/1PVH01aOkNQ6PzxT4Lqtfm"
+    },
+    {
+      "added_at": "2022-10-26 17:46:30",
+      "album": {
+        "name": "Hot Space",
+        "url": "https://open.spotify.com/album/0fZCqpTHYq2k89uG6pPTYE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Cool Cat",
+      "url": "https://open.spotify.com/track/1xD8LOLKZTBWp7SXQrUANX"
     },
     {
       "added_at": "2022-10-26 17:46:30",
@@ -1771,22 +1787,6 @@
       "duration_ms": 133085,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/58NhjNniLzv9moIlOzPQGp"
-    },
-    {
-      "added_at": "2022-10-26 17:46:30",
-      "album": {
-        "name": "Tell Me Your Fears",
-        "url": "https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 134750,
-      "name": "Tell Me Your Fears",
-      "url": "https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj"
     },
     {
       "added_at": "2022-10-26 17:46:30",

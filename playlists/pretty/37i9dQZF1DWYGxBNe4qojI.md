@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 ### [I Love My East Coast Classics](https://open.spotify.com/playlist/37i9dQZF1DWYGxBNe4qojI)
 
-> Where it all started\. Cover: Ja Rule
+> Where it all started\. Cover: Mase
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,681 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,841 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 49 | [MC's Act Like They Don't Know](https://open.spotify.com/track/0snDRsjNRMJhm7SVja8l6J) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [KRS\-One](https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x) | 4:55 |
 | 50 | [Next Level \- Nyte Time Mix](https://open.spotify.com/track/2mehHNForRahnPueLQAgfv) | [Showbiz & A.G.](https://open.spotify.com/artist/1U0EFT6jsUpEXAaWesmxAz) | [Goodfellas](https://open.spotify.com/album/1DKIWe0KC9j4psJ7pi7CDu) | 4:09 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDg0OTE5ZGJmMWNiZTljODU2ZTNhMjhlOWVhMTBlNTU2`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGYwYTFjYmNhZDhjNDhhZTUyZDU0NzQyYjFjNWQwNjlk`

@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-535 songs - 1 day 6 hr 42 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+536 songs - 1 day 6 hr 46 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Dance in the milk \(2022 ver.\) \[self cover\]](https://open.spotify.com/track/7bgcEHorknq6kTmKnVfZrT) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [Dance in the milk \(2022 ver.\)](https://open.spotify.com/album/4Jw75NaHjQqW8rtpGRHfHo) | 2:29 | 2022-06-09 | 2022-07-29 |
 | [Deadstock](https://open.spotify.com/track/1h3XEx3bmfIARIJQqE3NA5) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [きのぽっぽ](https://open.spotify.com/artist/7wELjvjV3KJdFtxYlZ5bhf) | [Deadstock](https://open.spotify.com/album/4Z9igjlzrOpnidH6MwRhEc) | 3:19 | 2022-08-25 | 2022-09-28 |
 | [Decorative](https://open.spotify.com/track/7wBOCKLFaa8lIr3RdCgmON) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x) | [Decorative](https://open.spotify.com/album/1ARHlIwUu9EyTp5Tqabg51) | 3:30 | 2022-07-07 | 2022-07-27 |
-| [Did you see the sunrise?](https://open.spotify.com/track/0EU7CcoQReLDXH3gxQ2nWS) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Did you see the sunrise?](https://open.spotify.com/album/0KrSzLWONtvMW31gvcKDxa) | 3:43 | 2022-10-27 |  |
+| [Did You See the Sunrise?](https://open.spotify.com/track/2cB1MH2DJ5G9LivP0GTSDz) | [Chogakusei](https://open.spotify.com/artist/2sSxUi7Qg7hVHo7345VSLz) | [Did You See the Sunrise?](https://open.spotify.com/album/5o5efTNvsUAtn0UUrmigwp) | 3:43 | 2022-10-27 |  |
+| [Did you see the sunrise?](https://open.spotify.com/track/0EU7CcoQReLDXH3gxQ2nWS) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Did you see the sunrise?](https://open.spotify.com/album/0KrSzLWONtvMW31gvcKDxa) | 3:43 | 2022-10-27 | 2022-10-29 |
 | [Distance](https://open.spotify.com/track/0SzgRifXiBPqnz4tVN8D2N) | [SpendyMily](https://open.spotify.com/artist/5yJWbZhLyZZa6u3yi0mcY0) | [Distance](https://open.spotify.com/album/7hIUhvdx5zQJcg9ppXjSdj) | 4:26 | 2022-06-16 | 2022-06-20 |
 | [Don't Stop the DOKKYUN!!](https://open.spotify.com/track/04SaykXEj1ZWwjqJAiTdbe) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [Don't Stop the DOKKYUN!!](https://open.spotify.com/album/7mkuJn3G6P87OcuLcoKYuE) | 4:08 | 2022-07-14 | 2022-07-16 |
 | [Dorothy](https://open.spotify.com/track/3ZmHr5x6Ta89QaAIjGvmTN) | [KANKAN](https://open.spotify.com/artist/6ZnELeGt16sNYfx3CcTh9d), [Chogakusei](https://open.spotify.com/artist/2sSxUi7Qg7hVHo7345VSLz) | [Dorothy](https://open.spotify.com/album/15HbjaFyq0GZQxpbggYPzl) | 3:02 | 2022-08-05 | 2022-08-17 |

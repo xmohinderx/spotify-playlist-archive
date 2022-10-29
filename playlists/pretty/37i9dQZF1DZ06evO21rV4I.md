@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,538 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,904 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [Caro](https://open.spotify.com/track/7vECrNzGTrvUSAl2pT9Oft) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 4:06 |
 | 50 | [Drogba \(Joanna\) \[feat\. WizKid\]](https://open.spotify.com/track/5Z3H2xgKsw5Sa3p0MGAVnT) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Drogba \(Joanna\) \[feat\. WizKid\]](https://open.spotify.com/album/1YNTbT0uHszzYnMeUIUHCk) | 3:17 |
 
-Snapshot ID: `Mjc3ODEzNjIsMDAwMDAwMDBkYjFjOGEyMTY4ZDIwMzhjMDBlMjhhM2RiN2E0OWIzYg==`
+Snapshot ID: `Mjc3ODI5MTIsMDAwMDAwMDA3NTVhN2NlNTE4NTk4YWEzMTllZjZmZmEyMjk2ZTZiYw==`

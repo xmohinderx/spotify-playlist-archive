@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: Loco & Jam. Artwork: Rewina Beshue.",
-  "num_followers": 135196,
+  "num_followers": 135249,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg2NDM1OSwwMDAwMDAwMGJmZWRlZGUzZjI0M2Y5MTM4NTI3ZjQ5ZTE2MjUxODBk",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDQ3MWE0MzZkZjU2NTBlMWIzYzc4ODdlNTBmYjA0YTM5",
   "tracks": [
     {
       "added_at": "2022-10-05 04:00:00",
@@ -207,6 +207,22 @@
       "duration_ms": 181133,
       "name": "Dance Like You",
       "url": "https://open.spotify.com/track/2TAHGGbmtwtlH47hZLYWzu"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "We'll Maintain",
+        "url": "https://open.spotify.com/album/2PA2vTLplYN9RJEVyIdMbD"
+      },
+      "artists": [
+        {
+          "name": "Olive T",
+          "url": "https://open.spotify.com/artist/0zBBG1zpWWiF5OZYSoD1Ud"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "We'll Maintain",
+      "url": "https://open.spotify.com/track/23zt3ZGWNVbSIAIgyn0ZAz"
     },
     {
       "added_at": "2022-10-19 04:00:00",

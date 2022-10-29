@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 ### [Hip\-Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest out now in Hip Hop...Cover: Cover: <a href="https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=gwinmx4jQ\_eb8Vt2pnJHWQ">A\-Reece</a>
+> Only the hottest out now in Hip Hop...Cover: Cover: <a href="https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=NuAY1BDPTwyYoglT09e7PQ">Blxckie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,801 likes - 78 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,861 likes - 78 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 42 | [BET](https://open.spotify.com/track/3TJTvFCoVZaWWTRuaIPkMl) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [BET](https://open.spotify.com/album/3LSep2wdPolkSYoB1QB7IV) | 2:34 |
 | 43 | [Forever \(feat\. Fridayy\)](https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:47 |
 | 44 | [Khuphuka](https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Khuphuka](https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj) | 3:03 |
-| 45 | [Love In The Way](https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7) | [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love In The Way](https://open.spotify.com/album/4sc3Nc9o5sCni7SCPsKE4t) | 3:41 |
+| 45 | [Love In The Way](https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7) | [Yung Bleu](https://open.spotify.com/artist/0jZSz5yJzCKrPJ7Fo8rdBW), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love In The Way](https://open.spotify.com/album/4sc3Nc9o5sCni7SCPsKE4t) | 3:41 |
 | 46 | [Truth](https://open.spotify.com/track/667Z6mId3zPL0Eg9oWkkTy) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Truth](https://open.spotify.com/album/2QRgLpkAKI9YvmBGrI4A1w) | 2:23 |
 | 47 | [Sta Soft](https://open.spotify.com/track/1rc0ZjnYsncDh81BHyFRQ6) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa) | [Sta Soft](https://open.spotify.com/album/59Vl3fXba0pHYimUkuTzqV) | 3:25 |
 | 48 | [Bit W The Fangs \(feat\. Gunna & Nechie\)](https://open.spotify.com/track/0GM5C22p1n4LH4vO1oPfTh) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Nechie](https://open.spotify.com/artist/0DO5d7KMv6Gn1mIbDhlyUf) | [Bit W The Fangs \(feat\. Gunna & Nechie\)](https://open.spotify.com/album/5ZYSOwcQ5wqLmAFwyJANnK) | 3:45 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 50 | [Rollin'](https://open.spotify.com/track/3z1B33YJDUYr9Show1dceh) | [Dj Clen](https://open.spotify.com/artist/5FeaMbq2LXxaIkEiigeAfo), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Rollin'](https://open.spotify.com/album/2Hl9b2l48h1c2oAQG4ob0a) | 3:52 |
 | 51 | [Walk](https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Walk/Spin](https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT) | 2:46 |
 | 52 | [Purple Palm Trees](https://open.spotify.com/track/5mVlqgCFNNOeXsRuMltdNQ) | [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Purple Palm Trees](https://open.spotify.com/album/0rymWzprErLF6URdCN8vS9) | 3:32 |
-| 53 | [Life Worth Living](https://open.spotify.com/track/33Tvaro7t9LNhkoJdjrFOR) | [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Life Worth Living](https://open.spotify.com/album/0oUpnpxjgrNJmmmoPgiIag) | 3:01 |
+| 53 | [Life Worth Living](https://open.spotify.com/track/33Tvaro7t9LNhkoJdjrFOR) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Life Worth Living](https://open.spotify.com/album/0oUpnpxjgrNJmmmoPgiIag) | 3:01 |
 | 54 | [Ascension](https://open.spotify.com/track/0xh2EPJ6KmDZduw6G3h8dK) | [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Diaspora](https://open.spotify.com/album/3ka1FUfKS7x0Nw2YFd6Pdf) | 2:47 |
 | 55 | [Flawlëss \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:56 |
 | 56 | [Put It On Me](https://open.spotify.com/track/2FWeNvUo79OeiHWoR1bUsO) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Realer 2](https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J) | 2:32 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 77 | [Belem](https://open.spotify.com/track/1NSw9LjdngVmfIA0Bt4gGF) | [Jolly B](https://open.spotify.com/artist/2OgOlMcLNRmEAjnBJE9NFG), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Herc Cut The Lights](https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP) | [Godfather 012](https://open.spotify.com/album/5VY04jxyA7UTQleRnCUUkF) | 3:46 |
 | 78 | [Till The Wheels Fall Off \(feat\. Lil Durk & Capella Grey\)](https://open.spotify.com/track/2oExMFdhTMgBTbHUvMJaC4) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 5:11 |
 
-Snapshot ID: `MTY2NjkwODE5NSwwMDAwMDAwMGJkOWI0MzQ4YmVmZDUyMmNjM2IxYzkxM2U1MTJjYjJh`
+Snapshot ID: `MTY2Njk1MTg2MywwMDAwMDAwMGRmZTkyMjE2ZTJlOThhY2I2NmQ0ZWE3NWQ1NzFkNmUz`

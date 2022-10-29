@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/0SO2tmZiqgP598lHIoWHI5"
+      },
+      "artists": [
+        {
+          "name": "Benji Noor",
+          "url": "https://open.spotify.com/artist/2mOREdC2cTAtN4ErgjQcHC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205543,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/76UpEg41caDocHgeJKVBFw"
+    },
+    {
+      "album": {
         "name": "A Whole New World",
         "url": "https://open.spotify.com/album/2GNzMTxI3aQ8GJUYfM4yGH"
       },
@@ -458,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/2SRk0VQmycefU6s6GY7uNc"
+      },
+      "artists": [
+        {
+          "name": "Payton Howard",
+          "url": "https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204252,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/4fi9D71b3x0bs3vfHAAIro"
+    },
+    {
+      "album": {
         "name": "Blinding Lights (Piano Instrumental)",
         "url": "https://open.spotify.com/album/6W02DhaFOr3p1PkEOUDLJT"
       },
@@ -559,7 +595,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 167956,
       "name": "Can't Stop The Feeling",
       "url": "https://open.spotify.com/track/5VgeeaV1T4nB79tqNnPti0"
@@ -689,6 +725,24 @@
       "duration_ms": 257890,
       "name": "Danny Boy",
       "url": "https://open.spotify.com/track/5iX5XoYIjAtD4oLlfQlSuw"
+    },
+    {
+      "album": {
+        "name": "Days go By",
+        "url": "https://open.spotify.com/album/3sTJQCVLcCDRpcKlxpaSYW"
+      },
+      "artists": [
+        {
+          "name": "Brand Nor",
+          "url": "https://open.spotify.com/artist/6K82W353kltBs93MJIf2Qq"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Days go By",
+      "url": "https://open.spotify.com/track/0d3EGgegMoXW20DTbrNjL7"
     },
     {
       "album": {
@@ -829,10 +883,46 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 260048,
       "name": "Drivers License",
       "url": "https://open.spotify.com/track/1PgXOzu9gBTlDwuHBrS4gR"
+    },
+    {
+      "album": {
+        "name": "Leave The Door Open",
+        "url": "https://open.spotify.com/album/2wYXx1QLit8JRC9LB7QbHv"
+      },
+      "artists": [
+        {
+          "name": "Vidar Arvidsson",
+          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275652,
+      "name": "Drivers License",
+      "url": "https://open.spotify.com/track/1KNY5yaClbVGYyeGQ9xPGC"
+    },
+    {
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2adgiBmCa5DHpfuXNyrexX"
+      },
+      "artists": [
+        {
+          "name": "Heather Riley",
+          "url": "https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195966,
+      "name": "Easy on me",
+      "url": "https://open.spotify.com/track/5Qxt1qqgNGaoXUb0lSvaJJ"
     },
     {
       "album": {
@@ -865,7 +955,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 191000,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/3oxM8G1Bb0WWR4XTkJKndT"
@@ -1071,6 +1161,24 @@
     {
       "album": {
         "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2adgiBmCa5DHpfuXNyrexX"
+      },
+      "artists": [
+        {
+          "name": "Heather Riley",
+          "url": "https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183947,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/5Gypv4ajIJEZGTDVJuvv4D"
+    },
+    {
+      "album": {
+        "name": "Forever Young",
         "url": "https://open.spotify.com/album/2WSQbJ9oBwXXzCcQgDjyPd"
       },
       "artists": [
@@ -1081,10 +1189,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 166355,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4SSCgMiOi06l74FrQhaHwC"
+    },
+    {
+      "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/5C4bS73ywngd9kdgu9LUKi"
+      },
+      "artists": [
+        {
+          "name": "Patrick Walker-Stiggs",
+          "url": "https://open.spotify.com/artist/3xmMXkcixRYDZpSKT8oLPf"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/5rMhBhSAFfGcfwkEHHejRK"
     },
     {
       "album": {
@@ -1466,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "Hold my hand",
+        "url": "https://open.spotify.com/album/2ksR2QZgzIhoaqf8KHMi9V"
+      },
+      "artists": [
+        {
+          "name": "Susan Suarez",
+          "url": "https://open.spotify.com/artist/7zXgNwttTYAgW38YUb2eon"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Hold my hand",
+      "url": "https://open.spotify.com/track/5UI1e8uQ6PYubk3n3PHtpS"
+    },
+    {
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/5Zrfscw6w38zpd0AYGfW27"
       },
@@ -1517,6 +1661,24 @@
       "duration_ms": 200181,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/6gLTYTjk3Mip3RvCe0OgdF"
+    },
+    {
+      "album": {
+        "name": "I Can't Make You Love Me",
+        "url": "https://open.spotify.com/album/4uWU5s11VFZySwedeqOFuD"
+      },
+      "artists": [
+        {
+          "name": "Lana Jax",
+          "url": "https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157250,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/1n4ExWaFfgudUSyGVlH5nE"
     },
     {
       "album": {
@@ -1826,6 +1988,42 @@
     },
     {
       "album": {
+        "name": "Leave The Door Open",
+        "url": "https://open.spotify.com/album/2wYXx1QLit8JRC9LB7QbHv"
+      },
+      "artists": [
+        {
+          "name": "Vidar Arvidsson",
+          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Kiss Me More",
+      "url": "https://open.spotify.com/track/5CP4T8EAeg1wcWMvKWpTN1"
+    },
+    {
+      "album": {
+        "name": "Leave The Door Open",
+        "url": "https://open.spotify.com/album/2wYXx1QLit8JRC9LB7QbHv"
+      },
+      "artists": [
+        {
+          "name": "Vidar Arvidsson",
+          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260385,
+      "name": "Leave The Door Open",
+      "url": "https://open.spotify.com/track/0Pd8UT4ZfD24bAL61D7DTC"
+    },
+    {
+      "album": {
         "name": "Let Her Go",
         "url": "https://open.spotify.com/album/2uKx68XJqHRTLWjPKq6qhw"
       },
@@ -2042,6 +2240,24 @@
     },
     {
       "album": {
+        "name": "Love theme from The Godfather",
+        "url": "https://open.spotify.com/album/1v9W79VRpBsBrSR2JGZWYo"
+      },
+      "artists": [
+        {
+          "name": "Nova Natale",
+          "url": "https://open.spotify.com/artist/5jEQHHhbzEhqLEXOINws1f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Love theme from The Godfather",
+      "url": "https://open.spotify.com/track/2KC8Z17ndhFsKNxK0J3qZA"
+    },
+    {
+      "album": {
         "name": "All of me",
         "url": "https://open.spotify.com/album/5uMn4dATqQx38OCji41pYu"
       },
@@ -2114,6 +2330,24 @@
     },
     {
       "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/7j3YmhL0zAnbh7jKxHPqei"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/7FqtfUDu66w8sGA61GXDyq"
+    },
+    {
+      "album": {
         "name": "More Than Words",
         "url": "https://open.spotify.com/album/47wXrjLN0MlwWwptEi1JHE"
       },
@@ -2179,10 +2413,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 203332,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/47roQazXWhrHvl61NVGTF2"
+    },
+    {
+      "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/6dNpdBtcDpYkF3rjMe3fx6"
+      },
+      "artists": [
+        {
+          "name": "River May",
+          "url": "https://open.spotify.com/artist/6oTUPROiaMgKm92kbxRXyR"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119855,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/4wye421ZuzNnDkriGPzp8j"
     },
     {
       "album": {
@@ -2240,6 +2492,24 @@
     },
     {
       "album": {
+        "name": "Over The Rainbow",
+        "url": "https://open.spotify.com/album/4ewYdHP2TpZhrdxdCgFQCK"
+      },
+      "artists": [
+        {
+          "name": "Christian Lindquist",
+          "url": "https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209445,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/4FWCkMiJX3Layn0g8P743S"
+    },
+    {
+      "album": {
         "name": "Paint It Black (Piano Instrumental)",
         "url": "https://open.spotify.com/album/772xaFGzw2bjGQHJuqAru4"
       },
@@ -2255,6 +2525,24 @@
       "duration_ms": 175609,
       "name": "Paint It Black (Piano Instrumental)",
       "url": "https://open.spotify.com/track/1JIZyPwBqHje2dzKXoONSy"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/6o5K74D9l5UhzsSNvNu1x1"
+      },
+      "artists": [
+        {
+          "name": "Ivy Parry",
+          "url": "https://open.spotify.com/artist/1yOVQN4qupWRciASq2Fz6I"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136528,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0Q6QAQvZkxtnxiF6ihs5MU"
     },
     {
       "album": {
@@ -2294,6 +2582,24 @@
     },
     {
       "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/7j3YmhL0zAnbh7jKxHPqei"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Positions",
+      "url": "https://open.spotify.com/track/7iBm5kL2A8up9UfqoQLVhg"
+    },
+    {
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/1b9Y5HENJ6zkmYNtrKsVms"
       },
@@ -2309,6 +2615,24 @@
       "duration_ms": 170833,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/2L2QTOdjLXJ8sg0zF9JRa9"
+    },
+    {
+      "album": {
+        "name": "Christmas Lights",
+        "url": "https://open.spotify.com/album/0AArO6paluj1u7vrmEBATx"
+      },
+      "artists": [
+        {
+          "name": "Alana Westwood",
+          "url": "https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250891,
+      "name": "River",
+      "url": "https://open.spotify.com/track/5Jbp8J5xuVv6gd3TBR1Zvk"
     },
     {
       "album": {
@@ -2420,6 +2744,24 @@
     },
     {
       "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/7j3YmhL0zAnbh7jKxHPqei"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142269,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/0dU5cOJuh58MubdzWU8Eqm"
+    },
+    {
+      "album": {
         "name": "Piano Hits Chill",
         "url": "https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS"
       },
@@ -2528,6 +2870,24 @@
     },
     {
       "album": {
+        "name": "Somewhere Over The Rainbow",
+        "url": "https://open.spotify.com/album/7iQ7cBmw7nsBfzDtXck59m"
+      },
+      "artists": [
+        {
+          "name": "Fallegur Tonn",
+          "url": "https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171279,
+      "name": "Somewhere Over The Rainbow",
+      "url": "https://open.spotify.com/track/0eHW2eFgqkMS0HtoWHQSsv"
+    },
+    {
+      "album": {
         "name": "Songbird",
         "url": "https://open.spotify.com/album/0uScauUyfKmQhAIckBMERn"
       },
@@ -2597,6 +2957,24 @@
       "duration_ms": 157000,
       "name": "Stay With Me - Acoustic Guitar",
       "url": "https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx"
+    },
+    {
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/3LLkSZEegIJKeOEq6gpiu3"
+      },
+      "artists": [
+        {
+          "name": "Lightstorm",
+          "url": "https://open.spotify.com/artist/3A3c5aBd5quZVYD2WwVSh8"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182026,
+      "name": "Still Crazy After All These Years",
+      "url": "https://open.spotify.com/track/3PBOZgYsCoNd4Tc3lm4w6l"
     },
     {
       "album": {
@@ -2780,6 +3158,24 @@
     },
     {
       "album": {
+        "name": "The Sound Of Silence",
+        "url": "https://open.spotify.com/album/4KFbcrnL9jdzeTHraMYfQH"
+      },
+      "artists": [
+        {
+          "name": "Noah Jacob",
+          "url": "https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "The Sound Of Silence",
+      "url": "https://open.spotify.com/track/661cehcbDB8Ye74RBORdQa"
+    },
+    {
+      "album": {
         "name": "The Times They Are a-Changin\u2019",
         "url": "https://open.spotify.com/album/7DGRIEOrMEK2ntOLJEQ6US"
       },
@@ -2813,6 +3209,42 @@
       "duration_ms": 257594,
       "name": "The Winner Takes It All",
       "url": "https://open.spotify.com/track/2xwQ6EXa9JNwxCNev9Uzuw"
+    },
+    {
+      "album": {
+        "name": "Theme From Fame",
+        "url": "https://open.spotify.com/album/1SL6Hdtc3Qqtev8U8wxl8G"
+      },
+      "artists": [
+        {
+          "name": "Brett Williams",
+          "url": "https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188377,
+      "name": "Theme From Fame",
+      "url": "https://open.spotify.com/track/7cPAikRrGu1nu5vNHFHZda"
+    },
+    {
+      "album": {
+        "name": "Theme From Love Story",
+        "url": "https://open.spotify.com/album/6H2J0nVhDlwffDOzcID19m"
+      },
+      "artists": [
+        {
+          "name": "Daniel Murphy",
+          "url": "https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203745,
+      "name": "Theme From Love Story",
+      "url": "https://open.spotify.com/track/69u76zurQjRQHJT3RSqxqA"
     },
     {
       "album": {
@@ -3234,6 +3666,24 @@
     },
     {
       "album": {
+        "name": "Wonderful Tonight",
+        "url": "https://open.spotify.com/album/0O80wSJC001dU86jB8OKUR"
+      },
+      "artists": [
+        {
+          "name": "Saken Ball",
+          "url": "https://open.spotify.com/artist/20APR8hr4zLQDIqGRCBZs9"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131134,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/2dx7u7nfi5Z5o8HqUbLtX9"
+    },
+    {
+      "album": {
         "name": "Wonderwall",
         "url": "https://open.spotify.com/album/5nBdxHBN2bSn9XlqEvtAks"
       },
@@ -3249,6 +3699,24 @@
       "duration_ms": 174000,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/5YO7hivGzpGctGedUVRmFv"
+    },
+    {
+      "album": {
+        "name": "Leave The Door Open",
+        "url": "https://open.spotify.com/album/2wYXx1QLit8JRC9LB7QbHv"
+      },
+      "artists": [
+        {
+          "name": "Vidar Arvidsson",
+          "url": "https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151484,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/6HWTR9SN6kjWSirXAq9tXI"
     },
     {
       "album": {
@@ -3317,7 +3785,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 272874,
       "name": "You'll Be In My Heart",
       "url": "https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs"

@@ -8352,6 +8352,36 @@
     },
     {
       "album": {
+        "name": "Qafira",
+        "url": "https://open.spotify.com/album/4dfn3T0oQIu4rZuJLPz7ua"
+      },
+      "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Saajz",
+          "url": "https://open.spotify.com/artist/2a2ivn274wtLKBnjDYa07b"
+        },
+        {
+          "name": "Paras Chhabra",
+          "url": "https://open.spotify.com/artist/0nXpSLjOlS1x3tkceC07Xr"
+        },
+        {
+          "name": "Mahira Sharma",
+          "url": "https://open.spotify.com/artist/0o5cnfOKpV0THKVRD0HwBO"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238666,
+      "name": "Qafira",
+      "url": "https://open.spotify.com/track/2yE543074fy9yQlCZgYb4P"
+    },
+    {
+      "album": {
         "name": "Qaid",
         "url": "https://open.spotify.com/album/0FtNpPcLUE9clSDX4XOEW6"
       },
@@ -9725,6 +9755,10 @@
         {
           "name": "Jordan Sandhu",
           "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
         }
       ],
       "date_added": "2022-10-25",

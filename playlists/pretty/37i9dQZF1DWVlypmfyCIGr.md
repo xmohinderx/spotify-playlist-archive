@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: とた
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,011 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,098 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 13 | [Omatsuri sawagi](https://open.spotify.com/track/2XlrPQfIvJPUcTU5BfjRbR) | [BATTEN GIRLS](https://open.spotify.com/artist/4xhjJZS6jLaPkdRdDcr2rj) | [CUE\-SAI](https://open.spotify.com/album/0RAjkHb4GSnlS9EY3dILkk) | 3:44 |
 | 14 | [Isshin Doutai](https://open.spotify.com/track/2VNm0wXdJlrOFhkeloDKbv) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Isshin Doutai](https://open.spotify.com/album/3mLdDjsxAv8NJI0u4UBVWw) | 3:18 |
 | 15 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 |
-| 16 | [Umikaze no Monologue](https://open.spotify.com/track/4738WpIvtp7gautXrTtSsw) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Umikaze no Monologue](https://open.spotify.com/album/39cGk6J25lOSg0ZFK1PuT0) | 4:20 |
+| 16 | [Umikaze No Monologue](https://open.spotify.com/track/5P5BTWHMMsyCMsL9kAwpQd) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 4:20 |
 | 17 | [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 |
 | 18 | [UMBER](https://open.spotify.com/track/7dxrgQktkyu0KHfrnJKzL0) | [ukei.](https://open.spotify.com/artist/0PISjbPSQ6ucHzarrtkLcK) | [UMBER](https://open.spotify.com/album/3Rl7uFMqXA6Y03z7VKAuUE) | 3:20 |
 | 19 | [月に吠える](https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [月に吠える](https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3) | 3:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [めいびー](https://open.spotify.com/track/6AXJ3EZVbAOzTH3ws1YcXS) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [めいびー](https://open.spotify.com/album/73ukXUB1rT6LO0axolqRiC) | 2:40 |
 | 80 | [バスタブ・タイムワープ](https://open.spotify.com/track/20Any3LMoV4E3OMiyqdXzR) | [美根](https://open.spotify.com/artist/5NDtujcf6hBmjyLI89Y11g) | [バスタブ・タイムワープ](https://open.spotify.com/album/556cAg3lVjho87iG6LVndB) | 5:11 |
 
-Snapshot ID: `MTY2NjYyMzYwMCwwMDAwMDAwMGU0OGUxMWRhYjcxMDk2YTI5NGI5Y2FiNmMzZjZjNzM1`
+Snapshot ID: `MTY2NjYyMzYwMCwwMDAwMDAwMDQzNDIzNDVmNWM4NDM5MzlhNGIyZGFkZTFjOGQzYzU1`

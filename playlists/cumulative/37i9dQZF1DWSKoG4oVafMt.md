@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jas
 
-594 songs - 1 day 8 hr 11 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+595 songs - 1 day 8 hr 14 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Push K Dekhi](https://open.spotify.com/track/0y1DEvhc5BVrGwaRJxDUOP) | [KB Jatt](https://open.spotify.com/artist/06Dzu1H3Ny8F7gHJt5TkKJ) | [Push K Dekhi](https://open.spotify.com/album/4FwbqDE4VU746zF8eXtDdh) | 2:29 | 2022-04-29 | 2022-05-11 |
 | [Pyar Karda \- From "Lover"](https://open.spotify.com/track/3Y5h0lvg9eYqkw8VFtddr8) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Pyar Karda \(From "Lover"\)](https://open.spotify.com/album/0guW2lry5P9J01EV23mwKQ) | 3:31 | 2022-05-31 |  |
 | [Pyar Nal](https://open.spotify.com/track/1KyitUYIbvPmWTYG6uByWh) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5) | [Left Alone](https://open.spotify.com/album/7EYv1SkECBOZ7xOfCkHJzc) | 2:37 | 2022-10-25 |  |
+| [Qafira](https://open.spotify.com/track/2yE543074fy9yQlCZgYb4P) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Saajz](https://open.spotify.com/artist/2a2ivn274wtLKBnjDYa07b), [Paras Chhabra](https://open.spotify.com/artist/0nXpSLjOlS1x3tkceC07Xr), [Mahira Sharma](https://open.spotify.com/artist/0o5cnfOKpV0THKVRD0HwBO) | [Qafira](https://open.spotify.com/album/4dfn3T0oQIu4rZuJLPz7ua) | 3:58 | 2022-10-28 |  |
 | [Qaid](https://open.spotify.com/track/6FVA4ByYR7Pr5DZu1BVX8H) | [Sony Dhaliwal](https://open.spotify.com/artist/6FD9Ilq8AMNw9TBttNxDTw) | [Qaid](https://open.spotify.com/album/0FtNpPcLUE9clSDX4XOEW6) | 2:24 | 2022-02-04 | 2022-02-12 |
 | [QUEEN](https://open.spotify.com/track/6RwJPJVrPqi734Rg8syWFM) | [A Kay](https://open.spotify.com/artist/4ZPiabRclxJHc90C0eY8xh) | [QUEEN](https://open.spotify.com/album/1XhqqmtDLfZPh2BiJYygcc) | 3:42 | 2022-05-04 | 2022-05-11 |
 | [Queen](https://open.spotify.com/track/4xgtIHxjxYP33N4KBiTQay) | [Tera Sahib](https://open.spotify.com/artist/0r5sAOkjWfAbTbev99azaS) | [Queen](https://open.spotify.com/album/4FOXrgqdNcFI4AgxmyZVoC) | 2:51 | 2022-01-27 | 2022-02-01 |
@@ -485,7 +486,7 @@
 | [Sira E Hou](https://open.spotify.com/track/31RGhwIcmQg109TxWiHteQ) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Sira E Hou](https://open.spotify.com/album/2Uil84aGsZm6kd2j2FVClR) | 3:20 | 2021-12-02 |  |
 | [Slow\-Mo](https://open.spotify.com/track/5HtPFkvtYUq2ToujMrfFLo) | [Devenderpal Singh](https://open.spotify.com/artist/1jN2Fv5V6wFOU6wRNEod4T) | [Slow\-Mo](https://open.spotify.com/album/6Uv5G5GMcHdmAaWMNtZldN) | 3:20 | 2022-03-21 | 2022-04-06 |
 | [Snap](https://open.spotify.com/track/3eSEpDl4g5ZWWAZ1rSJxXm) | [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Snap](https://open.spotify.com/album/1Zc4roJLxndSHZhxABjsAx) | 2:16 | 2022-08-05 | 2022-08-18 |
-| [Snowfall](https://open.spotify.com/track/33rfzVxhNEBh0tnt2KXbXI) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Snowfall](https://open.spotify.com/album/2YMwWwivQX7z4n3913TPZh) | 3:00 | 2022-10-25 |  |
+| [Snowfall](https://open.spotify.com/track/33rfzVxhNEBh0tnt2KXbXI) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Snowfall](https://open.spotify.com/album/2YMwWwivQX7z4n3913TPZh) | 3:00 | 2022-10-25 |  |
 | [Soch Ke Dasangi](https://open.spotify.com/track/3n1unT5HxZ8m4MPWMWXTVD) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [J Kaur](https://open.spotify.com/artist/0S49jG3jDiXwcbZCG4ggZo) | [Soch Ke Dasangi](https://open.spotify.com/album/62qH5eeqLn93yekIX312qm) | 4:14 | 2022-08-04 |  |
 | [Sohna](https://open.spotify.com/track/56MH70mJQMUzmMACys5ePe) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 4:15 | 2022-02-02 | 2022-04-06 |
 | [Sohna \(From "Main Te Bapu"\)](https://open.spotify.com/track/1hsHE3SjSVrlzAnSK7lKQH) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Mix Singh](https://open.spotify.com/artist/37nRatUj06EqzpTJNpMuRc) | [Sohna \(From "Main Te Bapu"\)](https://open.spotify.com/album/7iIY4LG4qMEeCRkGfWsk9K) | 2:14 | 2022-04-18 | 2022-04-29 |

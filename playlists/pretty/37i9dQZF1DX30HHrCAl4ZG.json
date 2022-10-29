@@ -1,29 +1,13 @@
 {
-  "description": "The pulse of new indie rock. Cover: Hotel Ugly",
-  "num_followers": 836114,
+  "description": "The pulse of new indie rock. Featuring new music by The Backseat Lovers.",
+  "num_followers": 836327,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYzMzQ5MSwwMDAwMDAwMGU4ZDhhOGY5M2Q0YzMyMWFiMWEwYTE0Y2E1NzQxYmRi",
+  "snapshot_id": "MTY2NjkyOTkwMCwwMDAwMDAwMDdhYWM0NGZkZGVkYWY4YjUyMjI1MzUyNzNhZWMwNzlh",
   "tracks": [
-    {
-      "added_at": "2022-10-14 07:40:00",
-      "album": {
-        "name": "The Mannequin Song",
-        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 164197,
-      "name": "The Mannequin Song",
-      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
-    },
     {
       "added_at": "2022-09-30 05:45:00",
       "album": {
@@ -41,20 +25,52 @@
       "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
     },
     {
-      "added_at": "2022-07-18 20:46:02",
+      "added_at": "2022-10-28 04:05:00",
       "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+        "name": "Waiting to Spill",
+        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
         }
       ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+      "duration_ms": 197746,
+      "name": "Snowbank Blues",
+      "url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln"
+    },
+    {
+      "added_at": "2022-10-14 07:40:00",
+      "album": {
+        "name": "The Mannequin Song",
+        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 164197,
+      "name": "The Mannequin Song",
+      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "To Let Go",
+        "url": "https://open.spotify.com/album/66Vkva6n6mO7oWJEUyEA4N"
+      },
+      "artists": [
+        {
+          "name": "Quarters of Change",
+          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
+        }
+      ],
+      "duration_ms": 199263,
+      "name": "To Let Go",
+      "url": "https://open.spotify.com/track/7ybxuSL3NzBDlshVO9Vhul"
     },
     {
       "added_at": "2022-10-14 07:40:00",
@@ -73,42 +89,26 @@
       "url": "https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN"
     },
     {
-      "added_at": "2022-09-23 05:48:00",
+      "added_at": "2022-07-18 20:46:02",
       "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
-      "added_at": "2022-10-21 13:12:31",
+      "added_at": "2022-09-30 05:45:00",
       "album": {
-        "name": "Inner World Peace",
-        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 313375,
-      "name": "Empty Head",
-      "url": "https://open.spotify.com/track/54DjNRB4TFeXOpRMBJyNv3"
-    },
-    {
-      "added_at": "2022-10-21 13:12:31",
-      "album": {
-        "name": "The Car",
-        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+        "name": "Body Paint",
+        "url": "https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0"
       },
       "artists": [
         {
@@ -116,41 +116,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 191173,
-      "name": "I Ain\u2019t Quite Where I Think I Am",
-      "url": "https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx"
-    },
-    {
-      "added_at": "2022-10-14 07:40:00",
-      "album": {
-        "name": "Oregon / Harvard",
-        "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 198413,
-      "name": "Oregon",
-      "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
-    },
-    {
-      "added_at": "2022-10-14 07:40:00",
-      "album": {
-        "name": "Just Before The Morning",
-        "url": "https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 214497,
-      "name": "Just Before The Morning",
-      "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
+      "duration_ms": 290584,
+      "name": "Body Paint",
+      "url": "https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP"
     },
     {
       "added_at": "2022-10-07 04:05:00",
@@ -167,6 +135,22 @@
       "duration_ms": 185276,
       "name": "After The Earthquake",
       "url": "https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL"
+    },
+    {
+      "added_at": "2022-10-14 07:40:00",
+      "album": {
+        "name": "Just Before The Morning",
+        "url": "https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 214497,
+      "name": "Just Before The Morning",
+      "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
     },
     {
       "added_at": "2022-09-02 10:00:00",
@@ -193,20 +177,68 @@
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
     },
     {
-      "added_at": "2022-10-14 07:40:00",
+      "added_at": "2022-10-21 13:12:31",
       "album": {
-        "name": "Love Will Get You There",
-        "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
+        "name": "Inner World Peace",
+        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
         }
       ],
-      "duration_ms": 250280,
-      "name": "Love Will Get You There",
-      "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
+      "duration_ms": 313375,
+      "name": "Empty Head",
+      "url": "https://open.spotify.com/track/54DjNRB4TFeXOpRMBJyNv3"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/6blr4YVJ0xwdx1qJWBtz76"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hayes",
+          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
+        }
+      ],
+      "duration_ms": 184576,
+      "name": "August",
+      "url": "https://open.spotify.com/track/21Ys4ySXmSWzTWoVLTgNkF"
+    },
+    {
+      "added_at": "2022-09-23 05:48:00",
+      "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "added_at": "2022-10-14 07:40:00",
+      "album": {
+        "name": "Oregon / Harvard",
+        "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 198413,
+      "name": "Oregon",
+      "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
     },
     {
       "added_at": "2022-07-18 20:46:02",
@@ -225,20 +257,20 @@
       "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
     },
     {
-      "added_at": "2022-09-30 05:45:00",
+      "added_at": "2022-10-14 07:40:00",
       "album": {
-        "name": "Body Paint",
-        "url": "https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0"
+        "name": "Love Will Get You There",
+        "url": "https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
         }
       ],
-      "duration_ms": 290584,
-      "name": "Body Paint",
-      "url": "https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP"
+      "duration_ms": 250280,
+      "name": "Love Will Get You There",
+      "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
     },
     {
       "added_at": "2022-10-07 04:05:00",
@@ -273,6 +305,22 @@
       "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
     },
     {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "When I'm Alone",
+        "url": "https://open.spotify.com/album/5ZPH3wJ0PInJmNUZPGhyRq"
+      },
+      "artists": [
+        {
+          "name": "girlpuppy",
+          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+        }
+      ],
+      "duration_ms": 273320,
+      "name": "Permanent State",
+      "url": "https://open.spotify.com/track/6YzDFJrAelOpKFbXoc5NQ1"
+    },
+    {
       "added_at": "2022-10-07 04:05:00",
       "album": {
         "name": "I Think My Mind Has Made Its Mind Up",
@@ -287,6 +335,22 @@
       "duration_ms": 188680,
       "name": "I Think My Mind Has Made Its Mind Up",
       "url": "https://open.spotify.com/track/2oal7Q9v9hFQXFZbaiGNsy"
+    },
+    {
+      "added_at": "2022-10-21 13:12:31",
+      "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "I Ain\u2019t Quite Where I Think I Am",
+      "url": "https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx"
     },
     {
       "added_at": "2022-10-14 07:40:00",
@@ -325,6 +389,42 @@
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
     },
     {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "Air Guitar",
+        "url": "https://open.spotify.com/album/5PETfsInVVeftPNXoLAIqs"
+      },
+      "artists": [
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
+        }
+      ],
+      "duration_ms": 183273,
+      "name": "Air Guitar",
+      "url": "https://open.spotify.com/track/2cTcCo0OwGfvIEAAW6y8NK"
+    },
+    {
+      "added_at": "2022-10-14 07:40:00",
+      "album": {
+        "name": "Turn It On",
+        "url": "https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 270530,
+      "name": "Turn It On",
+      "url": "https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5"
+    },
+    {
       "added_at": "2022-10-21 13:12:31",
       "album": {
         "name": "Everybody's Saying Thursday's The Weekend",
@@ -339,6 +439,22 @@
       "duration_ms": 184333,
       "name": "Everybody's Saying Thursday's The Weekend",
       "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "Armchair",
+        "url": "https://open.spotify.com/album/4HnE1gG5lH24ik2fnxaIoY"
+      },
+      "artists": [
+        {
+          "name": "yungatita",
+          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
+        }
+      ],
+      "duration_ms": 270784,
+      "name": "Armchair",
+      "url": "https://open.spotify.com/track/2bULAzCJpIOvDeyfzjriYf"
     },
     {
       "added_at": "2022-10-21 13:12:31",
@@ -373,56 +489,20 @@
       "url": "https://open.spotify.com/track/2xZYydlyLlFU6cbwofCLAD"
     },
     {
-      "added_at": "2022-10-14 07:40:00",
+      "added_at": "2022-10-28 04:05:00",
       "album": {
-        "name": "Turn It On",
-        "url": "https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19"
+        "name": "Demons at the Dinner Table",
+        "url": "https://open.spotify.com/album/2QxLfEiN0Uo4TXpTBUVDJI"
       },
       "artists": [
         {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "Lucca Dohr",
+          "url": "https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9"
         }
       ],
-      "duration_ms": 270530,
-      "name": "Turn It On",
-      "url": "https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5"
-    },
-    {
-      "added_at": "2022-10-07 04:05:00",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/7KGsbhfYrdhjLO7XPk04zs"
-      },
-      "artists": [
-        {
-          "name": "girlpuppy",
-          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
-        }
-      ],
-      "duration_ms": 231320,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/4rssWNMsh5veaSUEydTAls"
-    },
-    {
-      "added_at": "2022-09-30 05:45:00",
-      "album": {
-        "name": "Blue Copper",
-        "url": "https://open.spotify.com/album/3t9jcAKSyh358dgNlheTqK"
-      },
-      "artists": [
-        {
-          "name": "Quarters of Change",
-          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
-        }
-      ],
-      "duration_ms": 191764,
-      "name": "Blue Copper",
-      "url": "https://open.spotify.com/track/1W7FKWfoWQa0RMJ4ETdnjB"
+      "duration_ms": 124532,
+      "name": "Demons at the Dinner Table",
+      "url": "https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm"
     },
     {
       "added_at": "2022-10-21 13:12:31",
@@ -443,6 +523,22 @@
       "duration_ms": 153337,
       "name": "Peach Fuzz (with Cybertrash)",
       "url": "https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "Dead Hotel",
+        "url": "https://open.spotify.com/album/68QrJJ7prNn28cSlaAk2ZR"
+      },
+      "artists": [
+        {
+          "name": "King No-One",
+          "url": "https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB"
+        }
+      ],
+      "duration_ms": 192953,
+      "name": "Dead Hotel",
+      "url": "https://open.spotify.com/track/1qz7fAa2IVL0vtaswCE445"
     },
     {
       "added_at": "2022-10-14 07:40:00",
@@ -509,22 +605,6 @@
       "url": "https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP"
     },
     {
-      "added_at": "2022-10-21 13:12:31",
-      "album": {
-        "name": "Best of It",
-        "url": "https://open.spotify.com/album/3y7PzZsCSGyuFt1SEqQS8v"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hayes",
-          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
-        }
-      ],
-      "duration_ms": 128276,
-      "name": "Best of It",
-      "url": "https://open.spotify.com/track/1VFng5qzRMHVi0dw5Nqtl0"
-    },
-    {
       "added_at": "2022-10-14 07:40:00",
       "album": {
         "name": "REACH!",
@@ -539,22 +619,6 @@
       "duration_ms": 219069,
       "name": "REACH!",
       "url": "https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK"
-    },
-    {
-      "added_at": "2022-10-14 07:40:00",
-      "album": {
-        "name": "Flip It",
-        "url": "https://open.spotify.com/album/7uPwNCAtu9v9IfFMG9MGGE"
-      },
-      "artists": [
-        {
-          "name": "Bleached",
-          "url": "https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK"
-        }
-      ],
-      "duration_ms": 188898,
-      "name": "Flip It",
-      "url": "https://open.spotify.com/track/3hrWIeRC8jxS2QXhrXtVVT"
     },
     {
       "added_at": "2022-10-14 07:40:00",
@@ -635,22 +699,6 @@
       "duration_ms": 196964,
       "name": "Matador",
       "url": "https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y"
-    },
-    {
-      "added_at": "2022-10-21 13:12:31",
-      "album": {
-        "name": "Perpetual States of Boredom",
-        "url": "https://open.spotify.com/album/6oRFl2fJkYPBAMyRw6Q3GY"
-      },
-      "artists": [
-        {
-          "name": "Deijuvhs",
-          "url": "https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C"
-        }
-      ],
-      "duration_ms": 133567,
-      "name": "Sweet One",
-      "url": "https://open.spotify.com/track/07yN3cbIaYw9LOli6iFEuL"
     },
     {
       "added_at": "2022-10-07 04:05:00",
@@ -1023,22 +1071,6 @@
       "duration_ms": 220123,
       "name": "Buena Park",
       "url": "https://open.spotify.com/track/4ek4nixH3b9vzzSNIKnbLl"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Eggshells",
-        "url": "https://open.spotify.com/album/1a7DBuyuqgQA7cGLvkiJVN"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 151149,
-      "name": "Eggshells",
-      "url": "https://open.spotify.com/track/2JXsy8qz9PzqDwX7ozd4Go"
     },
     {
       "added_at": "2022-09-23 05:48:00",
@@ -1425,22 +1457,6 @@
       "url": "https://open.spotify.com/track/3igEfREloyWh3Y8m4cS8QB"
     },
     {
-      "added_at": "2022-07-01 14:01:58",
-      "album": {
-        "name": "Madison",
-        "url": "https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        }
-      ],
-      "duration_ms": 222573,
-      "name": "Madison",
-      "url": "https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ"
-    },
-    {
       "added_at": "2022-07-22 04:05:00",
       "album": {
         "name": "Come Apart",
@@ -1599,22 +1615,6 @@
       "duration_ms": 209764,
       "name": "Country Club",
       "url": "https://open.spotify.com/track/6nqKsUL0Fd3BQsmQYbh8Zb"
-    },
-    {
-      "added_at": "2022-07-29 04:20:00",
-      "album": {
-        "name": "Ooh! Sumthin' New",
-        "url": "https://open.spotify.com/album/3w6clsgJhlKzGVLzQ6VOfc"
-      },
-      "artists": [
-        {
-          "name": "Charlie Burg",
-          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-        }
-      ],
-      "duration_ms": 285746,
-      "name": "Ooh! Sumthin' New",
-      "url": "https://open.spotify.com/track/21gFDOFAFuXqMrb7TnlwxU"
     },
     {
       "added_at": "2022-07-29 04:20:00",

@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-530 songs - 1 day 22 hr 27 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
+531 songs - 1 day 22 hr 32 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Dream 3 \- Kaitlyn Aurelia Smith Remix](https://open.spotify.com/track/7xCRdeFZy1zwt2ByDpnFTb) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Sleep \(Remixes\)](https://open.spotify.com/album/6pBq7xlUDUChkJZmy4jqD0) | 10:16 | 2021-10-20 | 2022-06-01 |
 | [Dream III](https://open.spotify.com/track/7o5Bk83a6j1RDDCRO0mgiR) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [Reveries](https://open.spotify.com/album/22dTMH215RIO53qzetyNDm) | 10:22 | 2021-10-20 | 2022-07-28 |
 | [Dreams Of Another Reality](https://open.spotify.com/track/65hchHuhzbGL5gJ3wxkQh0) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/414Z4UXOjGS0AdGEbPeJQw) | 3:10 | 2021-10-20 | 2022-10-01 |
-| [Dreams Without Gravity](https://open.spotify.com/track/2aMxrruZ1dkEzrfzshxvs2) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Dreams Without Gravity](https://open.spotify.com/album/17wG2QP1nptifVbKcj8nDG) | 3:04 | 2021-10-20 |  |
+| [Dreams Without Gravity](https://open.spotify.com/track/2aMxrruZ1dkEzrfzshxvs2) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Dreams Without Gravity](https://open.spotify.com/album/17wG2QP1nptifVbKcj8nDG) | 3:04 | 2021-10-20 | 2022-10-29 |
 | [Dreams Without Gravity](https://open.spotify.com/track/2mtnUMRhKEH37RWTlAIKcV) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Dreams Without Gravity](https://open.spotify.com/album/6Dsyoa2ghPXY9crsq8nKqL) | 3:04 | 2021-10-20 | 2022-07-29 |
 | [Dreamy Hamilton](https://open.spotify.com/track/49tC8E9AsTKuGhHCFjKvER) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna](https://open.spotify.com/artist/3WyO8O6doy0PPpBjzjLBrH) | [Dreamy Hamilton](https://open.spotify.com/album/5PUnTkryhkntfdmvzvQeW8) | 4:56 | 2021-10-20 | 2022-07-29 |
 | [Drifting](https://open.spotify.com/track/0xxbmcwp5gBUMdCyRrCQwU) | [ANDYL](https://open.spotify.com/artist/5WKziRzYO7w5akjuzcCr80) | [Drifting](https://open.spotify.com/album/5xgkyekIXYVJrkxM7BPfxz) | 4:50 | 2021-10-20 | 2022-10-27 |
@@ -391,6 +391,7 @@
 | [Shadows \(The Light of Light\)](https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [Shadows \(The Light of Light\)](https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2) | 4:34 | 2021-10-20 |  |
 | [Shifting Waveforms](https://open.spotify.com/track/5AQBGyLSAo7WDcminnWzd7) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Shifting Waveforms](https://open.spotify.com/album/4g5jCuB4W9PgM079v3scP5) | 3:45 | 2021-10-20 | 2022-07-29 |
 | [Shortwave](https://open.spotify.com/track/2hqhIH3UeFZ4Sa2eDpbEMw) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [There's a Riot Going On](https://open.spotify.com/album/32XGOlFpD3mpyLXQfyKXvJ) | 5:44 | 2021-10-20 | 2022-07-29 |
+| [Shortwave](https://open.spotify.com/track/3pwTbqkqTbko4Nds3togoX) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [There’s A Riot Going On](https://open.spotify.com/album/05TwuwqwLCm1V0GimPcXrD) | 5:44 | 2021-10-20 |  |
 | [Silence](https://open.spotify.com/track/1WWe3wNH9u2Z5Hg5GbEQ9A) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Silence](https://open.spotify.com/album/1La939vqONBIqsOFnsUmOr) | 3:00 | 2021-10-20 |  |
 | [Silence](https://open.spotify.com/track/4hDzsyjdmMSA89mHQNgHdO) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Silence](https://open.spotify.com/album/3SS8Pj4KizsVF4d4nHvXOo) | 3:00 | 2021-10-20 | 2022-07-29 |
 | [Silent Memories](https://open.spotify.com/track/3hzfIU0PEGUcUSHViCUybF) | [Calm Shores](https://open.spotify.com/artist/1RY93GxZnarHejky7O46dB) | [Fall Of A Raindrop](https://open.spotify.com/album/3MO1X0bSHAOzy0FuzP44tm) | 4:11 | 2021-10-20 | 2022-04-21 |

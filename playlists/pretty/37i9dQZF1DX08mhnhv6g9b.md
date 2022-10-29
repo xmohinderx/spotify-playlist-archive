@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Experience BTS' Yet To Come live concert with the playlist\. ARMY is unbeatable💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,120,222 likes - 31 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,122,874 likes - 32 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,5 +39,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 29 | [Comment \- Spring Day](https://open.spotify.com/track/2xNl3n0oxcdIZhQ3XDjPvE) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Busan audio liner](https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4) | 1:40 |
 | 30 | [Finale Comment](https://open.spotify.com/track/4UWbsrCitWKVn1idlAg04z) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Busan audio liner](https://open.spotify.com/album/0c0jRAuz4OhGXJPpsOaad4) | 0:45 |
 | 31 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
+| 32 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 |
 
-Snapshot ID: `MTY2NjM1Mzg1NCwwMDAwMDAwMDgxZDlkNjNmZjc0MTQwODRjMzBkOTBhMjYwYjIxNWUy`
+Snapshot ID: `MTY2NjkzNjQ3MCwwMDAwMDAwMDUwNjlkYjRlZmE5MGI3NWFlYzQ0OGQyNmI3YWJlZTYz`

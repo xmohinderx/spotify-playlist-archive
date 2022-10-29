@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 371134,
       "name": "1981",
       "url": "https://open.spotify.com/track/63iBv67DSrEao8sDW3byIe"
@@ -517,6 +517,24 @@
       "duration_ms": 379218,
       "name": "Angels Cry - Original Mix",
       "url": "https://open.spotify.com/track/0blkpAYbznmcLSQkHM3HxG"
+    },
+    {
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/0t27wEKOc7V1RKMRQUemPE"
+      },
+      "artists": [
+        {
+          "name": "Lampe",
+          "url": "https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365163,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/71kWlO1RX3LoRTrIJgbDwA"
     },
     {
       "album": {
@@ -5194,6 +5212,24 @@
     },
     {
       "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221669,
+      "name": "Resonate",
+      "url": "https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7"
+    },
+    {
+      "album": {
         "name": "Consciousness EP",
         "url": "https://open.spotify.com/album/4Ma7zKHZ7rdurZMOkVu4LO"
       },
@@ -5552,6 +5588,24 @@
     },
     {
       "album": {
+        "name": "Sector Unu",
+        "url": "https://open.spotify.com/album/3Z5rHq4zdx88C67xdmaY9G"
+      },
+      "artists": [
+        {
+          "name": "Simina Grigoriu",
+          "url": "https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317538,
+      "name": "Sector Unu",
+      "url": "https://open.spotify.com/track/2FF5J77Rienbt1gh44npLa"
+    },
+    {
+      "album": {
         "name": "Seelenfinsternis",
         "url": "https://open.spotify.com/album/0jXwEL5UAxXWrb4Ad2dn0v"
       },
@@ -5581,7 +5635,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 415077,
       "name": "Sense",
       "url": "https://open.spotify.com/track/76543PV6WgeJ3RAZiY9XIk"
@@ -5621,7 +5675,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 240123,
       "name": "Sex and the Machine",
       "url": "https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1"
@@ -5661,6 +5715,24 @@
       "duration_ms": 412795,
       "name": "Shift",
       "url": "https://open.spotify.com/track/4q1Pi82KM83zz1YeueS79n"
+    },
+    {
+      "album": {
+        "name": "Simplicity",
+        "url": "https://open.spotify.com/album/6Rtax07UP7eAWbL97dC8fB"
+      },
+      "artists": [
+        {
+          "name": "Anahit Vardanyan",
+          "url": "https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401784,
+      "name": "Simplicity",
+      "url": "https://open.spotify.com/track/4pM9FUA8bvHMc3VuL9GgUT"
     },
     {
       "album": {
@@ -6251,7 +6323,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 410909,
       "name": "The Bigger Picture",
       "url": "https://open.spotify.com/track/54n7lhRoNg7WrlFU1mMTWp"
@@ -6684,6 +6756,24 @@
     },
     {
       "album": {
+        "name": "Tonight EP",
+        "url": "https://open.spotify.com/album/5NpM4yflQB8uDiymMbmgBv"
+      },
+      "artists": [
+        {
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344136,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3kEESvip59Vvej6YtzG2HO"
+    },
+    {
+      "album": {
         "name": "Toxic People",
         "url": "https://open.spotify.com/album/3RaHkhI4pg1nM0q7AmMqL7"
       },
@@ -6695,7 +6785,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 413376,
       "name": "Toxic People",
       "url": "https://open.spotify.com/track/75p7aD6YTSBpR3hN6R59E6"

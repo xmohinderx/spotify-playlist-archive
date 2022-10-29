@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 120803,
+  "num_followers": 120815,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM1MTU1NSwwMDAwMDAwMDE0MWYwNzI4NDEyMmExOWVhMjAxZjlhYWE2OGVkMTQ3",
+  "snapshot_id": "MTY2MjM1MTU1NSwwMDAwMDAwMDkzYjlhYjU5Y2NkMGUyM2E2N2Y5MTJjZjhlYjYwNjcx",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Minena",
-        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
-      },
-      "artists": [
-        {
-          "name": "Ranma Entero",
-          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
-        }
-      ],
-      "duration_ms": 275574,
-      "name": "Minena",
-      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Pleamar",
         "url": "https://open.spotify.com/album/0ibQuNCIrCSj9OY5OCSzlT"
       },
@@ -319,22 +303,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Momoto",
-        "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
+        "name": "Minena",
+        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
       },
       "artists": [
         {
-          "name": "Onda Mundial",
-          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
-        },
-        {
-          "name": "Klik & Frik",
-          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
+          "name": "Ranma Entero",
+          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
         }
       ],
-      "duration_ms": 459720,
-      "name": "Momoto",
-      "url": "https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5"
+      "duration_ms": 275574,
+      "name": "Minena",
+      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -351,6 +331,26 @@
       "duration_ms": 226058,
       "name": "Sin control",
       "url": "https://open.spotify.com/track/3VU9lUe99fLz5PD6hlwad7"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Momoto",
+        "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
+      },
+      "artists": [
+        {
+          "name": "Onda Mundial",
+          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
+        },
+        {
+          "name": "Klik & Frik",
+          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
+        }
+      ],
+      "duration_ms": 459720,
+      "name": "Momoto",
+      "url": "https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Ancient Astronauts",
+        "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
+      },
+      "artists": [
+        {
+          "name": "Bertoldi",
+          "url": "https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE"
+        }
+      ],
+      "duration_ms": 415971,
+      "name": "Forerunner",
+      "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Pebbles Mind Horrors",
         "url": "https://open.spotify.com/album/2IwGCkhGFRnn0ojOZRyESl"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 370886,
       "name": "Pebbles Mind Horrors",
       "url": "https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Ancient Astronauts",
-        "url": "https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq"
-      },
-      "artists": [
-        {
-          "name": "Bertoldi",
-          "url": "https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE"
-        }
-      ],
-      "duration_ms": 415971,
-      "name": "Forerunner",
-      "url": "https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde"
     },
     {
       "added_at": "2022-08-18 23:29:09",

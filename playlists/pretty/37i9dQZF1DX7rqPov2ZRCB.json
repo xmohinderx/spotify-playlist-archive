@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 55194,
+  "num_followers": 55226,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMDIwZDNjM2ZlZjZmYTRmNDI3NGVkZDc1NzJlODRmZTMx",
+  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMGNhMTA4ZjI0MDgxOGRkODYwOWQ0ZWQ0NmM2NzBhMDkx",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -711,6 +711,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
+        "name": "Los Numero 1",
+        "url": "https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI"
+      },
+      "artists": [
+        {
+          "name": "El General Larguito",
+          "url": "https://open.spotify.com/artist/0syFtsAFtNjMuF5HKojLvS"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Navidad Sin Mi Madre",
+      "url": "https://open.spotify.com/track/2lZCupBD2NIlB9NFyXSkBf"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
         "name": "Merengues Tipicos los Numero 1",
         "url": "https://open.spotify.com/album/7ddzfJF2k9P2rbg2oiaP3c"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 365600,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/2vJJxPOAPHPYBJqEHl64Oi"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "Los Numero 1",
-        "url": "https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI"
-      },
-      "artists": [
-        {
-          "name": "El General Larguito",
-          "url": "https://open.spotify.com/artist/0syFtsAFtNjMuF5HKojLvS"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Navidad Sin Mi Madre",
-      "url": "https://open.spotify.com/track/2lZCupBD2NIlB9NFyXSkBf"
     },
     {
       "added_at": "2019-09-09 17:49:24",

@@ -649,6 +649,10 @@
         {
           "name": "Paul Kim",
           "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        },
+        {
+          "name": "\uc801\uc7ac",
+          "url": "https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd"
         }
       ],
       "date_added": "2022-05-11",
@@ -1951,12 +1955,20 @@
       },
       "artists": [
         {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
           "name": "\ubc15\uc815\ud604",
           "url": "https://open.spotify.com/artist/5Wi87ZV4pZ5gi5XBPkShX0"
         },
         {
-          "name": "\ud5e8\ub9ac",
-          "url": "https://open.spotify.com/artist/0lZNfUHK4sFzO9aeCCvVcw"
+          "name": "\ud558\ub9bc",
+          "url": "https://open.spotify.com/artist/0iggfisDKuoQUP95u61sXo"
+        },
+        {
+          "name": "\uc784\ud5cc\uc77c",
+          "url": "https://open.spotify.com/artist/5ywKSh5qiIrm603AanHlzO"
         }
       ],
       "date_added": "2022-05-11",
@@ -3404,6 +3416,44 @@
     },
     {
       "album": {
+        "name": "JTBC Begin Again3 Episode 4",
+        "url": "https://open.spotify.com/album/4cO070u2DztR7Y5uziXgpc"
+      },
+      "artists": [
+        {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
+          "name": "\ubc15\uc815\ud604",
+          "url": "https://open.spotify.com/artist/5Wi87ZV4pZ5gi5XBPkShX0"
+        },
+        {
+          "name": "\uc774\uc218\ud604",
+          "url": "https://open.spotify.com/artist/1fFhebE0Xp9u5pUKXIh87a"
+        },
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        },
+        {
+          "name": "\ud558\ub9bc",
+          "url": "https://open.spotify.com/artist/0iggfisDKuoQUP95u61sXo"
+        },
+        {
+          "name": "\uc784\ud5cc\uc77c",
+          "url": "https://open.spotify.com/artist/5ywKSh5qiIrm603AanHlzO"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151683,
+      "name": "There's Nothing Holdin' Me Back (\ub77c\ubca8\ub85c \ubc84\uc2a4\ud0b9 Ver.)",
+      "url": "https://open.spotify.com/track/2emXJZPP0MieQ3TmaL4xUB"
+    },
+    {
+      "album": {
         "name": "JTBC Begin Again3 - Episode 4",
         "url": "https://open.spotify.com/album/4FSRL66a2cLWCHOEcNBqqA"
       },
@@ -3442,39 +3492,25 @@
     },
     {
       "album": {
-        "name": "JTBC Begin Again3 Episode 4",
-        "url": "https://open.spotify.com/album/4cO070u2DztR7Y5uziXgpc"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\uc815\ud604",
-          "url": "https://open.spotify.com/artist/5Wi87ZV4pZ5gi5XBPkShX0"
-        },
-        {
-          "name": "\ud5e8\ub9ac",
-          "url": "https://open.spotify.com/artist/0lZNfUHK4sFzO9aeCCvVcw"
-        },
-        {
-          "name": "\uc218\ud604",
-          "url": "https://open.spotify.com/artist/6RR1f03RomUjsgBYqDk70T"
-        }
-      ],
-      "date_added": "2022-05-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 151683,
-      "name": "There's Nothing holding me back",
-      "url": "https://open.spotify.com/track/2emXJZPP0MieQ3TmaL4xUB"
-    },
-    {
-      "album": {
         "name": "JTBC Begin Again3 Episode 5",
         "url": "https://open.spotify.com/album/4newhTvNndWkbpaq5Xr9XB"
       },
       "artists": [
         {
-          "name": "\ud5e8\ub9ac",
-          "url": "https://open.spotify.com/artist/0lZNfUHK4sFzO9aeCCvVcw"
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        },
+        {
+          "name": "\ud558\ub9bc",
+          "url": "https://open.spotify.com/artist/0iggfisDKuoQUP95u61sXo"
+        },
+        {
+          "name": "\uc784\ud5cc\uc77c",
+          "url": "https://open.spotify.com/artist/5ywKSh5qiIrm603AanHlzO"
         }
       ],
       "date_added": "2022-05-11",

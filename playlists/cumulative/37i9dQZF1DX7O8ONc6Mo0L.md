@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Clovis, Ton Carfi
 
-84 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/2qVFdBscejCMla6A7JhqfJ)
+85 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/2qVFdBscejCMla6A7JhqfJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,11 +59,12 @@
 | [Na Casa](https://open.spotify.com/track/4ogfIbc7uyb6M2btL5VJXj) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Na Casa](https://open.spotify.com/album/3CXvWLGCOKSVO8qI6dDqMN) | 3:11 | 2022-09-02 |  |
 | [Nenhuma Condenação Há](https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 5:14 | 2022-09-02 |  |
 | [Ninguém Explica Deus](https://open.spotify.com/track/4tKdITTT7wvJNvl8c5Qoth) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ninguém Explica Deus](https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3) | 5:01 | 2022-10-07 |  |
-| [No Quarto Com Deus](https://open.spotify.com/track/5lHZfFfNno9z9az0zk06mS) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [No Quarto Com Deus](https://open.spotify.com/album/53SeiqJysDCQ8XymuHdc9l) | 4:01 | 2022-09-30 |  |
+| [No Quarto Com Deus](https://open.spotify.com/track/5lHZfFfNno9z9az0zk06mS) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [No Quarto Com Deus](https://open.spotify.com/album/53SeiqJysDCQ8XymuHdc9l) | 4:01 | 2022-09-30 | 2022-10-29 |
 | [No Secreto](https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [No Secreto](https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K) | 6:50 | 2022-09-02 |  |
 | [Nos Braços do Pai](https://open.spotify.com/track/7sSwgBxIAbYfijM34gTxOw) | [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Nos Braços do Pai](https://open.spotify.com/album/3il2SE9rmAIqStzbzGm94l) | 6:12 | 2022-09-02 |  |
 | [Nova Canção](https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP) | [Felipe Valente](https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev) | [Nova Canção](https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq) | 3:26 | 2022-09-02 |  |
 | [Nova Canção](https://open.spotify.com/track/5JcCic5iKIIb5WMyUuitjv) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN) | [Nova Canção](https://open.spotify.com/album/4mPuEgVk5pp3FB10P7xIJA) | 6:04 | 2022-09-02 | 2022-10-01 |
+| [Novo Amanhã \- Acústico](https://open.spotify.com/track/2nuU37X3MZhc7qtAbZ2dHn) | [Lincoln Baena](https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57), [Adelso Freire](https://open.spotify.com/artist/1ppkWLi1n5n1lIbp1I95i5), [Emerson Bruno](https://open.spotify.com/artist/3uoNRAmPYuLPayKavoXCuf) | [Novo Amanhã \(Acústico\)](https://open.spotify.com/album/4SCZNnhfx52FW8jaJ23FJF) | 4:48 | 2022-10-28 |  |
 | [Nunca Te Deixarei \- Acústico](https://open.spotify.com/track/4GnEfHMHLZaoQU2UiWI3Ku) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Nunca Te Deixarei \(Acústico\)](https://open.spotify.com/album/6wL4XGAa6V2EVJdE08ol55) | 3:21 | 2022-09-02 |  |
 | [Não Mais Escravos \- Acústico](https://open.spotify.com/track/0NW8ucEVIPzLRp4zBhJyv4) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Não Mais Escravos \(Acústico\)](https://open.spotify.com/album/1LC96GSyEYHJaKg6314wB3) | 4:06 | 2022-09-02 |  |
 | [O Dia Que Será Pra Sempre](https://open.spotify.com/track/4stbVaoXgrjq9bCj2SStmG) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN) | [O Dia Que Será Pra Sempre](https://open.spotify.com/album/2KTRJyzvBRhjQpmMJ6m85C) | 4:43 | 2022-09-02 |  |

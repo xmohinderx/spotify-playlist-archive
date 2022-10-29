@@ -1626,6 +1626,24 @@
     },
     {
       "album": {
+        "name": "Heart & Soul",
+        "url": "https://open.spotify.com/album/436wUKlBnir0ZcfpBTLixm"
+      },
+      "artists": [
+        {
+          "name": "Blue",
+          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162801,
+      "name": "Heart & Soul",
+      "url": "https://open.spotify.com/track/43CUlaY5YEGT9FAswTrge2"
+    },
+    {
+      "album": {
         "name": "Heaven [From \"Fifty Shades Freed (Original Motion Picture Soundtrack)\"]",
         "url": "https://open.spotify.com/album/6L3gI00jSEv7LZB7bqt6rq"
       },

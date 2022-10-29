@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: MacKenzie Porter
 
-293 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+296 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/4Y7ze5PDaQSSkvCX3pd5CO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Dark Night \(717 Tapes\)](https://open.spotify.com/album/5KXNYhBpsj5wAHUpdaaKqE) | 2:37 | 2022-03-04 | 2022-07-29 |
 | [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 | 2022-02-04 |  |
 | [Dear Alcohol \(feat\. Elle King\)](https://open.spotify.com/track/2JspXl1hD5EUfyBln7r0F6) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Dear Alcohol feat\. Elle King](https://open.spotify.com/album/23RUi91AHXz67vI3sgpgLS) | 3:08 | 2022-06-10 |  |
+| [Dear West Virginia \(feat\. Brad Paisley and The West Virginia University Choir\)](https://open.spotify.com/track/4wwqujbK9v1epIoFqBaCTO) | [Huey Mack](https://open.spotify.com/artist/5l5JD2LJPnIoVeco82Tk4q), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [The West Virginia University Choir](https://open.spotify.com/artist/7rmjkDIRonGlQqlT9PCG9M) | [The Cozy Bar](https://open.spotify.com/album/1DkIpoAvMaYZblxnERQdje) | 3:10 | 2022-10-28 |  |
 | [Delorean](https://open.spotify.com/track/4K6KyAOSkhGKgLO0SalQET) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:39 | 2022-01-21 |  |
 | [Depression](https://open.spotify.com/track/0yxPUMQsHJXThYjYMoIJU5) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Depression](https://open.spotify.com/album/6O8efloF476sH5FzVzLYSw) | 4:09 | 2022-10-21 |  |
 | [Different Man](https://open.spotify.com/track/2n99h7z08LvHr7Cjcnm1Ub) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:55 | 2022-09-09 |  |
@@ -234,6 +235,7 @@
 | [Short Hills Rd](https://open.spotify.com/track/1BZ5Odd4Y7qYuQ6Yv3wxee) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Short Hills Rd](https://open.spotify.com/album/61UHUB64YbzfBarOkW5M2u) | 3:14 | 2022-06-10 | 2022-10-16 |
 | [Short Hills Rd](https://open.spotify.com/track/4Tz2IuV1BvvvYrdIlcNLST) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Hungover High](https://open.spotify.com/album/5vwpBehIqllJQB4xMrQV0W) | 3:14 | 2022-10-14 |  |
 | [Should Have Known Better](https://open.spotify.com/track/0zpaxKLpHw3zCmiYcvn9OV) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Should Have Known Better](https://open.spotify.com/album/1rx8rmLDRuBdpDxf6Jfd3c) | 2:26 | 2021-12-10 | 2022-02-26 |
+| [Slow](https://open.spotify.com/track/6RXYoYRAvIDlAlHwFO2ytj) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [Slow](https://open.spotify.com/album/7FKTfpN6qcqlNqJ46UAUjT) | 3:08 | 2022-10-28 |  |
 | [Slow Cookin'](https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Slow Cookin' & Soul Food: The 2 Piece Combo](https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC) | 3:28 | 2021-12-10 |  |
 | [Small Town Celebrities](https://open.spotify.com/track/0kSWGhTkRqCEsrmgYpMZBZ) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Small Town Celebrities](https://open.spotify.com/album/7Dy4AHwvi9zSiOYoqOul7Y) | 3:06 | 2021-12-10 | 2022-06-04 |
 | [Small Town On It \(feat\. Chris Lane & Scotty McCreery\)](https://open.spotify.com/track/2QiFOU38C8ZysPm688FBML) | [HIXTAPE](https://open.spotify.com/artist/4SbuhLih8eWLmqFzzmM3AK), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Small Town On It \(feat\. Chris Lane & Scotty McCreery\)](https://open.spotify.com/album/24J2ktZsR0B0rOqsyCeGH6) | 2:56 | 2021-12-10 | 2022-01-08 |
@@ -283,6 +285,7 @@
 | [We Met Too Young](https://open.spotify.com/track/2b81fjvZeVKXWDa2mv9iom) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [We Met Too Young](https://open.spotify.com/album/4M3Ndgpwxd7xJwIXPLrfpF) | 2:31 | 2022-10-14 |  |
 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 | 2022-02-18 |  |
 | [What If We Never Met](https://open.spotify.com/track/4qao4AOEDlrKRL8HVsSrp6) | [Wild Fire](https://open.spotify.com/artist/3R2bn1e34SskxOaoM4XmD2) | [What If We Never Met](https://open.spotify.com/album/6A8oaHU3swEB7fl0nD5nyk) | 3:51 | 2022-02-18 | 2022-10-02 |
+| [What You Waiting On](https://open.spotify.com/track/3IuQhTGbYThnkKKTco4ylf) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [What You Waiting On](https://open.spotify.com/album/4ryBeV911Ub8Z4nEG51dZO) | 2:38 | 2022-10-28 |  |
 | [When the Party's Over](https://open.spotify.com/track/044EoWO4Z6BLhGrK3R5k9h) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Without People \(Deluxe\)](https://open.spotify.com/album/61s6rViH39OjqfrPigQ3cy) | 3:31 | 2021-12-10 | 2022-01-08 |
 | [When's It Gonna Happen](https://open.spotify.com/track/0h0PVL7SoC7l4sJ5AYQZX5) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [When's It Gonna Happen](https://open.spotify.com/album/7nQ3jAmRGhlHQOB66gWtad) | 3:37 | 2022-01-14 |  |
 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 | 2022-04-01 |  |

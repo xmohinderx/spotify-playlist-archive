@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Flyboiz",
-  "num_followers": 455044,
+  "num_followers": 455089,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDBhM2NlZmY0YzY2ZTZmNTQzYjUyYzExODY5MjJkMWFi",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDgzYjVjZmRiZGQ1ZDliZWE5MDc1YTQ3YmZjMzI1MmU1",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Living Life",
-        "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Ta To Saldo",
-      "url": "https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "TRAP DE VERDAD",
         "url": "https://open.spotify.com/album/340fOwgu4ResZDdUJKqV2K"
       },
@@ -1435,6 +1415,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Living Life",
+        "url": "https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Ta To Saldo",
+      "url": "https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "SMILE BIX :)",
         "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
       },
@@ -1447,38 +1447,6 @@
       "duration_ms": 164092,
       "name": "100 TRACKS",
       "url": "https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "POCHOCLOS",
-        "url": "https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP"
-      },
-      "artists": [
-        {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-        }
-      ],
-      "duration_ms": 154478,
-      "name": "22HS",
-      "url": "https://open.spotify.com/track/3cCTNbeGVsoANK3pbLXOz7"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Nena Trampa",
-        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 173959,
-      "name": "Yo Yo y Yo",
-      "url": "https://open.spotify.com/track/2dMp9jC7cpEj9wY8FQ8GMa"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1515,6 +1483,38 @@
       "duration_ms": 362571,
       "name": "Bape (Remix)",
       "url": "https://open.spotify.com/track/3bfb530Lxa1CSKK1VTksBA"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Nena Trampa",
+        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 173959,
+      "name": "Yo Yo y Yo",
+      "url": "https://open.spotify.com/track/2dMp9jC7cpEj9wY8FQ8GMa"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "POCHOCLOS",
+        "url": "https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "duration_ms": 154478,
+      "name": "22HS",
+      "url": "https://open.spotify.com/track/3cCTNbeGVsoANK3pbLXOz7"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Wassap",
-        "url": "https://open.spotify.com/album/1OyaCgNErmRmwpJnyLBo7w"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 165482,
-      "name": "Wassap",
-      "url": "https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/4jXbZdlo97CFzoRodQlB9t"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 224004,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/2wapNEqqu0aiD73B0uSXZA"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Wassap",
+        "url": "https://open.spotify.com/album/1OyaCgNErmRmwpJnyLBo7w"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 165482,
+      "name": "Wassap",
+      "url": "https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Socios I",
+        "url": "https://open.spotify.com/album/4RDh4wYltzycXMyqQqJdAq"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 236500,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/1VL45GP8n9J7NiwYTyWCHf"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "No me retracto",
         "url": "https://open.spotify.com/album/3gRQFlAerNzf009idHlF92"
       },
@@ -1843,26 +1863,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Maldad",
-        "url": "https://open.spotify.com/album/3W4doy1Nh9TLVojSVVhzyf"
-      },
-      "artists": [
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 140285,
-      "name": "Maldad",
-      "url": "https://open.spotify.com/track/5zNBzzGYHiPX6KTfoQX7e2"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Explicita",
         "url": "https://open.spotify.com/album/3LtFl0dohF761jukARAR5L"
       },
@@ -1887,6 +1887,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Maldad",
+        "url": "https://open.spotify.com/album/3W4doy1Nh9TLVojSVVhzyf"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 140285,
+      "name": "Maldad",
+      "url": "https://open.spotify.com/track/5zNBzzGYHiPX6KTfoQX7e2"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "ALI",
         "url": "https://open.spotify.com/album/3XxJvG29FzRuHRW6OGKxUx"
       },
@@ -1899,26 +1919,6 @@
       "duration_ms": 95798,
       "name": "ALI",
       "url": "https://open.spotify.com/track/1Cxtb1K5YI4ssTTmT7TDx5"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Socios I",
-        "url": "https://open.spotify.com/album/4RDh4wYltzycXMyqQqJdAq"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 236500,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/1VL45GP8n9J7NiwYTyWCHf"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Fuma Fuma",
         "url": "https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 190843,
       "name": "Fuma Fuma",
       "url": "https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2759,26 +2759,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Le Gusta la Calle",
-        "url": "https://open.spotify.com/album/2oJZlbgwppyLkQpUuNp249"
-      },
-      "artists": [
-        {
-          "name": "Marconi Impara",
-          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
-        },
-        {
-          "name": "Juliito",
-          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
-        }
-      ],
-      "duration_ms": 196253,
-      "name": "Le Gusta la Calle",
-      "url": "https://open.spotify.com/track/3LdLD6fTpGrUyy9Cn2OvQy"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Paperz",
         "url": "https://open.spotify.com/album/0KtWmfwO53A1QJcXUfnTct"
       },
@@ -2803,6 +2783,26 @@
       "duration_ms": 266883,
       "name": "Paperz",
       "url": "https://open.spotify.com/track/6r190u817cbZYHB85EiUVu"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Le Gusta la Calle",
+        "url": "https://open.spotify.com/album/2oJZlbgwppyLkQpUuNp249"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        },
+        {
+          "name": "Juliito",
+          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "Le Gusta la Calle",
+      "url": "https://open.spotify.com/track/3LdLD6fTpGrUyy9Cn2OvQy"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2967,26 +2967,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Yakelin",
-        "url": "https://open.spotify.com/album/53SCI2RWlni7gwJSE235yU"
-      },
-      "artists": [
-        {
-          "name": "Marconi Impara",
-          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
-        },
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Yakelin",
-      "url": "https://open.spotify.com/track/4ucMC9jo6CJkwBfkHPZHSi"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "64",
         "url": "https://open.spotify.com/album/0d2PsgkIufDXYxeqSZ9Baq"
       },
@@ -3003,6 +2983,26 @@
       "duration_ms": 137052,
       "name": "64",
       "url": "https://open.spotify.com/track/6qwntdVzuBdG3kGC73bcFl"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Yakelin",
+        "url": "https://open.spotify.com/album/53SCI2RWlni7gwJSE235yU"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        },
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Yakelin",
+      "url": "https://open.spotify.com/track/4ucMC9jo6CJkwBfkHPZHSi"
     },
     {
       "added_at": "2022-10-07 04:01:00",

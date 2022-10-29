@@ -4,7 +4,7 @@
 
 > Proudly South African classics\. Cover: <a href="https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3\-HGc030gg">Johnny Clegg</a>
 
-136 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
+137 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [All Eyes on Me \(feat\. Burna Boy, Da L.E.S\. & JR\)](https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Da Les](https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy), [JR](https://open.spotify.com/artist/1a0Wc4pzPAFe5ZFiL1glrr) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 4:18 | 2019-02-03 |  |
 | [Alone](https://open.spotify.com/track/6X6ONFdHcN7spDGroDwxMU) | [Liquideep](https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP) | [Fabrics of the Heart](https://open.spotify.com/album/664vsnEiuBAeaQ979p04Cw) | 5:08 | 2019-02-12 | 2022-07-26 |
 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 | 2019-07-01 |  |
-| [Asimbonanga \(Mandela\)](https://open.spotify.com/track/2l0EoH2zrjQ0XeB9H0oukT) | [Johnny Clegg & Savuka](https://open.spotify.com/artist/7tEJ4G6zzFAmzAfbl6faO4) | [Asimbonanga \(Mandela\)](https://open.spotify.com/album/7CtCTHSK5VosHjDhbfQSx4) | 4:27 | 2018-09-23 |  |
+| [Asimbonanga \(Mandela\)](https://open.spotify.com/track/2l0EoH2zrjQ0XeB9H0oukT) | [Johnny Clegg & Savuka](https://open.spotify.com/artist/7tEJ4G6zzFAmzAfbl6faO4) | [Asimbonanga \(Mandela\)](https://open.spotify.com/album/7CtCTHSK5VosHjDhbfQSx4) | 4:27 | 2018-09-23 | 2022-10-29 |
 | [Asimbonanga \(Mandela\)](https://open.spotify.com/track/3PK6nJvcddecPj2ESgMJAe) | [Johnny Clegg & Savuka](https://open.spotify.com/artist/7tEJ4G6zzFAmzAfbl6faO4), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [The Best of Johnny Clegg \- Juluka & Savuka](https://open.spotify.com/album/5LhbwhBfshZF4MaTCx5kyr) | 4:27 | 2018-09-23 | 2022-07-16 |
 | [Bantu Biko Street \(Orchestra & Vocals\)](https://open.spotify.com/track/5aLrfHXuUkpvlWU1fXqR5R) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [The One Love Movement on Bantu Biko Street](https://open.spotify.com/album/6rjVbgk13C3CefTrktUOWT) | 5:09 | 2019-02-12 | 2022-07-29 |
 | [Bengim'ngaka](https://open.spotify.com/track/7dl5CSZCD7qo8hrrRPMraM) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Tzozo](https://open.spotify.com/artist/3j2kQ3pshmhfVJt5u0Lx2L) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr) | 5:15 | 2018-09-23 |  |
@@ -23,6 +23,7 @@
 | [Blues for a Hip King](https://open.spotify.com/track/6JvT7KcHNeGIzGQUUAdUkA) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ) | [Senzo](https://open.spotify.com/album/2g6zjVX3L0VbyiMuowr5H5) | 6:02 | 2019-02-12 | 2022-07-21 |
 | [Born in a Taxi](https://open.spotify.com/track/3fJ75JKYcfOerkRGj29Plh) | [Blk Sonshine](https://open.spotify.com/artist/3aIW4Jy6FDJrp2a9s1aUZl) | [Blk Sonshine](https://open.spotify.com/album/1qefGgNkasaqJqZquJFahP) | 2:40 | 2019-02-12 | 2022-07-29 |
 | [Bula Boot](https://open.spotify.com/track/0jXSQJ2oamQ9YcW4Ugq8Mm) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Chizboy](https://open.spotify.com/album/1aY6VgE2UhKtmGesDYB4Il) | 5:32 | 2019-02-03 | 2022-10-25 |
+| [Burn Out](https://open.spotify.com/track/0wqorlaFfScZh2Iqf9BvWD) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/3UjSkBMpuXbgOMe9l54ZAw) | 4:54 | 2021-06-27 |  |
 | [Burn Out](https://open.spotify.com/track/1wzXBdFFWIOEKzVG9JmbEm) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/19uCaDMs2fpsvwG5eMqaFG) | 4:54 | 2018-09-23 | 2022-09-25 |
 | [Burn Out](https://open.spotify.com/track/38AtqB4TsqKPnE8yl9xnVh) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Best Of](https://open.spotify.com/album/5I0B6IcTYae0LW5gkLW1Ko) | 4:54 | 2018-09-23 | 2022-07-29 |
 | [Burn Out](https://open.spotify.com/track/42pZrEQeTK8wFryruynyhP) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/2ugAbmeyoFb9qTNQRwcOSe) | 4:54 | 2021-06-27 | 2022-10-14 |

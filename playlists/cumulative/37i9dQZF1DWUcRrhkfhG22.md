@@ -4,11 +4,12 @@
 
 > Funky vocoders and talk boxes.
 
-78 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
+79 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(We Go Together Like\) Saturday & Sunday](https://open.spotify.com/track/40KwK6ekSsxLN1r2XG6ZNQ) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP) | [Loveline](https://open.spotify.com/album/3gIf24xmoiKSq3gVSisAz4) | 2:51 | 2020-09-18 |  |
+| [100 Percent](https://open.spotify.com/track/2EhAOc7H0qXKBK9SDTCcKu) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Friends And Other Necessities](https://open.spotify.com/album/5ECnPA9o4D8IlJRBBaC1fe) | 3:29 | 2022-10-28 |  |
 | [All Yours](https://open.spotify.com/track/2Ve7DnsbG1TBmzSZUdVz0m) | [Ben Maxwell](https://open.spotify.com/artist/6OPUscoxZHZHQ2wUbiQhmR) | [All Yours](https://open.spotify.com/album/0dgErgADgR9uDN5dSaP29f) | 3:23 | 2021-05-14 |  |
 | [Baby \- Short Version](https://open.spotify.com/track/0Wq4qAWGtK2mTX3ljg7Euw) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Baby](https://open.spotify.com/album/0ahizNeWVa0gfdTYyowEka) | 3:07 | 2022-04-01 |  |
 | [Baby Girl](https://open.spotify.com/track/4JNrXBUhRwZiMnO98GrFgn) | [Mofak](https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV) | [Baby Girl](https://open.spotify.com/album/6RI3EgiH5O8H46ASJ1QnNb) | 4:17 | 2020-09-18 |  |

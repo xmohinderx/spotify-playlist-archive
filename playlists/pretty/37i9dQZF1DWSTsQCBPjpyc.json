@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 15673,
+  "num_followers": 15710,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDAxNmY3MDY1NzA3N2UyMmY1NTZjN2EwYWZlN2YzNzMx",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDIzNmQ2OTlkOGJiYTBiZTQ4YWZlOWRiOGUyMmVkMjA3",
   "tracks": [
     {
       "added_at": "2021-12-03 05:02:00",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/2gYivJOIcjugPaCvrNBr9g"
     },
     {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/2jbjjXR9ih6IfAHc387Kra"
-      },
-      "artists": [
-        {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        }
-      ],
-      "duration_ms": 278634,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/20zYmG4UrXddZVz7enehdp"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Turn The Heat Up!",
@@ -387,6 +371,22 @@
       "duration_ms": 229973,
       "name": "I Always Get My Man",
       "url": "https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3"
+    },
+    {
+      "added_at": "2021-12-10 05:01:00",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/2jbjjXR9ih6IfAHc387Kra"
+      },
+      "artists": [
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        }
+      ],
+      "duration_ms": 278634,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/20zYmG4UrXddZVz7enehdp"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "On Tap",
-        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
       },
       "artists": [
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 245826,
-      "name": "Watch Me Move",
-      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
+      "duration_ms": 234906,
+      "name": "When A Woman's Had Enough",
+      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "On Tap",
+        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 245826,
+      "name": "Watch Me Move",
+      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 228667,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 234906,
-      "name": "When A Woman's Had Enough",
-      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -633,6 +633,22 @@
       "url": "https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 244623,
+      "name": "Same Ole Feeling",
+      "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
+    },
+    {
       "added_at": "2022-01-28 05:00:00",
       "album": {
         "name": "Crown",
@@ -651,22 +667,6 @@
       "duration_ms": 183520,
       "name": "Take Me Just As I Am",
       "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 244623,
-      "name": "Same Ole Feeling",
-      "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
     },
     {
-      "added_at": "2021-04-23 04:01:00",
-      "album": {
-        "name": "Fire It Up",
-        "url": "https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn"
-      },
-      "artists": [
-        {
-          "name": "Steve Cropper",
-          "url": "https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S"
-        }
-      ],
-      "duration_ms": 193010,
-      "name": "I'm Not Havin' It",
-      "url": "https://open.spotify.com/track/3ufdOA1Ypl0DwCIcWqLOJl"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Give It Back",
@@ -783,6 +767,22 @@
       "duration_ms": 266426,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS"
+    },
+    {
+      "added_at": "2021-04-23 04:01:00",
+      "album": {
+        "name": "Fire It Up",
+        "url": "https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn"
+      },
+      "artists": [
+        {
+          "name": "Steve Cropper",
+          "url": "https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S"
+        }
+      ],
+      "duration_ms": 193010,
+      "name": "I'm Not Havin' It",
+      "url": "https://open.spotify.com/track/3ufdOA1Ypl0DwCIcWqLOJl"
     },
     {
       "added_at": "2020-12-01 05:01:00",

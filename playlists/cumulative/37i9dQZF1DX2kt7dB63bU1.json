@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 387811,
       "name": "Agua",
       "url": "https://open.spotify.com/track/5oXYiDhcYxKIc6GF5ZVIpB"
@@ -553,6 +553,40 @@
       "duration_ms": 371986,
       "name": "American Tune",
       "url": "https://open.spotify.com/track/1TFgQk7sGm45IsVvglhRTF"
+    },
+    {
+      "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/0DtBUOYQneksvhpLL4yLje"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214103,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/6PftjjaTz5fhrBe2AJvTW4"
     },
     {
       "album": {
@@ -2515,7 +2549,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 258170,
       "name": "Es Magia",
       "url": "https://open.spotify.com/track/4ttZxMbJPndXINPYIrsYsv"
@@ -4402,6 +4436,28 @@
     },
     {
       "album": {
+        "name": "In a Mellow Tone",
+        "url": "https://open.spotify.com/album/7DXr7QMH9a88Ll6r81vCJK"
+      },
+      "artists": [
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        },
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341426,
+      "name": "In a Mellow Tone",
+      "url": "https://open.spotify.com/track/6VN1Tktyqjue8xUQyItXfX"
+    },
+    {
+      "album": {
         "name": "In France they kiss on main street",
         "url": "https://open.spotify.com/album/6EN1IxzMj7MYji81Mt18Hq"
       },
@@ -4573,7 +4629,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 265000,
       "name": "It Was A Very Good Year",
       "url": "https://open.spotify.com/track/37vFLEQMtzQCnZC3Uy0Qtd"
@@ -6535,7 +6591,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 308192,
       "name": "One Day, Forever",
       "url": "https://open.spotify.com/track/4eHwXOVp2HX7e4ZI8CSl06"
@@ -6649,7 +6705,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 161881,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/2MZ8oc2of22fdxkUD4rwLo"
@@ -8823,7 +8879,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 242359,
       "name": "Tiny Hands",
       "url": "https://open.spotify.com/track/3zDS4k6w8j6ngoBKtOVR6F"

@@ -602,6 +602,24 @@
     },
     {
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/2KJcuMGYqkAKIbXa7KGBMF"
+      },
+      "artists": [
+        {
+          "name": "Pacecamp",
+          "url": "https://open.spotify.com/artist/1k3YN6p4gb48dCrbLgwbht"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/18fzuiKvZtQI9qOhi5j3Pv"
+    },
+    {
+      "album": {
         "name": "Coming home to someone",
         "url": "https://open.spotify.com/album/6GSi2ihzkIvHQggLoUxvzp"
       },
@@ -631,7 +649,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 189550,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 169552,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/4HzivF3sC2UOqdwJrXJZfS"
@@ -1687,7 +1705,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 155484,
       "name": "Into the Well",
       "url": "https://open.spotify.com/track/0cSbVRsr50elwoPcp6m2XA"
@@ -2767,7 +2785,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 136285,
       "name": "Square One",
       "url": "https://open.spotify.com/track/0sI1V9eHnuebwAxmGqZ31d"
@@ -2951,6 +2969,24 @@
       "duration_ms": 103132,
       "name": "The Discovery",
       "url": "https://open.spotify.com/track/2SBzLIgiQ7NOrfsdYvudwN"
+    },
+    {
+      "album": {
+        "name": "The little road to Elling Bay",
+        "url": "https://open.spotify.com/album/4PN2TaBXEt9l3RQBERhF96"
+      },
+      "artists": [
+        {
+          "name": "Lavelle Barber",
+          "url": "https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140409,
+      "name": "The little road to Elling Bay",
+      "url": "https://open.spotify.com/track/035spYGRlBWEeGC7Iqj406"
     },
     {
       "album": {
@@ -3221,6 +3257,24 @@
       "duration_ms": 177789,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1fCos6izL2keCsoAtj30Kk"
+    },
+    {
+      "album": {
+        "name": "Weekend Blues",
+        "url": "https://open.spotify.com/album/6oZvFXORprCDaGJ1t0Gmde"
+      },
+      "artists": [
+        {
+          "name": "Hayden Phoenix",
+          "url": "https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185771,
+      "name": "Weekend Blues",
+      "url": "https://open.spotify.com/track/0l7mN70fiUJ0Q3HacqvKEU"
     },
     {
       "album": {

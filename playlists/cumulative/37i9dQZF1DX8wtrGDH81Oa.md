@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-182 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/2U5iwBxMgQ55J0jIhFXqmY)
+185 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/2U5iwBxMgQ55J0jIhFXqmY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Biscuit](https://open.spotify.com/track/5cPmiWqjOg48GPxBdKjzGo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Cool Sneakers](https://open.spotify.com/album/6CLLHgPGTWJ0HfNy9Ob8gD) | 2:59 | 2022-04-15 | 2022-05-11 |
 | [Blue Demons](https://open.spotify.com/track/3Ilx5ch1nI6ioUw1nqbYpk) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [Blue Demons](https://open.spotify.com/album/0QG1EKrQ4IqQAGvCVG3dFb) | 1:59 | 2022-04-15 |  |
 | [Blue Gold](https://open.spotify.com/track/2TU4uc1YAQrWV57fJ7TPk4) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Blue Gold](https://open.spotify.com/album/2eRVCECu1ZfOApQApR9opm) | 3:44 | 2022-04-15 |  |
+| [Blue Lagoon](https://open.spotify.com/track/4D2Es54UxjwYiIxVk4wqTm) | [2GO](https://open.spotify.com/artist/4sYcQIGHFdEjSswfZiwPJK) | [Blue Lagoon](https://open.spotify.com/album/28LOep1LS2XmoPH9RRD5U9) | 2:41 | 2022-10-28 |  |
 | [Blue Line](https://open.spotify.com/track/5uy948cCYu7VhN8A6mGTPv) | [Traingazing](https://open.spotify.com/artist/1AosScBBDX1JEAL6vU8ldj) | [Blue Line](https://open.spotify.com/album/02d2XLNUOQ4MGoEVDGKF72) | 3:43 | 2022-04-15 |  |
 | [Blurred Out](https://open.spotify.com/track/4QgCRg5t83rKvuCTQ11JHj) | [Divulgation](https://open.spotify.com/artist/0OHISbYU0LMw4dMlkGVczm) | [Blurred Out](https://open.spotify.com/album/4cqUGKojyJhyIkunDDqu4A) | 2:28 | 2022-04-15 |  |
 | [Boats](https://open.spotify.com/track/6LgD6X1ckTSAH0J7fhc1h7) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [Boats](https://open.spotify.com/album/4DCapP89AOJsWAAfXGRlvP) | 3:20 | 2022-09-23 |  |
@@ -91,6 +92,7 @@
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2022-04-15 | 2022-07-08 |
 | [Hold U](https://open.spotify.com/track/6CRjHjpt2jl4Ga7TsrtQja) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Hold U](https://open.spotify.com/album/1vXChZQ7cOhiFjsHqAGJng) | 2:35 | 2022-04-15 |  |
 | [Hot Summer](https://open.spotify.com/track/1Huk1qu2Iw8Y220O6aJX0w) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [Hot Summer](https://open.spotify.com/album/3MK2VO9vdpHMGb7RizZ72l) | 2:28 | 2022-04-15 | 2022-05-11 |
+| [Hugger](https://open.spotify.com/track/3ux4JHhP6jaPtQr7xpNYZw) | [Zazzo](https://open.spotify.com/artist/0IqdMYI4CDJgVZiioR7t3k) | [Hugger](https://open.spotify.com/album/5dhlkP3Qp3SxrD4exO5G4S) | 2:15 | 2022-10-28 |  |
 | [Hydralove](https://open.spotify.com/track/7DDKbLDOseP6AAw1yj78W6) | [Jade Shade](https://open.spotify.com/artist/7Ilefc5kqmjsXyPdNExIt3) | [Hydralove](https://open.spotify.com/album/555BCXEOB1b412Bs6PhxrX) | 3:26 | 2022-04-15 |  |
 | [I Can Be Irresistible](https://open.spotify.com/track/60mst0uGpdKZUHQhrPin5N) | [Edoardo Más](https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW) | [I Can Be Irresistible](https://open.spotify.com/album/1OezSXMoxjcWxAALAtOwqz) | 3:12 | 2022-04-15 |  |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2022-04-15 |  |
@@ -172,6 +174,7 @@
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2022-04-15 |  |
 | [Sur Mer](https://open.spotify.com/track/3hyBObu11mMYg6XLJELC5J) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Calm Down Rewind](https://open.spotify.com/album/5DY4s62iEtBsEfwA7PKRqQ) | 4:33 | 2022-04-15 | 2022-05-11 |
 | [Swirling](https://open.spotify.com/track/6rT6BWrpnlGhEFSKPLyyKZ) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Swirling](https://open.spotify.com/album/10iE2kgjrk3KZTtK14ukbX) | 2:58 | 2022-04-15 | 2022-05-11 |
+| [take off](https://open.spotify.com/track/7jTqQ6V5xq5lK6axjVQwWW) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [take off](https://open.spotify.com/album/3RtTbtee2kTycEr5JqLJvS) | 2:31 | 2022-10-28 |  |
 | [Telemagenta](https://open.spotify.com/track/6dIZ5m5HodQA0dv43zFbaQ) | [Mystic Maroon](https://open.spotify.com/artist/6OZYmsIeL1bCzCEgavYXXO) | [Telemagenta](https://open.spotify.com/album/1T42FTkfEl38GaONIK8qkh) | 3:02 | 2022-04-15 |  |
 | [time to cry](https://open.spotify.com/track/6LqDDloFVL2RkcV1ImAyW2) | [robi](https://open.spotify.com/artist/2yRQV9I2707gOoMNQWyEva) | [dreamin' II](https://open.spotify.com/album/1wAVW1mM6A3VDa0KKdT9xb) | 3:14 | 2022-04-15 |  |
 | [U Don't Know Me](https://open.spotify.com/track/15HntUgJrBgxcM19YHweix) | [MOOGADISHU](https://open.spotify.com/artist/0cV2d206HjrISLX6hSkktp) | [U Don't Know Me](https://open.spotify.com/album/5msBbhCc6MIGGAT6rLq5a8) | 2:04 | 2022-04-15 |  |

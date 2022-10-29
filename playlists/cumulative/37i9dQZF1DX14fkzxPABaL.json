@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Alejandro Lerner + Mau y Ricky",
+  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Reik + Rusherking",
   "name": "Enamor\u00e1ndose",
   "published_playlist_ids": [
     "1AAjF0AYqsSQNvAOQluejC"
@@ -23,6 +23,28 @@
       "duration_ms": 128076,
       "name": "24/7 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0qf57jvmIzs9Bam4f3b4t0"
+    },
+    {
+      "album": {
+        "name": "A Mi Lado",
+        "url": "https://open.spotify.com/album/05l6EnHyQrjPhCP24EzjKi"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "A Mi Lado",
+      "url": "https://open.spotify.com/track/5Qw9OHZdAX40qw5hZCU0BS"
     },
     {
       "album": {
@@ -81,7 +103,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 167859,
       "name": "Acaramelao / End\u00falzame los O\u00eddos - Headphone Mix",
       "url": "https://open.spotify.com/track/4nbDc7f97uUIno916znqQM"
@@ -915,7 +937,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 251359,
       "name": "El D\u00eda Que Me Quieras",
       "url": "https://open.spotify.com/track/2tYXqOwmOs1Lx6lUQaM2Mc"
@@ -933,7 +955,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 211693,
       "name": "El Flechazo y la Secuela",
       "url": "https://open.spotify.com/track/4AyfwjVyaU2xXPQlS8AwdL"
@@ -1057,6 +1079,24 @@
       "duration_ms": 178849,
       "name": "Espacio en Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj"
+    },
+    {
+      "album": {
+        "name": "Espina De Rosa - Spotify Singles",
+        "url": "https://open.spotify.com/album/7Hr9xc5g0bm0POgzqC1YHc"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124687,
+      "name": "Espina De Rosa - Spotify Singles",
+      "url": "https://open.spotify.com/track/7LRpdP6rxYXPgh9dfjWEat"
     },
     {
       "album": {
@@ -1860,6 +1900,24 @@
     },
     {
       "album": {
+        "name": "Ni la Mitad",
+        "url": "https://open.spotify.com/album/1dvIWZFecTtk8ZLEEoeAgZ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190337,
+      "name": "Ni la Mitad",
+      "url": "https://open.spotify.com/track/4RVOSlBWNPg5gioxdE7NDE"
+    },
+    {
+      "album": {
         "name": "No Bailes Sola",
         "url": "https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd"
       },
@@ -1901,6 +1959,28 @@
       "duration_ms": 218562,
       "name": "No Hace Falta Que Lo Digas",
       "url": "https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB"
+    },
+    {
+      "album": {
+        "name": "No Hay M\u00e1s",
+        "url": "https://open.spotify.com/album/7hZuz2n7O4UH39agFYIje6"
+      },
+      "artists": [
+        {
+          "name": "Antonio Orozco",
+          "url": "https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "No Hay M\u00e1s",
+      "url": "https://open.spotify.com/track/0uf97jURvAdpFCmM0hdK7w"
     },
     {
       "album": {
@@ -2133,7 +2213,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 201417,
       "name": "Pienso en Ti",
       "url": "https://open.spotify.com/track/2qAkq6NI7BUgZkSJ2zRRYc"
@@ -2315,6 +2395,28 @@
       "duration_ms": 193800,
       "name": "Refugio",
       "url": "https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA"
+    },
+    {
+      "album": {
+        "name": "Salir Con Vida",
+        "url": "https://open.spotify.com/album/3mwKjQSJdQTY0ZdakLi0Vp"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176086,
+      "name": "Salir Con Vida",
+      "url": "https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw"
     },
     {
       "album": {
@@ -2721,7 +2823,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 198701,
       "name": "Tu Despertador",
       "url": "https://open.spotify.com/track/6fWNrtEd8z5ONHUCCiOuBS"

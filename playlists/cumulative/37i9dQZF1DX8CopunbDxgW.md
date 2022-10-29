@@ -2,9 +2,9 @@
 
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 
-> The essential indie dance, featuring Mafro
+> The essential indie dance, featuring obli
 
-633 songs - 1 day 17 hr 27 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
+635 songs - 1 day 17 hr 35 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [3AM](https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [3AM](https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT) | 3:45 | 2022-02-04 |  |
 | [3rd floor](https://open.spotify.com/track/4dOPV2XE1WPHX1lq5OmOoK) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [3rd floor](https://open.spotify.com/album/4MEyXHjdufmgdEHTaeMlCU) | 4:09 | 2022-04-22 | 2022-07-28 |
 | [405 \- Metronomy x Biig Piig](https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [405 \- Metronomy x Biig Piig](https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi) | 4:25 | 2021-09-17 |  |
-| [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 | 2022-05-20 |  |
+| [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 | 2022-05-20 | 2022-10-29 |
 | [A Dedication](https://open.spotify.com/track/7BijkGObSbahOwYpriNHPh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Inside Out](https://open.spotify.com/album/5VSjUsRU41obhoHo0ghMO0) | 3:47 | 2022-05-20 | 2022-07-23 |
 | [A Dream I Have](https://open.spotify.com/track/04IEe7T9LrB5tnrydpSHFg) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [A Dream I Have](https://open.spotify.com/album/7cLFGbjbvNSPZO0dDDEKrQ) | 4:33 | 2021-10-15 | 2022-07-29 |
 | [A Little Piece Of Home](https://open.spotify.com/track/4Me9Q1E4T1JzwOobE8sF6W) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [A Little Piece Of Home](https://open.spotify.com/album/0WNTxXuWRjsP4Z06cMqn4s) | 2:16 | 2022-04-29 | 2022-07-24 |
@@ -110,6 +110,7 @@
 | [Colors \- The Knocks Remix](https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Colors \(The Knocks Remix\)](https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU) | 4:12 | 2021-08-06 | 2022-02-11 |
 | [Comet](https://open.spotify.com/track/2AjTcDZxzAYL6jHrjEPyDE) | [HOLOW](https://open.spotify.com/artist/0iFmnAL0wjQU7r07tV4J09) | [Comet](https://open.spotify.com/album/28ClDQnwMNkaNMRelbS78S) | 2:51 | 2021-07-09 | 2022-01-13 |
 | [Company](https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV) | 3:36 | 2022-06-24 | 2022-07-30 |
+| [Condition](https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:44 | 2022-10-28 |  |
 | [Corsica '80](https://open.spotify.com/track/29ciyzjusw1w1UL22GKS67) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Corsica '80](https://open.spotify.com/album/0TW4O57pYbKTXblJlctE1u) | 4:23 | 2021-08-27 | 2022-05-11 |
 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 | 2022-06-24 |  |
 | [Cry Again](https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Cry Again](https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB) | 3:02 | 2021-12-24 | 2022-02-10 |
@@ -117,6 +118,7 @@
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2022-09-16 |  |
 | [Dark Rain](https://open.spotify.com/track/6nFeqs4DACn0ldbumEshsg) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dark Rain](https://open.spotify.com/album/0qAXFwj59i4PcQyyYMiPP5) | 3:01 | 2021-10-22 | 2022-02-12 |
 | [De Tecidos](https://open.spotify.com/track/5VN37zj6J0yQfTLzKGyFsQ) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [self\-care](https://open.spotify.com/album/3xTy5AFpBDL2qzWoZrNtgz) | 3:05 | 2021-08-20 | 2022-07-19 |
+| [Deeper](https://open.spotify.com/track/6BUzs4g1OvThxUalMhL6b8) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Deeper](https://open.spotify.com/album/0u1EYKJoJFmrBziiziPjBH) | 3:49 | 2022-10-28 |  |
 | [Dhollandia](https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Dhollandia / Circles](https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr) | 6:18 | 2021-09-03 | 2022-07-28 |
 | [Dive](https://open.spotify.com/track/5jtoaV5EaF0lBJ6lHv29Gk) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Dive](https://open.spotify.com/album/0SxN5b4NiWiaBKpCbc01Ed) | 3:46 | 2022-05-06 | 2022-07-15 |
 | [Diversions](https://open.spotify.com/track/76mzQIXE9intMTM056dQvW) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Early Hours](https://open.spotify.com/album/2QTjE4fU8S5krkRDcjKtZj) | 4:53 | 2021-08-27 | 2022-02-09 |
@@ -265,7 +267,7 @@
 | [If You Don't Know Why](https://open.spotify.com/track/4ANsDU0Gq9SAdjg7NJmigI) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl) | [Opening the Door](https://open.spotify.com/album/4PT8J0fOr38VIH5ULZamLh) | 5:57 | 2022-04-08 | 2022-07-29 |
 | [In My Arms \- Edit](https://open.spotify.com/track/2S9ho4Tw8T7oyEPSVYEL2x) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [In My Arms](https://open.spotify.com/album/0fHWRhAXuIpwXPm7HQwHDb) | 3:45 | 2021-08-27 | 2022-07-22 |
 | [In My Arms \- Edit](https://open.spotify.com/track/5ukTUKLwsaThljUaV6IVAs) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Never Enough](https://open.spotify.com/album/0ovBhOM0M8GHUEL7IOLFWP) | 3:45 | 2021-08-27 | 2022-08-12 |
-| [in your eyes](https://open.spotify.com/track/73HRbponIzYwPXVbuc2yAg) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Dom Maker](https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [MK 3.5: In Your Eyes & A Deities Encore \| Q & Quartz](https://open.spotify.com/album/1Go6FfjxKnKipsnWuPJPZb) | 3:28 | 2022-09-09 |  |
+| [in your eyes](https://open.spotify.com/track/73HRbponIzYwPXVbuc2yAg) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Dom Maker](https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [MK 3.5: In Your Eyes & A Deities Encore \| Q & Quartz](https://open.spotify.com/album/1Go6FfjxKnKipsnWuPJPZb) | 3:28 | 2022-09-09 | 2022-10-29 |
 | [Inch Off The Earth](https://open.spotify.com/track/7CwAaS3gJk0UXWL6gbpsmV) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Inch Off The Earth](https://open.spotify.com/album/2lShWP8IyChQAr7zyh7aWW) | 2:51 | 2021-11-05 | 2022-02-12 |
 | [Indecisive \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2tQsKH9WgQSGbuV7GQXeP9) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Indecisive \(feat\. Tommy Genesis\)](https://open.spotify.com/album/1bmFqLkkpsfeAEZoBiV4W6) | 2:15 | 2021-08-13 | 2022-02-25 |
 | [Indica](https://open.spotify.com/track/0zQrFfwCXlrEX7bihjQygO) | [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [Indica](https://open.spotify.com/album/0vO8Z1lJuZOQQaVXxduNn8) | 2:51 | 2021-05-21 | 2022-02-09 |

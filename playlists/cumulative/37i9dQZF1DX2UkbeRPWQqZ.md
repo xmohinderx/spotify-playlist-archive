@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-134 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
+138 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Brahms Lullaby](https://open.spotify.com/track/4XpkimJZpewto3Pdy7fJ0v) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Zzzz](https://open.spotify.com/album/0qNimyY8eJHQRREEcznGGk) | 1:40 | 2021-11-11 | 2022-04-27 |
 | [Brahms Lullaby](https://open.spotify.com/track/6C5G5yWbUSPFiJvfuI1WaK) | [Jeffrey Keller](https://open.spotify.com/artist/3GtDYdKAnt1iA04jpZB0ze) | [Amazing Grace](https://open.spotify.com/album/70Yu1jjbIaVz7Bhp5LsYWD) | 1:52 | 2022-04-26 |  |
 | [Butterfly Fly](https://open.spotify.com/track/2KFKwbjRTXJj0lWKBkBLJX) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Butterfly Fly](https://open.spotify.com/album/5qs4Anclgvr4iTgsexkOX8) | 2:47 | 2021-11-11 |  |
+| [Byssan Lull](https://open.spotify.com/track/6WmVu5QBY4uO0wvUTGfYjw) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Byssan Lull](https://open.spotify.com/album/2Q9FYlKgK2eNIPqfbuq9pI) | 2:34 | 2022-10-28 |  |
 | [Can You Count The Sheep On The Hill](https://open.spotify.com/track/2SNJjNJhrl6pcEKY9eEDnZ) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [When You Sleep I'm Close](https://open.spotify.com/album/1zu2s0djuBWMdytoE9uS8B) | 2:40 | 2021-11-11 |  |
 | [Cuando Duermes](https://open.spotify.com/track/0ynAGgB5TLv14W2HdRytzk) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Cuando Duermes](https://open.spotify.com/album/14tU3MYJORpXh8IyF5Fe4w) | 1:48 | 2022-09-22 |  |
 | [Daisy Bell](https://open.spotify.com/track/1005qYjEgIXFA7gkkhpf43) | [Sonia Campra](https://open.spotify.com/artist/6seSt7No9xstCMTTx9GJy4) | [Daisy Bell](https://open.spotify.com/album/5HC2rS5WLnB7hRakRJZcIY) | 1:46 | 2021-11-11 |  |
@@ -43,6 +44,7 @@
 | [Darling](https://open.spotify.com/track/5z8UiO3h6b7OkHutawKqA8) | [Choo Choo Baby](https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce) | [Darling](https://open.spotify.com/album/7v200Jmm6hv89Ny64j1zox) | 1:15 | 2021-11-11 |  |
 | [Det gåtfulla folket](https://open.spotify.com/track/3LJaPZaJQMDAPd4NWZMnU9) | [Celeste Knight](https://open.spotify.com/artist/1UgS4sDHUIYMiwbzV2LkXl) | [Det gåtfulla folket](https://open.spotify.com/album/4jkbKpDaccNPhnDACXwGOr) | 3:44 | 2021-11-11 |  |
 | [Didn't Leave Nobody But The Baby](https://open.spotify.com/track/0PBh9LFtymLaYnhvd6fe2k) | [Senji Kamal](https://open.spotify.com/artist/06WIFhsuEEEhVPORcRujvv) | [Didn't Leave Nobody But The Baby](https://open.spotify.com/album/2MBM8XF3O3GYRNEVSFd4oF) | 1:35 | 2022-10-14 |  |
+| [Din trygga famn](https://open.spotify.com/track/6JWXQkuARWRDnbW5WpWAjk) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Din trygga famn](https://open.spotify.com/album/4z1QL53Am7BcLI74DLFT78) | 2:06 | 2022-10-28 |  |
 | [Ding Dong](https://open.spotify.com/track/0hFiTplK7CL6dye0HXiWdA) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Ding Dong](https://open.spotify.com/album/53GSVnPKEgXxjgyGNdxj2L) | 2:03 | 2022-10-14 |  |
 | [Do You Know How Many Stars There Are?](https://open.spotify.com/track/63uUcdVFFBPHnBOcOxUijY) | [Michael Kolmstetter](https://open.spotify.com/artist/3AZEqZQrbhVYSO254o3y2L) | [Childhood Memories & Lullabies on Guitar](https://open.spotify.com/album/2cGfYsy7PrcUkRVZEgjfV1) | 2:01 | 2021-11-11 |  |
 | [Doodle Day I Say Hey](https://open.spotify.com/track/2lCbRburWRvoWoJ7ax2hI4) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Doodle Day I Say Hey](https://open.spotify.com/album/1ksilsIko18Ctjf6iEvfy5) | 3:22 | 2021-11-11 |  |
@@ -128,7 +130,8 @@
 | [The Sun Has Set](https://open.spotify.com/track/0IPKK4PN1dP81iivLNdJXq) | [Jules Scott](https://open.spotify.com/artist/0Zwph8W146k7UHJ5BIyB7s) | [The Sun Has Set](https://open.spotify.com/album/6tOclHnzUoh8vCrG3JJLU1) | 1:40 | 2021-11-11 |  |
 | [The Trolls Are Asleep](https://open.spotify.com/track/7xm7X6bejmw1ZzLjpORc37) | [The Instrument Collective](https://open.spotify.com/artist/6UKdx2Uu28llLngOhEf8F0) | [The Trolls Are Asleep](https://open.spotify.com/album/3dWFpCeYMRr7QL61nkUvb3) | 1:39 | 2021-11-11 |  |
 | [The Wheels On The Bus](https://open.spotify.com/track/7IpF6HgZeSeQ4VS3fxbqxw) | [The Singing Guitar](https://open.spotify.com/artist/4HuZFgsc8Y4blxFSzwNTWF) | [Lullabies](https://open.spotify.com/album/6Mk6zRNF5DNBoUo1b8lxpW) | 2:06 | 2021-11-11 |  |
-| [This Old Man](https://open.spotify.com/track/0FFtYy25WDwgdTlKOyFFui) | [Funny Fanny](https://open.spotify.com/artist/1kvETyy8pcVERDBrk7Txdh) | [This Old Man](https://open.spotify.com/album/0iL8y62kdnKlUv0l1n5LLb) | 2:00 | 2021-11-11 |  |
+| [This Old Man](https://open.spotify.com/track/0FFtYy25WDwgdTlKOyFFui) | [Funny Fanny](https://open.spotify.com/artist/1kvETyy8pcVERDBrk7Txdh) | [This Old Man](https://open.spotify.com/album/0iL8y62kdnKlUv0l1n5LLb) | 2:00 | 2021-11-11 | 2022-10-29 |
+| [This Old Man](https://open.spotify.com/track/0W3lwmDR8B83b8puxO89HE) | [Karina Grant](https://open.spotify.com/artist/6z6tjX6FtOo6WOkE8CrLn6) | [This Old Man](https://open.spotify.com/album/6Srd3HVugYrR8GuT98wYFK) | 1:41 | 2022-10-28 |  |
 | [Trollmors vuggevise](https://open.spotify.com/track/1PKjwXKjMSUN1q48vcciui) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Sanger for de minste](https://open.spotify.com/album/73HFQPdPGcT72SGPbNre5h) | 1:43 | 2021-11-11 |  |
 | [Tryggare kan ingen vara](https://open.spotify.com/track/4TDyCo1Vx6pbN5BKvkmP6h) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 1](https://open.spotify.com/album/0BAIYSMDCppH6iFWzA0jEb) | 1:33 | 2021-11-11 |  |
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/6zWt8aRGtbqQ0kGaQIXV0W) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k) | 1:37 | 2021-11-11 |  |
@@ -140,7 +143,8 @@
 | [Whisper](https://open.spotify.com/track/2NXiJEKOISN8R9Frlyb0UV) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Whisper](https://open.spotify.com/album/7mlmp16gqTU2KgrIqbtlwC) | 1:27 | 2022-05-16 |  |
 | [Wobble Bobble](https://open.spotify.com/track/1Hd5NaOb0HqlFsMnud8eIX) | [Mary Donahue](https://open.spotify.com/artist/1yiz1cHWrjaZiEsvU4p4Lg) | [Wobble Bobble](https://open.spotify.com/album/06fbqt6G9BCyE8sYnibtLN) | 2:58 | 2022-07-29 |  |
 | [Yankee Doodle](https://open.spotify.com/track/4mRfFgVV4ipWTYk8Fn4qFD) | [Landon Peterson](https://open.spotify.com/artist/0hGr3mOUfp4HDA3Vjp6EyA) | [Yankee Doodle](https://open.spotify.com/album/5eIHWL3lZNBTMQxZhDOk0L) | 2:00 | 2021-11-11 |  |
-| [You Are My Sunshine](https://open.spotify.com/track/4EDhsaLTb8ho6Gn5K7DnaE) | [Mbese Mahl](https://open.spotify.com/artist/2SMRwhxnKgm8uKApv22Def) | [You Are My Sunshine](https://open.spotify.com/album/31oCF2RhikCvolE115v4tW) | 2:19 | 2021-11-11 |  |
+| [You Are My Sunshine](https://open.spotify.com/track/6nyz1bSoTRCFFU28oMfNTA) | [Dean Dreams](https://open.spotify.com/artist/1TKNjw0zeyr7h15apaCSoN) | [You Are My Sunshine](https://open.spotify.com/album/4fZpFsRvj1NW9p1cKcBCop) | 1:58 | 2022-10-28 |  |
+| [You Are My Sunshine](https://open.spotify.com/track/4EDhsaLTb8ho6Gn5K7DnaE) | [Mbese Mahl](https://open.spotify.com/artist/2SMRwhxnKgm8uKApv22Def) | [You Are My Sunshine](https://open.spotify.com/album/31oCF2RhikCvolE115v4tW) | 2:19 | 2021-11-11 | 2022-10-29 |
 | [You Are Safe In My Arms](https://open.spotify.com/track/4EfpWZIgjHSpetnWAjRCHf) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [When You Sleep I'm Close](https://open.spotify.com/album/1zu2s0djuBWMdytoE9uS8B) | 3:23 | 2021-11-11 |  |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

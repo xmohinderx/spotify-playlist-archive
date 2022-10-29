@@ -4,7 +4,7 @@
 
 > Electro tunes for your virtual world.
 
-301 songs - 17 hr 29 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+302 songs - 17 hr 33 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Back To U \- Matrix & Futurebound Remix](https://open.spotify.com/track/588TIiNqDWazxZcxe2hRIE) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Back To U \(Matrix & Futurebound Remix\)](https://open.spotify.com/album/0wzFfCgkhUXaoAxj5qOBkY) | 4:19 | 2022-01-07 |  |
 | [Be Some Body](https://open.spotify.com/track/25etNFi42QQx8lc97rLp55) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [Be Some Body](https://open.spotify.com/album/1T2D4Si1kGylfXkPj7VjyW) | 3:01 | 2022-05-27 | 2022-10-12 |
 | [Be U](https://open.spotify.com/track/7znA2RT972RoaTUGadY9sa) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Love Power A\-to\-Z](https://open.spotify.com/album/0CZO5xaavRYy16D5sB30S8) | 2:52 | 2022-07-14 | 2022-08-06 |
-| [Be Your Angel \(Android52 REMIX\)](https://open.spotify.com/track/7u2nehnHDXBbgeV3DgvBZP) | [Urbangarde](https://open.spotify.com/artist/0JC8ZhgJmREcWqrhlUL9vo), [Android52](https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG) | [Be Your Angel \(Android52 REMIX\)](https://open.spotify.com/album/58b3cIk2Nspuu0p84eCgcr) | 4:03 | 2022-01-07 |  |
+| [Be Your Angel \(Android52 REMIX\)](https://open.spotify.com/track/7u2nehnHDXBbgeV3DgvBZP) | [Urbangarde](https://open.spotify.com/artist/0JC8ZhgJmREcWqrhlUL9vo), [Android52](https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG) | [Be Your Angel \(Android52 REMIX\)](https://open.spotify.com/album/58b3cIk2Nspuu0p84eCgcr) | 4:03 | 2022-01-07 | 2022-10-29 |
 | [Before U](https://open.spotify.com/track/1iyXU0LHY9Irw7oohGf7hb) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Before U](https://open.spotify.com/album/3dRIkRoJIbmfi1Hh9IKrjC) | 2:34 | 2022-03-11 |  |
 | [Biscuit Funk](https://open.spotify.com/track/0TLIMvsdPmlAU8jMbTvHBd) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Biscuit Funk](https://open.spotify.com/album/0g5vyMMS9cmMdpYuIdInnP) | 4:09 | 2022-04-29 |  |
 | [Bittersweet \- hirihiri Remix](https://open.spotify.com/track/5JhSzUTnom57twpLSeeedL) | [五寸釘きゃみ](https://open.spotify.com/artist/2JWoqgvRXwWIuK1PG8GAyz), [hirihiri](https://open.spotify.com/artist/4sJMzQ4brQQcRxc5LGyai1) | [Bittersweet \(hirihiri Remix\)](https://open.spotify.com/album/5zZdPLLpXmoqvQQj4cPQPO) | 3:41 | 2022-01-07 | 2022-07-21 |
@@ -170,6 +170,7 @@
 | [Maybe](https://open.spotify.com/track/1gVIjLDPRFNJfv7TAKubnr) | [Midsplit](https://open.spotify.com/artist/5FDIxEGRvg8QrMoNr9BoFl), [Annie Mehesh](https://open.spotify.com/artist/5at1zXx4u5KSVzNHcsVOxM) | [Maybe](https://open.spotify.com/album/6Kw1eFD6pwT1metqBiUoft) | 3:18 | 2022-01-28 | 2022-07-15 |
 | [Memories](https://open.spotify.com/track/0c07SIKPJuFVDJjcmc160D) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Memories](https://open.spotify.com/album/0rmPcSAav94By4MMUYCUSn) | 3:52 | 2022-01-07 | 2022-07-25 |
 | [Mermaid](https://open.spotify.com/track/0jaMyOCkBqBFps33YS3ZOR) | [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Mermaid](https://open.spotify.com/album/0VrzLFj7WnmdRFFzZff1yE) | 3:51 | 2022-01-07 |  |
+| [Message](https://open.spotify.com/track/2HugpozniKFTxu2us4YqBV) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Message](https://open.spotify.com/album/1aYV3ULEfkmN2NAO25yXLy) | 3:57 | 2022-10-07 |  |
 | [Metamorphosis](https://open.spotify.com/track/0oNip00viM5wjLuAJQQiGc) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis](https://open.spotify.com/album/58X1FSKjMEcuWTyHWU9LSX) | 4:08 | 2022-04-15 | 2022-04-19 |
 | [Mike Tyson](https://open.spotify.com/track/7c1nwQG909uEAphCBqXdIy) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Mike Tyson](https://open.spotify.com/album/1IFy7kRW05yfv5CPfiFK0f) | 3:19 | 2022-01-07 | 2022-07-29 |
 | [Miracle](https://open.spotify.com/track/7JSS036IjVSwD64TAr6n32) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 4:10 | 2022-01-07 |  |

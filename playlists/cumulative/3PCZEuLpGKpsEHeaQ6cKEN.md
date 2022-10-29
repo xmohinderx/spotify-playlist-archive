@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Armin van Buuren
 
-302 songs - 15 hr 56 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+303 songs - 16 hr 0 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Computers Take Over The World](https://open.spotify.com/track/2Fn66Mos1yElxdJBadXgpO) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Computers Take Over The World](https://open.spotify.com/album/1uHkfMPB2lNXQFlFAy5YQh) | 2:32 | 2022-09-08 |  |
 | [Computers Take Over The World](https://open.spotify.com/track/6JuWIotnwCQm2V3LKlwPdV) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Armada Music \- ADE 2022](https://open.spotify.com/album/1jBe7xcFd9Z6plS4nGDyMs) | 2:32 | 2022-10-07 | 2022-10-14 |
 | [Crazy Love](https://open.spotify.com/track/7N27d3skYJYc8HhEM1cIGu) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Crazy Love](https://open.spotify.com/album/54xxcpCftTFPpVdjSt2VfW) | 3:06 | 2022-06-27 |  |
+| [Dancing On The Edge](https://open.spotify.com/track/4gdf8rN7vWGLQ3MKNvxWEy) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp) | [Phases](https://open.spotify.com/album/608DP618oad2ENr4JzaYdT) | 3:28 | 2022-10-28 |  |
 | [Day N Night](https://open.spotify.com/track/3ehuQZkvZVeSgbshFFZKW2) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Day N Night](https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk) | 2:59 | 2022-08-17 |  |
 | [Deep In Your Love](https://open.spotify.com/track/3Tl7fBosaCocpJ6eAepC35) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Deep In Your Love](https://open.spotify.com/album/5K8SjseX8O4c8Ci73NJwRU) | 2:49 | 2022-07-28 | 2022-10-07 |
 | [Destination](https://open.spotify.com/track/4CiWLaMrGQ9CR5j604HyoW) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR) | [Destination](https://open.spotify.com/album/6XI1OjhyceEToQJfDRpLEC) | 3:05 | 2022-06-09 |  |

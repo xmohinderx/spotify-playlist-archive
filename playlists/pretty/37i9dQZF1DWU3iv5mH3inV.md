@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > Prendete con tu lista favorita de Dembow\. Foto: Aleesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,044 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,113 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 42 | [Y Eso?](https://open.spotify.com/track/1Cx2O26LJUjG94LfH6rnyB) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Y Eso?](https://open.spotify.com/album/7x8dNTVIpVvboQ3TsxCj0N) | 2:44 |
 | 43 | [Siente El Ki](https://open.spotify.com/track/4Y4TzQhODQmsTRA3NTuFlV) | [Los Lunáticos](https://open.spotify.com/artist/3dznStnQzstoqfwjmyuKuA) | [Dembow 2014 \- 14 Original Urban Hits!](https://open.spotify.com/album/2wQgEZf2kLZFjLOqI9EV64) | 3:25 |
 | 44 | [Dominican Playero 40](https://open.spotify.com/track/7ABFA1oWDw1W4BHHTrRCsF) | [RMT](https://open.spotify.com/artist/7xkWWYrajypGr7Kq04zgA7) | [Dominican Playero 40](https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe) | 3:21 |
-| 45 | [En Cuota](https://open.spotify.com/track/576ZvZ4tmOoWdieoDh8tlz) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [En Cuota](https://open.spotify.com/album/4YLdRugPDuQvaZ5i59qRKw) | 3:02 |
-| 46 | [Amaneci Contento](https://open.spotify.com/track/7LYul65sg4QXvejKlzqN4t) | [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Exito, Vol 1](https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai) | 3:59 |
+| 45 | [Amaneci Contento](https://open.spotify.com/track/7LYul65sg4QXvejKlzqN4t) | [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Exito, Vol 1](https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai) | 3:59 |
+| 46 | [En Cuota](https://open.spotify.com/track/576ZvZ4tmOoWdieoDh8tlz) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [En Cuota](https://open.spotify.com/album/4YLdRugPDuQvaZ5i59qRKw) | 3:02 |
 | 47 | [Tu Vecino](https://open.spotify.com/track/2ZwwhQPsMhF980XXbcYnRG) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ) | [Tu Vecino](https://open.spotify.com/album/4V1Olj6gUBJLtYsDU6F1UF) | 3:01 |
 | 48 | [Plakiti](https://open.spotify.com/track/0qY84Aa0tT2okICVVrvhQU) | [Dj Scuff](https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh) | [Plakiti](https://open.spotify.com/album/5F3LG8ycUgNQXnhgMYDEBf) | 2:15 |
 | 49 | [Careta](https://open.spotify.com/track/3FE2UE1VpHV409EM9srL7t) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Careta](https://open.spotify.com/album/0fz9c0VwpgvhsgYRWDwb2z) | 3:00 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 69 | [Knock Out](https://open.spotify.com/track/6YRH8zh2KMbltmbSf4Qe1d) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU), [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV) | [Knock Out](https://open.spotify.com/album/3gnvNadSEuwYy86yDc7j7n) | 3:15 |
 | 70 | [Desacatate](https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Desacatate](https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV) | 2:41 |
 | 71 | [El Que No Salta Es Paco \- Remix](https://open.spotify.com/track/5WXnRHsxuuTKVzEbLT1Lnn) | [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Carlitos Junior](https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo), [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Tracy McGrady](https://open.spotify.com/artist/1hIultpwJP5CAVoT4qeNGH) | [El Que No Salta Es Paco \(Remix\)](https://open.spotify.com/album/1JQPIPt2Ml2ALdzYUNMfLc) | 4:08 |
-| 72 | [Controla](https://open.spotify.com/track/1IXtqDHrziebliIRwciMHp) | [Sagcy](https://open.spotify.com/artist/4B91O0qMYtFEdc7wBrknT7), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Controla](https://open.spotify.com/album/1549LYCWsYWHPNItxIoi3n) | 2:49 |
-| 73 | [Calle](https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Calle](https://open.spotify.com/album/69UK8GlVtjwme70scA812r) | 2:32 |
+| 72 | [Calle](https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Calle](https://open.spotify.com/album/69UK8GlVtjwme70scA812r) | 2:32 |
+| 73 | [Controla](https://open.spotify.com/track/1IXtqDHrziebliIRwciMHp) | [Sagcy](https://open.spotify.com/artist/4B91O0qMYtFEdc7wBrknT7), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Controla](https://open.spotify.com/album/1549LYCWsYWHPNItxIoi3n) | 2:49 |
 | 74 | [El Mario de Tu Mujer](https://open.spotify.com/track/2CC8kheTSKvDiNbJsRMvBU) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [Sensato](https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS) | [Exitos](https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP) | 4:07 |
 | 75 | [Caliente](https://open.spotify.com/track/7lhZb7Mc2QCXtetUjVljjl) | [El Tonto](https://open.spotify.com/artist/747fHzctsAyoa4k6CrtsQl) | [Caliente](https://open.spotify.com/album/294ruoBKloLVSccE7WMdbg) | 3:01 |
 
-Snapshot ID: `MTY2NTc3MTI0MCwwMDAwMDAwMDUyOWJjMTQyYmY2MDAxYzViMDkwMzRlOTg2Zjc1ZGQ4`
+Snapshot ID: `MTY2NTc3MTI0MCwwMDAwMDAwMDNiZTE1YjE5MTQyN2Q4ZDM5OGUwZjFkMWUyMWI4MDk1`

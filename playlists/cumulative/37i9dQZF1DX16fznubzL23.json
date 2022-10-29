@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 182245,
       "name": "Distance",
       "url": "https://open.spotify.com/track/2MVsAH10Wu2jMc9SM60KDr"
@@ -560,6 +560,24 @@
     },
     {
       "album": {
+        "name": "How To Kill A Man",
+        "url": "https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174590,
+      "name": "How To Kill A Man",
+      "url": "https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb"
+    },
+    {
+      "album": {
         "name": "I Hate U",
         "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
       },
@@ -713,7 +731,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 179844,
       "name": "Kiss & Tell",
       "url": "https://open.spotify.com/track/2caUqogrPS7fyT96tF9fOi"
@@ -979,7 +997,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 198518,
       "name": "Murvlana",
       "url": "https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK"
@@ -1248,6 +1266,28 @@
     },
     {
       "album": {
+        "name": "Perfect Girl (feat. MisterKay)",
+        "url": "https://open.spotify.com/album/10SAFauFQQneSjEe47W0hw"
+      },
+      "artists": [
+        {
+          "name": "RnB Princess",
+          "url": "https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg"
+        },
+        {
+          "name": "MisterKay",
+          "url": "https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153077,
+      "name": "Perfect Girl (feat. MisterKay)",
+      "url": "https://open.spotify.com/track/02N7PICytyxQIB83WNtxC8"
+    },
+    {
+      "album": {
         "name": "The Brother's Keeper",
         "url": "https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX"
       },
@@ -1295,7 +1335,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 168159,
       "name": "Pour Me Water",
       "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"

@@ -518,6 +518,28 @@
     },
     {
       "album": {
+        "name": "Check Yourself",
+        "url": "https://open.spotify.com/album/7HlM6tx37YlyZtIBIdsjFl"
+      },
+      "artists": [
+        {
+          "name": "909",
+          "url": "https://open.spotify.com/artist/1BGPK5MFxGtMlDfMym8fQF"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207619,
+      "name": "Check Yourself",
+      "url": "https://open.spotify.com/track/3CBdMIBhkAffORLkygycWR"
+    },
+    {
+      "album": {
         "name": "Images / Closer",
         "url": "https://open.spotify.com/album/0zRA2049WBLpWo0m90Fb6B"
       },
@@ -807,7 +829,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 169846,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
@@ -1039,7 +1061,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 267272,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3pTc4kmOx7sMJFc9hHxpbm"
@@ -1158,6 +1180,28 @@
     },
     {
       "album": {
+        "name": "Gully",
+        "url": "https://open.spotify.com/album/540DGYXSZ8c1MOMlxug0QQ"
+      },
+      "artists": [
+        {
+          "name": "Solex",
+          "url": "https://open.spotify.com/artist/6VD6fmQ7K2wSnB3OXh7zV1"
+        },
+        {
+          "name": "Fugzi",
+          "url": "https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Gully",
+      "url": "https://open.spotify.com/track/4XpseHcAaQbfUugViy1oav"
+    },
+    {
+      "album": {
         "name": "Hard Baller",
         "url": "https://open.spotify.com/album/2B51oNisAJxOsYTXhjb9fI"
       },
@@ -1169,7 +1213,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 217142,
       "name": "Hard Baller",
       "url": "https://open.spotify.com/track/6qjIc90us2mKdFNEr6qdZo"
@@ -2131,7 +2175,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 210001,
       "name": "Perfect Crime",
       "url": "https://open.spotify.com/track/3F4LO2MlLyZ5oAJjpsw89J"
@@ -2245,6 +2289,24 @@
       "duration_ms": 249448,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/2vJ707HOqiCUmvuk2OsdDo"
+    },
+    {
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154650,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe"
     },
     {
       "album": {
@@ -2405,6 +2467,28 @@
       "duration_ms": 223725,
       "name": "Shutdown",
       "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
+    },
+    {
+      "album": {
+        "name": "Signal / Have You Over",
+        "url": "https://open.spotify.com/album/1i685TMCvqmUHQc9ZcGqf4"
+      },
+      "artists": [
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        },
+        {
+          "name": "Ruth Royall",
+          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253181,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/2pdswR1p29SsJNP6Zl7d05"
     },
     {
       "album": {

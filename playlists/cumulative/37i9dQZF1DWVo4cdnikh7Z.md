@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Prince
 
-324 songs - 20 hr 24 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
+325 songs - 20 hr 29 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Aagaasam \- Ilaiyaraaja Version](https://open.spotify.com/track/5yJMDVJnBTunI5UaIpXHQ6) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Viruman \(Bonus Track Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5xHMqM6UCCzQBVBaRvrUQQ) | 1:46 | 2022-08-23 | 2022-09-15 |
 | [Aagoozhilae](https://open.spotify.com/track/1lFaBr3FHJ50muREghdg5C) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Radhe Shyam](https://open.spotify.com/album/5giXKnWYxmiHDn2Aky5tPc) | 3:53 | 2022-03-13 | 2022-06-29 |
 | [Aariraaro \- From "Jothi"](https://open.spotify.com/track/0WFesxc8k8QmHywsTmW5vt) | [Harshavardhan Rameshwar](https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU), [Balram](https://open.spotify.com/artist/4CQ3OkjfQPYVQTM8Ekts7b) | [Aariraaro \(From "Jothi"\)](https://open.spotify.com/album/1wFbIrsnjB7ehzg0WuOImC) | 5:17 | 2022-07-11 | 2022-07-19 |
+| [Aathi En Mela](https://open.spotify.com/track/3qiNWKKf6IN1osaTHcnEix) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Vandana Srinivasan](https://open.spotify.com/artist/0aK5YwPtmSJ8g7nSEMPLJm) | [Aathi En Mela \(From "Sembi"\)](https://open.spotify.com/album/7dzpd2QEQ8dK1UC8Th35g4) | 4:29 | 2022-10-28 |  |
 | [Abbaca Daaru \- From "My Dear Bootham"](https://open.spotify.com/track/3M6IyLXF2kdx79zzRaerUx) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Adithya Suresh](https://open.spotify.com/artist/38vyUM1tRuAYtQkcWJPgvK), [Sahana](https://open.spotify.com/artist/6exWWrTNGE1RGPhWl2vZbJ) | [Abbaca Daaru \(From "My Dear Bootham"\)](https://open.spotify.com/album/6ek8XPzNl2Cbk1QFPTDTWP) | 3:50 | 2022-07-08 | 2022-07-20 |
 | [Adada Adada Anandhame \- From "Company"](https://open.spotify.com/track/17x37NeNEDhkHbCmb8ek8F) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Jubin](https://open.spotify.com/artist/61xNtCmxaC0mbqo39TtIW8), [Viveka](https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z) | [Adada Adada Anandhame \(From "Company"\)](https://open.spotify.com/album/50XjTGebTHML0kdpJ0Xbrs) | 2:12 | 2022-08-17 | 2022-08-24 |
 | [Adheeraa](https://open.spotify.com/track/5SXwKl2nWY1No4wZ0FJDHN) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vagu Mazan](https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV), [Thoughtsfornow](https://open.spotify.com/artist/6UZh26X3rn1LVK5lLn4FoG) | [Cobra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5QlbnAP1xU0GMwpjchHLA3) | 4:19 | 2022-07-12 |  |

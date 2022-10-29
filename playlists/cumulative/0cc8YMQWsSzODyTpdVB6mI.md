@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-95 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+96 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [AMBIANCE](https://open.spotify.com/track/4NhiYKMp8tiPsb5oYOgLjo) | [FEE](https://open.spotify.com/artist/5D1CTIyRb5B0MLhFV9W0J9), [Zay Doja](https://open.spotify.com/artist/66v9Oo6OWqv7awEVmmQHJK) | [AMBIANCE](https://open.spotify.com/album/2cJm9GOLuDHLLew1pHgeFc) | 3:41 | 2022-07-19 | 2022-10-11 |
 | [Azibi](https://open.spotify.com/track/5cTlfi5VG3ziOXtAh3CV4c) | [Record Club](https://open.spotify.com/artist/4cArYfwQ0BrfSEhaDwhVYQ) | [Azibi](https://open.spotify.com/album/2Bq9G72vRZozfbTIQljekL) | 3:52 | 2022-09-09 |  |
 | [Be Grateful](https://open.spotify.com/track/1wzmKX0ppikXpAdA7O5BRp) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Be Grateful](https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9) | 2:47 | 2022-07-06 | 2022-10-04 |
+| [Besserwisser](https://open.spotify.com/track/0TP6kkEvdHXoRWAhW8Urva) | [tigerstate](https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1) | [Besserwisser](https://open.spotify.com/album/4Dh6k3ofE42IeCCpPQhB5K) | 3:35 | 2022-10-28 |  |
 | [Better Than That](https://open.spotify.com/track/6kNMiX4NoAtz6ohYdgfhIX) | [Fortuno](https://open.spotify.com/artist/07QJ2IEpirIQN3dlUomBxL) | [Better Than That](https://open.spotify.com/album/503RXKST7zs6k7uoun1NqN) | 2:41 | 2022-04-25 | 2022-07-02 |
 | [Child](https://open.spotify.com/track/2xVL9TdrABknAXZIgtwdk5) | [SENTO](https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG), [Pilar Vega](https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx) | [Child](https://open.spotify.com/album/2iE6czcXDdtPsIjtzJGmJj) | 2:48 | 2022-08-08 |  |
 | [Clutch](https://open.spotify.com/track/3F6gcexYwqaLaRx1sCsqfE) | [UOKAYE](https://open.spotify.com/artist/3XDN1ATIMXPVRmK6DmdjNx), [Sei](https://open.spotify.com/artist/2yVmMS1J22h49MU2yHQGJb) | [Clutch](https://open.spotify.com/album/2XjeQuBI4tCzwlNTsC7EZo) | 3:03 | 2022-07-22 | 2022-10-18 |
@@ -102,6 +103,6 @@
 | [Willow Tree](https://open.spotify.com/track/7HyQKWEzycUMPaKnPWcZet) | [Frances Baker](https://open.spotify.com/artist/5ANQ3S3Wf5JRqJaEwlOUnw) | [Willow Tree](https://open.spotify.com/album/1ZpdgCDupRZoCP6STmmwcb) | 3:27 | 2022-09-02 |  |
 | [Worship](https://open.spotify.com/track/7bNJSUTF1XreWJYN11YnuY) | [Pecas](https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU) | [Worship](https://open.spotify.com/album/5RjcxA4BGTJfkcVK2bPyDF) | 4:26 | 2022-07-08 | 2022-10-06 |
 | [You \- Mixed](https://open.spotify.com/track/6EjgpCbSTdNMjFiBVCQwxt) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 4:42 | 2021-11-05 |  |
-| [You and I](https://open.spotify.com/track/3vulAtIt4ZWhugoTDpD7ak) | [LLOYD PAUL](https://open.spotify.com/artist/2SjfyRr3Jg4w0DL4kKmxTH), [BRUNAJ](https://open.spotify.com/artist/7j9wSYmlFpmTjMOEvBQsrk) | [You and I](https://open.spotify.com/album/3NdL9odlpnHutVVFlPtIfZ) | 3:03 | 2022-08-01 |  |
+| [You and I](https://open.spotify.com/track/3vulAtIt4ZWhugoTDpD7ak) | [LLOYD PAUL](https://open.spotify.com/artist/2SjfyRr3Jg4w0DL4kKmxTH), [BRUNAJ](https://open.spotify.com/artist/7j9wSYmlFpmTjMOEvBQsrk) | [You and I](https://open.spotify.com/album/3NdL9odlpnHutVVFlPtIfZ) | 3:03 | 2022-08-01 | 2022-10-29 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

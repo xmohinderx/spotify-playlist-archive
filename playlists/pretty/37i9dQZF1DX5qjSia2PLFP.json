@@ -1,13 +1,93 @@
 {
-  "description": "New music breaking waves.  Cover: SHABOOZEY",
-  "num_followers": 19854,
+  "description": "New music breaking waves.  Cover: Ice Spice",
+  "num_followers": 19901,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDY0MmVlMjFlOGZkNGY5Y2U0MGU1ZmE0YmNlZmJiOTBm",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGY2MGUzM2ViZjE3NmIzN2RmZmQ2ZGI3ODM2Mzg5NTky",
   "tracks": [
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Bikini Bottom",
+        "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "Bikini Bottom",
+      "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "1OF1",
+        "url": "https://open.spotify.com/album/6baQwRelsChN4b0zmU5tRO"
+      },
+      "artists": [
+        {
+          "name": "T$AN",
+          "url": "https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk"
+        }
+      ],
+      "duration_ms": 192051,
+      "name": "1OF1",
+      "url": "https://open.spotify.com/track/4eeBkMilZ85ie8eBZCRs3O"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Wayne",
+        "url": "https://open.spotify.com/album/3DryZCv6ZZpYzgD4Vjg03q"
+      },
+      "artists": [
+        {
+          "name": "BoofBoiIcy",
+          "url": "https://open.spotify.com/artist/4Crup8TztPQ0TSQBiBGrrZ"
+        }
+      ],
+      "duration_ms": 154146,
+      "name": "I'll Do It",
+      "url": "https://open.spotify.com/track/0GbLqWHMbu8vI3iQR2b6Ki"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Snow Cones",
+        "url": "https://open.spotify.com/album/4Zl1QD4pz3CqUR1lGDSdAr"
+      },
+      "artists": [
+        {
+          "name": "Joseph Chilliams",
+          "url": "https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Snow Cones",
+      "url": "https://open.spotify.com/track/5CFDY0ongHhmVWSwkgZqkl"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Coordinates",
+        "url": "https://open.spotify.com/album/2KBFAyoDp5uB33m2kC08He"
+      },
+      "artists": [
+        {
+          "name": "Jay Wile",
+          "url": "https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU"
+        }
+      ],
+      "duration_ms": 237272,
+      "name": "NO2",
+      "url": "https://open.spotify.com/track/0hRA9X9Ga7aT66sNgNOUht"
+    },
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
@@ -27,22 +107,6 @@
       "duration_ms": 153712,
       "name": "Keep It Lo",
       "url": "https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Name of Love",
-        "url": "https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "Name of Love",
-      "url": "https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -81,22 +145,6 @@
       "url": "https://open.spotify.com/track/4iPk2FPM9hZYHqtQsfEz6m"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "TURKEY",
-        "url": "https://open.spotify.com/album/2zhIdoLAGJazYWy2vhkDaI"
-      },
-      "artists": [
-        {
-          "name": "Tate Kobang",
-          "url": "https://open.spotify.com/artist/05ZOzt8hlefGYXWJIL37PI"
-        }
-      ],
-      "duration_ms": 109008,
-      "name": "TURKEY",
-      "url": "https://open.spotify.com/track/50B1vCGS7BIUfJeFpFuolc"
-    },
-    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "Cowboys Live Forever, Outlaws Never Die",
@@ -127,6 +175,22 @@
       "duration_ms": 154800,
       "name": "SIMPLE",
       "url": "https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "TURKEY",
+        "url": "https://open.spotify.com/album/2zhIdoLAGJazYWy2vhkDaI"
+      },
+      "artists": [
+        {
+          "name": "Tate Kobang",
+          "url": "https://open.spotify.com/artist/05ZOzt8hlefGYXWJIL37PI"
+        }
+      ],
+      "duration_ms": 109008,
+      "name": "TURKEY",
+      "url": "https://open.spotify.com/track/50B1vCGS7BIUfJeFpFuolc"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -727,86 +791,6 @@
       "duration_ms": 176930,
       "name": "Picture in my mind",
       "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
-    },
-    {
-      "added_at": "2022-08-12 07:04:57",
-      "album": {
-        "name": "No Closure",
-        "url": "https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 185997,
-      "name": "No Closure",
-      "url": "https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink"
-    },
-    {
-      "added_at": "2022-08-12 07:04:57",
-      "album": {
-        "name": "Crayons",
-        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
-      },
-      "artists": [
-        {
-          "name": "Prey\u00e9",
-          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
-        }
-      ],
-      "duration_ms": 143527,
-      "name": "Crayons",
-      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
-    },
-    {
-      "added_at": "2022-08-05 06:20:49",
-      "album": {
-        "name": "Aint No Fun",
-        "url": "https://open.spotify.com/album/2hcZSipx5KrhW4Rxp74BhC"
-      },
-      "artists": [
-        {
-          "name": "yvngxchris",
-          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
-        }
-      ],
-      "duration_ms": 128524,
-      "name": "Aint No Fun",
-      "url": "https://open.spotify.com/track/5LWAGw2GEbTHDWcV5coWyJ"
-    },
-    {
-      "added_at": "2022-08-05 06:20:49",
-      "album": {
-        "name": "Light Breeze",
-        "url": "https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4"
-      },
-      "artists": [
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Light Breeze",
-      "url": "https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i"
-    },
-    {
-      "added_at": "2022-08-05 06:20:49",
-      "album": {
-        "name": "DORK",
-        "url": "https://open.spotify.com/album/2XJnNa3hPSD4va84sZKLg3"
-      },
-      "artists": [
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 119111,
-      "name": "DORK",
-      "url": "https://open.spotify.com/track/3J13MlSboyZZGB1RshKHva"
     },
     {
       "added_at": "2022-08-05 06:20:49",

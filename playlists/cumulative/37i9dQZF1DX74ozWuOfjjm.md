@@ -4,7 +4,7 @@
 
 > Listen to the women of AU & NZ at full volume\. Cover: Vera Blue
 
-284 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+285 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [next life](https://open.spotify.com/track/0EMaDLab0jjbGS4OWzDUoW) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [next life](https://open.spotify.com/album/6PLd5OqpdGTqJYpULgXJA1) | 3:01 | 2022-05-02 |  |
 | [Nightmare](https://open.spotify.com/track/0JyWZ4BrLIlvyJ5lt7HNM1) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Nightmare](https://open.spotify.com/album/7kmb7rf1uASmCbFe3YLfhV) | 3:29 | 2022-02-03 | 2022-05-28 |
 | [No One Else](https://open.spotify.com/track/5reK4IbQK4Sk9QbH8rTsAm) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [No One Else](https://open.spotify.com/album/32jVR4jOs3EgWbBLy5ouhP) | 2:45 | 2022-04-05 | 2022-05-28 |
-| [NOT TODAY](https://open.spotify.com/track/08cnccQSKCljeUlyZVSCK4) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [NOT TODAY](https://open.spotify.com/album/3RoUi8w1jkr5Kgf4DItl2O) | 3:22 | 2022-04-05 |  |
+| [NOT TODAY](https://open.spotify.com/track/08cnccQSKCljeUlyZVSCK4) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [NOT TODAY](https://open.spotify.com/album/3RoUi8w1jkr5Kgf4DItl2O) | 3:22 | 2022-04-05 | 2022-10-29 |
+| [NOT TODAY](https://open.spotify.com/track/3HsI6hyDi9yuTeT7nHyhFc) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [PURE ENERGY](https://open.spotify.com/album/3daboqKiZqOpKWdsI1tP3k) | 3:22 | 2022-10-02 |  |
 | [now \(in space\)](https://open.spotify.com/track/5KihAQxIO270T9EQbWgPLk) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [now \(in space\)](https://open.spotify.com/album/727hwSHo15Q0JVFFGh9IBk) | 3:26 | 2022-02-03 | 2022-04-15 |
 | [Now and Then](https://open.spotify.com/track/33uqt8Kapz6TtPLZOFATbr) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Now and Then](https://open.spotify.com/album/3CEFLFiJou19gt6VY6o56I) | 4:31 | 2022-07-03 |  |
 | [Now And Then](https://open.spotify.com/track/4w7DiSMw47VkSmqryKKl9g) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Now And Then](https://open.spotify.com/album/7v1YvCBBDWRPp7Va3YXK6u) | 4:31 | 2022-05-27 | 2022-07-29 |

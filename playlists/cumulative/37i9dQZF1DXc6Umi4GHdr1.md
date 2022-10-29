@@ -4,7 +4,7 @@
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-131 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
+134 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Close By The Fire](https://open.spotify.com/track/5hOXnyfvjzAPaqMP9lpojq) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Close By The Fire](https://open.spotify.com/album/5KzN2hat37o397IEZ25Zb7) | 3:25 | 2022-03-03 | 2022-07-22 |
 | [Contemplacion](https://open.spotify.com/track/5VwqDvZOyX2MVPlfr0jLmd) | [Classical Guitar Masters](https://open.spotify.com/artist/7ctJVvTo1OFEHP1YgNAKzm) | [Simple Guitar Classics](https://open.spotify.com/album/67AHA6cXLgJRX7WgLbp1Ma) | 3:43 | 2022-06-24 |  |
 | [Costa Brava](https://open.spotify.com/track/7HlZjFFk6Q9gLuotuvH44S) | [Brian Brohn](https://open.spotify.com/artist/4IvSlgyUcZU9Ru7rEAVtAQ) | [Tree Runner](https://open.spotify.com/album/3GDQ6Ds2GPGA7C505UseMo) | 3:05 | 2021-12-10 |  |
+| [Cradle](https://open.spotify.com/track/6cEC34q3A0RQNSthy6UtwK) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Cradle](https://open.spotify.com/album/6L684rP3Pe8ChjjYQJTUTu) | 2:22 | 2022-10-28 |  |
 | [Cuyutlan](https://open.spotify.com/track/451zGCNVAnPGS9Nv7PI8yQ) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:53 | 2021-12-10 |  |
 | [Das Gebirge](https://open.spotify.com/track/12gTq55jChsH7RIFX6LoBP) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Das Gebirge](https://open.spotify.com/album/6CraOjno7t4Lr9buQoXOIw) | 2:34 | 2022-05-27 |  |
 | [Depending on who?](https://open.spotify.com/track/6HdiridEw4dd3ry3YIi8bW) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [Depending on who?](https://open.spotify.com/album/0Qd0NaMIJwAdJcjLFpEBCX) | 2:35 | 2021-12-10 |  |
@@ -66,6 +67,7 @@
 | [In the Blink of an Eye](https://open.spotify.com/track/1R1Efo6OOyo9SnR5sdl6dX) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [In the Blink of an Eye](https://open.spotify.com/album/1a1CrU23YN5PGR4ln2qlg0) | 2:47 | 2022-06-24 |  |
 | [Into the Well](https://open.spotify.com/track/0cSbVRsr50elwoPcp6m2XA) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Limitless](https://open.spotify.com/album/3Fj1XxYEFoqgXMP2JalxB8) | 2:35 | 2022-07-08 |  |
 | [Intuition](https://open.spotify.com/track/6vUsv2JJEUDjfKO6WPDJhZ) | [Miller Hawkins](https://open.spotify.com/artist/3UOaQwHxcBDlMJm5P34hme) | [Intuition](https://open.spotify.com/album/4yTM5RvuKvukyE0JudZm6G) | 2:54 | 2021-12-10 | 2022-04-22 |
+| [Junto Contigo](https://open.spotify.com/track/5Hb0hG9ulwZBV7FuTnQMia) | [Nonô Ferreira](https://open.spotify.com/artist/1BHWBUxqmSIEyToEj6Wews) | [Junto Contigo](https://open.spotify.com/album/0CQXxwOMNTzGvnvtX54HuL) | 2:14 | 2022-10-28 |  |
 | [Kind & Generous](https://open.spotify.com/track/5OM5dE5QyrXSAHDiNELsta) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [Kind & Generous](https://open.spotify.com/album/0RYH3vRRJP2wY0IZnhxg8R) | 3:21 | 2021-12-10 | 2022-07-22 |
 | [La Cascata](https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [La Cascata](https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy) | 2:11 | 2022-07-29 |  |
 | [La Vida Toma Su Tiempo](https://open.spotify.com/track/504WEMo59nRahLl5NShft9) | [Raphaella Dominga](https://open.spotify.com/artist/3T2kkpx0Wn93vlxjaMnq81) | [Moinhos de Vento](https://open.spotify.com/album/2p7tpI6QcAlnCLzuG60ES4) | 4:02 | 2021-12-10 | 2022-05-27 |
@@ -81,6 +83,7 @@
 | [Mar en Calma](https://open.spotify.com/track/3ixw6dc0jP30Vw8WmV36tT) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Mar en Calma](https://open.spotify.com/album/2w5M7NjPdfKtcNjknLwHuV) | 2:15 | 2021-12-10 |  |
 | [Midnight Sun](https://open.spotify.com/track/49np3roHmTZhiHhO4P2suj) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Midnight Sun](https://open.spotify.com/album/4Vghw5bCOZnBkD4W1Mr9I9) | 1:50 | 2022-05-27 | 2022-07-22 |
 | [Midsommarblomster](https://open.spotify.com/track/1m5RLwW0Bkmkb5yeCn33du) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Midsommarblomster](https://open.spotify.com/album/61xdS2VlEuTV5Qy0VvoPCv) | 3:07 | 2022-06-10 | 2022-07-29 |
+| [Mother](https://open.spotify.com/track/5gaAuySZEHflS9lLLIEXkG) | [Sergio Sorrentino](https://open.spotify.com/artist/2hV0tEHHlVNNr8qxpBr1qN) | [Mother](https://open.spotify.com/album/4SEJYvpvBcKwRGS83ihp2f) | 2:22 | 2022-10-28 |  |
 | [My Lily](https://open.spotify.com/track/6CK7lYN56EyRiNbBCJd5MH) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [My Lily](https://open.spotify.com/album/4hOTsk6CmC7ND7WLccFf7N) | 2:23 | 2022-10-14 |  |
 | [Night After Sidewalk](https://open.spotify.com/track/0JUa8PNsS6fvWz2Keb5KLq) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Everybody Loves You](https://open.spotify.com/album/5CbsLK7qbFYtYsGrUTwy3L) | 3:30 | 2021-12-10 |  |
 | [Of Late](https://open.spotify.com/track/4evlwCXiSNsnuaFwWuHXge) | [Isabella Molinero](https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV) | [Of Late](https://open.spotify.com/album/3zSOTg5EL4xTzLjYJf3ETP) | 2:04 | 2022-04-22 |  |

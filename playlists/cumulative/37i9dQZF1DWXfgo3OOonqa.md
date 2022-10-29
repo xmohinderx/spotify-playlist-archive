@@ -4,7 +4,7 @@
 
 > spooky season 🎃
 
-648 songs - 1 day 4 hr 52 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+649 songs - 1 day 4 hr 54 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,7 +402,8 @@
 | [Milli](https://open.spotify.com/track/4c1vrofYNTaYrtAFzKQrTK) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [Milli](https://open.spotify.com/album/6CakrPkzkMk0W7KJwdugiG) | 2:07 | 2022-01-06 | 2022-03-25 |
 | [Million](https://open.spotify.com/track/7llI2gidaQmDzWFtxQzWSG) | [Aden x Asme](https://open.spotify.com/artist/1eX2QZGKv4RFxpDKUGxgm0), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Sista 12](https://open.spotify.com/album/1PSxZ7Mfbvn1yXWuoI5M2G) | 2:44 | 2021-12-16 | 2022-01-28 |
 | [Millionz](https://open.spotify.com/track/05ho5WftsjIeuvCTYvepiU) | [Rio](https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs) | [Millionz](https://open.spotify.com/album/616Iu6HKMWYke4PqqwKnCW) | 2:11 | 2022-02-15 | 2022-03-09 |
-| [MILLY](https://open.spotify.com/track/06HHolCxacIrz0nsK4APTv) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [MILLY](https://open.spotify.com/album/5RYmLEiBxdw2VP8s9Ebd3L) | 2:11 | 2022-10-13 |  |
+| [MILLY](https://open.spotify.com/track/06HHolCxacIrz0nsK4APTv) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [MILLY](https://open.spotify.com/album/5RYmLEiBxdw2VP8s9Ebd3L) | 2:11 | 2022-10-13 | 2022-10-29 |
+| [Milly](https://open.spotify.com/track/3UjxSOYjAHZVYu7bfebKJ9) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Milly](https://open.spotify.com/album/5t0JJOfYML4rJrTuyvLSZB) | 2:11 | 2022-10-27 |  |
 | [Min sida](https://open.spotify.com/track/6MrrbSfi1tRJSGUkXDlgTb) | [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Min sida](https://open.spotify.com/album/4gckrKgW6eka6u8q9LA2DC) | 2:27 | 2022-10-27 |  |
 | [MIN STAD](https://open.spotify.com/track/3tSeUbkWsjR3UefmwDc046) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [MIN STAD](https://open.spotify.com/album/4ez2xrSeVr87MLvQu9Rncq) | 3:11 | 2022-03-03 | 2022-05-27 |
 | [Min Tid](https://open.spotify.com/track/6RAKfOFmUcFJP96OkmYiPL) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [MUSIK ELLER METALL](https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS) | 2:21 | 2022-02-25 | 2022-03-25 |

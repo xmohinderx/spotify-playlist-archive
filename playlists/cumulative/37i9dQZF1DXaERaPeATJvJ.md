@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Penggalan lagu lama dari kancah musik independen\. Cover: Bangkutaman
+> Penggalan lagu lama dari kancah musik independen\. Cover: Goodnight Electric
 
-98 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
+100 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,12 @@
 | [Aku Cinta J.A.K.A.R.T.A](https://open.spotify.com/track/5fFgx8X3SjZ4boxGu0vxeY) | [C'mon Lennon](https://open.spotify.com/artist/1RDrenzYUkREj4MDKQmdnP) | [Ketika La La La](https://open.spotify.com/album/1heP6tMSv3osMfEx4btHFd) | 3:24 | 2022-05-19 |  |
 | [Aku Lupa Aku Luka](https://open.spotify.com/track/3kBV8olpppGCIbhrh8TV6o) | [Koil](https://open.spotify.com/artist/4fhtyRoHvmNjXDIr7jCW0A) | [Blacklight](https://open.spotify.com/album/6EaWZ06yNvOjeaCY0aSz15) | 4:31 | 2021-11-25 |  |
 | [Ali Baba](https://open.spotify.com/track/7hyVSfiu8VEKYh2l8eAiIb) | [Boys Are Toys](https://open.spotify.com/artist/1b2zga59ICvBeqJ9uuxuu5) | [Weah Weah of the Blah Blah](https://open.spotify.com/album/5W6e1kRTkcmSQPNPiEeYCI) | 2:48 | 2021-11-25 |  |
-| [Am I Robot?](https://open.spotify.com/track/2l8AE5XXmRW3jSPBjvlXA1) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/5Npg1T6dJZa81yj1cQaGFt) | 3:39 | 2022-06-23 |  |
+| [Am I Robot?](https://open.spotify.com/track/2l8AE5XXmRW3jSPBjvlXA1) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/5Npg1T6dJZa81yj1cQaGFt) | 3:39 | 2022-06-23 | 2022-10-29 |
 | [Am I Robot?](https://open.spotify.com/track/5ctYnyGG80tnqygzIAAVhD) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love And Turbo Action](https://open.spotify.com/album/10Mz59hmubT7MRukNG29OA) | 3:39 | 2021-11-25 | 2022-07-29 |
 | [Amerika](https://open.spotify.com/track/4brj3kqJtL7DIiA7vxAbyy) | [Armada Racun](https://open.spotify.com/artist/4eQQrNIgQpYGk0MvdNHncq) | [La Peste](https://open.spotify.com/album/2ymuB5HHTqFqKDN6y2ADwa) | 2:31 | 2021-11-25 |  |
 | [Another Song for Her](https://open.spotify.com/track/5wR3uyU7yPCQaDp2cSq9c7) | [Holy City Rollers](https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v) | [First Chapter of Allordia](https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff) | 4:10 | 2022-01-06 |  |
 | [Apple \(Suicide On Your Stereo Set\)](https://open.spotify.com/track/2YsfSIc88U6nIqWqDTxiDG) | [Annemarie](https://open.spotify.com/artist/510UvK3f9UNOBh4CNZuSoJ) | [ABC On Tv](https://open.spotify.com/album/712iSMC4r6ANdkzBCkqAz3) | 3:38 | 2021-11-25 |  |
+| [Bedroom Avenue](https://open.spotify.com/track/4BhsOTApNxK4VxTjJgoLtT) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/1ecP2zCsQt5tnXQjtT3Snd) | 3:03 | 2022-10-28 |  |
 | [Before Circus Over](https://open.spotify.com/track/6zMoDgj2JvpUiT7KtGK2HJ) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/7ailqk7fkSCCwVuiuRlWyh) | 4:56 | 2022-08-04 |  |
 | [Berlayar](https://open.spotify.com/track/2vGdIDuFo0EKPxywKCyWpu) | [BANDEMPO](https://open.spotify.com/artist/0JKGXfROquGhxuydA0tvOx) | [Bandempo 20th Anniversary](https://open.spotify.com/album/2XO48VaowaWFOvY48Sia4y) | 3:01 | 2021-11-25 |  |
 | [Biara](https://open.spotify.com/track/2G38QfmlWGmAnMISsx6EeV) | [Sieve](https://open.spotify.com/artist/6UtGpQD2GgpZBkU3WlqcJB) | [Biara](https://open.spotify.com/album/3v1Q7EALIjc7mB1PRVfDTQ) | 2:27 | 2021-11-25 |  |
@@ -48,6 +49,7 @@
 | [Lagu Kesepian](https://open.spotify.com/track/1Ur7wvurvzlYacQUQBCZS4) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Kamar Gelap](https://open.spotify.com/album/7ts3VbRbrQM5CPY4x9E7Om) | 4:27 | 2022-05-12 |  |
 | [Lara Jiwa](https://open.spotify.com/track/0sdb241qppgCn1Q918ujCn) | [Astrolab](https://open.spotify.com/artist/0wp0iMyEsrQjUDYSHXsSup) | [The Blue Thread Saga](https://open.spotify.com/album/3iob7TFfoadjFlKyeq4zun) | 3:53 | 2022-04-14 |  |
 | [Lari 100](https://open.spotify.com/track/73X5FjXQtQHPCnZGc8UJxd) | [The Sastro](https://open.spotify.com/artist/4RcRA0H94M5m9D97A5jLD0) | [Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3fw17ulJYKEQkDbWV3LTE0) | 4:27 | 2021-11-25 |  |
+| [Laser Gun Electro Boy](https://open.spotify.com/track/7iotoEHOJphMKxSJAS71Sy) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Electroduce Yourself](https://open.spotify.com/album/2BhBRPic40xAcJMKMt8Fzk) | 3:58 | 2022-10-28 |  |
 | [Less Afraid](https://open.spotify.com/track/3e88hGhAYY2aBh3YAhlyCz) | [Sajama Cut](https://open.spotify.com/artist/33lCWREMjKEXJHUMbSkZle) | [The Osaka Journals](https://open.spotify.com/album/43Prz8VTzCcSjELmqhoLUZ) | 4:01 | 2021-11-25 |  |
 | [Lingkar Labirin](https://open.spotify.com/track/42NbG3uuS0tz4jkSL5onlL) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [The Brandals](https://open.spotify.com/album/7umiNnEcvqhsCLFGmc1QDO) | 3:47 | 2021-11-25 |  |
 | [Love Saturday](https://open.spotify.com/track/24unKxTtjxhMSIJ64XbFCS) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Hypnagogic](https://open.spotify.com/album/2feY3htG1EXcmCBTfyLE5F) | 4:05 | 2021-11-25 |  |

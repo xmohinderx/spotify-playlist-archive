@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Joe Louis Walker",
-  "num_followers": 40765,
+  "num_followers": 40775,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDc2ZjBjZWI4ZjcyNDRmMGQ4NzIyMjQyMjBkY2QyY2Vl",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDI0ODIzOWNjM2FkYzliOGU1MTNlYWM1MzI5MzUxMGNk",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -59,6 +59,26 @@
       "duration_ms": 222000,
       "name": "Follow The Money (feat. James Taylor)",
       "url": "https://open.spotify.com/track/4ikAAkBStMneLsxfjcoG4E"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Cryin\u2019 Won\u2019t Help You",
+        "url": "https://open.spotify.com/album/7lz81CRxzCYmryRTxThLaO"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        },
+        {
+          "name": "The SWR Big Band",
+          "url": "https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW"
+        }
+      ],
+      "duration_ms": 269816,
+      "name": "Cryin' Won\u00b4t Help You",
+      "url": "https://open.spotify.com/track/1Sfcy8w25PbenC7Xvl5LSk"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -135,6 +155,22 @@
       "duration_ms": 376646,
       "name": "Dirty Grease",
       "url": "https://open.spotify.com/track/1Nd89XqdXUj1zv9meZbPYR"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/6c7Ay78lDG9A3xep8taktA"
+      },
+      "artists": [
+        {
+          "name": "Darryl Jones",
+          "url": "https://open.spotify.com/artist/3AnAntOFWOdjn8Fn02sfV8"
+        }
+      ],
+      "duration_ms": 251439,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/0A2nLIAI5it1fRJYGJ5Qyp"
     },
     {
       "added_at": "2022-09-23 04:00:00",

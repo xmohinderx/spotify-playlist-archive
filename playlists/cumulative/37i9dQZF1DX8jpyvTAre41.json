@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: Red Hot Chili Peppers",
+  "description": "The hottest tunes in rock. Crank it up! Cover: blink-182",
   "name": "Rock Your Block",
   "published_playlist_ids": [
     "2emTlJtpLiylc2HgRRdEnO"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 148753,
       "name": "Best Kept Secret",
       "url": "https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV"
@@ -2543,7 +2543,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 306212,
       "name": "Fever Dream",
       "url": "https://open.spotify.com/track/56nQ0EwaDX0X1TFGrDVC0b"
@@ -2749,6 +2749,24 @@
       "duration_ms": 140824,
       "name": "Freaks & Geeks",
       "url": "https://open.spotify.com/track/3ZGQI9j7Sal0lMXeNlr0Da"
+    },
+    {
+      "album": {
+        "name": "Frenzy",
+        "url": "https://open.spotify.com/album/2kyxzQ0Y1qBQOViyHostqk"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180585,
+      "name": "Frenzy",
+      "url": "https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT"
     },
     {
       "album": {
@@ -3300,6 +3318,24 @@
     },
     {
       "album": {
+        "name": "Hot Trash",
+        "url": "https://open.spotify.com/album/5cw2LuvYSjOIRZUBzzMRLo"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166207,
+      "name": "Hot Trash",
+      "url": "https://open.spotify.com/track/0xeF71L11dLbzglIPMvvj1"
+    },
+    {
+      "album": {
         "name": "hover like a GODDESS",
         "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
       },
@@ -3679,7 +3715,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 192878,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/2ZdEHxr2L0Dj5zJOdt3Dql"
@@ -3795,6 +3831,24 @@
       "duration_ms": 159596,
       "name": "junkie",
       "url": "https://open.spotify.com/track/2WIWwLS7IOl3GzQmr1GJSb"
+    },
+    {
+      "album": {
+        "name": "The Sixty90\u2019s",
+        "url": "https://open.spotify.com/album/52OLN3MpGAVuwOA2nmxXW6"
+      },
+      "artists": [
+        {
+          "name": "DYLYN",
+          "url": "https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228960,
+      "name": "Just a Boy",
+      "url": "https://open.spotify.com/track/0HL2BZqdCwVO19FaUGylu5"
     },
     {
       "album": {
@@ -4276,6 +4330,28 @@
     },
     {
       "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        },
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241222,
+      "name": "Line It Up (feat. LP)",
+      "url": "https://open.spotify.com/track/6pt3VzqcJ5jIUR5JyBtkmW"
+    },
+    {
+      "album": {
         "name": "Listen to the Beat",
         "url": "https://open.spotify.com/album/3Ai5MWXDhzmTdTxxWTMlol"
       },
@@ -4643,7 +4719,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
@@ -5417,6 +5493,24 @@
       "duration_ms": 221538,
       "name": "Nowhere To Go",
       "url": "https://open.spotify.com/track/1luO7FPnPq0tlpxPoZtaKR"
+    },
+    {
+      "album": {
+        "name": "Everything You Need",
+        "url": "https://open.spotify.com/album/4c00zGr7m0f7TgWUPiCfzS"
+      },
+      "artists": [
+        {
+          "name": "Single Mothers",
+          "url": "https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174816,
+      "name": "O-zone",
+      "url": "https://open.spotify.com/track/1ynjBf2AZaHlTvmzTMnJ93"
     },
     {
       "album": {
@@ -8441,7 +8535,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 187640,
       "name": "What a Ride",
       "url": "https://open.spotify.com/track/4FVUFfcE4XZv8FW9LJwiL8"

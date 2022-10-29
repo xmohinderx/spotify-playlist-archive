@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "Annabelle's Tea Party",
+        "url": "https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24"
+      },
+      "artists": [
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "Annabelle's Tea Party",
+      "url": "https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj"
+    },
+    {
+      "album": {
         "name": "Arcade Dwellers",
         "url": "https://open.spotify.com/album/1NMgVxkMZ92QCgLjAJswQ3"
       },
@@ -3362,6 +3380,24 @@
     },
     {
       "album": {
+        "name": "SLASH",
+        "url": "https://open.spotify.com/album/5ml9nZdFPLJdUdWT8nf0Dx"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251250,
+      "name": "SLASH",
+      "url": "https://open.spotify.com/track/6fYk1h3xgXatisxwR5G77O"
+    },
+    {
+      "album": {
         "name": "SLASH (Halloween Scary Song)",
         "url": "https://open.spotify.com/album/6lxHhKlkZAcKv1ae4DptMH"
       },
@@ -3373,7 +3409,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 251250,
       "name": "SLASH (Halloween Scary Song)",
       "url": "https://open.spotify.com/track/0JsFqQbe4Vm67mtZmDrkcx"

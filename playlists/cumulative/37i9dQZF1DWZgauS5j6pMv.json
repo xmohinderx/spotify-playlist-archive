@@ -928,6 +928,24 @@
     },
     {
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1pUiPTJBjPu1EX2wtVrikB"
+      },
+      "artists": [
+        {
+          "name": "Grayson DeWolfe",
+          "url": "https://open.spotify.com/artist/3ivAmma9JLS0z6LKXgYH5f"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/6LSfGl4kMdGlrN96EHxAgG"
+    },
+    {
+      "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/2Gvg1yrzvA3rZJNtzoYykI"
       },
@@ -1584,6 +1602,24 @@
     },
     {
       "album": {
+        "name": "Ghostin'",
+        "url": "https://open.spotify.com/album/2kHG0spSENXM1twe1FW6WM"
+      },
+      "artists": [
+        {
+          "name": "Molly Grace",
+          "url": "https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159969,
+      "name": "Ghostin'",
+      "url": "https://open.spotify.com/track/3yBvfQM9HUVGUPJpMd0N2b"
+    },
+    {
+      "album": {
         "name": "Gigantic Energy",
         "url": "https://open.spotify.com/album/2bIcCEYZZHRgOHZNEicdXw"
       },
@@ -2135,7 +2171,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 155867,
       "name": "I Won't Do U Like That",
       "url": "https://open.spotify.com/track/7DKnkvTDOyFfKXCF8QY4we"
@@ -2449,7 +2485,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 209040,
       "name": "Kind of Freak - Jafunk Remix",
       "url": "https://open.spotify.com/track/0hpsO7RHd5pQrUkzl2Psom"
@@ -2559,7 +2595,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 250283,
       "name": "Lesson",
       "url": "https://open.spotify.com/track/3cR97t8jvOLzIUU4s4mWS4"
@@ -3342,6 +3378,32 @@
     },
     {
       "album": {
+        "name": "Rock With Me (Jafunk Remix)",
+        "url": "https://open.spotify.com/album/20c9jp8MnyiEDthWVCsDYm"
+      },
+      "artists": [
+        {
+          "name": "Sparkee",
+          "url": "https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf"
+        },
+        {
+          "name": "Liinks",
+          "url": "https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125703,
+      "name": "Rock With Me - Jafunk Remix",
+      "url": "https://open.spotify.com/track/4z1AcciBLQ3PjnOiFCrEZd"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -3599,7 +3661,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 196801,
       "name": "Soldiers - WheelUP Remix",
       "url": "https://open.spotify.com/track/0o0ZBQhwlBi6qRI4IcDqFN"
@@ -4007,6 +4069,32 @@
       "duration_ms": 220839,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/1v2gz3Z8jdh8LzhM8j1sdc"
+    },
+    {
+      "album": {
+        "name": "To The Death",
+        "url": "https://open.spotify.com/album/4UAMvlxdpmvec0fQMEh4J5"
+      },
+      "artists": [
+        {
+          "name": "DK the Drummer",
+          "url": "https://open.spotify.com/artist/0idL9ZMTGh1E5UqxgQKAEe"
+        },
+        {
+          "name": "Jessy Wilson",
+          "url": "https://open.spotify.com/artist/16mVBCP9OKYqPuGlzS61uP"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230303,
+      "name": "To The Death",
+      "url": "https://open.spotify.com/track/2q6ufQzqSn4Cr26hJhvQiW"
     },
     {
       "album": {

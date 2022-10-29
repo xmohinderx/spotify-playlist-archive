@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127208,
+  "num_followers": 127214,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzc0Miw2OTA4ZTk4YjQwNTkxMWZjM2E0MTM4ODQ0N2ZjZGI4MjE2M2U1NGQ3",
+  "snapshot_id": "Mzc0OCxiNzlhYmUzNGUxZTE1MGMzMjM0ZTBjODRjMWY5NGYwOTM3YmExNjUy",
   "tracks": [
+    {
+      "added_at": "2022-10-29 00:53:03",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2AOQq9d3D4CL1rngPMYxBy"
+      },
+      "artists": [
+        {
+          "name": "WILL K",
+          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
+        },
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "duration_ms": 183927,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6nRh4WwS6Xf8j87U8YFWnh"
+    },
+    {
+      "added_at": "2022-10-29 00:53:27",
+      "album": {
+        "name": "Sky",
+        "url": "https://open.spotify.com/album/4SHvglDiEuw5FKPshkQ9Hi"
+      },
+      "artists": [
+        {
+          "name": "Sol Rising",
+          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
+        }
+      ],
+      "duration_ms": 216046,
+      "name": "Sky",
+      "url": "https://open.spotify.com/track/3W6vWG13TkIE12QTdCSfUT"
+    },
     {
       "added_at": "2022-10-27 19:07:14",
       "album": {
@@ -27,26 +63,6 @@
       "duration_ms": 140645,
       "name": "Be Here (La La La)",
       "url": "https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD"
-    },
-    {
-      "added_at": "2022-10-27 19:10:27",
-      "album": {
-        "name": "My Heart\u2019s on Fire",
-        "url": "https://open.spotify.com/album/1PjXmgO0le7vEsrAW732b2"
-      },
-      "artists": [
-        {
-          "name": "Vicetone",
-          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
-        },
-        {
-          "name": "Qvckslvr",
-          "url": "https://open.spotify.com/artist/59dor9AF3qBCxesH4MKQ6M"
-        }
-      ],
-      "duration_ms": 191064,
-      "name": "My Heart\u2019s on Fire",
-      "url": "https://open.spotify.com/track/6kIduXkQyuc3hP28wgntnJ"
     },
     {
       "added_at": "2022-10-26 19:10:18",
@@ -69,20 +85,52 @@
       "url": "https://open.spotify.com/track/6PZDe8NpAjiUSkD3q6gCPs"
     },
     {
-      "added_at": "2022-10-24 20:03:30",
+      "added_at": "2022-10-29 00:54:29",
       "album": {
-        "name": "2Nite",
-        "url": "https://open.spotify.com/album/6UnSBFydjgagyhNaN2JJ1o"
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS"
       },
       "artists": [
         {
-          "name": "Slippy",
-          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
+          "name": "Approaching Black",
+          "url": "https://open.spotify.com/artist/0SfWu37246YXADKirimzyW"
         }
       ],
-      "duration_ms": 227200,
-      "name": "2Nite",
-      "url": "https://open.spotify.com/track/6Jw4guwTyYoV8bsMhK1mTG"
+      "duration_ms": 280062,
+      "name": "A Cause And Effect",
+      "url": "https://open.spotify.com/track/2hR48fmeaUy2AHrcbznrvB"
+    },
+    {
+      "added_at": "2022-10-29 00:54:29",
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS"
+      },
+      "artists": [
+        {
+          "name": "Approaching Black",
+          "url": "https://open.spotify.com/artist/0SfWu37246YXADKirimzyW"
+        }
+      ],
+      "duration_ms": 234562,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/1nMcBqQJHunwJk7SSE8tGa"
+    },
+    {
+      "added_at": "2022-10-29 00:54:29",
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS"
+      },
+      "artists": [
+        {
+          "name": "Approaching Black",
+          "url": "https://open.spotify.com/artist/0SfWu37246YXADKirimzyW"
+        }
+      ],
+      "duration_ms": 271500,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/0pgwo0KZuqBCwHqpAw7zC4"
     },
     {
       "added_at": "2022-10-25 19:43:59",
@@ -99,6 +147,42 @@
       "duration_ms": 205000,
       "name": "scars",
       "url": "https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn"
+    },
+    {
+      "added_at": "2022-10-24 20:03:30",
+      "album": {
+        "name": "2Nite",
+        "url": "https://open.spotify.com/album/6UnSBFydjgagyhNaN2JJ1o"
+      },
+      "artists": [
+        {
+          "name": "Slippy",
+          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "2Nite",
+      "url": "https://open.spotify.com/track/6Jw4guwTyYoV8bsMhK1mTG"
+    },
+    {
+      "added_at": "2022-10-27 19:10:27",
+      "album": {
+        "name": "My Heart\u2019s on Fire",
+        "url": "https://open.spotify.com/album/1PjXmgO0le7vEsrAW732b2"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Qvckslvr",
+          "url": "https://open.spotify.com/artist/59dor9AF3qBCxesH4MKQ6M"
+        }
+      ],
+      "duration_ms": 191064,
+      "name": "My Heart\u2019s on Fire",
+      "url": "https://open.spotify.com/track/6kIduXkQyuc3hP28wgntnJ"
     },
     {
       "added_at": "2022-10-21 20:08:11",

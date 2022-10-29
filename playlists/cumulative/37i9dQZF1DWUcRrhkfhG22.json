@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Friends And Other Necessities",
+        "url": "https://open.spotify.com/album/5ECnPA9o4D8IlJRBBaC1fe"
+      },
+      "artists": [
+        {
+          "name": "Swatkins",
+          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209515,
+      "name": "100 Percent",
+      "url": "https://open.spotify.com/track/2EhAOc7H0qXKBK9SDTCcKu"
+    },
+    {
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/0dgErgADgR9uDN5dSaP29f"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Listen to women from Belgium, at full volume. Cover: Amelie Lens",
-  "num_followers": 4069,
+  "num_followers": 4068,
   "original_name": "EQUAL Belgium",
   "owner": {
     "name": "Spotify",
@@ -59,17 +59,21 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Speed Killer (Edit)",
+        "name": "Speed Killer (feat. SKEMER) [Edit]",
         "url": "https://open.spotify.com/album/6zoS4HQllcIbmb9gSCZHF1"
       },
       "artists": [
         {
           "name": "Dana Montana",
           "url": "https://open.spotify.com/artist/1PMccQNTT2JedmH7SXMT9z"
+        },
+        {
+          "name": "SKEMER",
+          "url": "https://open.spotify.com/artist/2QHpQ8U9ycMSo9CVZgJDu1"
         }
       ],
       "duration_ms": 172278,
-      "name": "Speed Killer - Edit",
+      "name": "Speed Killer (feat. SKEMER) - Edit",
       "url": "https://open.spotify.com/track/4mt7rp96iPGeplxtHpXtj2"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Silvana Estrada
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,884 likes - 71 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,890 likes - 71 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 28 | [FREAK LIKE ME](https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [FREAK LIKE ME](https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG) | 2:47 |
 | 29 | [căn gác mùa hè \(sweet summer\)](https://open.spotify.com/track/5IdhOcCGRjpmEBFmOJTM6g) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [căn gác mùa hè \(sweet summer\)](https://open.spotify.com/album/5bQzfLbguTeovN8JxHkCPP) | 3:11 |
 | 30 | [Yellow Brick Road](https://open.spotify.com/track/7MYJYInfkV4Jp1CnY2bihc) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 2:37 |
-| 31 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 |
-| 32 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 |
+| 31 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 |
+| 32 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 |
 | 33 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 |
 | 34 | [AMAN](https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [AMAN](https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5) | 3:10 |
 | 35 | [Heartbeat](https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Heartbeat](https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs) | 3:05 |
@@ -47,19 +47,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 37 | [In My Mind](https://open.spotify.com/track/5UAtcDuXrfjU2jUtnEtYMZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [In My Mind EP](https://open.spotify.com/album/0VkR9gcSHuF8jbxsc3SCsp) | 6:28 |
 | 38 | [HIDE AND SEEK](https://open.spotify.com/track/1kgkuIg5YWWV8A93G1hN7I) | [ZUZA](https://open.spotify.com/artist/7LUZ4hKUPN0UitE6WqWyKQ), [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [HIDE AND SEEK](https://open.spotify.com/album/47KfJWxppOSmiKyFmFikBY) | 3:02 |
 | 39 | [Dziewczyna z tatuażem](https://open.spotify.com/track/2Vj7I6BgiUEsCOI2gZiY5Q) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Dziewczyna z tatuażem](https://open.spotify.com/album/4lk4BJI6KHPfgVW1Mb28Re) | 5:04 |
-| 40 | [IL FUMO UCCIDE](https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [IL FUMO UCCIDE](https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU) | 3:05 |
-| 41 | [Obvi](https://open.spotify.com/track/2qKm38yVYENyqytMGLNt2Y) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Obvi](https://open.spotify.com/album/1up43JxXIQ3MbRYWfJ6piU) | 2:31 |
+| 40 | [Obvi](https://open.spotify.com/track/2qKm38yVYENyqytMGLNt2Y) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Obvi](https://open.spotify.com/album/1up43JxXIQ3MbRYWfJ6piU) | 2:31 |
+| 41 | [IL FUMO UCCIDE](https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [IL FUMO UCCIDE](https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU) | 3:05 |
 | 42 | [Mood Hoover](https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Mood Hoover](https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1) | 3:14 |
-| 43 | [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 |
-| 44 | [CONTROL](https://open.spotify.com/track/0BJQL4uOXzJCwtVQO141SQ) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [SunSystem](https://open.spotify.com/album/2iZTwsFoNuV7KywtKM7lVT) | 2:59 |
+| 43 | [CONTROL](https://open.spotify.com/track/0BJQL4uOXzJCwtVQO141SQ) | [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [SunSystem](https://open.spotify.com/album/2iZTwsFoNuV7KywtKM7lVT) | 2:59 |
+| 44 | [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 |
 | 45 | [LOLI](https://open.spotify.com/track/79Rmbn2Uiy84RTyCamsuN4) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Brujerías de Cantina](https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy) | 2:19 |
 | 46 | [Rollin'](https://open.spotify.com/track/1o8aLzMLNpW6wsMpVCpLpy) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Rollin'](https://open.spotify.com/album/5qVB1w5FpWODqzRjMT3mnN) | 2:43 |
 | 47 | [Jammin' Tonight](https://open.spotify.com/track/0mUsrgWAbaoc6daw6z2HDO) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Jammin' Tonight](https://open.spotify.com/album/2JuAzf0eakBX1l47SyJbu7) | 4:07 |
 | 48 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 |
 | 49 | [Your Universe](https://open.spotify.com/track/46BiCwK19EBpo5GQAu5Zzq) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Your Universe](https://open.spotify.com/album/6P1YM5ziaz8LMJNRu3BGMD) | 3:58 |
 | 50 | [Get It Right](https://open.spotify.com/track/1zB3PXJUnLtaKwh8BFgrPZ) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Get It Right](https://open.spotify.com/album/0ZHtV08dK9qMw9g3cSCpz8) | 3:08 |
-| 51 | [Let Me In](https://open.spotify.com/track/0zVDBpbaqYg7lmBfAdX75p) | [Luise Najib](https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0) | [Let Me In](https://open.spotify.com/album/1QPXK7Ig0chdgC8wPHmxyI) | 3:36 |
-| 52 | [Nereye Gömsem?](https://open.spotify.com/track/5LnoItjgkP1jQB1BT3xmMc) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Nereye Gömsem?](https://open.spotify.com/album/4L4pTQbsLkzPJWUogZTw05) | 2:55 |
+| 51 | [Nereye Gömsem?](https://open.spotify.com/track/5LnoItjgkP1jQB1BT3xmMc) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Nereye Gömsem?](https://open.spotify.com/album/4L4pTQbsLkzPJWUogZTw05) | 2:55 |
+| 52 | [Let Me In](https://open.spotify.com/track/0zVDBpbaqYg7lmBfAdX75p) | [Luise Najib](https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0) | [Let Me In](https://open.spotify.com/album/1QPXK7Ig0chdgC8wPHmxyI) | 3:36 |
 | 53 | [Tudu Tudu Tu](https://open.spotify.com/track/4FOCWMx3Xl36xlEQoEYmpn) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Slow Burn](https://open.spotify.com/album/3rsmCfSkLjDUcjSembmp3S) | 2:40 |
 | 54 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 |
 | 55 | [木頭人的飛行](https://open.spotify.com/track/4GYYWzauSMxdeMcawMMZX2) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [木頭人的飛行](https://open.spotify.com/album/469Eh4wVgpq7Xw5lpBGEAV) | 3:10 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 70 | [Day Off](https://open.spotify.com/track/3HV9EPgIUq0SM4NZfJvBHs) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Darnos Un Dia / Day Off](https://open.spotify.com/album/6EM4z696J7abauiSw0RtXZ) | 4:04 |
 | 71 | [Back to the Basics](https://open.spotify.com/track/7kBaoqgIZPVngTiN3nbjab) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Back to the Basics](https://open.spotify.com/album/0o3Tghkt3jiW5t21LHttmC) | 3:28 |
 
-Snapshot ID: `MTY2NjAxNTI3NSwwMDAwMDAwMDg1YTY0ZjNiYWMwMjViMjhhNjFkMzI4MjNmOWRmNGNl`
+Snapshot ID: `MTY2NjAxNTI3NSwwMDAwMDAwMDE0YTJkNTljZTUxZTVhOTM4N2U4MWU1ODk0MjFiYjBk`

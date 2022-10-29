@@ -4518,6 +4518,24 @@
     },
     {
       "album": {
+        "name": "90 BPM PACK",
+        "url": "https://open.spotify.com/album/0T89TjXznLYFYlVA2EJ72G"
+      },
+      "artists": [
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "Diko Mas",
+      "url": "https://open.spotify.com/track/6lQn5ARNFgrfFZNH8iubFY"
+    },
+    {
+      "album": {
         "name": "1987",
         "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
       },
@@ -5213,7 +5231,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 168000,
       "name": "Ela",
       "url": "https://open.spotify.com/track/2tq1vcOwuhgSuq1QEdLKjz"
@@ -8357,6 +8375,24 @@
       "duration_ms": 165000,
       "name": "Jodeci",
       "url": "https://open.spotify.com/track/6Sj9Fkq2uxfiF2258T2Ifa"
+    },
+    {
+      "album": {
+        "name": "90 BPM PACK",
+        "url": "https://open.spotify.com/album/0T89TjXznLYFYlVA2EJ72G"
+      },
+      "artists": [
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Joey",
+      "url": "https://open.spotify.com/track/4iWB4YtmTxGj9uFljqgidL"
     },
     {
       "album": {
@@ -12841,7 +12877,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 159996,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/259d0kioJeWhOXnNBMyV0B"

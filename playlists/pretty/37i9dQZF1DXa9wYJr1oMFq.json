@@ -1,12 +1,12 @@
 {
   "description": "Get nostalgic with the golden age of pop punk.",
-  "num_followers": 2119975,
+  "num_followers": 2120312,
   "original_name": "Pop Punk Powerhouses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAxMDUwNywwMDAwMDAwMDYzMzgyZjliMWQxOGQ3NjVmZTY4ZmJiNWFjYzZkNzQ3",
+  "snapshot_id": "MTY2MzAxMDUwNywwMDAwMDAwMDc5ODY5OWNjNmJlMDZiYjNlZGI0NzdjZmU5MGQ0ODdj",
   "tracks": [
     {
       "added_at": "2022-09-12 19:21:47",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-09-12 19:21:47",
       "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
         "name": "Page Avenue",
         "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 235200,
       "name": "Until the Day I Die",
       "url": "https://open.spotify.com/track/0DKNNR9iDjwfCEpMiFXMJq"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot"
     },
     {
       "added_at": "2022-09-12 19:21:47",

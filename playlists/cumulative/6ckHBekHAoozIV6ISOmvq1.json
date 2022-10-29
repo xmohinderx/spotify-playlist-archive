@@ -707,7 +707,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 327493,
       "name": "Ahi, amours, con dure departie",
       "url": "https://open.spotify.com/track/6MdDeQdhTuwnzmeag47oAw"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 311266,
       "name": "Ahi, amours, con dure departie",
       "url": "https://open.spotify.com/track/3k4FgoOcjxuwJy7gnc0REZ"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 447040,
       "name": "Amour m\u2019a le cuer mis (Ballade)",
       "url": "https://open.spotify.com/track/6THfQ2uSdqmUTOScQIpZ5B"
@@ -1255,10 +1255,36 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 723506,
       "name": "Amours qui biens ses enchanter",
       "url": "https://open.spotify.com/track/4gHqdwqlZXoSSb0dwcIjct"
+    },
+    {
+      "album": {
+        "name": "De Guillaume de Machaut \u00e0 Guillaume Dufay",
+        "url": "https://open.spotify.com/album/1pdIvD116c50SuWnsqo8zt"
+      },
+      "artists": [
+        {
+          "name": "Jehan de Lescurel",
+          "url": "https://open.spotify.com/artist/5LfIXNo9YfnCtzlSHUBfsp"
+        },
+        {
+          "name": "Emmanuel Bonnardot",
+          "url": "https://open.spotify.com/artist/3owNFrCfXAvF6CDZ059eMc"
+        },
+        {
+          "name": "Camille BONNARDOT",
+          "url": "https://open.spotify.com/artist/4pxGvP7XuySXyKbnu2usMn"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385967,
+      "name": "Amours, cent mille mercyz (Ballade)",
+      "url": "https://open.spotify.com/track/5s4QI1q8jIl2fzCaifElpF"
     },
     {
       "album": {
@@ -1731,7 +1757,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 234000,
       "name": "Avoir cuidai engan\u00e9 le marchi\u00e9 (Jeu-parti)",
       "url": "https://open.spotify.com/track/2cTVHSRrH1zcZ6mObRIaGR"
@@ -2189,7 +2215,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 423933,
       "name": "Bietris est mes delis",
       "url": "https://open.spotify.com/track/5soicLhevzwE3Cwc3rJkCX"
@@ -2403,7 +2429,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2020-11-07",
+      "date_removed": null,
       "duration_ms": 484626,
       "name": "Can vei la lauzeta",
       "url": "https://open.spotify.com/track/79h6bCt3IETWeiBVZfqbDC"
@@ -2495,7 +2521,7 @@
       ],
       "date_added": "2019-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 242000,
       "name": "Canso: Fid e verays",
       "url": "https://open.spotify.com/track/5A2jEEYhxIaAr1mxZ82GLg"
@@ -3925,7 +3951,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 190306,
       "name": "Con bracchi assai",
       "url": "https://open.spotify.com/track/7MohiOMxlzOQMasZUTo5Ai"
@@ -4281,7 +4307,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 265333,
       "name": "Cuers desirous apaie",
       "url": "https://open.spotify.com/track/3W2yk7rO2OtTH1fJTnxo37"
@@ -4577,7 +4603,7 @@
       ],
       "date_added": "2020-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 291133,
       "name": "de Caserta: Amour m'a le cuer mis en tel martire",
       "url": "https://open.spotify.com/track/6O8WXojB37A6u3JFrPYouE"
@@ -5065,7 +5091,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 224364,
       "name": "Dolce fortuna",
       "url": "https://open.spotify.com/track/5T8LknaA1taIpevLAYsUhL"
@@ -5621,7 +5647,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 269160,
       "name": "Entendez tuit ensemble (Chanson mariale)",
       "url": "https://open.spotify.com/track/59thyLhVo9zq8xmBVoa9z1"
@@ -7231,7 +7257,7 @@
       ],
       "date_added": "2020-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 189666,
       "name": "Impudenter circumivi",
       "url": "https://open.spotify.com/track/5Fo9auBwwDDCqGKhcOsPX4"
@@ -8433,7 +8459,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 223213,
       "name": "La plus belle et doulce figure",
       "url": "https://open.spotify.com/track/4L87NkwEcQXsVhGIBcJlDb"
@@ -8463,7 +8489,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 194573,
       "name": "La plus jolie",
       "url": "https://open.spotify.com/track/6B9v1vflKg2rosKL08S0GP"
@@ -9659,6 +9685,28 @@
       "duration_ms": 331893,
       "name": "Meienzit",
       "url": "https://open.spotify.com/track/3EUMpC9qPLCSFhqracn7eP"
+    },
+    {
+      "album": {
+        "name": "La fiamma del to Amor",
+        "url": "https://open.spotify.com/album/6Tnfx8Hu81aMJiFyCJF5Eq"
+      },
+      "artists": [
+        {
+          "name": "Johannes Ciconia",
+          "url": "https://open.spotify.com/artist/6Yux5045CWzC4UqxDX74sQ"
+        },
+        {
+          "name": "Duo Bellerofonte",
+          "url": "https://open.spotify.com/artist/6hQjV7Om6RuxiLGhndNjAo"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244178,
+      "name": "Merc\u00e9 o Morte",
+      "url": "https://open.spotify.com/track/4WyTnpdHMr9azsDpjSfPLq"
     },
     {
       "album": {
@@ -11473,7 +11521,7 @@
       ],
       "date_added": "2019-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 495866,
       "name": "Onques maiz nus hom ne chanta (Chanson)",
       "url": "https://open.spotify.com/track/3RPZ2mlyPdpbIFPU1GxEIk"
@@ -12075,7 +12123,7 @@
       ],
       "date_added": "2019-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 391706,
       "name": "Petre Clemens, tam re quam nimine - Lugentium siccentur occuli plaudant senes (Motette)",
       "url": "https://open.spotify.com/track/3EKK87FM9sC1TxbWcVs2jj"
@@ -12231,7 +12279,7 @@
       ],
       "date_added": "2019-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "Planh for the Lord of Narbonne",
       "url": "https://open.spotify.com/track/1LB27PZnt99VSd2mIJfmlj"
@@ -12653,7 +12701,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 365093,
       "name": "Quan vei la lauzeta mover",
       "url": "https://open.spotify.com/track/1D0zvNWK5DNWfk4uiPz4sR"
@@ -12765,7 +12813,7 @@
       ],
       "date_added": "2020-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 295640,
       "name": "Quand'Amor - Canzone",
       "url": "https://open.spotify.com/track/0Wuvf9euZ42qRxjDG0KXXH"
@@ -14567,7 +14615,7 @@
       ],
       "date_added": "2020-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 255066,
       "name": "Trai-ri deluriau, Robin m'aime",
       "url": "https://open.spotify.com/track/6ajlhguNohurx8cV1HYlvZ"

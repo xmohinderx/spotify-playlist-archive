@@ -4,7 +4,7 @@
 
 > Chilled classical tunes to help you relax and unwind.
 
-141 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/4Num9648PBh0tHBNi9kTl7)
+142 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/4Num9648PBh0tHBNi9kTl7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Lo, the full, final sacrifice, Op\. 26: Amen \- Instrumental](https://open.spotify.com/track/5776PanLfe9zLJMhDbMBgW) | [Gerald Finzi](https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [Nicholas Collon](https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a) | [Introit: The Music of Gerald Finzi](https://open.spotify.com/album/7D1xCSxqiXQxbmP39RknDJ) | 2:40 | 2022-01-28 | 2022-08-03 |
 | [Look Inside Yourself](https://open.spotify.com/track/52GQU2qUtb25jJEmg9hYcU) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/6S0jnsTpJ5qoskAUyjXIm5) | 3:38 | 2022-01-28 | 2022-07-29 |
 | [Look Inside Yourself](https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [L.I.Y.](https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT) | 3:38 | 2022-01-28 | 2022-08-03 |
+| [Lyric for Strings](https://open.spotify.com/track/1baQcdtRay9WntS5ySAkOZ) | [George Walker](https://open.spotify.com/artist/2pPbwLIL97jlqzsKlzVdzz), [Kellen Gray](https://open.spotify.com/artist/2B3W9IVheD4omk92orPHwt), [Royal Scottish National Orchestra](https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf) | [African American Voices](https://open.spotify.com/album/4f6XPe8F6DWVrPx3dwcFny) | 5:22 | 2022-10-28 |  |
 | [Lyric Pieces, Book 5, Op\. 54: Nocturne](https://open.spotify.com/track/2GJFu2G9fhaYFrOoX9bejs) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Lullabies for Mila](https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx) | 3:40 | 2022-01-28 |  |
 | [Ma mère l'oye, M\. 62: Apothéose\. Le jardin féerique](https://open.spotify.com/track/32Icp7aedxQEHmvPPGrOFd) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo), [Leonard Slatkin](https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua) | [Ravel: L'enfant et les sortilèges, M\. 71 & Ma mère l'oye, M\. 62](https://open.spotify.com/album/1XZNjMKhs0COCGQfkNUlzE) | 3:34 | 2022-01-28 | 2022-07-29 |
 | [Ma mère l'oye, M\. 62: Tableau VI: Le jardin feerique](https://open.spotify.com/track/1PWSxDyn7QKSLxYOfAvp10) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo), [Leonard Slatkin](https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua) | [Ravel: L'enfant et les sortilèges, M\. 71 & Ma mère l'oye, M\. 62](https://open.spotify.com/album/1E0g1RP7XJem98VuCtRo8X) | 3:34 | 2022-01-28 | 2022-08-03 |

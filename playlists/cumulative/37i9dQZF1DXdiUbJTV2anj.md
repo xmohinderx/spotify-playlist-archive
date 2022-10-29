@@ -2,9 +2,9 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: Tallah
+> Heavy new bands you need to have an eye on\. Cover: Bloodywood
 
-104 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
+106 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,17 +38,19 @@
 | [Empty Vessels](https://open.spotify.com/track/0uAFXFjrVi3Bd1LDDMl4vI) | [Graupel](https://open.spotify.com/artist/7vIC7DWLeeIk5kHTZosmg6) | [Empty Vessels](https://open.spotify.com/album/1Lz5DqGT3XU3Zlyp80T4pJ) | 2:40 | 2022-07-29 | 2022-08-27 |
 | [Extending Obscurity](https://open.spotify.com/track/5DpmC9LG2152tAodIgFFRK) | [The Spirit](https://open.spotify.com/artist/1KLoISkEyIEt9Q6xMB83Ah) | [Extending Obscurity](https://open.spotify.com/album/2fbegWCx4Evi0U8OWLDkb0) | 3:54 | 2022-07-29 |  |
 | [FANTASY](https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FANTASY](https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn) | 2:10 | 2022-07-29 | 2022-09-03 |
+| [Felt Like Home](https://open.spotify.com/track/1Tvq5AWaYmN598So4r6p2h) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Felt Like Home](https://open.spotify.com/album/7BCIRnGqWxt9w9JsbsjYIE) | 3:30 | 2022-10-28 |  |
 | [FIX THIS](https://open.spotify.com/track/1qoQclrr4nysaJXt9NMQGA) | [Borders](https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO) | [FIX THIS](https://open.spotify.com/album/2ABQMw2umOizavA4yPSRZQ) | 2:27 | 2022-10-14 |  |
 | [Flock](https://open.spotify.com/track/3kOCCO9FS1u4fGn7Khcmmt) | [Haunted By Silhouettes](https://open.spotify.com/artist/7cXEMDxakHoQn4QmGMUmGe) | [Flock](https://open.spotify.com/album/5mb26sOcVrRDb0cQOxT4Mf) | 3:01 | 2022-07-29 | 2022-08-20 |
 | [For The Recognition](https://open.spotify.com/track/3LQZTazcTfzgFlmkHiZIuW) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [For The Recognition](https://open.spotify.com/album/7EQ5g4NnhDG38WqZRYUy0b) | 4:02 | 2022-10-14 |  |
-| [Forced to Smile](https://open.spotify.com/track/6ugI9vdvlPnYqlDu6uhTdT) | [El Moono](https://open.spotify.com/artist/6JnVIkM76FVcDo5RXEwXTS) | [Temple Corrupted](https://open.spotify.com/album/1H7XITXYXGXytAUlXolo2P) | 3:58 | 2022-08-19 |  |
+| [Forced to Smile](https://open.spotify.com/track/6ugI9vdvlPnYqlDu6uhTdT) | [El Moono](https://open.spotify.com/artist/6JnVIkM76FVcDo5RXEwXTS) | [Temple Corrupted](https://open.spotify.com/album/1H7XITXYXGXytAUlXolo2P) | 3:58 | 2022-08-19 | 2022-10-29 |
 | [FUCKYOU!](https://open.spotify.com/track/6BtDU1nkjCcc1Ko8ADERxM) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH) | [FUCKYOU!](https://open.spotify.com/album/4Vdf6QbH9pCruj1FEfE7rc) | 1:17 | 2022-07-29 | 2022-09-10 |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-30 | 2022-10-15 |
 | [Gaddaar](https://open.spotify.com/track/3Kj2M9gRU1Lwf5eiNjBtBp) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Rakshak](https://open.spotify.com/album/24gOuJnIeGxz0eBrmgid2Q) | 4:44 | 2022-08-19 |  |
 | [Glory Pictures](https://open.spotify.com/track/0gGjemuhjOgxVfizp0RhCD) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Glory Pictures](https://open.spotify.com/album/3Iii4mUoKSuYIus9iEq1j3) | 2:50 | 2022-07-29 | 2022-08-20 |
 | [Gold Chain Punk \(whogonbeatmyass?\)](https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:47 | 2022-08-19 | 2022-10-15 |
+| [I Sing Alone](https://open.spotify.com/track/2H4jNC3nMl22tyVK1BeLGH) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [I Sing Alone](https://open.spotify.com/album/0qxrvbiTs5U7exUPdyBlYP) | 3:33 | 2022-10-28 |  |
 | [I'm the Water](https://open.spotify.com/track/19LZ0uat4YWx0EE9ezlOE9) | [Indigo Storm](https://open.spotify.com/artist/0jwtY9QnEopkK4nI9McYDk) | [I'm the Water](https://open.spotify.com/album/6IQJUqVhJX9Bb30tjCu4L7) | 3:47 | 2022-07-29 | 2022-09-10 |
-| [Imposter Syndrome](https://open.spotify.com/track/36fPtq8jWJtNKsYC71Hmjz) | [Neon Graves](https://open.spotify.com/artist/0p3c6u5PBPVsrl2UhZexDx) | [Imposter Syndrome](https://open.spotify.com/album/5aWPk94JZoe4ALrAmczFVg) | 2:01 | 2022-07-29 |  |
+| [Imposter Syndrome](https://open.spotify.com/track/36fPtq8jWJtNKsYC71Hmjz) | [Neon Graves](https://open.spotify.com/artist/0p3c6u5PBPVsrl2UhZexDx) | [Imposter Syndrome](https://open.spotify.com/album/5aWPk94JZoe4ALrAmczFVg) | 2:01 | 2022-07-29 | 2022-10-29 |
 | [In the Way](https://open.spotify.com/track/4EixKLBcPtkqDGk2Z3zUAv) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [In the Way](https://open.spotify.com/album/0OQPHI8H2ET6FkX69ioanM) | 3:22 | 2022-07-29 | 2022-09-10 |
 | [Ingsoc](https://open.spotify.com/track/3wXtzHfLRfz3fFkveuboPf) | [Burner](https://open.spotify.com/artist/7Amw4gNz7nLq7140PFhtuk) | [A Vision Of The End](https://open.spotify.com/album/1jRJTS1dobAT283CzlHHjh) | 3:14 | 2022-08-19 |  |
 | [It's Art](https://open.spotify.com/track/4dGunaOmjXIIVbcB3c4RW6) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [It's Art](https://open.spotify.com/album/3HB1H5mkWhIVBA4E5PBGgV) | 2:58 | 2022-07-29 | 2022-08-27 |

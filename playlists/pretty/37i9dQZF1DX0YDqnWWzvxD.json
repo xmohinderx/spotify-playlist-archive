@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 47592,
+  "num_followers": 47656,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU5NTgwNywwMDAwMDAwMDhmNmQ5YjM0NGUzNzNlYjFjNTIwMzc1ZDlhY2ExMTY1",
+  "snapshot_id": "MTY1OTU5NTgwNywwMDAwMDAwMDQ1M2I3NWYxOWFlNjM5YWYxMGM3YTYxOWJjODRlZThl",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -439,22 +439,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Leviathan",
-        "url": "https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz"
-      },
-      "artists": [
-        {
-          "name": "Dean Delaux",
-          "url": "https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0"
-        }
-      ],
-      "duration_ms": 144845,
-      "name": "Leviathan",
-      "url": "https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Meditations for Transformation: Cycle of Life",
         "url": "https://open.spotify.com/album/3W9Jqw4DcG9dfZm2Y53eU0"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 366226,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/3Vdmlvo70yXOD0z2DSkHGJ"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Leviathan",
+        "url": "https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz"
+      },
+      "artists": [
+        {
+          "name": "Dean Delaux",
+          "url": "https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0"
+        }
+      ],
+      "duration_ms": 144845,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "At Ease",
-        "url": "https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN"
-      },
-      "artists": [
-        {
-          "name": "Steve Gorn",
-          "url": "https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC"
-        }
-      ],
-      "duration_ms": 332333,
-      "name": "At Ease",
-      "url": "https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Prana: Music for Yoga, Meditation & Relaxation",
         "url": "https://open.spotify.com/album/0SfSkFENtIQ8puDcW6ymn1"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 624026,
       "name": "Storm of Prayers",
       "url": "https://open.spotify.com/track/7hPabdlyPYruzSufxHhKwQ"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "At Ease",
+        "url": "https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN"
+      },
+      "artists": [
+        {
+          "name": "Steve Gorn",
+          "url": "https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC"
+        }
+      ],
+      "duration_ms": 332333,
+      "name": "At Ease",
+      "url": "https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Sleep",
-        "url": "https://open.spotify.com/album/4lqKYa3IPsOnUF2f8U3Q1n"
-      },
-      "artists": [
-        {
-          "name": "Pola Ris",
-          "url": "https://open.spotify.com/artist/16VXoSl3epjUhXIASoa0qO"
-        }
-      ],
-      "duration_ms": 229078,
-      "name": "Imgur",
-      "url": "https://open.spotify.com/track/5Jxym542I1NBxCm6N2i2uo"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Yoga Harmony",
         "url": "https://open.spotify.com/album/5kT8kbTfvjIkRNM129gjai"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 499696,
       "name": "Earth and Sky",
       "url": "https://open.spotify.com/track/0J6sAnH5FE4wHFr3W7qrmQ"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/4lqKYa3IPsOnUF2f8U3Q1n"
+      },
+      "artists": [
+        {
+          "name": "Pola Ris",
+          "url": "https://open.spotify.com/artist/16VXoSl3epjUhXIASoa0qO"
+        }
+      ],
+      "duration_ms": 229078,
+      "name": "Imgur",
+      "url": "https://open.spotify.com/track/5Jxym542I1NBxCm6N2i2uo"
     },
     {
       "added_at": "2021-06-15 08:38:14",

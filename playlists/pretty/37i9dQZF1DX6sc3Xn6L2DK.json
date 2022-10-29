@@ -1,12 +1,12 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 27385,
+  "num_followers": 27402,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDM5ZWQwMTE2NTc5ODBlODM2YjA0MzVjNzQwYjNiMTY4",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGM3YzcwN2U3ZjdiZmJkMjgxM2ZkYjNmOWJlZTExYmMw",
   "tracks": [
     {
       "added_at": "2021-12-15 16:36:26",
@@ -39,6 +39,22 @@
       "duration_ms": 246133,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "El Bueno Y El Malo",
+        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Thunderbird",
+      "url": "https://open.spotify.com/track/36gUdwmMhZXcwOSaUkTPty"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -91,22 +107,6 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "The Late Great Townes Van Zandt",
-        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Poncho & Lefty",
-      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
         "name": "Nobody Lives Here Anymore",
         "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
       },
@@ -139,18 +139,18 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
-        "name": "Room 41",
-        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
+        "name": "The Late Great Townes Van Zandt",
+        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
       },
       "artists": [
         {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
         }
       ],
-      "duration_ms": 239803,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
+      "duration_ms": 220573,
+      "name": "Poncho & Lefty",
+      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -169,20 +169,28 @@
       "url": "https://open.spotify.com/track/3XSMqnPOR0UJBnbEZL656D"
     },
     {
-      "added_at": "2021-12-15 16:36:26",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Old Time Feeling",
-        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+        "name": "Foxwarren",
+        "url": "https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "Foxwarren",
+          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
+        },
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        },
+        {
+          "name": "Darryl Kissick",
+          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
         }
       ],
-      "duration_ms": 272786,
-      "name": "Space And Time",
-      "url": "https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN"
+      "duration_ms": 260090,
+      "name": "Sunset Canyon",
+      "url": "https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -201,6 +209,22 @@
       "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
     },
     {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Room 41",
+        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 239803,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Hermosa Drive",
@@ -215,26 +239,6 @@
       "duration_ms": 234040,
       "name": "Hermosa Drive",
       "url": "https://open.spotify.com/track/6WysaBBSPIpoVPCbF4Rys4"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Feet Off The Ground (feat. Jade Bird)",
-        "url": "https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        },
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 258188,
-      "name": "Feet Off The Ground (feat. Jade Bird)",
-      "url": "https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -267,6 +271,42 @@
       "duration_ms": 165186,
       "name": "Waiting Around to Die",
       "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Old Time Feeling",
+        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 272786,
+      "name": "Space And Time",
+      "url": "https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
+        "name": "Feet Off The Ground (feat. Jade Bird)",
+        "url": "https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        },
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 258188,
+      "name": "Feet Off The Ground (feat. Jade Bird)",
+      "url": "https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -629,6 +669,22 @@
       "url": "https://open.spotify.com/track/5DQFjLWTW7AGqaPLdeXCTz"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 365746,
+      "name": "Riding For The Feeling",
+      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
+    },
+    {
       "added_at": "2021-12-15 16:36:26",
       "album": {
         "name": "Home on the Rage",
@@ -763,6 +819,22 @@
     {
       "added_at": "2021-12-15 16:36:26",
       "album": {
+        "name": "Toshiba Sky",
+        "url": "https://open.spotify.com/album/54g5o5xaRVed25fqwz7QEO"
+      },
+      "artists": [
+        {
+          "name": "Dougie Poole",
+          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
+        }
+      ],
+      "duration_ms": 196765,
+      "name": "Toshiba Sky",
+      "url": "https://open.spotify.com/track/0BAmbyXYoRTP0Pf9SkPUjr"
+    },
+    {
+      "added_at": "2021-12-15 16:36:26",
+      "album": {
         "name": "Sam Amidon",
         "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
       },
@@ -779,22 +851,6 @@
       "duration_ms": 213080,
       "name": "Sundown (feat. Beth Orton)",
       "url": "https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Toshiba Sky",
-        "url": "https://open.spotify.com/album/54g5o5xaRVed25fqwz7QEO"
-      },
-      "artists": [
-        {
-          "name": "Dougie Poole",
-          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
-        }
-      ],
-      "duration_ms": 196765,
-      "name": "Toshiba Sky",
-      "url": "https://open.spotify.com/track/0BAmbyXYoRTP0Pf9SkPUjr"
     },
     {
       "added_at": "2021-12-15 16:36:26",
@@ -1005,6 +1061,22 @@
       "url": "https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Speed, Sound, Lonely KV (ep)",
+        "url": "https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 394528,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7"
+    },
+    {
       "added_at": "2021-12-15 16:36:26",
       "album": {
         "name": "Love Can Find You Anywhere",
@@ -1171,78 +1243,6 @@
       "duration_ms": 225461,
       "name": "Happy Birthday, Baby",
       "url": "https://open.spotify.com/track/34VFKmBbDY1iKejeoJZHlK"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Halcyon Days",
-        "url": "https://open.spotify.com/album/2hlMvvoBnaXybXY2qxxx8k"
-      },
-      "artists": [
-        {
-          "name": "Kip Nelson",
-          "url": "https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs"
-        }
-      ],
-      "duration_ms": 188677,
-      "name": "Halcyon Days",
-      "url": "https://open.spotify.com/track/7sFg1mQSgQMicsQtDNvjhD"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Strange Fascination",
-        "url": "https://open.spotify.com/album/5PnMwyxLM380aAXjAWn5gQ"
-      },
-      "artists": [
-        {
-          "name": "Chatham County Line",
-          "url": "https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7"
-        },
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 258930,
-      "name": "Strange Fascination",
-      "url": "https://open.spotify.com/track/1RQcETFoOBuy8oPHXE8dq7"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Isn\u2019t It",
-        "url": "https://open.spotify.com/album/1vRciHqPyPkre5uJHbCeDC"
-      },
-      "artists": [
-        {
-          "name": "Kacy & Clayton",
-          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
-        },
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 124760,
-      "name": "Isn\u2019t It",
-      "url": "https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst"
-    },
-    {
-      "added_at": "2021-12-15 16:36:26",
-      "album": {
-        "name": "Charlie Marie",
-        "url": "https://open.spotify.com/album/1Z0wb6vPJo4TlSQs3YU9sp"
-      },
-      "artists": [
-        {
-          "name": "Charlie Marie",
-          "url": "https://open.spotify.com/artist/406fNzpPwYacXCIIExPSuj"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/6q6czsVwoeC3mm0oJUwsgd"
     }
   ],
   "unique_name": "Cosmic Country",

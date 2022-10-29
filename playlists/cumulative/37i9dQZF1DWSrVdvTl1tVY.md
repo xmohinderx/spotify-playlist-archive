@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Saffron Stone
 
-370 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
+371 songs - 22 hr 23 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Change](https://open.spotify.com/track/09KmIUMlvTx7TZQrrSKCgl) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Change / Take My Time](https://open.spotify.com/album/08nFm5wXYFGlkJ8jXn6cm5) | 4:50 | 2022-08-11 | 2022-10-13 |
 | [Change](https://open.spotify.com/track/0eK9owI3ww9aY4KT7pFOt6) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Wayne Snow](https://open.spotify.com/artist/4uQXSvBw8nQ6yOEQctKbz0) | [Change / Take My Time](https://open.spotify.com/album/6keiNGWzWUxhvHf0LcDlXT) | 4:50 | 2022-10-07 |  |
 | [Chemical Embrace](https://open.spotify.com/track/7ixvpOECWOPu1q2MWCXN0R) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Chemical Embrace](https://open.spotify.com/album/2Y7wLomfZhspSA1exyLcPS) | 3:12 | 2022-07-22 |  |
+| [Clara \(the night is dark\)](https://open.spotify.com/track/6LeTQu4NvTnLRRiB8GVFQe) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:38 | 2022-10-28 |  |
 | [Cleo \- Edit](https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:09 | 2022-03-08 | 2022-03-10 |
 | [Climax](https://open.spotify.com/track/5kV4UK6QYYOvBDe3nH0Djs) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Climax](https://open.spotify.com/album/75F1ELRXCrRGAPwavt9PNC) | 3:18 | 2022-05-19 | 2022-10-01 |
 | [Closer](https://open.spotify.com/track/37CRlrQQUbL5sKWDAuYE7E) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Closer](https://open.spotify.com/album/6r5uJ29q6WLf2UzP7nGTJG) | 3:38 | 2022-02-25 | 2022-05-28 |
@@ -318,7 +319,7 @@
 | [Steel Bird](https://open.spotify.com/track/4un3tbgpIGcdhwQ0OEwYSe) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Steel Bird](https://open.spotify.com/album/6D2PmR8qcJ8gb6EnBSDFQZ) | 6:12 | 2022-05-06 | 2022-08-12 |
 | [Sternenhimmel](https://open.spotify.com/track/3g4JgXeSpv5wXGzdsDxCRi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Sternenhimmel](https://open.spotify.com/album/2f0AGOZB1C803GlPxAEdXe) | 5:34 | 2022-07-29 |  |
 | [Still In Love](https://open.spotify.com/track/6pqWRtYrwcsjNG3OaoPhWj) | [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Still In Love](https://open.spotify.com/album/1t2YpyQrD6ynTAzToruj4a) | 2:29 | 2022-05-27 | 2022-07-30 |
-| [Supersonic](https://open.spotify.com/track/7f44pADg4CUXc27t4qfYe6) | [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT) | [Supersonic](https://open.spotify.com/album/5L3PgHlSfk65OsqXsjC4CQ) | 2:43 | 2022-07-07 |  |
+| [Supersonic](https://open.spotify.com/track/7f44pADg4CUXc27t4qfYe6) | [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT) | [Supersonic](https://open.spotify.com/album/5L3PgHlSfk65OsqXsjC4CQ) | 2:43 | 2022-07-07 | 2022-10-29 |
 | [Sweat](https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Sweat](https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E) | 2:56 | 2021-12-17 | 2022-03-12 |
 | [Take Me Back](https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Take Me Back](https://open.spotify.com/album/50cYbqeQKDmSXTBxpq6ofq) | 3:17 | 2022-06-16 | 2022-10-14 |
 | [Take Me High](https://open.spotify.com/track/3eQ2o9qHlzsMPdgIzeT63f) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [JOY](https://open.spotify.com/album/7k0sWYeRb1VDKDjdMOJBOp) | 4:26 | 2021-12-17 | 2022-04-08 |

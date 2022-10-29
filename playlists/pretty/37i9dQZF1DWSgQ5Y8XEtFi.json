@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 121766,
+  "num_followers": 122283,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjcxMTI4NCwwMDAwMDAwMDE4M2ZjYjdkZTM3NzdkYTg2NzA5N2RiZGEzMGZmZjIx",
+  "snapshot_id": "MTY2NjcxMTI4NCwwMDAwMDAwMDM2ZTM2YjIzNjM2ZGQ1MGFlMjU5N2IwMWYxYjA2ZmVi",
   "tracks": [
     {
       "added_at": "2022-10-07 11:48:00",
@@ -439,6 +439,42 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
+        "name": "GOODMORNINGTOKYO!",
+        "url": "https://open.spotify.com/album/2P4n4HSzB7ZHocIaIp96bD"
+      },
+      "artists": [
+        {
+          "name": "TOKYO\u2019S REVENGE",
+          "url": "https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt"
+        }
+      ],
+      "duration_ms": 150115,
+      "name": "GOODMORNINGTOKYO!",
+      "url": "https://open.spotify.com/track/0Q2n5yzl2XRqYbV77tZNYp"
+    },
+    {
+      "added_at": "2022-10-25 15:20:00",
+      "album": {
+        "name": "bag or die",
+        "url": "https://open.spotify.com/album/4oGLasNzQCSK6V3A8ssVKY"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Lil Toe",
+          "url": "https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z"
+        }
+      ],
+      "duration_ms": 178520,
+      "name": "deadman (feat. Lil Toe)",
+      "url": "https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -467,42 +503,6 @@
       "duration_ms": 309322,
       "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
       "url": "https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4"
-    },
-    {
-      "added_at": "2022-10-25 15:20:00",
-      "album": {
-        "name": "bag or die",
-        "url": "https://open.spotify.com/album/4oGLasNzQCSK6V3A8ssVKY"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Lil Toe",
-          "url": "https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z"
-        }
-      ],
-      "duration_ms": 178520,
-      "name": "deadman (feat. Lil Toe)",
-      "url": "https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "GOODMORNINGTOKYO!",
-        "url": "https://open.spotify.com/album/2P4n4HSzB7ZHocIaIp96bD"
-      },
-      "artists": [
-        {
-          "name": "TOKYO\u2019S REVENGE",
-          "url": "https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt"
-        }
-      ],
-      "duration_ms": 150115,
-      "name": "GOODMORNINGTOKYO!",
-      "url": "https://open.spotify.com/track/0Q2n5yzl2XRqYbV77tZNYp"
     },
     {
       "added_at": "2022-10-07 11:48:00",

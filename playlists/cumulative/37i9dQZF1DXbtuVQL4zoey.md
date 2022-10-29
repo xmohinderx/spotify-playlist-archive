@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-399 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+402 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Beggin'](https://open.spotify.com/track/5eG41VMRPiEf4uIYGdXTc1) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Beggin'](https://open.spotify.com/album/4UruVCOHP4j0PIBJ8yb2dJ) | 2:21 | 2022-06-03 |  |
 | [Beijo Doce](https://open.spotify.com/track/53VTzwDAl6PD9T1hs4rFHH) | [Dawmata](https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3) | [Beijo Doce](https://open.spotify.com/album/1Mim0BAGo3YQDCq0gLQISK) | 2:04 | 2022-06-17 |  |
 | [Big Easy City](https://open.spotify.com/track/22JgzHfHyonKuvOSpvEKDz) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu) | [Big Easy City](https://open.spotify.com/album/12GryY117JWWaGiywcZrdJ) | 2:00 | 2022-05-20 |  |
+| [Bike Ride](https://open.spotify.com/track/3Xq6IMKkk7fVHQRkyo3ef8) | [Guidolain beats](https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP), [Rivizion](https://open.spotify.com/artist/1esGPYEd8HVgZnwtDicKoJ), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Bike Ride](https://open.spotify.com/album/0JcJ9Lq0GfCbKkv3dysYoV) | 2:18 | 2022-10-28 |  |
 | [Birch](https://open.spotify.com/track/3dOoEWVJqCZruubyO0W0Dt) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Birch](https://open.spotify.com/album/3QRUkSveMnmFIotjK9hivL) | 1:52 | 2022-05-20 | 2022-05-27 |
 | [Birch Sap](https://open.spotify.com/track/5tiP9vXHi7Z12WkGyup8zV) | [ULMÄR](https://open.spotify.com/artist/7BJ1Z3VaSzoX2z4p6OtwFU) | [Beatology Vol\. 1](https://open.spotify.com/album/3PyZ6vA8aoyhW0nskqCZlj) | 2:37 | 2022-05-20 |  |
 | [Black Foam](https://open.spotify.com/track/5ABxYELhyp9nIHqCADcRSD) | [Skinny Cap](https://open.spotify.com/artist/4xpyWZOZJlhLhdeCrr3SV9) | [Black Foam](https://open.spotify.com/album/0PP5wt0BC0NmGb7PU652fR) | 2:03 | 2022-05-20 |  |
@@ -67,6 +68,7 @@
 | [buenos](https://open.spotify.com/track/6Ags8HBI6GXgKzeR4iwrHz) | [Joey Silva](https://open.spotify.com/artist/4wVViv1ngnAiahW2T7UQgB) | [buenos](https://open.spotify.com/album/0M6aPj5ye5io6Iq1Qwp93d) | 2:04 | 2022-09-02 |  |
 | [Buttercup](https://open.spotify.com/track/1XzSlTtvZTK7qx0m7Qep4y) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Why Now](https://open.spotify.com/album/0l6YGYhbSoEtInFbdy86l3) | 2:30 | 2022-05-20 | 2022-07-01 |
 | [Buzz](https://open.spotify.com/track/4l9tBmE0kfF7pHQ0BavAGB) | [Ritsou Lalai](https://open.spotify.com/artist/5aO7hHRToXlsRMfZ3Ah6aa) | [Buzz](https://open.spotify.com/album/4PSW7vbPagqu8fc81R7Nvw) | 2:34 | 2022-05-20 |  |
+| [Calypso](https://open.spotify.com/track/2XUJwfew9Dym5GGJx9iz3J) | [Sloepoke](https://open.spotify.com/artist/4PA0B5xujSlQnGiTiAPb1E) | [Calypso](https://open.spotify.com/album/45VHt2dPa3uWf9GNtMqM3l) | 2:03 | 2022-10-28 |  |
 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 | 2022-05-20 | 2022-09-03 |
 | [Can We Just Vibe?](https://open.spotify.com/track/0wmr45zDNsSMy9cRgddm4E) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [Can We Just Vibe?](https://open.spotify.com/album/5WsSwxseHP6HV4DVWl0CVn) | 2:44 | 2022-05-20 |  |
 | [candy](https://open.spotify.com/track/1VAA1DDsPBI5HtHKz71szq) | [whknws.](https://open.spotify.com/artist/7ppgTDZ2LUf9ArtdgkZnX3) | [candy](https://open.spotify.com/album/04CTvp4lpryXBremwXAnKt) | 1:25 | 2022-06-17 |  |
@@ -265,6 +267,7 @@
 | [Parallels](https://open.spotify.com/track/6Puzyr6rxBYIjlKG5GTifj) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Parallels](https://open.spotify.com/album/4AtoJKSW4QAAJYRQTuZVwQ) | 2:38 | 2022-05-27 |  |
 | [Pear Pressure](https://open.spotify.com/track/6Cr1O5VOD2QPYQWHTDRg3c) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Pear Pressure](https://open.spotify.com/album/12EcN4Do1ydB2IPU5Wke1s) | 2:22 | 2022-05-20 |  |
 | [Picnic With A Tape Recorder](https://open.spotify.com/track/3Ls2JfT2cWABG0uTCJKoqJ) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [Gera Dzhio](https://open.spotify.com/artist/5nAEC4dYPM5hpAbikljUel) | [Picnic With A Tape Recorder](https://open.spotify.com/album/6znRumGtrgq8rMAHTZF9sE) | 2:36 | 2022-08-05 |  |
+| [Pincushion Island](https://open.spotify.com/track/7ilqawEgDbx8zVanjTqpMQ) | [2Shy](https://open.spotify.com/artist/0jHS1ZWecQVPwsloGNiCNr) | [Pincushion Island](https://open.spotify.com/album/2GiY1hP6d5nXqmkePHbF8q) | 2:19 | 2022-10-28 |  |
 | [pinecone](https://open.spotify.com/track/4MDKMZCcCzBzR7oB3zfHAt) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [pinecone](https://open.spotify.com/album/12QtvCPGdXpxJZmqTi1h6y) | 1:55 | 2022-05-20 |  |
 | [Pink](https://open.spotify.com/track/5awtju4msMy7Cyovaoxo7j) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Pink](https://open.spotify.com/album/6iaKYDhkwhl7r0TPpZ1ePJ) | 2:14 | 2022-09-09 |  |
 | [Plastic Boys](https://open.spotify.com/track/0VVkD4K9rMQtQYFdzKXMIv) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:36 | 2022-06-10 |  |

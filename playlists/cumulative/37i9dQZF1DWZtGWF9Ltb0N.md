@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-400 songs - 1 day 6 hr 36 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
+401 songs - 1 day 6 hr 38 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Cartel](https://open.spotify.com/track/59IiQCRjKBFmjPbFd0MOzs) | [Sub Basics](https://open.spotify.com/artist/6zpwlKhz2dq8BlG1BME5Zh) | [Horus / Cartel](https://open.spotify.com/album/6E99Te82rtI1y9rXKdLZgQ) | 4:26 | 2022-02-17 |  |
 | [CBDUB \- Wake and Bake Mix](https://open.spotify.com/track/4SkXv0xdoJHmBocbtsG5Es) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD), [Rico O.B.F](https://open.spotify.com/artist/3WQz2q2oUIdhBTxoCexWuH) | [Patience](https://open.spotify.com/album/1OxYshleIbIpM22OjG3Dlp) | 4:09 | 2022-03-25 | 2022-10-25 |
 | [Chainba \- Re\-master](https://open.spotify.com/track/6gv55mP8tMeUWBH39KRbhG) | [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu) | [Chainba](https://open.spotify.com/album/1qXZ92jIEGRaUKrRFjjTBP) | 5:11 | 2022-02-17 | 2022-04-26 |
+| [Chamber](https://open.spotify.com/track/2yCz3n7e0rJXpALsmEs1JI) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [Chamber](https://open.spotify.com/album/4vhVPZxXfFP9V7Z9MFWeWR) | 2:40 | 2022-10-28 |  |
 | [Changes](https://open.spotify.com/track/4QeJJXqKtMDFYMWhcvwdMU) | [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu) | [Forgive / Changes](https://open.spotify.com/album/7rtkA3xcICf9NWuRxcJVy4) | 6:50 | 2022-02-17 | 2022-04-09 |
 | [Chit Chat](https://open.spotify.com/track/0sU4IS84fJjHLu2sjnflUf) | [Mr.K](https://open.spotify.com/artist/5ouKVWUPDLS5gCQfvMHZ3T) | [Rib Rattle EP](https://open.spotify.com/album/6eDl3v5W97VP5lHB7pBbFK) | 5:10 | 2022-02-17 | 2022-04-09 |
 | [Choose One \- Original Mix](https://open.spotify.com/track/7IRiYuOrCVvmSNWwtzFgnu) | [RDG](https://open.spotify.com/artist/2olqJvEmZ1i22YG7Rougqn), [Gaze ill](https://open.spotify.com/artist/45wWcLWsx3JDvKKgXpBbFm) | [Choose One / Interscale](https://open.spotify.com/album/3NeePi96DAy0FTpNMpDrxw) | 5:15 | 2022-02-17 | 2022-07-08 |
@@ -88,7 +89,7 @@
 | [Discovery](https://open.spotify.com/track/1hL68mCCsLmtSJNr1W8HmR) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Discovery](https://open.spotify.com/album/4zPaHY0Q3lKzH151iHPL9A) | 4:20 | 2022-09-23 |  |
 | [Dissonance](https://open.spotify.com/track/24r2tiw6Ywi28T07oSbk0S) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [Dissonance](https://open.spotify.com/album/2wdEqqIVyVyiVVByRKduOr) | 5:32 | 2022-02-17 | 2022-07-29 |
 | [Dissonance](https://open.spotify.com/track/5MmEgl5zr8lTmu30HO00Fw) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [Dissonance](https://open.spotify.com/album/1YI0DOkY7g3M4fsMYuMycJ) | 5:32 | 2022-07-08 | 2022-07-30 |
-| [Distant Light](https://open.spotify.com/track/0dpN2BrkuBkpayGK55o70X) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Universal](https://open.spotify.com/album/2u24rPh4PG59tEqJy2qEaH) | 4:13 | 2022-02-17 |  |
+| [Distant Light](https://open.spotify.com/track/0dpN2BrkuBkpayGK55o70X) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Universal](https://open.spotify.com/album/2u24rPh4PG59tEqJy2qEaH) | 4:13 | 2022-02-17 | 2022-10-29 |
 | [Disturbed](https://open.spotify.com/track/5JexpLUHY3HriFPMzbO0aQ) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN) | [Disturbed](https://open.spotify.com/album/0dhYot6jIkDIPw5nMJIHWl) | 4:41 | 2022-02-17 |  |
 | [Down Town Dub](https://open.spotify.com/track/4bC6kRiriuqVWM4D2UgIUW) | [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn) | [Down Town Dub / Tumble](https://open.spotify.com/album/42jIA73ix0bgwNw8slzbOx) | 5:36 | 2022-02-17 |  |
 | [Dread & Buried \- Congi Remix](https://open.spotify.com/track/2AuzAvDq4piWEeSsfkZxqp) | [Origin One](https://open.spotify.com/artist/1EKZ8G8paqscrKD9uZMOor), [Congi](https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag) | [Deeply Remixed, Vol\. 2](https://open.spotify.com/album/1rD87trISV6lwx6QJ5TRpp) | 3:54 | 2022-02-17 |  |

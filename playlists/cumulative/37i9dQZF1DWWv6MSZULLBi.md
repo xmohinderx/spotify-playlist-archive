@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Noah Kahan
 
-233 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+235 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 | 2022-05-13 |  |
 | [drowning](https://open.spotify.com/track/2CCMmAVXaG3LO2t3Aj4L5G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [drowning](https://open.spotify.com/album/5Ytwvvh8F2E4pszQQFFv7i) | 3:06 | 2022-08-19 |  |
 | [East Coast](https://open.spotify.com/track/6bgw8JsLN2d5Ku8u9aVob9) | [Hayden](https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp) | [East Coast](https://open.spotify.com/album/5MuhSLmBPXFjYyf3LWRtFm) | 4:52 | 2022-10-14 |  |
+| [Easy](https://open.spotify.com/track/4Db3Xcq70L7Zcdb8sFqGVL) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Being Somewhere](https://open.spotify.com/album/6dJZLn3DKkPDAobni0ZatR) | 3:53 | 2022-10-28 |  |
 | [Echo](https://open.spotify.com/track/0XuSeDzApPW3VEeMM2G4ei) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q) | [Echo](https://open.spotify.com/album/4IF5F9A68n96gZd9uJTY7A) | 2:34 | 2022-06-10 | 2022-08-27 |
 | [Echo Park](https://open.spotify.com/track/0oKMYyW7lQE1KQWCDyNobd) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Echo Park](https://open.spotify.com/album/3tlE6Sz6txgBWAy32hzc8N) | 3:30 | 2022-09-16 |  |
 | [EMPATHY 4 BETHANY](https://open.spotify.com/track/6Ly65M250uqDVZfj2Z0LdH) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [EMPATHY 4 BETHANY / GREEN APPLE \(EVERY NIGHT I RIDE NIGHT MARES\)](https://open.spotify.com/album/6sQW60NQvtOAjWhysIEO8q) | 4:54 | 2022-05-27 | 2022-09-03 |
@@ -101,13 +102,14 @@
 | [iknowiknow](https://open.spotify.com/track/7ig0m6wR3xUP0ECJR1iJkL) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [WOAH](https://open.spotify.com/album/0ucs6jX7iFtv1e1SS8HTO5) | 2:10 | 2022-07-22 |  |
 | [In 40 Years](https://open.spotify.com/track/0emj2UaC4T1mOGs7duFy01) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [In 40 Years](https://open.spotify.com/album/5WOd2d1WlsHFywLl927fRz) | 3:03 | 2022-06-24 | 2022-08-27 |
 | [In Your Corner \(For Scott Hutchison\)](https://open.spotify.com/track/7bWoSTEWfg97lxGoByeyYH) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [In Your Corner \(For Scott Hutchison\)](https://open.spotify.com/album/481cy5V3RYhcCCLaaB2mav) | 3:16 | 2022-05-13 | 2022-09-17 |
-| [Instant Cash for Gold](https://open.spotify.com/track/5KAiIOtmYxJlW6fIkgWWsH) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Instant Cash for Gold](https://open.spotify.com/album/6USRdm9O0GBJFyQLKav3JR) | 3:07 | 2022-09-30 |  |
+| [Instant Cash for Gold](https://open.spotify.com/track/5KAiIOtmYxJlW6fIkgWWsH) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Instant Cash for Gold](https://open.spotify.com/album/6USRdm9O0GBJFyQLKav3JR) | 3:07 | 2022-09-30 | 2022-10-29 |
 | [It Ain't Me](https://open.spotify.com/track/1ngOAftE7NfyGtfy5Fv3el) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [It Ain't Me](https://open.spotify.com/album/1jYLdSozplK2eI9fHLi2Gf) | 3:37 | 2022-05-13 | 2022-08-20 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-05-13 | 2022-08-20 |
 | [Jean Jackets](https://open.spotify.com/track/7scjbEORM6rWarLNN8fKbX) | [Poor Nameless Boy](https://open.spotify.com/artist/1dg1JkQ7rtDMlwAi19pTZp) | [Jean Jackets](https://open.spotify.com/album/2cvnqzZA3e0yHufeRx9E02) | 3:36 | 2022-05-13 | 2022-06-25 |
 | [Jericho Beach](https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Jericho Beach](https://open.spotify.com/album/3WgUnsJ1FMTyjFr1kR1uZ6) | 2:56 | 2022-10-21 |  |
 | [Jigsaw](https://open.spotify.com/track/16NDgpxqIktl0Uluplcz9A) | [Emma Worley](https://open.spotify.com/artist/4uKFpcmOUIswqq7B1c1Zdv) | [Sentimentalist](https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w) | 3:26 | 2022-06-10 | 2022-08-27 |
-| [Just Know It](https://open.spotify.com/track/1kZmbM1VRxNvtMTKQqdKT2) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Just Know It](https://open.spotify.com/album/2PR7cECQ1VMirJeXjMHeN9) | 2:13 | 2022-09-16 |  |
+| [Joint Account](https://open.spotify.com/track/7MpiFzyjot6mHge9PZKlmm) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx), [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [Joint Account](https://open.spotify.com/album/5I8uUf233kr6FLP7lg6hfG) | 3:06 | 2022-10-28 |  |
+| [Just Know It](https://open.spotify.com/track/1kZmbM1VRxNvtMTKQqdKT2) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Just Know It](https://open.spotify.com/album/2PR7cECQ1VMirJeXjMHeN9) | 2:13 | 2022-09-16 | 2022-10-29 |
 | [Leave When You Go](https://open.spotify.com/track/0SXeE6kClNXeYd4o5blyZZ) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Big Hurt Boy](https://open.spotify.com/album/7h0oaV6ce42bamO6hkywcz) | 3:30 | 2022-05-13 | 2022-06-25 |
 | [Leave You Lonely](https://open.spotify.com/track/4rMaibSlgAUHJD9myTJrKD) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Leave You Lonely](https://open.spotify.com/album/19bm8NFFMHcj3QaqBfq9Es) | 4:24 | 2022-08-19 | 2022-09-24 |
 | [Left Behind](https://open.spotify.com/track/1YtdAhBzYibqmqc6uILz8w) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Adjustments](https://open.spotify.com/album/4yUmdXZO5MItU75tgCDdaA) | 3:37 | 2022-06-24 |  |

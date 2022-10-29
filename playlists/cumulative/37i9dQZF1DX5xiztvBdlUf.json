@@ -202,6 +202,42 @@
     },
     {
       "album": {
+        "name": "Altered Destiny",
+        "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185578,
+      "name": "Altered Destiny - Chill Mix",
+      "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
+    },
+    {
+      "album": {
+        "name": "Always Something",
+        "url": "https://open.spotify.com/album/5vP4jUDdZDqdlQDMroMVJi"
+      },
+      "artists": [
+        {
+          "name": "Manqo",
+          "url": "https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Always Something",
+      "url": "https://open.spotify.com/track/3f0OOLWLpdeDUp3vxv6GEj"
+    },
+    {
+      "album": {
         "name": "Amanh\u00e3",
         "url": "https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna"
       },
@@ -235,6 +271,24 @@
       "duration_ms": 384444,
       "name": "Amethyst",
       "url": "https://open.spotify.com/track/3te14QVhgWAkC3kNMIcy5m"
+    },
+    {
+      "album": {
+        "name": "Heavy Tangled",
+        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
+      },
+      "artists": [
+        {
+          "name": "Etur Usheo",
+          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460800,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
     },
     {
       "album": {
@@ -593,7 +647,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 498849,
       "name": "Breaking Hearts feat. Amos - Black Coffee Remix",
       "url": "https://open.spotify.com/track/67Jq82bDcQipORC0yBiZcc"
@@ -1155,7 +1209,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 203749,
       "name": "Deepest Thoughts",
       "url": "https://open.spotify.com/track/0xYiTAId8EDuHg9RSiP1QR"
@@ -1681,7 +1735,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 281891,
       "name": "Feels Good",
       "url": "https://open.spotify.com/track/2WYgu5SgxDS4F6LwLssMZt"
@@ -2150,6 +2204,32 @@
     },
     {
       "album": {
+        "name": "Howl (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289156,
+      "name": "Howl - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB"
+    },
+    {
+      "album": {
         "name": "Hujan",
         "url": "https://open.spotify.com/album/6pdcYvI6izBIT7bn4c40oS"
       },
@@ -2179,7 +2259,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 392000,
       "name": "I Care For You",
       "url": "https://open.spotify.com/track/5nQ42FeEsRBGZWXHxdeABt"
@@ -3155,7 +3235,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 222947,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/1FgxefL0BLVL5nsteC1Qva"
@@ -3561,6 +3641,36 @@
       "duration_ms": 420003,
       "name": "Octoarp",
       "url": "https://open.spotify.com/track/32ars8bDAg6bz9NwRoqOMY"
+    },
+    {
+      "album": {
+        "name": "Ode Ireti (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE"
+      },
+      "artists": [
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "El-Jay",
+          "url": "https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239925,
+      "name": "Ode Ireti - Nitefreak Remix",
+      "url": "https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX"
     },
     {
       "album": {
@@ -4745,7 +4855,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 388783,
       "name": "Temperament of the Beat",
       "url": "https://open.spotify.com/track/2d7TJXGNI2nvyWF51CLFkJ"
@@ -5029,6 +5139,36 @@
       "duration_ms": 401062,
       "name": "Turning My Head",
       "url": "https://open.spotify.com/track/6n9S8Xb2FzvKsHnsZczfm4"
+    },
+    {
+      "album": {
+        "name": "Under The Scars",
+        "url": "https://open.spotify.com/album/6ClGNENFUIOPj4AB7DhlHG"
+      },
+      "artists": [
+        {
+          "name": "Dave Seaman",
+          "url": "https://open.spotify.com/artist/3TjRLW97EAU4w6knKVBl73"
+        },
+        {
+          "name": "Steve Parry",
+          "url": "https://open.spotify.com/artist/594SGKr5D8OPj62X3hauZn"
+        },
+        {
+          "name": "Nunchi Coup",
+          "url": "https://open.spotify.com/artist/5QIHvC5O3Pei9qLxrqIQBY"
+        },
+        {
+          "name": "Yulanda",
+          "url": "https://open.spotify.com/artist/6B3uM9D81PZaTZiSWIr8SR"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280644,
+      "name": "Under The Scars",
+      "url": "https://open.spotify.com/track/004j8Rc7iHvxgrlsHs1qKG"
     },
     {
       "album": {

@@ -1741,7 +1741,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 174310,
       "name": "back2u",
       "url": "https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8"
@@ -5593,6 +5593,28 @@
       "duration_ms": 318073,
       "name": "FALLING",
       "url": "https://open.spotify.com/track/2Me5ovqaW3PKDYPBlXwq8a"
+    },
+    {
+      "album": {
+        "name": "Falling Back",
+        "url": "https://open.spotify.com/album/5YtbuCRyDgcFhczoXr7KQR"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261120,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG"
     },
     {
       "album": {
@@ -15944,6 +15966,24 @@
     },
     {
       "album": {
+        "name": "scars",
+        "url": "https://open.spotify.com/album/7HCCNdm9M09VVaa17mOjES"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "scars",
+      "url": "https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn"
+    },
+    {
+      "album": {
         "name": "Secret",
         "url": "https://open.spotify.com/album/5pdvLom5vjCQdhyy2Lonl0"
       },
@@ -16021,6 +16061,24 @@
       "duration_ms": 182400,
       "name": "Serious (with Matthew Koma)",
       "url": "https://open.spotify.com/track/1wjjc9SGlmzzXDI26gim3p"
+    },
+    {
+      "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/2HIMHpEJFDTq8aMuvIuaxg"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Shades",
+      "url": "https://open.spotify.com/track/32K4G5jEHKSXpdvqtJyMqp"
     },
     {
       "album": {
@@ -20331,7 +20389,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 185676,
       "name": "Way That I Do",
       "url": "https://open.spotify.com/track/1SlbKGl5Evbifvn0omh6r7"
@@ -21071,6 +21129,28 @@
       "duration_ms": 192000,
       "name": "Wish It Was You",
       "url": "https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/1S4USV7pLcJlVXR0IkP0bx"
+      },
+      "artists": [
+        {
+          "name": "Eminence",
+          "url": "https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2"
+        },
+        {
+          "name": "Dolly Rae",
+          "url": "https://open.spotify.com/artist/0wB5diKi6MD5CqXoJ3h6lJ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260250,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/0ctq8t9Yp8eLidtDay5H6K"
     },
     {
       "album": {

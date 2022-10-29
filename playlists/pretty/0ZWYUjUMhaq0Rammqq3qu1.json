@@ -1,12 +1,12 @@
 {
   "description": "The best dance hits of 2022, featuring Felix Jaehn, Gryffin, and more! Find all the best dance tracks here, and discover new favorites! Cover: Gryffin",
-  "num_followers": 117345,
+  "num_followers": 117343,
   "original_name": "Dance Hits 2022",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "NDIwNiwyYjQ1M2VjMWQ0OWE1MjEwNTgyZTBmMWI3NTQ3YzQ2NGY1YTNhZGU0",
+  "snapshot_id": "NDIwNyw4YzZlY2QyNjcyYTNkMzY1N2I2NGQ0MDdjZGU0NDdkY2NjMzU5MWZm",
   "tracks": [
     {
       "added_at": "2022-10-24 04:37:09",
@@ -603,6 +603,34 @@
       "duration_ms": 227435,
       "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
       "url": "https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd"
+    },
+    {
+      "added_at": "2022-10-28 18:19:11",
+      "album": {
+        "name": "The Phantom Of The Opera (Remixes)",
+        "url": "https://open.spotify.com/album/0x8ARrRJMch8bq3bRlzH03"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "ABOUT THAT",
+          "url": "https://open.spotify.com/artist/6HMAEvj17gDdNB5EotNEOe"
+        },
+        {
+          "name": "Ben Crawford",
+          "url": "https://open.spotify.com/artist/3yCAqfaT5jdv88VM9QLMfV"
+        },
+        {
+          "name": "Meghan Picerno",
+          "url": "https://open.spotify.com/artist/4k59GiRs1yYNWEZ7fPMsiL"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "The Phantom Of The Opera - ABOUT THAT Remix",
+      "url": "https://open.spotify.com/track/4Oa6J0jSiwjwKsXRGQO0Qw"
     },
     {
       "added_at": "2022-10-27 01:22:20",

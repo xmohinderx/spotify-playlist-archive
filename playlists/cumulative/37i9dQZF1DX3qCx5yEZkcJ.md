@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-414 songs - 16 hr 53 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+415 songs - 16 hr 56 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Jet Set](https://open.spotify.com/track/3QnFMeJXIvaqoSRlni1Bwl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Jet Set](https://open.spotify.com/album/1SAJSNSz3o3smlfj08jDFK) | 2:31 | 2020-07-03 | 2021-09-10 |
 | [Johnson](https://open.spotify.com/track/522A3dgrvWe27tK3L3gbYF) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [Johnson](https://open.spotify.com/album/0zFfGh28x0n1fOOl8d0yOg) | 5:38 | 2020-09-19 | 2020-10-02 |
 | [Jugo](https://open.spotify.com/track/2EjXmFS0j9nEhBgWA1pLjU) | [Cohoba](https://open.spotify.com/artist/26qfDCdS9BHoOYwPmA9BI1) | [Jugo](https://open.spotify.com/album/73357oCuAwugagwiTBIBgh) | 1:39 | 2019-05-26\* | 2019-08-31 |
-| [JUST KEEP IT](https://open.spotify.com/track/3Drv8dUZUirRJpOvixlDUA) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/4DrsfHl7wo90fuejIXyrGM) | 3:13 | 2022-10-28 |  |
+| [JUST KEEP IT](https://open.spotify.com/track/3Drv8dUZUirRJpOvixlDUA) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/4DrsfHl7wo90fuejIXyrGM) | 3:13 | 2022-10-28 | 2022-10-29 |
+| [JUST KEEP IT](https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE) | 3:13 | 2022-10-29 |  |
 | [Juveniles](https://open.spotify.com/track/4v6tBoTZzfqMy4A2rWfvzS) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Juveniles](https://open.spotify.com/album/0H4xna6qufppi1I5U8tho0) | 2:05 | 2020-06-19 | 2020-11-06 |
 | [kageokuri](https://open.spotify.com/track/3Nw9mVyDGmSQ3Ik9BUBBD9) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [kageokuri](https://open.spotify.com/album/0d6OaFJOV6iROQFrRhew6C) | 3:35 | 2022-07-21 | 2022-07-27 |
 | [keep in mind](https://open.spotify.com/track/2dsS4ryKRRykuRQZEMcZSu) | [V\. James](https://open.spotify.com/artist/7Kl0EH83Xb2SJbgxs6eDTq) | [keep in mind](https://open.spotify.com/album/2RyHibjNTyEZgWm04yjWWn) | 2:03 | 2020-06-29 | 2021-05-28 |

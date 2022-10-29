@@ -697,7 +697,7 @@
     {
       "album": {
         "name": "True",
-        "url": "https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC"
+        "url": "https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP"
       },
       "artists": [
         {
@@ -708,6 +708,24 @@
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 260398,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/29kMmvimeOyKb60VEX7aj5"
+    },
+    {
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
       "duration_ms": 260399,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/5bMSO2vubGmv2tFfXbLlY9"

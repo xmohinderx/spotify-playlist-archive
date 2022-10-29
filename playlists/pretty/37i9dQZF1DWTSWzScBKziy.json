@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 82583,
+  "num_followers": 82601,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDQxY2E4Y2Q2NWM3NTQwODExNDhmYjUwYjcwYTExZmMx",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDE2YTk3ZGJhMTA3OGZiMzcxYTMyMGFjZTJlODZhODQx",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Everything and More",
+        "url": "https://open.spotify.com/album/1lDmfpUzTkpkxSCboC6ht8"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "Everything and More",
+      "url": "https://open.spotify.com/track/12JPE50t031pH3Dy5mcAzR"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Everything and More",
-        "url": "https://open.spotify.com/album/1lDmfpUzTkpkxSCboC6ht8"
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
         }
       ],
-      "duration_ms": 232466,
-      "name": "Everything and More",
-      "url": "https://open.spotify.com/track/12JPE50t031pH3Dy5mcAzR"
+      "duration_ms": 209194,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -611,22 +627,6 @@
       "duration_ms": 206400,
       "name": "Long Way Home - From The Motion Picture \u201cFather Stu\u201d",
       "url": "https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Worry",
-        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 209194,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "HELP!",
-        "url": "https://open.spotify.com/album/0sVketRXWDWlozs5jNopci"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "HELP!",
-      "url": "https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Only Ever Always",
         "url": "https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/30cPB00t2FzvXPQLtSNJF8"
+        "name": "HELP!",
+        "url": "https://open.spotify.com/album/0sVketRXWDWlozs5jNopci"
       },
       "artists": [
         {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 169817,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/5c5Cn75uLZbYsGHVbDHVHD"
+      "duration_ms": 183720,
+      "name": "HELP!",
+      "url": "https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -835,6 +819,22 @@
       "duration_ms": 194935,
       "name": "More Than Ever",
       "url": "https://open.spotify.com/track/00cHdJO9E4TvmJBeuJq0pr"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Church",
+        "url": "https://open.spotify.com/album/30cPB00t2FzvXPQLtSNJF8"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        }
+      ],
+      "duration_ms": 169817,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/5c5Cn75uLZbYsGHVbDHVHD"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1011,22 +1011,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Somebody Tell That Girl (feat. Anne Wilson)",
-        "url": "https://open.spotify.com/album/6Ge39Vt6n9l36QBXRfvMuS"
+        "name": "Who You Want Me To Be",
+        "url": "https://open.spotify.com/album/2QX3GyZIXeWsJog7XwWV03"
       },
       "artists": [
         {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
-        },
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Somebody Tell That Girl (feat. Anne Wilson)",
-      "url": "https://open.spotify.com/track/3j1MPB5dZLR9kl7k37Ra2u"
+      "duration_ms": 196746,
+      "name": "Who You Want Me To Be",
+      "url": "https://open.spotify.com/track/5VXVRtAzzsHT2KQbeOdnlz"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1051,18 +1047,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Who You Want Me To Be",
-        "url": "https://open.spotify.com/album/2QX3GyZIXeWsJog7XwWV03"
+        "name": "Somebody Tell That Girl (feat. Anne Wilson)",
+        "url": "https://open.spotify.com/album/6Ge39Vt6n9l36QBXRfvMuS"
       },
       "artists": [
         {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        },
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
         }
       ],
-      "duration_ms": 196746,
-      "name": "Who You Want Me To Be",
-      "url": "https://open.spotify.com/track/5VXVRtAzzsHT2KQbeOdnlz"
+      "duration_ms": 210333,
+      "name": "Somebody Tell That Girl (feat. Anne Wilson)",
+      "url": "https://open.spotify.com/track/3j1MPB5dZLR9kl7k37Ra2u"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Cain",
+          "url": "https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i"
+        }
+      ],
+      "duration_ms": 234185,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "I Know You Better",
         "url": "https://open.spotify.com/album/2f6XRWYjtg30AtY09KMaYm"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 380304,
       "name": "I Know You Better",
       "url": "https://open.spotify.com/track/7aU3ETkQdNCMNfaMm41c6W"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Cain",
-          "url": "https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i"
-        }
-      ],
-      "duration_ms": 234185,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0T7foqa4zcqlZkjuEBEiGu"
+      },
+      "artists": [
+        {
+          "name": "Marci Coleman",
+          "url": "https://open.spotify.com/artist/1aaF5ghHXxc7ArAYYHEWAs"
+        }
+      ],
+      "duration_ms": 201617,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0Tge7UWTXFSd4ITIURqk0k"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/4lPhR9VgNgWuPgNZEeuJJw"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 223399,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/1BekaQxRu7onRBnQ6PADyw"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/0T7foqa4zcqlZkjuEBEiGu"
-      },
-      "artists": [
-        {
-          "name": "Marci Coleman",
-          "url": "https://open.spotify.com/artist/1aaF5ghHXxc7ArAYYHEWAs"
-        }
-      ],
-      "duration_ms": 201617,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/0Tge7UWTXFSd4ITIURqk0k"
     },
     {
       "added_at": "2022-05-27 18:07:44",

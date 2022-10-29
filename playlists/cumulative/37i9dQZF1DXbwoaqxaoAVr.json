@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 261079,
       "name": "Already Gold",
       "url": "https://open.spotify.com/track/5GrXshz0UGM1qP74PKHKOC"
@@ -554,6 +554,24 @@
     },
     {
       "album": {
+        "name": "Eiffel Tower",
+        "url": "https://open.spotify.com/album/4l3pEOsxVk3IgxuyRG3Io2"
+      },
+      "artists": [
+        {
+          "name": "Ziggi Recado",
+          "url": "https://open.spotify.com/artist/0tvYfnkHhiQcVsR69cfAW8"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204617,
+      "name": "Eiffel Tower",
+      "url": "https://open.spotify.com/track/4CdAL878c5nQDM3htsy96Y"
+    },
+    {
+      "album": {
         "name": "El Poder",
         "url": "https://open.spotify.com/album/5PKSiSTU30fvmR40S2bFdc"
       },
@@ -727,7 +745,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 145411,
       "name": "Hell and High Water (feat. Alessia Cara)",
       "url": "https://open.spotify.com/track/4H7IgCtaB7fy2tSS3B87RX"
@@ -1392,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/0OUG8M7SX8AXQCs9LfI3ke"
+      },
+      "artists": [
+        {
+          "name": "Gentleman",
+          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150320,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/2hNV55lee10JvRSQ918fMn"
+    },
+    {
+      "album": {
         "name": "The Feels & Groove EP",
         "url": "https://open.spotify.com/album/1rtJZt0m57FZBKe3F9e6M4"
       },
@@ -1703,7 +1739,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 149706,
       "name": "Over the Hills",
       "url": "https://open.spotify.com/track/3dFefrFmTwuvAe2W9Lb9BL"
@@ -2349,7 +2385,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 244613,
       "name": "Trod On",
       "url": "https://open.spotify.com/track/3fHB5Onc1r4YZZuEJjtTvc"

@@ -2,7 +2,7 @@
 
 ### [I Love My 2010s Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX97h7ftpNSYT)
 
-> Taking it back to the 2010s\. Cover: Kendrick Lamar
+> Taking it back to the 2010s\. Cover: Meek Mill
 
 583 songs - 1 day 10 hr 32 min - [published](https://open.spotify.com/playlist/0NVnLMZLWX74QAANrVArj1)
 

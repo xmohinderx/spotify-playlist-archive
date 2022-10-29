@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Roy Kim\(로이킴\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,464 likes - 102 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,512 likes - 102 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 8 | [The Story of Us](https://open.spotify.com/track/6cctzaLrogzkESYTZeA01k) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Story of Us](https://open.spotify.com/album/7LcIGYNw1hu9bUYqChopBy) | 3:36 |
 | 9 | [I believed it was love](https://open.spotify.com/track/1qCTwzLvtKq3FwAofVEoBl) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [I believed it was love](https://open.spotify.com/album/7i8OX5YkUvamxqUuXy6Hxz) | 3:11 |
 | 10 | [Stupid Love](https://open.spotify.com/track/3GpaewakLswMXhewU2sSxp) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Stupid Love](https://open.spotify.com/album/4xrlOySL3LbQROUb760PDJ) | 4:25 |
-| 11 | [Time To Break Up](https://open.spotify.com/track/7r4V6nIAovtbrXOoXIDM9W) | [Hansol](https://open.spotify.com/artist/1ZywbbY8qmbkHOjprHa2iM) | [Time To Break Up](https://open.spotify.com/album/41YjMufLJv2wg2C8wZaBRx) | 3:25 |
+| 11 | [Time To Break Up](https://open.spotify.com/track/7r4V6nIAovtbrXOoXIDM9W) | [Hansol](https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek) | [Time To Break Up](https://open.spotify.com/album/41YjMufLJv2wg2C8wZaBRx) | 3:25 |
 | 12 | [Take Me Back In Time](https://open.spotify.com/track/4kclNUEfSlW8uJK9j0LQqt) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [,and](https://open.spotify.com/album/5fJXjW9On6vPk1f58kMQNP) | 3:54 |
 | 13 | [Your Smiling Face](https://open.spotify.com/track/53xZlMoSVGa4qRxFsahgdX) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Your Smiling Face](https://open.spotify.com/album/1Ug94rAL8WZ9NKskK6bL3R) | 5:32 |
 | 14 | [Bad Love](https://open.spotify.com/track/3pQZ4fLxNgHLRdb7YAccHt) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Bad Love](https://open.spotify.com/album/5iG7oplAbHnwQ4JUvc52vX) | 4:07 |

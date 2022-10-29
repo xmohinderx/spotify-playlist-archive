@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-400 songs - 1 day 4 hr 17 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
+401 songs - 1 day 4 hr 27 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Because You're Frightened \- Remastered 2007](https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [The Correct Use Of Soap](https://open.spotify.com/album/0CADblPa3Ui6lnv4251m08) | 3:57 | 2018-12-12 | 2022-04-20 |
 | [Being Boiled \- Fast Version / 2003 Digital Remaster](https://open.spotify.com/track/2xN8RYKg69sdfoqtvYnwwM) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Reproduction](https://open.spotify.com/album/7tc1nTdBA717D74uJ07VRn) | 3:54 | 2018-12-12 | 2022-06-14 |
 | [Bela Lugosi's Dead](https://open.spotify.com/track/1cPf2khrcp6iRfTGFisSoS) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Bauhaus \- 1979\-1983 Volume One](https://open.spotify.com/album/1vMVPeFOzzvnwC8x6wAie6) | 9:37 | 2018-12-12 | 2022-07-27 |
+| [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 | 2022-10-29 |  |
 | [Big Decision](https://open.spotify.com/track/5Ndc52NE7qWLfd85HuC4lX) | [That Petrol Emotion](https://open.spotify.com/artist/532Srqaijer1gzRS85bD9y) | [Babble](https://open.spotify.com/album/1eXG8LKX0j5Kk4VukTG89T) | 2:42 | 2021-05-01 | 2022-07-07 |
 | [Big Sleep](https://open.spotify.com/track/6IgEGOy7TDUwitAtKgUqeO) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj) | 5:00 | 2019-08-01 | 2022-07-29 |
 | [Bigmouth Strikes Again \- 2011 Remaster](https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 3:13 | 2020-03-19 |  |
@@ -224,7 +225,7 @@
 | [More](https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Vision Thing](https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK) | 8:23 | 2021-08-31 |  |
 | [My Spine Is The Bassline](https://open.spotify.com/track/3VxFd7SnACXpFR2LBROrsR) | [Shriekback](https://open.spotify.com/artist/5zdhsKuFI263xttcgdoW3c) | [Disco Not Disco Digital Edition](https://open.spotify.com/album/3mw4x6EP6OEl2ypn7iHmGa) | 4:01 | 2018-12-12 | 2022-07-29 |
 | [N.I.T.A.](https://open.spotify.com/track/5K97YR5NWP2H88mQ4p8JlH) | [Young Marble Giants](https://open.spotify.com/artist/0tQ2Q4y9iUkKszxXyB14ZH) | [Colossal Youth](https://open.spotify.com/album/5wxOkqHT4xGadN56TAzF09) | 3:31 | 2018-12-12 | 2022-04-19 |
-| [Nellie the Elephant](https://open.spotify.com/track/00MmJraiM6d7AINTYB5Xid) | [Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [Dig That Groove Baby](https://open.spotify.com/album/2G4Qadfi3LHuQSaZ60rFCP) | 3:27 | 2018-12-12 |  |
+| [Nellie the Elephant](https://open.spotify.com/track/00MmJraiM6d7AINTYB5Xid) | [Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [Dig That Groove Baby](https://open.spotify.com/album/2G4Qadfi3LHuQSaZ60rFCP) | 3:27 | 2018-12-12 | 2022-10-29 |
 | [Nellie The Elephant](https://open.spotify.com/track/4YFtztmFu4Kq2CBPKL2qC3) | [Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [We're Mad \- The Anthology](https://open.spotify.com/album/2uYraKzm3H1btz5VajleOj) | 3:27 | 2018-12-12 | 2022-05-31 |
 | [Never Let Me Down Again](https://open.spotify.com/track/0ooy3NjwsJreceWYCxlfQt) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses](https://open.spotify.com/album/5Yyx661Ksxl2pmRUuGLzw3) | 4:48 | 2020-01-07 | 2022-07-29 |
 | [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 | 2020-01-07 |  |

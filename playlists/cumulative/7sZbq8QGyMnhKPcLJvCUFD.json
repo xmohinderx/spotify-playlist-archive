@@ -82,6 +82,24 @@
     },
     {
       "album": {
+        "name": "Annabelle's Tea Party",
+        "url": "https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24"
+      },
+      "artists": [
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "Annabelle's Tea Party",
+      "url": "https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj"
+    },
+    {
+      "album": {
         "name": "Artificial Love",
         "url": "https://open.spotify.com/album/00otmxypSxSWekoqUJwh1D"
       },
@@ -295,7 +313,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 208941,
       "name": "Bloodpressure",
       "url": "https://open.spotify.com/track/5RzDuOcYIKS4HiBoso8MJB"

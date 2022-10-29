@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Shakira",
-  "num_followers": 1855912,
+  "num_followers": 1856296,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg1MjcwOCwwMDAwMDAwMDIxZTdmYjBiNDMxZGVmMWVjODZmYjI1NjA1ZWZiZGVj",
+  "snapshot_id": "MTY2Njg1MjcwOCwwMDAwMDAwMDg2MzJhMmVkMjk4MmQ2MDM1NmJiN2RkODA4ZTZmYzQz",
   "tracks": [
     {
       "added_at": "2022-10-27 06:12:37",
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-10-28 01:45:15",
+      "added_at": "2022-10-29 01:32:14",
       "album": {
         "name": "Que Te Vaya Bonito",
         "url": "https://open.spotify.com/album/6Qf2illWMZl8ZqyfiTtqE5"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu"
     },
     {
-      "added_at": "2022-10-28 01:45:15",
+      "added_at": "2022-10-29 01:32:14",
       "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-10-27 06:12:37",
       "album": {
-        "name": "Merengue y Sentimiento",
-        "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "Amorcito Enfermito",
-      "url": "https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK"
-    },
-    {
-      "added_at": "2022-10-27 06:12:37",
-      "album": {
         "name": "...A Pasito Lento!",
         "url": "https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 272400,
       "name": "Quiz\u00e1s Si, Quiz\u00e1s No",
       "url": "https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX"
+    },
+    {
+      "added_at": "2022-10-27 06:12:37",
+      "album": {
+        "name": "Merengue y Sentimiento",
+        "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        }
+      ],
+      "duration_ms": 230546,
+      "name": "Amorcito Enfermito",
+      "url": "https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK"
     },
     {
       "added_at": "2022-10-27 06:12:37",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-10-27 06:12:37",
       "album": {
-        "name": "Si Acaso Vuelves",
-        "url": "https://open.spotify.com/album/6aTk7cTS9ClTgjefVjLel3"
-      },
-      "artists": [
-        {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        }
-      ],
-      "duration_ms": 183250,
-      "name": "Si Acaso Vuelves",
-      "url": "https://open.spotify.com/track/2JIfE0dJv2b8fTvHxZZ0kP"
-    },
-    {
-      "added_at": "2022-10-27 06:12:37",
-      "album": {
         "name": "Episodes",
         "url": "https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 210008,
       "name": "Verdad O Reto",
       "url": "https://open.spotify.com/track/5qfKObjdXnUosQcls4IiqT"
+    },
+    {
+      "added_at": "2022-10-27 06:12:37",
+      "album": {
+        "name": "Si Acaso Vuelves",
+        "url": "https://open.spotify.com/album/6aTk7cTS9ClTgjefVjLel3"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "duration_ms": 183250,
+      "name": "Si Acaso Vuelves",
+      "url": "https://open.spotify.com/track/2JIfE0dJv2b8fTvHxZZ0kP"
     },
     {
       "added_at": "2022-10-27 06:12:37",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2022-10-27 06:12:37",
       "album": {
-        "name": "Que Vuelva (La Historia de Mi Vida: El Final)",
-        "url": "https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv"
+        "name": "Bachata De Amor Vol. 1",
+        "url": "https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Que Vuelva (La Historia de Mi Vida: El Final)",
-      "url": "https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt"
+      "duration_ms": 288106,
+      "name": "Que Vuelva",
+      "url": "https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno"
     },
     {
       "added_at": "2022-10-27 06:12:37",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2022-10-27 06:12:37",
       "album": {
-        "name": "Bachata De Amor Vol. 1",
-        "url": "https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v"
+        "name": "Que Vuelva (La Historia de Mi Vida: El Final)",
+        "url": "https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv"
       },
       "artists": [
         {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 288106,
-      "name": "Que Vuelva",
-      "url": "https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno"
+      "duration_ms": 228000,
+      "name": "Que Vuelva (La Historia de Mi Vida: El Final)",
+      "url": "https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt"
     },
     {
       "added_at": "2022-10-27 06:12:37",

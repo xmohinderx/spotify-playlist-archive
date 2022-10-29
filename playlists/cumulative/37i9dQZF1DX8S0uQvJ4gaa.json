@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Spencer Crandall",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Jameson Rodgers",
   "name": "New Boots",
   "published_playlist_ids": [
     "4GYziq6IZSItn9f84k0CzJ"
@@ -4735,10 +4735,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 183413,
       "name": "Damn You",
       "url": "https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE"
+    },
+    {
+      "album": {
+        "name": "Damn You",
+        "url": "https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183413,
+      "name": "Damn You",
+      "url": "https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN"
     },
     {
       "album": {
@@ -10610,6 +10628,24 @@
     },
     {
       "album": {
+        "name": "History Repeats",
+        "url": "https://open.spotify.com/album/6ohj3dFAJb2R2HlEwQPtjH"
+      },
+      "artists": [
+        {
+          "name": "Josh Gracin",
+          "url": "https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226531,
+      "name": "History Repeats",
+      "url": "https://open.spotify.com/track/0ucLZT4jED0aWgnIAiRbvn"
+    },
+    {
+      "album": {
         "name": "Hold My Beer",
         "url": "https://open.spotify.com/album/570g8LS6QdbTV7LFy1i1Nh"
       },
@@ -12055,7 +12091,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 198005,
       "name": "I Love My Hometown",
       "url": "https://open.spotify.com/track/7De4wjRz4WCceF0DXqf2Z8"
@@ -12475,6 +12511,24 @@
       "duration_ms": 207279,
       "name": "I'm Not Him",
       "url": "https://open.spotify.com/track/3HbNhFXnqoOEzRCY9XkJvs"
+    },
+    {
+      "album": {
+        "name": "Highways and Dirt Roads",
+        "url": "https://open.spotify.com/album/6RlCj0vKrMEidUmebUq682"
+      },
+      "artists": [
+        {
+          "name": "Jameson Rodgers",
+          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "I'm on a Dirt Road",
+      "url": "https://open.spotify.com/track/0wDDINIKBfpedPrdQvgGQX"
     },
     {
       "album": {
@@ -15032,6 +15086,24 @@
     },
     {
       "album": {
+        "name": "Make A Little Room",
+        "url": "https://open.spotify.com/album/457Ok9pnF5fAfG7lNUFqHS"
+      },
+      "artists": [
+        {
+          "name": "Steve Moakler",
+          "url": "https://open.spotify.com/artist/63t3EqMeymxd4CM85RqsCd"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180493,
+      "name": "Make A Little Room",
+      "url": "https://open.spotify.com/track/62yXckrKNy9Sylka6oifst"
+    },
+    {
+      "album": {
         "name": "Make Em Wanna Change",
         "url": "https://open.spotify.com/album/3GuWatxl9QkefV0Jj8H5e8"
       },
@@ -15455,7 +15527,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 200011,
       "name": "Mean Something",
       "url": "https://open.spotify.com/track/5kw5FXkySDRD90byTk4RoX"
@@ -22320,6 +22392,24 @@
     },
     {
       "album": {
+        "name": "Street Called Main",
+        "url": "https://open.spotify.com/album/6hcYMqdIwsg2xfbGsGoQxb"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229560,
+      "name": "Street Called Main",
+      "url": "https://open.spotify.com/track/1CkulMzIn6ISjxiJMxqDz4"
+    },
+    {
+      "album": {
         "name": "Struggle Struggle",
         "url": "https://open.spotify.com/album/6O1zbpp3YvpWYnLj1jbJBa"
       },
@@ -26135,7 +26225,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 189850,
       "name": "Whatever She Sees in Me",
       "url": "https://open.spotify.com/track/5AHnYt0v2PRUbCtbQFoJws"
@@ -26189,7 +26279,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 179251,
       "name": "When I Look Back",
       "url": "https://open.spotify.com/track/5Xpgw7Epf3rzuiWmCRDKtw"

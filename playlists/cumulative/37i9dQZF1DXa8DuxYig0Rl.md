@@ -4,7 +4,7 @@
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-138 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/3tRaksmTctFqOi5PZyIiVc)
+139 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/3tRaksmTctFqOi5PZyIiVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,8 +106,9 @@
 | [Nereidas](https://open.spotify.com/track/0LhhWkkz7pORVQegxOs0mH) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Su Majestad](https://open.spotify.com/album/5K38IimP2EIC9QwBh8tN0l) | 3:03 | 2022-01-25 | 2022-07-29 |
 | [Nereidas](https://open.spotify.com/track/5Ef5cRtJtPQ3Pvw9rNXqVf) | [Los Mejores Danzones De Todos Los Tiempos](https://open.spotify.com/artist/4jY7nNhjSj8d39IhJjjEMm) | [El Danzón Nunca Muere](https://open.spotify.com/album/3qJpBRCr2V3XDEQ4TlOHOi) | 3:05 | 2022-01-25 |  |
 | [Norma la de Guadalajara](https://open.spotify.com/track/5GSxiQq6wuTKUTZqw73L99) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed) | 2:34 | 2022-01-25 |  |
+| [Pagina Blanca](https://open.spotify.com/track/30R25rIDDtXKCTXGwvg8rz) | [Los Fantasmas](https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK) | [Recordando a](https://open.spotify.com/album/3kh1YRFggMYWLTBM4aaZCE) | 3:08 | 2022-01-25 |  |
 | [Pagina Blanca](https://open.spotify.com/track/0Ud7ZAMVYubMGOxQvdg5Zs) | [Los Fantasmas](https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK) | [XEW La Voz de America Latina "Nueva Generación"](https://open.spotify.com/album/2fhyDLNES36L4pSz96jeAT) | 3:10 | 2022-01-25 | 2022-07-29 |
-| [Pagina Blanca](https://open.spotify.com/track/7r95JZ6dviMeIQHYuNlY6A) | [Los Fantasmas](https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK) | [Antología...Trios](https://open.spotify.com/album/1pmPO2wVCXi7WOsM71VZMt) | 3:10 | 2022-01-25 |  |
+| [Pagina Blanca](https://open.spotify.com/track/7r95JZ6dviMeIQHYuNlY6A) | [Los Fantasmas](https://open.spotify.com/artist/6WvtlmouI0mVQJ3JQj9rRK) | [Antología...Trios](https://open.spotify.com/album/1pmPO2wVCXi7WOsM71VZMt) | 3:10 | 2022-01-25 | 2022-10-29 |
 | [Palillos Chinos](https://open.spotify.com/track/7zmzRJZkigPvpsWYcpAy4i) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon Volumen 1](https://open.spotify.com/album/3xCYxqu0uBH471i9cQ2bIq) | 3:09 | 2022-01-25 | 2022-07-29 |
 | [Palillos Chinos](https://open.spotify.com/track/68HJErw94TSvoBPiddSnwo) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon, Vol\. 1](https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM) | 3:10 | 2022-01-25 |  |
 | [Pancha Baila en Turcos](https://open.spotify.com/track/5PIPXjmhd1sApWvtnS4bKP) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:08 | 2022-01-25 |  |

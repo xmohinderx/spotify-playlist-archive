@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 198000,
       "name": "A Cuca",
       "url": "https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh"
@@ -1990,6 +1990,28 @@
     },
     {
       "album": {
+        "name": "Namorada Nova",
+        "url": "https://open.spotify.com/album/3SggglQj8jp2Jgaf8sMTkX"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Namorada Nova",
+      "url": "https://open.spotify.com/track/65gAkSz41YfDQ4S70TG9Jd"
+    },
+    {
+      "album": {
         "name": "Nig\u00e9ria 96",
         "url": "https://open.spotify.com/album/5jeVZigRLjwqDdfHLbBU0u"
       },
@@ -2359,7 +2381,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 209738,
       "name": "RADDIM",
       "url": "https://open.spotify.com/track/7G2aB7ZtZLuO27F92BHF6J"
@@ -2829,6 +2851,28 @@
       "duration_ms": 121714,
       "name": "Tudo Por Nois",
       "url": "https://open.spotify.com/track/6HrxbQDtw2dXuqoqIatgb8"
+    },
+    {
+      "album": {
+        "name": "Da Lama ao Topo",
+        "url": "https://open.spotify.com/album/7IGtw0TWJc1PnSeGf2jp5m"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        },
+        {
+          "name": "Samantha Machado",
+          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Vida Bandida",
+      "url": "https://open.spotify.com/track/7D6AtgWoXk6jfIruYHBmK7"
     },
     {
       "album": {

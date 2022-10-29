@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-430 songs - 1 day 1 hr 11 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+435 songs - 1 day 1 hr 22 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Blanket of Stars](https://open.spotify.com/track/1TQWuCSb7dt3ve7BfqzdWW) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [Blanket of Stars](https://open.spotify.com/album/2HQwQL5kkH8w6WBqxhOFJT) | 3:12 | 2022-03-16 | 2022-07-09 |
 | [Blasé](https://open.spotify.com/track/3VCS4koclEAw6MxMYk2EBh) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP) | [Fresh Squeezed](https://open.spotify.com/album/4ZWyu9H0w1mOytbuwOugiC) | 2:54 | 2022-08-19 | 2022-09-17 |
 | [bleep](https://open.spotify.com/track/0VutyxcmjtC8Bs0QLcyIhb) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [bleep](https://open.spotify.com/album/2MnmOWac8GbeCedTkbGldw) | 2:07 | 2022-09-02 |  |
+| [Blossom](https://open.spotify.com/track/3G8tumJeNmN81uySgbcwHj) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Blossom](https://open.spotify.com/album/2fdA4fu4bf3naDXJLoZNUK) | 2:21 | 2022-10-28 |  |
 | [Blue But Free](https://open.spotify.com/track/4N2Q2YuaVjQH4qkNgaLmSj) | [Bobby Covent](https://open.spotify.com/artist/5E0X8g3XPY7zB17N5v3vqo) | [Morning](https://open.spotify.com/album/0oRYAbRJ0GxQrCV6Hysbh8) | 4:47 | 2022-07-29 |  |
 | [Blue Day](https://open.spotify.com/track/19RHlkA9PM5Bw2DKPmPteh) | [t.Stratt](https://open.spotify.com/artist/6jkU1cVfoUEXpohv6NJO6v), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Nuances](https://open.spotify.com/album/3Vioqdh0ojprGuAMKScjQs) | 2:31 | 2022-03-16 | 2022-07-09 |
 | [Bob's Blues](https://open.spotify.com/track/2eep97s2NVaQGFkrLkiD3e) | [Bob Acri](https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB) | [Bob Acri](https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s) | 5:24 | 2022-07-29 |  |
@@ -288,6 +289,7 @@
 | [Peaceful Sunset Sounds](https://open.spotify.com/track/5JhX0HXEPEBpMlDajptYH9) | [Tiki Lounge](https://open.spotify.com/artist/5lX5xzkPlfs4Z2MhkmoCoD) | [Sunset Sounds](https://open.spotify.com/album/5X8f43K30RXxQSHson7met) | 4:04 | 2021-08-10 | 2022-07-29 |
 | [Periscope](https://open.spotify.com/track/0hlceD1jozLhwQpfTSIplE) | [Soul Secret](https://open.spotify.com/artist/1lrRKgENSA3wSJ4VECfrC5) | [Hayato Falls](https://open.spotify.com/album/2Ofl6i8aOsDx7tiVbO6RTE) | 4:03 | 2022-07-29 | 2022-08-19 |
 | [Periscope](https://open.spotify.com/track/64NnO4fSOVP9YHEroWENeV) | [Soul Secret](https://open.spotify.com/artist/1lrRKgENSA3wSJ4VECfrC5) | [Hayato Falls](https://open.spotify.com/album/0qFmAWPxibr6Yku14lHN0n) | 4:03 | 2021-08-10 | 2022-07-29 |
+| [Pillow hug](https://open.spotify.com/track/1BbkE5JYcAnEch19eKv21U) | [Sippo](https://open.spotify.com/artist/6Ifp89Y7k7akjnLdD83G0c) | [Pillow hug](https://open.spotify.com/album/6PFLVVI62ViGQXpqZZOZrC) | 2:30 | 2022-10-28 |  |
 | [Pines](https://open.spotify.com/track/2z6dyUh6MUaPPAMlzaLV5g) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Dimension 32](https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz) | [Phases](https://open.spotify.com/album/3UMqhBgBTUniqsBIZ09ZCT) | 1:39 | 2022-03-16 | 2022-07-09 |
 | [pizza plus booz](https://open.spotify.com/track/4jogRHPQuTBgzhM0Ude1tK) | [maynornine](https://open.spotify.com/artist/67Id9ozQgGFzKF79rCvCxY), [kotopoulo](https://open.spotify.com/artist/16DQ1LIqfOIPuUQm05MxHX), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [pizza plus booz](https://open.spotify.com/album/4csJsJ2vtZafVCYN7rHUdh) | 2:16 | 2022-08-19 |  |
 | [plastic flowers](https://open.spotify.com/track/6i0C20TvKja1NUOmFvkpE2) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [plastic flowers](https://open.spotify.com/album/21hQzh3cGzCmBcf5IL3pN6) | 3:36 | 2022-09-02 | 2022-10-14 |
@@ -324,8 +326,10 @@
 | [She´s fly](https://open.spotify.com/track/3WyBZ7gGHCNKkzL9j8HNVB) | [Sangri](https://open.spotify.com/artist/4skJuoz124HZj4oIRJi8s1) | [She´s fly](https://open.spotify.com/album/2EyfCQBUEYnfmBAJoUVKcT) | 1:53 | 2022-03-16 | 2022-07-09 |
 | [Should Be](https://open.spotify.com/track/684HaX0m4BSBrZ1LAjE2qh) | [Halfspeed](https://open.spotify.com/artist/2R0QLg5yVU6Z5aGyhEjR0b), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Should Be](https://open.spotify.com/album/0x1No3PDtgWABsxonPU3Bj) | 1:10 | 2022-07-29 |  |
 | [Sk8teing in Central Park](https://open.spotify.com/track/6wUDIvG1swx9ecmBBvO0ZR) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9) | 1:13 | 2022-07-29 |  |
+| [Skoda](https://open.spotify.com/track/0OHeMdfS4QJ7fPttj3mZgD) | [Ken Nil](https://open.spotify.com/artist/3dqO7sdgWO3OdzjlWcrf9l) | [Skoda](https://open.spotify.com/album/05OHIkueOd6K2pS0IOav3e) | 1:58 | 2022-10-28 |  |
 | [Skydiving](https://open.spotify.com/track/61avTFNU8w8W6I358eMhUl) | [Siam Roof](https://open.spotify.com/artist/0qs9nvLBAzsebSUfX4rLc8) | [VERTIGO](https://open.spotify.com/album/2uEL0rKaaX5X9G8qfQGL48) | 4:43 | 2021-08-10 | 2022-07-29 |
 | [Skydiving](https://open.spotify.com/track/6AbGuOXxma7x38ZXsecx0H) | [Siam Roof](https://open.spotify.com/artist/0qs9nvLBAzsebSUfX4rLc8) | [VERTIGO](https://open.spotify.com/album/7dU18lCQCFdSWZ1wunxnwW) | 4:43 | 2022-07-29 | 2022-09-09 |
+| [sleepy fish](https://open.spotify.com/track/5l8g86aPiJY649ACLLvPCw) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [sleepy fish](https://open.spotify.com/album/2LxRryFjn1UGzhDxEQj4G0) | 1:57 | 2022-10-28 |  |
 | [Slow but Steady](https://open.spotify.com/track/7d9qiNBpO9FMnKsNDekJFk) | [Dillon Kay](https://open.spotify.com/artist/3gEfOUa3nPTlBSjLRxtrmq) | [Slow but Steady](https://open.spotify.com/album/7qxXpm4GcjqvvAzgAc4nou) | 1:55 | 2022-03-16 | 2022-07-09 |
 | [Slowing Down Magic](https://open.spotify.com/track/2CLOXfkP0tfyUyXbg1jM8u) | [NkisOk](https://open.spotify.com/artist/5Ro0lkhTnZMLAexfXndLRo) | [Springflower](https://open.spotify.com/album/4sdUHMMnfxbhtpnoXYah4w) | 4:16 | 2022-07-29 |  |
 | [Slowing Down Magic](https://open.spotify.com/track/5VoHgAU6WTY4HOe951OpYl) | [NkisOk](https://open.spotify.com/artist/5Ro0lkhTnZMLAexfXndLRo) | [Springflower](https://open.spotify.com/album/36GCCVLhVQ4bUlrir0Ofsj) | 4:16 | 2022-07-08 | 2022-07-10 |
@@ -362,6 +366,7 @@
 | [Sunbrella](https://open.spotify.com/track/7zlv1OLzjtbBL8OqHBYoAi) | [Embarco](https://open.spotify.com/artist/2U28L4mqy3Lo2ENcS5p0LO) | [Juice](https://open.spotify.com/album/30EcODyc2BAtdRQQpW0MYQ) | 2:41 | 2022-03-16 | 2022-07-09 |
 | [Sunday 9.PM](https://open.spotify.com/track/2ns9052bRGSh5vw6dj7q4w) | [Vincete M](https://open.spotify.com/artist/6D6ym7XXyfUwM6OrqJPs1W) | [Sunday Relax \(Vol 2\)](https://open.spotify.com/album/68eOP10FCWtspwSJscpYHM) | 3:23 | 2022-07-29 | 2022-10-14 |
 | [Sunday 9.PM](https://open.spotify.com/track/7A78RZz9w3LPg6HW1oDz7q) | [Vincete M](https://open.spotify.com/artist/6D6ym7XXyfUwM6OrqJPs1W) | [Sunday Relax \(Vol 2\)](https://open.spotify.com/album/0TLHlRfDRnhKSJmVT61hoo) | 3:23 | 2021-08-10 | 2022-07-23 |
+| [Sundays on repeat](https://open.spotify.com/track/10ZsmiHSHbg8qxEPcqnJjb) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Sundays on repeat](https://open.spotify.com/album/3LN1rA5WwNQW0sZtzTXLyi) | 2:31 | 2022-10-28 |  |
 | [Sundown](https://open.spotify.com/track/5B0DYZ8Nu8mjfSOuddrHIx) | [LoDub](https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36) | [Sundown](https://open.spotify.com/album/5ca8HVl7mf6lbkptTlTNmM) | 2:26 | 2022-10-14 |  |
 | [Sundrop](https://open.spotify.com/track/5el7ikQ2pTLSaSsEXP06A9) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Sundrop](https://open.spotify.com/album/2v9VdkxOGuIgbH3MPF4v7q) | 1:46 | 2022-03-16 | 2022-07-09 |
 | [Sunset Amor](https://open.spotify.com/track/3xVy9O4phnqHpVP0HhXu1t) | [Tranki](https://open.spotify.com/artist/5ZwkvBvma85v7vusnC63Wf) | [Sunset Amor](https://open.spotify.com/album/3SznJLXoCDlwK3bQyxt3Fl) | 3:59 | 2021-08-10 | 2022-09-17 |

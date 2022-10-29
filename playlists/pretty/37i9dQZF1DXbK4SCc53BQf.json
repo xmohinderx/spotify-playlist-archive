@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 75701,
+  "num_followers": 75765,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDUzYjk0Nzk2ZjE5ZjYwYzE2NGRkZGE2ZmQwNDM1NmRk",
+  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDUwMDZmY2NjNzkwYWViNTRiM2RlNmE2ZTEwNDBmZjUy",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -743,22 +743,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Conteo Regresivo",
-        "url": "https://open.spotify.com/album/4u5WBcNF0IolTEzYBjLKHg"
-      },
-      "artists": [
-        {
-          "name": "Michael Pratts",
-          "url": "https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp"
-        }
-      ],
-      "duration_ms": 229955,
-      "name": "Ritmo Del Cielo",
-      "url": "https://open.spotify.com/track/78A0tsRzfFHAdyLWd1S5cA"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Diez Mil Razones",
         "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 180069,
       "name": "Diez Mil Razones",
       "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Conteo Regresivo",
+        "url": "https://open.spotify.com/album/4u5WBcNF0IolTEzYBjLKHg"
+      },
+      "artists": [
+        {
+          "name": "Michael Pratts",
+          "url": "https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp"
+        }
+      ],
+      "duration_ms": 229955,
+      "name": "Ritmo Del Cielo",
+      "url": "https://open.spotify.com/track/78A0tsRzfFHAdyLWd1S5cA"
     },
     {
       "added_at": "2020-11-24 13:23:55",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Reginald Chapman Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,766 likes - 60 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,833 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Until It's Real](https://open.spotify.com/track/44StzUtsY2TL1LL0OadUJV) | [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1) | [Until It's Real](https://open.spotify.com/album/3GCGx9cRSBqhKcNYC98Y4r) | 3:19 |
-| 2 | [Nu MHG \- East Williamsburg Session](https://open.spotify.com/track/6hee3HPofIuCTR78d5p7rn) | [Reginald Chapman](https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB), [Pressure Fit](https://open.spotify.com/artist/0P5hzxaVFKgTn6cKMvP1rV) | [Nu MHG / You Go To My Head](https://open.spotify.com/album/3XgHFHFmDN88ArR6x3vbts) | 5:56 |
+| 2 | [Nu MHG \- East Williamsburg Session](https://open.spotify.com/track/6hee3HPofIuCTR78d5p7rn) | [Reginald Chapman](https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB), [Pressure Fit](https://open.spotify.com/artist/0P5hzxaVFKgTn6cKMvP1rV) | [Nu MHG / You Go To My Head](https://open.spotify.com/album/3XgHFHFmDN88ArR6x3vbts) | 5:58 |
 | 3 | [Ode to Zawi \(Dedicated to Joe Zawinul\)](https://open.spotify.com/track/1ozKTUdhxmqhRqRF0UU5oP) | [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Ode to Zawi \(Dedicated to Joe Zawinul\)](https://open.spotify.com/album/5U37BPunKOXRB5tAUdUgVF) | 3:04 |
 | 4 | [Twijfelaar](https://open.spotify.com/track/78dQ132DG6maVGuyJgGRbZ) | [aki](https://open.spotify.com/artist/12mAUPNqn3G6BAjL1IgqsB) | [nader](https://open.spotify.com/album/19UZksnYrgrGj64sFae0Rw) | 4:20 |
 | 5 | [Don't Fall Asleep](https://open.spotify.com/track/1aWrScpsBG9sDOnHIxK5N0) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [Infinity](https://open.spotify.com/album/2v9lV3aXPbsSZE9rfCbtml) | 2:49 |

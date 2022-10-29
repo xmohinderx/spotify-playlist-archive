@@ -4,7 +4,7 @@
 
 > La playlist officielle de l’édition 2022 des Francos de Montréal!
 
-173 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/157Wm8kF1v2FFbepAN4t2W)
+174 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/157Wm8kF1v2FFbepAN4t2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Encore et encore](https://open.spotify.com/track/4fD6FWsUZCFaq9phZERRoF) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I), [Pompis](https://open.spotify.com/artist/5MvTyp1ILPh1FZupAcFffI), [Layanah](https://open.spotify.com/artist/7DFSyHRCHorchjSaMe9M3M) | [Givmeall Hit Stars](https://open.spotify.com/album/0MEMQh52RnTAOhY9flt4Ju) | 3:45 | 2022-05-25 |  |
 | [Entre ce que j'dis...](https://open.spotify.com/track/3NxTgCKrntVPsM0u5V4Crn) | [Maggie Savoie](https://open.spotify.com/artist/3U1HJVYm4Z3G59ldoODMmA) | [Appalaches](https://open.spotify.com/album/2eq8zH8ZO19shABNzBX9qT) | 3:31 | 2022-05-25 | 2022-07-28 |
 | [Entre mes jambes](https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 2:29 | 2022-05-25 |  |
-| [Espoir](https://open.spotify.com/track/6wUL2qBFXtycEgsoMrRjce) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Incarnat](https://open.spotify.com/album/7MHCdhvoWFGcKSnuqp5dOS) | 3:29 | 2022-05-25 |  |
+| [Espoir](https://open.spotify.com/track/6wUL2qBFXtycEgsoMrRjce) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Incarnat](https://open.spotify.com/album/7MHCdhvoWFGcKSnuqp5dOS) | 3:29 | 2022-05-25 | 2022-10-29 |
 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 | 2022-05-25 |  |
 | [Feu roulant](https://open.spotify.com/track/6j0fokyjEaCo1JAiB4NxEh) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Le poids des livres](https://open.spotify.com/album/2YrH5m1lyfJQdN2tTB7RMC) | 3:02 | 2022-05-25 | 2022-07-28 |
 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 | 2022-05-25 |  |
@@ -61,6 +61,7 @@
 | [Holiday Inn](https://open.spotify.com/track/2gcq5nOTW4xhvShjcq3Dro) | [Tom Chicoine](https://open.spotify.com/artist/2AFmNRNeW4gaF0E0fro7QG) | [Les vapeurs qui nous font avancer](https://open.spotify.com/album/0mNW3oYyYoCUTvGdo9b5bv) | 2:33 | 2022-05-25 | 2022-07-28 |
 | [Hédoniste](https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hédoniste](https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3) | 3:19 | 2022-05-25 |  |
 | [I Know](https://open.spotify.com/track/50eGTKo7td8i5PCNkPCmWO) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Home Run](https://open.spotify.com/album/2r4bTB0FAzdzUakL7yopqV) | 4:10 | 2022-05-25 |  |
+| [Il n'y a que toi](https://open.spotify.com/track/1RqiVKbXmMpa5w70ebmCds) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Equilibre](https://open.spotify.com/album/05i1g2VNkI7hBdIADta182) | 3:21 | 2022-05-25 |  |
 | [Il n'y a que toi](https://open.spotify.com/track/437SZweapEV4CPxYc6OHi2) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Equilibre](https://open.spotify.com/album/0z1AllM1nbO8X3F7KKYy2t) | 3:21 | 2022-05-25 | 2022-10-26 |
 | [INDÉLÉBILE](https://open.spotify.com/track/5Mwwrp4vtCAhExnFFHbwBt) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [INDÉLÉBILE](https://open.spotify.com/album/6SYrm2Ynl39i7bkanjPNVK) | 2:50 | 2022-05-25 |  |
 | [Insensible](https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:27 | 2022-05-25 |  |

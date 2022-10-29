@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Abby Sage, Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,617 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,690 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hopeless Romantic](https://open.spotify.com/track/0yZGo0JRf8ligEAHgT2k6p) | [02Apollo](https://open.spotify.com/artist/4P0hC4yq6wYrDANYRNjsGn) | [Hopeless Romantic](https://open.spotify.com/album/7CmfAlV0BPcIH4EhyIA3aO) | 2:34 |
 | 2 | [Julia](https://open.spotify.com/track/04lmWOI5oqXensMTRiKUYy) | [Vox Rea](https://open.spotify.com/artist/4SRrbYd7KBkGdOCAekSnY1) | [Julia](https://open.spotify.com/album/3GZ4zjIs4s20QTTfv3VkTM) | 2:47 |
 | 3 | [Hush](https://open.spotify.com/track/6QvNcedB1Y7nYJXZ3txTIL) | [Nuclear Daisies](https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo) | [Hush](https://open.spotify.com/album/3eQ0X8bC4GexeleVPfdsXM) | 4:42 |
-| 4 | [Chemical Emotion](https://open.spotify.com/track/1CKcGabeLVfIuAWNBbhGDL) | [Jeen](https://open.spotify.com/artist/3lEWoA7lwwybODn5K0v2Bz) | [Tracer](https://open.spotify.com/album/539CALjKRdYU8sKcwFogqL) | 3:10 |
-| 5 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
-| 6 | [Afterworld](https://open.spotify.com/track/4ILnzWMNQzZVN0WbJuM6Bg) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Afterworld](https://open.spotify.com/album/1L0x1iCP1Uk2pMcKHtwW7Y) | 3:37 |
-| 7 | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1) | 3:25 |
-| 8 | [Dazed](https://open.spotify.com/track/49KnDWWAZzWXVxaiDwSXsI) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [New Occasion](https://open.spotify.com/album/7mPuG1ZP41IW1A7X4pNzPf) | 4:18 |
-| 9 | [Bicycle](https://open.spotify.com/track/3e5DYz9hSXkUyQyxT8eo8R) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Bicycle](https://open.spotify.com/album/7d7vmt2uwD7DRaA9p9U7dC) | 2:52 |
-| 10 | [happy less](https://open.spotify.com/track/50HOSiUaxkH5yZPqTkBuqE) | [Hundaes](https://open.spotify.com/artist/2O4wIpuUgy3A2JvIYdDuGt) | [happy less](https://open.spotify.com/album/2hoICeafKOzNcH65BoTbxk) | 3:15 |
-| 11 | [You Still Send Me Beats Though](https://open.spotify.com/track/4rVSnHzgMq1gm7z66Nk9o3) | [Maddy Davis](https://open.spotify.com/artist/0N1XijsQLptT42ERtHfKsZ) | [MUD](https://open.spotify.com/album/0N1rPf3sOqmaxq863fl9ui) | 3:32 |
-| 12 | [Again](https://open.spotify.com/track/7ATrAYmFMpfADYCYoDu221) | [KT Laine](https://open.spotify.com/artist/45bWAmOWm6pQPdV3yH9s13) | [Again](https://open.spotify.com/album/2Xydp4g98KSJPiS7lmB0WV) | 3:13 |
-| 13 | [violet](https://open.spotify.com/track/3LNa80ozLYLxSyEW1G2vsw) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [violet](https://open.spotify.com/album/1gyjRT8c0SAiH58YtFqbVc) | 3:07 |
-| 14 | [No Greater Joy](https://open.spotify.com/track/6CGdWGFfTnYvnJ9wQg1IW9) | [Stello](https://open.spotify.com/artist/439Dw5xIEnUHlgIu1QS2uF) | [No Greater Joy](https://open.spotify.com/album/5LuhtFpQCsjCxJn40vF3Hn) | 2:59 |
-| 15 | [Dancing In The Summer](https://open.spotify.com/track/3HCeXL9rSE7CWAb6GV5a9W) | [Mr Floyd Larry](https://open.spotify.com/artist/1k8ck5j4cuHYuzy3nPHDrM) | [City Mountains](https://open.spotify.com/album/1VY59MVXUnXu2U7Iv0z5j8) | 2:51 |
-| 16 | [Hold On](https://open.spotify.com/track/0qPSn5jVfM7lHixm2W4nNi) | [Chase Ceglie](https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn) | [Hold On](https://open.spotify.com/album/4W0UZfOtlCxlozQVy0wDcy) | 3:29 |
-| 17 | [i haunt ur dreams](https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [i haunt ur dreams](https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi) | 3:36 |
+| 4 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
+| 5 | [Afterworld](https://open.spotify.com/track/4ILnzWMNQzZVN0WbJuM6Bg) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Afterworld](https://open.spotify.com/album/1L0x1iCP1Uk2pMcKHtwW7Y) | 3:37 |
+| 6 | [Bicycle](https://open.spotify.com/track/3e5DYz9hSXkUyQyxT8eo8R) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Bicycle](https://open.spotify.com/album/7d7vmt2uwD7DRaA9p9U7dC) | 2:52 |
+| 7 | [violet](https://open.spotify.com/track/3LNa80ozLYLxSyEW1G2vsw) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [violet](https://open.spotify.com/album/1gyjRT8c0SAiH58YtFqbVc) | 3:07 |
+| 8 | [i haunt ur dreams](https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [i haunt ur dreams](https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi) | 3:36 |
+| 9 | [Chemical Emotion](https://open.spotify.com/track/1CKcGabeLVfIuAWNBbhGDL) | [Jeen](https://open.spotify.com/artist/3lEWoA7lwwybODn5K0v2Bz) | [Tracer](https://open.spotify.com/album/539CALjKRdYU8sKcwFogqL) | 3:10 |
+| 10 | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1) | 3:25 |
+| 11 | [Dazed](https://open.spotify.com/track/49KnDWWAZzWXVxaiDwSXsI) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [New Occasion](https://open.spotify.com/album/7mPuG1ZP41IW1A7X4pNzPf) | 4:18 |
+| 12 | [happy less](https://open.spotify.com/track/50HOSiUaxkH5yZPqTkBuqE) | [Hundaes](https://open.spotify.com/artist/2O4wIpuUgy3A2JvIYdDuGt) | [happy less](https://open.spotify.com/album/2hoICeafKOzNcH65BoTbxk) | 3:15 |
+| 13 | [You Still Send Me Beats Though](https://open.spotify.com/track/4rVSnHzgMq1gm7z66Nk9o3) | [Maddy Davis](https://open.spotify.com/artist/0N1XijsQLptT42ERtHfKsZ) | [MUD](https://open.spotify.com/album/0N1rPf3sOqmaxq863fl9ui) | 3:32 |
+| 14 | [Again](https://open.spotify.com/track/7ATrAYmFMpfADYCYoDu221) | [KT Laine](https://open.spotify.com/artist/45bWAmOWm6pQPdV3yH9s13) | [Again](https://open.spotify.com/album/2Xydp4g98KSJPiS7lmB0WV) | 3:13 |
+| 15 | [No Greater Joy](https://open.spotify.com/track/6CGdWGFfTnYvnJ9wQg1IW9) | [Stello](https://open.spotify.com/artist/439Dw5xIEnUHlgIu1QS2uF) | [No Greater Joy](https://open.spotify.com/album/5LuhtFpQCsjCxJn40vF3Hn) | 2:59 |
+| 16 | [Dancing In The Summer](https://open.spotify.com/track/3HCeXL9rSE7CWAb6GV5a9W) | [Mr Floyd Larry](https://open.spotify.com/artist/1k8ck5j4cuHYuzy3nPHDrM) | [City Mountains](https://open.spotify.com/album/1VY59MVXUnXu2U7Iv0z5j8) | 2:51 |
+| 17 | [Hold On](https://open.spotify.com/track/0qPSn5jVfM7lHixm2W4nNi) | [Chase Ceglie](https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn) | [Hold On](https://open.spotify.com/album/4W0UZfOtlCxlozQVy0wDcy) | 3:29 |
 | 18 | [That Day](https://open.spotify.com/track/3mkK2W4YYv0PoR1Fq6XgJn) | [Under The Influence](https://open.spotify.com/artist/1ujsb65y3JwUyfc0O4OBWm) | [That Day](https://open.spotify.com/album/3UUzjfp1oOSHmTfq3TGoHT) | 3:15 |
 | 19 | [Cosmic Shifter](https://open.spotify.com/track/2YNoVs0lPgHtjmKRl9pZCi) | [Baby Vanga](https://open.spotify.com/artist/4WzjQkZTyd74XNGU0kZezn) | [Cosmic Shifter](https://open.spotify.com/album/1k3xojGjpDGWIqSQQ5UrLL) | 3:45 |
 | 20 | [Little Insects](https://open.spotify.com/track/7r0rLsoYXGOGSuBSvDDYI8) | [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Little Insects](https://open.spotify.com/album/0qfbp1OgJwjIaJxboJHLos) | 2:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 74 | [Black Horses](https://open.spotify.com/track/1t9tVgHKBxVXqJapWlvakJ) | [Lucy 22](https://open.spotify.com/artist/1Y2zpWghC2JzicNPGf4VMg), [Indieclimb](https://open.spotify.com/artist/5wk5mLirrHPNbkvor0f5S2) | [Black Horses](https://open.spotify.com/album/2qE6CrrfYO0LbXRFAjwMvo) | 4:35 |
 | 75 | [confident](https://open.spotify.com/track/0l5RnR0hCX0PnOlYuR6x3q) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [I started a garden](https://open.spotify.com/album/11suIFqciw4aNWEBRtJjPj) | 2:17 |
 
-Snapshot ID: `MTY2NjcyOTE4OCwwMDAwMDAwMDBmMDRiMzAzZWZmY2I4YjdhYjQxNTgzMTVlOTEzZjNi`
+Snapshot ID: `MTY2NjkyODk1MSwwMDAwMDAwMDRhMGU4NGY0OGRmMDJkYTExMDAxZTRmNWYyZGNmZTJm`

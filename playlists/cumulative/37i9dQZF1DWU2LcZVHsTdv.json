@@ -1984,6 +1984,24 @@
     },
     {
       "album": {
+        "name": "She Loves Jesus",
+        "url": "https://open.spotify.com/album/4T6btzyWWrifniVKkTmZbs"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "She Loves Jesus",
+      "url": "https://open.spotify.com/track/6crnBVNhXq2aEi5ALEVc41"
+    },
+    {
+      "album": {
         "name": "29",
         "url": "https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn"
       },

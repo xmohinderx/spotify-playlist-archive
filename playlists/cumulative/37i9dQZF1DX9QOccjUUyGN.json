@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: Japa",
+  "description": "tranquilo e calmo, no flow. Foto: Thiago Kelbert",
   "name": "tamo flex",
   "published_playlist_ids": [
     "6q6haEaTDDjjQ2HQhKMkJt"
@@ -87,7 +87,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 182402,
       "name": "99",
       "url": "https://open.spotify.com/track/72MgPMtkZ4lGEgVt3gHa6b"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 100562,
       "name": "Ai Calica",
       "url": "https://open.spotify.com/track/4nonpXUJXOI2t828fHWIMd"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 159360,
       "name": "Chama Minha Gang",
       "url": "https://open.spotify.com/track/10mRFMbGEgwPujMEPO34Qy"
@@ -1362,6 +1362,32 @@
     },
     {
       "album": {
+        "name": "Do Jeito Que Ela Gosta",
+        "url": "https://open.spotify.com/album/3zZ0XBCXxqNA91IbouzecT"
+      },
+      "artists": [
+        {
+          "name": "Jovem SANN",
+          "url": "https://open.spotify.com/artist/46lv9XwXwqRtuMHLqs4XZ4"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "L\u00e9o Dizero",
+          "url": "https://open.spotify.com/artist/3cVDLVyfZhkUeS5QAx6UVm"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Do Jeito Que Ela Gosta",
+      "url": "https://open.spotify.com/track/5oS4HknEFqsIc8l8E0xpmW"
+    },
+    {
+      "album": {
         "name": "Dona da Vibe",
         "url": "https://open.spotify.com/album/6gaR9YishjVc1XiLLsbYFr"
       },
@@ -1633,7 +1659,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 183495,
       "name": "Era do Ch\u00e1",
       "url": "https://open.spotify.com/track/34UOhyyT7FPRr58XEfpjLF"
@@ -1765,7 +1791,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 244500,
       "name": "Eu Te Amo",
       "url": "https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm"
@@ -1913,6 +1939,32 @@
       "duration_ms": 141567,
       "name": "Floricultor",
       "url": "https://open.spotify.com/track/4h8lLunQEZwzwhHJmTLwXJ"
+    },
+    {
+      "album": {
+        "name": "Frio & Calculista",
+        "url": "https://open.spotify.com/album/3uAl8UgCy8Qgzff4RKl0rP"
+      },
+      "artists": [
+        {
+          "name": "Iasmin Turbininha",
+          "url": "https://open.spotify.com/artist/0HeSaJ2OiMF7ZpdKTkTZF1"
+        },
+        {
+          "name": "Caio Fred",
+          "url": "https://open.spotify.com/artist/7y8GW7hTfyk4FYKJNRJ709"
+        },
+        {
+          "name": "CereBeats",
+          "url": "https://open.spotify.com/artist/4USYf94aCsO66aJqulSV2D"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184880,
+      "name": "Frio & Calculista",
+      "url": "https://open.spotify.com/track/4J1c6maTGuWirmGCOgrfsK"
     },
     {
       "album": {
@@ -2231,7 +2283,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 188000,
       "name": "Linda Vem C\u00e1",
       "url": "https://open.spotify.com/track/1yoflyDAlHZ63e1l9AHn2V"
@@ -2249,7 +2301,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 146250,
       "name": "Lisboa Freestyle",
       "url": "https://open.spotify.com/track/4mVxUmtyeQMazBAIKj8fFq"
@@ -2585,6 +2637,24 @@
     {
       "album": {
         "name": "Melhor Vers\u00e3o",
+        "url": "https://open.spotify.com/album/0ilOJJdnSEIhheoTk5v3Ej"
+      },
+      "artists": [
+        {
+          "name": "meninojazz",
+          "url": "https://open.spotify.com/artist/4APYh18EtS9RP82vDYYSEm"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Melhor Vers\u00e3o",
+      "url": "https://open.spotify.com/track/6F3mpz4iDMXjqioA10HB3w"
+    },
+    {
+      "album": {
+        "name": "Melhor Vers\u00e3o",
         "url": "https://open.spotify.com/album/5ulXYj65YhiZhZ0zIv9dXC"
       },
       "artists": [
@@ -2673,10 +2743,40 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 178775,
       "name": "Miami",
       "url": "https://open.spotify.com/track/7mmzwqOu7mADycV1aDZtTe"
+    },
+    {
+      "album": {
+        "name": "Mina do Tiktok",
+        "url": "https://open.spotify.com/album/17IASDGrfwOvZdV1nYMDSx"
+      },
+      "artists": [
+        {
+          "name": "DJ Caetano",
+          "url": "https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ"
+        },
+        {
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        },
+        {
+          "name": "Os Hawaianos",
+          "url": "https://open.spotify.com/artist/6f6ccYxDNgsPCMemKceSY4"
+        },
+        {
+          "name": "Stefan Baby",
+          "url": "https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189857,
+      "name": "Mina do Tiktok",
+      "url": "https://open.spotify.com/track/6mYSeZSDGxyeaTKLzUqE2B"
     },
     {
       "album": {
@@ -2780,6 +2880,24 @@
     },
     {
       "album": {
+        "name": "O mesmo que rimava na roda",
+        "url": "https://open.spotify.com/album/0hAiRHgK81qTe9vEA62ciW"
+      },
+      "artists": [
+        {
+          "name": "Thiago Kelbert",
+          "url": "https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226537,
+      "name": "Monumento",
+      "url": "https://open.spotify.com/track/0yg0NeuDRodgNUOB1UukKI"
+    },
+    {
+      "album": {
         "name": "MOVIMENTO",
         "url": "https://open.spotify.com/album/5MWgLpyg4E5ZuUrArJiUPs"
       },
@@ -2851,6 +2969,24 @@
       "duration_ms": 106018,
       "name": "mudan\u00e7as",
       "url": "https://open.spotify.com/track/6Eb3RmCa0b9wWVF2X55sqw"
+    },
+    {
+      "album": {
+        "name": "Mundo de Fantasia",
+        "url": "https://open.spotify.com/album/2HdtVLARQ9ylHm76OoeCx4"
+      },
+      "artists": [
+        {
+          "name": "LK 3030",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mundo de Fantasia",
+      "url": "https://open.spotify.com/track/3tan5rgugHRDRkwmHmlU93"
     },
     {
       "album": {
@@ -3099,6 +3235,28 @@
       "duration_ms": 164592,
       "name": "N\u00e3o Sou Mais o Mesmo",
       "url": "https://open.spotify.com/track/4im3t41HdejxHQ14EjYjC9"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Testa a Minha F\u00e9",
+        "url": "https://open.spotify.com/album/3hxmEtAlta8QF2peQz76CS"
+      },
+      "artists": [
+        {
+          "name": "Nathy Mc",
+          "url": "https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo"
+        },
+        {
+          "name": "HERvolution",
+          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158455,
+      "name": "N\u00e3o Testa a Minha F\u00e9",
+      "url": "https://open.spotify.com/track/68cBnxhajAqoGgndypIYGh"
     },
     {
       "album": {
@@ -4013,6 +4171,36 @@
       "duration_ms": 260250,
       "name": "RJ SP (Ao Vivo)",
       "url": "https://open.spotify.com/track/2pSxlMADdtco1Yd5OYyhEn"
+    },
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/0iJvsmDccgB5Q4r4RNyn7R"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        },
+        {
+          "name": "Meno Tody",
+          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
+        },
+        {
+          "name": "Thiago Kelbert",
+          "url": "https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230138,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/2VNyie9QghBdscuGcFnoK4"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Adam Melchor ",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Tom Odell",
   "name": "Fresh Folk",
   "published_playlist_ids": [
     "7yU452WcXvKlp2CXhHrD6N"
@@ -1453,7 +1453,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 270806,
       "name": "Better Off High",
       "url": "https://open.spotify.com/track/08iVl7NDnT63Xf1zqokboz"
@@ -1749,7 +1749,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 326971,
       "name": "Blue",
       "url": "https://open.spotify.com/track/37W0pEWmnXRirotQJEhwHk"
@@ -2095,7 +2095,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 179173,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
@@ -2317,7 +2317,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 280697,
       "name": "Cedar On The Fire",
       "url": "https://open.spotify.com/track/0DDyjtzGMb4CAew87M4DCN"
@@ -2947,7 +2947,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 210666,
       "name": "Dance with Everybody",
       "url": "https://open.spotify.com/track/7qNIz2zkEnSjnDPuo10HEr"
@@ -4425,7 +4425,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 179157,
       "name": "Flying :))",
       "url": "https://open.spotify.com/track/39FexuVmNT8zcnB1DoscSn"
@@ -4465,7 +4465,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 273413,
       "name": "For a While",
       "url": "https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj"
@@ -4563,6 +4563,28 @@
       "duration_ms": 223201,
       "name": "Fourth of July - April Base Version",
       "url": "https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG"
+    },
+    {
+      "album": {
+        "name": "Friendship (with Mavis Staples) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/1oQ25Ld3o4Rk7SL1xbEgT5"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265549,
+      "name": "Friendship (with Mavis Staples) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/5qCvajGQcgKD5mSAKXuTKJ"
     },
     {
       "album": {
@@ -4779,7 +4801,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 325066,
       "name": "Go Home",
       "url": "https://open.spotify.com/track/5qbHBepTowbMldhK8RVhTl"
@@ -5610,6 +5632,24 @@
     },
     {
       "album": {
+        "name": "Holy Place",
+        "url": "https://open.spotify.com/album/1lqkzKpQ8FInrboRloSa5H"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179437,
+      "name": "Holy Place",
+      "url": "https://open.spotify.com/track/74rYA2zWSMsMKfhLs47RD0"
+    },
+    {
+      "album": {
         "name": "The Way Back Home",
         "url": "https://open.spotify.com/album/6k3Uyv6sAkRALbzPpYXQvk"
       },
@@ -6150,6 +6190,28 @@
     },
     {
       "album": {
+        "name": "I felt a Funeral, in my Brain [feat. Phoebe Bridgers]",
+        "url": "https://open.spotify.com/album/2NAQ55IP8e5YH9sasQDuCJ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249135,
+      "name": "I felt a Funeral, in my Brain [feat. Phoebe Bridgers]",
+      "url": "https://open.spotify.com/track/7ko94TOP3vONuYqHLH6zpe"
+    },
+    {
+      "album": {
         "name": "Nightroamer",
         "url": "https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc"
       },
@@ -6652,6 +6714,24 @@
     },
     {
       "album": {
+        "name": "5am Paradise",
+        "url": "https://open.spotify.com/album/6KavgnkfM090x9zFOwRoYh"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195544,
+      "name": "If You\u2019re Falling Asleep",
+      "url": "https://open.spotify.com/track/2ZEtuhomZIuim95sQ3E2Uz"
+    },
+    {
+      "album": {
         "name": "If/Then",
         "url": "https://open.spotify.com/album/3k869jddn1qTtcyFECxjy0"
       },
@@ -7088,6 +7168,28 @@
     },
     {
       "album": {
+        "name": "Joint Account",
+        "url": "https://open.spotify.com/album/5I8uUf233kr6FLP7lg6hfG"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        },
+        {
+          "name": "Slow Leaves",
+          "url": "https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186748,
+      "name": "Joint Account",
+      "url": "https://open.spotify.com/track/7MpiFzyjot6mHge9PZKlmm"
+    },
+    {
+      "album": {
         "name": "Junk Life",
         "url": "https://open.spotify.com/album/4mdjWr3GskXWD9bYvWxswN"
       },
@@ -7143,6 +7245,24 @@
       "duration_ms": 220363,
       "name": "Just a Closer Walk with Thee",
       "url": "https://open.spotify.com/track/7h9AJvnX2HY794n0YhDNwt"
+    },
+    {
+      "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
     },
     {
       "album": {
@@ -8175,7 +8295,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 205560,
       "name": "Make a Picture",
       "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
@@ -8630,6 +8750,24 @@
     },
     {
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193005,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
+    },
+    {
+      "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
@@ -9071,6 +9209,24 @@
       "duration_ms": 227156,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/0V6whmxgRbeeJpijQXUbDN"
+    },
+    {
+      "album": {
+        "name": "No Reason",
+        "url": "https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159493,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY"
     },
     {
       "album": {
@@ -10311,10 +10467,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 246545,
       "name": "Pterodactyl",
       "url": "https://open.spotify.com/track/3K8sjM8kS4LnJGjDwg8dSQ"
+    },
+    {
+      "album": {
+        "name": "Strange Encounters",
+        "url": "https://open.spotify.com/album/3kVUhdMFFgYJin3Uk8WQeA"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246545,
+      "name": "Pterodactyl",
+      "url": "https://open.spotify.com/track/4wZUbcdQlD6QHNzKyukcGy"
     },
     {
       "album": {
@@ -10741,7 +10915,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 185813,
       "name": "Restless Heart",
       "url": "https://open.spotify.com/track/2NqhpgeIGfvCc2bWnLk7RY"
@@ -11940,6 +12114,24 @@
     },
     {
       "album": {
+        "name": "Alpenglow",
+        "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
+    },
+    {
+      "album": {
         "name": "Quitters",
         "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
       },
@@ -12417,7 +12609,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 221082,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA"
@@ -13210,6 +13402,24 @@
     },
     {
       "album": {
+        "name": "The Primrose Chopper",
+        "url": "https://open.spotify.com/album/38gW0qfqleZzjPuV1veLDu"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298701,
+      "name": "The Primrose Chopper",
+      "url": "https://open.spotify.com/track/7rCNPDBw9LsnTvY1U262JK"
+    },
+    {
+      "album": {
         "name": "The Ship",
         "url": "https://open.spotify.com/album/30zeGnOWwx2Ke20KAd3OgT"
       },
@@ -13261,6 +13471,24 @@
       "duration_ms": 232748,
       "name": "The Spur",
       "url": "https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB"
+    },
+    {
+      "album": {
+        "name": "The Summer Isles (Sunrise)",
+        "url": "https://open.spotify.com/album/1LKzG8knWyTv8xpdyaJocp"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227400,
+      "name": "The Summer Isles (Sunrise)",
+      "url": "https://open.spotify.com/track/47M7p4dKargxTcRSjvE9Qv"
     },
     {
       "album": {

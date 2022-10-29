@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,642 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,654 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 | 11 | [Dragon Roost Island \(from "The Legend of Zelda: Wind Waker"\)](https://open.spotify.com/track/1IwZ6sH6uw3B6Nt6xmBfl5) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:20 |
 | 12 | [We Will Rock You \- Instrumental](https://open.spotify.com/track/40qLT0EWRDmmC6inQjcpag) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 1:57 |
 | 13 | [September](https://open.spotify.com/track/4kHqWbGY8490TnJXenkw2u) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 3:40 |
-| 14 | [Somebody That I Used To Know](https://open.spotify.com/track/6gJdDsFkT70iWUxgCsLId7) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos de Jalisco, Vol\. 3](https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m) | 4:41 |
+| 14 | [Despacito](https://open.spotify.com/track/3SsKXdUXlrXy4A83TcUZYS) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 3:23 |
 | 15 | [De Música Ligera](https://open.spotify.com/track/5bLPTpFDAIZepilkmufet8) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [De Música Ligera](https://open.spotify.com/album/5SUspMXl2khtx0vMiZs2lU) | 2:54 |
-| 16 | [Despacito](https://open.spotify.com/track/3SsKXdUXlrXy4A83TcUZYS) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 3:23 |
+| 16 | [Somebody That I Used To Know](https://open.spotify.com/track/6gJdDsFkT70iWUxgCsLId7) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos de Jalisco, Vol\. 3](https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m) | 4:41 |
 | 17 | [Man in the Box](https://open.spotify.com/track/5zrZCsmEfd6wJrgGk80nWj) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Uno](https://open.spotify.com/album/3mCK5Vz0CRwcc4GglR3Q5v) | 4:22 |
 | 18 | [Changes](https://open.spotify.com/track/167gl31uOXmVYazZz5TDhx) | [Mariachi Arco Iris](https://open.spotify.com/artist/5TxkKchbD0Joui6g9sUwna) | [Changes](https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D) | 3:22 |
 | 19 | [Sewer Surfin' \(from "TMNT IV: Turtles In Time"\)](https://open.spotify.com/track/1o83GhlzSOxQM8nakZLjJC) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 1:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 | 49 | [Here I Go Again](https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Dos](https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb) | 4:25 |
 | 50 | [Octopus's Garden](https://open.spotify.com/track/73I3tHlaStjv20avY2n1aw) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos Instrumentales](https://open.spotify.com/album/5Jrvf6K3Q6Yfh8RstOvZMg) | 2:54 |
 
-Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDBkODczY2YyZjMzMTk0YzBiYzgwOWYxNmM4ZDZhZjMw`
+Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDk5ODU4ZTBkMGNlMmEzYjg5NDUxYjQ1M2MwMWNmMDI2`

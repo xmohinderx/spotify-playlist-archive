@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Javiera Mena
 
-447 songs - 1 day 1 hr 52 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+448 songs - 1 day 1 hr 55 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 | 2022-01-14 | 2022-09-26 |
 | [Culpable](https://open.spotify.com/track/1F2MEdnUuZDV23rEFw6ZcM) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Arde](https://open.spotify.com/album/2eZrZxOfzdQKvNthFD5IDJ) | 3:07 | 2022-01-21 | 2022-07-20 |
 | [Curriculum Completo](https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Curriculum Completo](https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC) | 2:25 | 2022-10-07 |  |
+| [Cursi](https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Cursi](https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M) | 3:13 | 2022-10-28 |  |
 | [Cuántas Veces](https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy) | 3:06 | 2022-02-11 | 2022-07-28 |
 | [Cuéntame](https://open.spotify.com/track/335hZySHS94UpZkHkIJaDq) | [Agustina Bécares](https://open.spotify.com/artist/6rC1DqYU1RqOE8aNV1RAf2) | [Breve Relato de un Suceso Irreversible](https://open.spotify.com/album/5bWAI4BhBPaRcHYECcEfYE) | 3:38 | 2022-04-01 | 2022-05-26 |
 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 | 2022-01-14 |  |
@@ -223,7 +224,7 @@
 | [Lo Que Digo](https://open.spotify.com/track/5OFN31HnVm100b0bCNrggm) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Lo Que Digo](https://open.spotify.com/album/2pf4WSVOCJUOnGCk1xnFA8) | 4:43 | 2022-01-21 | 2022-07-25 |
 | [Lo Que Quedó](https://open.spotify.com/track/2WzKA3ZmmQD2IVvgcHhZzd) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Lo Que Quedó](https://open.spotify.com/album/6LeAdcapsLl9nHI1A7cASR) | 2:55 | 2022-01-21 | 2022-04-17 |
 | [Loco](https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Loco](https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt) | 2:58 | 2022-07-08 | 2022-07-16 |
-| [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 | 2022-01-21 |  |
+| [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 | 2022-01-21 | 2022-10-29 |
 | [Los Límites del Sueño](https://open.spotify.com/track/7g9iuJfq7wmdB7jVmdoQun) | [Sofía y Sus Paracaídas](https://open.spotify.com/artist/0vLW3E3sxu3dBfvbD2hVQR) | [Los Límites del Sueño](https://open.spotify.com/album/0MPqONH7eK5YV2QphsEYCY) | 4:04 | 2022-01-21 | 2022-07-16 |
 | [Los Segundos](https://open.spotify.com/track/6nHvrVoLWkyfqvxubRQ1Z1) | [María Viola](https://open.spotify.com/artist/1roFBD0EmElVwimb3qpkSK) | [Los Segundos](https://open.spotify.com/album/0q9l4LrCSLBTNHShkzhVLU) | 2:46 | 2022-06-03 | 2022-06-15 |
 | [Luna Blanca](https://open.spotify.com/track/4CmR7OzhllsOtUt9fN93cR) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Luna Blanca](https://open.spotify.com/album/3wqao1R6kX82CGRmTteWgO) | 3:40 | 2022-01-14 | 2022-07-29 |

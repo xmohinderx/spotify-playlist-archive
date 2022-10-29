@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,415 likes - 54 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,430 likes - 54 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 33 | [Raga Mishra Shivaranjani](https://open.spotify.com/track/3YLqvI4mIynHBm5oZd3kcp) | [Debashish Bhattacharya](https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb) | [Young Masters](https://open.spotify.com/album/1NgIYpOmbekiKquc6Luxvn) | 7:32 |
 | 34 | [Rag Bhimpalasi: Alap, Jod, Jhala](https://open.spotify.com/track/6pABGyScqkMTvMYJGNj8TH) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Fazal Qureshi](https://open.spotify.com/artist/4pM7882XwZYuY67tfYztMS) | [Rag Bhimpalasi](https://open.spotify.com/album/2jfrFg8TijCLBRF2X7zziH) | 41:04 |
 | 35 | [Raga: Pahari](https://open.spotify.com/track/1rj7pkUmfcB7fFirFRGU4s) | [Shujaat Khan](https://open.spotify.com/artist/4SY41gazmsCCMk9OYB9ep0) | [Sweet Melodies](https://open.spotify.com/album/1a70UazMSgoClPn3Ee2KfJ) | 8:14 |
-| 36 | [Ahir Bhairav](https://open.spotify.com/track/1rAHJIHBTMxk5B30UzvIAZ) | [Pandit Brij Bhushan Kabra, Pandit Hariprasad Chaurasia & Pandit Shivkumar Sharma](https://open.spotify.com/artist/6MqnhMsiafcPAePqc1e22r) | [Rough Guide to Indian Classical Music](https://open.spotify.com/album/4YHYezIazOcE2FNuQr0APX) | 6:14 |
+| 36 | [Ahir Bhairav](https://open.spotify.com/track/3JLewKQMn2Xo9MPTFOTyFC) | [Pandit Brij Bhushan Kabra, Pandit Hariprasad Chaurasia & Pandit Shivkumar Sharma](https://open.spotify.com/artist/6MqnhMsiafcPAePqc1e22r) | [Rough Guide to Indian Classical Music](https://open.spotify.com/album/3hqdUUtLEQmxorRMI5hE0l) | 6:14 |
 | 37 | [Hem Bihag \- A Creation Of Acharya Allanddin Khan \- Alap & Jor](https://open.spotify.com/track/6PbwTf3bXyyQD53mlQGsQ3) | [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Pandit Indranil Bhattacharya](https://open.spotify.com/artist/49TezlyR1n2SMfvwa7riTd) | [Live at the Royal Festival Hall, London 1994](https://open.spotify.com/album/6pFcgD0tnbn1m2kfBpEvb3) | 43:52 |
 | 38 | [Raag Hament \(Tintal, 16 beats\) \(arr\. T\. Bhattacharya\)](https://open.spotify.com/track/0TVyDdq8zgk1t3YYJOolFu) | [Tarun Bhattacharya](https://open.spotify.com/artist/75pVYyeJxeZZMforYr50pA), [Shiv Shankar Ray](https://open.spotify.com/artist/7AzfrIUqSS0ebgQm7MplWf), [Jayashree Acharya](https://open.spotify.com/artist/6RdLFlouF6vZX4LDxI23rQ) | [The Best of Indian Santur](https://open.spotify.com/album/0jtXyO8dEmcslU37nVa9kc) | 8:48 |
 | 39 | [Dhun in Madhyam se Gara \- Studio](https://open.spotify.com/track/2E6CaLThMXVtfa1lt4qmlk) | [Tejendra Majumdar](https://open.spotify.com/artist/1448391H4g8M6h6vtFiwfp), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Silken Strings](https://open.spotify.com/album/1D5ftreyjAxac1oqd1v4hq) | 5:59 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 53 | [Rag Misra Mand](https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:30 |
 | 54 | [Raga Shuddha Todi: Alap](https://open.spotify.com/track/28p3AUitPD7fiJP56kFIZY) | [Zia Mohiuddin Dagar](https://open.spotify.com/artist/2vHem6PNwo85W01g17IRbG), [Uday Bhawalkar](https://open.spotify.com/artist/6TOIUtOeUwfFiYiaEqtVWf), [Yvan Trunzler](https://open.spotify.com/artist/0bcLW0cPCgjAnGMz0zR8hC) | [Raga Shuddha Todi](https://open.spotify.com/album/3BC7ziX2OG2oUJy8fr7gUT) | 34:21 |
 
-Snapshot ID: `MTY2NjY3NTczNSwwMDAwMDAwMDMyZGIzOTgwZTY2NzNkMzhmNGUwNTdlZDk1YjJmOTkz`
+Snapshot ID: `MTY2NjY3NTczNSwwMDAwMDAwMGZmMTBjYmQyMDYzM2VmYWRkZTEwMTAzNjNmYjQwZWU0`

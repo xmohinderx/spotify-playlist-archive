@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,081 songs - 2 day 11 hr 47 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
+1,082 songs - 2 day 11 hr 50 min - [published](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-27 |  |
 | [I'm Tired \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I'm Tired \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-03-05 | 2022-03-13 |
 | [IDGAF \(feat\. Fabe\)](https://open.spotify.com/track/5gtqR8tdO0jrYoCrNNH5Kt) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [BOY WONDER](https://open.spotify.com/album/17NNoDhQk1jYRWeVTuoPSB) | 2:43 | 2021-10-03 | 2021-10-09 |
+| [Ihana kipu](https://open.spotify.com/track/4EXBxZeqKIayJa65KtAwZw) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Ihana kipu](https://open.spotify.com/album/3XxoOZ0yPeoig9wjK31bR7) | 3:07 | 2022-10-28 |  |
 | [Ihana mies](https://open.spotify.com/track/1JuNanMDR8N94nicMCbusE) | [Titta](https://open.spotify.com/artist/3vSPGdAKywVxEwnOXjghbG) | [Ihana mies](https://open.spotify.com/album/0jmyQQzgR3SPy2QPw7PGIW) | 3:27 | 2022-02-12 | 2022-02-15 |
 | [Ihanaa Leijonat, Ihanaa](https://open.spotify.com/track/14l8B86O8bFUpy2ujERYfX) | [A\-Tyyppi](https://open.spotify.com/artist/6Fz4OHOMAFJMpa2uJmYnJQ) | [A\-Studio Live! \- Äärimmäinen katastrofialbumi](https://open.spotify.com/album/1aiJu4PEdPnwHrOsqSwWrw) | 3:40 | 2022-02-21 | 2022-06-01 |
 | [Ihmisen ikävä toisen luo \(Vain elämää kausi 13\)](https://open.spotify.com/track/3Pe0hTz0Vg6X7j6d9hOkCL) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [Ihmisen ikävä toisen luo \(Vain elämää kausi 13\)](https://open.spotify.com/album/1BNUfLPfVMxBcqDjltpSsn) | 3:05 | 2022-09-18 | 2022-10-01 |
@@ -1012,7 +1013,7 @@
 | [Vettä kaivoon \(feat\. Keko Salata\)](https://open.spotify.com/track/1K0n5SZABSl7kdTPxZh8Gj) | [Aurora](https://open.spotify.com/artist/6B7tHfJGL5rnIxNQLN8Hp0), [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN) | [Vettä kaivoon \(feat\. Keko Salata\)](https://open.spotify.com/album/5hSCHKSYM2IAesgi1Y8cpj) | 3:21 | 2021-04-26 | 2021-05-25 |
 | [VGN](https://open.spotify.com/track/3gCPzKR0Bnt6JYz386rR22) | [Erin](https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ) | [Miljoona vastausta](https://open.spotify.com/album/5w5M9KkzGpdYSmVx9507zy) | 3:53 | 2022-08-27 | 2022-09-04 |
 | [Vielki hengis \(feat\. costee\)](https://open.spotify.com/track/19uE9QQOsOTeJnApDDxFtX) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i), [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Masennust & massii](https://open.spotify.com/album/3QgMx7rbplN2yvpUl898nT) | 3:46 | 2022-10-22 |  |
-| [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 |  |
+| [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-29 |
 | [Vihaton](https://open.spotify.com/track/2LkKksK60ofXNd0hIDuQa3) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Vihaton](https://open.spotify.com/album/48fyJ6Cm5ZYXNXy8JWE4R9) | 3:34 | 2022-05-07 | 2022-05-13 |
 | [Vihatuin \(feat\. Fabe, Reino Nordin & Mikael Gabriel\)](https://open.spotify.com/track/13WaSn6bd7PR7V7pQu9BF9) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw), [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [Vihatuin \(feat\. Fabe, Reino Nordin & Mikael Gabriel\)](https://open.spotify.com/album/1Mm5if7IvrEXWZrxVll3Dm) | 3:03 | 2022-08-20 | 2022-09-25 |
 | [Vihje](https://open.spotify.com/track/1w2vjbD7OmP9TaPRiiA2xW) | [nublu](https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Vihje](https://open.spotify.com/album/3slrfEb9ioJLHKNWQTLomS) | 3:30 | 2022-01-01 | 2022-02-15 |

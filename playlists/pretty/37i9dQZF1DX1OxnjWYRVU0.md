@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,469 likes - 348 songs - 15 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,615 likes - 348 songs - 15 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 13 | [Thriller](https://open.spotify.com/track/71iQ4j3A9xKvo84CerWoC4) | [Crypto](https://open.spotify.com/artist/3hkBUDhKEiz64k5kTrd1QQ), [Say So City](https://open.spotify.com/artist/5mUUQC9Jv8EOsqJSG7vWhM) | [Thriller](https://open.spotify.com/album/6mQ1zti9t393eVPtQFNcLj) | 3:03 |
 | 14 | [Naughty Girl](https://open.spotify.com/track/3hWPbIoTNvlAaZRuPSm3na) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [Milan Gavris](https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ) | [Naughty Girl](https://open.spotify.com/album/6cX4jJqfnTCe5Syi8gjsBS) | 2:08 |
 | 15 | [Ghostbusters](https://open.spotify.com/track/1Yhxmnxo9C5g6rYkM5FRUM) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Ghostbusters](https://open.spotify.com/album/3vpc3fW5djJuuaF0588LHV) | 2:26 |
-| 16 | [Party All The Time](https://open.spotify.com/track/4UQCcvUuZsp7QW4yhPcR5B) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR) | [Party All The Time](https://open.spotify.com/album/5HbT9dv6ZM6uDFShQKFrzk) | 2:14 |
-| 17 | [More Than A Woman](https://open.spotify.com/track/7vDy6ICoGfrf3pJ1Yj75B9) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti) | [More Than A Woman](https://open.spotify.com/album/1f2H9WFgUbJsI2t0jXzdm3) | 2:45 |
+| 16 | [Party All The Time](https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR) | [Party All The Time](https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh) | 2:14 |
+| 17 | [More Than A Woman](https://open.spotify.com/track/3plnciIJ2K6FHD4gxjcHCy) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti) | [More Than A Woman](https://open.spotify.com/album/6ELMbr9J5MPMDJOyvolOul) | 2:45 |
 | 18 | [Three Little Birds](https://open.spotify.com/track/1EytZ5aKjaGDsk8ujrFWoV) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC) | [Three Little Birds](https://open.spotify.com/album/7AulSlkspgPvEqJmjsUqXD) | 2:36 |
 | 19 | [Conga](https://open.spotify.com/track/2iOeW2WmQKgqgDst8EiOUS) | [Mastik Lickers](https://open.spotify.com/artist/4v0WD4FQ8lDk6lcKR5IATN), [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Audiosonik](https://open.spotify.com/artist/7kMmIuIMrfztBnJn5HZuob), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Conga](https://open.spotify.com/album/3IneQwhJjMHlcJyq6eflpv) | 2:14 |
 | 20 | [Kernkraft 400 \(A Better Day\) \- MistaJam Remix](https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2) | [Kernkraft 400 \(A Better Day\) \[MistaJam Remix\]](https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz) | 2:20 |
@@ -357,4 +357,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 347 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 348 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMGQ1MjFhMWM0M2I4YzJmMjFmMDFiMjQ4NzI1ODUwOGY3`
+Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMGQwYTVjYjMzMGI2MTFhYjU1MjE2NDM2NTczZTg4OTIy`

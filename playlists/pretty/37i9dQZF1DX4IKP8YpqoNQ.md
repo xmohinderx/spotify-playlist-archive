@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,392 likes - 100 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,403 likes - 100 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 64 | [Claustrophobic \(feat\. Keyon Harrold\) \- Live](https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Gumbo Unplugged \(Live\)](https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6) | 5:10 |
 | 65 | [Peg \- Live](https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Alive In America](https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc) | 4:19 |
 | 66 | [Hey Laura \- Live At The Royal Albert Hall / 02 April 2018](https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [One Night Only \(Live At The Royal Albert Hall / 02 April 2018\)](https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun) | 3:40 |
-| 67 | [The Ghetto \- Live](https://open.spotify.com/track/1ZTKGGmBDAadBT2jDrcpPM) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Weekend in London \(Live\)](https://open.spotify.com/album/0cMVOOJ8JydjzNx5hFnxbD) | 6:14 |
-| 68 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Life on Planet Groove](https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7) | 3:45 |
+| 67 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Life on Planet Groove](https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7) | 3:45 |
+| 68 | [The Ghetto \- Live](https://open.spotify.com/track/1ZTKGGmBDAadBT2jDrcpPM) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Weekend in London \(Live\)](https://open.spotify.com/album/0cMVOOJ8JydjzNx5hFnxbD) | 6:14 |
 | 69 | [Black Man In A White World \- Live From Spotify London](https://open.spotify.com/track/3sCEJXGT2wRXraZeQHi0PS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Spotify Sessions](https://open.spotify.com/album/1izqfeako1qgYLviORVoDT) | 7:49 |
 | 70 | [People Get Ready \- Live at The Bitter End, NYC](https://open.spotify.com/track/5fN60U114jgzi8TfhIDcpK) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis Live! \(US Release\)](https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp) | 3:47 |
 | 71 | [I Keep Forgettin' \- Live](https://open.spotify.com/track/3lLdweMPFav5srRwselDyG) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Live on Soundstage](https://open.spotify.com/album/13WZzcE9qqYGIGYwY8fFFE) | 4:33 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 86 | [Brown Sugar \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 10:45 |
 | 87 | [Add To Me \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 3:40 |
 | 88 | [Don't Play That Song \- Live at Fillmore West, San Francisco, February 5, 1971](https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Live at Fillmore West](https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc) | 3:17 |
-| 89 | [Say Yes \- Live At The House Of Blues, New Orleans / 2003](https://open.spotify.com/track/54tuUilU05mObbh1Xhqu44) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floacism "Live"](https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa) | 5:56 |
-| 90 | [Feeling Good \- Live](https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Live](https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr) | 3:56 |
-| 91 | [Grow \- Live](https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow \(Live\)](https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL) | 3:02 |
+| 89 | [Grow \- Live](https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow \(Live\)](https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL) | 3:02 |
+| 90 | [Say Yes \- Live At The House Of Blues, New Orleans / 2003](https://open.spotify.com/track/54tuUilU05mObbh1Xhqu44) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floacism "Live"](https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa) | 5:56 |
+| 91 | [Feeling Good \- Live](https://open.spotify.com/track/3mPaCNDaL3PhzpLbS9Xnwj) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Live](https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr) | 3:56 |
 | 92 | [Nakamarra \- Live from Spotify Sydney](https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Spotify Sessions](https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw) | 4:56 |
 | 93 | [Send It On](https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 5:41 |
 | 94 | [A Song for You \- Live at the Troubador, Los Angeles, CA](https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [In Performance](https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW) | 5:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 99 | [Keep the Home Fire Burnin' \- Live](https://open.spotify.com/track/3nVbQp2oSkQa0CRiiVubZp) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [Live and Uncensored / Live and Outrageous](https://open.spotify.com/album/6WAkTQuyJu9eHiX5FnUyA1) | 3:26 |
 | 100 | [California Dreamin' \- Live In Hollywood / 1968](https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [The Womack Live](https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A) | 6:06 |
 
-Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMGRmYTNjMmY3NTY5MGUxZjljZGExNGFjZGE2ZjRkZTVh`
+Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMGEzZGViZDc4NjQzNmE5NzcxYzFlNjM3MWNjNTEwZjky`

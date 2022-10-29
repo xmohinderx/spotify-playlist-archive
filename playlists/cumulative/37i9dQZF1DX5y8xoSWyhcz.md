@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\.  girl in red on the cover
 
-980 songs - 2 day 2 hr 17 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+981 songs - 2 day 2 hr 20 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Break](https://open.spotify.com/track/0Qih8wH7Smf780cwH2Pqxk) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Break](https://open.spotify.com/album/2P40voWuU97H7NJGckbEOF) | 2:45 | 2021-09-11 | 2021-12-11 |
 | [Break My Fall](https://open.spotify.com/track/2D2wLzadfYEvxzoQAHtCm5) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Break My Fall](https://open.spotify.com/album/1ge5wbmkpeytkR9oiIyJb9) | 3:26 | 2022-05-20 | 2022-05-21 |
 | [Broke Mine](https://open.spotify.com/track/3MWQIH5B6TSqxOT4mTYzJk) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Broke Mine](https://open.spotify.com/album/7a4GgADrERVlml8GnNZWvd) | 3:31 | 2022-03-11 | 2022-06-04 |
-| [Broken Lips](https://open.spotify.com/track/6F5cfxHDlMAfQdAQ8KF0JZ) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [Broken Lips](https://open.spotify.com/album/6qDqkwfYuiG4wSOP1oXM4c) | 4:42 | 2022-09-09 |  |
+| [Broken Lips](https://open.spotify.com/track/6F5cfxHDlMAfQdAQ8KF0JZ) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [Broken Lips](https://open.spotify.com/album/6qDqkwfYuiG4wSOP1oXM4c) | 4:42 | 2022-09-09 | 2022-10-29 |
 | [bubblegum](https://open.spotify.com/track/6nex4xkeGBrngKZbgoDWBi) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [bubblegum](https://open.spotify.com/album/3n4irVf4flMBpTYYbbPqnY) | 3:08 | 2021-07-17 | 2021-08-28 |
 | [Burger King Bathroom](https://open.spotify.com/track/4eGwQiJNa2zboopOEOvXjf) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Burger King Bathroom](https://open.spotify.com/album/7g2HX2akwRHItjsTjQ6CtU) | 2:28 | 2020-12-19 | 2021-02-20 |
 | [Busy](https://open.spotify.com/track/1ZOvGngH4YojNtbhtzJCZs) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Busy](https://open.spotify.com/album/3bvUadr6ldYuCapGdpOjC9) | 2:23 | 2020-11-21 | 2021-01-15 |
@@ -867,6 +867,7 @@
 | [The Rest](https://open.spotify.com/track/2SRx7uOuHLWrUuN2dyrZ41) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK) | [The Rest](https://open.spotify.com/album/3lGu5v2t3o5F1jRurv9Nqq) | 2:20 | 2021-03-06 | 2021-06-05 |
 | [The Ruler](https://open.spotify.com/track/2PNPqJ8V4WZYtsZLgqScLW) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [The Ruler](https://open.spotify.com/album/0Y23xE35UnyPKLEilLkyGx) | 3:15 | 2022-09-23 |  |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-07-29 |  |
+| [The Symptoms of Vanity](https://open.spotify.com/track/3P46IcnN4aYYPGR6QiLn7g) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [The Symptoms of Vanity](https://open.spotify.com/album/4Ly7xnHm17aqWZMUraI2SV) | 2:50 | 2022-10-28 |  |
 | [The Trend](https://open.spotify.com/track/6uEZw7lGWqjoezSwzcbXxQ) | [daysormay](https://open.spotify.com/artist/1gneO1Mf6DCsgxUtDzF4lS) | [The Trend](https://open.spotify.com/album/4cTeTD1wo72KlNwsmuJjDI) | 3:07 | 2021-04-30 | 2021-09-11 |
 | [the way that you see me \(feat\. Ayleen Valentine\)](https://open.spotify.com/track/5O6QAX1oI4iktfXP8HAmgi) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [the way that you see me \(feat\. Ayleen Valentine\)](https://open.spotify.com/album/4V0khjs7JiKzbJdYMukRhm) | 3:02 | 2021-02-20 | 2021-04-10 |
 | [THERAPY](https://open.spotify.com/track/1Kwa1zBDS4CaTGHPZ3pKau) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [THERAPY](https://open.spotify.com/album/1i0QT2p3Af2fcmVKq4TZ1u) | 3:11 | 2021-01-30 | 2021-03-06 |

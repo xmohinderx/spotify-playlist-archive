@@ -4,7 +4,7 @@
 
 > New music and timeless tracks from legends only\. Cover: Iggy Pop
 
-215 songs - 15 hr 36 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
+216 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [I'd Do Anything For Love \(But I Won't Do That\)](https://open.spotify.com/track/4UrgDocbHywDZv2f3mBhCq) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell II: Back Into Hell...](https://open.spotify.com/album/4yIGqIF5oroPCLDUOOLYSO) | 12:01 | 2022-04-08 | 2022-07-09 |
 | [I'm Losing More Than I'll Ever Have](https://open.spotify.com/track/3jEJQGprFXpeICSRtPKGDc) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Primal Scream](https://open.spotify.com/album/1DBeC4IonGp4QNHVNk4omH) | 5:08 | 2022-04-08 | 2022-07-29 |
 | [In Better Times](https://open.spotify.com/track/6Qjaa8xn44u0WgRHhF8maL) | [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH) | [Fat Pop](https://open.spotify.com/album/2k16u3isATvgM4cQpvOPGz) | 4:47 | 2022-04-08 | 2022-07-28 |
+| [In Between Days \- 2006 Remaster](https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 2:57 | 2022-10-27 |  |
 | [Inbetween Days](https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 2:57 | 2022-04-08 | 2022-07-29 |
 | [Invincible](https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/7woWmF7vNQwAVNymD0UkbY) | 4:46 | 2022-04-08 | 2022-08-19 |
 | [INVISIBLE](https://open.spotify.com/track/4dSSgn4MvJTGkvA9HYh6yO) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [INVISIBLE](https://open.spotify.com/album/5B9dysoa56xnvkfDpAsd43) | 3:11 | 2022-04-08 | 2022-07-12 |
@@ -173,7 +174,7 @@
 | [Sonnet](https://open.spotify.com/track/4zH2KvskyPazDb8YcDDTHU) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Sonnet](https://open.spotify.com/album/6KQP6kD8i7tnsRgSgS5SEE) | 4:20 | 2022-04-08 | 2022-07-25 |
 | [Spirit Power and Soul](https://open.spotify.com/track/4wFpYAYP6nsqDGIxA6cAeZ) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Spirit Power and Soul](https://open.spotify.com/album/7r7oJKTKtoxFtTHtCTMJ57) | 4:38 | 2022-04-08 | 2022-06-17 |
 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 | 2022-04-08 |  |
-| [Stand By Me \- Remastered](https://open.spotify.com/track/5WTPhYmwwojFP73O7p3Izi) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:55 | 2022-08-18 |  |
+| [Stand By Me \- Remastered](https://open.spotify.com/track/5WTPhYmwwojFP73O7p3Izi) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:55 | 2022-08-18 | 2022-10-29 |
 | [Starlight](https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:00 | 2022-07-28 |  |
 | [Start!](https://open.spotify.com/track/4svNZgdVZNtpWKbb7nsaLs) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Sound Affects](https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb) | 2:29 | 2022-04-08 | 2022-07-29 |
 | [Step On \- 2007 Remaster](https://open.spotify.com/track/4gAU0cHQJFxj1n2ZDiEIzG) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Pills 'N' Thrills And Bellyaches \(Collector's Edition\)](https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ) | 5:18 | 2022-04-08 | 2022-07-29 |

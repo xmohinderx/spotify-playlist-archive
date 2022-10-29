@@ -4,7 +4,7 @@
 
 > A collection of the biggest Metal classics of the 90s\. Cover: Deftones
 
-242 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/3h31tTr3Ha92IjfhLZSpkP)
+243 songs - 19 hr 9 min - [published](https://open.spotify.com/playlist/3h31tTr3Ha92IjfhLZSpkP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Heartwork](https://open.spotify.com/track/1PBhzfzTAZ5qyIfzqPqign) | [Carcass](https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER) | [Heartwork](https://open.spotify.com/album/7D1UMHzEIHNhwa0gyqmya9) | 4:33 | 2021-09-09 | 2022-07-28 |
 | [Hellraiser](https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex) | 4:35 | 2021-09-09 |  |
 | [Holy Wars...The Punishment Due \- Remastered](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 | 2021-09-09 |  |
+| [Hooligan's Holiday](https://open.spotify.com/track/1l3lfMFKZl5Of75yL32NyW) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Mötley Crüe](https://open.spotify.com/album/0LNvUkaE6bHCsNqq2mYIiE) | 5:51 | 2022-10-05 |  |
 | [Hooligan's Holiday](https://open.spotify.com/track/47ux5RnqIfnZSQ6FD0F6Ao) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Mötley Crüe](https://open.spotify.com/album/4M48r399waQGpDut2mQTiq) | 5:51 | 2022-07-13 | 2022-07-29 |
 | [How The Gods Kill](https://open.spotify.com/track/5w8agmmSkjBh4ScKCAtWqx) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig III: How The Gods Kill](https://open.spotify.com/album/5FRzKiBPlUkfULxupLXK53) | 5:56 | 2022-02-22 |  |
 | [I Am The Black Wizards](https://open.spotify.com/track/2956v4MaiU78SkPpeTXxhq) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [In The Nightside Eclipse](https://open.spotify.com/album/5nTalKcL6vhFMNihs0b3iU) | 6:00 | 2021-09-09 |  |
@@ -152,7 +153,7 @@
 | [Nobody Hears](https://open.spotify.com/track/2YWneK5JPbsfYuFMFgEon7) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [The Art Of Rebellion](https://open.spotify.com/album/0YuCx3bdCJG3n2kuQOhiWL) | 5:32 | 2022-07-13 |  |
 | [Nookie](https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:49 | 2021-09-09 |  |
 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 | 2022-07-13 |  |
-| [Old](https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:05 | 2022-07-13 |  |
+| [Old](https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:05 | 2022-07-13 | 2022-10-29 |
 | [One Rode to ASA Bay](https://open.spotify.com/track/58HV7ZJ99McDZ5P8nBnt9g) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Hammerheart](https://open.spotify.com/album/2ptBwIHjXVgM4al3YWTdlb) | 10:24 | 2022-07-13 | 2022-07-28 |
 | [Only](https://open.spotify.com/track/39E1yxw6gHQbnFlCqIMYHI) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Sound Of White Noise](https://open.spotify.com/album/4x4oAsuap16GgLoRx8D61k) | 4:56 | 2021-09-09 | 2022-07-29 |
 | [Only](https://open.spotify.com/track/6Aq0Lm7wQRRFYzBQz7pukW) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Sound of White Noise \- Expanded Edition](https://open.spotify.com/album/0d2JYDKMatUzGPSKo62hza) | 4:56 | 2021-09-09 |  |

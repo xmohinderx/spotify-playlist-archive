@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: WHOKILLEDXIX
 
-700 songs - 1 day 11 hr 4 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+700 songs - 1 day 11 hr 5 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [in this world of mona lisa's, you’re my jackson pollock](https://open.spotify.com/track/33K0eJS7ZdLAZFtxv2UaU8) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [in this world of mona lisa's, you’re my jackson pollock](https://open.spotify.com/album/7kRSzOYu9ec2E4w40wTEPy) | 2:37 | 2022-02-25 | 2022-04-22 |
 | [Intimacy](https://open.spotify.com/track/39EFala3XXRculW4xXJyOg) | [The Sukis](https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT) | [Intimacy](https://open.spotify.com/album/7zYp5nRE0nSKYryN9BUArc) | 2:31 | 2021-12-17 | 2022-01-21 |
 | [INVITATION](https://open.spotify.com/track/5UeAFjIxgay5XnbfhaJ0hq) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [INVITATION](https://open.spotify.com/album/4ZifRxvNe7VyUx2puhgVXP) | 1:59 | 2022-03-18 | 2022-04-08 |
-| [it takes two](https://open.spotify.com/track/4kqN2QZY63RFEbx40O3t6Q) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [PULLBACK](https://open.spotify.com/album/56KbxzO2UdHqcjNF6PAKPF) | 1:54 | 2022-10-27 |  |
+| [it takes two](https://open.spotify.com/track/4kqN2QZY63RFEbx40O3t6Q) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [PULLBACK](https://open.spotify.com/album/56KbxzO2UdHqcjNF6PAKPF) | 2:41 | 2022-10-27 |  |
 | [It Was A Gift](https://open.spotify.com/track/4dm7wiTdyLxf2zUSuUuN7G) | [TV Priest](https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI) | [My Other People](https://open.spotify.com/album/6O8ZBxH4IMh214XoMPMVfR) | 3:33 | 2022-06-16 | 2022-07-15 |
 | [It Was Beautiful](https://open.spotify.com/track/4WTtLurqdWhoQEGC3av6Cp) | [TV Priest](https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI) | [It Was Beautiful](https://open.spotify.com/album/6mG9Z34A1IVYzBZj7AFcXb) | 3:33 | 2022-05-26 | 2022-07-08 |
 | [It'll Hurt](https://open.spotify.com/track/1gaVMd4SNDKJLKNfMnhd8R) | [The Flatliners](https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB) | [New Ruin](https://open.spotify.com/album/7C9cX1cxSbHnzGPBQVQfeG) | 3:50 | 2022-08-04 | 2022-09-23 |

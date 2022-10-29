@@ -256,6 +256,24 @@
     },
     {
       "album": {
+        "name": "ALL 4 U",
+        "url": "https://open.spotify.com/album/1dEIALXVIdQbwPHk1wafIa"
+      },
+      "artists": [
+        {
+          "name": "30/70",
+          "url": "https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260247,
+      "name": "ALL 4 U - Radio Edit",
+      "url": "https://open.spotify.com/track/3jrVIohjKXXea0Of7LZcFx"
+    },
+    {
+      "album": {
         "name": "All I Do",
         "url": "https://open.spotify.com/album/01ggqwB4iUJO47fa0T0wln"
       },
@@ -653,6 +671,24 @@
       "duration_ms": 236640,
       "name": "Bittersweet - Radio Edit",
       "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
+    },
+    {
+      "album": {
+        "name": "black & gold",
+        "url": "https://open.spotify.com/album/7wt00eQdsOs6XpaNvIJVyQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201373,
+      "name": "black & gold",
+      "url": "https://open.spotify.com/track/5IPHTe3gNyJNJGukYwDamD"
     },
     {
       "album": {
@@ -1391,7 +1427,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 209718,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3GHIpmoJ4H7iwMrccZbMFo"
@@ -4196,6 +4232,36 @@
     },
     {
       "album": {
+        "name": "Naturally Conspiring",
+        "url": "https://open.spotify.com/album/28zKMISoSA143WKaWeng3p"
+      },
+      "artists": [
+        {
+          "name": "Badge \u00c9poque Ensemble",
+          "url": "https://open.spotify.com/artist/08E0CO6MC1ykoQP5VQt4hL"
+        },
+        {
+          "name": "Lammping",
+          "url": "https://open.spotify.com/artist/1ZrzRmbuxvCeFSpEbFpbXZ"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Roshin",
+          "url": "https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215820,
+      "name": "Naturally Conspiring",
+      "url": "https://open.spotify.com/track/035oBcRjSOLNXDklFrODdk"
+    },
+    {
+      "album": {
         "name": "Zhigeist",
         "url": "https://open.spotify.com/album/5LZCzWRQK0GNx6PK7px6Df"
       },
@@ -4597,7 +4663,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 252922,
       "name": "Pasadena",
       "url": "https://open.spotify.com/track/0ezgs8d0YffH0TNTnIrK5g"
@@ -5189,7 +5255,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 184959,
       "name": "RUBY",
       "url": "https://open.spotify.com/track/2y9Kjl7LN7lhswglFgmIXX"
@@ -6743,7 +6809,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 162690,
       "name": "Toxic Love",
       "url": "https://open.spotify.com/track/467uvONzMj0yQfDpItmx9E"
@@ -6905,6 +6971,24 @@
       "duration_ms": 136000,
       "name": "Up to You",
       "url": "https://open.spotify.com/track/0GdeitSxIUCO33j7g710HF"
+    },
+    {
+      "album": {
+        "name": "Us - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6c1sdchTFvL0jwHeKx725a"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373953,
+      "name": "Us - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5tHlKei7IIgA29Vef05NYa"
     },
     {
       "album": {
@@ -7077,7 +7161,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 200213,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
@@ -7179,6 +7263,28 @@
       "duration_ms": 217135,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/1wkmKVGBLk4A1jblaKVQ3h"
+    },
+    {
+      "album": {
+        "name": "Whiskey Mango",
+        "url": "https://open.spotify.com/album/2E3rZT4vBeReHfviF14qv6"
+      },
+      "artists": [
+        {
+          "name": "Kwaj",
+          "url": "https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX"
+        },
+        {
+          "name": "V. Soul Entertainment",
+          "url": "https://open.spotify.com/artist/1XZYIpLkSadyThcdshZT7U"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234606,
+      "name": "Whiskey Mango",
+      "url": "https://open.spotify.com/track/3uhNimFY6kwnmGZYc68tLP"
     },
     {
       "album": {

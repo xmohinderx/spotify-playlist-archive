@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Dubdogz
 
-92 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
+93 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Free My Mind](https://open.spotify.com/track/7zcmIz44ipSUMprZKvEeRO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Free My Mind](https://open.spotify.com/album/7F5b3CtINIB8fGrxZqPMjY) | 2:40 | 2021-12-24 | 2022-04-09 |
 | [Funkatron](https://open.spotify.com/track/5JohYODxZkqfPFC3UWSrMj) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Funkatron](https://open.spotify.com/album/2LnfOgfUOo91vCHLTvgv5M) | 3:09 | 2022-05-06 |  |
 | [Ghost](https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Ghost](https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4) | 2:41 | 2021-12-24 |  |
+| [Ghostbusters](https://open.spotify.com/track/1Yhxmnxo9C5g6rYkM5FRUM) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Ghostbusters](https://open.spotify.com/album/3vpc3fW5djJuuaF0588LHV) | 2:26 | 2022-10-28 |  |
 | [Gimme Gimme](https://open.spotify.com/track/61PUqivooERiYjgLMw2UR2) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Gimme Gimme](https://open.spotify.com/album/18AIQ8lzuMHEm9pfBtBGRK) | 2:27 | 2021-12-24 | 2022-07-29 |
 | [Gimme Gimme](https://open.spotify.com/track/73j31E7LkV0cgb6fkbyZWR) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Gimme Gimme](https://open.spotify.com/album/0DE70DL84J6TAGv980nTgV) | 2:27 | 2022-07-08 |  |
 | [Go With Me](https://open.spotify.com/track/1i6Htm6AlXi2pqbd8i2HDk) | [D\-Groov](https://open.spotify.com/artist/1plmayGv4JinxVkZg17xMp), [Zambelli](https://open.spotify.com/artist/6DoDzOwAXazCp8Sa38MmuT) | [Go With Me](https://open.spotify.com/album/5K2zQEqrOAddXUWva6AEuo) | 3:16 | 2021-12-24 | 2022-05-20 |
@@ -65,7 +66,7 @@
 | [I Want Love \- Cat Dealers Remix](https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [I Want Love \(Cat Dealers Remix\)](https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS) | 3:41 | 2021-12-24 |  |
 | [In My Mind](https://open.spotify.com/track/4JUjUe1zor1myq8f2eq3Kq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In My Mind](https://open.spotify.com/album/0ns8wB6mJDe5AZbYDnlPSG) | 2:55 | 2021-12-24 | 2022-07-29 |
 | [In My Mind](https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In My Mind](https://open.spotify.com/album/412mL0hMStgwl1ukZjLxR8) | 2:55 | 2022-07-08 |  |
-| [In the Night \- Sevek Remix](https://open.spotify.com/track/69B1qgfaaXirGSbdx3otxJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [In the Night \(Sevek Remix\)](https://open.spotify.com/album/3A7MxmucODffpO7GgAPqgC) | 3:04 | 2022-05-20 |  |
+| [In the Night \- Sevek Remix](https://open.spotify.com/track/69B1qgfaaXirGSbdx3otxJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [In the Night \(Sevek Remix\)](https://open.spotify.com/album/3A7MxmucODffpO7GgAPqgC) | 3:04 | 2022-05-20 | 2022-10-29 |
 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 | 2021-12-24 | 2022-09-06 |
 | [Lo Que Soy](https://open.spotify.com/track/7oNvcR6y6AIxbY2aWukM9p) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Lo Que Soy](https://open.spotify.com/album/6KCqenIwnDx20ku4jx5gVl) | 3:09 | 2021-12-24 |  |
 | [Lose Your Love \(feat\. Ghosts!\)](https://open.spotify.com/track/6Md3dxN47Rrg7ZrIEZ5198) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Ghosts!](https://open.spotify.com/artist/7n6zkjRcVcm27g5HJWKU58) | [Lose Your Love \(feat\. Ghosts!\)](https://open.spotify.com/album/7v0M7q5dtXfvlD2HYaOstf) | 2:58 | 2021-12-24 | 2022-04-23 |

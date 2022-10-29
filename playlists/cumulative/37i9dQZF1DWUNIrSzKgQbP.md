@@ -4,7 +4,7 @@
 
 > Falling leaves and cozy tunes.
 
-358 songs - 22 hr 19 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
+359 songs - 22 hr 23 min - [published](https://open.spotify.com/playlist/6ihRyE4LvPowKDrcfjRMak)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,8 @@
 | [Postcards from Catalonia](https://open.spotify.com/track/4lRkGLyn34DslvBDT0vSnA) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Evidence of Living](https://open.spotify.com/album/5vJavc6E4Q69iS5FtgW7ET) | 4:44 | 2021-12-20 | 2022-03-22 |
 | [Prism Song](https://open.spotify.com/track/2kSeNucLoBda0BBLYKurtp) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Rooms With Walls and Windows](https://open.spotify.com/album/518syyOKJtmhFFB3uAYkOx) | 3:37 | 2022-03-21 | 2022-06-08 |
 | [Promise](https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 6:24 | 2022-09-06 |  |
-| [Pterodactyl](https://open.spotify.com/track/3K8sjM8kS4LnJGjDwg8dSQ) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Pterodactyl](https://open.spotify.com/album/757iG6V3Y2AYwEwGONa6DS) | 4:06 | 2022-09-06 |  |
+| [Pterodactyl](https://open.spotify.com/track/3K8sjM8kS4LnJGjDwg8dSQ) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Pterodactyl](https://open.spotify.com/album/757iG6V3Y2AYwEwGONa6DS) | 4:06 | 2022-09-06 | 2022-10-29 |
+| [Pterodactyl](https://open.spotify.com/track/4wZUbcdQlD6QHNzKyukcGy) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Strange Encounters](https://open.spotify.com/album/3kVUhdMFFgYJin3Uk8WQeA) | 4:06 | 2022-09-06 |  |
 | [Put a Little Love in Your Life](https://open.spotify.com/track/5WWUQRyMRCsji0asIXqXjh) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Sing\-a\-long Series](https://open.spotify.com/album/2llv42xFgsIr8cMuctd5Qx) | 2:56 | 2022-06-07 | 2022-09-07 |
 | [Rainbow](https://open.spotify.com/track/6XQzy3sYwgCKPCwGvTWQ7o) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Rainbow](https://open.spotify.com/album/28yBTX3k4B5gNK9lmus04C) | 2:46 | 2021-12-20 | 2022-03-22 |
 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 | 2021-12-20 | 2022-03-22 |

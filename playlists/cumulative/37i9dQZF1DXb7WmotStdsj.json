@@ -1101,8 +1101,8 @@
           "url": "https://open.spotify.com/artist/4GzBsqkkdGxCTUeMehLzvQ"
         },
         {
-          "name": "Amine La Colombe",
-          "url": "https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E"
+          "name": "amine la colombe",
+          "url": "https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX"
         }
       ],
       "date_added": "2022-10-25",
@@ -1289,28 +1289,6 @@
       "duration_ms": 294523,
       "name": "Machafouhach",
       "url": "https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0"
-    },
-    {
-      "album": {
-        "name": "Maghadnich Frakek",
-        "url": "https://open.spotify.com/album/6zrYBK8X2WIl77dOm7z3mM"
-      },
-      "artists": [
-        {
-          "name": "Cheb Kader Wahrani",
-          "url": "https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw"
-        },
-        {
-          "name": "amine la colombe",
-          "url": "https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX"
-        }
-      ],
-      "date_added": "2022-09-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 285287,
-      "name": "Maghadnich Frakek",
-      "url": "https://open.spotify.com/track/4uiZQeOtBPgqspq2eBjEIV"
     },
     {
       "album": {
@@ -1973,6 +1951,28 @@
       "duration_ms": 278000,
       "name": "Zidini 3ich9ane",
       "url": "https://open.spotify.com/track/78xAW5L8hxmBHnZtIqjyZf"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0635\u063a\u0631 \u0645\u0627 \u064a\u062f\u0648\u0645",
+        "url": "https://open.spotify.com/album/6zrYBK8X2WIl77dOm7z3mM"
+      },
+      "artists": [
+        {
+          "name": "Cheb Kader Wahrani",
+          "url": "https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw"
+        },
+        {
+          "name": "amine la colombe",
+          "url": "https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285287,
+      "name": "\u0627\u0644\u0635\u063a\u0631 \u0645\u0627 \u064a\u062f\u0648\u0645",
+      "url": "https://open.spotify.com/track/4uiZQeOtBPgqspq2eBjEIV"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-08",
-  "description": "Heavy new bands you need to have an eye on. Cover: Tallah",
+  "description": "Heavy new bands you need to have an eye on. Cover: Bloodywood",
   "name": "New Blood",
   "published_playlist_ids": [
     "0gTCJ5PNCODVC0yVCIKhB7"
@@ -560,6 +560,24 @@
     },
     {
       "album": {
+        "name": "Felt Like Home",
+        "url": "https://open.spotify.com/album/7BCIRnGqWxt9w9JsbsjYIE"
+      },
+      "artists": [
+        {
+          "name": "As Everything Unfolds",
+          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210445,
+      "name": "Felt Like Home",
+      "url": "https://open.spotify.com/track/1Tvq5AWaYmN598So4r6p2h"
+    },
+    {
+      "album": {
         "name": "FIX THIS",
         "url": "https://open.spotify.com/album/2ABQMw2umOizavA4yPSRZQ"
       },
@@ -625,7 +643,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 238332,
       "name": "Forced to Smile",
       "url": "https://open.spotify.com/track/6ugI9vdvlPnYqlDu6uhTdT"
@@ -722,6 +740,24 @@
     },
     {
       "album": {
+        "name": "I Sing Alone",
+        "url": "https://open.spotify.com/album/0qxrvbiTs5U7exUPdyBlYP"
+      },
+      "artists": [
+        {
+          "name": "Oceans",
+          "url": "https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213475,
+      "name": "I Sing Alone",
+      "url": "https://open.spotify.com/track/2H4jNC3nMl22tyVK1BeLGH"
+    },
+    {
+      "album": {
         "name": "I'm the Water",
         "url": "https://open.spotify.com/album/6IQJUqVhJX9Bb30tjCu4L7"
       },
@@ -751,7 +787,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 121466,
       "name": "Imposter Syndrome",
       "url": "https://open.spotify.com/track/36fPtq8jWJtNKsYC71Hmjz"

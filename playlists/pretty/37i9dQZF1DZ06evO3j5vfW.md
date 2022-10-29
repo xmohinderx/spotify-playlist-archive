@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,723 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,727 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 39 | [Love Me Better](https://open.spotify.com/track/5gs8HdtvlvLyVKCWQQ4mbl) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Love Me Better](https://open.spotify.com/album/39b0O5JheGmKYPV9K8z785) | 2:55 |
 | 40 | [Distance](https://open.spotify.com/track/15czHLdg2X2XbtSNxXIo09) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Distance](https://open.spotify.com/album/3OOvbFMJScD4X9ROgtLFZw) | 2:48 |
 | 41 | [Destiny](https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Alexander Tidebrink](https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC) | [Destiny](https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq) | 4:13 |
-| 42 | [Hear Me Now](https://open.spotify.com/track/2RENEC1I3hpe1PXVbqSvr6) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Perception EP](https://open.spotify.com/album/2YE08q7reI4y0Ucx8mfJtE) | 3:29 |
-| 43 | [Here We Go \(Hey Boy, Hey Girl\)](https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Here We Go \(Hey Boy, Hey Girl\)](https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd) | 2:38 |
+| 42 | [Here We Go \(Hey Boy, Hey Girl\)](https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Here We Go \(Hey Boy, Hey Girl\)](https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd) | 2:38 |
+| 43 | [Hear Me Now](https://open.spotify.com/track/2RENEC1I3hpe1PXVbqSvr6) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Perception EP](https://open.spotify.com/album/2YE08q7reI4y0Ucx8mfJtE) | 3:29 |
 | 44 | [My Way \- Marcus Santoro Remix](https://open.spotify.com/track/4j5oym5wl44NwTOVT9ERhS) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Alice Berg](https://open.spotify.com/artist/0YdFvpH7MvXv5vBsfGvt7g), [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz) | [My Way \(ft\. Alice Berg\) \[Marcus Santoro Remix\]](https://open.spotify.com/album/31XA52KgaFv2wVYHoQ2UMx) | 3:01 |
 | 45 | [Only For You](https://open.spotify.com/track/6U9ajbuK8CvXEGKtco10sp) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Only For You](https://open.spotify.com/album/2BQ3iU7zPXjXkTrwUwZ9iC) | 2:49 |
 | 46 | [Lose My Mind](https://open.spotify.com/track/7vTaAwEWxj5vhhQpuWZpFm) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Lose My Mind](https://open.spotify.com/album/4UohRlSH6iqad6ykrQL2wI) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 49 | [Iron](https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:39 |
 | 50 | [Back To You](https://open.spotify.com/track/1eZXJrEbdGSuST1f8NY5Qk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Back To You](https://open.spotify.com/album/5MuuG7O578wt7v4fwLwkrs) | 3:05 |
 
-Snapshot ID: `Mjc3ODEzNjMsMDAwMDAwMDAyNjNkMjRkODZlMDc5M2U5MjExODgxM2RjZTAyNDQwNA==`
+Snapshot ID: `Mjc3ODI5MTIsMDAwMDAwMDBkZmMyMWM5Nzk2YmY5ODc3NzVkMjZkOGNkZjkxM2U5NA==`

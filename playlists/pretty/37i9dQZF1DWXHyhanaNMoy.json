@@ -1,12 +1,12 @@
 {
   "description": "Broederliefde check je in La Vida Loca! Hier alleen maar good vibes en motion.",
-  "num_followers": 306178,
+  "num_followers": 306316,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODAwMCwwMDAwMDAwMGExMjUyMDczYmY3Y2NkYWM3YTg1NGY5MjU1ZTQ5YzQ2",
+  "snapshot_id": "MTY2Njk0MjA2NywwMDAwMDAwMGQ4NTkzODcyOWYyYmY5ZWYxM2ExOTdiZjViMzJhNjRk",
   "tracks": [
     {
       "added_at": "2022-10-27 22:00:00",
@@ -71,6 +71,26 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
+        "name": "Klop Klop",
+        "url": "https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        }
+      ],
+      "duration_ms": 167684,
+      "name": "Meteoriet",
+      "url": "https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
         "name": "Wat Het Is",
         "url": "https://open.spotify.com/album/4avor6SsbPKVaxlq9JKset"
       },
@@ -103,26 +123,6 @@
       "duration_ms": 160392,
       "name": "ROTTERDAM",
       "url": "https://open.spotify.com/track/0B8MBm2nIOQsr3FB794myZ"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Klop Klop",
-        "url": "https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        },
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        }
-      ],
-      "duration_ms": 167684,
-      "name": "Meteoriet",
-      "url": "https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -363,14 +363,10 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Playstation Riddim",
-        "url": "https://open.spotify.com/album/3Kqa1Kcuc7ay7kPCV6Gviv"
+        "name": "Day 2 Day",
+        "url": "https://open.spotify.com/album/5AYFWRViUAg2jE07UQCoDf"
       },
       "artists": [
-        {
-          "name": "Dunw3ll",
-          "url": "https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0"
-        },
         {
           "name": "Sean Paul",
           "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
@@ -378,7 +374,7 @@
       ],
       "duration_ms": 168750,
       "name": "Day 2 Day",
-      "url": "https://open.spotify.com/track/5EPhwzcL78ChwWHQpw11yb"
+      "url": "https://open.spotify.com/track/7y4GHkYxPu0Jq57VTKvnlv"
     },
     {
       "added_at": "2022-10-27 22:00:00",

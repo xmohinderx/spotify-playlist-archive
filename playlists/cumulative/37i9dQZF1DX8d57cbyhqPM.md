@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. / From the Congo, to the world\. 🌍  Photo: Koffi Olomide
 
-124 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
+126 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/0QsAyPkUkQJAP3188u2g45)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Loketu](https://open.spotify.com/track/1z1QfpUCH0tp9T5aAVLStB) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Loketu](https://open.spotify.com/album/7iAhhT4SscGaSNhsNEUFH6) | 2:35 | 2022-06-30 | 2022-08-27 |
 | [Lubumbashi](https://open.spotify.com/track/4TbXW306MYRuyLl3f3fAaO) | [Zaire](https://open.spotify.com/artist/7eAsCMv2IYlqYV2eZCLkay) | [Lubumbashi](https://open.spotify.com/album/23zgjg8tmsPMWpML2KXG8A) | 2:35 | 2022-10-14 |  |
 | [LÉLÉ](https://open.spotify.com/track/0GXrYFdjPgVYxxnERdqGj5) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [LÉLÉ](https://open.spotify.com/album/4aHWhpQsSAa9NAgg8ldI4D) | 3:09 | 2022-06-30 |  |
+| [Mais](https://open.spotify.com/track/4EzTZrPNxui7ovuaCixG3a) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Mais](https://open.spotify.com/album/6SkQeNEaK0TRG2XDclaHUG) | 3:23 | 2022-10-28 |  |
 | [Malele](https://open.spotify.com/track/4SiRdXcs6gAfWaaGJwXvnq) | [Montparnasse Musique](https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG), [Menga Waku](https://open.spotify.com/artist/2wuuIEeoqLCf3WqKJw2TO3) | [Malele](https://open.spotify.com/album/0YgwuVtiEGQVpf4V8gJR2G) | 3:56 | 2022-09-23 |  |
 | [Matete](https://open.spotify.com/track/5wp41PrAJyoA6PYfraw98Z) | [Pesa Bazz](https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp) | [Matete](https://open.spotify.com/album/2AIFNlOYysG3HqYjHnxaMd) | 3:53 | 2022-08-19 |  |
 | [Mbappé](https://open.spotify.com/track/4x8jFY4oAcBsAt67pjonSS) | [Ibn Itaka](https://open.spotify.com/artist/3ZyajuEhPOcKzQTObbskL2), [Julien Makarabianko](https://open.spotify.com/artist/6AgeuJ3W2MHEvlqc9fCzPw) | [Mbappé](https://open.spotify.com/album/4TdC4zH22pUkAkW2eVQm2A) | 4:08 | 2022-07-08 | 2022-08-06 |
@@ -82,7 +83,7 @@
 | [Mukila](https://open.spotify.com/track/76Z253AF0PcCEOFbBy3TeS) | [Marechal Abd](https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY) | [Mukila](https://open.spotify.com/album/77JAOcjSdDRaB5PW1j0zDM) | 3:02 | 2022-06-30 | 2022-07-09 |
 | [Muselu](https://open.spotify.com/track/3OkLPaGFAjbpCVC31V6pNL) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Dj Izzo](https://open.spotify.com/artist/11blWfNKSduuXQUmpMIve5) | [Muselu](https://open.spotify.com/album/3c6N0JVOcFLrMMhFQOPoj3) | 3:28 | 2022-09-16 |  |
 | [Mutu Ebeba](https://open.spotify.com/track/2GAA7jWcNgb0mMIZ4Zb3r1) | [SHARABIA](https://open.spotify.com/artist/5TcxIt337AdejHrxFa5KTN) | [Mutu EBEBA](https://open.spotify.com/album/6ePKPQSOmiFxZYb9qyFemo) | 4:31 | 2022-08-19 |  |
-| [Na Boyi](https://open.spotify.com/track/6T8xtq9KAapHyYAij2iRu6) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Na Boyi](https://open.spotify.com/album/10CDU3zOIH1caB8E1MZa2y) | 2:50 | 2022-06-30 |  |
+| [Na Boyi](https://open.spotify.com/track/6T8xtq9KAapHyYAij2iRu6) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Na Boyi](https://open.spotify.com/album/10CDU3zOIH1caB8E1MZa2y) | 2:50 | 2022-06-30 | 2022-10-29 |
 | [Na Pètè](https://open.spotify.com/track/15A4yOkL1eudjFq8F7gOk7) | [L\. Cam's](https://open.spotify.com/artist/3y0KvFOUhys9mOPLfqGnj3) | [Na Pètè](https://open.spotify.com/album/4QuTp9qmtG5ZSc5npGfVPy) | 3:16 | 2022-06-30 | 2022-08-20 |
 | [Nalingi ye](https://open.spotify.com/track/5mEnRGML6tztiuKBigJIQQ) | [Stone Warley](https://open.spotify.com/artist/4PYXE76LmEnTLqqkeoxc01), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Nalingi ye](https://open.spotify.com/album/6FM6rbjMIjVaxH5cQ6g5S9) | 3:02 | 2022-09-02 |  |
 | [Napesi](https://open.spotify.com/track/5YHN0JC9DIJW3UtNOlVJJz) | [Makoma](https://open.spotify.com/artist/4b05CA03ut3sJbMVXeEKMD) | [History](https://open.spotify.com/album/3FUIw0addqmbvRuM00QECL) | 4:44 | 2022-06-30 |  |
@@ -102,6 +103,7 @@
 | [Pere \- Remix Version](https://open.spotify.com/track/2c5vJZBWfxd6eTGkpg1PN2) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt), [Dj Wendy Rose](https://open.spotify.com/artist/1ncWJO9Aj0Fq301Cxnfhbr), [DJ P2N](https://open.spotify.com/artist/6JNbpPDLC00W4j3MghVxFN) | [Pere \(Remix Version\)](https://open.spotify.com/album/25xdyOouxjZNZ5PSO6tieP) | 3:33 | 2022-06-30 |  |
 | [Pusana](https://open.spotify.com/track/1tXSR1siT7TA16FY70Cy6E) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [Tres](https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l) | [Pusana](https://open.spotify.com/album/6IpyTvQWOtShzCqnZ9ZoWD) | 3:25 | 2022-06-30 |  |
 | [Quelle Ambiance](https://open.spotify.com/track/2uRHFnYwI3vX5DAWqsWa26) | [DJ Myk](https://open.spotify.com/artist/5Bn7VktL9KLBtwcZfga8bj), [Taïnos](https://open.spotify.com/artist/4gMjkk3L1knFkh1YystA37), [Miky Uno](https://open.spotify.com/artist/42BvJ54pQJsXuakL43Nj9V), [Makassy](https://open.spotify.com/artist/2FJCmpH5MfUCIquZWSTDPh) | [Quelle Ambiance](https://open.spotify.com/album/0dwSnuZAS4lbMnWMtLk6mO) | 2:32 | 2022-06-30 | 2022-10-24 |
+| [Rond point](https://open.spotify.com/track/36V9liFzimANeSyaowyOA1) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb), [Quartier Latin](https://open.spotify.com/artist/34XQ0y2Kni5E4SDlFaAcG5) | [Droit de véto](https://open.spotify.com/album/0XRgQBLcvYIJH3AH9GrlRc) | 7:52 | 2022-10-28 |  |
 | [Run](https://open.spotify.com/track/2wu0PnQQt12He8L2pQUS7w) | [PVPI STRZ](https://open.spotify.com/artist/11Cznn5Yl5mmlY3WRNsuFk) | [Run](https://open.spotify.com/album/1lLdivmzyjNWRMos5ttRKa) | 3:29 | 2022-06-30 |  |
 | [Répondeur](https://open.spotify.com/track/215HuX5KUiYvdfQ5cO33Xd) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [Monument](https://open.spotify.com/album/0qdoV48ifvkgiHkczUszyI) | 3:16 | 2022-06-30 |  |
 | [Sakwado](https://open.spotify.com/track/6wQzmZREyVEFT2LTWoK3jE) | [George Kipa](https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR), [Gbandz](https://open.spotify.com/artist/3dq9mDztwPneAJs5bZkgWw), [Mwizz](https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU) | [Sakwado](https://open.spotify.com/album/1lXZ9T2DUQuxUnqtbiSL3W) | 2:40 | 2022-06-30 |  |

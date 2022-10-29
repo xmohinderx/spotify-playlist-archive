@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 34087,
+  "num_followers": 34161,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk3NTMyNSwwMDAwMDAwMDc0NDUwMTM3OGJhYjI3MjdhYWMwNjMzZDFjMDY2MDll",
+  "snapshot_id": "MTY2Mzk3NTMyNSwwMDAwMDAwMGIyNDFhOGRmNmU1MWE4YWEyNzVhY2ZlYTQ0YWVlOGEw",
   "tracks": [
     {
       "added_at": "2022-09-23 23:22:05",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
+        "name": "Para Verte",
+        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182053,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 183829,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
-        "name": "Para Verte",
-        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "La Luna",
-        "url": "https://open.spotify.com/album/306wF31Hp5LNVkxfhDLOiV"
-      },
-      "artists": [
-        {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
-        }
-      ],
-      "duration_ms": 190609,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/2V0S6dvMHkjtif1rOQqtzA"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
         "name": "Florecer",
         "url": "https://open.spotify.com/album/2YnrkkeJjgfytLHTHFn1h9"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 203104,
       "name": "Florecer",
       "url": "https://open.spotify.com/track/2SklPsEziKcI9DffEW65Vz"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/306wF31Hp5LNVkxfhDLOiV"
+      },
+      "artists": [
+        {
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+        }
+      ],
+      "duration_ms": 190609,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/2V0S6dvMHkjtif1rOQqtzA"
     },
     {
       "added_at": "2022-09-23 23:22:05",

@@ -884,6 +884,24 @@
     },
     {
       "album": {
+        "name": "Chamber",
+        "url": "https://open.spotify.com/album/4vhVPZxXfFP9V7Z9MFWeWR"
+      },
+      "artists": [
+        {
+          "name": "Eater",
+          "url": "https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Chamber",
+      "url": "https://open.spotify.com/track/2yCz3n7e0rJXpALsmEs1JI"
+    },
+    {
+      "album": {
         "name": "Forgive / Changes",
         "url": "https://open.spotify.com/album/7rtkA3xcICf9NWuRxcJVy4"
       },
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 253714,
       "name": "Distant Light",
       "url": "https://open.spotify.com/track/0dpN2BrkuBkpayGK55o70X"

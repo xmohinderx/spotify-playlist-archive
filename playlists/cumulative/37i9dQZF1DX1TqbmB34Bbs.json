@@ -722,6 +722,28 @@
     },
     {
       "album": {
+        "name": "500\uc5b5 (50 Milli) (feat. Don Mills)",
+        "url": "https://open.spotify.com/album/2zhV1CVKTKbYWrMOsoSEdg"
+      },
+      "artists": [
+        {
+          "name": "44MAGNUMB",
+          "url": "https://open.spotify.com/artist/66u2mp8mtMEOUH2TWWr98O"
+        },
+        {
+          "name": "Don Mills",
+          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152205,
+      "name": "500\uc5b5 (50 Milli) (feat. Don Mills)",
+      "url": "https://open.spotify.com/track/5Z2uo65TBhhrzAFP1Fn9cz"
+    },
+    {
+      "album": {
         "name": "Drop The Bit Final Pt. 1",
         "url": "https://open.spotify.com/album/1CXbpk3AaBor9rY0XRVZMn"
       },
@@ -3515,6 +3537,24 @@
       "duration_ms": 263123,
       "name": "Brrr Get$",
       "url": "https://open.spotify.com/track/4kiD38roQQBlqEGMyTJXXh"
+    },
+    {
+      "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/6PdpK07kj9Uf5Bs2Xm0isj"
+      },
+      "artists": [
+        {
+          "name": "Jo Gwangil",
+          "url": "https://open.spotify.com/artist/26a11HcBOVeX5KANeiuMjY"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184480,
+      "name": "Bubble Gum",
+      "url": "https://open.spotify.com/track/3JrvloWdt3aQNvHz9eGTqc"
     },
     {
       "album": {
@@ -6503,7 +6543,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 198603,
       "name": "Forward2 (feat. Deepflow)",
       "url": "https://open.spotify.com/track/20O1v9S1KwMGIGw7k8XxTm"
@@ -11999,7 +12039,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 162165,
       "name": "MUKKBANG! - REMIX",
       "url": "https://open.spotify.com/track/5ze6MpKEEN6c1kfguekf72"

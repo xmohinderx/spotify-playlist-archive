@@ -1470,6 +1470,32 @@
     },
     {
       "album": {
+        "name": "The Cozy Bar",
+        "url": "https://open.spotify.com/album/1DkIpoAvMaYZblxnERQdje"
+      },
+      "artists": [
+        {
+          "name": "Huey Mack",
+          "url": "https://open.spotify.com/artist/5l5JD2LJPnIoVeco82Tk4q"
+        },
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        },
+        {
+          "name": "The West Virginia University Choir",
+          "url": "https://open.spotify.com/artist/7rmjkDIRonGlQqlT9PCG9M"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "Dear West Virginia (feat. Brad Paisley and The West Virginia University Choir)",
+      "url": "https://open.spotify.com/track/4wwqujbK9v1epIoFqBaCTO"
+    },
+    {
+      "album": {
         "name": "Country Stuff The Album",
         "url": "https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8"
       },
@@ -4396,6 +4422,24 @@
     },
     {
       "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/7FKTfpN6qcqlNqJ46UAUjT"
+      },
+      "artists": [
+        {
+          "name": "LECADE",
+          "url": "https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188036,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/6RXYoYRAvIDlAlHwFO2ytj"
+    },
+    {
+      "album": {
         "name": "Slow Cookin' & Soul Food: The 2 Piece Combo",
         "url": "https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC"
       },
@@ -5331,6 +5375,24 @@
       "duration_ms": 231449,
       "name": "What If We Never Met",
       "url": "https://open.spotify.com/track/4qao4AOEDlrKRL8HVsSrp6"
+    },
+    {
+      "album": {
+        "name": "What You Waiting On",
+        "url": "https://open.spotify.com/album/4ryBeV911Ub8Z4nEG51dZO"
+      },
+      "artists": [
+        {
+          "name": "Hueston",
+          "url": "https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "What You Waiting On",
+      "url": "https://open.spotify.com/track/3IuQhTGbYThnkKKTco4ylf"
     },
     {
       "album": {

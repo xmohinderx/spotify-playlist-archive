@@ -2,9 +2,9 @@
 
 ### [Progressive Metal](https://open.spotify.com/playlist/37i9dQZF1DX5wgKYQVRARv)
 
-> Fresh and recent tracks from the world of Prog Metal\. Cover: Dance Gavin Dance
+> Fresh and recent tracks from the world of Prog Metal\. Cover: Polyphia
 
-555 songs - 2 day 0 hr 26 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+556 songs - 2 day 0 hr 32 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Clairvoyant](https://open.spotify.com/track/0Ey64fhfqXKfdDohWzPZJm) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Clairvoyant](https://open.spotify.com/album/4GbvTCSu1Kehnr9Xq334u7) | 7:37 | 2022-07-13 |  |
 | [Clairvoyant](https://open.spotify.com/track/39v9F4fMRSvpYPx9AOg9WW) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Clairvoyant](https://open.spotify.com/album/5xBtUANwVKmjYKgPzdMPcP) | 7:37 | 2022-07-13 | 2022-07-28 |
 | [Cloaked](https://open.spotify.com/track/2GIEbKn7RURChEwZooy7TU) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Cloaked](https://open.spotify.com/album/5y8d5e1d4Gs2fCD6ZBRIId) | 3:54 | 2021-12-17 |  |
-| [Cloud 9](https://open.spotify.com/track/6grBntnvJiVqgqqbmeq9iU) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [Cloud 9](https://open.spotify.com/album/3XdE4xEWmjv7ZckfOoVqAX) | 3:16 | 2022-03-18 |  |
+| [Cloud 9](https://open.spotify.com/track/6grBntnvJiVqgqqbmeq9iU) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [Cloud 9](https://open.spotify.com/album/3XdE4xEWmjv7ZckfOoVqAX) | 3:16 | 2022-03-18 | 2022-10-29 |
 | [Cloud Cascade](https://open.spotify.com/track/6pgdUH7dRJlH5ITa1YeAem) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Cloud Cascade](https://open.spotify.com/album/2q9o2kY9qyIov8f3eCKzFy) | 4:09 | 2022-07-13 |  |
 | [Cold Arrival](https://open.spotify.com/track/6AjvfDGxXe2RcSOx3nxWTY) | [Once Human](https://open.spotify.com/artist/1VhMNOBmLqZr7E7jsVrZLQ) | [Cold Arrival](https://open.spotify.com/album/0LLGVNzbjaRTyjIJsiOTmh) | 4:07 | 2021-12-17 | 2022-07-29 |
 | [Cold Burn](https://open.spotify.com/track/25dw1ON5dplrkOIhMBt7fl) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Cold Burn](https://open.spotify.com/album/6DPQA4mhrq7KKjI7oIZQvm) | 9:41 | 2021-12-17 |  |
@@ -144,6 +144,7 @@
 | [Echoes of a Silent Scream](https://open.spotify.com/track/2voZdUEBjgFezU5ImMJvt9) | [Manticora](https://open.spotify.com/artist/2G99sa92gtg3AXLF5K8qur) | [Echoes of a Silent Scream](https://open.spotify.com/album/6MENBeS3PzFhsiDf7vBHiY) | 6:02 | 2021-12-31 | 2022-01-01 |
 | [Eden \- P O R T A L S](https://open.spotify.com/track/62duewknNqt9fZhBoYAanE) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [PORTALS](https://open.spotify.com/album/2hF7dY29EsfBvXe65PYPBd) | 6:33 | 2022-07-13 |  |
 | [Edge of Time](https://open.spotify.com/track/2kJ4KrCurDIIDYjHen8ASJ) | [Ghost Ship Octavius](https://open.spotify.com/artist/7E1Soj4kGw9zyhIJWZyOhx) | [Edge of Time](https://open.spotify.com/album/49IsCsXei7h5U4iI4UTpGz) | 5:38 | 2021-12-17 | 2022-05-14 |
+| [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv) | 5:50 | 2022-10-28 |  |
 | [Eight Milligrams](https://open.spotify.com/track/25rY5RVLYvQxe924Ej1xSp) | [Mycelia](https://open.spotify.com/artist/08vNN31sWBehxdwHOLpf48) | [Apex](https://open.spotify.com/album/4zim0xEXs4qma90rRl6dnn) | 4:04 | 2022-07-13 |  |
 | [Elevation \(feat\. White Dove\)](https://open.spotify.com/track/7GbUWiB4njNpJCuldPOTxv) | [Valis Ablaze](https://open.spotify.com/artist/0glKe8SiMNzFZmUZtNrJCr), [White Dove](https://open.spotify.com/artist/3GNfT9d9CbSWz6Z5RUj1kh) | [Render](https://open.spotify.com/album/5ofdl0evVbov0hf6hmgv4D) | 5:27 | 2022-07-13 | 2022-07-28 |
 | [Embers](https://open.spotify.com/track/4IY2yfzVQb4DRRly6kXxQI) | [Sentinels](https://open.spotify.com/artist/0JwMB5kwBvLi6uyLUnKDKv) | [Collapse by Design](https://open.spotify.com/album/52Y0UXCuYODCbm18Zh8QYE) | 4:01 | 2021-12-17 |  |

@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 238416,
       "name": "Acaso",
       "url": "https://open.spotify.com/track/2wSLrkw84GBlAzyEGjnTih"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 188789,
       "name": "Bem Acompanhada",
       "url": "https://open.spotify.com/track/7FLA5HH8TKp8MIwkJJ6tdg"
@@ -957,6 +957,24 @@
       "duration_ms": 162670,
       "name": "Contram\u00e3o",
       "url": "https://open.spotify.com/track/13ytqWx0ClTspSuIWsMTYd"
+    },
+    {
+      "album": {
+        "name": "Conflitos",
+        "url": "https://open.spotify.com/album/51X8DO8BGPyLVl8tv5tmI7"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184793,
+      "name": "Culpa",
+      "url": "https://open.spotify.com/track/1MO8oMHUeiHdoePEFfwkbh"
     },
     {
       "album": {
@@ -1834,6 +1852,24 @@
     },
     {
       "album": {
+        "name": "Ao Vivo Na Fundi\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/63KFXOVwHt1VBr0labzT4s"
+      },
+      "artists": [
+        {
+          "name": "Forfun",
+          "url": "https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194376,
+      "name": "Hist\u00f3ria de Ver\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Bt9doFN2PjDIeKjYUHdHt"
+    },
+    {
+      "album": {
         "name": "Hora do Brasil",
         "url": "https://open.spotify.com/album/73UFcMw5mHNqu682gX6vqx"
       },
@@ -1845,7 +1881,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 195586,
       "name": "Hora do Brasil",
       "url": "https://open.spotify.com/track/1oFIcBntvDjPU1tZ0yNYIN"
@@ -1867,6 +1903,24 @@
       "duration_ms": 192849,
       "name": "Imposs\u00edvel de Ser Assim",
       "url": "https://open.spotify.com/track/2YRkVJ8oEfXME75J8DRsZh"
+    },
+    {
+      "album": {
+        "name": "Inabal\u00e1vel",
+        "url": "https://open.spotify.com/album/6PG3v6BBWyDyDR3BgBqXgw"
+      },
+      "artists": [
+        {
+          "name": "Mattilha",
+          "url": "https://open.spotify.com/artist/1p5k3q7GkTTeSI3dundiSU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263636,
+      "name": "Inabal\u00e1vel",
+      "url": "https://open.spotify.com/track/3972PNho0RmiNcpIm6hcYn"
     },
     {
       "album": {
@@ -2922,6 +2976,28 @@
     },
     {
       "album": {
+        "name": "O Jogo",
+        "url": "https://open.spotify.com/album/1nJ1yBitR26dKAZe6vQIQA"
+      },
+      "artists": [
+        {
+          "name": "Rockstrada",
+          "url": "https://open.spotify.com/artist/5FrbfTAZzH4ZxWQZ1ctXtm"
+        },
+        {
+          "name": "Ira!",
+          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141245,
+      "name": "O Jogo",
+      "url": "https://open.spotify.com/track/1g5LFwRObEy2638bIMySdw"
+    },
+    {
+      "album": {
         "name": "O Mar",
         "url": "https://open.spotify.com/album/6IpVHc1BRu2IVR5LSDbb1r"
       },
@@ -3137,6 +3213,32 @@
       "duration_ms": 142314,
       "name": "Paranoia Gigante",
       "url": "https://open.spotify.com/track/0tt3xMFyE29zsNT0GIWKB0"
+    },
+    {
+      "album": {
+        "name": "Partido",
+        "url": "https://open.spotify.com/album/5BeuqWG61r5jImQSa34KdA"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "NAVALA",
+          "url": "https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p"
+        },
+        {
+          "name": "VNegreen",
+          "url": "https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229976,
+      "name": "Partido",
+      "url": "https://open.spotify.com/track/3PJLp4egjTYexNyFbG5doI"
     },
     {
       "album": {
@@ -3373,7 +3475,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 152000,
       "name": "Prova",
       "url": "https://open.spotify.com/track/5VLsC6rl5IYGs0ZnEk1Cv8"
@@ -3677,7 +3779,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 91007,
       "name": "Scar (Bleach 2022: Thousand Year Blood War Opening)",
       "url": "https://open.spotify.com/track/1ZrHlCsZIFOWs5sR3TNmZV"
@@ -3873,6 +3975,28 @@
       "duration_ms": 155559,
       "name": "Surreal Virou Normal",
       "url": "https://open.spotify.com/track/6Gr9FShs2iESYZQYYmpaj4"
+    },
+    {
+      "album": {
+        "name": "sussurro",
+        "url": "https://open.spotify.com/album/7z64AGT9ArbmI8VCwSMoG2"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        },
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160042,
+      "name": "sussurro",
+      "url": "https://open.spotify.com/track/2duAOylqzXoGG7jCoiAQAE"
     },
     {
       "album": {

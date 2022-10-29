@@ -160,6 +160,24 @@
     },
     {
       "album": {
+        "name": "Avalon, My Hometown",
+        "url": "https://open.spotify.com/album/3V65aoyRCvsL5rv0JoO8IZ"
+      },
+      "artists": [
+        {
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260812,
+      "name": "Avalon, My Hometown",
+      "url": "https://open.spotify.com/track/0JIRGF8Q3qjw73kCQ83FN6"
+    },
+    {
+      "album": {
         "name": "Aw Jeez",
         "url": "https://open.spotify.com/album/1C5HxdwvGIMuEgOFDccqYb"
       },

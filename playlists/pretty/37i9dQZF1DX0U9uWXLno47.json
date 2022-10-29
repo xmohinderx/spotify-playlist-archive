@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos que no sab\u00edas que eran covers para disfrutar con pap\u00e1.",
-  "num_followers": 58045,
+  "num_followers": 58065,
   "original_name": "Covers Padres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTUyNTA3NiwwMDAwMDAwMGY4NzRkYzU5NTJhZTFlYzBhZjFjODBmYWI5Nzg2OGM4",
+  "snapshot_id": "MTYzNTUyNTA3NiwwMDAwMDAwMDE2NzMxMDMwNDY5NmQ0MmRmNjExNjgyZjc0YjNmYjY5",
   "tracks": [
     {
       "added_at": "2021-10-29 16:31:16",
@@ -775,6 +775,22 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/7kTsa1wUFrahJJf1cJEOpZ"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "Where Is My Mind? - XFM Live Version",
+      "url": "https://open.spotify.com/track/6Yg3J1OkP45uNcboiUg2Rw"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
         "name": "Stuff Like That There",
         "url": "https://open.spotify.com/album/00vIbcUe4eGeNezbmT3525"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 165106,
       "name": "Take Me Home, Country Roads (ft. Waxahatchee)",
       "url": "https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/7kTsa1wUFrahJJf1cJEOpZ"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "Where Is My Mind? - XFM Live Version",
-      "url": "https://open.spotify.com/track/6Yg3J1OkP45uNcboiUg2Rw"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Q: Are We Not Men? A: We Are Devo!",
-        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "(I Can't Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/5FzBxhIsZBFXDTVGWtV4IQ"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "You're Living All Over Me",
         "url": "https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 173560,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "(I Can't Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/5FzBxhIsZBFXDTVGWtV4IQ"
     },
     {
       "added_at": "2021-10-29 16:31:16",

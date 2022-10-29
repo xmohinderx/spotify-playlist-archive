@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-786 songs - 1 day 17 hr 4 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+787 songs - 1 day 17 hr 6 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,8 @@
 | [Klein, Klein Jongetje \(Als Je Groot Bent\)](https://open.spotify.com/track/1pOYvFTC41ZPOyqFJFWgkr) | [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Klein, Klein Jongetje \(Als Je Groot Bent\)](https://open.spotify.com/album/5g489iEZyHhvkXWQby6cKO) | 2:21 | 2022-02-19 | 2022-02-21 |
 | [Klem](https://open.spotify.com/track/28sqgt7OOFEk0Qb9LkkA0V) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Grote Versnelling](https://open.spotify.com/album/6U2JgdmQQ7QWQgGOksaRof) | 4:06 | 2021-09-19 | 2021-09-21 |
 | [Klokken En Stenen](https://open.spotify.com/track/3yTAnIv3fmOOZXdJ5vh9mA) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Klokken En Stenen](https://open.spotify.com/album/325um55xpiUKCf9gz8bR2k) | 2:40 | 2022-05-28 | 2022-06-13 |
-| [Klop Klop](https://open.spotify.com/track/4XCRUGIvXLXEtBIlQBdv4H) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Klop Klop](https://open.spotify.com/album/6C87LF8aUYAMzAO3QWEqx1) | 2:32 | 2022-10-09 |  |
+| [Klop Klop](https://open.spotify.com/track/4XCRUGIvXLXEtBIlQBdv4H) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Klop Klop](https://open.spotify.com/album/6C87LF8aUYAMzAO3QWEqx1) | 2:32 | 2022-10-09 | 2022-10-29 |
+| [Klop Klop](https://open.spotify.com/track/6a3UR5Lp9h2u9x4JMuV0T6) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Klop Klop](https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o) | 2:32 | 2022-10-28 |  |
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2021-09-05 | 2021-09-06 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-08-31 |  |
 | [Kwijt](https://open.spotify.com/track/1dbNg2ougivyUv6f9hQQzU) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Kwijt](https://open.spotify.com/album/3HdzIBLsdVX4RTuA4zxumb) | 3:15 | 2022-09-03 |  |

@@ -45,6 +45,24 @@
     {
       "album": {
         "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252253,
+      "name": "Black Mire",
+      "url": "https://open.spotify.com/track/41TpGLxHszelYWCBZklrsJ"
+    },
+    {
+      "album": {
+        "name": "Things Will Matter",
         "url": "https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB"
       },
       "artists": [
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 252253,
       "name": "Black Mire",
       "url": "https://open.spotify.com/track/6CCLJ76iRqM0ERHv15ntjX"
@@ -163,7 +181,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 188106,
       "name": "Collider",
       "url": "https://open.spotify.com/track/3YXJiuIDgdL020cRiF0mK2"
@@ -217,10 +235,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 228093,
       "name": "Diamond Days",
       "url": "https://open.spotify.com/track/1mjrOKGU9XQT3tozfyRQXt"
+    },
+    {
+      "album": {
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228093,
+      "name": "Diamond Days",
+      "url": "https://open.spotify.com/track/49b0ahtMJNiQXNjIvMbwKX"
     },
     {
       "album": {
@@ -433,7 +469,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 208480,
       "name": "Rattlesnakes",
       "url": "https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE"
@@ -531,6 +567,24 @@
     {
       "album": {
         "name": "The Rat",
+        "url": "https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260120,
+      "name": "The Rat",
+      "url": "https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR"
+    },
+    {
+      "album": {
+        "name": "The Rat",
         "url": "https://open.spotify.com/album/4iABt7PWRQpWhLP7W3WCWO"
       },
       "artists": [
@@ -541,7 +595,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 260120,
       "name": "The Rat",
       "url": "https://open.spotify.com/track/62qLvdb28WxRYxNAZ0UZlk"
@@ -667,7 +721,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 220920,
       "name": "Wait in the Car",
       "url": "https://open.spotify.com/track/7mbFHs6TntthnhNEEFHo4m"
@@ -685,10 +739,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 314866,
       "name": "What If You Fall In",
       "url": "https://open.spotify.com/track/251AzOLaomMJ24QdX5BvxC"
+    },
+    {
+      "album": {
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314866,
+      "name": "What If You Fall In",
+      "url": "https://open.spotify.com/track/5CWar6bZXCrEmU4C4n7eDX"
     },
     {
       "album": {

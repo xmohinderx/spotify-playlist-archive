@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 180796,
+  "num_followers": 181114,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTA2OTMzNSwwMDAwMDAwMDFjNTk5ZWNmYzVmYWZkMjA1NjNlZjQyYzViOGExMjFl",
+  "snapshot_id": "MTY2NTA2OTMzNSwwMDAwMDAwMGE5NDAzODM1OGRhN2I0MmI1YTQxYzQ3MzViNmNhNjFk",
   "tracks": [
     {
       "added_at": "2022-10-06 15:15:35",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "Sunset on the Golden Age",
-        "url": "https://open.spotify.com/album/72D0zzcevLTiS9XSEJ1hg7"
-      },
-      "artists": [
-        {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
-        }
-      ],
-      "duration_ms": 202586,
-      "name": "Drink",
-      "url": "https://open.spotify.com/track/0SPHbfBIe0mdRnae2MWuzr"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 223655,
       "name": "Letting You Go",
       "url": "https://open.spotify.com/track/7rGN3oqzCpG2mLcwoPwDQm"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "Sunset on the Golden Age",
+        "url": "https://open.spotify.com/album/72D0zzcevLTiS9XSEJ1hg7"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "duration_ms": 202586,
+      "name": "Drink",
+      "url": "https://open.spotify.com/track/0SPHbfBIe0mdRnae2MWuzr"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "Lamb of God",
-        "url": "https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 348099,
-      "name": "Memento Mori",
-      "url": "https://open.spotify.com/track/1flcnqrtVKsluQXLEPfGJW"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "The Sacrament of Sin",
         "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 237933,
       "name": "Incense & Iron",
       "url": "https://open.spotify.com/track/5KDcHol0FbJZCmNivYabkJ"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 348099,
+      "name": "Memento Mori",
+      "url": "https://open.spotify.com/track/1flcnqrtVKsluQXLEPfGJW"
     },
     {
       "added_at": "2022-10-06 15:15:35",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-10-06 15:15:35",
       "album": {
-        "name": "Killer Elite",
-        "url": "https://open.spotify.com/album/6p2TDcw5AKmxzEqzgjWlGN"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        }
-      ],
-      "duration_ms": 439213,
-      "name": "Through The Fire And Flames",
-      "url": "https://open.spotify.com/track/1iTb2vi8Bls7QY6CKL2gj2"
-    },
-    {
-      "added_at": "2022-10-06 15:15:35",
-      "album": {
         "name": "Tales from the Kingdom of Fife",
         "url": "https://open.spotify.com/album/0jFgXktWjw4NYC7D77YYYE"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 208226,
       "name": "Angus Mcfife",
       "url": "https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv"
+    },
+    {
+      "added_at": "2022-10-06 15:15:35",
+      "album": {
+        "name": "Killer Elite",
+        "url": "https://open.spotify.com/album/6p2TDcw5AKmxzEqzgjWlGN"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "duration_ms": 439213,
+      "name": "Through The Fire And Flames",
+      "url": "https://open.spotify.com/track/1iTb2vi8Bls7QY6CKL2gj2"
     },
     {
       "added_at": "2022-10-06 15:15:35",

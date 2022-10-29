@@ -4,7 +4,7 @@
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-72 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/2sgp57SR3g5DZ4v54uUY9H)
+73 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/2sgp57SR3g5DZ4v54uUY9H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Who Stole My Radio?](https://open.spotify.com/track/0Jei5BgldWjnvWsg5lMZXB) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [The Soul Truth](https://open.spotify.com/album/2PXMx2oAHiqmjrpnLX70dU) | 3:57 | 2022-08-05 |  |
 | [Whole Lotta Water](https://open.spotify.com/track/16b5pT9Q1XRsqF41cpx3Fe) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blues Rock](https://open.spotify.com/album/70lTqAr37PYdTlbxA7mpuc) | 4:01 | 2022-08-05 | 2022-09-30 |
 | [Why Why Why](https://open.spotify.com/track/11GOb5ofI9OCWG3ekCKRmN) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:25 | 2022-08-22 | 2022-10-02 |
-| [Wild, Wild Woman](https://open.spotify.com/track/2CwGthkmGWC3nzPAcf7siW) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Best of Blues Rock](https://open.spotify.com/album/0g5HOIR19alRdxJCsKWXcl) | 3:21 | 2022-08-05 |  |
+| [Wild, Wild Woman](https://open.spotify.com/track/1cAHyfQAe4SC062WFdssy2) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Deluxe Edition](https://open.spotify.com/album/747l6AGzZzDh8yBQLJgLgT) | 3:21 | 2022-10-28 |  |
+| [Wild, Wild Woman](https://open.spotify.com/track/2CwGthkmGWC3nzPAcf7siW) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Best of Blues Rock](https://open.spotify.com/album/0g5HOIR19alRdxJCsKWXcl) | 3:21 | 2022-08-05 | 2022-10-29 |
 | [Would You Take My Blood?](https://open.spotify.com/track/0w71ZSQaqjxYAhoxhMaQKw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 3:46 | 2022-08-05 |  |
 | [You Can't Have That](https://open.spotify.com/track/4hRSFw0Qgr3Fr6lM5648Cp) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [The Soul Truth](https://open.spotify.com/album/2PXMx2oAHiqmjrpnLX70dU) | 3:48 | 2022-08-06 | 2022-09-22 |
 

@@ -2,9 +2,9 @@
 
 ### [Noël, Noël, Noël](https://open.spotify.com/playlist/37i9dQZF1DWTEyr4JYwSa7)
 
-> La playlist idéale pour vos fêtes cette année! Photo: Alexandra Streliski
+> La playlist idéale pour vos fêtes cette année!
 
-287 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
+288 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Le sentier de neige](https://open.spotify.com/track/2CJJUz69TEqLrAyK2h02wp) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Noël chez moi](https://open.spotify.com/album/2Clfi6J5G7Aa1kxKv09ahV) | 2:42 | 2021-12-17 | 2022-10-23 |
 | [Le sentier de neige](https://open.spotify.com/track/2Nlz01n71uROXKWJy85gHF) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Noël chez moi](https://open.spotify.com/album/33XuBkHCKQXVgBhvUR960L) | 2:42 | 2021-12-17 | 2022-07-27 |
 | [Le sentier de neige](https://open.spotify.com/track/5y1U1ZcRR2P9xPSIeYLTaI) | [Les Classels](https://open.spotify.com/artist/4AoIv0whQbnXND8lj08eVs) | [Les 16 plus grands succès](https://open.spotify.com/album/6BkrWmXC9uhHG3qxXrQ9Nc) | 2:17 | 2021-12-17 |  |
-| [Le sentier de neige](https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Reprises Vol.1](https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0) | 3:06 | 2021-12-17 |  |
+| [Le sentier de neige](https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Reprises Vol.1](https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0) | 3:06 | 2021-12-17 | 2022-10-29 |
 | [Le soir du 24 décembre](https://open.spotify.com/track/7mGJw4c48tqKoEwXiw02Gy) | [La chorale Y'a du monde à messe](https://open.spotify.com/artist/4pNAHtWLfu50HhF84f0WFZ), [Sarah Bourdon](https://open.spotify.com/artist/2SE9aQqSgpEkWH1VEXy5ab) | [Le soir du 24 décembre](https://open.spotify.com/album/1fwn5Vm9CCQHDL0PB5B1al) | 2:46 | 2021-12-17 | 2022-07-29 |
 | [Les anges dans nos campagnes](https://open.spotify.com/track/537t4mfFAgTfhtu7t6NaEL) | [Audrey Demontigny](https://open.spotify.com/artist/4crdDiMwwxegILK70aFGu8) | [Les anges dans nos campagnes](https://open.spotify.com/album/71g4NNTsqAFEoOhGkLH5Xo) | 3:10 | 2021-12-17 | 2022-07-27 |
 | [Les soeurs crevette](https://open.spotify.com/track/1ELX43S4uTTUavCNWQ1Bgx) | [Shilvi](https://open.spotify.com/artist/6lPtV4QMcounmL4iNB7edn) | [La tour de bébelles](https://open.spotify.com/album/6b7M7bwX4DSOvvN0rxYKmD) | 2:57 | 2021-12-17 | 2022-07-28 |
@@ -282,6 +282,7 @@
 | [Vive le vent](https://open.spotify.com/track/5hxOLchaxO4yNT2fGTXNSV) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/4twpjUjsV4ayAq6J2FNlpY) | 2:18 | 2021-12-17 | 2022-07-29 |
 | [Vive le vent \- Vivre](https://open.spotify.com/track/3WddYIgeql0JJEAjH32QXE) | [Tocadéo](https://open.spotify.com/artist/6Eobl6c1IhZ8TAmobjE5OJ) | [Meilleurs Vœux \(Vivre\)](https://open.spotify.com/album/5eLOr5aTRuerpn2sCX7UsI) | 3:29 | 2021-12-17 | 2022-07-27 |
 | [Voici le père Noël](https://open.spotify.com/track/7xndwWf5CYFfC3cN4KMhlV) | [Renée martel](https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis) | [Chantons Noël!](https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds) | 2:20 | 2021-12-17 |  |
+| [We'll Be Alright](https://open.spotify.com/track/4AXX2fes8GOdvuCUjadbmT) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [We'll Be Alright](https://open.spotify.com/album/4MEHD7eRexeF3cpIlauzM1) | 2:14 | 2022-10-28 |  |
 | [White Christmas](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2021-12-17 |  |
 | [Winter Song](https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [Winter Song](https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE) | 3:00 | 2021-12-17 |  |
 | [Winter Song](https://open.spotify.com/track/1KDkSCXJIR4CJaVUK9qP7O) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM), [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 4:26 | 2021-12-17 |  |

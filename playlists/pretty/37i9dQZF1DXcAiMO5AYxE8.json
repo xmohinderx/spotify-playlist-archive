@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 454468,
+  "num_followers": 454596,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMGRjNWQ1M2FiMGQyY2Y4N2E0Y2RhNjg1NTI2YWVjZmUw",
+  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMGQ4MjQ0Y2JkNTVhNGJmMDZlZTFjNzg5MThmNTZhZWVi",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -619,22 +619,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Raydio",
-        "url": "https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE"
-      },
-      "artists": [
-        {
-          "name": "Raydio",
-          "url": "https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR"
-        }
-      ],
-      "duration_ms": 275666,
-      "name": "Jack and Jill",
-      "url": "https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "About Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/0rPCO55x3MGthe8qkn64o6"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 278626,
       "name": "Taste of Bitter Love",
       "url": "https://open.spotify.com/track/0EAtqMkJ13QYAN7QDcFiDs"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Raydio",
+        "url": "https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE"
+      },
+      "artists": [
+        {
+          "name": "Raydio",
+          "url": "https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR"
+        }
+      ],
+      "duration_ms": 275666,
+      "name": "Jack and Jill",
+      "url": "https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR"
     },
     {
       "added_at": "2020-04-14 18:41:41",

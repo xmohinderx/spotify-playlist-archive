@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 222378,
       "name": "Clavadito en Mi Piel",
       "url": "https://open.spotify.com/track/6o6e6brRpDEoHopQAeKwy1"
@@ -2132,6 +2132,24 @@
     },
     {
       "album": {
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/7ggDaq3cuNMpV9Db6aWDxX"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173873,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/0Fo0eUaG514l0RtlojaBtG"
+    },
+    {
+      "album": {
         "name": "Sabroso",
         "url": "https://open.spotify.com/album/4EFaPLKwbFhzBy9GWVcT75"
       },
@@ -2739,7 +2757,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 209121,
       "name": "Mil Demonios - En Vivo",
       "url": "https://open.spotify.com/track/5qfgMHgkZBw6EmISVu7MoU"
@@ -2761,6 +2779,24 @@
       "duration_ms": 228006,
       "name": "Mira",
       "url": "https://open.spotify.com/track/3w292R2aL3DCGnyeOiaLed"
+    },
+    {
+      "album": {
+        "name": "Monotonia",
+        "url": "https://open.spotify.com/album/5jiTvWYPYaqRd2UnrkhSNR"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142361,
+      "name": "Monotonia",
+      "url": "https://open.spotify.com/track/7ld9nV736wh6d0e2ktxGwL"
     },
     {
       "album": {
@@ -4110,6 +4146,24 @@
     },
     {
       "album": {
+        "name": "Te extra\u00f1o",
+        "url": "https://open.spotify.com/album/35rMChRz2BVYaCkEa2gY8b"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183502,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/6nZwpyKnTEFK059OflV4a4"
+    },
+    {
+      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/4l0209Du1kilXZ4RojUfIJ"
       },
@@ -4233,7 +4287,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 192506,
       "name": "Te perdiste mi amor",
       "url": "https://open.spotify.com/track/79pz16ngfYU2iZV0dvj3QU"
@@ -4759,7 +4813,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 187450,
       "name": "Vicio",
       "url": "https://open.spotify.com/track/4avWPQJolmD6y5FvgGvMfK"
@@ -4817,7 +4871,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 192997,
       "name": "Volver\u00e1s a mi cama",
       "url": "https://open.spotify.com/track/6NEl37ROj5xTnbFDvPvh4N"

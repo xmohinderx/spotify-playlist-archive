@@ -1478,6 +1478,28 @@
     },
     {
       "album": {
+        "name": "The Journey Home Pt. 2",
+        "url": "https://open.spotify.com/album/3bGxqqDx4E5buiBhZDGq91"
+      },
+      "artists": [
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/44r79Vc1hTjMlaDFfWE5aO"
+        },
+        {
+          "name": "Sandy Beats",
+          "url": "https://open.spotify.com/artist/6qLCrre2jNXyIY7BhMx9sj"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Homeward Bound",
+      "url": "https://open.spotify.com/track/3FHjxtWKejXgZywQxhPj6t"
+    },
+    {
+      "album": {
         "name": "Hot Shot",
         "url": "https://open.spotify.com/album/2rO7x2YIhfAjxhbWsESVxG"
       },
@@ -1649,7 +1671,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 147063,
       "name": "in the blink of an eye",
       "url": "https://open.spotify.com/track/5MBfOXuYBd43bQseqvL2yo"
@@ -1844,6 +1866,42 @@
     },
     {
       "album": {
+        "name": "late mornings",
+        "url": "https://open.spotify.com/album/3gevJpx2m2uSXCXq1FtWXa"
+      },
+      "artists": [
+        {
+          "name": "Spitzgef\u00fchl",
+          "url": "https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98409,
+      "name": "late mornings",
+      "url": "https://open.spotify.com/track/2HTpEiq5lnOpVQr1Z3oqHA"
+    },
+    {
+      "album": {
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/1kU27rgNOeTPXvGHdANVwl"
+      },
+      "artists": [
+        {
+          "name": "Blues Trip",
+          "url": "https://open.spotify.com/artist/1tR2bO3i8fdS3A8tLn2UEw"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Lazy Days",
+      "url": "https://open.spotify.com/track/6hRR9B0kIoMFuiJw5ra4MV"
+    },
+    {
+      "album": {
         "name": "Livin La Vida Lofi Loca",
         "url": "https://open.spotify.com/album/2C5qc19784Ret4oa5xLrRh"
       },
@@ -1873,7 +1931,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 142666,
       "name": "Le Hippie",
       "url": "https://open.spotify.com/track/37bVtb7OiKv6L8qJuDWCBG"
@@ -2747,7 +2805,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 147788,
       "name": "pet spider",
       "url": "https://open.spotify.com/track/7lcLYruqGRzJ9Je6Cwmujo"
@@ -2975,7 +3033,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 160104,
       "name": "ride or die",
       "url": "https://open.spotify.com/track/54dNHq955nBzBtSdaB7f1Y"
@@ -3029,7 +3087,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 78419,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/2sgjopd4amh7swhXSbjAxJ"
@@ -3181,7 +3239,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 139090,
       "name": "sea foam",
       "url": "https://open.spotify.com/track/2NDAE4SuAs9GJnaLnLfMm7"
@@ -3369,6 +3427,24 @@
       "duration_ms": 148166,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/5GFro8JfW7Scx4XsgS5e32"
+    },
+    {
+      "album": {
+        "name": "sunday morning",
+        "url": "https://open.spotify.com/album/2szTk6tCvr5Dbm3iO2rD1r"
+      },
+      "artists": [
+        {
+          "name": "Radiocosmo",
+          "url": "https://open.spotify.com/artist/3HvDYPOZuI4QsWFCE6exMf"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118536,
+      "name": "sunday morning",
+      "url": "https://open.spotify.com/track/7z5gGEAAV7dT8sEfxQ8wsH"
     },
     {
       "album": {
@@ -4001,7 +4077,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 121519,
       "name": "Validation",
       "url": "https://open.spotify.com/track/3fgxxLQpm2ShpABFIh03O6"

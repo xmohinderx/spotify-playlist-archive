@@ -1,13 +1,81 @@
 {
-  "description": "Extra vicious, hard hitting pop. This is SALT. Cover: (G)I-DLE",
-  "num_followers": 305473,
+  "description": "Extra vicious, hard hitting pop. This is SALT. Cover: Kailee Morgue",
+  "num_followers": 305623,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDZmMzQ2ZWE3NWJjODBiYWNmMGFjMDAxZDM4ZTliOTJj",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDM1M2E2YzZiY2I3ZWU5NjA2ZDEzNTY0ZDFhMjA0ZmRl",
   "tracks": [
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/4fXvwuGNst1OzuwVdoK80D"
+      },
+      "artists": [
+        {
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+        },
+        {
+          "name": "KiNG MALA",
+          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
+        }
+      ],
+      "duration_ms": 164453,
+      "name": "Falling from the Sky",
+      "url": "https://open.spotify.com/track/58vqgltwYoOCSPIyqNiBaU"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Bad Idea",
+        "url": "https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 155681,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Alive and Unwell",
+        "url": "https://open.spotify.com/album/3LiuUi849agq0ZVwLBIup8"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "duration_ms": 121674,
+      "name": "Alive and Unwell",
+      "url": "https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "I Just Came To Dance",
+        "url": "https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "duration_ms": 144950,
+      "name": "I Just Came To Dance",
+      "url": "https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg"
+    },
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
@@ -25,52 +93,20 @@
       "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "I love",
-        "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
+        "name": "Into My Body",
+        "url": "https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
         }
       ],
-      "duration_ms": 178453,
-      "name": "Nxde",
-      "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "young forever",
-        "url": "https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "too hot to cry",
-      "url": "https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv"
-    },
-    {
-      "added_at": "2022-10-19 13:56:03",
-      "album": {
-        "name": "girl\u2019s girl - Spotify Singles",
-        "url": "https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3"
-      },
-      "artists": [
-        {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
-        }
-      ],
-      "duration_ms": 197042,
-      "name": "girl\u2019s girl - Spotify Singles",
-      "url": "https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763"
+      "duration_ms": 144280,
+      "name": "Into My Body",
+      "url": "https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -89,6 +125,86 @@
       "url": "https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY"
     },
     {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "young forever",
+        "url": "https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "too hot to cry",
+      "url": "https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Life's A Bitch",
+        "url": "https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd"
+      },
+      "artists": [
+        {
+          "name": "TAELA",
+          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
+        }
+      ],
+      "duration_ms": 158346,
+      "name": "Good In Bed",
+      "url": "https://open.spotify.com/track/3nceiixhkjFwEpFITqy3f0"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "I love",
+        "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "Nxde",
+      "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Black Balloons",
+        "url": "https://open.spotify.com/album/2k3bXOQ542UprP5ZQcNS6b"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "duration_ms": 146154,
+      "name": "Black Balloons",
+      "url": "https://open.spotify.com/track/3CrmsiGWaLpFVltY6BiXOq"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "gold star",
+        "url": "https://open.spotify.com/album/30AyS7pdsIF8h0pOgzfM0G"
+      },
+      "artists": [
+        {
+          "name": "\u016ala",
+          "url": "https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "gold star",
+      "url": "https://open.spotify.com/track/61BvDWK5JRzPhdn0qWqtvR"
+    },
+    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Dolls EP",
@@ -103,6 +219,58 @@
       "duration_ms": 145386,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 145667,
+      "name": "i'm yours",
+      "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6"
+    },
+    {
+      "added_at": "2022-10-19 13:56:03",
+      "album": {
+        "name": "girl\u2019s girl - Spotify Singles",
+        "url": "https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "duration_ms": 197042,
+      "name": "girl\u2019s girl - Spotify Singles",
+      "url": "https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Witch Hunt",
+        "url": "https://open.spotify.com/album/0lKuTAQI0YyQ7wUghrnX1z"
+      },
+      "artists": [
+        {
+          "name": "Chandler Leighton",
+          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
+        },
+        {
+          "name": "DEZI",
+          "url": "https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm"
+        }
+      ],
+      "duration_ms": 126990,
+      "name": "Witch Hunt",
+      "url": "https://open.spotify.com/track/4TFXmB2WOm1G5CnVcejVQb"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -121,6 +289,22 @@
       "url": "https://open.spotify.com/track/45fNZIKK6NYTLq5nNvTTyx"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Take Me To Hell",
+        "url": "https://open.spotify.com/album/0T4WcR1wyRD7om6x7scVvY"
+      },
+      "artists": [
+        {
+          "name": "Chloe Adams",
+          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
+        }
+      ],
+      "duration_ms": 132673,
+      "name": "Take Me To Hell",
+      "url": "https://open.spotify.com/track/2rmTtv5xWuqHiKzM4i0QjQ"
+    },
+    {
       "added_at": "2022-08-19 04:01:00",
       "album": {
         "name": "STRUT",
@@ -137,6 +321,22 @@
       "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Killer",
+        "url": "https://open.spotify.com/album/3UgmPtg6ADEBPEef7RImgg"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/3MKBHqQ5EtXnChdVF4P3ji"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "honey catching season",
@@ -151,6 +351,22 @@
       "duration_ms": 145788,
       "name": "martyr",
       "url": "https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "MONSTERS IN MY MIND",
+        "url": "https://open.spotify.com/album/1q1jARykCzN5uVVHRtKxbZ"
+      },
+      "artists": [
+        {
+          "name": "marg\u00f8",
+          "url": "https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "MONSTERS IN MY MIND",
+      "url": "https://open.spotify.com/track/1OFpHG8xgfp7NnmJRjpNsK"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -375,22 +591,6 @@
       "duration_ms": 168088,
       "name": "Liar Liar",
       "url": "https://open.spotify.com/track/3Or3mHW0EXc2AyJyWKn5h0"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "madhouse",
-        "url": "https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 125720,
-      "name": "madhouse",
-      "url": "https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -637,22 +837,6 @@
       "url": "https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "till you hate me",
-        "url": "https://open.spotify.com/album/1MbdzIis9KoyqqYFxR7om2"
-      },
-      "artists": [
-        {
-          "name": "Eyelar",
-          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
-        }
-      ],
-      "duration_ms": 179100,
-      "name": "till you hate me",
-      "url": "https://open.spotify.com/track/1QG6ItNSNxIswkFV4Bp7MJ"
-    },
-    {
       "added_at": "2022-03-18 04:01:00",
       "album": {
         "name": "When You Say My Name",
@@ -701,22 +885,6 @@
       "url": "https://open.spotify.com/track/1hQytzOArHdHZuFDRLLurh"
     },
     {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "Breakfast",
-        "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 148470,
-      "name": "Breakfast",
-      "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "EVERYBODY'S GONNA DIE!",
@@ -747,22 +915,6 @@
       "duration_ms": 140880,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/2z5uCpJamxXgs7GKa6qzPi"
-    },
-    {
-      "added_at": "2022-05-27 20:57:32",
-      "album": {
-        "name": "Lego Blocks",
-        "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
-      },
-      "artists": [
-        {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Lego Blocks",
-      "url": "https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -881,38 +1033,6 @@
       "url": "https://open.spotify.com/track/2pDWMxjBf4xkIY4nRjVpZC"
     },
     {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "The Character",
-        "url": "https://open.spotify.com/album/7dAPAxXAFZPsBDiSJu1CUx"
-      },
-      "artists": [
-        {
-          "name": "Lilyisthatyou",
-          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
-        }
-      ],
-      "duration_ms": 142823,
-      "name": "Bad Energy",
-      "url": "https://open.spotify.com/track/1W3ufvaiblglNP1ohlDTob"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "i hope you know what you're doing",
-        "url": "https://open.spotify.com/album/3m4h6292GAxkgXnbRSZjob"
-      },
-      "artists": [
-        {
-          "name": "KiNG MALA",
-          "url": "https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2"
-        }
-      ],
-      "duration_ms": 159542,
-      "name": "i hope you know what you're doing",
-      "url": "https://open.spotify.com/track/5PMIK7eIb9doUGKWOuHZjq"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Maybe All the Rumours Are True",
@@ -945,22 +1065,6 @@
       "url": "https://open.spotify.com/track/6YaIvnJ3xDgIleE5m3GAEr"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "That Girl",
-        "url": "https://open.spotify.com/album/43C2nwKBVQEe5Eo2SZbi1i"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/0bMuCogMMHhNSq4fd3z1gA"
-    },
-    {
       "added_at": "2022-05-13 04:01:00",
       "album": {
         "name": "what would you do?",
@@ -991,22 +1095,6 @@
       "duration_ms": 139058,
       "name": "Bad Bitch",
       "url": "https://open.spotify.com/track/4BSv6txtXIBg44D9EHpifH"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "Hot Killer",
-        "url": "https://open.spotify.com/album/0as00WK8RwmFBwlvg3gmPy"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 138730,
-      "name": "Hot Killer",
-      "url": "https://open.spotify.com/track/4bOYRZeMq2FVVFka2gUWQ9"
     },
     {
       "added_at": "2022-07-15 04:00:00",

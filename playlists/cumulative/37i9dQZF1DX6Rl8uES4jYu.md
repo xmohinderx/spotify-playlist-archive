@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-319 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
+321 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/6m1PHyWl3TleEAbVrZjEhd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Good Mood](https://open.spotify.com/track/14Yvoau2QPIpHpI0uMJrOB) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Good Mood](https://open.spotify.com/album/4VPjKOf9J7LcqMv1gmp8GL) | 3:03 | 2022-01-14 | 2022-07-29 |
 | [Good Morning \(Fabian Mazur Remix\)](https://open.spotify.com/track/3ogjbq2SnZ9GNcmwtUKgcC) | [Alex Aiono](https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Good Morning \(Fabian Mazur Remix\)](https://open.spotify.com/album/0oNGLrTSixGmB1lVif4eLo) | 2:42 | 2020-11-13 | 2022-03-26 |
 | [Good People](https://open.spotify.com/track/7M7wlgmhKhfZq7UN4U8wmC) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Good People](https://open.spotify.com/album/0dQZJuZgNrYh05kZEItogF) | 4:01 | 2021-09-21 | 2022-06-16 |
-| [Good Time](https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Good Time](https://open.spotify.com/album/3CkPs129sbs0ZHfKYELc7V) | 2:46 | 2022-05-13 |  |
+| [Good Time](https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Good Time](https://open.spotify.com/album/3CkPs129sbs0ZHfKYELc7V) | 2:46 | 2022-05-13 | 2022-10-29 |
 | [Goodnightmare](https://open.spotify.com/track/4tUV3qVS1tIT5K2vbwo7Kh) | [Fake Fake](https://open.spotify.com/artist/43nxlJkq1IwAYVZtTWo5kv) | [Goodnightmare](https://open.spotify.com/album/7bVIynTZaUMnXaPydLxksb) | 3:29 | 2020-11-13 | 2022-02-09 |
 | [Grammy](https://open.spotify.com/track/34wtPgiGEIbKHuyfleN84N) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [Grammy](https://open.spotify.com/album/6i1rWhvp7GAF9w5pP5dQh6) | 2:23 | 2022-02-04 | 2022-07-29 |
 | [GROW](https://open.spotify.com/track/7woolpK48x0OF0neZScxgo) | [Malika Tirolien](https://open.spotify.com/artist/0ikYn0NEcQ8rC64TA3Rh4N) | [GROW](https://open.spotify.com/album/4X3uGMrO2XLpBaGegC4ldQ) | 5:02 | 2021-09-21 | 2022-04-19 |
@@ -204,6 +204,7 @@
 | [Not Needed Anymore](https://open.spotify.com/track/2BfkNEDzO5UtSzPpMsfg5Q) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Not Needed Anymore](https://open.spotify.com/album/61TDNDxvXigXAMVVOdyKat) | 1:32 | 2022-09-23 |  |
 | [Nothing To Do \(Deja Vu\)](https://open.spotify.com/track/1TADQ4m8zCn89xlaWMl4Ij) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Nothing To Do \(Deja Vu\)](https://open.spotify.com/album/3gqR0CgKXq5Tu5W6vYbdU9) | 3:25 | 2022-06-03 | 2022-08-14 |
 | [Now We're Cooking](https://open.spotify.com/track/5B9kAjQ1JEdaQvhLsBVxjk) | [Duke & The Dry Cleaners](https://open.spotify.com/artist/4EYbEpiFV6S1ox4cWHvjlf) | [Now We're Cooking](https://open.spotify.com/album/6BM83Q7baNXxiiLAUEGGFb) | 3:33 | 2021-09-21 | 2022-04-19 |
+| [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/track/3CNiAI3yOlCmjjTpv6xH5J) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc) | 4:03 | 2022-10-28 |  |
 | [On Repeat](https://open.spotify.com/track/4eGlCCZBBa5ieD6YeBB8i5) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Miette Hope](https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw) | [Why Am I](https://open.spotify.com/album/0zU6Vof3zI7Kh5cpBvEEq8) | 3:26 | 2020-11-13 | 2022-02-17 |
 | [Orange Tracksuit](https://open.spotify.com/track/7iy5y0YQX7MoFmP8G9Dyvg) | [Jak Lizard](https://open.spotify.com/artist/1fSVQsyT52lNgeTUza3oH5) | [Orange Tracksuit](https://open.spotify.com/album/2neGSz63k9Gn9sOIZHIv8s) | 2:43 | 2021-05-14 | 2022-07-29 |
 | [Our Way](https://open.spotify.com/track/2WwxprzPDdUqmUF8dcHGSI) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Our Way](https://open.spotify.com/album/2xfOOS2fMm3BQSpnSHKESw) | 3:24 | 2021-05-14 | 2022-05-18 |
@@ -223,7 +224,7 @@
 | [Power Station](https://open.spotify.com/track/1z7PHD8GeatMCzuBY3SUsB) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Power Station](https://open.spotify.com/album/4hGwNNlT72jpOJFWIatuEk) | 3:22 | 2022-04-08 | 2022-07-28 |
 | [Preach](https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Preach](https://open.spotify.com/album/0CBn5BaDxwLfjHYG7E3QRW) | 3:28 | 2022-04-29 |  |
 | [Princess Pouty](https://open.spotify.com/track/6lwFOodKFZd0ro8bcIxlWg) | [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI) | [Princess Pouty](https://open.spotify.com/album/30OuMUBR1zRI4cdHDhNo1z) | 3:42 | 2021-04-30 | 2022-04-21 |
-| [Puff Break \(Believe That\)](https://open.spotify.com/track/1mriXvvbHJLklHHg8dehug) | [Andy Frasco & the U.N.](https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu) | [Wash, Rinse, Repeat.](https://open.spotify.com/album/3OBj0oXIByaBqpj393VX1h) | 3:15 | 2022-04-08 |  |
+| [Puff Break \(Believe That\)](https://open.spotify.com/track/1mriXvvbHJLklHHg8dehug) | [Andy Frasco & the U.N.](https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu) | [Wash, Rinse, Repeat.](https://open.spotify.com/album/3OBj0oXIByaBqpj393VX1h) | 3:15 | 2022-04-08 | 2022-10-29 |
 | [Raincheck](https://open.spotify.com/track/4uLayl2QxBKcnNE9A34rev) | [Jachary](https://open.spotify.com/artist/4HvoSSqs9JthDCVf8rTdeZ) | [Loops of Life](https://open.spotify.com/album/2HXeiE0ito0084fqhsWNqG) | 3:06 | 2020-11-13 | 2022-03-26 |
 | [Remind Me](https://open.spotify.com/track/2KxPwaQYggkfkx4bOpjXLU) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Scenery](https://open.spotify.com/album/6oKN6JGDdO1ujKKlaNJdVG) | 4:03 | 2020-11-13 | 2022-03-15 |
 | [Rhythm in Your Mind](https://open.spotify.com/track/4wBTN0gGIPG5k3N3LfMhu2) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Rhythm in Your Mind](https://open.spotify.com/album/5ucT5KRFJGXRuW8vVu7Zmk) | 3:45 | 2021-05-14 | 2022-04-21 |
@@ -299,6 +300,7 @@
 | [Undone](https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:25 | 2021-09-21 |  |
 | [Undone](https://open.spotify.com/track/49ZvaIake70xuytUSh51j2) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Undone](https://open.spotify.com/album/4VClYASZUUBcNVDZQbFIkB) | 3:25 | 2021-09-21 | 2022-07-29 |
 | [Unionsquarepark \(ADLR Remix\)](https://open.spotify.com/track/5PiqAqrgS1XPvtFHjs5DGJ) | [ADLR](https://open.spotify.com/artist/5cZLyaniFhNXP85TzKEJqr), [MOZIAH](https://open.spotify.com/artist/1e8LCE63Bot5qj6D4g1keE) | [Unionsquarepark \(ADLR Remix\)](https://open.spotify.com/album/1N6wF1rv6gsTldexycR3Ip) | 4:20 | 2022-01-28 | 2022-07-29 |
+| [Up](https://open.spotify.com/track/1WWRakZzeLuWPlfymWPSYf) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Up](https://open.spotify.com/album/0xwpeyyjply5M7AHR2ksx3) | 2:57 | 2022-10-28 |  |
 | [Up to You](https://open.spotify.com/track/1ypLtUSLjbvO3oscbw18kR) | [Champagne Lane](https://open.spotify.com/artist/5Rr0FDXqkvTq11sjYaDlBM) | [Up to You](https://open.spotify.com/album/4fqpBA60UYf04rhHIXDsC3) | 5:20 | 2020-11-13 | 2022-03-26 |
 | [Vain](https://open.spotify.com/track/5YthVg8zU14mVkwoVKt2Xg) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Yearlong](https://open.spotify.com/album/3kpSyateFhVGWZk2tf2cPy) | 4:20 | 2020-11-13 | 2022-02-05 |
 | [Vibrant](https://open.spotify.com/track/2xQAAd2pCT7q2HlWffAaMh) | [Stokley](https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Vibrant](https://open.spotify.com/album/5v0gnKHa0ZMf4EgxmZlZYU) | 4:08 | 2021-05-14 | 2022-09-03 |

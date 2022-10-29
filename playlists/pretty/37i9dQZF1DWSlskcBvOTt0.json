@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 327660,
+  "num_followers": 327894,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYyNjY5MywwMDAwMDAwMGExODRhMTY1OGI1Y2Q4MWNmYWIxNjdhNGJkYWVjNjlm",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDUxZjA3YTkwNTg0MWFlZGViM2JhNDBmMDUyN2RjMDcw",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -637,6 +637,34 @@
       "url": "https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Ode Ireti (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE"
+      },
+      "artists": [
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "El-Jay",
+          "url": "https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
+        }
+      ],
+      "duration_ms": 239925,
+      "name": "Ode Ireti - Nitefreak Remix",
+      "url": "https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Whistleman EP",
@@ -743,26 +771,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Duel",
-        "url": "https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f"
-      },
-      "artists": [
-        {
-          "name": "Tim Green",
-          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
-        },
-        {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
-        }
-      ],
-      "duration_ms": 574838,
-      "name": "Duel",
-      "url": "https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Fool's Paradise (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel"
       },
@@ -787,34 +795,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/5DJ34liCqUWS4AZuEWDkfi"
+        "name": "Duel",
+        "url": "https://open.spotify.com/album/4Rxndqv8kgOx0BfVdlSq3f"
       },
       "artists": [
         {
-          "name": "Kalaman",
-          "url": "https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "The Church",
-        "url": "https://open.spotify.com/album/7B1zROmTZS3MZ2QmtLyV6W"
-      },
-      "artists": [
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+        },
         {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
         }
       ],
-      "duration_ms": 440638,
-      "name": "The Church",
-      "url": "https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u"
+      "duration_ms": 574838,
+      "name": "Duel",
+      "url": "https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -835,6 +831,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/5DJ34liCqUWS4AZuEWDkfi"
+      },
+      "artists": [
+        {
+          "name": "Kalaman",
+          "url": "https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Lanarka / Sablier",
         "url": "https://open.spotify.com/album/0xNfGRZHfkfMdTanJfdcdn"
       },
@@ -847,6 +859,22 @@
       "duration_ms": 568454,
       "name": "Lanarka",
       "url": "https://open.spotify.com/track/3CoXzpJExs6A23Y9r8WM4c"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "The Church",
+        "url": "https://open.spotify.com/album/7B1zROmTZS3MZ2QmtLyV6W"
+      },
+      "artists": [
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        }
+      ],
+      "duration_ms": 440638,
+      "name": "The Church",
+      "url": "https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1009,26 +1037,6 @@
       "url": "https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi"
     },
     {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Aye Aye",
-        "url": "https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Cameron Jack",
-          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
-        }
-      ],
-      "duration_ms": 240144,
-      "name": "Aye Aye",
-      "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "To The Light (Fideles Remix)",
@@ -1051,6 +1059,26 @@
       "duration_ms": 270008,
       "name": "To The Light - Fideles Remix",
       "url": "https://open.spotify.com/track/4dnmKgkhPvrRrDYjajpPS5"
+    },
+    {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Aye Aye",
+        "url": "https://open.spotify.com/album/5RK1I6kgXh0Hkkl034kltc"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Cameron Jack",
+          "url": "https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH"
+        }
+      ],
+      "duration_ms": 240144,
+      "name": "Aye Aye",
+      "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1101,6 +1129,22 @@
       "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G"
+      },
+      "artists": [
+        {
+          "name": "Blue Noir",
+          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+        }
+      ],
+      "duration_ms": 246462,
+      "name": "Bacall",
+      "url": "https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj"
+    },
+    {
       "added_at": "2022-08-01 18:07:32",
       "album": {
         "name": "Footprints",
@@ -1135,18 +1179,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G"
+        "name": "Sint Maarten",
+        "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
       },
       "artists": [
         {
-          "name": "Blue Noir",
-          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Delaram Kamareh",
+          "url": "https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB"
         }
       ],
-      "duration_ms": 246462,
-      "name": "Bacall",
-      "url": "https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj"
+      "duration_ms": 271351,
+      "name": "Sint Maarten",
+      "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1167,26 +1215,6 @@
       "duration_ms": 200317,
       "name": "Chaka - Edit",
       "url": "https://open.spotify.com/track/4GGVpoLeVtvzJZyhV6J307"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Sint Maarten",
-        "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Delaram Kamareh",
-          "url": "https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB"
-        }
-      ],
-      "duration_ms": 271351,
-      "name": "Sint Maarten",
-      "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1243,6 +1271,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Little Darling",
+        "url": "https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 220524,
+      "name": "Little Darling",
+      "url": "https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Melancol\u00eda",
         "url": "https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9"
       },
@@ -1259,22 +1303,6 @@
       "duration_ms": 222366,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Little Darling",
-        "url": "https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 220524,
-      "name": "Little Darling",
-      "url": "https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1463,6 +1491,26 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Farsi",
+        "url": "https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 521940,
+      "name": "Farsi",
+      "url": "https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Made of Wood",
         "url": "https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW"
       },
@@ -1519,26 +1567,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Farsi",
-        "url": "https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 521940,
-      "name": "Farsi",
-      "url": "https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Be Here and Now (Helsloot Remix)",
         "url": "https://open.spotify.com/album/3gkQ7JmUJ9dHiF6zXhViJw"
       },
@@ -1579,38 +1607,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Oxygen Levels Low EP",
-        "url": "https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il"
-      },
-      "artists": [
-        {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
-        }
-      ],
-      "duration_ms": 403864,
-      "name": "KL427",
-      "url": "https://open.spotify.com/track/0tfSHgbBF0wudizTFesANb"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Changes EP",
-        "url": "https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J"
-      },
-      "artists": [
-        {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
-        }
-      ],
-      "duration_ms": 341419,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Calmo",
         "url": "https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f"
       },
@@ -1627,22 +1623,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Alabora",
-        "url": "https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O"
+        "name": "Changes EP",
+        "url": "https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J"
       },
       "artists": [
         {
-          "name": "Beyhude",
-          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
-        },
-        {
-          "name": "Foxall",
-          "url": "https://open.spotify.com/artist/3iT6d90Vy630068736OgW8"
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
         }
       ],
-      "duration_ms": 470335,
-      "name": "Alabora - Foxall Pale Blue Remix",
-      "url": "https://open.spotify.com/track/32hpq6FjVS2QrE5Z0q8Ffa"
+      "duration_ms": 341419,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -1667,6 +1659,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Oxygen Levels Low EP",
+        "url": "https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        }
+      ],
+      "duration_ms": 403864,
+      "name": "KL427",
+      "url": "https://open.spotify.com/track/0tfSHgbBF0wudizTFesANb"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Minero",
         "url": "https://open.spotify.com/album/7ijwFFxaAbIFuhQE41eznr"
       },
@@ -1683,18 +1691,38 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Niteroi",
-        "url": "https://open.spotify.com/album/6SV0HxgcGoNvl1w0LTrRkM"
+        "name": "Alabora",
+        "url": "https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O"
       },
       "artists": [
         {
-          "name": "Michael Canitrot",
-          "url": "https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv"
+          "name": "Beyhude",
+          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
+        },
+        {
+          "name": "Foxall",
+          "url": "https://open.spotify.com/artist/3iT6d90Vy630068736OgW8"
         }
       ],
-      "duration_ms": 317770,
-      "name": "Niteroi",
-      "url": "https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi"
+      "duration_ms": 470335,
+      "name": "Alabora - Foxall Pale Blue Remix",
+      "url": "https://open.spotify.com/track/32hpq6FjVS2QrE5Z0q8Ffa"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Under Darkening Skies",
+        "url": "https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 277608,
+      "name": "Harlem River",
+      "url": "https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1715,18 +1743,18 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Under Darkening Skies",
-        "url": "https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU"
+        "name": "Niteroi",
+        "url": "https://open.spotify.com/album/6SV0HxgcGoNvl1w0LTrRkM"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Michael Canitrot",
+          "url": "https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv"
         }
       ],
-      "duration_ms": 277608,
-      "name": "Harlem River",
-      "url": "https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp"
+      "duration_ms": 317770,
+      "name": "Niteroi",
+      "url": "https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1761,20 +1789,20 @@
       "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
+        "name": "Epic Resurrection",
+        "url": "https://open.spotify.com/album/30HmyV4zjyZiB4ET1b9Kma"
       },
       "artists": [
         {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
         }
       ],
-      "duration_ms": 416267,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
+      "duration_ms": 401361,
+      "name": "Epic Resurrection",
+      "url": "https://open.spotify.com/track/5lqCgngDCc1YtBoWvAT5tI"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1797,36 +1825,20 @@
       "url": "https://open.spotify.com/track/7g0E8PZTeRA6NghamzQHfc"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Epic Resurrection",
-        "url": "https://open.spotify.com/album/30HmyV4zjyZiB4ET1b9Kma"
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
       },
       "artists": [
         {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
         }
       ],
-      "duration_ms": 401361,
-      "name": "Epic Resurrection",
-      "url": "https://open.spotify.com/track/5lqCgngDCc1YtBoWvAT5tI"
-    },
-    {
-      "added_at": "2022-10-24 15:51:33",
-      "album": {
-        "name": "Extassy / In A Distorted Galaxy",
-        "url": "https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
-        }
-      ],
-      "duration_ms": 583278,
-      "name": "Extassy",
-      "url": "https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw"
+      "duration_ms": 416267,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1849,24 +1861,20 @@
       "url": "https://open.spotify.com/track/5ugyEMUjFOX7FS2Ao1Vyak"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Your Way",
-        "url": "https://open.spotify.com/album/0QZrG85ir88fpUnbxzgFe6"
+        "name": "Waves of the Soul",
+        "url": "https://open.spotify.com/album/16eDzM06HNV3eGenqZknA5"
       },
       "artists": [
         {
-          "name": "Emanuele Esposito",
-          "url": "https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU"
-        },
-        {
-          "name": "Darksidevinyl",
-          "url": "https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0"
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
         }
       ],
-      "duration_ms": 378688,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/2V64rudkFZ9gciglMM0t5S"
+      "duration_ms": 212459,
+      "name": "Waves of the Soul",
+      "url": "https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve"
     }
   ],
   "unique_name": "Tantra",

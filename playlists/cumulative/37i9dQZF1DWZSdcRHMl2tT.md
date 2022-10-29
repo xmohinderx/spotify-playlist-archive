@@ -4,10 +4,11 @@
 
 > Chill house beats for hanging out in the sun.
 
-309 songs - 15 hr 56 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
+315 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [a little extra brightness](https://open.spotify.com/track/15Ag3lDl7FaSC5vMS1PPV8) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [a little extra brightness](https://open.spotify.com/album/3F80QKlBhIsTywVpl6ZFtH) | 3:13 | 2022-10-28 |  |
 | [A Moment Away](https://open.spotify.com/track/1aPsjaKgsrnkI5sFhAWOQ1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Moment Away](https://open.spotify.com/album/0QqAuhswFbp65DIjREV98p) | 2:56 | 2022-08-19 |  |
 | [Abloom](https://open.spotify.com/track/21jdnxa5TffMhHItXZ0y0R) | [Jasise](https://open.spotify.com/artist/1Q8mBvNTwlCJWrpyp4zwHt) | [Abloom](https://open.spotify.com/album/5G08OE0nZRJPJukutFrpcL) | 2:59 | 2022-04-05 | 2022-07-29 |
 | [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 | 2022-04-05 |  |
@@ -49,6 +50,7 @@
 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2022-04-05 |  |
 | [Castles in The Air](https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER) | [Luke Lavelle](https://open.spotify.com/artist/4MbsAtsT8KlRa27ATT0YQ3) | [Castles in the Air](https://open.spotify.com/album/443uJl497U7M7fYWhw1Lpg) | 3:49 | 2022-04-05 |  |
 | [Catch You](https://open.spotify.com/track/2Pv7YbMUjKW0lIgmh23gPe) | [Moonlight Giorgio](https://open.spotify.com/artist/2Vy6FkZX3t0J94BAojjUmB) | [Catch You](https://open.spotify.com/album/0F4SOdr9OcdJPOUJxy3IiO) | 2:14 | 2022-06-03 | 2022-07-29 |
+| [Century 21](https://open.spotify.com/track/2YoXYKyPI7tzCACr6lfG2S) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Century 21](https://open.spotify.com/album/1t5AdYrBVeg9YmWnSUuStP) | 3:46 | 2022-10-28 |  |
 | [Ceylon Drift](https://open.spotify.com/track/2McO8RedAPw2H7BnlfdIHk) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Ceylon Drift / Vindby](https://open.spotify.com/album/7vF85ASpc9O6Wq2h7vDadA) | 2:51 | 2022-04-15 |  |
 | [Clarity](https://open.spotify.com/track/2QDm9uNerLtITaDn2P7XeJ) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clarity](https://open.spotify.com/album/1H4cEBIvngQaCi2ZNJoYd6) | 2:59 | 2022-05-27 |  |
 | [Clockwork](https://open.spotify.com/track/2XaoehLFfuswYzdjfANE9J) | [Lazlo Riley](https://open.spotify.com/artist/0SKJJiRiC2fxhAynpKlb1p) | [Clockwork](https://open.spotify.com/album/3kfYpsAS78knrzUheZ0IIS) | 3:45 | 2022-04-05 |  |
@@ -155,6 +157,7 @@
 | [Let It Out](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r) | [\[felt&key\]](https://open.spotify.com/artist/5B6ReZ8oYtiTDVWkEjkx3z) | [Let It Out](https://open.spotify.com/album/2YQ8x9l7eZM7EfhL6oZgKF) | 2:44 | 2022-04-05 |  |
 | [Lifted](https://open.spotify.com/track/7rRjeLkK6gXyjIG0oeVhzz) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Ultrasound](https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt) | 3:38 | 2022-09-02 |  |
 | [Lisboa](https://open.spotify.com/track/4im9kPVTBfV5n7iR3sHwu1) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Lisboa](https://open.spotify.com/album/1lPu8vPvymLsCC5xH2DF10) | 2:34 | 2022-09-02 |  |
+| [Lobby](https://open.spotify.com/track/2SYNph4RlGOSqW7h681G8D) | [DBTFUL](https://open.spotify.com/artist/1GdjEjgv3RpYjjIBvwGv21) | [Lobby](https://open.spotify.com/album/53bhBGHmCq4XdN3lM785zZ) | 2:32 | 2022-10-28 |  |
 | [locking lips](https://open.spotify.com/track/0f3wjVx1UuOYiABzQlE2sW) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [locking lips](https://open.spotify.com/album/28M6S2X1BaPQI0IcJ6ju55) | 3:37 | 2022-10-14 |  |
 | [Long Time No See](https://open.spotify.com/track/4am2IwoKTQxH1yiHQWDbBF) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Long Time No See](https://open.spotify.com/album/5W9lOAVWxcyxbxi2nSX0Qv) | 3:36 | 2022-09-23 |  |
 | [Lost Lands](https://open.spotify.com/track/0xbXmw4lyidtiVgEzSpsoQ) | [Delta O](https://open.spotify.com/artist/3BYLxIFUAOJGEsV8lRkjSN) | [Lost Lands](https://open.spotify.com/album/0wyP4NGuJp6sI0j0SH7siA) | 3:53 | 2022-04-05 |  |
@@ -249,6 +252,8 @@
 | [shade](https://open.spotify.com/track/4EzccXrr8ipyRhOvCoB2xE) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [shade](https://open.spotify.com/album/4quQww8KbK6FVuv4EPwZP4) | 2:20 | 2022-08-12 |  |
 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 | 2022-04-05 |  |
 | [Sights](https://open.spotify.com/track/5UNnhT9Ni6tW72zFLADsjy) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Sights](https://open.spotify.com/album/1nKontDiwLQHVBj5usVEgt) | 3:34 | 2022-04-05 | 2022-07-29 |
+| [Silent Night](https://open.spotify.com/track/76sSclBbZk7dmGAqsHIbhx) | [Nursultan Kun](https://open.spotify.com/artist/2QhOidPJt6NKX7NL3TRHgj) | [Silent Night / United Voices / Dawn In The Morning](https://open.spotify.com/album/5ALVrxBQN7xyMyeOF7DToQ) | 2:50 | 2022-10-28 |  |
+| [Sleep & Pluck](https://open.spotify.com/track/5PDibz01bDnKUlVd7VhNpE) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Sunlifter](https://open.spotify.com/album/21NSh7NcKTP3LVFXeGAfUA) | 2:56 | 2022-10-28 |  |
 | [Slippery Slope](https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg) | [Mountainberg](https://open.spotify.com/artist/6m9A8ej6yJ1VJrcb30bHlJ) | [Slippery Slope](https://open.spotify.com/album/4QaMWNmQ5MF7PqmR9TpyXO) | 2:31 | 2022-04-05 | 2022-07-22 |
 | [Slow Rain](https://open.spotify.com/track/1edBi0eW1gqWWATbHrLJ0Q) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 3:50 | 2022-04-05 | 2022-07-29 |
 | [Snowmen's League](https://open.spotify.com/track/25dn9ZZrJ6WaaCMT52rmjS) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Snowmen's League](https://open.spotify.com/album/1U0mKoD2UlOeIz1Kiwn92U) | 3:16 | 2022-10-07 |  |
@@ -281,6 +286,7 @@
 | [Taking Polaris](https://open.spotify.com/track/4PkVCSor0FoPx1X2FGJ9gR) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Taking Polaris EP](https://open.spotify.com/album/0mIW9wjcZgEg57Nz957jYP) | 4:43 | 2022-04-05 | 2022-07-29 |
 | [Talk To Me](https://open.spotify.com/track/0LaErT2gDG7iZhHDKrrb2v) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [Talk To Me](https://open.spotify.com/album/53caWippf1sBtHtsD2qEKL) | 2:59 | 2022-04-05 | 2022-09-17 |
 | [Tekapo \- Edit](https://open.spotify.com/track/7nvTywXHEfa4Kb6W9cUhqJ) | [Walter Woods](https://open.spotify.com/artist/1k1WrqbhNylomjfqZ0lq4D) | [Tekapo \(Edit\)](https://open.spotify.com/album/4M8lta7iSWNHxh7eHMpY8Y) | 2:28 | 2022-04-05 | 2022-04-15 |
+| [teque](https://open.spotify.com/track/2pBHvVRaPkE8SXnKRFgxLj) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [teque](https://open.spotify.com/album/4HsO0EPeFW6f4934ic9DDU) | 3:08 | 2022-10-28 |  |
 | [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2022-04-05 |  |
 | [Those Hazel Eyes](https://open.spotify.com/track/2KK10rRx9UrGc2ryjsL2Jh) | [Kubicova](https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr) | [Those Hazel Eyes](https://open.spotify.com/album/0hPDBdazEBgdE8dS2Ch5SN) | 2:27 | 2022-04-05 | 2022-07-29 |
 | [Time & Space](https://open.spotify.com/track/65PJ7AIFK8gAp1XxDYO1Hl) | [Lazlo Riley](https://open.spotify.com/artist/0SKJJiRiC2fxhAynpKlb1p) | [Time and Space](https://open.spotify.com/album/5RQA3FWGZs8f6S90umCeDA) | 4:02 | 2022-04-05 |  |

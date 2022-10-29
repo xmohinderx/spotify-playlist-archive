@@ -1416,6 +1416,24 @@
     },
     {
       "album": {
+        "name": "New Start",
+        "url": "https://open.spotify.com/album/2UcZ7xUeS17aNKDVyORQrf"
+      },
+      "artists": [
+        {
+          "name": "Dia Louge",
+          "url": "https://open.spotify.com/artist/71TnN2RDUMrNrcFS1kYZdl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197454,
+      "name": "Cheers Mate",
+      "url": "https://open.spotify.com/track/2p7HOQKGCmhqygolKziWKb"
+    },
+    {
+      "album": {
         "name": "Chihiro",
         "url": "https://open.spotify.com/album/3qlSKN4HP5Q3tV8Wlx2LID"
       },

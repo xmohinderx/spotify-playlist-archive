@@ -1,12 +1,12 @@
 {
   "description": "Songs that show your dad love and appreciation ",
-  "num_followers": 11030,
+  "num_followers": 11028,
   "original_name": "Father's Day Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMDY0MDRiYWRkMjg2NGI4NjYzNDM2MGY5OTgwMDIxM2Rk",
+  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMDhkZGNkZmRiN2VhZTliZDlmNzlmMTk1MWZjYmUxNmU3",
   "tracks": [
     {
       "added_at": "2022-06-15 19:48:26",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "The Very Best Of Cat Stevens",
-        "url": "https://open.spotify.com/album/3ds29BDzL13tt6Xy9tuFal"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "Father And Son",
-      "url": "https://open.spotify.com/track/2nU1cyrG92p8h99g3Gykwz"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Thank You (Deluxe Version)",
         "url": "https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 183240,
       "name": "Dance Like Yo Daddy",
       "url": "https://open.spotify.com/track/6nIMEvZUmWXKp008VsZKDL"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "The Very Best Of Cat Stevens",
+        "url": "https://open.spotify.com/album/3ds29BDzL13tt6Xy9tuFal"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Father And Son",
+      "url": "https://open.spotify.com/track/2nU1cyrG92p8h99g3Gykwz"
     },
     {
       "added_at": "2022-06-09 16:13:45",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Vintage",
-        "url": "https://open.spotify.com/album/0JADWCVegOaq8ECTdGtDPy"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 132426,
-      "name": "Daddy's Little Girl",
-      "url": "https://open.spotify.com/track/2XDxDUxTOMWRoeyl322oG8"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Greatest Hits Volume 3",
         "url": "https://open.spotify.com/album/3R4p0qCYhtK1YdPtvlDD7T"
       },
@@ -579,22 +563,34 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Hannah Montana",
-        "url": "https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu"
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/0JADWCVegOaq8ECTdGtDPy"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
         }
       ],
-      "duration_ms": 203680,
-      "name": "I Learned From You",
-      "url": "https://open.spotify.com/track/3qhIhyu9Sl8lyF43vNt9Dv"
+      "duration_ms": 132426,
+      "name": "Daddy's Little Girl",
+      "url": "https://open.spotify.com/track/2XDxDUxTOMWRoeyl322oG8"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Complete Clapton",
+        "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 323440,
+      "name": "My Father's Eyes",
+      "url": "https://open.spotify.com/track/3faolvgrl8JeE6iTCNJn7Y"
     }
   ],
   "unique_name": "Father's Day Love",

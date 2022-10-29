@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The pulse of new indie rock. Cover: Hotel Ugly",
+  "description": "The pulse of new indie rock. Featuring new music by The Backseat Lovers.",
   "name": "Today's Indie Rock",
   "published_playlist_ids": [
     "6NQ4UrfxHZRCQftucSkbbm"
@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Air Guitar",
+        "url": "https://open.spotify.com/album/5PETfsInVVeftPNXoLAIqs"
+      },
+      "artists": [
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183273,
+      "name": "Air Guitar",
+      "url": "https://open.spotify.com/track/2cTcCo0OwGfvIEAAW6y8NK"
+    },
+    {
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy"
       },
@@ -700,6 +718,24 @@
     },
     {
       "album": {
+        "name": "Armchair",
+        "url": "https://open.spotify.com/album/4HnE1gG5lH24ik2fnxaIoY"
+      },
+      "artists": [
+        {
+          "name": "yungatita",
+          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270784,
+      "name": "Armchair",
+      "url": "https://open.spotify.com/track/2bULAzCJpIOvDeyfzjriYf"
+    },
+    {
+      "album": {
         "name": "Army Of Me",
         "url": "https://open.spotify.com/album/3KXPsypHcb5a9taDnFWkFp"
       },
@@ -791,6 +827,24 @@
       "duration_ms": 211600,
       "name": "Aubade",
       "url": "https://open.spotify.com/track/21yFr0OLxjieHKyrxg1Rvs"
+    },
+    {
+      "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/6blr4YVJ0xwdx1qJWBtz76"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hayes",
+          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184576,
+      "name": "August",
+      "url": "https://open.spotify.com/track/21Ys4ySXmSWzTWoVLTgNkF"
     },
     {
       "album": {
@@ -1093,7 +1147,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 128276,
       "name": "Best of It",
       "url": "https://open.spotify.com/track/1VFng5qzRMHVi0dw5Nqtl0"
@@ -1331,7 +1385,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 191764,
       "name": "Blue Copper",
       "url": "https://open.spotify.com/track/1W7FKWfoWQa0RMJ4ETdnjB"
@@ -2978,6 +3032,24 @@
     },
     {
       "album": {
+        "name": "Dead Hotel",
+        "url": "https://open.spotify.com/album/68QrJJ7prNn28cSlaAk2ZR"
+      },
+      "artists": [
+        {
+          "name": "King No-One",
+          "url": "https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192953,
+      "name": "Dead Hotel",
+      "url": "https://open.spotify.com/track/1qz7fAa2IVL0vtaswCE445"
+    },
+    {
+      "album": {
         "name": "Dear Boy",
         "url": "https://open.spotify.com/album/44Bmf0xSlLy5REkiXLVQ6N"
       },
@@ -3047,6 +3119,24 @@
       "duration_ms": 190574,
       "name": "Deer Island",
       "url": "https://open.spotify.com/track/7IQhSyhmcQvGAjL9G7FpwS"
+    },
+    {
+      "album": {
+        "name": "Demons at the Dinner Table",
+        "url": "https://open.spotify.com/album/2QxLfEiN0Uo4TXpTBUVDJI"
+      },
+      "artists": [
+        {
+          "name": "Lucca Dohr",
+          "url": "https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124532,
+      "name": "Demons at the Dinner Table",
+      "url": "https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm"
     },
     {
       "album": {
@@ -3565,7 +3655,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 151149,
       "name": "Eggshells",
       "url": "https://open.spotify.com/track/2JXsy8qz9PzqDwX7ozd4Go"
@@ -4185,7 +4275,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 188898,
       "name": "Flip It",
       "url": "https://open.spotify.com/track/3hrWIeRC8jxS2QXhrXtVVT"
@@ -7035,7 +7125,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 222573,
       "name": "Madison",
       "url": "https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ"
@@ -8269,7 +8359,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 285746,
       "name": "Ooh! Sumthin' New",
       "url": "https://open.spotify.com/track/21gFDOFAFuXqMrb7TnlwxU"
@@ -8587,6 +8677,24 @@
       "duration_ms": 207009,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC"
+    },
+    {
+      "album": {
+        "name": "When I'm Alone",
+        "url": "https://open.spotify.com/album/5ZPH3wJ0PInJmNUZPGhyRq"
+      },
+      "artists": [
+        {
+          "name": "girlpuppy",
+          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273320,
+      "name": "Permanent State",
+      "url": "https://open.spotify.com/track/6YzDFJrAelOpKFbXoc5NQ1"
     },
     {
       "album": {
@@ -9924,6 +10032,24 @@
     },
     {
       "album": {
+        "name": "Waiting to Spill",
+        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197746,
+      "name": "Snowbank Blues",
+      "url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln"
+    },
+    {
+      "album": {
         "name": "Go Around",
         "url": "https://open.spotify.com/album/59n5hJUTjae754GA75MRMx"
       },
@@ -10531,7 +10657,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 133567,
       "name": "Sweet One",
       "url": "https://open.spotify.com/track/07yN3cbIaYw9LOli6iFEuL"
@@ -10773,7 +10899,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 231320,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/4rssWNMsh5veaSUEydTAls"
@@ -11347,6 +11473,24 @@
       "duration_ms": 131412,
       "name": "TIME OF DAY",
       "url": "https://open.spotify.com/track/3pQy3FYvbkXQonhmR0TAf6"
+    },
+    {
+      "album": {
+        "name": "To Let Go",
+        "url": "https://open.spotify.com/album/66Vkva6n6mO7oWJEUyEA4N"
+      },
+      "artists": [
+        {
+          "name": "Quarters of Change",
+          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199263,
+      "name": "To Let Go",
+      "url": "https://open.spotify.com/track/7ybxuSL3NzBDlshVO9Vhul"
     },
     {
       "album": {

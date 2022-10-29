@@ -1,13 +1,33 @@
 {
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X?si=a96SvZ2zRaOYehcx75YnXg\"> Bien</a> ",
-  "num_followers": 67575,
+  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9?si=71IZoDndRoWuYhF1DS533w\"> Johnny Drille </a> ",
+  "num_followers": 67612,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMzMTU2MiwwMDAwMDAwMDQxOWUwOGJjOTE4YzY5MGI2NWJhMjRlNzIyNmYzZmFk",
+  "snapshot_id": "MTY2Njk2MDMyNywwMDAwMDAwMDNhYzQyYzc0MzFmYmJiMzgwZDU0YWRhNDA3NjcxY2Ji",
   "tracks": [
+    {
+      "added_at": "2022-10-28 12:32:07",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7qZiuy7KLt5j5BXrs76wo3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 137480,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7l0EYGVhGZcuLyphccTcp0"
+    },
     {
       "added_at": "2022-07-28 23:00:00",
       "album": {

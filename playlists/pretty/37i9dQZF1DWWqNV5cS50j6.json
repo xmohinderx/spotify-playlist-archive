@@ -1,13 +1,33 @@
 {
   "description": "JAWNY makes anti pop.",
-  "num_followers": 671463,
+  "num_followers": 671594,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg3NzM5MCwwMDAwMDAwMDRhNGNhYjFiMWZlMWY3YTZiNmJiOTQxZGQ1ZjdjZjZh",
+  "snapshot_id": "MTY2NjkyOTkwMCwwMDAwMDAwMGFhMDc2YTE2ZjAyOThhMTI1MGNiODA4Y2Q1ODAxZGY4",
   "tracks": [
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "DIRT (feat. JPEGMAFIA)",
+        "url": "https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF"
+      },
+      "artists": [
+        {
+          "name": "Y2K",
+          "url": "https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 238324,
+      "name": "DIRT (feat. JPEGMAFIA)",
+      "url": "https://open.spotify.com/track/5HfipWyCtt7I2lR4d9oDhO"
+    },
     {
       "added_at": "2022-10-25 15:42:27",
       "album": {
@@ -29,20 +49,44 @@
       "url": "https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE"
     },
     {
-      "added_at": "2022-10-25 15:42:27",
+      "added_at": "2022-10-28 04:05:00",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH"
+        "name": "MAKER'S DESIGN",
+        "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
       },
       "artists": [
         {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
         }
       ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
+      "duration_ms": 186531,
+      "name": "THE SEASON (feat. PawPaw Rod)",
+      "url": "https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K"
+    },
+    {
+      "added_at": "2022-10-25 15:42:27",
+      "album": {
+        "name": "Great Taste",
+        "url": "https://open.spotify.com/album/7KI0x0Fmc3ABED3MUGlZkB"
+      },
+      "artists": [
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        },
+        {
+          "name": "NAYANA IZ",
+          "url": "https://open.spotify.com/artist/2d8cMSPIFolHyxuox8ESfm"
+        }
+      ],
+      "duration_ms": 130804,
+      "name": "Great Taste",
+      "url": "https://open.spotify.com/track/70Qehf0lZ352N1rPDC7Frc"
     },
     {
       "added_at": "2022-10-25 15:42:27",
@@ -67,6 +111,38 @@
     {
       "added_at": "2022-10-25 15:42:27",
       "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "Tell Me Your Fears",
+        "url": "https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 134750,
+      "name": "Tell Me Your Fears",
+      "url": "https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj"
+    },
+    {
+      "added_at": "2022-10-25 15:42:27",
+      "album": {
         "name": "Get Inspired",
         "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
       },
@@ -79,26 +155,6 @@
       "duration_ms": 173152,
       "name": "Get Inspired",
       "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
-    },
-    {
-      "added_at": "2022-10-25 15:42:27",
-      "album": {
-        "name": "Great Taste",
-        "url": "https://open.spotify.com/album/7KI0x0Fmc3ABED3MUGlZkB"
-      },
-      "artists": [
-        {
-          "name": "Miso Extra",
-          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
-        },
-        {
-          "name": "NAYANA IZ",
-          "url": "https://open.spotify.com/artist/2d8cMSPIFolHyxuox8ESfm"
-        }
-      ],
-      "duration_ms": 130804,
-      "name": "Great Taste",
-      "url": "https://open.spotify.com/track/70Qehf0lZ352N1rPDC7Frc"
     },
     {
       "added_at": "2022-10-25 15:42:27",
@@ -263,6 +319,22 @@
       "duration_ms": 186480,
       "name": "Belong",
       "url": "https://open.spotify.com/track/5BHVCWxWlSioC7ASxSyLsV"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "ROMEO 1000",
+        "url": "https://open.spotify.com/album/5d0dLjvZVnlzyJr4qZCYXr"
+      },
+      "artists": [
+        {
+          "name": "LIL DUSTY G",
+          "url": "https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ"
+        }
+      ],
+      "duration_ms": 140538,
+      "name": "ROMEO 1000",
+      "url": "https://open.spotify.com/track/12vZzCinJwBsRJlGdqyyMI"
     },
     {
       "added_at": "2022-10-25 15:42:27",
@@ -489,6 +561,22 @@
       "url": "https://open.spotify.com/track/0MFpii15OtF6euR17upS7S"
     },
     {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "bloo sox interlude",
+        "url": "https://open.spotify.com/album/3gWJOZAf9dYH04xsL1i1f3"
+      },
+      "artists": [
+        {
+          "name": "stoop lee",
+          "url": "https://open.spotify.com/artist/5bk1VVOTnbEcJh0e8Py4WX"
+        }
+      ],
+      "duration_ms": 175188,
+      "name": "bloo sox interlude",
+      "url": "https://open.spotify.com/track/5X2rrLdm6A3ELbgbAYDvK7"
+    },
+    {
       "added_at": "2022-10-25 15:42:27",
       "album": {
         "name": "Griffith Park",
@@ -635,22 +723,6 @@
       "duration_ms": 184826,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
-    },
-    {
-      "added_at": "2022-10-25 15:42:27",
-      "album": {
-        "name": "\u200eu \u200eand \u200eeveryone \u200eu \u200eknow !",
-        "url": "https://open.spotify.com/album/7p4FGw5Z4H2FSQyAIffbJL"
-      },
-      "artists": [
-        {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
-        }
-      ],
-      "duration_ms": 215533,
-      "name": "\u200eu and \u200eeveryone \u200eu \u200eknow !",
-      "url": "https://open.spotify.com/track/5h56SQXZjtbTlwhBrIzcE0"
     },
     {
       "added_at": "2022-10-25 15:42:27",
@@ -1343,22 +1415,6 @@
     {
       "added_at": "2022-10-25 15:42:27",
       "album": {
-        "name": "Xeno",
-        "url": "https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr"
-      },
-      "artists": [
-        {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
-        }
-      ],
-      "duration_ms": 155413,
-      "name": "Centauri",
-      "url": "https://open.spotify.com/track/2soNYlAgFhZ5o0p04xjcj3"
-    },
-    {
-      "added_at": "2022-10-25 15:42:27",
-      "album": {
         "name": "Couldn't Wait to Tell You...",
         "url": "https://open.spotify.com/album/10nNQo6ebmVoyh6R39jRlf"
       },
@@ -1731,22 +1787,6 @@
     {
       "added_at": "2022-10-25 15:42:27",
       "album": {
-        "name": "IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine",
-        "url": "https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "get yo bread",
-      "url": "https://open.spotify.com/track/7L5W4IMeAwM0jYTCmS6AjA"
-    },
-    {
-      "added_at": "2022-10-25 15:42:27",
-      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
       },
@@ -1863,26 +1903,6 @@
       "duration_ms": 179680,
       "name": "n2o",
       "url": "https://open.spotify.com/track/2mPLs6IBClLRkRjgKoYBHi"
-    },
-    {
-      "added_at": "2022-10-25 15:42:27",
-      "album": {
-        "name": "Age of Aquarius",
-        "url": "https://open.spotify.com/album/2R7a23YswtzYw9681Ocmwz"
-      },
-      "artists": [
-        {
-          "name": "Overpade",
-          "url": "https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q"
-        },
-        {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
-        }
-      ],
-      "duration_ms": 144277,
-      "name": "timing !",
-      "url": "https://open.spotify.com/track/78DMSJyInNO1I9ipx34DKR"
     },
     {
       "added_at": "2022-10-25 15:42:27",
@@ -2247,22 +2267,6 @@
       "duration_ms": 152462,
       "name": "2002",
       "url": "https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU"
-    },
-    {
-      "added_at": "2022-10-25 15:42:27",
-      "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/01l3MwF9ObfZSnKPCGo8bs"
-      },
-      "artists": [
-        {
-          "name": "HARRY WAS HERE",
-          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
-        }
-      ],
-      "duration_ms": 149416,
-      "name": "Heaven Or Hell",
-      "url": "https://open.spotify.com/track/3SeVLSlHtjKkmGEr8DQHD0"
     },
     {
       "added_at": "2022-10-25 15:42:27",

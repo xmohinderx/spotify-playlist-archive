@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-121 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/4uy9VQ5xFYSsl9GqZlixae)
+122 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/4uy9VQ5xFYSsl9GqZlixae)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [JOY](https://open.spotify.com/track/5XpeOzPh8mzTnh0SHiYdLi) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Joyful Monster](https://open.spotify.com/album/7q7PwTvocTRkcCrEk6RG8y) | 4:29 | 2022-03-08 |  |
 | [L.O.K.F](https://open.spotify.com/track/3VkrkT7l5fOCtZzS4Nhg0j) | [きつね](https://open.spotify.com/artist/0FZILnNXcTtqbz9nWPwLh5), [EXIT](https://open.spotify.com/artist/2Xd13ljEIqUxHvVcvfWytd) | [L.O.K.F](https://open.spotify.com/album/0oeKhSzgjslbdczbkASG63) | 3:48 | 2022-03-08 |  |
 | [Life is Hard DAME DINERO](https://open.spotify.com/track/0HT5Fk82g9f8nUAVKwyzAt) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [生活こんきゅーダメディネロ](https://open.spotify.com/album/5XJ87OMDc5amKH9rUbkGI5) | 4:06 | 2022-07-12 | 2022-10-19 |
-| [Life is Hard DAME DINERO](https://open.spotify.com/track/5RjnIa5tjhpUDT2Q0brHv5) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Life is Hard DAME DINERO](https://open.spotify.com/album/5rYgHLNiJFyp1GWzvV9ORe) | 4:06 | 2022-08-04 |  |
+| [Life is Hard DAME DINERO](https://open.spotify.com/track/5RjnIa5tjhpUDT2Q0brHv5) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Life is Hard DAME DINERO](https://open.spotify.com/album/5rYgHLNiJFyp1GWzvV9ORe) | 4:06 | 2022-08-04 | 2022-10-29 |
+| [Life Is Hard DAME DINERO](https://open.spotify.com/track/5U403777CGVqKK61XreyEV) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 4:06 | 2022-08-04 |  |
 | [Life's The Party Time!!](https://open.spotify.com/track/1krMMx1aJoMEU6Sh0d9HA0) | [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [Curiosity](https://open.spotify.com/album/1Iid4Xm44JxBfBv9jLfkR6) | 4:12 | 2022-03-08 |  |
 | [Link](https://open.spotify.com/track/4HOZQQ1cDRi6gimI4CSLPM) | [RYUCHELL](https://open.spotify.com/artist/69B2I8O3kvspdJVrBc2toJ) | [Link](https://open.spotify.com/album/7uAnOnRPCXNjvfde9zvfP0) | 4:11 | 2022-03-08 |  |
 | [LinQuest 〜やがて伝説へ・・・](https://open.spotify.com/track/1xz7gYwUTADRKhJc6UjGSo) | [LinQ](https://open.spotify.com/artist/05I84aat6qTGKBQM9P4Ynz) | [FRONTIER〜LinQ 第三楽章〜](https://open.spotify.com/album/4Ucb8SJJIfwQIvHX05k4H0) | 4:32 | 2022-03-08 |  |

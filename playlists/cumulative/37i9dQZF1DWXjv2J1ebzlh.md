@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,610 songs - 4 day 12 hr 16 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,612 songs - 4 day 12 hr 24 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Ambiance Vikings](https://open.spotify.com/track/6ixTSFbwKFe5p4BwDfG4Cr) | [Les vikings de la Guadeloupe](https://open.spotify.com/artist/5kK2XOqKE7or3H7OuTHNO7) | [Best of: Enko on ti tou](https://open.spotify.com/album/0e6fiYzRBgc5PHoKTw3KLd) | 2:28 | 2022-06-09 |  |
 | [Amor a Tres](https://open.spotify.com/track/1bLntc24zgBLdagLf0qbzd) | [Celeste](https://open.spotify.com/artist/1bMcK3goIvwNloJK78p2dp) | [Beach Diggin', Vol\. 2](https://open.spotify.com/album/6ZTmHQNK4qBaQkdJy15j6w) | 3:01 | 2022-06-09 |  |
 | [Amor Ideal](https://open.spotify.com/track/2ArbqNanG9JzfZnANSS54n) | [Chacalón y la Nueva Crema](https://open.spotify.com/artist/3HJvj2ET4zSRuxv0m4nLmw) | [Éxitos, Éxitos, Éxitos](https://open.spotify.com/album/1d6HMqeEIubZ9HV0SHqUFt) | 3:10 | 2022-07-27 | 2022-10-15 |
-| [Amor Ideal](https://open.spotify.com/track/3tfhPCPL0EpFYOmsRiYoLv) | [Chacalón y la Nueva Crema](https://open.spotify.com/artist/3HJvj2ET4zSRuxv0m4nLmw) | [Grandes Éxitos 1976 \- 1981](https://open.spotify.com/album/7uz2m6BmJUY9fMrPqv5cXI) | 3:11 | 2022-06-09 |  |
+| [Amor Ideal](https://open.spotify.com/track/5ccpau4h7F2lGLWCttwbpp) | [Chacalón y la Nueva Crema](https://open.spotify.com/artist/3HJvj2ET4zSRuxv0m4nLmw) | [Éxitos, Éxitos, Éxitos](https://open.spotify.com/album/7JyWytKQNPceXS6DUop61a) | 3:10 | 2022-10-28 |  |
+| [Amor Ideal](https://open.spotify.com/track/3tfhPCPL0EpFYOmsRiYoLv) | [Chacalón y la Nueva Crema](https://open.spotify.com/artist/3HJvj2ET4zSRuxv0m4nLmw) | [Grandes Éxitos 1976 \- 1981](https://open.spotify.com/album/7uz2m6BmJUY9fMrPqv5cXI) | 3:11 | 2022-06-09 | 2022-10-29 |
 | [Amorosa Guajira](https://open.spotify.com/track/1hyYeSi7P0dKZhsdClaORe) | [Guillermo Portabales](https://open.spotify.com/artist/5tU4QY77fd3PavzBZvM3bJ) | [Presentando a Guillermo Portabales](https://open.spotify.com/album/0YEgN5xJHCYtXkOQQA8iCu) | 3:14 | 2022-07-12 |  |
 | [An ti fi \- Bomba](https://open.spotify.com/track/2CIH6T41pwFuGp3K38MsNO) | [Henri Guédon](https://open.spotify.com/artist/1Rn2bS4dhI0rMrn32q5ak4) | [Early latin and boogaloo recordings by the drum master](https://open.spotify.com/album/0P5sPCJBSUi8MDRZvHZ4pT) | 3:38 | 2022-06-09 |  |
 | [Ana Damir El Motakallim](https://open.spotify.com/track/57XDB9Db9zCeYG6i0htCdE) | [Issam Hajali](https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6) | [Mouasalat Ila Jacad El Ard \(Habibi Funk 010\)](https://open.spotify.com/album/0XHu0qs3IztGqkDl4jOUpM) | 11:42 | 2022-07-12 |  |
@@ -188,6 +189,7 @@
 | [Bak Şu Adama Aşık Oldu](https://open.spotify.com/track/377XKUiU2s0Y6jVDSypffA) | [Ayla Algan](https://open.spotify.com/artist/4hqP91hNWDZJxPKaw68KbN) | [En İyileriyle Ayla Algan](https://open.spotify.com/album/4qkdOeUAMPC2lEbNz3IYdF) | 3:09 | 2022-07-27 |  |
 | [Bakara](https://open.spotify.com/track/4725BeYG7eOUC3CFjeSfkp) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Canopée \- EP](https://open.spotify.com/album/4NlUfbfTI6urIVvJ4AYITi) | 7:00 | 2022-06-09 | 2022-07-29 |
 | [Bakara](https://open.spotify.com/track/5Sl1RVQbD9PigheYMG7yAP) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle \(Deluxe\)](https://open.spotify.com/album/50ZFAeGxaNWSMjHfQOkzJK) | 7:01 | 2022-07-27 |  |
+| [Bal](https://open.spotify.com/track/12q47DxU96xOrC7Io9D9tQ) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [Bal](https://open.spotify.com/album/3MN57Hn6CaOFLB1LISKdaK) | 5:12 | 2022-10-28 |  |
 | [Balada Borracha](https://open.spotify.com/track/027qnxITdioRnZKSuySpUF) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Balada Borracha](https://open.spotify.com/album/1DLkwNRaZx6woFYw4DUYtG) | 4:03 | 2022-06-09 | 2022-07-29 |
 | [Balada Borracha](https://open.spotify.com/track/3jBNpVIScSy6HjcbFqqLWG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/7m3BZf2quk9AuZsmq57LAt) | 4:03 | 2022-07-27 |  |
 | [Balera De Mar](https://open.spotify.com/track/2HGdQEuyft4sUIGFpaDi2S) | [Opez](https://open.spotify.com/artist/4lOGYCKkqGyEYCe67YCETK) | [Dead Dance](https://open.spotify.com/album/2WExKdk8bIm7qtIkLXrB50) | 3:35 | 2022-06-09 | 2022-07-29 |

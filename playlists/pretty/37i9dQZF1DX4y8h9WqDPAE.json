@@ -1,13 +1,33 @@
 {
-  "description": "Where R&B from around the world comes to play with hip-hop & pop!   Cover: Babyface",
-  "num_followers": 1751564,
+  "description": "Where R&B from around the world comes to play with hip-hop & pop!   Cover: Chlo\u00eb & Latto",
+  "num_followers": 1751723,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGIwNTA1YmUwNDFkZmFlMjAxMDcyMmI1NWY1Yzg4ZGQw",
+  "snapshot_id": "MTY2Njk2NTMyMCwwMDAwMDAwMDg1Y2RlOTI1YmEyZjU0ZmUwYWVjMGM5YWFkN2IzMWVj",
   "tracks": [
+    {
+      "added_at": "2022-10-28 07:48:58",
+      "album": {
+        "name": "For the Night",
+        "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 205170,
+      "name": "For the Night",
+      "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
+    },
     {
       "added_at": "2022-10-03 18:11:06",
       "album": {
@@ -23,6 +43,22 @@
       "duration_ms": 202519,
       "name": "Spread Thin",
       "url": "https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF"
+    },
+    {
+      "added_at": "2022-10-28 07:48:58",
+      "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181830,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -83,6 +119,22 @@
       "duration_ms": 214352,
       "name": "Better Thangs (with Summer Walker)",
       "url": "https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs"
+    },
+    {
+      "added_at": "2022-10-28 07:48:58",
+      "album": {
+        "name": "Money & Love",
+        "url": "https://open.spotify.com/album/1a936IexPb6wtpMlymctZz"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 191505,
+      "name": "Money & Love",
+      "url": "https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu"
     },
     {
       "added_at": "2022-07-29 04:12:34",
@@ -203,6 +255,30 @@
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3dGJPLnc2YlXVvcgwW47Mn"
+    },
+    {
+      "added_at": "2022-10-28 07:48:58",
+      "album": {
+        "name": "Luv 4 Rent",
+        "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        }
+      ],
+      "duration_ms": 287098,
+      "name": "Modennaminute (with Lucky Daye, Phoelix)",
+      "url": "https://open.spotify.com/track/37oNzLFCyw2On6e39bN2sp"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -377,6 +453,30 @@
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     },
     {
+      "added_at": "2022-10-28 07:48:58",
+      "album": {
+        "name": "YOUNG PREACHER",
+        "url": "https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 186433,
+      "name": "WHISTLE (feat. Lojay & Amaarae)",
+      "url": "https://open.spotify.com/track/11Ti6zSL9YNLz6tF5fuetQ"
+    },
+    {
       "added_at": "2022-08-05 04:15:19",
       "album": {
         "name": "Funk Wav Bounces Vol. 2",
@@ -524,8 +624,8 @@
       },
       "artists": [
         {
-          "name": "BLEU",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/0jZSz5yJzCKrPJ7Fo8rdBW"
         },
         {
           "name": "Nicki Minaj",
@@ -691,6 +791,22 @@
       "duration_ms": 222199,
       "name": "Time - From the Motion Picture \"Amsterdam\"",
       "url": "https://open.spotify.com/track/7nV3HScm7VfvyGdN5u6GNS"
+    },
+    {
+      "added_at": "2022-10-28 07:48:58",
+      "album": {
+        "name": "Always Love",
+        "url": "https://open.spotify.com/album/6jvytXvGQ8DWZYXcL1rYba"
+      },
+      "artists": [
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "Always Love",
+      "url": "https://open.spotify.com/track/02TtDZcUvEJGFJSJ6fTMfn"
     },
     {
       "added_at": "2022-09-30 04:06:29",

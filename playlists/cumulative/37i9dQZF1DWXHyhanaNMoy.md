@@ -4,7 +4,7 @@
 
 > Broederliefde check je in La Vida Loca! Hier alleen maar good vibes en motion.
 
-251 songs - 11 hr 19 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+252 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Daily Paper](https://open.spotify.com/track/68ke3rxPysJ3MIs7F53OcG) | [Justice Toch](https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa) | [Daily Paper](https://open.spotify.com/album/56GWd2d3ivge7gJerhe4ON) | 2:15 | 2022-08-25 | 2022-10-21 |
 | [Dancehall Sound](https://open.spotify.com/track/4NTPkxpdD5UxMSZM8eTI7d) | [Rotjoch](https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Float](https://open.spotify.com/album/1z0AKJhbx7jiVu0SlsyMhW) | 3:29 | 2022-08-04 | 2022-09-23 |
 | [DANÇARINA \(feat\. Nicky Jam, MC Pedrinho\) \- Remix](https://open.spotify.com/track/5QQKWOwPjG9vcDBTQ5Hv5Q) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [DANÇARINA \(feat\. Nicky Jam, MC Pedrinho\) \[Remix\]](https://open.spotify.com/album/47F5OvdnBKsti5MNRGJ2On) | 3:32 | 2022-07-28 | 2022-10-28 |
-| [Day 2 Day](https://open.spotify.com/track/5EPhwzcL78ChwWHQpw11yb) | [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Playstation Riddim](https://open.spotify.com/album/3Kqa1Kcuc7ay7kPCV6Gviv) | 2:48 | 2022-10-27 |  |
+| [Day 2 Day](https://open.spotify.com/track/5EPhwzcL78ChwWHQpw11yb) | [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Playstation Riddim](https://open.spotify.com/album/3Kqa1Kcuc7ay7kPCV6Gviv) | 2:48 | 2022-10-27 | 2022-10-29 |
+| [Day 2 Day](https://open.spotify.com/track/7y4GHkYxPu0Jq57VTKvnlv) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Day 2 Day](https://open.spotify.com/album/5AYFWRViUAg2jE07UQCoDf) | 2:48 | 2022-10-27 |  |
 | [Devam](https://open.spotify.com/track/55avhPnraGoTdTH3TEaJwq) | [Emil Rosé](https://open.spotify.com/artist/3TNTPduFxe8yaox2f6NxNC) | [Devam](https://open.spotify.com/album/57cfV5MDVuiNjDnwoTgbm1) | 2:23 | 2022-08-25 | 2022-10-07 |
 | [DEY INSIDE](https://open.spotify.com/track/6HVKsh53jZpEj53hC82rtU) | [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Dey Inside](https://open.spotify.com/album/1R9Omq2kGRKB41M7nNzr1D) | 3:14 | 2022-10-20 |  |
 | [Digi Deng Dang \(feat\. Caza\)](https://open.spotify.com/track/3V2cE4cuhzhpjQIi3H0tLG) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Doe Het Nou Gewoon](https://open.spotify.com/album/6wn3ieYWJTHLV4qNhfewt1) | 2:41 | 2022-08-11 | 2022-09-16 |

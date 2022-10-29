@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157036,
+  "num_followers": 157027,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQzNjQ3OSwwMDAwMDAwMGE0MTAwNzIxOWNhY2M0ZDI1ZGM1ZjQxMjAzZmY0MWM5",
+  "snapshot_id": "MTY2NTQzNjQ3OSwwMDAwMDAwMGNmYzgyNjQwMTc3YjE3ZTU1ZTI5NmFlZDAyMDExYWRj",
   "tracks": [
     {
       "added_at": "2022-10-10 21:14:39",
@@ -567,26 +567,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Everywhere (feat. Maya Avedis)",
-        "url": "https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8"
-      },
-      "artists": [
-        {
-          "name": "XO Cupid",
-          "url": "https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc"
-        },
-        {
-          "name": "Maya Avedis",
-          "url": "https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Everywhere (feat. Maya Avedis)",
-      "url": "https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
         "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 152672,
       "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
       "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Everywhere (feat. Maya Avedis)",
+        "url": "https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8"
+      },
+      "artists": [
+        {
+          "name": "XO Cupid",
+          "url": "https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc"
+        },
+        {
+          "name": "Maya Avedis",
+          "url": "https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Everywhere (feat. Maya Avedis)",
+      "url": "https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
+        "name": "Fight Dirty",
+        "url": "https://open.spotify.com/album/51bTkbGwIOXalNW9rh8sdb"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "duration_ms": 180982,
+      "name": "Fight Dirty",
+      "url": "https://open.spotify.com/track/49081NhigGNTQ3QvZCirRz"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
         "name": "Release Me (feat. Kalhaader)",
         "url": "https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE"
       },
@@ -1019,18 +1035,22 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Fight Dirty",
-        "url": "https://open.spotify.com/album/51bTkbGwIOXalNW9rh8sdb"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/62juGlcwPNJfv4XTQU6CTI"
       },
       "artists": [
         {
-          "name": "Salvatore Ganacci",
-          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         }
       ],
-      "duration_ms": 180982,
-      "name": "Fight Dirty",
-      "url": "https://open.spotify.com/track/49081NhigGNTQ3QvZCirRz"
+      "duration_ms": 125878,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/6smjJBiF02qPiSlGdJGmlG"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1055,46 +1075,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/62juGlcwPNJfv4XTQU6CTI"
-      },
-      "artists": [
-        {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 125878,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/6smjJBiF02qPiSlGdJGmlG"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e"
-      },
-      "artists": [
-        {
-          "name": "Love Harder",
-          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
-        },
-        {
-          "name": "Amber Van Day",
-          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
-        }
-      ],
-      "duration_ms": 192296,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Family (Remixes)",
         "url": "https://open.spotify.com/album/0KHCJzK0qQtlpz4B5oit6C"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 185813,
       "name": "Family - Frank Walker Remix",
       "url": "https://open.spotify.com/track/6YnkswUQX2GXOhywMsBDqp"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e"
+      },
+      "artists": [
+        {
+          "name": "Love Harder",
+          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
+        },
+        {
+          "name": "Amber Van Day",
+          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
+        }
+      ],
+      "duration_ms": 192296,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
+        "name": "All Comes Back To You",
+        "url": "https://open.spotify.com/album/5rJpYMGW8MdUseiZ3aaAvP"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "All Comes Back To You",
+      "url": "https://open.spotify.com/track/0cIRZhGMVLIrOPhX3VWoqQ"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/3aIJBaZpXCc2LFGVCmMODg"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 198693,
       "name": "Home",
       "url": "https://open.spotify.com/track/64pKbp9wq3fqFHBZ7lIU6P"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
-        "name": "All Comes Back To You",
-        "url": "https://open.spotify.com/album/5rJpYMGW8MdUseiZ3aaAvP"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "All Comes Back To You",
-      "url": "https://open.spotify.com/track/0cIRZhGMVLIrOPhX3VWoqQ"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Don't Worry (feat. Aloe Blacc)",
-        "url": "https://open.spotify.com/album/6bpPgFrZep5KGl9nFsoT8L"
-      },
-      "artists": [
-        {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 175098,
-      "name": "Don't Worry (feat. Aloe Blacc)",
-      "url": "https://open.spotify.com/track/0KwlzQaySxzPkt0nELecnx"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Bass Goes Down",
         "url": "https://open.spotify.com/album/5HQkMx3unrkhwyB3qJvG1p"
       },
@@ -1459,22 +1439,22 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/2WJhni8qoBSXGi717evnbg"
+        "name": "Don't Worry (feat. Aloe Blacc)",
+        "url": "https://open.spotify.com/album/6bpPgFrZep5KGl9nFsoT8L"
       },
       "artists": [
         {
-          "name": "Helion",
-          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
         },
         {
-          "name": "SUD",
-          "url": "https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ"
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
         }
       ],
-      "duration_ms": 157968,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/7oOSflhUH2MonnByd9FGz3"
+      "duration_ms": 175098,
+      "name": "Don't Worry (feat. Aloe Blacc)",
+      "url": "https://open.spotify.com/track/0KwlzQaySxzPkt0nELecnx"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1491,6 +1471,26 @@
       "duration_ms": 164160,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/4rBjP3PrWdWEdFdTt33H9X"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/2WJhni8qoBSXGi717evnbg"
+      },
+      "artists": [
+        {
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+        },
+        {
+          "name": "SUD",
+          "url": "https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ"
+        }
+      ],
+      "duration_ms": 157968,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/7oOSflhUH2MonnByd9FGz3"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Raindrops",
-        "url": "https://open.spotify.com/album/0sOqBTPwD7ev0X9k0RLqyf"
-      },
-      "artists": [
-        {
-          "name": "Helion",
-          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
-        },
-        {
-          "name": "Violet Days",
-          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
-        }
-      ],
-      "duration_ms": 151832,
-      "name": "Raindrops",
-      "url": "https://open.spotify.com/track/14DkH5iDM1ZaA3hMfJeRuM"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/7tHNPG8gM6Hg1rqrZh8JIU"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 158854,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/3tTCORojBSXdr6eEITzN91"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Raindrops",
+        "url": "https://open.spotify.com/album/0sOqBTPwD7ev0X9k0RLqyf"
+      },
+      "artists": [
+        {
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+        },
+        {
+          "name": "Violet Days",
+          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
+        }
+      ],
+      "duration_ms": 151832,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/14DkH5iDM1ZaA3hMfJeRuM"
     },
     {
       "added_at": "2022-10-10 21:14:39",

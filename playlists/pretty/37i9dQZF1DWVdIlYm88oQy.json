@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 27214,
+  "num_followers": 27259,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDk2MywwMDAwMDAwMDBiNWZiZmVkZWNmMjFjMTc1N2ZjNmMxNjE1NTkyMzJh",
+  "snapshot_id": "MTY2MTkzMDk2MywwMDAwMDAwMGUyODNjMGFiZGQwNjEzYzJjMTRhNmUyNjQyMWU3ODZm",
   "tracks": [
     {
       "added_at": "2022-08-31 07:29:23",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 192306,
+      "name": "Mary Es Mi Amor",
+      "url": "https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
         "name": "Maelo...El \u00danico",
         "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 243466,
       "name": "Un Gato en la Oscuridad - Un Gato en Blu",
       "url": "https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 192306,
-      "name": "Mary Es Mi Amor",
-      "url": "https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa"
     },
     {
       "added_at": "2022-08-31 07:29:23",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-31 07:29:23",
       "album": {
-        "name": "S\u00faper Exitos",
-        "url": "https://open.spotify.com/album/2wbgFbyfAty8Wgt7aUzMO7"
-      },
-      "artists": [
-        {
-          "name": "Basilio",
-          "url": "https://open.spotify.com/artist/6h8tckbGautdVT00tAzTNX"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Cisne Cuello Negro",
-      "url": "https://open.spotify.com/track/5YjxeOP6VKBnSvQYcPjDDj"
-    },
-    {
-      "added_at": "2022-08-31 07:29:23",
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 208866,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE"
+    },
+    {
+      "added_at": "2022-08-31 07:29:23",
+      "album": {
+        "name": "S\u00faper Exitos",
+        "url": "https://open.spotify.com/album/2wbgFbyfAty8Wgt7aUzMO7"
+      },
+      "artists": [
+        {
+          "name": "Basilio",
+          "url": "https://open.spotify.com/artist/6h8tckbGautdVT00tAzTNX"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Cisne Cuello Negro",
+      "url": "https://open.spotify.com/track/5YjxeOP6VKBnSvQYcPjDDj"
     },
     {
       "added_at": "2022-08-31 07:29:23",

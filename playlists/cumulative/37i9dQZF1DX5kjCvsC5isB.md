@@ -4,7 +4,7 @@
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Maggie Lindemann
 
-266 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
+267 songs - 14 hr 2 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,8 @@
 | [The One That You Love](https://open.spotify.com/track/5NnWdv3GTcCNG5lVeB7H57) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [The One That You Love](https://open.spotify.com/album/3d7Y5CW8OianRAsS74L3Hd) | 3:43 | 2021-07-30 | 2022-04-02 |
 | [The Rush](https://open.spotify.com/track/2w1PqXuQG6Fjum7259GzO8) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM) | 3:07 | 2021-07-30 |  |
 | [The Saint And The Sinner](https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [The Saint And The Sinner](https://open.spotify.com/album/1mYlxJmW2sSZdSuZFWeaKg) | 3:12 | 2022-01-14 |  |
-| [The Steeple](https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple](https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o) | 3:27 | 2022-02-04 |  |
+| [The Steeple](https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:27 | 2022-10-07 |  |
+| [The Steeple](https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple](https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o) | 3:27 | 2022-02-04 | 2022-10-29 |
 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 | 2021-10-08 | 2022-06-25 |
 | [TOO LITTLE TOO LATE](https://open.spotify.com/track/0MwSfAZoYz6xNDwsRovPkr) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [TOO LITTLE TOO LATE](https://open.spotify.com/album/2sDEfTzMHcVjVnB9RGXMUw) | 2:30 | 2021-10-22 | 2022-03-05 |
 | [TOO LITTLE TOO LATE](https://open.spotify.com/track/3ekpNeAh0H5NGfE3lqcSgT) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [SWEET SENSATION](https://open.spotify.com/album/0u42ytIA8YKAsgglUrl5A9) | 2:30 | 2022-03-04 |  |

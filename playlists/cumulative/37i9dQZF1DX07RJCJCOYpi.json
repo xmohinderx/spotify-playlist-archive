@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The leading wave of Latin Electronic music. Cover: Luis R Conriquez, Rod Contreras, Tony Aguirre, Jay Silva",
+  "description": "The leading wave of Latin Electronic music. Cover: Farruko",
   "name": "mint Latin",
   "published_playlist_ids": [
     "0igTR570qf1Xr3v0XaTHRR"
@@ -734,6 +734,28 @@
     },
     {
       "album": {
+        "name": "Esperare",
+        "url": "https://open.spotify.com/album/19RbGJQC073xwxlvFhbkue"
+      },
+      "artists": [
+        {
+          "name": "J Rythm",
+          "url": "https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm"
+        },
+        {
+          "name": "desamor.",
+          "url": "https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Esperare",
+      "url": "https://open.spotify.com/track/6LDrO6oVhyL64YUcWCRJkV"
+    },
+    {
+      "album": {
         "name": "ESTILAZO",
         "url": "https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t"
       },
@@ -935,6 +957,24 @@
       "duration_ms": 149000,
       "name": "Gastar",
       "url": "https://open.spotify.com/track/7jZGELQvY3aZKaCIQVqwSY"
+    },
+    {
+      "album": {
+        "name": "Guaracha En Reggaetonlandia",
+        "url": "https://open.spotify.com/album/2c1dWyAgvufd10liQGhbUf"
+      },
+      "artists": [
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146313,
+      "name": "Guaracha En Reggaetonlandia",
+      "url": "https://open.spotify.com/track/1LwzyjKxQiUwfBWpuwlapN"
     },
     {
       "album": {
@@ -1658,6 +1698,24 @@
     },
     {
       "album": {
+        "name": "Moscow Mule",
+        "url": "https://open.spotify.com/album/3g5VOOKq0MlHzhs39zdI0P"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Moscow Mule",
+      "url": "https://open.spotify.com/track/3Za28xaZwFMCyY0h7D6SMN"
+    },
+    {
+      "album": {
         "name": "Muy Bien",
         "url": "https://open.spotify.com/album/0YBsUl0SvyfhMBJMg1EGDc"
       },
@@ -2068,6 +2126,28 @@
     },
     {
       "album": {
+        "name": "Potente",
+        "url": "https://open.spotify.com/album/3mMGZiXwqikBAkY3VXVy0Y"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Andrew Mathers",
+          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160650,
+      "name": "Potente",
+      "url": "https://open.spotify.com/track/4MvCdK15VGFvmAYqG4PcQ8"
+    },
+    {
+      "album": {
         "name": "Provenza",
         "url": "https://open.spotify.com/album/3KJslj1QLLn1VO6QZPcSie"
       },
@@ -2302,6 +2382,28 @@
     },
     {
       "album": {
+        "name": "Se Va",
+        "url": "https://open.spotify.com/album/5KlTXz9q18qHaH9uOEIO6S"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196750,
+      "name": "Se Va",
+      "url": "https://open.spotify.com/track/6KSrK117BG0DfCdnKAnf1l"
+    },
+    {
+      "album": {
         "name": "Shake the World",
         "url": "https://open.spotify.com/album/5bhPk7dxUXgGGwCkwYHQa1"
       },
@@ -2365,7 +2467,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 214222,
       "name": "Siempre Happy",
       "url": "https://open.spotify.com/track/3aGf3ECy05mRNhthHjqlif"
@@ -2831,6 +2933,24 @@
       "duration_ms": 178548,
       "name": "Vazilando",
       "url": "https://open.spotify.com/track/17Ci0qxBOeEQMadwb9qYNt"
+    },
+    {
+      "album": {
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303626,
+      "name": "Viaje",
+      "url": "https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw"
     },
     {
       "album": {

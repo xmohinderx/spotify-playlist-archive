@@ -1,13 +1,37 @@
 {
   "description": "Check your vibe with Epic Records.",
-  "num_followers": 7804,
+  "num_followers": 7806,
   "original_name": "EPIC VIBES",
   "owner": {
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MTk2MCxlOWE4ZWQyZWRjYzE3OWU5YzVjMWRiYmVkNDY4ZGY2MDg5ZDBiMmRl",
+  "snapshot_id": "MTk2Niw0YzkzZThmM2ExNjYwMTU0MWI4YjMyZDhhMmI2NWRiYTMwNTRkMmRl",
   "tracks": [
+    {
+      "added_at": "2022-10-28 14:48:36",
+      "album": {
+        "name": "SIMPLY THE BEST",
+        "url": "https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 236190,
+      "name": "SIMPLY THE BEST",
+      "url": "https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C"
+    },
     {
       "added_at": "2022-10-07 14:20:01",
       "album": {
@@ -501,22 +525,6 @@
       "url": "https://open.spotify.com/track/3KanRQJTuX9hTRG2rnscYO"
     },
     {
-      "added_at": "2022-09-23 14:25:56",
-      "album": {
-        "name": "Time (From the Motion Picture \"Amsterdam\")",
-        "url": "https://open.spotify.com/album/3VDUN8potNxTgF520R642l"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 222199,
-      "name": "Time - From the Motion Picture \"Amsterdam\"",
-      "url": "https://open.spotify.com/track/7nV3HScm7VfvyGdN5u6GNS"
-    },
-    {
       "added_at": "2022-06-24 13:42:44",
       "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
@@ -535,22 +543,6 @@
       "duration_ms": 213283,
       "name": "Bad For Me (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
-    },
-    {
-      "added_at": "2022-08-05 04:46:49",
-      "album": {
-        "name": "Guitars and Drugs",
-        "url": "https://open.spotify.com/album/1HTGmS5myekLKaz6nxls7V"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 192134,
-      "name": "Guitars and Drugs",
-      "url": "https://open.spotify.com/track/2SAFL0N9Ob8YsHqcINxAlD"
     },
     {
       "added_at": "2022-07-29 14:19:24",
@@ -799,6 +791,26 @@
       "duration_ms": 229601,
       "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix",
       "url": "https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R"
+    },
+    {
+      "added_at": "2022-10-28 14:48:56",
+      "album": {
+        "name": "386 Landlord",
+        "url": "https://open.spotify.com/album/5i2A4Ubx6GGLYMZh4BWhRn"
+      },
+      "artists": [
+        {
+          "name": "Raw Youngin",
+          "url": "https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 104489,
+      "name": "Out Tha Blue (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/3DTqMxUmB5LHOanIdadf1j"
     },
     {
       "added_at": "2022-02-18 15:12:03",

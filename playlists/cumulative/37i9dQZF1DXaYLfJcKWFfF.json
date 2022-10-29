@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X?si=a96SvZ2zRaOYehcx75YnXg\"> Bien</a> ",
+  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9?si=71IZoDndRoWuYhF1DS533w\"> Johnny Drille </a> ",
   "name": "Afro Indie",
   "published_playlist_ids": [
     "2z7lj51FcrlwnyaaEF8RCy"
@@ -215,6 +215,28 @@
       "duration_ms": 121500,
       "name": "Hamna aibu",
       "url": "https://open.spotify.com/track/1wc0SjXzsP5HmcgIJkBbEi"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7qZiuy7KLt5j5BXrs76wo3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137480,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7l0EYGVhGZcuLyphccTcp0"
     },
     {
       "album": {

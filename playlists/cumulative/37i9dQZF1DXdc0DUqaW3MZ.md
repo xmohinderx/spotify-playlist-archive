@@ -4,7 +4,7 @@
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-298 songs - 17 hr 58 min - [published](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
+299 songs - 18 hr 3 min - [published](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Ain't Got Time](https://open.spotify.com/track/7lMFOSEJQiMIyXYaEhqJBT) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Ain't Got Time](https://open.spotify.com/album/7mp9bymNyNtAlbLLVezPMi) | 4:49 | 2021-12-07 | 2022-07-29 |
 | [Alcoholics](https://open.spotify.com/track/4GZEdwnAiQ96UmhiPetw33) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Alcoholics](https://open.spotify.com/album/0J0mRYqZxDuqLsylq1mVuE) | 4:13 | 2021-12-07 | 2022-07-26 |
 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 | 2021-12-07 | 2022-07-29 |
-| [All Mine](https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [All Mine](https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO) | 2:28 | 2021-12-07 |  |
+| [All Mine](https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [All Mine](https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO) | 2:28 | 2021-12-07 | 2022-10-29 |
 | [All the Leaves Are Falling](https://open.spotify.com/track/5klodtfP8ubHr30XuWtZoA) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO), [Molly Sterling](https://open.spotify.com/artist/5XUqgFooJpMOg8CaWml0q3) | [All the Leaves Are Falling](https://open.spotify.com/album/0ieSj735PdL4YaPSv7XxDI) | 4:08 | 2021-12-07 | 2022-04-21 |
 | [All Up To You](https://open.spotify.com/track/3ekJniZIwlux13AXz5ILzR) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [All Up To You](https://open.spotify.com/album/2PEpAb0cmbdF4TAtcHzvOp) | 3:08 | 2021-12-07 | 2022-04-18 |
 | [Alright](https://open.spotify.com/track/6lOgdgJ7fdTmvQuUV3JrEH) | [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Real](https://open.spotify.com/album/5fZ4UkwUPHAgEtSvaKBOmT) | 2:59 | 2022-04-11 | 2022-04-21 |
@@ -291,6 +291,7 @@
 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/5hMI7HEe42DlvgIgKB22RJ) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Deluxe\)](https://open.spotify.com/album/65eRoaoxaoOOzg6zttcy0K) | 3:50 | 2021-12-07 | 2022-07-29 |
 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 3:50 | 2022-06-20 |  |
 | [We Are](https://open.spotify.com/track/6Lxi9O5CWRgjrqvWdbn2lT) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [We Are](https://open.spotify.com/album/1HXbty0Qf4fnZR4l72UqnR) | 4:15 | 2021-12-07 | 2022-10-13 |
+| [We Are](https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [We Are](https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps) | 4:15 | 2022-06-20 |  |
 | [We Could Be](https://open.spotify.com/track/2wHsmDZQvjJ5RWKnPeRw6l) | [Honey Butter](https://open.spotify.com/artist/75RSFQIHY52QAm8m8xZGSt) | [We Could Be](https://open.spotify.com/album/45VXSjH1hUNfP6v6ROjc92) | 3:25 | 2022-04-11 | 2022-04-14 |
 | [We Will Rise](https://open.spotify.com/track/0b5tPH5FEQbLhboKbyxOMJ) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [We Will Rise](https://open.spotify.com/album/1fXAO1H68AvYYtCz9yOjmQ) | 4:13 | 2021-12-07 | 2022-07-06 |
 | [Weigh it](https://open.spotify.com/track/3GIEtUsDd7EWAs5eMXCz0S) | [Jack Wolff](https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI) | [Weigh it](https://open.spotify.com/album/0LOzrvXPPl68tjKzC6qNrT) | 5:25 | 2021-12-07 | 2022-07-21 |

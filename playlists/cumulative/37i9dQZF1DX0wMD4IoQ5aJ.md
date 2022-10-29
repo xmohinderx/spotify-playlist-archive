@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-238 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
+246 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,12 +41,14 @@
 | [blu sparks](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [blu sparks](https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij) | 3:16 | 2022-04-15 | 2022-10-14 |
 | [Blue Demons](https://open.spotify.com/track/3Ilx5ch1nI6ioUw1nqbYpk) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [Blue Demons](https://open.spotify.com/album/0QG1EKrQ4IqQAGvCVG3dFb) | 1:59 | 2022-04-15 | 2022-08-19 |
 | [Blue Gold](https://open.spotify.com/track/2TU4uc1YAQrWV57fJ7TPk4) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Blue Gold](https://open.spotify.com/album/2eRVCECu1ZfOApQApR9opm) | 3:44 | 2022-04-15 |  |
+| [Blue Lagoon](https://open.spotify.com/track/4D2Es54UxjwYiIxVk4wqTm) | [2GO](https://open.spotify.com/artist/4sYcQIGHFdEjSswfZiwPJK) | [Blue Lagoon](https://open.spotify.com/album/28LOep1LS2XmoPH9RRD5U9) | 2:41 | 2022-10-28 |  |
 | [Blue Line](https://open.spotify.com/track/5uy948cCYu7VhN8A6mGTPv) | [Traingazing](https://open.spotify.com/artist/1AosScBBDX1JEAL6vU8ldj) | [Blue Line](https://open.spotify.com/album/02d2XLNUOQ4MGoEVDGKF72) | 3:43 | 2022-04-15 | 2022-10-08 |
 | [Blurred Out](https://open.spotify.com/track/4QgCRg5t83rKvuCTQ11JHj) | [Divulgation](https://open.spotify.com/artist/0OHISbYU0LMw4dMlkGVczm) | [Blurred Out](https://open.spotify.com/album/4cqUGKojyJhyIkunDDqu4A) | 2:28 | 2022-04-15 |  |
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2022-04-15 |  |
 | [Bored of Amsterdam](https://open.spotify.com/track/2yoNkyAIcjMORYpu1S6Vi0) | [ice bather](https://open.spotify.com/artist/74gUv2wBKXAG2Ad1hGJlps) | [Bored of Amsterdam](https://open.spotify.com/album/2ItmmMWBeNdf6aI0hWFTBn) | 2:28 | 2022-04-15 |  |
 | [Bright Red](https://open.spotify.com/track/306wpz1gZioEodOsqyc16i) | [Palos Azules](https://open.spotify.com/artist/4sk8WgXLP5T8ATvv3QuGfw) | [Bright Red](https://open.spotify.com/album/5iCbtIfeGRbmuVLkhd1YnO) | 2:00 | 2022-04-15 |  |
 | [Brothers and Sisters](https://open.spotify.com/track/57dcNEUFoUHdUHm0UgFDa0) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Brothers and Sisters](https://open.spotify.com/album/0IrM6lSeNuc7bygybOM14g) | 2:58 | 2022-04-15 |  |
+| [Burrata](https://open.spotify.com/track/1wsjU5AYe7xxt7SCa2f6G4) | [4TB](https://open.spotify.com/artist/28REDqAxeVHbyo6Q6cwtkF) | [Burrata](https://open.spotify.com/album/7lwCGt3pUCdPhJnxhvOMBp) | 2:39 | 2022-10-28 |  |
 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 | 2022-04-15 |  |
 | [Cap Bénat](https://open.spotify.com/track/0ITR2dYQz1AelssrHTZ0a7) | [Zack & Alex](https://open.spotify.com/artist/5zQXrY8n5KXT1kjmNryojG) | [Cap Bénat](https://open.spotify.com/album/4EmeOCvieivOpPAKj0MhQN) | 3:14 | 2022-09-02 |  |
 | [Cartagena](https://open.spotify.com/track/1x9b72SPoK8jx6aUV6I3bl) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Cartagena](https://open.spotify.com/album/7BtnfmrMiXCwOquM9Anm3h) | 3:36 | 2022-04-15 |  |
@@ -65,6 +67,7 @@
 | [Course Correction](https://open.spotify.com/track/1lZ7KgAXfoybBX2Lxow0Uf) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [Course Correction](https://open.spotify.com/album/2laHbGZd6kNRvEyA5RTfBt) | 3:21 | 2022-06-10 | 2022-09-02 |
 | [Crisp Velvet](https://open.spotify.com/track/4EVeGsLzlWrOB7W2QGUCdM) | [Tigran Boiler](https://open.spotify.com/artist/5LhWWwxDFZzMYZPvt0axJM) | [Crisp Velvet](https://open.spotify.com/album/2pz8Asd0pk4UCtU758mEjy) | 2:33 | 2022-09-23 |  |
 | [Croix Coast](https://open.spotify.com/track/0jcpgo5z47py0nTtl77Hi5) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Croix Coast](https://open.spotify.com/album/6gRyaztUc8C29WRQ4kWwuA) | 3:11 | 2022-09-16 |  |
+| [Crossover](https://open.spotify.com/track/5gOJnRETmSQubVXzbKwJCT) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Crossover](https://open.spotify.com/album/6JkOdjBdCYYlumTYapoXfq) | 3:52 | 2022-10-28 |  |
 | [crusade](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [crusade](https://open.spotify.com/album/2aQzUj8sNTgQN1AV3uETXt) | 2:08 | 2022-04-15 |  |
 | [Cube Seat](https://open.spotify.com/track/2imYOSrNnKm5e3dQXtv3TQ) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Cube Seat](https://open.spotify.com/album/6mcLVjr7SwXhQ7LXn1jOxk) | 3:01 | 2022-09-23 |  |
 | [Culpa](https://open.spotify.com/track/0D8nhgg7DIKd4BUdQnifTX) | [Mateo Moreira](https://open.spotify.com/artist/0dpf4Wx6EBL7xYeVp0czXa) | [Culpa](https://open.spotify.com/album/1TNqQcjinzcKieG7fICjur) | 3:04 | 2022-04-15 | 2022-09-17 |
@@ -134,6 +137,7 @@
 | [KIKAROO](https://open.spotify.com/track/375YSQ8nHPLupqnb7EdTK3) | [2GO](https://open.spotify.com/artist/3H2aSFzZR5u415cYbqijBJ) | [KIKAROO](https://open.spotify.com/album/4TS4nD7m4S25mZhDDFJNXv) | 2:33 | 2022-04-15 |  |
 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 | 2022-04-15 |  |
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2022-04-15 | 2022-09-02 |
+| [Let Me Levitate](https://open.spotify.com/track/7CzNk9SBj1IFssmyFJxNpD) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Let Me Levitate](https://open.spotify.com/album/0nWhjwu0bGFv0FY9QRg26b) | 3:51 | 2022-10-28 |  |
 | [Lost Without You](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Lost Without You](https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D) | 2:34 | 2022-04-15 | 2022-10-08 |
 | [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2022-04-15 | 2022-10-08 |
 | [Magic Island](https://open.spotify.com/track/62yKRARApFEWm5uvSOK0oH) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Magic Island](https://open.spotify.com/album/5mGr8IY17cQFas7lHxxFv2) | 2:17 | 2022-04-15 | 2022-09-23 |
@@ -144,6 +148,7 @@
 | [mellow move](https://open.spotify.com/track/5aGti5R9GRmjkm7pRnOYTZ) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [mellow move](https://open.spotify.com/album/0H3XaTc8o0uCiFU7TBlJda) | 2:59 | 2022-10-14 |  |
 | [Mellow Trouble](https://open.spotify.com/track/4MVCzATZ6mpXsZ1sLz7QYn) | [Sin.Clare](https://open.spotify.com/artist/5TNJ1DPxBNr0rBHWuyeo3w) | [Mellow Trouble](https://open.spotify.com/album/6kZ8F8oIo2Ze1izmthGiuS) | 2:54 | 2022-04-15 |  |
 | [Memorabilia](https://open.spotify.com/track/1JlnKS9CRXwCJWemv0T1qY) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Somersault](https://open.spotify.com/album/6Z8ui5WDN0XbsgJhr9y0f5) | 3:07 | 2022-04-15 |  |
+| [Memory](https://open.spotify.com/track/2ik8P3FGPzYFKEpb9nv1CC) | [nan V](https://open.spotify.com/artist/6X00WOYkbeRyP5sZAEDKld) | [Memory](https://open.spotify.com/album/2t79KL2RwveaQQrbVnmpYV) | 2:00 | 2022-10-28 |  |
 | [Mezzo](https://open.spotify.com/track/2z0zuTLKS7bkvl1cxSUxrU) | [SYRUP 8](https://open.spotify.com/artist/0aX0BN6vN7uTXR3EvutDHT) | [Mezzo](https://open.spotify.com/album/5FzZIFRaHxs2mjod8a8zsD) | 3:02 | 2022-04-15 |  |
 | [mirage](https://open.spotify.com/track/56Am5PWznL2ea3NGzyUvLy) | [sir bennett](https://open.spotify.com/artist/2BmSS7TcHQpZ4yYUg2ooXL) | [mirage](https://open.spotify.com/album/5iglYs8AJ0MVpnfCQTVfPd) | 2:44 | 2022-04-15 |  |
 | [Miss U](https://open.spotify.com/track/4bLjS9vd86lvIddRDQZnSw) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Miss U](https://open.spotify.com/album/4dDBVWAKOmOd5CY52Nw7Ad) | 3:07 | 2022-10-07 |  |
@@ -185,6 +190,7 @@
 | [Rhodos 02 \- Remix](https://open.spotify.com/track/1sgHOElq9SxmhJGo0PK34Y) | [Hankerman](https://open.spotify.com/artist/1GlhYXeeRZBtr3peDzzg0F) | [Rhodos 02 \- Remix](https://open.spotify.com/album/1gCjhYqfKeTixgcN2zQrK7) | 2:46 | 2022-04-15 | 2022-09-02 |
 | [Right Days](https://open.spotify.com/track/33LCCushOR1xZnjwlQqpqp) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Right Days](https://open.spotify.com/album/5ze159FKhoZpJZ3VZy9H3E) | 3:33 | 2022-04-15 | 2022-08-19 |
 | [Rolling Waves](https://open.spotify.com/track/04lYylciCngy12eu6fvRtY) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Rolling Waves](https://open.spotify.com/album/06wNwawAlHk2tglBJkeCID) | 2:53 | 2022-05-10 |  |
+| [Rooftop Prelude](https://open.spotify.com/track/5ghSf2DY96iGYoB4vQePpE) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Rooftop Prelude](https://open.spotify.com/album/04mVbv0JlznRDcTBneKQQw) | 3:00 | 2022-10-28 |  |
 | [Saint Tropez](https://open.spotify.com/track/4JO8HC0O0wJAjjiC01OISb) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Saint Tropez](https://open.spotify.com/album/3zvW548gu7s9f5k2fndTej) | 2:35 | 2022-04-15 | 2022-09-02 |
 | [Salt Water Taffy](https://open.spotify.com/track/7qja5koXB0YyXvP0lDLia6) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Salt Water Taffy](https://open.spotify.com/album/0Or7Az6koTg3dizh2hbNrU) | 3:08 | 2022-04-15 |  |
 | [Salty Sip](https://open.spotify.com/track/4H8pnRgT43YnCHZpfMgMRI) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [Salty Sip](https://open.spotify.com/album/2YzQUnhkZ0gHllxXU5saQL) | 3:36 | 2022-04-15 |  |
@@ -227,6 +233,7 @@
 | [tanlines](https://open.spotify.com/track/1q3rZdIOgKe4LQPpcBqiyo) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [tanlines](https://open.spotify.com/album/3eD0id4j2SrYRn9VeX5nkm) | 3:00 | 2022-04-15 |  |
 | [Tekapo \- Edit](https://open.spotify.com/track/7nvTywXHEfa4Kb6W9cUhqJ) | [Walter Woods](https://open.spotify.com/artist/1k1WrqbhNylomjfqZ0lq4D) | [Tekapo \(Edit\)](https://open.spotify.com/album/4M8lta7iSWNHxh7eHMpY8Y) | 2:28 | 2022-04-15 | 2022-06-10 |
 | [Telescope](https://open.spotify.com/track/3daZM9Bj2Xh9oylPvXq2Ow) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [Telescope](https://open.spotify.com/album/17L1SqxSVbUQKyxZKVFbKt) | 2:46 | 2022-09-16 |  |
+| [Terrazza](https://open.spotify.com/track/1Is0j2BZ6EmFJPuK6kp9NA) | [Desert Island](https://open.spotify.com/artist/4cZz3W4ndwH5QAu08GHxcI) | [Terrazza](https://open.spotify.com/album/4lMVgCbCqqoZSHbAy09zZx) | 3:57 | 2022-10-28 |  |
 | [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2022-04-15 | 2022-09-02 |
 | [The Lost Ancient Charm](https://open.spotify.com/track/1fOVxx0XtG0mZSN3rQ3Izu) | [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ), [Arentis](https://open.spotify.com/artist/3eAXDhAvVI3bE9ogPMNdnl) | [The Lost Ancient Charm](https://open.spotify.com/album/7zZOPlIYYKuSMEYJKlQo5G) | 3:11 | 2022-10-14 |  |
 | [Traffic Lights](https://open.spotify.com/track/3MdKptGeHema5frxISyDAW) | [Slow Ted](https://open.spotify.com/artist/7gU4zqbpqWECGMnox5c9G8) | [Traffic Lights](https://open.spotify.com/album/49axagqRBNCqzBaGCMlmIG) | 3:09 | 2022-06-24 |  |
@@ -237,6 +244,7 @@
 | [Vana](https://open.spotify.com/track/1X1teXcaWQFH4iOTkCOh9a) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vana / Ocea](https://open.spotify.com/album/1hOFPN4SzceP1DJD5LTEmU) | 4:20 | 2022-10-07 |  |
 | [Vapor](https://open.spotify.com/track/2Mt60ByiUEt1CEoMG6vdTo) | [Triomphe](https://open.spotify.com/artist/3hoXsvr32pFGEiJvju63jQ) | [Vapor](https://open.spotify.com/album/6qT52SHbsLLy9PmaLvNFOr) | 2:06 | 2022-09-02 |  |
 | [Varuna](https://open.spotify.com/track/3jxl6mTtkQwGCgzKleyYC5) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Varuna / UP2U](https://open.spotify.com/album/6Sq4QBMeCu2DrYOW6gRFqO) | 5:14 | 2022-10-07 |  |
+| [velvet](https://open.spotify.com/track/4OHBaKg7bfK7WebPndG6N5) | [PANZAR](https://open.spotify.com/artist/4wlzlofouyl4SNGj8RGriA) | [velvet](https://open.spotify.com/album/1VICKEDFGvcVjGHT3WXA6W) | 2:26 | 2022-10-28 |  |
 | [Vibe Ticket](https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [Vibe Ticket](https://open.spotify.com/album/4OiZscgHocT90MiWy61bGQ) | 3:13 | 2022-04-15 |  |
 | [Vienna](https://open.spotify.com/track/4Yi1GkoCzBpOLY0vJWFyI6) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Vienna](https://open.spotify.com/album/0yvjAGN26SS2v1GeCiySAu) | 2:51 | 2022-06-17 |  |
 | [Walk me home](https://open.spotify.com/track/1BuqwQuyQKhvxa5X3iDkec) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Walk me home](https://open.spotify.com/album/1nn4r3h755kRkcKSrWvw4X) | 2:45 | 2022-05-20 | 2022-07-01 |

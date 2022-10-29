@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-122 songs - 6 hr 23 min - not published yet
+123 songs - 6 hr 26 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [About Me](https://open.spotify.com/track/3OgRWuUOktuBGTING1oPld) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About Me](https://open.spotify.com/album/3c1nWchd1tZcxdaamK3Q7D) | 2:34 | 2022-06-23 |  |
 | [All Access](https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [All Access](https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4) | 2:41 | 2022-10-05 |  |
 | [Alone](https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 3:34 | 2022-05-19 |  |
+| [Annabelle's Tea Party](https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Annabelle's Tea Party](https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24) | 3:08 | 2022-10-28 |  |
 | [Artificial Love](https://open.spotify.com/track/2f0rA5PoORaLqHd6OghZsC) | [Part Native](https://open.spotify.com/artist/31Fhago9BJoUASlISFmieX), [Oly](https://open.spotify.com/artist/46schiPKx3WhuYpa4XykpL) | [Artificial Love](https://open.spotify.com/album/00otmxypSxSWekoqUJwh1D) | 3:21 | 2022-10-13 |  |
 | [Away](https://open.spotify.com/track/43yExGeOSTvdXzq3GJpeVS) | [James Roche](https://open.spotify.com/artist/4b2kEE2HzyOwcP1rVNBJPT) | [Away](https://open.spotify.com/album/53RQT1BteGO1olm1EZLSUX) | 3:25 | 2022-05-03 |  |
 | [Away From Me](https://open.spotify.com/track/0hmILZ2aTCcntfX9Hde96T) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [ESAI](https://open.spotify.com/artist/1mv8s2gObjHHdnlSGVW1pE) | [Away From Me](https://open.spotify.com/album/6TK2A3juCejutugbkArptL) | 3:02 | 2022-06-10 |  |
@@ -21,7 +22,7 @@
 | [Believe Me](https://open.spotify.com/track/1RtI5pMsCPuxoMzsk9etiE) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [JAMZ](https://open.spotify.com/artist/7kYh4aJ1wzORt9hqML1IWZ), [SIMONNE](https://open.spotify.com/artist/290WOVLmzJRsj8KJjDIEtD) | [Believe Me](https://open.spotify.com/album/78EOsgCPheBmkCwXtA1nbt) | 3:16 | 2022-08-04 |  |
 | [Blame It On Me](https://open.spotify.com/track/4v7GciNsOxRYSgkEsaFjn7) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Blame It On Me](https://open.spotify.com/album/7iJ9URmWTk2Yy6DG941ZY5) | 2:53 | 2022-09-01 |  |
 | [Blind Heart](https://open.spotify.com/track/13JoRkSnyap5xLLgJOZ6Dg) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [ETikka](https://open.spotify.com/artist/1t7Nxks2dmfdKs8glkgDqt) | [Blind Heart](https://open.spotify.com/album/4NL1J5S9Eucz3GEY0Tr9o1) | 2:25 | 2022-09-28 |  |
-| [Bloodpressure](https://open.spotify.com/track/5RzDuOcYIKS4HiBoso8MJB) | [Rogers & Dean](https://open.spotify.com/artist/1y2QNK5amkPuPSbqhrWQru), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Bloodpressure](https://open.spotify.com/album/6E9DuYd6nqtww0XbR5L4AM) | 3:28 | 2022-10-14 | 2022-10-16 |
+| [Bloodpressure](https://open.spotify.com/track/5RzDuOcYIKS4HiBoso8MJB) | [Rogers & Dean](https://open.spotify.com/artist/1y2QNK5amkPuPSbqhrWQru), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Bloodpressure](https://open.spotify.com/album/6E9DuYd6nqtww0XbR5L4AM) | 3:28 | 2022-10-14 |  |
 | [Bot Fight](https://open.spotify.com/track/29g0FD7lk8B3Qj2VXKihLt) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Bot Fight](https://open.spotify.com/album/03XCiMYaPTpQs5ntaHG3Hg) | 4:35 | 2022-08-05 |  |
 | [BOUNCE!](https://open.spotify.com/track/0tDQdGzAuoz7H21SYlAyCj) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm) | [BOUNCE!](https://open.spotify.com/album/2W9hlXiWGgzaeZ3N6LavPE) | 2:30 | 2022-06-17 |  |
 | [Bring Me The Light \- Rob Gasser Remix](https://open.spotify.com/track/5i2aGKutUx2keiTqQXAm8j) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Bring Me The Light \(Rob Gasser Remix\)](https://open.spotify.com/album/30gpaJcuO1M6izxV6osZvG) | 4:11 | 2022-03-31 |  |

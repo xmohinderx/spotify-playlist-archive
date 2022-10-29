@@ -4,7 +4,7 @@
 
 > A celebration of Norway's dance scene!
 
-103 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/0oYpih27l6uvR8J5p8UEIk)
+104 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/0oYpih27l6uvR8J5p8UEIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Impossible](https://open.spotify.com/track/4n8wv8NZB3HgMXYzszEDWm) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Impossible](https://open.spotify.com/album/7nVorCP3wTcYLnvJHtURKX) | 6:27 | 2022-06-02 |  |
 | [Inspector Norse](https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp) | 6:40 | 2022-09-01 |  |
 | [Inspector Norse](https://open.spotify.com/track/2pucDx5Wyz9uHCou4wntHa) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/68zh8sbZPMeJb7GnqomRJS) | 6:40 | 2022-06-02 | 2022-10-13 |
+| [Italian Stallion](https://open.spotify.com/track/3o7AUvN9hTo5TRUrrW0HYV) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [Eurodans](https://open.spotify.com/album/3lc2aq9bjw8sEHepfcQ7U5) | 6:27 | 2022-10-27 |  |
 | [Italian Stallion](https://open.spotify.com/track/6SQiiwKY6DwT0jcwpejmcn) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [Eurodans](https://open.spotify.com/album/27Pe6yBUgKYYXILiT7Cj5u) | 6:27 | 2022-06-02 | 2022-10-13 |
 | [Joh\. Piz\. \- Bjørn Torske i Sirkel Remiks](https://open.spotify.com/track/3GS9KwVfFeuP9BBStGIxXN) | [Pandreas](https://open.spotify.com/artist/3tHu10HucEkoPXS4093ImP), [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Joh\. Piz\. \(Bjørn Torske i Sirkel Remiks\)](https://open.spotify.com/album/2AJNUR5w2HN3qIuC9BwOgk) | 9:30 | 2022-06-02 | 2022-07-25 |
 | [Just Wanted To Know](https://open.spotify.com/track/7kYgRZwVlq9a3lvHGHunrb) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Just Wanted To Know](https://open.spotify.com/album/317kaEvPQsOSktJiZfG6mw) | 4:12 | 2022-10-20 |  |
@@ -68,7 +69,7 @@
 | [Maskindans \- Radio Edit](https://open.spotify.com/track/4ln5gGLJie7NiRwR11RMMc) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw), [Det Gylne Triangel](https://open.spotify.com/artist/1jGwKlVoMvOShtje9ipVAR) | [Maskindans](https://open.spotify.com/album/7zUntiGDtGZiwZT1gs1JdD) | 3:34 | 2022-06-02 | 2022-10-13 |
 | [Moon Jocks n Prog Rocks](https://open.spotify.com/track/190sUkgX3sm1co7Qkd7SBX) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [Moon Jocks n Prog Rocks](https://open.spotify.com/album/1mAPYemEY9Bb5K3L0T0nT6) | 13:33 | 2022-07-28 |  |
 | [Moon Jocks n Prog Rocks](https://open.spotify.com/track/4K3yHlxUKbaSJG8a0oq1jy) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [Moon Jocks n Prog Rocks](https://open.spotify.com/album/3NnwznPu0g0NBbua3tDkBj) | 13:33 | 2022-06-02 | 2022-07-29 |
-| [Moonie](https://open.spotify.com/track/1sd3ZoOJUUmgnGM6FRnzeh) | [Melkeveien](https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8) | [Moonie](https://open.spotify.com/album/5AGH3AW6WZ5faWkogVv4Sk) | 6:08 | 2022-06-02 |  |
+| [Moonie](https://open.spotify.com/track/1sd3ZoOJUUmgnGM6FRnzeh) | [Melkeveien](https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8) | [Moonie](https://open.spotify.com/album/5AGH3AW6WZ5faWkogVv4Sk) | 6:08 | 2022-06-02 | 2022-10-29 |
 | [Motown](https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61), [Tracee Meyn](https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly) | [Motown](https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l) | 6:28 | 2022-06-02 |  |
 | [Nitten Nitti \(Harvey's Not Normal Mix\)](https://open.spotify.com/track/52J9ryxIHPcNDy6hgJDLOC) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Oppkok](https://open.spotify.com/album/5Xc6x9djXES2YS1j3515j7) | 5:03 | 2022-06-02 | 2022-07-29 |
 | [Nitten Nitti \- Harvey's Not Normal Mix](https://open.spotify.com/track/0pQ56PL4N5p5yl6L1vluwr) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Oppkok](https://open.spotify.com/album/1Ez5JV6xCESNKfZlyGYLfR) | 5:03 | 2022-07-28 |  |

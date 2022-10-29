@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > "prendete il mio cuore e lanciatelo sulle stelle" ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,682 likes - 82 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,764 likes - 82 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

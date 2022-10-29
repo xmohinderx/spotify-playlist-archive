@@ -2,7 +2,7 @@
 
 ### [Women of Folk](https://open.spotify.com/playlist/37i9dQZF1DWSIcimvN18p3)
 
-> Celebrating Plains’ new album ‘I Walked With You A Ways.’
+> Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Plains
 
 355 songs - 21 hr 42 min - [published](https://open.spotify.com/playlist/189GjBlA83HumNay4qpApT)
 

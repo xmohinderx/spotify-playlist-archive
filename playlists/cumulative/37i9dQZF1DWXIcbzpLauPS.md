@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> This is the new Core at its finest\. Cover: Parkway Drive
+> This is the new Core at its finest\. Cover: The Devil Wears Prada
 
-589 songs - 1 day 13 hr 7 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+590 songs - 1 day 13 hr 16 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Overthrown](https://open.spotify.com/track/6PR8h4YuG6DmBlE7MEalYD) | [Balance Breach](https://open.spotify.com/artist/2sy77oZSFj4hGs76OQIsgK) | [Overthrown](https://open.spotify.com/album/3Ra4pbA7pf3fM4kZlyG8tx) | 3:38 | 2021-12-17 | 2022-03-18 |
 | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/track/4KyPlGyV6lfxOPHfBQpPZm) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/album/2HRhcuqmyel4Zn92eeE3Cg) | 5:52 | 2022-09-16 |  |
 | [Pain Remains II: After All I've Done, I'll Disappear](https://open.spotify.com/track/3CLV93SK84UzGD5EHm3vsT) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains II: After All I've Done, I'll Disappear](https://open.spotify.com/album/7s8v300WVzKUhsATpx692e) | 5:36 | 2022-09-30 |  |
+| [Pain Remains III: In a Sea of Fire](https://open.spotify.com/track/6wgKN7mUq1CvQBnQKzjeKt) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains](https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI) | 9:12 | 2022-10-28 |  |
 | [Pale Tongue](https://open.spotify.com/track/0gZ3mkOOapnWMkmwefrDzc) | [The Oklahoma Kid](https://open.spotify.com/artist/02Y9YvfIFsX1nG4qPuBbW6) | [Pale Tongue](https://open.spotify.com/album/6pgxhNnusTdUnOOuhiJKEK) | 3:36 | 2021-12-17 | 2022-03-18 |
 | [Pandora](https://open.spotify.com/track/4d9LsaHESzctVq4PcfZh24) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Pandora](https://open.spotify.com/album/2OiGgonTvEC5CHNZg5R0xW) | 4:36 | 2022-07-13 | 2022-07-23 |
 | [Paradigm](https://open.spotify.com/track/5dEyjGoDvm4anASD9kAXEZ) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [Hell Will Come for Us All](https://open.spotify.com/album/5u6SV78mDidg0AKa7u3M70) | 3:56 | 2022-07-13 | 2022-07-15 |
@@ -483,7 +484,7 @@
 | [Suffocate](https://open.spotify.com/track/7aIKpaMchQAKcNv7W8GQhv) | [Execution Day](https://open.spotify.com/artist/3f3CYDS0i8Z0Egxp9gwD1Z) | [Suffocate](https://open.spotify.com/album/6KXqyVNZsxl7NwgQVvtZ4C) | 3:47 | 2022-05-13 |  |
 | [Suffocate](https://open.spotify.com/track/530wk2tz33m2Rrsp7pdBB7) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Suffocate](https://open.spotify.com/album/0uZVH3RsHVBgSkvURev7D0) | 3:18 | 2022-02-16 | 2022-05-14 |
 | [Summertown](https://open.spotify.com/track/5M0jC2erbDuwYEM6PgiQ3I) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU), [Breakdown Bros](https://open.spotify.com/artist/7noSWnLC2cNbtgKXmUrvLc) | [Summertown](https://open.spotify.com/album/40iNTLmwIhwkEYRtsUNlJC) | 3:43 | 2022-07-08 | 2022-09-03 |
-| [Sunchaser](https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H) | [The Wise Man's Fear](https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44) | [Sunchaser](https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl) | 3:29 | 2022-07-01 |  |
+| [Sunchaser](https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H) | [The Wise Man's Fear](https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44) | [Sunchaser](https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl) | 3:29 | 2022-07-01 | 2022-10-29 |
 | [Sungazer](https://open.spotify.com/track/0egKxL1kN2yev9AVKMFkTj) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Sungazer](https://open.spotify.com/album/69ccl1EvGtY99liaJBlzDT) | 4:36 | 2022-07-13 | 2022-07-23 |
 | [Superstitious Fantasy](https://open.spotify.com/track/5DzC00rFiucpFlTnZZ9yxe) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Superstitious Fantasy](https://open.spotify.com/album/2gRdFKe4ZKnGzhCfLGT69z) | 3:46 | 2022-04-15 | 2022-05-06 |
 | [Surrender](https://open.spotify.com/track/4YW8jIwpuIqYvNEOiqxAb5) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven in Hiding](https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ) | 3:41 | 2021-12-17 | 2022-07-23 |

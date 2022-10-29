@@ -4,7 +4,7 @@
 
 > Jungle is still massive
 
-99 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/5ESlyfMOh8TLILYBOWB5nc)
+104 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/5ESlyfMOh8TLILYBOWB5nc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,10 +67,13 @@
 | [Loss of Self Identity](https://open.spotify.com/track/7zGShSMY05c9ucLtiun4AH) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Loss of Self Identity](https://open.spotify.com/album/5w7nuh8RyUeOnAlfTnTEpE) | 4:26 | 2022-05-05 |  |
 | [Love Story](https://open.spotify.com/track/7wqAYstdhctvvKjzbCZimh) | [Proxy](https://open.spotify.com/artist/3KOzW9NF2ZGwYRo0KfID1R), [MAGAWK](https://open.spotify.com/artist/3toGjEtVAIq4eVOMelgT4H) | [Love Story](https://open.spotify.com/album/5i55GtygMGJveA384RBl4S) | 4:38 | 2022-05-05 |  |
 | [Maxim](https://open.spotify.com/track/2u30LHLeAlYl2vXyfwExPs) | [Need For Mirrors](https://open.spotify.com/artist/0bR5osQX9Kn0wmtUPQQhze) | [Mutiny](https://open.spotify.com/album/0r61t5Zlkv4qNYTfMvvQE0) | 4:55 | 2022-05-05 |  |
+| [Meltdown](https://open.spotify.com/track/6XYNZEAwBuAlfT3uXLRyST) | [Scout](https://open.spotify.com/artist/3etLA4Y9THE0KfmbunVrAg) | [Meltdown](https://open.spotify.com/album/09KfGWahS1Yv3FpOCSSJ6c) | 5:00 | 2022-10-28 |  |
 | [Momofuku](https://open.spotify.com/track/1Ple5T9u981z3BErGUxBxV) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Momofuku](https://open.spotify.com/album/10XaG82hlhYBT9EcxSiuMF) | 4:50 | 2022-05-05 |  |
 | [MTX In the RS](https://open.spotify.com/track/6CW2KMV0cptgI8H3rZEUXK) | [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [MTX In the RS](https://open.spotify.com/album/0GoMvmVdmE2kDsDeX9Ky2V) | 5:30 | 2022-05-05 |  |
 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 | 2022-05-05 |  |
+| [No Fuss](https://open.spotify.com/track/20Nr0RVqOItWBLR1Th9ywW) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [No Fuss](https://open.spotify.com/album/2pxQhQekFJ4SWiA2BEYAEI) | 4:28 | 2022-10-28 |  |
 | [Off the Lorry](https://open.spotify.com/track/0P4iPgEIEDX75wUOXd9qtE) | [Bailey Ibbs](https://open.spotify.com/artist/4eD3dYFqa3RmNZlAlVHFjO) | [Helter Skelter](https://open.spotify.com/album/7yObjiXbEUKeOSL8N2XqOr) | 4:48 | 2022-05-05 |  |
+| [Pianos Raining Down](https://open.spotify.com/track/5SaVTrUTi3uKLfoaKlrGCx) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ), [McDonald & Jannetta](https://open.spotify.com/artist/2Ppde9KaDEpnZuaEAlELO3) | [Pianos Raining Down](https://open.spotify.com/album/3dO9tnx39lLoWZCHIWVszf) | 3:35 | 2022-10-28 |  |
 | [Pipe Dream](https://open.spotify.com/track/14n4TsEgQLYIX86qmXrGzi) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Pipe Dream](https://open.spotify.com/album/0ZnClD2OZ8po6XHHDP3gbX) | 5:32 | 2022-05-05 |  |
 | [Poison Dart](https://open.spotify.com/track/0obrmAmV2GVxzIqcSVsvlD) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Poison Dart](https://open.spotify.com/album/4IVVcdv4PghrHBrroHctI1) | 4:29 | 2022-05-05 |  |
 | [Renegade](https://open.spotify.com/track/28S4zWqYnMgVfbEPs9LQRS) | [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [Renegade EP](https://open.spotify.com/album/4IMTeGeaXZjZ0EBwmgg3YV) | 5:00 | 2022-05-05 |  |
@@ -82,6 +85,7 @@
 | [Skrrrrr](https://open.spotify.com/track/43GXTiZjRqGoGlLvddtyRv) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Skrrrrr EP](https://open.spotify.com/album/2bWQF1wLD3GepnShL3oT1c) | 3:55 | 2022-05-05 |  |
 | [So Good](https://open.spotify.com/track/2jbNkB6CIW8vSwZMWknd8g) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [Denham Audio & Friends](https://open.spotify.com/album/42xpRc6lrJwY7yeXyhiOy9) | 5:54 | 2022-05-05 |  |
 | [Spec 4](https://open.spotify.com/track/6VmJO2wXKw5k9AUCEcRTr2) | [Consulate](https://open.spotify.com/artist/5HJQJT85iVXOPiJtQhbAXA) | [Spec 4](https://open.spotify.com/album/52SUPKlhbZuunWcIeHIDNI) | 5:46 | 2022-05-05 |  |
+| [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 | 2022-10-28 |  |
 | [Surfing The Anxiety Waves](https://open.spotify.com/track/7l7E524hBn07XjpRzsMWT1) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/6OLU1sIlbexb3zoViljR8y) | 4:03 | 2022-05-05 |  |
 | [Swift](https://open.spotify.com/track/5zalkQp8ZAe4y1goA95S9X) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N) | [Swift](https://open.spotify.com/album/70mlx5ec76uiUILSH8LCi6) | 6:41 | 2022-05-05 |  |
 | [Take A Dive](https://open.spotify.com/track/33Xjtd40xRKB5bRJ3lN3ZG) | [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J), [Kasra](https://open.spotify.com/artist/3W1ubrHvNSMltB1l7zo6xt), [T Man](https://open.spotify.com/artist/0lk1aQxaMzPdXuRTOrGAra) | [Take A Dive](https://open.spotify.com/album/3f27MQPsVfiDLnyKsqXd9S) | 4:34 | 2022-05-05 |  |
@@ -102,6 +106,7 @@
 | [Verstat](https://open.spotify.com/track/6v5BD1SW6UZHpDA5pgFFCs) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Verstat](https://open.spotify.com/album/2R0jVeP2IFu3QD9R9ebJ5T) | 5:19 | 2022-05-05 |  |
 | [Vérité](https://open.spotify.com/track/35IlONRZh770GBVlnU1lc9) | [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Vérité](https://open.spotify.com/album/2dJX4pK9GkznEQyYbxocAB) | 5:48 | 2022-05-05 |  |
 | [Walk Out](https://open.spotify.com/track/0EnEmOBiFTQjWDtOlwn2Nb) | [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS), [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Squang Dangs in the Key of Vibes](https://open.spotify.com/album/2bFFV3JJop1X1x0Ri2xsSo) | 4:13 | 2022-05-05 |  |
+| [War Drum Riddim](https://open.spotify.com/track/4oUf1DEdGXozH3gTRJNmFW) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW) | [War Drum Riddim](https://open.spotify.com/album/19bUNg6Fc8OLF9ZTfwVtXZ) | 3:18 | 2022-10-28 |  |
 | [What Is Jungle](https://open.spotify.com/track/5cilLV9owJSyEAqmYpEKyK) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ), [Phoebe White](https://open.spotify.com/artist/7rHWchDwoxRpe1C2dyEWO2) | [What Is Jungle](https://open.spotify.com/album/3v0R5iUrmnYKxq4vJM9La2) | 3:44 | 2022-05-05 |  |
 | [What We Got](https://open.spotify.com/track/08FeR6y1Vv4tBDK1ztZi0L) | [Instra:mental](https://open.spotify.com/artist/1oSvdOGMjWupD3SJWcJOgg), [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y) | [What We Got / Seren's Theme](https://open.spotify.com/album/3LbvS9E4tFr5dS7LeCPjK1) | 5:00 | 2022-05-05 |  |
 | [Where You At?](https://open.spotify.com/track/0PX1gydsm5GmjQBp1Nbyim) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [Where You At?](https://open.spotify.com/album/7zeN0W0BBkSMkJRES3DKlt) | 5:20 | 2022-05-05 |  |

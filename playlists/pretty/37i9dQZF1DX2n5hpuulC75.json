@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 241782,
+  "num_followers": 241816,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDdmNzM4OGQ3Mjk0MjUzNzM3ZGYxZTA4MTg2NjY5MGYx",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGEzYTMxMWU1ZWE2ZDg5MTE0NjgxZmJmMTcyODcxZjZi",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -111,6 +111,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Edition",
+        "url": "https://open.spotify.com/album/4Ao4KDoCp2AuONTk5XO2F4"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 115000,
+      "name": "Edition",
+      "url": "https://open.spotify.com/track/2E9EabdPii2mjeckhy1dhP"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Besidju",
         "url": "https://open.spotify.com/album/07vja1cbDBcvT9CpJAnf0c"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 107441,
       "name": "Besidju",
       "url": "https://open.spotify.com/track/3nUyfV0XhG8sysUfgEDmdI"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Edition",
-        "url": "https://open.spotify.com/album/4Ao4KDoCp2AuONTk5XO2F4"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 115000,
-      "name": "Edition",
-      "url": "https://open.spotify.com/track/2E9EabdPii2mjeckhy1dhP"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -383,22 +383,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "When U Go",
-        "url": "https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 212724,
-      "name": "When U Go - Edit",
-      "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Vallis Alps",
         "url": "https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 324106,
       "name": "Young",
       "url": "https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "When U Go",
+        "url": "https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 212724,
+      "name": "When U Go - Edit",
+      "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -613,6 +613,22 @@
       "url": "https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS"
     },
     {
+      "added_at": "2019-09-16 15:44:25",
+      "album": {
+        "name": "Baby You Can Free Your Mind",
+        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        }
+      ],
+      "duration_ms": 335180,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
+    },
+    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Surf",
@@ -627,6 +643,22 @@
       "duration_ms": 175412,
       "name": "Surf",
       "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Aisle of Palm",
+        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
+      },
+      "artists": [
+        {
+          "name": "Beshken",
+          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
+        }
+      ],
+      "duration_ms": 218311,
+      "name": "White Gemini",
+      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -647,22 +679,6 @@
     {
       "added_at": "2019-05-24 08:01:00",
       "album": {
-        "name": "Aisle of Palm",
-        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
-      },
-      "artists": [
-        {
-          "name": "Beshken",
-          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
-        }
-      ],
-      "duration_ms": 218311,
-      "name": "White Gemini",
-      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
-    },
-    {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu"
       },
@@ -675,6 +691,22 @@
       "duration_ms": 145208,
       "name": "With You",
       "url": "https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 255214,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -719,18 +751,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+        "name": "Fleur",
+        "url": "https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82"
       },
       "artists": [
         {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        },
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
         }
       ],
-      "duration_ms": 255214,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
+      "duration_ms": 259427,
+      "name": "Fleur",
+      "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -751,42 +787,6 @@
       "duration_ms": 245000,
       "name": "Homegrown - Empty Woods Remix",
       "url": "https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Fleur",
-        "url": "https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        },
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 259427,
-      "name": "Fleur",
-      "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
-    },
-    {
-      "added_at": "2019-09-16 15:44:25",
-      "album": {
-        "name": "Baby You Can Free Your Mind",
-        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
-      },
-      "artists": [
-        {
-          "name": "Mind Bath",
-          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
-        }
-      ],
-      "duration_ms": 335180,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
     },
     {
       "added_at": "2018-12-11 21:12:31",

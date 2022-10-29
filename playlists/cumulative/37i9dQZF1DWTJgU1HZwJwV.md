@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-215 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+220 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Dulces Sueños](https://open.spotify.com/track/0sNwS8yvAm4qiDt5wxMQqJ) | [Lullaby Texture](https://open.spotify.com/artist/1nniTSIKfKilcQ0gdDTsvW) | [Dulces Sueños](https://open.spotify.com/album/0Z0MbM8YTWu2BzoqZymHff) | 2:36 | 2022-06-17 |  |
 | [Dusk](https://open.spotify.com/track/6m5rP71LDIKQcISWQsnGfV) | [Adriana Aloysius](https://open.spotify.com/artist/0ZvNe5w7GVkxqnX5fXb6Ox) | [Dusk](https://open.spotify.com/album/61swwudZPO8pCOBzwrk7z0) | 2:00 | 2022-06-17 |  |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-06-17 |  |
+| [El Sueño De La Muñeca](https://open.spotify.com/track/4DLfSsfLAwl5mrqTg745qT) | [Agustín Barrios Mangoré](https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [El Sueño De La Muñeca](https://open.spotify.com/album/6tfNJGuPKy2jTQFpPhiYZL) | 2:41 | 2022-10-28 |  |
 | [Elegia](https://open.spotify.com/track/72dTSVm9IsZD0eYft7H7XV) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Elegia](https://open.spotify.com/album/5akwFZfzBFG3ISUpHfIju8) | 2:28 | 2022-06-17 |  |
 | [Eminence](https://open.spotify.com/track/1vTdIN54rYOds3Cf1ymCE5) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Eminence](https://open.spotify.com/album/2sm7AYwabkhNkYxx3BkaUV) | 2:45 | 2022-08-05 |  |
 | [En el Bosque](https://open.spotify.com/track/3cNTUgA4X4iMdiOKWNY8RE) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [En el Bosque](https://open.spotify.com/album/7ijqMqYhGpd67PAZ9rlfyw) | 3:29 | 2022-06-17 |  |
@@ -119,6 +120,7 @@
 | [Mind Valleys](https://open.spotify.com/track/3rg9zyTqRc76vDIWC2Jkb0) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX), [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Mind Valleys](https://open.spotify.com/album/1VHtmHga3tiIDviQohWtjS) | 2:34 | 2022-06-24 |  |
 | [Miniatura No.21 \- Errante](https://open.spotify.com/track/4N4mZfdElgywkFTxIpxuJ1) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Miniatura No.21 \- Errante](https://open.spotify.com/album/2fEc0oJa7PQtOiimmZHau1) | 1:38 | 2022-06-17 |  |
 | [Miniatura No.22 \- Luciérnagas](https://open.spotify.com/track/3bep5fkZPBmpmznIf4O5zQ) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Miniatura No.22 \- Luciérnagas](https://open.spotify.com/album/2QeXqjceWP6rlejPPLpAMy) | 2:14 | 2022-06-17 |  |
+| [Miniatura No.24 \- El Triunfo](https://open.spotify.com/track/0eJnHc4TVWuZNEP8JStK3P) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Miniatura No.24 \- El Triunfo](https://open.spotify.com/album/1hP4F6ADryIvGD1OsXaFNo) | 2:00 | 2022-10-28 |  |
 | [Mino Madrid](https://open.spotify.com/track/039lCWzjPxX289MSTfim74) | [Adriana Von](https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO) | [Mino Madrid](https://open.spotify.com/album/2i1BOMeyUaOPrhCYZdHxAU) | 1:48 | 2022-08-05 |  |
 | [Mirage](https://open.spotify.com/track/767vDO0LnaX7lzkK7i0qOG) | [Joseph Sullinger](https://open.spotify.com/artist/6mNAxWgMw0EjVXUNhHpRpM) | [Mirage](https://open.spotify.com/album/4F9QGuVlR08gdhYyJfqdid) | 3:03 | 2022-06-17 |  |
 | [Mises](https://open.spotify.com/track/0xLmO0851Cwyr9aQEjie6v) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Mises](https://open.spotify.com/album/2jMiVD9mNKLi41SWlyspHP) | 2:03 | 2022-06-17 |  |
@@ -145,6 +147,7 @@
 | [Orchard](https://open.spotify.com/track/3udeKOIb6qvbKSYY9bH3Bs) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Orchard](https://open.spotify.com/album/5SUnMSFU8b3FnHmZ5v2NIT) | 2:36 | 2022-06-17 |  |
 | [Origen](https://open.spotify.com/track/2UtJpKi98wfLk6ERrmXpEC) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Origen](https://open.spotify.com/album/7KWJU3ICNaArmjYfM3N7Oq) | 1:47 | 2022-09-02 |  |
 | [Outerinho](https://open.spotify.com/track/07ulGbvQJporStcKaTxnaY) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Pescadores](https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj) | 3:05 | 2022-06-17 |  |
+| [Pas de regrets](https://open.spotify.com/track/5Ko1nyPgelm5DGLt35AvF4) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Pas de regrets](https://open.spotify.com/album/3RIcJZm8cTD2IbxQW007Zc) | 2:46 | 2022-10-28 |  |
 | [Paseo](https://open.spotify.com/track/1AVfqtcAyTCKQNp36mdSk9) | [Oliver Leonardo](https://open.spotify.com/artist/2tn2eGCJFEG139hn8b1UIj) | [Leme](https://open.spotify.com/album/2N7E7yXlRKE3pwFMmspN1z) | 2:43 | 2022-06-17 |  |
 | [passing memories](https://open.spotify.com/track/3AGayCmS2tutGPmmCkNY1k) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [passing memories](https://open.spotify.com/album/2Mxaff7EkFAZtFDu3QtkUs) | 1:58 | 2022-09-09 |  |
 | [Path](https://open.spotify.com/track/1Wz9by58bwMopMC2QPN8Z8) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Chris Embers](https://open.spotify.com/artist/78YcYzYQFoC44mT1rL0dsB) | [Path](https://open.spotify.com/album/0DKq6qtvTHmsJPU1OzyAZK) | 2:36 | 2022-06-17 |  |
@@ -155,6 +158,7 @@
 | [Porto Salvo](https://open.spotify.com/track/09Z2QZNcoyz6hxQPfGSwd4) | [Clotho](https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs) | [Ericeira](https://open.spotify.com/album/32NGueMRUQl0zGowxzQIbG) | 2:54 | 2022-06-17 |  |
 | [Preludio, Op\. 26](https://open.spotify.com/track/7phkF9WGZC8CoPKrQdv24D) | [Ernesto García de León](https://open.spotify.com/artist/7khoscfcFr6vJQCBWxXAEn), [Ricardo Salinas](https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse) | [Preludio, Op\. 26](https://open.spotify.com/album/0qwyKk8uTrRO8Y4DpO4mNp) | 2:54 | 2022-06-17 |  |
 | [Puebla](https://open.spotify.com/track/3Y4U0GPZScSt7hbMRv2sjL) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Puebla](https://open.spotify.com/album/469GshT2XvtLtp85DunWrE) | 3:00 | 2022-06-17 |  |
+| [Put Some Coins In My Guitar Case](https://open.spotify.com/track/1VKSVewoEeEZSWGMmIHqJp) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [Put Some Coins In My Guitar Case](https://open.spotify.com/album/7fmKjvUk9dVpPdaYgSu3TV) | 3:33 | 2022-10-28 |  |
 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 | 2022-06-17 |  |
 | [Recoleta](https://open.spotify.com/track/73zIzfUjH01NR5verF5qLQ) | [Nelson Gomes](https://open.spotify.com/artist/1OSiaLKfv7utlBDRS3Qr31) | [Valsa e Vinho](https://open.spotify.com/album/0LNkP579n9idgfPSrTObSV) | 2:35 | 2022-06-17 |  |
 | [Red Fir](https://open.spotify.com/track/5Wrj84CT8f8eVf2Dr9DfLV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Esperanza](https://open.spotify.com/album/2TcqC96KU39tGmStFfx4AT) | 2:41 | 2022-06-17 |  |
@@ -189,6 +193,7 @@
 | [Sweet Sister](https://open.spotify.com/track/76icnulB17alL2H6B8w7Gq) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Sweet Sister](https://open.spotify.com/album/0hLGvDz6LTn2CBQzVpu36f) | 2:28 | 2022-09-09 |  |
 | [Taller Than Trees](https://open.spotify.com/track/44sLGlyVicqZ8iyyLSzRye) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Taller Than Trees](https://open.spotify.com/album/5KV0i5o9Dzpmgh9YcyTgOT) | 2:31 | 2022-10-07 |  |
 | [Tant va au ciel \- Hommage à Roland Dyens](https://open.spotify.com/track/1kl0K6lC7V8bCFUlNQLNRC) | [Arnaud Dumond](https://open.spotify.com/artist/1BbOqTsLJ2L0VAnT0PVVRL) | [Tant va au ciel \(Hommage à Roland Dyens\)](https://open.spotify.com/album/3tsdk6rAfOfe0WQbC50l7V) | 5:46 | 2022-09-09 |  |
+| [Taormina](https://open.spotify.com/track/4mfOm2VcZyIEf2tKlEehWL) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Taormina](https://open.spotify.com/album/3C5EW6NTVdzuTf1vxRQTwc) | 2:13 | 2022-10-28 |  |
 | [Tarregas Bodega](https://open.spotify.com/track/6mueyqJyIsSTHJBZaR6b2n) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Tarregas Bodega](https://open.spotify.com/album/5GqIcRQ3SxM2UE9jxy02B9) | 1:29 | 2022-07-08 |  |
 | [Tears of an Angel](https://open.spotify.com/track/3n20lU1lPLK86J7AoJ2KMH) | [Kjell Åge Hartveit Karlsen](https://open.spotify.com/artist/00hIkKdGrTzRCMvQ3qirHQ) | [Tears of an Angel](https://open.spotify.com/album/2MMTFk6cmPIrNPw17aLaB2) | 2:56 | 2022-07-29 | 2022-08-05 |
 | [Tears of an Angel](https://open.spotify.com/track/71BUlq3am1Izd2fo4pqTxC) | [Kjell Åge Hartveit Karlsen](https://open.spotify.com/artist/00hIkKdGrTzRCMvQ3qirHQ) | [Tears of an Angel](https://open.spotify.com/album/77j8C5X2LtnRFVdzlCjbIm) | 2:56 | 2022-06-17 | 2022-07-29 |

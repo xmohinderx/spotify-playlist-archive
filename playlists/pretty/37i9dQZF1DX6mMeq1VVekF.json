@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Jim Legxacy",
-  "num_followers": 128300,
+  "num_followers": 128378,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjU1Mjc2MCwwMDAwMDAwMGE5NzYwMjNkNmJiMTZjNjAwZDExZDYwZDcwYjk4MTI3",
+  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMGJkOGMyNjJkYWNiZDkxZjBjYzNmMmMwODYzOGI1M2U4",
   "tracks": [
     {
       "added_at": "2022-10-23 19:19:20",
@@ -346,6 +346,10 @@
         {
           "name": "Smino",
           "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Kal Banx",
+          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
         }
       ],
       "duration_ms": 188658,
@@ -571,18 +575,18 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Back2Roadz",
-        "url": "https://open.spotify.com/album/4h4vZc4NDKHRrlV5AYEgv8"
+        "name": "NO BONNIE N CLYDE",
+        "url": "https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm"
       },
       "artists": [
         {
-          "name": "Moko",
-          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
         }
       ],
-      "duration_ms": 209693,
-      "name": "Back2Roadz",
-      "url": "https://open.spotify.com/track/2ZXoSRvhNk1tAGjBHA66bN"
+      "duration_ms": 133400,
+      "name": "NO BONNIE N CLYDE",
+      "url": "https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -603,34 +607,34 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "NO BONNIE N CLYDE",
-        "url": "https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm"
+        "name": "Back2Roadz",
+        "url": "https://open.spotify.com/album/4h4vZc4NDKHRrlV5AYEgv8"
       },
       "artists": [
         {
-          "name": "KAHUKX",
-          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
         }
       ],
-      "duration_ms": 133400,
-      "name": "NO BONNIE N CLYDE",
-      "url": "https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T"
+      "duration_ms": 209693,
+      "name": "Back2Roadz",
+      "url": "https://open.spotify.com/track/2ZXoSRvhNk1tAGjBHA66bN"
     },
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Eye for an Eye",
-        "url": "https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7"
+        "name": "Happy Ending",
+        "url": "https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL"
       },
       "artists": [
         {
-          "name": "Benny Banks",
-          "url": "https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
         }
       ],
-      "duration_ms": 250434,
-      "name": "Eye for an Eye",
-      "url": "https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk"
+      "duration_ms": 248817,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -651,18 +655,18 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Happy Ending",
-        "url": "https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL"
+        "name": "Eye for an Eye",
+        "url": "https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7"
       },
       "artists": [
         {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+          "name": "Benny Banks",
+          "url": "https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg"
         }
       ],
-      "duration_ms": 248817,
-      "name": "Happy Ending",
-      "url": "https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ"
+      "duration_ms": 250434,
+      "name": "Eye for an Eye",
+      "url": "https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -899,6 +903,22 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
         "name": "blessing me (feat. Kali Uchis) (remix)",
         "url": "https://open.spotify.com/album/645zTMEqAie03KrgBvhJxa"
       },
@@ -923,22 +943,6 @@
       "duration_ms": 156300,
       "name": "blessing me (feat. Kali Uchis) (remix)",
       "url": "https://open.spotify.com/track/2HGSNTGF7iHWe3jDVJFRtN"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -1001,6 +1005,22 @@
       "url": "https://open.spotify.com/track/664xNHBYkCWIkIWXuop9lc"
     },
     {
+      "added_at": "2022-10-29 01:30:37",
+      "album": {
+        "name": "Love is a Lottery",
+        "url": "https://open.spotify.com/album/0BmQyo8T0Oief6QZjsbQfZ"
+      },
+      "artists": [
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 217925,
+      "name": "Love is a Lottery",
+      "url": "https://open.spotify.com/track/2vYBVOigtDiRXbH6TOg6sx"
+    },
+    {
       "added_at": "2022-10-23 19:19:20",
       "album": {
         "name": "Vibe",
@@ -1055,26 +1075,6 @@
       "duration_ms": 188826,
       "name": "Energy (feat. Mahalia)",
       "url": "https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "The Worst Generation",
-        "url": "https://open.spotify.com/album/3eRX6QYuVXL9jux0bCDdFi"
-      },
-      "artists": [
-        {
-          "name": "Che Lingo",
-          "url": "https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "Dark Days",
-      "url": "https://open.spotify.com/track/2CZK0do1yJntY27iBK3PKD"
     }
   ],
   "unique_name": "Free Form",

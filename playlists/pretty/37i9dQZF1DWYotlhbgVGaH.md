@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,904 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,941 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 26 | [Swing Baby!](https://open.spotify.com/track/19ckX4sy4F87WkxwbKcksC) | [Big Rude Jake](https://open.spotify.com/artist/27A12UIlenEiLoCbYk8KaA) | [Blue Pariah](https://open.spotify.com/album/48gnAQBwCcEqxXj9nfsYpS) | 3:22 |
 | 27 | [Swing Sweet Pussycat](https://open.spotify.com/track/5EK0gbkVLrLtOvwXy7PWEW) | [The Atomic Fireballs](https://open.spotify.com/artist/3gv1hh37jyGKfyAjFvv7No) | [Torch This Place](https://open.spotify.com/album/6oGSFYCtrg0UYAPx7j5x1L) | 3:09 |
 | 28 | [Go Daddy O](https://open.spotify.com/track/2q0gGzRNpYMYjXmMFidK0H) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 3:12 |
-| 29 | [Hey Señorita](https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:15 |
-| 30 | [Knockin' At Your Door](https://open.spotify.com/track/7GFHztqce85FfPw6da1q5M) | [The New Morty Show](https://open.spotify.com/artist/7GdpM0f8Vw3eXAp55yZ52r), [Vise Grip](https://open.spotify.com/artist/5vdxG8lIVgeuQAooxpcRPN), [Connie Champagne](https://open.spotify.com/artist/70QwxuyNp0LtvRDWaQoRF1), [David Murotake](https://open.spotify.com/artist/7uzZ3EA96AqNKa37nhSLp0), [David Rubin](https://open.spotify.com/artist/1xWWglzQnxLVVPNGgUgJSa), [John Quam](https://open.spotify.com/artist/6vghKR8UKkp05RwmP8Fg5E), [Tom Beyer](https://open.spotify.com/artist/36PVk81h0GlEbiG3ABwafM), [Tom Griesser](https://open.spotify.com/artist/4MFYRlA6OSe6jWYscM6VSF), [Van Hughes](https://open.spotify.com/artist/76GyeB20CZqIOO1AfXrwV3), [Whitney Wilson](https://open.spotify.com/artist/6OD4sZsyjT7T7PW3ZynaM7) | [Mortyfied!](https://open.spotify.com/album/3xsxAd9Nkl5uBw3qZe0A5e) | 2:49 |
-| 31 | [Simple Things](https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Spread a Little Happiness](https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7) | 2:44 |
+| 29 | [Simple Things](https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Spread a Little Happiness](https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7) | 2:44 |
+| 30 | [Hey Señorita](https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:15 |
+| 31 | [Knockin' At Your Door](https://open.spotify.com/track/7GFHztqce85FfPw6da1q5M) | [The New Morty Show](https://open.spotify.com/artist/7GdpM0f8Vw3eXAp55yZ52r), [Vise Grip](https://open.spotify.com/artist/5vdxG8lIVgeuQAooxpcRPN), [Connie Champagne](https://open.spotify.com/artist/70QwxuyNp0LtvRDWaQoRF1), [David Murotake](https://open.spotify.com/artist/7uzZ3EA96AqNKa37nhSLp0), [David Rubin](https://open.spotify.com/artist/1xWWglzQnxLVVPNGgUgJSa), [John Quam](https://open.spotify.com/artist/6vghKR8UKkp05RwmP8Fg5E), [Tom Beyer](https://open.spotify.com/artist/36PVk81h0GlEbiG3ABwafM), [Tom Griesser](https://open.spotify.com/artist/4MFYRlA6OSe6jWYscM6VSF), [Van Hughes](https://open.spotify.com/artist/76GyeB20CZqIOO1AfXrwV3), [Whitney Wilson](https://open.spotify.com/artist/6OD4sZsyjT7T7PW3ZynaM7) | [Mortyfied!](https://open.spotify.com/album/3xsxAd9Nkl5uBw3qZe0A5e) | 2:49 |
 | 32 | [The Joint is Jumpin'](https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1) | [Ray Gelato](https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3) | [Salutes the Great Entertainers](https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s) | 2:45 |
 | 33 | [Mambo Swing](https://open.spotify.com/track/54B4Cfi9Q4q17tDrs9YFzW) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 5:07 |
 | 34 | [Solid Gold Cadillac](https://open.spotify.com/track/1oztW0EFjpj4WSHEf6Jt0b) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Solid Gold Cadillac](https://open.spotify.com/album/6JfB7Xb4Qk8D2Ioas6TYNO) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 49 | [Long, Lean And Lanky](https://open.spotify.com/track/42hgWC7nkO76AtF3MxU3Qo) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Shakin' The Shack](https://open.spotify.com/album/2oxzv7ABlnhhz98UlePH3a) | 3:04 |
 | 50 | [Sausage Rock](https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I) | [Four Charms](https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs) | [Flatland Boogie](https://open.spotify.com/album/2PzxIMY0LNu6BLbInjjwhV) | 2:28 |
 
-Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMGEyOGVmYTBmZmM0YTQ4ZWIwNmRmNTg0MWIyY2IwNzdm`
+Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMGM2NDQ5NjI5ZDM2ZGUzNWViODVjN2ZhY2Y2NWIyNGRi`

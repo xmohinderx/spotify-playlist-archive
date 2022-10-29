@@ -1342,6 +1342,36 @@
     },
     {
       "album": {
+        "name": "Faz Tempo",
+        "url": "https://open.spotify.com/album/3n6SL169uRnKgHr8hfw9Ih"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        },
+        {
+          "name": "Ago de Souza",
+          "url": "https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209230,
+      "name": "Faz Tempo",
+      "url": "https://open.spotify.com/track/1h377jjzCyoi9v6xv5pyW1"
+    },
+    {
+      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/4ms8gh4HzAV6LLWSfMB6jO"
       },
@@ -1547,7 +1577,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 144578,
       "name": "ISSO \u00c9 S\u00c9RIO",
       "url": "https://open.spotify.com/track/2h5vOzhRN1CLO2rYZ5V3dL"

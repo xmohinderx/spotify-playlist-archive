@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-159 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/1J46WbZ3oHtv4aJLZ1hDCX)
+160 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/1J46WbZ3oHtv4aJLZ1hDCX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Always Room](https://open.spotify.com/track/74nuuKLWKLboj141dT2vBV) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd) | 2:14 | 2021-11-19 |  |
 | [American Dream](https://open.spotify.com/track/0OOIFL8VNFHXRSsci9F2m4) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7) | [American Dream](https://open.spotify.com/album/14MQkr5UdHfFY4IvpMv08p) | 4:52 | 2021-11-19 |  |
 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 | 2021-11-19 |  |
+| [Avalon, My Hometown](https://open.spotify.com/track/0JIRGF8Q3qjw73kCQ83FN6) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Avalon, My Hometown](https://open.spotify.com/album/3V65aoyRCvsL5rv0JoO8IZ) | 4:20 | 2022-10-28 |  |
 | [Aw Jeez](https://open.spotify.com/track/0iBCiqgiu2afgvBhPBBuQv) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Aw Jeez](https://open.spotify.com/album/1C5HxdwvGIMuEgOFDccqYb) | 4:20 | 2022-05-16 |  |
 | [Bees](https://open.spotify.com/track/13otFWMHR8dlJ73XnSEW8y) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V) | 3:10 | 2022-05-16 |  |
 | [Bees](https://open.spotify.com/track/3Iju4sprTb8as0be1A41q6) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/0lzI1rQiTkkWyse0qv4y7C) | 3:10 | 2021-11-19 | 2022-07-29 |

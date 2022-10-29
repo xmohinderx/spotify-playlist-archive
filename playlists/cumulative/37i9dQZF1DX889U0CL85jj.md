@@ -4,7 +4,7 @@
 
 > Just chill.
 
-363 songs - 20 hr 54 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+364 songs - 20 hr 59 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [anywhere](https://open.spotify.com/track/2AuLEJxJsMVjFggVyv80ev) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [souvenir](https://open.spotify.com/album/4cabxBosFk0C7xVD1lVitq) | 3:08 | 2022-04-29 |  |
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2022-08-02 |  |
 | [As if the Sea Should Part \- Adam Dodson x rhubiqs remix](https://open.spotify.com/track/2mLxwzYA4HvOLrlPVY2QUo) | [Jason Keisling](https://open.spotify.com/artist/11BnYiy4JkEXwZUVGBVnRH), [Adam Dodson](https://open.spotify.com/artist/0me95qZRAj797NaS72KUCZ), [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT) | [As if the Sea Should Part \(Adam Dodson x rhubiqs remix\)](https://open.spotify.com/album/0g4l3sXMYPCMFS2HYjDyAY) | 5:00 | 2022-10-13 |  |
-| [As It Was](https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [As It Was](https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl) | 3:10 | 2022-10-08 |  |
+| [As It Was](https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP) | [As It Was](https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl) | 3:10 | 2022-10-08 |  |
 | [Automatic \- Orion Sun Remix](https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Automatic \(Orion Sun Remix\)](https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ) | 2:04 | 2021-06-07 | 2022-01-22 |
 | [Averío De Ti](https://open.spotify.com/track/45PSB45t9c5XcDZ0Abft6X) | [Carolina Sarta](https://open.spotify.com/artist/38Tnki67cV9yqRdfTv1JxF), [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Averío De Ti](https://open.spotify.com/album/3EcmfOJQR9kIQRSbxQQe3v) | 3:12 | 2022-09-02 |  |
 | [Azul](https://open.spotify.com/track/5ft3oLnoWPgrH7xMf5auO7) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Azul](https://open.spotify.com/album/4SQJqQE51LU9pTWX0zC7s6) | 3:06 | 2020-07-31 | 2022-01-22 |
@@ -99,7 +99,8 @@
 | [either side](https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [either side](https://open.spotify.com/album/7EcfkZxkjFLn0FASWQmFkX) | 2:47 | 2021-06-07 | 2022-10-13 |
 | [Every Beginning Ends](https://open.spotify.com/track/1cO3IDkpPFM8hk1l9zG9aL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 2:30 | 2022-10-21 |  |
 | [Every Day Is A Holiday](https://open.spotify.com/track/7vjWe160MXCv2jiyH3EQMH) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Every Day Is A Holiday](https://open.spotify.com/album/2ghvPH9H4tJcFqqzcR4RK3) | 5:53 | 2020-08-10 | 2022-10-08 |
-| [everything's worth it](https://open.spotify.com/track/01N0x8m4P4SUren7NBYxQl) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/5LYJ2vWmQ6FBjlaIZ5yoZl) | 4:35 | 2021-06-07 |  |
+| [everything's worth it](https://open.spotify.com/track/01N0x8m4P4SUren7NBYxQl) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/5LYJ2vWmQ6FBjlaIZ5yoZl) | 4:35 | 2021-06-07 | 2022-10-29 |
+| [everything's worth it](https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 4:35 | 2022-08-19 |  |
 | [Fairweather Friends](https://open.spotify.com/track/3whPP50GNNpbGNkIWMMdeG) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Fairweather Friends](https://open.spotify.com/album/2Bt3szvXc9Ujmw5r7egQl2) | 3:10 | 2022-09-16 | 2022-10-15 |
 | [Fairweather Friends](https://open.spotify.com/track/7uvKESxV5cjsCDfq74rMyQ) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Fairweather Friends](https://open.spotify.com/album/3fZRphJh8kV8HsWEUM3rnv) | 3:10 | 2022-09-16 |  |
 | [Familiar](https://open.spotify.com/track/0cIW3VDH2FOnO3WGQYZ1MZ) | [Belot](https://open.spotify.com/artist/05saREsqgyy8WODHpOIrKK) | [Familiar](https://open.spotify.com/album/2uBZAPxV889fqgWZBjxcjx) | 3:33 | 2020-04-27 | 2022-01-22 |

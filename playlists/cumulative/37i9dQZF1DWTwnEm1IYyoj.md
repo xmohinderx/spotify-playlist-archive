@@ -2,7 +2,7 @@
 
 ### [Soft Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DWTwnEm1IYyoj)
 
-> Listen to easy songs from your favorite artists! Cover: Lady Gaga
+> Listen to easy songs from your favorite artists! Cover: Sia
 
 356 songs - 22 hr 14 min - [published](https://open.spotify.com/playlist/7Bn49z5p4CqoX5mpg2CICH)
 

@@ -1,6 +1,6 @@
 {
   "description": "The official playlist of JTBC Begin Again, which contains the busking live soundtracks of the best musicians in Korea. (\uad6d\ub0b4 \ucd5c\uc815\uc0c1 \ubba4\uc9c0\uc158\ub4e4\uc758 \ubc84\uc2a4\ud0b9 \ub77c\uc774\ube0c \uc74c\uc6d0\ub4e4\uc774 \ub2f4\uae34 JTBC \ube44\uae34\uc5b4\uac8c\uc778\uc758 \uacf5\uc2dd \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\uc785\ub2c8\ub2e4.)",
-  "num_followers": 27086,
+  "num_followers": 27119,
   "original_name": "Begin Again (\ube44\uae34\uc5b4\uac8c\uc778)",
   "owner": {
     "name": "Spotify",
@@ -896,12 +896,20 @@
       },
       "artists": [
         {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
           "name": "\ubc15\uc815\ud604",
           "url": "https://open.spotify.com/artist/5Wi87ZV4pZ5gi5XBPkShX0"
         },
         {
-          "name": "\ud5e8\ub9ac",
-          "url": "https://open.spotify.com/artist/0lZNfUHK4sFzO9aeCCvVcw"
+          "name": "\ud558\ub9bc",
+          "url": "https://open.spotify.com/artist/0iggfisDKuoQUP95u61sXo"
+        },
+        {
+          "name": "\uc784\ud5cc\uc77c",
+          "url": "https://open.spotify.com/artist/5ywKSh5qiIrm603AanHlzO"
         }
       ],
       "duration_ms": 211060,
@@ -968,20 +976,32 @@
       },
       "artists": [
         {
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
           "name": "\ubc15\uc815\ud604",
           "url": "https://open.spotify.com/artist/5Wi87ZV4pZ5gi5XBPkShX0"
         },
         {
-          "name": "\ud5e8\ub9ac",
-          "url": "https://open.spotify.com/artist/0lZNfUHK4sFzO9aeCCvVcw"
+          "name": "\uc774\uc218\ud604",
+          "url": "https://open.spotify.com/artist/1fFhebE0Xp9u5pUKXIh87a"
         },
         {
-          "name": "\uc218\ud604",
-          "url": "https://open.spotify.com/artist/6RR1f03RomUjsgBYqDk70T"
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        },
+        {
+          "name": "\ud558\ub9bc",
+          "url": "https://open.spotify.com/artist/0iggfisDKuoQUP95u61sXo"
+        },
+        {
+          "name": "\uc784\ud5cc\uc77c",
+          "url": "https://open.spotify.com/artist/5ywKSh5qiIrm603AanHlzO"
         }
       ],
       "duration_ms": 151683,
-      "name": "There's Nothing holding me back",
+      "name": "There's Nothing Holdin' Me Back (\ub77c\ubca8\ub85c \ubc84\uc2a4\ud0b9 Ver.)",
       "url": "https://open.spotify.com/track/2emXJZPP0MieQ3TmaL4xUB"
     },
     {
@@ -1044,8 +1064,20 @@
       },
       "artists": [
         {
-          "name": "\ud5e8\ub9ac",
-          "url": "https://open.spotify.com/artist/0lZNfUHK4sFzO9aeCCvVcw"
+          "name": "Henry",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        },
+        {
+          "name": "\ud558\ub9bc",
+          "url": "https://open.spotify.com/artist/0iggfisDKuoQUP95u61sXo"
+        },
+        {
+          "name": "\uc784\ud5cc\uc77c",
+          "url": "https://open.spotify.com/artist/5ywKSh5qiIrm603AanHlzO"
         }
       ],
       "duration_ms": 172131,
@@ -1170,6 +1202,10 @@
         {
           "name": "Paul Kim",
           "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        },
+        {
+          "name": "\uc801\uc7ac",
+          "url": "https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd"
         }
       ],
       "duration_ms": 157654,

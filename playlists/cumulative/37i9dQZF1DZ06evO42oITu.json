@@ -211,10 +211,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 234866,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi"
+    },
+    {
+      "album": {
+        "name": "Forever Man",
+        "url": "https://open.spotify.com/album/1i1OirKFpITQYYWDPEDjx7"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234813,
+      "name": "Change the World - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1o2QE6KUthclwKuEDweROU"
     },
     {
       "album": {
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 441666,
       "name": "River of Tears",
       "url": "https://open.spotify.com/track/6YxSgb19eNWGfJs8rwMkT3"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 139373,
       "name": "Rock And Roll Records",
       "url": "https://open.spotify.com/track/4d4O5xw8aIgj2VAIDizE5I"
@@ -1211,7 +1229,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 397200,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/1bursm5ZnNHQS55a23h7kR"
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"
@@ -1559,7 +1577,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 429520,
       "name": "When My Heart Beats Like a Hammer",
       "url": "https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 184133,
       "name": "Who's Been Talking?",
       "url": "https://open.spotify.com/track/7jLsyfKgqfLkgKfXkhWOMF"

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women from Belgium, at full volume\. Cover: Amelie Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,069 likes - 48 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,068 likes - 48 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In My Mind](https://open.spotify.com/track/5UAtcDuXrfjU2jUtnEtYMZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [In My Mind EP](https://open.spotify.com/album/0VkR9gcSHuF8jbxsc3SCsp) | 6:28 |
 | 2 | [Pills \- Single Version](https://open.spotify.com/track/4neemHWUCgwpgsWKkFhutm) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Persona](https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix) | 2:58 |
 | 3 | [Girls \- Single Edit](https://open.spotify.com/track/2LwNOv9B1vItliaWMctLTV) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Girls](https://open.spotify.com/album/78WCWfiENQYykDoDGNoeJQ) | 3:20 |
-| 4 | [Speed Killer \- Edit](https://open.spotify.com/track/4mt7rp96iPGeplxtHpXtj2) | [Dana Montana](https://open.spotify.com/artist/1PMccQNTT2JedmH7SXMT9z) | [Speed Killer \(Edit\)](https://open.spotify.com/album/6zoS4HQllcIbmb9gSCZHF1) | 2:52 |
+| 4 | [Speed Killer \(feat\. SKEMER\) \- Edit](https://open.spotify.com/track/4mt7rp96iPGeplxtHpXtj2) | [Dana Montana](https://open.spotify.com/artist/1PMccQNTT2JedmH7SXMT9z), [SKEMER](https://open.spotify.com/artist/2QHpQ8U9ycMSo9CVZgJDu1) | [Speed Killer \(feat\. SKEMER\) \[Edit\]](https://open.spotify.com/album/6zoS4HQllcIbmb9gSCZHF1) | 2:52 |
 | 5 | [Universal Consciousness](https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ) | 6:40 |
 | 6 | [Prachtig](https://open.spotify.com/track/0JbG4ivCclTqryviLVpxgX) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [Prachtig](https://open.spotify.com/album/12yfjfp7Q0iGt2v1AKSLkk) | 3:19 |
 | 7 | [Mysterious \- Single Edit](https://open.spotify.com/track/12zNgr6WkXcqBcWbtx1b2c) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [Mysterious](https://open.spotify.com/album/3THwWaHa4FBalAgFjmyo9E) | 3:31 |

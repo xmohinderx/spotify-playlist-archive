@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Techno is a state of mind. Cover: TIBASKO",
+  "description": "Techno is a state of mind. Cover: Anyma",
   "name": "Techno State",
   "published_playlist_ids": [
     "5s19c9YN7LAmpSImXIMXhT"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 494328,
       "name": "Acid Dip",
       "url": "https://open.spotify.com/track/73Wrhs4NIuSXrmY2I2BNFp"
@@ -1064,6 +1064,24 @@
     },
     {
       "album": {
+        "name": "Black Metropolis",
+        "url": "https://open.spotify.com/album/7mxzclKV8bYCqLVbvdthMV"
+      },
+      "artists": [
+        {
+          "name": "Yazzus",
+          "url": "https://open.spotify.com/artist/0KWutsZ75Y4GvjcPTFnKXU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414400,
+      "name": "Human Error Processor",
+      "url": "https://open.spotify.com/track/2pvyBLVixnCOD6yq2mgieZ"
+    },
+    {
+      "album": {
         "name": "Icaro",
         "url": "https://open.spotify.com/album/7i2VZpbn3G67So7TAgfDeJ"
       },
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 336153,
       "name": "If I Die",
       "url": "https://open.spotify.com/track/5xNPAzaDPe0yB4RIfvFqRJ"
@@ -1980,6 +1998,24 @@
     },
     {
       "album": {
+        "name": "Glisten",
+        "url": "https://open.spotify.com/album/7pqQBz6OVlRO1NxFuGBIk1"
+      },
+      "artists": [
+        {
+          "name": "Kundai",
+          "url": "https://open.spotify.com/artist/3X08gT9HYzAdJFfQvS7f81"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357562,
+      "name": "Seance",
+      "url": "https://open.spotify.com/track/0YWDmzwd4pkBlKxLqOD3Xl"
+    },
+    {
+      "album": {
         "name": "See the Sun Rising",
         "url": "https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm"
       },
@@ -2162,6 +2198,24 @@
     },
     {
       "album": {
+        "name": "Fuzzy Logic / Still Flowing Water",
+        "url": "https://open.spotify.com/album/5aP5JuYG4xOpdRU7MTOloL"
+      },
+      "artists": [
+        {
+          "name": "Pangaea",
+          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210412,
+      "name": "Still Flowing Water - Edit",
+      "url": "https://open.spotify.com/track/6rSIyjJakGuPx7DL1GoMan"
+    },
+    {
+      "album": {
         "name": "Storm 2022",
         "url": "https://open.spotify.com/album/5yNnf0lpeWzEMzEjQT36xt"
       },
@@ -2315,6 +2369,28 @@
       "duration_ms": 173504,
       "name": "The Limit",
       "url": "https://open.spotify.com/track/5z6dgJF0CHLk06CJpjxCXb"
+    },
+    {
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213495,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12"
     },
     {
       "album": {

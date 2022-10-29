@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Joe Louis Walker
 
-234 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+236 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All Out Of Tears](https://open.spotify.com/track/5UAWb4S8wXDLaoowdYs6ln) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [All Out Of Tears](https://open.spotify.com/album/6KqkVRVyCAaNmou8aqYkzj) | 6:31 | 2020-12-14 | 2022-02-26 |
 | [Always Free](https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 2:57 | 2021-09-24 |  |
 | [Amen](https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Amen](https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI) | 4:07 | 2020-12-14 | 2022-02-26 |
+| [American Dream](https://open.spotify.com/track/0A2nLIAI5it1fRJYGJ5Qyp) | [Darryl Jones](https://open.spotify.com/artist/3AnAntOFWOdjn8Fn02sfV8) | [American Dream](https://open.spotify.com/album/6c7Ay78lDG9A3xep8taktA) | 4:11 | 2022-10-28 |  |
 | [Angel In The Alleyways](https://open.spotify.com/track/4q0iE01soDpTD7jObdxTX9) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Patti Scialfa](https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Angel In The Alleyways](https://open.spotify.com/album/0dDD5xoKda8099F4wTuByT) | 4:20 | 2021-10-15 |  |
 | [As The Crow Flies](https://open.spotify.com/track/4RYAAiseMDi3NlWooNNdIz) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Open Road](https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV) | 4:25 | 2021-11-05 |  |
 | [Baby We're Through](https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Baby We're Through](https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU) | 3:56 | 2022-02-25 | 2022-05-28 |
@@ -41,6 +42,7 @@
 | [Catfish Blues](https://open.spotify.com/track/22AC1MxK4QD3RiS7BeTIXt) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/6fgTw3IgOwR0YN0YyRhAws) | 4:11 | 2020-12-14 | 2022-02-26 |
 | [Chocolate Samurai](https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Have You Lost Your Mind yet?](https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy) | 4:55 | 2021-10-22 | 2022-02-26 |
 | [Cornbread, Peas, Black Molasses](https://open.spotify.com/track/3nRr46yu7zDTd8ly3PZNXn) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 3:43 | 2022-04-22 |  |
+| [Cryin' Won´t Help You](https://open.spotify.com/track/1Sfcy8w25PbenC7Xvl5LSk) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz), [The SWR Big Band](https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW) | [Cryin’ Won’t Help You](https://open.spotify.com/album/7lz81CRxzCYmryRTxThLaO) | 4:29 | 2022-10-28 |  |
 | [Dear America](https://open.spotify.com/track/167JkxvuUN2yW8uMZp2zwE) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Dear America](https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ) | 3:47 | 2021-09-10 |  |
 | [Dear America](https://open.spotify.com/track/6DYaFGcyQyX87He1OxZeOg) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Dear America](https://open.spotify.com/album/0IwmHFrTRo5Em6d72VNbs3) | 3:47 | 2021-09-10 | 2022-07-29 |
 | [Death Don't Have No Mercy](https://open.spotify.com/track/1npPaN1uAdOSGnPnOcgQ82) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Death Don't Have No Mercy](https://open.spotify.com/album/7CPRD2SlzBhChwXEUZSmg5) | 6:18 | 2022-04-08 | 2022-04-29 |

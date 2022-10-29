@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 264750,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9"
@@ -1250,6 +1250,28 @@
     },
     {
       "album": {
+        "name": "Recoded",
+        "url": "https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        },
+        {
+          "name": "Rhys Fulber",
+          "url": "https://open.spotify.com/artist/3aswb2tJV8Qys1Xufxn59P"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344918,
+      "name": "Hatred Will Prevail - Monolith Remix",
+      "url": "https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0"
+    },
+    {
+      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/0f2GeuwtgobWCjVFPGHLOX"
       },
@@ -2001,7 +2023,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 178640,
       "name": "March Of The Pigs",
       "url": "https://open.spotify.com/track/59FwEQpuagQZQVP71h9OIq"
@@ -2349,7 +2371,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 204000,
       "name": "Overload - Zardonic Remix",
       "url": "https://open.spotify.com/track/2vKGqgyN8T7tpgJIiOZiH8"
@@ -2951,7 +2973,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 315440,
       "name": "The Perfect Drug",
       "url": "https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor"
@@ -3189,6 +3211,24 @@
       "duration_ms": 263888,
       "name": "Vision 2020 Vision",
       "url": "https://open.spotify.com/track/13VbFEZvg3etUT8vz4YIhI"
+    },
+    {
+      "album": {
+        "name": "Vivien",
+        "url": "https://open.spotify.com/album/0gaTBHvBZXbQvhDzMjDnlh"
+      },
+      "artists": [
+        {
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233350,
+      "name": "Vivien",
+      "url": "https://open.spotify.com/track/4GPYVJUBEXr0WfhozDhvfr"
     },
     {
       "album": {

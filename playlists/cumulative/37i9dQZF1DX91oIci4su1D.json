@@ -1150,6 +1150,32 @@
     },
     {
       "album": {
+        "name": "Bloodstream (Cubicore Remix)",
+        "url": "https://open.spotify.com/album/58cwAgbQ55LriQGzlyWt9D"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "Ruben de Ronde",
+          "url": "https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m"
+        },
+        {
+          "name": "Cubicore",
+          "url": "https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249374,
+      "name": "Bloodstream - Cubicore Remix",
+      "url": "https://open.spotify.com/track/3X7iMERwkvDnKViiJ4jmWx"
+    },
+    {
+      "album": {
         "name": "A State Of Trance Top 20 - 2021, Vol. 3 (Selected by Armin van Buuren)",
         "url": "https://open.spotify.com/album/5g19dU9vYB1qcxVmJqVSut"
       },
@@ -1231,7 +1257,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 201175,
       "name": "Braveheart",
       "url": "https://open.spotify.com/track/3N89ndrFYxInEoKOxLqdUL"
@@ -1293,7 +1319,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 222187,
       "name": "Breaking Light",
       "url": "https://open.spotify.com/track/616t2cVL8B7jUtzxqyLRAx"
@@ -1411,6 +1437,32 @@
       "duration_ms": 216780,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5tLtVHK1rTefQJi8o1OUUG"
+    },
+    {
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/6NMZ25OHvfR4HzWIM1LJqq"
+      },
+      "artists": [
+        {
+          "name": "ALPHA 9",
+          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
+        },
+        {
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+        },
+        {
+          "name": "Tom Bailey",
+          "url": "https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/4ajFhKrMK1WZ0PQ15HyjAN"
     },
     {
       "album": {

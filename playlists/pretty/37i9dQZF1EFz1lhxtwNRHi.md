@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 103 | [Do Ya?](https://open.spotify.com/track/3cRSyAAVCA2EPwCIemlUps) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [Do You Think About Me](https://open.spotify.com/album/05vm8Q18u4xfnRTk5LNhgm) | 3:36 |
 | 104 | [Shake It Off](https://open.spotify.com/track/3KYLjmsRTdWQEV3VL5iJSh) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [The Last Fears](https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v) | 3:28 |
 | 105 | [Trash](https://open.spotify.com/track/3ETGCH7qwgDpfTLytMGVAR) | [Model Child](https://open.spotify.com/artist/3zZPv8aJhRywJjUqOLFe0O) | [Trash](https://open.spotify.com/album/45YZhqE6PEbrx0h2iOC3Vz) | 2:14 |
-| 106 | [One More Night](https://open.spotify.com/track/2wGh2VS74OuW7fQENk48oz) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [The Last Fears](https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v) | 3:38 |
-| 107 | [Prescriptions](https://open.spotify.com/track/6TNZaCv1Togun3NT1HqdP9) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:47 |
+| 106 | [Prescriptions](https://open.spotify.com/track/6TNZaCv1Togun3NT1HqdP9) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:47 |
+| 107 | [One More Night](https://open.spotify.com/track/2wGh2VS74OuW7fQENk48oz) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [The Last Fears](https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v) | 3:38 |
 | 108 | [Love Somebody](https://open.spotify.com/track/2i3o539d37NpxlESnw76CY) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/1q9zrdj7DWcEjLbnHNbc3M) | 5:10 |
 | 109 | [BLOODRUNSOUT](https://open.spotify.com/track/1f1MIRIxCGK4pYMqBk4N9t) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:43 |
 | 110 | [Save Me](https://open.spotify.com/track/0RfrHvff5hPFds6l0lP8cQ) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [The Last Fears](https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v) | 3:48 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 140 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 141 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjc3ODE5ODksMDAwMDAwMDBiOTBhOWYyYmE2ZDcxNmI5MmZlN2EwOThkYjcwYjdkMA==`
+Snapshot ID: `Mjc3ODM0MjgsMDAwMDAwMDA5OWNhZGFjNDRlYTBkODUyMjE5ZDgzZjQ3NDY3MDYzMg==`

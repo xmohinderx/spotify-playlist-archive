@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-155 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
+159 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Gracefully Yours](https://open.spotify.com/track/4uhJxUjSz3xuVwS1yFjYQV) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Gracefully Yours](https://open.spotify.com/album/5VLzAXOg2SRt5OpJ3zDaPP) | 1:52 | 2022-10-14 |  |
 | [Great Moments](https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Great Moments](https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4) | 3:03 | 2021-12-09 | 2022-04-06 |
 | [Green Quartz](https://open.spotify.com/track/5N892EXPu8buGU6DIN1RTM) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Green Quartz](https://open.spotify.com/album/3yrB2eBphHCE475j4v8GWC) | 2:36 | 2021-12-09 |  |
+| [Guided By A Somber Moon](https://open.spotify.com/track/2pJECtEnAdcsJs1E1ouUW5) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Guided By A Somber Moon](https://open.spotify.com/album/4Gp2lNh0euC91is8VKIcav) | 2:14 | 2022-10-28 |  |
 | [guiding torch](https://open.spotify.com/track/498q55SF7VSIt5PCeagVGs) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [arrow clouds \| guiding torch](https://open.spotify.com/album/6ENT6YprbGElGS7XDkImeu) | 2:56 | 2022-07-29 | 2022-08-19 |
 | [Guitar Serenade](https://open.spotify.com/track/3BhgiGAwSs7PLGyW0ErORB) | [Samuel T\. Wesley](https://open.spotify.com/artist/5v9utvxIaiOg8XKnUge42h) | [Guitar Serenade](https://open.spotify.com/album/3X86hB3CyzqmkWP18Gp0jJ) | 1:28 | 2022-02-22 |  |
 | [Gymnopédie No\. 2](https://open.spotify.com/track/1u9k6dcsnxwn8OnRIpukHK) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Music for Sleep and Relaxation](https://open.spotify.com/album/6GHknBEoAGG3UmypRtRLRy) | 2:23 | 2021-12-09 | 2022-05-27 |
@@ -118,6 +119,7 @@
 | [Restless Sea](https://open.spotify.com/track/1F8c9YGJjGXnSWhSoZedyH) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Restless Sea](https://open.spotify.com/album/4AMOZFHaOtTz5Y36mTdZxt) | 2:03 | 2022-09-16 |  |
 | [Rio De La Plata](https://open.spotify.com/track/1H4v0YFVVKN8uU6nxzmfWt) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Rio De La Plata](https://open.spotify.com/album/4WhBZeA6L71Jy9sNXZm0Cd) | 4:06 | 2021-12-09 |  |
 | [Rolling Hills](https://open.spotify.com/track/365aGwp7tIjLPorjrgjsUv) | [Ava Olivia Bailey](https://open.spotify.com/artist/1NjdPXI16F7zIDzhZBxk79) | [Rolling Hills](https://open.spotify.com/album/3ATXMDroBKLW4VtUeLtEd8) | 1:57 | 2022-09-02 |  |
+| [Sapphire Sky](https://open.spotify.com/track/2XwrLcoHOiFF0OvxLOlx47) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Sapphire Sky](https://open.spotify.com/album/4Az8Mhi6d9vnBQQuPHva9F) | 1:39 | 2022-10-28 |  |
 | [Satellites](https://open.spotify.com/track/241ZXbv26EbLNmVADe6yDK) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [West End](https://open.spotify.com/album/2ze5UXnapC2cmlXG70feQ3) | 2:36 | 2021-12-09 |  |
 | [Scarlet Dreams](https://open.spotify.com/track/5bDxO7o9npXf4TzfZhvSMM) | [Van Kann](https://open.spotify.com/artist/0q9Un6IHIN7D4OkGv6KHkl) | [Scarlet Dreams](https://open.spotify.com/album/6lFon0oNp8tVMSFzQJaLMy) | 2:52 | 2021-12-09 |  |
 | [Seed of Perfection](https://open.spotify.com/track/0kAHMCRN2lFkDnwhedKl1M) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Seed of Perfection](https://open.spotify.com/album/3zX0E0myYc2mtjWGVJzffI) | 2:39 | 2022-08-19 |  |
@@ -138,6 +140,7 @@
 | [Suaves voces](https://open.spotify.com/track/4cBUGJbBfC8PN8Bbv1aE8P) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Suaves voces](https://open.spotify.com/album/5UpeiNsZzH4sAkoYjwTan0) | 3:12 | 2021-12-09 |  |
 | [Svalbard](https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg) | 3:19 | 2022-07-29 | 2022-09-09 |
 | [Svalbard](https://open.spotify.com/track/6vc1ie7orjBJYeJVR4yh8r) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/1nRpZdYMCTU0QfiOF737WI) | 3:19 | 2021-12-09 | 2022-07-29 |
+| [Taormina](https://open.spotify.com/track/4mfOm2VcZyIEf2tKlEehWL) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Taormina](https://open.spotify.com/album/3C5EW6NTVdzuTf1vxRQTwc) | 2:13 | 2022-10-28 |  |
 | [Tăcere](https://open.spotify.com/track/2GnLadPkZbhaTxoBlpyj1c) | [Simion Alexandrescu](https://open.spotify.com/artist/3pJo8CcTXL3ZPIG8r2XOxl) | [Tăcere](https://open.spotify.com/album/5ZW7vpNnSPtzo09pdS8UuG) | 2:47 | 2021-12-09 |  |
 | [The Crossing](https://open.spotify.com/track/4eyQ0mKeAtbCW6aw7ukd07) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [The Crossing](https://open.spotify.com/album/5RVA2zv3ramQfUrXPd8FpX) | 3:15 | 2021-12-09 |  |
 | [The Night Becomes You](https://open.spotify.com/track/68ydkLTVa26AVu91mwGXYE) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [The Night Becomes You](https://open.spotify.com/album/6zL2qydauP0PTEYCGlNAme) | 2:56 | 2022-10-07 |  |
@@ -147,6 +150,7 @@
 | [Tomorrow's Song \- Solo Guitar Version](https://open.spotify.com/track/7hR0O2SKyTl1Y6F244Miz7) | [Ulli Boegershausen](https://open.spotify.com/artist/7cfu1JFXiRLxUGdGdNt64V) | [Miniatures](https://open.spotify.com/album/5yS0hPvv2i4bVS5H6x0eNR) | 2:32 | 2021-12-09 | 2022-05-27 |
 | [Toutes Les Couleurs](https://open.spotify.com/track/3ELOuPzdNVstZgLwX3yxPN) | [Paris Pompey](https://open.spotify.com/artist/2Kt6borByO4ARxCSf9hOfq) | [Toutes Les Couleurs](https://open.spotify.com/album/1k8SOrB5BaoQbOrEh8xzvb) | 2:19 | 2021-12-09 |  |
 | [Tranquille](https://open.spotify.com/track/2aSvGgyhVRgQYDzhBbWJ51) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Tranquille](https://open.spotify.com/album/6QYtL1c2hj8S0EcBpFbNYP) | 2:50 | 2022-06-10 |  |
+| [Traveling Memories](https://open.spotify.com/track/3LnTONDMXfR3DW2hiWuQy8) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Traveling Memories](https://open.spotify.com/album/1QExmNDBcvbcE2LFytL2vp) | 2:21 | 2022-10-28 |  |
 | [Underling](https://open.spotify.com/track/04GCX56L2mtzmoQviPUYqO) | [Vincent Shaub](https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk) | [Underling](https://open.spotify.com/album/7fr39Jc2cRvvH0jrcwIhed) | 2:47 | 2021-12-09 |  |
 | [Une Nuit](https://open.spotify.com/track/09T323x1FlNP0pgJd9Ryxd) | [Fleur Onora](https://open.spotify.com/artist/1tjgN34CqFam0q9yCl2uP7) | [Une Nuit](https://open.spotify.com/album/0a8HzDay7HoUoQ4TCCIis2) | 2:15 | 2021-12-09 |  |
 | [Unelaul Mina Ei Taha Veel Magama Jääda](https://open.spotify.com/track/76L57RAbQpGIva8HavRLwn) | [Boris Björn Bagger](https://open.spotify.com/artist/7p2K7MlnXg0k9v9yxxuf06), [Valdo Preema](https://open.spotify.com/artist/5dEsSEyudgCCppMdKmMyh5) | [German And Estonian Lullaby With Guitar](https://open.spotify.com/album/5UqSD5ONEAZTBdRoQhefJo) | 2:00 | 2021-12-09 | 2022-09-17 |

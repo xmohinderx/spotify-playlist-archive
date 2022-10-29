@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-204 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+206 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [About Me](https://open.spotify.com/track/5hiatfPmopoExZRZ2O1g5S) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About Me](https://open.spotify.com/album/1WeVEXpJ5649s2XA0WBN0i) | 2:34 | 2022-02-03 | 2022-09-15 |
 | [All Access](https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [All Access](https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4) | 2:41 | 2022-10-05 |  |
 | [Alone](https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 3:34 | 2022-05-20 |  |
+| [Annabelle's Tea Party](https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Annabelle's Tea Party](https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24) | 3:08 | 2022-10-28 |  |
 | [Arcade Dwellers](https://open.spotify.com/track/3b3A8AcfVhRVVizAQmQls5) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [MDK](https://open.spotify.com/artist/4AFmCAFHwoV2o3QR1Wgup4) | [Arcade Dwellers](https://open.spotify.com/album/1NMgVxkMZ92QCgLjAJswQ3) | 4:20 | 2022-02-03 |  |
 | [Avatar](https://open.spotify.com/track/7mjtzOAMQs11liY3WdgT5v) | [RYVN](https://open.spotify.com/artist/6TTZGloO0o4IMy4eIaj8gU) | [Avatar](https://open.spotify.com/album/0VMsnqlax1FZNXdPzBHwn3) | 2:34 | 2022-03-04 |  |
 | [Away](https://open.spotify.com/track/43yExGeOSTvdXzq3GJpeVS) | [James Roche](https://open.spotify.com/artist/4b2kEE2HzyOwcP1rVNBJPT) | [Away](https://open.spotify.com/album/53RQT1BteGO1olm1EZLSUX) | 3:25 | 2022-05-03 |  |
@@ -159,7 +160,8 @@
 | [Shimmer](https://open.spotify.com/track/4PDLDew5A8O0FWXMazIoPS) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Shimmer EP](https://open.spotify.com/album/0oiJtNGOQBR4hnhdMmffTM) | 2:55 | 2022-02-03 | 2022-09-15 |
 | [Shivers](https://open.spotify.com/track/07EhpBhnDfZ6Vm7EwjSHIY) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Shivers](https://open.spotify.com/album/41VSk82y1Frwvc1OiiFq94) | 3:18 | 2022-02-03 | 2022-09-15 |
 | [Signs](https://open.spotify.com/track/667tUojxiHmk94zqwGlqpH) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Signs](https://open.spotify.com/album/3xdSLud2l9GQIeB0yqbIF8) | 2:50 | 2022-06-16 |  |
-| [SLASH \(Halloween Scary Song\)](https://open.spotify.com/track/0JsFqQbe4Vm67mtZmDrkcx) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SLASH \(Halloween Scary Song\)](https://open.spotify.com/album/6lxHhKlkZAcKv1ae4DptMH) | 4:11 | 2022-02-03 |  |
+| [SLASH](https://open.spotify.com/track/6fYk1h3xgXatisxwR5G77O) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SLASH](https://open.spotify.com/album/5ml9nZdFPLJdUdWT8nf0Dx) | 4:11 | 2022-10-28 |  |
+| [SLASH \(Halloween Scary Song\)](https://open.spotify.com/track/0JsFqQbe4Vm67mtZmDrkcx) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SLASH \(Halloween Scary Song\)](https://open.spotify.com/album/6lxHhKlkZAcKv1ae4DptMH) | 4:11 | 2022-02-03 | 2022-10-29 |
 | [Somebody Like Me](https://open.spotify.com/track/7tXOUsVnja9CM4ZqpsIRyL) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH), [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ) | [Somebody Like Me](https://open.spotify.com/album/62Air8eIGD93v9GMmuBi1o) | 2:50 | 2022-07-29 | 2022-08-06 |
 | [Spark](https://open.spotify.com/track/4EXmIFpNVoe3syAh51AA5d) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m) | [Spark](https://open.spotify.com/album/1HZQDlfcWvNcCPP49YPrFv) | 2:55 | 2022-05-17 |  |
 | [Spirit](https://open.spotify.com/track/7w72YAANcgERnbpqcW4C5B) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Spirit](https://open.spotify.com/album/2egaLUBXUvyDbUBgi5iLzh) | 2:55 | 2022-07-12 | 2022-08-06 |

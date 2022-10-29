@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Miss Monique
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,818 likes - 78 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,210 likes - 78 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 3 | [Die Transformation](https://open.spotify.com/track/44IDBp1nDAa1qcoZ6IU7YP) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Die Transformation / Vidy](https://open.spotify.com/album/5rzipv2nMRtGU1AA35Ig6H) | 6:23 |
 | 4 | [Resonate](https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn) | 3:41 |
 | 5 | [Your Love \- Agents of Time Remix](https://open.spotify.com/track/3dZ7Xexqt0O3mx2hhTfYri) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Your Love \(Agents of Time Remix\)](https://open.spotify.com/album/7yud1MBi2dNt3mqzfVXgXT) | 6:50 |
-| 6 | [Clara \(the night is dark\)](https://open.spotify.com/track/1PuxHPD8l3mm2CbxrMXy8N) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Clara \(the night is dark\)](https://open.spotify.com/album/6nneI0xOh7SR2zvzHcvB5g) | 4:38 |
+| 6 | [Clara \(the night is dark\)](https://open.spotify.com/track/6LeTQu4NvTnLRRiB8GVFQe) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:38 |
 | 7 | [Storm](https://open.spotify.com/track/3LlulBDS9wVascj3UGc7kT) | [Alex Breitling](https://open.spotify.com/artist/4CBrawfeZ5WugRTqsXgwgI) | [Storm](https://open.spotify.com/album/1MS6lNY8R2TneXvXP110ZC) | 4:35 |
 | 8 | [Wolf \- Boys Noize Remix](https://open.spotify.com/track/1cNQtla3jWus7dSwfJV1oG) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Wolf \(Boys Noize Remix\)](https://open.spotify.com/album/6sx8z31IKn73hte9q9SzyI) | 5:01 |
 | 9 | [Don't Come](https://open.spotify.com/track/4aVMFZfOt8GgmpmHw8GHby) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN) | [S.O.S\. 4 Luv](https://open.spotify.com/album/3WXh1wCypcwoXqpcjD64f1) | 5:13 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 77 | [Apart](https://open.spotify.com/track/7LeShYiQOXt42vOVQ2GXB8) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ) | [Apart](https://open.spotify.com/album/3ERW2r43z54BjvmuKKTs8c) | 4:08 |
 | 78 | [Purple Eye](https://open.spotify.com/track/5uKjlztT7Bxx8rt362zlvE) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Purple Eye](https://open.spotify.com/album/2bRkqhEAYHCmKZ0MOr7nzD) | 6:14 |
 
-Snapshot ID: `MTY2NjkxMjUyMywwMDAwMDAwMDlhYTc1ZTI4YmQwNjdlNGExMjEyODhkMmRhZWMwZTAy`
+Snapshot ID: `MTY2NjkxMjUyMywwMDAwMDAwMGE3YmM5OTk4ODdlNjM1ZDY4ZjFjMjQ3YWMxYjIyZDY5`

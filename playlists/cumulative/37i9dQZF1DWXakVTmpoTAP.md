@@ -4,7 +4,7 @@
 
 > Songs that show your dad love and appreciation
 
-66 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/3B9KBYwsNJbaDjE2PiZgRZ)
+67 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/3B9KBYwsNJbaDjE2PiZgRZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Forever Young](https://open.spotify.com/track/1qli6fjEVdmMgssWy55eiZ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Greatest Hits Volume 3](https://open.spotify.com/album/3R4p0qCYhtK1YdPtvlDD7T) | 4:56 | 2021-06-17 |  |
 | [He Didn't Have to Be](https://open.spotify.com/track/1LONTBZZRxDVx4wEvdcCLd) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 4:42 | 2022-06-09 |  |
 | [Hey Dad \(2021\)](https://open.spotify.com/track/3PCcuK9fcUodRLLtykSOJ1) | [Matt Stillwell](https://open.spotify.com/artist/4fZSTS8imV1CaUPHQf4CC7) | [Hey Dad \(2021\)](https://open.spotify.com/album/0qlzq66HlQNkrx4fUXb13L) | 3:22 | 2022-06-09 | 2022-07-28 |
-| [I Learned From You](https://open.spotify.com/track/3qhIhyu9Sl8lyF43vNt9Dv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 3:23 | 2021-06-17 |  |
+| [I Learned From You](https://open.spotify.com/track/3qhIhyu9Sl8lyF43vNt9Dv) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 3:23 | 2021-06-17 | 2022-10-29 |
 | [I Loved Her First](https://open.spotify.com/track/0fZq48okuWkpAgjsWogAJ4) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/6TrguRnEqy2RL8mB1n3Z33) | 3:32 | 2021-06-17 | 2022-07-29 |
 | [I Loved Her First](https://open.spotify.com/track/0vZvEE9c2bmA6H8hVKxXEZ) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/2TkVvC9ETHw7y6KlpdHr8f) | 3:32 | 2022-06-09 |  |
 | [I'm Her Daddy](https://open.spotify.com/track/4Z5C9LDf5S5pWFAoPWN4ej) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 3:18 | 2022-06-09 |  |
@@ -53,6 +53,7 @@
 | [Just the Two of Us \- Radio Edit](https://open.spotify.com/track/5VjPqpxyWK7kzcINseJQLk) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Just The Two Of Us](https://open.spotify.com/album/1qGJfEOgna6f7WSIorxBkz) | 4:15 | 2021-06-17 | 2022-06-10 |
 | [Like My Father](https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Like My Father](https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj) | 3:03 | 2021-06-17 |  |
 | [Memo to My Son \- 2002 Remaster](https://open.spotify.com/track/5Vw9sw0Tr4saqD2E75cZ1X) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Sail Away \(Expanded & Remastered Edition\)](https://open.spotify.com/album/7ojNQckNp7Tj2BkLJCiiUL) | 1:55 | 2021-06-17 | 2022-07-29 |
+| [My Father's Eyes](https://open.spotify.com/track/3faolvgrl8JeE6iTCNJn7Y) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Complete Clapton](https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl) | 5:23 | 2022-06-09 |  |
 | [My Father's Eyes](https://open.spotify.com/track/46qmhckPWhcfBhw4hagOOS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 5:23 | 2021-06-17 | 2022-07-24 |
 | [My Father's Eyes](https://open.spotify.com/track/7zXqmgoZNRHNFgFAOoxhx6) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/3NciWxb2An4XoNC0AaYyNK) | 5:23 | 2022-06-09 | 2022-10-17 |
 | [My Old Man](https://open.spotify.com/track/4ewRM5SP4YhmlfKhi5uSjS) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:41 | 2022-06-09 |  |

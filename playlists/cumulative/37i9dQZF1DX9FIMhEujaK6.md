@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-123 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/467x8DmD9jX6toG0U5jCPJ)
+124 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/467x8DmD9jX6toG0U5jCPJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Momentum](https://open.spotify.com/track/4sSYEvtIDlWsFv7og6gWce) | [Sam Goku](https://open.spotify.com/artist/2phu8EHvQpvoHG5BivWr0l) | [Momentum](https://open.spotify.com/album/0z6AGDemMBYhvKzkgw7c9J) | 8:43 | 2021-10-15 | 2021-12-31 |
 | [Moon \- Edit](https://open.spotify.com/track/0qC6CVPzhHF8SvLzsJAC4c) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Moon](https://open.spotify.com/album/2uwQGLZKdEHJMfEYgPTlZ3) | 4:04 | 2021-10-15 | 2022-07-19 |
 | [More Time](https://open.spotify.com/track/4CDQ3FStbWCqUZkrlcrRE1) | [LEGATO](https://open.spotify.com/artist/5jpu8iB4nbX9H3bkV8LYz2) | [So Close Now / More Time](https://open.spotify.com/album/0MPjiV08saY0YdxXFz7jaF) | 3:40 | 2021-10-15 | 2022-07-28 |
-| [Mustt Mustt \- Massive Attack Remix](https://open.spotify.com/track/0w6kuQOr4jP1w9Kon0Yv4j) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mustt Mustt \(Real World Gold\)](https://open.spotify.com/album/57ObW7qW6CN1CWLXV5DOGb) | 4:27 | 2022-07-20 |  |
+| [Mustt Mustt \- Massive Attack Remix](https://open.spotify.com/track/0w6kuQOr4jP1w9Kon0Yv4j) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mustt Mustt \(Real World Gold\)](https://open.spotify.com/album/57ObW7qW6CN1CWLXV5DOGb) | 4:27 | 2022-07-20 | 2022-10-29 |
 | [Mystery Lady \- Scorpion Kings Remix](https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(Scorpion Kings Remix\)](https://open.spotify.com/album/4VGeapArZuyjTw7rcIXjmi) | 7:30 | 2021-10-15 |  |
 | [Même Langue \(feat\. MUNYA\)](https://open.spotify.com/track/1cbzgAaPgE3iL3diqC2zzh) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Early Hours](https://open.spotify.com/album/5L3Q2FMRE1dPkprkX7Tbx4) | 5:04 | 2021-10-15 | 2022-05-06 |
 | [Nervous Tics \(feat\. Holly Walker\) \- DJ Tennis Remix](https://open.spotify.com/track/6FEDMxhIewYQdzxFuB5640) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Kingdoms In Colour Remixed](https://open.spotify.com/album/4KBMoononZPCM80QtfOzXd) | 6:29 | 2021-10-15 | 2022-07-27 |
@@ -101,6 +101,7 @@
 | [Sam Sam](https://open.spotify.com/track/32mQnFkAUENgNFJoxTebcP) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT) | [Time is A Gift Which We Share All The Time](https://open.spotify.com/album/3BzsH4g4BX3UuWy0cMa1uy) | 5:18 | 2021-10-15 | 2022-07-27 |
 | [Satori](https://open.spotify.com/track/66nJxPYKMrje2xs7vHnvKK) | [Hannah Fernando](https://open.spotify.com/artist/1pemw59Uf20tXE3i5eTBiY) | [Satori](https://open.spotify.com/album/4Sc18Uhrs8qltlOo6Vh6NJ) | 5:05 | 2021-10-15 |  |
 | [Second Story Sunlight](https://open.spotify.com/track/0Eo3XP7EprBsturqNahuJ7) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Second Story Sunlight](https://open.spotify.com/album/3PhyRzz7sT2tqp05ebeoK6) | 3:59 | 2021-10-15 | 2022-07-29 |
+| [Silver Linings](https://open.spotify.com/track/6Ad5TdlevXBRsOsYhCbgb2) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Silver Linings](https://open.spotify.com/album/0JPGUlvwYA8enb1XhaUIbh) | 4:01 | 2022-07-20 |  |
 | [small talk](https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [small talk](https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh) | 5:25 | 2021-10-15 | 2022-03-04 |
 | [Smoke](https://open.spotify.com/track/5aEQCT6F0l7mxkwO5D8pr9) | [DYVR](https://open.spotify.com/artist/292LoDesUxUnxLysrHrajc) | [Smoke](https://open.spotify.com/album/6NxCwLZC6Mvw4VRnG8u7Vq) | 3:34 | 2021-10-15 |  |
 | [So Easy](https://open.spotify.com/track/4MY8NLRDPXKn6CCsGLweLL) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Melody A.M.](https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0) | 4:09 | 2022-07-20 |  |

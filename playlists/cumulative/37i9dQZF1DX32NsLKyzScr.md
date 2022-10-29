@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-879 songs - 2 day 0 hr 12 min - [published](https://open.spotify.com/playlist/0fI15NHKYSYthkrLgIHhwC)
+880 songs - 2 day 0 hr 14 min - [published](https://open.spotify.com/playlist/0fI15NHKYSYthkrLgIHhwC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Electric](https://open.spotify.com/track/2ihfEczzOpZXd8krs60UDx) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Electric](https://open.spotify.com/album/2fQuZaDb22dR9Q6oFUIWAS) | 3:01 | 2020-09-21\* | 2021-02-06 |
 | [Electricity](https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Electricity](https://open.spotify.com/album/1ofN1B9x8lwUSbb2eS65fV) | 2:34 | 2022-10-14 |  |
 | [Electricity](https://open.spotify.com/track/36SwDeUUDdqF2Wn2jySipw) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y) | [Electricity](https://open.spotify.com/album/3lKvQpxYFgvwrr1AkGu5LB) | 5:54 | 2020-09-21\* | 2020-10-10 |
+| [Element](https://open.spotify.com/track/4fr0TUNlNMjORHGnZX9DQs) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Element](https://open.spotify.com/album/0UA86CES1HFsAwEY5AXlLK) | 2:00 | 2022-10-28 |  |
 | [Emancipation](https://open.spotify.com/track/4Dosclv6nmoBWiuAqozPLC) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [Emancipation](https://open.spotify.com/album/72TsSpZ4OZrlzL6GesxuVH) | 3:45 | 2020-12-18 | 2021-07-07 |
 | [ENERGY](https://open.spotify.com/track/6aIu2OsmzRP4PbHbelXgfp) | [EC Twins](https://open.spotify.com/artist/6QACkIioo2Na2EKEwJzCKK) | [Disco's Not Dead](https://open.spotify.com/album/2PvAFZBRCVqnkt5NEPbnBX) | 3:08 | 2020-09-21\* | 2021-02-06 |
 | [Energy](https://open.spotify.com/track/5CWGRrNRxRo0KXhMJuMm1S) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Energy](https://open.spotify.com/album/3UB0GAweplve4pzvsGooLf) | 3:28 | 2020-10-10 | 2021-09-11 |
@@ -363,7 +364,7 @@
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2021-07-07 | 2022-03-12 |
 | [In Love With You \- Radio Edit](https://open.spotify.com/track/7naQOLmmhhhLvDaXI4FH36) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Melo.Kids](https://open.spotify.com/artist/67zbXa7VOBhfFhM5n6AM33) | [In Love With You \(Radio Edit\)](https://open.spotify.com/album/6uKD5yITNbZRNfix9NTcbE) | 2:42 | 2021-03-11 | 2021-07-24 |
 | [In My Head](https://open.spotify.com/track/69uxus0d23ZnTHXi1dVldS) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [In My Head](https://open.spotify.com/album/6nCrDS9ApohnfQvXWHLSEu) | 2:51 | 2021-10-23 | 2022-03-12 |
-| [In My Zone](https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [In My Zone](https://open.spotify.com/album/78t3QrtBcUZhthPk0ROf2r) | 2:41 | 2022-01-28 |  |
+| [In My Zone](https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [In My Zone](https://open.spotify.com/album/78t3QrtBcUZhthPk0ROf2r) | 2:41 | 2022-01-28 | 2022-10-29 |
 | [In The Dark](https://open.spotify.com/track/2mGIYrzDcaEjGeZpnltE3Y) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [LP Giobbi x Insomniac Records Presents Femme House](https://open.spotify.com/album/4vPR8RUetBphiU2UDaMwV1) | 5:42 | 2022-03-11 | 2022-04-21 |
 | [Ininna Tora](https://open.spotify.com/track/2iQMxfQyEyypb0MCFYaLlE) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Mildenhaus](https://open.spotify.com/artist/1fzjSsvVUpGt2W0itpcTKP) | [Ininna Tora](https://open.spotify.com/album/62oEG3Jyw8Pgp9HfUnzY0G) | 3:24 | 2022-07-01 |  |
 | [Into The Fire](https://open.spotify.com/track/2pkLSXs8Wv9Xe3aiCR7K5p) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Arsnøvä](https://open.spotify.com/artist/3vhqqkOtusdgbpr9336aFA) | [Into The Fire](https://open.spotify.com/album/33i8sQO6hNZk6wMhIBJSEv) | 2:57 | 2022-01-21 | 2022-04-02 |

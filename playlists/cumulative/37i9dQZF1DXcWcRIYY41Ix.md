@@ -2,9 +2,9 @@
 
 ### [Cancionistas](https://open.spotify.com/playlist/37i9dQZF1DXcWcRIYY41Ix)
 
-> La nueva ola de trovadores del Siglo XXI\. En portada: Silvana Estrada.
+> La nueva ola de trovadores del Siglo XXI\. En portada: Álex Eugenio.
 
-305 songs - 18 hr 47 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
+306 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 | 2021-12-24 | 2022-04-24 |
 | [Aquellos Misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos Misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 | 2022-09-23 | 2022-10-15 |
 | [Aunque No Sea Yo](https://open.spotify.com/track/4zrePmHHjkkic4xZGPg8PB) | [Vicky Gastelo](https://open.spotify.com/artist/6oIeX7RcNGYp83pCtlNPqb), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Aunque No Sea Yo](https://open.spotify.com/album/74j5XhF4zIq06Y4Hq6zRtp) | 3:34 | 2022-01-27 | 2022-02-25 |
+| [Añoranza Del Amor](https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Añoranza Del Amor](https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4) | 2:58 | 2022-10-28 |  |
 | [Bajo el Sol](https://open.spotify.com/track/1NRdxh5Zl1Az79W9Z9NO5X) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [Bajo el Sol](https://open.spotify.com/album/4WWqEiDQgLONs0riUE0jw7) | 4:16 | 2021-12-24 | 2022-06-04 |
 | [Barquito de Nuez](https://open.spotify.com/track/2HvJIb21JD31EXUwhBHmu7) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb) | [Barquito de Nuez](https://open.spotify.com/album/5KAhzUae1qtsIzZTVfVj9y) | 2:58 | 2022-02-04 | 2022-05-12 |
 | [Bella ciao feminista](https://open.spotify.com/track/3x6LuJzeJQyTprXZmV1XI6) | [Magara](https://open.spotify.com/artist/16izkuYfzM5ncRLpqgTriB) | [Bella ciao feminista](https://open.spotify.com/album/3Zw3OIZ7Yng90uzleFJU7S) | 3:08 | 2022-03-04 | 2022-05-21 |
@@ -199,7 +200,7 @@
 | [Nos Ocupamos del Mar \(Hermanos Krahe\)](https://open.spotify.com/track/78JZFiirZ0CcbW8os7scgq) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y) | [Nos Ocupamos del Mar \(Hermanos Krahe\)](https://open.spotify.com/album/0e528evmmuLZaHL87fohAF) | 3:36 | 2022-03-11 | 2022-04-20 |
 | [Noviembre](https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Noviembre](https://open.spotify.com/album/30vftzA8hNmdZ8ncLZ6mCq) | 4:05 | 2021-12-24 | 2022-07-29 |
 | [Noviembre](https://open.spotify.com/track/4uDVKfmJ8cnn63O5V8ZKeq) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Noviembre](https://open.spotify.com/album/5dbmoIYD1zBB64NzQtMtB7) | 2:50 | 2022-09-28 |  |
-| [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-24 |  |
+| [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-24 | 2022-10-29 |
 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 | 2021-12-24 | 2022-10-28 |
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2021-12-24 | 2022-07-17 |
 | [Palabras de Amor](https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM) | [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [No](https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro) | 3:31 | 2022-09-23 | 2022-10-22 |

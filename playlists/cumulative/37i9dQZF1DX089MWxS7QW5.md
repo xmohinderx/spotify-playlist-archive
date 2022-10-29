@@ -2,9 +2,9 @@
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: JUNE\(준\)\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: meenoi\(미노이\)\)
 
-119 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
+123 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [All About You](https://open.spotify.com/track/4BPHgRFpbYJZhYLp5161Qi) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [ADAMAS, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/1MkWm3teh6zqfBVkpPUaji) | 4:17 | 2022-09-05 |  |
 | [All of Me \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/4X4W051XN4gViiCy6rlIy1) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Dawn](https://open.spotify.com/album/08TpxyrRBMTmC3NT9TVwY8) | 3:02 | 2022-05-28 | 2022-07-08 |
 | [Alone \(Feat\. GSoul\)](https://open.spotify.com/track/0TXGMVMHbmV8oHgayKayHs) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [look](https://open.spotify.com/album/0i1vQkPkubyuGSdSGH3zdV) | 4:14 | 2022-05-28 | 2022-06-10 |
+| [ANIRAGO \(feat\. Zion.T\)](https://open.spotify.com/track/4udQ9x6PZTNkO6Jwxdn0iw) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 3:22 | 2022-10-28 |  |
 | [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 | 2022-08-12 |  |
 | [Be there](https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Be there](https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf) | 3:43 | 2022-10-07 |  |
 | [Beautiful \(feat\. Sam Kim\)](https://open.spotify.com/track/3eYG0rgZxgNF8FZQoHu9GK) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [EGO 90'S](https://open.spotify.com/album/7kecJ6YlieepBPVgMlf4vw) | 4:34 | 2022-07-19 |  |
@@ -47,6 +48,7 @@
 | [Dust](https://open.spotify.com/track/0i2J3DyqIjGq5oPNROdgeO) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Dust](https://open.spotify.com/album/1MJwR5F0fNTPSocVylBL7s) | 3:47 | 2022-05-28 | 2022-07-08 |
 | [Everytime](https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Everytime](https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0) | 2:42 | 2022-07-07 |  |
 | [excuses](https://open.spotify.com/track/24ZZsTtsIqEYxhVXL8k75e) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa) | [excuses](https://open.spotify.com/album/7vrkB5apr0lk3SAihR9xxA) | 2:51 | 2022-05-28 | 2022-06-10 |
+| [faraway](https://open.spotify.com/track/6MysgWeikCdIVrDhPVSCZU) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [faraway](https://open.spotify.com/album/13csUC6m7mKJpmyfWG8bz8) | 3:49 | 2022-10-28 |  |
 | [FAVORITE](https://open.spotify.com/track/4sSo8hmQ1g7qt1iE1uMRDr) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 3:07 | 2022-07-27 |  |
 | [Flying \(Feat\. BIG Naughty\)](https://open.spotify.com/track/7gJcMXrSgaj0L9HN65Hkdd) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [4th Mini Album ?=3 GENEZIS3](https://open.spotify.com/album/2KHj5gzlNgcDyDSwfuC3si) | 3:15 | 2022-08-03 |  |
 | [For You \(Holiday Remix\) \- Spotify Singles Holiday](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) | 3:31 | 2022-05-28 | 2022-06-21 |
@@ -74,6 +76,7 @@
 | [Knot](https://open.spotify.com/track/0abcdEtyIbdQGNMP9cNmPh) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Knot](https://open.spotify.com/album/2kgNRya8F4X05PgYdL34o6) | 3:22 | 2022-06-09 | 2022-09-06 |
 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 | 2022-10-05 |  |
 | [Lock me up](https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb) | [GooNight](https://open.spotify.com/artist/6HeK6beIohZ8q4L8me1iId) | [Lock me up](https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn) | 3:12 | 2022-07-07 |  |
+| [Loner \(Feat\. g0nny\)](https://open.spotify.com/track/5z71sbduBfZcSWdgdx4Gfk) | [yiyona](https://open.spotify.com/artist/5UxbxMzCNo2m4oyAN4GYCv), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Loner \(Feat\. g0nny\)](https://open.spotify.com/album/1n6h9eUFPgRcDVxPxy40CT) | 3:33 | 2022-10-28 |  |
 | [Look at the Sky](https://open.spotify.com/track/2xCb6yQWQexnqBj15IU6sh) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Look at the Sky \(Single Edition 3\)](https://open.spotify.com/album/3qfywpeo4Jch6bALjKWdYn) | 4:07 | 2022-05-28 | 2022-07-06 |
 | [Lotus \(feat\. bluetin\)](https://open.spotify.com/track/269hsEUZuvhQ3dkONmgrNc) | [Hanon](https://open.spotify.com/artist/4Lj2K1MmY34I1CX08LqeR1), [bluetin](https://open.spotify.com/artist/5SblXf2aM3Dy65ja16JhuB) | [Water Lily \(feat\. bluetin\)](https://open.spotify.com/album/4WFh1X5whmRko0kxY9fuIx) | 3:12 | 2022-06-09 | 2022-09-06 |
 | [Love is alone](https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:22 | 2022-07-04 |  |
@@ -105,9 +108,10 @@
 | [Sunset to Sunrise](https://open.spotify.com/track/5rkfygpzBJLd8LziK9nD61) | [YNR](https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK) | [Sunset to Sunrise](https://open.spotify.com/album/0W9lundQIEipTgxlmReGQo) | 2:34 | 2022-07-04 |  |
 | [Swear](https://open.spotify.com/track/50X1UUiTcDjq0tTybkBSot) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1) | [Remember](https://open.spotify.com/album/4yHWe2xBs5mk0wNHafCUVH) | 3:20 | 2022-05-28 | 2022-07-05 |
 | [Take care](https://open.spotify.com/track/6TWHnpRwa1oFvGVb4HkyHd) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [Take care](https://open.spotify.com/album/64ZwScQEZDND6thh8Vfuz2) | 3:00 | 2022-05-28 | 2022-07-06 |
+| [Talk 2 Me Nice](https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [S:INEMA](https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j) | 3:58 | 2022-10-28 |  |
 | [The Gift](https://open.spotify.com/track/2PTnOo4kxWsyTlRc3hwiBo) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [The Gift](https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS) | 3:46 | 2022-05-28 | 2022-06-21 |
 | [The One I Love](https://open.spotify.com/track/6C1e3Fl3BHzlRNZk6ubm6C) | [Siyoon](https://open.spotify.com/artist/3dLG806ZDpPYdtXXTnCrAU) | [The One I Love](https://open.spotify.com/album/7IWphRN26CJeRDB6BjnYBl) | 2:56 | 2022-08-18 |  |
-| [This night](https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh) | [Sujin Park](https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.14](https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF) | 4:03 | 2022-07-07 |  |
+| [This night](https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh) | [Park Soo Jin](https://open.spotify.com/artist/2u5C3Wks2FJrz5N86nNiXT) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.14](https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF) | 4:03 | 2022-07-07 |  |
 | [Time](https://open.spotify.com/track/44FuYikbGrbue8BqiVbYks) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Hookuo](https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf) | [Why](https://open.spotify.com/album/3NPRwip3fCgqzn6UCspufx) | 3:28 | 2022-06-01 | 2022-08-20 |
 | [Today](https://open.spotify.com/track/4X45vj2AcrqfXWfvmVQQF2) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Ocean like me \(Original Web Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/0xLr70Id543bJ27W9hOmSM) | 3:39 | 2022-05-28 | 2022-08-19 |
 | [Tonight](https://open.spotify.com/track/6z3MFmth66YuneBbyzVFGJ) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Tonight \(Single Edition 4\)](https://open.spotify.com/album/4NfZyYetKI0lgIDXTCs6mL) | 3:50 | 2022-05-28 | 2022-06-21 |

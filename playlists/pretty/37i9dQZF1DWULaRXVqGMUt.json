@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 26444,
+  "num_followers": 26528,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQwNjM2OCwwMDAwMDAwMGMxMGM5YTAzNzk3NTY2NGNlNDE0Y2E1NzA1MGU0ODE1",
+  "snapshot_id": "MTY2NTQwNjM2OCwwMDAwMDAwMGMwMWE1NDAxOWJmMTYzMDQ2ZTRiZGJlNWUwOTAwM2Uw",
   "tracks": [
     {
       "added_at": "2022-07-29 10:36:46",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 190466,
+      "name": "Nasty Boogie",
+      "url": "https://open.spotify.com/track/3rzNjo8hXkNlMRsyl6Vwif"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 286960,
       "name": "I Feel So Good (I Wanna Boogie)",
       "url": "https://open.spotify.com/track/5QAqlUoctz45rVNgAB6U4c"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 190466,
-      "name": "Nasty Boogie",
-      "url": "https://open.spotify.com/track/3rzNjo8hXkNlMRsyl6Vwif"
     },
     {
       "added_at": "2022-07-29 10:36:46",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-07-29 10:36:46",
       "album": {
-        "name": "Outdated Emotion",
-        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 150571,
-      "name": "Long Tall Sally",
-      "url": "https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM"
-    },
-    {
-      "added_at": "2022-07-29 10:36:46",
-      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 181093,
       "name": "Blue Lamp",
       "url": "https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz"
+    },
+    {
+      "added_at": "2022-07-29 10:36:46",
+      "album": {
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 150571,
+      "name": "Long Tall Sally",
+      "url": "https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM"
     },
     {
       "added_at": "2022-07-29 10:36:46",

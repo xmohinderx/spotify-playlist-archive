@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 373969,
+  "num_followers": 373977,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMDI2MWMzNmM4YzZiYTBmYzcxNzA2MTI1NDBmNmRiMjg3",
+  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMGZjZGM4NGQ4ZjExZmE4OGFhNjhhOGRmZGM0NzRjY2Qw",
   "tracks": [
     {
       "added_at": "2022-04-29 23:01:28",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Californian Soil",
+        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 199996,
+      "name": "Lose Your Head",
+      "url": "https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "The Pilot",
         "url": "https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Californian Soil",
-        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
+        "name": "Phase (Deluxe)",
+        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
       },
       "artists": [
         {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+          "name": "Jack Garratt",
+          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
         }
       ],
-      "duration_ms": 199996,
-      "name": "Lose Your Head",
-      "url": "https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR"
+      "duration_ms": 260866,
+      "name": "Surprise Yourself",
+      "url": "https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -651,18 +667,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Phase (Deluxe)",
-        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
+        "name": "concrete",
+        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
       },
       "artists": [
         {
-          "name": "Jack Garratt",
-          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
         }
       ],
-      "duration_ms": 260866,
-      "name": "Surprise Yourself",
-      "url": "https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0"
+      "duration_ms": 212000,
+      "name": "concrete",
+      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -683,22 +699,6 @@
       "duration_ms": 284578,
       "name": "Dionne (feat. Justin Vernon)",
       "url": "https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "concrete",
-        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "concrete",
-      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Until We Meet Again",
-        "url": "https://open.spotify.com/album/4DAbrsYTHBjplIm9YLz6yU"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "I Can't Believe I Had You",
-      "url": "https://open.spotify.com/track/3QlHuITN1oEBmRnOj4F35M"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "true colors (from Life is Strange)",
         "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 210600,
       "name": "creep",
       "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/4DAbrsYTHBjplIm9YLz6yU"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "I Can't Believe I Had You",
+      "url": "https://open.spotify.com/track/3QlHuITN1oEBmRnOj4F35M"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Black Rain",
-        "url": "https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Black Rain",
-      "url": "https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Roses & Revolutions",
         "url": "https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Black Rain",
+        "url": "https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Black Rain",
+      "url": "https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "LP (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 158133,
       "name": "Swing Tree",
       "url": "https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
-      },
-      "artists": [
-        {
-          "name": "BEKA",
-          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
-        }
-      ],
-      "duration_ms": 235464,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
       },
       "artists": [
         {
-          "name": "ELLIANA",
-          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
+          "name": "BEKA",
+          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
         }
       ],
-      "duration_ms": 266036,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
+      "duration_ms": 235464,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1119,6 +1103,22 @@
       "duration_ms": 141049,
       "name": "cherry blossom",
       "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
+      },
+      "artists": [
+        {
+          "name": "ELLIANA",
+          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
+        }
+      ],
+      "duration_ms": 266036,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA"
+      },
+      "artists": [
+        {
+          "name": "Sam Sure",
+          "url": "https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd"
+        }
+      ],
+      "duration_ms": 192792,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Old T-Shirt (feat. koby)",
         "url": "https://open.spotify.com/album/41v6png8j9Y3dcnnShRtlb"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 219483,
       "name": "Old T-Shirt (feat. koby)",
       "url": "https://open.spotify.com/track/2eY9AF1LTqa1rR4MogBEu7"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA"
-      },
-      "artists": [
-        {
-          "name": "Sam Sure",
-          "url": "https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd"
-        }
-      ],
-      "duration_ms": 192792,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1335,6 +1335,38 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 196226,
+      "name": "Scarlett",
+      "url": "https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Far From Here",
+        "url": "https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 260338,
+      "name": "Edge Of The Dark",
+      "url": "https://open.spotify.com/track/5OLec5tme4i5o5pUXpiGop"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "What Kinda Music (Jordan Rakei Remix)",
         "url": "https://open.spotify.com/album/2xNZKNIlHUY9NKXrHzr19g"
       },
@@ -1371,18 +1403,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Far From Here",
-        "url": "https://open.spotify.com/album/0Mi6vGX45V3NRMY981idqZ"
+        "name": "Simple, Sweet, and Smiling",
+        "url": "https://open.spotify.com/album/1nIvucMZCDVpILHipWqVHY"
       },
       "artists": [
         {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Kacy Hill",
+          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
         }
       ],
-      "duration_ms": 260338,
-      "name": "Edge Of The Dark",
-      "url": "https://open.spotify.com/track/5OLec5tme4i5o5pUXpiGop"
+      "duration_ms": 246973,
+      "name": "Simple, Sweet, and Smiling",
+      "url": "https://open.spotify.com/track/2uKrEaRWif9zGGZpwtkAfh"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1399,22 +1431,6 @@
       "duration_ms": 232613,
       "name": "This World",
       "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Simple, Sweet, and Smiling",
-        "url": "https://open.spotify.com/album/1nIvucMZCDVpILHipWqVHY"
-      },
-      "artists": [
-        {
-          "name": "Kacy Hill",
-          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
-        }
-      ],
-      "duration_ms": 246973,
-      "name": "Simple, Sweet, and Smiling",
-      "url": "https://open.spotify.com/track/2uKrEaRWif9zGGZpwtkAfh"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "Scarlett",
-      "url": "https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0"
-      },
-      "artists": [
-        {
-          "name": "Oceanic",
-          "url": "https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "WONDER (reimagined)",
         "url": "https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 255976,
       "name": "WONDER - PVRIS Remix",
       "url": "https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0"
+      },
+      "artists": [
+        {
+          "name": "Oceanic",
+          "url": "https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "The Mathematics of Nature",
-        "url": "https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W"
+        "name": "River's Song",
+        "url": "https://open.spotify.com/album/10rDCowdUnvEHRnjAYxMcc"
       },
       "artists": [
         {
-          "name": "Matthew Chaim",
-          "url": "https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk"
+          "name": "Frase",
+          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
         }
       ],
-      "duration_ms": 363841,
-      "name": "Winter/Fall",
-      "url": "https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9"
+      "duration_ms": 248946,
+      "name": "River's Song",
+      "url": "https://open.spotify.com/track/6tHS4wXcmeGVRv7DEUrV3g"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "River's Song",
-        "url": "https://open.spotify.com/album/10rDCowdUnvEHRnjAYxMcc"
+        "name": "The Mathematics of Nature",
+        "url": "https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W"
       },
       "artists": [
         {
-          "name": "Frase",
-          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
+          "name": "Matthew Chaim",
+          "url": "https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk"
         }
       ],
-      "duration_ms": 248946,
-      "name": "River's Song",
-      "url": "https://open.spotify.com/track/6tHS4wXcmeGVRv7DEUrV3g"
+      "duration_ms": 363841,
+      "name": "Winter/Fall",
+      "url": "https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9"
     }
   ],
   "unique_name": "Creativity Boost",

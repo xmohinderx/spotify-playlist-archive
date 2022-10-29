@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Britney Spears x Elton John",
+  "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Sam Smith & Kim Petras",
   "name": "Pop Remix",
   "published_playlist_ids": [
     "19uNHWTaOVDySWkMTC6J3e"
@@ -903,6 +903,28 @@
       "duration_ms": 203476,
       "name": "Body - Joel Corry Remix",
       "url": "https://open.spotify.com/track/4Lm3Eh62HxFtOeY7Ra1CaI"
+    },
+    {
+      "album": {
+        "name": "Bones (twocolors Remix)",
+        "url": "https://open.spotify.com/album/6idPk4yzvCbpdkpNVJU1AE"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256092,
+      "name": "Bones - twocolors Remix",
+      "url": "https://open.spotify.com/track/2czjUxrgctplH7SDrJLGGb"
     },
     {
       "album": {
@@ -4316,6 +4338,32 @@
     },
     {
       "album": {
+        "name": "I'm Good (Blue) [Gabry Ponte Remix]",
+        "url": "https://open.spotify.com/album/0yspiEXcvJqcTMScgu04gq"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165776,
+      "name": "I'm Good (Blue) - Gabry Ponte Remix",
+      "url": "https://open.spotify.com/track/1Ic76JMsAbHdDscO9ooJm9"
+    },
+    {
+      "album": {
         "name": "I'm Good (Blue) [Remixes]",
         "url": "https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd"
       },
@@ -4335,7 +4383,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 178124,
       "name": "I'm Good (Blue) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc"
@@ -5433,10 +5481,32 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 187125,
       "name": "Million Dollar Baby - David Penn Remix",
       "url": "https://open.spotify.com/track/6ZZzcoEEfOgN7mFuVSDqjR"
+    },
+    {
+      "album": {
+        "name": "Million Dollar Baby (TELYKast Remix)",
+        "url": "https://open.spotify.com/album/1k9N6INpFsTp2o25ltbl9a"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193984,
+      "name": "Million Dollar Baby - TELYKast Remix",
+      "url": "https://open.spotify.com/track/1456BwjfgMkjvDZ59lDL7b"
     },
     {
       "album": {
@@ -8093,7 +8163,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 260522,
       "name": "Teardrops (feat. Majid Jordan) - Belters Only Remix",
       "url": "https://open.spotify.com/track/2ttYzPb48PVJjt6O8HdrQa"

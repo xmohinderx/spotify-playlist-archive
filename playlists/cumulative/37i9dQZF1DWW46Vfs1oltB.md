@@ -4,7 +4,7 @@
 
 > The hottest & new Korean hip hop music is here\. OWN the crown with KR hip hop music\. \(Cover: Jvcki Wai\) \(전세계에서 사랑받는 한국 힙합 히트 & 신곡을 만나보세요\. \(커버: 재키와이\)
 
-644 songs - 1 day 11 hr 45 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+645 songs - 1 day 11 hr 49 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [New World](https://open.spotify.com/track/7vb24k5iFSLY53mG0YFIEe) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [New World](https://open.spotify.com/album/62xUxe5tnJWJcOia8RZHXE) | 2:40 | 2022-03-14 | 2022-06-12 |
 | [Newly \(Prod\. Viann\)](https://open.spotify.com/track/4m2gjzySaNmjX1VOo25Mq5) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Iteawon Class Webtoon OST](https://open.spotify.com/album/3jzO0aYOt1lXrKbYoNdfav) | 3:23 | 2022-03-26 | 2022-06-06 |
 | [Next Up \(Feat\. Gwangil Jo, walo\)](https://open.spotify.com/track/74GvPNvJlrovH9rhlTaPSI) | [Yonge Jaundice](https://open.spotify.com/artist/0ESfTnqcM5os6xjx05jjYT), [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW), [walo](https://open.spotify.com/artist/3gaJRqGC11Wfp29AzyXJem) | [Yellow Fever](https://open.spotify.com/album/10gmo6qV4xcvToo4iOyVEv) | 3:37 | 2022-07-07 | 2022-08-13 |
+| [NG \(Feat\. pH\-1, Jay Park\)](https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [LOVE MAZE](https://open.spotify.com/album/7rOm15Kcboervh20RasQPp) | 3:47 | 2022-10-28 |  |
 | [Night Drive \(Feat\. JAEHA, Ourealgoat\)](https://open.spotify.com/track/72dvx8MKBBkQ5VugbINOHG) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [아우릴고트 \(Ourealgoat\)](https://open.spotify.com/artist/16VvyJKSg4Wxl0tU7Td0FJ) | [Blended Noise](https://open.spotify.com/album/7EB0Fr3m45Il2lmxA4I87O) | 2:53 | 2022-03-29 | 2022-07-05 |
 | [Nike Shoes](https://open.spotify.com/track/4qkLMfY5sczhls5VDdsrT1) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [24:26 \(5th Anniversary Remaster Edition\)](https://open.spotify.com/album/6GzOG46xmgSfB0PQdsnMDU) | 4:31 | 2022-10-19 | 2022-10-27 |
 | [nirvana](https://open.spotify.com/track/6lwnaua89XJozpusT4mirf) | [TANGTHEAWESOME](https://open.spotify.com/artist/0dH7U9VsdBan1K2G183OeH) | [nirvana](https://open.spotify.com/album/6hnj4Yob57nApLY8LXgDUN) | 3:16 | 2021-12-21 | 2022-05-08 |

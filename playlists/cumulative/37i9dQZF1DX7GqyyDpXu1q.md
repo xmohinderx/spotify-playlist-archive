@@ -4,7 +4,7 @@
 
 > Rock swagger served neat\. Cover: Margo Price
 
-163 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/79XVKo7l9XHjcwvW9O8E46)
+164 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/79XVKo7l9XHjcwvW9O8E46)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,13 +131,14 @@
 | [Reach the End](https://open.spotify.com/track/2EL9RNp2LEl981CY71uZJ1) | [Black Heart Saints](https://open.spotify.com/artist/2CTB1wGYcMnQP7PhbR6BkE) | [Reach the End](https://open.spotify.com/album/6zom4y37nZA6g5WJd3YNww) | 3:59 | 2021-08-25 | 2022-06-04 |
 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 | 2022-03-21 |  |
 | [Revival](https://open.spotify.com/track/7aBTTnmPNOnxns4zUqKFbl) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/2KYRGdnQoz7pkCMY2Ot9RM) | 3:49 | 2021-07-30 |  |
+| [Ride It Hard](https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Ride It Hard](https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV) | 2:30 | 2022-10-28 |  |
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2021-09-03 |  |
 | [Rock and Roll \(Ain't No Simple Thing\)](https://open.spotify.com/track/76kfV1gUWJ4wskDtiMfK36) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [No Simple Thing](https://open.spotify.com/album/7m23UIStg6wDZJpjGRzQQV) | 3:23 | 2021-05-28 |  |
 | [Rolling Off My Tongue](https://open.spotify.com/track/7qzXjNuwpSgqydOt5lv3PJ) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Rolling Off My Tongue](https://open.spotify.com/album/51VR4e9Pbf2J6NADaSwEMO) | 3:18 | 2020-08-21 | 2022-01-22 |
 | [Shaking off the Evil](https://open.spotify.com/track/3ciJVCGD7fJmHQPyVGcG2U) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Shaking off the Evil](https://open.spotify.com/album/5d0TZJlxMGzDsIhAbJOyQR) | 3:53 | 2020-08-21 | 2022-07-29 |
 | [Shaking Off The Evil](https://open.spotify.com/track/4WtE2YBjbAXq252VSmAu1R) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Shaking off the Evil](https://open.spotify.com/album/47U87lVnq682jHjg6YUp92) | 3:53 | 2022-06-14 |  |
 | [She Talks To Angels](https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 5:29 | 2020-08-21 |  |
-| [Side Street Shakedown](https://open.spotify.com/track/6kvU0tOTfsQV94MQvsuBmq) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Side Street Shakedown](https://open.spotify.com/album/3YtUZAChERlSGaIkRe4jdF) | 3:27 | 2021-09-10 |  |
+| [Side Street Shakedown](https://open.spotify.com/track/6kvU0tOTfsQV94MQvsuBmq) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Side Street Shakedown](https://open.spotify.com/album/3YtUZAChERlSGaIkRe4jdF) | 3:27 | 2021-09-10 | 2022-10-29 |
 | [Sing Along](https://open.spotify.com/track/0JwtuqKYYCA1iJ5cubotGW) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [SOUND & FURY](https://open.spotify.com/album/2ITJBRqMwZ0luWBnnZQ4Hq) | 2:54 | 2021-10-01 | 2022-02-19 |
 | [Smokestack Lightning](https://open.spotify.com/track/0AA58C0kJduvq8gvDF1E4r) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Smokestack Lightning](https://open.spotify.com/album/1mS7rSoYHzeyCHk7KHuERv) | 3:58 | 2022-04-08 |  |
 | [Sober](https://open.spotify.com/track/46NdO4T844WlG2nIfETxVl) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Sober](https://open.spotify.com/album/248lL8djvrPqwARAXJDbDa) | 2:36 | 2021-08-13 |  |

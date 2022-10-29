@@ -67,7 +67,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 208577,
       "name": "Abeg",
       "url": "https://open.spotify.com/track/0WbdFDTdIbfQdIyZEcXEqH"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 157233,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0BO57WBcIJXNgGI4X4nMxp"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 284117,
       "name": "Blue Film",
       "url": "https://open.spotify.com/track/2hyzt7X3NUy8cEnIqJqA0C"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 130500,
       "name": "CHERRY SWEET",
       "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 169600,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 174666,
       "name": "Feels Like Magic",
       "url": "https://open.spotify.com/track/6hE9eQNiZDdbHpaxPcSqjD"
@@ -986,6 +986,24 @@
     },
     {
       "album": {
+        "name": "How To Kill A Man",
+        "url": "https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174590,
+      "name": "How To Kill A Man",
+      "url": "https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb"
+    },
+    {
+      "album": {
         "name": "Feel Everything",
         "url": "https://open.spotify.com/album/2u68w7gKwmk7doL3JIhLif"
       },
@@ -1051,7 +1069,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 179882,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/4b8ae3a3l1vfpEumO8ijcS"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 193515,
       "name": "In A Loop",
       "url": "https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 130977,
       "name": "In my head",
       "url": "https://open.spotify.com/track/45QoXHG7QQdMRMSD2XImbb"
@@ -1233,6 +1251,28 @@
       "duration_ms": 121544,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
+    },
+    {
+      "album": {
+        "name": "R-/LBT",
+        "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
+      },
+      "artists": [
+        {
+          "name": "OSO",
+          "url": "https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2"
+        },
+        {
+          "name": "Riunga",
+          "url": "https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230808,
+      "name": "Lights Down Low",
+      "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
     },
     {
       "album": {
@@ -1356,6 +1396,24 @@
     },
     {
       "album": {
+        "name": "Spy Shitta The EP",
+        "url": "https://open.spotify.com/album/2vE9kJqmDwx4yICL2RPbqD"
+      },
+      "artists": [
+        {
+          "name": "Spy Shitta",
+          "url": "https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212031,
+      "name": "Migraine",
+      "url": "https://open.spotify.com/track/3CBPgAhZ8XnRxzLfksRS5Q"
+    },
+    {
+      "album": {
         "name": "MISS UNIVERSE",
         "url": "https://open.spotify.com/album/2F4eqhwtKRJtq4B8slZoTO"
       },
@@ -1401,7 +1459,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 201824,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/30PjTH4isfHAsIsa9lMVvh"
@@ -1499,7 +1557,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 213860,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
@@ -1648,6 +1706,28 @@
     },
     {
       "album": {
+        "name": "Perfect Girl (feat. MisterKay)",
+        "url": "https://open.spotify.com/album/10SAFauFQQneSjEe47W0hw"
+      },
+      "artists": [
+        {
+          "name": "RnB Princess",
+          "url": "https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg"
+        },
+        {
+          "name": "MisterKay",
+          "url": "https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153077,
+      "name": "Perfect Girl (feat. MisterKay)",
+      "url": "https://open.spotify.com/track/02N7PICytyxQIB83WNtxC8"
+    },
+    {
+      "album": {
         "name": "Pleasure",
         "url": "https://open.spotify.com/album/3muAl354ZsR01jO4Gsi22W"
       },
@@ -1663,6 +1743,24 @@
       "duration_ms": 183445,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/6INtRY5ec8tZ0DWkjHurfw"
+    },
+    {
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/0XvhZJjWZiuvE8tTcsyjnB"
+      },
+      "artists": [
+        {
+          "name": "Winny",
+          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151179,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/6WdVWpAVtE7CSKophvVSKa"
     },
     {
       "album": {
@@ -1808,6 +1906,32 @@
     },
     {
       "album": {
+        "name": "Scary",
+        "url": "https://open.spotify.com/album/5LLwIc70eeUjHynOpd1CH9"
+      },
+      "artists": [
+        {
+          "name": "DJ Semtex",
+          "url": "https://open.spotify.com/artist/3xhX0nrkThoOaGZZoFnCAt"
+        },
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        },
+        {
+          "name": "Twitch 4EVA",
+          "url": "https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161531,
+      "name": "Scary",
+      "url": "https://open.spotify.com/track/2zlCpQNLCXi3Vtg0ViPoCu"
+    },
+    {
+      "album": {
         "name": "SMALL WINS",
         "url": "https://open.spotify.com/album/2fCDdDPpepMIAtMPw1926c"
       },
@@ -1895,10 +2019,28 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 259673,
       "name": "Somali Rose",
       "url": "https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/37U6koHcGoQIQT64ykPt1u"
+      },
+      "artists": [
+        {
+          "name": "Twelve XII",
+          "url": "https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202962,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1nvmbch5gbBGCcgyv1T7Yx"
     },
     {
       "album": {
@@ -1943,6 +2085,24 @@
       "duration_ms": 210933,
       "name": "Superstar (Re-Up)",
       "url": "https://open.spotify.com/track/0cBkD7gWJizeBIT2MR411t"
+    },
+    {
+      "album": {
+        "name": "Table for Two",
+        "url": "https://open.spotify.com/album/3aoMBKJZG8CDYecBihJsBp"
+      },
+      "artists": [
+        {
+          "name": "Boyd",
+          "url": "https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207750,
+      "name": "Table for Two",
+      "url": "https://open.spotify.com/track/2ztim2Wblnr9vsbATzyMg2"
     },
     {
       "album": {
@@ -2019,10 +2179,32 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-29",
       "duration_ms": 154105,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/6Dcg4JEZgSS4YOeSpu4S76"
+    },
+    {
+      "album": {
+        "name": "Video Games",
+        "url": "https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe"
+      },
+      "artists": [
+        {
+          "name": "Ricky Tyler",
+          "url": "https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216214,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr"
     },
     {
       "album": {

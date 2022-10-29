@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > spooky season 🎃
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,537 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,654 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 39 | [Jeni](https://open.spotify.com/track/0O0DuN2YEF96wZvsQIly2V) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [AMO](https://open.spotify.com/album/0rsdh7RmT619F6n5bwLsGn) | 2:22 |
 | 40 | [Police](https://open.spotify.com/track/3B903DhOIENm4wNq356KJj) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Police](https://open.spotify.com/album/23klDTxN5Qe2wuZ9ad1y37) | 2:43 |
 | 41 | [NERVOUS](https://open.spotify.com/track/02TdJAx7jP57xQZTG4NGV8) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [NERVOUS](https://open.spotify.com/album/36oHp22A3Nmsed2MfrJB1Q) | 2:10 |
-| 42 | [MILLY](https://open.spotify.com/track/06HHolCxacIrz0nsK4APTv) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [MILLY](https://open.spotify.com/album/5RYmLEiBxdw2VP8s9Ebd3L) | 2:11 |
+| 42 | [Milly](https://open.spotify.com/track/3UjxSOYjAHZVYu7bfebKJ9) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Milly](https://open.spotify.com/album/5t0JJOfYML4rJrTuyvLSZB) | 2:11 |
 | 43 | [Slim Thick](https://open.spotify.com/track/74DJLJwUxPvPwOOPQDSdvF) | [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [Slim Thick](https://open.spotify.com/album/48y9ck9AA5inMgK6wBfR9U) | 2:38 |
 | 44 | [GITT](https://open.spotify.com/track/7jjBieRzHT48hUUA1ZAwHC) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [GITT](https://open.spotify.com/album/6HIedHgGtmRQSJBiqIn7yg) | 2:50 |
 | 45 | [Hela Vägen Upp](https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Jaqe](https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT) | [Hela Vägen Upp](https://open.spotify.com/album/5d313T0tvzEEZrsibsdvjP) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 74 | [Hammarkullen \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/3xPMakIXmuSEbiw0qW0waN) | [Aden x Asme](https://open.spotify.com/artist/1eX2QZGKv4RFxpDKUGxgm0), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Studio 100](https://open.spotify.com/album/4NwLiXienqAagaTO3B31Ej) | 2:49 |
 | 75 | [Lägg ner ditt vapen Remix \- Recorded at Spotify Studios Stockholm \(feat\. Linda Pira, Parham, Naod, Saliboy, Aki, SHRN, Macky, Aleks, Blen, Ismael, Elias Abbas, Masse & Mack Beats\)](https://open.spotify.com/track/08AjLNql6tuf1avIzHdKns) | [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk), [ISON](https://open.spotify.com/artist/7zJdWmVoGsqxaEl09XOvM5), [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3), [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy), [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF), [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [SHRN](https://open.spotify.com/artist/1s08lsfz12cC55p6MB5XMf), [Macky](https://open.spotify.com/artist/7yptUupX4aIIkXwXhggAgk), [Aleks](https://open.spotify.com/artist/0zKX6nlK1A4ZmztnFPOKGs), [Blen](https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7), [Ismael](https://open.spotify.com/artist/4kyXgKmaqyXCLW5e0sxqMj), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN), [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4) | [Studio 100 \(feat\. Linda Pira, Parham, Naod, Saliboy, Aki, SHRN, Macky, Aleks, Blen, Ismael, Elias Abbas, Masse & Mack Beats\)](https://open.spotify.com/album/574wYm0J5Vr8PBtG030M2C) | 5:21 |
 
-Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMGJlNzllZjg2MzE0OTkwM2NjNWJiOWI5ZjcyODIxMWVi`
+Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMDNiNDJiOWU3ZmQ0MWQzZWYzMWEzZTk5ZDdkMTFmNjQy`

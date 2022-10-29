@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,313 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,317 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,14 +87,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 77 | [RAPSTAR \- Remix](https://open.spotify.com/track/159MUi6v0n2o4f5PfzQ7Rn) | [Flowsik](https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Show Me the Money 5 Episode 3](https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA) | 3:38 |
 | 78 | [Time Travel](https://open.spotify.com/track/65ny4Q03m0zC2a5C3VPO3I) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [12](https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE) | 4:00 |
 | 79 | [SLASH \(Feat\. BIGONE\)](https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud) | [DO HAN SE](https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [BLAZE](https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ) | 2:11 |
-| 80 | [Diamonds](https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [P.O.E.M\. II](https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22) | 4:01 |
-| 81 | [Dream Chaser](https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Call Me Gray](https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9) | 4:33 |
-| 82 | [Infectious \(Til Infinity\)](https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf) | 3:35 |
+| 80 | [Infectious \(Til Infinity\)](https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf) | 3:35 |
+| 81 | [Diamonds](https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [P.O.E.M\. II](https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22) | 4:01 |
+| 82 | [Dream Chaser](https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Call Me Gray](https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9) | 4:33 |
 | 83 | [RESPECT \(feat.GRAY & DJ Pumkin\)](https://open.spotify.com/track/75SBGFK831bsaD2QwBF4WR) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [DJ Pumkin](https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [RESPECT](https://open.spotify.com/album/6LYPZz34qDpdVWFqqTB5aT) | 3:04 |
 | 84 | [Upgrade 2020](https://open.spotify.com/track/1yO2Tdk9kigVegslEzEWPN) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me the Money 9 Episode 2](https://open.spotify.com/album/212k31nG9gtLC4RbuDZ2fw) | 4:13 |
 | 85 | [YOUTH! \(feat\. Bewhy, HAON & Coogie\)](https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [YOUTH! \(feat\. Bewhy, HAON & Coogie\)](https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap) | 3:26 |
-| 86 | [111%](https://open.spotify.com/track/6XsK88k4pe30cx5as6z7xq) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [MULTILLIONAIRE](https://open.spotify.com/album/4BlHtDLeAwV6v8oUDAASk4) | 4:51 |
-| 87 | [Little Brothers \(Feat\. LIL GIMCHI\)](https://open.spotify.com/track/3pJnCMY3ox7NCXYU1kERms) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:17 |
+| 86 | [Little Brothers \(Feat\. LIL GIMCHI\)](https://open.spotify.com/track/3pJnCMY3ox7NCXYU1kERms) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:17 |
+| 87 | [111%](https://open.spotify.com/track/6XsK88k4pe30cx5as6z7xq) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [MULTILLIONAIRE](https://open.spotify.com/album/4BlHtDLeAwV6v8oUDAASk4) | 4:51 |
 | 88 | [MIRACLE\(Album version\)](https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 2:03 |
 | 89 | [Well Done](https://open.spotify.com/track/4nohFGugGn3NLIomiG9r4U) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi) | [Well Done](https://open.spotify.com/album/2qCpJl3aqKth5GRtjhQagS) | 4:16 |
 | 90 | [Double Up \(Feat\. skinny brown, CK\)](https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Ck](https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy) | [IT′S YOUR WAY](https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 99 | [dreamin'](https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:20 |
 | 100 | [GOT TO KNOW](https://open.spotify.com/track/4YwC2hm29FAHzKtO2TTIXc) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [THE STRANGER](https://open.spotify.com/album/68qFH3Tshdnqp4u3ttmHJB) | 2:41 |
 
-Snapshot ID: `MTY2NTExNzM1NSwwMDAwMDAwMDg0NTgzNjU2YjY1NTBiZDczNDgwZjk4MGRjZTg2NDQ2`
+Snapshot ID: `MTY2NTExNzM1NSwwMDAwMDAwMGQ1NDQ4NWUzMDM2M2QyNTIwNGU1ODcyNTlmNzRjOTVl`

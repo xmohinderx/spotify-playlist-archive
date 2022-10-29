@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 80451,
+  "num_followers": 80485,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5NDYyNiwwMDAwMDAwMDBmNzY2ZTlmMjM2YTY5ZjgzOTVkOGNkZDc4YTUzYjQ5",
+  "snapshot_id": "MTY2MjM5NDYyNiwwMDAwMDAwMGM1OTYwNWIzMmI0ZGU3ZDBmMTE5YzI1MmJjYTc5ZmNm",
   "tracks": [
     {
       "added_at": "2022-09-05 16:17:05",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 278029,
-      "name": "Tienat\u00e9",
-      "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Baxter (these are my friends)",
         "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 244034,
       "name": "Baxter (these are my friends)",
       "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Talkie Walkie",
+        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Alone in Kyoto",
+      "url": "https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -299,18 +299,18 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Talkie Walkie",
-        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
       },
       "artists": [
         {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 291000,
-      "name": "Alone in Kyoto",
-      "url": "https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm"
+      "duration_ms": 278029,
+      "name": "Tienat\u00e9",
+      "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Mister Mellow",
-        "url": "https://open.spotify.com/album/6Rfsivv6DPegVm4oYLeAsm"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 252920,
-      "name": "Hard To Say Goodbye",
-      "url": "https://open.spotify.com/track/3IrBsMDbRUZYIMcNcA7pPq"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Reminisce",
         "url": "https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 273117,
       "name": "It Was 9:30 and You Were Beautiful",
       "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Mister Mellow",
+        "url": "https://open.spotify.com/album/6Rfsivv6DPegVm4oYLeAsm"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 252920,
+      "name": "Hard To Say Goodbye",
+      "url": "https://open.spotify.com/track/3IrBsMDbRUZYIMcNcA7pPq"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 262990,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/2XqIGqPFhojwErHEhfN9QQ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 387593,
       "name": "All Inclusive",
       "url": "https://open.spotify.com/track/3gXM39jnW18uL5Zyg47wXN"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 262990,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "KOKOROKO",
-        "url": "https://open.spotify.com/album/69O30wRnJwMunRrM6IgSsO"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 424080,
-      "name": "Abusey Junction",
-      "url": "https://open.spotify.com/track/6G6gPQ4bGqNj7ZMGUpIDfa"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Pina Colada (And Other Early Tunes)",
         "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 359586,
       "name": "Under the Sea",
       "url": "https://open.spotify.com/track/6LGrEXeLdxgY5zuvJ6S89I"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "KOKOROKO",
+        "url": "https://open.spotify.com/album/69O30wRnJwMunRrM6IgSsO"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 424080,
+      "name": "Abusey Junction",
+      "url": "https://open.spotify.com/track/6G6gPQ4bGqNj7ZMGUpIDfa"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
+        "name": "Time out of Mind",
+        "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
+      },
+      "artists": [
+        {
+          "name": "Troubleman",
+          "url": "https://open.spotify.com/artist/18ddY9q3TfahyK9dG67fqq"
+        },
+        {
+          "name": "Nina Miranda",
+          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Paz",
+      "url": "https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 372640,
       "name": "You Rock Me - Long Version",
       "url": "https://open.spotify.com/track/4706xUPwNxD438vIJ3ELxq"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
-        "name": "Time out of Mind",
-        "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
-      },
-      "artists": [
-        {
-          "name": "Troubleman",
-          "url": "https://open.spotify.com/artist/18ddY9q3TfahyK9dG67fqq"
-        },
-        {
-          "name": "Nina Miranda",
-          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Paz",
-      "url": "https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs"
     },
     {
       "added_at": "2022-09-05 16:17:05",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-09-05 16:17:05",
       "album": {
-        "name": "Mediterraneo (Club Favourites Collection '90/98)",
-        "url": "https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s"
-      },
-      "artists": [
-        {
-          "name": "Don Carlos",
-          "url": "https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq"
-        }
-      ],
-      "duration_ms": 406200,
-      "name": "Alone - Paradise",
-      "url": "https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox"
-    },
-    {
-      "added_at": "2022-09-05 16:17:05",
-      "album": {
         "name": "Flashlight EP",
         "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 302542,
       "name": "Return to Air",
       "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
+    },
+    {
+      "added_at": "2022-09-05 16:17:05",
+      "album": {
+        "name": "Mediterraneo (Club Favourites Collection '90/98)",
+        "url": "https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s"
+      },
+      "artists": [
+        {
+          "name": "Don Carlos",
+          "url": "https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq"
+        }
+      ],
+      "duration_ms": 406200,
+      "name": "Alone - Paradise",
+      "url": "https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox"
     },
     {
       "added_at": "2022-09-05 16:17:05",
