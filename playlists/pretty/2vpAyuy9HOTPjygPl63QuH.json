@@ -1,12 +1,12 @@
 {
   "description": "The freshest house music, updated every friday. Submit here: https:&#x2F;&#x2F;linktr.ee&#x2F;houseshift",
-  "num_followers": 5359,
+  "num_followers": 5364,
   "original_name": "House Shift",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "NjIwNixkYzU5NjllYzFiMmVhMGUxZDczNDdhYmUxZGQyZWJjZTkxMzFhZmVk",
+  "snapshot_id": "NjIxMiwwYzgzNWIzZjM4OWNmZTU0YTA3MGYyYTFhYWZjYTk5YjJkNmE5MGE1",
   "tracks": [
     {
       "added_at": "2022-10-28 18:07:33",
@@ -63,6 +63,38 @@
       "duration_ms": 188251,
       "name": "A Drug From God (Reb\u016bke Remix)",
       "url": "https://open.spotify.com/track/5MFe1Wz3fNTYRJhxK2kk57"
+    },
+    {
+      "added_at": "2022-10-29 17:22:28",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/1lRWLeid0IUaPuEz0a2c8u"
+      },
+      "artists": [
+        {
+          "name": "Siege",
+          "url": "https://open.spotify.com/artist/3Y7jEjvZAosFRghJl62VNd"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/3E3TP2YxTD3TBtoGxKJ3X4"
+    },
+    {
+      "added_at": "2022-10-28 18:09:37",
+      "album": {
+        "name": "Krank",
+        "url": "https://open.spotify.com/album/0yoJL72KD6KmXNGMfv2WBg"
+      },
+      "artists": [
+        {
+          "name": "Nightlapse",
+          "url": "https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX"
+        }
+      ],
+      "duration_ms": 226795,
+      "name": "Krank",
+      "url": "https://open.spotify.com/track/2mpoYNw6rfN2aTIPMWMRvv"
     },
     {
       "added_at": "2022-10-28 21:55:36",
@@ -167,6 +199,22 @@
       "duration_ms": 173333,
       "name": "News For You",
       "url": "https://open.spotify.com/track/1rzuJBpMi64zb9T0Ckgkj1"
+    },
+    {
+      "added_at": "2022-10-29 22:18:34",
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/26RgtRfY7tfyCOM88PrLAr"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "duration_ms": 243984,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/7yEDXWnJtWkHnVsclNuklc"
     },
     {
       "added_at": "2022-10-28 18:08:07",
@@ -377,22 +425,6 @@
       "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
     },
     {
-      "added_at": "2022-10-28 18:09:37",
-      "album": {
-        "name": "Krank",
-        "url": "https://open.spotify.com/album/0yoJL72KD6KmXNGMfv2WBg"
-      },
-      "artists": [
-        {
-          "name": "Nightlapse",
-          "url": "https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX"
-        }
-      ],
-      "duration_ms": 226795,
-      "name": "Krank",
-      "url": "https://open.spotify.com/track/2mpoYNw6rfN2aTIPMWMRvv"
-    },
-    {
       "added_at": "2022-10-28 18:09:50",
       "album": {
         "name": "Nightmares",
@@ -455,6 +487,22 @@
       "duration_ms": 188322,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/1GSisTsTuL17nbcb7Vxu7V"
+    },
+    {
+      "added_at": "2022-10-29 22:17:35",
+      "album": {
+        "name": "Vampire",
+        "url": "https://open.spotify.com/album/5wX6Us1v6FpO0xLAEId1FR"
+      },
+      "artists": [
+        {
+          "name": "Ellen Degenerate",
+          "url": "https://open.spotify.com/artist/5FhDhL3YdHHClp49T2RbmC"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "Vampire",
+      "url": "https://open.spotify.com/track/6VmLMQBPMEoQUlklg5htP0"
     }
   ],
   "unique_name": "House Shift",

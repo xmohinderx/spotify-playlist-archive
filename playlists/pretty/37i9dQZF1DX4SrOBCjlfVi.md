@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Kodak Black, Polo G, Trippie Redd and more\. Cover: Baby Keem
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,809 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,899 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 43 | [PIANO \(feat\. Lay Bankz\)](https://open.spotify.com/track/7ERd87EHVWn9585J4qXxPS) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Club Godfather](https://open.spotify.com/album/76B56iUllijLjhuH7XFqBi) | 2:36 |
 | 44 | [Get Back](https://open.spotify.com/track/24mhLykwI2lB83lni1ie6M) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj), [Lil Kooley](https://open.spotify.com/artist/513b5wV5DQzpJi5ywvQmbK) | [Get Back](https://open.spotify.com/album/70sGzCe6hvkhP9QjddWncX) | 2:24 |
 | 45 | [Ghetto Superstar](https://open.spotify.com/track/3hB7moB5c6QJiLEAY6WT3D) | [SipTee](https://open.spotify.com/artist/31rh41TZtR4OpDLeWa4muz) | [\#1 Draft Pick](https://open.spotify.com/album/4KMUtwyylQP5bId4MUsG77) | 2:46 |
-| 46 | [We Can Go \(with Nick Mira\)](https://open.spotify.com/track/0DVslK66NjSwE9H85KEAY3) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej), [Nick Mira](https://open.spotify.com/artist/5KSrEnvxemHYGdG33IKWk4) | [We Can Go \(with Nick Mira\)](https://open.spotify.com/album/5RXVeW0diWnORnTtGTrR5H) | 2:27 |
+| 46 | [We Can Go](https://open.spotify.com/track/0DVslK66NjSwE9H85KEAY3) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej), [Nick Mira](https://open.spotify.com/artist/5KSrEnvxemHYGdG33IKWk4) | [We Can Go](https://open.spotify.com/album/5RXVeW0diWnORnTtGTrR5H) | 2:27 |
 | 47 | [Bag$ on Bag$](https://open.spotify.com/track/1zsjjr1BXuxkA83TZlcQFY) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Bag$ on Bag$](https://open.spotify.com/album/6ldurV96sDvUIeJ6H5m1dM) | 3:13 |
 | 48 | [All I Never Wanted](https://open.spotify.com/track/202yaLntC4WM5V7odMhg9z) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [All I Never Wanted](https://open.spotify.com/album/71BkhJrPstzBgz6So9c2sj) | 2:05 |
 | 49 | [I Don’t Text Back \(feat\. Yeat\)](https://open.spotify.com/track/6Gh8SC2X9tC1EmgJK6tin0) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Ma’ I Got A Family \(A Gangsta Grillz Special Edition Hosted by DJ Drama\)](https://open.spotify.com/album/03uqzSo0gE0j2kXooydtMh) | 2:11 |

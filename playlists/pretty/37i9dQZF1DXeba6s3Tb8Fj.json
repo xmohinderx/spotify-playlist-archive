@@ -1,12 +1,12 @@
 {
   "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
-  "num_followers": 4815,
+  "num_followers": 4835,
   "original_name": "African Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDg5MGViYTdiZWNiZjkzZDUzNTEyYmU1NDVmODkwNDQ3",
+  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDVlZmIzNDkyYjFiM2JmNTA3NTg2ODU2ODE5MmQ2Yjdm",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Rainy Season Blues",
+        "url": "https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M"
+      },
+      "artists": [
+        {
+          "name": "Lobi Traor\u00e9",
+          "url": "https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp"
+        }
+      ],
+      "duration_ms": 141360,
+      "name": "A Lam\u00e8n",
+      "url": "https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Kel Tamasheq (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 284840,
       "name": "Awa adounia",
       "url": "https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Rainy Season Blues",
-        "url": "https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M"
-      },
-      "artists": [
-        {
-          "name": "Lobi Traor\u00e9",
-          "url": "https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp"
-        }
-      ],
-      "duration_ms": 141360,
-      "name": "A Lam\u00e8n",
-      "url": "https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Music from Saharan Cellphones, Vol. 1",
-        "url": "https://open.spotify.com/album/4VK8kX70jpOy0QfKIWltaU"
-      },
-      "artists": [
-        {
-          "name": "Amanar",
-          "url": "https://open.spotify.com/artist/3UqKqZAPRw5jnAmiDoD6Px"
-        }
-      ],
-      "duration_ms": 397706,
-      "name": "Alghafiat",
-      "url": "https://open.spotify.com/track/2XNNxHozxIxvJ6gUnjWjt3"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/78Pv299m6S629pS6hPFOix"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 358626,
       "name": "Heygana",
       "url": "https://open.spotify.com/track/3DtHJ8fImqihyFylpeqdqA"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Music from Saharan Cellphones, Vol. 1",
+        "url": "https://open.spotify.com/album/4VK8kX70jpOy0QfKIWltaU"
+      },
+      "artists": [
+        {
+          "name": "Amanar",
+          "url": "https://open.spotify.com/artist/3UqKqZAPRw5jnAmiDoD6Px"
+        }
+      ],
+      "duration_ms": 397706,
+      "name": "Alghafiat",
+      "url": "https://open.spotify.com/track/2XNNxHozxIxvJ6gUnjWjt3"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Seya",
-        "url": "https://open.spotify.com/album/1nEaABF2RBrAzbX0akAyk6"
-      },
-      "artists": [
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
-        }
-      ],
-      "duration_ms": 396373,
-      "name": "Iyo Djeli",
-      "url": "https://open.spotify.com/track/71vG7YOBuSQD5BnRH9HZH0"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Elwan",
         "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 224400,
       "name": "Tiw\u00e0yyen",
       "url": "https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Seya",
+        "url": "https://open.spotify.com/album/1nEaABF2RBrAzbX0akAyk6"
+      },
+      "artists": [
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "duration_ms": 396373,
+      "name": "Iyo Djeli",
+      "url": "https://open.spotify.com/track/71vG7YOBuSQD5BnRH9HZH0"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -435,22 +435,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Mogoya",
-        "url": "https://open.spotify.com/album/43euCDOikmefRS29Y55pLX"
+        "name": "The Secret",
+        "url": "https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc"
       },
       "artists": [
         {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
         },
         {
-          "name": "Tony Allen",
-          "url": "https://open.spotify.com/artist/2nWaAPCkilQ0mXATt2O3he"
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 311266,
-      "name": "Yere faga",
-      "url": "https://open.spotify.com/track/2TdpGmTV28dk9XPJhHq1h1"
+      "duration_ms": 411013,
+      "name": "The Secret",
+      "url": "https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -503,22 +503,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Secret",
-        "url": "https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc"
+        "name": "Mogoya",
+        "url": "https://open.spotify.com/album/43euCDOikmefRS29Y55pLX"
       },
       "artists": [
         {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
         },
         {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/2nWaAPCkilQ0mXATt2O3he"
         }
       ],
-      "duration_ms": 411013,
-      "name": "The Secret",
-      "url": "https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE"
+      "duration_ms": 311266,
+      "name": "Yere faga",
+      "url": "https://open.spotify.com/track/2TdpGmTV28dk9XPJhHq1h1"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Ishumar: Musique touar\u00e8gue de r\u00e9sistance",
+        "url": "https://open.spotify.com/album/5W3fyI4YPle5wruoB9mBOX"
+      },
+      "artists": [
+        {
+          "name": "Terakaft",
+          "url": "https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue"
+        }
+      ],
+      "duration_ms": 420160,
+      "name": "Tenere wer tat zinchegh",
+      "url": "https://open.spotify.com/track/2ublmuB6ysxXMtb64UOIjk"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Kulanjan",
         "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 197960,
       "name": "Mississippi-Mali Blues",
       "url": "https://open.spotify.com/track/2L0gh4ZlfAyfSBnAovbQAh"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Ishumar: Musique touar\u00e8gue de r\u00e9sistance",
-        "url": "https://open.spotify.com/album/5W3fyI4YPle5wruoB9mBOX"
-      },
-      "artists": [
-        {
-          "name": "Terakaft",
-          "url": "https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue"
-        }
-      ],
-      "duration_ms": 420160,
-      "name": "Tenere wer tat zinchegh",
-      "url": "https://open.spotify.com/track/2ublmuB6ysxXMtb64UOIjk"
     },
     {
       "added_at": "2020-12-01 05:01:00",

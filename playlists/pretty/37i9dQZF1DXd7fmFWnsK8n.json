@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 57783,
+  "num_followers": 57814,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5NTYwMCwwMDAwMDAwMGNkYzA1ODYzM2ZjZjFhYzVlN2UyNjI5YWRiMTU5M2Ni",
+  "snapshot_id": "MTY2NDg5NTYwMCwwMDAwMDAwMDY5MmIyMGNmNTRkNjUzN2Q4YTk4OThlOTI3NzZlM2Vh",
   "tracks": [
     {
       "added_at": "2022-10-04 15:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "Love two you",
-        "url": "https://open.spotify.com/album/1mm3C2rMN35Qi1vsyfy3nd"
-      },
-      "artists": [
-        {
-          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
-          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Love two you",
-      "url": "https://open.spotify.com/track/4VE4Nm0MCqKIYqRiLffNBf"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
         "name": "SEPTET for...",
         "url": "https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 260013,
       "name": "SEPTET for...",
       "url": "https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "Love two you",
+        "url": "https://open.spotify.com/album/1mm3C2rMN35Qi1vsyfy3nd"
+      },
+      "artists": [
+        {
+          "name": "\u4e8c\u968e\u5802\u5927\u548c (CV.\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Love two you",
+      "url": "https://open.spotify.com/track/4VE4Nm0MCqKIYqRiLffNBf"
     },
     {
       "added_at": "2022-10-04 15:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-10-04 15:00:00",
       "album": {
-        "name": "My Precious World",
-        "url": "https://open.spotify.com/album/7Hl7VHWsWdBRFe7pS2OrXk"
-      },
-      "artists": [
-        {
-          "name": "TRIGGER",
-          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "My Precious World",
-      "url": "https://open.spotify.com/track/2BBSxqfQ0Tl24L9smDc7Yb"
-    },
-    {
-      "added_at": "2022-10-04 15:00:00",
-      "album": {
         "name": "REGALITY",
         "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 272506,
       "name": "Leopard Eyes",
       "url": "https://open.spotify.com/track/1pBQJ0hZyFIwKCayM9nISj"
+    },
+    {
+      "added_at": "2022-10-04 15:00:00",
+      "album": {
+        "name": "My Precious World",
+        "url": "https://open.spotify.com/album/7Hl7VHWsWdBRFe7pS2OrXk"
+      },
+      "artists": [
+        {
+          "name": "TRIGGER",
+          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "My Precious World",
+      "url": "https://open.spotify.com/track/2BBSxqfQ0Tl24L9smDc7Yb"
     },
     {
       "added_at": "2022-10-04 15:00:00",

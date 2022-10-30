@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-383 songs - 22 hr 45 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+384 songs - 22 hr 48 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Pie](https://open.spotify.com/track/5FIL4xyTK6b5ISNTOB2Fr4) | [Los Lugares](https://open.spotify.com/artist/0r2rovEzv0fYVqPsMQ1aPx) | [Los Días Que Pasan](https://open.spotify.com/album/6peHGFuyfqTB089wxysb9n) | 3:41 | 2022-07-01 | 2022-07-25 |
 | [A Veces](https://open.spotify.com/track/5vgP0xhU3BEiTTdD7hEHuQ) | [Canti](https://open.spotify.com/artist/5lCHYFMjHUnw7hXyt6wBdu) | [A Veces](https://open.spotify.com/album/2QgIK76T271y1woRtzl2KB) | 4:04 | 2022-07-01 | 2022-07-27 |
 | [Acantilados](https://open.spotify.com/track/3ye5LxSF9ckZBvuKgfOggW) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Acantilados](https://open.spotify.com/album/4oOSQbhvA8Rn6tMVkdWfAX) | 3:17 | 2022-06-03 | 2022-07-29 |
-| [ACAPULCO GOLD](https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH) | [ACAPULCO GOLD](https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x) | 2:58 | 2022-10-07 |  |
+| [ACAPULCO GOLD](https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH) | [ACAPULCO GOLD](https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x) | 2:58 | 2022-10-07 | 2022-10-30 |
 | [ACUARIOS](https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [ORDEN Y PROGRESO](https://open.spotify.com/album/5vDs96vuAqYosG7g0jxxFx) | 3:05 | 2022-07-01 |  |
 | [Agua Marfil](https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S) | 4:11 | 2022-10-12 |  |
 | [Al Aterrizar](https://open.spotify.com/track/0oA1c3ufDFlHv0KeimrXky) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Muñecas](https://open.spotify.com/album/4Zj3UQH2PK5dmUe0MgTJlj) | 3:27 | 2022-07-15 | 2022-07-20 |
@@ -297,6 +297,7 @@
 | [Polvo de Estrellas](https://open.spotify.com/track/4LDHQIpRkjQkmmmgMd1lsy) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Polvo de Estrellas](https://open.spotify.com/album/29wM86WH6LmH3F7AtQN3Eh) | 2:15 | 2022-06-03 | 2022-07-29 |
 | [Posiblemente](https://open.spotify.com/track/0unDoM0K23Us89jR1BITXT) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Piruetas y Viñetas](https://open.spotify.com/album/5M5RJ8XtpMKDhyqDKVaSIB) | 3:17 | 2022-06-03 | 2022-07-25 |
 | [Promotora](https://open.spotify.com/track/6aaljMIyDKTMjWoaSwOUSP) | [Tus Amigos Nuevos](https://open.spotify.com/artist/4dqL8obu05HTocAZNPJvfc) | [Persisten](https://open.spotify.com/album/2ZEDMESL0Nieza6iWHb4xY) | 3:56 | 2022-06-03 | 2022-07-28 |
+| [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 | 2022-10-28 |  |
 | [Puedo](https://open.spotify.com/track/2LXpeBAJRi6uXPnqks3Eps) | [Platónicos](https://open.spotify.com/artist/34p7ODrlQfGS5QgDqgmeqY) | [Puedo](https://open.spotify.com/album/50QJTw1EqEwLCaKRVvJeuc) | 2:51 | 2022-06-03 | 2022-07-17 |
 | [Puedo Con Esto \- Fuera de Foco](https://open.spotify.com/track/7b20UD7LTaWHH1DIyL3ECx) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Puedo Con Esto \(Fuera de Foco\)](https://open.spotify.com/album/6CfLbqRfL0xrUIQZ6fa6id) | 3:54 | 2022-06-03 |  |
 | [Puñal](https://open.spotify.com/track/2Qk4jBRm07hWUp2F0oF5N1) | [Diosque](https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Rampaluz](https://open.spotify.com/album/7y4wPtBbZlQfvAxsGfXwhH) | 2:48 | 2022-09-09 |  |

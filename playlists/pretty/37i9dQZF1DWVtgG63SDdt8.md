@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  KB and Brandon Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,051 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,264 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 19 | [First Love](https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K) | [Christ Encounter](https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf) | [First Love](https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ) | 4:08 |
 | 20 | [Jesus paid it all.](https://open.spotify.com/track/37yqadB1IUSaFrrakHz5jt) | [Lofi Hymns.](https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW), [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx), [Brianna Grace](https://open.spotify.com/artist/6nrPVB5yw6xbWdI7yEjXfY) | [Jesus paid it all.](https://open.spotify.com/album/2hWCnPbAqHr9TCNsD1Cx98) | 3:06 |
 | 21 | [Walk Away](https://open.spotify.com/track/5bCjoSvRrL8YVB0sntBEKd) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Baptized Imagination](https://open.spotify.com/album/1fbxmuiX3FXjhMzwJGYwQE) | 3:10 |
-| 22 | [Father Son Holy Ghost](https://open.spotify.com/track/2AMk9AgjMvsIKbTvsT2bSE) | [Ocean & The Ghost](https://open.spotify.com/artist/3ytwqUISAunRjhTvQwNTQg), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Father Son Holy Ghost](https://open.spotify.com/album/7gXMkLx45jfDEZuw8zwJQk) | 4:05 |
+| 22 | [Father, Son and Holy Ghost](https://open.spotify.com/track/2AMk9AgjMvsIKbTvsT2bSE) | [Ocean & The Ghost](https://open.spotify.com/artist/3ytwqUISAunRjhTvQwNTQg), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Father, Son and Holy Ghost](https://open.spotify.com/album/7gXMkLx45jfDEZuw8zwJQk) | 4:05 |
 | 23 | [Miracle](https://open.spotify.com/track/6A7nOV3lr0N0IIKgHmWcMe) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Miracle](https://open.spotify.com/album/2uNWTil8rUcxlwdEAy2MgX) | 3:14 |
 | 24 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
 | 25 | [Villain & Saint](https://open.spotify.com/track/2HeteiJyA5mWMHQXnahJhg) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Villain & Saint](https://open.spotify.com/album/52SyailZ0AhjofyjzZ19Vv) | 3:57 |

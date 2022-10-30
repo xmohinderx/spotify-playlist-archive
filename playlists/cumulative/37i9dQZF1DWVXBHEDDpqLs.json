@@ -350,6 +350,24 @@
     },
     {
       "album": {
+        "name": "Svengali",
+        "url": "https://open.spotify.com/album/2h8f7vS40iywANXRz0tiYL"
+      },
+      "artists": [
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154358,
+      "name": "Ball And Chain",
+      "url": "https://open.spotify.com/track/0zD50HrXQAuuRlFyxIoCtx"
+    },
+    {
+      "album": {
         "name": "BNGRZ001 - Side B",
         "url": "https://open.spotify.com/album/41wgCm4bRRspnmqLEzqtVQ"
       },
@@ -929,7 +947,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 189518,
       "name": "COME THRU",
       "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
@@ -1233,6 +1251,28 @@
       "duration_ms": 150929,
       "name": "Eyes On Me - Solardo Remix",
       "url": "https://open.spotify.com/track/6h39dC39snLZDESOv5MV5U"
+    },
+    {
+      "album": {
+        "name": "EZ 4 Me",
+        "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        },
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180628,
+      "name": "EZ 4 Me",
+      "url": "https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T"
     },
     {
       "album": {
@@ -1603,7 +1643,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-10",
+      "date_removed": null,
       "duration_ms": 243720,
       "name": "Holding It Together",
       "url": "https://open.spotify.com/track/2I86S8Clb865nD6VTiMq6n"
@@ -2037,7 +2077,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 176572,
       "name": "Lonely in Tokyo - Bianca Oblivion Club Remix",
       "url": "https://open.spotify.com/track/4nFTdm00nqHN0TKT39QnsE"
@@ -2419,7 +2459,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 173000,
       "name": "RDT - Detroit In Effect Remix",
       "url": "https://open.spotify.com/track/5Tel96YhCtK8jdNb3S92hO"

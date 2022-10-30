@@ -1,12 +1,12 @@
 {
   "description": "Rave season is upon us. Album week for Fred again..!",
-  "num_followers": 18415,
+  "num_followers": 18613,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODAwMCwwMDAwMDAwMDQ0MzAzMGM1MTUzMWRmMzlhZDVhNWQ3Y2Y4YjFkZDI4",
+  "snapshot_id": "MTY2NjkwODAwMCwwMDAwMDAwMGJhYTMyNDYyYTkyZGQwMjg0NGE5MGE4Y2ZjMzU3NTlm",
   "tracks": [
     {
       "added_at": "2022-10-27 22:00:00",
@@ -723,6 +723,26 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
+        "name": "Opal (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 494256,
+      "name": "Opal - Four Tet Remix",
+      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
         "name": "beachin",
         "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 194568,
       "name": "beachin",
       "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Opal (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 494256,
-      "name": "Opal - Four Tet Remix",
-      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
+        "name": "Looking at Your Pager",
+        "url": "https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+        }
+      ],
+      "duration_ms": 174417,
+      "name": "Looking at Your Pager",
+      "url": "https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
         "name": "The Last Goodbye Remixes N\u00b0.1",
         "url": "https://open.spotify.com/album/0vt9IqflcQqkTa6ExJoccQ"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 236936,
       "name": "The Last Goodbye (feat. Bettye LaVette) - DJ Seinfeld Remix",
       "url": "https://open.spotify.com/track/4DmUdGg9eXpOb48eDjOi1p"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Looking at Your Pager",
-        "url": "https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz"
-      },
-      "artists": [
-        {
-          "name": "KH",
-          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
-        }
-      ],
-      "duration_ms": 174417,
-      "name": "Looking at Your Pager",
-      "url": "https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -995,26 +995,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Florianopolis",
-        "url": "https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj"
-      },
-      "artists": [
-        {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 141467,
-      "name": "Florianopolis",
-      "url": "https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "Touch (feat. Rromarin)",
         "url": "https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 206250,
       "name": "Touch (feat. Rromarin)",
       "url": "https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+      },
+      "artists": [
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
+        "name": "Florianopolis",
+        "url": "https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj"
+      },
+      "artists": [
+        {
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 141467,
+      "name": "Florianopolis",
+      "url": "https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
         "name": "Boom Boom (feat. CHRSTPHR)",
         "url": "https://open.spotify.com/album/7pkY5Owef8tkoR7Y88Olwt"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 178131,
       "name": "Boom Boom (feat. CHRSTPHR)",
       "url": "https://open.spotify.com/track/41Fq0oWTtuGes9RR6UhMw1"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
-      },
-      "artists": [
-        {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Standing There",
-        "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 216028,
-      "name": "Standing There",
-      "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "About My Dreams",
         "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
       },
@@ -1407,6 +1391,42 @@
       "duration_ms": 320000,
       "name": "About My Dreams",
       "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/0LOQJEGmChTbhp9SH5FpLc"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Baby Sol",
+          "url": "https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ"
+        }
+      ],
+      "duration_ms": 159187,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2TYjPIYOSoQ3Mu3ojzL0uD"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "Standing There",
+        "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 216028,
+      "name": "Standing There",
+      "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1447,26 +1467,6 @@
       "duration_ms": 240000,
       "name": "Discipline (with Tchami)",
       "url": "https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/0LOQJEGmChTbhp9SH5FpLc"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "Baby Sol",
-          "url": "https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ"
-        }
-      ],
-      "duration_ms": 159187,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2TYjPIYOSoQ3Mu3ojzL0uD"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1623,34 +1623,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Remix EP",
-        "url": "https://open.spotify.com/album/2o4SFDvTSB7Kg1uFBoGK55"
-      },
-      "artists": [
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        },
-        {
-          "name": "Sam Ruffillo",
-          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
-        },
-        {
-          "name": "Kapote",
-          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
-        },
-        {
-          "name": "David Morales",
-          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
-        }
-      ],
-      "duration_ms": 186741,
-      "name": "Invincible - David Morales Remix",
-      "url": "https://open.spotify.com/track/37hv4SnvsL9G47lIt8grBw"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "Let's Go Dancing",
         "url": "https://open.spotify.com/album/0dC3hdukoHUsgbVVCCLLYR"
       },
@@ -1683,6 +1655,34 @@
       "duration_ms": 273844,
       "name": "Lost Island",
       "url": "https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "Remix EP",
+        "url": "https://open.spotify.com/album/2o4SFDvTSB7Kg1uFBoGK55"
+      },
+      "artists": [
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        },
+        {
+          "name": "Sam Ruffillo",
+          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
+        },
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        },
+        {
+          "name": "David Morales",
+          "url": "https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts"
+        }
+      ],
+      "duration_ms": 186741,
+      "name": "Invincible - David Morales Remix",
+      "url": "https://open.spotify.com/track/37hv4SnvsL9G47lIt8grBw"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Hours and Hours",
-        "url": "https://open.spotify.com/album/4doUhaVPZ5BbnemJ5Pp4Df"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        }
-      ],
-      "duration_ms": 245901,
-      "name": "Hours and Hours",
-      "url": "https://open.spotify.com/track/1aMvOZXicxEV0dzlYveyKG"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "Touch (Solomun Remix)",
         "url": "https://open.spotify.com/album/3OzCCg2DJ8wpKZQzoXm5Kq"
       },
@@ -1763,18 +1747,38 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/2XjYjAgjoaBrbRh7xzj3WT"
+        "name": "Tetema",
+        "url": "https://open.spotify.com/album/5XMlPh4QACA389AplduJ2w"
       },
       "artists": [
         {
-          "name": "Miyagi",
-          "url": "https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9"
+          "name": "The Gabe Concept",
+          "url": "https://open.spotify.com/artist/3EMVE8FNrFISPFosi3Oevr"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
         }
       ],
-      "duration_ms": 378425,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/7q3e8G09hBubfDjD1B5A9a"
+      "duration_ms": 202622,
+      "name": "Tetema",
+      "url": "https://open.spotify.com/track/3f9vaq5dOpkvzLMWsarDFF"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "Hours and Hours",
+        "url": "https://open.spotify.com/album/4doUhaVPZ5BbnemJ5Pp4Df"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "duration_ms": 245901,
+      "name": "Hours and Hours",
+      "url": "https://open.spotify.com/track/1aMvOZXicxEV0dzlYveyKG"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1791,6 +1795,22 @@
       "duration_ms": 426058,
       "name": "Papillon",
       "url": "https://open.spotify.com/track/1vpOY0slxNwm6EO7ykjsfZ"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/2XjYjAgjoaBrbRh7xzj3WT"
+      },
+      "artists": [
+        {
+          "name": "Miyagi",
+          "url": "https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9"
+        }
+      ],
+      "duration_ms": 378425,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/7q3e8G09hBubfDjD1B5A9a"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1823,6 +1843,22 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
+        "name": "On Call",
+        "url": "https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX"
+      },
+      "artists": [
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        }
+      ],
+      "duration_ms": 267750,
+      "name": "On Call",
+      "url": "https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
         "name": "Orbit (Adriatique & Ae:ther Remix)",
         "url": "https://open.spotify.com/album/3PuUgHUpUC0E7sPLSaDd5z"
       },
@@ -1851,22 +1887,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "On Call",
-        "url": "https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX"
-      },
-      "artists": [
-        {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
-        }
-      ],
-      "duration_ms": 267750,
-      "name": "On Call",
-      "url": "https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "Nobody Is Not Loved, Remixes, Pt. 4",
         "url": "https://open.spotify.com/album/6NwJLoXyGez4imDQrZOLD4"
       },
@@ -1883,26 +1903,6 @@
       "duration_ms": 377612,
       "name": "Home - Boys Noize Remix",
       "url": "https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Tetema",
-        "url": "https://open.spotify.com/album/5XMlPh4QACA389AplduJ2w"
-      },
-      "artists": [
-        {
-          "name": "The Gabe Concept",
-          "url": "https://open.spotify.com/artist/3EMVE8FNrFISPFosi3Oevr"
-        },
-        {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
-        }
-      ],
-      "duration_ms": 202622,
-      "name": "Tetema",
-      "url": "https://open.spotify.com/track/3f9vaq5dOpkvzLMWsarDFF"
     },
     {
       "added_at": "2022-10-27 22:00:00",

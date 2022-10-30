@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 241816,
+  "num_followers": 241858,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGEzYTMxMWU1ZWE2ZDg5MTE0NjgxZmJmMTcyODcxZjZi",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGNhOTUzZTAyYjQ1NTI4NzQyZTUyMzk2MzJjOTFlNWJl",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -351,18 +351,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Ayahuasca",
-        "url": "https://open.spotify.com/album/241mYCg9mXZXgfTAlTsktH"
+        "name": "Vallis Alps",
+        "url": "https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2"
       },
       "artists": [
         {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
         }
       ],
-      "duration_ms": 508601,
-      "name": "Ayahuasca",
-      "url": "https://open.spotify.com/track/6oVm5ocTB8B0rjO5dZk8Px"
+      "duration_ms": 324106,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -383,18 +383,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Vallis Alps",
-        "url": "https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2"
+        "name": "Ayahuasca",
+        "url": "https://open.spotify.com/album/241mYCg9mXZXgfTAlTsktH"
       },
       "artists": [
         {
-          "name": "Vallis Alps",
-          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
         }
       ],
-      "duration_ms": 324106,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd"
+      "duration_ms": 508601,
+      "name": "Ayahuasca",
+      "url": "https://open.spotify.com/track/6oVm5ocTB8B0rjO5dZk8Px"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -415,6 +415,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/3fzORzNVuRc1VH3K74swLE"
+      },
+      "artists": [
+        {
+          "name": "Mishegas",
+          "url": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
+        }
+      ],
+      "duration_ms": 192364,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6oToGY0yfiDHiL13kOvZyr"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Unusable Love",
         "url": "https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 281110,
       "name": "I'm Right Here",
       "url": "https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/3fzORzNVuRc1VH3K74swLE"
-      },
-      "artists": [
-        {
-          "name": "Mishegas",
-          "url": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
-        }
-      ],
-      "duration_ms": 192364,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6oToGY0yfiDHiL13kOvZyr"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -581,6 +581,22 @@
       "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
     },
     {
+      "added_at": "2019-09-16 15:44:25",
+      "album": {
+        "name": "Baby You Can Free Your Mind",
+        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        }
+      ],
+      "duration_ms": 335180,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
+    },
+    {
       "added_at": "2019-06-07 08:01:00",
       "album": {
         "name": "Boys by Girls",
@@ -599,6 +615,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 255214,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Naps",
         "url": "https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v"
       },
@@ -611,38 +643,6 @@
       "duration_ms": 238148,
       "name": "Naps",
       "url": "https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS"
-    },
-    {
-      "added_at": "2019-09-16 15:44:25",
-      "album": {
-        "name": "Baby You Can Free Your Mind",
-        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
-      },
-      "artists": [
-        {
-          "name": "Mind Bath",
-          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
-        }
-      ],
-      "duration_ms": 335180,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Surf",
-        "url": "https://open.spotify.com/album/2CV3nKfQHHtPujj2jizzig"
-      },
-      "artists": [
-        {
-          "name": "Common Tiger",
-          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -659,6 +659,22 @@
       "duration_ms": 218311,
       "name": "White Gemini",
       "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Surf",
+        "url": "https://open.spotify.com/album/2CV3nKfQHHtPujj2jizzig"
+      },
+      "artists": [
+        {
+          "name": "Common Tiger",
+          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
+        }
+      ],
+      "duration_ms": 175412,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -695,18 +711,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+        "name": "Fleur",
+        "url": "https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82"
       },
       "artists": [
         {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        },
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
         }
       ],
-      "duration_ms": 255214,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
+      "duration_ms": 259427,
+      "name": "Fleur",
+      "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -751,26 +771,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Fleur",
-        "url": "https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        },
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 259427,
-      "name": "Fleur",
-      "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Homegrown (Remixes)",
         "url": "https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
-      },
-      "artists": [
-        {
-          "name": "Glded",
-          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
-        }
-      ],
-      "duration_ms": 189445,
-      "name": "Canyon",
-      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "frozenthere",
         "url": "https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 168919,
       "name": "Frozen Away",
       "url": "https://open.spotify.com/track/39cop5xNx9C1u5ssGvuUYL"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
+      },
+      "artists": [
+        {
+          "name": "Glded",
+          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
+        }
+      ],
+      "duration_ms": 189445,
+      "name": "Canyon",
+      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
     },
     {
       "added_at": "2018-12-11 21:12:31",

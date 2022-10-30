@@ -2351,7 +2351,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 331147,
       "name": "Digno",
       "url": "https://open.spotify.com/track/6UGOxvIYv7lw9bJG2okPV1"
@@ -4642,6 +4642,32 @@
     },
     {
       "album": {
+        "name": "Inesperado",
+        "url": "https://open.spotify.com/album/4OPzLw3Jz7et6K0xHKrdg0"
+      },
+      "artists": [
+        {
+          "name": "Artury Pepper",
+          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
+        },
+        {
+          "name": "Explicito Boom",
+          "url": "https://open.spotify.com/artist/3VTW5TPQoWuuQ0s4nhxLYK"
+        },
+        {
+          "name": "AK66",
+          "url": "https://open.spotify.com/artist/4tAZRNtK1B5hm6HV2q9YNe"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "Inesperado",
+      "url": "https://open.spotify.com/track/71aSwq3GAyLTfWxAhmp3fD"
+    },
+    {
+      "album": {
         "name": "Iron\u00eda",
         "url": "https://open.spotify.com/album/77ivq2vF8TE06VqcbRptrc"
       },
@@ -4729,7 +4755,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 196846,
       "name": "Job",
       "url": "https://open.spotify.com/track/04JueJsp0tbhmzYWW5IYr3"

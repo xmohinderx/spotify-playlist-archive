@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Rihanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,568 likes - 110 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,578 likes - 110 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 64 | [Sie braucht mich](https://open.spotify.com/track/7g0mP5AnVhZZwvDKRMVXla) | [Theo Junior](https://open.spotify.com/artist/4Q8tZV1nlCycCfu1RFAsJO) | [Sie braucht mich](https://open.spotify.com/album/1LmdjTNVQVA54OQa3OchL7) | 3:13 |
 | 65 | [Pretty Face](https://open.spotify.com/track/3BFQo7aVMYhOj93wqPrpJE) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Pretty Face](https://open.spotify.com/album/7bZr9hW34mEV4WN86j304e) | 3:15 |
 | 66 | [HLM en papier](https://open.spotify.com/track/1H2XgIWqSYq0hNGEBjoslV) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [HLM en papier](https://open.spotify.com/album/7oJAgG54spaDSF0oyD8OFH) | 2:45 |
-| 67 | [Hey Anna](https://open.spotify.com/track/1ytLTeZspKtmoSW0ncBbWa) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [Hey Anna](https://open.spotify.com/album/2QeVpcgEKeuSUQybOgofsN) | 3:16 |
+| 67 | [hey anna](https://open.spotify.com/track/1ytLTeZspKtmoSW0ncBbWa) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [hey anna](https://open.spotify.com/album/2QeVpcgEKeuSUQybOgofsN) | 3:16 |
 | 68 | [Giseltraud](https://open.spotify.com/track/4nQBD7ANnHDsxGSX8rXIvg) | [Trauffer](https://open.spotify.com/artist/5OZDFOcXeeYM9qHveATCF5) | [Glöggelä](https://open.spotify.com/album/7jEjEoVUv1DaMehyZvSctU) | 3:18 |
 | 69 | [Doubted Me](https://open.spotify.com/track/4oqMIoa9pJnCHDqv47ZmxJ) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Doubted Me](https://open.spotify.com/album/12o2sMXJK82NueZuOq5Vmf) | 2:34 |
 | 70 | [Never Ever Ever](https://open.spotify.com/track/78Y4eM5QWTIj8XnJfc7o64) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Never Ever Ever](https://open.spotify.com/album/6my3KlFSENuFKsvtyJ5Tp6) | 2:30 |

@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Japanese Breakfast.
 
-187 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
+188 songs - 11 hr 42 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Panic \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0LRzB5Wo6ixvWYq2qVHDxe) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Spotify Singles](https://open.spotify.com/album/0wl4Ftg1DK1nzUAh8ueTDP) | 2:31 | 2021-10-27 | 2022-07-29 |
 | [Panic \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Fq3PEdN2zuw2SsDD732eg) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Spotify Singles](https://open.spotify.com/album/02QIMJcNZO5aEqgQSr4DHR) | 2:31 | 2022-03-30 |  |
 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:41 | 2021-10-27 |  |
-| [Perfume \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6jPNBp1lDOoLNYm4sd2rWq) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 2:35 | 2021-10-27 |  |
+| [Perfume \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6jPNBp1lDOoLNYm4sd2rWq) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 2:35 | 2021-10-27 | 2022-10-30 |
 | [Pressure \- Live at AIR Studios, London](https://open.spotify.com/track/3aaKyI6jJUNaGGa9PVmzMz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:55 | 2021-10-27 |  |
 | [RBF: Part 1 \- Spotify Singles](https://open.spotify.com/track/3vofXquO3Brq3j4TMKQ19F) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [RBF: Part 1 \- Spotify Singles](https://open.spotify.com/album/6O9K4rWuH7e1V5gM6hxDFH) | 2:16 | 2021-10-27 |  |
 | [Real Peach \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:15 | 2021-10-27 |  |
@@ -166,6 +166,7 @@
 | [Teenage Dirtbag \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Spotify Singles](https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6) | 4:06 | 2021-10-27 |  |
 | [The Falls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0kcgr15TmIyDXJoOfw4zgp) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Spotify Singles](https://open.spotify.com/album/0dNZGm7WWkiv0TVU8CvXS3) | 2:19 | 2021-10-27 | 2022-07-29 |
 | [The Falls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6RasuQ5G0sJNP0v5feNurh) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Spotify Singles](https://open.spotify.com/album/5XwtoYuub04Jp9e4HA6PNv) | 2:19 | 2022-03-30 |  |
+| [The Morning Stars \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3KPge13Ep6kwZyuoxgGy2I) | [Hamilton Leithauser](https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/3s5TN4ugglJpRCRMzWsoci) | 3:41 | 2022-10-26 |  |
 | [The Morning Stars \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5406irqE4nbhyF32Hgbtid) | [Hamilton Leithauser](https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY), [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/43KwOELEOKAFhnBSruUM3N) | 3:41 | 2022-03-30 | 2022-10-13 |
 | [The Morning Stars \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/05UZtI1UvFXl2QyKUlHFOt) | [Hamilton Leithauser + Rostam](https://open.spotify.com/artist/3h0w83PsjASrm5999trG4n) | [Spotify Singles](https://open.spotify.com/album/0XyEzOV3gsUwkCjuFdxD47) | 3:41 | 2021-10-27 | 2022-07-28 |
 | [The walker – Recorded at RAK Studios, London](https://open.spotify.com/track/27xSaNgubCeJLl5Ymh54R6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Spotify Singles](https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR) | 4:08 | 2021-10-27 |  |

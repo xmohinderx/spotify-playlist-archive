@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-229 songs - 21 hr 39 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
+230 songs - 21 hr 43 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,8 @@
 | [Where or When](https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Where or When](https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo) | 3:50 | 2022-08-25 |  |
 | [White Clouds](https://open.spotify.com/track/1r6ox6z1nsDOH0GNKVBsvO) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [In The Background](https://open.spotify.com/album/0ToUSIQkb4erjR1EHQtnP4) | 2:55 | 2022-05-26 |  |
 | [Wichita Lineman](https://open.spotify.com/track/1Vpx2po0Sbe9lKioW53Qhr) | [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi), [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Darek Oleszkiewicz](https://open.spotify.com/artist/1j4llYRtsnwcHIM0SrDstl) | [The Interlochen Concert](https://open.spotify.com/album/7qIx5OUNdSBpc7PZY0Klux) | 7:41 | 2022-02-10 |  |
-| [Willow's Song](https://open.spotify.com/track/6LzWlFB0mV4Yuf4nEDkgp3) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg) | [Willow's Song](https://open.spotify.com/album/0QtGvXVQDuYa75fQOn83Dh) | 4:20 | 2022-09-08 |  |
+| [Willow's Song](https://open.spotify.com/track/0jKsLxJPLeHdwdgRs7Xf4T) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg) | [Ghosts](https://open.spotify.com/album/45PoiD0fgKLoAtC8oUVMMO) | 4:20 | 2022-10-27 |  |
+| [Willow's Song](https://open.spotify.com/track/6LzWlFB0mV4Yuf4nEDkgp3) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg) | [Willow's Song](https://open.spotify.com/album/0QtGvXVQDuYa75fQOn83Dh) | 4:20 | 2022-09-08 | 2022-10-30 |
 | [Winding Down](https://open.spotify.com/track/0spxhxF0OCUwlAJsq70CoS) | [Xavier Davis](https://open.spotify.com/artist/2LiJegzrWFHatDw2kFLsc7) | [Winding Down](https://open.spotify.com/album/3Md83NJiHkmdiDk7Tqpxi3) | 8:15 | 2022-03-25 |  |
 | [Words of Hope](https://open.spotify.com/track/22ANqZfFu8nHuTSWtmBq7s) | [Steve Boudreau](https://open.spotify.com/artist/0tNCJZ0QjXhJKfKSbcQF9i) | [Cherished Possessions](https://open.spotify.com/album/6wEknkvTqiYMD0Kkr4fRwh) | 5:26 | 2022-04-07 |  |
 | [Yesterdays \- Live](https://open.spotify.com/track/19x3hs8m84gCkXnxhSJLQu) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Yesterdays](https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX) | 8:55 | 2022-02-10 |  |

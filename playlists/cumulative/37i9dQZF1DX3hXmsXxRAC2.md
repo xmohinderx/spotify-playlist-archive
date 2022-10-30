@@ -4,7 +4,7 @@
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-130 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/4QYjPiGAfd9kEfeaSrtn66)
+131 songs - 8 hr 43 min - [published](https://open.spotify.com/playlist/4QYjPiGAfd9kEfeaSrtn66)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Amor Eterno](https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 6:48 | 2021-12-29 |  |
 | [Amor Eterno](https://open.spotify.com/track/4DKrfqRJPORFWSPOzV7peB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Amor Eterno](https://open.spotify.com/album/5wgoakbtZTAfjJrDebDUvS) | 5:33 | 2021-12-29 |  |
 | [Amor Eterno](https://open.spotify.com/track/5b2uPv5SDLm39Wtp5I7ljQ) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Amor Eterno](https://open.spotify.com/album/6buOIhNwPXqiwJgVSOlCSa) | 5:33 | 2021-12-29 | 2022-07-29 |
-| [Amor Eterno](https://open.spotify.com/track/088pCRfdpiVMdLMxQDDV5P) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Amor Eterno](https://open.spotify.com/album/6SJYtpSoHywMR9zZv2Tbfh) | 5:28 | 2021-12-29 |  |
+| [Amor Eterno](https://open.spotify.com/track/088pCRfdpiVMdLMxQDDV5P) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Amor Eterno](https://open.spotify.com/album/6SJYtpSoHywMR9zZv2Tbfh) | 5:28 | 2021-12-29 | 2022-10-30 |
+| [Amor Eterno](https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Amor Eterno](https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3) | 5:28 | 2021-12-29 |  |
 | [Amor Eterno](https://open.spotify.com/track/50QkyL59HxlwHnz6wI8KeE) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Amor Eterno](https://open.spotify.com/album/6HielLzg5Y4bvzGl14I6Rx) | 5:28 | 2021-12-29 | 2022-07-29 |
 | [Asi Fue](https://open.spotify.com/track/2BZVPfPIA8y3ffJX5zSrpX) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Lo Esencial](https://open.spotify.com/album/76qUJi62hTd5bRFzBWLoXb) | 5:24 | 2021-12-29 | 2022-07-29 |
 | [Asi Fue](https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 5:25 | 2021-12-29 |  |

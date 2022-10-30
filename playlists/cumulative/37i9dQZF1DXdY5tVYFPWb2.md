@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-331 songs - 21 hr 59 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
+332 songs - 22 hr 2 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Flannel](https://open.spotify.com/track/6NIpHfEzWU9MGQddGBNGq1) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [Flannel](https://open.spotify.com/album/52DpZlVpQrktxXRlM3X7f1) | 3:31 | 2022-07-14 | 2022-07-17 |
 | [FLOWERS](https://open.spotify.com/track/2EiA587apVmlS9wbch4vti) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [FLOWERS](https://open.spotify.com/album/30GBzKSzQdpRrQaikOayeC) | 3:47 | 2022-05-28 |  |
 | [Friday Night TYO](https://open.spotify.com/track/0JbjX9KO5VN2cqsSCGwd8u) | [JUVENILE](https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW), [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO) | [INTERWEAVE 02](https://open.spotify.com/album/2ujuanUjHgl8sDGvipTmq3) | 3:52 | 2022-05-28 | 2022-07-04 |
+| [friends](https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [friends](https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8) | 3:49 | 2022-10-27 |  |
 | [Gentle Hands](https://open.spotify.com/track/2JkLmkvLRq89CrcrOdOBT8) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm), [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Gentle Hands](https://open.spotify.com/album/1mq2LQh4ZcG8USY6v8ujpL) | 4:12 | 2022-07-27 | 2022-08-17 |
 | [Getsuyou no Dance](https://open.spotify.com/track/51zSpfOogDG3NqCsVfI8O0) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Shikousei](https://open.spotify.com/album/0WYt2Vo6QgYJeB3KHWUhgV) | 3:22 | 2022-09-25 | 2022-10-26 |
 | [Gimme](https://open.spotify.com/track/45NTZvgs7x6GyXvyzfG5fN) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [Gimme](https://open.spotify.com/album/6IaDp8PawQuKoiZpcun410) | 3:31 | 2022-05-24 | 2022-07-29 |
@@ -145,7 +146,7 @@
 | [Perfect Vacation](https://open.spotify.com/track/3Ur58a9oYjMMhYvbTDfujQ) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Perfect Vacation](https://open.spotify.com/album/1L0htF6OHaxrzp46hIlt7n) | 3:39 | 2022-07-21 |  |
 | [Period](https://open.spotify.com/track/23uYUawwd3eL8JCrjyYaUj) | [アツキタケトモ](https://open.spotify.com/artist/3heMyf2JzG0BDI5KGMNF1f) | [Period](https://open.spotify.com/album/33411oyhikhkz8k2AOHchF) | 3:55 | 2022-06-16 | 2022-06-19 |
 | [PINK](https://open.spotify.com/track/2ep6JNo4lc3X9auNz575NE) | [桐生ちあり](https://open.spotify.com/artist/4WDwuJkUyjRpFACkXoCh4J) | [日常](https://open.spotify.com/album/3MLtWoulPfU1BCmjwFGuow) | 3:15 | 2022-06-16 | 2022-06-22 |
-| [Play Date](https://open.spotify.com/track/4gOriOXLBacndXNxdsjWHi) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Rie Tomosaka](https://open.spotify.com/artist/4Ozr0TBXSYzgGSF6cI1ks7) | [Tokyo State Of Mind](https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ) | 3:09 | 2022-06-07 |  |
+| [Play Date](https://open.spotify.com/track/4gOriOXLBacndXNxdsjWHi) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Rie Tomosaka](https://open.spotify.com/artist/4Ozr0TBXSYzgGSF6cI1ks7) | [Tokyo State Of Mind](https://open.spotify.com/album/6Acj6DqPEt4LLYoXAHzzQQ) | 3:09 | 2022-06-07 | 2022-10-30 |
 | [Playback](https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [TWO](https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO) | 3:07 | 2022-05-24 |  |
 | [pure](https://open.spotify.com/track/4SnHenrEeKJgZA8j8h4fzb) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [pure](https://open.spotify.com/album/6sWvjpeac8oh7gfmEWHZYA) | 3:45 | 2022-06-21 | 2022-08-29 |
 | [puzzle \(feat\. ひかり\)](https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [puzzle \(feat\. ひかり\)](https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol) | 3:30 | 2022-07-19 | 2022-09-28 |

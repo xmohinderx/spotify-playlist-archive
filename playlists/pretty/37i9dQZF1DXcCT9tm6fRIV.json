@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 222819,
+  "num_followers": 222888,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3MjQwMCwwMDAwMDAwMDdhOWM4Mjc4OGIwNjUxNmU0YmMzMGY2YTFiOTIzODAz",
+  "snapshot_id": "MTY0NzU3MjQwMCwwMDAwMDAwMDc0ZWRhNzkzOWI5NDkyNjNhZTZiMDc1MTg2NTlkY2Rj",
   "tracks": [
     {
       "added_at": "2022-03-18 03:00:00",
@@ -139,26 +139,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+        "name": "Solo Tango: Carlos Di Sarli - Instrumental Vol. 1",
+        "url": "https://open.spotify.com/album/6tGetlLmTbL1Y4B9YE8bxy"
       },
       "artists": [
         {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Leopoldo Federico",
-          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
-        },
-        {
-          "name": "Sebasti\u00e1n Barbui",
-          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
+          "name": "Carlos Di Sarli y su Orquesta T\u00edpica",
+          "url": "https://open.spotify.com/artist/3vGWwim5gZ0QIW6PA5ISDU"
         }
       ],
-      "duration_ms": 337753,
-      "name": "Balada para un Loco",
-      "url": "https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo"
+      "duration_ms": 170746,
+      "name": "Bah\u00eda Blanca - Instrumental",
+      "url": "https://open.spotify.com/track/6JfI6n6UEHVd7fIkmIGQV1"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -183,18 +175,26 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Solo Tango: Carlos Di Sarli - Instrumental Vol. 1",
-        "url": "https://open.spotify.com/album/6tGetlLmTbL1Y4B9YE8bxy"
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
       "artists": [
         {
-          "name": "Carlos Di Sarli y su Orquesta T\u00edpica",
-          "url": "https://open.spotify.com/artist/3vGWwim5gZ0QIW6PA5ISDU"
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Leopoldo Federico",
+          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
+        },
+        {
+          "name": "Sebasti\u00e1n Barbui",
+          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
         }
       ],
-      "duration_ms": 170746,
-      "name": "Bah\u00eda Blanca - Instrumental",
-      "url": "https://open.spotify.com/track/6JfI6n6UEHVd7fIkmIGQV1"
+      "duration_ms": 337753,
+      "name": "Balada para un Loco",
+      "url": "https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Tango Collection",
-        "url": "https://open.spotify.com/album/1PVv7CoAyEKcXdTigwDzQ6"
-      },
-      "artists": [
-        {
-          "name": "Juan D'Arienzo",
-          "url": "https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4"
-        }
-      ],
-      "duration_ms": 140503,
-      "name": "Valsecito Criollo",
-      "url": "https://open.spotify.com/track/4ssSpLiLyPMpd7vKb6Pi6z"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Una Guitarra Para Gardel",
         "url": "https://open.spotify.com/album/1oKSMqX4nXZtG1AvdihLEj"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 132426,
       "name": "Silbando",
       "url": "https://open.spotify.com/track/5UbeVgfPSlXrJBl9MTMmhJ"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Tango Collection",
+        "url": "https://open.spotify.com/album/1PVv7CoAyEKcXdTigwDzQ6"
+      },
+      "artists": [
+        {
+          "name": "Juan D'Arienzo",
+          "url": "https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4"
+        }
+      ],
+      "duration_ms": 140503,
+      "name": "Valsecito Criollo",
+      "url": "https://open.spotify.com/track/4ssSpLiLyPMpd7vKb6Pi6z"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -367,26 +367,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
-        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
+        "name": "Tangazos",
+        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
       },
       "artists": [
         {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        },
-        {
-          "name": "Chino Laborde",
-          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
-        },
-        {
-          "name": "Manu Sacco",
-          "url": "https://open.spotify.com/artist/2St6ak4r5JMLJ53BU977xe"
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
         }
       ],
-      "duration_ms": 202240,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/70abt7HwRBCHQA3G5oa1JF"
+      "duration_ms": 109386,
+      "name": "Melod\u00eda de Arrabal",
+      "url": "https://open.spotify.com/track/15z8cfqjMyayrtz0eU6GBa"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -407,18 +399,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Tangazos",
-        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
+        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
+        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
       },
       "artists": [
         {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
         }
       ],
-      "duration_ms": 109386,
-      "name": "Melod\u00eda de Arrabal",
-      "url": "https://open.spotify.com/track/15z8cfqjMyayrtz0eU6GBa"
+      "duration_ms": 140032,
+      "name": "El Dia Que Me Quieras",
+      "url": "https://open.spotify.com/track/5dk0nQ1vHHMhQMb9ngbpRY"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -459,18 +451,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
-        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
+        "name": "... Tangamente",
+        "url": "https://open.spotify.com/album/4B60jIPooAY6gTBMkUwfCu"
       },
       "artists": [
         {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
         }
       ],
-      "duration_ms": 140032,
-      "name": "El Dia Que Me Quieras",
-      "url": "https://open.spotify.com/track/5dk0nQ1vHHMhQMb9ngbpRY"
+      "duration_ms": 164312,
+      "name": "Como Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/2KjkU7YZX04oml0VRr9kqj"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -491,18 +483,26 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "... Tangamente",
-        "url": "https://open.spotify.com/album/4B60jIPooAY6gTBMkUwfCu"
+        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
+        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
       },
       "artists": [
         {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        },
+        {
+          "name": "Chino Laborde",
+          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
+        },
+        {
+          "name": "Manu Sacco",
+          "url": "https://open.spotify.com/artist/2St6ak4r5JMLJ53BU977xe"
         }
       ],
-      "duration_ms": 164312,
-      "name": "Como Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/2KjkU7YZX04oml0VRr9kqj"
+      "duration_ms": 202240,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/70abt7HwRBCHQA3G5oa1JF"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
-        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 154794,
-      "name": "Por una Cabeza",
-      "url": "https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "El Album Blanco",
         "url": "https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 179400,
       "name": "Niebla del Riachuelo",
       "url": "https://open.spotify.com/track/4Jupi4tbrMAT8HriFC5xQN"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
+        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 154794,
+      "name": "Por una Cabeza",
+      "url": "https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Alberto Castillo - Asi se baila el tango",
-        "url": "https://open.spotify.com/album/1fFBzmIUSdNaejKSM44y5l"
-      },
-      "artists": [
-        {
-          "name": "Alberto Castillo",
-          "url": "https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Mu\u00f1eca brava",
-      "url": "https://open.spotify.com/track/2SPb8awMSxa5NmSaBQKWGN"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "En El Underground",
         "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 205453,
       "name": "Yuyo Verde",
       "url": "https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Alberto Castillo - Asi se baila el tango",
+        "url": "https://open.spotify.com/album/1fFBzmIUSdNaejKSM44y5l"
+      },
+      "artists": [
+        {
+          "name": "Alberto Castillo",
+          "url": "https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "Mu\u00f1eca brava",
+      "url": "https://open.spotify.com/track/2SPb8awMSxa5NmSaBQKWGN"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Pasional",
-        "url": "https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc"
-      },
-      "artists": [
-        {
-          "name": "Jorge V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab"
-        }
-      ],
-      "duration_ms": 208285,
-      "name": "Pasional",
-      "url": "https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "70 A\u00f1os de Tango",
         "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 228066,
       "name": "Quiero Verte una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Pasional",
+        "url": "https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc"
+      },
+      "artists": [
+        {
+          "name": "Jorge V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab"
+        }
+      ],
+      "duration_ms": 208285,
+      "name": "Pasional",
+      "url": "https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1055,22 +1055,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
-        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
+        "name": "Oto\u00f1o Porte\u00f1o",
+        "url": "https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT"
       },
       "artists": [
         {
-          "name": "Horacio Ferrer",
-          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
-        },
-        {
-          "name": "Juan Trepiana",
-          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
+          "name": "Ventarr\u00f3n",
+          "url": "https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX"
         }
       ],
-      "duration_ms": 231520,
-      "name": "La Bicicleta Blanca",
-      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
+      "duration_ms": 291586,
+      "name": "Oto\u00f1o porte\u00f1o",
+      "url": "https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1111,18 +1107,22 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Oto\u00f1o Porte\u00f1o",
-        "url": "https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT"
+        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
+        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
       },
       "artists": [
         {
-          "name": "Ventarr\u00f3n",
-          "url": "https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX"
+          "name": "Horacio Ferrer",
+          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
+        },
+        {
+          "name": "Juan Trepiana",
+          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
         }
       ],
-      "duration_ms": 291586,
-      "name": "Oto\u00f1o porte\u00f1o",
-      "url": "https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM"
+      "duration_ms": 231520,
+      "name": "La Bicicleta Blanca",
+      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1415,22 +1415,22 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "El Tango",
-        "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
+        "name": "Doce Milongas de Amor y un Tango Desesperado",
+        "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
       },
       "artists": [
         {
-          "name": "Chino Laborde",
-          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
+          "name": "Delfina Cheb",
+          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
         },
         {
-          "name": "Federico Mizrahi",
-          "url": "https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt"
+          "name": "The Horacio Avilano Guitar Quartet",
+          "url": "https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N"
         }
       ],
-      "duration_ms": 221500,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY"
+      "duration_ms": 190438,
+      "name": "Barrio de Tango",
+      "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
     }
   ],
   "unique_name": "Tangos y Milongas",

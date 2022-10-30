@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 7188,
+  "num_followers": 7217,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMzMjY2NCwwMDAwMDAwMDc1MmNhOWFkNmYwZGM4M2ZkYmI2ZTdjOTE4OGRkNjAx",
+  "snapshot_id": "MTY2NjMzMjY2NCwwMDAwMDAwMGU0NGEzNjI2YmZkZmQyZmJjMjI0NTYyZGExMGI1NzQ4",
   "tracks": [
     {
       "added_at": "2022-09-19 07:27:22",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
     },
     {
+      "added_at": "2022-06-23 23:00:00",
+      "album": {
+        "name": "LITTLE & LEGENDARY",
+        "url": "https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 151926,
+      "name": "Little (Love I Love)",
+      "url": "https://open.spotify.com/track/6GUMUz1H9nIxo1UiEXYQS0"
+    },
+    {
       "added_at": "2021-10-08 04:33:18",
       "album": {
         "name": "Gone Far",
@@ -1093,20 +1109,20 @@
       "url": "https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6"
     },
     {
-      "added_at": "2022-06-23 23:00:00",
+      "added_at": "2022-07-22 04:29:24",
       "album": {
-        "name": "LITTLE & LEGENDARY",
-        "url": "https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI"
+        "name": "Jaiye (Ihe Geme)",
+        "url": "https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0"
       },
       "artists": [
         {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
         }
       ],
-      "duration_ms": 151926,
-      "name": "Little (Love I Love)",
-      "url": "https://open.spotify.com/track/6GUMUz1H9nIxo1UiEXYQS0"
+      "duration_ms": 234404,
+      "name": "Jaiye (Ihe Geme)",
+      "url": "https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1129,40 +1145,24 @@
       "url": "https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj"
     },
     {
-      "added_at": "2022-07-22 04:29:24",
+      "added_at": "2022-09-23 06:36:20",
       "album": {
-        "name": "Jaiye (Ihe Geme)",
-        "url": "https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0"
+        "name": "4Play",
+        "url": "https://open.spotify.com/album/6wpzlNHeY8sffFCEOBR7ep"
       },
       "artists": [
         {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        }
-      ],
-      "duration_ms": 234404,
-      "name": "Jaiye (Ihe Geme)",
-      "url": "https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO"
-    },
-    {
-      "added_at": "2022-02-24 23:00:00",
-      "album": {
-        "name": "Hate Me",
-        "url": "https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
         },
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Prince Bright",
+          "url": "https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv"
         }
       ],
-      "duration_ms": 199322,
-      "name": "Hate Me",
-      "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
+      "duration_ms": 148392,
+      "name": "Shakira (feat. Prince Bright)",
+      "url": "https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I"
     }
   ],
   "unique_name": "Keep Fit Club ",

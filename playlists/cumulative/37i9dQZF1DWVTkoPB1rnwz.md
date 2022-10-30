@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-250 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+251 songs - 14 hr 18 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [conversations with grandma](https://open.spotify.com/track/5GgoR6lurqxLpfMjNOMUmG) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [blue moon](https://open.spotify.com/album/665irKdzu7aptrhBycT5NJ) | 1:26 | 2021-10-16 |  |
 | [Cotorra Serrana Occidental](https://open.spotify.com/track/6AM73G2nArb4b9PQaIE2VZ) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Cotorra Serrana Occidental](https://open.spotify.com/album/7vRvlclOYYHnbP7Zqqz95x) | 4:05 | 2021-10-16 | 2022-06-02 |
 | [Crescent](https://open.spotify.com/track/78pD8Ejib9BtCKWeXqDr3t) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Crescent](https://open.spotify.com/album/5nIIDBRXFx30wdaoWiklDE) | 2:23 | 2022-02-25 |  |
+| [Cuckoo](https://open.spotify.com/track/21nmBBjOkUxLbeU8lmxmxA) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy) | 2:25 | 2021-10-16 |  |
 | [Cuckoo](https://open.spotify.com/track/2BwiTu8QrHm09soMmegJbu) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake up Calls](https://open.spotify.com/album/6zZr0Y6Z6khPwf2LuZTK4K) | 2:25 | 2021-10-16 | 2022-10-16 |
 | [Daqui](https://open.spotify.com/track/180yWNMphJET6icsGgSfs1) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Daqui](https://open.spotify.com/album/48lhovTqxxgcP33S9d3RZu) | 1:22 | 2022-01-13 | 2022-07-20 |
 | [Daqui](https://open.spotify.com/track/6rr3OnsNcCHbnH9vvZLw6z) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Daqui](https://open.spotify.com/album/07R0w8wvaLwmvmsopkrTLC) | 1:22 | 2022-01-13 | 2022-09-06 |
@@ -169,7 +170,7 @@
 | [Playing Coy](https://open.spotify.com/track/6kvcGtcRk87tvBwQew6pkl) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [Playing Coy](https://open.spotify.com/album/2Vq0MbrCZSbcfZQmsIKZil) | 1:31 | 2021-10-16 | 2022-08-12 |
 | [Powers Out](https://open.spotify.com/track/3Ln2gSxZ0WUDUEUprF5RJa) | [Andrew CS](https://open.spotify.com/artist/7Fv7NaEJyV1PKy9PURdZFx) | [\*](https://open.spotify.com/album/3zGGjNdPQplOCQUyHgIQcq) | 1:57 | 2021-10-16 | 2022-07-29 |
 | [Prelude To A Desaster](https://open.spotify.com/track/0A7BjCCEg9dqTzFMiTZH4A) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Prelude To A Desaster](https://open.spotify.com/album/4IkGXYQjErxs4C4XN5Yxdq) | 2:50 | 2022-04-23 | 2022-10-14 |
-| [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/1xLQFwcxKjXh0uEKeYCPBN) | 2:12 | 2021-10-16 |  |
+| [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/1xLQFwcxKjXh0uEKeYCPBN) | 2:12 | 2021-10-16 | 2022-10-30 |
 | [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/6f4acBjqPs80P0Ttnp1rN1) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/64eSZojU3zsDIdJGPbaR8M) | 2:12 | 2021-10-16 | 2022-07-25 |
 | [Rainy Forest](https://open.spotify.com/track/0drWXcxlj3FlaxkFLFkASV) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [The Essentials : ihaveaface](https://open.spotify.com/album/00PBc4QeFLiSjV9jT52YQj) | 2:00 | 2021-10-16 |  |
 | [Redder Than The Moon](https://open.spotify.com/track/0BaMCfGFqKWdy1twJsYueE) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya) | 4:27 | 2021-10-16 |  |

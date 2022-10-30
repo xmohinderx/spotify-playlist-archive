@@ -4,7 +4,7 @@
 
 > The songs that defined the other side of the 80s\. Cover: Poly Styrene
 
-213 songs - 14 hr 18 min - [published](https://open.spotify.com/playlist/2H1LxPFJmPRXwu3yCnyOJK)
+214 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/2H1LxPFJmPRXwu3yCnyOJK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 | 2022-05-30 |  |
 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/5YB9pnmgrL03yMDXzIFnni) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 4:53 | 2021-11-17 | 2022-07-25 |
 | [I Want Candy](https://open.spotify.com/track/2FMcDUopGfjBh3xMsrm78S) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [We Are The '80s](https://open.spotify.com/album/3gTAnUMTCOtCHp0zb4gdSF) | 2:44 | 2022-05-30 |  |
+| [I Will Dare](https://open.spotify.com/track/1MV5BzujqyRQ417qj0rXNS) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Let It Be \(Expanded\)](https://open.spotify.com/album/4LwFCUyV4wM6SEg84PaLuL) | 3:17 | 2022-09-29 |  |
 | [I Will Dare](https://open.spotify.com/track/3qoASpDMcnnaWxgRzvIeD5) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 3:19 | 2021-11-17 | 2022-07-29 |
 | [I Will Follow](https://open.spotify.com/track/4E0LjJ2894jsfvLMQb6Ti7) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/3GCEpIo4vFVQx1hO6UHSsY) | 3:38 | 2021-11-17 | 2022-07-29 |
 | [I Will Follow \- Remastered 2008](https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 3:37 | 2022-05-30 |  |
@@ -139,7 +140,7 @@
 | [On my Radio](https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [The Very Best of The Selecter](https://open.spotify.com/album/1Sk2mljWUTXFEtZpoT0fPg) | 3:05 | 2021-11-17 | 2022-06-01 |
 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 | 2021-11-17 |  |
 | [Our Lips Are Sealed](https://open.spotify.com/track/5xZSbzCVTp0qQt2K6Dfe0V) | [Fun Boy Three](https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL) | [Waiting](https://open.spotify.com/album/6jTIp3eB8Oqm1bfWr8ZhzZ) | 2:51 | 2021-11-17 | 2022-07-29 |
-| [Our Lips Are Sealed](https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye) | [Fun Boy Three](https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL) | [Waiting](https://open.spotify.com/album/0JVCzhWigJomwGmQhsBAtx) | 2:51 | 2022-09-29 |  |
+| [Our Lips Are Sealed](https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye) | [Fun Boy Three](https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL) | [Waiting](https://open.spotify.com/album/0JVCzhWigJomwGmQhsBAtx) | 2:51 | 2022-09-29 | 2022-10-30 |
 | [Pacific State](https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ESP: The 808 State Effect](https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV) | 5:51 | 2022-05-30 |  |
 | [Pacific State \- Origin Mix](https://open.spotify.com/track/1bdqvBFKJKbkZvFeF7hNQs) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Blueprint \(The Best Of\)](https://open.spotify.com/album/6uhIHjTCQjHcXXsoPzsf0x) | 5:50 | 2021-11-17 | 2022-07-22 |
 | [Party Fears Two](https://open.spotify.com/track/56SwjvVv45XLJhScKC8IcB) | [The Associates](https://open.spotify.com/artist/7GsdZ6T45uXudJ8Wsko9sB) | [Sulk](https://open.spotify.com/album/3gkqiWL16CBn0qDwzBK02K) | 5:14 | 2021-11-17 | 2022-05-24 |

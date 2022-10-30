@@ -4091,7 +4091,7 @@
     {
       "album": {
         "name": "Tornaluna",
-        "url": "https://open.spotify.com/album/2T5UIzLcqQwa2NZm69C5xs"
+        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
       "artists": [
         {
@@ -4102,6 +4102,24 @@
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 250073,
+      "name": "Malas Amistades",
+      "url": "https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B"
+    },
+    {
+      "album": {
+        "name": "Tornaluna",
+        "url": "https://open.spotify.com/album/2T5UIzLcqQwa2NZm69C5xs"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
       "duration_ms": 250073,
       "name": "Malas Amistades",
       "url": "https://open.spotify.com/track/4rwuZRZ8LnkdAGJXBeAvGh"

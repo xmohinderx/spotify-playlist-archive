@@ -1,12 +1,12 @@
 {
   "description": "\u00a1SOULFIA y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9634,
+  "num_followers": 9635,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkzODg2MCwwMDAwMDAwMDlkNGFhYmI4OGJlNjYxNWE0MGRkMGM2NmI5YmZjYjhh",
+  "snapshot_id": "MTY2NDkzODg2MCwwMDAwMDAwMGZlZWU2ZDZiNDRlYjYwOTljN2M2M2YzYWM2OGFkZDFi",
   "tracks": [
     {
       "added_at": "2022-10-05 03:01:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-10-05 03:01:00",
       "album": {
-        "name": "La isla de Lesbos",
-        "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "La isla de Lesbos",
-      "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
-    },
-    {
-      "added_at": "2022-10-05 03:01:00",
-      "album": {
         "name": "Vida Tan Bonita",
         "url": "https://open.spotify.com/album/62cm3NBJCoTZpXJHzmUg7C"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 160533,
       "name": "Dar y Dar",
       "url": "https://open.spotify.com/track/07h6A732FnyXHpJWcmdd5n"
+    },
+    {
+      "added_at": "2022-10-05 03:01:00",
+      "album": {
+        "name": "La isla de Lesbos",
+        "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "La isla de Lesbos",
+      "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
     },
     {
       "added_at": "2022-10-05 03:01:00",

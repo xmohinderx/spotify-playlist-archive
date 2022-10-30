@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Local Sound",
-  "num_followers": 18206,
+  "num_followers": 18211,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMDliZjAwNmY4NGRkZWFjMjhjN2ZmMTEwODI3Y2ExNzU2",
+  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMGFmNzkzZjQ5NGQxNWZjODUxNTkwYmVmZDQ1YmYwZGJh",
   "tracks": [
     {
       "added_at": "2019-09-20 18:34:06",
@@ -399,6 +399,22 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
+        "name": "Listen More",
+        "url": "https://open.spotify.com/album/7yZ0ymYQisTt8oB2f5kseg"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/27SD1IBImjwmcNhsMzae4z"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
         "name": "Brighter",
         "url": "https://open.spotify.com/album/0uaNHO3Fg6eX9tAtUBxV8q"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 279272,
       "name": "Brighter",
       "url": "https://open.spotify.com/track/44u5ggF8jOttzk8XvPGyik"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
-        "name": "Listen More",
-        "url": "https://open.spotify.com/album/7yZ0ymYQisTt8oB2f5kseg"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/27SD1IBImjwmcNhsMzae4z"
     },
     {
       "added_at": "2019-09-20 18:34:06",
@@ -787,22 +787,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "Pep Talks",
-        "url": "https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 144629,
-      "name": "JOYBOY",
-      "url": "https://open.spotify.com/track/0kioCLrwCsgwl7Fd8mrDnp"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 201879,
       "name": "I Lift Your Name Up - 80's Remix",
       "url": "https://open.spotify.com/track/3dw4ddlaQmQVFY5V1mBClv"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "Pep Talks",
+        "url": "https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 144629,
+      "name": "JOYBOY",
+      "url": "https://open.spotify.com/track/0kioCLrwCsgwl7Fd8mrDnp"
     },
     {
       "added_at": "2019-09-20 18:34:06",
@@ -911,22 +911,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "Fear No More",
-        "url": "https://open.spotify.com/album/4LWmVkuA2s7n3q3UiIlsFf"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Dancing On Top of the World",
-      "url": "https://open.spotify.com/track/14Qg6RExIEgeTasOOXeclf"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Fun",
         "url": "https://open.spotify.com/album/5tgWl3CLKfqlG6SQeD9VOf"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 213680,
       "name": "Fun",
       "url": "https://open.spotify.com/track/1HVQO24aqjZWB19HkOztZg"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "Fear No More",
+        "url": "https://open.spotify.com/album/4LWmVkuA2s7n3q3UiIlsFf"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Dancing On Top of the World",
+      "url": "https://open.spotify.com/track/14Qg6RExIEgeTasOOXeclf"
     },
     {
       "added_at": "2019-09-20 18:34:06",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "Feel The Waters (RUSLAN Remix)",
-        "url": "https://open.spotify.com/album/1sJdXcBBxSql0JxCX97bX3"
-      },
-      "artists": [
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        },
-        {
-          "name": "RUSLAN",
-          "url": "https://open.spotify.com/artist/0Xdvr42oMLOrVWFhgM253P"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "Feel The Waters (RUSLAN Remix)",
-      "url": "https://open.spotify.com/track/4dw5THeXY6ybMblZBzre9D"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Only Have One",
         "url": "https://open.spotify.com/album/4HvBGoJ0lA4O79qr7zLwQr"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 186826,
       "name": "Only Have One",
       "url": "https://open.spotify.com/track/4ar0FB87jliCm8gfaiTwds"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "Feel The Waters (RUSLAN Remix)",
+        "url": "https://open.spotify.com/album/1sJdXcBBxSql0JxCX97bX3"
+      },
+      "artists": [
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        },
+        {
+          "name": "RUSLAN",
+          "url": "https://open.spotify.com/artist/0Xdvr42oMLOrVWFhgM253P"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Feel The Waters (RUSLAN Remix)",
+      "url": "https://open.spotify.com/track/4dw5THeXY6ybMblZBzre9D"
     },
     {
       "added_at": "2019-09-20 18:34:06",

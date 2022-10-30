@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: George Strait",
-  "num_followers": 337390,
+  "num_followers": 338271,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzIxNDQwMCwwMDAwMDAwMDAyZDE2ZTQ4NTY1NDdlODRiYzQwYjhlMzhkYzkwMjI4",
+  "snapshot_id": "MTY2MzIxNDQwMCwwMDAwMDAwMGMzODkwMzY2YzZkNzFjMTZkNjhhYmVjZjU3ZjdmMmUx",
   "tracks": [
     {
       "added_at": "2022-09-15 04:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-09-15 04:00:00",
       "album": {
+        "name": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
+        "url": "https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "High Cotton",
+      "url": "https://open.spotify.com/track/2KEu2z1f7TakR3KY4jGLzl"
+    },
+    {
+      "added_at": "2022-09-15 04:00:00",
+      "album": {
         "name": "George Strait's Greatest Hits",
         "url": "https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 231506,
       "name": "Love, Me",
       "url": "https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR"
-    },
-    {
-      "added_at": "2022-09-15 04:00:00",
-      "album": {
-        "name": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
-        "url": "https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "High Cotton",
-      "url": "https://open.spotify.com/track/2KEu2z1f7TakR3KY4jGLzl"
     },
     {
       "added_at": "2022-09-15 04:00:00",

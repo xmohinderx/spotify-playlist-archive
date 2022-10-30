@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Juice WRLD\)
 
-798 songs - 1 day 16 hr 43 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+799 songs - 1 day 16 hr 46 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Live Life Die Faster \(with Kodak Black\)](https://open.spotify.com/album/2iAZ2v69xjK5mz9ndKywVr) | 3:00 | 2022-07-07 | 2022-08-26 |
 | [Livin in Apocalypse](https://open.spotify.com/track/6KQpETe3GGqDIoZQhWI1a7) | [For Lost Kids](https://open.spotify.com/artist/0cYmNQLmEaKpmiZsC8hLfF), [Willy Winarko](https://open.spotify.com/artist/1ZF0HA5IH5YwG99h7RgYfI), [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl) | [For Lost Kids](https://open.spotify.com/album/5Ohjcv3h0qwv4FkA4vHZXL) | 3:03 | 2022-09-29 |  |
 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-04-07 | 2022-05-13 |
+| [Lose Yourself \- Original Demo Version](https://open.spotify.com/track/3kLUX7bOJ7ljnUTP5ku2zQ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [8 Mile \[Music From And Inspired By The Motion Picture \(Expanded Edition\)\]](https://open.spotify.com/album/6J0h9KIXtjtoAqJnz1CDwA) | 3:00 | 2022-10-29 |  |
 | [Lost and Found Freestyle 2019 \(with Tyler, The Creator & Nigo\)](https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 2:54 | 2022-03-24 | 2022-05-06 |
 | [LOTUS](https://open.spotify.com/track/6HkSylgCGtlAPF5noI0CUr) | [Jack Donn](https://open.spotify.com/artist/36hz4zHcALj3eLFbdNh6TS), [Henkar](https://open.spotify.com/artist/4KgJIBIlB3NvO6olLuJRl7) | [LOTUS](https://open.spotify.com/album/0PAyIddobjqAOBSoScnTr5) | 3:23 | 2022-03-03 | 2022-03-18 |
 | [Love In The Way](https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7) | [Yung Bleu](https://open.spotify.com/artist/0jZSz5yJzCKrPJ7Fo8rdBW), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love In The Way](https://open.spotify.com/album/4sc3Nc9o5sCni7SCPsKE4t) | 3:41 | 2022-09-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 23717,
+  "num_followers": 23726,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDQyOGNmZWUwZmU5MWE5ZTllYjJlMjQ3ODczOTEyZTQy",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGM3MWJkOGU1M2MzYjAxOWUzNzE1MDhiMjM0OTJhN2Jl",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -359,22 +359,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Cleo",
-        "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Dos Santos",
-          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Lagoon",
         "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
       },
@@ -391,18 +375,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
+        "name": "Cleo",
+        "url": "https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K"
       },
       "artists": [
         {
-          "name": "Jane Maximova",
-          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
+          "name": "Charlotte Dos Santos",
+          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
         }
       ],
-      "duration_ms": 298208,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
+      "duration_ms": 191240,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -427,6 +411,22 @@
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
+      },
+      "artists": [
+        {
+          "name": "Jane Maximova",
+          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
+        }
+      ],
+      "duration_ms": 298208,
+      "name": "Puppets",
+      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -643,6 +643,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Yardley Suite",
+        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
+      },
+      "artists": [
+        {
+          "name": "Ruby Rushton",
+          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
+        }
+      ],
+      "duration_ms": 235803,
+      "name": "Yardley Suite",
+      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Rye Lane Vol. 1",
         "url": "https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 132864,
       "name": "Nankoo on Keys",
       "url": "https://open.spotify.com/track/4VImgRabUMMuNYftIVN3Go"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Yardley Suite",
-        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
-      },
-      "artists": [
-        {
-          "name": "Ruby Rushton",
-          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
-        }
-      ],
-      "duration_ms": 235803,
-      "name": "Yardley Suite",
-      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
     },
     {
       "added_at": "2021-10-08 17:36:35",

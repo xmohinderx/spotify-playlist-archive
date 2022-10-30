@@ -4,7 +4,7 @@
 
 > in the evening the real me comes alive
 
-460 songs - 1 day 2 hr 8 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
+461 songs - 1 day 2 hr 11 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Company](https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV) | 3:36 | 2022-07-11 | 2022-08-06 |
 | [Constant Repeat](https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 3:09 | 2022-04-16 |  |
 | [cool](https://open.spotify.com/track/11G215Sz8i5QKoU7OnAcON) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [cool](https://open.spotify.com/album/5QwVVZAzqo78YXOIcwcWU2) | 3:06 | 2021-09-25 | 2022-03-18 |
-| [cool water](https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [cool water](https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL) | 3:18 | 2022-03-25 |  |
+| [cool water](https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [cool water](https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL) | 3:18 | 2022-03-25 | 2022-10-30 |
 | [CORDUROY](https://open.spotify.com/track/6UWr3nxjlOJ5j4dwA8qIwf) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [hello TRINITY](https://open.spotify.com/album/03h1vbYJqvoI1fpnBDWuvh) | 3:11 | 2021-11-20 | 2022-02-12 |
 | [Cosmic Lover](https://open.spotify.com/track/7ltiK6ak3SI37XygHoXLnB) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Lonely Hearts Club](https://open.spotify.com/album/0OqV782ApCWpQUdQGd3xD4) | 3:24 | 2022-07-29 | 2022-08-06 |
 | [count on](https://open.spotify.com/track/1A4tabNlyLKLOHQW2XpjaU) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Colin](https://open.spotify.com/artist/1VBF82bIhEpKowEnCNB8Cu) | [count on](https://open.spotify.com/album/3Crvq8uqSTfvnn4IbIzAHY) | 3:26 | 2020-10-13\* | 2021-12-04 |
@@ -237,6 +237,7 @@
 | [INCREDIBLE WORLD](https://open.spotify.com/track/1AhGBxVYGKwTDn1yr5EDiI) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL: SUPER DELUXE VALUE SIZE](https://open.spotify.com/album/6w3qgPT9n2ZNScSARe8KcF) | 3:21 | 2022-10-21 | 2022-10-29 |
 | [Inside Out](https://open.spotify.com/track/2vnocfBFbXPm4g9gsqquXf) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Inside Out](https://open.spotify.com/album/1KJOwJ0GGbbGPoOPGf0qda) | 2:56 | 2020-10-13\* | 2021-12-04 |
 | [Intuition \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/4ae7MCOfVWcv5LS8wC24AS) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Blade Runner Black Lotus \(Original Television Soundtrack\)](https://open.spotify.com/album/336Vo0ixkxxaehT3f6bBMk) | 2:50 | 2022-01-01 | 2022-07-29 |
+| [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 | 2022-10-28 |  |
 | [It's Not Too Late](https://open.spotify.com/track/3GF1jfgwS68YwAdeO92oIA) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [It's Not Too Late](https://open.spotify.com/album/36dPlvameEj5Phyt66juR5) | 3:01 | 2021-11-13 | 2022-04-17 |
 | [I’m Not Going Back \(feat\. Mokita\)](https://open.spotify.com/track/5zqDpOXBAtD4j3Z7puVqbC) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [I'm Not Going Back](https://open.spotify.com/album/1oaUHkFOJKKAMWPfVKsqXS) | 2:37 | 2021-02-19 | 2021-06-19 |
 | [Je te vois enfin](https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Je te vois enfin](https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR) | 3:25 | 2022-07-21 |  |

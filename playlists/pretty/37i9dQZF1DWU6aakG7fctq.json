@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Selene",
-  "num_followers": 503093,
+  "num_followers": 503121,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg3ODIzMCwwMDAwMDAwMGRiN2I4ZWM0NDQwNzhjZTVlNWEyMDZhYjhkY2Q3YWZm",
+  "snapshot_id": "MTY2Njg3ODIzMCwwMDAwMDAwMDZmN2MzMzQ5MTE4ZDk2NmZkNDMxZWYwYzk2OWU3NDNk",
   "tracks": [
     {
       "added_at": "2022-10-27 13:43:16",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-10-27 13:43:16",
       "album": {
-        "name": "Pastelitos De Guayaba",
-        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Yan",
-          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
-        }
-      ],
-      "duration_ms": 191671,
-      "name": "Pastelitos De Guayaba",
-      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
-    },
-    {
-      "added_at": "2022-10-27 13:43:16",
-      "album": {
         "name": "Lo Que Digan",
         "url": "https://open.spotify.com/album/1MdZ8tyZB75alme89VBOgt"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 190800,
       "name": "Lo Que Digan",
       "url": "https://open.spotify.com/track/1NNckOABiIsVrd0dJwRmLp"
+    },
+    {
+      "added_at": "2022-10-27 13:43:16",
+      "album": {
+        "name": "Pastelitos De Guayaba",
+        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Yan",
+          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
+        }
+      ],
+      "duration_ms": 191671,
+      "name": "Pastelitos De Guayaba",
+      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
     },
     {
       "added_at": "2022-10-27 13:43:16",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-10-27 13:43:16",
       "album": {
-        "name": "Verbenas",
-        "url": "https://open.spotify.com/album/7n3EUXlrYCr7fGydlXtRBC"
-      },
-      "artists": [
-        {
-          "name": "Eva Ryjlen",
-          "url": "https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w"
-        }
-      ],
-      "duration_ms": 253134,
-      "name": "Verbenas",
-      "url": "https://open.spotify.com/track/5ryuReLd1ZW0R2BCpgiG0W"
-    },
-    {
-      "added_at": "2022-10-27 13:43:16",
-      "album": {
         "name": "LUV",
         "url": "https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 143893,
       "name": "LUV",
       "url": "https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz"
+    },
+    {
+      "added_at": "2022-10-27 13:43:16",
+      "album": {
+        "name": "Verbenas",
+        "url": "https://open.spotify.com/album/7n3EUXlrYCr7fGydlXtRBC"
+      },
+      "artists": [
+        {
+          "name": "Eva Ryjlen",
+          "url": "https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w"
+        }
+      ],
+      "duration_ms": 253134,
+      "name": "Verbenas",
+      "url": "https://open.spotify.com/track/5ryuReLd1ZW0R2BCpgiG0W"
     },
     {
       "added_at": "2022-10-27 13:43:16",

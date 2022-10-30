@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Montell Fish
 
-4,376 songs - 10 day 17 hr 10 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,377 songs - 10 day 17 hr 13 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2282,7 +2282,8 @@
 | [Lonely As I Ever Was](https://open.spotify.com/track/1eYHAdDUKLUUWn0lhZgyUz) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Lonely As I Ever Was](https://open.spotify.com/album/2zzmIdVneqgcQVkKicolqF) | 3:53 | 2021-07-10 | 2021-08-28 |
 | [Lonely Boy](https://open.spotify.com/track/0NRiPoaxlU83gWc8OXcihH) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Lonely Boy](https://open.spotify.com/album/559VZ2mo4oaZWSaG3zfcZ2) | 2:12 | 2020-06-06 | 2020-07-18 |
 | [Lonely Holiday](https://open.spotify.com/track/2WmWO59ffgFTKJ2fckWwfm) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Lonely Holiday](https://open.spotify.com/album/06M7uM7Oj3JTwuVRI5vUJV) | 3:47 | 2020-09-04 | 2020-10-16 |
-| [Lonely One](https://open.spotify.com/track/35b2N9gDlR3LPSKaXTGOmu) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Lonely One](https://open.spotify.com/album/1qDhZO24bweGR7zKze2xMZ) | 2:47 | 2022-09-23 |  |
+| [Lonely One](https://open.spotify.com/track/35b2N9gDlR3LPSKaXTGOmu) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Lonely One](https://open.spotify.com/album/1qDhZO24bweGR7zKze2xMZ) | 2:47 | 2022-09-23 | 2022-10-30 |
+| [Lonely One](https://open.spotify.com/track/7dW6aiHZG0A8xApW0Xg40G) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Spirit Mission](https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0) | 2:47 | 2022-09-23 |  |
 | [Lonely People](https://open.spotify.com/track/73s5e2Ap9KBaW77samEvjM) | [M\. T\. Hadley](https://open.spotify.com/artist/3O9qxLTLMvR9Dn1OAFoWaH) | [Empty](https://open.spotify.com/album/4j1xk5vMF8Afkr30pZwpcM) | 4:03 | 2019-11-08 | 2019-12-06 |
 | [Lonely Shade of Blue](https://open.spotify.com/track/3Xy4XTx8YUspuzOAP1VteX) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Lonely Shade of Blue](https://open.spotify.com/album/3yaYIRcHa4fwXW9TROD7ew) | 4:22 | 2019-11-08 | 2019-12-20 |
 | [Loner](https://open.spotify.com/track/7fLb22ZSPkgPOCsOksCwtg) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Loner](https://open.spotify.com/album/5znBaBjG7vMjRdSdKcNV6Q) | 2:23 | 2022-05-13 | 2022-06-22 |

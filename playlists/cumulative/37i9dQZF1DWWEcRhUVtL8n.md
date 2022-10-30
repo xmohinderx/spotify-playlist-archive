@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,398 songs - 3 day 1 hr 36 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,400 songs - 3 day 1 hr 44 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [CRASH COURSE](https://open.spotify.com/track/2nkKGF3kerIiYuAlLdZrGZ) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [CRASH COURSE](https://open.spotify.com/album/2QCeOLhHdbL0acU3hdZoWJ) | 3:37 | 2022-06-17 | 2022-07-28 |
 | [Crashing \(feat\. Bahari\)](https://open.spotify.com/track/3C5piNghVn2W537rCH1eUj) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [To All The Boys: P.S\. I Still Love You \(Music From The Netflix Film\)](https://open.spotify.com/album/37QF4ERcZXyv3i4s22akY5) | 3:50 | 2020-10-20 | 2021-05-27 |
 | [Crawl \(feat\. Anna Shoemaker\)](https://open.spotify.com/track/2tyh6kMjnlUsAfyvrYwIDE) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6), [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Crawl \(feat\. Anna Shoemaker\)](https://open.spotify.com/album/09X44dWv4yXjDk7c0EvoPS) | 2:15 | 2022-04-15 | 2022-07-27 |
-| [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-28 |  |
+| [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-28 | 2022-10-30 |
 | [Cream Shirt](https://open.spotify.com/track/0FeXe1ip5JvofSszofHYIQ) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Cream Shirt](https://open.spotify.com/album/0krr7Z6jLgFaj613S6ZNjK) | 2:43 | 2021-06-02 | 2022-01-06 |
 | [Creases](https://open.spotify.com/track/4ootnwx6kNm9jRd3hu0qRr) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Creases](https://open.spotify.com/album/6GX28PQPkjog77dchhS7dp) | 2:26 | 2021-03-01 | 2021-03-21 |
 | [crowd](https://open.spotify.com/track/4b0Z35o4ScmuFPTFdmFMEs) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [crowd](https://open.spotify.com/album/5unb3zadaEdorA9NLtoim8) | 2:46 | 2020-10-16 | 2021-08-17 |
@@ -651,6 +651,7 @@
 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2022-09-08 |  |
 | [I'm Not In Love](https://open.spotify.com/track/0ODp4fhCOXpxdUMD6ghM3V) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/0I0OwIhuKkI10Whl0ByfRf) | 1:37 | 2021-08-18 | 2022-07-29 |
 | [I'm Not In Love](https://open.spotify.com/track/0fB64S7FNKUDQlyYXlacYi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/10VeT6WRqObxGPOirjcank) | 1:37 | 2022-06-17 | 2022-10-13 |
+| [I'm Not In Love](https://open.spotify.com/track/7gEw6TDaj60NOibnidPBix) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/6nqKQaJR7WETXh4s176M3K) | 1:37 | 2022-10-28 |  |
 | [I'm Not Okay \(feat\. meija\)](https://open.spotify.com/track/09USLRwzsSitztRekqWpM3) | [Tyzo Bloom](https://open.spotify.com/artist/38fu1DhmEN33ALaBa7jGhI), [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [Random Thoughts](https://open.spotify.com/album/2nTBFr520WwBWIsJvR4Hfc) | 3:55 | 2020-11-13 | 2021-01-15 |
 | [IDK](https://open.spotify.com/track/5oObGXk0NriZXxV78aIO0X) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [IDK](https://open.spotify.com/album/15GbsI16l3f6XhdEVxn0EM) | 3:26 | 2021-05-03 | 2022-04-16 |
 | [idwgtyp](https://open.spotify.com/track/28Qv23wjvAhPZGr5NXhBq8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [idwgtyp](https://open.spotify.com/album/0x5swq6Ju73lmGUdR7sjwi) | 3:06 | 2021-01-15 | 2021-03-02 |
@@ -949,7 +950,7 @@
 | [Over It](https://open.spotify.com/track/0gGD3kFDXo6jz8gvSxa9ya) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY) | [Over It](https://open.spotify.com/album/51ocifKtkmS3eEDfnU3Sc0) | 3:04 | 2020-11-10 | 2021-05-22 |
 | [Overkill](https://open.spotify.com/track/7LfjF1auPMDBtsPXJuXpON) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Overkill](https://open.spotify.com/album/1oc9rrlOPMwfMaHT2C2CvS) | 3:06 | 2020-10-20 | 2021-06-03 |
 | [Oxygen](https://open.spotify.com/track/3OSgKpb2c1VbFqDOqiz8tZ) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Oxygen](https://open.spotify.com/album/0dVhYNE7j67jmzu7yX7zam) | 3:06 | 2021-11-12 | 2022-07-29 |
-| [Oxygen](https://open.spotify.com/track/3A0mdJS6ra4RJ9Eidtz2br) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:10 | 2022-06-17 |  |
+| [Oxygen](https://open.spotify.com/track/3A0mdJS6ra4RJ9Eidtz2br) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:10 | 2022-06-17 | 2022-10-30 |
 | [Pager](https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 2:46 | 2022-04-15 | 2022-08-06 |
 | [PAIN](https://open.spotify.com/track/7quWqKzjJwYXF3cqSDSCRL) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [PAIN](https://open.spotify.com/album/6npMxPQjBYL8FQAX7USLp3) | 3:38 | 2020-12-12 | 2021-05-29 |
 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 | 2022-10-07 |  |
@@ -1076,6 +1077,7 @@
 | [Seasons Bloom](https://open.spotify.com/track/1VhnwVLbrEynUIo8VdyBT9) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Simple, Sweet, and Smiling](https://open.spotify.com/album/1nIvucMZCDVpILHipWqVHY) | 3:28 | 2021-11-12 | 2022-06-15 |
 | [Second Best](https://open.spotify.com/track/0lv7WOlLxmlGN1EJSfEWKM) | [Younger Hunger](https://open.spotify.com/artist/6Irs7fI5Xuwhx38JhtarDu) | [Second Best](https://open.spotify.com/album/5mth0C4ZLAzNRhNdTH31V9) | 3:48 | 2020-10-20 | 2020-10-21 |
 | [Second Nature](https://open.spotify.com/track/0Kqo7V39HrgjMaDwL5uvq7) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Second Nature](https://open.spotify.com/album/0UmhcENCeTcbLF4cf9lAEA) | 5:47 | 2022-09-23 | 2022-10-13 |
+| [Second Nature](https://open.spotify.com/track/0fiViisu7WflcoY6YedSnq) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 5:47 | 2022-10-28 |  |
 | [secondguess](https://open.spotify.com/track/29Imzv96MvmWE2iAxejskH) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [secondguess](https://open.spotify.com/album/7JOVnIjr140Zn7scMXAEAd) | 2:55 | 2022-04-29 | 2022-07-29 |
 | [See You Later](https://open.spotify.com/track/4OHXUCTieg7Ba4My21pFz8) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [See You Later](https://open.spotify.com/album/1mdcunvWOgYgFxGk2BH67i) | 2:42 | 2020-10-20 | 2021-05-26 |
 | [Seeds](https://open.spotify.com/track/6S2Uha79wlOXCRlDOImZkZ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Seeds](https://open.spotify.com/album/2e6NV4iI00YbGAtZl1el5v) | 4:11 | 2022-06-17 | 2022-10-29 |

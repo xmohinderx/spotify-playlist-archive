@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029,948 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,998 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 48 | [Lazy Afternoon](https://open.spotify.com/track/5JmJVj3qLsCnBsQ8IC9XLf) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Bright Side of Life](https://open.spotify.com/album/6ry84mOthM6loLKbhuiovs) | 3:30 |
 | 49 | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t) | 4:13 |
 | 50 | [Set Sail](https://open.spotify.com/track/2nkuZha8Oe9puQ8ZX1P9ha) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Set Sail](https://open.spotify.com/album/14emdMLeIWpokV9l8Xgobb) | 3:36 |
-| 51 | [We'll Be Alright](https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:16 |
-| 52 | [Sunshine](https://open.spotify.com/track/1ma4sCjoVMptvilcgJDPGc) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Spark Seeker](https://open.spotify.com/album/2dq7y0FKyzr33UBYXZ2g7u) | 3:33 |
+| 51 | [Sunshine](https://open.spotify.com/track/1ma4sCjoVMptvilcgJDPGc) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Spark Seeker](https://open.spotify.com/album/2dq7y0FKyzr33UBYXZ2g7u) | 3:33 |
+| 52 | [We'll Be Alright](https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:16 |
 | 53 | [Shine](https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Start Livin'](https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg) | 3:14 |
 | 54 | [Where's The Love](https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Trevor Hall](https://open.spotify.com/album/34rT9ovQneEIUPtwPX9tDn) | 3:59 |
 | 55 | [Paradise](https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Paradise](https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s) | 4:10 |
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 65 | [Bring Me Along](https://open.spotify.com/track/12hIOqdMjKmYatc3fwywL7) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [No Shame](https://open.spotify.com/album/1r1dc5yTdwHQk77JZibmCF) | 3:32 |
 | 66 | [Wake Up](https://open.spotify.com/track/6UTZE0OPFM4ofNR1IJAAFX) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [The Green](https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6) | 4:49 |
 | 67 | [Good Feeling](https://open.spotify.com/track/1JQr89uc6xVkIwfS09ct8K) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Voyager](https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ) | 3:23 |
-| 68 | [Life's 2 Short](https://open.spotify.com/track/1wVklb85pKYaoCGx9jybqm) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [Slum Beach Denny](https://open.spotify.com/album/0MgiASaKPnKqEYQiobt7ix) | 4:00 |
-| 69 | [If That's Ok](https://open.spotify.com/track/7wQ9DeZTB7OJ8rnrxeUHSl) | [Bo Napoleon](https://open.spotify.com/artist/2Iso1Lq3OVNEsZNjV20inO) | [If That's Ok](https://open.spotify.com/album/72axqPlcPenA4cydmu4teu) | 3:16 |
-| 70 | [There I Go](https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [There I Go](https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI) | 3:22 |
-| 71 | [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 |
-| 72 | [Bad Seeds](https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7) | [Tomorrows Bad Seeds](https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D) | [Early Prayers](https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6) | 2:46 |
+| 68 | [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 |
+| 69 | [Life's 2 Short](https://open.spotify.com/track/1wVklb85pKYaoCGx9jybqm) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [Slum Beach Denny](https://open.spotify.com/album/0MgiASaKPnKqEYQiobt7ix) | 4:00 |
+| 70 | [If That's Ok](https://open.spotify.com/track/7wQ9DeZTB7OJ8rnrxeUHSl) | [Bo Napoleon](https://open.spotify.com/artist/2Iso1Lq3OVNEsZNjV20inO) | [If That's Ok](https://open.spotify.com/album/72axqPlcPenA4cydmu4teu) | 3:16 |
+| 71 | [Bad Seeds](https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7) | [Tomorrows Bad Seeds](https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D) | [Early Prayers](https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6) | 2:46 |
+| 72 | [There I Go](https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [There I Go](https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI) | 3:22 |
 | 73 | [Daydreaming](https://open.spotify.com/track/3v5OftOHxaVpaaJ8NArHos) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:19 |
 | 74 | [Pressure Drop](https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 2:57 |
 | 75 | [Showdown \(with Collie Buddz\)](https://open.spotify.com/track/7HqvttVInqkHNPlR4Nj4M9) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Showdown \(with Collie Buddz\)](https://open.spotify.com/album/3dDZbo4w9CxQ5OVwqJrXdO) | 4:25 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 94 | [Kingdom \(with The Movement\)](https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ) | [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Kingdom \(with The Movement\)](https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL) | 4:42 |
 | 95 | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa) | 3:19 |
 | 96 | [The Game](https://open.spotify.com/track/24nN6MHT8RXVLMPp5Xxfje) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:33 |
-| 97 | [Two \(with The Hip Abduction\)](https://open.spotify.com/track/14Yv4l3SQsgQ1XAcWtP8kw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS), [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [Two \(with The Hip Abduction\)](https://open.spotify.com/album/1aQ2utdXHjEVtHf8C3ff1Z) | 3:33 |
-| 98 | [Drifting In Out of Time](https://open.spotify.com/track/1P69oceVUgEEKO5TBKM7kn) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:15 |
+| 97 | [Drifting In Out of Time](https://open.spotify.com/track/1P69oceVUgEEKO5TBKM7kn) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:15 |
+| 98 | [Two \(with The Hip Abduction\)](https://open.spotify.com/track/14Yv4l3SQsgQ1XAcWtP8kw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS), [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [Two \(with The Hip Abduction\)](https://open.spotify.com/album/1aQ2utdXHjEVtHf8C3ff1Z) | 3:33 |
 | 99 | [Knocking at Your Door](https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:36 |
 | 100 | [Margaritas \(with Orange Grove\)](https://open.spotify.com/track/0jZkoLBmXigAKcpeYbkXq6) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Orange Grove](https://open.spotify.com/artist/1OUTOOUK6WFuwXEIGjT1wx) | [Margaritas \(with G\. Love & Special Sauce, Orange Grove\)](https://open.spotify.com/album/4KAkq1TW4fIL9S380o3B1L) | 3:37 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDE0ZTllMGRlMDVhODcyNGM4NDExMTBiMTk3NWJmZjQ5`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDg0MjdiZmM3ZmY1MmE4MDU2MjA3ZjAxNDgxYzk5YTQz`

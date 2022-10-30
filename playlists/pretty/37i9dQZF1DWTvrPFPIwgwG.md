@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Paulo Neto
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,645 likes - 85 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,665 likes - 85 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 45 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 |
 | 46 | [Fase do Deserto](https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Fase do Deserto](https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t) | 4:26 |
 | 47 | [Que Tal](https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Que Tal](https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH) | 5:09 |
-| 48 | [A Promessa Não Morreu](https://open.spotify.com/track/3GC0mJbmtadITG1fYwlULf) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [A Promessa Não Morreu](https://open.spotify.com/album/5puMiNpGmxQ5zT35jXdSkG) | 3:28 |
-| 49 | [Tá Passando](https://open.spotify.com/track/70cQFuoozz2oeXsFomsbnC) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Tá Passando](https://open.spotify.com/album/6z95rrlkIV4mKD9GRUdon8) | 5:11 |
+| 48 | [Tá Passando](https://open.spotify.com/track/70cQFuoozz2oeXsFomsbnC) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Tá Passando](https://open.spotify.com/album/6z95rrlkIV4mKD9GRUdon8) | 5:11 |
+| 49 | [A Promessa Não Morreu](https://open.spotify.com/track/3GC0mJbmtadITG1fYwlULf) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [A Promessa Não Morreu](https://open.spotify.com/album/5puMiNpGmxQ5zT35jXdSkG) | 3:28 |
 | 50 | [Tá Gerando](https://open.spotify.com/track/4TcWqpVdGk0myocOPiQQu8) | [Joyce Queiroz](https://open.spotify.com/artist/0ztG5F6KsJNv8v3B8tWBuN), [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Tá Gerando](https://open.spotify.com/album/1JCK6ZfBDBSdnNHaaZqvqE) | 4:34 |
 | 51 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 | 52 | [Um Vencedor](https://open.spotify.com/track/6pRqkptX0mR2nenNo31ENX) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Um Vencedor](https://open.spotify.com/album/3rLP9GSQlADHlNt7dIKCOo) | 4:27 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 75 | [Chore pra Deus](https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Chore pra Deus](https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb) | 4:42 |
 | 76 | [Nada Vai Te Faltar](https://open.spotify.com/track/7jS1AMXD2KtK0kmVqyOowj) | [Neide Martins](https://open.spotify.com/artist/18qBREWpIZMKWohtvnOMKq) | [Nada Vai Te Faltar](https://open.spotify.com/album/12xibWqBSa4cJDWZDfVU3d) | 5:19 |
 | 77 | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/track/0TA4FLhn9MlpNprmvZll4q) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/album/21oORJhHSY6MvEJQtQPAwO) | 5:10 |
-| 78 | [O Rei e o Jumentinho](https://open.spotify.com/track/0CKGdI0qlp29gMmUjhs8Iv) | [Marcelo Dias e Fabiana](https://open.spotify.com/artist/3IdQCstsn4ORocq6UDfaRu) | [O Rei e o Jumentinho](https://open.spotify.com/album/1nvpCyC4YTywNaGYdnV3lK) | 4:40 |
-| 79 | [Grande](https://open.spotify.com/track/6uDf8TrXboC8PccWi3yBVs) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Grande](https://open.spotify.com/album/63H3tYsb3b3PffcXmYFnLI) | 4:13 |
+| 78 | [Grande](https://open.spotify.com/track/6uDf8TrXboC8PccWi3yBVs) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Grande](https://open.spotify.com/album/63H3tYsb3b3PffcXmYFnLI) | 4:13 |
+| 79 | [O Rei e o Jumentinho](https://open.spotify.com/track/0CKGdI0qlp29gMmUjhs8Iv) | [Marcelo Dias e Fabiana](https://open.spotify.com/artist/3IdQCstsn4ORocq6UDfaRu) | [O Rei e o Jumentinho](https://open.spotify.com/album/1nvpCyC4YTywNaGYdnV3lK) | 4:40 |
 | 80 | [A Resposta](https://open.spotify.com/track/1RQa6blE8nsAR8ks3WmCAz) | [Mirian Santos](https://open.spotify.com/artist/6FEZtazXH0yERl9ymW8BAz) | [A Resposta](https://open.spotify.com/album/4dNcugnVhikloGMv9gQf0W) | 5:51 |
 | 81 | [Maior Esperança](https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO) | [Alugiana](https://open.spotify.com/artist/6JWO2kpkeZtMHP4fQxPCaV) | [Maior Esperança](https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd) | 6:23 |
 | 82 | [Ele Te Escolheu](https://open.spotify.com/track/0ht6st5Jxh3s6GAaFTdM8b) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu](https://open.spotify.com/album/4U8TNmrXVreBkDM1VSBaIn) | 4:00 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [Sou Eu](https://open.spotify.com/track/3Jxxzv0FEqlL9rYaETaccs) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Sou Eu](https://open.spotify.com/album/0o8HSd47qb6yQxh8VKkFtz) | 5:06 |
 | 85 | [Senhor do Tempo](https://open.spotify.com/track/1kvm741326ae0jl9mnTyGq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Senhor do Tempo](https://open.spotify.com/album/1001o6hTMbdx3xipS9NNfE) | 4:34 |
 
-Snapshot ID: `MTY2NjkzNTM3OSwwMDAwMDAwMGQ4ODBiMDVlZTNkNzgzYWRkZjE4OTIyZWYwMGVhZDA2`
+Snapshot ID: `MTY2NjkzNTM3OSwwMDAwMDAwMDIxOGU1NGVjNjMzNzZhNjBmNzI0NzU0ZTQ3MzAyNWU2`

@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: Chromeo",
-  "num_followers": 51403,
+  "num_followers": 51446,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMDY4YTk1ZTVlNDgxMjFlMWZlMjEwNWFmOTI4Y2U4ODE5",
+  "snapshot_id": "MTY2MTM4MDE1MywwMDAwMDAwMGEwMTE2M2ZlOTc0ZGI3MzZiZWUxNWUwNGRiMzg1YWE5",
   "tracks": [
     {
       "added_at": "2022-08-24 22:29:13",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-08-24 22:29:13",
       "album": {
-        "name": "Rainbow Man 2.0",
-        "url": "https://open.spotify.com/album/4RunDtINJwyxkCsIGuRErt"
-      },
-      "artists": [
-        {
-          "name": "Busy P",
-          "url": "https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "Rainbow Man",
-      "url": "https://open.spotify.com/track/3ZutS6kzYIHQknkuuHtpUP"
-    },
-    {
-      "added_at": "2022-08-24 22:29:13",
-      "album": {
         "name": "Kitsun\u00e9: Drugs in My Body",
         "url": "https://open.spotify.com/album/7KRC3eWmoCTMP2t7c8o7ZH"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 216600,
       "name": "Drugs in My Body",
       "url": "https://open.spotify.com/track/2OzxUMVcb8RakhwGRJwZGK"
+    },
+    {
+      "added_at": "2022-08-24 22:29:13",
+      "album": {
+        "name": "Rainbow Man 2.0",
+        "url": "https://open.spotify.com/album/4RunDtINJwyxkCsIGuRErt"
+      },
+      "artists": [
+        {
+          "name": "Busy P",
+          "url": "https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "Rainbow Man",
+      "url": "https://open.spotify.com/track/3ZutS6kzYIHQknkuuHtpUP"
     },
     {
       "added_at": "2022-08-24 22:29:13",

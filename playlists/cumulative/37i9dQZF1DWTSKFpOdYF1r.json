@@ -1730,6 +1730,24 @@
     },
     {
       "album": {
+        "name": "Let It Be (Expanded)",
+        "url": "https://open.spotify.com/album/4LwFCUyV4wM6SEg84PaLuL"
+      },
+      "artists": [
+        {
+          "name": "The Replacements",
+          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197426,
+      "name": "I Will Dare",
+      "url": "https://open.spotify.com/track/1MV5BzujqyRQ417qj0rXNS"
+    },
+    {
+      "album": {
         "name": "Alternative 80's",
         "url": "https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0"
       },
@@ -2389,7 +2407,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 171506,
       "name": "Our Lips Are Sealed",
       "url": "https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye"

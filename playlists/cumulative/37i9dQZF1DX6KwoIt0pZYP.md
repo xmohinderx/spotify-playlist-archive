@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-396 songs - 22 hr 6 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
+397 songs - 22 hr 9 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [Mannequin](https://open.spotify.com/track/759no41VtUMaEpYYvPO9Jt) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [Mannequin](https://open.spotify.com/album/67QWb5j7wYWovKhJDqzCda) | 2:49 | 2022-02-11 | 2022-07-28 |
 | [Maybe Baby](https://open.spotify.com/track/2HltyHR6c797UOdw42knuC) | [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3) | [Maybe Baby](https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw) | 2:38 | 2022-04-01 | 2022-07-19 |
 | [mirror](https://open.spotify.com/track/1EgzmXxvjwC5aS8g6A2osl) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [mirror](https://open.spotify.com/album/0aC3BQYnDDhjdKlJEPMGmc) | 3:01 | 2022-06-17 | 2022-06-25 |
-| [Miss Me Too](https://open.spotify.com/track/7dCZc6VWhdROmkol6ZlBOr) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Miss Me Too](https://open.spotify.com/album/0DYdkkaZ6fjwmJ0pVAfOxB) | 2:30 | 2022-10-27 |  |
+| [Miss Me Too](https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 2:30 | 2022-10-27 |  |
+| [Miss Me Too](https://open.spotify.com/track/7dCZc6VWhdROmkol6ZlBOr) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Miss Me Too](https://open.spotify.com/album/0DYdkkaZ6fjwmJ0pVAfOxB) | 2:30 | 2022-10-27 | 2022-10-30 |
 | [miss u](https://open.spotify.com/track/14AjZE4ChxwMepTzvz56RO) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [miss u](https://open.spotify.com/album/7gZBX0q9eBUVXeOind7AxT) | 3:18 | 2022-04-15 | 2022-07-29 |
 | [modern day titanic](https://open.spotify.com/track/6LqCqKnujSNUMORwAoXBTf) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [modern day titanic](https://open.spotify.com/album/1flckcjl6PGXxQxWC2FQKI) | 2:54 | 2022-04-24 | 2022-05-10 |
 | [Moments](https://open.spotify.com/track/4nDP8MKs3nv0laTOZi2r3r) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [The Chase](https://open.spotify.com/album/5wSaWEn5pI90bczSQP6U8f) | 2:49 | 2022-02-11 | 2022-04-19 |

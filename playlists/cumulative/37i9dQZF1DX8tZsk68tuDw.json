@@ -20390,6 +20390,24 @@
     },
     {
       "album": {
+        "name": "Eastbound Silhouette",
+        "url": "https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa"
+      },
+      "artists": [
+        {
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567031,
+      "name": "Lune",
+      "url": "https://open.spotify.com/track/0KsoAc21eXJiDaccgoo8A3"
+    },
+    {
+      "album": {
         "name": "Lune",
         "url": "https://open.spotify.com/album/0XFcO1WYiomvBUxvEF0eN6"
       },
@@ -20401,7 +20419,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 567031,
       "name": "Lune",
       "url": "https://open.spotify.com/track/1oKsE0srIjDkWCtwPTB6TJ"

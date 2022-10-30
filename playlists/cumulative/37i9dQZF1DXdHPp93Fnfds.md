@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Javiera Mena
 
-448 songs - 1 day 1 hr 55 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+449 songs - 1 day 1 hr 58 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Dicen](https://open.spotify.com/track/5Xe5N5HvbXvFYe4I87aQa3) | [Rocío Gal](https://open.spotify.com/artist/4AfambG94sVb235ZxRKGWL) | [Inventario de Ecos](https://open.spotify.com/album/6qnpV0UwXRnGcUOGeRToCw) | 3:09 | 2022-05-06 | 2022-07-26 |
 | [Diferente](https://open.spotify.com/track/3yD8ieuHLGv0MGKTYa1OJo) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Diferente](https://open.spotify.com/album/3K3zNoJFeTu1Sca0U8whGF) | 3:54 | 2022-04-20 | 2022-07-02 |
 | [Diré tu nombre](https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Diré tu nombre](https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr) | 2:59 | 2022-06-03 | 2022-07-28 |
+| [DISFRAZ](https://open.spotify.com/track/2d1Ywb69sE0UhOIyekrN9f) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s), [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [DISFRAZ](https://open.spotify.com/album/0aNHmrgKLB5pGoj1bZ16RQ) | 2:52 | 2022-10-28 |  |
 | [DNI](https://open.spotify.com/track/7pm3ArAgPXyT5kgk0RYLpW) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI) | 1:43 | 2022-01-21 | 2022-05-24 |
 | [Dormir Contigo](https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Dormir Contigo](https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8) | 3:24 | 2022-01-14 |  |
 | [Dos](https://open.spotify.com/track/0J49GNG60XrmImmBl3UGCQ) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Dos](https://open.spotify.com/album/0TEAkQp2XSbE12UE0BsP2W) | 3:54 | 2022-01-14 | 2022-07-29 |
@@ -335,7 +336,7 @@
 | [Presente](https://open.spotify.com/track/06ObiOjteic76rfFebiJhc) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg) | [Presente](https://open.spotify.com/album/2c5ZD2bY4qJ8y65Vfbcqaf) | 3:51 | 2022-01-21 | 2022-04-14 |
 | [PRINCESA](https://open.spotify.com/track/4FbEvvDBDqy39mgQwjbXEf) | [Mica Hourbeigt](https://open.spotify.com/artist/5pZDNzUtIPjNesdPzNui04), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Princesa](https://open.spotify.com/album/5uipLduXdcseEMzrwmeNkW) | 3:23 | 2022-02-11 | 2022-04-16 |
 | [Profundidad del Mar](https://open.spotify.com/track/6fM8NeVzpDJTl6AmMq28Nu) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [NAVEGANDO](https://open.spotify.com/album/6Ta9nz4E0FD8udyyCXz2KN) | 3:08 | 2022-07-08 | 2022-07-24 |
-| [PSILOCIBINA](https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/1BcPj1Wvt5tvVGD1o7bj99) | 3:17 | 2022-07-15 |  |
+| [PSILOCIBINA](https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/1BcPj1Wvt5tvVGD1o7bj99) | 3:17 | 2022-07-15 | 2022-10-30 |
 | [PSILOCIBINA](https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/2WsGQdYOdoCAdTXyejllUm) | 3:17 | 2022-01-14 | 2022-07-27 |
 | [PSILOCIBINA](https://open.spotify.com/track/7FEvlCsK8J6IWyRvog7V2O) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/00RQtUO8IFXb2XMb66xV1w) | 3:17 | 2022-01-21 | 2022-07-29 |
 | [Puedo Esperar](https://open.spotify.com/track/7wFoL9zlaGUuzc4myS2TM1) | [Caravanchela](https://open.spotify.com/artist/647pAP1QqIu4XzEYuuR26c), [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Puedo Esperar](https://open.spotify.com/album/4EPcvJ1Z8VjkQKYD1LpXr7) | 3:50 | 2022-01-21 | 2022-04-21 |

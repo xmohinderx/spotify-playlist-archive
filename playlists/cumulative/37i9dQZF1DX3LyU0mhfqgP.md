@@ -4,7 +4,7 @@
 
 > The newest songs from LGBTQIA+ artists\. Cover: Muna
 
-426 songs - 23 hr 7 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
+427 songs - 23 hr 9 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [everything is fine](https://open.spotify.com/track/3KUoaFS4cNVRKAqYFCpDQg) | [shallow pools](https://open.spotify.com/artist/5wg5i56CcvaCrZrveXt228) | [everything is fine](https://open.spotify.com/album/7g21xIlcdpY8DiZ65iTcad) | 3:08 | 2022-04-15 | 2022-07-25 |
 | [Experience](https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 2:56 | 2021-12-24 | 2022-01-08 |
 | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/album/605QJC3syWgn2xXR3LHbds) | 2:52 | 2022-04-29 | 2022-07-16 |
-| [Faded Like A Feeling](https://open.spotify.com/track/3EdDIJmkL63TgqZUXTZmVp) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Faded Like A Feeling](https://open.spotify.com/album/5MAsi8cTi6hxEhkQckX1nh) | 3:22 | 2022-08-26 |  |
+| [Faded Like A Feeling](https://open.spotify.com/track/3EdDIJmkL63TgqZUXTZmVp) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Faded Like A Feeling](https://open.spotify.com/album/5MAsi8cTi6hxEhkQckX1nh) | 3:22 | 2022-08-26 | 2022-10-30 |
 | [fall in love with a girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:10 | 2022-02-25 |  |
 | [Family Ties](https://open.spotify.com/track/2dP2iym2h1qCm0Cla5Sa3N) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr), [Michael Stipe](https://open.spotify.com/artist/1BrnT6jR3FfrHHtjxBSCDf) | [Family Ties](https://open.spotify.com/album/4YGMtwgQ0CuqTNh2kBOFre) | 3:44 | 2022-03-22 | 2022-04-21 |
 | [Fascination](https://open.spotify.com/track/1beBffSPiC69t4iPU1aOTx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Mamaru](https://open.spotify.com/album/0a2shuL3OZFJ8SzWPz7Egh) | 2:44 | 2022-01-07 | 2022-07-19 |
@@ -415,6 +415,7 @@
 | [We're So Lovely \- Hard Ton Remix](https://open.spotify.com/track/6qxn9Wge4mHwcDhr8R6R0p) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [We're So Lovely \(Hard Ton Remix\)](https://open.spotify.com/album/1AtJBkGpJIZb8Ftl2bkWdj) | 4:14 | 2022-04-08 | 2022-04-19 |
 | [Weirdo](https://open.spotify.com/track/0aIj36K0tuJIt6kpN4Jbtq) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Inside Voices / Outside Voices](https://open.spotify.com/album/3rOh1c4zewftORLmjmV8dM) | 3:45 | 2022-07-31 |  |
 | [Weirdo](https://open.spotify.com/track/3GEcWJB535LBfwF1lyWGAD) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Weirdo](https://open.spotify.com/album/1R0W4HzWUdAMy9TuDH8x1Z) | 3:45 | 2021-12-17 | 2022-06-21 |
+| [WET](https://open.spotify.com/track/7q7Pc8oHXldntr7YKN4PFz) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [WET](https://open.spotify.com/album/6PmonSZBxYfIpW12oeCV3o) | 2:43 | 2022-10-28 |  |
 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 | 2022-06-24 |  |
 | [White Dress](https://open.spotify.com/track/0kUgg5DmwFSEs1uMqyiaW8) | [ELKAE](https://open.spotify.com/artist/0mMKz56OAupiiK0WmnLEtr) | [White Dress](https://open.spotify.com/album/3cMim0qTXPRZtY4edlnfyR) | 3:42 | 2022-05-27 | 2022-07-29 |
 | [White Rabbit \(feat\. Michelle Branch\)](https://open.spotify.com/track/3vytvFuEeRHKgmgNA0Ur7X) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Blonde & Pink Albums](https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe) | 2:55 | 2022-06-24 | 2022-07-25 |

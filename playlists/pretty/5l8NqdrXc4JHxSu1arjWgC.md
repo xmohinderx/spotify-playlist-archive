@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,722 likes - 657 songs - 1 day 20 hr 10 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,724 likes - 657 songs - 1 day 20 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -595,7 +595,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 585 | [Decks Dark](https://open.spotify.com/track/5rIhBK9aaVMck0W2YtOwci) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/6vuykQgDLUCiZ7YggIpLM9) | 4:41 |
 | 586 | [Unconscious Melody](https://open.spotify.com/track/58ITGKThH6gQ4qfkir8kKb) | [Preoccupations](https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3) | [Cassette](https://open.spotify.com/album/0ryvJr9SKqe83vNcBcXPU5) | 3:00 |
 | 587 | [The Truce of Twilight](https://open.spotify.com/track/4hz873mdf51KmczrMiL5GB) | [The Good, the Bad & the Queen](https://open.spotify.com/artist/6iy8nrBbtL57i4eUttHTww) | [Merrie Land](https://open.spotify.com/album/3OCV0CcPqayHyPUqtjWcOT) | 4:22 |
-| 588 | [Astral Plane](https://open.spotify.com/track/4z9o4sijfni4kGSos3VEDB) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [The Modern Lovers](https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8) | 3:00 |
+| 588 | [Astral Plane](https://open.spotify.com/track/4z9o4sijfni4kGSos3VEDB) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [The Modern Lovers \(Expanded Version\)](https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8) | 3:00 |
 | 589 | [Nightclubbing](https://open.spotify.com/track/6WPGAupim73K9XQL4iIefZ) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:15 |
 | 590 | [Ännu en låt i H\-moll](https://open.spotify.com/track/3626c75RApYVHqLcogFbje) | [Björn Olsson](https://open.spotify.com/artist/522M1OdbnnJ3c1Bjxy69tb) | [The Lobster](https://open.spotify.com/album/5DYkS8EE5hklbCJcWO9OKp) | 1:34 |
 | 591 | [Melodi i F\#\-moll](https://open.spotify.com/track/4XjzL6Dn5ie9HycX2cBDoU) | [Björn Olsson](https://open.spotify.com/artist/522M1OdbnnJ3c1Bjxy69tb) | [The Lobster](https://open.spotify.com/album/5DYkS8EE5hklbCJcWO9OKp) | 2:05 |

@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 117815,
+  "num_followers": 117829,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk0Mzc4MywwMDAwMDAwMGRkYzM2MjI1MjEyMjdjMGFjNzM0MWJjNTllMzc0MjMx",
+  "snapshot_id": "MTY2Njk0Mzc4MywwMDAwMDAwMDdlODk0ZTMxYWM5NWU2MzZhYzNhZmMxMmFhYzdiNDFk",
   "tracks": [
     {
       "added_at": "2022-10-27 22:00:00",
@@ -667,6 +667,26 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
+        "name": "ENSAM (feat. estraden)",
+        "url": "https://open.spotify.com/album/3YA5YC5q8EbR4fiHlPiOQ5"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "ENSAM (feat. estraden)",
+      "url": "https://open.spotify.com/track/7EN8ZT8lGdXH58ulXwW94R"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
         "name": "Through The Fire",
         "url": "https://open.spotify.com/album/5ys0NYUklEi3HDxZASpbaf"
       },
@@ -931,22 +951,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Midnatt",
-        "url": "https://open.spotify.com/album/3suLV5WJS3L9v7kG3IKAbM"
-      },
-      "artists": [
-        {
-          "name": "INOMI",
-          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
-        }
-      ],
-      "duration_ms": 184759,
-      "name": "Midnatt",
-      "url": "https://open.spotify.com/track/2WbFll5FxW0JEKIyijHNcb"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "\u00c4ndstation",
         "url": "https://open.spotify.com/album/0nnNhppI9BUITKl6MxxH1K"
       },
@@ -963,6 +967,22 @@
       "duration_ms": 200986,
       "name": "\u00c4ndstation",
       "url": "https://open.spotify.com/track/2j9vYw795YQtiWOUBSr4iG"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "Midnatt",
+        "url": "https://open.spotify.com/album/3suLV5WJS3L9v7kG3IKAbM"
+      },
+      "artists": [
+        {
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+        }
+      ],
+      "duration_ms": 184759,
+      "name": "Midnatt",
+      "url": "https://open.spotify.com/track/2WbFll5FxW0JEKIyijHNcb"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1379,22 +1399,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "MER",
-        "url": "https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi"
-      },
-      "artists": [
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        }
-      ],
-      "duration_ms": 153987,
-      "name": "MER",
-      "url": "https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "Night at Ezeh's",
         "url": "https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl"
       },
@@ -1407,6 +1411,22 @@
       "duration_ms": 193285,
       "name": "CRISIS",
       "url": "https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "MER",
+        "url": "https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi"
+      },
+      "artists": [
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        }
+      ],
+      "duration_ms": 153987,
+      "name": "MER",
+      "url": "https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1515,22 +1535,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Too Late for Edelweiss",
-        "url": "https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 247461,
-      "name": "Tears Are In Your Eyes",
-      "url": "https://open.spotify.com/track/0ncmKS7QC4FIviZKZnIpXn"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "Good Vibes Only",
         "url": "https://open.spotify.com/album/6Oisuq5IPu9aTmfV9OhqJh"
       },
@@ -1543,6 +1547,22 @@
       "duration_ms": 183660,
       "name": "Good Vibes Only",
       "url": "https://open.spotify.com/track/1Dz6pFuwT29a9hQLnmi7kF"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "Too Late for Edelweiss",
+        "url": "https://open.spotify.com/album/3pwK9gnxxo19I0RX7Z7pnS"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 247461,
+      "name": "Tears Are In Your Eyes",
+      "url": "https://open.spotify.com/track/0ncmKS7QC4FIviZKZnIpXn"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1563,18 +1583,18 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "OMR",
-        "url": "https://open.spotify.com/album/5U3yzxL13Rvj8uydja4ncH"
+        "name": "BACKYARD",
+        "url": "https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4"
       },
       "artists": [
         {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
         }
       ],
-      "duration_ms": 140613,
-      "name": "In The Sunrise",
-      "url": "https://open.spotify.com/track/23fsXHpRPkozkePmm8h3vG"
+      "duration_ms": 155085,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1595,6 +1615,22 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
+        "name": "OMR",
+        "url": "https://open.spotify.com/album/5U3yzxL13Rvj8uydja4ncH"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 140613,
+      "name": "In The Sunrise",
+      "url": "https://open.spotify.com/track/23fsXHpRPkozkePmm8h3vG"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H"
       },
@@ -1611,22 +1647,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "BACKYARD",
-        "url": "https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4"
-      },
-      "artists": [
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 155085,
-      "name": "Lean On",
-      "url": "https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "Sk\u00e5l",
         "url": "https://open.spotify.com/album/2U56u39r3FrTJkhdBthB8W"
       },
@@ -1639,26 +1659,6 @@
       "duration_ms": 175400,
       "name": "Sk\u00e5l",
       "url": "https://open.spotify.com/track/0d53D9YtdbRErx5b94XNpm"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Feels Like A Dream",
-        "url": "https://open.spotify.com/album/4gyZv5JaaDicMnO1Ja3kBw"
-      },
-      "artists": [
-        {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 172226,
-      "name": "Feels Like A Dream",
-      "url": "https://open.spotify.com/track/5mQmh9swNjNrfp1wKCZi8p"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1695,18 +1695,22 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Aldrig s\u00e4ga aldrig",
-        "url": "https://open.spotify.com/album/48c81KMFLdJJO9lJpuvGr8"
+        "name": "Feels Like A Dream",
+        "url": "https://open.spotify.com/album/4gyZv5JaaDicMnO1Ja3kBw"
       },
       "artists": [
         {
-          "name": "Felicia Takman",
-          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
         }
       ],
-      "duration_ms": 190454,
-      "name": "Aldrig s\u00e4ga aldrig",
-      "url": "https://open.spotify.com/track/4Za77Ywg9rpSmK24PkWBxU"
+      "duration_ms": 172226,
+      "name": "Feels Like A Dream",
+      "url": "https://open.spotify.com/track/5mQmh9swNjNrfp1wKCZi8p"
     }
   ],
   "unique_name": "Made in Sweden",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk4ODM2NCwwMDAwMDAwMGJhOTYwYzQzOTVlOTk1NTdmYjkzNzk1NzJmYmEwMzNl",
+  "snapshot_id": "MTY2Njk4ODM2NCwwMDAwMDAwMDVjOGVhZTMzZTk5YmViOTQ5Nzc4ZmQ1OWJjZDYzYmFk",
   "tracks": [
     {
       "added_at": "2022-10-28 20:18:35",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2022-10-27 13:44:27",
       "album": {
+        "name": "Cari\u00f1ito",
+        "url": "https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Carin\u0303ito",
+      "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
+    },
+    {
+      "added_at": "2022-10-27 13:44:27",
+      "album": {
         "name": "Call",
         "url": "https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa"
       },
@@ -1335,22 +1355,34 @@
     {
       "added_at": "2022-10-27 13:44:27",
       "album": {
-        "name": "Cari\u00f1ito",
-        "url": "https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ"
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx"
       },
       "artists": [
         {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
         }
       ],
-      "duration_ms": 221133,
-      "name": "Carin\u0303ito",
-      "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
+      "duration_ms": 198594,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR"
+    },
+    {
+      "added_at": "2022-10-27 13:44:27",
+      "album": {
+        "name": "To Anywhere",
+        "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 160695,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6U5n5poetYH1GjHqcW1sYa"
     },
     {
       "added_at": "2022-10-27 13:44:27",
@@ -1391,34 +1423,18 @@
     {
       "added_at": "2022-10-27 13:44:27",
       "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx"
+        "name": "Lost in Parad\u00efse, Pt. 2",
+        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
       },
       "artists": [
         {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
         }
       ],
-      "duration_ms": 198594,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR"
-    },
-    {
-      "added_at": "2022-10-27 13:44:27",
-      "album": {
-        "name": "To Anywhere",
-        "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 160695,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6U5n5poetYH1GjHqcW1sYa"
+      "duration_ms": 203023,
+      "name": "For Gerard",
+      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
     },
     {
       "added_at": "2022-10-27 13:44:27",
@@ -1447,22 +1463,6 @@
       "duration_ms": 218467,
       "name": "Only One",
       "url": "https://open.spotify.com/track/65Xycqq3KSaLmEIbWszegR"
-    },
-    {
-      "added_at": "2022-10-27 13:44:27",
-      "album": {
-        "name": "Lost in Parad\u00efse, Pt. 2",
-        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 203023,
-      "name": "For Gerard",
-      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
     },
     {
       "added_at": "2022-10-27 13:44:27",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2022-10-27 13:44:27",
       "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/3fkGTOHCbKr33dHLgsgjrg"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 185686,
+      "name": "H2O",
+      "url": "https://open.spotify.com/track/4SvapyLwOJj2Z7EJJbTfx9"
+    },
+    {
+      "added_at": "2022-10-27 13:44:27",
+      "album": {
         "name": "Mosaicos",
         "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 180327,
       "name": "Californication (Feels Like I'm Falling In Love)",
       "url": "https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW"
-    },
-    {
-      "added_at": "2022-10-27 13:44:27",
-      "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/3fkGTOHCbKr33dHLgsgjrg"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 185686,
-      "name": "H2O",
-      "url": "https://open.spotify.com/track/4SvapyLwOJj2Z7EJJbTfx9"
     },
     {
       "added_at": "2022-10-27 13:44:27",

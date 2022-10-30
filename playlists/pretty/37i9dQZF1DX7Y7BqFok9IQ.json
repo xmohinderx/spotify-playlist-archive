@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Gary Clark Jr.",
-  "num_followers": 135487,
+  "num_followers": 135541,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGZiMTcxMGQwZmU4MWVlYTUxYzkxYWQ4MDVjYTUyM2Y2",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDAxMmZjZTk5YjY5ZmM1YjcxNjdmNDk4M2QwMTAxMGZj",
   "tracks": [
     {
       "added_at": "2022-10-21 04:01:00",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Fear Of The Dawn",
-        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 214842,
-      "name": "What's the Trick?",
-      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Hear Me Out",
@@ -279,6 +263,22 @@
       "duration_ms": 146178,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1UTNZLkptltS6oNrMzva3s"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Fear Of The Dawn",
+        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 214842,
+      "name": "What's the Trick?",
+      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -361,22 +361,6 @@
       "url": "https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Taking Me Back",
-        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 245961,
-      "name": "Taking Me Back",
-      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Spirit's Furnace",
@@ -425,22 +409,6 @@
       "url": "https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Blak and Blu (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 324786,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Hardware",
@@ -455,6 +423,38 @@
       "duration_ms": 153760,
       "name": "My Lucky Card",
       "url": "https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Taking Me Back",
+        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 245961,
+      "name": "Taking Me Back",
+      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 284786,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "play it pretty",
@@ -559,6 +543,22 @@
       "duration_ms": 202917,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 284786,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
     },
     {
       "added_at": "2021-06-18 04:01:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "Well Wasted",
-        "url": "https://open.spotify.com/album/26rXDFayFu0pANaa174xu7"
-      },
-      "artists": [
-        {
-          "name": "Black Pistol Fire",
-          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
-        }
-      ],
-      "duration_ms": 205973,
-      "name": "Well Wasted",
-      "url": "https://open.spotify.com/track/4S8WK43eMxManxzewCswet"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
         "name": "By Default",
         "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 168936,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Well Wasted",
+        "url": "https://open.spotify.com/album/26rXDFayFu0pANaa174xu7"
+      },
+      "artists": [
+        {
+          "name": "Black Pistol Fire",
+          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
+        }
+      ],
+      "duration_ms": 205973,
+      "name": "Well Wasted",
+      "url": "https://open.spotify.com/track/4S8WK43eMxManxzewCswet"
     },
     {
       "added_at": "2021-02-19 05:01:00",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
     },
     {
-      "added_at": "2021-07-23 04:01:00",
-      "album": {
-        "name": "Notches",
-        "url": "https://open.spotify.com/album/2NREQn8G282SFtYRyj2a0D"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 423666,
-      "name": "Notches",
-      "url": "https://open.spotify.com/track/4aDBXR6cHLtxaO37iaQPml"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Truth And Lies",
@@ -767,6 +751,22 @@
       "duration_ms": 206173,
       "name": "Ride",
       "url": "https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR"
+    },
+    {
+      "added_at": "2021-07-23 04:01:00",
+      "album": {
+        "name": "Notches",
+        "url": "https://open.spotify.com/album/2NREQn8G282SFtYRyj2a0D"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 423666,
+      "name": "Notches",
+      "url": "https://open.spotify.com/track/4aDBXR6cHLtxaO37iaQPml"
     },
     {
       "added_at": "2020-10-16 04:02:00",

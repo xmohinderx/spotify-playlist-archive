@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-402 songs - 22 hr 48 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+403 songs - 22 hr 52 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [I Don't Think I Love You Anymore](https://open.spotify.com/track/0TS3G3xKO8B7guR0WrfxGO) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [I Don't Think I Love You Anymore](https://open.spotify.com/album/6YmBn9Xe8Hbt0baBDxCfMF) | 2:52 | 2022-04-04 | 2022-07-29 |
 | [I hate myself in <3](https://open.spotify.com/track/0yweXXrfN9PGizKifL7A78) | [MaZz](https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7) | [I hate myself in <3](https://open.spotify.com/album/4Bq7ZqDJBsWZGsENcioZjX) | 3:56 | 2022-03-29 | 2022-04-20 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-02-14 | 2022-10-28 |
+| [I Lost Myself In Loving You](https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 3:21 | 2022-10-21 |  |
 | [I Wanna See You Smile](https://open.spotify.com/track/5A7m1ZdTNhZAZ19Hl5H3F2) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [I Wanna See You Smile](https://open.spotify.com/album/2ZMs2qoPYNuPvqXoXOWt4S) | 3:19 | 2021-12-16 | 2022-04-27 |
 | [I Want It All](https://open.spotify.com/track/18PlaQBPe3yJBW1MNKstn2) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [I Want It All](https://open.spotify.com/album/6JOfGsXXXSCFEppeRHWspi) | 3:07 | 2021-12-16 | 2022-03-28 |
 | [I Will Follow You Into The Dark](https://open.spotify.com/track/5aLtfA57cXVEtLQIzv0y2v) | [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [I Will Follow You Into The Dark](https://open.spotify.com/album/52VVh0GZBIdANuNJ943gpt) | 2:56 | 2021-12-16 | 2022-01-12 |
@@ -316,7 +317,7 @@
 | [Set Me Free](https://open.spotify.com/track/3AMQKTsIR0ukMOXvPkwaKz) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 4:02 | 2022-01-11 |  |
 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 | 2021-12-16 |  |
 | [Shade of Yellow](https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:36 | 2021-12-16 |  |
-| [Shameless](https://open.spotify.com/track/1xca56AOpe6oNTAl9Ih239) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Shameless](https://open.spotify.com/album/5QcquR8hsv60H86QASguCE) | 3:41 | 2021-12-16 |  |
+| [Shameless](https://open.spotify.com/track/1xca56AOpe6oNTAl9Ih239) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Shameless](https://open.spotify.com/album/5QcquR8hsv60H86QASguCE) | 3:41 | 2021-12-16 | 2022-10-30 |
 | [Shine](https://open.spotify.com/track/3u2PURh2C1nYvDsAXUsALR) | [Jordan Thomas](https://open.spotify.com/artist/3DX29rKg3Zg7o2lBkdnWBw) | [Rescue](https://open.spotify.com/album/6dxFriud6EaO7kEMABAU6t) | 2:45 | 2022-03-25 | 2022-07-03 |
 | [Short Sighted](https://open.spotify.com/track/25hKDHLSeH6M4J47pMXu9T) | [Lewis Ross](https://open.spotify.com/artist/7H1Mw1I4p9sTGTtbGCj8E3) | [Short Sighted](https://open.spotify.com/album/1DWjS1BFUwomgoJErC02Bu) | 3:40 | 2021-12-16 | 2022-01-16 |
 | [Shouldn't Be Thinking About You](https://open.spotify.com/track/3Inj1eHMvEhwUFej1LYR0d) | [Jamie Grey](https://open.spotify.com/artist/5xoERNSvFkLef8Lkupbu4t) | [Songs They Told Me Weren't Singles \- Part 1](https://open.spotify.com/album/0bsjzb3mpaau8nuzfJSPmC) | 2:51 | 2021-12-16 | 2022-08-03 |

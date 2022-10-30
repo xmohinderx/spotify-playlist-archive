@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen con Silvana Estrada en portada.
 
-395 songs - 22 hr 36 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
+396 songs - 22 hr 40 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Luna Blanca](https://open.spotify.com/track/0fYz9Upv31DKWe1ZW2djBh) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Luna Blanca](https://open.spotify.com/album/1BPlamOwAT7CYtwhXjvlrC) | 3:40 | 2022-06-01 | 2022-07-07 |
 | [mal hábito](https://open.spotify.com/track/0o9C7uGWMkW4yj79xawR8L) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [BASADO EN HECHOS REALES](https://open.spotify.com/album/0IcITWG6ouM737VCcXxanj) | 2:43 | 2022-07-06 | 2022-08-04 |
 | [Mala Vida](https://open.spotify.com/track/3QUsNIAM9lH8uLlDwI5tNN) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mala Vida](https://open.spotify.com/album/1WybN2EANyfkYsthhI5djM) | 2:50 | 2022-05-04 | 2022-06-01 |
-| [Malas Amistades](https://open.spotify.com/track/4rwuZRZ8LnkdAGJXBeAvGh) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/2T5UIzLcqQwa2NZm69C5xs) | 4:10 | 2022-10-05 |  |
+| [Malas Amistades](https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 4:10 | 2022-10-05 |  |
+| [Malas Amistades](https://open.spotify.com/track/4rwuZRZ8LnkdAGJXBeAvGh) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/2T5UIzLcqQwa2NZm69C5xs) | 4:10 | 2022-10-05 | 2022-10-30 |
 | [Mamixhula](https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Mamixhula](https://open.spotify.com/album/0NXREpZBXGM2YSfntjRZg8) | 2:30 | 2022-02-02 | 2022-03-04 |
 | [Marginado](https://open.spotify.com/track/0DRqAaqeBsDh8m7RyVsckz) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Marginado](https://open.spotify.com/album/4giyZ5g7d0mLParNcnd5GF) | 3:24 | 2022-06-01 | 2022-07-07 |
 | [Mariachi](https://open.spotify.com/track/7E8JUCRny3bL3jM70Hf8bT) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Mariachi EP](https://open.spotify.com/album/5Hqg40DAVVoEaB6dvH2P4z) | 2:42 | 2022-04-06 | 2022-05-05 |

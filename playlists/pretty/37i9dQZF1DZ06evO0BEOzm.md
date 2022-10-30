@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,380 likes - 53 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,461 likes - 53 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 52 | [Bestie \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/6nQdrzI6jqsIqYT7D6YLZW) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bestie \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3pt24FvlV5vumEgDAD6dPU) | 2:19 |
 | 53 | [Freaky Girls \(feat\. SZA\)](https://open.spotify.com/track/4RAEVQeHanpXyK2lrEUkMk) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:46 |
 
-Snapshot ID: `Mjc3ODI5MTMsMDAwMDAwMDAyZTkxMjNkZDVhZTBkOGY4ZmM4ZmE4ODk3ZTUyNTkzNQ==`
+Snapshot ID: `Mjc3ODQyMzIsMDAwMDAwMDBjZmUxY2JhNmRkMTQ4OGZjZGI1ZGE3ZDBiNzM1Y2Y2Mg==`

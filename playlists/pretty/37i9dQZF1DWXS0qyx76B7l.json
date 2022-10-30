@@ -1,12 +1,12 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple!",
-  "num_followers": 112178,
+  "num_followers": 112177,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzOTE0NiwwMDAwMDAwMGM4ZWE3NmE3YTY2NjdkZjQxZTMwOWU0MDllNGU4NDk5",
+  "snapshot_id": "MTY2MDIzOTE0NiwwMDAwMDAwMGI1ZjcwZWU3ZWNjZmM4NjQ4MzE2NDMxMWMzNzFjNzY3",
   "tracks": [
     {
       "added_at": "2022-01-24 23:45:18",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 311626,
+      "name": "Tompkins Square Park",
+      "url": "https://open.spotify.com/track/6nTVR9CtUqKB5RQ7a8dv6t"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy"
       },
@@ -815,34 +831,18 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+        "name": "The Best Of Bobby Womack - The Soul Years",
+        "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
         }
       ],
-      "duration_ms": 311626,
-      "name": "Tompkins Square Park",
-      "url": "https://open.spotify.com/track/6nTVR9CtUqKB5RQ7a8dv6t"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Harlem River Blues",
-        "url": "https://open.spotify.com/album/0hihWmULfM5FNgrS7NOXjN"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "One More Night In Brooklyn",
-      "url": "https://open.spotify.com/track/4xv3P9DiKTKMfFaClyZtgn"
+      "duration_ms": 224546,
+      "name": "Across 110th Street",
+      "url": "https://open.spotify.com/track/3E0dHzJ1WIkm58RhJAe13n"
     }
   ],
   "unique_name": "I Love NYC",

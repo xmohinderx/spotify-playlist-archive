@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 42574,
+  "num_followers": 42604,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDJmZGMwYjkxYTY1OWVmYjY3MGEzNjZlNmQwYWFlMGMx",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDMzYWUyYzEzNzlmOWU1ZWI4YzQ5ZDQxMjRmNGYxMWZi",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Luminosity",
-        "url": "https://open.spotify.com/album/5WKBnocziOjEf0A3Sqpm7a"
-      },
-      "artists": [
-        {
-          "name": "Govi",
-          "url": "https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB"
-        }
-      ],
-      "duration_ms": 332400,
-      "name": "Train to Rishikesh",
-      "url": "https://open.spotify.com/track/5NQqC3Xs5CSHiZOEFOOWSa"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "De Cerca",
         "url": "https://open.spotify.com/album/2pdYwg9y5DyRnhwQynk59A"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 403000,
       "name": "Morente Habichuela - Alegr\u00edas",
       "url": "https://open.spotify.com/track/21kpXwKXpa2FRP5L5h7WFs"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Luminosity",
+        "url": "https://open.spotify.com/album/5WKBnocziOjEf0A3Sqpm7a"
+      },
+      "artists": [
+        {
+          "name": "Govi",
+          "url": "https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB"
+        }
+      ],
+      "duration_ms": 332400,
+      "name": "Train to Rishikesh",
+      "url": "https://open.spotify.com/track/5NQqC3Xs5CSHiZOEFOOWSa"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Flight to Paradise",
+        "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
+      },
+      "artists": [
+        {
+          "name": "Novamenco",
+          "url": "https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp"
+        }
+      ],
+      "duration_ms": 256399,
+      "name": "Mood for Love",
+      "url": "https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Estrellita",
         "url": "https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 131182,
       "name": "Estrellita",
       "url": "https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Flight to Paradise",
-        "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
-      },
-      "artists": [
-        {
-          "name": "Novamenco",
-          "url": "https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp"
-        }
-      ],
-      "duration_ms": 256399,
-      "name": "Mood for Love",
-      "url": "https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Paz",
-        "url": "https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k"
-      },
-      "artists": [
-        {
-          "name": "Nino Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
-        }
-      ],
-      "duration_ms": 304600,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Siena",
         "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 131209,
       "name": "Siena",
       "url": "https://open.spotify.com/track/6hebly36sQyqXZerurmsuO"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Paz",
+        "url": "https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k"
+      },
+      "artists": [
+        {
+          "name": "Nino Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Ni\u00f1o Josele",
+        "url": "https://open.spotify.com/album/79653plha39OpqECC3HCln"
+      },
+      "artists": [
+        {
+          "name": "Nino Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Madera Negra",
+      "url": "https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Parque De Mar\u00eda Luisa",
         "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 152663,
       "name": "Me Estas Haciendo Falta",
       "url": "https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Ni\u00f1o Josele",
-        "url": "https://open.spotify.com/album/79653plha39OpqECC3HCln"
-      },
-      "artists": [
-        {
-          "name": "Nino Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Madera Negra",
-      "url": "https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Just Feeling Great",
+        "url": "https://open.spotify.com/album/51ZoU9SmsB2MNiIQIe018S"
+      },
+      "artists": [
+        {
+          "name": "Nylonwings",
+          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
+        }
+      ],
+      "duration_ms": 121814,
+      "name": "Just Feeling Great",
+      "url": "https://open.spotify.com/track/6ThIFhiC2QlBlYnM5qgO9k"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Parque De Mar\u00eda Luisa",
         "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 109505,
       "name": "Lagrima",
       "url": "https://open.spotify.com/track/5BI10E53YBSMYbCnKijBEN"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Just Feeling Great",
-        "url": "https://open.spotify.com/album/51ZoU9SmsB2MNiIQIe018S"
-      },
-      "artists": [
-        {
-          "name": "Nylonwings",
-          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
-        }
-      ],
-      "duration_ms": 121814,
-      "name": "Just Feeling Great",
-      "url": "https://open.spotify.com/track/6ThIFhiC2QlBlYnM5qgO9k"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Lost Tales of Catalonia",
-        "url": "https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl"
-      },
-      "artists": [
-        {
-          "name": "Daniel Kaede",
-          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
-        }
-      ],
-      "duration_ms": 193851,
-      "name": "When the Ocean Sleeps",
-      "url": "https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Spanish Guitar EP",
         "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 132446,
       "name": "Adelita Mazurka",
       "url": "https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Lost Tales of Catalonia",
+        "url": "https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl"
+      },
+      "artists": [
+        {
+          "name": "Daniel Kaede",
+          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
+        }
+      ],
+      "duration_ms": 193851,
+      "name": "When the Ocean Sleeps",
+      "url": "https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Bajo La Luna",
-        "url": "https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO"
-      },
-      "artists": [
-        {
-          "name": "Enrique De Melchor",
-          "url": "https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Zaralmondi - Colombianas",
-      "url": "https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/7cvP0H7wJAX4j4WgB7eE4h"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 178515,
       "name": "Tango",
       "url": "https://open.spotify.com/track/79ufiBihx4SbCFVOQwhQwo"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Bajo La Luna",
+        "url": "https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO"
+      },
+      "artists": [
+        {
+          "name": "Enrique De Melchor",
+          "url": "https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Zaralmondi - Colombianas",
+      "url": "https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT"
     },
     {
       "added_at": "2022-10-27 22:01:00",

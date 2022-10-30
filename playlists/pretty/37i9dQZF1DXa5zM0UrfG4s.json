@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Hagle",
-  "num_followers": 89776,
+  "num_followers": 89813,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMDMxNjEyZDk3NzMxZjNhM2E2YjI1YTZiNzk2YmJlZTY0",
+  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMDQzMjZjNjVkNGVmMjFiOGJhN2Y3NjkzYmY4ZjUwMGMz",
   "tracks": [
     {
       "added_at": "2022-10-20 22:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "KJ\u00d8PE HELE SVERIGE",
-        "url": "https://open.spotify.com/album/0ZgDNxfaVeihCzeTzDQVw6"
-      },
-      "artists": [
-        {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
-        }
-      ],
-      "duration_ms": 117180,
-      "name": "KJ\u00d8PE HELE SVERIGE",
-      "url": "https://open.spotify.com/track/50JIJWXNfJYU2clG8oMoeF"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Take My Hand",
         "url": "https://open.spotify.com/album/3895zoFFOiT4gDIqwyxwdX"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 161104,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/4dbHMUMM1Xh33GPwXXd4OA"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "KJ\u00d8PE HELE SVERIGE",
+        "url": "https://open.spotify.com/album/0ZgDNxfaVeihCzeTzDQVw6"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "duration_ms": 117180,
+      "name": "KJ\u00d8PE HELE SVERIGE",
+      "url": "https://open.spotify.com/track/50JIJWXNfJYU2clG8oMoeF"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Wellerman",
-        "url": "https://open.spotify.com/album/6yNcSpbsvKajZWEOANv9NR"
-      },
-      "artists": [
-        {
-          "name": "Cir.Cuz",
-          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
-        }
-      ],
-      "duration_ms": 151933,
-      "name": "Wellerman",
-      "url": "https://open.spotify.com/track/4rFhv1bOt5M7rRa83KEY71"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "En f\u00e5r v\u00e6re som en er",
         "url": "https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 205818,
       "name": "Kongen av campingplassen",
       "url": "https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Wellerman",
+        "url": "https://open.spotify.com/album/6yNcSpbsvKajZWEOANv9NR"
+      },
+      "artists": [
+        {
+          "name": "Cir.Cuz",
+          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
+        }
+      ],
+      "duration_ms": 151933,
+      "name": "Wellerman",
+      "url": "https://open.spotify.com/track/4rFhv1bOt5M7rRa83KEY71"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Ei tid (Akustisk versjon)",
+        "url": "https://open.spotify.com/album/2JenyjghH78NEzzNDEfPvF"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        },
+        {
+          "name": "Synne",
+          "url": "https://open.spotify.com/artist/68UvCzlIOr87VYF5icJd2d"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "Ei tid - Akustisk versjon",
+      "url": "https://open.spotify.com/track/38Qxu73W4pnkkwlKJaLfUK"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Jag Gillar Dig",
         "url": "https://open.spotify.com/album/3GJX0NsF7t5wOgdlhYLqn2"
       },
@@ -1199,26 +1219,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Ei tid (Akustisk versjon)",
-        "url": "https://open.spotify.com/album/2JenyjghH78NEzzNDEfPvF"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        },
-        {
-          "name": "Synne",
-          "url": "https://open.spotify.com/artist/68UvCzlIOr87VYF5icJd2d"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "Ei tid - Akustisk versjon",
-      "url": "https://open.spotify.com/track/38Qxu73W4pnkkwlKJaLfUK"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Bara vara med dig",
         "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
       },
@@ -1231,6 +1231,22 @@
       "duration_ms": 161267,
       "name": "Bara vara med dig",
       "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Tv\u00e5 T\u00f6lver",
+        "url": "https://open.spotify.com/album/4X7kcwcsUFzrIxtYuWZlEp"
+      },
+      "artists": [
+        {
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+        }
+      ],
+      "duration_ms": 138581,
+      "name": "Tv\u00e5 T\u00f6lver",
+      "url": "https://open.spotify.com/track/2UpB2xTnTenWwxTVg87msr"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1251,22 +1267,6 @@
       "duration_ms": 179760,
       "name": "H\u00e5per du er lykkelig n\u00e5",
       "url": "https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Tv\u00e5 T\u00f6lver",
-        "url": "https://open.spotify.com/album/4X7kcwcsUFzrIxtYuWZlEp"
-      },
-      "artists": [
-        {
-          "name": "Str\u00f6g1",
-          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
-        }
-      ],
-      "duration_ms": 138581,
-      "name": "Tv\u00e5 T\u00f6lver",
-      "url": "https://open.spotify.com/track/2UpB2xTnTenWwxTVg87msr"
     },
     {
       "added_at": "2022-10-20 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,901 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,940 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 40 | [Closure](https://open.spotify.com/track/1OcnAp6rB3ZbQbXw1ncAI3) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Closure](https://open.spotify.com/album/1MqcGz8uF79zpVcH75JH19) | 2:57 |
 | 41 | [WILD WILD WEST](https://open.spotify.com/track/0XorGtwWuDhvbjbqNVxQXY) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [803MAYJOR VOL\. 1](https://open.spotify.com/album/1dlNnLmFEu4gzUpT2ob5qp) | 1:20 |
 | 42 | [DIAMOND DALLAS.](https://open.spotify.com/track/0hZAwaGhANCzy84BJHtILG) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [DIAMOND DALLAS.](https://open.spotify.com/album/5bWtO72zAGUbqaWOuK0zcl) | 2:48 |
-| 43 | [Arrogant](https://open.spotify.com/track/6fugJLhec4sxCmooCeklD9) | [Sainte](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Arrogant](https://open.spotify.com/album/1oDxRgxS0Bj7atLNd7E7dr) | 2:25 |
+| 43 | [Arrogant](https://open.spotify.com/track/6fugJLhec4sxCmooCeklD9) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Arrogant](https://open.spotify.com/album/1oDxRgxS0Bj7atLNd7E7dr) | 2:25 |
 | 44 | [CYCLOPS](https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:09 |
 | 45 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
 | 46 | [SCHEMES](https://open.spotify.com/track/0rFNu0G170Z6wgakWF9Sdv) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [WTF is P¡NK](https://open.spotify.com/album/5WsHm6ThrGn78FvAg636ti) | 1:46 |

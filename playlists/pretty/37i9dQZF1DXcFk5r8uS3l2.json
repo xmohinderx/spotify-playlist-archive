@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 416756,
+  "num_followers": 416819,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDAwOWNhYTZhNzU4ZmIyZTcwMWQyZDViMTY2MDFjMjVl",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDE5YTZhM2MzYjQxOWYwNmZiNmQwNWNjMDEwZGU5NjYx",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -769,20 +769,20 @@
       "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
+      "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "Keep On",
-        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
+        "name": "Have A Ball",
+        "url": "https://open.spotify.com/album/2DxhN63gMkdmNEMrCGn2AT"
       },
       "artists": [
         {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
         }
       ],
-      "duration_ms": 223490,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
+      "duration_ms": 144985,
+      "name": "Have A Ball",
+      "url": "https://open.spotify.com/track/0M5ulWgUKiuyaVbs4h3jCI"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -801,20 +801,20 @@
       "url": "https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
+      "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Have A Ball",
-        "url": "https://open.spotify.com/album/2DxhN63gMkdmNEMrCGn2AT"
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
       "artists": [
         {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
         }
       ],
-      "duration_ms": 144985,
-      "name": "Have A Ball",
-      "url": "https://open.spotify.com/track/0M5ulWgUKiuyaVbs4h3jCI"
+      "duration_ms": 223490,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Smoke From The Chimney",
@@ -933,6 +917,22 @@
       "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
     },
     {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
+    },
+    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "That's How Love Is Made",
@@ -947,6 +947,22 @@
       "duration_ms": 226986,
       "name": "That's How Love Is Made",
       "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Ice Cream & Cigarettes",
+        "url": "https://open.spotify.com/album/0UQLBWKz03PwXhVUocA0Ir"
+      },
+      "artists": [
+        {
+          "name": "Million Miles",
+          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "Ice Cream & Cigarettes",
+      "url": "https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Ice Cream & Cigarettes",
-        "url": "https://open.spotify.com/album/0UQLBWKz03PwXhVUocA0Ir"
-      },
-      "artists": [
-        {
-          "name": "Million Miles",
-          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "Ice Cream & Cigarettes",
-      "url": "https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Call Me A Fool [Feat. Carla Thomas]",
         "url": "https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 223880,
       "name": "Call Me A Fool [Feat. Carla Thomas]",
       "url": "https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Introducing Junior Kimbrough",
+        "url": "https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD"
+      },
+      "artists": [
+        {
+          "name": "Junior Kimbrough",
+          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
+        }
+      ],
+      "duration_ms": 137413,
+      "name": "Feels so Bad - Previously Unreleased Take",
+      "url": "https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1055,22 +1071,6 @@
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Introducing Junior Kimbrough",
-        "url": "https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD"
-      },
-      "artists": [
-        {
-          "name": "Junior Kimbrough",
-          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
-        }
-      ],
-      "duration_ms": 137413,
-      "name": "Feels so Bad - Previously Unreleased Take",
-      "url": "https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z"
     },
     {
       "added_at": "2022-05-27 04:03:00",

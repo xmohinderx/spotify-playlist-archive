@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jas
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,898 likes - 143 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,955 likes - 143 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 2 | [Chad Gayi Chad Gayi](https://open.spotify.com/track/19YcxEcS0mhP7WUd8XzAwv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Chad Gayi Chad Gayi \(From "Oye Makhna"\)](https://open.spotify.com/album/6mWCWNkxapUEzmXyAC8xu4) | 3:47 |
 | 3 | [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/track/6UCOYYKgwCJpENkEFHjw50) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/album/0NpT6q3W06PVHcCnE5Ifyl) | 3:55 |
 | 4 | [Dekhya Kite](https://open.spotify.com/track/07X7p4jFhHEECps5IBKQ3c) | [Davy](https://open.spotify.com/artist/53DGPAJOq7aJrvYGrumUOV), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Dekhya Kite](https://open.spotify.com/album/2zPnY5L7hwCjuYmpuCCAO5) | 3:02 |
-| 5 | [Snowfall](https://open.spotify.com/track/33rfzVxhNEBh0tnt2KXbXI) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Snowfall](https://open.spotify.com/album/2YMwWwivQX7z4n3913TPZh) | 3:00 |
+| 5 | [Snowfall](https://open.spotify.com/track/33rfzVxhNEBh0tnt2KXbXI) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Snowfall](https://open.spotify.com/album/2YMwWwivQX7z4n3913TPZh) | 3:01 |
 | 6 | [Ki Likha](https://open.spotify.com/track/45FqDbFJkcg3jDqhqnvvmL) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ki Likha](https://open.spotify.com/album/51OFYw4DkH77r7GvldQjAq) | 4:26 |
 | 7 | [Qafira](https://open.spotify.com/track/2yE543074fy9yQlCZgYb4P) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Saajz](https://open.spotify.com/artist/2a2ivn274wtLKBnjDYa07b), [Paras Chhabra](https://open.spotify.com/artist/0nXpSLjOlS1x3tkceC07Xr), [Mahira Sharma](https://open.spotify.com/artist/0o5cnfOKpV0THKVRD0HwBO) | [Qafira](https://open.spotify.com/album/4dfn3T0oQIu4rZuJLPz7ua) | 3:58 |
 | 8 | [Baith Kol](https://open.spotify.com/track/1k7rYDge3QkW428fFhXTKK) | [Pooja M Suresh](https://open.spotify.com/artist/2kyyWFCwV1iTPxo69lZXid), [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Namyoho Studios](https://open.spotify.com/artist/4s3S5ufnXrulmx1a4xIftH) | [Baith Kol](https://open.spotify.com/album/0w1a5AEJ2PYA433M414kMZ) | 3:40 |

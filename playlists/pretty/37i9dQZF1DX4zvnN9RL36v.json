@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 3079,
+  "num_followers": 3084,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMDQ1ZDc2NTFlNGI2ZTA3ODlkMGYzODk5ZjhlY2QzODBj",
+  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMGJmMjE3YzBlYjJlMWRhMmI5ZGUwZjQ3OGVhY2Q2OGZm",
   "tracks": [
     {
       "added_at": "2022-08-18 14:25:32",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "\uad6c\uc560 Propose",
-        "url": "https://open.spotify.com/album/2MRBFyAUweiBw5svhtlUVK"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 213222,
-      "name": "\uad6c\uc560 Propose",
-      "url": "https://open.spotify.com/track/5gaFDKroNN3BRcqJbYf5Gb"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "I'm",
         "url": "https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 228400,
       "name": "Maybe I am",
       "url": "https://open.spotify.com/track/6r6CGnSzirRWxfmzOQHQfw"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "\uad6c\uc560 Propose",
+        "url": "https://open.spotify.com/album/2MRBFyAUweiBw5svhtlUVK"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 213222,
+      "name": "\uad6c\uc560 Propose",
+      "url": "https://open.spotify.com/track/5gaFDKroNN3BRcqJbYf5Gb"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "\ud654\ubd84",
-        "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
-      },
-      "artists": [
-        {
-          "name": "Alex",
-          "url": "https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
-      "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "Afraid To Say I Love You",
         "url": "https://open.spotify.com/album/3W0HGM1NBblqIrhMMLoiDx"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 205797,
       "name": "Afraid To Say I Love You",
       "url": "https://open.spotify.com/track/5q3q7ZIRq7EoCK3kpsfRpz"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "\ud654\ubd84",
+        "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
+      },
+      "artists": [
+        {
+          "name": "Alex",
+          "url": "https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
+      "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
     },
     {
       "added_at": "2022-08-18 14:25:32",

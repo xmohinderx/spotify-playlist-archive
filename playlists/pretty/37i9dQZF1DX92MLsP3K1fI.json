@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Sofi Mata en portada.",
-  "num_followers": 52493,
+  "num_followers": 52534,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk2Mzg3NywwMDAwMDAwMDI0YmRmODZkY2Y4ODllODYxOGM5ZDI0NjZjZjE0NDFm",
+  "snapshot_id": "MTY2Mzk2Mzg3NywwMDAwMDAwMGFmY2Y2NmZlMzk4NTQzMjhmY2FkMjFmMDg5MWIyYTM1",
   "tracks": [
     {
       "added_at": "2022-09-23 20:11:17",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-09-23 20:11:17",
       "album": {
+        "name": "Shot Shot",
+        "url": "https://open.spotify.com/album/5I0GqHbj7MEGF0RRd5haZF"
+      },
+      "artists": [
+        {
+          "name": "Lamentablemente Flow",
+          "url": "https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "Shot Shot",
+      "url": "https://open.spotify.com/track/1T9uhHXZspigDRS10mzBmt"
+    },
+    {
+      "added_at": "2022-09-23 20:11:17",
+      "album": {
         "name": "Siempre T\u00fa",
         "url": "https://open.spotify.com/album/3ipgL8vCJtnSTJl8irREqr"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2022-09-23 20:11:17",
       "album": {
-        "name": "Shot Shot",
-        "url": "https://open.spotify.com/album/5I0GqHbj7MEGF0RRd5haZF"
-      },
-      "artists": [
-        {
-          "name": "Lamentablemente Flow",
-          "url": "https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "Shot Shot",
-      "url": "https://open.spotify.com/track/1T9uhHXZspigDRS10mzBmt"
-    },
-    {
-      "added_at": "2022-09-23 20:11:17",
-      "album": {
         "name": "Bailando al Amanecer",
         "url": "https://open.spotify.com/album/6fKK4ABu0NTbpnkknjO3l5"
       },
@@ -891,22 +891,18 @@
     {
       "added_at": "2022-09-23 20:11:17",
       "album": {
-        "name": "Despertar",
-        "url": "https://open.spotify.com/album/1YLJe893LXBJ91Y9ZKOnfh"
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/6UcyaKAJuH5e90PAbFeVrk"
       },
       "artists": [
         {
-          "name": "Karen Polinesia",
-          "url": "https://open.spotify.com/artist/1sl6PdP9LqFUWmrt7bV23E"
-        },
-        {
-          "name": "Los Polinesios",
-          "url": "https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Despertar",
-      "url": "https://open.spotify.com/track/2zvKyZEqzTHCFseMncakGl"
+      "duration_ms": 173231,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/2mQ2xgCWPSrlm1eJJdAjfw"
     }
   ],
   "unique_name": "Oye Pop",

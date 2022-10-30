@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: The Interrupters",
-  "num_followers": 323097,
+  "num_followers": 323163,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg3Mzg2NCwwMDAwMDAwMGUzODlmMzNjZjMyMWM3NDIzODE2MTk1OGI5M2JkYTcx",
+  "snapshot_id": "MTY1NDg3Mzg2NCwwMDAwMDAwMGY3OWNlM2RhN2VhMzZmYTg3NjZjYzhhZTc5NzZmMThi",
   "tracks": [
     {
       "added_at": "2022-04-14 09:43:03",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Middle Finger",
-        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "So Long & Thanks For All The Shoes",
         "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 112493,
       "name": "All Outta Angst",
       "url": "https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 206032,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Message to the World",
-        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Social Drinker",
-      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Duck and Cover",
         "url": "https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 388466,
       "name": "One More Minute",
       "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Message to the World",
+        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Social Drinker",
+      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 220693,
-      "name": "Beer",
-      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "\u2026And The Battle Begun",
         "url": "https://open.spotify.com/album/0bjJmoZgV7ijmlMwvF0Oij"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 181773,
       "name": "Free Time",
       "url": "https://open.spotify.com/track/19FG153t1MdozcTZHi8guM"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/5FLHSvc1Q7TW2hqspnqKRF"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "Beer",
+      "url": "https://open.spotify.com/track/7rDOSQkStxj28M4GRM6Xbs"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Wasted Days",
-        "url": "https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB"
-      },
-      "artists": [
-        {
-          "name": "The Slackers",
-          "url": "https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK"
-        }
-      ],
-      "duration_ms": 248413,
-      "name": "Wasted Days",
-      "url": "https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Keasbey Nights",
         "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 194146,
       "name": "On & On & On",
       "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Wasted Days",
+        "url": "https://open.spotify.com/album/6Gsk2nUl219al8pzo8TNWB"
+      },
+      "artists": [
+        {
+          "name": "The Slackers",
+          "url": "https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Wasted Days",
+      "url": "https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -959,18 +959,18 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Me, Myself and Something Else",
-        "url": "https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b"
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
       "artists": [
         {
-          "name": "Call Me Malcolm",
-          "url": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 274250,
-      "name": "I Bet They're Asleep In New York",
-      "url": "https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc"
+      "duration_ms": 130373,
+      "name": "180 Degrees",
+      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+        "name": "Me, Myself and Something Else",
+        "url": "https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b"
       },
       "artists": [
         {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+          "name": "Call Me Malcolm",
+          "url": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
         }
       ],
-      "duration_ms": 130373,
-      "name": "180 Degrees",
-      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
+      "duration_ms": 274250,
+      "name": "I Bet They're Asleep In New York",
+      "url": "https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Stupid",
-        "url": "https://open.spotify.com/album/6lqdshNzLu0xUK5ntZkE6c"
-      },
-      "artists": [
-        {
-          "name": "Just Friends",
-          "url": "https://open.spotify.com/artist/5489Aao4KjbdU9l5CUadOa"
-        }
-      ],
-      "duration_ms": 193503,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/3sdMZWhtbfwfazzDPyPUgU"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Beatdown Generation",
         "url": "https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 194825,
       "name": "Beatdown Generation",
       "url": "https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Stupid",
+        "url": "https://open.spotify.com/album/6lqdshNzLu0xUK5ntZkE6c"
+      },
+      "artists": [
+        {
+          "name": "Just Friends",
+          "url": "https://open.spotify.com/artist/5489Aao4KjbdU9l5CUadOa"
+        }
+      ],
+      "duration_ms": 193503,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/3sdMZWhtbfwfazzDPyPUgU"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7"
-      },
-      "artists": [
-        {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
-        }
-      ],
-      "duration_ms": 216900,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Strange Creatures - EP",
         "url": "https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 229813,
       "name": "Hey Road",
       "url": "https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7"
+      },
+      "artists": [
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        }
+      ],
+      "duration_ms": 216900,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Room For Abuse '06",
-        "url": "https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf"
-      },
-      "artists": [
-        {
-          "name": "[spunge]",
-          "url": "https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT"
-        }
-      ],
-      "duration_ms": 186804,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "No One is Illegal",
         "url": "https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 226413,
       "name": "Here is the News (Papa\u00b4s Got a Brand New Pigbag)",
       "url": "https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Room For Abuse '06",
+        "url": "https://open.spotify.com/album/5Jf3CXEX8DhIxzH3psPoCf"
+      },
+      "artists": [
+        {
+          "name": "[spunge]",
+          "url": "https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT"
+        }
+      ],
+      "duration_ms": 186804,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/5vkJkwKAEBUGess9Elg26s"
     },
     {
       "added_at": "2022-04-14 09:43:03",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-04-14 09:43:03",
       "album": {
-        "name": "Rental!! Eviction!!",
-        "url": "https://open.spotify.com/album/7jbc6VssvRQLTYCAYMAT9W"
-      },
-      "artists": [
-        {
-          "name": "Bruce Lee Band",
-          "url": "https://open.spotify.com/artist/6BhJtndfqL4E0eO0ZGKrhY"
-        }
-      ],
-      "duration_ms": 124296,
-      "name": "If I Could Only Listen to My Heart",
-      "url": "https://open.spotify.com/track/0bIcOHJmmumvvdsHmnFEy1"
-    },
-    {
-      "added_at": "2022-04-14 09:43:03",
-      "album": {
         "name": "Upbeats & Beatdowns",
         "url": "https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 220133,
       "name": "A Flowery Song",
       "url": "https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby"
+    },
+    {
+      "added_at": "2022-04-14 09:43:03",
+      "album": {
+        "name": "Rental!! Eviction!!",
+        "url": "https://open.spotify.com/album/7jbc6VssvRQLTYCAYMAT9W"
+      },
+      "artists": [
+        {
+          "name": "Bruce Lee Band",
+          "url": "https://open.spotify.com/artist/6BhJtndfqL4E0eO0ZGKrhY"
+        }
+      ],
+      "duration_ms": 124296,
+      "name": "If I Could Only Listen to My Heart",
+      "url": "https://open.spotify.com/track/0bIcOHJmmumvvdsHmnFEy1"
     },
     {
       "added_at": "2022-04-14 09:43:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,602 likes - 102 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,613 likes - 102 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 76 | [Rien](https://open.spotify.com/track/5fgF4OJlQfPwKs9ezIjxAS) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Excalibur](https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T) | 2:46 |
 | 77 | [BBZ](https://open.spotify.com/track/2Uzo8W2sVgOYT7LHMpuBKM) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [BBZ](https://open.spotify.com/album/5kxHscWqXQwyWylcBCCEr9) | 2:17 |
 | 78 | [Day Off](https://open.spotify.com/track/4SQBOThUyQAdFKXVTyPbIp) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Day Off](https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK) | 3:32 |
-| 79 | [Très Disco](https://open.spotify.com/track/0xVsnpBRJq8rmnN9uv2hJQ) | [Gesleir](https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP) | [Très Disco](https://open.spotify.com/album/1bjzTkJzngBWGLpTrsQK0E) | 4:49 |
+| 79 | [Très Disco](https://open.spotify.com/track/0xVsnpBRJq8rmnN9uv2hJQ) | [Claude](https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP) | [Très Disco](https://open.spotify.com/album/1bjzTkJzngBWGLpTrsQK0E) | 4:49 |
 | 80 | [Funky Thang](https://open.spotify.com/track/5zVB1UcrO52SUONu7h7F7U) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Funky Thang](https://open.spotify.com/album/1WklZZRCVoqJCKGoYmeJfr) | 2:40 |
 | 81 | [Good Thing \(feat\. A\-Sho\)](https://open.spotify.com/track/7E1zd4pKf1VkWrbyO8jzwO) | [Heartstreets](https://open.spotify.com/artist/4e4lcwPxcGOe7k5gxGiS1a), [A\-SHO](https://open.spotify.com/artist/1nMwu5ui0X2XYTRKGmCFJz) | [Why Make Sense](https://open.spotify.com/album/4Ky4NOOAsfW8pIna26QR3f) | 3:28 |
 | 82 | [Comment tu vas finir](https://open.spotify.com/track/4I0ZSC98oOw0S1f9cb9qxT) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Comment tu vas finir](https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz) | 2:29 |

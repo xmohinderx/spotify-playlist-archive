@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-579 songs - 1 day 11 hr 29 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+580 songs - 1 day 11 hr 32 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [April Showers](https://open.spotify.com/track/1YnlOIZAPG36FVoh8dIZQZ) | [Aïrto](https://open.spotify.com/artist/7v9nYk36K4skneq3CiKHDV) | [April Showers](https://open.spotify.com/album/2H6l9K78aQq25oCLUB0m9t) | 2:55 | 2020-04-24 | 2020-12-11 |
 | [Are You into It](https://open.spotify.com/track/1tXvQnw1RNtcJDA36oFZYr) | [Jared Grant](https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd) | [Fuel to the Soul](https://open.spotify.com/album/1RgHDNuNWMDjp9DVdxYpOf) | 2:57 | 2022-05-19 | 2022-07-16 |
 | [Arms Around the World](https://open.spotify.com/track/5ZzIcMm4TDNw6RBjF7ckyM) | [Malford Milligan](https://open.spotify.com/artist/2QJLuDh3Dcw0RrNMusUMHz) | [Arms Around the World](https://open.spotify.com/album/7hcKirDA6YZ3C6twSLaWjQ) | 3:02 | 2020-10-30 | 2021-04-17 |
+| [Astrology Joint](https://open.spotify.com/track/1jcGbrSCZ32Q2vyvOpOZzg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Astrology Joint](https://open.spotify.com/album/22JbTK2Ol0UpTjPnW8rlds) | 2:32 | 2022-10-28 |  |
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2021-12-10 | 2022-07-29 |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2022-07-28 |  |
 | [B.N.D](https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K) | [Thaïs Lona](https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S) | [CUBE](https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E) | 4:17 | 2022-06-20 |  |
@@ -90,7 +91,7 @@
 | [Change My Ways](https://open.spotify.com/track/2Mrc2TkPSEPwUZhwvfjVsS) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Change My Ways](https://open.spotify.com/album/4cJdxQJusXqxVDoDqbrPfj) | 3:49 | 2020-11-28 | 2021-07-23 |
 | [Changes \- Single Edit](https://open.spotify.com/track/2tmZnS5qDGJ1nl5edrXFRq) | [Jennie Lena](https://open.spotify.com/artist/69YjsiBzjT9ZPbngJlO0Rm) | [Changes \(Single Edit\)](https://open.spotify.com/album/7hesPMVpsuxDOmdxvFWlEd) | 3:35 | 2020-03-27 | 2020-10-09 |
 | [Colors \- Spotify Singles](https://open.spotify.com/track/7mzocQrHwKd19aLrjT3isS) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6), [Hypnotic Brass Ensemble](https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH) | [Spotify Singles](https://open.spotify.com/album/0Fr890mJEfZ5hrOSNhZjKV) | 4:29 | 2021-01-23 | 2022-02-18 |
-| [Come Around](https://open.spotify.com/track/7AEEEVNZCENxzU4J2V6Ah9) | [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Come Around](https://open.spotify.com/album/3TPOOljJFpM8dtCv7glSFQ) | 3:06 | 2022-06-03 |  |
+| [Come Around](https://open.spotify.com/track/7AEEEVNZCENxzU4J2V6Ah9) | [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Come Around](https://open.spotify.com/album/3TPOOljJFpM8dtCv7glSFQ) | 3:06 | 2022-06-03 | 2022-10-30 |
 | [Come Back \- Radio Edit](https://open.spotify.com/track/5LrRyRNEkx1LHR1JrrypZQ) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Come Back](https://open.spotify.com/album/7IoCTlOk0QSxcGS7bm5PwA) | 2:59 | 2022-02-22 |  |
 | [Come Over](https://open.spotify.com/track/08lS7uqLMbXv7BDOb9guYJ) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Come Over](https://open.spotify.com/album/0oHUs3J4ctv827KteZGkI0) | 3:42 | 2020-10-09 | 2021-05-21 |
 | [Comfortable \- Kraak & Smaak Hangmat Remix](https://open.spotify.com/track/2BXVwgnwvDJP83FprYzkRi) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [HIGH HØØPS](https://open.spotify.com/artist/4awgEb2pQYbDOC6OFuPy9x), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Comfortable](https://open.spotify.com/album/5XhPn7ixVuQqo9CwwbktPo) | 4:57 | 2020-03-25\* | 2020-05-15 |
@@ -457,7 +458,7 @@
 | [Something I Know](https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Something I Know](https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF) | 3:48 | 2020-07-03 | 2021-06-11 |
 | [Something I Said](https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2) | 3:16 | 2022-06-03 | 2022-07-27 |
 | [Sometimes](https://open.spotify.com/track/2m0pzukUN2eFutFjnXNFXF) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Sometimes](https://open.spotify.com/album/2iF0e8WtqcNWDgmo7mDz0m) | 4:33 | 2020-03-25\* | 2020-04-24 |
-| [Sooner Or Later](https://open.spotify.com/track/2G3IHfidz4PpQ5OBw405y4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Tasha's World](https://open.spotify.com/artist/0s826k2Yy9FVmxhFsOAQoF) | [Our Time Our Music1](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 5:20 | 2022-10-28 |  |
+| [Sooner Or Later](https://open.spotify.com/track/2G3IHfidz4PpQ5OBw405y4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Tasha's World](https://open.spotify.com/artist/0s826k2Yy9FVmxhFsOAQoF) | [Our Time Our Music](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 5:20 | 2022-10-28 |  |
 | [Sorrow, Tears And Blood](https://open.spotify.com/track/7yVtVUO4I1eXL4KIJB5bLd) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Stand Up](https://open.spotify.com/album/0qsh1whWV3FcVaM6A8vLN9) | 3:58 | 2020-12-18 | 2021-02-28 |
 | [Soul Revolution](https://open.spotify.com/track/4OwRUfy9Xme3VzqcCU8ofb) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/3djAybXinD2ptRgmhwY8ec) | 3:15 | 2020-10-06 | 2020-10-09 |
 | [Spider](https://open.spotify.com/track/2yfozOE8IyeOz8NLqmU0OT) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Spider](https://open.spotify.com/album/6BLGrbjxYgMxugvnOJLfxx) | 2:54 | 2021-04-17 | 2022-03-11 |

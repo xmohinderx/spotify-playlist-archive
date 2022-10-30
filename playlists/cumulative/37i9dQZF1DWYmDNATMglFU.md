@@ -2,7 +2,7 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> bringing the punk home with when we were young festival ⛓ cover: jxdn
+> bringing the punk home with when we were young festival ⛓ cover: meet me @ the altar
 
 398 songs - 20 hr 6 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
 

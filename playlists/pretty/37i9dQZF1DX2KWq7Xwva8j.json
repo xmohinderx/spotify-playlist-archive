@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Marmi",
-  "num_followers": 19980,
+  "num_followers": 19991,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDgyYWFmYTc2M2U4ZjcwNDRmY2E4YjdlNzg4N2QwZGQw",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDEyNjUwMjJhMDhlMDgzNjhkMDZlZDUzN2NmYjI5Mzdj",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "friki",
-        "url": "https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK"
-      },
-      "artists": [
-        {
-          "name": "valverdina",
-          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
-        },
-        {
-          "name": "Pavlo Tambien",
-          "url": "https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3"
-        }
-      ],
-      "duration_ms": 131871,
-      "name": "friki",
-      "url": "https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Lombard\u00eda 22",
         "url": "https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 179984,
       "name": "Inercia",
       "url": "https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "friki",
+        "url": "https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK"
+      },
+      "artists": [
+        {
+          "name": "valverdina",
+          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
+        },
+        {
+          "name": "Pavlo Tambien",
+          "url": "https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3"
+        }
+      ],
+      "duration_ms": 131871,
+      "name": "friki",
+      "url": "https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "A W",
+        "url": "https://open.spotify.com/album/3n9FQ4ABfG6YRlSDuRadH9"
+      },
+      "artists": [
+        {
+          "name": "Irenegarry",
+          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
+        }
+      ],
+      "duration_ms": 135445,
+      "name": "A W",
+      "url": "https://open.spotify.com/track/3EEnS8xkMxfvp3BB5xquQ4"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Dunas",
         "url": "https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 108250,
       "name": "Dunas",
       "url": "https://open.spotify.com/track/0NzUqCoIruBP1d1z8s81dU"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "A W",
-        "url": "https://open.spotify.com/album/3n9FQ4ABfG6YRlSDuRadH9"
-      },
-      "artists": [
-        {
-          "name": "Irenegarry",
-          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
-        }
-      ],
-      "duration_ms": 135445,
-      "name": "A W",
-      "url": "https://open.spotify.com/track/3EEnS8xkMxfvp3BB5xquQ4"
     },
     {
       "added_at": "2022-10-27 22:01:00",

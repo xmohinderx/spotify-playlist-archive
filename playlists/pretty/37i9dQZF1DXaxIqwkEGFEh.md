@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: G Herbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,951 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,141 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 62 | [SIN \(feat\. Rylo Rodriguez\)](https://open.spotify.com/track/0NtyaNXukC4yLz00xhLcCp) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Trick City \(Extended\)](https://open.spotify.com/album/5dnlF1iZDxqv0btALnQvqE) | 2:29 |
 | 63 | [No Love](https://open.spotify.com/track/6ZhQsccTqnGVAR61i0NF4X) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [No Love](https://open.spotify.com/album/5qlaswyYRuzq0TBLInsNlX) | 2:55 |
 | 64 | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/track/5LMk48NX7yjNfN30PP4OQ6) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/album/04owA5C5mh4CyXzpHgFchJ) | 3:59 |
-| 65 | [Get Even](https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Get Even](https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV) | 2:41 |
+| 65 | [Get Even](https://open.spotify.com/track/0zIqtbTlQcMLHaPIe0kQPg) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Get Even](https://open.spotify.com/album/7cqFE8xdPtmcJ12bHsrT2A) | 2:41 |
 | 66 | [KAPITOL DENIM](https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FLAWLESS LIKE ME](https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS) | 1:57 |
 | 67 | [From Nothing](https://open.spotify.com/track/5RtOqP26S4KrWexNolBaQc) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [From Nothing](https://open.spotify.com/album/1aDPMtE5pS8cNUKC3FnoIH) | 2:49 |
 | 68 | [They Can't FWM](https://open.spotify.com/track/6PPsAQKwX6lqH3ODT9xF35) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [They Can't FWM](https://open.spotify.com/album/2BJj5biozfIQuwBXr1xhaW) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Slide \(Ft\. 21 Savage / Remix\)](https://open.spotify.com/track/3479IDKcKrsY7JDZjNXfHW) | [Madmarcc](https://open.spotify.com/artist/3o6rIhI1Ahunc62U1tx6tg), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Slide \(Ft\. 21 Savage / Remix\)](https://open.spotify.com/album/2R8xL4YlMBUYBDqEyhX50g) | 2:35 |
 | 100 | [Chase Em Down \(feat\. G Herbo\)](https://open.spotify.com/track/6nUKL13cbO4ngkiPSQveRP) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Trench Baby 3](https://open.spotify.com/album/0WcrXk7wQoVhbQSvIFpPMx) | 2:47 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDcyMDQ1OWUxNDFlMTY3MTYzZGNkMDI2ODk0MjZiMGI5`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGZkZThjNWZkOGRhMzE2MjIwNTE4YTM2NTIxNzZhNGQ4`

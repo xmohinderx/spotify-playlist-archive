@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Keith Urban, Lainey Wilson, Russell Dickerson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,309 likes - 59 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,510 likes - 59 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 37 | [Number on Me](https://open.spotify.com/track/2qaIAvBPkRdUCnJCdBrtWs) | [Blake Henderson](https://open.spotify.com/artist/5ILg0WBOzkaN5ePByRuMw4) | [Number on Me](https://open.spotify.com/album/0uECNRFho8BuNRe7c3qb0a) | 2:51 |
 | 38 | [Here Lies Me](https://open.spotify.com/track/0gOUkzmOu6wmS5sR4x6O4M) | [Dani Taylor](https://open.spotify.com/artist/2bLjPY6ejtLITcEE7plvG8) | [Here Lies Me](https://open.spotify.com/album/2g8CQm8WG3YOJM1nup1ZRX) | 2:49 |
 | 39 | [Forever Gone](https://open.spotify.com/track/1iwxmfXAaw72PzwoeGeRP4) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Forever Gone](https://open.spotify.com/album/2hBrcEfY2yOz0hK046ohYI) | 3:12 |
-| 40 | [Half Of My Heart](https://open.spotify.com/track/52o6S1eEIP037dqEx7yTU3) | [Lathan Bryant](https://open.spotify.com/artist/1CEuz2elUszseMrIeCDPjL) | [Half Of My Heart](https://open.spotify.com/album/7M3nD0BZGbRq0ypSIXhfuu) | 4:05 |
+| 40 | [Half Of My Heart](https://open.spotify.com/track/52o6S1eEIP037dqEx7yTU3) | [Lathan Bryant](https://open.spotify.com/artist/19kwPHar3aRaydbCozFr5d) | [Half Of My Heart](https://open.spotify.com/album/7M3nD0BZGbRq0ypSIXhfuu) | 4:05 |
 | 41 | [Velvet](https://open.spotify.com/track/25QTevPHXzAPicpxgmny0W) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Velvet](https://open.spotify.com/album/4PHLWV28tO65Iw5a5PyNce) | 2:42 |
 | 42 | [The Chipotle Song](https://open.spotify.com/track/1yXt4omPDj0DYK5VbGeSUX) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [The Chipotle Song](https://open.spotify.com/album/3wst38Ed1mNT4sHRegn9ky) | 2:45 |
 | 43 | [First Night In L.A.](https://open.spotify.com/track/3sXsUqw19w5vmBA509riOF) | [Paige Nichols](https://open.spotify.com/artist/1NnenkFJW6KNISXvwngy5H) | [First Night In L.A.](https://open.spotify.com/album/4fH0IJAvnV2F6CpZNkXnLe) | 3:27 |

@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 434360,
       "name": "Beyond The Silence - Live",
       "url": "https://open.spotify.com/track/0eanKKNuZ7maqjNstIUqQX"
@@ -1200,6 +1200,24 @@
     },
     {
       "album": {
+        "name": "Road To Redemption",
+        "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317740,
+      "name": "Somewhere Down The Road",
+      "url": "https://open.spotify.com/track/7iXlT2Zy74M7SfbOJH5Sgm"
+    },
+    {
+      "album": {
         "name": "Black Coffee",
         "url": "https://open.spotify.com/album/2jjZQU9uBfmnGDtCFA7qAj"
       },
@@ -1368,6 +1386,28 @@
     },
     {
       "album": {
+        "name": "Road To Redemption",
+        "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324093,
+      "name": "The Ghost Of Macon Jones",
+      "url": "https://open.spotify.com/track/1Js7KQKwCxn8ecdYVP5bty"
+    },
+    {
+      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
       },
@@ -1383,7 +1423,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 324093,
       "name": "The Ghost Of Macon Jones",
       "url": "https://open.spotify.com/track/6kqPxNCsODUHqipFNYYNZL"

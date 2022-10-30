@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-173 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/1YYMYSSPR8waukjuI2hnJr)
+174 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/1YYMYSSPR8waukjuI2hnJr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Gone Far](https://open.spotify.com/track/50FX5UhHPAZQCL0rm0cZm6) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Gone Far](https://open.spotify.com/album/18Q01D7GFl85NruCnXalNO) | 2:28 | 2021-10-08 |  |
 | [Hard](https://open.spotify.com/track/7aQvOqPkqGbug8TnMz3jxo) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Hard](https://open.spotify.com/album/7JmZvsK13hg7x6WBwJG6WE) | 3:15 | 2022-10-07 |  |
 | [Hasta Luego](https://open.spotify.com/track/07a8iJ1nKPQYVAYWbTBAMu) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt), [BuMan](https://open.spotify.com/artist/3Y72vFwgOXdJCiJfGD5rSn), [Boye 'The Genius'](https://open.spotify.com/artist/1gnXGsyZpqJahesflvZkfy) | [Hasta Luego](https://open.spotify.com/album/0EAAPEajgMXR0LpK9k3jeu) | 2:44 | 2022-06-03 | 2022-07-26 |
-| [Hate Me](https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Hate Me](https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p) | 3:19 | 2022-02-24 |  |
+| [Hate Me](https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Hate Me](https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p) | 3:19 | 2022-02-24 | 2022-10-30 |
 | [Hennessy \- Remix](https://open.spotify.com/track/6B6yXEraBwQVlTdqtT03Lx) | [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Hennessy \(Remix\)](https://open.spotify.com/album/0nZh7vzE6SPFK7qQckplwZ) | 3:03 | 2022-06-23 | 2022-08-14 |
 | [High](https://open.spotify.com/track/0FvTXHU6xNn1jkjpJ6Mvm1) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [High](https://open.spotify.com/album/7iIWG1sDD904p7EcjKCdpO) | 2:48 | 2022-10-07 |  |
 | [Honest](https://open.spotify.com/track/5fi11QycYr37OB6ilw0hfq) | [Sons of Sonix](https://open.spotify.com/artist/24ml2a3Gc8V9UX6DfAhdqZ), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Honest](https://open.spotify.com/album/0N5GfQwBDLpYTpG3JRsC3P) | 2:21 | 2022-07-07 | 2022-07-28 |
@@ -149,6 +149,7 @@
 | [See Me](https://open.spotify.com/track/2rcQhL2dAXvkD7FnTN9oW7) | [Small Doctor](https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See Me](https://open.spotify.com/album/49Lmgrd9o2qRUexQY0ByIq) | 2:59 | 2022-10-13 |  |
 | [Selah](https://open.spotify.com/track/40AlCv3FTScAtM6zfJnXaG) | [BADMAN Q](https://open.spotify.com/artist/3xP7xSbwu37X00mZSWfYq3) | [Selah](https://open.spotify.com/album/0cRDnx8pe3FDiGI9pEHpLP) | 2:41 | 2022-07-07 | 2022-08-22 |
 | [Selema \(Po Po\) \- Remix](https://open.spotify.com/track/32YnNTVsrqcSPj3aXDbi80) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Selema \(Po Po\) \[Remix\]](https://open.spotify.com/album/4Inwvvp1zEZrhIriqbZK5f) | 5:31 | 2022-09-19 | 2022-09-24 |
+| [Shakira \(feat\. Prince Bright\)](https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [4Play](https://open.spotify.com/album/6wpzlNHeY8sffFCEOBR7ep) | 2:28 | 2022-09-23 |  |
 | [Shako](https://open.spotify.com/track/4UlaNm4IdWyYGwxZB56G2P) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Shako](https://open.spotify.com/album/2BjbcRSIlUI8kewCEjZ5qP) | 2:52 | 2021-09-03 | 2022-07-28 |
 | [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 | 2022-07-22 |  |
 | [So Many Things I Like](https://open.spotify.com/track/5m9mTvlzkpYAvXQz0LabqG) | [Smyley](https://open.spotify.com/artist/2NdYp7UDkJLbpJU7mSSprx) | [So Many Things I Like](https://open.spotify.com/album/7pYlSYojhlEn3k4P2XGyoW) | 2:59 | 2022-03-17 | 2022-07-29 |

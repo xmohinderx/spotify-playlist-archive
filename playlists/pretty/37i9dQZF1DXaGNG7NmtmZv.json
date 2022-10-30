@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 168550,
+  "num_followers": 168649,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDQwZGIwNmViNWY0YzU2YzNhZmU1ZmIwZTcxMDFjOTkz",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDI3ZGFlYTdhMWYxMGMwMWI0NjM4ZGQ4NWUxMzAwMjFh",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -459,22 +459,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Bulldog Edition",
-        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
-      },
-      "artists": [
-        {
-          "name": "Sheer Terror",
-          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
-        }
-      ],
-      "duration_ms": 104600,
-      "name": "Just Can't Hate Enough",
-      "url": "https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "In This Defiance",
         "url": "https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 147186,
       "name": "Blistered",
       "url": "https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Bulldog Edition",
+        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
+      },
+      "artists": [
+        {
+          "name": "Sheer Terror",
+          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
+        }
+      ],
+      "duration_ms": 104600,
+      "name": "Just Can't Hate Enough",
+      "url": "https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R"
     },
     {
       "added_at": "2020-12-08 15:12:11",

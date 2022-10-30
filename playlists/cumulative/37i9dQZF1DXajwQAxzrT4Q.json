@@ -3182,6 +3182,28 @@
     },
     {
       "album": {
+        "name": "say im ur luv (Jumbo Remix)",
+        "url": "https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137032,
+      "name": "say im ur luv - Jumbo Remix",
+      "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
+    },
+    {
+      "album": {
         "name": "Shake Dhat",
         "url": "https://open.spotify.com/album/1QKwrwRA6Shk7TVxmgt6zL"
       },
@@ -3493,7 +3515,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 153471,
       "name": "Take Me Somewhere",
       "url": "https://open.spotify.com/track/7H7OC2u9UODzNifLt8uAkN"

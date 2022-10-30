@@ -144,6 +144,24 @@
     },
     {
       "album": {
+        "name": "A Curious Tale of Trials + Persons",
+        "url": "https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232138,
+      "name": "Dead Body",
+      "url": "https://open.spotify.com/track/0QWDfiuaV7W20y86RGtREF"
+    },
+    {
+      "album": {
         "name": "Blank Canvas",
         "url": "https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu"
       },

@@ -5415,13 +5415,13 @@
       },
       "artists": [
         {
-          "name": "Chris Clark",
-          "url": "https://open.spotify.com/artist/7dF1L1DXc7j2I4Gguqdr8t"
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
         }
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "Proper Lo-Fi",
       "url": "https://open.spotify.com/track/6sIPYlmJhsYQRWnwLqkHg9"
@@ -6247,7 +6247,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 211920,
       "name": "Skin With Me",
       "url": "https://open.spotify.com/track/5BU3ZzaIkfkUCpKwFWIavI"

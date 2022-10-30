@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,877 likes - 98 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,988 likes - 98 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 81 | [Little Road to Bethlehem](https://open.spotify.com/track/122NEAKQMTs9o19ghyz5L9) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ), [Don Brownrigg](https://open.spotify.com/artist/3is059epfwPYtkmzokUjPW) | [Little Road to Bethlehem](https://open.spotify.com/album/0NQLT0pT4KrGEQTQbr2QnB) | 2:49 |
 | 82 | [Sleigh Ride](https://open.spotify.com/track/6LdQoDin2E7c3AGRfWAka2) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Sleigh Ride](https://open.spotify.com/album/5NbGFWrMmlSlHj7HuB7J6a) | 3:19 |
 | 83 | [Thank God It's Christmas](https://open.spotify.com/track/3sSEbpbUVNnzU2sFZ81WAk) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Thank God It's Christmas](https://open.spotify.com/album/5eifKVwGfihPewkitHo5PS) | 4:03 |
-| 84 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3sS5Mr9OJCJXyRuESUNIbM) | [Mason Jennings](https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo) | [This Warm December: Brushfire Holiday's Vol\. 1](https://open.spotify.com/album/5edOv7GvKdvwNnqXEACfYQ) | 2:09 |
+| 84 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3ybHJsqk8UkLEvfhD9OFXg) | [Mason Jennings](https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo) | [Christmas Coffeehouse 2022](https://open.spotify.com/album/6GmcSL5JG2iaVuloT4wrMU) | 2:09 |
 | 85 | [It's Beginning to Look a Lot Like Christmas \- Acoustic](https://open.spotify.com/track/60tvX10bz2f0esq1k2DM3j) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [It's Beginning to Look a Lot Like Christmas \(Acoustic\)](https://open.spotify.com/album/3XAdKKhullAux0eNZJkBQW) | 2:31 |
 | 86 | [Maybe This Christmas](https://open.spotify.com/track/0LUBUrff46sIknLO4Kupup) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [The Secret Of Christmas](https://open.spotify.com/album/6PkCw5bDn4bYlpmz3mKyQT) | 2:40 |
 | 87 | [I Heard The Bells on Christmas Day](https://open.spotify.com/track/1C7WXnqr5h8woxzYk4cCh1) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [A Very Mayries Christmas](https://open.spotify.com/album/2hj3TtOFRw31Fzfumf4gB1) | 2:49 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 97 | [Wonderful Christmastime](https://open.spotify.com/track/7G1cFCMNKHixbmq9I8nRvh) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Wonderful Christmastime](https://open.spotify.com/album/7Aw5Eeq7mSfQGqQj2bZT7V) | 4:14 |
 | 98 | [Merry Christmas Wherever You Are \(Acoustic\)](https://open.spotify.com/track/3teWqnWLFpJ6RquvJzwG4O) | [Meiko](https://open.spotify.com/artist/6tW9jWf8lpuzDzAdVMvNMV) | [Merry Christmas Wherever You Are \(Acoustic\)](https://open.spotify.com/album/6STtqwEkgI7Kqvwem94mZv) | 3:21 |
 
-Snapshot ID: `MTY2Njg1NTUyNSwwMDAwMDAwMGUyZTkxYjVmMWJjNzE5OTdiZWYzMzk0Nzc0MTY3ZmU1`
+Snapshot ID: `MTY2Njg1NTUyNSwwMDAwMDAwMDNjZGUxZjk5Y2MyZjY2MDc1NTlmMTdkMWMyZjdmMDky`

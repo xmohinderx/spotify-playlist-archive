@@ -4,7 +4,7 @@
 
 > IYKYK 💔🥀
 
-274 songs - 15 hr 46 min - [published](https://open.spotify.com/playlist/6hdW75HewRIei2mn7kkcEI)
+275 songs - 15 hr 49 min - [published](https://open.spotify.com/playlist/6hdW75HewRIei2mn7kkcEI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Dime](https://open.spotify.com/track/1TQcqiEvl4ODSHC5U2c5Vv) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF) | [En Mis Sentimientos](https://open.spotify.com/album/5v9xccgxf0enrvLt7XHmSK) | 3:27 | 2022-01-01 | 2022-07-23 |
 | [Disculpe Usted](https://open.spotify.com/track/0EoGITCf80uJ52Yk5BxUsV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Las Romanticas Favoritas de Fuerza Regida](https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj) | 3:26 | 2022-01-01 |  |
 | [DOS MORRITAS](https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:58 | 2022-05-06 | 2022-09-24 |
-| [Dulcito e Coco](https://open.spotify.com/track/3tD4abUOGHZHeL1eOl0gyy) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU), [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Dulcito e Coco](https://open.spotify.com/album/74yUD8QPWPKOFsyLS93g92) | 3:18 | 2022-07-22 |  |
+| [Dulcito e Coco](https://open.spotify.com/track/3tD4abUOGHZHeL1eOl0gyy) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU), [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Dulcito e Coco](https://open.spotify.com/album/74yUD8QPWPKOFsyLS93g92) | 3:18 | 2022-07-22 | 2022-10-30 |
 | [El Amor de Mi Vida](https://open.spotify.com/track/2xxq5LXFBFyawPChsOOWVu) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [El Amor de Mi Vida](https://open.spotify.com/album/4T4LzOrGQAAvs4CjQ4ZrXv) | 3:32 | 2022-01-01 | 2022-03-22 |
 | [El Dueño De Tu Amor](https://open.spotify.com/track/3sgf3LgcrNoqOB1jm7PIP0) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/30Zq5q0nnyLYluf1ZmsvF7) | 3:45 | 2022-01-01 |  |
 | [El Humillado](https://open.spotify.com/track/5zLsSLY0cwfX80nf9R0BhA) | [Clave 51](https://open.spotify.com/artist/4iY2MxD3WzbpgyX1uCs4Yf) | [El Humillado](https://open.spotify.com/album/1RmJvwO5RQYDv4FNRPYMxt) | 2:29 | 2022-01-01 |  |
@@ -196,7 +196,7 @@
 | [Que Paso](https://open.spotify.com/track/4fYQuUPuF4qICpqX7YJ8tR) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Que Paso](https://open.spotify.com/album/6TFLFRhMey07eYoJ3l3psS) | 3:51 | 2022-01-01 |  |
 | [Que Paso](https://open.spotify.com/track/42FkXinFSP5oxSqnt241ek) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Que Paso](https://open.spotify.com/album/3X39s5ygkWwqvGKFhIAqzJ) | 3:51 | 2022-01-01 | 2022-02-10 |
 | [Que Salga De Ti](https://open.spotify.com/track/4GtnM2wxYSeHtoiwKQwTuf) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF) | [Que Salga De Ti](https://open.spotify.com/album/3WiG7Qdw9f0bsFgywnrrrJ) | 3:16 | 2022-06-03 | 2022-07-11 |
-| [Querido San Valentin](https://open.spotify.com/track/57HGscNGYhq3wPuanfOsCY) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Querido San Valentin](https://open.spotify.com/album/7DXYF70y6fJvXd3HC0qahu) | 4:21 | 2022-02-11 | 2022-10-27 |
+| [Querido San Valentin](https://open.spotify.com/track/57HGscNGYhq3wPuanfOsCY) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Querido San Valentin](https://open.spotify.com/album/7DXYF70y6fJvXd3HC0qahu) | 4:21 | 2022-02-11 |  |
 | [Quien Soy Yo?](https://open.spotify.com/track/2M6kObWK07igzo7Newr16N) | [Los Disidentes](https://open.spotify.com/artist/6IyKGUc7TMv7KHGHj5KpnA) | [Quien Soy Yo?](https://open.spotify.com/album/7kgxvbU1PDpKOTsD3Zdyya) | 2:27 | 2022-10-14 |  |
 | [Quiero Estar Contigo](https://open.spotify.com/track/7aaW2FiJ3bGELNtGp6PUo7) | [Ekipo Inicial](https://open.spotify.com/artist/0zykJcUDLHRS0nZEoG5slZ) | [Quiero Estar Contigo](https://open.spotify.com/album/0dMiI3roMGiGxCTlopNjmu) | 4:31 | 2022-06-03 | 2022-06-11 |
 | [Quiero Llorar y No Puedo](https://open.spotify.com/track/1S7FT0rhQ6AaTg0yBbFxYS) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Dinero Fácil](https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy) | 3:44 | 2022-01-01 |  |
@@ -221,7 +221,7 @@
 | [Sin Sentimientos](https://open.spotify.com/track/0hYRO2jvFLoNFMeBcw6Ju9) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Sin Sentimientos Deluxe](https://open.spotify.com/album/243erGm5J8f1OhvFRkb3f0) | 2:40 | 2022-01-01 | 2022-07-20 |
 | [Sin Sentimientos](https://open.spotify.com/track/3zBK0bthYTDx3bnsDPTesO) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Sin Sentimientos](https://open.spotify.com/album/4Wh5bBHfEXqzd1NPf5yHKn) | 2:41 | 2022-01-01 | 2022-07-17 |
 | [SLND](https://open.spotify.com/track/3g1EtdqVDWuVkmB3trsh91) | [Marco Soriano](https://open.spotify.com/artist/2LPVDi9bhYq2iXQKDbE5Ak) | [SLND](https://open.spotify.com/album/4qepmQnX3P85ihKmFng2Ym) | 4:16 | 2022-02-04 | 2022-07-23 |
-| [Sola](https://open.spotify.com/track/2fUqqd6QM5HLaPQVyC1lng) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Sola](https://open.spotify.com/album/4Z0DuXLsLDEgd1a3we0MRC) | 2:53 | 2022-09-23 |  |
+| [Sola](https://open.spotify.com/track/2fUqqd6QM5HLaPQVyC1lng) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Sola](https://open.spotify.com/album/4Z0DuXLsLDEgd1a3we0MRC) | 2:53 | 2022-09-23 | 2022-10-30 |
 | [Somnolencia](https://open.spotify.com/track/0d438qq3sEnReqXGEDWyDE) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Somnolencia](https://open.spotify.com/album/5jtcoZkCs6bFlZTqyfnSUe) | 2:30 | 2022-09-23 | 2022-10-15 |
 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 | 2022-07-22 |  |
 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 | 2022-03-26 | 2022-07-29 |
@@ -246,6 +246,7 @@
 | [Te Vas](https://open.spotify.com/track/3Ma4TCNOyyRdH8LanPHygk) | [Maxima Velocidad ENT](https://open.spotify.com/artist/2ROLPTXE7kcrxRqsjQZIPT), [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Vibezzz, Vol\. 2](https://open.spotify.com/album/6Lv98eedMbicF9BTyAQJaB) | 3:17 | 2022-07-22 | 2022-09-24 |
 | [Te Vas A Recordar](https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Te Vas A Recordar](https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo) | 2:34 | 2022-02-04 |  |
 | [Te Voy a Olvidar](https://open.spotify.com/track/2tsj8yvl0Di3DVyPjLye6S) | [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [Las Mas Pedidas](https://open.spotify.com/album/5gV4kuUy0Wv9N4XQ3QzhOA) | 2:53 | 2022-10-14 | 2022-10-19 |
+| [Te Voy a Olvidar \- En Vivo Desde Culican 2013](https://open.spotify.com/track/5fedAEelUOnWUd9URBVhbl) | [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [Las Preferidas, Vol\. 1](https://open.spotify.com/album/2BoP3cmbcNHpQnpBgcSgmm) | 2:54 | 2022-10-14 |  |
 | [Tengo Que Olvidarla](https://open.spotify.com/track/5tVsT5NHj96fBlJksV7CpE) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Underground](https://open.spotify.com/album/3E55ZUsGx7KneVnbiXyoA4) | 2:46 | 2022-01-01 | 2022-07-19 |
 | [Tiempo](https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Tiempo](https://open.spotify.com/album/0YK6koGYXva8aceQpman6H) | 2:21 | 2022-01-01 |  |
 | [TMP](https://open.spotify.com/track/4hJdqI4ZFPrgdFuNbQbpdp) | [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B) | [TMP](https://open.spotify.com/album/429thKPz8y0s5sgOivSWBx) | 2:53 | 2022-06-10 | 2022-07-15 |

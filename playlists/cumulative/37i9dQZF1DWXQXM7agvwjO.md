@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: SURL \(South Korea\)
 
-453 songs - 1 day 3 hr 9 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+454 songs - 1 day 3 hr 12 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [A Little of Autumn](https://open.spotify.com/track/3QLpDswqTh1i8uxHPDFlQR) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [A Little of Autumn](https://open.spotify.com/album/6LgekICVsAfC9GV5rIFKPE) | 3:42 | 2022-06-02 | 2022-07-15 |
 | [a luv song](https://open.spotify.com/track/0V3P6jdD0vxBrsBFErn1Xg) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [friexza](https://open.spotify.com/artist/3DGKUbhwIE6KEIbpJhp5Cq) | [a luv song](https://open.spotify.com/album/3ebClLURIBXy425TuC7Gbo) | 3:43 | 2022-09-22 | 2022-10-07 |
 | [Again](https://open.spotify.com/track/4aN7rI3F90qvAxHUtFkFQN) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [About a Woman](https://open.spotify.com/album/3WVjubQiBj664GavFGh8m2) | 4:07 | 2022-03-24 | 2022-04-22 |
-| [Air Guitar](https://open.spotify.com/track/2cTcCo0OwGfvIEAAW6y8NK) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5PETfsInVVeftPNXoLAIqs) | 3:03 | 2022-10-06 |  |
+| [Air Guitar](https://open.spotify.com/track/2cTcCo0OwGfvIEAAW6y8NK) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5PETfsInVVeftPNXoLAIqs) | 3:03 | 2022-10-06 | 2022-10-30 |
+| [Air Guitar](https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 3:03 | 2022-10-28 |  |
 | [Aking Pagtingin](https://open.spotify.com/track/2UMGTqA4EQBhtWyjVmksGS) | [DaivJstn](https://open.spotify.com/artist/5j1gxsK1zOS8kQNzKTH7as) | [Aking Pagtingin](https://open.spotify.com/album/3oCAdfia7MZyidgLBq5nZi) | 3:03 | 2022-05-06 | 2022-07-01 |
 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 | 2022-05-19 | 2022-07-15 |
 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 | 2022-03-24 | 2022-06-03 |
@@ -190,7 +191,7 @@
 | [If You Leave Me Alone](https://open.spotify.com/track/4BJV20iCiOS0GAETnb94HI) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Bones & The Boy](https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT) | 2:31 | 2022-06-23 | 2022-08-12 |
 | [Impossible Isle](https://open.spotify.com/track/6Vehur5lQnlJrEV6lAO0AA) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Impossible Isle](https://open.spotify.com/album/02USyfjHAF5ISwxoM1uCgZ) | 3:58 | 2022-08-11 | 2022-09-30 |
 | [In Another Life](https://open.spotify.com/track/1jpgacTEqXNNhTLTQTeUcl) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [In Another Life](https://open.spotify.com/album/4KDL14uRiNvUfIhVhkJfKx) | 2:27 | 2022-10-06 |  |
-| [In my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 | 2022-10-06 |  |
+| [in my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 | 2022-10-06 |  |
 | [IN THE DOG HOUSE](https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:42 | 2022-08-04 | 2022-08-19 |
 | [In Your Loudest Fear](https://open.spotify.com/track/4oAUeju7DwlPHBWqbzGDP5) | [Reruntuh](https://open.spotify.com/artist/3TXx6cyIVfjddsP6Vygy7a) | [Water Will Find Me](https://open.spotify.com/album/7b89kC8vOz2uvWgdG4ZybI) | 6:05 | 2022-07-21 | 2022-09-02 |
 | [INSECURE](https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [INSECURE](https://open.spotify.com/album/4ct723N4CptKNkpDF8mls8) | 3:01 | 2022-09-22 | 2022-10-07 |

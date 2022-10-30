@@ -1564,6 +1564,24 @@
     },
     {
       "album": {
+        "name": "Hurt No More",
+        "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214582,
+      "name": "Hurt No More",
+      "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
+    },
+    {
+      "album": {
         "name": "All of Your Stones",
         "url": "https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy"
       },
@@ -3385,7 +3403,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 170861,
       "name": "What Else Is New",
       "url": "https://open.spotify.com/track/7uAWex7T9i7ZXghCh4rltO"

@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6517715,
+  "num_followers": 6519300,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODAwMCwwMDAwMDAwMDM2YmY0NDU5MTUxMTA1NzAwMGQ0MjU1MDdjY2U4YTli",
+  "snapshot_id": "MTY2NjkwODAwMCwwMDAwMDAwMDMwMzhmNzliN2ZhNzNmMTljZWY3MWExOTkwMmNjNGRj",
   "tracks": [
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 148095,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/1BCTQcK8H8z7HcqtC93UvV"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 174193,
       "name": "Worlds On Fire (with R3HAB & Au/Ra)",
       "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 148095,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Sugar (feat. Francesco Yates) [Billions Club Remix]",
-        "url": "https://open.spotify.com/album/3ENSgxyvrzzRURWqpJuYIR"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Francesco Yates",
-          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
-        }
-      ],
-      "duration_ms": 186377,
-      "name": "Sugar (feat. Francesco Yates) - Billions Club Remix",
-      "url": "https://open.spotify.com/track/6OeRAvRqfqpaHHTzrnCSHJ"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "Let You Do This",
         "url": "https://open.spotify.com/album/4Dq63kA76g29J8viZ448Zg"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 202281,
       "name": "Let You Do This (with Buy Now)",
       "url": "https://open.spotify.com/track/5OlgbvkngYf6dibaafcqcO"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "Sugar (feat. Francesco Yates) [Billions Club Remix]",
+        "url": "https://open.spotify.com/album/3ENSgxyvrzzRURWqpJuYIR"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Francesco Yates",
+          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
+        }
+      ],
+      "duration_ms": 186377,
+      "name": "Sugar (feat. Francesco Yates) - Billions Club Remix",
+      "url": "https://open.spotify.com/track/6OeRAvRqfqpaHHTzrnCSHJ"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1927,22 +1927,22 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Children (Rework)",
-        "url": "https://open.spotify.com/album/6mjA10GAfa4eQwevZPR1kc"
+        "name": "Paper Planes",
+        "url": "https://open.spotify.com/album/5qdXy87BeaWnK0vXiX5VI4"
       },
       "artists": [
         {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
         },
         {
-          "name": "Jack Holiday",
-          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
         }
       ],
-      "duration_ms": 172617,
-      "name": "Children - Rework",
-      "url": "https://open.spotify.com/track/6HhLVhfYXhIsD4UpM0CLWo"
+      "duration_ms": 186666,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/4mrAArfFEIqpH6myouJb03"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1967,22 +1967,22 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Paper Planes",
-        "url": "https://open.spotify.com/album/5qdXy87BeaWnK0vXiX5VI4"
+        "name": "Children (Rework)",
+        "url": "https://open.spotify.com/album/6mjA10GAfa4eQwevZPR1kc"
       },
       "artists": [
         {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
         },
         {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+          "name": "Jack Holiday",
+          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Paper Planes",
-      "url": "https://open.spotify.com/track/4mrAArfFEIqpH6myouJb03"
+      "duration_ms": 172617,
+      "name": "Children - Rework",
+      "url": "https://open.spotify.com/track/6HhLVhfYXhIsD4UpM0CLWo"
     },
     {
       "added_at": "2022-10-27 22:00:00",

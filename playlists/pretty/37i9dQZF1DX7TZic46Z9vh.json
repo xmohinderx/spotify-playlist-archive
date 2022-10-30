@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 36103,
+  "num_followers": 36114,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDM1MzE2NSwwMDAwMDAwMGNhMTc5MjViNzg1ZDkxYzcwMGJmNDg1NGQ2ZWJkODQ2",
+  "snapshot_id": "MTY0MDM1MzE2NSwwMDAwMDAwMDE3OTQzZDg1NjhlN2YzMDhhZjk2NGRiNjhjYzc1OGMz",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Toncho Pilatos",
-        "url": "https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK"
-      },
-      "artists": [
-        {
-          "name": "Toncho Pilatos",
-          "url": "https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "Tommy Lyz",
-      "url": "https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "RCA 100 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/1d3ehrCDJMcz0qWKQ1GYg7"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 162640,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/68Ta3hyeW5klPKqi0F4t5L"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Toncho Pilatos",
+        "url": "https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK"
+      },
+      "artists": [
+        {
+          "name": "Toncho Pilatos",
+          "url": "https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "Tommy Lyz",
+      "url": "https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Super Onda Chicana",
-        "url": "https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L"
-      },
-      "artists": [
-        {
-          "name": "Tinta Blanca",
-          "url": "https://open.spotify.com/artist/7hTAxPi8RHeCyx9fZImNpF"
-        }
-      ],
-      "duration_ms": 348446,
-      "name": "Todo Va a Cambiar",
-      "url": "https://open.spotify.com/track/5HDGih43ec6WSYusNEK20z"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Rock en Av\u00e1ndaro Valle de Bravo",
         "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 229955,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/5DYUNEs6WLl5PRdTzZX0GC"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Super Onda Chicana",
+        "url": "https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L"
+      },
+      "artists": [
+        {
+          "name": "Tinta Blanca",
+          "url": "https://open.spotify.com/artist/7hTAxPi8RHeCyx9fZImNpF"
+        }
+      ],
+      "duration_ms": 348446,
+      "name": "Todo Va a Cambiar",
+      "url": "https://open.spotify.com/track/5HDGih43ec6WSYusNEK20z"
     }
   ],
   "unique_name": "Rock Mexicano Av\u00e1ndaro",

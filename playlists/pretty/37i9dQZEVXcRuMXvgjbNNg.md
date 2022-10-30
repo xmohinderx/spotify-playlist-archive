@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [Slow](https://open.spotify.com/track/2PVbo8RJHDUyPHDE61wDIj) | [OWEL](https://open.spotify.com/artist/3RrcX2SqUoy1et8LXNZv4S) | [Dear Me](https://open.spotify.com/album/0qklq3waVgaH4eNeO19ZQY) | 5:52 |
 | 30 | [i don't wanna know \- acoustic](https://open.spotify.com/track/4Z5LVvODOf8KDgxa0DCwG1) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/0BYCTsWZVvFKhjtlzIYNxd) | 3:06 |
 
-Snapshot ID: `MCwwMDAwMDAwMGMyZTNjMjU4MTE4MDc1ZDc5NmQzODJhM2YzZGJlYjIy`
+Snapshot ID: `MCwwMDAwMDAwMDkwN2MzZjM0MWFmYTQ0NjA5Yjc3YmM4Y2YxYjE1Yzg2`

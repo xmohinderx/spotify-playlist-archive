@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Hyd
 
-448 songs - 1 day 3 hr 44 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
+449 songs - 1 day 3 hr 48 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Don't Be So Hard on Your Own Beauty](https://open.spotify.com/track/2X2Qqr7oRqkRwNZfwFbcRL) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Don't Be So Hard on Your Own Beauty](https://open.spotify.com/album/0FBahmQKdy0LAUodpsl0hh) | 3:12 | 2021-10-08 | 2022-06-04 |
 | [Don't Break The Silence](https://open.spotify.com/track/7C8EwOaq0hox8OXwrXHyE2) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/1PCwiCVNp2V1Jcp8hSUEyB) | 1:44 | 2021-06-03 | 2022-04-19 |
 | [Don't Judge Me](https://open.spotify.com/track/2ixabSVbccs9np9r5CpbWW) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Don't Judge Me](https://open.spotify.com/album/12xYnvNkZWg4yPn2edO0cm) | 3:33 | 2021-06-03 | 2022-06-26 |
-| [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 | 2021-06-03 |  |
+| [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 | 2021-06-03 | 2022-10-30 |
 | [Doorman \- Vegyn Remix](https://open.spotify.com/track/0QyOGi3zEgYVO0PXt8avlA) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Doorman \(Vegyn Remix\)](https://open.spotify.com/album/50WllaBP6r9DWbXDXUxdZA) | 2:28 | 2021-06-11 | 2022-07-26 |
 | [Down By The Water](https://open.spotify.com/track/3kllktLUTSTC1nnXdb21G1) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Down By The Water](https://open.spotify.com/album/09K0K3ZShZXtXguGpFLtjL) | 2:47 | 2021-09-24 | 2022-07-29 |
 | [Down Since '07](https://open.spotify.com/track/1dmYjJ35vKDV72rptktSTu) | [Lou Roy](https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H) | [Down Since '07](https://open.spotify.com/album/7q17UkDMOymKG7HsphFwdR) | 1:37 | 2022-03-07 | 2022-06-01 |
@@ -229,6 +229,7 @@
 | [Late Bloomer](https://open.spotify.com/track/2I4EdLnGNy8FoWF20rhSb2) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Late Bloomer](https://open.spotify.com/album/7yCduTDQ9upZbgCQHNgDfl) | 3:22 | 2021-06-03 | 2022-04-23 |
 | [let all the poisons that lurk in the mud seep out](https://open.spotify.com/track/7fA9qOYwh3KXAMK1Eb27DC) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [let all the poisons that lurk in the mud seep out](https://open.spotify.com/album/7e8P3IXeJq44CRqYI4tUim) | 3:31 | 2021-06-03 | 2022-05-20 |
 | [Lick In Heaven](https://open.spotify.com/track/3vfhlqSBdZiGiTFYy1dBKc) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [All The Time](https://open.spotify.com/album/2WOwRUbpymB1b6ozT7lZVf) | 4:29 | 2021-06-03 | 2022-07-09 |
+| [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-28 |  |
 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 | 2021-10-08 |  |
 | [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 | 2021-06-03 | 2022-07-28 |
 | [Live 4ever](https://open.spotify.com/track/70BNKjKEoVKvLu654lwpaL) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Live 4ever](https://open.spotify.com/album/2XQPhxQo2z3ceverlGQJIe) | 2:27 | 2021-06-03 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon\. Cover: Cat Burns.
 
-860 songs - 2 day 0 hr 18 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
+861 songs - 2 day 0 hr 21 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [Downtown](https://open.spotify.com/track/0DfRIdHGNm3JfPGjPqg6GJ) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 4:27 | 2022-03-24 | 2022-04-16 |
 | [Dream](https://open.spotify.com/track/4nQvPAV3gGFsOMSfQPdOT8) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Dream](https://open.spotify.com/album/1JsToJpmZ9t5GTJcSladwB) | 2:38 | 2022-03-21 |  |
 | [Dream Pilot](https://open.spotify.com/track/3vYLZV605J9WY3SDDwd05F) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [CHECK\-IN](https://open.spotify.com/album/1ByTvinHUbdfpRMqxzGCUr) | 3:09 | 2022-03-24 | 2022-08-02 |
-| [DREAM YA KUTOKA KWA BLOCK](https://open.spotify.com/track/3DvI7vXyqrZ2KKOV9flgC3) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 3:31 | 2022-10-06 |  |
+| [Dream Ya Kutoka Kwa Block](https://open.spotify.com/track/0dk1HdfPDYPflddHXFKc8h) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 3:31 | 2022-10-26 |  |
+| [DREAM YA KUTOKA KWA BLOCK](https://open.spotify.com/track/3DvI7vXyqrZ2KKOV9flgC3) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 3:31 | 2022-10-06 | 2022-10-30 |
 | [Dream Ya Kutoka Kwa Block](https://open.spotify.com/track/1nW9m0KKcjZ725O6dAYuKE) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Dream Ya Kutoka Kwa Block](https://open.spotify.com/album/18bVr78ktBeu9OYpUGKucW) | 3:31 | 2022-09-08 | 2022-10-26 |
 | [Dreaming With You](https://open.spotify.com/track/0hoiu4phiHzoJwhl5kutX3) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Lemonade](https://open.spotify.com/album/3PnXCpHaHzGVm3viOLUKPO) | 3:50 | 2022-02-03 | 2022-03-18 |
 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2022-02-03 | 2022-03-12 |

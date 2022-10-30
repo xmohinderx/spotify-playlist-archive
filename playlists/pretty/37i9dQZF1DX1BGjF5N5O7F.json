@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 523688,
+  "num_followers": 523771,
   "original_name": "Sexy As Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNjEyNjUyMCwwMDAwMDAwMDUyYmJmM2JlOGRiODAzYzc0MWM1YTk2OGQ1ZGQ5Mjc0",
+  "snapshot_id": "MTYxNjEyNjUyMCwwMDAwMDAwMGFjMTVhNmMwODhkODRmNzhkYzZkN2Q2MGIyYjFjNGU2",
   "tracks": [
     {
       "added_at": "2021-03-19 04:02:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Power Over Me EP",
-        "url": "https://open.spotify.com/album/0cXMRxSn0NE4CBitrQNo65"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 200435,
-      "name": "Power Over Me - Acoustic",
-      "url": "https://open.spotify.com/track/2E04ekeTRa6FsyK1twNZrL"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
         "name": "Delta",
         "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 274552,
       "name": "Woman",
       "url": "https://open.spotify.com/track/3IlbpxM6lji2UsBL2VYIAn"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Power Over Me EP",
+        "url": "https://open.spotify.com/album/0cXMRxSn0NE4CBitrQNo65"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 200435,
+      "name": "Power Over Me - Acoustic",
+      "url": "https://open.spotify.com/track/2E04ekeTRa6FsyK1twNZrL"
     },
     {
       "added_at": "2021-03-19 04:02:00",

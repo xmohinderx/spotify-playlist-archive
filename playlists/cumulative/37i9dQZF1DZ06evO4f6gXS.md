@@ -4,7 +4,7 @@
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-66 songs - 4 hr 43 min - [published](https://open.spotify.com/playlist/2s5owikyjfrw5etYCfTIut)
+67 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/2s5owikyjfrw5etYCfTIut)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [I Can Make a Difference](https://open.spotify.com/track/6kHVUkihPT7sV5fdfb5wop) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target](https://open.spotify.com/album/4zZWFsydY5jgzszx3HeYSq) | 4:23 | 2022-05-25 |  |
 | [I Didn't Mean It at All](https://open.spotify.com/track/4jHirbWhDM6YPVLiIEiobH) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [I Didn't Mean It at All](https://open.spotify.com/album/2i5xewJm3dZVGO5TeCmCrW) | 4:32 | 2022-05-25 |  |
 | [I Just Love the Man](https://open.spotify.com/track/75kdiW5wYlxgIDTtIOTcvt) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:41 | 2022-05-25 |  |
+| [I Need Some](https://open.spotify.com/track/7blWEpws63flJYjkyNhGya) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [I Need Some](https://open.spotify.com/album/1VMj4op3upCissjO0BF163) | 2:22 | 2022-10-29 |  |
 | [I'll Never Forget \(My Favorite Disco\)](https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:34 | 2022-05-25 |  |
 | [I'm a Woman Here](https://open.spotify.com/track/40nu0olcAY5Mkp7MIu6Mq9) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target](https://open.spotify.com/album/4zZWFsydY5jgzszx3HeYSq) | 4:13 | 2022-05-25 |  |
 | [I'm At Your Mercy](https://open.spotify.com/track/7BhOkKfnWoMoisAN6bQIuR) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:48 | 2022-05-25 |  |

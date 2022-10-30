@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "num_followers": 5552,
+  "num_followers": 5579,
   "original_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTUwNjkyNCwwMDAwMDAwMDEyODMxYjRlMmExNGUwYzhhYTMyNThjNDZhNzFiY2Iw",
+  "snapshot_id": "MTY2NTUwNjkyNCwwMDAwMDAwMDYwOWJjYzY5NzVkNWFhZTJjNGZiNzQ2MGEwMDBjMGUy",
   "tracks": [
     {
       "added_at": "2022-10-11 16:48:44",
@@ -283,8 +283,8 @@
     {
       "added_at": "2022-10-11 16:48:44",
       "album": {
-        "name": "Love U my friends",
-        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u512a\u6728\u305b\u3064\u83dc\u76e4)",
+        "url": "https://open.spotify.com/album/2B6zWwAKJXh0RMSne3pQvZ"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
         }
       ],
-      "duration_ms": 269453,
-      "name": "MELODY",
-      "url": "https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC"
+      "duration_ms": 243480,
+      "name": "DIVE!",
+      "url": "https://open.spotify.com/track/1U1MCOvXcpTguCzyXyBE90"
     },
     {
       "added_at": "2022-10-11 16:48:44",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-10-11 16:48:44",
       "album": {
-        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u671d\u9999\u679c\u6797\u76e4)",
-        "url": "https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm"
-      },
-      "artists": [
-        {
-          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
-          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "VIVID WORLD",
-      "url": "https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI"
-    },
-    {
-      "added_at": "2022-10-11 16:48:44",
-      "album": {
         "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
         "url": "https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 244653,
       "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
       "url": "https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu"
+    },
+    {
+      "added_at": "2022-10-11 16:48:44",
+      "album": {
+        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u671d\u9999\u679c\u6797\u76e4)",
+        "url": "https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm"
+      },
+      "artists": [
+        {
+          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
+          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "VIVID WORLD",
+      "url": "https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI"
     },
     {
       "added_at": "2022-10-11 16:48:44",
@@ -411,8 +411,8 @@
     {
       "added_at": "2022-10-11 16:48:44",
       "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE! (\u512a\u6728\u305b\u3064\u83dc\u76e4)",
-        "url": "https://open.spotify.com/album/2B6zWwAKJXh0RMSne3pQvZ"
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
         }
       ],
-      "duration_ms": 243480,
-      "name": "DIVE!",
-      "url": "https://open.spotify.com/track/1U1MCOvXcpTguCzyXyBE90"
+      "duration_ms": 269453,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC"
     },
     {
       "added_at": "2022-10-11 16:48:44",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-10-11 16:48:44",
       "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/2tRZdkV51396Uh03hrSOX9"
       },
       "artists": [
         {
-          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
-          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
+          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
+          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
         }
       ],
-      "duration_ms": 224720,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/2H8qziW7IGOPO3yXAhk9o4"
+      "duration_ms": 221613,
+      "name": "\u591c\u660e\u73e0",
+      "url": "https://open.spotify.com/track/7oSb75m9a29yoyHTzgMmu8"
     },
     {
       "added_at": "2022-10-11 16:48:44",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-10-11 16:48:44",
       "album": {
-        "name": "L!L!L! (Love the Life We Live)",
-        "url": "https://open.spotify.com/album/2tRZdkV51396Uh03hrSOX9"
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
       "artists": [
         {
-          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
-          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
+          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
+          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
         }
       ],
-      "duration_ms": 221613,
-      "name": "\u591c\u660e\u73e0",
-      "url": "https://open.spotify.com/track/7oSb75m9a29yoyHTzgMmu8"
+      "duration_ms": 224720,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/2H8qziW7IGOPO3yXAhk9o4"
     },
     {
       "added_at": "2022-10-11 16:48:44",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-10-11 16:48:44",
       "album": {
-        "name": "Love U my friends",
-        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
-      },
-      "artists": [
-        {
-          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
-          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
-        }
-      ],
-      "duration_ms": 258812,
-      "name": "\u958b\u82b1\u5ba3\u8a00",
-      "url": "https://open.spotify.com/track/2I2gxRtOhtaghM4kmQbFYH"
-    },
-    {
-      "added_at": "2022-10-11 16:48:44",
-      "album": {
         "name": "TOKIMEKI Runners",
         "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 326040,
       "name": "\u3042\u306a\u305f\u306e\u7406\u60f3\u306e\u30d2\u30ed\u30a4\u30f3",
       "url": "https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu"
+    },
+    {
+      "added_at": "2022-10-11 16:48:44",
+      "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "duration_ms": 258812,
+      "name": "\u958b\u82b1\u5ba3\u8a00",
+      "url": "https://open.spotify.com/track/2I2gxRtOhtaghM4kmQbFYH"
     },
     {
       "added_at": "2022-10-11 16:48:44",

@@ -49909,7 +49909,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 159500,
       "name": "Nine Bullets",
       "url": "https://open.spotify.com/track/0orKEKWB3W5Es9pqIyaCH4"
@@ -49935,6 +49935,28 @@
       "duration_ms": 159500,
       "name": "Nine Bullets",
       "url": "https://open.spotify.com/track/07GPZ4eCumFdUm5pP6kXDW"
+    },
+    {
+      "album": {
+        "name": "Nine Bullets",
+        "url": "https://open.spotify.com/album/3fuxPoQ4kR6VMaD2Bv5OZZ"
+      },
+      "artists": [
+        {
+          "name": "Soupbox",
+          "url": "https://open.spotify.com/artist/1qs1eSFywywd503RiuQWPQ"
+        },
+        {
+          "name": "Run Wallace",
+          "url": "https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Nine Bullets",
+      "url": "https://open.spotify.com/track/4mk2YCEPtrgVgHUutmQcSr"
     },
     {
       "album": {
@@ -50467,6 +50489,10 @@
         {
           "name": "HawkOne",
           "url": "https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y"
+        },
+        {
+          "name": "okwow",
+          "url": "https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq"
         }
       ],
       "date_added": "2022-08-19",

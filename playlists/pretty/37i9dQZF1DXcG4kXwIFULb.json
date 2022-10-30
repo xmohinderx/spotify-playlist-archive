@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 95685,
+  "num_followers": 95783,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMGY4Mjc4NjQ4NGY3YjU1MGI3MjUwYWExYTYxMzU4M2Vi",
+  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDg2YzJiMTNiZDUzMTQ1ODE2NjI1MTI0YzgzZjljNWVl",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
-      },
-      "artists": [
-        {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Breathe In",
-      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Maxinquaye",
         "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 458666,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Breathe In",
+      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Music By Cavelight",
-        "url": "https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj"
-      },
-      "artists": [
-        {
-          "name": "Blockhead",
-          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
-        }
-      ],
-      "duration_ms": 306586,
-      "name": "Insomniac Olympics",
-      "url": "https://open.spotify.com/track/7IuxuJBP6kwOOu1ShFzmR1"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Cold Water Music",
         "url": "https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 344360,
       "name": "Cold Water Music",
       "url": "https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Music By Cavelight",
+        "url": "https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj"
+      },
+      "artists": [
+        {
+          "name": "Blockhead",
+          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
+        }
+      ],
+      "duration_ms": 306586,
+      "name": "Insomniac Olympics",
+      "url": "https://open.spotify.com/track/7IuxuJBP6kwOOu1ShFzmR1"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "If You Wait",
-        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 207253,
-      "name": "Hey Now",
-      "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Gran Hotel Buenos Aires",
         "url": "https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 247040,
       "name": "Postales",
       "url": "https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 207253,
+      "name": "Hey Now",
+      "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Journey Into Abstract Hip Hop",
-        "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
+        "name": "Shallow and Profound",
+        "url": "https://open.spotify.com/album/59h727IciPDdyh4bdd0WWT"
       },
       "artists": [
         {
-          "name": "Gasoline",
-          "url": "https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp"
+          "name": "Yonderboi",
+          "url": "https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7"
         }
       ],
-      "duration_ms": 242466,
-      "name": "The Hardest",
-      "url": "https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl"
+      "duration_ms": 259105,
+      "name": "Riders On the Storm",
+      "url": "https://open.spotify.com/track/3uI0EptPACbrdR1Dq20oWu"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1227,6 +1227,38 @@
       "duration_ms": 295360,
       "name": "Come to Me",
       "url": "https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/7aoMwgyXDmr2ATUOJcyQdT"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/3iNj5fdyY62N1ycufQ3E2M"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Journey Into Abstract Hip Hop",
+        "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
+      },
+      "artists": [
+        {
+          "name": "Gasoline",
+          "url": "https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "The Hardest",
+      "url": "https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1267,38 +1299,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/7aoMwgyXDmr2ATUOJcyQdT"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/3iNj5fdyY62N1ycufQ3E2M"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Shallow and Profound",
-        "url": "https://open.spotify.com/album/59h727IciPDdyh4bdd0WWT"
-      },
-      "artists": [
-        {
-          "name": "Yonderboi",
-          "url": "https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7"
-        }
-      ],
-      "duration_ms": 259105,
-      "name": "Riders On the Storm",
-      "url": "https://open.spotify.com/track/3uI0EptPACbrdR1Dq20oWu"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Supreme Beings Of Leisure",
         "url": "https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Long Distance",
-        "url": "https://open.spotify.com/album/2R6MZANJIreWzTd7kjtpa2"
-      },
-      "artists": [
-        {
-          "name": "Ivy",
-          "url": "https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA"
-        }
-      ],
-      "duration_ms": 265626,
-      "name": "Edge Of The Ocean",
-      "url": "https://open.spotify.com/track/5zjQ3gF7xeNhMh0Is6wX0b"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "SB1",
         "url": "https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 134656,
       "name": "Just Chillin'",
       "url": "https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Long Distance",
+        "url": "https://open.spotify.com/album/2R6MZANJIreWzTd7kjtpa2"
+      },
+      "artists": [
+        {
+          "name": "Ivy",
+          "url": "https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "Edge Of The Ocean",
+      "url": "https://open.spotify.com/track/5zjQ3gF7xeNhMh0Is6wX0b"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Good Looking Blues",
-        "url": "https://open.spotify.com/album/5drSlLdRONBLu76BhsVRDP"
-      },
-      "artists": [
-        {
-          "name": "Laika",
-          "url": "https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR"
-        }
-      ],
-      "duration_ms": 291200,
-      "name": "Badtimes",
-      "url": "https://open.spotify.com/track/1mvK5h91yWsm97sAugKy6K"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Never, Never, Land",
         "url": "https://open.spotify.com/album/6I9PSRmI6XR1oNj8JXXbjl"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 417653,
       "name": "In A State",
       "url": "https://open.spotify.com/track/26YxLaguzAd1zNAXpUjqXP"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Good Looking Blues",
+        "url": "https://open.spotify.com/album/5drSlLdRONBLu76BhsVRDP"
+      },
+      "artists": [
+        {
+          "name": "Laika",
+          "url": "https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR"
+        }
+      ],
+      "duration_ms": 291200,
+      "name": "Badtimes",
+      "url": "https://open.spotify.com/track/1mvK5h91yWsm97sAugKy6K"
     },
     {
       "added_at": "2020-09-04 01:12:56",

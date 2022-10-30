@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwRqtEuH2l7.md) - [plain]
 
 > Long, dark and sustained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,027 likes - 60 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,109 likes - 60 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwRqtEuH2l7.md) - [plain]
 | 24 | [City of Fallen Angels](https://open.spotify.com/track/2QT6jj0ZT4l3SpGJypGrZS) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Earth](https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC) | [Concrete Desert](https://open.spotify.com/album/2aO1N85LALVQ7a5Q5UBVSV) | 6:14 |
 | 25 | [Breakdown \(The End of Chemical Romance\)](https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Breakdown](https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0) | 7:27 |
 | 26 | [Exit](https://open.spotify.com/track/7ulPUJ5ATvzceGQkdwFNHT) | [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [0011000](https://open.spotify.com/album/62nXuvzH4ECThotjQqPAhI) | 4:34 |
-| 27 | [Erik's Dream](https://open.spotify.com/track/67VQ33qBCGV61G7R2esk2H) | [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Sandstones](https://open.spotify.com/album/416p04AbDtCrFidDf4gLuk) | 2:38 |
-| 28 | [The Sacrifice](https://open.spotify.com/track/4BEdj9G17kmBuElba6lShF) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [Blind Emperor](https://open.spotify.com/album/0HkYfpjWLP0WYIj0xNFJ0N) | 4:00 |
+| 27 | [The Sacrifice](https://open.spotify.com/track/4BEdj9G17kmBuElba6lShF) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [Blind Emperor](https://open.spotify.com/album/0HkYfpjWLP0WYIj0xNFJ0N) | 4:00 |
+| 28 | [Erik's Dream](https://open.spotify.com/track/67VQ33qBCGV61G7R2esk2H) | [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Sandstones](https://open.spotify.com/album/416p04AbDtCrFidDf4gLuk) | 2:38 |
 | 29 | [Dream](https://open.spotify.com/track/4oIAv5hE2WYfo75ibQA9GU) | [Cholosus](https://open.spotify.com/artist/2IxefYESLxSZta8oWQOSvv) | [Dream](https://open.spotify.com/album/2saJZHSNvwPxaaArq3iKzP) | 7:14 |
 | 30 | [Spheres](https://open.spotify.com/track/2svnVFyNQZr7KG706u0u0K) | [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C), [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Moonrise](https://open.spotify.com/album/4v1rXVn6xI0cFZKwvIsd7c) | 3:42 |
 | 31 | [Stora vreden i Storvreta](https://open.spotify.com/track/1UN8NVjNxGpLj5bYs0m73h) | [Gävle\-Stockholm Dub](https://open.spotify.com/artist/6aDddHTB6bkZ4ozFebxEdE), [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Pro424](https://open.spotify.com/artist/2JM8Yxfky3rGXzVvchyFof) | [Ingenmansland](https://open.spotify.com/album/6LbHHHfmp3sV9olKmzITYk) | 5:04 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwRqtEuH2l7.md) - [plain]
 | 38 | [Lobby](https://open.spotify.com/track/4UmwjnEQ4CZy9XmaN52r0I) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Pale Ravine](https://open.spotify.com/album/1fHVqowoh1UFxMOEoGJ1Jz) | 3:01 |
 | 39 | [Night Electricity Theme](https://open.spotify.com/track/0z6tXw30BznYjtvXgqncCx) | [Dean Hurley](https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D) | [Anthology Resource Vol\. I: △△](https://open.spotify.com/album/4q6JB2fWo2EtChhqBbM61l) | 2:51 |
 | 40 | [Getting Ready to Say Goodbye](https://open.spotify.com/track/0JxPSe1YeUwQZLuhiSvK6r) | [Hatsü](https://open.spotify.com/artist/0Nm8ZQuikXSCTVymMITgMd) | [Cycles](https://open.spotify.com/album/4dbsWGtWgEkWqJMvRyx4bL) | 4:05 |
-| 41 | [Submersible](https://open.spotify.com/track/2fJygKixDmVgmsYAjn9aNq) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4xgY6533C7VK4HEeojrgc1) | 3:50 |
-| 42 | [Blood Rainbow](https://open.spotify.com/track/1vOKECbjDJzzPi17GWo0DZ) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Harmony in Ultraviolet](https://open.spotify.com/album/1U5x6wQtMJtbwM3NZRSvKT) | 4:06 |
+| 41 | [Blood Rainbow](https://open.spotify.com/track/1vOKECbjDJzzPi17GWo0DZ) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Harmony in Ultraviolet](https://open.spotify.com/album/1U5x6wQtMJtbwM3NZRSvKT) | 4:06 |
+| 42 | [Submersible](https://open.spotify.com/track/2fJygKixDmVgmsYAjn9aNq) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Replica](https://open.spotify.com/album/4xgY6533C7VK4HEeojrgc1) | 3:50 |
 | 43 | [Murmur \- Machinefabriek Remix](https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Machinefabriek](https://open.spotify.com/artist/4Tzunwe7m9sBMSsmEV49Qo) | [Murmur \(Machinefabriek Remix\)](https://open.spotify.com/album/0ZO7czDtPwdpa76DvMdydf) | 4:01 |
 | 44 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 |
 | 45 | [expiation](https://open.spotify.com/track/0XinJFSpCjVI5nFSWCvw7X) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Dead Silence](https://open.spotify.com/album/01tMpXBJd0dhGOeRYvSgj8) | 4:48 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwRqtEuH2l7.md) - [plain]
 | 51 | [Nuuk \(Air\)](https://open.spotify.com/track/4iBVHkmGRBoEOpRRmEqv94) | [Thomas Köner](https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v) | [Nuuk](https://open.spotify.com/album/3ulAX8iVHCIvzCfcMZiKg9) | 4:47 |
 | 52 | [Garlands](https://open.spotify.com/track/5SMrvHvUEU8NJohwwcSOO0) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Let Night Come On Bells End The Day](https://open.spotify.com/album/5ziHF8teR7EXEmOgYJU94B) | 2:54 |
 | 53 | [Brilliance](https://open.spotify.com/track/6yESxXi51ypIOiazRTTinL) | [Christoph De Babalon](https://open.spotify.com/artist/4ZrzdbajcxLidPJDPZomzz) | [If You're Into It I'm Out of It](https://open.spotify.com/album/2eFiRk2G9mVxjpZQy2ouTl) | 7:10 |
-| 54 | [Magnified Pieces of Thermodynamics](https://open.spotify.com/track/6yVJyoTT6goRqEvSv6rWLZ) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O), [Forest Management](https://open.spotify.com/artist/2z0s65XFlIfrX3hB5A6YD7) | [Landmarks](https://open.spotify.com/album/4W0Qq5GuaCeVSL4ME7kqLy) | 6:26 |
-| 55 | [abundance](https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A) | [badfocus](https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh), [Albert Štifter](https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi) | [emerged, vol\. II](https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb) | 2:23 |
+| 54 | [abundance](https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A) | [badfocus](https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh), [Albert Štifter](https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi) | [emerged, vol\. II](https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb) | 2:23 |
+| 55 | [Magnified Pieces of Thermodynamics](https://open.spotify.com/track/6yVJyoTT6goRqEvSv6rWLZ) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O), [Forest Management](https://open.spotify.com/artist/2z0s65XFlIfrX3hB5A6YD7) | [Landmarks](https://open.spotify.com/album/4W0Qq5GuaCeVSL4ME7kqLy) | 6:26 |
 | 56 | [Sleeping Since Last Year](https://open.spotify.com/track/2kc18BHDqGI7QGpGN150AG) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Sleeping Since Last Year](https://open.spotify.com/album/0hrFPfSOWBFo156sLpdho2) | 5:59 |
 | 57 | [Burn It All Down](https://open.spotify.com/track/3CnXVFKUwgYWZuH6KmlTsv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 2:31 |
 | 58 | [Mod Aki Kasa](https://open.spotify.com/track/1NjkQKN7Fvi9hrYRCljVSs) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Pararatronic](https://open.spotify.com/album/6tf8KKUz2s11zLiP5HNqKL) | 3:46 |
 | 59 | [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 |
 | 60 | [In Her Hair](https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 5:21 |
 
-Snapshot ID: `MTY2NTQwNzE2OSwwMDAwMDAwMGY3NjhlYmJhNmY1OGJjNTBjOWYyZDA2YzFkMWYxMTRi`
+Snapshot ID: `MTY2NTQwNzE2OSwwMDAwMDAwMGY4ZmYzNjg1ZjY3ZmE1ZDY3YzBkZTkwMmQ0ZDQxMzA1`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 16348,
+  "num_followers": 16365,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMGE5YWRiZTQ1OTdmYjU4OGI4YzQ1ZmNmYjc3M2Q2YzFj",
+  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMDg4NzZkMjJkZGYwNDhhMzRiOWE5NDQ1Yzc5NmU2NjZi",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -251,18 +251,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "L\u00e1ndini",
-        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
+        "name": "Batalla de las Puntas, Vol. 3",
+        "url": "https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R"
       },
       "artists": [
         {
-          "name": "Aurelio",
-          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
         }
       ],
-      "duration_ms": 179108,
-      "name": "Nando",
-      "url": "https://open.spotify.com/track/4mhUu9hEcGeXsNJZfGGxsH"
+      "duration_ms": 248894,
+      "name": "Punta Raton - Remix",
+      "url": "https://open.spotify.com/track/614aWj40s31E4Vc4lGBDd0"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -283,18 +283,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 3",
-        "url": "https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R"
+        "name": "L\u00e1ndini",
+        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
       },
       "artists": [
         {
-          "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+          "name": "Aurelio",
+          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
         }
       ],
-      "duration_ms": 248894,
-      "name": "Punta Raton - Remix",
-      "url": "https://open.spotify.com/track/614aWj40s31E4Vc4lGBDd0"
+      "duration_ms": 179108,
+      "name": "Nando",
+      "url": "https://open.spotify.com/track/4mhUu9hEcGeXsNJZfGGxsH"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -411,18 +411,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "L\u00e1ndini",
-        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
+        "name": "Batalla de las Puntas, Vol. 8",
+        "url": "https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX"
       },
       "artists": [
         {
-          "name": "Aurelio",
-          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
         }
       ],
-      "duration_ms": 205072,
-      "name": "Nafagua",
-      "url": "https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4"
+      "duration_ms": 325668,
+      "name": "Kazzabe Si Sabe",
+      "url": "https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -463,6 +463,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "L\u00e1ndini",
+        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
+      },
+      "artists": [
+        {
+          "name": "Aurelio",
+          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
+        }
+      ],
+      "duration_ms": 205072,
+      "name": "Nafagua",
+      "url": "https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Batalla de las Puntas, Vol. 10",
         "url": "https://open.spotify.com/album/5GTHEoUqGOqsE0tIwLcz0I"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 230870,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/56AynhuITWeIpfjczp8SPu"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Batalla de las Puntas, Vol. 8",
-        "url": "https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
-        }
-      ],
-      "duration_ms": 325668,
-      "name": "Kazzabe Si Sabe",
-      "url": "https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -563,6 +563,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        }
+      ],
+      "duration_ms": 113475,
+      "name": "Vamos Vamos Todos Con la Seleccion",
+      "url": "https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Quemala",
         "url": "https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 145321,
       "name": "Quemala",
       "url": "https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Pobre Marinero",
-        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
-        }
-      ],
-      "duration_ms": 219173,
-      "name": "En Mi Pais",
-      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -667,18 +667,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Baila Baila",
-        "url": "https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo"
+        "name": "Pobre Marinero",
+        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
       },
       "artists": [
         {
-          "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
         }
       ],
-      "duration_ms": 113475,
-      "name": "Vamos Vamos Todos Con la Seleccion",
-      "url": "https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl"
+      "duration_ms": 219173,
+      "name": "En Mi Pais",
+      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
     }
   ],
   "unique_name": "Punta",

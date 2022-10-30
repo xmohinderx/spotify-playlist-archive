@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: BERWYN
 
-1,146 songs - 2 day 19 hr 57 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+1,148 songs - 2 day 20 hr 2 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Everything Is Everything](https://open.spotify.com/track/1CWG6auQo6ctDPt6wXXHy2) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Raving Dahlia](https://open.spotify.com/album/5DC6XLIcCL7VqCq9LYyuVn) | 3:49 | 2022-02-25 | 2022-04-15 |
 | [Everytime](https://open.spotify.com/track/7KvmxwYZ76UIauFy8jvRIT) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Oblivion!](https://open.spotify.com/album/6y9rLPYIzbyxEAOIV3nXxz) | 3:10 | 2022-03-31 | 2022-06-17 |
 | [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 | 2020-11-20 | 2021-03-09 |
+| [Exscape](https://open.spotify.com/track/2JxPgHghyuG0SKNy8htBWg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 2:22 | 2022-10-29 |  |
 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 | 2022-04-08 | 2022-07-08 |
 | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/track/5Asn2tpsfEpP4h5iio8lL5) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [F\*\*\*\*\*g Up What Matters](https://open.spotify.com/album/605QJC3syWgn2xXR3LHbds) | 2:52 | 2022-04-28 | 2022-07-02 |
 | [Fabric](https://open.spotify.com/track/2oSG1lrQZHUSs4hhgv7Imu) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Act One](https://open.spotify.com/album/7hS3HK39ZkDsnKFfItdMRX) | 1:44 | 2022-07-21 | 2022-09-23 |
@@ -685,6 +686,7 @@
 | [Moves](https://open.spotify.com/track/56m9pSdW8e56jiadoFKuu8) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Moves](https://open.spotify.com/album/5kMj4ooSnYk9MUCedMrhi7) | 3:13 | 2021-10-16 | 2022-03-09 |
 | [Moving Men \(feat\. Mac DeMarco\)](https://open.spotify.com/track/3y4I9VECfNbDXYN2bXh9hV) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Moving Men](https://open.spotify.com/album/5KHDM6ahrfEV8D2JFPbz4h) | 2:47 | 2020-11-20 | 2021-02-26 |
 | [Multitudes](https://open.spotify.com/track/3TAXiOL3dqNo4YkrdyN73S) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Multitudes](https://open.spotify.com/album/2o6CaxhzQScrGCSkIZ0N6q) | 4:35 | 2022-05-19 | 2022-06-17 |
+| [Mustafa \(time to move you\)](https://open.spotify.com/track/1nTrQaYdahsSWkH2Nbc3Jd) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 2:34 | 2022-10-29 |  |
 | [My House](https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP) | 4:16 | 2021-07-09 | 2021-09-10 |
 | [Mystery Boy](https://open.spotify.com/track/6ku5XgDT9HCf9s8Hw0nC66) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Mystery Boy](https://open.spotify.com/album/1mvC41Bw6HDEikypZ0U5T3) | 3:09 | 2021-09-24 | 2021-10-29 |
 | [Narrator \- Edit](https://open.spotify.com/track/0kU1dKmPqpSjHBMQ0lU9z1) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo), [Martha Skye Murphy](https://open.spotify.com/artist/4riGlB4lkpPDgJscJid8FA) | [Narrator](https://open.spotify.com/album/7sdU15Z5EaCoV2xIpqddJg) | 4:32 | 2021-01-29 | 2021-02-19 |

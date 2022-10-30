@@ -1,12 +1,12 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 224840,
+  "num_followers": 224872,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTEyNjAwMCwwMDAwMDAwMDk3NGJjNDU2MmIzZmYxYzIzMmRkMWI3N2NjYTQ1ODg4",
+  "snapshot_id": "MTY2NTEyNjAwMCwwMDAwMDAwMGM1ZjMwYmI5OWIxMGFmNzA4NjY5NWYyMWZlMWRmMGM1",
   "tracks": [
     {
       "added_at": "2022-10-07 07:00:00",
@@ -27,18 +27,18 @@
     {
       "added_at": "2022-10-07 07:00:00",
       "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
+      "duration_ms": 305906,
+      "name": "Hail to the King",
+      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
     },
     {
       "added_at": "2022-10-07 07:00:00",
@@ -59,18 +59,18 @@
     {
       "added_at": "2022-10-07 07:00:00",
       "album": {
-        "name": "Hail to the King",
-        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
       },
       "artists": [
         {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 305906,
-      "name": "Hail to the King",
-      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "added_at": "2022-10-07 07:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-10-07 07:00:00",
       "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
-    },
-    {
-      "added_at": "2022-10-07 07:00:00",
-      "album": {
         "name": "Bad Vibrations (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 200676,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
+    },
+    {
+      "added_at": "2022-10-07 07:00:00",
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
     },
     {
       "added_at": "2022-10-07 07:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-10-07 07:00:00",
       "album": {
-        "name": "Eye of the Storm",
-        "url": "https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 234149,
-      "name": "Eye of the Storm",
-      "url": "https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F"
-    },
-    {
-      "added_at": "2022-10-07 07:00:00",
-      "album": {
         "name": "Asking Alexandria",
         "url": "https://open.spotify.com/album/0dYHTESEegNj0dkIFGWy2d"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 237003,
       "name": "Into The Fire",
       "url": "https://open.spotify.com/track/7zWPlO8Mcjc5mQGf7v8dlE"
+    },
+    {
+      "added_at": "2022-10-07 07:00:00",
+      "album": {
+        "name": "The Death of Me",
+        "url": "https://open.spotify.com/album/415LpbInk4LGm9q9ILX1s1"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 247924,
+      "name": "Masochist",
+      "url": "https://open.spotify.com/track/2a05MFdR1vtm8QVKFs1SGn"
     },
     {
       "added_at": "2022-10-07 07:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-10-07 07:00:00",
       "album": {
-        "name": "The Death of Me",
-        "url": "https://open.spotify.com/album/415LpbInk4LGm9q9ILX1s1"
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b"
       },
       "artists": [
         {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
         }
       ],
-      "duration_ms": 247924,
-      "name": "Masochist",
-      "url": "https://open.spotify.com/track/2a05MFdR1vtm8QVKFs1SGn"
+      "duration_ms": 234149,
+      "name": "Eye of the Storm",
+      "url": "https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F"
     },
     {
       "added_at": "2022-10-07 07:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-10-07 07:00:00",
       "album": {
-        "name": "SO WHAT?",
-        "url": "https://open.spotify.com/album/2jd0syXer1txxASx3W2oy0"
-      },
-      "artists": [
-        {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
-        }
-      ],
-      "duration_ms": 254500,
-      "name": "ANTI-SOCIAL",
-      "url": "https://open.spotify.com/track/5XExne04zgnDeAN8aIvMvM"
-    },
-    {
-      "added_at": "2022-10-07 07:00:00",
-      "album": {
         "name": "Singularity",
         "url": "https://open.spotify.com/album/5YbmS9RyJV55oBw26mkTvi"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 243939,
       "name": "Quantum Flux",
       "url": "https://open.spotify.com/track/1ZiTdxdpKQuovW4ERgBIO2"
+    },
+    {
+      "added_at": "2022-10-07 07:00:00",
+      "album": {
+        "name": "SO WHAT?",
+        "url": "https://open.spotify.com/album/2jd0syXer1txxASx3W2oy0"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "ANTI-SOCIAL",
+      "url": "https://open.spotify.com/track/5XExne04zgnDeAN8aIvMvM"
     }
   ],
   "unique_name": "Heavy Gamers",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: SURL \(South Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,790 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,822 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 25 | [Back In The Game](https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis: Final Stage](https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513) | 3:28 |
 | 26 | [Center of the Universe](https://open.spotify.com/track/5ZibH2171yDvE6mTVAVG25) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 3:07 |
 | 27 | [Don’t get me wrong](https://open.spotify.com/track/7bmmOJ3ZRj8yreK8CNAhbI) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Where's the Exit?](https://open.spotify.com/album/7edAR9wZ8n7ges6F0g99RF) | 3:24 |
-| 28 | [Air Guitar](https://open.spotify.com/track/2cTcCo0OwGfvIEAAW6y8NK) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5PETfsInVVeftPNXoLAIqs) | 3:03 |
-| 29 | [In my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 |
+| 28 | [Air Guitar](https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 3:03 |
+| 29 | [in my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 |
 | 30 | [Call Me When You Need Me](https://open.spotify.com/track/5ow1lXQKUCoPIQ9clF9g8z) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [Call Me When You Need Me](https://open.spotify.com/album/4p2hait2OvHjlJgr4UrBTb) | 2:20 |
 | 31 | [Sunshine](https://open.spotify.com/track/5P0Qp4RnsIHOjc153m9Jsa) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [sh](https://open.spotify.com/artist/0R4narCkJHEsmTomh2jD1p) | [Sunshine](https://open.spotify.com/album/5xKLqgTDwEyBg7SfFpBhLL) | 3:19 |
 | 32 | [Cooking For One](https://open.spotify.com/track/2GurjJblHxTdQ7OVmQFfKJ) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Cooking For One](https://open.spotify.com/album/1nKLZECJDOD2mgFgaotaNK) | 2:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 74 | [Wish Upon A Star](https://open.spotify.com/track/4dRlRt2jZKOd7WsPRQ5KVq) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Wish Upon A Star](https://open.spotify.com/album/6Z5QlpJojN80fwGLHFEkDS) | 4:25 |
 | 75 | [Only Ever in Daylight](https://open.spotify.com/track/06jRyRIKqc5BCB6lmsELZP) | [Jelita](https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr) | [Only Ever in Daylight](https://open.spotify.com/album/2DXbHvDx5b0AjqMpWTgjv1) | 3:33 |
 
-Snapshot ID: `MTY2NjkzMDQyMywwMDAwMDAwMDBmODhkMDYzM2ZlZGUwOTYyODk4NzI4NTc4NWI5ZDAx`
+Snapshot ID: `MTY2NjkzMDQyMywwMDAwMDAwMDVlMDAyMTU1MDViNTY0MzBkNDAwMzAzZjgxODBhMDlm`

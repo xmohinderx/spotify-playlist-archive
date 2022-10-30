@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 7430,
+  "num_followers": 7432,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGJmMTUzZjUzYjViMGUxZDA3YmFmYTRhYjM3NWE4NjI1",
+  "snapshot_id": "MTU5MjkyMzY1MCwwMDAwMDAwMGYwNWVmYmY0NzkwZDcyODQ0ODA1OTcyN2UyZWVhYjQ1",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -447,22 +447,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Mal \u00e9duqu\u00e9 mon amour",
-        "url": "https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u"
-      },
-      "artists": [
-        {
-          "name": "Cafeine",
-          "url": "https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Tu ne peux pas partir",
-      "url": "https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Super-h\u00e9ros sous peu",
         "url": "https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 232280,
       "name": "Decoller - Remix",
       "url": "https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Mal \u00e9duqu\u00e9 mon amour",
+        "url": "https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u"
+      },
+      "artists": [
+        {
+          "name": "Cafeine",
+          "url": "https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Tu ne peux pas partir",
+      "url": "https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Projet Orange",
-        "url": "https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM"
-      },
-      "artists": [
-        {
-          "name": "Projet Orange",
-          "url": "https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF"
-        }
-      ],
-      "duration_ms": 236373,
-      "name": "Myst\u00e8re a\u00e9rosol",
-      "url": "https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Rita-Rita",
         "url": "https://open.spotify.com/album/5qSOmPrjjKPs5HGuPH6BHj"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 195133,
       "name": "Je suis down",
       "url": "https://open.spotify.com/track/0VV4s8JLIOrN2GCBdV6lDL"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Projet Orange",
+        "url": "https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM"
+      },
+      "artists": [
+        {
+          "name": "Projet Orange",
+          "url": "https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF"
+        }
+      ],
+      "duration_ms": 236373,
+      "name": "Myst\u00e8re a\u00e9rosol",
+      "url": "https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Thermoplastique",
-        "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
-      },
-      "artists": [
-        {
-          "name": "Les Secr\u00e9taires Volantes",
-          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
-        }
-      ],
-      "duration_ms": 173626,
-      "name": "Thermoplastique",
-      "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "l'amour la haine les animaux les automobiles",
         "url": "https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 188800,
       "name": "Gwen et les rats",
       "url": "https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Thermoplastique",
+        "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
+      },
+      "artists": [
+        {
+          "name": "Les Secr\u00e9taires Volantes",
+          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
+        }
+      ],
+      "duration_ms": 173626,
+      "name": "Thermoplastique",
+      "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
     },
     {
       "added_at": "2020-06-23 14:47:30",

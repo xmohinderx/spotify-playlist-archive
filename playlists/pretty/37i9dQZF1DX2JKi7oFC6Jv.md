@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in classic and new UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,119 likes - 60 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,131 likes - 60 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 25 | [Are You Gunna Bang Doe?](https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW) | [Funky Dee](https://open.spotify.com/artist/4hzlCYExpUNcY6r0jFG3Pv) | [Street Nation](https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd) | 2:43 |
 | 26 | [Im Right Here \(Naughty Mix\)](https://open.spotify.com/track/5aVCzF8Df9wnnkskNK3ZDs) | [DJ MA1](https://open.spotify.com/artist/2QJVs1SDIWbAIqLSavHBQi) | [Im Right Here](https://open.spotify.com/album/4xJgP8lZ2v1F7SqSTScyvr) | 8:12 |
 | 27 | [BLU Magic](https://open.spotify.com/track/7jXF5MEo0MBRjdf5Uy7j1t) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [The BLU Magic Project Remix EP](https://open.spotify.com/album/1p8R2BA13zfBxEO5fMlImp) | 4:32 |
-| 28 | [Township Funk](https://open.spotify.com/track/32bk6u6Pbe2cotvyKJgrP0) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/3luAwCNNb1nLAwq2oMUhJi) | 5:49 |
+| 28 | [Get Over It](https://open.spotify.com/track/1Utz4zu6JCd8iyA77ueD3t) | [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Get Over It](https://open.spotify.com/album/2goDYGdgun4cjrYELDKrzw) | 6:59 |
 | 29 | [Timbao](https://open.spotify.com/track/1jbha5KqgpV5qH4A4kZDnu) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Basta / Timbao](https://open.spotify.com/album/3bKvBimZKZhXnnpfTT9awr) | 3:48 |
 | 30 | [Tribal Warrior](https://open.spotify.com/track/5nlOnRGgf46AmVzyAPDPyh) | [Bakongo](https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo) | [3 x 2 EP](https://open.spotify.com/album/4dvYDMor2bCeiyQh7hK4dJ) | 5:08 |
-| 31 | [Get Over It](https://open.spotify.com/track/1Utz4zu6JCd8iyA77ueD3t) | [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Get Over It](https://open.spotify.com/album/2goDYGdgun4cjrYELDKrzw) | 6:59 |
+| 31 | [Township Funk](https://open.spotify.com/track/32bk6u6Pbe2cotvyKJgrP0) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/3luAwCNNb1nLAwq2oMUhJi) | 5:49 |
 | 32 | [In The Morning \(Let Your Love Come In\) \- Sticky Radio Edit](https://open.spotify.com/track/1nneW6gCqP7U9BPQ4F3Adg) | [Egypt](https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86), [Richard Forbes](https://open.spotify.com/artist/0zz4dNczrASgFx0fkXrjJB) | [In The Morning \(Let Your Love Come In\)](https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk) | 2:53 |
 | 33 | [Make Money](https://open.spotify.com/track/5D2nyKpovnlc0o6dFWA4Y1) | [Mina](https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Make Money](https://open.spotify.com/album/0lF3TZ4d8dK723Icsy5dvH) | 3:17 |
 | 34 | [Devil in a Blue Dress](https://open.spotify.com/track/6mXvnvgtkVjXlg8bjzN71g) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:40 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 46 | [Feeling Funky](https://open.spotify.com/track/764vblH9EXsgdtrSpCGmL6) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Sensei EP](https://open.spotify.com/album/4eOUxNKQxKBdwIAoOpXHDf) | 4:41 |
 | 47 | [Go Hard](https://open.spotify.com/track/4K9QL2YtsACZbgSePiGnvj) | [Lethal Bizzle](https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a), [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Best Of Bizzle](https://open.spotify.com/album/6Kdsrh31egVDwdWFNKb6XW) | 3:32 |
 | 48 | [Move & Breathe](https://open.spotify.com/track/0tUBJgHumIS69lTHJ94bRM) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9) | [3:33](https://open.spotify.com/album/6DzzvDoOqxVBuUmAniObKb) | 3:25 |
-| 49 | [So Derobe](https://open.spotify.com/track/0HlQ8eP4Xdovcw4f235zTQ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [The Shrew Would Have Cushioned The Blow / So Derobe](https://open.spotify.com/album/0Q0xQqRk5NCMzv4LLn1D6B) | 6:10 |
-| 50 | [Quicktime \- Roska Remix](https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI) | [DJ Naughty](https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo) | [Firepower EP](https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U) | 7:19 |
+| 49 | [I'm Leaving \- DJ MA1 Remix](https://open.spotify.com/track/4ZuIiYL4lADtA7zoPFw4Mk) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Alahna](https://open.spotify.com/artist/46jSEbui6AGr4nPZwYiHi3), [DJ MA1](https://open.spotify.com/artist/4INAX5tocNkzY3S6Acrll6) | [I'm Leaving](https://open.spotify.com/album/2R9DbkINYc0xVuBxjk1K8r) | 6:10 |
+| 50 | [So Derobe](https://open.spotify.com/track/0HlQ8eP4Xdovcw4f235zTQ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [The Shrew Would Have Cushioned The Blow / So Derobe](https://open.spotify.com/album/0Q0xQqRk5NCMzv4LLn1D6B) | 6:10 |
 | 51 | [African Warrior](https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:18 |
 | 52 | [De Siegalizer](https://open.spotify.com/track/05oRAIJvKCJ5Vku1RLldwB) | [Apple](https://open.spotify.com/artist/0cLE7Rf26nPEpDrm20OrHf) | [Appocolipto](https://open.spotify.com/album/2hKShqGKTrmyKECCD6VX5G) | 3:57 |
-| 53 | [I'm Leaving \- DJ MA1 Remix](https://open.spotify.com/track/4ZuIiYL4lADtA7zoPFw4Mk) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Alahna](https://open.spotify.com/artist/46jSEbui6AGr4nPZwYiHi3), [DJ MA1](https://open.spotify.com/artist/4INAX5tocNkzY3S6Acrll6) | [I'm Leaving](https://open.spotify.com/album/2R9DbkINYc0xVuBxjk1K8r) | 6:10 |
+| 53 | [Quicktime \- Roska Remix](https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI) | [DJ Naughty](https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo) | [Firepower EP](https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U) | 7:19 |
 | 54 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
 | 55 | [Galiium](https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Gallium](https://open.spotify.com/album/4sq8Tr818HVyApngtRX6nP) | 7:36 |
 | 56 | [Swervin'](https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r) | [DJ Polo](https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7) | [Limonata](https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS) | 4:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 59 | [Hear Me \- Zomby Mix](https://open.spotify.com/track/1v80nVTvQNItY8JPmwecve) | [Martyn](https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw), [Zomby](https://open.spotify.com/artist/0e1hn6R8UCfLkpHINwAyXR) | [Remixes 1/2](https://open.spotify.com/album/2lGPdro2bQMgqz5WyJATrZ) | 5:00 |
 | 60 | [Waves](https://open.spotify.com/track/6NWZnftVAZPB8Rw7a5NWgT) | [Hagan](https://open.spotify.com/artist/0OvwOTSbNyHM0nnyvdCxNU) | [Waves](https://open.spotify.com/album/3Nzgg68NS8IMzTDo91liai) | 4:17 |
 
-Snapshot ID: `MTY0OTg2MjE4MiwwMDAwMDAwMDJlY2RjYzM1YTg1YzIyYjNiY2ZlNDM4MzU4ZDEwZTVh`
+Snapshot ID: `MTY0OTg2MjE4MiwwMDAwMDAwMDVkN2VhNDQzNTg1ZTY4YjA3NWFlYjJhZmQ0N2YwNWJm`

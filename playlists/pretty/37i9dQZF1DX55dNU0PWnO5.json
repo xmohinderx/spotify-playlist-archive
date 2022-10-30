@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 535572,
+  "num_followers": 535645,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDhlMTcyZDI5YTgyYjliZGY1ZDIzZDgwZDkzNzFjZDEx",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDZiMDA1N2FjNzcxNjkwYzNjNjVmNjM5ZTIzNWU0ZWFm",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -497,6 +497,22 @@
       "url": "https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX"
     },
     {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/5QfbepSQCoQ4z77EO9ZrbJ"
+      },
+      "artists": [
+        {
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        }
+      ],
+      "duration_ms": 198777,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/5k4SI8RNArkDWKQwjifshx"
+    },
+    {
       "added_at": "2021-03-19 05:01:00",
       "album": {
         "name": "Watarase",
@@ -519,22 +535,6 @@
       "duration_ms": 409619,
       "name": "Watarase - Henrik Schwarz Version",
       "url": "https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Talk About It",
-        "url": "https://open.spotify.com/album/5QfbepSQCoQ4z77EO9ZrbJ"
-      },
-      "artists": [
-        {
-          "name": "Moods",
-          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
-        }
-      ],
-      "duration_ms": 198777,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/5k4SI8RNArkDWKQwjifshx"
     },
     {
       "added_at": "2022-04-15 04:01:00",
@@ -645,22 +645,6 @@
       "url": "https://open.spotify.com/track/2KkVqlF1bCcWmLpCsFKJ2t"
     },
     {
-      "added_at": "2022-08-08 13:44:11",
-      "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/2FjNnJa5iOokbI5Ns9simp"
-      },
-      "artists": [
-        {
-          "name": "THREESIXTY",
-          "url": "https://open.spotify.com/artist/3uCyergxu3WFt6R1qGe3V5"
-        }
-      ],
-      "duration_ms": 224399,
-      "name": "Dazed",
-      "url": "https://open.spotify.com/track/02d5NRh9mUGchOfmwHOm4W"
-    },
-    {
       "added_at": "2021-07-30 04:01:00",
       "album": {
         "name": "Andromeda Style Fuunk",
@@ -675,6 +659,22 @@
       "duration_ms": 230625,
       "name": "Andromeda Style Fuunk",
       "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
+    },
+    {
+      "added_at": "2022-08-08 13:44:11",
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/2FjNnJa5iOokbI5Ns9simp"
+      },
+      "artists": [
+        {
+          "name": "THREESIXTY",
+          "url": "https://open.spotify.com/artist/3uCyergxu3WFt6R1qGe3V5"
+        }
+      ],
+      "duration_ms": 224399,
+      "name": "Dazed",
+      "url": "https://open.spotify.com/track/02d5NRh9mUGchOfmwHOm4W"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/2P8poZ6fgzniLuSYGt75og"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Grapefruit",
-        "url": "https://open.spotify.com/album/7LbmIzoc3Tl8qu1bO8kdiu"
-      },
-      "artists": [
-        {
-          "name": "DYVN",
-          "url": "https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Grapefruit",
-      "url": "https://open.spotify.com/track/0IgwBPyQshHcC1sFRwn4Dx"
-    },
-    {
       "added_at": "2022-04-25 13:59:49",
       "album": {
         "name": "Princess Meadow (Morning)",
@@ -763,6 +747,22 @@
       "duration_ms": 131161,
       "name": "Princess Meadow (Morning)",
       "url": "https://open.spotify.com/track/63KBUxunksAInY8IP2e15L"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Grapefruit",
+        "url": "https://open.spotify.com/album/7LbmIzoc3Tl8qu1bO8kdiu"
+      },
+      "artists": [
+        {
+          "name": "DYVN",
+          "url": "https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Grapefruit",
+      "url": "https://open.spotify.com/track/0IgwBPyQshHcC1sFRwn4Dx"
     },
     {
       "added_at": "2021-02-26 05:01:00",
@@ -837,6 +837,22 @@
       "url": "https://open.spotify.com/track/2ytUcMU7LhM9J38Ydh1QXs"
     },
     {
+      "added_at": "2022-02-11 18:57:20",
+      "album": {
+        "name": "4 Rooms",
+        "url": "https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Can We? Take A Break",
+      "url": "https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Tin Tin Deo (NerdStar Remix)",
@@ -855,22 +871,6 @@
       "duration_ms": 202900,
       "name": "Tin Tin Deo - NerdStar Remix",
       "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
-    },
-    {
-      "added_at": "2022-02-11 18:57:20",
-      "album": {
-        "name": "4 Rooms",
-        "url": "https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ"
-      },
-      "artists": [
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Can We? Take A Break",
-      "url": "https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -905,6 +905,22 @@
       "url": "https://open.spotify.com/track/0R7j6lvGVhpcs15ePBLLr7"
     },
     {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
+      },
+      "artists": [
+        {
+          "name": "BlackLight",
+          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
+        }
+      ],
+      "duration_ms": 466627,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
+    },
+    {
       "added_at": "2022-08-08 13:44:11",
       "album": {
         "name": "Cruiserweight",
@@ -923,38 +939,6 @@
       "duration_ms": 131006,
       "name": "Lift Off For AJ",
       "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
-      },
-      "artists": [
-        {
-          "name": "BlackLight",
-          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
-        }
-      ],
-      "duration_ms": 466627,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Kosmological Glitches",
-        "url": "https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5"
-      },
-      "artists": [
-        {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
-        }
-      ],
-      "duration_ms": 89898,
-      "name": "In Touch With The Kosmos",
-      "url": "https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -979,6 +963,22 @@
       "duration_ms": 208456,
       "name": "Jim Bell",
       "url": "https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Kosmological Glitches",
+        "url": "https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "duration_ms": 89898,
+      "name": "In Touch With The Kosmos",
+      "url": "https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -1013,26 +1013,6 @@
       "url": "https://open.spotify.com/track/2REjRtNDCn61o7cafbTCaA"
     },
     {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Kick Snare Cat",
-        "url": "https://open.spotify.com/album/66ThQxulYfynE5xRMoWtHH"
-      },
-      "artists": [
-        {
-          "name": "Mahealane",
-          "url": "https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5"
-        },
-        {
-          "name": "PRNDL",
-          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Kick Snare Cat",
-      "url": "https://open.spotify.com/track/2JFpgWOy29AVCrGtUrVhNM"
-    },
-    {
       "added_at": "2021-01-29 05:01:00",
       "album": {
         "name": "Vacuum Lessons",
@@ -1063,6 +1043,26 @@
       "duration_ms": 183894,
       "name": "Vacuum Lessons",
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
+    },
+    {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "Kick Snare Cat",
+        "url": "https://open.spotify.com/album/66ThQxulYfynE5xRMoWtHH"
+      },
+      "artists": [
+        {
+          "name": "Mahealane",
+          "url": "https://open.spotify.com/artist/5MIIsfUJhLH8TzJyTGCCq5"
+        },
+        {
+          "name": "PRNDL",
+          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Kick Snare Cat",
+      "url": "https://open.spotify.com/track/2JFpgWOy29AVCrGtUrVhNM"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1169,24 +1169,20 @@
       "url": "https://open.spotify.com/track/3f5CmDMjox3b3xB7h9kcRu"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
+      "added_at": "2021-09-24 04:02:00",
       "album": {
-        "name": "Horse Boar Crow (Sen Morimoto Remix)",
-        "url": "https://open.spotify.com/album/10Z37xzQCt5INnImXYKnzy"
+        "name": "Excursions",
+        "url": "https://open.spotify.com/album/39AhUDFW2KH9RHZWGuMdwo"
       },
       "artists": [
         {
-          "name": "UQiYO",
-          "url": "https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW"
-        },
-        {
-          "name": "Sen Morimoto",
-          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
         }
       ],
-      "duration_ms": 203076,
-      "name": "Horse Boar Crow - Sen Morimoto Remix",
-      "url": "https://open.spotify.com/track/55LDCYCOjfg2rRlpgp6HVW"
+      "duration_ms": 168160,
+      "name": "Life Of Leisure",
+      "url": "https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -1207,26 +1203,6 @@
       "duration_ms": 382000,
       "name": "Blue to Red - Photay Remix",
       "url": "https://open.spotify.com/track/7yjaEAoxYgrocnt0S2kPnU"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Chip Funk",
-        "url": "https://open.spotify.com/album/2VL5DyZNpV6Ube1FiRYfTH"
-      },
-      "artists": [
-        {
-          "name": "Joshua Morse",
-          "url": "https://open.spotify.com/artist/1dxOwy6v6oyNSoj7GqhRNx"
-        },
-        {
-          "name": "GameChops",
-          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
-        }
-      ],
-      "duration_ms": 178218,
-      "name": "Shop FUNKY Flights",
-      "url": "https://open.spotify.com/track/190WVA0VoDoVVmavzcEJXd"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -1265,20 +1241,44 @@
       "url": "https://open.spotify.com/track/1qTGY0QXhVVTvMtX33vw7Y"
     },
     {
-      "added_at": "2021-09-24 04:02:00",
+      "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Excursions",
-        "url": "https://open.spotify.com/album/39AhUDFW2KH9RHZWGuMdwo"
+        "name": "Chip Funk",
+        "url": "https://open.spotify.com/album/2VL5DyZNpV6Ube1FiRYfTH"
       },
       "artists": [
         {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+          "name": "Joshua Morse",
+          "url": "https://open.spotify.com/artist/1dxOwy6v6oyNSoj7GqhRNx"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
         }
       ],
-      "duration_ms": 168160,
-      "name": "Life Of Leisure",
-      "url": "https://open.spotify.com/track/0P88cwiU0x8rrYudwmO3Pj"
+      "duration_ms": 178218,
+      "name": "Shop FUNKY Flights",
+      "url": "https://open.spotify.com/track/190WVA0VoDoVVmavzcEJXd"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Horse Boar Crow (Sen Morimoto Remix)",
+        "url": "https://open.spotify.com/album/10Z37xzQCt5INnImXYKnzy"
+      },
+      "artists": [
+        {
+          "name": "UQiYO",
+          "url": "https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW"
+        },
+        {
+          "name": "Sen Morimoto",
+          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Horse Boar Crow - Sen Morimoto Remix",
+      "url": "https://open.spotify.com/track/55LDCYCOjfg2rRlpgp6HVW"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -1311,22 +1311,6 @@
       "duration_ms": 343897,
       "name": "Distant Siren",
       "url": "https://open.spotify.com/track/7BarE6oFEX8WTFGk35Brqr"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "lamplighting",
-        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
-      },
-      "artists": [
-        {
-          "name": "Wowflower",
-          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
-        }
-      ],
-      "duration_ms": 139419,
-      "name": "lamplighting",
-      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1369,6 +1353,38 @@
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
     },
     {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "lamplighting",
+        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
+      },
+      "artists": [
+        {
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        }
+      ],
+      "duration_ms": 139419,
+      "name": "lamplighting",
+      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
+    },
+    {
+      "added_at": "2022-04-11 13:55:08",
+      "album": {
+        "name": "Stimuli",
+        "url": "https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "duration_ms": 144469,
+      "name": "Chem Dawg",
+      "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
+    },
+    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Dr. T",
@@ -1389,22 +1405,6 @@
       "url": "https://open.spotify.com/track/5x53ccMRbSrLsmdMhkZAHF"
     },
     {
-      "added_at": "2022-04-11 13:55:08",
-      "album": {
-        "name": "Stimuli",
-        "url": "https://open.spotify.com/album/0psVZXIsZoKdGPqguLh7tt"
-      },
-      "artists": [
-        {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
-        }
-      ],
-      "duration_ms": 144469,
-      "name": "Chem Dawg",
-      "url": "https://open.spotify.com/track/10yVMcoCxnfU0xCIsXZZkN"
-    },
-    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "Modern Life",
@@ -1419,26 +1419,6 @@
       "duration_ms": 255173,
       "name": "HULO",
       "url": "https://open.spotify.com/track/4XmgxD5c2roG5xop55DfVw"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "dshirtcannon",
-        "url": "https://open.spotify.com/album/0YzCRSXSTiTWqt2utdYk2R"
-      },
-      "artists": [
-        {
-          "name": "Unc D",
-          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
-        },
-        {
-          "name": "Thin Thicket",
-          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
-        }
-      ],
-      "duration_ms": 166364,
-      "name": "dshirtcannon",
-      "url": "https://open.spotify.com/track/1LQH51LwNdTa6LOWDnKbNE"
     },
     {
       "added_at": "2022-02-11 19:25:22",
@@ -1471,6 +1451,26 @@
       "duration_ms": 177036,
       "name": "PRNDL.exe",
       "url": "https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "dshirtcannon",
+        "url": "https://open.spotify.com/album/0YzCRSXSTiTWqt2utdYk2R"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        }
+      ],
+      "duration_ms": 166364,
+      "name": "dshirtcannon",
+      "url": "https://open.spotify.com/track/1LQH51LwNdTa6LOWDnKbNE"
     },
     {
       "added_at": "2021-02-05 05:01:00",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
     },
     {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "PPL -PingPongLounge-",
-        "url": "https://open.spotify.com/album/3ugu5abHBGLCHeP9dsQCRf"
-      },
-      "artists": [
-        {
-          "name": "ddddeeeellllaaa",
-          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
-        }
-      ],
-      "duration_ms": 114078,
-      "name": "PPL -PingPongLounge-",
-      "url": "https://open.spotify.com/track/6R17xq1j6flSOItyKYpNoM"
-    },
-    {
       "added_at": "2022-05-16 15:07:06",
       "album": {
         "name": "Bootyscoot",
@@ -1567,6 +1551,22 @@
       "duration_ms": 397090,
       "name": "Bootyscoot",
       "url": "https://open.spotify.com/track/5gFgGj8ShXvq8PXs9tTc0F"
+    },
+    {
+      "added_at": "2021-02-19 05:01:00",
+      "album": {
+        "name": "PPL -PingPongLounge-",
+        "url": "https://open.spotify.com/album/3ugu5abHBGLCHeP9dsQCRf"
+      },
+      "artists": [
+        {
+          "name": "ddddeeeellllaaa",
+          "url": "https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA"
+        }
+      ],
+      "duration_ms": 114078,
+      "name": "PPL -PingPongLounge-",
+      "url": "https://open.spotify.com/track/6R17xq1j6flSOItyKYpNoM"
     },
     {
       "added_at": "2021-12-10 05:01:00",

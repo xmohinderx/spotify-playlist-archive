@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 392,
+  "num_followers": 406,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGYwMGE5ZmY0NjU4OTMwZDNjOGYwMDVkNmYyYzEzNTI3",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDcxY2MzNzdkNjc3MWQwZWY0MWM1NGQ4ZTI3NDlhNzQ3",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -151,6 +151,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "DYING 4 YOUR LOVE",
+      "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Make It Rain",
         "url": "https://open.spotify.com/album/0XaqBneSJFz2ZVVlUM2neC"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 204000,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/4TgHt7vKCimpywaiKfl0uj"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
-        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "DYING 4 YOUR LOVE",
-      "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
     },
     {
       "added_at": "2022-10-01 16:00:00",

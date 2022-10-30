@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,360 songs - 3 day 22 hr 14 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,361 songs - 3 day 22 hr 18 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,6 +484,7 @@
 | [GRAND LARGE](https://open.spotify.com/track/125sfWM2zapEZF3Nji9hHC) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 5:30 | 2022-08-26 | 2022-09-10 |
 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 | 2022-08-12 | 2022-09-24 |
 | [Gratitude](https://open.spotify.com/track/5CvaeEX9dU9ZhwyoVIIgTO) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Gratitude](https://open.spotify.com/album/3fRe1aTVYRwLNGOcLpnDXk) | 3:30 | 2022-08-12 |  |
+| [Gratitude](https://open.spotify.com/track/1UbHeLRVJMD6QEoEqscQWe) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Gratitude](https://open.spotify.com/album/0M9HU37Cgb23PgVh72o3ld) | 4:14 | 2022-09-09 |  |
 | [Gratitude](https://open.spotify.com/track/3fY7n6r6Ky1OuFyf0qgE1O) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Gratitude](https://open.spotify.com/album/5Lff84RX5y2zZ6eIvv75vF) | 4:14 | 2021-03-27 | 2022-10-15 |
 | [Gratitude \- Sébastien Léger Remix \(Edit\)](https://open.spotify.com/track/0m1YhId2LT8OMqQ7CnkzD6) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Marty Longstaff](https://open.spotify.com/artist/0JtMH7U9d7Z8pOSBz2U8Wn), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Gratitude \(Sébastien Léger Remix\)](https://open.spotify.com/album/4KoMuCqirpAf8ZY0ak8xB5) | 3:54 | 2022-08-05 |  |
 | [Green](https://open.spotify.com/track/3gv9RvcysirGAiaMWKZGmN) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [Dreamhouse](https://open.spotify.com/album/5WyV1PmHey2iBiug9LWRb1) | 3:57 | 2020-05-18 | 2020-07-03 |
@@ -717,7 +718,7 @@
 | [Love Affair](https://open.spotify.com/track/078RYWTtCzEcNCjvdP4yHL) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq) | [001 EP](https://open.spotify.com/album/3uYSVjEDYM4sgw6G9txJkL) | 3:48 | 2021-10-22 | 2022-07-28 |
 | [Love Gone Cold](https://open.spotify.com/track/4NNnEa1hDQuuZgW7gtlbuc) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Love Gone Cold](https://open.spotify.com/album/1Hs9xXoei21Nhi157X06ld) | 2:53 | 2021-10-28 | 2021-11-13 |
 | [Love Is Alive](https://open.spotify.com/track/1uf5f99kLdlmUBEvVqrFyy) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Love Is Alive](https://open.spotify.com/album/0i7gI9SlKIZxdz2Jl2dyfp) | 2:50 | 2020-05-18 | 2020-07-03 |
-| [Love Is Awake](https://open.spotify.com/track/6cwiXbTqbuGjwPnG56LFG2) | [Madnap](https://open.spotify.com/artist/6iMPqGUG6S7G5vFISJoHg4), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Love Is Awake](https://open.spotify.com/album/0KmRXcuUhaW2TpcyP2TqKu) | 3:20 | 2020-07-18 |  |
+| [Love Is Awake](https://open.spotify.com/track/6cwiXbTqbuGjwPnG56LFG2) | [Madnap](https://open.spotify.com/artist/6iMPqGUG6S7G5vFISJoHg4), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Love Is Awake](https://open.spotify.com/album/0KmRXcuUhaW2TpcyP2TqKu) | 3:20 | 2020-07-18 | 2022-10-30 |
 | [Love Me \- Felix Cartal's Chill Mix](https://open.spotify.com/track/7yaMJeDKiDCGC35LrP6EYU) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Love Me \(Remixes\)](https://open.spotify.com/album/3D4DNUNdCascgr0VRYUib9) | 3:41 | 2020-03-17 | 2021-03-06 |
 | [Love Syndrome](https://open.spotify.com/track/167J53zotbS1GdqHofZqc5) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/10qeJXOm1yf9uZ4cxL5dPl) | 4:44 | 2022-07-01 | 2022-08-27 |
 | [Love Syndrome](https://open.spotify.com/track/7jja8oqBSBmUKQlqOWRY36) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/2wdg1O8GblskgwH2K5ZGiu) | 4:44 | 2020-03-17 | 2022-04-21 |

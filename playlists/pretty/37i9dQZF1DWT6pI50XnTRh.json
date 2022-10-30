@@ -1,12 +1,12 @@
 {
   "description": "Nostalgic '70-ies and '80-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa. Get your boogie on!",
-  "num_followers": 145190,
+  "num_followers": 145290,
   "original_name": "AfroBoogie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIwMzcwMiwwMDAwMDAwMGRhZDI5ZWYwNzY4MDM0ZTlmYTYzYTVhNTViODFiZTQ0",
+  "snapshot_id": "MTY2NDIwMzcwMiwwMDAwMDAwMGU2ZDk2NmExOTI5OWRlMzRiN2ExNjU0MTA3NjQ3OGEy",
   "tracks": [
     {
       "added_at": "2022-09-26 14:48:22",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
-        "name": "Discomania: Hits Dance 70-80, Vol. 6",
-        "url": "https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d"
-      },
-      "artists": [
-        {
-          "name": "Candido",
-          "url": "https://open.spotify.com/artist/6PyAzOON3Toc5MPZrZMA5i"
-        }
-      ],
-      "duration_ms": 372733,
-      "name": "Jingo",
-      "url": "https://open.spotify.com/track/1C9XAjzr0pd1yE76TD3FM3"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
         "name": "The Hustle & The Best of Van McCoy",
         "url": "https://open.spotify.com/album/0QdIm38ml7jHplmYOqazbF"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 250240,
       "name": "The Hustle - Original Mix",
       "url": "https://open.spotify.com/track/75PHqzep3Lf11sIYP5ps5q"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
+        "name": "Discomania: Hits Dance 70-80, Vol. 6",
+        "url": "https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d"
+      },
+      "artists": [
+        {
+          "name": "Candido",
+          "url": "https://open.spotify.com/artist/6PyAzOON3Toc5MPZrZMA5i"
+        }
+      ],
+      "duration_ms": 372733,
+      "name": "Jingo",
+      "url": "https://open.spotify.com/track/1C9XAjzr0pd1yE76TD3FM3"
     },
     {
       "added_at": "2022-09-26 14:48:22",

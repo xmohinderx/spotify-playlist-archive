@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Mizzy Miles, Sippinpurpp e Greg Ferreira entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,756 likes - 72 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,771 likes - 72 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

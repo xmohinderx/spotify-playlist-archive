@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Codigo FN
 
-1,287 songs - 2 day 19 hr 21 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
+1,288 songs - 2 day 19 hr 24 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -820,6 +820,7 @@
 | [Mi Vida Mis Gustos](https://open.spotify.com/track/3XOdkEeTr3NBLyFwD4Kbya) | [Angel Sauceda](https://open.spotify.com/artist/7aeVRZsc7JRvt7QrMa3CJP) | [Mi Vida Mis Gustos](https://open.spotify.com/album/5HAFlblyEArfjdxWpCpcbQ) | 3:39 | 2022-07-08 | 2022-07-16 |
 | [Mi Ángel del Cielo](https://open.spotify.com/track/2m0qQwqhDa2fLrBddlOi9P) | [Jr Salazar](https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP) | [Mi Ángel del Cielo](https://open.spotify.com/album/2HsauarAD1jiBMzw1Shv9C) | 3:09 | 2022-09-30 | 2022-10-08 |
 | [Mi Última Venganza](https://open.spotify.com/track/0jteQrCsuLwAJAMEZdr8dU) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Mi Última Venganza](https://open.spotify.com/album/6wfOTvn87F3laVFBRJdLtm) | 3:33 | 2022-10-28 |  |
+| [Mi Último Deseó \(En Vivo\)](https://open.spotify.com/track/2JYfRYsB3tWAYPtIS3rNo0) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [Mi Último Deseo \(En Vivo\)](https://open.spotify.com/album/5hU1ZHuA6TWB36Bxv6etcK) | 3:18 | 2022-10-28 |  |
 | [Mi Último Día](https://open.spotify.com/track/66rBvkJ506KRjmY3LSTkJr) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Eso Es La Riqueza \(Versión Deluxe\)](https://open.spotify.com/album/1kDLBvOWZjmuWIOTwNvcIt) | 3:11 | 2022-10-07 | 2022-10-15 |
 | [Miel](https://open.spotify.com/track/0RPhjLbRotMztpcYMWY4QT) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Miel](https://open.spotify.com/album/4JyepzotK8Q6oE3aRg14hv) | 3:17 | 2022-09-30 | 2022-10-08 |
 | [Miguel El Michoacano](https://open.spotify.com/track/5AZX2szCxeWGlozJ5kIZwV) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Miguel El Michoacano](https://open.spotify.com/album/6QreVUCcePVksXW10u6AfW) | 4:16 | 2022-09-02 | 2022-09-10 |

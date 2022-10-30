@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Rihanna \(pictured\), SZA, Shania Twain, dvsn, Fred again.., and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,738 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,855 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 94 | [Monsieur Dior](https://open.spotify.com/track/47993TulzIDIq2Bgs5JqOz) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Monsieur Dior](https://open.spotify.com/album/2NZnmicnIq9lnVtMhyc1bP) | 2:26 |
 | 95 | [Borderlines](https://open.spotify.com/track/4MohtgNEBekgkMuwhdM7JP) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [Borderlines](https://open.spotify.com/album/2VicUoxPRG4yEXspsK2yew) | 2:33 |
 | 96 | [Grateful](https://open.spotify.com/track/3SJ2kRVycjdjyvT9HZt6xx) | [PINEO & LOEB](https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI) | [Grateful](https://open.spotify.com/album/1n8tVKcZt9YQONY0F1fQ6F) | 2:07 |
-| 97 | [Make You Say \(feat\. Nektunez\)](https://open.spotify.com/track/6RTwIBYKDxNhEG8V2dV5FQ) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Make You Say \(feat\. Nektunez\)](https://open.spotify.com/album/3oq0l9uJ2ZZPQnRy367TZM) | 2:46 |
+| 97 | [Make You Say](https://open.spotify.com/track/6RTwIBYKDxNhEG8V2dV5FQ) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Make You Say](https://open.spotify.com/album/3oq0l9uJ2ZZPQnRy367TZM) | 2:46 |
 | 98 | [pttrn](https://open.spotify.com/track/23Ei3Ke7nXBY2UWBt0LPbA) | [Gwyn Love](https://open.spotify.com/artist/4o5ZquVPYCsS90FQYPkGzN), [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [pttrn](https://open.spotify.com/album/5klPMprjWhKwYkkbExPg6M) | 3:10 |
 | 99 | [Bored](https://open.spotify.com/track/0fRorkrSqSuIeMQnhksyLJ) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb), [Tonal Graffiti](https://open.spotify.com/artist/1nd45Z3rbwZTh7CLAEBW4k) | [Bored](https://open.spotify.com/album/222AjkZM0xZGoK3HXoNYNF) | 2:39 |
 | 100 | [Misser](https://open.spotify.com/track/731dIUADAcSxYGVKz09evn) | [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2), [Anderblast](https://open.spotify.com/artist/4IxQ7KFeYjNzc0g7CK2ujp) | [Misser](https://open.spotify.com/album/4M6hUgAWAfD0EE0m4RhSuH) | 3:39 |

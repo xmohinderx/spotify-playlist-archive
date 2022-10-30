@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 181820,
+  "num_followers": 181835,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDNhYzRmMmM5MWJkYTViYTQ2YzgwZDc3M2QxYzhmMGVm",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDQ1NWVjYzVmNzYxNDg5ZTZmMzJkY2YxODM0Y2UyZjc4",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -439,22 +439,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "I Do Love a Good Sandwich",
-        "url": "https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8"
-      },
-      "artists": [
-        {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Still Got Time",
-      "url": "https://open.spotify.com/track/3H7y8eYjCj9gVVg7HFdDOj"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "I Wonder Why",
         "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 228347,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "I Do Love a Good Sandwich",
+        "url": "https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Still Got Time",
+      "url": "https://open.spotify.com/track/3H7y8eYjCj9gVVg7HFdDOj"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -507,6 +507,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Question It All / White Car",
+        "url": "https://open.spotify.com/album/5G5O8QNkx2ocd2hY7ONJFj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 242854,
+      "name": "Question It All",
+      "url": "https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Born a Loser",
         "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 167093,
       "name": "Moving Men",
       "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Question It All / White Car",
-        "url": "https://open.spotify.com/album/5G5O8QNkx2ocd2hY7ONJFj"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 242854,
-      "name": "Question It All",
-      "url": "https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Freckle Season",
-        "url": "https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Oh GOD",
-      "url": "https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "dusk",
         "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 196440,
       "name": "bon iver",
       "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Freckle Season",
+        "url": "https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Oh GOD",
+      "url": "https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Mrs Blue",
+        "url": "https://open.spotify.com/album/6NXtAeqeXlzqnzLS0mX6FP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Down",
+          "url": "https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg"
+        }
+      ],
+      "duration_ms": 267535,
+      "name": "Mrs Blue",
+      "url": "https://open.spotify.com/track/0GdgXSWoGZeRBOzbRDudp8"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Girlhood",
         "url": "https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Mrs Blue",
-        "url": "https://open.spotify.com/album/6NXtAeqeXlzqnzLS0mX6FP"
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
       },
       "artists": [
         {
-          "name": "Tommy Down",
-          "url": "https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 267535,
-      "name": "Mrs Blue",
-      "url": "https://open.spotify.com/track/0GdgXSWoGZeRBOzbRDudp8"
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+        "name": "Sunshine State",
+        "url": "https://open.spotify.com/album/78k6vZLwOMeCjL8YPJ7iTq"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
         }
       ],
-      "duration_ms": 221933,
-      "name": "The Walls Are Way Too Thin",
-      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
+      "duration_ms": 138756,
+      "name": "Sunshine State",
+      "url": "https://open.spotify.com/track/1qk4ro2OIR6Vsxbd41ZlFm"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Sunshine State",
-        "url": "https://open.spotify.com/album/78k6vZLwOMeCjL8YPJ7iTq"
-      },
-      "artists": [
-        {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
-        }
-      ],
-      "duration_ms": 138756,
-      "name": "Sunshine State",
-      "url": "https://open.spotify.com/track/1qk4ro2OIR6Vsxbd41ZlFm"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Held Down",
         "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 236104,
-      "name": "A.M. AM",
-      "url": "https://open.spotify.com/track/1tZW8iinOpafycLyeif7zX"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Like Sand",
         "url": "https://open.spotify.com/album/25DRkwsnYG06w8ExeR7xx6"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 271201,
       "name": "Like Sand",
       "url": "https://open.spotify.com/track/3zRd3xkdmZZSzBHgGo4mAl"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 236104,
+      "name": "A.M. AM",
+      "url": "https://open.spotify.com/track/1tZW8iinOpafycLyeif7zX"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "BREACH",
-        "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 194973,
-      "name": "Alapathy",
-      "url": "https://open.spotify.com/track/3qJwMD0TRsejb73xbaT43o"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Bel\u2022li",
         "url": "https://open.spotify.com/album/7toAAFcowWW8pH2KY96EBO"
       },
@@ -1547,34 +1531,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "TRAP PHONE",
-        "url": "https://open.spotify.com/album/4IhmhPD7eW7QSMR3pVrYet"
+        "name": "BREACH",
+        "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
       },
       "artists": [
         {
-          "name": "BERWYN",
-          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
         }
       ],
-      "duration_ms": 250113,
-      "name": "TRAP PHONE",
-      "url": "https://open.spotify.com/track/2bqvn860XasNbI5OSHwjtt"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
-      },
-      "artists": [
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        }
-      ],
-      "duration_ms": 150091,
-      "name": "Higher Plain",
-      "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
+      "duration_ms": 194973,
+      "name": "Alapathy",
+      "url": "https://open.spotify.com/track/3qJwMD0TRsejb73xbaT43o"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1607,6 +1575,38 @@
       "duration_ms": 175890,
       "name": "Goodnights & Goodbyes",
       "url": "https://open.spotify.com/track/2vZEBUgUkvI8unkULuM5fA"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
+      },
+      "artists": [
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "duration_ms": 150091,
+      "name": "Higher Plain",
+      "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "TRAP PHONE",
+        "url": "https://open.spotify.com/album/4IhmhPD7eW7QSMR3pVrYet"
+      },
+      "artists": [
+        {
+          "name": "BERWYN",
+          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
+        }
+      ],
+      "duration_ms": 250113,
+      "name": "TRAP PHONE",
+      "url": "https://open.spotify.com/track/2bqvn860XasNbI5OSHwjtt"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Treat You Right",
-        "url": "https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2"
+        "name": "Big Skies, Silly Faces",
+        "url": "https://open.spotify.com/album/7lGdpg1UFSOfwXNScK1cSc"
       },
       "artists": [
         {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+          "name": "Orlando Weeks",
+          "url": "https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA"
         }
       ],
-      "duration_ms": 261012,
-      "name": "Treat You Right",
-      "url": "https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw"
+      "duration_ms": 235373,
+      "name": "Big Skies, Silly Faces",
+      "url": "https://open.spotify.com/track/0Zga9iWiTp760vRHHLNxFF"
     }
   ],
   "unique_name": "Your Office Stereo",

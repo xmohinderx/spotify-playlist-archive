@@ -4,7 +4,7 @@
 
 > Listen to the women of AU & NZ at full volume\. Cover: Vera Blue
 
-285 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+286 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,8 +235,9 @@
 | [Slow Down Girl](https://open.spotify.com/track/1vY84RjMLrximsaUSuUVgJ) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Slow Down Girl](https://open.spotify.com/album/0h0scsiujwR3ZDmdaE6ia8) | 3:06 | 2022-09-05 |  |
 | [So We Remain](https://open.spotify.com/track/07rSgUwp4YTZH5bCYya7Xv) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [So We Remain](https://open.spotify.com/album/3auQEEvgNqTzRw8XVDdhjR) | 2:39 | 2022-05-27 |  |
 | [Soft Rock](https://open.spotify.com/track/7kNJ8lNMJ2cnNwSloYt3Ph) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Soft Rock](https://open.spotify.com/album/11oyqQEM0Cg679CH7XH15C) | 2:31 | 2022-02-03 | 2022-04-06 |
+| [Something Real](https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq) | 3:49 | 2022-10-02 |  |
 | [Something Real](https://open.spotify.com/track/2CDA3hjjG6o8CwrEsRBFjn) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Something Real](https://open.spotify.com/album/2UDAM6b2FOsuHyhdNSRCrT) | 3:49 | 2022-05-02 | 2022-07-29 |
-| [Something Real](https://open.spotify.com/track/5RLMXp4oKQGyeovfoqP7kI) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0) | 3:49 | 2022-07-03 |  |
+| [Something Real](https://open.spotify.com/track/5RLMXp4oKQGyeovfoqP7kI) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0) | 3:49 | 2022-07-03 | 2022-10-30 |
 | [Spike The Punch](https://open.spotify.com/track/2gzhJCWgQ9MxKXiIWP1BfB) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [Spike The Punch](https://open.spotify.com/album/3S2fNUJkRiyB3SrgkixKRG) | 3:01 | 2022-02-03 | 2022-05-03 |
 | [Stained Glass Love](https://open.spotify.com/track/5d8HnEi996KfVq0svmeeb0) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Stained Glass Love](https://open.spotify.com/album/3pqjmCTohneJF9XiI9b0RF) | 5:54 | 2022-09-05 |  |
 | [Stay](https://open.spotify.com/track/3kZ0eKvVTT3Eb0Ebh1YdD4) | [Kylie Price](https://open.spotify.com/artist/07bDT0MUTNYJeSnnGzLhlM) | [Stay](https://open.spotify.com/album/3ULtzxYFz5YPLtBK2AkRJw) | 2:55 | 2022-05-27 |  |

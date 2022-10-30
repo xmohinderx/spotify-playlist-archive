@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 114674,
+  "num_followers": 114827,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMjEzNywwMDAwMDAwMGYyNDlkZGY1OWEzMzNlMWQ5NTg2Y2ZhYWJhYzE3MWU2",
+  "snapshot_id": "MTY1MzQyMjEzNywwMDAwMDAwMGFhMWJkODIwOWQzOTU4YzIwM2JiMTRiY2MxMWYzZjY1",
   "tracks": [
     {
       "added_at": "2020-10-28 09:50:29",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+        "name": "Shaman",
+        "url": "https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
         }
       ],
-      "duration_ms": 198973,
-      "name": "Behind These Hazel Eyes",
-      "url": "https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW"
+      "duration_ms": 254466,
+      "name": "The Game of Love (feat. Michelle Branch) - Main / Radio Mix",
+      "url": "https://open.spotify.com/track/41IShViF79gmulEkIHAjcb"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -1103,22 +1107,18 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
-        "name": "Shaman",
-        "url": "https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4"
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Michelle Branch",
-          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 254466,
-      "name": "The Game of Love (feat. Michelle Branch) - Main / Radio Mix",
-      "url": "https://open.spotify.com/track/41IShViF79gmulEkIHAjcb"
+      "duration_ms": 198973,
+      "name": "Behind These Hazel Eyes",
+      "url": "https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW"
     },
     {
       "added_at": "2020-10-28 09:50:29",

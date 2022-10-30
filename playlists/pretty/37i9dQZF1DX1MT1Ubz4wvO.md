@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Los Telepáticos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,995 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,029 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 9 | [El Halo Lunar](https://open.spotify.com/track/2g3HuMHAtms7sRiGDOTkIC) | [Mundaka](https://open.spotify.com/artist/2EqDkbBPD2fLa06Saei9je) | [Apátrida](https://open.spotify.com/album/7uniuiMExWVU1CAPkBu0DE) | 3:35 |
 | 10 | [Corazón de tango \- cover](https://open.spotify.com/track/4hqIgY5ELceLlMuyBgwgdP) | [Zea Mays](https://open.spotify.com/artist/00NQwUnyEhXRMG7i0N5UIv) | [Corazón de tango \(cover\)](https://open.spotify.com/album/0TRJgI98j2ID348zbRDy70) | 4:21 |
 | 11 | [No Hay Más](https://open.spotify.com/track/0KUtLZlufE6fCFMkz1m4mS) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [No Hay Más](https://open.spotify.com/album/4Llq0EXs525rVvENrZnvaZ) | 2:39 |
-| 12 | [No Sé Cuántas Horas](https://open.spotify.com/track/1mJ4AuqJ3PKg8oQ2Qvzixi) | [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi), [Luz Futuro](https://open.spotify.com/artist/3BaSeTuHgL69zvtazv2XvA) | [Gás Lágrima](https://open.spotify.com/album/3bdBbMDmG7iwhRVCezrw3b) | 3:24 |
+| 12 | [No Sé Cuántas Horas](https://open.spotify.com/track/1mJ4AuqJ3PKg8oQ2Qvzixi) | [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi), [Luz Futuro](https://open.spotify.com/artist/3BaSeTuHgL69zvtazv2XvA) | [Gas Lágrima](https://open.spotify.com/album/3bdBbMDmG7iwhRVCezrw3b) | 3:24 |
 | 13 | [Víctimas](https://open.spotify.com/track/0EZOD1EWE9WXMl2T6J9U3t) | [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Víctimas](https://open.spotify.com/album/3eSOdeA6ycYGOdJRRxxe7r) | 2:57 |
 | 14 | [Días en Líneas](https://open.spotify.com/track/5WpopV2vg0IUMJSvMK0QWI) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [i/O](https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70) | 2:36 |
 | 15 | [El Reino Maldito](https://open.spotify.com/track/4BShosa8C3Xwo1XwX4TyIJ) | [Arde la Sangre](https://open.spotify.com/artist/0ygnmKrobIE3eHiDCQyTpm) | [Rompiendo Silencios](https://open.spotify.com/album/12Qg4nfW9ZrSRlXo4PdztT) | 3:41 |

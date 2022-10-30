@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > JAWNY makes anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,594 likes - 150 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,678 likes - 150 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 45 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 |
 | 46 | [Bitter](https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Bitter](https://open.spotify.com/album/1YfxX6KZuOmVJ9xtKaHwAO) | 2:59 |
 | 47 | [off the map](https://open.spotify.com/track/1VjFGmdI8jKbs3rCjGfc1G) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH) | [off the map](https://open.spotify.com/album/4qpSyJ8g2EPT7U3b43mXqZ) | 2:09 |
-| 48 | [PORN ACTING\*](https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:52 |
+| 48 | [PORN ACTING\*](https://open.spotify.com/track/5m1w4Wt0Zd9dGjGjNbH5t2) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:51 |
 | 49 | [Psychedelic Views \(feat\. IDK\)](https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Psychedelic Views \(feat\. IDK\)](https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC) | 4:40 |
 | 50 | [Don't Ask, Don't Tell \(feat\. redveil, Sam Truth & Glen the Saiyan\)](https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa), [Glen the Saiyan](https://open.spotify.com/artist/7vHpwq0fPbCFXXEfZ0O135), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Impostor Syndrome](https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6) | 4:57 |
 | 51 | [haircut](https://open.spotify.com/track/2TAPDfBVQU50hNcbGUq9Q8) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [haircut](https://open.spotify.com/album/6DDPra9LW0x5iQCdV84HXV) | 2:57 |

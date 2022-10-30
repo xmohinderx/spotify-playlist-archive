@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Miss Monique
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,210 likes - 78 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,579 likes - 78 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

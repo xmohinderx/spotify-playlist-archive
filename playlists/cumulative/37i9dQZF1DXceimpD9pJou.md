@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones cristianas\.  Foto:  TWICE
 
-563 songs - 1 day 17 hr 1 min - [published](https://open.spotify.com/playlist/1KUPUNIHlkycouwTjzbQCF)
+564 songs - 1 day 17 hr 3 min - [published](https://open.spotify.com/playlist/1KUPUNIHlkycouwTjzbQCF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Dichosos](https://open.spotify.com/track/2k1ThQSvRdqxpY7fnQiuaL) | [Kenneth Rojas](https://open.spotify.com/artist/2XqEkBMX5d6gXyqClLNQbN) | [Dichosos](https://open.spotify.com/album/6Vn84BvcZfbSxfeADL65Hp) | 4:27 | 2022-02-25 | 2022-03-26 |
 | [Diferente](https://open.spotify.com/track/3ZkkFWixzx1mw8YCBXkz8O) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Diferente](https://open.spotify.com/album/1poLMWgSEkDNSLnzOptUFU) | 3:00 | 2022-07-15 | 2022-09-17 |
 | [Diferente \- Live Session](https://open.spotify.com/track/6iZKs8SxAQOdFrgZIDhgjq) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Live Session: Alexxander](https://open.spotify.com/album/2rXZrmXrNdoH0Vnnws0M4b) | 3:09 | 2022-09-02 | 2022-10-29 |
-| [Digno](https://open.spotify.com/track/6UGOxvIYv7lw9bJG2okPV1) | [Kyrios](https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B) | [Digno](https://open.spotify.com/album/3IdtqxhzlSJ6zxSOkzUGEH) | 5:31 | 2022-10-14 | 2022-10-29 |
+| [Digno](https://open.spotify.com/track/6UGOxvIYv7lw9bJG2okPV1) | [Kyrios](https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B) | [Digno](https://open.spotify.com/album/3IdtqxhzlSJ6zxSOkzUGEH) | 5:31 | 2022-10-14 |  |
 | [Digno Eres Tú \(Bilingüe\)](https://open.spotify.com/track/1chC3vYLW72tgv2GGcBmoN) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Digno Eres Tú \(Bilingüe\)](https://open.spotify.com/album/34Jd30Axl3rFbMMpT4Ay6G) | 5:23 | 2022-06-10 | 2022-08-13 |
 | [Dinero](https://open.spotify.com/track/4MXt7Xh7WQiL85Q6Et2OfF) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs), [Trez Hache](https://open.spotify.com/artist/0wgDsnsyLZpCS1Gj5cnI0r), [Helementt](https://open.spotify.com/artist/153zCjJxe1HnU2huS6jnMU) | [Dinero](https://open.spotify.com/album/5i4rUuV3HlivEuXKQrNGIo) | 3:42 | 2022-03-04 | 2022-04-09 |
 | [Dios \(Acústico\) \[Live\]](https://open.spotify.com/track/2IMwlxWgpPvoSLgDf72msj) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8) | [Dios \(Acústico\) \[Live\]](https://open.spotify.com/album/11GYfNcLbxgWtCiPF3KQWC) | 4:36 | 2022-02-25 | 2022-03-26 |
@@ -233,11 +233,12 @@
 | [Indestructible](https://open.spotify.com/track/6pSAPtBPK6YlfOQ0DxqIQw) | [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt) | [Indestructible](https://open.spotify.com/album/4aGdIqQXhaVflnLZjYDL6Z) | 4:04 | 2022-07-01 | 2022-09-10 |
 | [Indestructible \(Remix\) ft\. Anmily Brown, Oveja Cosmica, Ada Betsabe](https://open.spotify.com/track/2lq64Tj0lOhCRjbKlG5hjf) | [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6), [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT), [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Indestructible \(Remix\) ft\. Anmily Brown, Oveja Cosmica, Ada Betsabe](https://open.spotify.com/album/6fQO2H27cNsuwxdFMS38Wg) | 4:06 | 2022-09-30 |  |
 | [Indisoluble](https://open.spotify.com/track/4rqTfEkclEu81Fu3AvThDm) | [Juan Santoy](https://open.spotify.com/artist/0FKVUSUlnABFRlNkIEELOO) | [Indisoluble](https://open.spotify.com/album/2iw8BMyRAk1zCL7RPtNKrp) | 4:49 | 2022-02-25 | 2022-04-08 |
+| [Inesperado](https://open.spotify.com/track/71aSwq3GAyLTfWxAhmp3fD) | [Artury Pepper](https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57), [Explicito Boom](https://open.spotify.com/artist/3VTW5TPQoWuuQ0s4nhxLYK), [AK66](https://open.spotify.com/artist/4tAZRNtK1B5hm6HV2q9YNe) | [Inesperado](https://open.spotify.com/album/4OPzLw3Jz7et6K0xHKrdg0) | 2:41 | 2022-10-28 |  |
 | [Ironía](https://open.spotify.com/track/3mTGHZgNiop4UsM4Wf5dOp) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [Ironía](https://open.spotify.com/album/77ivq2vF8TE06VqcbRptrc) | 3:42 | 2022-02-25 | 2022-04-07 |
 | [Irremplazable](https://open.spotify.com/track/6Gafrb0iWf2L8lYKinhvNy) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Irremplazable](https://open.spotify.com/album/02ZRieI3zzi4LiMhJHP1hA) | 3:55 | 2022-07-15 | 2022-09-17 |
 | [Jesucristo Basta](https://open.spotify.com/track/3RzpMRn4SAcVkOPgFIr7ai) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [X SIEMPRE](https://open.spotify.com/album/2PXwDxoypiirghBUPoECYW) | 5:49 | 2022-09-30 |  |
 | [Jireh](https://open.spotify.com/track/18oE39pttG3bpvhpuU029b) | [Kyrios](https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B) | [Jireh](https://open.spotify.com/album/0S6YFnQsfDiUYzIy4btKGq) | 5:19 | 2022-05-20 | 2022-07-23 |
-| [Job](https://open.spotify.com/track/04JueJsp0tbhmzYWW5IYr3) | [Hanzell Carballo](https://open.spotify.com/artist/5h935O5UbMt7hJHxiHTKtD) | [Job](https://open.spotify.com/album/6TrAQTbxhz5SxRrxBpxjMS) | 3:16 | 2022-09-30 |  |
+| [Job](https://open.spotify.com/track/04JueJsp0tbhmzYWW5IYr3) | [Hanzell Carballo](https://open.spotify.com/artist/5h935O5UbMt7hJHxiHTKtD) | [Job](https://open.spotify.com/album/6TrAQTbxhz5SxRrxBpxjMS) | 3:16 | 2022-09-30 | 2022-10-30 |
 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 | 2022-02-25 | 2022-03-26 |
 | [Júbilo](https://open.spotify.com/track/1qniiIoGWUDyAJouwsftK5) | [Alex & Melany](https://open.spotify.com/artist/2DwfoJOkxmni0T0b0gQemT) | [Recuerda](https://open.spotify.com/album/5kWF5ViUWvY1etfzmKSNFr) | 4:00 | 2022-10-07 | 2022-10-25 |
 | [Júbilo](https://open.spotify.com/track/5Pu8Ug7xIQsm6eRSaYC8IC) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a) | [Júbilo](https://open.spotify.com/album/3NXtSFvCB1tv6cEBt4O9xo) | 10:21 | 2022-02-25 | 2022-04-08 |

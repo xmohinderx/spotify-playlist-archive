@@ -3529,6 +3529,24 @@
     {
       "album": {
         "name": "Get Even",
+        "url": "https://open.spotify.com/album/7cqFE8xdPtmcJ12bHsrT2A"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161093,
+      "name": "Get Even",
+      "url": "https://open.spotify.com/track/0zIqtbTlQcMLHaPIe0kQPg"
+    },
+    {
+      "album": {
+        "name": "Get Even",
         "url": "https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV"
       },
       "artists": [
@@ -3539,7 +3557,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 161149,
       "name": "Get Even",
       "url": "https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h"

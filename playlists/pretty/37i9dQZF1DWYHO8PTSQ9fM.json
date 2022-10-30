@@ -1,33 +1,13 @@
 {
   "description": "Les hits du moment sont ici. Cover : Don Bigg",
-  "num_followers": 209961,
+  "num_followers": 210201,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg2MDMxOCwwMDAwMDAwMDkxNjNmZTVlMjM3YThmYzA2Y2Y3N2I0MGNlYTc2NGIz",
+  "snapshot_id": "MTY2NzA4Mzc0NywwMDAwMDAwMDNhNDIzYzZjNTVkMjJjMDQ0MmQ1MWM3YjRhYWQ4Njdi",
   "tracks": [
-    {
-      "added_at": "2022-10-27 08:45:18",
-      "album": {
-        "name": "L'\u00c9tranger",
-        "url": "https://open.spotify.com/album/6rieTT1tEp2qZPqgNt5hDO"
-      },
-      "artists": [
-        {
-          "name": "Don Bigg",
-          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
-        },
-        {
-          "name": "Reda Taliani",
-          "url": "https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt"
-        }
-      ],
-      "duration_ms": 209189,
-      "name": "L'\u00c9tranger",
-      "url": "https://open.spotify.com/track/0o5qyh1mrp1elvYeEuWFbL"
-    },
     {
       "added_at": "2022-10-27 08:45:18",
       "album": {
@@ -59,6 +39,26 @@
       "duration_ms": 204695,
       "name": "Paro",
       "url": "https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR"
+    },
+    {
+      "added_at": "2022-10-27 08:45:18",
+      "album": {
+        "name": "L'\u00c9tranger",
+        "url": "https://open.spotify.com/album/6rieTT1tEp2qZPqgNt5hDO"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        },
+        {
+          "name": "Reda Taliani",
+          "url": "https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt"
+        }
+      ],
+      "duration_ms": 209189,
+      "name": "L'\u00c9tranger",
+      "url": "https://open.spotify.com/track/0o5qyh1mrp1elvYeEuWFbL"
     },
     {
       "added_at": "2022-10-27 08:45:18",

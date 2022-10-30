@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,558 likes - 110 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,595 likes - 110 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 60 | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw) | 2:46 |
 | 61 | [Älskar dig mest](https://open.spotify.com/track/6iLhzs7yArNHHF9sRd79MM) | [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [Älskar dig mest](https://open.spotify.com/album/6kZ325dDbKL8PXk63UWB4R) | 1:34 |
 | 62 | [Somnade på bussen](https://open.spotify.com/track/0UAkW98P88ioIE3LUCy4be) | [ALMEA](https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW) | [Somnade på bussen](https://open.spotify.com/album/17sdZSqXkeNgWITyoVHdr6) | 2:48 |
-| 63 | [Blåst](https://open.spotify.com/track/2ksBJHh9HnM0GQG7VnBvRp) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [Blåst](https://open.spotify.com/album/2Mecg4Dj6oPx3id1bIA5RH) | 3:26 |
+| 63 | [Blåst \- Från "Älskar inte vi dig då \- Hommage till Olle Adolphson"](https://open.spotify.com/track/2ksBJHh9HnM0GQG7VnBvRp) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [Blåst \(Från "Älskar inte vi dig då \- Hommage till Olle Adolphson"\)](https://open.spotify.com/album/2Mecg4Dj6oPx3id1bIA5RH) | 3:26 |
 | 64 | [Rockbotten](https://open.spotify.com/track/1R5NW7I0rXunnCyJZguixB) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Rockbotten](https://open.spotify.com/album/79Ezd1t5311MggrOglc3Hj) | 4:35 |
 | 65 | [JEEP](https://open.spotify.com/track/2gUGnkgQaNTpfo2d5hZNPT) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [JEEP](https://open.spotify.com/album/0bKFhX2Ybcf4PMtArNZa5c) | 2:11 |
 | 66 | [Late Nights](https://open.spotify.com/track/6dhvkxlef1tdtFCksgq9kw) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [Late Nights](https://open.spotify.com/album/5VAUKjs691na9pODVWk6tc) | 2:43 |

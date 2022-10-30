@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Tunacola
 
-277 songs - 16 hr 53 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
+279 songs - 16 hr 59 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [entre las sombras,](https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [entre las sombras,](https://open.spotify.com/album/2JwsMCwIT8sIXw1kAVY99p) | 4:30 | 2022-07-29 |  |
 | [Es Suficiente](https://open.spotify.com/track/2PToyUgUHW6iCPUKCvIhzw) | [Vero Soffia](https://open.spotify.com/artist/3CYRq2jA4EHkNmPssIpUPx) | [Es Suficiente](https://open.spotify.com/album/4h6A3AMTn8FC0Li0D6dkk6) | 3:40 | 2022-04-15 | 2022-07-29 |
 | [Esperancita](https://open.spotify.com/track/0hCsSxKmlBFfcoiAEGta0H) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Esperancita](https://open.spotify.com/album/5uEnrbRANWypwVyHXibnfV) | 3:53 | 2022-04-15 | 2022-07-20 |
+| [Esta vislumbra](https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 3:21 | 2022-10-28 |  |
 | [Estado Vegetal](https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Estado Vegetal](https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n) | 3:16 | 2022-04-15 |  |
 | [Estalló la Revuelta](https://open.spotify.com/track/17xn80al7euSF9rqRhrvTn) | [La Lira Libertaria](https://open.spotify.com/artist/61Ewa0d7We1xxubqaqKBUW) | [Estalló la Revuelta](https://open.spotify.com/album/3xKbStQSnYjsnkcYA6jNHl) | 3:35 | 2022-04-15 | 2022-07-28 |
 | [Este Debe Ser el Lugar](https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Este Debe Ser el Lugar](https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws) | 2:46 | 2022-04-15 |  |
@@ -106,6 +107,7 @@
 | [Fargo](https://open.spotify.com/track/7m2q127NIf7fIsBo6UyYjF) | [Frucola Frappé](https://open.spotify.com/artist/4ZLUNtFI5oNh5xiEew8X2v) | [Fargo](https://open.spotify.com/album/3YunrwATPNb4lg5pXA8tPF) | 2:56 | 2022-04-15 | 2022-07-29 |
 | [Fauna](https://open.spotify.com/track/5psoojvi7byUFe64ualJqY) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Fauna](https://open.spotify.com/album/55jrTHJvi8JRdVUZlInVIq) | 3:55 | 2022-04-15 | 2022-07-27 |
 | [Florecer](https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ) | [Florecer](https://open.spotify.com/album/1qs77TorQo8steHqvrmvKK) | 3:00 | 2022-07-08 | 2022-08-19 |
+| [formas de volver a casa](https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [formas de volver a casa](https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo) | 2:33 | 2022-10-28 |  |
 | [Frenesí \(Te Perdí\)](https://open.spotify.com/track/4J0ToGvK1ft0siVhKl8PPN) | [Colayuta](https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt) | [Frenesí \(Te Perdí\)](https://open.spotify.com/album/0l6tqre46Ufm049zR5vQUC) | 4:05 | 2022-06-10 |  |
 | [Fricativa Velar Sorda](https://open.spotify.com/track/1zH7ZCIvAbjp8wj0Ftj83h) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Fricativa Velar Sorda](https://open.spotify.com/album/1cZZy68qh5SJKjeC6uHLka) | 2:17 | 2022-04-15 |  |
 | [Frontera](https://open.spotify.com/track/6PegnsNXWaVzIsMY6kKKgm) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [El Poder del Mar](https://open.spotify.com/album/1ruz4l7Q6kJu92ezyaMYYL) | 4:36 | 2022-04-15 | 2022-08-06 |
@@ -278,12 +280,12 @@
 | [Vuela](https://open.spotify.com/track/1mFrvSk4fWW2MxzhScZIYt) | [laia](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5) | [Vuela](https://open.spotify.com/album/1en2Y56k1SDvNu6zASHwPB) | 4:16 | 2022-04-15 | 2022-07-26 |
 | [Vuela Lejos](https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Vuela Lejos](https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO) | 5:07 | 2022-04-15 |  |
 | [Vía Contemplativa](https://open.spotify.com/track/2EdsfzRhbmOZVN9g8WY09R) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 3:56 | 2022-10-14 |  |
-| [XAT \(Juanita La O Remix\)](https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Refresco](https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b) | 3:17 | 2022-04-15 |  |
+| [XAT \(Juanita La O Remix\)](https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Refresco](https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b) | 3:17 | 2022-04-15 | 2022-10-30 |
 | [Y Vuelve a Pensar en Ti](https://open.spotify.com/track/1l8LkNw2Mh0eLLlaab7Xij) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g) | [Y Vuelve a Pensar en Ti](https://open.spotify.com/album/0DJWl4maPeqSR4QmiDCeWW) | 4:40 | 2022-04-15 | 2022-07-20 |
 | [Ya Hablamos de Esto](https://open.spotify.com/track/7E7GOlNAywQK65Wg4EQf1e) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ), [Amelia](https://open.spotify.com/artist/5ww5jJ8UVQ7jxFQBfN7VoQ) | [Ya Hablamos de Esto](https://open.spotify.com/album/1sCAPYU44MdvDr6YSj9J6f) | 3:22 | 2022-04-15 | 2022-07-29 |
 | [yacaré](https://open.spotify.com/track/1wkZWufiSU6fzf1FJslCVg) | [Mondomamba](https://open.spotify.com/artist/3X3Wz70qevXveyieDAl6T0), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [yacaré](https://open.spotify.com/album/01p29H8LIv6DlF6BbEi7QH) | 4:03 | 2022-04-15 | 2022-07-28 |
 | [Yo creí que eras mi amiga](https://open.spotify.com/track/5mnoWxEzuW4b4gr9D4GRGq) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [Yo creí que eras mi amiga](https://open.spotify.com/album/2dL6rtGKwUC4dy7iKFNzng) | 3:30 | 2022-04-15 | 2022-07-28 |
 | [Yoga](https://open.spotify.com/track/4kb6So7DrduOe9CDGL8bBn) | [Lomberr](https://open.spotify.com/artist/0Tfp8FQQcN3bRpFI5J70Rz) | [Yoga](https://open.spotify.com/album/4Uu7NdF0t7f2hnMDMNYpN5) | 7:23 | 2022-06-10 | 2022-07-29 |
-| [✧Sofía✧](https://open.spotify.com/track/5oHan4IDjcbSrA9TzHXB5I) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [✧Sofía✧](https://open.spotify.com/album/0EGaQ4l4pwvyjvwtmtM3so) | 4:25 | 2022-09-23 |  |
+| [✧Sofía✧](https://open.spotify.com/track/5oHan4IDjcbSrA9TzHXB5I) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [✧Sofía✧](https://open.spotify.com/album/0EGaQ4l4pwvyjvwtmtM3so) | 4:25 | 2022-09-23 | 2022-10-30 |
 
 \*This playlist was first scraped on 2022-04-16. Prior content cannot be recovered.

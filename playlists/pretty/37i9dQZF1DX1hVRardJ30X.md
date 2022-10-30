@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Anitta, El Alfa & Black Eyed Peas
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,772 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,951 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 65 | [que rica](https://open.spotify.com/track/1KoqJSArMWy9VOBdDY0u1L) | [Laya Kalima](https://open.spotify.com/artist/486wYu7oGhLQ5LjKPBcCMM) | [que rica](https://open.spotify.com/album/77INBx21P4JP4eVhKPKvM5) | 2:24 |
 | 66 | [Y Se Va Se Va](https://open.spotify.com/track/41REIlLGInOYQpwcv9AH6x) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Y Se Va Se Va](https://open.spotify.com/album/31dwAkGkz6VQGfe7KXlMr6) | 3:34 |
 | 67 | [Diosa](https://open.spotify.com/track/5WBLjdaWZjvCGu8KKByxMm) | [Elyfer Torres](https://open.spotify.com/artist/6v4FYm6JuGr0v5F2BVMJGe) | [Diosa](https://open.spotify.com/album/73DZk9XutCRIbqIePKrcLF) | 2:40 |
-| 68 | [MÍNIMO](https://open.spotify.com/track/0Dfzwt3rqrsDiWZr3zyq02) | [Rey Chango](https://open.spotify.com/artist/0u5bPsSeDIbLpTKr9hJCqc), [Lyon808](https://open.spotify.com/artist/7jxdjiv8o1P0WSsqZkGbmT) | [MÍNIMO](https://open.spotify.com/album/5GIvKNN1Nq2lSBeNdijiUQ) | 3:27 |
+| 68 | [MÍNIMO](https://open.spotify.com/track/0Dfzwt3rqrsDiWZr3zyq02) | [Rey Chango](https://open.spotify.com/artist/0u5bPsSeDIbLpTKr9hJCqc), [Lyon808](https://open.spotify.com/artist/4HVhyLcMfhyOoJqfCpiEJc) | [MÍNIMO](https://open.spotify.com/album/5GIvKNN1Nq2lSBeNdijiUQ) | 3:27 |
 | 69 | [Q RICO UN TBT](https://open.spotify.com/track/1wzqoIqMIncxr30NYjOaEO) | [El Gafo](https://open.spotify.com/artist/7gODKkOEfq309FsU53s7zK) | [Q RICO UN TBT](https://open.spotify.com/album/0ij3qyjD16l3XSOtsF7u4y) | 2:44 |
 | 70 | [La Hija Del Rap](https://open.spotify.com/track/49s0NDmqPrGUvC4gYtGk6F) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Mi Barrio](https://open.spotify.com/album/7Hg9q6P8388DvmZ646nRU1) | 3:04 |
 

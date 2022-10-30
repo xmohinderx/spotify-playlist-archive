@@ -4,7 +4,7 @@
 
 > Perfect sunshiney indie tracks for summer.
 
-226 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
+227 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/47xZ4FtZZwbvh9aVuwnzRv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Pay No Mind \(feat\. Passion Pit\)](https://open.spotify.com/track/1XT95SWe6U0nZmchAfZh2T) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Pay No Mind \(feat\. Passion Pit\)](https://open.spotify.com/album/2NkUuUsTmsrQd1IjkaLByE) | 4:09 | 2020-01-31 | 2022-06-12 |
 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 | 2022-06-10 |  |
 | [Perfume](https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:27 | 2022-06-10 | 2022-08-10 |
+| [Perfume](https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j) | 3:27 | 2022-09-02 |  |
 | [Perfume](https://open.spotify.com/track/4OJC6NJCMyvjX0pENJhSrL) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo) | 3:27 | 2022-08-23 | 2022-10-13 |
 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 | 2022-06-10 |  |
 | [Plus](https://open.spotify.com/track/36ynI67Vq1Bz52vEIQMWyy) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Plus](https://open.spotify.com/album/0aflX0vk26M494NVMtaPyj) | 4:32 | 2020-01-31 | 2022-06-11 |
@@ -150,7 +151,7 @@
 | [push pull](https://open.spotify.com/track/6pTfJ82DLrBoTTaKJrFr7R) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/4ymjpcGruNuUUUZOeGawLe) | 3:27 | 2020-01-31 | 2022-06-11 |
 | [Put a Light On](https://open.spotify.com/track/4ZFHITy0bAeZ3oFfvR0HaI) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Heza](https://open.spotify.com/album/34oLvXQWydwd1KOqgL8UiE) | 3:46 | 2020-01-31 | 2022-07-12 |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2022-06-10 |  |
-| [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 | 2020-01-31 |  |
+| [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 | 2020-01-31 | 2022-10-30 |
 | [Recover](https://open.spotify.com/track/4QQg6DXsx6G3lv3W4A15CZ) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe \(Special Edition\)](https://open.spotify.com/album/54IMJ8S0redmP6krSlKZLD) | 3:44 | 2020-01-31 | 2022-06-11 |
 | [Redwoods](https://open.spotify.com/track/14FWm9OKkbfQbnlOVmX4sJ) | [Veni Sun](https://open.spotify.com/artist/2FLqR4YXPurY27vtZEIwqB) | [Artifacts of Summer](https://open.spotify.com/album/5Hr9XshNla8vcCNtvEQYsN) | 3:32 | 2022-06-10 | 2022-07-25 |
 | [Regrets](https://open.spotify.com/track/6nQSwXVn3DAa2vNl57rbFD) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Regrets](https://open.spotify.com/album/0pN6aORNF276Hkwh2RlNBw) | 2:34 | 2022-06-10 | 2022-07-14 |

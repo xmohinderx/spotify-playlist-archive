@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Oscar Jerome
 
-330 songs - 1 day 0 hr 21 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
+331 songs - 1 day 0 hr 25 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Early Hours](https://open.spotify.com/track/0t7NNWc2iaPJInAaKYCx4K) | [Ugolino](https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7) | [Early Hours](https://open.spotify.com/album/25o3AA79SplKRugLXGA7ja) | 4:02 | 2021-12-17 |  |
 | [Ego Killah](https://open.spotify.com/track/5MDRYiFfcyCa2AcLbSoGmR) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ego Killah](https://open.spotify.com/album/4ifCrD5s7VxNd4SlSeOdfa) | 5:55 | 2022-09-23 |  |
 | [Empower](https://open.spotify.com/track/3j2HYjcIlxVhUT5Ioi1owY) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ), [TINYMAN](https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9), [Ahnansé](https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl) | [Empower](https://open.spotify.com/album/4gwsVmaHqOVMm2VDIuzQb8) | 4:45 | 2022-03-24 | 2022-04-20 |
-| [Epistrophy](https://open.spotify.com/track/3W5Wg12biSkttF8NTUzlET) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Epistrophy](https://open.spotify.com/album/6lbV35NbNjbEF2SFTHIpJL) | 3:31 | 2022-07-28 |  |
+| [Epistrophy](https://open.spotify.com/track/3W5Wg12biSkttF8NTUzlET) | [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56) | [Epistrophy](https://open.spotify.com/album/6lbV35NbNjbEF2SFTHIpJL) | 3:31 | 2022-07-28 | 2022-10-30 |
 | [Escape from the Echo Chamber](https://open.spotify.com/track/3WKNl81llkdldlad5XuhtI) | [Emily Francis Trio](https://open.spotify.com/artist/2XwZvU8ctmY4NTqcbBO8iU) | [Escape from the Echo Chamber](https://open.spotify.com/album/3udVHWVpCcKtgc339BkYxk) | 4:08 | 2022-03-24 | 2022-06-30 |
 | [Everything Is Connected](https://open.spotify.com/track/3W1SdaiXVs8fHebevrni8p) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Songs of an Unknown Tongue](https://open.spotify.com/album/2wHOGta1uVvaNYwMyoPKrY) | 3:39 | 2022-03-08 | 2022-03-09 |
 | [Everything Is Connected](https://open.spotify.com/track/4DoPUruUNmcg5RudmAhMWq) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Everything Is Connected](https://open.spotify.com/album/5j4lfSYgEI3EYYMejJNhec) | 3:39 | 2022-01-07 | 2022-06-28 |
@@ -244,6 +244,7 @@
 | [senzu bean](https://open.spotify.com/track/38LWEwtb13IoWz9y6PjA1s) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F), [apltn](https://open.spotify.com/artist/1E2aNJTN7iOuPRJJIoOwbr), [Makzo](https://open.spotify.com/artist/6EUNKAlDJLSmGZ1aQxnj96) | [senzu bean](https://open.spotify.com/album/6rl7d5hw2SGHbixnlEYdlF) | 3:31 | 2022-07-28 | 2022-08-06 |
 | [Shades of You](https://open.spotify.com/track/2OtnmFipsJgxUPkwnMP11I) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Shades of You](https://open.spotify.com/album/7jLNLqOG6x7G8lyAEgtOFC) | 4:20 | 2021-12-17 | 2022-02-15 |
 | [Show Your Face](https://open.spotify.com/track/40lXitSla8hy5FCOECyCdD) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7), [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Show Your Face](https://open.spotify.com/album/5IXmgg1etXuezkK3NaH1F9) | 4:09 | 2021-12-17 | 2022-03-12 |
+| [Sicily' Box](https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv), [Rocco Palladino](https://open.spotify.com/artist/1FrPD7V10rJh8TAluBjsoE) | [Sicily' Box](https://open.spotify.com/album/2uuyNTiLLeSomuFh1agl6v) | 4:05 | 2022-10-28 |  |
 | [So Cold](https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb) | 4:12 | 2022-07-21 |  |
 | [So Cool](https://open.spotify.com/track/25xfVwwykey7PVnsNRutbq) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [So Cool](https://open.spotify.com/album/4IbciRuHRVvhJRXqxhzZiX) | 2:10 | 2021-12-17 | 2022-07-08 |
 | [Something I Said](https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2) | 3:16 | 2022-07-28 | 2022-10-02 |

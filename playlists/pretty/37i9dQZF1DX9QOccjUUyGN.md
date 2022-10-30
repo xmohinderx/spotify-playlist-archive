@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Thiago Kelbert
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,204 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,208 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 11 | [Tóxica só que Vicia](https://open.spotify.com/track/5J1K7WN1Pwyca8zzKYKIhJ) | [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [Tóxica só que vicia](https://open.spotify.com/album/2dR580uxbMlZOAoAj3Uf2b) | 3:09 |
 | 12 | [Frio & Calculista](https://open.spotify.com/track/4J1c6maTGuWirmGCOgrfsK) | [Iasmin Turbininha](https://open.spotify.com/artist/0HeSaJ2OiMF7ZpdKTkTZF1), [Caio Fred](https://open.spotify.com/artist/7y8GW7hTfyk4FYKJNRJ709), [CereBeats](https://open.spotify.com/artist/4USYf94aCsO66aJqulSV2D) | [Frio & Calculista](https://open.spotify.com/album/3uAl8UgCy8Qgzff4RKl0rP) | 3:04 |
 | 13 | [Me Passa Esse Copo](https://open.spotify.com/track/6353VJ9hZ7ggkUC1IptSvo) | [Nauta](https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Me Passa Esse Copo](https://open.spotify.com/album/0a82dtHllqFYvIRe0tWMby) | 3:01 |
-| 14 | [Não Testa a Minha Fé](https://open.spotify.com/track/68cBnxhajAqoGgndypIYGh) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Não Testa a Minha Fé](https://open.spotify.com/album/3hxmEtAlta8QF2peQz76CS) | 2:38 |
+| 14 | [Não Testa a Minha Fé](https://open.spotify.com/track/68cBnxhajAqoGgndypIYGh) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo), [Trapdaddy](https://open.spotify.com/artist/3eZcHx9IfsPwdcB7wuqXJO), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Não Testa a Minha Fé](https://open.spotify.com/album/3hxmEtAlta8QF2peQz76CS) | 2:38 |
 | 15 | [Eu Falo Não](https://open.spotify.com/track/3z19LCfZ3LlasNpqjDWx3P) | [Gabriel Henriques](https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Eu Falo Não](https://open.spotify.com/album/4WBSeIGjIE7lJ5aFywpCwj) | 2:26 |
 | 16 | [Outro Nível](https://open.spotify.com/track/2wJtkcZcYq5Axv7dWFT9Lv) | [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8) | [Outro Nível](https://open.spotify.com/album/0aBVgFfCQU38XKeJZhoDhh) | 2:17 |
 | 17 | [Mina do Tiktok](https://open.spotify.com/track/6mYSeZSDGxyeaTKLzUqE2B) | [DJ Caetano](https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ), [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8), [Os Hawaianos](https://open.spotify.com/artist/6f6ccYxDNgsPCMemKceSY4), [Stefan Baby](https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3) | [Mina do Tiktok](https://open.spotify.com/album/17IASDGrfwOvZdV1nYMDSx) | 3:09 |

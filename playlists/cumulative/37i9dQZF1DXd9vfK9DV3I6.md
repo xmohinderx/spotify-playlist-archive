@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-215 songs - 15 hr 55 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
+216 songs - 16 hr 0 min - [published](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Escuro](https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv) | [Cut Off](https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1) | [Escuro](https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx) | 4:45 | 2022-01-31 |  |
 | [Eternal Roots](https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:05 | 2022-08-04 |  |
 | [Euphrates](https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Amare](https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K) | 6:50 | 2020-10-18\* |  |
-| [Fade Away \(feat\. Rhi'N'B\)](https://open.spotify.com/track/4aZ9uL2VqIyRHansZ87JaZ) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [Rhi'N'B](https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn) | [Fade Away \(feat\. Rhi'N'B\)](https://open.spotify.com/album/7zxTlymJ9by0TvT4adXHrT) | 2:38 | 2021-07-10 |  |
+| [Fade Away \(feat\. Rhi'N'B\)](https://open.spotify.com/track/4aZ9uL2VqIyRHansZ87JaZ) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [Rhi'N'B](https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn) | [Fade Away \(feat\. Rhi'N'B\)](https://open.spotify.com/album/7zxTlymJ9by0TvT4adXHrT) | 2:38 | 2021-07-10 | 2022-10-30 |
 | [Feel](https://open.spotify.com/track/0UOwe8OQDJBcqUbHidE2ds) | [Beren Gündüz](https://open.spotify.com/artist/3wyIpwnIc75AkQ9o3bcRnH) | [Feel](https://open.spotify.com/album/7Kzeu2VdfDLVHK8X53oxYc) | 4:17 | 2021-01-01 | 2021-01-08 |
 | [Fi Alfarah](https://open.spotify.com/track/1YMkH90H0Z6XIkSgHshO3r) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Turkish Coffee](https://open.spotify.com/artist/5mN52Pk8WNPxRbd7V5h64a) | [Futureland](https://open.spotify.com/album/1NN2I8IUqoQQGlQvgckBYX) | 6:21 | 2022-05-04 |  |
 | [Fiddle](https://open.spotify.com/track/3mBFt5hZcG1nQrf5zuuwpB) | [Enes Yaman](https://open.spotify.com/artist/14ztES2AtAE1TlnPhBXtB2), [Berkay Cavus](https://open.spotify.com/artist/3YP66RAgFxRT9cE5MbBZBz) | [Fiddle](https://open.spotify.com/album/14DBwliJswNdRZvNfJBcUg) | 3:44 | 2021-04-13 |  |
@@ -215,6 +215,7 @@
 | [Ya Ghayeb](https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt) | [DJ Maximus](https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE), [Bob Zoabi](https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW) | [Ya Ghayeb](https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F) | 3:37 | 2020-10-18\* |  |
 | [Yaman \- Radio Edit](https://open.spotify.com/track/1JomuRkday0y29kjtxJQ0q) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [Dj Nil](https://open.spotify.com/artist/6qD8aNIxyqa7SXCJNLDi47), [Zara](https://open.spotify.com/artist/4wMiYZnNDSQGBGLlBT4cAb) | [Yaman](https://open.spotify.com/album/5xWy7VAU1D1e6RJandRATO) | 4:53 | 2020-10-18\* |  |
 | [Yasameen](https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP), [Douae El Rhiouane](https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki) | [Yasameen](https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h) | 5:44 | 2020-10-18\* |  |
+| [Yorgunum Kaptan](https://open.spotify.com/track/4jSLy6yaQLomhIpcpxCryu) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4), [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI) | [Yorgunum Kaptan](https://open.spotify.com/album/0orjdc2Bx5usV46bsmD3ut) | 4:28 | 2022-10-27 |  |
 | [You Know](https://open.spotify.com/track/0zsXASMXwtoioPle5zqVom) | [Onuray Bal](https://open.spotify.com/artist/0dJUQORvGmT346KQhlmCBa), [Kartal Ufuk Olkan](https://open.spotify.com/artist/0O0Ov3wcy4X9v5nr0qxmAi) | [You Know](https://open.spotify.com/album/0gISNnmjRhkH4lZPa4poUY) | 3:08 | 2021-08-06 | 2022-09-13 |
 | [Youm Wara Youm \(Remix\)](https://open.spotify.com/track/0Nwjfrhdu6s4fG20fzNs7V) | [Hijazi](https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL) | [Youm Wara Youm \(Remix\)](https://open.spotify.com/album/5ymwbdQyEx0e5ZPxa4ogWF) | 2:51 | 2022-01-27 | 2022-06-09 |
 | [Your Love \- Anthony Keyrouz Remix](https://open.spotify.com/track/1mAUF7W9YkFUZec9cMJG5Z) | [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4), [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Your Love \(Anthony Keyrouz Remix\)](https://open.spotify.com/album/3riktT549Qi3VPtvd7fsdo) | 3:16 | 2020-10-18\* |  |

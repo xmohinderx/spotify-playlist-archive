@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > Are you a day 1 fan of your favourite rapper? Prove it!\. Rap UK Day 1 Club has just launched\. <a href='https://day1club\-uk.byspotify.com/'>Check it out.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,070 likes - 57 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,388 likes - 57 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 20 | [LA Leakers Freestyle](https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LA Leakers Freestyle](https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH) | 2:58 |
 | 21 | [4 The Win](https://open.spotify.com/track/78UihSJn90VSGBBES12kFL) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:27 |
 | 22 | [What's Good](https://open.spotify.com/track/1MN3iFMSQ8dfqNAZMyUp5h) | [SR](https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h), [Poundz](https://open.spotify.com/artist/2jItxZsB8PA3vday7b0RLT) | [What's Good](https://open.spotify.com/album/0wL43OLCtMsaFW7yzuc4DL) | 2:57 |
-| 23 | [Mob Ties](https://open.spotify.com/track/5U5isNSylokILAW2uvHNKV) | [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE), [Flights](https://open.spotify.com/artist/6PwC700VMuCnWok9xHSM6y) | [Mob Ties](https://open.spotify.com/album/6ZB0YUbV1yhGuhAWdIv77s) | 2:56 |
+| 23 | [Mob Ties](https://open.spotify.com/track/5U5isNSylokILAW2uvHNKV) | [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE), [Flights](https://open.spotify.com/artist/7a0XICIJSvpVWQW6I7T2mv) | [Mob Ties](https://open.spotify.com/album/6ZB0YUbV1yhGuhAWdIv77s) | 2:56 |
 | 24 | [ABC](https://open.spotify.com/track/0CrxeIxaG1YeUXSh9HRds2) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [ABC](https://open.spotify.com/album/73ckXQB3MX3943IOdQUIhc) | 1:53 |
-| 25 | [Role Model \(feat\. B\_Real.11\)](https://open.spotify.com/track/5E5c7lw1DkWASkLyiVURWA) | [Aystar](https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy), [B\_Real.11](https://open.spotify.com/artist/33QZ6Il1sZaqmZk96PCDdx) | [Role Model \(feat\. B\_real.11\)](https://open.spotify.com/album/4jog0yDlI2wxGzkahw60tG) | 2:30 |
+| 25 | [Role Model \(feat\. B\_Real.11\)](https://open.spotify.com/track/5E5c7lw1DkWASkLyiVURWA) | [Aystar](https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy), [B\_real.11](https://open.spotify.com/artist/6LbjJrL6YC2Fago2NpJVjI) | [Role Model \(feat\. B\_real.11\)](https://open.spotify.com/album/4jog0yDlI2wxGzkahw60tG) | 2:30 |
 | 26 | [Seoul](https://open.spotify.com/track/1Q8L5GiqKchiwSkdMDXyP6) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Seoul](https://open.spotify.com/album/6fV7M6efvo4Qw9T2jatNbv) | 2:51 |
 | 27 | [9 Ways](https://open.spotify.com/track/1EValAfV6r4yzQHsAcUSES) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [Risk It All](https://open.spotify.com/album/7gibSSIiQtHeqSW8hbaBKx) | 3:38 |
 | 28 | [Extra Sleeve](https://open.spotify.com/track/4m9JJpWpijDvgVWcRrkgSB) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [The Last Whip II](https://open.spotify.com/album/4UpMoWftmk0UuuBeQhNxfQ) | 3:35 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 52 | [Da Maximum](https://open.spotify.com/track/0aPp6AoN4sZg4a9tXmowKd) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Da Maximum](https://open.spotify.com/album/3WnIb2NtzmtNUs12uS7azx) | 2:47 |
 | 53 | [Lingo](https://open.spotify.com/track/34WHnbqTk3v4BMVc1hfoxJ) | [Dappy](https://open.spotify.com/artist/4q6hTJmeYXCwp0ivdtoSWA) | [Lingo](https://open.spotify.com/album/7phfiGXMdU734rL8SOP6bh) | 2:53 |
 | 54 | [Busy](https://open.spotify.com/track/1uX8TkVO7QxSoleWuAV8qg) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Busy](https://open.spotify.com/album/493CafGxRu4siJcEN04Yg2) | 2:26 |
-| 55 | [Sade](https://open.spotify.com/track/611Rq9CpEz7eB06CxPmCfq) | [Sainte](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Sade](https://open.spotify.com/album/2oAmZjh4LQwtbCVOrimmVt) | 2:13 |
+| 55 | [Sade](https://open.spotify.com/track/611Rq9CpEz7eB06CxPmCfq) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Sade](https://open.spotify.com/album/2oAmZjh4LQwtbCVOrimmVt) | 2:13 |
 | 56 | [FRONTLINE](https://open.spotify.com/track/7FcmDFLl13OqyhF6fNM3Op) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Dezzie](https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q), [Akz](https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm), [Kush](https://open.spotify.com/artist/0P1CKlruhcbhbq7yA5oh83), [Blitty](https://open.spotify.com/artist/4ufdIafKHwh8RZjR60Vctx), [Kash One7](https://open.spotify.com/artist/3dHuYvlVZ1Ew0Q2h1IpCjq) | [FRONTLINE](https://open.spotify.com/album/2zPaGmf7ZCGiBfH2NSstXG) | 4:17 |
 | 57 | [DNA](https://open.spotify.com/track/2zdVZ86G9Hvo3fFl463zj9) | [Mowgs](https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9) | [DNA](https://open.spotify.com/album/0fsaZ5T5jNK9Px0Q8skWJI) | 2:59 |
 

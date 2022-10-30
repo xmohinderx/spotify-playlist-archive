@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-492 songs - 1 day 11 hr 58 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
+493 songs - 1 day 12 hr 3 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,8 @@
 | [The Girl On Angel Pavement \- Arranged Band Version](https://open.spotify.com/track/7jNvHnbMM6OfLXjHcDa9wp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:26 | 2022-09-08 |  |
 | [The Greatest Discovery](https://open.spotify.com/track/2hkF5QeuvjvfUWbFO16cm6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:10 | 2022-09-08 |  |
 | [The Heart Of Every Girl](https://open.spotify.com/track/3GGiAnxb53Z4LF90CaUOiS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Music from the Motion Picture Mona Lisa Smile](https://open.spotify.com/album/77suLYEns1w0HliIh0z5r9) | 3:38 | 2022-09-08 |  |
-| [The King Must Die](https://open.spotify.com/track/3pzp6ZstveJtYEwHhcZHjt) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 5:21 | 2022-09-08 |  |
+| [The King Must Die](https://open.spotify.com/track/5aZWzadLEprtlv0ylYyruD) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 5:07 | 2022-10-29 |  |
+| [The King Must Die](https://open.spotify.com/track/3pzp6ZstveJtYEwHhcZHjt) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 5:21 | 2022-09-08 | 2022-10-30 |
 | [The Last Song](https://open.spotify.com/track/0pNXDQo75eOukoK8PejiRE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 3:33 | 2022-09-08 |  |
 | [The Letter](https://open.spotify.com/track/35Hw3YY1l6NuAPwbN998P5) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 3:47 | 2022-09-08 |  |
 | [The Man](https://open.spotify.com/track/4e6ZN0EcEqYx74BTC5xQzy) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF) | 4:15 | 2022-09-08 |  |

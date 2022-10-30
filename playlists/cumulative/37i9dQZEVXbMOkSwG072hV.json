@@ -2171,7 +2171,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 290584,
       "name": "Body Paint",
       "url": "https://open.spotify.com/track/42GuKw49pPxNAkIhWGwgFs"
@@ -2639,7 +2639,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -3171,7 +3171,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 209032,
       "name": "Contagem",
       "url": "https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH"
@@ -3565,7 +3565,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-30",
       "duration_ms": 136500,
       "name": "Dengo (Lo-Fi Remix)",
       "url": "https://open.spotify.com/track/4IhbAaOLugP1ojXT7BaB3v"
@@ -7004,6 +7004,24 @@
     },
     {
       "album": {
+        "name": "Lambad\u00e3o do 13",
+        "url": "https://open.spotify.com/album/00DHxyPPWHGFVfPzQ6SX3w"
+      },
+      "artists": [
+        {
+          "name": "Juliano Maderada",
+          "url": "https://open.spotify.com/artist/72DK3UxDm7IOR9jCwnZKEz"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271125,
+      "name": "Lambad\u00e3o do 13",
+      "url": "https://open.spotify.com/track/2flbxR9KLk6285IAHouEh9"
+    },
+    {
+      "album": {
         "name": "Lance Livre (Ao vivo)",
         "url": "https://open.spotify.com/album/7FjV1sLTJdce3eUoNoIRsV"
       },
@@ -7307,7 +7325,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 110137,
       "name": "Lula L\u00e1 2022",
       "url": "https://open.spotify.com/track/7b1P6Ut5ehjeXhJ6SiPTrf"
@@ -12354,6 +12372,24 @@
     },
     {
       "album": {
+        "name": "Sem Medo de Ser Feliz",
+        "url": "https://open.spotify.com/album/5cSuHiOiiOskvpSz0oV0GG"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00e9rio Carvalho",
+          "url": "https://open.spotify.com/artist/5HqZFPdtGjIescyJkhruFh"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123242,
+      "name": "Sem Medo de Ser Feliz",
+      "url": "https://open.spotify.com/track/44ZhAfd7cBfGiDZ9viaAJg"
+    },
+    {
+      "album": {
         "name": "Sem Putaria",
         "url": "https://open.spotify.com/album/4KwV5zhy9nnauFg3RLQ0Zb"
       },
@@ -14108,6 +14144,24 @@
     },
     {
       "album": {
+        "name": "Nightmare Before Christmas",
+        "url": "https://open.spotify.com/album/2qmppQg4IgJRMFbWuwQLw7"
+      },
+      "artists": [
+        {
+          "name": "Disney Characters",
+          "url": "https://open.spotify.com/artist/6utdPEv71mR0DnGp74cJIz"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/4a9RlnJ0v1T7HgLtps1HvI"
+    },
+    {
+      "album": {
         "name": "Those Eyes",
         "url": "https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg"
       },
@@ -14521,6 +14575,10 @@
         {
           "name": "Tchakabum",
           "url": "https://open.spotify.com/artist/7iJl63aJyNd8C6NZlMv6kp"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
           "name": "mc jhenny",

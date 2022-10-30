@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Álex Eugenio.
 
-306 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
+307 songs - 18 hr 54 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Marchita](https://open.spotify.com/track/1aoO2IBaWNECVI5jSZVYg8) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:46 | 2022-07-22 | 2022-09-15 |
 | [Mareas](https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Mareas](https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj) | 3:49 | 2021-12-24 | 2022-07-29 |
 | [Matria](https://open.spotify.com/track/0C9erXRAs9mM0ogb5NpAkm) | [Sol Escobar](https://open.spotify.com/artist/7CEXwaARhPygIleaUOC9mJ) | [Matria](https://open.spotify.com/album/4lBEofXRtJjkCIXWl9O3Mt) | 3:59 | 2022-05-13 | 2022-05-24 |
+| [Me Quedo Aquí \- Bonus Track](https://open.spotify.com/track/6cxVIwPmlGl6LSfo0iGSJv) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Me Quedo Aquí \(Bonus Track\)](https://open.spotify.com/album/491Dqm9bqKjGxkgvYNaXja) | 3:33 | 2022-10-28 |  |
 | [Me Voy a Valparaíso](https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Me Voy a Valparaíso](https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c) | 4:00 | 2021-12-24 |  |
 | [Mensajes en el Mar](https://open.spotify.com/track/4vgtji8ryyG6poEdMhSvE7) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/3uTW9z4Yhk9XnGwy6C7qiW) | 4:07 | 2021-12-24 |  |
 | [Mi Propio Lago](https://open.spotify.com/track/4Xktlj4EcbwmjdrTKmrlWu) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Mi Propio Lago](https://open.spotify.com/album/4asixMg1KsVDnmYPoDZ7MG) | 3:28 | 2022-05-27 |  |
@@ -298,7 +299,7 @@
 | [Vas a encontrarte \(feat\. Guitarricadelafuente\) \- Acústica](https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Vas a encontrarte \(feat\. Guitarricadelafuente\)](https://open.spotify.com/album/2tj9cT4X2ZZcOevz6limO7) | 3:31 | 2021-12-24 |  |
 | [Venecia](https://open.spotify.com/track/3zdzXLCUwHGHyDsoN6PGjK) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [Venecia](https://open.spotify.com/album/74sRb1G0vcGebMp5V2wYxb) | 4:24 | 2021-12-24 | 2022-01-12 |
 | [Ventanas Cerradas](https://open.spotify.com/track/1YCbnUYK7ItpTjINDbCPJC) | [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Ventanas Cerradas](https://open.spotify.com/album/0r9pQ92T0IOgYBNA7RSaqW) | 3:11 | 2022-01-27 | 2022-05-28 |
-| [Verde Nocturno](https://open.spotify.com/track/5H94pF1K97qxrx0h7EfPrY) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:14 | 2022-07-22 |  |
+| [Verde Nocturno](https://open.spotify.com/track/5H94pF1K97qxrx0h7EfPrY) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:14 | 2022-07-22 | 2022-10-30 |
 | [Verde Nocturno](https://open.spotify.com/track/5jf5mhtgQ3uaLE8wv3Xg0K) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Verde Nocturno](https://open.spotify.com/album/7zFM5PeNi4RbgiVcuDjxO0) | 3:14 | 2021-12-24 | 2022-07-29 |
 | [Vidrieritas](https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Vidrieritas](https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW) | 3:35 | 2021-12-24 | 2022-07-29 |
 | [Viento](https://open.spotify.com/track/7F5YuObBApawjkj91ltz9f) | [Natalia Vega](https://open.spotify.com/artist/5ksEvufQxwKs7S2DZb8mxK) | [Viento](https://open.spotify.com/album/6AaumDD4kbBMzZyO94VB9M) | 3:39 | 2021-12-24 | 2022-01-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 8325,
+  "num_followers": 8344,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2MTQ0NCwwMDAwMDAwMDc2MDMwMDk3NmYxNjc2NmY2YzNiNDI5YzM5ODBlN2E3",
+  "snapshot_id": "MTY2Njk2MTQ0NCwwMDAwMDAwMDQwYTRjNWRkNWU3NjBhMjk2NzhiZjdhNjU1YzU3MjU0",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 206775,
+      "name": "Snapchat",
+      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 174117,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 206775,
-      "name": "Snapchat",
-      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "Torn Tapestries",
-        "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
-      },
-      "artists": [
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Heartburn (Sooibrand)",
-      "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Your Body (feat. Buju)",
@@ -695,6 +679,22 @@
       "duration_ms": 130918,
       "name": "Your Body (feat. Buju)",
       "url": "https://open.spotify.com/track/1IqNlIUJivQXXSp6MgCwRl"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "Torn Tapestries",
+        "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Heartburn (Sooibrand)",
+      "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -837,38 +837,6 @@
       "url": "https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H"
     },
     {
-      "added_at": "2022-08-12 05:44:57",
-      "album": {
-        "name": "Crayons",
-        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
-      },
-      "artists": [
-        {
-          "name": "Prey\u00e9",
-          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
-        }
-      ],
-      "duration_ms": 143527,
-      "name": "Crayons",
-      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg"
-      },
-      "artists": [
-        {
-          "name": "Oladapo",
-          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn"
-    },
-    {
       "added_at": "2022-09-30 06:26:52",
       "album": {
         "name": "Fight For You",
@@ -887,6 +855,38 @@
       "duration_ms": 208896,
       "name": "Fight For You",
       "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg"
+      },
+      "artists": [
+        {
+          "name": "Oladapo",
+          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn"
+    },
+    {
+      "added_at": "2022-08-12 05:44:57",
+      "album": {
+        "name": "Crayons",
+        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
+      },
+      "artists": [
+        {
+          "name": "Prey\u00e9",
+          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
+        }
+      ],
+      "duration_ms": 143527,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX"
-      },
-      "artists": [
-        {
-          "name": "Praiz",
-          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
-        }
-      ],
-      "duration_ms": 176058,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "loving is harder",
         "url": "https://open.spotify.com/album/66bXOBWU3SD12I3Hiw6TD9"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 149311,
       "name": "loving is harder",
       "url": "https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX"
+      },
+      "artists": [
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        }
+      ],
+      "duration_ms": 176058,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC"
     },
     {
       "added_at": "2022-08-05 07:48:26",
@@ -1469,20 +1469,28 @@
       "url": "https://open.spotify.com/track/4RT366Y6r8XCbPUfAz0MpA"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Love You Better",
-        "url": "https://open.spotify.com/album/7e0FseqTvBVNXw8Dicc6Xr"
+        "name": "27 in Accra Town",
+        "url": "https://open.spotify.com/album/45b0DqkIiLicB6YcNHea52"
       },
       "artists": [
         {
-          "name": "Praiz",
-          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+          "name": "DJ Yamz",
+          "url": "https://open.spotify.com/artist/7r7jLkop1QhNvbiD9iWG5D"
+        },
+        {
+          "name": "Prince Hakeem Matthews",
+          "url": "https://open.spotify.com/artist/3VR8K8yMdHiA5lmKKMSCCt"
+        },
+        {
+          "name": "Rama Brew",
+          "url": "https://open.spotify.com/artist/21UP1AGVLvaDd2bNaHnpRf"
         }
       ],
-      "duration_ms": 152723,
-      "name": "Love You Better",
-      "url": "https://open.spotify.com/track/47Ktfsy8HVbU7bGZik0ASR"
+      "duration_ms": 284117,
+      "name": "Blue Film",
+      "url": "https://open.spotify.com/track/2hyzt7X3NUy8cEnIqJqA0C"
     }
   ],
   "unique_name": "Chill Bops",

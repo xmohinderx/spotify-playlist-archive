@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Romania.",
-  "num_followers": 27603,
+  "num_followers": 27614,
   "original_name": "Top 50 - Romania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIwMjc0MjQ3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIwMzYwMDUwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
+      "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/3gDSfdAoi1fun98LyIHapL"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
+    },
+    {
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/64YBjqNhYcJX2Ui4o1bEZz"
@@ -49,23 +65,7 @@
       "url": "https://open.spotify.com/track/1y2H991hMLiHtiPENF9sjO"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
-      "album": {
-        "name": "Havana",
-        "url": "https://open.spotify.com/album/3gDSfdAoi1fun98LyIHapL"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
-    },
-    {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "TRAUME & CO\u0218MARURI",
         "url": "https://open.spotify.com/album/4sCBowHBMloinktllMpNn2"
@@ -85,7 +85,23 @@
       "url": "https://open.spotify.com/track/4kQ4Sk47IeG6fAQkNCQVs6"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
+      "album": {
+        "name": "The Astronaut",
+        "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
+      },
+      "artists": [
+        {
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 282463,
+      "name": "The Astronaut",
+      "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+    },
+    {
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "Gestu",
         "url": "https://open.spotify.com/album/0mmWK0LujdU55qyyODPUDD"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/4JjurgsSCdNejiuOZ98PyQ"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "Test Drive",
         "url": "https://open.spotify.com/album/1LW6IajlZo7hz8gAveGJhx"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/1b8wUmTTj17WAEHlu9UFsl"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "Brasileira (From \u201cTEAMBUILDING\u201d The Movie)",
         "url": "https://open.spotify.com/album/5qKXyDVdH0WeXEfwAmoDVj"
@@ -153,39 +169,7 @@
       "url": "https://open.spotify.com/track/1oanM8lNb88L5ZuKkVp9va"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
-      "album": {
-        "name": "SL2 Intro",
-        "url": "https://open.spotify.com/album/2SPPH8W9CejSuCbQIOxEDc"
-      },
-      "artists": [
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        }
-      ],
-      "duration_ms": 245690,
-      "name": "SL2 Intro",
-      "url": "https://open.spotify.com/track/5gs52iMPraJEYz1hgBBlcC"
-    },
-    {
-      "added_at": "2022-10-28 12:10:47",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
-      },
-      "artists": [
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        }
-      ],
-      "duration_ms": 166788,
-      "name": "Lumea asta",
-      "url": "https://open.spotify.com/track/1YvYEbR7ITXJ0Msk4ORZxY"
-    },
-    {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
@@ -201,10 +185,10 @@
       "url": "https://open.spotify.com/track/5jjPoxrz3NRainOx1DtAPv"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
-        "name": "Slayer",
-        "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
       },
       "artists": [
         {
@@ -212,12 +196,12 @@
           "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
         }
       ],
-      "duration_ms": 76460,
-      "name": "Timeout",
-      "url": "https://open.spotify.com/track/09Ylu166NCvXW8ZY4lA39W"
+      "duration_ms": 166788,
+      "name": "Lumea asta",
+      "url": "https://open.spotify.com/track/1YvYEbR7ITXJ0Msk4ORZxY"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "Regina Nop\u021bii",
         "url": "https://open.spotify.com/album/0Hkq9ujPenVnFck8dFBgde"
@@ -233,23 +217,23 @@
       "url": "https://open.spotify.com/track/17AmTJ2vJJGi5cLU3TnccV"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "SL2 Intro",
+        "url": "https://open.spotify.com/album/2SPPH8W9CejSuCbQIOxEDc"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
         }
       ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+      "duration_ms": 245690,
+      "name": "SL2 Intro",
+      "url": "https://open.spotify.com/track/5gs52iMPraJEYz1hgBBlcC"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "\u00cenapoi La Via\u021b\u0103",
         "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
@@ -265,23 +249,7 @@
       "url": "https://open.spotify.com/track/47YtkJKWNuemFKKFT3QklE"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
-      "album": {
-        "name": "BULIBA$HA",
-        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 97391,
-      "name": "BULIBA$HA",
-      "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
-    },
-    {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "La san",
         "url": "https://open.spotify.com/album/1U4yGL8pUHvWbUdEjBuA1w"
@@ -297,7 +265,59 @@
       "url": "https://open.spotify.com/track/4XLLdFJdwmvdtkwQuXAFut"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
+      "album": {
+        "name": "BULIBA$HA",
+        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 97391,
+      "name": "BULIBA$HA",
+      "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
+    },
+    {
+      "added_at": "2022-10-29 12:00:50",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2022-10-29 12:00:50",
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        },
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "duration_ms": 139780,
+      "name": "Tarabanele",
+      "url": "https://open.spotify.com/track/6r2UqgPxaMxZEXwrOnZ7bm"
+    },
+    {
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "BULIBA$HA (Deluxe)",
         "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
@@ -317,23 +337,59 @@
       "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+        "name": "Slayer",
+        "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
         }
       ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+      "duration_ms": 76460,
+      "name": "Timeout",
+      "url": "https://open.spotify.com/track/09Ylu166NCvXW8ZY4lA39W"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2022-10-29 12:00:50",
+      "album": {
+        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
+        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 196519,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+    },
+    {
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "BULIBA$HA (Deluxe)",
         "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
@@ -357,43 +413,7 @@
       "url": "https://open.spotify.com/track/6VcmY5O2WE00BaF9fomffm"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
-      "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2022-10-28 12:10:47",
-      "album": {
-        "name": "CONTACT FATAL 2",
-        "url": "https://open.spotify.com/album/4xPeqymbeBMtRyYntgUQ8n"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "CONTACT FATAL 2",
-      "url": "https://open.spotify.com/track/5h1Zucrq9PfrPdMBryoTW5"
-    },
-    {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "Dac\u0103 n-ai bani",
         "url": "https://open.spotify.com/album/4yjhAtoHX508L5AU7ofXTU"
@@ -425,27 +445,39 @@
       "url": "https://open.spotify.com/track/1C0G4YZEz2eOQlL2HfbyFO"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
+        "name": "CONTACT FATAL 2",
+        "url": "https://open.spotify.com/album/4xPeqymbeBMtRyYntgUQ8n"
       },
       "artists": [
         {
-          "name": "YNY Sebi",
-          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
-        },
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         }
       ],
-      "duration_ms": 139780,
-      "name": "Tarabanele",
-      "url": "https://open.spotify.com/track/6r2UqgPxaMxZEXwrOnZ7bm"
+      "duration_ms": 145846,
+      "name": "CONTACT FATAL 2",
+      "url": "https://open.spotify.com/track/5h1Zucrq9PfrPdMBryoTW5"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "Cum Am \u0218tiut",
         "url": "https://open.spotify.com/album/0qbcaaHKkwHdhPnMoNvcqf"
@@ -465,23 +497,23 @@
       "url": "https://open.spotify.com/track/4KoesiedslACxSRFunogFJ"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
-        "name": "$P$ (Studio Session #02)",
-        "url": "https://open.spotify.com/album/0L2CClpmtssAMgzfH1VNS6"
+        "name": "Hai ca m-ai sedus",
+        "url": "https://open.spotify.com/album/3TwSVaBvjYObwElkZFKE30"
       },
       "artists": [
         {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
         }
       ],
-      "duration_ms": 150857,
-      "name": "$P$ - Studio Session #02",
-      "url": "https://open.spotify.com/track/19sbsJ3EPMs1nQdmMXCFFi"
+      "duration_ms": 162224,
+      "name": "Hai ca m-ai sedus",
+      "url": "https://open.spotify.com/track/51v9SiSHL3DVrEC8QRxQN8"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "Nonchalant (Deluxe)",
         "url": "https://open.spotify.com/album/4bkgiCcYCKEnQ6bOeW2IvJ"
@@ -505,10 +537,10 @@
       "url": "https://open.spotify.com/track/6VQ955KM1zNzpLdLSBFSCv"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
-        "name": "500 BANCNOTA",
-        "url": "https://open.spotify.com/album/3EnLT6juhX5OmYYoxJErMH"
+        "name": "BLANCOMAT",
+        "url": "https://open.spotify.com/album/0AznQjdQ62Dcy98flv4lhn"
       },
       "artists": [
         {
@@ -522,10 +554,30 @@
       ],
       "duration_ms": 153680,
       "name": "500 BANCNOTA",
-      "url": "https://open.spotify.com/track/0OXBJlr7bWoHDJu380h8rp"
+      "url": "https://open.spotify.com/track/2ZdbvXqnCZgCh3a4u2J2Cd"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
+      "album": {
+        "name": "Banii",
+        "url": "https://open.spotify.com/album/0laauCCx2NFxyoI7Zu9U1K"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "duration_ms": 136875,
+      "name": "Banii",
+      "url": "https://open.spotify.com/track/7l1amnUcwOBdJQtLEmMKNi"
+    },
+    {
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "Dac\u0103 n-ai bani",
         "url": "https://open.spotify.com/album/4ivxooZl7TXgGjeDxK8MiK"
@@ -549,23 +601,7 @@
       "url": "https://open.spotify.com/track/62pL0bFEaRUwN5hU2JGFrZ"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
-      "album": {
-        "name": "Hai ca m-ai sedus",
-        "url": "https://open.spotify.com/album/3TwSVaBvjYObwElkZFKE30"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        }
-      ],
-      "duration_ms": 162224,
-      "name": "Hai ca m-ai sedus",
-      "url": "https://open.spotify.com/track/51v9SiSHL3DVrEC8QRxQN8"
-    },
-    {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "616 : Un Nou Capitol",
         "url": "https://open.spotify.com/album/6cGYbFKlccaGPOQkivlbs5"
@@ -589,7 +625,23 @@
       "url": "https://open.spotify.com/track/5OWc2Do2QpzlrfPASWjbTX"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
+      "album": {
+        "name": "$P$ (Studio Session #02)",
+        "url": "https://open.spotify.com/album/0L2CClpmtssAMgzfH1VNS6"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "$P$ - Studio Session #02",
+      "url": "https://open.spotify.com/track/19sbsJ3EPMs1nQdmMXCFFi"
+    },
+    {
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "Dung\u0103",
         "url": "https://open.spotify.com/album/6rr7GlJlnOmaI4YVl6cMo8"
@@ -609,23 +661,7 @@
       "url": "https://open.spotify.com/track/6KJ9V4Veqlc46xQK5GmyRY"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
-      "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
-    },
-    {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "\u00cenapoi La Via\u021b\u0103",
         "url": "https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH"
@@ -641,59 +677,7 @@
       "url": "https://open.spotify.com/track/4isHNSvb4ZzGGUbSLPCLMD"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
-      "album": {
-        "name": "Slayer",
-        "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
-      },
-      "artists": [
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "60 De Zile II",
-      "url": "https://open.spotify.com/track/7Enmh2pt5fiYgoNlbzK70K"
-    },
-    {
-      "added_at": "2022-10-28 12:10:47",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2022-10-28 12:10:47",
-      "album": {
-        "name": "Banii",
-        "url": "https://open.spotify.com/album/0laauCCx2NFxyoI7Zu9U1K"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 136875,
-      "name": "Banii",
-      "url": "https://open.spotify.com/track/7l1amnUcwOBdJQtLEmMKNi"
-    },
-    {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "Veste",
         "url": "https://open.spotify.com/album/5KcTncpATDwoLVX9DtXiJ0"
@@ -709,27 +693,7 @@
       "url": "https://open.spotify.com/track/5wQYjcX7kA26lF4pIcNVnP"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
-      "album": {
-        "name": "TRAUME & CO\u0218MARURI",
-        "url": "https://open.spotify.com/album/4sCBowHBMloinktllMpNn2"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        },
-        {
-          "name": "Nane",
-          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
-        }
-      ],
-      "duration_ms": 186514,
-      "name": "TRAUME & CO\u0218MARURI",
-      "url": "https://open.spotify.com/track/5glH7eCnAMlOIV0ZhDtFqL"
-    },
-    {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
@@ -749,79 +713,147 @@
       "url": "https://open.spotify.com/track/7FnJTkhJlH9DnRoa73SvNq"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2022-10-29 12:00:50",
+      "album": {
+        "name": "Fata cu paharul",
+        "url": "https://open.spotify.com/album/1XZxYwRQQ6TkIsRTvxkdNj"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
         },
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
         }
       ],
-      "duration_ms": 256124,
-      "name": "Snow On The Beach (feat. Lana Del Rey)",
-      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
+      "duration_ms": 142165,
+      "name": "Fata cu paharul",
+      "url": "https://open.spotify.com/track/26i4jKBlWSrlzpiB9V9gDB"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
-        "name": "Vorbeste lumea",
-        "url": "https://open.spotify.com/album/323Zu1CxCJJsTYtovCIvsK"
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
       "artists": [
         {
-          "name": "Cristi Mega",
-          "url": "https://open.spotify.com/artist/0ujOKxbYEmzcCzt9Uh7dgA"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "added_at": "2022-10-29 12:00:50",
+      "album": {
+        "name": "Slayer",
+        "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "60 De Zile II",
+      "url": "https://open.spotify.com/track/7Enmh2pt5fiYgoNlbzK70K"
+    },
+    {
+      "added_at": "2022-10-29 12:00:50",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2022-10-29 12:00:50",
+      "album": {
+        "name": "Niciodata inapoi (from \"TEAMBUILDING The Movie\")",
+        "url": "https://open.spotify.com/album/0vsQ2JyOba5jZQRjLryW9N"
+      },
+      "artists": [
+        {
+          "name": "Roxen",
+          "url": "https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP"
         },
         {
-          "name": "Marinica Namol",
-          "url": "https://open.spotify.com/artist/7D7iNPQ8NH4IaRk4fU6oGd"
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
         }
       ],
-      "duration_ms": 182045,
-      "name": "Vorbeste lumea",
-      "url": "https://open.spotify.com/track/6ATqZFNmkf3njuq6zH9XaF"
+      "duration_ms": 210000,
+      "name": "Niciodata inapoi (from \"TEAMBUILDING The Movie\")",
+      "url": "https://open.spotify.com/track/3uCnYdw2AG9HfWgwNdqmPv"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "D\u0102-I \u021aIGANCA",
+        "url": "https://open.spotify.com/album/78TVhioFvvms9K4ylzT68J"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Beach, Please!",
+          "url": "https://open.spotify.com/artist/0AljsDnrnSvZELOH1OE9CB"
+        },
+        {
+          "name": "Gheboas\u0103",
+          "url": "https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ"
         }
       ],
-      "duration_ms": 174782,
-      "name": "Midnight Rain",
-      "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
+      "duration_ms": 156631,
+      "name": "D\u0102-I \u021aIGANCA",
+      "url": "https://open.spotify.com/track/2RKuEYbimyHurRAlqE8Tgf"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
-        "name": "Buzele Cu Rosu Inchis",
-        "url": "https://open.spotify.com/album/76E3t8ST8PA6GwJNL0btpz"
+        "name": "Papusa Barbie",
+        "url": "https://open.spotify.com/album/04cDqu6xsMILU0XekT4GMR"
       },
       "artists": [
         {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
         }
       ],
-      "duration_ms": 202478,
-      "name": "Buzele Cu Rosu Inchis",
-      "url": "https://open.spotify.com/track/2daDEsJ0IztRdLzUSLss6f"
+      "duration_ms": 210811,
+      "name": "Papusa Barbie",
+      "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "VROOM",
         "url": "https://open.spotify.com/album/4iCSS5vyEkijuIH1jEXwG4"
@@ -845,63 +877,7 @@
       "url": "https://open.spotify.com/track/5vVcl5Uni8HJPDTEQSTeN2"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
-      "album": {
-        "name": "BULIBA$HA",
-        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 169156,
-      "name": "Giulesti Crangasi",
-      "url": "https://open.spotify.com/track/6EIBhgEms3hJczZMzB7iTX"
-    },
-    {
-      "added_at": "2022-10-28 12:10:47",
-      "album": {
-        "name": "D\u0102-I \u021aIGANCA",
-        "url": "https://open.spotify.com/album/78TVhioFvvms9K4ylzT68J"
-      },
-      "artists": [
-        {
-          "name": "Beach, Please!",
-          "url": "https://open.spotify.com/artist/0AljsDnrnSvZELOH1OE9CB"
-        },
-        {
-          "name": "Gheboas\u0103",
-          "url": "https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "D\u0102-I \u021aIGANCA",
-      "url": "https://open.spotify.com/track/2RKuEYbimyHurRAlqE8Tgf"
-    },
-    {
-      "added_at": "2022-10-28 12:10:47",
-      "album": {
-        "name": "Niciodata inapoi (from \"TEAMBUILDING The Movie\")",
-        "url": "https://open.spotify.com/album/0vsQ2JyOba5jZQRjLryW9N"
-      },
-      "artists": [
-        {
-          "name": "Roxen",
-          "url": "https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP"
-        },
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Niciodata inapoi (from \"TEAMBUILDING The Movie\")",
-      "url": "https://open.spotify.com/track/3uCnYdw2AG9HfWgwNdqmPv"
-    },
-    {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
@@ -917,36 +893,60 @@
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "TRAUME & CO\u0218MARURI",
+        "url": "https://open.spotify.com/album/4sCBowHBMloinktllMpNn2"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Nane",
+          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
         }
       ],
-      "duration_ms": 164801,
-      "name": "Vigilante Shit",
-      "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
+      "duration_ms": 186514,
+      "name": "TRAUME & CO\u0218MARURI",
+      "url": "https://open.spotify.com/track/5glH7eCnAMlOIV0ZhDtFqL"
     },
     {
-      "added_at": "2022-10-28 12:10:47",
+      "added_at": "2022-10-29 12:00:50",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "Buzele Cu Rosu Inchis",
+        "url": "https://open.spotify.com/album/76E3t8ST8PA6GwJNL0btpz"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
         }
       ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+      "duration_ms": 202478,
+      "name": "Buzele Cu Rosu Inchis",
+      "url": "https://open.spotify.com/track/2daDEsJ0IztRdLzUSLss6f"
+    },
+    {
+      "added_at": "2022-10-29 12:00:50",
+      "album": {
+        "name": "\u021aiganc\u0103 de Bucure\u0219ti",
+        "url": "https://open.spotify.com/album/5m3o0XXSYsLpeYG8JKdV6e"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "\u021aiganc\u0103 de Bucure\u0219ti",
+      "url": "https://open.spotify.com/track/3bVBGChrqnNOHADKIDVdxC"
     }
   ],
   "unique_name": "Top 50 - Romania",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from SZA, Stormzy, Willow, YoungBoy Never Broke Again, Joeboy, Phabo, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,328 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,410 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 38 | [SHE’S MY \(SEXI BOY\)](https://open.spotify.com/track/6foPSxr70ZhG1ZVu03JzYS) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [My Favorite Blue Jeans](https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8) | 2:16 |
 | 39 | [DIRT \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/5HfipWyCtt7I2lR4d9oDhO) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [DIRT \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF) | 3:58 |
 | 40 | [Outside Lookin In](https://open.spotify.com/track/2E0GPxxASUGBkgZevrhr3V) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [Outside Lookin In](https://open.spotify.com/album/5i4bMLcHAgno1DeDLa0FkP) | 2:07 |
-| 41 | [say im ur luv \- House Mix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [say im ur luv \(House Mix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 |
+| 41 | [say im ur luv \- Jumbo Remix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [say im ur luv \(Jumbo Remix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 |
 | 42 | [AYAHUASCA](https://open.spotify.com/track/3Hw4D78ZOwN9UIuLjmH0IS) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [8 ALBUM](https://open.spotify.com/album/3CbN0bwf9B6SwqLlLOtrri) | 3:48 |
 | 43 | [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 |
 | 44 | [SummerTime](https://open.spotify.com/track/3cOOvxceUJO9Z1mfCSBwv9) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [SummerTime](https://open.spotify.com/album/3U4DWNFTAN0fsZD1wYiTr4) | 2:58 |

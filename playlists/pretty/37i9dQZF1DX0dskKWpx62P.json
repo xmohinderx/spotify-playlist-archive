@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 23075,
+  "num_followers": 23118,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMDBhN2NkYjIyYzcyNmZkMGU3ZDFlZWRkZjViODA3NzBl",
+  "snapshot_id": "MTY0Mzk4NTk1NywwMDAwMDAwMGE0ZDY0NTU0NzBjZjE0MmQ0YzI1YmJmNGI1YWUxM2I4",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX"
-      },
-      "artists": [
-        {
-          "name": "PELO D\u00b4AMBROSIO",
-          "url": "https://open.spotify.com/artist/0c4JOb4lhbWWjxgCgi9cvw"
-        }
-      ],
-      "duration_ms": 281730,
-      "name": "Ay Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "La princesa del Folklore",
         "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 221533,
       "name": "Terco coraz\u00f3n",
       "url": "https://open.spotify.com/track/65VRWF91A0eL7HX1VaYUwM"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX"
+      },
+      "artists": [
+        {
+          "name": "Pelo D'Ambrosio",
+          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
+        }
+      ],
+      "duration_ms": 281730,
+      "name": "Ay Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Papito por Qu\u00e9 Me Dejaste..!",
-        "url": "https://open.spotify.com/album/0dmYa6GxBcTxBRJ5xZu7X1"
-      },
-      "artists": [
-        {
-          "name": "Wendy Sulca",
-          "url": "https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Cerveza, Cerveza",
-      "url": "https://open.spotify.com/track/5wtuD6qC9x6NK3tdH7Rh2Y"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Tusuyninchiq",
         "url": "https://open.spotify.com/album/6t3uN5N7F3qT1b5f6LfRlU"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 259525,
       "name": "Chapitas",
       "url": "https://open.spotify.com/track/1KAZ9CCzFCwlfs2VoLe3p4"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Papito por Qu\u00e9 Me Dejaste..!",
+        "url": "https://open.spotify.com/album/0dmYa6GxBcTxBRJ5xZu7X1"
+      },
+      "artists": [
+        {
+          "name": "Wendy Sulca",
+          "url": "https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "Cerveza, Cerveza",
+      "url": "https://open.spotify.com/track/5wtuD6qC9x6NK3tdH7Rh2Y"
     },
     {
       "added_at": "2022-02-04 14:45:56",

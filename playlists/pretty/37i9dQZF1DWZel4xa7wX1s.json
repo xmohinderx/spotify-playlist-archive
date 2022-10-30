@@ -1,12 +1,12 @@
 {
   "description": "Key words: Contemporary pop, legends, country music - and something in between. Just good tunes!",
-  "num_followers": 89356,
+  "num_followers": 89359,
   "original_name": "The New Waltz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMDNjZmI1NTQzNjhkOWY4MmVkMTRkNzgxM2VjZDEyN2E1",
+  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMGY0Y2JiOWNhMDA4MGU2YWIwMzY1YWI1OTVmNDA4MTU0",
   "tracks": [
     {
       "added_at": "2019-11-29 09:37:55",
@@ -919,22 +919,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Egypt Station",
-        "url": "https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 302218,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/7DUTYJGWHalTp97kFDmU64"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "In the Blue Light",
         "url": "https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 240693,
       "name": "One Man's Ceiling Is Another Man's Floor",
       "url": "https://open.spotify.com/track/2N9LsBQMtLyMZL0LeydiLW"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Egypt Station",
+        "url": "https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 302218,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/7DUTYJGWHalTp97kFDmU64"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/2aRxolqVA2v2TFeuWPIuEI"
+        "name": "Chelsea",
+        "url": "https://open.spotify.com/album/2Fr2BpLSBpck5R21kysYox"
       },
       "artists": [
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
         }
       ],
-      "duration_ms": 259106,
-      "name": "Loves Missing",
-      "url": "https://open.spotify.com/track/78W2JgujSHp98M87UJkcjM"
+      "duration_ms": 289693,
+      "name": "Chelsea",
+      "url": "https://open.spotify.com/track/6QsaoM6upioGbe4WZhLCmc"
     }
   ],
   "unique_name": "The New Waltz",

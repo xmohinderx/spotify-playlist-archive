@@ -4,7 +4,7 @@
 
 > De la vitamine D en musique!
 
-238 songs - 12 hr 55 min - [published](https://open.spotify.com/playlist/4DQfzKopxCv8ROmYvt7sGj)
+239 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/4DQfzKopxCv8ROmYvt7sGj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Feu](https://open.spotify.com/track/5akYStB7cnYV9614KjB2Om) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [EP3](https://open.spotify.com/album/1Oq27yGxo4F5JKeCYJFm2z) | 3:37 | 2022-05-27 | 2022-07-29 |
 | [Fille de personne II](https://open.spotify.com/track/6u3A43RMR8Tqrw8aYZT1Yd) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/7srFd7AV5G7XVax2zMYHVa) | 3:58 | 2022-05-27 | 2022-06-09 |
 | [Fille à porter](https://open.spotify.com/track/6qpxifNt7ZpB8fmW2p6Vhx) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:15 | 2022-05-27 | 2022-07-29 |
-| [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-06-17 |  |
+| [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-08-27 |  |
+| [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-06-17 | 2022-10-30 |
 | [Fous N'importe Où](https://open.spotify.com/track/1wNStegcXC3X7jn7h7XUKt) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Fous N'importe Où](https://open.spotify.com/album/1UbFH7IAXYqKaHUcUVKvAF) | 3:00 | 2022-05-27 | 2022-07-03 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2022-06-17 |  |
 | [Funkds \(Life's A Beach\)](https://open.spotify.com/track/491Vb6fSo5Jgr5jaHYXEid) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Brighid Rose](https://open.spotify.com/artist/4wgAG8UPmfUVB1sVqgsDYB) | [...At Least My Mom Loves Me](https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU) | 3:40 | 2022-05-27 | 2022-06-12 |

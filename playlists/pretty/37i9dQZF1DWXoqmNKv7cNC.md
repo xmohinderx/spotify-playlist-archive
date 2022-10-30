@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres a todo volumen con Silvana Estrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,516 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,526 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 7 | [Azotea \(feat\. The Tbd\)](https://open.spotify.com/track/65Z39XSu1aoH1nS7AcJk1g) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq), [The TBD](https://open.spotify.com/artist/3b3zsYk3eqXqQZ7bZqFSdY) | [Mataronomatar](https://open.spotify.com/album/178thTe5oZXNlBJD9ayQpU) | 3:41 |
 | 8 | [Mi Cumbia](https://open.spotify.com/track/6opYzmDIzG3uGln1BM2MtT) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Mi Cumbia](https://open.spotify.com/album/2Mjka8OhoXINOkGI6zglhU) | 3:27 |
 | 9 | [Amor Sin Destino](https://open.spotify.com/track/1VczS9xB4a7rncYi71ZaH4) | [Michelle Blades](https://open.spotify.com/artist/2CXuLCYPAqkO8acjDoZWGG) | [Nombrar las Cosas](https://open.spotify.com/album/3BqdeMQuHncO2zm5SW1s4t) | 3:01 |
-| 10 | [Malas Amistades](https://open.spotify.com/track/4rwuZRZ8LnkdAGJXBeAvGh) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/2T5UIzLcqQwa2NZm69C5xs) | 4:10 |
+| 10 | [Malas Amistades](https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 4:10 |
 | 11 | [Ansiedad](https://open.spotify.com/track/7rLozI09IOepDfaF5umbK8) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:46 |
 | 12 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 |
 | 13 | [Las Curanderas](https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Las Curanderas](https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 49 | [De Vez en Cuando](https://open.spotify.com/track/1QZk1of3DuIrqCklUPfy4W) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 3:24 |
 | 50 | [Decirme Adiós](https://open.spotify.com/track/4TQo2ebedsvbhfeKi5l75S) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Decirme Adiós](https://open.spotify.com/album/6MuBcSW03077apYZBHf1wY) | 2:56 |
 
-Snapshot ID: `MTY2NDk4MDI1MywwMDAwMDAwMGMzMjlhMTAzOWVmNTMzNDI3NmUzMjQ2MWUzZDlkNGRk`
+Snapshot ID: `MTY2NDk4MDI1MywwMDAwMDAwMGM1NjJjZjgyMmFjOWY2YmFiMGY0MjJjMGQ2ZmIyYmI4`

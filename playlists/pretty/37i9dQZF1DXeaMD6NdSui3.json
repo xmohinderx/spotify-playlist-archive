@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 97273,
+  "num_followers": 97298,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMGFkNmU0MzY5MTBiYzI4N2U5YTY1MzY4ZGRiZTZhMTZh",
+  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDc3YWFjMGU5NWY1OTg2NTgzMDRjNTgwODgwZmVjMzA0",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -267,22 +267,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Things I Used To Do",
-        "url": "https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Let The Good Times Roll",
-      "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "Have Blues, Will Travel",
         "url": "https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 247373,
       "name": "Have Blues, Will Travel",
       "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Things I Used To Do",
+        "url": "https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Let The Good Times Roll",
+      "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -503,22 +503,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "I Know What It's Like",
-        "url": "https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV"
-      },
-      "artists": [
-        {
-          "name": "Andrew \"Jr Boy\" Jones",
-          "url": "https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c"
-        }
-      ],
-      "duration_ms": 273346,
-      "name": "Whiskey Drinkin' Blues",
-      "url": "https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "The Best Of Freddie King: The Shelter Years",
         "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 244693,
       "name": "Me And My Guitar",
       "url": "https://open.spotify.com/track/0QpxUzXEI3ZjJeo6dDFgV7"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "I Know What It's Like",
+        "url": "https://open.spotify.com/album/3a2lnTskswyUvsYNcxoqMV"
+      },
+      "artists": [
+        {
+          "name": "Andrew \"Jr Boy\" Jones",
+          "url": "https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c"
+        }
+      ],
+      "duration_ms": 273346,
+      "name": "Whiskey Drinkin' Blues",
+      "url": "https://open.spotify.com/track/51Us3goc25GZypfvfLQ3PT"
     },
     {
       "added_at": "2018-02-27 16:43:49",

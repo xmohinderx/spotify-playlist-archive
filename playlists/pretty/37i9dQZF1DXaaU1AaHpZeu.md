@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Clara Yolks
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,355 likes - 59 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,395 likes - 59 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 19 | [No siento na](https://open.spotify.com/track/5fWMH7Rqc0SyytQuN74aua) | [Alex Granero](https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2) | [No siento na](https://open.spotify.com/album/0oevjl1TuvblKL8P0lvN9Z) | 3:04 |
 | 20 | [Fruta en Vegueta](https://open.spotify.com/track/0KgASwQXz7FRsXDcjlI7lC) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Fruta en Vegueta](https://open.spotify.com/album/5EkbZuhQeSRQeih3cmlhSe) | 3:04 |
 | 21 | [Redemption](https://open.spotify.com/track/6tdtytGLnSbVHQo38Uuxqw) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5), [Sam Gold](https://open.spotify.com/artist/0lAxZiS5x3tFeizbnVol0H) | [Redemption](https://open.spotify.com/album/3llwhQ0JbDJUbUoB7vGoTW) | 2:36 |
-| 22 | [No Sé Cuántas Horas](https://open.spotify.com/track/1mJ4AuqJ3PKg8oQ2Qvzixi) | [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi), [Luz Futuro](https://open.spotify.com/artist/3BaSeTuHgL69zvtazv2XvA) | [Gás Lágrima](https://open.spotify.com/album/3bdBbMDmG7iwhRVCezrw3b) | 3:24 |
+| 22 | [No Sé Cuántas Horas](https://open.spotify.com/track/1mJ4AuqJ3PKg8oQ2Qvzixi) | [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi), [Luz Futuro](https://open.spotify.com/artist/3BaSeTuHgL69zvtazv2XvA) | [Gas Lágrima](https://open.spotify.com/album/3bdBbMDmG7iwhRVCezrw3b) | 3:24 |
 | 23 | [Maps 2](https://open.spotify.com/track/46meGpMA8mDAVJRLVYhRQH) | [tommy 3 balas](https://open.spotify.com/artist/2toYLRPVyQ0VTBzja0WBBL), [H Roto](https://open.spotify.com/artist/5Q7VQ40wSh0GOm1CaNOIHL), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [ADIÓS, YO NUNCA ESTUVE AQUÍ](https://open.spotify.com/album/0j56Sa6V1y2LCNpLeubkZD) | 2:20 |
 | 24 | [Tan sólo Algo de Ayuda](https://open.spotify.com/track/2oddkucdL48ZCSG9gS1xtt) | [Betacam](https://open.spotify.com/artist/57Zd5sXL7SD1anPMHPGlWJ), [Tulsa](https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a) | [La Noche Interior](https://open.spotify.com/album/24oUsdcqIDU6zFHUju7nFB) | 3:54 |
 | 25 | [Envidiosa](https://open.spotify.com/track/52koGwFt8dVGhhQv0csIVQ) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Envidiosa](https://open.spotify.com/album/5gFjM6qA3xyUcyr1FiRbkx) | 3:04 |

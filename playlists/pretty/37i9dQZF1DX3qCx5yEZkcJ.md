@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,485,796 likes - 80 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485,801 likes - 80 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 39 | [Tokyo spriff](https://open.spotify.com/track/7LpfH63D7PJvPnD69uleVj) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Tokyo spriff](https://open.spotify.com/album/7HDVHww04LgGpTGYFEq9ly) | 2:47 |
 | 40 | [Good Evening](https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Boardwalk Bumps 3](https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts) | 2:01 |
 | 41 | [winter in rio](https://open.spotify.com/track/2DteRLMODVzxYxT62LI5hB) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/1sDUK1NkzRGYnvrskdWcMe) | 1:40 |
-| 42 | [Riverside](https://open.spotify.com/track/2SkheMmym933XZaCNukLkm) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK) | [Riverside](https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn) | 3:18 |
-| 43 | [Paddling pool](https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Paddling pool](https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ) | 2:47 |
-| 44 | [Do the Right Thing](https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hannah V](https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f) | [Do the Right Thing](https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2) | 2:01 |
+| 42 | [Do the Right Thing](https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hannah V](https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f) | [Do the Right Thing](https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2) | 2:01 |
+| 43 | [Riverside](https://open.spotify.com/track/2SkheMmym933XZaCNukLkm) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK) | [Riverside](https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn) | 3:18 |
+| 44 | [Paddling pool](https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Paddling pool](https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ) | 2:47 |
 | 45 | [Mixed Emotions](https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC) | [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [The Valley](https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS) | 2:46 |
 | 46 | [easy](https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [easy](https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu) | 3:23 |
 | 47 | [Malibu](https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9) | [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul), [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Malibu](https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1) | 2:22 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 65 | [Bubble Beat](https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Bubble Beat](https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u) | 3:27 |
 | 66 | [Tiny Grains of Guilt](https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Tiny Grains of Guilt](https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP) | 2:04 |
 | 67 | [Jazz Apple](https://open.spotify.com/track/1X4FlTe5ECNONBfbUWcpXf) | [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Jazz Apple](https://open.spotify.com/album/3HS9hq92Zdyuh6i52kmn0w) | 2:20 |
-| 68 | [Dream In \- TiMT Remix](https://open.spotify.com/track/7yA5bPUdlZnsEdVqhBqJFs) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [TiMT](https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb) | [Fantastic Farewell \(2021 Remastered\)](https://open.spotify.com/album/5gPfWZNREhMcI8qWUBR7Ts) | 2:59 |
-| 69 | [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 |
-| 70 | [Love Letter](https://open.spotify.com/track/6SEzAZ2Uq0h5oncDuRRxTZ) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 1:56 |
+| 68 | [Love Letter](https://open.spotify.com/track/6SEzAZ2Uq0h5oncDuRRxTZ) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 1:56 |
+| 69 | [Dream In \- TiMT Remix](https://open.spotify.com/track/7yA5bPUdlZnsEdVqhBqJFs) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [TiMT](https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb) | [Fantastic Farewell \(2021 Remastered\)](https://open.spotify.com/album/5gPfWZNREhMcI8qWUBR7Ts) | 2:59 |
+| 70 | [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 |
 | 71 | [Cold Concrete](https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Cold Concrete](https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV) | 3:11 |
 | 72 | [Whatsreal](https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Whatsreal](https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T) | 2:28 |
 | 73 | [dreams](https://open.spotify.com/track/0mmnXGa5hBUWWn7AdVNeY9) | [Sakura](https://open.spotify.com/artist/2GVCb0xxbe56KahmO90QnD) | [Power Jump](https://open.spotify.com/album/6T8iwt5cPRxybDlVlwD7my) | 2:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Thoughts of Clouds](https://open.spotify.com/track/01VeL36vmXP8bPI4DGiXsN) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Thoughts of Clouds](https://open.spotify.com/album/0tMN2shHPg7egNha9COkPC) | 2:49 |
 | 80 | [Kurumi](https://open.spotify.com/track/5pniszt2JxZLIIbrhTPrf6) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Mentatea](https://open.spotify.com/album/0Gdtq1ZZ7G1LP1l9DJMWLe) | 2:43 |
 
-Snapshot ID: `MTY2Njg5ODY0NCwwMDAwMDAwMDZkYjhlMDAyNDZkYjk5YWJkZjI5NDZlMDc0MDEyZDI2`
+Snapshot ID: `MTY2Njg5ODY0NCwwMDAwMDAwMGMwNjc0MTQ2YTUwOGFlNDQyMmMwMWEzNWFhMjdmNmE0`

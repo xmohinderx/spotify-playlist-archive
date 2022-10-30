@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-314 songs - 19 hr 29 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
+315 songs - 19 hr 34 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 | 2021-03-26 |  |
 | [Last Time](https://open.spotify.com/track/2wlqQfTm8x7RY0WldjFmT3) | [Good Posture](https://open.spotify.com/artist/1jQeZUi0AmxfRqjpF4ZFQQ) | [Last Time](https://open.spotify.com/album/0JNB7rlI8Q3tB2Wm2BpJ8W) | 2:26 | 2021-09-23 | 2022-07-27 |
 | [Leach](https://open.spotify.com/track/7GfcvEme8J6sI3k8pNTU2Y) | [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ) | [Leach](https://open.spotify.com/album/4lWBuvoK2MBzJhePr98BQ6) | 3:53 | 2019-11-19\* | 2020-12-22 |
+| [Lean Into Life](https://open.spotify.com/track/59I8EVpxxsE50dQRPpaBms) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ) | 5:27 | 2022-07-06 |  |
 | [Lean Into Life](https://open.spotify.com/track/5eWH1AYlLn8UV2E1PthAhk) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/4s4PfhSuN6uuMxpNYt2Zhw) | 5:27 | 2021-07-05 | 2022-10-28 |
 | [Leave Behind](https://open.spotify.com/track/1B2SbIJqWWjMa7yGeeOWDp) | [Eddie the Wheel](https://open.spotify.com/artist/0SPLXmAXib6l9RZ8XmH2Jt) | [Leave Behind](https://open.spotify.com/album/6iUZWiLRBDNmvMAJWpJZ29) | 3:35 | 2019-11-19\* | 2020-11-06 |
 | [Leaves](https://open.spotify.com/track/6D0RsrrwQ2YSYA9lv4lgz5) | [Fanclub](https://open.spotify.com/artist/2XxKRqSS7wels4dpUb5N1h) | [Leaves](https://open.spotify.com/album/1jLqWEcRGmfym6FjbmHlYe) | 3:15 | 2019-11-19\* | 2020-08-09 |
@@ -250,7 +251,7 @@
 | [Skin Game](https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:25 | 2022-07-06 |  |
 | [Skin Game](https://open.spotify.com/track/4qgNoDm7QIpbtt3qB96RzY) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/66aYL3AZPfk6leHxlJDYQ0) | 4:25 | 2020-12-22 | 2022-05-07 |
 | [Snow Globe](https://open.spotify.com/track/2XRT5pPoxTdudrcqfxHSvK) | [Long Beard](https://open.spotify.com/artist/3truyDimkGtu58fxQj9Xv9) | [Means To Me](https://open.spotify.com/album/2JPbwAK27FVJmNYHiCB0lS) | 5:23 | 2019-11-19\* | 2021-03-06 |
-| [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 | 2020-11-06 |  |
+| [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 | 2020-11-06 | 2022-10-30 |
 | [So You're Young](https://open.spotify.com/track/4Em5Dsf7FZheKNUuBvujzf) | [Mike Edge](https://open.spotify.com/artist/4Em1Ttxf3w2t0QtKYtYImx) | [So You're Young](https://open.spotify.com/album/0A0k4R7nJELE6lClsJBv4g) | 3:08 | 2019-11-19\* | 2020-08-09 |
 | [Somebody Else](https://open.spotify.com/track/1wgouwqKDYxxZUj9jHZCBu) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Somebody Else](https://open.spotify.com/album/2vuKU9YQ69fZvS1LDX199X) | 5:31 | 2020-08-09 | 2022-07-29 |
 | [Somebody Else](https://open.spotify.com/track/2Kray2Kft9TnDb0Rhkfc5p) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Somebody Else](https://open.spotify.com/album/0rPRQrMxmMBq9Jii0IwqDF) | 5:31 | 2022-07-06 |  |

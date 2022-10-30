@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Carlita.
 
-1,785 songs - 4 day 7 hr 10 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
+1,786 songs - 4 day 7 hr 19 min - [published](https://open.spotify.com/playlist/2pLFymjcvaRi3S7CfLfDqz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -973,7 +973,8 @@
 | [loverboi](https://open.spotify.com/track/1japCmsnBX3Oqn8b5fKIKo) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [Sebastian Adé](https://open.spotify.com/artist/1QsFLbnYnCV8AA4aOvKPme) | [loverboi](https://open.spotify.com/album/5bqySiFxFbvaByj1fJv4N8) | 3:58 | 2022-08-19 | 2022-09-24 |
 | [Lucky \- LO'99 Remix](https://open.spotify.com/track/5FXfJCXtouzWBLiIcIBYHk) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Vlossom](https://open.spotify.com/artist/6fchbydDZlEemGC9wiovuj), [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Lucky \(LO'99 / PS1 Remixes\)](https://open.spotify.com/album/2FER9MAhpP9jSvNBamwH76) | 4:32 | 2020-10-13\* | 2020-10-30 |
 | [Lucky Mistake \(Her 2.0\)](https://open.spotify.com/track/78L3WTRWjcKmpw2So7t0Tc) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [Alice Berg](https://open.spotify.com/artist/0YdFvpH7MvXv5vBsfGvt7g) | [Lucky Mistake \(Her 2.0\)](https://open.spotify.com/album/498mQBZPMQd8Gl71pZidnb) | 2:55 | 2020-10-13\* | 2020-10-30 |
-| [Lune](https://open.spotify.com/track/1oKsE0srIjDkWCtwPTB6TJ) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Lune](https://open.spotify.com/album/0XFcO1WYiomvBUxvEF0eN6) | 9:27 | 2022-10-07 |  |
+| [Lune](https://open.spotify.com/track/0KsoAc21eXJiDaccgoo8A3) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa) | 9:27 | 2022-10-07 |  |
+| [Lune](https://open.spotify.com/track/1oKsE0srIjDkWCtwPTB6TJ) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Lune](https://open.spotify.com/album/0XFcO1WYiomvBUxvEF0eN6) | 9:27 | 2022-10-07 | 2022-10-30 |
 | [Luv Like](https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Luv Like](https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3) | 3:06 | 2022-02-04 | 2022-03-12 |
 | [Lyfe Lyne](https://open.spotify.com/track/7k1Tms6xHNkIRtLD0L3RsP) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Sad Boy, Happy Girl / Lyfe Lyne](https://open.spotify.com/album/755s5Lc0hOdibzMlDRdCxC) | 6:57 | 2020-10-16 | 2020-11-06 |
 | [Ma Luv](https://open.spotify.com/track/48RoCGs1FNlp8NF3HXW2Wt) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [Ma Luv](https://open.spotify.com/album/7CFZSyuqggIrBjyj86wP0A) | 2:50 | 2021-06-19 | 2021-08-07 |

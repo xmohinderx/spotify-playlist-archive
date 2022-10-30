@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-778 songs - 1 day 22 hr 16 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+780 songs - 1 day 22 hr 22 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [All to Myself](https://open.spotify.com/track/62iRMbIWE6PKfPfETREZ2w) | [Dylan Wright](https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe) | [All to Myself](https://open.spotify.com/album/5qbfmXWPjvi2UFCRi39iMD) | 3:44 | 2022-02-21 | 2022-07-29 |
 | [All We Want Is Love](https://open.spotify.com/track/1xqVRNrWnskUooRooEDJQK) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [When I'm Free](https://open.spotify.com/album/6zyhmJzhSfuZBOYk3shdln) | 4:23 | 2022-03-24 | 2022-04-17 |
 | [always, i'll care](https://open.spotify.com/track/1LdS1ULS9e18oW3M2C1MUj) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [always, i’ll care](https://open.spotify.com/album/1kfbFGL5zSzXv2p5usgNcs) | 2:26 | 2021-12-21 | 2022-04-08 |
+| [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 | 2022-10-30 |  |
 | [Another Lesson Learned](https://open.spotify.com/track/1ujwaCX4sv0gzSderkzxtT) | [Lxandra](https://open.spotify.com/artist/6kveFlWW2CZY1bfiX51UnW) | [Another Lesson Learned EP](https://open.spotify.com/album/05NASPbRAmBny1vSC380GU) | 3:11 | 2021-12-21 | 2022-07-29 |
 | [Anyone](https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8) | [Cosma Joy](https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ) | [Boy Boredom](https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN) | 3:41 | 2022-03-24 | 2022-03-30 |
 | [Autumn Town Leaves](https://open.spotify.com/track/4xI1VwZa8u3ymeS8hsHKed) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/1xKEX6KhO9pRM85WT7aOel) | 3:15 | 2021-12-21 | 2022-07-29 |
@@ -241,7 +242,7 @@
 | [Girl \- Acoustic](https://open.spotify.com/track/21xRlfE6OjTAFQ4wd9u8IU) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Girl \(Acoustic\)](https://open.spotify.com/album/7fdAAXgcc7E5F9XE0ZFDQs) | 3:31 | 2021-12-21 | 2022-07-29 |
 | [Girl \- Acoustic](https://open.spotify.com/track/4BrGYhbT975hwXXPBUqXNY) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Girl](https://open.spotify.com/album/1rKpOJytpITLf7mbE7lrkY) | 3:31 | 2022-07-08 |  |
 | [Girl in Calico](https://open.spotify.com/track/2XiZN924Dye5VCgl2skr5M) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Grey Fidelity](https://open.spotify.com/album/4gcifqqCaQgrNrhLvsX6wV) | 4:43 | 2022-01-07 |  |
-| [Give It To You \(from Songland\)](https://open.spotify.com/track/0U2HEoCazR0hZlNavNeWov) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Give It To You \(from Songland\)](https://open.spotify.com/album/6cEaN8pCbLYUGTqop8L7e0) | 2:15 | 2021-12-21 |  |
+| [Give It To You \(from Songland\)](https://open.spotify.com/track/0U2HEoCazR0hZlNavNeWov) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Give It To You \(from Songland\)](https://open.spotify.com/album/6cEaN8pCbLYUGTqop8L7e0) | 2:15 | 2021-12-21 | 2022-10-30 |
 | [Golden \(Acoustic\)](https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden \(Acoustic\)](https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br) | 5:07 | 2022-02-24 |  |
 | [Gone](https://open.spotify.com/track/0epiqMIMIoRpgIEryIU63G) | [Training Season](https://open.spotify.com/artist/0nsTvhODP9ZYbxC0KePYSQ) | [Gone](https://open.spotify.com/album/16RO08TDCJFIoOTU3zIjdw) | 2:43 | 2022-04-08 | 2022-04-12 |
 | [Good Stuff](https://open.spotify.com/track/1tUdd0dSQ5ij2XiqlWhlHX) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Good Stuff](https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc) | 3:13 | 2021-12-21 |  |
@@ -392,6 +393,7 @@
 | [Lie](https://open.spotify.com/track/27NaNvlmvOHqTF0VPjuRSD) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lie](https://open.spotify.com/album/1qZDkipk2XWaJ6aoEvJwAm) | 2:59 | 2021-12-21 |  |
 | [Life Is Beautiful](https://open.spotify.com/track/4FHpYGPHyuL9yqHvOUpdE6) | [HARBRS](https://open.spotify.com/artist/0UYyS6FwvxLy8dw1W9SB6T) | [Life Is Beautiful](https://open.spotify.com/album/5FaCMyiqPC1LSmrXWlXkcf) | 3:57 | 2022-03-24 | 2022-04-01 |
 | [Lifeline](https://open.spotify.com/track/7ykWjHHszWWVOv7Tz0xya7) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Sad Songs In A Hotel Room](https://open.spotify.com/album/3myn4byRnfljbPqfO6FBss) | 3:49 | 2022-10-07 |  |
+| [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-30 |  |
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 | 2021-12-21 |  |
 | [Limits](https://open.spotify.com/track/6hvrGcdmJnjqCCBSjz0Jrk) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Limits](https://open.spotify.com/album/1lm4yF4T2jhWBT8QXCwJct) | 3:13 | 2022-03-24 |  |
 | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 | 2021-12-21 |  |
@@ -601,7 +603,7 @@
 | [South Dakota](https://open.spotify.com/track/2s3CzgeeA7NpLP87ZDbmC8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [South Dakota](https://open.spotify.com/album/7pXsFVBKdJdyLEXUJ3j3oV) | 3:11 | 2021-12-21 | 2022-04-27 |
 | [Sparks](https://open.spotify.com/track/19HrCVM94TT07X70j9ajQ8) | [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Moon Rocks](https://open.spotify.com/album/5EfjqbNDZEGRy6HxucVXL5) | 4:21 | 2022-03-24 | 2022-04-21 |
 | [Splintered](https://open.spotify.com/track/4ImN33OfhmbjjWBAB7pElK) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/1LwaJSz2vxOtE5nq4P4khN) | 4:10 | 2022-03-24 | 2022-04-14 |
-| [Splintered](https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 4:10 | 2022-07-08 |  |
+| [Splintered](https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 4:10 | 2022-07-08 | 2022-10-30 |
 | [Stars](https://open.spotify.com/track/1NWDYLu5pLh5jH4MKGQDPe) | [Traveling John](https://open.spotify.com/artist/6AfxRBowNEDZpYKmoWcBm9) | [Stars](https://open.spotify.com/album/2OHOBLjEHxYSXIK5S0rbCA) | 2:48 | 2021-12-21 | 2022-07-29 |
 | [Starving \- Acoustic](https://open.spotify.com/track/3otAtzQb3f7adNdiCgdECo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving \(Acoustic\)](https://open.spotify.com/album/2rTG6XOfAwNyfwjACFKN16) | 3:01 | 2022-03-24 | 2022-04-02 |
 | [Stay](https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv) | 3:49 | 2021-12-21 |  |
